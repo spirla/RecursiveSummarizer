@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+33, II, do CPM, segundo o qual: "deixando de empregar a cautela, ateno ou diligncia ordinria, ou especial, a que estava obrigado em face das circunstncias, [o agente] no prev o resultado que podia prever ou, prevendo-o, supe levianamente que no se realizaria ou que poderia evit- lo - elementos estes necessrios para caracterizar o delito de leso corporal culposa. A prova testemunhal  clara nesse sentido: Leandro Estevo Pereira [...] Perguntado se a viatura do Sargento parou para prestar o socorro, respondeu que, a viatura parou porque o cara que eles estavam correndo atrs parou l na esquina da casa da minha v. Perguntado se a guarnio abordou os ocupantes do carro, respondeu que, sim. Perguntado se a guarnio primeiro abordou os ocupantes e depois prestou o socorro, respondeu que, no. Minha me saiu para pedir socorro a eles. Perguntado se a guarnio sabia que ele tinha sido atingido, respondeu que, no. Perguntado como  a casa da sua v, respondeu que  de muro e s tem um porto [...] perguntado se o carro que estava sendo perseguido passou por ele, respondeu que, sim. Perguntado se foi nesse momento que foi realizado o disparo, respondeu que, sim. (Evento 30 - vdeo4 - Processo n.2000375- 42.2020.9.13.0002) Lucy Dayana Camila Silva [...] passou um carro e uma viatura atrs eu escutei um tiro muito alto, meu ouvido chegou a doer a meu menino deu um pulo, olhou para mim e falou "Me eu tomei um tiro e eu falei "no Leandro isso no aconteceu no e ele levantou a camisa e me mostrou um buraco nele a eu o peguei e sai correndo. A com o tiro o carro que estava sendo perseguido parou a eu gritei os policial e falei que meu menino tinha sido atingido e eles ficaram sem saber o que estava acontecendo e eles no sabiam se iam no meu menino ou se iam no carro a pedi pelo amor de Deus para eles ajudarem e eles colocou a gente na viatura e levou para o hospital e deixou um outro policial l vigiando esse homem [...] perguntada sobre quantos tiros foram disparados, respondeu que, apenas um [...] perguntada sobre a localizao do Leandro no momento do disparo, respondeu que, ele estava no passeio, ele tinha dado uns dois passos [...] perguntada se viu o carro que estava evadindo da polcia, respondeu que, sim que viu o carro, a viatura e o barulho do tiro [...] a porta estava aberta, o Leandro saiu, eu vi o carro passando e escutei o barulho do tiro, tudo junto.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Foi constatado que a guarnio policial não empregou a cautela, atenção ou diligência necessária para prever o resultado, o que caracteriza o delito de lesão corporal culposa. Testemunhas relataram que o carro que estava sendo perseguido parou na esquina da casa da vítima, que ouviu um tiro alto e viu o buraco na camisa da vítima, e que a guarnio não sabia que ela tinha sido atingida. Além disso, foi confirmado que o disparo foi realizado quando o carro passou pela vítima, que estava no passeio.

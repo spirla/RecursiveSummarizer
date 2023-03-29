@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Percebe-se que, a despeito da presena de advogado constitudo, o encarregado do procedimento entendeu por bem requerer a indicao de defensor ad hoc, pois a defesa do sindicado no entrou no mrito do procedimento, alegando somente que o sindicado est doente mental (pgina 2 do DOC26). Nesse contexto, o que se averigua  a preocupao do sindicante em observar o contraditrio e ampla defesa. No houve, conforme alegado pelo autor, declarao de inpcia da defesa, mas sim a comunicao de que a mesma no teria abarcado toda a matria defensiva, motivo pelo qual restou complementada pelas razes ofertadas pelo defensor dativo, nos termos constantes s pginas 6/7. Tambm desse documento, pgina 2 do DOC26, dirigido ao Ten Cel Comandante do 1 BPM, consta referncia ao pedido de instaurao de incidente de sanidade mental. O sindicante, por se considerar incompetente para anlise do requerimento, solicita que nomeie defensor Ad Hoc para que se defenda do mrito do procedimento ou que Vossa Senhoria abra novo procedimento atendendo o pedido da defesa para avaliao psicolgica do sindicado. Do despacho proferido (pgina 258 da SAD e 3 do DOC26 destes autos), consta referncia, somente, ao pedido de concesso de nomeao de defensor dativo. Ainda nesse contexto, destaca-se, do relatrio da SAD s pginas 8/13, que a fundamentao arguida para tipificao da transgresso consiste no fato de no ter o militar, ora autor, apresentado provas das supostas perseguies perpetradas pelo Sgt Flvio, a quem dirigiu as mensagens consideradas desnecessrias e alvitantes. Contudo, no consta, no item 2.6 INCIDENTES PROCESSUAIS, qualquer meno ao pedido de instaurao de incidente de sanidade mental, tampouco seu deferimento ou no. Do relatrio do CEDMU, bem como da deciso proferida pela autoridade julgadora (pgina 24 do DOC26), tambm no se vislumbra essa anlise. Insta registrar que o autor aventou referida omisso em suas razes recursais, pginas 30/34, tendo sido declarada a precluso do requerimento de percia psicopatolgica, por oferecimento intempestivo (pgina 37). Contudo, a despeito desse desfecho, entendo que esta anlise deveria ter sido feita nos autos principais, ainda em sede instrutria, em respeito ao princpio do devido processo legal. Nesta seara, importante registrar que consta dos autos diversos documentos mdicos, emitidos desde o ano de 2003, referentes a acompanhamento psiquitrico e psicolgico do autor, receitas de medicamentos em uso e dispensas por questes de sade. O prprio CEDMU, em seu parecer, verificou essa particularidade, conforme se infere do excerto abaixo: Realmente fica evidenciado nos autos do processo que o militar faz uso de medicamentos para transtornos psiquitricos e tem consultas rotineiras na especialidade em questo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O encarregado do procedimento requereu a indicação de um defensor ad hoc, pois a defesa do sindicado não entrou no mérito do procedimento. O sindicante solicitou que fosse nomeado um defensor dativo para que se defendesse do mérito do procedimento ou que fosse aberto um novo procedimento para avaliação psicológica do sindicado. Apesar da preclusão do requerimento de perícia psicopatológica, constam dos autos diversos documentos médicos, emitidos desde 2003, referentes a acompanhamento psiquiátrico e psicológico do autor.

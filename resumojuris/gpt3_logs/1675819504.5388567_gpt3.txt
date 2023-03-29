@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 612686/SC, relator Ministro Dias Toffoli, julgamento virtual finalizado em 28.10.2022 (sexta-feira), as 23:59 (INF 1074) 14.8 ISS Incidencia do ISS sobre prestacao de servico de insercao de materiais de propaganda e publicidade em qualquer meio - ADI 6034/RJ Tese fixada: E constitucional o subitem 17.25 da lista anexa a LC n 116/03, incluido pela LC n 157/16, no que propicia a incidencia do ISS, afastando a do ICMS, sobre a prestacao de servico de insercao de tex-tos, desenhos e outros materiais de propaganda e publicidade em qualquer meio (exceto em livros, jor-nais, periodicos e nas modalidades de servicos de radiodifusao sonora e de sons e imagens de recepcao livre e gratuita). Resumo: A insercao de textos, desenhos e outros materiais de propaganda e publicidade em qualquer meio (exceto em livros, jornais, periodicos e modalidades de servicos de radiodifusao sonora e de sons e ima-gens de recepcao livre e gratuita) e passivel de tributacao por ISS. Isso porque mencionada atividade, ainda que imprescindivel a operacionalizacao do servico de comu-nicacao social, esta, por ser preparatoria desse servico, fora do ambito de materialidade do ICMS-comunicacao. Ademais, a atividade nao desborda do conceito de servicos de qualquer natureza para fins de incidencia do ISS. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedentes os pedidos formu-lados em acao direta de inconstitucionalidade. ADI 6034/RJ, relator Ministro Dias Toffoli, julgamento virtual finalizado em 8.3.2022 (terca-feira), as 23:59 (INF 1046) 14.9 ITCMD Incidencia de ITCMD em relacao a inventarios e arrolamentos processados no exterior - ADI 6828/AL Resumo: E vedado aos estados e ao Distrito Federal instituir o Imposto sobre Transmissao Causa Mortis e Doacao (ITCMD) nas hipoteses dispostas no art. 155,  1, III, da CF/88, sem a edicao da lei complementar federal exigida pelo referido dispositivo constitucional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional o subitem 17.25 da lista anexa à LC nº 116/03, incluído pela LC nº 157/16, no que propicia a incidência do ISS, afastando a do ICMS, sobre a prestação de serviço de inserção de textos, desenhos e outros materiais de propaganda e publicidade em qualquer meio (exceto em livros, jornais, periódicos e nas modalidades de serviços de radiodifusão sonora e de sons e imagens de recepção livre e gratuita). 2. É vedado aos estados e ao Distrito Federal instituir o Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) nas hipóteses dispostas no art. 155, I, III, da CF/88, sem a edição da lei complementar federal exigida pelo referido dispositivo constitucional.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O art. 316, paragrafo unico, do CPP incide ate o final dos processos de conhecimento, onde ha o encer-ramento da cognicao plena pelo Tribunal de segundo grau, nao se aplicando as prisoes cautelares decorrentes de sentenca condenatoria de segunda instancia ainda nao transitada em julgado. O dispositivo legal aplica-se, igualmente, aos processos em que houver previsao de prerrogativa de foro. Com base nesse entendimento, o Plenario conheceu de acoes diretas e, no merito, por maioria, julgou-as parcialmente procedentes. ADI 6581/DF, relator Ministro Edson Fachin, redator do acordao Ministro Alexandre de Moraes, jul-gamento virtual finalizado em 8.3.2022 (terca-feira), as 23:59 (INF 1046) ADI 6582/DF, relator Ministro Edson Fachin, redator do acordao Ministro Alexandre de Moraes, jul-gamento virtual finalizado em 8.3.2022 (terca-feira), as 23:59 (INF 1046) 13.10 PRISAO TEMPORARIA Fixacao de condicoes obrigatorias e cumulativas para a decretacao da prisao temporaria - ADI 3360/DF e ADI 4109/DF Resumo: A decretacao de prisao temporaria somente e cabivel quando (i) for imprescindivel para as in-vestigacoes do inquerito policial; (ii) houver fundadas razoes de autoria ou participacao do indiciado; (iii) for justificada em fatos novos ou contemporaneos; (iv) for adequada a gravidade concreta do crime, as circunstancias do fato e as condicoes pessoais do indiciado; e (v) nao for suficiente a imposicao de medidas cautelares diversas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 316, parágrafo único, do CPP incide até o final dos processos de conhecimento, não se aplicando as prisões cautelares decorrentes de sentença condenatória de segunda instância ainda não transitada em julgado. 2. O dispositivo legal aplica-se, igualmente, aos processos em que houver previsão de prerrogativa de foro. 3. A decretação de prisão temporária somente é cabível quando (i) for imprescindível para as investigações do inquérito policial; (ii) houver fundadas razões de autoria ou participação do indiciado; (iii) for justificada em fatos novos ou contemporâneos; (iv) for adequada a gravidade concreta do crime, as circunstâncias do fato e as condições pessoais do indiciado; e (v) não for suficiente a imposição de medidas cautelares diversas.

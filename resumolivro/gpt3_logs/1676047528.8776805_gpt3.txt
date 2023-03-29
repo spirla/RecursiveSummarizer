@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Em sendo a liberdade um direito irrenuncivel, cuja fruio deve ser assegurada pelo Poder Pblico no limite do interesse coletivo, tornou-se imperioso jurisdicizar o ius puniendi do Estado, a fim de que se pudessem utilizar mtodos capazes de levar ao conhecimento de um julgador, neutro e imparcial, o que realmente ocorreu no mundo ftico. Como se sabe, assim como ao Estado no interessa a absolvio de um culpado, tambm no lhe interessa a condenao de um inocente. Importa, ainda, observar que a ao penal no  apenas um mecanismo burocrtico da Justia Penal, por meio do qual se provoca a jurisdio. A necessidade de submeter a pretenso punitiva aos termos da relao jurdico-processual resulta de opo poltica que se serve da ao penal como instrumento de garantia do direito de liberdade do ru. A opo poltica  expressa pelo princpio do nulla poena sine judicio, que foi expressamente acolhido no artigo 5, LIV, da Constituio da Repblica, ao dispor que ningum ser privado da liberdade ou de seus bens sem o devido processo legal. Por um lado, a ao penal afirma o compromisso do Estado em prestar jurisdio,5 evitando-se que o particular realize justia com as prprias mos. E a Constituio afirma que a lei no excluir da apreciao do Poder Judicirio leso ou ameaa de leso a direito, deixando claro que no Estado Democrtico de Direito o cidado pode contar com a proteo judiciria. Com efeito, o monoplio estatal na realizao da Justia Criminal consolida-se no instituto da ao penal, e o cidado fica protegido da vingana privada.  por meio da ao penal que o Poder Pblico exerce o controle jurisdicional dos conflitos de maior relevncia social. Nas palavras de Cirilo Vargas:
+o direito  jurisdio ou direito de ao  um direito fundamental e natural da pessoa humana. Essa defesa jurdica ou inafastabilidade, ou o nome que se lhe queira dar, constitui o substituto obrigatrio de um direito muito anterior e primrio, que  o de autodefender-se, agora vedado pelo Estado politicamente organizado. Por outro lado, a submisso da pretenso punitiva  ao penal visa a impedir que possvel precipitao na resposta penal possa produzir excessos na interveno repressiva. O monoplio da jurisdio que limita a atuao do indivduo tambm estende seus efeitos sobre o prprio Estado, no permitindo a autoexecutoriedade do poder punitivo. O jus puniendi s se realiza mediante a atividade complementar da prestao jurisdicional.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado tem o monoplio da jurisdição para garantir o direito de liberdade do cidadão e evitar que a justiça seja feita com as próprias mãos. O princípio do nulla poena sine judicio, previsto na Constituição da República, assegura que ninguém seja privado de liberdade sem o devido processo legal. A ação penal afirma o compromisso do Estado em prestar jurisdição e proteger o cidadão da vingança privada.

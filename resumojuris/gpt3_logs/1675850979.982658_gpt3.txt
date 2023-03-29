@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+5, X, e Lei n. 12.965/2014, art. 10) - nao equivale a que o requerente tenha acesso aos dados congelados sem ordem judicial. A jurisprudencia do STF tem afirmado que o inciso XII do art. 5 da Constituicao protege somente o sigilo das comunicacoes em fluxo (troca de dados e mensagens em tempo real), e que o sigilo das comunicacoes armazenadas, como deposito registral, e tutelado pela previsao constitucional do direito a privacidade do inciso X do art. 5 (HC 91.867, Rel. Ministro Gilmar Mendes, 2 Turma, julgado em 24/04/2012). Mas, em verdade, a disponibilizacao ao requerente dos registros de que trata a Lei n. 12.965/2014 (dados intercambiados), em atencao a referida clausula constitucional, devera ser precedida de autorizacao judicial, sendo estabelecido, inclusive, um prazo de 60 dias, contados a partir do requerimento de preservacao dos dados, para que o Ministerio Publico ingresse com esse pedido de autorizacao judicial de acesso aos registros, sob pena de caducidade (art.13,  4). Por fim, frisa-se que o normativo em questao, a fim de viabilizar investigacoes criminais, que, normalmente, sao de dificil realizacao em ambientes eletronicos, tornou mais eficiente o acesso a dados e informacoes relevantes ao possibilitar que o Ministerio Publico, diretamente, requeira ao provedor apenas a guarda, em ambiente seguro e sigiloso, dos registros de acesso a aplicacoes de internet, mas a disponibilizacao ao requerente dos conteudos dos registros - dados cadastrais, historico de pesquisa, todo conteudo de e-mail e iMessages, fotos, contatos e historicos de localizacao etc. - deve sempre ser precedida de autorizacao judicial devidamente fundamentada. (Informativo n. 724) 1373 SEGUNDA TURMA Voltar ao Sumario. PROCESSO REsp 1.997.590-PE, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O inciso XII do art. 5 da Constituição protege somente o sigilo das comunicações em fluxo (troca de dados e mensagens em tempo real). 2. O sigilo das comunicações armazenadas, como deposito registral, é tutelado pela previsão constitucional do direito à privacidade do inciso X do art. 5. 3. A disponibilização ao requerente dos registros de que trata a Lei n. 12.965/2014 (dados intercambiados), em atenção à referida cláusula constitucional, deve ser precedida de autorização judicial. 4. O Ministerio Publico deve ingressar com pedido de autorização judicial de acesso aos registros, em um prazo de 60 dias, contados a partir do requerimento de preservação dos dados, sob pena de caducidade. 5. O normativo em questão tornou mais eficiente o acesso a dados e informações relevantes ao possibilitar que o Ministerio Publico, diretamente, requeira ao provedor apenas a guarda, em ambiente seguro e sigiloso, dos registros de acesso a aplicações de internet. 6. A disponibilização ao requerente dos conteúdos dos registros deve sempre ser precedida de autorização judicial devidamente fundamentada.

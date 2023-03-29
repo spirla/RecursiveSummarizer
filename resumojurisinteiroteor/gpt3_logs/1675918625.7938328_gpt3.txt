@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR RBIO PAULINO COELHO, RELATOR Conheo do recurso. Presentes os pressupostos objetivos e subjetivos de sua admissibilidade. Analiso inicialmente a preliminar de omisso alegada pelo embargante, uma vez que os vogais teriam deixado de se manifestar acerca da preliminar suscitada de ofcio pelo relator, de incompetncia absoluta desta Justia especializada para apreciar o pedido de indenizao por danos morais, em decorrncia da punio sofrida. Em uma leitura mais detida do acrdo, no evento 22 - ACOR1,  possvel verificar a insero, no primeiro pargrafo aps a ementa, da seguinte expresso: [...] acordam os desembargadores da Primeira Cmara, por unanimidade, em acolher a preliminar, suscitada de ofcio, de incompetncia absoluta desta Justia especializada para apreciao do pedido de indenizao por danos morais, em decorrncia de aplicao de punio disciplinar ao apelante, j que a competncia  da Justia comum. Trata-se de uma manifestao verbal de cada vogal, no momento em que acompanharam o voto condutor do relator. No h necessidade de que esta manifestao seja escrita, basta o voto de cada integrante da Cmara. Com a unanimidade dos votos, esta preliminar foi afastada. Alega o embargante uma segunda preliminar de omisso em relao ao prequestionamento da matria apresentada em sede de recurso de apelao, dizendo que esta no foi apreciada pela Primeira Cmara. Contudo, esta narrativa no tem como prosperar. No relatrio do acrdo, consta uma sntese da fundamentao apresentada nas razes de apelao, seno vejamos: [..] Inconformado, o autor apelou da deciso, alegando, preliminarmente, o cabimento do prequestionamento em matria infraconstitucional, nos termos do artigo 105, inciso III, da Constituio Federal (CF) por contrariedade a lei federal, dando competncia ao Superior Tribunal de Justia (STJ) para julgar recurso especial. [...] Alega ainda o recorrente o cabimento do prequestionamento, em decorrncia de a deciso recorrida contrariar dispositivo constitucional (art. 102, inciso III, a, da CF). Pela detida anlise dos autos,  possvel vislumbrar que a deciso viola dispositivos constitucionais referentes ao princpio da dignidade humana (art. 1, III) , competncia da Justia Militar (art. 124 e 125,  4), acesso  jurisdio (art. 5, XXXV), dano moral (art. 5, incisos V e X) e ausncia de fundamentao da deciso (art. 93, IX). [...] Prequestiona-se toda a matria ventilada, uma vez que a sentena recorrida viola dispositivos constitucionais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia acolheu a preliminar de incompetência absoluta da Justia especializada para apreciação do pedido de indenização por danos morais, em decorrência da punição sofrida, por unanimidade, e prequestionou toda a matéria ventilada, uma vez que a sentença recorrida viola dispositivos constitucionais.

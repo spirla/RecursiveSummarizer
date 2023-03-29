@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, considerando que o Decreto 7.777/2012, que preve essa cooperacao entre entes federati-vos, retira seu fundamento legal da Lei 7.783/1989 (arts. 11 e 12), a aplicacao das medidas nele previstas deve se restringir aos servicos publicos considerados essenciais. Com base nesse entendimento, o Plenario, por unanimidade, julgou parcialmente procedente acao di-reta. ADI 4857/DF, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 11.3.2022 (sexta-feira), as 23:59 (INF 1046) Reajuste de tarifas telefonicas: clausula contratual, inflacao e revisao judicial - RE 1059819/PE (Tema 991 RG) Tese fixada: Afronta o principio da separacao dos Poderes a anulacao judicial de clausula de contrato de concessao firmado por Agencia Reguladora e prestadora de servico de telefonia que, em observancia aos marcos regulatorios estabelecidos pelo Legislador, autoriza a incidencia de reajuste de alguns itens tari-farios em percentual superior ao do indice inflacionario fixado, quando este nao e superado pela media ponderada de todos os itens. Resumo: Em regra, nao cabe ao Poder Judiciario anular clausula de contrato de concessao de servico pu-blico que autoriza o reajuste de tarifa telefonica em percentual superior ao indice inflacionario. Isso porque a intervencao do Judiciario no ambito regulatorio da-se com vistas ao controle de legali-dade, respeitadas as capacidades institucionais das entidades de regulacao e a discricionariedade tecnica dos atos editados, motivo pelo qual interferir em ato autorizado pela Anatel, que nao excedeu os limites conferidos pelo legislador, importa em afronta ao principio da separacao dos Poderes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não cabe ao Poder Judiciário anular cláusula de contrato de concessão de serviço público que autoriza o reajuste de tarifa telefônica em percentual superior ao índice inflacionário. 2. A intervenção do Judiciário no âmbito regulatório dá-se com vistas ao controle de legalidade, respeitadas as capacidades institucionais das entidades de regulação e a discricionariedade técnica dos atos editados. 3. Interferir em ato autorizado pela Anatel, que não excedeu os limites conferidos pelo legislador, importa em afronta ao princípio da separação dos Poderes.

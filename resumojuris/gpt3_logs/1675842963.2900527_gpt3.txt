@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, o Curso de Gerente Administrativo, ofertado pelo CBT EAD, nao satisfaz as exigencias legais, ante a ausencia de demonstracao do efetivo credenciamento deste, nao sendo possivel, portanto, o deferimento da remicao da pena pelo estudo. (AgRg no REsp 1.926.932/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 18/5/2021, DJe de 25/5/2021). (Informativo n. 748) 765 PROCESSO HC 730.721-SP, Rel. Min. Sebastiao Reis Junior, Sexta Turma, por unanimidade, julgado em 23/08/2022. RAMO DO DIREITO DIREITO PENAL TEMA Operacao Contagio . Organizacao Criminosa. Diversos crimes. Prisao preventiva decretada. Gravidade real dos fatos. Insuficiencia de medidas cautelares diversas. Novos crimes mesmo apos a deflagracao da operacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Curso de Gerente Administrativo, ofertado pelo CBT EAD, não satisfaz as exigências legais para o deferimento da remição da pena pelo estudo. 2. A prisão preventiva foi decretada em razão da gravidade real dos fatos e da insuficiência de medidas cautelares diversas. 3. A deflagração da operação não impediu a prática de novos crimes.

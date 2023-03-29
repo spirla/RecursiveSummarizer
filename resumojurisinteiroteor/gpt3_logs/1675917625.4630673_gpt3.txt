@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Cuida-se de recurso de apelao contra a sentena contida no Evento 41, que deixou de acolher as pretenses do apelante de ser reintegrado s fileiras da PMMG. O apelante ajuizou a presente ao perante a Vara da Fazenda Pblica e Autarquias da Comarca de Ipatinga/MG, por intermdio de sua curadora, argumentando que ingressou nas fileiras da PMMG em 01/06/1994 e que foi excludo disciplinarmente na data de 25/03/2015, com fundamento no art. 13, inciso XX, da Lei n. 14.310/2002, por ter faltado ao servio de telefonista/recepcionista, no dia 31/01/2013, enquanto j se encontrava no conceito c. Sustentou que o Processo Administrativo-Disciplinar (PAD) conteria vcios, pois [...] no faltou ao servio para o qual estava previamente escalado e sim a uma escala extra que o deixou confuso. Disse que, por vrias vezes, se apresentava para o trabalho quando no estava escalado e que seria [.] uma atitude no mnimo questionvel, de escalar a pessoa, que j se sabia, como se expressa as testemunhas, tinhas grande dificuldades em assimilar, a escala normal e previa, e escalava o requerente de um dia para o outro e avisando-o por telefone, em cima da hora [...]. Argumentou que os princpios da ampla defesa e do contraditrio teriam sido violados, pois, na reunio de instalao da comisso processante, se encontrava internado em clnica de recuperao a toxicmanos sem a menor condio de responder aos atos que lhe foram imputadosque j estava, quela poca, interditado provisoriamente, conforme deciso proferida no Processo de n. 0313 13 008458-2, que tramitou na 2a Vara de Famlia e sucesses da Comarca de Ipatinga/MG, e que, por isso [...] no podia ser apresentada qualquer deciso contra o Autor, que no respondia pelos seus atos, sob pena de nulidade.. Consta na petio inicial que o autor necessita de [...]passar por um tratamento mdico adequado para se ver livre da depresso, da dependncia qumica e voltar para o seio da sociedade e de seu trabalho, para, assim exerc-lo com dignidade e, no nos momentos mais duros e difceis de sua vida, se ver expurgado como animal indomvel". Argumentou que [...] realmente faltou ao trabalho no dia 31/01/2013, devido aos males por que passava e no por vontade [...] e que testemunhas comprovaram que o ora apelante j havia faltado ao servio anteriormente e que ele j apresentava os sintomas da doena mental que lhe acomete. Aduziu o ora apelante que a testemunha Antnio Carlos Teixeira de Souza declarou que aquele estava em licena mdica no dia anterior ao de sua falta, que teve cincia da sua escala de servio, mas que teria ficado [...] confuso quanto ao horrio de servio, fato este que o induziu a faltar ao servio, aliado com o agravante do seu estado de sade mental que j o deixava confuso.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelao foi interposto contra a sentena que negou a reintegrao do apelante s fileiras da PMMG. O apelante alegou que o Processo Administrativo-Disciplinar (PAD) continha vcios, pois alegou que não faltou ao servio para o qual estava escalado e sim a uma escala extra que o deixou confuso. Argumentou ainda que os princípios da ampla defesa e do contraditório teriam sido violados, pois se encontrava internado em clínica de recuperação a toxicômanos sem condições de responder aos atos imputados. Por fim, alegou que faltou ao trabalho devido aos males por que passava e não por vontade própria.

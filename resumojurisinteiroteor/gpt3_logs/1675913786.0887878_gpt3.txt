@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+comrCodigo=522&numero=1&listaProcessos=19001798, do Tribunal de Justia de Minas Gerais, em 19/02/2021; 1.4 abstraindo-se os aspectos penais constata-se que a conduta do militar, na vertente administrativo-disciplinar,  passvel de enquadramento na transgresso disciplinar [..] Da anlise do documento acima transcrito, verifica-se que, ao contrrio do alegado pelo agravante, o PAD foi instaurado em seu desfavor em decorrncia de ter sido encontrado na sua posse o veculo Jeep/Renegade, com placa clonada (PJU-7068) e queixa furto/roubo, e no por informao prestada pelo civil Maurcio Lopo Belm  autoridade policial, quando de sua priso em operao deflagrada para combater o comrcio de veculos clonados. No depoimento em tela, o civil Maurcio Lopo Belm, quando perguntado sobre a ligao com o agravante, respondeu: "eu nem conheo ele pessoalmente no, s uma vez que ele me ligou, nem sei como ele conseguiu o meu nmero, e perguntou se tinha uma Hilux, ele disse que queria comprar uma Hilux, a eu falei que no tinha, conforme se depreende do documento constante no Evento 1 - DEPOIM_TESTEMUNHA5. Vale dizer, o agravante foi submetido a PAD por ter sido encontrado em sua posse um veculo com placa clonada, produto de atividade criminosa, e no por ter sido citado em uma suposta ligao objetivando a compra de uma Hilux junto a pessoa presa por comerciar veculos clonados. Ressalte-se que esse foi um dos fundamentos utilizados pela Corregedoria da PMMG para negar provimento ao recurso administrativo contra a deciso da Comisso de Processo Administrativo-Disciplinar (CPAD) que indeferiu o pedido de realizao de diligncias complementares, conforme se verifica no despacho administrativo constante no Evento 1 - PROCADM10. Em vista do exposto e diante da documentao acostada nos autos, no vislumbro a existncia de circunstncias que no foram devidamente esclarecidas na fase de instruo do PAD, pois a contrariedade dos depoimentos prestados pelo civil em nada interferem no andamento e no deslinde do processo administrativo. Resta evidenciado, desta forma, que o pedido formulado pelo ora agravante, nos autos do PAD, foi indeferido, dada a sua impertinncia e o seu carter procrastinatrio, seja em razo da inexistncia de relao entre os depoimentos prestados pelo referido civil e os fatos que deram ensejo ao PAD, seja em razo do momento em que foi formulado (Evento 1 - PROCADM10). Frise-se que o inciso IX do artigo 70 da Lei n. 14.310/02 expressamente prev a possibilidade de indeferir, motivadamente, solicitao de diligncia descabida ou protelatria. Confira-se: Art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia de Minas Gerais negou o recurso administrativo do militar, pois a conduta do mesmo passou pelo enquadramento de transgresso disciplinar, tendo sido encontrado em sua posse um veículo com placa clonada. O pedido de realização de diligências complementares foi indeferido, pois não havia relação entre os depoimentos e os fatos que deram ensejo ao Processo Administrativo Disciplinar (PAD) e por se tratar de um pedido procrastinatório.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(STJ - AgRg no RHC 0052023-25.2017.8.19.0000 RJ 2017/0287215- 0, Rel. Min. Rogrio Schietti Cruz, T6 - Publicao DJe 27/03/2018) RECURSO INOMINADO. CRIME PRATICADO POR OFICIAL DO EXRCITO BRASILEIRO EM FACE DE POLICIAIS MILITARES DO ESTADO DE SANTA CATARINA. REQUERIMENTO DE DECLARAO DA INCOMPETNCIA DA JUSTIA MILITAR. REJEIO PELO JUZO DE 1 GRAU. IRRESIGNAO DO PARQUET DAS ARMAS. CRIME PRATICADO EM HORRIO DE FOLGA. COMPETNCIA DA JUSTIA COMUM. DESPROVIMENTO. [.] III - Ao integrante das Foras Armadas que pratique condutas tpicas, ainda que em atividade particular, deve ser aplicado o CPM, desde que a situao se amolde a uma das hipteses previstas no art. 9, I e II, do mesmo Cdigo. IV - Uma vez que foi supostamente praticado crime por militar federal em face de integrante de corporao estadual, ainda que em horrio de folga, o fato deve ser considerado delito castrense, eis que enquadrado no art. 9, II, "a", da Lei Penal Militar. V - Violao de bens jurdicos da esfera de jurisdio da Justia Militar da Unio. Manuteno da competncia da 5a Circunscrio Judiciria Militar (CJM). VI - Recurso conhecido e desprovido. Deciso por maioria.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ, por maioria de votos, desproveu o recurso inominado e manteve a competência da 5a Circunscrição Judiciria Militar para julgar o crime praticado por oficial do Exército Brasileiro em face de policiais militares do Estado de Santa Catarina, pois o fato se enquadra no art. 9, II, "a" da Lei Penal Militar.

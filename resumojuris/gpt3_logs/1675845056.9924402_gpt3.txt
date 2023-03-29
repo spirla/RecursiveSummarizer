@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Prioridade. Habeas Corpus coletivo STF 143.641/SP. DESTAQUE Excepcionalmente, admite-se a concessao da prisao domiciliar as presas dos regimes fechado quando verificado pelo juizo da execucao penal, no caso concreto, a proporcionalidade, adequacao e necessidade da medida, e que a presenca da mae seja imprescindivel para os cuidados da crianca ou pessoa com deficiencia, nao sendo caso de crimes praticados por ela mediante violencia ou grave ameaca contra seus descendentes. 1151 A Suprema Corte, no julgamento do HC Coletivo n. 143.641/SP, concedeu a ordem para determinar a substituicao da prisao preventiva pela domiciliar de todas as mulheres presas, gestantes, puerperas ou maes de criancas e deficientes, excetuados os casos de crimes praticados por elas mediante violencia ou grave ameaca, contra seus descendentes ou, ainda, em situacoes excepcionalissimas, as quais deverao ser devidamente fundamentadas (HC 143.641/SP, Ministro Ricardo Lewandowski, Segunda Turma do STF, DJe 9/10/2018). Nesse mesmo sentido, o CPP (com as alteracoes promovidas pela Lei n. 13.769/2018) passou a prever a substituicao da prisao preventiva por domiciliar a mulher gestante, mae ou responsavel por criancas ou pessoas com deficiencia, desde que nao tenha cometido crime com violencia ou grave ameaca e o delito nao tenha sido cometido o crime contra seu filho ou dependente, facultando, ainda, a aplicacao de medidas cautelares (arts. 318- A e 318-B do CPP). No entanto, a execucao de condenacao definitiva em prisao domiciliar, em regra, somente era admitida ao reeducando do regime aberto, desde que seja maior de 70 anos, portador de doenca grave, ou mulher gestante ou mae de menor ou deficiente fisico ou mental (art. 117 da LEP).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É excepcionalmente admitida a concessão da prisão domiciliar para presos de regime fechado quando verificado pelo juízo da execução penal a proporcionalidade, adequação e necessidade da medida, e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência, não sendo caso de crimes praticados por ela mediante violência ou grave ameaça contra seus descendentes. 2. O Código de Processo Penal, com as alterações promovidas pela Lei n. 13.769/2018, prevê a substituição da prisão preventiva por domiciliar a mulher gestante, mãe ou responsável por crianças ou pessoas com deficiência, desde que não tenha cometido crime com violência ou grave ameaça e o delito não tenha sido cometido o crime contra seu filho ou dependente. 3. A execução de condenação definitiva em prisão domiciliar, em regra, somente é admitida ao reeducando do regime aberto, desde que seja maior de 70 anos, portador de doença grave, ou mulher gestante ou mãe de menor ou deficiente físico ou mental.

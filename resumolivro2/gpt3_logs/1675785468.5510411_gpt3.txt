@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+H doutrinadores que defendem ser taxativo o rol das hipteses de cabimento de recurso em sentido estrito do CPP, e doutrinadores que entendem que, excepcionalmente,  admissvel interpretao extensiva se clara for a inteno da lei de abranger a hiptese. Por exemplo:
+cabe recurso em sentido estrito da deciso ou da sentena que conceder ou negar a menagem (artigo 516, alnea i), mas no h previso de recurso em sentido estrito da deciso ou da sentena que concede ou nega a liberdade provisria. Mediante interpretao extensiva,  cabvel o recurso em sentido estrito contra a deciso que conceder ou negar a liberdade provisria. Nos tribunais superiores a questo no  pacificada. A mesma controvrsia nota-se nos julgados do STJ e do STF que admitiram a ampliao, como tambm precedente em sentido contrrio. Em resumo. Se a deciso ou a sentena no puder ser atacada por recurso em sentido estrito, pois o caso a ser impugnado no  previsto no rol do artigo 516 do CPPM, foroso verificar se cabe apelao por se tratar de sentena definitiva ou com fora definitiva, nos casos no previstos no captulo anterior (artigo 526, b, do CPPM). No sendo possvel interpor apelao nos termos do artigo 526, b, do CPPM, nem estando o caso dentro das hipteses de recurso em sentido estrito do artigo 516 do CPPM,  preciso verificar se no  vivel a interpretao extensiva. No se deve confundir taxatividade com literalidade, de sorte que em alguns casos  possvel a interpretao extensiva para se amoldar o caso a situao no prevista no CPPM. Por exemplo, a deciso que considera a infrao como disciplinar (por exemplo , artigo 209, pargrafo 6, CPM) equivale ao no recebimento da denncia. 18.2.1.2. Tempestividade, legitimidade e interesse. O prazo para interpor recurso em sentido estrito  de trs dias contado da data da intimao da deciso, ou da sua publicao ou leitura em pblica audincia, na presena das partes ou seus procuradores (artigo 518, CPPM). Nas duas ltimas hipteses - publicao e leitura em pblica audincia -  indispensvel a presena das partes ou de seus procuradores.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existem diferentes pontos de vista sobre a cabimento de recurso em sentido estrito do CPP. Alguns defendem que o rol de hipteses é taxativo, enquanto outros admitem a interpretação extensiva em casos específicos. A questão não está pacificada nos tribunais superiores. O prazo para interpor recurso em sentido estrito é de três dias contados da data da intimação da decisão, ou da sua publicação ou leitura em pública audiência, na presença das partes ou seus procuradores.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DIREITO FINANCEIRO 10.1 DESPESAS PUBLICAS Manutencao e desenvolvimento do ensino: competencia legislativa e pagamento de pessoal inativo - ADI 6049/GO Resumo: E inconstitucional lei estadual que inclui o pagamento de pessoal inativo nas despesas consideradas como de manutencao e desenvolvimento do ensino. O legislador estadual, ao faze-lo, usurpa a competencia privativa da Uniao para legislar sobre diretrizes e bases da educacao nacional [CF/88 (CF), art. 22, XXIV ]. Constata-se que, no caso analisado, o ato normativo impugnado tambem esta em desconformidade com o que disposto na Lei 9.394/1996 (Lei de Diretrizes e Bases da Educacao Nacional  LDB). Ademais, segundo entendimento do Supremo Tribunal Federal (STF), o pagamento de inativos, ainda que eventualmente possa ser considerado gasto com educacao, nao pode ser contabilizado para fins do percentual de investimento exigido pelo art. 212 da CF, pois os inativos, por estarem afastados de suas atividades, nao contribuem para a manutencao nem para o desenvolvimento do ensino. Alem disso, e importante saber que, apos o ajuizamento desta acao e o deferimento da cautelar, o  7 foi incluido no art. 212 da CF, que passou a vedar expressamente o uso dos recursos destinados a manutencao e desenvolvimento do ensino para o pagamento de aposentadorias e pensoes. A norma impugnada afronta, ainda, os arts. 167, IV, e 212, caput, da CF, porquanto vincula parte das receitas provenientes de impostos ao pagamento de despesas com inativos, os quais deveriam ser, em principio, custeados pelas receitas do regime previdenciario. Com esses entendimentos, o Plenario, confirmando a medida liminar deferida, julgou procedente pedido formulado em acao direta para declarar a inconstitucionalidade da Lei Complementar (LC) 147/2018, que acrescentou o inciso VIII no art. 99 da LC 26/1998, ambas do estado de Goias.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional lei estadual que inclui o pagamento de pessoal inativo nas despesas consideradas como de manutenção e desenvolvimento do ensino. 2. O legislador estadual, ao fazer isso, usurpa a competência privativa da União para legislar sobre diretrizes e bases da educação nacional. 3. O ato normativo impugnado está em desconformidade com o que disposto na Lei de Diretrizes e Bases da Educação Nacional. 4. O pagamento de inativos, ainda que eventualmente possa ser considerado gasto com educação, não pode ser contabilizado para fins do percentual de investimento exigido pelo art. 212 da Constituição Federal. 5. A norma impugnada afronta os arts. 167, IV, e 212, caput, da Constituição Federal, por vincular parte das receitas provenientes de impostos ao pagamento de despesas com inativos.

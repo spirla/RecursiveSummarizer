@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Ope-se a essa linha de entendimento predominante na doutrina e na jurisprudncia Aury Lopes Jnior ao sustentar que a denncia ou a queixa no deve ser recebida quando no contiver a correta classificao do crime, pois, ela define os contornos jurdicos da acusao e pauta o trabalho da defesa sendo ingnua a crena de que o ru se defende dos fatos narrados e no da tipificao legal. No processo penal militar a classificao do crime tem relevncia na fixao da competncia de juiz federal e do juiz de direito. Como bem adverte, por outro lado, Fauzi Hassan Choukr depende da classificao do crime o emprego de meios especficos de obteno de prova e a adoo de medidas cautelares, por exemplo , a possibilidade de interceptao telefnica como meio de prova  restrita a determinada hiptese de delitos. As razes pelas quais o juiz no deve alterar a classificao do crime no recebimento da denncia:
+(a) tal deciso implica em rejeio da inicial recorrvel em sentido estrito;
+nesse caso, o juiz de primeiro grau pode em despacho fundamentado, remeter o processo ao rgo do Ministrio Pblico para que, dentro do prazo de trs dias, contados da data do recebimento dos autos, sejam preenchidos os requisitos que no o tenham sido (artigo 78, pargrafo 1);
+(b) dispe o juiz de momento processual para dar a correta definio jurdica ao fato;
+com efeito, no processo penal militar cabe ao Conselho no julgamento dar ao fato definio jurdica diversa da que constar na denncia (artigo 437, a, CPPM);
+(c)  funo do Ministrio Pblico, e no do juiz, promover, a ao penal pblica, na forma da lei (artigo 129, I, CF). O rol das testemunhas, em nmero no superior a seis, com a indicao da sua profisso e residncia;
+e o das informantes com a mesma indicao (alnea h), que sero ouvidas pelo juiz na fase instrutria do processo criminal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina e a jurisprudência predominantes defendem que a denncia ou queixa deve conter a correta classificação do crime para que seja recebida. A classificação do crime tem relevância na fixação da competência do juiz federal ou do juiz de direito. O juiz não deve alterar a classificação do crime no recebimento da denncia, pois isso implica em rejeição da inicial recorrível em sentido estrito. A definição jurdica do fato cabe ao Conselho no julgamento. É função do Ministério Público promover a ação penal pública. O juiz ouvirá testemunhas e informantes na fase instrutória do processo criminal.

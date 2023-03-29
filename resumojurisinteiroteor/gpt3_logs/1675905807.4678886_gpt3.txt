@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+15 da Lei 10.826/2003 (disparo de arma de fogo em via pblica), com fundamento no art. 439, alnea "d, do Cdigo de Processo Penal Militar (CPPM). O Ministrio Pblico ofereceu denncia contra o apelado, Evento 1 - DENNCIA 1 -, aduzindo o seguinte: [...] No dia 4 de maro de 2018, por volta das 01:25h, na avenida Capito Saturnino Oliveira Lima, n 25, bairro Charneaux, municpio de Caet/MG, o denunciado 3 Sgt. PM Leonardo Zanon disparou arma de fogo em via pblica. Consta dos autos que, na data citada, o denunciado 3 Sgt. PM Leonardo Zanon encontrava-se, fora de seu horrio de servio e em trajes civis, no estabelecimento chamado Bar do Anselmo consumindo bebida alcolica na companhia de sua esposa. Consta que chegaram ao local os civis Marcelo Marques dos Reis Jnior e Otvio Henrique Soares Nazar para comprar bebida. 1 Imediatamente, ao reconhecer os dois indivduos, o denunciado empunhou a arma de fogo da carga da Polcia Militar que trazia consigo de modo a intimid-los, fazendo com que levantassem as blusas para conferir se tambm portavam qualquer tipo de arma. Aps a vistoria negativa, o denunciado ordenou que Marcelo e Otvio fossem embora do local e efetuou dois disparos de arma de fogo. Um dos disparos foi efetuado para cima, em direo ao cu, e o outro em direo aos civis, que retornavam as suas casas pela via pblica, atingindo o muro de uma residncia. (Foto, fls. 162/164 out4, evento 1). Diante de todo o exposto, DENUNCIO o 3 Sgt. PM Leonardo Zanon como incurso no art.15 da Lei n 10.826/03 (disparo de arma de fogo), requerendo o Ministrio Pblico que, recebida e autuada esta, seja o militar citado para apresentao de defesa que quiser produzir, bem como seja o acusado interrogado, alm de ouvidas as testemunhas abaixo relacionadas, cumpridas as demais formalidades da lei, para, ao final, ser condenado nas sanes cabveis. [..] Consta do processo, em autos relacionados, o respectivo Inqurito Policial Militar. A denncia foi recebida no dia 17 de agosto de 2020. Na fase instrutria, foram ouvidos as testemunhas de acusao (Evento 40) e o acusado (Evento 50), sendo que a defesa no apresentou rol de testemunhas. O Ministrio Pblico, em alegaes finais (Evento 122), requereu a condenao do ru, nos termos da denncia. A defesa, por sua vez, em alegaes finais (Evento 122), pugnou pela absolvio do acusado com fulcro no art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público ofereceu denúncia contra o apelado, alegando que, no dia 4 de março de 2018, por volta das 01:25h, na avenida Capitão Saturnino Oliveira Lima, nº 25, bairro Charneaux, município de Caet/MG, o denunciado 3 Sgt. PM Leonardo Zanon disparou arma de fogo em via pública. Após a fase instrutória, o Ministério Público requereu a condenação do réu nos termos da denúncia, enquanto a defesa pugnou pela absolvição com base no artigo 439, alínea "d", do Código de Processo Penal Militar (CPPM).

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No processo penal militar o assistente de acusao no pode apelar, nem mesmo em caso de absolvio (artigo 530, CPPM). O processo prossegue independente de intimao ao assistente, salvo notificao para assistir ao julgamento (CPPM, artigo 66). O juiz poder cassar a admisso do assistente, caso tumultue o processo ou infrinja a disciplina judiciria (CPPM, artigo 67). O CPPM restringe muito a atuao do assistente perante o segundo grau. O assistente poder falar aps o procurador-geral, por tempo no superior a dez minutos, se o seu presidente consentir. No poder opor embargos, mas lhe ser consentido impugn-los, se oferecidos pela defesa, e depois de o ter feito o procurador-geral (artigo 65, pargrafo 3, CPPM).  inadmissvel a interveno do assistente do Ministrio Pblico no habeas corpus, porque no h acusao. Esse entendimento  perfilhado por Jlio F. Mirabete:
+Prevendo a lei a interveno do assistente apenas na ao pblica, ou seja, na ao condenatria, no se tem admitido, com razo, a sua participao nos processos de habeas corpus, medida intentada em benefcio do acusado, destinada a assegurar-lhe a liberdade de ir e vir, em que no h acusao nem contraditrio. Enuncia a Smula 208 do STF:
+O assistente do Ministrio Pblico no pode recorrer, extraordinariamente, de deciso concessiva de habeas corpus. Essa posio tem prevalecido na jurisprudncia do STF.48 O STJ perfilhou igual orientao rejeitando a possibilidade de interveno do assistente do Ministrio Pblico no habeas corpus. 9.6. Acusado e sua defesa. Considera-se acusado aquele a quem  imputada a prtica de infrao penal em denncia recebida (CPPM, artigo 69), condio que segue at o trnsito em julgado da sentena. Na ao penal privada figura no polo passivo o querelado. A LEP denomina de condenado quem cumpre pena privativa de liberdade ou no, e de internado o submetido a medida de segurana detentiva em hospital de custdia e tratamento psiquitrico.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No processo penal militar, o assistente de acusação não pode apelar, nem mesmo em caso de absolvição. O juiz pode cassar a admissão do assistente caso tumultue o processo ou infrinja a disciplina judiciária. O assistente não pode intervir no habeas corpus, pois não há acusação. O acusado é aquele a quem é imputada a prática de infração penal em denúncia recebida.

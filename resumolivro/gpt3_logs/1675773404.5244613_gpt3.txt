@@ -1,0 +1,26 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Como exemplos, destacam-se algumas hipoteses:
+ licenca-maternidade (artigo 142, paragrafo 3, VIII, c/c o artigo 7, XVIII, da CF; artigo 26, IX, do EMEMG; artigo 41 da Resolucao Conjunta 4.278/2013 - PMMG/CBMMG);
+ licenca-paternidade (artigo 142, paragrafo 3, VIII, c/c o artigo 7, XIX, da CF; Decreto 48.368, de 17 de fevereiro de 2022, que regulamenta a Lei Complementar 165, de 17 de setembro de 2021);
+ cumprimento de sancao disciplinar de suspensao (artigo 24, IV, do CEDM);
+ incapacidade para o servico militar verificada em inspecao de saude, apos um ano de molestia continuada, embora curavel (artigo 125, I, do EMEMG);
+ licenca para tratamento de interesse particular, superior a 1 (um) ano (artigos 123 e 125, II, do EMEMG);
+ cumprimento de sentenca condenatoria privativa de liberdade, passada em julgado, cuja pena seja maior de 1 (um) ano e nao superior a 2 (dois) anos (artigo 125, III, do EMEMG);
+ extravio (artigo 125, IV, do EMEMG);
+ licenca para exercer atividade tecnica de sua especialidade em organizacoes civis (artigo 125, V, do EMEMG);
+ desempenho de comissoes de carater civil (artigo 125, VI, do EMEMG);
+ aceita cargo publico civil temporario, nao eletivo, assim como em autarquia, empresa publica ou sociedade de economia mista (artigos 17 e 125, VII, ambos do EMEMG; artigo 39, paragrafo 4, da CEMG/1989);
+ candidatura a cargo eletivo (vereador, deputado etc.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existem diversas hipóteses de licença para servidores militares, como licença-maternidade, licença-paternidade, cumprimento de sancão disciplinar de suspensão, incapacidade para o serviço militar, licença para tratamento de interesse particular, cumprimento de sentença condenatória, extravio, licença para exercer atividade técnica, desempenho de comissões de caráter civil, aceitação de cargo público temporário e candidatura a cargo eletivo.

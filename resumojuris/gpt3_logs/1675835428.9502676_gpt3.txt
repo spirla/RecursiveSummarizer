@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+73 da LOMAN comando normativo capaz de assegurar a manutencao da gratificacao pleiteada. Conquanto esse dispositivo legal estabeleca que o afastamento do magistrado para frequencia a cursos ou seminarios de aperfeicoamento e estudos devera ser concedido sem prejuizo de seus vencimentos e vantagens , tal regra nao tem o condao de alcancar as vantagens de carater eventual e de natureza proper laborem, como e o caso da gratificacao criada pela Lei Complementar Estadual 327/2019. Tal compreensao, inclusive, esta em harmonia com o estabelecido pelo Conselho Nacional de Justica, precisamente no art. 5, II, b, c e d, da Resolucao/CNJ n. 13/2006, que dispoe sobre a aplicacao do teto remuneratorio constitucional e do subsidio mensal dos membros da magistratura. 179 Pela leitura da LCE 327/2019 pode-se inferir que a Gratificacao pelo exercicio cumulativo de jurisdicao ou acumulacao de acervo processual , abrange algumas das verbas classificadas como de carater eventual elencadas no inciso II do artigo 5 da Resolucao n. 13/2006, enquadrando-se nas alineas c (exercicio cumulativo de atribuicoes) e d (substituicoes), o que tambem evidencia o indiscutivel carater de contraprestacao a atividade suplementar atribuida ao magistrado. Da leitura do art. 1 da referida lei c/c o art. 5, II, b, da Resolucao/CNJ n. 13/2006 extrai-se que a retribuicao financeira em questao tambem possui carater eventual e temporario, na medida em que vinculada ao exercicio da Direcao do Forum pelo magistrado designado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 73 da Lei Orgânica da Magistratura não tem o condão de alcançar as vantagens de caráter eventual e de natureza proper laborem, como é o caso da gratificação criada pela Lei Complementar Estadual 327/2019. 2. A leitura da Lei Complementar Estadual 327/2019 evidencia o indiscutível caráter de contraprestação a atividade suplementar atribuída ao magistrado. 3. A retribuição financeira em questão também possui caráter eventual e temporário, na medida em que vinculada ao exercício da Direção do Fórum pelo magistrado designado.

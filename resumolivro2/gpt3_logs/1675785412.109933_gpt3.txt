@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Assim, pode-se arguir a exceo quando a queixa  oferecida em caso de ao pblica e quando a denncia  oferecida em hiptese de ao privada (ilegitimidade ad causam);
+quando o querelante  incapaz, no podendo estar em juzo;
+quando o querelante no  representante legal do ofendido (ilegitimidade ad processum). Julgar improcedente o corpo de delito ou outros exames (alnea g). A redao da norma no deixa claro se a improcedncia se refere  concluso do laudo pericial ou ao pedido do exame de corpo de delito ou de outros exames. Cumpre notar que do laudo  dada vista s partes (artigo 325, pargrafo nico, CPPM), nesse primeiro momento a atividade probatria  das partes, a quem cabe impugnar a concluso do laudo e, ento, o juiz decidir pela procedncia ou no da impugnao. Em resumo:
+(a) a parte insatisfeita com o resultado do laudo poder impugn-lo para que outro seja realizado ou completado, hiptese em que o juiz julgar procedente ou improcedente o pedido;
+no caso de o juiz julgar improcedente o pedido, caber recurso em sentido estrito;
+(b) a parte insatisfeita com o resultado do laudo poder requerer esclarecimentos dos peritos ou apresentar quesitos suplementares para esse fim, o juiz poder ou no os admitir, conforme dispe artigo 325, pargrafo nico, CPPM;
+desta deciso caber recurso em sentido estrito. Assim, a improcedncia de que trata a alnea g, em comento, se refere tanto  deciso que rejeita o pedido de realizao exame de corpo de delito e de outros exames, como tambm  que no acolhe a impugnao da parte insatisfeita com o contedo do exame (leia-se do laudo). Por fim, entenda-se por outros exames os previstos no artigo 330 do CPPM e os exames no previstos na codificao do processo penal militar, por interpretao extensiva. Do indeferimento do pedido de realizao de exame de corpo de delito ou de outros exames cabe recurso em sentido estrito. Decretar, ou no, a priso preventiva, ou revog-la (alnea h). O recurso recai sobre a ausncia de requisito para decretao da priso preventiva do artigo 254, a e b, do CPPM ou sobre a inidoneidade do motivo que a ensejou nos termos do artigo 255 do CPPM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A exceção pode ser arguida quando a queixa é oferecida em ação pública ou denncia em ação privada, quando o querelante é incapaz ou não é o representante legal do ofendido. O juiz pode julgar improcedente o pedido de exame de corpo de delito ou outros exames, cabendo recurso em sentido estrito. O recurso também pode ser feito sobre a decretação ou revogação da prisão preventiva.

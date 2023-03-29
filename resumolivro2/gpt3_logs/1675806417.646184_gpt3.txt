@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No caso de infraes conexas ou continentes, se houver concurso de jurisdio de diversas categorias, predominar a de maior graduao (artigo 101, III). O Superior Tribunal Militar e os Tribunais de Justia e de Justia Militar dos Estados so de maior graduao, portanto, prevalece a jurisdio deles, em caso de conexo ou continncia a implicar reunio de processos. A regra de avocao de processos (ou avocatria) do artigo 107 do CPPM visa a unidade de processos Se, no obstante a conexo ou a continncia, forem instaurados processos diferentes, a autoridade de jurisdio prevalente dever avocar os processos que corram perante os outros juzes, salvo se j estiverem com sentena definitiva. A regra impe ao juzo prevalente. Por sentena definitiva entenda-se sentena finda e no sentena transitada em julgado.  o entendimento do STJ assim sumulado A conexo no determina a reunio dos processos, se um deles j foi julgado (Smula 235). 8.6.2. Separao dos processos em caso de conexo e continncia. A conexo e a continncia determinam a unidade do processo, salvo as excees previstas no artigo 102, alneas a e b, do CPPM. No caso de concurso entre a jurisdio militar e a comum (alnea a)49 porque a competncia da Justia Militar  especial e improrrogvel sendo obrigatria a separao de processos, mesmo em caso de conexo e continncia, por ex., o militar pratica dois crimes conexos ou continentes, porm por serem de jurisdies diversas, militar e comum, no h reunio de processos. A separao  obrigatria. Deve ser lembrado que a Justia Militar da Unio julga civis e militares, de maneira que se o militar federal praticar em concurso com o civil fato previsto como crime no Cdigo Penal Militar contra as instituies militares h unidade de processos. A Justia Militar estadual no julga civis.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Em casos de infrações conexas ou continentes, a jurisdição de maior graduação prevalece. O Superior Tribunal Militar e os Tribunais de Justiça e de Justiça Militar dos Estados são de maior graduação. A regra de avocação de processos visa à unidade de processos. Se houver concurso entre a jurisdição militar e comum, a separação de processos é obrigatória. A Justiça Militar da União julga civis e militares, e a Justiça Militar Estadual não julga civis.

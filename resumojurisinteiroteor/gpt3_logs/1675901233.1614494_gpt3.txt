@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O Estado de Minas Gerais apresentou contestao (Evento 29 - CONT1). Inicialmente, alegou que o nus de provar os fatos constitutivos de seu direito  do autor, conforme inteligncia do art. 373, I, do CPC. Asseverou que o Supremo Tribunal Federal (STF) j firmou entendimento, no sentido de que a falta de defesa tcnica por advogado no Processo Administrativo-Disciplinar (PAD) no ofende a Constituio (Smula Vinculante n. 5). Disse que o autor no logrou demonstrar o prejuzo a sua defesa e, ainda, que o motivo utilizado por ele para justificar sua ausncia na oitiva da citada testemunha foi rechaado pela administrao militar. Acrescentou que a nomeao de advogado ad hoc para oitiva de outras testemunhas s ocorreu porque o encarregado ficou ciente de que ele "havia se recusado a receber notificao para acompanhar a audio do reclamante. Dessa forma, disse que a afirmao da defesa de que o encarregado apresentou postura conflitante para a mesma hiptese  totalmente infundada. Por fim, aduz que o ato administrativo seguiu todos os trmites legais e encontra-se em total conformidade com os dispositivos atinentes  matria, no se podendo falar em vcios e/ou nulidades. Com esses argumentos, pugnou pelo no acolhimento dos pedidos iniciais (Evento 29 - CONT1). A defesa do autor impugnou a contestao (Evento 34). Na fase de especificao de provas, as partes manifestaram no possuir outras provas a produzir (Eventos 39 e 40). O meritssimo juiz de direito da 5a AJME-Cvel decidiu o feito conforme se depreende, in verbis: [...] Pois bem. A princpio, urge consignar que cabe ao Poder Judicirio, quando provocado, realizar o controle judicial dos atos da Administrao. Entretanto, sob o prisma do sistema de tripartio, esse controle apenas incide sobre a legalidade do ato, sem qualquer ingerncia no mrito da deciso, sob pena de usurpar sua competncia. Com efeito, restringindo-se  anlise da legalidade do ato administrativo impugnado, verifica-se que  caso de improcedncia da ao proposta, pois inexiste ilegalidade no procedimento que levou  aplicao da penalidade. Isso porque, os alegados vcios procedimentais no se mostram suficientemente aptos a provocar a nulidade do processo disciplinar. Ao contrrio, tratam-se de argumentos lacunosos, no revestidos da devida demonstrao e comprovao dos supostos prejuzos sofridos pelo Autor, o que vai de encontro ao art. 69 do CEDM. No que diz respeito ao suposto vcio procedimental, oportuno consignar o estatudo no caput do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais alegou que o autor não logrou demonstrar o prejuzo à sua defesa no Processo Administrativo-Disciplinar e que o ato administrativo seguiu todos os trâmites legais. O juiz decidiu que não há ilegalidade no procedimento que levou à aplicação da penalidade, pois os argumentos apresentados pelo autor não foram suficientemente demonstrados e comprovados.

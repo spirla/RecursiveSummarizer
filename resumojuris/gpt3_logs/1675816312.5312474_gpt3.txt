@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6148/DF, relatora Ministra Carmen Lucia, redator do acordao Ministro Andre Mendonca, julga-mento em 4 e 5.5.2022 (INF 1053) 2.6 PRINCIPIO DA PROIBICAO DO RETROCESSO AMBIENTAL Supressao de marcos regulatorios ambientais e proibicao do retrocesso ambiental - ADPF 748/DF ODS: 2, 6, 8, 12, 15 e 16 Resumo: E inconstitucional a Resolucao CONAMA 500/2020. O poder normativo atribuido ao Conselho Nacional do Meio Ambiente (CONAMA) pela respectiva lei instituidora consiste em instrumento para viabilizar, ao agente regulador, a implementacao das diretrizes, fina-lidades, objetivos e principios expressos na Constituicao e na legislacao ambiental, orientando-se necessaria-mente de modo compativel com a ordem constitucional de protecao do patrimonio ambiental. Assim, a mera revogacao de normas operacionais fixadoras de parametros mensuraveis necessarios ao cumprimento da legislacao ambiental, sem sua substituicao ou atualizacao, compromete a observancia do texto constitucional, da legislacao vigente e de compromissos internacionais. No caso, a Resolucao CONAMA 500/2020 revogou as Resolucoes CONAMA 284/2001, 302/2002 e 303/2002, as quais dispoem, respectivamente, sobre (i) licenciamento de empreendimentos de irrigacao; (ii) parametros, definicoes e limites de Areas de Preservacao Permanente de reservatorios artificiais e o regime de uso do entorno; e (iii) parametros, definicoes e limites de Areas de Preservacao Permanente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a Resolução CONAMA 500/2020. 2. O poder normativo atribuído ao Conselho Nacional do Meio Ambiente (CONAMA) pela respectiva lei instituidora consiste em instrumento para viabilizar, ao agente regulador, a implementação das diretrizes, finalidades, objetivos e princípios expressos na Constituição e na legislação ambiental. 3. A mera revogação de normas operacionais fixadoras de parâmetros mensuráveis necessários ao cumprimento da legislação ambiental, sem sua substituição ou atualização, compromete a observância do texto constitucional, da legislação vigente e de compromissos internacionais.

@@ -1,0 +1,24 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Crimes militares em tempo de paz e crimes militares em tempo de guerra. A Constituio da Repblica (artigo 142, VI) e o Cdigo Penal Militar fazem distino entre os crimes militares praticados em tempo de paz (artigos 136 a 354) e os praticados em tempo de guerra (artigos 355 a 408). Tal distino evidencia a existncia de contextos fticos substancialmente diferenciados para os fins da interveno punitiva. O artigo 9 do Cdigo Penal Militar define os crimes militares em tempo de paz nos seguintes termos:
+Art. 9 Consideram-se crimes militares, em tempo de paz:
+- os crimes de que trata este Cdigo, quando definidos de modo diverso na lei penal comum, ou nela no previstos, qualquer que seja o agente, salvo disposio especial;
+- os crimes previstos neste Cdigo e os previstos na legislao penal, quando praticados:
+a) por militar em situao de atividade ou assemelhado, contra militar na mesma situao ou assemelhado;
+b) por militar em situao de atividade ou assemelhado, em lugar sujeito  administrao militar, contra militar da reserva, ou reformado, ou assemelhado, ou civil;
+c) por militar em servio ou atuando em razo da funo, em comisso de natureza militar, ou em formatura, ainda que fora do lugar sujeito  administrao militar contra militar da reserva, ou reformado, ou civil;
+d) por militar durante o perodo de manobras ou exerccio, contra militar da reserva, ou reformado, ou assemelhado, ou civil;
+e) por militar em situao de atividade, ou assemelhado, contra o patrimnio sob a administrao militar, ou a ordem administrativa militar;
+f) revogada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal Militar faz distinção entre crimes militares praticados em tempo de paz (artigos 136 a 354) e em tempo de guerra (artigos 355 a 408). O artigo 9 do Código Penal Militar define os crimes militares em tempo de paz como aqueles praticados por militares em atividade ou assemelhados contra militares na mesma situação ou assemelhados, contra militares da reserva, reformados ou civis, contra o patrimônio sob a administração militar ou a ordem administrativa militar.

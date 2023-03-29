@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, a Segunda Turma, por maioria, deu provimento ao agravo regimental para determinar a reforma da decisao agravada e a manutencao do acordao proferido pelo TJ/SP, objeto do recurso extraordinario, que havia declarado a inconstitucionalidade da Lei 2.068/2019 do Municipio de Co-tia/SP. ARE 1307028 AgR/SP, relator Ministro Edson Fachin, redator do acordao Ministro Gilmar Mendes, julgado em 22.11.2022 (INF 1077) Isencao de tarifas de agua e esgoto: predominancia de interesse local e competencia legis-lativa - ADI 6912/MG ODS: 6 e 12. Resumo: E inconstitucional, por invadir a competencia municipal para legislar sobre assuntos de interesse local (CF/88, art. 30, I e V), lei estadual que concede, por periodo determinado, isencao das tarifas de agua e esgoto e de energia eletrica aos consumidores residenciais, industriais e comerciais. A CF/88 estabelece a competencia comum de todos os entes federativos para a promo-cao de melhorias das condicoes do saneamento basico (CF/88, art. 23, IX), cabendo a Uniao instituir as res-pectivas diretrizes (CF/88, art. 21, XX). Segundo as diretrizes nacionais para o saneamento basico, fixadas pela Lei 11.445/2007 e atualizadas pela Lei do Novo Marco do Saneamento Basico (Lei 14.026/2020), compete aos municipios, responsaveis pela gestao dos assuntos de interesse local e pela edicao de leis que digam respeito a esses temas, a titularidade dos servicos publicos de saneamento basico. Nao cabe as leis estaduais a interferencia em contratos de concessao de servicos federal e muni-cipal, alterando condicoes que impactam na equacao economico-financeira. No caso, as disposicoes impugnadas criam obrigacoes e retiram prerrogativas das concessionarias de servicos publicos locais, interferindo diretamente nos contratos administrativos firmados entre o Poder Publico e os particulares.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional, por invadir a competência municipal para legislar sobre assuntos de interesse local, lei estadual que concede, por período determinado, isenção das tarifas de água e esgoto e de energia elétrica aos consumidores residenciais, industriais e comerciais. 2. A Constituição Federal estabelece a competência comum de todos os entes federativos para a promoção de melhorias das condições do saneamento básico. 3. Compete aos municípios, responsáveis pela gestão dos assuntos de interesse local e pela edição de leis que digam respeito a esses temas, a titularidade dos serviços públicos de saneamento básico. 4. Não cabe às leis estaduais a interferência em contratos de concessão de serviços federal e municipal, alterando condições que impactam na equação econômico-financeira. 5. As disposições impugnadas criam obrigações e retiram prerrogativas das concessionárias de serviços públicos locais, interferindo diretamente nos contratos administrativos firmados entre o Poder Público e os particulares.

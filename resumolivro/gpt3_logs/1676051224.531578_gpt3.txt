@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Durante a anlise da prescrio da pretenso punitiva deve-se levar em considerao a pena mxima cominada ao crime e, nos termos do artigo 109, I, do CP, a prescrio somente ocorreria em 20 (vinte) anos. No caso, se houver condenao a qualquer pena que no seja a mxima, a prescrio ocorrer em 12 (doze) anos, conforme prev o inciso III do mesmo dispositivo legal. Percebendo o magistrado que os elementos de convico constantes do processo no permitiriam justificar a aplicao da pena mxima, decorridos mais de 12 (doze) anos da instaurao da ao penal, ainda sem condenao, seria de reconhecer-se a extino da responsabilidade em razo da prescrio pela pena em perspectiva. Contrariamente ao cabimento da prescrio pela pena em perspectiva, o Supremo Tribunal Federal j decidiu que no se admite a prescrio retroativa por antecipao, uma vez que, alm de inexistir previso legal, no se pode, antes da sentena condenatria, presumir a pena frente s circunstncias do caso concreto (HC 76.153). No mesmo sentido, o Superior Tribunal de Justia editou a Smula 438, que dispe:  inadmissvel a extino da punibilidade pela prescrio da pretenso punitiva com fundamento em pena hipottica, independentemente da existncia ou sorte do processo penal. Enfrentando o tema, Rogrio Greco com razo admite no ser possvel reconhecer aquilo que, de fato, ainda no ocorreu. Tratando-se de uma pena provvel, no se pode reconhecer a prescrio. No entanto, Greco sustenta que, na prtica, deve ser reconhecida a extino da responsabilidade, por faltar o interesse de agir (na modalidade interesse-utilidade), que  condio da ao e deve perdurar durante todo o processo62. A soluo tem como pano de fundo a incidncia futura da prescrio, cuja caracterizao leva em conta uma pena hipottica. O argumento acolhido pelo STF de que no se pode, antes da sentena condenatria, presumir a pena, ante as circunstncias do caso concreto, no impressiona. Na imensa maioria dos casos, iniciado o processo, no so colhidos novos elementos de convico e o juiz pode perfeitamente fazer um juzo hipottico de condenao, com aplicao da pena. Na verdade, a legislao ptria permite que o promotor de justia faa tal juzo hipottico de reprovao, quando da proposta de aplicao imediata de pena. No entanto, o obstculo da inexistncia de previso legal  procedente.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prescrição da pretenção punitiva ocorre em 20 anos para pena máxima e 12 anos para pena inferior à máxima. O STF já decidiu que não se admite prescrição retroativa por antecipação, pois não há previsão legal. O STJ editou a Smula 438, que também não admite a extinção da punibilidade pela prescrição da pretenção punitiva com base em pena hipotética.

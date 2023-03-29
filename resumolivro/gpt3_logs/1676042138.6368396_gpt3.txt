@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Consagrada na expresso latina nullum crimen nulla poena sine lege praevia, a garantia fundamental est expressamente prevista no inciso XL do artigo 5 da Constituio Federal, o qual dispe que a lei penal no retroagir, salvo para beneficiar o ru. No que diz respeito  posterior definio de crime, a proibio da retroatividade decorre do fato de que, no momento da prtica da conduta, a norma incriminadora no existia. Se no havia a proibio, o indivduo no pode ser responsabilizado por uma conduta que, no momento de sua realizao, era lcita. No que diz respeito ao agravamento da pena, o mesmo raciocnio aplica-se. Se no momento da realizao da conduta a consequncia jurdica da prtica da conduta era uma, no poder o indivduo, posteriormente, responder de maneira mais gravosa. A proibio da retroatividade assegura a preservao das regras do jogo institudas pelo Estado de Direito. Vale observar que a possibilidade de retroatividade benfica no  mero favor concedido ao ru por uma poltica criminal liberal. Se uma norma posterior deixa de considerar o fato criminoso ou lhe reduz a pena, h formal reconhecimento de que o juzo de valor anterior era inadequado. Aplicar a lei anterior significa impor ao condenado uma valorao j considerada inadequada. 2) A proibio da criao de crimes ou penas pelos costumes. O princpio da reserva legal ou da legalidade assegura que somente a lei pode definir crimes e penas. A lei deve ser entendida em sentido formal, lei ordinria. No se pode admitir que leis morais ou consuetudinrias possam estabelecer responsabilidade criminal. A garantia ficou consagrada na expresso latina nullum crimen nulla poena sine lege scripta e decorre do reconhecimento de que a nica fonte de produo do Direito Penal  a lei. Sem a certeza da lei formal, no se pode responsabilizar criminalmente o indivduo. Vale observar que a reserva legal estabelece limites  incriminao e no aos benefcios concedidos ao ru ou condenado. Um comportamento costumeiro em determinada comunidade evidencia a tolerncia social e a inexigibilidade de conduta diversa, que, de maneira geral, exclui a culpabilidade. 3) A proibio de utilizar a analogia para instituir crimes, fundamentar ou agravar penas e impedir a extino da punibilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da legalidade garante que somente a lei pode definir crimes e penas. A proibição da retroatividade impede a responsabilização criminal de condutas lícitas no momento de sua realização, bem como o agravamento da pena. A proibição da criação de crimes ou penas pelos costumes e a proibição de utilizar a analogia para instituir crimes, fundamentar ou agravar penas e impedir a extinção da punibilidade também são garantias fundamentais.

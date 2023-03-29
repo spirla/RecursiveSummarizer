@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Disse que  "sedimentado nos tribunais superiores o entendimento de que, deixando o defensor constitudo de ofertar as contrarrazes recursais no prazo legal, dever o juiz, a quem cabe prover a regularidade do processo, por fora do disposto no artigo 251, do Cdigo de Processo Penal, notificar/intimar o ru para constituir novo patrono, para que no fique prejudicado em sua defesa tcnica, o que no ocorreu no caso presente. Disse, ainda, que, uma vez constatada a mencionada nulidade, o acrdo merece reforma. Asseverou que no houve a demonstrao do nexo de causalidade entre a suposta conduta praticada por ele praticada e a ocorrncia do resultado narrado nos autos, de modo a autorizar sua responsabilizao criminal. Aduziu que a deciso exarada pela C. Segunda Cmara foi omissa, uma vez que esta no demonstrou que ele, ora embargante, "tivesse conhecimento prvio das informaes supostamente repassadas a Diego ou que tenha sido ele autor ou destinatrio das mensagens supostamente extradas do aparelho de telefone celular de Rosiane. Mais adiante, afirmou que o acrdo objurgado "no se pronunciou quanto  ilegalidade dos prints de Whatsapp, os quais, segundo o laudo pericial oficial (evento 21) acostado aos autos, no se apresentam como meio de prova autntico capaz de sustentar eventual decreto condenatrio em desfavor do Embargante, razo pela qual padece de nulidade. Por fim, aduziu que tambm no merece prosperar o entendimento de que as condutas supostamente por ele praticadas se deram em locais distintos (Municpios de So Joo Nepomuceno e Descoberto) e que, por tal razo, restaria inviabilizado o reconhecimento da continuidade delitiva. Nesse sentido, afirmou que a continuidade delitiva  fato incontroverso no presente feito, haja vista o preenchimento dos requisitos objetivos (tempo, modus operandi, lugar), como do elemento subjetivo, qual seja, a unidade de desgnios, devendo, pois, ser aplicada, em caso de manuteno da condenao, a regra do artigo 71 do Cdigo Penal. Ao final, requereu o acolhimento dos presentes Embargos com escopo de que, sem prejuzo de eventuais efeitos infringentes, sejam supridas as omisses sobre as questes de direito suscitadas no recurso de apelao outrora interposto e no apreciadas no Acrdo proferido por este egrgio Tribunal.  o relatrio. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Compulsando os autos, vejo que o Ministrio Pblico do Estado, por seu ilustre Promotor de Justia atuante nesta E. Casa, ofereceu denncia em desfavor do Cb PM Tiago Amorim Russo, ora embargante, tendo sido condenado em primeira instncia pela prtica do delito de violao de sigilo funcional (art. 326 do CPM) a uma pena de 1 (um) ano e 6 (seis) meses de deteno.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O embargante foi condenado pela prtica do delito de violação de sigilo funcional. O Tribunal, ao analisar o caso, constatou a nulidade do acórdão, pois não houve demonstração do nexo de causalidade entre a suposta conduta do embargante e o resultado narrado nos autos, além de não ter sido demonstrada a ilegalidade dos prints de Whatsapp, que não se apresentam como meio de prova autêntico. Por fim, foi requerido o acolhimento dos embargos para suprir as omissões sobre as questões de direito suscitadas no recurso de apelação.

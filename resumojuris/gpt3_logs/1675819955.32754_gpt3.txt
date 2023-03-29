@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Marco Aurelio, julgamento virtual finalizado em 19.12.2020 (INF 1003) 1.5 DECADENCIA Inconstitucionalidade material por violacao a isonomia na relacao Estado-cidadao - ADI 6019/SP Resumo: E inconstitucional lei estadual que estabeleca prazo decadencial de 10 (dez) anos para anulacao de atos administrativos reputados invalidos pela Administracao Publica estadual. O prazo quinquenal consolidou-se como marco temporal geral nas relacoes entre o Poder Publico e particulares e esta Corte somente admite excecoes ao principio da isonomia quando houver fundamento razoavel baseado na necessidade de remediar um desequilibrio especifico entre as partes. Se os demais estados da Federacao aplicam, indistintamente, o prazo quinquenal para anulacao de atos administrativos de que decorram efeitos favoraveis aos administrados, seja por previsao em lei propria ou por aplicacao analogica do art. 54 da Lei 9.784/1999, nao ha fundamento constitucional que justifique a situacao excepcional de um determinado estado-membro. Logo, impoe-se o tratamento igualitario nas relacoes Estado-cidadao. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade do art. 10, I, da Lei 10.177/1998 do estado de Sao Paulo. Vencidos os ministros Alexandre de Moraes, Ricardo Lewandowski, Dias Toffoli que, preliminarmente, nao conheceram da acao e, no merito, julgaram improcedente o pedido. O ministro Marco Aurelio (relator) tambem julgou o pedido procedente, mas ficou parcialmente vencido por declarar a inconstitucionalidade do dispositivo ante a existencia de vicios formal e material. ADI 6019/SP, relator Min. Marco Aurelio, redator do acordao Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional lei estadual que estabeleça prazo decadencial de 10 (dez) anos para anulação de atos administrativos reputados inválidos pela Administração Pública estadual. 2. O prazo quinquenal consolidou-se como marco temporal geral nas relações entre o Poder Público e particulares. 3. Só se admite exceções ao princípio da isonomia quando houver fundamento razoável baseado na necessidade de remediar um desequilíbrio específico entre as partes. 4. É necessário tratamento igualitário nas relações Estado-cidadão. 5. Foi julgado procedente o pedido formulado em ação direta para declarar a inconstitucionalidade do art. 10, I, da Lei 10.177/1998 do estado de São Paulo.

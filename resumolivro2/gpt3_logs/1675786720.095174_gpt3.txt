@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+119
+A deciso proferida em reviso criminal pode consistir em (a) juzo rescindente ou revidente : a deciso impugnada  desconstituda, funcionado como verdadeiro juzo de cassao e em (b) juzo rescisrio ou revisria : nova deciso  proferida em substituio quela que foi rescindida, portanto, juzo de reforma. 120
+Pode o tribunal julgar procedente a reviso por fundamento diferente do alegado, mas no pode reconhecer nulidade se o pedido foi de absolvio, porque a nulidade pode levar a nova condenao. 121 Leciona Aury Lopes Jnior 122 que se a reviso criminal  uma ao de impugnao de carter excepcional, somente admissvel em favor do ru, nada impede que se produza uma deciso ultra petita , ou seja, no se aplicam aqui os rigores do princpio da congruncia anteriormente estudado, de modo que o tribunal pode absolver o ru ainda que o pedido tenha sido de anulao do processo ou apenas uma diminuio da pena. Admite-se julgamento extra ou ultra petita para beneficiar o condenado. 123
+Em hiptese alguma poder ser agravada a pena imposta pela sentena revista (art. 558,  nico, CPPM ). O tribunal no juzo rescisrio no pode agravar a pena imposta pela sentena revidenda.  adotada, expressamente, a proibio da reformatio in pejus , como tambm no caso de anulao da sentena condenatria a proibio da reformatio in pejus indireta , o juiz de origem no fica liberado, mas vinculado  pena da sentena revista. 124
+19.2.5.Efeitos do julgamento
+Esto previstos no art. 558, caput , do CPPM , os seguintes efeitos do julgamento, quando a reviso criminal  julgada procedente : (a) absolver o ru; (b) alterar a classificao do crime; (c) modificar a pena ou (d) anular o processo. Na deciso de alterar a classificao do crime o tribunal decide que houve erro na classificao do crime, por exemplo, altera de doloso para culposo, de consumando para tentado. Nesse caso, o que se rescinde  somente o captulo da sentena condenatria que classifica o delito e fixa a pena, permanecendo ntegra a condenao, de modo que a nova sentena se limita a classificar o crime. 125
+A reviso criminal modifica a pena em qualidade (de recluso para deteno) ou de quantidade, reduz a pena.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A revisão criminal pode consistir em juízo rescindente ou revidente, onde a decisão impugnada é desconstituída, ou juízo rescisório ou revisório, onde é proferida uma nova decisão em substituição àquela rescindida. O tribunal pode julgar procedente a revisão por fundamento diferente do alegado, mas não pode reconhecer nulidade se o pedido foi de absolvição. Se a revisão for julgada procedente, os efeitos previstos são: absolver o réu, alterar a classificação do crime, modificar a pena ou anular o processo.

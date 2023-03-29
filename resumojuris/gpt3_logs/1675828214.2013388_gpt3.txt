@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Portanto, nao haveria interesse no compartilhamento das informacoes com as demais administracoes tributarias. Os dispositivos impugnados, de igual modo, nao violam o art. 37, XXII, da CF. A norma constitucional estabelece que o compartilhamento de cadastros e de informacoes fiscais ocorrera na forma da lei ou convenio. O compartilhamento de tais dados, portanto, nao e uma regra absoluta da administracao tributaria, de aplicacao irrestrita, mas devera ser exercida nas condicoes e limites legais. Nesses termos, ao proibir o compartilhamento de informacoes prestadas pelos aderentes entre os orgaos intervenientes do RERCT com os estados, o Distrito Federal e os municipios, o legislador federal criou restricao pontual e especifica, dentro de sua margem de conformacao da ordem juridica. A medida, no entanto, nao prejudica a reparticao dos valores arrecadados, ja que, para isso, importa apenas saber a quantidade dos recursos envolvidos e nao necessariamente a identificacao do sujeito relacionado. Alem disso, nao caracteriza ofensa ao principio da isonomia tributaria o fato de se conferir aos contribuintes, que optaram por aderir ao RERCT, tratamento juridico distinto daquele atribuido aos demais contribuintes com valores mantidos no Brasil. Com base nesse entendimento, o Plenario, por maioria, julgou improcedentes os pedidos formulados em acao direta, a fim de declarar a constitucionalidade dos  1 e 2 do art. 7 da Lei 13.254/2016. Vencido, parcialmente, o ministro Ricardo Lewandowski. ADI 5729/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O compartilhamento de informações prestadas pelos aderentes entre os órgãos intervenientes do RERCT com os estados, o Distrito Federal e os municípios deverá ser exercido nas condições e limites legais. 2. Não caracteriza ofensa ao princípio da isonomia tributária o fato de se conferir aos contribuintes, que optaram por aderir ao RERCT, tratamento jurídico distinto daquele atribuído aos demais contribuintes com valores mantidos no Brasil.

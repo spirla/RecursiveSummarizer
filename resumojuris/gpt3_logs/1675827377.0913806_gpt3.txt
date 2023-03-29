@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado na acao direta para declarar a inconstitucionalidade da Lei 6.041/2010 do estado do Piaui. ADI 4565/PI, relator Min. Roberto Barroso, julgamento virtual finalizado em 24.2.2021 (INF 1006) ICMS, regime de antecipacao tributaria e reserva de lei complementar - RE 598677 (Tema 456 RG) Tese Fixada: A antecipacao, sem substituicao tributaria, do pagamento do ICMS para momento anterior a ocorrencia do fato gerador necessita de lei em sentido estrito. A substituicao tributaria progressiva do ICMS reclama previsao em lei complementar federal . Resumo: E inconstitucional a regulacao do regime de antecipacao tributaria por decreto do Poder Executivo. No regime sem substituicao tributaria, o art. 150,  7, da CF/88 (CF) exige somente que a antecipacao se faca ex lege e que o momento eleito pelo legislador esteja de algum modo vinculado ao nucleo da exigencia tributaria. Ja para as hipoteses de antecipacao do fato gerador do ICMS com substituicao tributaria se exige, por forca do art. 155,  2, XII, b , da CF, a previsao em lei complementar. Ao se antecipar o surgimento da obrigacao tributaria, o que existe, necessariamente, e, tambem, a antecipacao, por ficcao, da ocorrencia do fato gerador da exacao. Apenas por lei isso e possivel, ja que o momento da ocorrencia do fato gerador e um dos aspectos da regra matriz de incidencia. Logo, e inviavel, por meio de simples decreto, a pretexto de fixar prazo de pagamento, se exigir o recolhimento antecipado do ICMS na entrada da mercadoria no territorio do Estado-membro.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a regulação do regime de antecipação tributária por decreto do Poder Executivo. 2. No regime sem substituição tributária, o art. 150, § 7, da Constituição Federal exige que a antecipação se faça ex lege e que o momento eleito pelo legislador esteja de alguma forma vinculado ao núcleo da exigência tributária. 3. Para as hipóteses de antecipação do fato gerador do ICMS com substituição tributária, exige-se, por força do art. 155, § 2, XII, b, da Constituição Federal, a previsão em lei complementar. 4. Ao se antecipar o surgimento da obrigação tributária, o que existe, necessariamente, é também a antecipação, por ficção, da ocorrência do fato gerador da exação. 5. É inviável, por meio de simples decreto, a pretexto de fixar prazo de pagamento, se exigir o recolhimento antecipado do ICMS na entrada da mercadoria no território do Estado-membro.

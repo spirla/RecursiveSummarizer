@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ 2 - Uma ao  idntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido.  3 - H litispendncia quando se repete ao que est em curso; Ocorre a litispendncia quando o ru  citado validamente para a ao. A litispendncia faz com que seja proibido o ajuizamento de uma segunda ao, idntica  que se encontra pendente, porquanto a primeira receber a sentena de mrito, sendo desnecessria uma segunda ao igual  primeira. Pelo que vemos no artigo 337,  3, do CPC, ocorre a litispendncia quando se reproduz ao idntica a outra que j est em curso. As aes so idnticas quando tm os mesmos elementos, ou seja, quando tm as mesmas partes, a mesma causa de pedir (prxima ou remota) e o mesmo pedido (mediato e imediato). Como a primeira ao j foi ajuizada, a segunda ao, em que se verificou a litispendncia, no poder prosseguir, devendo ser extinto o processo, sem resoluo de mrito, como nos estabelece o CPC. Para que seja reconhecida judicialmente a litispendncia, mister que haja a identidade de elementos que caracterizam a demanda, expressos em medidas processuais da mesma natureza jurdica, por meio do tradicional trinmio: personae, petitum e causa petendi. Dos fatos narrados, verifico que, nesta ao que ora nos ocupa a ateno, houve uma alterao da moldura ftico-jurdica do objeto das demandas e dos pedidos que impulsionaram a interposio da ao ordinria que precedeu esta; que, na verdade, uma decorre e depende logicamente da outra. A partir do conhecimento de fatos que ocorreram no processo cvel que tramitou na 11a Vara Criminal da Comarca de Belo Horizonte, o autor, ora apelante, no satisfeito com os rumos que tomava o PAD de Portaria n. 100.405/18-CPM, e tendo sido esgotada a fase de instruo processual do processo administrativo disciplinar, elencou outras supostas ilegalidades, tardiamente levantadas, como: o indeferimento do pedido de acareao entre as partes envolvidas, a alegao de contradies no depoimento da testemunha Durvanir Pereira Queirz e dos gerentes do Banco Bradesco, o cerceamento de defesa na apresentao de prova pericial com reconhecimento fotogrfico do IP n. 771/2015, a cargo da Polcia Civil, e outros fragmentos de peas processuais oriundas da ao cvel nmero 6126469-552015.8.13.0024, de indenizao por danos morais ajuizada na justia comum pela vtima Clarice Bianchi, em face do Banco Bradesco, em virtude da fragilidade da segurana de movimentaes financeiras daquela instituio. A apresentao destes fragmentos que deram origem  presente Ao Cvel de n. 2000024-26.2021 s ocorreu, como afirmei anteriormente, aps o trmino da instruo do PAD de Portaria n. 100.405/18-CPM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao foi extinta sem resolução de mérito devido à litispendência, pois havia uma ação idêntica em curso, com as mesmas partes, causa de pedir e pedido. A alteração da moldura fático-jurídica do objeto das demandas e dos pedidos, impulsionou a interposição da ação ordinária que precedeu esta.

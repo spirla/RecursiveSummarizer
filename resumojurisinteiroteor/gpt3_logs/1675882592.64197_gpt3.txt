@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Os denunciados apresentaram resposta  acusao, arguindo, em sede preliminar, a incompetncia da Justia comum para processar e julgar o feito, em face do advento da Lei n. 13.491/2017 (evento 1 - DEFESA PRVIA11, DEFESA PRVIA 12 e DEFESA PRVIA13). Por sua vez, o Ministrio Pblico estadual requereu que fosse declarada a nulidade da deciso que recebeu a denncia e dos demais atos processuais, com a declinao da competncia para a Justia Militar (evento 1 - PED DECLINA COMPET16). O meritssimo juiz de Direito da Comarca de Itaguara/MG acolheu o pedido da defesa, reconheceu a incompetncia da Justia comum para processar e julgar o feito e determinou a remessa dos autos  Justia Militar estadual, o que fez com fundamento na Lei n. 13.491/2017 (evento 1 - DECL_COMPE15). Os autos foram distribudos ao juzo da 3a Auditoria Judiciria Militar Estadual (AJME) (evento 1). A denncia foi recebida no dia 04/09/2019 (evento 11). Foram inquiridas a vtima - Diego Paulo dos Santos -, as testemunhas de acusao - Marlene Maria Santos, Snia Aparecida de Paula Ananias, Maria Helena Santos Arajo e Pedro Paulo de Moraes - (eventos 90, 112 e 214) e as testemunhas de defesa - Capito PM Bruno Oliveira Rebuli, 2 Tenente PM Thiago Csar Moreira Batista, 2 Tenente QPR PM Edson Vital Belizrio, Subtenente Wellington Lopes de Aguiar e Cabo PM Milton Mariel Vaz -, por meio de recurso audiovisual (eventos e 84 e 85). Os acusados - 3 Sgt PM Jos Ribeiro Neto, Sd PM Alexssandro Rodrigues do Nascimento e Sd PM Wallysson Thiago Costa Braz - foram interrogados (evento 298). Na fase do artigo 427 do Cdigo de Processo Penal Militar (CPPM), o Ministrio Pblico requereu a juntada do Inqurito Policial Militar, e a defesa requereu que fosse organizada nos autos a resposta  acusao por ela oferecida (evento 299). Foram ento juntados a pea de defesa prvia, anteriormente apresentada, e tambm o Inqurito Policial Militar (IPM) de Portaria n. 105.971/2016 (eventos 300 e 309). Em observncia ao artigo 428 do CPPM, as partes apresentaram suas alegaes finais, tendo o Ministrio Pblico estadual pugnado pela condenao dos acusados, nos exatos termos da denncia. O Ministrio Pblico requereu, ainda, a fixao de valor para reparao dos danos sofridos pela vtima, a suspenso dos direitos polticos, a decretao de perda do cargo pblico e ainda a observncia do previsto no artigo 1, inciso IV, alnea "a, do Decreto Estadual n. 45.604/2011 (evento 316). A defesa, por sua vez, pugnou pela improcedncia da denncia e, consequentemente, pela absolvio de todos os denunciados, com fundamento no artigo 439, alnea "a, do CPPM (evento 337). A MMa. juza de Direito da 3a AJME, no mbito de sua competncia, prolatou sentena e decidiu desclassificar a conduta criminosa prevista no art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia comum foi declarada incompetente para processar e julgar o feito, em face da Lei n. 13.491/2017, sendo os autos remetidos para a Justia Militar Estadual. Após inquirição das testemunhas, o Ministério Público requereu a juntada do Inqurito Policial Militar e a defesa requereu a resposta à acusação. A juíza de Direito da 3a AJME proferiu sentença, desclassificando a conduta criminosa prevista no artigo.

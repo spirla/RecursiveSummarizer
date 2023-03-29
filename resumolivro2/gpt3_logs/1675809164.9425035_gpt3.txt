@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Smula 310 do STF dispe:
+Quando a intimao tiver lugar na sexta-feira, ou a publicao com efeito de intimao for feita nesse dia, o prazo judicial ter incio na segunda-feira imediata, salvo se no houver expediente, caso em que comear no primeiro dia til que se seguir. O STM adotou a regra acima de que na contagem dos prazos descarta-se o dia do comeo (sexta-feira) e computa-se o prazo legal a partir do primeiro dia til subsequente (segunda-feira). Se a audincia de leitura de sentena ocorrer na sexta-feira e segunda-feira e tera-feira forem feriados, a contagem do prazo se inicia na quarta-feira. De igual modo ser a contagem se a intimao for feita num sbado. Considera o artigo 4, pargrafo 3, da Lei 11.419/2006, como data da publicao o primeiro dia til seguinte ao da disponibilizao da informao no Dirio da Justia eletrnico e o seu pargrafo 4 dispe que os prazos processuais tero incio no primeiro dia til que seguir ao considerado como data da publicao. Visando facilitar a tramitao dos processos, tribunais, mediante normas internas, criaram o denominado protocolo integrado (unificado) permitindo protocolizar no primeiro grau peties remetendo-as ao juzo destinatrio por sistema de malotes. As peties recebidas pelo protocolo integrado so encaminhadas ao destino juntamente com vias da relao de remessas, indicao do destinatrio (no caso da Justia Militar, indicao da Auditoria). Essas normas de servios restringem o recebimento no protocolo integrado de peties arrolando, substituindo ou informando novos endereos de testemunhas ou requerendo adiamento de audincias com ru preso. No  admitido o protocolo integrado para peties dirigidas aos processos que tramitam eletronicamente, em primeiro e segundo grau de jurisdio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Smula 310 do STF estabelece que os prazos judiciais começam no primeiro dia útil seguinte à sexta-feira ou à publicação com efeito de intimação. A Lei 11.419/2006 considera a data da publicação como o primeiro dia útil seguinte à disponibilização da informação no Diário da Justiça Eletrônico. Tribunais, por meio de normas internas, criaram o protocolo integrado para facilitar a tramitação dos processos. No entanto, esse protocolo não é permitido para petições dirigidas a processos que tramitam eletronicamente.

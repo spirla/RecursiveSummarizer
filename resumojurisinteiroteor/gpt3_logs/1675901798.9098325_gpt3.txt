@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+10, IV1, da Resoluo 4085/10 - CG). 18 19 A alegao de desconhecimento do indeferimento do armamento fixo no pode ser contada a seu favor, porquanto a publicidade se deu em meio prprio e regular, o boletim interno reservado da PMMG. Ademais, o militar tinha conhecimento da norma regulamentar que o impedia de portar a arma, porquanto os militares so instrudos constantemente de normas aplicveis  vida na caserna - sendo tal conhecimento, inclusive, matria prevista no edital para o ingresso na Corporao Militar. No se pode perder de vista que a ningum  dado o direito de invocar benefcios de sua prpria torpeza. Quanto ao dano ao colete balstico, restou provado na Sindicncia Administrativo-Disciplinar (SAD) que foi provocado por acidente automobilstico, causado concorrentemente pela ao do militar ao desrespeitar normas de trnsito. Sendo assim, percebo, da apurao realizada na SAD de Portaria n. 115.089/2015 - 2 BPM, que o encarregado manifestou-se pelo enquadramento e pela punio disciplinar do militar, ora autor. As teses arguidas pelo apelante, em juzo, j foram afastadas desde o procedimento administrativo, vejamos: 1. O CEDMU assim se manifestou: Preliminarmente, no foi encontrada nenhuma causa de nulidade processual. Depois de analisadas as documentaes e as justificativas do acusado. Verifica-se que a arma de fogo paga fixa ao militar fora alvo de inspeo conforme fls. 45 e 46v, estas realizadas nos anos de 2013 a 2015 respectivamente e que nessas ocasies no fora questionado quanto ao Porte Especial de Arma de fogo (PEAF). Contudo, vislumbra-se no impresso de fls. 15; 15v; 42 e 42v. que o militar estava ciente das normas e responsabilidades relacionadas ao PEAF. ou seja, era sabedor que se enquadrava na situao impeditiva prescrita no art. 10, inciso ]V da Resoluo 4.085/10, cumpre transcrever: ]V - Estar classificado no conceito c. Verifica-se que o militar era sabedor da classificao do seu conceito como consta em fls. 47. Vislumbra-se que o indeferimento do Porte Especial de Arma de Fogo foi publicado em BIR n. 89 de 12/12/2011 e estava acessvel ao militar, pois,  acessvel a todos os militares que tratava no referido boletim.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O militar tinha conhecimento da norma regulamentar que o impedia de portar a arma, pois os militares so instrudos constantemente de normas aplicveis vida na caserna. A alegao de desconhecimento do indeferimento do armamento fixo no foi aceita, pois a publicidade se deu em meio prprio e regular. Quanto ao dano ao colete balstico, restou provado que foi provocado por acidente automobilstico, causado concorrentemente pela ao do militar ao desrespeitar normas de trnsito. O encarregado manifestou-se pelo enquadramento e pela punio disciplinar do militar.

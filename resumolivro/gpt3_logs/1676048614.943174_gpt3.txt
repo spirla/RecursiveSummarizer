@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Cdigo Penal, em seu artigo 59, estabeleceu as circunstncias que orientam a primeira fase da tarefa de individualizao da reprimenda penal, ou seja, a fixao da pena-base. O referido dispositivo estabelece que o juiz, para fixar a pena-base, deve considerar a culpabilidade, os antecedentes, a conduta social, a personalidade do sujeito, os motivos, as circunstncias e consequncias do crime, bem como o comportamento da vtima. Tais circunstncias so denominadas judiciais, porque o sentido da variao da pena  conferido ao poder discricionrio do juiz, que poder considerar cada circunstncia no caso concreto para aumentar ou diminuir a pena a ser fixada na primeira fase. Ressalte-se, entretanto, que discricionariedade no significa arbitrariedade. Logo ao primeiro exame do dispositivo legal, uma dvida apresenta-se:  necessria a expressa avaliao, pelo rgo julgador, de todas as circunstncias judiciais? Comentando o artigo 42 do Cdigo Penal de 1940, que, na legislao revogada, estabelecia os critrios para a fixao da pena-base, Roberto Lyra defendeu que no era necessrio que o rgo julgador fizesse expressa aluso a cada circunstncia ali prevista, mas sim que o raciocnio desenvolvido no trabalho de individualizao no se afastasse desses parmetros. Anbal Bruno, por sua vez, defendeu que as investigaes impostas pelo artigo 42 somente seriam procedidas pelo juiz na medida em que se apresentassem necessrias e possveis de realizar, considerando-se o caso concreto. A necessidade de avaliar todas as circunstncias judiciais evidencia-se no fato de que tais circunstncias constituem vnculos ao ato discricionrio de aplicao de pena. Se o ordenamento jurdico estabelecer os parmetros em que se exercer a discricionariedade judicial, a no observncia destes importar violao  planificao normativa. Os critrios estipulados em lei para a identificao da pena a ser concretamente aplicada so, antes de tudo, garantias postas em favor dos acusados, na medida em que impem ao julgador desenvolver um raciocnio vinculado a esses mesmos critrios. A individualizao da pena  garantia constitucional, e o ru tem o direito de ser julgado conforme os critrios estabelecidos pelo legislador para a fixao da pena. Esclarece Luiz Luisi que:
+ de entender-se que, na individualizao judiciria da sano penal, estamos frente a uma discricionariedade juridicamente vinculada. O Juiz est preso aos parmetros que a lei estabelece.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal, em seu artigo 59, estabelece as circunstâncias que orientam a primeira fase da tarefa de individualização da reprimenda penal, ou seja, a fixação da pena-base. Essas circunstâncias são denominadas judiciais, pois o sentido da variação da pena é conferido ao poder discricionário do juiz. No entanto, essa discricionariedade não significa arbitrariedade, pois o juiz deve seguir os critérios estipulados em lei para a identificação da pena a ser aplicada. A individualização da pena é uma garantia constitucional e o réu tem o direito de ser julgado conforme esses critérios.

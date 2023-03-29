@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ALTERAO DO JULGADO QUE DEMANDA ANLISE DO CONJUNTO FTICO PROBATRIO. SMULA 7/STJ. CONTROLE JURISDICIONAL DO PROCESSO ADMINISTRATIVO DISCIPLINAR. EXAME DA REGULARIDADE DO PROCEDIMENTO E DA LEGALIDADE DO ATO. IMPOSSIBILIDADE DE INCURSO NO MRITO DO ATO ADMINISTRATIVO. [..] 3. Havendo sido observado o contraditrio e a ampla defesa e o devido processo legal no h que se falar em reviso da deciso administrativa pelo Poder Judicirio, pois importaria adentrar ao mrito administrativo, o que  vedado no controle jurisdicional das decises proferidas em sede de Processo Administrativo Disciplinar. Precedentes: AgInt no RMS 48.885/MG, Relator Ministro Srgio Kukina, Primeira Turma, DJe 12/12/2019 e AgInt no RMS 62.796/PA, Relator Ministro Francisco Falco, Segunda Turma, DJe 30/9/2020. 4. Agravo interno no provido. (STJ - AgInt no REsp 1888486/PR, Rel. Ministro BENEDITO GONALVES, PRIMEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020) Partindo dessa premissa, observa-se que os dois Processos de Comunicao Disciplinar objeto dos autos foram regidos em observncia  ampla defesa e ao contraditrio, no tendo o apelante elidido as imputaes que pesaram em seu desfavor. No Processo de Comunicao Disciplinar de Portaria n. 121.557/2017, o apelante foi comunicado disciplinarmente por suposta infringncia ao inciso XX26 do artigo 13 da Lei Estadual n. 14.310/2002 - Cdigo de tica e Disciplina dos Militares de Minas Gerais (CEDM). O Termo de Abertura de Vista (TAV) narrou os fatos e notificou o militar, ora apelante, a apresentar defesa prvia, verbis: Na data de 18/09/17, o militar devidamente escalado, faltou ao TPB, Treinamento Policial Bsico, com chamada prevista para 07h15min (Evento 1 - DOC2, pg.11). O comunicado apresentou sua defesa, na qual, em sntese, alegou ter faltado  chamada para o treinamento policial bsico (TPB) por motivo de fora maior.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de Justia negou o agravo interno, pois o Processo Administrativo Disciplinar foi conduzido em observncia ao contraditrio e ampla defesa, não havendo possibilidade de revisão da decisão administrativa pelo Poder Judiciário.

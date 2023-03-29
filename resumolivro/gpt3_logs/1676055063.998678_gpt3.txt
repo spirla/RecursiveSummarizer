@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Por prejuzo  Administrao Pblica deve-se entender qualquer evento prejudicial ao seu patrimnio, moral ou material, ou ao normal funcionamento de seus servios. Ordinariamente, a competncia para processar e julgar o crime  da Justia comum estadual (do Juizado Especial, no caso da figura fundamental prevista no caput do artigo 153 do CP). No entanto, a competncia ser da Justia comum federal quando o crime for cometido a bordo de navios ou aeronaves brasileiras, quando o sujeito ativo ou a vitima for funcionrios pblicos federais no exerccio de suas funes (inciso IV, do artigo 109 da CF - Smula 147 do STJ) ou se houver concurso com um crime da competncia da Justia Federal (Smula 122 do STJ). Considerando que a pena mnima cominada ao crime de divulgao de segredo, em sua forma simples,  inferior a 1 ano de privao da liberdade e em sua forma qualificada  igual a 1 ano, em relao aos dois crimes ser possvel a suspenso condicional do processo, desde que atendidos os demais requisitos estabelecidos no artigo 89 da Lei n 9.099/95. 6.12.11. Conflito aparente de normas. Divulgao de segredo e violao de correspondncia. O crime de divulgao de segredo se caracteriza com a divulgao do segredo obtido pelo sujeito ativo a terceiros. O crime de violao de correspondncia, previsto no artigo 40 da Lei 6.538/78, por sua vez, se caracteriza pelo simples conhecimento do contedo da correspondncia. A tutela penal oferecida pelo crime de violao de correspondncia visa proteger a inviolabilidade da correspondncia e a tutela disposta no crime de divulgao de segredo visa  proteo da inviolabilidade dos segredos.  possvel que o segredo tenha sido conhecido com o devassamento indevido prprio ao crime de violao de correspondncia. Se violao da correspondncia constituir conduta necessria para a divulgao de segredo, o crime previsto no artigo 153 do CP absorve o crime de violao de correspondncia, em razo do princpio da consuno. Divulgao de segredo e violao de correspondncia eletrnica. A interceptao de mensagem no ambiente eletrnico constitui crime, previsto no artigo 10 da Lei 9.296/96, que visa proteger a inviolabilidade da correspondncia eletrnica. O crime de divulgao de segredo exige a constatao de que o segredo conhecido pelo sujeito ativo seja divulgado a terceiros.  possvel que o segredo tenha sido conhecido com a interceptao de mensagem eletrnica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de divulgação de segredo se caracteriza pela divulgação do segredo obtido pelo sujeito ativo a terceiros, enquanto o crime de violação de correspondência se caracteriza pelo simples conhecimento do conteúdo da correspondência. A tutela penal oferecida pelo crime de violação de correspondência visa proteger a inviolabilidade da correspondência e a tutela prevista no crime de divulgação de segredo visa à proteção da inviolabilidade dos segredos. A interceptação de mensagem no ambiente eletrônico constitui crime previsto na Lei 9.296/96, que visa proteger a inviolabilidade da correspondência eletrônica.

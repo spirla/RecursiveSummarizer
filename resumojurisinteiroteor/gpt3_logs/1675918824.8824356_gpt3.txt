@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O trancamento de ao penal somente  cabvel em sede de habeas corpus quando, de modo flagrante, ficar evidenciada a atipicidade da conduta, a extino da punibilidade ou a ausncia de elementos indicirios demonstrativos de autoria e prova da materialidade. Ou seja, no se tranca ao penal, se no se constata, de imediato, ausncia de justa causa para sua propositura. 3. Pedido parcialmente prejudicado e, na parte apreciada, denegada a ordem. (TJMG - Habeas Corpus Criminal 1.0000.18.108214-0/000, Relator(a): Des. (a) Krin Emmerich, 1a CMARA CRIMINAL, julgamento em 20/11/2018, publicao da smula em 30/11/2018) EMENTA: HABEAS CORPUS - ASSOCIAO CRIMINOSA, TRFICO DE DROGAS E ASSOCIAO PARA O TRFICO - REVOGAO DA PREVENTIVA - PREJUDICADO - PACIENTES J SOLTOS. A soltura dos pacientes implica em perda de objeto em relao ao pedido de revogao da priso preventiva. (TJMG - Habeas Corpus Criminal 1.0000.18.002968-8/000, Relator(a): Des. (a) Flvio Leite, 1a CMARA CRIMINAL, julgamento em 06/02/2018, publicao da smula em 21/02/2018) Dessa forma, estando o paciente em liberdade, julgo prejudicado o presente writ, pela perda do seu objeto.  como voto. DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Acompanho o voto do eminente desembargador relator. DESEMBARGADOR JADIR SILVA Acompanho o eminente desembargador relator. Belo Horizonte, sesso ordinria presencial remota de julgamento do Tribunal de Justia Militar do Estado de Minas Gerais, aos 13 de dezembro de 2021. Desembargador Scrates Edgard dos Anjos Relator HABEAS CORPUS Processo eproc n. 2000103-83.2022.9.13.0000 Referncia: Processo n. 2000546-31.2022.9.13.0001 Relator: Desembargador Osmar Duarte Marcelino Julgamento: 04/10/2022 Publicao: 07/10/2022 Deciso: UNNIME EMENTA HABEAS CORPUS - PRISO PREVENTIVA - REVOGAO NO JUZO DE ORIGEM - CESSAO DOS MOTIVOS APONTADOS PARA A CONFIGURAO DE CONSTRANGIMENTO ILEGAL - WRIT PREJUDICADO PELA PERDA DO OBJETO. ACRDO Vistos, relatados e discutidos os presentes autos, sendo paciente Arnaldo Rodrigues, impetrante/advogado Carlos Galvo Neto e autoridade apontada como coatora o Juiz de Direito Titular da 1a Auditoria Judiciria Militar Estadual, acordam os desembargadores da Primeira Cmara, por unanimidade, em julgar prejudicado o habeas corpus, por absoluta perda do objeto. RELATRIO Cuida-se de habeas corpus impetrado em favor do paciente identificado no prembulo, por meio do qual se busca a revogao da priso preventiva. Segundo o fundamento essencial do writ, no dizer do impetrante: [...] Trata-se de habeas corpus impetrado contra deciso exarada pelo Exmo. Dr. Juiz da 1a Auditoria da Justia Militar de Minas Gerais, que em 24 de agosto de 2022, aps pedido de liberdade provisria durante audincia de custdia decretou a priso preventiva do Paciente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O trancamento de ao penal somente cabvel em sede de habeas corpus quando, de modo flagrante, ficar evidenciada a atipicidade da conduta, a extino da punibilidade ou a ausncia de elementos indicirios demonstrativos de autoria e prova da materialidade. O habeas corpus impetrado para a revogao da priso preventiva foi julgado prejudicado, pois o paciente j se encontrava solto, o que implicou na perda do objeto do pedido.

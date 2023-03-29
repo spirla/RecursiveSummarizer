@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O diferencial de aliquota consiste em recolhimento pelo estado de destino da diferenca entre as aliquotas interestadual (menor) e interna (maior), de maneira a equilibrar a partilha do ICMS em operacoes entre entes federados. Complementa-se o valor do ICMS devido na operacao. Ocorre, portanto, a cobranca de um unico imposto (ICMS) calculado de duas formas distintas, de modo a alcancar o valor total devido na operacao interestadual. Cabe ao legislador ordinario excepcionar a norma-regra da nao cumulatividade mesmo em situacao de plurifasia, impedindo a formacao do direito ao abatimento, desde que em prol da racionalidade do regime diferenciado e mais favoravel ao micro e pequeno empreendedor, bem como lastreado em finalidades com assento constitucional, como e o caso da promocao do federalismo fiscal cooperativo de equilibrio e da continuidade dos pilares do Estado Fiscal. Cabe destacar, por fim, que a opcao pelo Simples Nacional e facultativa no ambito da livre conformacao do planejamento tributario, arcando-se com bonus e onus decorrentes dessa escolha empresarial que, em sua generalidade, representa um tratamento tributario sensivelmente mais favoravel a maioria das sociedades empresarias de pequeno e medio porte. Nesse contexto, nao ha como prosperar uma adesao parcial ao regime simplificado, adimplindo-se obrigacao tributaria de forma centralizada e com carga menor, simultaneamente ao nao recolhimento de diferencial de aliquota nas operacoes interestaduais. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 517 da repercussao geral, negou provimento a recurso extraordinario. RE 970821/RS, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O diferencial de alíquota consiste no recolhimento pelo estado de destino da diferença entre as alíquotas interestadual (menor) e interna (maior), de maneira a equilibrar a partilha do ICMS em operações entre entes federados. 2. É cabível ao legislador ordinário excepcionar a norma-regra da não cumulatividade mesmo em situação de plurifasia, desde que em prol da racionalidade do regime diferenciado e mais favorável ao micro e pequeno empreendedor, lastreado em finalidades com assento constitucional. 3. A opção pelo Simples Nacional é facultativa no âmbito da livre conformação do planejamento tributário, arcando-se com bônus e ônus decorrentes dessa escolha empresarial. 4. Não há como prosperar uma adesão parcial ao regime simplificado, adimplindo-se obrigação tributária de forma centralizada e com carga menor, simultaneamente ao não recolhimento de diferencial de alíquota nas operações interestaduais.

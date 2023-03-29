@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A satisfacao dos debitos da entidade se submete ao regime constitucional dos precatorios, uma vez que se trata de sociedade de economia mista que presta servico publico essencial em regime nao concorrencial e sem intuito primario de lucro. A logica aplicada aos precatorios visa proteger a organizacao financeira dos orgaos da Administracao Publica, de forma a garantir a fiel execucao do orcamento e, consequentemente, a efetiva implementacao das politicas publicas ali previstas, bem como estabelecer isonomia entre os credores do Estado, promovendo a racionalizacao do pagamento das condenacoes judiciais da Fazenda Publica. Nesse sentido, o reconhecimento da incidencia do regime de precatorios a Caesb prestigia o principio da continuidade dos servicos publicos, a protecao a saude coletiva e o acesso ao minimo existencial, pois ela presta servicos publicos que compoem o nucleo essencial do direito a uma existencia digna. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado em arguicao de descumprimento de preceito fundamental. O ministro Edson Fachin acompanhou o relator com ressalvas. ADPF 890 MC-Ref/DF, relator Min. Dias Toffoli, julgamento virtual finalizado em 26.11.2021 (sexta-feira), as 23:59 (INF 1039) Empresas estatais prestadoras de servico publico e sequestro de verbas publicas por decisao judicial - ADPF 616/BA Tese fixada: Os recursos publicos vinculados ao orcamento de estatais prestadoras de servico publico essencial, em regime nao concorrencial e sem intuito lucrativo primario nao podem ser bloqueados ou sequestrados por decisao judicial para pagamento de suas dividas, em virtude do disposto no art. 100 da CF/88, e dos principios da legalidade orcamentaria (art. 167, VI, da CF), da separacao dos poderes (arts. 2, 60,  4, III, da CF) e da eficiencia da administracao publica (art. 37, caput, da CF).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os recursos publicos vinculados ao orcamento de estatais prestadoras de serviço público essencial, em regime não concorrencial e sem intuito lucrativo primário não podem ser bloqueados ou sequestrados por decisão judicial para pagamento de suas dívidas, em virtude do disposto no art. 100 da CF/88, e dos princípios da legalidade orçamentária (art. 167, VI, da CF), da separação dos poderes (arts. 2, 60, 4, III, da CF) e da eficiência da administração pública (art. 37, caput, da CF). 2. A satisfação dos débitos da entidade se submete ao regime constitucional dos precatórios, uma vez que se trata de sociedade de economia mista que presta serviço público essencial em regime não concorrencial e sem intuito primário de lucro. 3. A lógica aplicada aos precatórios visa proteger a organização financeira dos órgãos da Administração Pública, de forma a garantir a fiel execução do orçamento e, consequentemente, a efetiva implementação das políticas públicas ali previstas, bem como estabelecer isonomia entre os credores do Estado, promovendo a racionalização do pagamento das condenações judiciais da Fazenda Pública.

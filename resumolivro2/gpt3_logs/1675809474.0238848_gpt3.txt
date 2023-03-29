@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A intimao ou a notificao do advogado constitudo, do defensor dativo ou do curador judicial, supre a do acusado, salvo se este estiver preso, caso em que dever ser intimado ou notificado pessoalmente, com conhecimento do responsvel pela sua guarda, que o far apresentar em juzo, no dia e hora designados, salvo motivo de fora maior, que comunicar ao juiz (artigo 288, pargrafo 2, CPPM). A jurisprudncia do STJ firmou-se no sentido de que a intimao de um dos vrios advogados da parte , em regra, vlida e eficaz, de modo que prescindvel seja a intimao dirigida a todos eles (STJ, HC 224.523). 13.3.1.2. Intimao e notificao do Ministrio Pblico e defensor. A intimao ou notificao do membro do Ministrio Pblico  sempre pessoal.  prerrogativa de no exerccio da funo receber intimao pessoal em qualquer processo e grau de jurisdio, atravs da entrega dos autos com vista (LONMP - Lei 8.625/93, artigo 41, IV). No mesmo sentido, dispe o Estatuto do Ministrio Pblico da Unio (artigo 18, II, h, LC 75/1993). Decidiu o STF (HC 83.225/SP) que para a otimizao da eficincia dos servios a entrega do processo em setor administrativo do Ministrio Pblico, formalizada a carga pelo servidor, configura intimao direta, pessoal, cabendo tomar a data em que ocorrida como a da cincia da deciso judicial. A intimao pessoal para todos os atos do processo tambm  prerrogativa do membro da Defensoria Pblica. A Lei Complementar 80, de 12.01.1994, que organizou a Defensoria Pblica da Unio, do Distrito Federal e dos Territrios, assim conferiu essa prerrogativa ao membro da Defensoria Pblica da Unio de receber, inclusive quando necessrio, mediante entrega dos autos com vista, intimao pessoal em qualquer processo e grau de jurisdio ou instncia administrativa, contando-se-lhes em dobro todos os prazos (artigo 44, I). O STF decidiu que a no observncia da intimao pessoal prevista na legislao em vigor acarreta nulidade processual.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A intimao ou notificação do advogado, defensor dativo ou curador judicial supre a do acusado, exceto se este estiver preso, caso em que deverá ser intimado ou notificado pessoalmente. O Ministério Público e o membro da Defensoria Pública também têm direito à intimada pessoal para todos os atos do processo. A não observância da intimada pessoal prevista na legislação em vigor acarreta nulidade processual.

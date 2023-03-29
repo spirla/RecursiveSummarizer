@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos casos de absolvio imprpria no se aplica pena, mas os prazos para a incidncia da prescrio devem ser calculados com base na pena privativa de liberdade cominada ao comportamento praticado pelo inimputvel e que  descrito como crime. Tratando-se de prescrio antes do trnsito em julgado da deciso judicial, o prazo de prescrio deve ser calculado com base na pena mxima cominada ao crime. Se fosse o caso de aplicao de pena, a prescrio tomaria como base a pena mxima cominada ao crime. No entanto, tratando-se de prescrio intercorrente ou da pretenso executria, a definio do prazo de prescrio deve orientar-se pela pena concretamente aplicada. Como ao inimputvel no se aplica pena, o entendimento predominante  no sentido de que a prescrio tambm dever tomar como base a pena mxima cominada. Nesse sentido, o Supremo Tribunal Federal j decidiu que:
+Habeas corpus. Absolvio por inimputabilidade. Imposio de medida de segurana. Alegao de ocorrncia de prescrio retroativa pelo prazo mnimo estabelecido na sentena para a medida de segurana.  evidente que no h que se falar em prescrio retroativa da pretenso punitiva pela pena concretizada, quando, por inimputabilidade, h absolvio com a imposio obrigatria de medida de segurana, cujo tempo de durao  indeterminado, e cujo prazo mnimo estabelecido pelo juiz no tem obviamente qualquer correspondncia com a pena que seria imposta, caso no ocorresse a inimputabilidade. Habeas corpus indeferido. (HC 68783). No mesmo sentido, o Superior Tribunal de Justia:
+A medida de segurana se insere no gnero sano penal, do qual figura como espcie, ao lado da pena. Por tal razo, o Cdigo Penal no necessita dispor especificadamente sobre a prescrio no caso de aplicao exclusiva de medida de segurana ao acusado inimputvel, aplicando-se, assim, nestes casos, a regra inserta no artigo 109, do Cdigo Penal. (HC 41744). Tratando de sentena absolutria, em razo da inimputabilidade do ru, o prazo da prescrio  regulado pelo mximo da pena privativa de liberdade abstratamente cominada ao crime. (RHC 9815). No caso de semi-imputabilidade, deve-se observar a situao peculiar de o magistrado lhe aplicar pena antes de proceder a substituio por medida de segurana. Muito embora a reprovao do semi-imputvel seja reduzida, durante o curso do processo, a incidncia da prescrio da pretenso punitiva opera-se da mesma forma como para o inimputvel.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No caso de absolvio imprpria, o prazo de prescrição deve ser calculado com base na pena máxima cominada ao crime, independentemente da aplicação de pena. O entendimento predominante é que a prescrição também deve tomar como base a pena máxima cominada. No caso de semi-imputabilidade, mesmo que a reprovabilidade seja reduzida, a prescrição da pretenção punitiva opera-se da mesma forma como para o inimputável.

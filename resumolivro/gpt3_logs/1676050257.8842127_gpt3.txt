@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A norma que define o alcance das causas extintivas da responsabilidade ressalta que a impossibilidade de aplicar pena em relao a um dos crimes integrantes do concurso no significa atenuar a responsabilidade dos demais crimes integrantes desse concurso. Veja-se outro exemplo: no caso de leses corporais recprocas, a morte de um dos autores no extingue a responsabilidade do outro. 21.1.3. Condies objetivas de responsabilidade. Tema tormentoso  o que diz respeito s condies objetivas de responsabilidade. Na doutrina, tradicionalmente, costuma-se sustentar a distino entre as condies de responsabilidade (que so construes do direito material e interferem diretamente na pretenso punitiva) das condies de procedibilidade, que, por sua vez, so circunstncias que interferem na marcha processual e dizem respeito ao direito processual. As condies objetivas de responsabilidade interferem na pretenso punitiva, mas no so elementos do crime. Ao contrrio, situam-se fora da construo dogmtica do crime e devem ser analisadas posteriormente. A ideia que orienta a construo jurdica das condies objetivas de responsabilidade sustenta que, em alguns casos, a responsabilidade de determinado crime est condicionada  verificao de certas circunstncias externas ao crime. No satisfeitas tais condies objetivas de responsabilidade, apesar da ocorrncia do fato criminoso, no se poder aplicar pena. Contudo, no h concordncia entre os autores quando se trata de enumerar as hipteses de condies objetivas de responsabilidade. Apesar da grande aceitao obtida pela categoria jurdica, alguns autores negam existncia s condies objetivas de responsabilidade, sustentando que as circunstncias indicadas como tal so, na verdade, exigncias objetivas do tipo ou condies de procedibilidade. Melhor parece ser a posio de Zaffaroni, introduzida no Brasil pelas mos do professor Jos Henrique Pierangeli: as causas que impedem a responsabilidade devem ser tratadas no contexto da operatividade da coero penal. A teoria da coero penal nada tem a ver com a existncia do crime em si, e sistematiza todas as condies que impedem a coero penal, sejam de natureza penal ou processual penal. A contribuio dos professores Zaffaroni e Pierangeli certamente far que em breve o tema seja tratado de maneira mais adequada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A norma que define o alcance das causas extintivas da responsabilidade indica que a impossibilidade de aplicar pena em relação a um dos crimes integrantes do concurso não atenua a responsabilidade dos demais. As condições objetivas de responsabilidade interferem na pretenção punitiva, mas no são elementos do crime. A teoria da coerção penal sistematiza todas as condições que impedem a coerção penal, sejam de natureza penal ou processual penal.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Roberto Barroso, julgamento virtual finalizado em 27.2.2021 (INF 1007) 4.6 CONTROLE DE CONSTITUCIONALIDADE Controle concentrado de constitucionalidade de norma municipal por Tribunal de Justica em face da CF/88 - ADI 5647/AP Resumo: E constitucional o dispositivo de constituicao estadual que confere ao tribunal de justica local a prerrogativa de processar e julgar acao direta de constitucionalidade contra leis e atos normativos municipais tendo como parametro a CF/88, desde que se trate de normas de reproducao obrigatoria pelos estados. As normas constitucionais de reproducao obrigatoria, por possuirem validade nacional, integram a ordem juridica dos estados-membros ainda quando omissas em suas Constituicoes estaduais, inexistindo qualquer discricionariedade em sua incorporacao pelo ordenamento local. Com base nesse entendimento, o Plenario, por unanimidade, julgou parcialmente procedente o pedido formulado em acao direta para dar interpretacao conforme a CF ao art. 133, II, m, da Constituicao do Estado do Amapa. ADI 5647/AP, relatora Min. Rosa Weber, julgamento virtual finalizado em 3.11.2021 (quarta-feira), as 23:59 (INF 1036) Controle concentrado de constitucionalidade: lei organica como parametro de controle e necessidade de comunicacao a assembleia legislativa - ADI 5548/PE Resumo: Nao se admite controle concentrado de constitucionalidade de leis ou atos normativos municipais em face da lei organica respectiva. Com efeito, nao e possivel extrair, da literalidade do art. 125,  2, da CF/88, o cabimento de controle concentrado de constitucionalidade de leis ou atos normativos municipais contra a lei organica respectiva. Nao compete ao Poder Legislativo, de qualquer das esferas federativas, suspender a eficacia de lei ou ato normativo declarado inconstitucional em controle concentrado de constitucionalidade. As decisoes tomadas em controle concentrado ja sao dotadas de eficacia erga omnes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional o dispositivo de Constituição Estadual que confere ao Tribunal de Justiça local a prerrogativa de processar e julgar ação direta de constitucionalidade contra leis e atos normativos municipais tendo como parâmetro a CF/88. 2. As normas constitucionais de reprodução obrigatória, por possuírem validade nacional, integram a ordem jurídica dos Estados-membros ainda quando omissas em suas Constituições Estaduais, inexistindo qualquer discricionariedade em sua incorporação pelo ordenamento local. 3. Não se admite controle concentrado de constitucionalidade de leis ou atos normativos municipais em face da lei orgânica respectiva. 4. Não compete ao Poder Legislativo, de qualquer das esferas federativas, suspender a eficácia de lei ou ato normativo declarado inconstitucional em controle concentrado de constitucionalidade. 5. As decisões tomadas em controle concentrado já são dotadas de eficácia erga omnes.

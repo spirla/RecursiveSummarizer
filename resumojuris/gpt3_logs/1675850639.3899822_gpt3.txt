@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O trancamento de acao penal pela via do habeas corpus e medida excepcional, cabivel apenas quando demonstrada, de plano, a atipicidade da conduta, a extincao da punibilidade ou a manifesta ausencia de provas da existencia do crime e de indicios de autoria. Do exame da inicial acusatoria, desponta a dificuldade em se inferir que conduta supostamente praticada pela denunciada efetivamente teria contribuido para o exito da empreitada criminosa. De fato, e imputado a pratica de ocultacao de valores oriundos de suposta pratica ilicita. Ocorre que, diferentemente dos demais acusados, nao resta claro da denuncia que delito antecedente teria a acusada incidido. 1291 Muito embora se admita doutrinariamente o dolo eventual no delito de lavagem de capitais - a exemplo do gerente de banco que, necessitando atingir metas internas da instituicao financeira na venda de produtos bancarios, permite que pessoa potencialmente vinculada a praticas criminosas utilize sua conta para adquirir produtos e servicos com recursos de origem ilicita, deixando de adotar praticas de diligencia ou mesmo de conformidade, adere assim a atividade criminosa -, o caso em analise mostra-se distinto. Se, no exemplo citado, do gerente do banco exige-se a consciencia da conduta e o conhecimento das regras do jogo financeiro, o mesmo nao se pode esperar das relacoes com vinculos afetivos, como relacoes conjugais, entre pais e filhos ou mesmo entre parentes. Na especie, necessario que o orgao acusatorio demonstre cabalmente que o agente conhecia a origem ilicita dos valores e deliberadamente agia para oculta-los. Sobre o tema, o STJ tem entendido ser desnecessario que o autor do crime de lavagem de capitais tenha sido autor ou participe do delito antecedente, bastando que tenha ciencia da origem ilicita dos bens e concorra para sua ocultacao ou dissimulacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O trancamento de ação penal pela via do habeas corpus é medida excepcional, cabível apenas quando demonstrada, de plano, a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de provas da existência do crime e de indícios de autoria. 2. É doutrinariamente admitido o dolo eventual no delito de lavagem de capitais. 3. É desnecessário que o autor do crime de lavagem de capitais tenha sido autor ou participe do delito antecedente, bastando que tenha ciência da origem ilícita dos bens e concorra para sua ocultação ou dissimulação.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A inciden-cia de juros moratorios com base na variacao da taxa SELIC nao pode ser cumulada com a aplicacao de outros indices de atualizacao monetaria, cumulacao que representaria bis in idem; II - A fim de garantir seguranca juridica e isonomia na aplicacao desta tese, devem ser observa-dos os marcos para modulacao dos efeitos da decisao fixados no julgamento conjunto da ADI 5.867, ADI 6.021, ADC 58 e ADC 59, como segue: (i) sao reputados validos e nao ensejarao qualquer rediscussao, em acao em curso ou em nova demanda, incluindo acao rescisoria, todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro indice), no tempo e modo oportunos (de forma extrajudicial ou judicial, inclusive depositos judiciais) e os juros de mora de 1% ao mes, assim como devem ser mantidas e execu-tadas as sentencas transitadas em julgado que expressamente adotaram, na sua fundamentacao ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mes; (ii) os processos em curso que estejam sobrestados na fase de conhecimento, independentemente de estarem com ou sem sentenca, inclusive na fase recursal, devem ter aplicacao, de forma retroativa, da taxa Selic (juros e correcao monetaria), sob pena de alegacao futura de inexigibilidade de titulo judicial fundado em interpretacao contraria ao posi-cionamento do STF (art. 525,  12 e 14, ou art. 535,  5 e 7, do CPC e (iii) os parametros fixados neste julgamento aplicam-se aos processos, ainda que transitados em julgado, em que a sentenca nao tenha consignado manifestacao expressa quanto aos indices de correcao monetaria e taxa de juros (omissao expressa ou simples consideracao de seguir os criterios legais). Resumo: Nao se aplica a Taxa Referencial (TR) como indice de correcao monetaria de debitos trabalhis-tas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I - Não é permitida a cumulação da incidência de juros moratórios com base na variação da taxa SELIC com a aplicação de outros índices de atualização monetária; II - Devem ser observados os marcos para modulação dos efeitos da decisão fixados no julgamento conjunto da ADI 5.867, ADI 6.021, ADC 58 e ADC 59, como segue: (i) são reputados válidos e não ensejarão qualquer rediscussão, em ação em curso ou em nova demanda, incluindo ação rescisória, todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro índice), no tempo e modo oportunos (de forma extrajudicial ou judicial, inclusive depósitos judiciais) e os juros de mora de 1% ao mês; (ii) os processos em curso que estejam sobrestados na fase de conhecimento, independentemente de estarem com ou sem sentença, inclusive na fase recursal, devem ter aplicação, de forma retroativa, da taxa Selic (juros e correção monetária); (iii) os parâmetros fixados neste julgamento aplicam-se aos processos, ainda que transitados em julgado, em que a sentença não tenha consignado manifestação expressa quanto aos índices de correção monetária e taxa de juros. Não se aplica a Taxa Referencial (TR) como índice de correção monetária de dívidas trabalhistas.

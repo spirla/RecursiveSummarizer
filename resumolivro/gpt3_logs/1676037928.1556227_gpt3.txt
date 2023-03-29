@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Entre as vrias teorias que trabalharam a ideia de condies qualificadas destaca-se a teoria da causalidade adequada, atribuda ao mdico Johannes Von Kries. Segundo essa construo terica, causa  o antecedente, no s necessrio, como tambm adequado  produo do resultado. A adoo de tal posicionamento significa que no se deve considerar todos os antecedentes necessrios  produo do resultado, mas somente aqueles que, alm de necessrios, so idneos  produo do resultado. A idoneidade do antecedente  apurada com auxlio da experincia que revela, de maneira objetiva, ser ordinria a produo do resultado pela atuao da causa. A idoneidade  identificada pela probabilidade de o antecedente produzir o resultado. Assim, ficam excludos da relao causal os acontecimentos extraordinrios, excepcionais, mesmo que tenham concorrido para a produo do resultado. No exemplo de Beling, no existiria relao causal entre acender uma lareira no inverno e o incndio produzido pelas fagulhas carregadas pelo vento. A considerao da inadequao da contribuio  cadeia causal pode, ainda, excluir da causalidade determinado antecedente considerado insignificante. Caberia ao julgador analisar o caso, colocando-se na posio do sujeito, e, considerando os dados da experincia e as circunstncias do caso concreto, realizar um prognstico sobre as consequncias de seu atuar. O mtodo a ser utilizado impe avaliar se cada causa  idnea a produzir o resultado, no momento da realizao do crime. Tal procedimento implica a realizao de um prognstico (avaliao para o futuro), mas somente ocorre depois da interveno dos fatores causais.  teoria da causalidade adequada tambm foram dirigidas muitas crticas, em especial pela indefinio dos critrios de probabilidade. Outra objeo diz respeito ao mtodo de trabalho adotado. Por que examinar o que j aconteceu como se ainda no tivesse ocorrido, se na verdade j se verificou? Critica-se tambm a teoria por ampliar exageradamente o campo da irresponsabilidade penal, ao considerar apenas alguns dos antecedentes como integrantes da cadeia causal. Essa ltima crtica evidentemente no procede, pois no interessa ao Direito Penal manusear suas foras em face de todas as contribuies objetivas ao resultado, mas somente em face das socialmente relevantes.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Teoria da Causalidade Adequada, atribuda ao mdico Johannes Von Kries, considera que para que haja relao causal entre causa e resultado necessrio que o antecedente seja adequado e idneo à produção do resultado. Esta teoria foi alvo de muitas críticas, principalmente por sua indefinição de critérios de probabilidade e por ampliar exageradamente o campo da irresponsabilidade penal.

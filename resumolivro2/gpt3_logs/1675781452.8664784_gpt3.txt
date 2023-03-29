@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No Dirio da Justia Eletrnico, a publicao diria, de segunda a sexta-feira, a partir das 17h, exceto nos feriados nacionais e forenses e nos dias em que, mediante divulgao, no houver expediente, considerando como data da publicao o primeiro dia til seguinte ao da divulgao da informao no Dirio da Justia Eletrnico e os prazos processuais tm incio no primeiro dia til que se seguir ao considerado como data da publicao. A intimao ou a notificao do advogado constitudo, do defensor dativo ou do curador judicial, supre a do acusado, salvo se este estiver preso, caso em que dever ser intimado ou notificado pessoalmente, com conhecimento do responsvel pela sua guarda, que o far apresentar em juzo, no dia e hora designados, salvo motivo de fora maior, que comunicar ao juiz (artigo 288, pargrafo 2, CPPM). A jurisprudncia do STJ firmou-se no sentido de que a intimao de um dos vrios advogados da parte , em regra, vlida e eficaz, de modo que prescindvel seja a intimao dirigida a todos eles (STJ, HC 224.523). 13.3.1.2. Intimao e notificao do Ministrio Pblico e defensor. A intimao ou notificao do membro do Ministrio Pblico  sempre pessoal.  prerrogativa de no exerccio da funo receber intimao pessoal em qualquer processo e grau de jurisdio, atravs da entrega dos autos com vista (LONMP - Lei 8.625/93, artigo 41, IV). No mesmo sentido, dispe o Estatuto do Ministrio Pblico da Unio (artigo 18, II, h, LC 75/1993). Decidiu o STF (HC 83.225/SP) que para a otimizao da eficincia dos servios a entrega do processo em setor administrativo do Ministrio Pblico, formalizada a carga pelo servidor, configura intimao direta, pessoal, cabendo tomar a data em que ocorrida como a da cincia da deciso judicial. A intimao pessoal para todos os atos do processo tambm  prerrogativa do membro da Defensoria Pblica.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Dirio da Justia Eletrônico publica diariamente, exceto em feriados nacionais e forenses, a partir das 17h. Os prazos processuais têm início no primeiro dia útil seguinte à publicação da informação. A intimação ou notificação do advogado, defensor dativo ou curador judicial supre a do acusado, exceto se este estiver preso. O STJ firmou-se no sentido de que a intimação de um dos vários advogados da parte é, em regra, válida e eficaz. A intimação ou notificação do membro do Ministério Público é sempre pessoal. A mesma prerrogativa também é do membro da Defensoria Pública para todos os atos do processo.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1.1.3 - No dia 24/03/2019, o veculo VW/GOL de propriedade do Sr. Andr Luiz foi localizado por uma Guarnio do 17 BPM, conforme consignado no REDS n 2019-013548825-001, com priso em flagrante delito dos autores que estavam na posse do bem roubado. 1.1.4 - No dia 25/03/2019, o Acusado passou ao proprietrio do veculo roubado, uma mensagem, via aplicativo whatsapp, com os seguintes dizeres: "estou muito feliz por voc porque a gente prendeu o vagabundo e seu carro foi recuperado. Naquela mesma data, o militar deslocou-se at e empresa da vtima, a qual disse que o valor a ser pago seria alto para ser repassado em dinheiro, ocasio em que o militar sugestionou que o montante poderia ser transferido de forma eletrnica, cuja transferncia bancria (TED) no valor de R$5.000,00 (cinco mil reais) foi efetivada para a conta n 013.0531110-5, agncia n 1910, da Caixa Econmica Federal, em nome da esposa do Acusado, Sra. Vnia Ferreira da Silva, inscrita no CPF n 007.078.261-01. 1.1.5 - No dia 26/03/2019, os Policiais Militares que atuaram na localizao do veculo dirigiram-se at a empresa da vtima, Sr. Andr Luiz, localizada no bairro Umuarama, nesta cidade, com o intuito de mostrar foto do autor preso na direo do veculo roubado, para fins de eventual reconhecimento daquele como autor. Naquela ocasio, os Policiais Militares foram atendidos pelo filho do proprietrio do veculo, Sr. Gustavo Ribeiro Miranda, o qual relatou que "o dinheiro teria sido entregue a outro militar e que gostaria de dividir o prmio, porque foi a guarnio dos militares que prendeu o autor e recuperou o veculo. [..] 1.1.7 - Constam nos documentos insertos aos autos, prints e udios das conversas mantidas entre o acusado e a vtima, Sr. Andr Luiz, por meio das quais foi realizado o acerto para o pagamento do valor indevido. H tambm, cpia do extrato bancrio do SICOOB, relativo  transferncia do valor pecunirio, feita pela vtima do roubo do veculo, para a conta bancria da Caixa Econmica Federal, cujos dados da titular so coincidentes com os dados da qualificao da esposa do acusado, conforme se extrai do Sistema Informatizado de Recursos Humanos da PMMG (SIRH). Feitas tais consideraes, passo  anlise da primeira preliminar de mrito, arguida pela defesa, de que, ainda em sede de sindicncia, o reconhecimento fotogrfico do militar, ora recorrente, foi realizado sem o devido acatamento das formas legais impostas pelo art. 202 da Resoluo n. 4.220/12, o que torna nula a sindicncia instaurada em seu desfavor. O fato alegado pela defesa no  capaz de acarretar a nulidade de todo o Processo Administrativo-Disciplinar. O caderno probatrio coligido aos autos demonstra que a suposta transgresso praticada pelo apelante se deu em razo de ter feito uso de sua graduao para receber vantagem pecuniria indevida.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O veículo VW/GOL de propriedade do Sr. Andr Luiz foi localizado por uma Guarnição do 17 BPM e, posteriormente, o acusado sugeriu a vítima que o pagamento deveria ser feito por meio de transferência bancária para a conta da esposa do acusado. Posteriormente, os militares foram até a empresa da vítima para realizar o reconhecimento fotográfico do acusado. O caderno probatório demonstra que o acusado fez uso da sua graduação para receber vantagem pecuniária indevida.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Na arguio de parcialidade, a parte pode alegar circunstncia ou defeitos que tornem a testemunha suspeita de parcialidade ou indigna de f. Nessa hiptese, o objetivo no  o de excluir a testemunha. Na verdade, o objetivo da arguio de parcialidade  o de fazer constar do ato que a testemunha  tendenciosa, o que ser sopesado pelo magistrado quando da valorao de seu depoimento [...] (LIMA, Renato Brasileiro de - Manual de Processo Penal: volume nico - 8. ed. rev., ampl. e atual. - Salvador: Ed. JusPodium, 2020, p. 778) No caso dos autos, o depoimento prestado pela testemunha Adriana possui relevante valor probatrio, tendo em vista que se encontra coerente com as demais provas colhidas no feito. O acusado, por sua vez, negou ter praticado os fatos narrados na denncia. Em seu interrogatrio, o ru asseverou que, no dia dos fatos, aps realizar uma priso, viu um veculo com as mesmas caractersticas do carro de um traficante da regio, razo pela qual resolveu retornar e fazer a abordagem. Afirmou que estava na viatura com o Cabo Juliano e o Soldado Silva e que realizou vrios sinais de sirene, mas que o veculo parou somente trs quarteires  frente. Disse que determinou, por umas quatro ou cinco vezes, que o ofendido descesse do veculo, com as mos na cabea, tendo ele abaixado o vidro do carro e colocado a cabea para fora, momento em que percebeu que no se tratava do traficante chamado Ricardo. Relatou que pediu ao ofendido que descesse e fosse para a traseira do veculo, todavia ele, inicialmente, no quis descer. Disse que, depois, o ofendido desceu do carro, balanando a mo e perguntando se eles no teriam mais o que fazer. Ressaltou que o ofendido comeou a questionar e resistir em obedecer s ordens dadas, no querendo colocar as mos na cabea e se deslocar para a traseira do veculo. Afirmou que, como o ofendido no queria obedecer, teve que entrar em contato fsico com ele, para faz-lo colocar as mos na cabea, e lev-lo para a traseira do veculo. Disse que nada de ilcito foi localizado na busca realizada no veculo e que o ofendido dizia, o tempo todo, que eles no tinham mais o que fazer e que eles no sabiam com quem estavam mexendo. Em razo desses fatos, asseverou que prendeu o ofendido e o levou para a delegacia, salientando que j havia um traficante na viatura. Afirmou que usou fora fsica apenas para colocar as mos do ofendido na cabea e que no proferiu xingamentos contra ele. Relatou que Adriana Aparecida de Rezende estava no veculo com o ofendido no dia dos fatos e que ela lhe pediu para ser liberada, afirmando que havia conhecido o ofendido naquele dia.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A testemunha Adriana possui relevante valor probatrio, pois seu depoimento coerente com as demais provas colhidas no processo. O acusado negou ter praticado os fatos narrados na denncia. O depoimento do acusado relata que, durante a abordagem, houve resistncia do ofendido em obedecer s ordens dadas, motivo pelo qual teve que entrar em contato fsico com o mesmo. No veculo, estava Adriana Aparecida de Rezende, que pediu para ser liberada, afirmando que havia conhecido o ofendido naquele dia.

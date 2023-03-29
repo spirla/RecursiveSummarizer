@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O tipo penal pressupe a interrelao entre trs sujeitos distintos: a) o sujeito ativo do crime, que pode ser entendido como aquele que realiza a conduta tpica; b) o sujeito passivo, que  o titular do bem jurdico atacado pela conduta do sujeito passivo; e c) o Estado, que  a pessoa jurdica de Direito Pblico interno que possui delegao do povo para o exerccio do poder punitivo e  chamado a reagir ao crime com a imposio da pena. Pode-se verificar que entre os sujeitos existe uma conexo de expectativas recprocas, que faz que cada um espere dos demais determinados comportamentos. O sujeito ativo pode esperar que o Estado persiga-o e aplique a sano penal. O sujeito passivo, por sua vez, espera que a ameaa de punio faa que os possveis criminosos desistam de praticar o crime. Por fim, o Estado espera que a criminalizao da conduta impea o comportamento do sujeito ativo. Sujeito ativo. O crime  um comportamento que viola a norma jurdico-penal; assim, o sujeito ativo do crime  a pessoa humana que comete o ilcito penal. No raro, os crimes so cometidos por mais de um sujeito ativo, o que caracteriza o concurso de pessoas (artigo 29). No que diz respeito  indicao do sujeito ativo, os tipos permitem classificar os crimes em comuns ou prprios. O crime comum  aquele em que qualquer pessoa pode realizar a conduta tpica e ser sujeito ativo do crime. Como exemplo, tem-se o crime de homicdio (artigo 121) ou o de furto (artigo 155), cujos tipos no exigem qualidade ou condio especial do sujeito ativo. Os crimes prprios, por sua vez, so aqueles nos quais o tipo contm a exigncia de determinada qualidade ou condio especial do sujeito ativo, restringindo a possibilidade de caracterizao do sujeito ativo. So exemplos de crimes prprios o infanticdio (artigo 123) e o peculato (artigo 312), pois exigem, respectivamente, que o sujeito ativo seja a me da vtima ou funcionrio pblico. No se pode confundir o sujeito ativo do crime com o responsvel. Se, em geral, a responsabilidade recai unicamente sobre a pessoa do sujeito ativo do crime, excepcionalmente nos crimes ambientais, a pessoa jurdica tambm pode ser responsabilizada. Entretanto, mesmo nesses casos, a pessoa jurdica no ser o sujeito ativo do crime. Na legislao nacional, mesmo aps a Constituio de 1988 e a Lei 9.605/98, somente pode ser sujeito ativo de crime a pessoa fsica. A responsabilidade penal da pessoa jurdica , hoje, uma realidade incontestvel.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tipo penal pressupõe a interrelação entre três sujeitos: o sujeito ativo (aquele que realiza a conduta típica), o sujeito passivo (titular do bem jurdico atacado) e o Estado (pessoa jurdica de Direito Público interno). O crime é um comportamento que viola a norma jurdico-penal, podendo ser cometido por mais de um sujeito ativo. Existem crimes comuns, em que qualquer pessoa pode ser sujeito ativo, e crimes próprios, nos quais o tipo contém a exigência de determinada qualidade ou condição especial. A responsabilidade penal da pessoa jurdica é uma realidade incontestável.

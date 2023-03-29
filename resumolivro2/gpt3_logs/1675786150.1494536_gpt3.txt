@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Carta Magna, no artigo 105, III, determina competir ao STJ julgar, em recurso especial, as causas decididas, em nica ou ltima instncia, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territrios. Decises criminais militares tomadas, em nica ou ltima instncia, pelos Tribunais de Justia e Militares estaduais. O artigo 105, III, a, da CF, diz caber recurso especial se a deciso recorrida contrariar tratado ou lei federal, ou negar-lhes vigncia. Por lei federal entenda-se Cdigo Penal Militar e Cdigo de Processo Penal Militar. A doutrina define que a contrariedade  lei  positiva ao se aplicar um dispositivo legal em uma hiptese em que este no deveria ter incidncia (por exemplo, condenar o civil por desero) ou aplicar o dispositivo legal de forma diversa do previsto em lei. A contrariedade  lei  negativa quando se deixa de aplicar uma regra legal na hiptese em que deveria ter subsuno (por exemplo, deixa de declarar extinta a punibilidade pela reparao do dano no peculato culposo). E negar vigncia ao tratado ou lei federal designa negar aplicao ao caso concreto. A segunda hiptese de cabimento de recurso especial  prevista no artigo 105, III, b, da CF, se a deciso julgar vlido ato de governo local contestado em face de lei federal. Aqui no se trata de lei, mas de ato de governo local. Por fim, o artigo 105, III, c, da CF, prev cabvel o recurso especial quando a lei federal interpretao divergente da que lhe haja atribudo outro tribunal. No cabe recurso especial se a divergncia for dentro do mesmo tribunal, para ser cabvel a divergncia deve ser entre tribunais distintos. A Smula 13 do STJ estabelece que A divergncia entre julgados do mesmo Tribunal no enseja recurso especial. A finalidade  uniformizar a interpretao da lei federal. Neste sentido a Smula 83 do STJ fixa que:
+No se conhece do recurso especial pela divergncia, quando a orientao do Tribunal se firmou no mesmo sentido da deciso recorrida. No basta o recorrente alegar a divergncia, neste caso, o artigo 255, pargrafo 1, do RISTJ, repetiu o disposto no artigo 1029, pargrafo 1, CPC.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Carta Magna, no artigo 105, III, determina que o STJ julgue recursos especiais de decisões criminais militares tomadas em nica ou última instância pelos Tribunais de Justiça e Militares estaduais. O recurso é cabível se a decisão contrariar tratado ou lei federal, ou negar-lhes vigência. A Smula 13 do STJ estabelece que a divergência entre julgados do mesmo Tribunal não enseja recurso especial, visando uniformizar a interpretação da lei federal.

@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+So exemplos de atos inexistentes:
+(a) sentena proferida por pessoa no investida do cargo de juiz;
+(b) audincia realizada por quem no  inscrito na OAB;
+(c) a sentena no assinada. Ato irregular  aquele cujo defeito no compromete a eficcia do princpio constitucional ou processual, ou seja,  de mnima relevncia para o processo e no gera prejuzo s partes. O legislador sancionou de nulidade a omisso de formalidade que constitua elemento essencial do processo (artigo 500, IV, CPPM), logo, a omisso de formalidade que no constitua elemento essencial do processo no acarreta nulidade. So exemplos de irregularidade:
+(a) o juiz togado no rubricar as folhas da sentena como determina o artigo 438, pargrafo 3, do CPPM;
+(b) erro lanado na ata quanto  data da sesso de julgamento;
+(c) a ausncia no laudo de exame cadavrico da qualificao dos peritos (STJ, HC 108.226). Os atos nulos so aqueles em que a falta de adequao ao tipo legal pode levar ao reconhecimento de sua inaptido para produzir efeitos no mundo jurdico. Nulo  o ato imperfeito, defeituoso, atpico, a que se aplicou a sano de ineficcia. O ato anulvel  aquele que produz efeitos at que seja invalidado. O ato relativamente nulo difere do ato anulvel porque a validade do primeiro est subordinada a uma condio suspensiva;
+e a do segundo, a uma condio resolutiva. O ato nulo nasce ineficaz, mas  possvel que adquira validade e eficcia pela supervenincia de fato ou circunstncia que o faa convalescer. O ato anulvel nasce vlido, mas perde eficcia se anulado ou rescindido. H necessidade de pronunciamento judicial sobre a nulidade do ato praticado irregularmente, pois, como leciona Eugenio Pacelli, toda nulidade exige manifestao expressa do rgo judicante, isso porque uma vez praticado o ato, a tendncia do processo  seguir a sua marcha. 17.3. Nulidade absoluta e relativa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existem três tipos de atos: inexistentes, irregulares e nulos. Ato inexistente é aquele que não foi realizado de acordo com a lei, como sentença proferida por pessoa não investida do cargo de juiz, audiência realizada por quem não está inscrito na OAB ou sentença não assinada. Ato irregular é de mínima relevância para o processo e não gera prejuízo às partes. Ato nulo é aquele cuja falta de adequação à lei pode levar à sua inaptidão para produzir efeitos no mundo jurídico. Existem ainda os atos anuláveis, que produzem efeitos até serem invalidados. A nulidade exige manifestação expressa do órgão judicante.

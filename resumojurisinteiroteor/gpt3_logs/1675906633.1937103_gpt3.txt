@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O juiz no resolver o mrito quando: - reconhecer a existncia de perempo, de litispendncia ou de coisa julgada;  3 O juiz conhecer de ofcio da matria constante dos incisos IV, V, VI e IX, em qualquer tempo e grau de jurisdio, enquanto no ocorrer o trnsito em julgado. H que se ressaltar, ainda, a possibilidade de litispendncia entre mandado de segurana e ao ordinria no presente caso, conforme entendimento do colendo STJ: PROCESSUAL CIVIL. MANDADO DE SEGURANA. SERVIDOR PBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSO. ANULAO DA PORTARIA. REINTEGRAO. LITISPENDNCIA. AO DE RITO ORDINRIO. PROCESSO EXTINTO. SEGURANA DENEGADA. (...) 5. Ressalte-se que o fenmeno da litispendncia se caracteriza quando h identidade jurdica, ou seja, quando as aes intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constitudo de pessoas distintas; em um pedido mandamental, a autoridade administrativa, e, no outro, a prpria entidade de Direito Pblico. (AgRg no MS 18.759/DF, Rel. Ministro Napoleo Nunes Maia Filho, Primeira Seo, DJe 10/5/2016). Neste sentido, necessrio transcrever o relatrio da sentena proferida na ao mandamental em curso: Cuida-se de Mandado de Segurana impetrado por RONALDO DA SILVA MENDES JUNIOR, j qualificada nos autos, contra ato dito coator do JULIANO FBIO LEMOS DIAS - Comandante da 5a RPM de Uberaba/MG, j qualificada nos autos, alegando, em sntese, que  Policial Militar de Minas Gerais desde o ano de 2008, conquanto sempre atuou na cidade de Uberaba, a qual dispensa cuidado e educao das suas trs filhas, inclusive, uma de suas filhas, Maria Clara Martins da Silva, na atualidade com apenas 14 (quatorze) anos, possui quadro agudo de depresso com dois quadros de ideao suicida, sendo socorrida urgentemente e levado ao hospital Mrio Palmrio desta cidade, que necessitam da presena do pai, ora Impetrante, para os cuidados dirios, como levar at a escola e atividades esportivas para o desenvolvimento das crianas, alm de possuir bom comportamento na instituio e realizou relevantes servios para a comunidade de Uberaba, combatendo na linha de frente a criminalidade violenta. Aduz, ainda, que mais recente fora punido com suspenso em Sindicncia Administrativa Disciplinar que no lhe garantiu o direito ao contraditrio e a ampla defesa, sendo que a partir de ento, passou a ser perseguido e assediado moralmente pela parte impetrada, mesmo havendo recurso administrativo pendente de anlise pela instncia administrativa superior.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz reconheceu a existência de litispendência entre o mandado de segurança e a ação ordinária, pois ambos objetivam o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas. O juiz também reconheceu que o impetrante foi punido com suspenso em Sindicância Administrativa Disciplinar sem direito ao contraditório e à ampla defesa.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Conforme o artigo 155, pargrafo 2, do Cdigo Penal, se o criminoso  primrio, e  de pequeno valor a coisa furtada, o juiz pode substituir a pena de recluso pela de deteno, diminu-la de um a dois teros, ou aplicar somente a pena de multa. Nessa hiptese, ao juiz foi conferido o poder discricionrio de escolher entre a substituio da pena, sua diminuio ou aplicao alternativa da pena pecuniria. Alm do critrio relativo ao valor da coisa furtada, indicativo do menor contedo do injusto praticado, o juiz dever observar a qualificao subjetiva do condenado. Impondo a primariedade como requisito necessrio para a diminuio da pena, o pargrafo 2 do artigo 155 estabelece que somente  possvel a diminuio da pena quando no se verificar aumento no contedo da culpabilidade, em decorrncia da reincidncia. Tratando do crime de estelionato, o artigo 171, pargrafo 1, estabelece que, se o criminoso  primrio, e  de pequeno valor o prejuzo, o juiz pode aplicar a pena conforme o disposto no artigo 155, pargrafo 2. Note-se que o contedo do injusto no furto  determinado pelo valor da coisa, enquanto no estelionato  determinado pelo valor do prejuzo. Magalhes Noronha59 leciona que o pequeno valor da coisa subtrada somente se verifica quando a conduta no causar dano sensvel  generalidade dos homens, sendo que o rico, talvez, nem perceba a falta do bem, e ao pobre, em sua misria, este seja de pouca valia. Consagrou-se, entretanto, entendimento no sentido de que  de pequeno valor a coisa que no alcana o preo correspondente a um salrio mnimo vigente  poca do crime. Tal postura,  evidncia, no traduz entendimento mais acertado. O valor de um salrio mnimo, cuja vinculao para qualquer finalidade a Constituio da Repblica, em seu artigo 7, IV, proibiu, somente  pequeno para quem no o tenha como nica remunerao mensal pelo trabalho. J no que diz respeito ao prejuzo, sua mensurao ser sempre dependente da grandeza do patrimnio ofendido. Assim, uma importncia que seria vultosa para a maioria das pessoas pode no significar nada para um milionrio. Na receptao dolosa, conforme o artigo 180, pargrafo 5, tambm  possvel a diminuio de um a dois teros, se o criminoso for primrio e for de pequeno valor a coisa receptada. Nos termos do raciocnio desenvolvido para o furto mnimo, o melhor entendimento coloca-se no sentido de reconhecer o pequeno valor da coisa receptada, quando a conduta criminosa no causar dano sensvel  generalidade dos homens.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 155, pargrafo 2, do Código Penal permite que o juiz substitua a pena de reclusão por detenção, diminua-a de um a dois terços ou aplique somente a pena de multa quando o criminoso for primário e a coisa furtada for de pequeno valor. O mesmo princípio se aplica ao crime de estelionato (artigo 171, pargrafo 1) e à receptação dolosa (artigo 180, pargrafo 5). Para determinar o que é considerado "pequeno valor", o juiz deve levar em conta se a conduta não causou dano sensível à generalidade dos homens.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A doutrina clssica reconheceu a inidoneidade absoluta apenas nos casos em que o meio empregado, isolada e abstratamente considerado, no pudesse, em nenhum caso, produzir o resultado lesivo. Considerava, por outro lado, a inidoneidade relativa quando o meio empregado no tivesse produzido o resultado por causa das circunstncias peculiares ao caso concreto. Esta antiga distino entre inidoneidade absoluta (abstrata) e relativa (concreta) encontra-se cientificamente ultrapassada, porque a adequao deve ser examinada sempre diante das caractersticas do caso concreto. O exame sobre a inidoneidade do meio ou do objeto deve ser sempre uma inidoneidade concreta. Por isso, ainda hoje se percebe a necessidade de averiguar, diante das circunstncias de cada caso concreto, se h ou no a impossibilidade absoluta de satisfazer as exigncias objetivas do tipo penal incriminador. Nos casos em que houver a possibilidade de satisfao de tais requisitos, ainda que remota, a inidoneidade do meio deve ser considerada apenas relativa e o crime possvel. Ainda cabe observar que o crime impossvel no possui natureza jurdica de causa extintiva de punibilidade, como a redao do artigo 32 do CPM pode sugerir, mas constitui situao ftica ou jurdica que no permite a adequao tpica, tendo em vista a impossibilidade concreta de satisfazer as exigncias de natureza objetiva do tipo incriminador. O crime impossvel constitui, portanto, situao de inadequao tpica. A inadequao tpica do crime impossvel se verifica quando as exigncias objetivas do tipo incriminador no podem ser satisfeitas tendo em vista a ocorrncia de qualquer das seguintes situaes: a) ineficcia absoluta do meio de execuo empregado; e b) impropriedade absoluta do objeto do crime. Examinemos melhor estas situaes. 2.7.2.1. Ineficcia absoluta do meio empregado. A primeira causa que impede a satisfao das exigncias objetivas do tipo  a ineficcia absoluta do meio de execuo empregado pelo sujeito para a realizao da conduta proibida. Em tais casos o sujeito acredita que o meio de execuo escolhido  idneo  realizao do crime, mas este no o .
+Por meio de execuo do crime deve-se entender o modo como o sujeito pretende realizar a conduta proibida, considerando-se inclusive os instrumentos de que eventualmente se utilize para tanto. O exame sobre a ineficcia no pode restringir a anlise aos meios ou instrumentos utilizados pelo sujeito, de maneira isolada, abstratamente, mas, sim, no contexto do modo concreto como o sujeito os emprega.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina clssica reconheceu a inidoneidade absoluta apenas quando o meio empregado não pudesse produzir o resultado lesivo. A inidoneidade deve ser examinada considerando as características do caso concreto. O crime impossível é uma inadequação típica, ocorrendo quando as exigências objetivas do tipo incriminador não podem ser satisfeitas devido à ineficácia absoluta do meio de execução empregado ou impropriedade absoluta do objeto do crime.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Confira-se: Art.17 - A percia psicopatolgica  de competncia exclusiva da JCS e destina-se  verificao da existncia ou no de transtorno mental, desenvolvimento mental incompleto ou retardado e a avaliao do nexo de causalidade entre estes e o fato gerador, estabelecendo assim a capacidade de entendimento e autodeterminao do periciado.  1 - A percia psicopatolgica determina tecnicamente a imputabilidade, a semi-imputabilidade ou inimputabilidade do agente, constituindo-se em um procedimento mdico-pericial que tem por objetivo subsidiar processos administrativo-disciplinares, de polcia judiciria militar e de desero.  2 - A percia psicopatolgica ser realizada quando, comprovadamente, existir pelo menos uma das situaes abaixo discriminadas: a) uso nocivo de etlicos ou de drogas ilcitas, conforme Captulo V da Classificao Internacional de Doenas; b) tratamento psiquitrico com ou sem internao hospitalar; c) transtorno mental orgnico; d) sinais e/ou sintomas de doena mental alienante.  3 - As situaes elencadas no pargrafo anterior devero estar registradas e comprovadas, anteriormente ao fato motivador da percia psicopatolgica, no pronturio mdico do militar sob a guarda do NAIS. Alm de haver essa limitao temporal,  importante ressaltarmos que, na hiptese dos autos, chama ateno o fato de o primeiro atestado mdico apresentado pelo apelante (Evento 1 - DOC9, fl. 35) ter sido ser emitido no dia de 15/08/2017, ou seja, apenas 4 dias aps a realizao da reunio de instalao do PAD que ocorreu no dia 11/08/2017, conforme se verifica na ata da reunio de instalao (Evento 1 - DOC9, fl. 35). Alm disso, tambm causa estranheza haver a informao, no referido atestado mdico, de que a fenomenologia psictica teve incio em data pretrita  da consulta mdica, todavia, at aquele momento, o paciente (apelante) no havia revelado tais sintomas a nenhum profissional. Para melhor elucidao, transcrevo o teor do atestado mdico emitido pela mdica psiquiatra Alline Luisa Gonalves (Evento 1 - DOC9, fl. 35): [...] Paciente Aldemir Luiz Vieira apresenta sintomatologia caracterizada por rebaixamento de humor grave, afeto ansioso, insnia, alteraes autonmicas. H tambm fenomenologia psictica: alucinaes auditivas, vozes que se iniciaram h um ano e aumentaram de intensidade. As vozes o ordenam se suicidar com arma de fogo e fazer atos incongruentes com seus valores e sua moral familiar. H ideao de se tornar errante. H risco para si. At o momento, paciente no havia revelado tais sintomas a nenhum profissional. [.]
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A percia psicopatolgica foi determinada para verificar a existncia ou no de transtorno mental, desenvolvimento mental incompleto ou retardado e a avaliao do nexo de causalidade entre estes e o fato gerador, estabelecendo assim a capacidade de entendimento e autodeterminação do periciado. O atestado médico emitido revelou sintomas de rebaixamento de humor grave, afeto ansioso, insônia, alterações autonômicas, alucinações auditivas e ideação de tornar-se errante.

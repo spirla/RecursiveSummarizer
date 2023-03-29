@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No processo penal, exceo em sentido amplo  sinnimo de defesa processual quanto s condies da ao e os pressupostos processuais. Em sentido restrito pode ser compreendida como qualquer alegao da defesa que busca neutralizar a pretenso do autor. Diz-se que excees so procedimentos incidentais que apresentam questes prvias, que devem ser apreciadas antes do julgamento do mrito, como bem observa Aury Lopes Jnior assumem um carter de prejudicialidade em relao ao julgamento do mrito, eis que exigem um julgamento anterior quele de mrito e podem provocar o afastamento do juiz ou do juzo ou a extino do processo. A doutrina as classifica, pelos efeitos que produzem, em dilatrias as excees que prorrogam o curso da ao penal ou transferem seu exerccio e no visam a pr fim ao processo, mas apenas  substituio do juiz ou do juzo, cujos exemplos so as de suspeio e impedimento, e em peremptrias as que pem termo  causa sem julgamento do mrito, como as excees de litispendncia, de ilegitimidade de partes e de coisa julgada. A defesa no processo penal, comum e militar,  direta quando o acusado se contrape ao mrito da acusao negando o fato ou a autoria ou alegando atipicidade da conduta a ele imputada ou ter agido acobertado por uma excludente da ilicitude ou da culpabilidade, e indireta ao arguir exceo. 10.2. Excees de suspeio ou de impedimento. 10.2.1. Exceo de suspeio ou de impedimento do juiz. As causas de suspeio e de impedimentos foram comentadas no item 9.2.4. e 9.2.5. A exceo de suspeio ou de impedimento visa a afastar o juiz da causa em razo de lhe faltar capacidade subjetiva ou compatibilidade, pressuposto processual subjetivo relativo  pessoa do julgador, para apreciar e julgar imparcialmente a causa criminal. As excees de suspeio e impedimento so dilatrias porque no pe fim ao processo, apenas afastam o juiz suspeito ou impedido.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No processo penal, as exceções são alegações da defesa que buscam neutralizar a pretensão do autor. Elas podem ser classificadas em dilatórias, que prorrogam o curso da ação penal, e peremptórias, que põem fim à causa sem julgamento do mérito. A defesa pode ser direta, quando o acusado se contrapõe ao mérito da acusação, ou indireta, ao arguir exceção. As exceções de suspeito ou de impedimento visam afastar o juiz da causa em razão de lhe faltar capacidade subjetiva para julgar imparcialmente. São dilatórias, pois não põem fim ao processo, apenas afastam o juiz suspeito ou impedido.

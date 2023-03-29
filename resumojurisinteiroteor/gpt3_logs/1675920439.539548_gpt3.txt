@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Extrai-se da exordial acusatria que o militar foi denunciado em virtude de (Evento n. 2): no dia 28/04/2018, estando escalado para o servio das 07:00 s 19:00 horas no setor de registro de REDS da 216a Cia PM, em So Gotardo-MG, ter deixado de comparecer ao seu posto de trabalho no horrio preestabelecido, apresentando-se  Unidade por volta das 15:00 horas, quando afirmou no possuir condies de exercer suas funes naquele dia por no se sentir bem, sem, contudo, apresentar qualquer atestado mdico que corroborasse o suposto mal-estar (evento 2 - DENUNCIA2) Diante dos fatos narrados, o juzo primevo rejeitou a denncia sob o fundamento de que "o tipo penal do artigo 196 do CPM exige que o militar descumpra algum servio especfico, no constituindo crime a mera falta ao servio para o qual se encontrava escalado, questo a ser resolvida na esfera administrativa e no na penal militar. Irresigando o Ministrio Pblico interps o presente recurso, com fulcro no artigo 516, alnea "d, do CPPM (Evento 2 - OUT8 - fls. 02), j acompanhado das razes recursais (Evento 2 - OUT8 - fls. 03/06). Asseverou, incialmente, que, mesmo consciente, "a atribuio que deveria desempenhar na data de 28/04/2018, o militar denunciado somente compareceu na sede da 216a Cia PM por volta de 15:00, oportunidade em que apresentou-se ao CB PM Marcos Jos de Carvalho Oliveira, dizendo que somente estava se apresentando para no configurar desero, mas que no estaria se sentindo bem. Alegou que, apesar de ter dito que no se sentia bem, o militar no apresentou atestado mdico que corroborasse duas alegaes, o que, por consequncia, "torna incua a afirmao de que sofria de problemas de sade que o incapacitavam para o desempenho da misso que lhe fora designada.. Afirmou que a conduta imputada ao denunciado  o descumprimento de misso e no a falta ao servio, como entendeu o magistrado a quo. Afirmou, ainda, que a conduta do denunciado  ato que merece ser penalmente reprimido, tanto por sua gravidade quanto por sua adequao tpica ao delito previsto no art. 196 do Cdigo Penal Militar, j que possua a misso de atender "o pblico externo na soluo de suas demandas, formulando os REDS que fossem devidos. Ao final, requereu o conhecimento e o provimento do presente recurso, para que a denncia seja recebida pelo juzo primevo. Registre-se que foi procedida a migrao dos autos do meio fsico para o eletrnico (Eventos 1 e 3). A defesa do Cb PM Wilian foi intimada por duas vezes, para que apresentasse as contrarrazes, contudo quedou-se inerte. Determinada nova tentativa de intimao do cabo PM, agora pessoal (Evento 2 - OUT9 - fls.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juízo Primevo rejeitou a denúncia de descumprimento de missão de um militar, alegando que o tipo penal previsto no art. 196 do CPM exige que o militar descumpra algum serviço específico, não configurando crime a mera falta ao serviço para o qual estava escalado. O Ministério Público interpôs recurso, alegando que, mesmo consciente, o militar compareceu à unidade por volta das 15:00 horas e não apresentou atestado médico que corroborasse o mal-estar alegado. Após a migração dos autos para o meio eletrônico, a defesa do militar foi intimada para apresentar as contrarrazões, contudo ficou inerte.

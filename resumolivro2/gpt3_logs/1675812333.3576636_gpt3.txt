@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No precedente, o STJ considerou o recurso de ofcio mero procedimento para conferir efeito da coisa julgada, e no recurso propriamente dito..
+18.1.3. Princpios e regras dos recursos. 18.1.3.1. Princpio da fungibilidade. O princpio da fungibilidade  previsto no artigo 514 do CPPM:
+Salvo a hiptese de m-f, no ser a parte prejudicada pela interposio de um recurso por outro. Por consequncia, determina o seu pargrafo nico que, se o juiz ou Tribunal reconhecer a impropriedade do recurso, mandar process-lo de acordo com o rito do recurso cabvel. Visa o princpio da fungibilidade evitar que o formalismo impea o conhecimento do recurso. Se no houve m-f da parte recorrente, o juiz determina o processamento de acordo com o recurso adequado. O STF, por fora do princpio da fungibilidade, tem convertido embargos de declarao opostos objetivando reforma da deciso do relator, com carter infringente, em agravo regimental, que  o recurso cabvel. A aplicao do princpio depende da boa-f do recorrente, que  presumida, enquanto a m-f deve ser demonstrada, porm no h um conceito legal de m-f e, por ser um conceito aberto, indeterminado, permite a manipulao conceitual. A doutrina tem-se valido da casustica para reconhecer a m-f. Caracteriza a m-f o uso de recurso incabvel, mas com maior prazo, utilizado em razo da parte ter perdido o prazo do recurso cabvel.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ considera o recurso de ofício como um procedimento para conferir efeito da coisa julgada. O princípio da fungibilidade previsto no artigo 514 do CPPM impede que a parte seja prejudicada pela interposição de um recurso por outro. O STF converte embargos de declaração opostos objetivando reforma da decisão do relator, com caráter infringente, em agravo regimental. A aplicação do princípio depende da boa-f do recorrente, que é presumida, enquanto a má-f deve ser demonstrada.

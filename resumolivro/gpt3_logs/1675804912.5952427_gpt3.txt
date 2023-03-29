@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+41 O principio da proibicao da reformatio in pejus implica na vedacao da reforma da decisao para pior, ou seja, havendo recurso disciplinar da defesa a autoridade recorrida nao podera agravar a situacao do militar recorrente. 42 Sobre os prazos prescricionais praticado no mbito das IMEs, vide comentarios ao artigo 90 deste Codigo. 43 CARVALHO FILHO, Jose dos Santos. Op cit. p. 600. 44 Dispoe sobre o Estatuto dos Funcionarios Publicos Civis do Estado de Minas Gerais. 45 Monografia intitulada: Termo de Ajustamento Disciplinar na Policia Militar de Minas Gerais: analise juridica sobre a possibilidade de sua aplicacao em face do Decreto Estadual n. 46 906/15, com foco na eficincia administrativa. 46 A validade reside na compatibilidade do ato juridico [todo ato administrativo e um ato juridico] com o modelo normativo. (JUSTEN FILHO, 2016, p. 231). 47 Segundo Maria Sylvia Zanella DI PIETRO (Direito Administrativo, 19 ed, p. 609), ao contrario do direito penal, em que a tipicidade e um dos principios fundamentais, decorrente do postulado segundo o qual nao ha crime sem lei anterior que o preveja (nullum crimem, nulla poena sine lege), no direito administrativo prevalece a atipicidade; sao muito poucas as infracoes descritas na lei (...). A maior parte delas fica sujeita a discricionariedade administrativa diante de cada caso concreto (...). 48 Tratam-se de elementos cuja definicao nao advem do proprio CEDM. E o caso, por exemplo, do conceito de ato atentatorio a dignidade da pessoa, principios da cidadania e dos direitos humanos, honra pessoal e decoro da classe, desidia e outros. 49 Bis in idem e o duplo sancionamento indevido numa mesma esfera e pelo cometimento de um mesmo fato.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da proibição da reformatio in pejus impede que a autoridade recorrida agrave a situação do militar recorrente. No direito administrativo, a tipicidade é pouco comum, sendo a maioria das infrações sujeitas à discricionariedade administrativa. Alguns conceitos, como ato atentatório à dignidade da pessoa, princípios da cidadania e dos direitos humanos, honra pessoal e decoro da classe, desidia e outros, não são definidos pelo CEDM. O bis in idem é o duplo sancionamento indevido numa mesma esfera e pelo cometimento de um mesmo fato.

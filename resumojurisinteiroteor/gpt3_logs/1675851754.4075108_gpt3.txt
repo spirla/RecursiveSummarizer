@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Agravo regimental no provido. (AgRg no REsp 1900903/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021) Nesse sentido, entendo que no se poderia exigir que, os motociclistas deixassem os selos violados sem tomar as medidas legais e administrativas para a regularizao de suas motocicletas, pagando multas e dirias do ptio de remoo de veculos, restando, portanto, configurada a excepcional possibilidade de a prova tcnica ser suprida por outros elementos probatrios. Assim, afasto o argumento do cerceamento de defesa aventando. Verifica-se que a defesa alega, tambm, o cerceamento de defesa do ru pelo indeferimento da percia nas mdias digitais gravadas quando da ocorrncia das blitze. Ao debruar-me sobre os autos, verifico que, diante da motivao apresentada pela magistrada no bojo da deciso objurgada, no subsiste o arguido cerceamento de defesa, pois a sentena indicou fundamentadamente os motivos de fato e de direito que subsidiaram o indeferimento do pleito. Conforme j assentou o Egrgio STJ, no h constrangimento ilegal no indeferimento de diligncias, quando o magistrado o faz fundamentadamente, por consider-las infundadas, desnecessrias ou protelatrias. Ao que tudo indica, o indeferimento de percia das mdias digitais mostrou-se escorreitamente motivado, pois a magistrada pautou-se em outros meios de prova e indcios para assegurar a autoria delitiva do ru, bem como reconheceu a desnecessidade de deferimento do pedido. Veja- se trecho da deciso que indeferiu o pleito: [...] a realizao de exame pericial, s expensas do Estado, no est adstrita a meras alegaes, mas aos elementos ou s circunstncias fortssimas indicativas de sua necessidade e de sua importncia. (fls. 1684/1691) Constata-se, pelas peas contidas nos autos, que no existem apontamentos fticos concretos de falsidade, de edio, de manipulao ou de outro elemento que, eventualmente, pudesse tirar a confiabilidade das imagens de blitze gravadas - tampouco a defesa os apontou fundamentalmente, quando do requerimento de percia nas imagens. Nos termos do que apontou o Ministrio Pblico primevo, entendo que o pleito trazido pela defesa do ru carece de fundamentos concretos capazes de comprovar a nulidade arguida. Nesses termos, refuto o argumento exposado pelo apelante de cerceamento de defesa, motivo pelo qual rejeito a segunda preliminar de mrito. Terceira preliminar A defesa alegou que deve ser anulado o feito por inpcia da denncia, j que a mesma trouxe um misto de imputaes penais aos acusados do processo, o que dificultou a anlise particular de cada um dos denunciados, a exemplo das condutas amoldadas nos artigos 150, 312 e 336, todos do Cdigo Penal Militar (CPM).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Agravo regimental negado. Não houve cerceamento de defesa pelo indeferimento da perícia nas mídias digitais gravadas, pois a sentença indicou fundamentadamente os motivos de fato e de direito que subsidiaram o indeferimento do pleito. Rejeitada a terceira preliminar de mérito de anulação do feito por inépcia da denúncia, pois a mesma trouxe um misto de imputações penais aos acusados.

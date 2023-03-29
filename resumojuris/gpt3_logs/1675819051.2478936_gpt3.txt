@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A inobservancia do procedimento descrito na referida norma processual torna invalido o reconheci-mento da pessoa suspeita, de modo que tal elemento nao podera fundamentar eventual condenacao ou decreta-cao de prisao cautelar, mesmo se refeito e confirmado o reconhecimento em juizo. Se declarada a irregularida-de do ato, eventual condenacao ja proferida podera ser mantida, se fundamentada em provas independentes e nao contaminadas. A realizacao do ato de reconhecimento pessoal carece de justificacao em elementos que indiquem, ainda que em juizo de verossimilhanca, a autoria do fato investigado, de modo a se vedarem medidas investi-gativas genericas e arbitrarias, que potencializam erros na verificacao dos fatos. Com base nesses entendimentos, a Segunda Turma, por maioria, deu provimento a recurso ordinario em habeas corpus. RHC 206846/SP, relator Ministro Gilmar Mendes, julgamento em 22.2.2022. (INF 1045) 13.9 PRISAO PREVENTIVA Prisao preventiva: prazo nonagesimal para a sua revisao e respectiva competencia jurisdi-cional - ADI 6581/DF e ADI 6582/DF Resumo: O transcurso do prazo previsto no paragrafo unico do art. 316 do CPP (CPP) nao acarreta, automaticamente, a revogacao da prisao preventiva e, consequentemente, a conces-sao de liberdade provisoria. Isso porque nao houve, por parte da lei, a previsao de automaticidade. O paragrafo unico do art. 316 do CPP nao dispoe que a prisao preventiva passa a ter 90 dias de duracao. Estabelece, tao somente, a necessida-de de uma reanalise, que pressupoe a reavaliacao da subsistencia, ou nao, dos requisitos que fundamentaram o decreto prisional. A exigencia da revisao nonagesimal quanto a necessidade e adequacao da prisao preventiva aplica-se ate o final dos processos de conhecimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A inobservância do procedimento descrito na norma processual torna inválido o reconhecimento da pessoa suspeita, de modo que tal elemento não poderá fundamentar eventual condenação ou decretação de prisão cautelar. 2. Eventual condenação já proferida poderá ser mantida, se fundamentada em provas independentes e não contaminadas. 3. A realização do ato de reconhecimento pessoal carece de justificação em elementos que indiquem, ainda que em juízo de verossimilhança, a autoria do fato investigado, de modo a se vedarem medidas investigativas genéricas e arbitrárias. 4. O transcurso do prazo previsto no parágrafo único do art. 316 do CPP não acarreta, automaticamente, a revogação da prisão preventiva e, consequentemente, a concessão de liberdade provisória. 5. A exigência da revisão nonagesimal quanto à necessidade e adequação da prisão preventiva aplica-se até o final dos processos de conhecimento.

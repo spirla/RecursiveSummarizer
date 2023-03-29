@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Em alguns casos, a identificao do tipo penal especfico depende da percepo do sentido da conduta imposto por quem realiza o crime, embora o resultado naturalstico especfico no tenha se verificado na realidade. Veja-se o exemplo da tentativa de um crime qualificado em que se verifique a consumao do tipo simples: tentativa de leso grave pela perda de membro - artigo 129, pargrafo 2, III, do CP -, que produziu apenas uma leso leve. Havendo previso especfica para a conduta que o sujeito intencionalmente se props a realizar, mesmo que no tenha conseguido produzir a leso mais grave, o tipo penal a ser caracterizado  o da leso qualificada. 3.5.2. Princpio da subsidiariedade. O princpio da subsidiariedade significa que um preceito penal s ter aplicao, de forma auxiliar, no caso de no caracterizar-se outro considerado de incidncia primria - lex primaria derogat legi subsidiariae. A subsidiariedade, portanto,  caracterstica da disposio legal que se considera remanescente a outra que se apresenta mais abrangente. A situao de subsidiariedade de um preceito legal pode transparecer de maneira expressa ou tcita. A subsidiariedade expressa se verifica quando, no prprio texto da disposio legal, encontra-se clusula de que sua aplicao est subordinada  no incidncia de outra disposio.  o que acontece, por exemplo, na cominao de pena do tipo previsto no artigo 132 do CP, ao dispor que tal apenao se opera se o fato no constitui crime mais grave. A subsidiariedade tcita se verifica quando a conduta incriminada por um preceito legal constitui elemento componente ou agravante especial de outro preceito incriminador, de modo que a caracterizao do ltimo exclui a simultnea caracterizao do primeiro. Como exemplo de subsidiariedade tcita, pode-se citar o furto qualificado pelo arrombamento de porta em residncia (artigo 155, pargrafo 4, I, do CP), que compreende o crime de dano (artigo 163 do CP), e o de violao de domiclio (artigo 150 do CP). A caracterizao do crime de furto qualificado impede a caracterizao dos crimes de dano e a violao de domiclio. Bustos Ramrez observa que o chamado princpio da subsidiariedade nada mais  do que outra forma de enunciao da mesma frmula lgica que encerra a especialidade, posto que a caracterizao do tipo subsidirio (geral) se opera por defeito de outro especfico. 3.5.3. Princpio da consuno.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da especialidade prevê que a conduta incriminada por um preceito legal exclui a simultânea caracterização de outro preceito incriminador. O princípio da subsidiariedade significa que um preceito penal só terá aplicação, de forma auxiliar, no caso de não caracterizar-se outro considerado de incidência primária. Por fim, o princípio da consumação afirma que a caracterização do tipo subsidiário (geral) se opera por defeito de outro específico.

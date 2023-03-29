@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Embargos de declarao rejeitados. (STJ - EDcl no AgInt no RHC 83.405/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/02/2018, DJe 19/02/2018; sem destaque no original.) TRIBUTRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSO. CONTRADIO. AUSNCIA DE VCIOS. [...] III - A contradio sanvel por embargos de declarao  aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentao e as concluses da prpria deciso, capaz de evidenciar uma ausncia de logicidade no raciocnio desenvolvido pelo julgador. IV - O recurso integrativo no se presta a corrigir contradio externa entre o decisum impugnado e o entendimento da parte, ou entre este e outras decises deste Tribunal, bem como no se revela instrumento processual vocacionado para sanar eventual error in judicando. V - Embargos de declarao rejeitados. (STJ - EDcl no AgInt no AgInt no REsp n. 1.906.375/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2022, DJe de 6/4/2022.) Pelo exposto, inexistindo os vcios arguidos pelo embargante, rejeito o presente recurso de embargos de declarao.  como voto. DESEMBARGADOR JADIR SILVA Acompanho o voto do eminente desembargador relator. DESEMBARGADOR JAMES FERREIRA SANTOS Acompanho o voto do eminente desembargador relator.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Embargos de declarao rejeitados por inexistncia de vcios arguidos.

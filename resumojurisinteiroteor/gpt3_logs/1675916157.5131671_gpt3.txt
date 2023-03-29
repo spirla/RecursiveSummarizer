@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Crmen Lcia, DJe de 28/4/2016. 3. In casu, os pacientes foram denunciados pela suposta prtica do crime previsto no artigo 240,  5 e 6, I, IV, c/c artigo 240,  2, do Cdigo Penal Militar. [...] (STF - HC 171939 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 30/08/2019, PROCESSO ELETRNICO DJe-201 DIVULG 16-09-2019 PUBLIC 17-09-2019). No caso em tela, a denncia foi recebida pela autoridade apontada como coatora em 27/06/2022, sob os seguintes fundamentos, in verbis: Recebo a denncia oferecida ao Evento 52, em relao  acusada, Cb PM Kissy de Paula Andrade, por atender aos requisitos formais e legais necessrios ao seu recebimento, com narrativa, em tese, constitutiva de injusto culpvel, atendo-se s formalidades descritas pela normativa processual - tipicidade objetiva, punibilidade concreta, justa causa e legitimidade ad causam (evento 1 - Processo 200040421.2022.9.13.0003). Nessa esteira, temos que o impetrante utilizou-se da via inadequada para anlise de supostos vcios ocorridos no IPM, pois  assente o entendimento jurisprudencial no sentido de que a ao constitucional de habeas corpus no se presta a discutir qualquer matria que envolva dilao probatria. Confira-se: [...] REVOLVIMENTO DO CONJUNTO FTICO-PROBATRIO. INADMISSIBILIDADE NA VIA ELEITA. INEXISTNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO. 1. A controvrsia atinente  licitude dos documentos que acompanham a notitia criminis demanda averiguao aprofundada sobre a prova e o habeas corpus  ao inadequada para a valorao e incurso minuciosa no acervo ftico-probatrio engendrado nos autos. 2. No momento do recebimento da denncia, no h a exigncia de exame aprofundado da prova ou apreciao dos argumentos da acusao e da defesa, sendo necessrio apenas que se constate a existncia de justa causa para o prosseguimento da ao penal (HC 128.435, Primeira Turma, Rel. Min. Rosa Weber, DJe de 16/11/2015). [...] (STF - RHC 134745 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 26/05/2017, PROCESSO ELETRNICO DJe-125 DIVULG 12-06-2017 PUBLIC 13-06-2017).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Primeira Turma do STF entendeu que a ao constitucional de habeas corpus no se presta a discutir matrias que envolvam dilao probatria, e que, no momento do recebimento da denncia, no h a exigncia de exame aprofundado da prova ou apreciao dos argumentos da acusao e da defesa, sendo necessrio apenas que se constate a existncia de justa causa para o prosseguimento da ao penal.

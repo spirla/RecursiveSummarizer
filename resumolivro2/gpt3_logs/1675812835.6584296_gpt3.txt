@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O interesse decorre da existncia do voto favorvel  parte que indica a existncia de uma possvel vantagem prtica a ser obtida com o eventual provimento dos embargos. Podem ser opostos embargos infringentes ao acrdo no unnime, em que haja divergncia de mrito, pelo ru, para lograr, por ex., absolvio, reduo da pena ou mudana de regime para melhor;
+e, pelo Ministrio Pblico, para levar  condenao, aumento de pena e alterao para regime mais rigoroso. 18.5.2. Procedimento. Para os embargos  designado novo relator (artigo 540, pargrafo 1, CPPM) que no tenha participado do julgamento anterior. Contra o despacho do relator que no recebeu os embargos cabe  parte requerer, dentro de trs dias da cincia do despacho de no recebimento, que os autos sejam postos em mesa para confirmao ou reforma do despacho (artigo 545, CPPM). Neste caso no h voto do relator. De outro bordo, aceitos os embargos de nulidade ou infringentes do julgado, os autos iro imediatamente com vista ao Ministrio Pblico Militar se o embargante for o ru ou com vista ao ru se o embargante for o Ministrio Pblico Militar. O prazo para impugnao ou sustentao dos embargos  de cinco dias (artigo 547, CPPM). O julgamento dos embargos obedece ao rito da apelao (artigo 548, CPPM):
+(a) o recurso  posto em pauta pelo relator;
+(b) depois de feita a exposio pelo relator e ouvido o revisor, as partes tm vinte minutos para sustentarem oralmente;
+(c) discusso e deciso do Tribunal. 18.5.3. Efeitos. Pelo efeito devolutivo a matria  devolvida ao rgo colegiado para mudar o mrito da deciso (embargos infringentes) ou para declarar nulidade processual (embargos de nulidade), mas a extenso  limitada pelo tipo de divergncia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Embargos infringentes ou de nulidade podem ser opostos a um acórdão não unânime, com o objetivo de obter absolvição, redução da pena ou mudança de regime. O procedimento inclui a designação de um novo relator, que não tenha participado do julgamento anterior, e o prazo para impugnação ou sustentação dos embargos é de cinco dias. O julgamento segue o rito da apelação, com exposição pelo relator, sustentação oral das partes e discussão e decisão do Tribunal. O efeito devolutivo limita-se ao tipo de divergência.

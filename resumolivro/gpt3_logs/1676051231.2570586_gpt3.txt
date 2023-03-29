@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Segundo a regulamentao legal (artigos 109 e 110 do CP), a prescrio da pretenso punitiva, antes do trnsito em julgado da deciso condenatria, somente se opera com base na pena mxima cominada ao crime que fundamenta o julgamento. As nicas excees ao trabalho com a pena mxima dizem respeito  prescrio intercorrente e  prescrio retroativa (este instituto agora extinto pela Lei 12.234/10), que so calculadas com base na pena imposta em deciso condenatria. Inexistindo deciso condenatria, no h autorizao legal para o reconhecimento da prescrio retroativa. A questo deve ser bem entendida. A responsabilidade penal somente poder materializar-se em condenao por meio do processo. No entanto, o processo  instrumento necessrio para a realizao da responsabilidade. A razo de ser do processo penal  a possibilidade de aplicao da pena. No sendo possvel satisfazer a pretenso punitiva, no h razo para o desenvolvimento da relao processual. Nesse sentido,  condio da ao penal o interesse de agir, e esse interesse evidencia-se na utilidade do processo. Vislumbrada a possibilidade da prescrio em face da pena concreta a ser aplicada, diante das circunstncias do caso concreto, deve-se interromper a marcha processual. Para tanto, h previso legal. O artigo 3 do CPP permite a utilizao subsidiria das regras do processo civil e, no artigo 267, VI, do CPC, h previso para a extino do processo, sem julgamento do mrito, quando no concorrer qualquer das condies da ao, como a possibilidade jurdica, a legitimidade das partes e o interesse processual. Vislumbrada a futura impossibilidade de materializar-se a responsabilizao criminal, pode-se admitir a extino do processo e, consequentemente, ocorrer a extino da responsabilidade penal. Extino do instituto. Como o artigo 1 da Lei 12.234/10 dispe expressamente que esta Lei altera os artigos 109 e 110 do Decreto-lei 2.848, de 7 de dezembro de 1940 - Cdigo Penal, para excluir a prescrio retroativa, e o reconhecimento da prescrio pela pena em perspectiva se fundamenta na ausncia de interesse de agir, em face da futura ocorrncia da prescrio retroativa, no mais se poder reconhecer a prescrio pela pena em perspectiva. Se o prazo para o reconhecimento da prescrio da pretenso punitiva deve ser identificado em relao ao mximo da pena cominada ao crime imputado, salvo a hiptese da prescrio intercorrente, no se poder mais reconhecer a ausncia de interesse de agir.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prescrição da pretenção punitiva, antes do trânsito em julgado da decisão condenatória, é calculada com base na pena máxima cominada ao crime, exceto para a prescrição intercorrente e a prescrição retroativa (extinta pela Lei 12.234/10). A extinção do processo sem julgamento do mérito pode ocorrer quando não houver interesse de agir, como a possibilidade jurdica e a legitimidade das partes. A prescrição pela pena em perspectiva foi extinta com a Lei 12.234/10.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE O Capitulo I do Titulo XI do CP, que tipifica os crimes praticados por funcionarios contra a administracao em geral, nao se aplica aos dirigentes do Sistema S . A hipotese trata de recurso ordinario em habeas corpus interposto contra acordao que denegou a impetracao originaria ao argumento de que os elementos descritos na denuncia revelam a necessidade de apuracao da participacao do paciente no crime capitulado no art. 312 do CP (peculato). Sustenta-se, em suma, ausencia de justa causa para a acao penal, por crer na atipicidade da conduta por impossivel caracterizacao do crime de Peculato por conduta de gestor do Sistema S , por se tratar de entidade privada, na esteira da jurisprudencia consolidada do STJ. 738 De inicio, cumpre destacar que e incontroverso que o tipo penal previsto no art. 312 do CP refere-se a crime proprio de funcionario publico contra a administracao publica. Tambem e inquestionavel que esse campo da sujeicao ativa tem seus contornos tracados pelo art. 327 do CP, em conformidade com a acepcao mais ampla do termo, para alem das estreitas estremaduras do Direito Administrativo. No entanto, o paragrafo 1, que encontra limite na condicionante na exigencia de exercicio de atividade tipica de Administracao Publica , permite conceber seu espraiamento para sujeitos que exercam atividades genuinamente privadas, ainda que alavancadas por algum fomento publico. No caso, supostamente, o paciente teria autorizado o pagamento indevido de vultosas gratificacoes a empregados, diretores e prestadores de servicos. Embora nao se alegasse qualquer vantagem pecuniaria que o paciente obtivera, a ele se atribuiu a condicao de funcionario publico por equiparacao, a forca da incorreta aplicacao da norma extensiva do art. 327,  1, do CP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Capitulo I do Titulo XI do CP não se aplica aos dirigentes do Sistema S. 2. O crime de peculato previsto no art. 312 do CP é um crime próprio de funcionário público contra a administração pública. 3. O campo da sujeição ativa tem seus contornos tracados pelo art. 327 do CP, em conformidade com a acepção mais ampla do termo. 4. O parágrafo 1 do art. 327 do CP permite conceber seu espraiamento para sujeitos que exercam atividades genuinamente privadas, ainda que alavancadas por algum fomento público.

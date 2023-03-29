@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Na presente ao, o pedido de instaurao de incidente de sanidade mental foi indeferido (evento 94), e o Laudo de Percia Psicopatolgica n. 12/2020, realizado pela junta central de sade da PMMG no processo administrativo iniciado pela Portaria 105.138/2020 - PAD/10o RPM de 07/04/2020 e juntado no evento 92, no comprova a inimputabilidade do apelante. Ao contrrio, o laudo mencionado conclui pela imputabilidade deste. O exame pericial mencionado tambm no constatou que o ora apelante possua,  poca dos fatos, doena mental que acarretasse em considervel diminuio da sua capacidade de entendimento da ilicitude do fato ou de autodeterminao. A percia constatou a imputabilidade do apelante, porm "diminuda a capacidade de se determinar de acordo com este entendimento". Contudo, para a aplicao do disposto no pargrafo nico do art. 48 do CPM, necessrio se faz que a doena ou deficincia mental promova considervel diminuio da capacidade de entendimento e, na hiptese em apreo, inexiste tal prova. Portanto, o apelante  imputvel, e a sua pena sequer pode ser atenuada, considerando a inexistncia de prova de que possui doena mental ou deficincia mental que teria suprimido ou diminudo de modo considervel a sua capacidade de entendimento da ilicitude do fato ou de autodeterminao. O juiz de direito proferiu a sentena constante no evento 140 e assim identificou as circunstncias judiciais para estabelecer a pena-base em 8 (oito meses) de deteno.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A instaurao de incidente de sanidade mental foi indeferida e o laudo de percia psicopatolgica concluiu pela imputabilidade do apelante, sem constatar a existncia de doena mental que acarretasse considervel diminuio da sua capacidade de entendimento da ilicitude do fato ou de autodeterminao. Assim, o juiz de direito estabeleceu a pena-base em 8 meses de deteno.

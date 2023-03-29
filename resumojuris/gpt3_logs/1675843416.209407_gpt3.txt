@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Concurso de agravante. Motivo futil. Menoridade relativa. Preponderancia. Compensacao. Ilegalidade. DESTAQUE A atenuante da menoridade relativa deve ser considerada circunstancia preponderante na exasperacao da pena. 776 A atenuante da menoridade relativa, assim como a da confissao espontanea, por estarem relacionadas com a personalidade do agente, devem ser consideradas preponderantes, nos termos do art. 67 do CP. Nesse sentido: 1. O Superior Tribunal de Justica ja firmou o entendimento de que a confissao espontanea (Recurso Especial Representativo de Controversia 1.341.370/MT) e a menoridade relativa, sendo atributos da personalidade do agente, sao igualmente preponderantes com a reincidencia e os motivos do delito, consoante disposto no art. 67 do CP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A atenuante da menoridade relativa deve ser considerada circunstância preponderante na exasperação da pena. 2. A atenuante da menoridade relativa, assim como a da confissão espontânea, por estarem relacionadas com a personalidade do agente, devem ser consideradas preponderantes, nos termos do art. 67 do CP. 3. O Superior Tribunal de Justiça já firmou o entendimento de que a confissão espontânea e a menoridade relativa, sendo atributos da personalidade do agente, são igualmente preponderantes com a reincidência e os motivos do delito, consoante disposto no art. 67 do CP.

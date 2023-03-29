@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Admitir que o Poder Judiciario se imiscua no merito dessa questao, ainda mais mediante decisao provisoria em processo que nao questiona o ato administrativo pela via principal, pode ser muito perigoso. Corremos o risco, com isso, de abrir um precedente que paralise as atividades da agencia reguladora, que muitas vezes tem de tomar decisoes rapidas para equacionar problemas urgentes. Nao estou, aqui, menosprezando a necessidade de preservacao da empresa. Esse principio naturalmente tem de estar sempre no horizonte de qualquer aplicador do direito, nao apenas quando se esta a julgar uma recuperacao judicial, mas em qualquer processo. Contudo, ou o ato administrativo e valido, ou invalido. Ou ele e passivel de revisao pelo judiciario, ou nao e. Essas questoes todas tem de ser enfrentadas. Se o ato e passivel de revisao e e invalido, os motivos para tanto devem ser declinados pelo julgador. Meramente desautorizar a ordenacao da estrutura aeroportuaria, definida pela agencia reguladora criada especificamente para esse fim, sem declinar os motivos, ligados ao proprio ato, e muito perigoso. Mais que isso: dizer, como fez o TJ/SP, que a agencia reguladora deveria observar o principio da preservacao da empresa ao decidir sobre a ordenacao dos aeroportos, parece-me uma perigosa interferencia no merito administrativo do ato . Alem disso, nos termos do art. 27 da Lei Geral de Concessoes (Lei n. 8.987/1995), a transferencia da concessao ou do controle acionario da concessionaria sem anuencia do Poder concedente implica caducidade do contrato. (Informativo n. 745) PROCESSO AREsp 1.893.472-SP, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É perigoso admitir que o Poder Judiciário se imiscua no mérito de questões administrativas, ainda mais mediante decisão provisória em processo que não questiona o ato administrativo pela via principal. 2. O princípio da preservação da empresa deve estar sempre no horizonte de qualquer aplicador do direito, não apenas quando se está a julgar uma recuperação judicial, mas em qualquer processo. 3. Ou o ato administrativo é válido, ou inválido. Ou ele é passível de revisão pelo Judiciário, ou não é. 4. Se o ato é passível de revisão e é inválido, os motivos para tanto devem ser declinados pelo julgador. 5. É muito perigoso desautorizar a ordenação da estrutura aeroportuária, definida pela agência reguladora criada especificamente para esse fim, sem declinar os motivos, ligados ao próprio ato. 6. É uma perigosa interferência no mérito administrativo do ato dizer que a agência reguladora deveria observar o princípio da preservação da empresa ao decidir sobre a ordenação dos aeroportos. 7. De acordo com o art. 27 da Lei Geral de Concessões (Lei n. 8.987/1995), a transferência da concessão ou do controle acionário da concessionária sem anuência do Poder concedente implica caducidade do contrato.

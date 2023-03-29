@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ricardo Lewandowski, julgamento virtual finalizado em 14.9.2021 (terca-feira), as 23:59 (INF 1029) Covid-19 e atualizacao do plano nacional de imunizacao - ADPF 754 TPI-segunda-Ref/DF Resumo: Em juizo delibatorio, observa-se que a pretensao de que sejam editados e publicados criterios e subcriterios de vacinacao por classes e subclasses no Plano de Vacinacao, assim como a ordem de preferencia dentro de cada classe e subclasse, encontra arrimo nos principios da publicidade e da eficiencia que regem a Administracao Publica (CF, art. 37, caput ); no direito a informacao que assiste aos cidadaos em geral (CF, art. 5, XXXIII, e art. 37,  2, II); na obrigacao da Uniao de planejar e promover a defesa permanente contra as calamidades publicas (CF, art. 21, XVII); no dever incontornavel cometido ao Estado de assegurar a inviolabilidade do direito a vida (CF, art. 5, caput ), traduzida por uma existencia digna (CF, art. 170, caput ), e no direito a saude. Este ultimo garantido mediante politicas sociais e economicas que visem a reducao do risco de doencas e outros agravos e ao acesso universal e igualitario as acoes e servicos para sua promocao, protecao e recuperacao (CF, art. 6, caput , e art. 196, caput ). O Poder Judiciario, em situacoes excepcionais, pode determinar que Administracao Publica adote medidas concretas, assecuratorias de direitos constitucionalmente reconhecidos essenciais, como e o caso da saude. Consta da atualizacao do Plano Nacional de Operacionalizacao da Vacinacao contra a Covid-19 (2 edicao)  apresentada ao Supremo Tribunal Federal (STF)  a indicacao da populacao que sera imunizada prioritariamente e a estimativa de doses necessarias, sem, no entanto, ser detalhado adequadamente qual a ordem de cada grupo, dentro de um universo de milhoes de pessoas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A pretensão de que sejam editados e publicados critérios e subcritérios de vacinação por classes e subclasses no Plano de Vacinação, assim como a ordem de preferência dentro de cada classe e subclasse, encontra arrimo nos princípios da publicidade e da eficiência que regem a Administração Pública (CF, art. 37, caput). 2. O direito à informação que assiste aos cidadãos em geral (CF, art. 5, XXXIII, e art. 37, 2, II). 3. A obrigação da União de planejar e promover a defesa permanente contra as calamidades públicas (CF, art. 21, XVII). 4. O dever incontornável cometido ao Estado de assegurar a inviolabilidade do direito à vida (CF, art. 5, caput), traduzida por uma existência digna (CF, art. 170, caput). 5. O direito à saúde garantido mediante políticas sociais e econômicas que visem a redução do risco de doenças e outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação (CF, art. 6, caput, e art. 196, caput). 6. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas concretas, assecuratorias de direitos constitucionalmente reconhecidos essenciais, como é o caso da saúde.

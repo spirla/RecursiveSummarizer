@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Acao penal em estagio avancado na justica estadual. Instrucao encerrada. Declinacao de competencia para justica federal. Indicios insuficientes para deflagrar a acao penal quanto aos crimes de evasao de divisas e lavagem transnacional. Circunstancia apta a obstar o deslocamento da acao por forca da regra de conexao (Sumula 122/STJ). Manutencao do desmembramento. Competencia do juizo estadual para julgar os crimes estaduais. DESTAQUE A reuniao dos feitos por forca de conexao nao ostenta natureza absoluta, sendo adequado excepcionar a sua incidencia na hipotese em que a aplicacao ensejaria um atraso na tramitacao de acao em estagio avancado (instrucao encerrada). No caso, o Juizo estadual, em acao penal com instrucao ja encerrada, exarou decisao declinando da competencia em favor da Justica Federal por vislumbrar a conexao dos crimes de competencia estadual com delitos de competencia federal. O Juizo da Vara Federal Criminal, acolhendo a manifestacao do Ministerio Publico, rechacou a competencia federal para apurar os crimes estaduais, determinando a instauracao de inquerito policial na Policia Federal para apurar os indicios de crimes de lavagem de dinheiro transnacional e evasao de divisas. O fato de o orgao acusatorio federal nao vislumbrar, por ora, indicios suficientes da pratica de lavagem transnacional e de evasao de divisas para o oferecimento da denuncia - manifestacao essa acolhida pelo Juizo Federal - obsta, ao menos por ora, a persecucao penal quanto a esses crimes em ambito federal e, por consequencia, o deslocamento da acao penal (em estagio avancado na Justica estadual) com base numa suposta conexao entre os crimes estaduais e federais (Sumula 122/STJ).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A reunião dos feitos por força de conexão não ostenta natureza absoluta, sendo adequado excepcionar a sua incidência na hipótese em que a aplicação ensejaria um atraso na tramitação de ação em estágio avançado (instrução encerrada). 2. O fato de o órgão acusatório federal não vislumbrar, por ora, indícios suficientes da prática de lavagem transnacional e de evasão de divisas para o oferecimento da denúncia obsta, ao menos por ora, a persecução penal quanto a esses crimes em âmbito federal e, por consequência, o deslocamento da ação penal (em estágio avançado na Justiça estadual) com base numa suposta conexão entre os crimes estaduais e federais (Sumula 122/STJ).

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O conceito de dolo foi concebido segundo a teoria extremada, de modo que abrangia tanto a vontade de realizar a ao como tambm a concreta conscincia de sua ilicitude. Nesse momento, o pensamento jurdico-penal no fazia distino entre a situao de desconhecimento da ilicitude e a da evitabilidade do fato, nem entre a culpa consciente e a inconsciente. A orientao cognitiva naturalista do sistema clssico pretendeu identificar no nexo causal, objetivo e subjetivo, a explicao do crime como um acontecimento da realidade natural. O mtodo cientfico utilizado descreve o crime como um acontecimento da realidade que se pode apreender cognitivamente por meio da causalidade objetiva (no exame da tipicidade) e subjetiva (no exame da culpabilidade), como se fosse um fenmeno das cincias naturais. Nesse aspecto encontra-se o principal responsvel pelo fracasso do sistema clssico. O conhecimento descritivo dos elementos naturais no  capaz de resolver os problemas jurdicos criados pela regulamentao normativa. O sistema jurdico estabelece sua regulamentao com base na importncia que confere aos fatos da realidade natural e um sistema que concebe a ao de maneira avalorativa no se presta a estabelecer as regras para o dever ser. O critrio objetivo-subjetivo, da mesma forma, demonstrou ser insustentvel, pois, ao afirmar que o injusto  puramente objetivo, concebeu no tipo a conduta humana separada da vontade que lhe orienta. Adotando a imputabilidade como pressuposto da culpabilidade, o sistema permitiu que o seu exame pudesse inviabilizar a anlise do substrato motivador do crime - o dolo. Nesse passo, Hans Welzel202 percebeu que o erro fundamental de toda a sistematizao causal foi realizar anlise fragmentria da ao, j que o exame de seu aspecto externo situa-se no injusto, e o de seu aspecto interno, na culpabilidade. Juarez Tavares,203 por sua vez, com base na avaliao das situaes prticas de aplicao das normas penais, complementa essa observao, esclarecendo que o correto  compor-se o exame da imputabilidade, independente do exame da causalidade e da realizao, dolosa ou culposa, do tipo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conceito de dolo foi criado pela teoria extremada, não distinguindo entre desconhecimento da ilicitude e evitabilidade do fato, nem entre culpa consciente e inconsciente. O sistema clássico tentou explicar o crime como um acontecimento natural, mas não foi capaz de resolver os problemas já que as regras para o dever ser são avalorativas. Hans Welzel e Juarez Tavares perceberam que o erro foi avaliar a ação de forma fragmentada, separando o injusto do substrato motivador do crime - o dolo. O exame da imputabilidade deve ser independente do exame da causalidade e da realização do tipo.

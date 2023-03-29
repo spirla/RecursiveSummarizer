@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Contudo, em que pese a atual formula, ao decidir pelo enquadramento disciplinar do militar acusado, a autoridade competente para sancionar deve levar em conta os criterios estabelecidos no presente artigo, de modo a proceder ao perfeito amoldamento da conduta do militar ao tipo transgressional mais adequado, bem como no momento de estabelecer as circunstncias agravantes e atenuantes aplicaveis. Tais criterios servem, tambem, para balizar a autoridade competente na avaliacao pela convenincia e oportunidade de aplicacao da medida disciplinar descrita no artigo 10 do CEDM, ou para o reconhecimento das causas legais e supralegais que justificam a conduta do militar e que demandam o arquivamento do processo. Artigo 17 - No julgamento da transgressao, serao apuradas as causas que a justifiquem e as circunstncias que a atenuem ou agravem. Paragrafo unico - A cada atenuante sera atribuido um ponto positivo e a cada agravante, um ponto negativo. Havendo a incidncia de alguma das causas de justificacao que estao elencadas no artigo 19 do CEDM, restara afastada a pratica da transgressao disciplinar imputada ao militar, o que implicara no arquivamento do respectivo processo disciplinar instaurado para apuracao da falta. Ja as circunstncias agravantes e atenuantes serao apuradas quando do enquadramento disciplinar do militar, ou seja, quando afastada a incidncia de alguma das causas que justifique a transgressao disciplinar e que implique no seu arquivamento. Artigo 18 - Para cada transgressao, a autoridade aplicadora da sancao atribuira pontos negativos dentro dos seguintes parmetros:
+- de um a dez pontos para infracao de natureza leve;
+- de onze a vinte pontos para infracao de natureza media;
+- de vinte e um a trinta pontos para infracao de natureza grave.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A autoridade competente para sancionar deve levar em conta os critérios estabelecidos no artigo 17 do CEDM para decidir o enquadramento disciplinar do militar acusado. Estes critérios também servirão para avaliar a conveniência e oportunidade da medida disciplinar descrita no artigo 10 do CEDM ou para reconhecer as causas legais e supralegais que justificam a conduta do militar. A autoridade aplicadora da sanção atribuirá pontos negativos de acordo com a natureza da infração, variando de um a trinta pontos.

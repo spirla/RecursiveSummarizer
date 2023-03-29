@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A demasiada amplitude da noo de inexigibilidade pode proporcionar a burla  finalidade protetiva do ordenamento jurdico-penal. Nesse sentido, pode-se perceber, no estatuto repressivo militar, previso expressa para diversas causas excludentes da culpabilidade, todas fundadas na inexigibilidade de conduta diversa. Segundo o cdigo Penal Militar, so excludentes da culpabilidade: as situaes de coao moral irresistvel (artigo 38, a), obedincia hierrquica  ordem no manifestamente ilegal (artigo 38, b), inimputabilidade (artigos 48, 49 e 50, primeira parte) e erro de proibio (artigo 35 c/c 21 do CPB). Mas a verificao da exigibilidade ou inexigibilidade de determinada conduta, diante das peculiaridades do caso concreto, no  tarefa fcil. Vale insistir que a noo de exigibilidade de conduta diversa no pode ser mero conceito jurdico abstrato. Ao contrrio, deve possuir significado material que possa conduzir o juzo de reprovao da culpabilidade por caminhos seguros. No entanto, a doutrina jurdico-penal ainda no foi capaz de consolidar teoria adequada sobre a exigibilidade de conduta diversa, o que dificulta a tarefa de estabelecimento da justa medida da culpabilidade. A considerao da inexigibilidade de conduta diversa como causa de exculpao encontrou contestao nas palavras de Everardo da Cunha Luna,877 para quem a exigibilidade estaria mal colocada na doutrina da culpabilidade, sendo que sua posio correta seria na doutrina das causas de justificao. Entendeu o professor da Faculdade de Direito de Recife que, se uma conduta diversa no  exigvel pelo Direito,  porque a ilicitude est ausente. Tal posicionamento, na verdade, no  correto. A tipicidade materializa princpio geral de exigibilidade de comportamento diverso do que descreve o modelo abstrato de conduta proibida previsto em lei. A caracterizao do tipo subjetivo permite discutir apenas o elemento intencional da conduta que relaciona os meios aos fins propostos. A ilicitude, por sua vez, materializa juzo de desconformidade do comportamento em relao  finalidade protetiva do ordenamento jurdico, igualmente vlido para a generalidade das pessoas. Assim, a prtica do comportamento descrito no tipo, diante da inocorrncia das causas especiais de justificao, conduz  ilicitude do fato. A pessoa que pratica a conduta proibida, entretanto, poder no receber reprovao penal porque sua finalidade foi determinada por circunstncias excepcionais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O estatuto repressivo militar prevê diversas causas excludentes da culpabilidade, entre elas a inexigibilidade de conduta diversa. No entanto, a doutrina jurdico-penal ainda no conseguiu consolidar uma teoria adequada sobre a exigibilidade de conduta diversa, o que dificulta o estabelecimento da justa medida da culpabilidade. A ilicitude materializa o juízo de desconformidade do comportamento em relação à finalidade protetiva do ordenamento jurdico, mas a pessoa que pratica a conduta proibida pode não receber reprovão penal por circunstâncias excepcionais.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No entanto, em 2018 a Administracao comunicou-lhe acerca da revisao administrativa. O Tribunal de origem concluiu pelo transcurso do prazo decadencial quinquenal em desfavor da Administracao Publica, tendo em vista que: (a) somente em 2018 a Universidade comunicou a revisao da forma de calculo a parte autora, que recebia a vantagem salarial antes da vigencia da Lei n. 9.784/1999; (b) o caso dos autos nao diz respeito a atuacao do Tribunal de Contas no exercicio do controle externo da legalidade do ato de concessao inicial de aposentadoria, reforma e pensao, e sim da revisao de ato administrativo que originou a vantagem salarial. Acerca dessa questao, a orientacao jurisprudencial do STJ e a de que, nas hipoteses em que nao haja exercicio do controle de legalidade pelo Tribunal de Contas, o prazo decadencial quinquenal transcorre a partir da edicao do ato pela Administracao. Com efeito, em julgado semelhante assentou-se que, embora a orientacao jurisprudencial do Superior Tribunal de Justica seja a de que o prazo decadencial do art. 54 da Lei n. 9.784/1999 nao se consuma no periodo entre a data da aposentadoria e o exame da legalidade do ato pela Corte de Contas, quando a revisao do ato de concessao se da pela propria Administracao Publica, sem determinacao do orgao fiscalizador de Contas (TCU), o prazo decadencial flui normalmente - AgInt no AREsp 1.738.937/RS, relator Herman Benjamin, Segunda Turma, DJe de 01/07/2021. (Informativo n. 750) PROCESSO AREsp 956.526-SP, Rel. Min. Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 13/09/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Procuradores da Fazenda Nacional - PFN. Remuneracao. MP 43/2002. Pagamento de VPNI.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) O prazo decadencial quinquenal transcorre a partir da edição do ato pela Administração, quando não houver exercício do controle de legalidade pelo Tribunal de Contas. 2) A orientação jurisprudencial do Superior Tribunal de Justiça é de que o prazo decadencial do art. 54 da Lei n. 9.784/1999 não se consuma no período entre a data da aposentadoria e o exame da legalidade do ato pela Corte de Contas.

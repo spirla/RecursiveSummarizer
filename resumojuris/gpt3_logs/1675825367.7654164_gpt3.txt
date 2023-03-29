@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por fim, por maioria, o Tribunal modulou os efeitos da decisao, ao entendimento de que (i) sao reputados validos e nao ensejarao qualquer rediscussao (nas acoes em curso ou em nova demanda, incluindo acao rescisoria) todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro indice), no tempo e modo oportunos (de forma extrajudicial ou judicial, inclusive depositos judiciais) e os juros de mora de 1% ao mes, assim como devem ser mantidas e executadas as sentencas transitadas em julgado que expressamente adotaram, na sua fundamentacao ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mes; (ii) os processos em curso que estejam sobrestados na fase de conhecimento (independentemente de estarem com ou sem sentenca, inclusive na fase recursal) devem ter aplicacao, de forma retroativa, da taxa Selic (juros e correcao monetaria), sob pena de alegacao futura de inexigibilidade de titulo judicial fundado em interpretacao contraria ao posicionamento do Supremo Tribunal Federal (STF) (art. 525,  12 e 14), ou art. 535,  5 e 7, do CPC (CPC) e (iii) igualmente, ao acordao formalizado pelo STF sobre a questao dever-se-a aplicar eficacia erga omnes e efeito vinculante, no sentido de atingir aqueles feitos ja transitados em julgado desde que sem qualquer manifestacao expressa quanto aos indices de correcao monetaria e taxa de juros (omissao expressa ou simples consideracao de seguir os criterios legais). Vencidos os Ministros Alexandre de Moraes e Marco Aurelio, que nao modulavam os efeitos da decisao. Impedido o Ministro Luiz Fux (Presidente). ADC 58/DF, relator Min. Gilmar Mendes, julgamento em 18.12.2020 (INF 1003) ADC 59/DF, relator Min. Gilmar Mendes, julgamento em 18.12.2020 (INF 1003) ADI 5867/DF, relator Min. Gilmar Mendes, julgamento em 18.12.2020 (INF 1003) ADI 6021/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(i) São reputados válidos e não ensejarão qualquer rediscussão todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro índice), no tempo e modo oportunos, assim como devem ser mantidas e executadas as sentenças transitadas em julgado que expressamente adotaram, na sua fundamentação ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mês. (ii) Os processos em curso que estejam sobrestados na fase de conhecimento devem ter aplicação, de forma retroativa, da taxa Selic (juros e correção monetária), sob pena de alegação futura de inexigibilidade de título judicial fundado em interpretação contrária ao posicionamento do Supremo Tribunal Federal. (iii) Ao acórdão formalizado pelo STF sobre a questão dever-se-á aplicar eficácia erga omnes e efeito vinculante, no sentido de atingir aqueles feitos já transitados em julgado desde que sem qualquer manifestação expressa quanto aos índices de correção monetária e taxa de juros.

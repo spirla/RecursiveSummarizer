@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+As nulidades da instruo do processo devem ser arguidas na fase das alegaes escritas, sob pena de precluso consumativa (art. 504, alnea "a", do CPPM), tornando incuas discusses extemporneas sobre a matria. Precedentes. Preliminar rejeitada por unanimidade. 2. A relatoria e a redao das sentenas e das decises dos Conselhos Especial e Permanente de Justia competem ao Juiz Federal da Justia Militar da Unio - art. 30, inciso VII, da Lei n. 8.457, de 1992. A sentena ser redigida pelo Juiz Federal, ainda que discorde dos seus fundamentos ou da sua concluso, podendo, entretanto, justificar o seu voto, se vencido, no todo ou em parte, aps a assinatura. O mesmo poder fazer cada um dos juzes militares - art. 438,  2, do CPPM. Preliminar de nulidade por ausncia de fundamentao rejeitada por unanimidade. 3. A condenao somente  possvel quando h prova irrefutvel da conduta criminosa. Quando a busca da verdade real, na fase investigativa e instrutria do processo, no pauta pela profundidade, a deciso do Magistrado perde qualidade. A sociedade e o ru restam prejudicados, pois a frgil absolvio ou condenao no beneficia a nenhum dos polos. 4. Verificando-se a debilidade probatria, a segurana jurdica dos arestos carece de essncia. Desse modo, a diligncia e a estratgia necessrias, para acionar os meios de prova, no se mostram eficientes. O resultado, aps o emprego de caros recursos do Estado, torna-se frustrante para o interesse pblico envolvido, como absolver o culpado ou, pior, condenar o inocente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A instruo do processo deve ser arguida na fase das alegaes escritas, sob pena de precluso consumativa. A relatoria e a redao das sentenas e decises dos Conselhos Especial e Permanente de Justia competem ao Juiz Federal da Justia Militar da Unio. A condenao somente possvel quando h prova irrefutvel da conduta criminosa, sendo necessrio o emprego de caros recursos do Estado para a busca da verdade real.

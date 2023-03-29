@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os regimentos internos dos Tribunais contm normas subsidirias da legislao processual. Compete, privativamente aos tribunais, segundo o artigo 96, inciso I, a, da CF, elaborar seus regimentos internos, com observncia das normas de processo e das garantias processuais das partes, dispondo sobre a competncia e o funcionamento dos respectivos rgos jurisdicionais. O processo penal militar no  um sistema fechado, e o CPPM (artigo 3) admite que os casos omissos sejam supridos por fontes formais mediatas (subsidirias ou indiretas). A primeira fonte formal mediata (subsidiria ou indireta) - e a principal -  a legislao de processo penal comum. Reza o artigo 3, alnea a, do CPPM, que os casos omissos sero supridos pela legislao de processo penal comum, quando aplicvel ao caso concreto e sem prejuzo da ndole do processo penal militar. A ndole do processo penal militar  o respeito a hierarquia, o superior julga o inferior. A experincia do foro militar ensina que a omisso no CPPM, no raro,  superveniente a entrada em vigor da Constituio Federal de 1988. Situaes no previstas no CPPM obrigam que se busque na fonte formal mediata (subsidiria ou indireta) a soluo mais justa. H diferena entre a omisso surgida da desatualizao do CPPM e o que se denomina de hibridismo normativo consistente em mesclar o regime processual penal comum e o militar, mediante a seleo das partes mais benficas de cada um deles, nem o princpio da especialidade das leis pode ser obstculo para o reconhecimento de direitos e garantias individuais consagrados na Lei Maior. A segunda fonte formal mediata (subsidiria ou indireta)  a jurisprudncia (artigo 3, alnea b). Na definio de Miguel Reale a jurisprudncia  o conjunto de decises reiteradas de um tribunal sobre determinado tema e que constitui norma para o caso concreto toda vez que houver uma lacuna na lei.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os regimentos internos dos Tribunais contêm normas subsidiárias da legislação processual. O CPPM (artigo 3) admite que os casos omissos sejam supridos por fontes formais mediatas (subsidirias ou indiretas), como a legislação de processo penal comum e a jurisprudência. O princípio da especialidade das leis não impede o reconhecimento de direitos e garantias individuais consagrados na Lei Maior.

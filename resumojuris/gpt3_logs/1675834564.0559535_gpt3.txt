@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Opcao exclusivamente pessoal. Direito a ajuda de custo para retorno a unidade judiciaria de origem. Nao cabimento. Previa mudanca de domicilio dissociada do interesse publico. DESTAQUE Ausente a efetiva mudanca de residencia para a sede do CNJ, e findo o seu mandato junto a esse mesmo Conselho, o magistrado nao fara jus a ajuda de custo para despesas de retorno ao seu domicilio funcional de origem. Na forma da jurisprudencia desta Corte, diante da ausencia de regulamentacao do art. 65 da LOMAN, que preve o pagamento de ajuda de custo aos magistrados, e possivel a aplicacao subsidiaria dos arts. 53 a 57 da Lei n. 8.112/1990 (AgRg no REsp 781.683/SC, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 26/10/2009). O direito a ajuda de custo para despesas de transporte e mudanca pressupoe que o magistrado, no interesse da Administracao, tenha se deslocado a servico para exercicio em nova sede, com mudanca de domicilio em carater permanente. Como se extrai do caput do art. 53 da Lei n. 8.112/1990, o pagamento da ajuda de custo sera devido mediante o preenchimento dos seguintes pressupostos: (a) quando, no interesse do servico, o servidor passar a ter exercicio em nova sede, com mudanca de domicilio em carater permanente; (b) nao houver pagamento de identica indenizacao ao conjuge ou companheiro que tambem detenha a condicao de servidor e que vier a ter exercicio na mesma sede.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não cabe ajuda de custo para retorno a unidade judiciária de origem quando não houver mudança de domicílio dissociada do interesse público. 2. O direito a ajuda de custo para despesas de transporte e mudança pressupõe que o magistrado, no interesse da Administração, tenha se deslocado a serviço para exercício em nova sede, com mudança de domicílio em caráter permanente. 3. O pagamento da ajuda de custo será devido mediante o preenchimento dos seguintes pressupostos: (a) quando, no interesse do serviço, o servidor passar a ter exercício em nova sede, com mudança de domicílio em caráter permanente; (b) não houver pagamento de identica indenização ao conjuge ou companheiro que também detenha a condição de servidor e que vier a ter exercício na mesma sede.

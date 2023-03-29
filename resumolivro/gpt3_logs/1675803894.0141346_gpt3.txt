@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido, ja decidiu o STJ que: (...) Conforme entendimento consolidado neste Superior Tribunal, nao e necessaria a degravacao integral dos dialogos telefnicos interceptados, mormente daqueles que em nada se referem aos fatos, porquanto a Lei 9.296/1996 nao faz nenhuma exigncia nesse sentido. Nessa mesma linha:
+INTERCEPTACAO TELEFNICA. MIDIA. Nao ha ofensa ao principio da ampla defesa no fato de o juiz de primeiro grau nao realizar a transcricao dos dialogos decorrentes de interceptacao telefnica, pois se disponibilizou para os defensores a midia na qual todas as conversas encontram-se gravadas. Logo, a Turma, por maioria, negou provimento ao recurso. Precedentes citados: HC 101.808-MT, DJe 4/8/2008, e HC 86.255-DF, DJ 17/12/2007. (STJ: RHC 20.472-DF, Rel. Min. Maria Thereza de Assis Moura, julgado em 24/8/2009)
+Nesse mesmo sentido, assim decidiu o TJM-MG:
+APELACAO CIVEL - MANDADO DE SEGURANCA - SUBMISSAO A PAD - LESAO A DIREITO LIQUIDO E CERTO NAO DEMONSTRADA - CONTRA INDICACAO DE SUBMISSAO DO IMPETRANTE A PERICIA PSICOPATOLOGICA (ART. 17, paragrafos paragrafo 1, 2 E 3, DA RESOLUCAO CONJUNTA N. 4.278/2013) - DESNECESSIDADE DE REALIZACAO DE PERICIA TECNICA NOS AUDIOS DE INTERCEPTACAO TELEFNICA FEITA PELO MINISTERIO PUBLICO, TENDO EM VISTA QUE FORAM FEITAS COM AUTORIZACAO JUDICIAL, SENDO LEGAIS, AUTNTICAS E VERDADEIRAS AS PROVAS PRODUZIDAS PELO GAECO - MEMORIA N. 099.2.2/17 FOI DESCONSIDERADA PELA CPAD, POR ABSOLUTA AUSNCIA DE LASTRO, SENDO UM DOCUMENTO APOCRIFO - MANUTENCAO DA SENTENCA A QUO - RECURSO A QUE SE NEGA PROVIMENTO. - A lesao ao direito liquido e certo do apelante nao ficou demonstrada, de modo a proporcionar a autoridade judicial sua apreciacao e decisao segura amparada dentro dos limites da lei. - O indeferimento da realizacao de pericia psicopatologica do apelante se deu em decorrncia DE ELE nao se enquadrar em nenhuma das situacoes previstas no artigo 17 da Resolucao Conjunta n. 4.278/2013.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ e o TJM-MG decidiram que não é necessária a degravação integral dos diálogos telefônicos interceptados, pois a Lei 9.296/1996 não exige isso. Além disso, não há ofensa ao princípio da ampla defesa quando o juiz não realiza a transcrição dos diálogos. Por fim, o indeferimento da realização de perícia psicopatológica se deu por não se enquadrar nas situações previstas na Resolução Conjunta n. 4.278/2013.

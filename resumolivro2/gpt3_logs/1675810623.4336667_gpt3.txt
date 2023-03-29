@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os crimes de competncia do Tribunal Penal Internacional so imprescritveis (artigo 29 do Estatuto de Roma). Por fim, so causas extintivas da punibilidade a reabilitao (inciso V) e o ressarcimento do dano no peculato culposo at a sentena irrecorrvel, na forma do artigo 303, pargrafo 4., do CPM (inciso VI). O juiz deixa, tambm, de receber a denncia se manifesta a incompetncia do juiz ou a ilegitimidade do acusador (artigo 78, alnea d, CPPM). A incompetncia  do juiz e no do juzo militar. Por exemplo, o entendimento do STM conforme enunciado da Smula 17, de 06.12.2019:
+Compete aos Conselhos Especial e Permanente de Justia processar e julgar acusados que, em tese, praticaram crimes militares na condio de militares das Foras Armadas. O juiz federal da Justia Militar no tem competncia para julgar o civil acusado de ter cometido o fato considerado crime na condio militar. 15.2.3. Recebimento da denncia. O procedimento ordinrio inicia-se com o recebimento da denncia (artigo 396, CPPM) pelo juiz federal da JMU ou pelo juiz de direito da JME em cognio sumria, deciso que no se aprofunda no exame do mrito para no ser um julgamento antecipado do caso. O ato decisrio de recebimento da denncia no se qualifica nem se equipara para os fins a que se refere o inciso IX do artigo 93 da CF (STF, HC 93056/SP). No se exige, quando do recebimento da denncia, a cognio e a avaliao exaustiva da prova ou a apreciao exauriente dos argumentos das partes, bastando o exame da validade formal da pea e a verificao da presena de indcios suficientes de autoria e de materialidade. A jurisprudncia do STF  iterativa sobre a desnecessidade de fundamentao do despacho que recebe a denncia pois, embora tenha contedo decisrio, no se encarta no conceito de deciso, como previsto no artigo 93, IX, da CF. O STJ compreende que a deciso que recebe a denncia possui natureza interlocutria e emite juzo de mera prelibao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal Penal Internacional considera os crimes imprescritíveis e estabelece causas extintivas da punibilidade, como a reabilitação e o ressarcimento do dano no caso de peculato culposo. O juiz pode deixar de receber a denúncia se houver incompetência ou ilegitimidade do acusador. O juiz federal da Justiça Militar não tem competência para julgar o civil acusado de ter cometido o fato considerado crime na condição militar. O procedimento ordinário inicia-se com o recebimento da denúncia pelo juiz federal da JMU ou pelo juiz de direito da JME, que não se aprofunda no exame do mérito para não ser um julgamento antecipado do caso. A decisão que recebe a denúncia possui natureza interlocutória e emite juízo de mera prelibação.

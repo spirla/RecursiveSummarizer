@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Quando a ao penal traz suporte probatrio mnimo de materialidade e indcios da autoria de fatos que, em tese, constituam delitos, estes, devidamente descritos na denncia do processo criminal, podem e devem passar pelo crivo do judicirio, conforme estipula o art. 30 da lei processual penal militar. Ressalte-se que, apesar de haver na denncia referncia a norma complementadora j revogada, qual seja, o Decreto n. 44.710 de 2008, reitero meu posicionamento no sentido de que "a indicao de uma norma revogada na pea da denncia pelo Ministrio Pblico no  capaz de elidir, por si s, a conduta transgressiva eventualmente praticada, que somente poder ser desconstituda, depois de devidamente enfrentada no curso da instruo criminal, mediante o devido processo legal e sob o crivo dos consagrados princpios do contraditrio e da ampla defesa.. Saliente-se que a matria atinente ao mencionado decreto poderia, inclusive, ter sido suscitada no momento oportuno e perante o Juzo de primeiro grau, at para possibilitar  instncia primeva um pronunciamento sobre a questo. Sem querer adentrar no mrito da ao originria, no se pode dizer que a conduta supostamente perpetrada pelo paciente no afrontou legislao vigente. Conforme destacou o prprio impetrante, o Decreto n. 44.710, de 30/1/2008, foi revogado pelo inciso I do art. 65 do Decreto n. 47.539, de 23/11/2018; entretanto, este ltimo, encontra-se em vigor e regulamenta a matria. Alm disso, eventual erro na capitulao ou indicao de norma legal pode ser corrigido sem causar prejuzo  ampla defesa e ao contraditrio, porquanto o ru se defende dos fatos a ele imputados, e no da classificao do crime feita na denncia. Nesse sentido, trago por oportuno, a assentada jurisprudncia do Superior Tribunal de Justia (STJ) sobre o tema: PROCESSO PENAL. RECURSO ORDINRIO EM HABEAS CORPUS. USO DE DOCUMENTO FALSO. ART. 304 DO CP. TIPO REMETIDO. INPCIA. NO CONFIGURADA. NULIDADE DA DECISO QUE RECEBEU A DENNCIA POR AUSNCIA DE FUNDAMENTAO. SUPRESSO DE INSTNCIA. PRISO PREVENTIVA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao penal, com suporte probatrio mnimo de materialidade e indcios de autoria, deve passar pelo crivo do judicirio, conforme o art. 30 da lei processual penal militar. O eventual erro na capitulao ou indicao de norma legal pode ser corrigido sem prejuzo da ampla defesa e ao contraditrio, pois o ru se defende dos fatos a ele imputados. A priso preventiva pode ser mantida.

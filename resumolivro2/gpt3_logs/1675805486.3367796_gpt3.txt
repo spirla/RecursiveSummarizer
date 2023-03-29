@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A jurisprudncia do STF consolidou-se no sentido que a autoridade competente poder delimitar o acesso do advogado aos elementos de prova relacionados a diligncias em andamento e ainda no documentados nos autos, quando houver risco de comprometimento da eficincia, da eficcia ou da finalidade das diligncias, mesmo com a alterao do artigo 7 do EAOAB determinada pela Lei 13.245/2016.27 Enfim, o direito de acesso do advogado aos autos de inqurito no  absoluto, devendo ceder diante da necessidade do sigilo da investigao. A autoridade de polcia judiciria militar fica autorizada a no liberar ao advogado o acesso s diligncias em andamento ou em fase de deliberao em regime de sigilo, o que poderia comprometer o resultado da investigao. Por exemplo,  sigiloso o procedimento probatrio de interceptao telefnica instaurado em apartado (artigo 8 da Lei 9.296/96). Enquanto estiver em curso a diligncia,  vedado acesso aos autos apartados. Sigilo absoluto at a concluso. No regime de sigilo, a autoridade de polcia judiciria militar pode negar ao advogado acesso aos elementos de prova ainda no documentados, mesmo porque algumas diligncias policiais, embora finalizadas, no podem ser documentadas (introduzidas nos autos), eis que acarretam descontinuidade s investigaes. O STF firmou o entendimento que o regime de sigilo da Lei de Organizaes Criminosas, que exige autorizao judicial,  ainda mais rigoroso e guarda perfeita compatibilidade com a Smula Vinculante 14. O artigo 23 da Lei 12.850/2013 dispe:
+para garantia da celeridade e da eficcia das diligncias investigatrias, assegurando-se ao defensor, no interesse do representado, amplo acesso aos elementos de prova que digam respeito ao exerccio do direito de defesa, devidamente precedido de autorizao judicial, ressalvados os referentes s diligncias em andamento.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência do STF estabeleceu que a autoridade competente pode limitar o acesso do advogado a elementos de prova relacionados a diligências em andamento, quando houver risco de comprometimento da eficácia ou da finalidade das diligências. O direito de acesso do advogado aos autos de inquérito não é absoluto e deve ceder diante do sigilo da investigação. A Lei 12.850/2013 assegura ao defensor amplo acesso aos elementos de prova, desde que precedido de autorização judicial, exceto os referentes às diligências em andamento.

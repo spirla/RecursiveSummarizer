@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Embora no exista previso legal de requerimento de carta testemunhvel no Cdigo de Processo Penal Militar (CPPM), cabvel  o seu conhecimento, uma vez que se trata do recurso correto para impugnar deciso que deixa de receber recurso em sentido estrito, nos termos do art. 639, inciso I, do Cdigo de Processo Penal (CPP). Assim, presentes os pressupostos de admissibilidade, conheo da presente carta testemunhvel, com fundamento no art. 3, alnea "a, do CPPM, tendo em vista que a legislao processual militar no estabeleceu recurso especfico contra deciso que nega seguimento a recurso em sentido estrito. Pois bem. O testemunhante relatou que, durante a fase do art. 427 do CPPM, sua defesa tcnica requereu que fosse submetida a uma percia digital a mdia mencionada no Evento n. 43 dos Autos n. 200002120.2020.9.13.0001, o que foi indeferido pelo magistrado a quo, em deciso constante no Evento n. 88. A intimao atinente  supramencionada deciso de indeferimento proferido pelo juzo primevo consta do Evento n. 89. O testemunhante, sentindo-se prejudicado com a deciso acima mencionada, interps Recurso em Sentido Estrito no dia 27/06/2022, que no foi conhecido pelo juzo primevo sob o fundamento de que estava intempestivo. (Evento n. 91). Aps analisar, com acuidade, as razes apresentadas pelo testemunhante, entendo que razo no assiste a ele. Pelo que se depreende do art. 518 do CPPM, o recurso em sentido estrito dever ser interposto no prazo de 3 (trs) dias, contados a partir da data da publicao da deciso. Nesse sentido, deve-se observar, tambm, que a Lei n. 11.491/2006  clara em seu art. 4,  4, no sentido de que os prazos processuais tero incio no primeiro dia til seguinte da publicao, ou seja, o prazo para a interposio de recurso por parte da defesa comeou a correr em 21/06/2022, conforme intimao do Evento n. 89, em pleno atendimento ao que determina a norma vigente. Assim, considerando que a publicao da deciso de no recebimento se deu em 21/06/2022, e a interposio do aludido recurso se deu apenas no dia 27/06/2022, resta comprovada sua intempestividade. Ressalte-se que o fato de o sistema eproc apontar que o testemunhante teria at o dia 27 de fevereiro de 2022 para interpor o recurso no o autoriza a faz-lo fora do prazo legal, pois o termo final do prazo no est vinculado  data sugerida pelo sistema, e a sugesto da data no exime a parte da obrigao de confirm-la. Sobre a questo, h recente deciso do Superior Tribunal de Justia: AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Carta Testemunhável é cabível para impugnar decisão que deixa de receber recurso em sentido estrito, desde que presentes os pressupostos de admissibilidade. No caso em questão, o recurso em sentido estrito interposto pelo testemunhante foi considerado intempestivo, pois o prazo para a interposição do recurso começou a correr em 21/06/2022, conforme intimado no Evento n. 89, e a interposição do aludido recurso se deu apenas no dia 27/06/2022.

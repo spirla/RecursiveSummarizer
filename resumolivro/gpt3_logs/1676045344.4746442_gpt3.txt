@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A previso constante no inciso III do artigo 23 do CP afirma, simplesmente, no haver crime quando o sujeito pratica a conduta no exerccio regular do direito. Tal dispositivo, antes de descrever um modelo para o comportamento permitido, define um princpio de aplicao geral para a justificao capaz de abranger uma gama variada de situaes. A razo para a excluso da ilicitude  a inadmissvel contradio lgica entre direito e crime. Se existe direito que ampare a conduta tpica, no pode haver crime. Impedir contradies dessa natureza , na verdade, o objetivo essencial do juzo de ilicitude. Constatada a violao  norma proibitiva que  subjacente ao tipo penal incriminador, a teoria do crime impe avaliar se existe no sistema jurdico uma permisso que d suporte ao comportamento praticado. Tendo aquele que realiza a conduta examinada o direito de fazer o que fez, no pode haver crime. Se, no entanto, abusar do direito que tem e violar proteo do direito alheio, no haver a excluso de ilicitude. Existncia de direito. A existncia de um direito  o primeiro pressuposto para o reconhecimento da causa excludente de ilicitude. Por direito deve-se entender a proteo emanada do sistema jurdico, em seu sentido mais amplo. O direito que suporta a excluso da ilicitude no necessariamente  expresso em normas jurdicas claras e precisas, podendo tambm ser extrado do sistema normativo e dos princpios que nele so acolhidos. A justificao com base na existncia de um direito pressupe avaliar a harmonia que o sistema de direitos deve preservar. No se pode considerar um direito isoladamente, mas sim no contexto dos direitos que orientam as atividades individuais no ambiente social. A justificao da conduta somente pode se dar quando um direito, considerado preponderante entre os que so incidentes no fato concreto, suportar a inobservncia daquele que inspirou a elaborao da norma proibitiva do tipo incriminador. Os exemplos clssicos de direitos que autorizam condutas tpicas so as intervenes mdico-cirrgicas (embora tambm sejam lembradas como caracterizadoras de estado de necessidade de terceiro) e as prticas esportivas violentas, que, eventualmente, importam leses corporais. Atuando conforme as regras da Medicina e do desporto, as condutas lesivas devem ser reconhecidas como justificadas. O mdico no pode ser responsabilizado por leses corporais ao fazer uma inciso no abdome do paciente, pois sua conduta atende aos fins protetivos do sistema normativo e, por isso, recebe carga valorativa positiva.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O inciso III do artigo 23 do CP afirma que não há crime quando o sujeito pratica a conduta no exercício regular de um direito. A justificação da conduta somente é possível quando houver um direito preponderante em relação à norma proibitiva. Exemplos clássicos são as intervenções médico-cirúrgicas e as práticas esportivas violentas.

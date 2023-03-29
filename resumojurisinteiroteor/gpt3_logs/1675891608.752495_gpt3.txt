@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ACRDO Vistos, relatados e discutidos os presentes autos, sendo apelante o Ministrio Pblico do Estado de Minas Gerais e apelados Marcelo Oliveira Pereira e Natan Bastos Francisco, acordam os desembargadores da Primeira Cmara, por unanimidade, em dar parcial provimento ao recurso de apelao do Ministrio Pblico, para manter a absolvio do ru 1 Ten PM Marcelo Oliveira Pereira, e, lado outro, reformar a sentena para condenar o ru 2 Ten PM Natan Bastos Francisco, pela prtica do crime de desacato (art. 299 do Cdigo Penal Militar), estabelecendo a pena definitiva em 8 (oito) meses de deteno, a ser cumprida em regime aberto, com a concesso do sursis penal mediante as condies a serem estabelecidas pelo Juzo da execuo. Considerando a manifestao da defesa levantando questo de ordem, em seus efeitos retro-operantes, com base no  1 do art. 125 do Cdigo Penal Militar, a Primeira Cmara, por maioria de votos, reconheceu a prescrio da pretenso punitiva, em seus efeitos retroativos, extinguindo a punibilidade do condenado. Vencido, neste aspecto, o desembargador Osmar Duarte Marcelino. Relator para o acrdo o desembargador Fernando Galvo da Rocha, revisor. RELATRIO Cuida-se de apelao criminal interposta pelo Ministrio Pblico do Estado de Minas Gerais em face da sentena que absolveu o 1 ru (1 Ten PM Marcelo Oliveira Pereira) quanto  prtica do crime previsto no art. 319 (prevaricao) do Cdigo Penal Militar (CPM), com fundamento no art. 439, alnea "c, do Cdigo de Processo Penal Militar (CPPM) e o 2 ru (2 Ten PM Natan Bastos Francisco) quanto  prtica do crime previsto no art. 299 (desacato a militar) do CPM, com fundamento no art. 439, alnea "b, do CPPM. O Ministrio Pblico ofereceu denncia contra os apelados, Evento 02, aduzindo o seguinte: [...] Em 1 de junho de 2016, por volta de 16h00min, na sede do 4 GP RV, no municpio de Par de Minas/MG, o denunciado 3 Sgt. PM Natan Bastos Francisco desacatou o militar 3 Sgt. QPR Paulo Borges da Silva no exerccio de sua funo de natureza militar. Alm disso, alguns dias depois, no mesmo municpio, os denunciados 1 Sgt. PM Odair Patrcio dos Santos, 2 Sgt. PM Clsio Antnio Ribeiro, 2 Sgt. PM Rony Guilherme da Costa de Faria, Sd. PM Raphael Novais de Souza e o 2 Sgt PM Osaias Humberto da Silva difamaram o militar 3 Sgt.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Primeira Cmara deu parcial provimento ao recurso de apelao do Ministério Público, mantendo a absolvição do 1º réu e reformando a sentença para condenar o 2º réu pelo crime de desacato, estabelecendo a pena definitiva em 8 meses de detenção em regime aberto, com a concessão do sursis penal. Por maioria de votos, foi reconhecida a prescrição da pretenção punitiva, extinguindo a punibilidade do condenado.

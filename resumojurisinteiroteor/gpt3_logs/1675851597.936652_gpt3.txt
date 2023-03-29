@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+150, art. 261, III, por 13 (treze) vezes, 309, 308, 312, por 09 (nove) vezes; 336, todos do Cdigo Penal Militar e o Cb/PM Cleiton Costa de Carvalho arts. 150, art. 261, III, por 13 (treze) vezes, 309, 308, 312, por 13 (treze) vezes; 336, todos do Cdigo Penal Militar, pelo que o Ministrio Pblico requer sejam os mesmos citados para interrogatrio e defesa que quiserem produzir, ouvidas as testemunhas abaixo relacionadas, cumpridas as demais formalidades da lei, para ao final, serem condenados na sano que Ihes couber, com a fixao do valor mnimo dos danos cveis. A douta Juza de Direito Titular na 3a AJME recebeu a denncia em 21/08/2015. Aps o sorteio dos membros do Conselho Especial de Justia (CEJ), o ru Fabrizio Duilio Ortenzio e a r Grasiela Teixeira Machado arguiram a nulidade do sorteio do CEJ, por ausncia de intimao dos acusados e seus advogados, bem como a exceo de suspeio da juza de direito. Em razo da exceo de suspeio, a sesso foi suspensa pelo prazo de at 90 (noventa) dias ou at a deciso do Tribunal de Justia Militar. Os autos de Exceo de Suspeio n. 0001826-21.2015.9.13.0000 foram encaminhados e recebidos neste e. Tribunal e, aps a distribuio, tornei-me relator do feito. A primeira Cmara julgou improcedente a ao de suspeio da Juza Titular da 3a AJME, e a deciso foi encaminhada  primeira instncia para regular andamento do feito. Os rus requereram a suspenso do processo a fim de que fosse realizada percia para verificar a existncia de rompimento de lacres de placas de motocicletas, bem como a degravao de um vdeo realizado por uma vtima durante a abordagem policial. Aduziram os advogados que tais providncias deveriam ocorrer antes das oitivas das testemunhas (fls. 1.639/1.641); entretanto, o Conselho Especial de Justia indeferiu, por unanimidade, estes pedidos (fls. 1.684/1.691) As testemunhas arroladas pelo Ministrio Pblico, as vtimas e as testemunhas arroladas pela defesa do recorrente foram ouvidas, conforme vdeos constantes nos Eventos 05 a 11 dos autos. A audincia de interrogatrio dos rus foi marcada para o dia 17/06/2017, contudo o recorrente no compareceu, j que havia se submetido a uma cirurgia. A defesa dos corrus Cb PM Cleiton Costa de Carvalho, SD PM Saulo Antnio Machado e Hrcules Longuinho Silvestre de Oliveira requereram o desmembramento da ao, tendo em vista que os mesmos j haviam sido interrogados, em respeito ao princpio da celeridade. Registre-se, por oportuno, que consta das fls.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A Juza de Direito Titular da 3a AJME recebeu a denncia em 21/08/2015. Os rus arguiram a nulidade do sorteio do Conselho Especial de Justia e a exceo de suspeio da juza de direito, sendo a sesso suspensa pelo prazo de at 90 (noventa) dias ou at a deciso do Tribunal de Justia Militar. A primeira Cmara julgou improcedente a ao de suspeio da Juza Titular da 3a AJME, e a deciso foi encaminhada primeira instncia para regular andamento do feito. As testemunhas foram ouvidas, e a audincia de interrogatrio dos rus foi marcada para o dia 17/06/2017, contudo o recorrente no compareceu. A defesa dos corrus requereram o desmembramento da ao.

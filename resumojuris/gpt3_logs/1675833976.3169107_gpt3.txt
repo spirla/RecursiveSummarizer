@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Competencia da Primeira Turma da Primeira Secao do STJ. DESTAQUE 135 Compete as Turmas de Direito Publico do STJ o julgamento de acao civil publica ajuizada por Orgao estadual que fiscaliza a implementacao e a manutencao adequada do servico gratuito SAC, por telefone, lei do call center , e o prestador de servico regulado pelo Poder Publico federal - servico de televisao por assinatura. Busca-se compelir a prestadora de servicos de televisao por assinatura a dar cumprimento ao Decreto n. 6.523/2008 e a Portaria n. 2.014/2008 a fim de que preste adequadamente o Servico de Atendimento ao Consumidor - SAC, nos termos destas normas regulamentadoras, que nao sao lei em sentido estrito (ADI n. 4118/RJ), mas atos administrativos normativos. Por oportuno, colhe-se a seguinte passagem doutrinaria a regulacao (art. 174 da CRFB) nao se confunde com a regulamentacao (art. 84, IV, da CRFB). Enquanto a regulacao representa uma funcao administrativa, processualizada e complexa, que compreende o exercicio de funcao normativa, executiva e judicante, a regulamentacao e caracterizada como funcao politica, inerente ao chefe do Executivo, que envolve a edicao de atos administrativos normativos (atos regulamentares), complementares a lei . A delimitacao da causa tambem nao deixa de conter vies que envolve a observancia da regulacao do direito, pois se trata do exame de normas do SAC que incidem sobre a prestacao de servico regulado pelo Poder Publico federal; e o servico de televisao por assinatura, embora tenha regramento proprio previsto na Lei n. 12.485/2011, e servico de telecomunicacoes que esta sujeito ao Direito Regulatorio (Lei n. 9.472/1997, art. 60,  1).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Compete às Turmas de Direito Público do STJ o julgamento de ação civil pública ajuizada por órgão estadual que fiscaliza a implementação e a manutenção adequada do serviço gratuito SAC, por telefone, lei do call center. 2. O objetivo da ação é compelir a prestadora de serviços de televisão por assinatura a dar cumprimento ao Decreto n. 6.523/2008 e a Portaria n. 2.014/2008 a fim de que preste adequadamente o Serviço de Atendimento ao Consumidor - SAC, nos termos destas normas regulamentadoras. 3. A regulação (art. 174 da CRFB) não se confunde com a regulamentação (art. 84, IV, da CRFB). 4. A regulação representa uma função administrativa, processualizada e complexa, que compreende o exercício de função normativa, executiva e judicante. 5. A regulamentação é caracterizada como função política, inerente ao chefe do Executivo, que envolve a edição de atos administrativos normativos (atos regulamentares), complementares à lei. 6. O serviço de televisão por assinatura, embora tenha regramento próprio previsto na Lei n. 12.485/2011, é serviço de telecomunicações que está sujeito ao Direito Regulatorio (Lei n. 9.472/1997, art. 60, 1).

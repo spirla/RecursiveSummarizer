@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Habeas corpus. Via incompativel para a pretensao. DESTAQUE Nao e compativel com a via do habeas corpus a pretensao de declaracao de inconstitucionalidade do art. 28-A do CPP. 1239 Inicialmente cumpre salientar que, a confissao, formal e circunstanciada, do fato criminoso e um dos requisitos exigidos pelo art. 28-A do CPP para a celebracao do acordo de nao persecucao penal (ANPP). Essa exigencia legal nao implica violacao do direito a nao autoincriminacao. A admissao da imputacao deve ser voluntaria, espontanea, livre de qualquer coacao. Afinal, o reu e livre para analisar a conveniencia de confessar, assim como ocorre com a propria atenuante prevista no art. 65, inciso III, alinea d, do CP, na medida em que, se de um lado, a confissao pode robustecer a tese acusatoria (onus), tambem pode franquear a diminuicao da reprimenda (bonus). Para se afastar o requisito legal da confissao da imputacao, como etapa necessaria da celebracao do acordo de nao persecucao penal, seria imprescindivel a afetacao da materia a Corte Especial para a declaracao de inconstitucionalidade parcial do art. 28-A do CPP, sob pena de violacao da Sumula Vinculante n. 10 do Supremo Tribunal Federal, procedimento incompativel com a celere via de habeas corpus, cujo rito nao admite a suspensao do feito e afetacao da materia a Corte Especial para o exame da materia prejudicial relativa a constitucionalidade do dispositivo impugnado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O requisito legal da confissão da imputação para a celebração do acordo de não persecução penal não implica violação do direito à não autoincriminação. 2. Para se afastar o requisito legal da confissão da imputação, como etapa necessária da celebração do acordo de não persecução penal, seria imprescindível a afetação da matéria a Corte Especial para a declaração de inconstitucionalidade parcial do art. 28-A do CPP. 3. O rito do habeas corpus não admite a suspensão do feito e afetação da matéria a Corte Especial para o exame da matéria prejudicial relativa à constitucionalidade do dispositivo impugnado.

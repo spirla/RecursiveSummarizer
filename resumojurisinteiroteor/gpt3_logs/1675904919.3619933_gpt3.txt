@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O autor no comprovou nenhuma irregularidade no procedimento administrativo, conforme artigo 373, CPC/2015. Pelo exposto, a concluso  pela improcedncia dos pedidos da inicial. [...] Assim, julgou improcedentes os pedidos da inicial e condenou a autor, Celso Malaquias Nunes, ao pagamento das custas processuais e dos honorrios advocatcios provenientes da sucumbncia, fixados em 20% (vinte por cento) do valor dado  causa, ficando suspensa a exigibilidade de cobrana, nos termos do 3 do art. 98 do Cdigo de Processo Civil (CPC). Aps, sobreveio tempestivo recurso de apelao do autor (Evento 60), em cujas razes sustenta, preliminarmente, a no observncia da ampla defesa e do contraditrio, bem como o cerceamento de defesa com o indeferimento das testemunhas e da juntada de documentos. No mrito, reitera a tese desenvolvida em sua inicial, com enfoque nos vcios do PAD, aptos a ensejar a anulao da punio disciplinar imposta. O Estado de Minas Gerais, intimado, ofertou contrarrazes ao apelo (Evento 67), requerendo o improvimento do recurso de apelao apresentado pelo autor. Registro que deixei de abrir "vista dos autos  douta procuradoria de justia, considerando a ausncia das hipteses de sua interveno, bem como a Recomendao n. 01, de 03/09/2001, do Conselho Superior do Ministrio Pblico do Estado de Minas Gerais, publicada no Minas Gerais de 05/09/2001.  o relatrio. VOTOS DESEMBARGADOR OSMAR DUARTE MARCELINO, RELATOR Como relatado, cuida-se de ao ordinria anulatria de ato administrativo-disciplinar cumulada com pedido de tutela antecipada, reintegrao de cargo e pagamento de vencimentos, ajuizada por Celso Malaquias Nunes, visando  nulidade das punies aplicadas a ele nos autos do Processo Administrativo-Disciplinar (PAD) de Portaria n. 109.074/2011 -9aRPM. Eminentes desembargadores, sem adentrar no mrito da demanda, cumpre-me trazer  baila uma preliminar de ofcio, a qual, embora no arguida pelo apelante em suas razes recursais,  matria de ordem pblica, impondo-nos o dever de decidir a respeito. Preliminar - Nulidade da sentena - Ausncia de fundamentao da sentena proferida Inicialmente, vejam Vossas Excelncias que o caso posto refere-se a pedido de nulidade de processo administrativo, com vista  reintegrao de militar aos quadros da sua corporao, o que sempre nos traz a obrigao de analisar com profundidade as assertivas do autor e do ru, e as provas coligidas aos autos. No entanto, em relao  matria,  importante destacarmos que o juiz a quo, ao enfrentar em sua deciso os argumentos trazidos pelas partes, deve mencionar quais as provas so melhores e mais convincentes do que as outras, justificando a sua deciso, motivando a sua deciso.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O autor ajuizou ao ordinria anulatria de ato administrativo-disciplinar cumulada com pedido de tutela antecipada, reintegrao de cargo e pagamento de vencimentos, alegando nulidade das punies aplicadas a ele nos autos do Processo Administrativo-Disciplinar (PAD). O Tribunal entendeu que o autor no comprovou nenhuma irregularidade no procedimento administrativo, julgando improcedentes os pedidos da inicial e condenando o autor ao pagamento das custas processuais e dos honorrios advocatcios provenientes da sucumbncia. O recurso de apelao do autor foi indeferido, pois não houve observância da ampla defesa e do contraditório.

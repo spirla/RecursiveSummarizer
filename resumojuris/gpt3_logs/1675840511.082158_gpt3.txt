@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O resultado do julgado foi assim proclamado: Tese: As circunstancias da natureza e da quantidade da droga apreendida devem ser levadas em consideracao apenas em uma das fases do calculo da pena. Tema 712: Possibilidade, em caso de condenacao pelo delito de trafico de drogas, de valoracao da quantidade e da natureza da droga apreendida, tanto para a fixacao da pena-base quanto para a modulacao da causa de diminuicao prevista no art. 33,  4, da Lei 11.343/2006 . Portanto, diante da orientacao consolidada ha tempos pelas Cortes Superiores, nao parece adequado o acolhimento da proposta do uso apenas supletivo da quantidade e da natureza da droga na terceira fase da dosimetria. A adocao de tal posicionamento, resultara, em regra, na imposicao de penas diminutas - abaixo do patamar de 4 anos de reclusao, como decorrencia da incidencia da minorante no grau maximo, ressalvados, obviamente, os casos de traficantes reincidentes ou integrantes de grupos criminosos. 715 Sob tal contexto, propoe-se a manutencao do entendimento anterior desta Corte, acolhido em repercussao geral pelo STF, no julgamento do ARE 666.334/AM, sobre a possibilidade de valoracao da quantidade e da natureza da droga apreendida, tanto para a fixacao da pena-base quanto para a modulacao da causa de diminuicao prevista no art. 33,  4, da Lei 11.343/2006 - neste ultimo caso ainda que sejam os unicos elementos aferidos -, desde que nao tenha sido considerada na primeira fase do calculo da pena. No caso, o Juiz de origem afastou o redutor do trafico privilegiado por entender que a expressiva quantidade de droga apreendida (147 quilos de maconha) nao qualificaria o reu como pequeno e iniciante no comercio ilicito de entorpecentes. Contudo, o STF tem posicionamento firme de que A quantidade de droga apreendida nao e, por si so, fundamento idoneo para afastamento da minorante do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As circunstâncias da natureza e da quantidade da droga apreendida devem ser levadas em consideração em uma das fases do cálculo da pena. 2. É possível a valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, 4, da Lei 11.343/2006. 3. Não é adequado o acolhimento da proposta do uso apenas supletivo da quantidade e da natureza da droga na terceira fase da dosimetria. 4. A adoção de tal posicionamento resultará, em regra, na imposição de penas diminutas. 5. A quantidade de droga apreendida não é, por si só, fundamento idôneo para afastamento da minorante do art. 33, 4, da Lei 11.343/2006.

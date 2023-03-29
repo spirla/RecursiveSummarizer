@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, qualquer norma que imponha prazo certo para a pratica de tais atos configura indevida interferencia do Poder Legislativo em atividade propria do Poder Executivo e caracteriza intervencao na conducao superior da Administracao Publica. Diante da falta de impugnacao especifica de todo o conteudo normativo, o Plenario conheceu em parte do pedido formulado em acao direta ajuizada contra a Lei amapaense 1.601/2011, que Institui a Politica Estadual de Prevencao, Enfrentamento das Violencias, Abuso e Exploracao Sexual de Criancas e Adolescentes no Estado do Amapa . Na parte conhecida, o colegiado, por maioria, julgou procedente a pretensao, a fim de declarar a inconstitucionalidade do art. 9 da aludida lei. Vencida parcialmente a ministra Carmen Lucia. ADI 4728/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 12.11.2021 (sexta-feira), as 23:59 (INF 1037) Requisitos para a instauracao de CPI e direito das minorias parlamentares - MS 37760 MC-Ref/DF Resumo: A instauracao de Comissao Parlamentar de Inquerito depende unicamente do preenchimento dos requisitos previstos no art. 58,  3, da CF/88, ou seja: (a) o requerimento de um terco dos membros das casas legislativas; (b) a indicacao de fato determinado a ser apurado; e (c) a definicao de prazo certo para sua duracao. A instalacao de uma Comissao Parlamentar de Inquerito (CPI) nao se submete a um juizo discricionario seja do presidente da casa legislativa, seja do plenario da propria casa legislativa. Nao pode o orgao diretivo ou a maioria parlamentar se opor a tal requerimento por questoes de conveniencia ou de oportunidade politicas. Dessa forma, atendidas as exigencias constitucionais, impoe-se a criacao da CPI.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Qualquer norma que imponha prazo certo para a pratica de atos configura indevida interferencia do Poder Legislativo em atividade propria do Poder Executivo. 2. A instauracao de Comissao Parlamentar de Inquerito depende unicamente do preenchimento dos requisitos previstos no art. 58, 3, da CF/88. 3. A instalacao de uma Comissao Parlamentar de Inquerito nao se submete a um juizo discricionario seja do presidente da casa legislativa, seja do plenario da propria casa legislativa. 4. Nao pode o orgao diretivo ou a maioria parlamentar se opor a tal requerimento por questoes de conveniencia ou de oportunidade politicas. 5. Atendidas as exigencias constitucionais, impoe-se a criacao da CPI.

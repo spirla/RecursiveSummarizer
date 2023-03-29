@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os tpicos ou lugares-comuns constituem ponto de partida para a argumentao, porque so pressupostos comuns a todos os espritos que compem o auditrio, fazendo, assim, parte de sua nova retrica. Perelman parte da distino estabelecida por Aristteles entre os raciocnios analticos (lgico-formais) e os raciocnios dialticos (retricos) para situar a argumentao jurdica entre os dialticos. Perelman distinguiu a retrica que  especificamente utilizada pelos juristas da retrica geral, acolhendo a designao lgica jurdica para diferenciar o raciocnio jurdico da lgica formal. Segundo Perelman, no raciocnio lgico-formal ocorre a demonstrao da concluso, por meio da passagem necessria oferecida pelas premissas. Se as premissas so verdadeiras, a concluso, necessariamente, tambm o ser. No raciocnio dialtico (jurdico), por outro lado, a argumentao evidencia apenas o carter plausvel, razovel de uma deciso ou opinio. Por isso, Perelman concebeu como ponto central de sua teoria que a argumentao  sempre dirigida a um determinado auditrio a que se pretende persuadir para obter sua adeso intelectual. A sua nova retrica considera que a argumentao pode dirigir-se a auditrios diversos e, por isso, no se limita ao exame das tcnicas do discurso pblico, que  dirigido a uma multido no especializada, como a retrica clssica. Perelman se interessou especialmente pelo raciocnio dialtico, que permite defender uma tese e atacar um adversrio, em uma controvrsia. A especificidade do raciocnio jurdico reside na dificuldade da argumentao alcanar um acordo entre os interessados, pois esta se desenvolve sempre em meio a uma controvrsia. Muito embora Perelman conceba o Direito sob uma perspectiva menos formalista, porque preocupada com a aceitao do meio no qual exerce sua regulamentao, entende que a controvrsia que  levada ao conhecimento do Judicirio somente pode ser superada pelo poder da autoridade de impor uma deciso, adaptando o texto da lei ao caso concreto, de modo que o papel do juiz  encontrar uma soluo que seja razovel, aceitvel, ou seja, nem subjetiva, nem arbitrria.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Perelman distingue a retrica utilizada pelos juristas da retrica geral, acolhendo a designação lógica jurídica para diferenciar o raciocínio jurídico da lógica formal. O raciocínio lógico-formal demonstra a conclusão por meio de premissas verdadeiras, enquanto o raciocínio dialético (jurídico) evidencia apenas o caráter plausível, razoável de uma decisão ou opinião. A argumentação é sempre dirigida a um determinado auditório com o intuito de persuadi-lo. O papel do juiz é encontrar uma solução que seja razoável e aceitável, não sendo subjetiva nem arbitrária.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, do fato de o MPF ser o titular de funcao teleologicamente preordenada a defesa dos direitos dos indios, rigorosamente nada se segue acerca da legitimidade deles para a defesa de seus proprios direitos. Do fato de A ter o direito ao aforamento de certa acao nao se pode afirmar nada a respeito da prerrogativa de B faze-lo. O contrario so encontraria base caso a norma atribuisse competencia exclusiva ao MPF, com o consequente alijamento dos indios. Mas, como visto, o art. 232 da CF adotou a solucao inversa, ao fazer coincidir a titularidade do direito material com a legitimacao e a capacidade processuais dos indios. Portanto, o fato de o MPF participar de demanda nada diz sobre o pressuposto basico de validade de qualquer processo: citar-se o titular do direito cuja existencia se quer negar. (Informativo n. 737) PROCESSO REsp 1.977.720-MS, Rel. Min. Herman Benjamin, Segunda Turma, por unanimidade, julgado em 17/05/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Educacao de Jovens e Adultos - EJA. Matricula nas vagas remanescentes do Programa Nacional de Acesso ao Ensino Tecnico e Emprego - PRONATEC. Possibilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O fato de o Ministério Público Federal ser o titular de função teleologicamente preordenada à defesa dos direitos dos índios não significa que eles não possam defender seus próprios direitos. 2. A titularidade do direito material coincide com a legitimidade e a capacidade processuais dos índios. 3. O fato de o Ministério Público Federal participar de demanda não diz nada sobre o pressuposto básico de validade de qualquer processo: citar-se o titular do direito cuja existência se quer negar.

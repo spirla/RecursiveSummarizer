@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+13); e, do provedor de aplicacoes de internet, por sua vez, manter os registros de acesso, sob sigilo, em ambiente controlado e de seguranca, pelo prazo de 6 (seis) meses (art. 15). 1298 Dispoe, ainda, que a autoridade policial, administrativa ou o Ministerio Publico poderao requerer cautelarmente que os registros de conexao sejam guardados por prazo superior a 1 (um) ano (art. 13,  2), e os registros de acesso a aplicacoes de internet por prazo superior a 6 (seis) meses (art. 15,  2), devendo, nas duas situacoes, e no prazo de 60 (sessenta) dias, contados do requerimento administrativo, ingressar com o pedido de autorizacao judicial de acesso aos (dois) registros (arts. 13,  3, e 15,  2): Nesse ponto, ao dispor que a autoridade policial, administrativa ou o Ministerio Publico poderao requerer cautelarmente - que os registros de conexao sejam guardados por prazo superior a 1 (um) ano (art. 13,  2), e os registros de acesso a aplicacoes de internet por prazo superior a 6 (seis) meses (art. 15,  2) -, a Lei disse menos do que pretendia. E que, quem requer alguma coisa, pura e simplesmente pode te-la deferida ou nao, e, no caso, ate mesmo pelo uso do termo cautelarmente , seguido da previsao de pedido judicial de acesso no prazo de 60 (sessenta) dias, contados do requerimento administrativo, sob pena de caducidade, tem-se que o administrador de sistema autonomo e o provedor de aplicacoes de internet estariam obrigados a atender as solicitacoes da autoridade policial, administrativa ou do Ministerio Publico, para que os registros sejam guardados por prazo superior. Disso se infere que, no caso, o pedido de congelamento de dados pelo Ministerio Publico nao precisa necessariamente de previa decisao judicial para ser atendido pelo provedor, mesmo porque - e esse e o ponto nodal da discussao, visto em face do direito a preservacao da intimidade, da vida privada, da honra e da imagem das partes (CF, art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) A autoridade policial, administrativa ou o Ministério Público podem requerer cautelarmente que os registros de conexão sejam guardados por prazo superior a 1 (um) ano (art. 13, 2) e os registros de acesso a aplicações de internet por prazo superior a 6 (seis) meses (art. 15, 2). 2) O administrador de sistema autonomo e o provedor de aplicações de internet estão obrigados a atender as solicitações da autoridade policial, administrativa ou do Ministério Público, para que os registros sejam guardados por prazo superior. 3) O pedido de congelamento de dados pelo Ministério Público não precisa necessariamente de previa decisão judicial para ser atendido pelo provedor. 4) O direito à preservação da intimidade, da vida privada, da honra e da imagem das partes (CF, art. 5º) deve ser considerado.

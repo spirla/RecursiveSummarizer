@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+As sistematizaes da doutrina penal sobre o crime tm por escopo estabelecer um mtodo cientfico capaz de precisar o exame a ser desenvolvido para a identificao do crime e, consequentemente, viabilizar a responsabilidade de seu sujeito ativo. A falta de um conceito analtico, que propicie ao operador do direito a aplicao de um procedimento lgico para a identificao do crime, na realidade, resulta em insegurana e incerteza na aplicao do Direito. A teoria do crime no  mero jogo intelectualista, mas sim elaborao cientfica que atende ao objetivo prtico de indicar o caminho lgico a ser trilhado para afirmar ou descartar a incriminao nos casos concretos. Desta forma, o conceito de crime adquire especial importncia  medida que estabelece limites ao poder de punir do Estado e possibilita a aplicao segura e calculvel das normas repressivas. 4.4. Linhas bsicas do trabalho analtico. A correta anlise da responsabilidade penal exige a formulao de um conceito estratificado de crime que propicie o avano das consideraes por meio de um procedimento que guarde obedincia a uma ordem lgica. O trabalho de estratificao do crime foi elaborado e reelaborado por diversos penalistas e suas proposies no se apresentam plenamente uniformes. De qualquer modo,  possvel perceber algumas linhas bsicas nessa laborao. Os sistemas tericos, inicialmente, distinguiram o sujeito da conduta que realiza o crime. Em todo o fato punvel, existe uma conduta, lesiva ou potencialmente lesiva a bens jurdicos, e seu respectivo autor. Partindo desta distino, a primeira dificuldade para elaborar um conceito analtico do crime apresentou-se na escolha do referencial: o sujeito ou a sua conduta. A opo que toma o sujeito como referencial para anlise do crime, alm de propiciar o desvirtuamento da finalidade do Direito Penal, pela seleo de pessoas e no de condutas consideradas inadequadas, apresenta srias dificuldades prticas. Lastreando-se em uma teoria do sujeito do crime, esse mtodo deve iniciar a anlise do fato punvel pela imputabilidade51. Nos casos em que no se verificasse a imputabilidade, no haveria interesse em prosseguir a anlise da conduta. Tal postura impede, assim, o reconhecimento de situaes em que, embora inimputvel, o sujeito age de forma lcita. Da mesma forma, no se apresenta satisfatria para explicar a legtima defesa exercida contra ato de inimputvel, pois a conduta deste no chega a ser considerada injusta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O objetivo da doutrina penal é estabelecer um método científico para identificar o crime e responsabilizar o agente. A teoria do crime é uma elaboração científica que delimita o poder punitivo do Estado. O trabalho analítico se baseia na distinção entre sujeito e conduta, sendo a primeira opção para definição do crime, mas apresentando limitações práticas.

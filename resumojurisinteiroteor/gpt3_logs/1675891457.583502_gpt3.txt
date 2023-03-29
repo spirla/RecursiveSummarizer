@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em sesso de julgamento realizada em 5 de maio de 2022, o egrgio Conselho Permanente de Justia (CPJ), por unanimidade de votos, condenou o militar  pena de 3 (trs) meses de deteno em regime aberto, pela prtica de delito previsto no art. 160 (desrespeito a superior) do CPM. No concedeu o benefcio da suspenso condicional da pena, em razo de expressa vedao legal contida no art. 88, inciso II, alnea b, do CPM - Evento 129 - ATA - AJME. A sentena acostada no Evento 131 - SENT1 - AJME foi lida na sesso de julgamento (Evento 132 - SENT1). Inconformada, a defesa apresentou recurso (Evento 133 - AJME) e, em suas razes recursais (Evento 140 - AJME), sustentou, preliminarmente, a violao ao Estado Democrtico de Direito, sob a alegao de que o poder punitivo estatal no deve ultrapassar a vontade das partes e de que o Ministrio Pblico, na condio de titular da ao penal e agindo em nome do povo, almeja a absolvio, no podendo o juiz condenar. Quanto ao mrito, salientou a atipicidade da conduta e a inexistncia de dolo, porque o apelante to somente agiu no intuito de reivindicar seus direitos, e no de desrespeitar seu superior, ou seja, diante de tamanha injustia, perguntou pelos seus direitos e por que estava sendo tratado como um criminoso pelo suposto ofendido. Salientou, tambm, que o militar, ora apelante, estava sem vaso sanitrio em sua cela, sendo necessrio que todos os militares que estavam acautelados no 66 BPM utilizassem um nico vaso sanitrio, o que por si s demonstra uma mitigao do princpio da dignidade humana a todos os militares ali presentes; e que, acrescido a isto, o suposto ofendido, mesmo no sendo a autoridade competente para tal, retirou o banho de sol dos militares acautelados, mitigando ainda mais o direito destes. Aduziu que o militar apelante estava preso preventivamente por um homicdio ocorrido em legtima defesa, tanto que foi absolvido em primeira instncia, e via seus direitos serem mitigados por uma autoridade que sequer tinha competncia para isso. Concluiu que, ainda que no se entenda pela atipicidade de conduta, resta clara a ausncia de dolo, porquanto o apelante no agiu com a vontade de menosprezar o suposto ofendido ou faltar-lhe com o respeito, ao reivindicar seus direitos. Ao final, requereu o acolhimento integral da preliminar suscitada, com a consequente absolvio do militar. E, se no assim, requereu que seja reconhecida a atipicidade de conduta, com a absolvio do acusado nos termos do art. 439, letra b, do Cdigo de Processo Penal Militar (CPPM), ou que seja reconhecida a atipicidade de conduta, pela ausncia de dolo, com a absolvio do apelante, nos moldes da letra "d do mesmo artigo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia, por unanimidade de votos, condenou o militar a 3 (três) meses de detenção em regime aberto por prática de delito previsto no art. 160 (desrespeito a superior) do CPM. A defesa recorreu alegando violação ao Estado Democrático de Direito e atipicidade da conduta, sustentando que o militar agiu no intuito de reivindicar seus direitos e que não houve dolo. Requereu, então, a absolvição do militar.

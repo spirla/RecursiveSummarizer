@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+PROCESSO AgInt na Pet no REsp 1.586.943-SC, Rel. Min. Herman Benjamin, Segunda Turma, por unanimidade, julgado em 17.05.2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL CIVIL TEMA Nulidade de processo de demarcacao. Discussao da posse indigena de terras. Litisconsorcio passivo necessario. Comunidade indigena. Funai. MPF. DESTAQUE A comunidade indigena cuja posse fundiaria e questionada em acao de nulidade de demarcacao tem o direito subjetivo de ser ouvida no processo, na qualidade de litisconsorte passivo necessario. De pronto, deve-se afastar qualquer interpretacao da lei que transfira as entidades publicas os poderes do titular do direito, emasculando-o. Mesmo quando atua por meio da substituicao processual, o MPF nao usurpa nem anula a titularidade dos indios sobre seus direitos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A comunidade indígena cuja posse fundiária é questionada em ação de nulidade de demarcação tem o direito subjetivo de ser ouvida no processo, na qualidade de litisconsorte passivo necessário. 2. É necessário afastar qualquer interpretação da lei que transfira às entidades públicas os poderes do titular do direito, emasculando-o. 3. Mesmo quando atua por meio da substituição processual, o Ministério Público Federal não usurpa nem anula a titularidade dos índios sobre seus direitos.

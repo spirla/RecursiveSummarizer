@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A definio de corpo de delito, por vezes,  confundida com a de exame de corpo de delito. Na lapidar conceituao de Joo Mendes de Almeida Jnior corpo de delito  o conjunto de elementos sensveis do fato criminoso. Corpo  toda substncia formada por elementos sensveis, ou melhor, de partes elementares dispostas e conjuntas. Elementos sensveis so aqueles princpios produtores que podem afetar os sentidos, isto , que podem ser percebidos pela vista ou pelo ouvido ou pelo tato ou pelo gesto ou pelo olfato. So tambm chamados elementos fsicos ou materiais no s por sua natureza, como porque constituem a fora fsica ou resultam do movimento de fora fsica. Em outras palavras, o corpo de delito  objeto do exame ou da percia, enquanto o laudo de exame de corpo de delito  o resultado materializado desse exame ou percia, elaborado pelos peritos. Na infrao que deixar vestgios - delicta facti permanentis - ser indispensvel o exame de corpo de delito, direto ou indireto, no podendo supri-lo a confisso do acusado (artigo 328, CPPM). So exemplos de infraes que deixam vestgios (delitos materiais) o homicdio (artigo 205, CPM) e a leso corporal (artigo 209, CPM), cujo vestgio no primeiro caso  o cadver e no segundo o resultado da ofensa  integridade corporal ou  sade, em ambos, a materialidade (vestgio)  provada, respectivamente, mediante laudo necroscpico e de exame de corpo de delito. Por outro lado, h infraes que no deixam vestgios - delicta facti transeuntes - cujos exemplos so a injria e o desacato. Avulta de importncia o exame de corpo de delito, no s por constituir a materialidade do crime, mas tambm porque a sua falta acarreta nulidade do processo. O Cdigo de Processo Penal Militar no dispensa o exame de corpo de delito naqueles delitos que deixam vestgios e sanciona de nulidade o processo pela falta do referido exame (artigo 500, III, b, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O corpo de delito o conjunto de elementos sensveis do fato criminoso. O exame de corpo de delito o resultado materializado desse exame ou percia, elaborado pelos peritos. Na infrao que deixar vestgios, o exame de corpo de delito indispensvel e a sua falta acarreta nulidade do processo. O Cdigo de Processo Penal Militar sanciona de nulidade o processo pela falta do referido exame.

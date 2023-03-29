@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Ao lado dos elementos que definem a forma de Estado, o sistema de governo e a organizao do poder, os direitos fundamentais integram a essncia do Estado constitucional, como elementos nucleares da Constituio material. Com base na classificao tripartida proposta por Thomas Marshall18 - reformulada posteriormente por Karel Vasak19 - nos dias atuais, a doutrina compreende o processo histrico de sedimentao dos direitos humanos fundamentais por meio de trs geraes (dimenses) que se relacionam aos aspectos essenciais do projeto humanitrio iniciado com a revoluo francesa. Cabe notar que a concepo do processo histrico dos direitos humanos por meio de geraes permite a errnea compreenso de que uma gerao subsequente de direitos acaba por substituir os direitos da gerao anterior. Contudo, no se trata de substituio ou alternncia de direitos, mas, sim, de um processo cultural de acumulao e complementariedade. O processo civilizatrio vem permitindo o reconhecimento progressivo de novos direitos, que devem ser acrescidos, em relao de complementariedade, aos j reconhecidos. Para evitar tal equvoco,  prefervel conceber o processo de reconhecimento e consolidao dos direitos humanos por meio de suas diversas dimenses. 2.1.1. Dimenso liberal do Direito Penal. O ideal de liberdade constitui a essncia dos direitos humanos de primeira dimenso, que surgem com as reivindicaes acolhidas pelas primeiras declaraes de direitos do sculo XVIII e limitam-se aos direitos civis (ou, em outras palavras, s liberdades individuais) e aos direitos polticos (de participao poltica ou liberdades polticas). Comprometido com o ideal de liberdade e a garantia dos direitos humanos de primeira dimenso, o Estado de Direito liberal serviu-se do Direito Penal liberal. O Estado Liberal de Direito foi garantidor de uma cidadania individualista e limitada, promovendo a proteo dos direitos individuais relacionados  liberdade e  vida privada das pessoas. A marca caracterstica do Estado Liberal de Direito  a limitao jurdico-legal da atuao estatal, como garantia da liberdade dos indivduos-cidados contra eventual interveno excessiva do Estado. Em consonncia com a primeira dimenso dos Direitos Humanos, a primeira dimenso do Direito Penal racional se caracteriza por sua vinculao ao ideal de liberdade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os direitos fundamentais são elementos nucleares da Constituição material. A doutrina compreende o processo histórico de sedimentação dos direitos humanos fundamentais por meio de três gerações (dimensões) relacionadas ao projeto humanitário iniciado com a Revolução Francesa. O Estado Liberal de Direito garante a proteção dos direitos individuais relacionados à liberdade e à vida privada das pessoas, limitando a atuação estatal. A primeira dimensão do Direito Penal racional se caracteriza por sua vinculação ao ideal de liberdade.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+427 do Cdigo de Processo Penal Militar (CPPM), o Ministrio Pblico e a defesa no requereram diligncias (Eventos 48 e 51 - Processo Originrio). Determinada a abertura de vistas para os fins do art. 428 do CPPM, o Ministrio Pblico e a defesa manifestaram-se pela apresentao de alegaes finais em plenrio (Eventos 56 e 62 - Processo Originrio). Em sesso de julgamento remota realizada no dia 13 de dezembro de 2021, o Ministrio Pblico requereu a condenao do acusado, nos exatos termos da denncia, e a defesa, por sua vez, pleiteou a absolvio do ru, com fulcro no art. 439, alnea e, do CPPM. O CPJ, por maioria de votos, absolveu o acusado da prtica do delito previsto no art. 312 do CPM, com fundamento no art. 439, alnea "e, do CPPM (Evento 82 - Processo Originrio). A sentena absolutria (Evento 93 - Processo Originrio) foi lida em audincia realizada no dia 4 de abril de 2022 (Evento 94 - Processo Originrio). Irresignado, o Ministrio Pblico interps o presente recurso de apelao. Nas razes recursais, o parquet sustentou que o crime de falsidade ideolgica restou comprovado, pois, apesar de o apelado ter feito constar em documento pblico que a perda do armamento havia ocorrido por suposto furto na residncia em que se encontrava, na verdade, ele acreditava que a arma havia sido perdida no trajeto entre a cidade e a referida residncia. Asseverou, ainda, que o ru apresentou verso inverdica sobre os acontecimentos, com a finalidade de encobrir o fato de que a perda da arma se deu aps ingesto excessiva de bebida alcolica e em circunstncias que demonstraram sua desdia em cuidar do seu prprio armamento militar. Ao final, requereu a condenao do apelado pelo crime descrito no art. 312 do CPM (Evento 97 - Processo Originrio). Em contrarrazes, a defesa do acusado pugnou pela manuteno da sentena absolutria proferida (Evento 107 - Processo Originrio). Em parecer, a eminente procuradora de justia manifestou-se pelo provimento do recurso ministerial (Evento 6).  o relatrio. VOTOS DESEMBARGADOR FERNANDO ARMANDO RIBEIRO, RELATOR Conheo do recurso, uma vez que esto presentes os requisitos objetivos e subjetivos para a sua admissibilidade. Da anlise dos autos, infere-se que o apelado foi denunciado pela prtica do delito de falsidade ideolgica previsto no art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público interpôs recurso de apelação contra a sentença absolutória do acusado pelo crime de falsidade ideológica previsto no art. 312 do CPM. O relator conheceu do recurso, uma vez que estavam presentes os requisitos objetivos e subjetivos para a sua admissibilidade. O Ministério Público requer a condenação do acusado, enquanto a defesa pleiteia a absolvição.

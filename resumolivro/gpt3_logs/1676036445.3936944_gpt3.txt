@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No caso especfico das Cincias Sociais, essa neutralidade apresenta-se com peculiar dificuldade, pois o homem , ao mesmo tempo, sujeito e objeto de estudo. Augusto Thompson alerta para o fato de que o cientista est encarnado em um homem situado em determinada sociedade, na qual ocupa determinada posio na relao com outros indivduos. Desta forma,  impossvel que o cientista social seja capaz de observar seu objeto de estudo desvinculado das influncias de suas prprias condicionantes sociais. Garofalo, nesse perodo positivista, formulou a noo de delito natural158 e empreendeu relevantes consideraes sobre a personalidade do delinquente. Convencendo-se de que o delinquente seria portador de anomalia do sentimento moral, introduziu no Direito Penal a noo de temibilidade,159 posteriormente entendida como periculosidade, que estabeleceu as bases para a formao de um direito penal do autor. Luis Jimnez de Asa ressalta que  teoria do delito natural de Garofalo foram dirigidas inmeras crticas, pelo fato de vincular o crime  leso aos sentimentos altrustas de piedade e probidade. Tais crticas entendem que a definio de Garofalo  muito restrita para um fenmeno social que  pouco simplista161 e fundamenta a atuao de sistemas penais autoritrios, em que a tcnica punitiva  autoritria e discriminatria, ao responsabilizar o indivduo por sua identidade subjetiva. A consequncia da aplicao dos postulados positivistas quanto  responsabilizao penal foi a ampliao do nmero de indivduos responsveis e a modificao do critrio de aplicao das sanes. Abandonando o princpio diretor do livre-arbtrio, que indagava a respeito do discernimento e da liberdade de escolha do indivduo sobre os atos que pratica, a Escola Positiva defendeu que a sociedade possui o direito de se defender dos ataques de qualquer indivduo que lhe seja perigoso. Percebeu, porm, que a sano dirigida ao indivduo perigosamente insano no poderia ser da mesma natureza que a sano dirigida aos indivduos mentalmente ntegros. Assim, as medidas de segurana surgem como substitutas das penas, as quais trazem em si a noo de castigo. Essa noo de direito repressivo essencialmente voltada para o sujeito do fato, no entanto, obteve extremada repercusso na atuao repressiva alem, produzida pelo III Reich, quando as normas penais passaram a se referir ao sujeito da conduta, e no mais a esta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A neutralidade das Ciências Sociais apresenta-se com dificuldade, pois o homem é sujeito e objeto de estudo. Garofalo formulou a noção de delito natural e Jiménez de Asa criticou a definição de Garofalo, pois ela responsabiliza o indivíduo por sua identidade subjetiva. A Escola Positiva defendeu que a sociedade possui o direito de se defender dos ataques de indivíduos perigosos, e as medidas de segurança surgiram como substitutas das penas. Essa noção de direito repressivo teve grande repercussão na atuação repressiva do III Reich.

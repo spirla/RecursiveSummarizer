@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Afasta a responsabilidade civil do sentenciado, de conformidade com o artigo 935 do Cdigo Civil. Se o acusado sofreu procedimento administrativo disciplinar, que culminou em sua demisso do servio pblico, e em razo do mesmo fato foi processado e, ao fim e ao cabo da ao penal, absolvido com fundamento na inexistncia do fato, h possibilidade de obter reintegrao ao servio pblico, porque, se assim no fosse, seriam controversas as decises do Poder Judicirio, a criminal afirma que o fato no existiu e outra deciso que reconhece a responsabilidade administrativa pelo fato. De outro bordo, se a absolvio tiver por fundamento a segunda parte do artigo 439, a, do CPPM - no haver prova da sua existncia - por encerrar juzo de incerteza quanto  existncia do fato no tem efeito sobre a jurisdio civil, ou seja, no juzo criminal militar no se obteve prova da existncia do fato, mas sua existncia pode ser provada no juzo cvel, nem afasta a responsabilidade administrativa. 16.3.1.2. No constituir o fato infrao penal. A alnea b do artigo 439 do CPPM  aplicvel na atipicidade do fato. O fato existiu, mas no se subsume ao tipo legal por ausncia de dolo ou de culpa, por no restar provado o elemento subjetivo especial. Por exemplo, a prevaricao exige prova de que a ao ou omisso tenha o fim de satisfazer interesse ou sentimento pessoal (artigo 319, CPM). O Conselho ou o juiz pode considerar o fato infrao disciplinar na leso corporal levssima (artigo 209, pargrafo 6, CPM). Estabelece o Cdigo Penal Militar, ainda, que em crimes contra o patrimnio de furto atenuado (artigo 240, pargrafo 1), de apropriao indbita (artigo 250), de estelionato (artigo 253) e de dano atenuado (artigo 260), se o agente for primrio e a coisa de pequeno valor, o juiz pode considerar o fato infrao disciplinar. A absolvio, neste caso, no afasta a responsabilidade civil e administrativa. 16.3.1.3. No existir prova de ter o acusado concorrido para a infrao penal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 935 do Código Civil afasta a responsabilidade civil do sentenciado. Se o acusado foi absolvido em razão da inexistência do fato, pode haver reintegração ao serviço público. Se a absolvição tiver por fundamento a ausência de prova da existência do fato, não afasta a responsabilidade administrativa. O fato pode ser considerado infração disciplinar se não houver prova de que o acusado concorreu para a infração penal.

@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A restituio pode ser ordenada pela autoridade policial militar ou judiciria, mediante termo nos autos, desde que (a) a coisa apreendida no seja irrestituvel, na conformidade do artigo anterior;
+(b) no interesse mais ao processo;
+e (c) no exista dvida quanto ao direito do reclamante (artigo 191, CPPM). As coisas deteriorveis, se no houver dvida quanto ao direito do reclamante, devem ser devolvidas desde logo. Instaura-se em juzo, em autos apartados, incidente de restituio quando duvidoso o direito do reclamante, com prazo de 5 (cinco) dias para produo de prova. Desafia a deciso recurso a segunda instncia (artigo 192, CPPM). Se o juiz entender que a matria  de alta indagao, remeter o reclamante ao juzo cvel continuando as coisas apreendidas at que se resolva a controvrsia (artigo 192, pargrafo nico, CPPM). Se a coisa foi apreendida em poder de terceiro de boa-f, consoante o artigo 193 do CPPM, procede-se da seguinte maneira:
+(a) se a restituio for pedida pelo prprio terceiro, o juiz do processo poder orden-la, se estiverem preenchidos os requisitos do artigo 191;
+(b) se pedida pelo acusado ou pelo lesado e, tambm, pelo terceiro, o incidente autuar-se- em apartado e os reclamantes tero, em conjunto, o prazo de cinco dias para apresentar provas e o de trs dias para arrazoar, findos os quais o juiz decidir, cabendo da deciso recurso parao Superior Tribunal Militar. Se persistir dvida quanto  propriedade, os reclamantes sero remetidos ao juzo cvel (artigo 193, pargrafo 1). A nomeao de depositrio para a guarda da coisa at que se resolva a controvrsia. O Ministrio Pblico  ouvido no incidente de restituio (artigo 194, CPPM). A coisa facilmente deteriorvel  avaliada e levada a leilo pblico (artigo 195, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A restituio de bens apreendidos pode ser ordenada pela autoridade policial militar ou judiciria, desde que a coisa seja irrestituvel, no interesse mais ao processo e no exista dvida quanto ao direito do reclamante. Se houver dvida quanto ao direito do reclamante, instaura-se em juzo um incidente de restituio com prazo de 5 dias para produo de prova. Se a coisa foi apreendida em poder de terceiro de boa-f, procede-se de acordo com o artigo 193 do CPPM. Se a coisa for facilmente deteriorvel, ela ser avaliada e levada a leilo público.

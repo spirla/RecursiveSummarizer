@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Constituio Federal delimita a competncia da Justia Militar estadual em razo da pessoa (rationae personae), de julgar apenas os militares dos Estados - os policiais militares e os bombeiros militares - e, ainda, em razo da matria (rationaemateriae), julgar os crimes militares definidos no Cdigo Penal Militar, ressalvada a competncia do jri quando a vtima for civil. Nota importante:
+o juiz de direito e os Conselhos de Justia no julgam civil, ainda que o fato por ele praticado se amolde ao CPM. A Smula 53 do STJ firma essa linha de entendimento:
+Compete  Justia Comum Estadual processar e julgar civil acusado de prtica de crime contra instituies militares estaduais. Os recursos das decises de primeiro grau so julgados pelo Tribunal de Justia ou de Justia Militar. O artigo 106 da Constituio do Rio Grande do Sul estabelece competir ao Tribunal de Justia Militar julgar os recursos dos Conselhos de Justia. A Constituio do Estado de So Paulo em seu artigo 81 fixou a competncia originria e recursal do Tribunal de Justia Militar. Compete processar e julgar:
+I - originariamente, o Chefe da Casa Militar, o Comandante-Geral da Polcia Militar, nos crimes militares definidos em lei, os mandados de segurana e os habeas-corpus, nos processos cujos recursos forem de sua competncia ou quando o coator ou coagido estiverem diretamente sujeitos a sua jurisdio e s revises criminais de seus julgados e das Auditorias Militares;
+II - em grau de recurso, os policiais militares, nos crimes militares definidos em lei. 8.3.3. Competncia do juiz de direito. A Emenda Constitucional 45 estabeleceu dois rgos de jurisdio em primeiro grau:
+o juiz de direito do juzo militar e os Conselhos de Justia. Aquele com competncia para processar e julgar, singularmente, os crimes militares cometidos contra civis e cabendo ao Conselho de Justia, sob a presidncia de juiz de direito, processar e julgar os demais crimes militares (artigo 125, pargrafo 5, CF).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituição Federal estabelece que a Justiça Militar Estadual tem competência rationae personae para julgar apenas militares dos Estados e rationae materiae para julgar crimes militares definidos no Código Penal Militar. O juiz de direito e os Conselhos de Justiça têm competência para julgar crimes militares cometidos contra civis. O Tribunal de Justiça Militar tem competência originária e recursal para julgar os recursos dos Conselhos de Justiça.

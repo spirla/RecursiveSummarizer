@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por unanimidade, julgou procedentes os pedidos formulados em duas acoes diretas, analisadas em conjunto, para declarar a inconstitucionalidade da Emenda 94/2015 a Constituicao do estado de Rondonia. ADI 5281/RO, relatora Min. Carmen Lucia, julgamento virtual finalizado em 11.5.2021 (terca-feira), as 23:59 (INF 1016) ADI 5324/RO, relatora Min. Carmen Lucia, julgamento virtual finalizado em 11.5.2021 (terca-feira), as 23:59 (INF 1016) Iniciativa legislativa e norma que cria atribuicao ao Ministerio Publico - ADI 5351/DF ODS 16 Resumo: Sao formalmente inconstitucionais dispositivos da Lei 10.001/2000, de iniciativa do Poder Legislativo, que tratam de atribuicoes do Ministerio Publico ( caput e paragrafo unico do art. 2 e art. 4). A CF/88 (CF) reserva ao Presidente da Republica e ao Chefe do Ministerio Publico o poder de iniciativa para deflagrar o processo legislativo no que concerne a normas de organizacao e atribuicoes do Ministerio Publico. Esses mesmos dispositivos sao materialmente inconstitucionais por ofender a independencia e a autonomia funcional e administrativa do Ministerio Publico. E constitucional o art. 3 da Lei 10.001/2000, que confere prioridade aos processos e procedimentos decorrentes de relatorios de Comissao Parlamentar de Inquerito (CPI). As CPIs constituem importante mecanismo de controle da maquina publica, sendo um dos instrumentos para conferir concretude a competencia fiscalizatoria do Congresso Nacional (CF, art. 49, X).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente inconstitucional a Lei 10.001/2000, de iniciativa do Poder Legislativo, que trata de atribuições do Ministério Público. 2. É materialmente inconstitucional a Lei 10.001/2000, por ofender a independência e a autonomia funcional e administrativa do Ministério Público. 3. É constitucional o art. 3 da Lei 10.001/2000, que confere prioridade aos processos e procedimentos decorrentes de relatórios de Comissão Parlamentar de Inquérito.

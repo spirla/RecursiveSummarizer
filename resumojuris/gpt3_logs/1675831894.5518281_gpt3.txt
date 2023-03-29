@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse sentido, consigna-se que foge a razoabilidade juridica que o servidor seja tolhido de receber a compensacao pelo nao-exercicio de um direito que incorporara ao seu patrimonio funcional e, de outra parte, permitir que tal retribuicao seja paga aos herdeiros, no caso de morte do funcionario (AgRg no Ag 735.966/TO, Relator Ministro Felix Fischer, Quinta Turma, DJ de 28/8/2006, p. 305). 15 Tal compreensao, na verdade, mostra-se alinhada a orientacao adotada pelo Supremo Tribunal Federal, em sede de repercussao geral, no julgamento do ARE 721.001/RJ (Tema 635), segundo a qual e devida a conversao de ferias nao gozadas bem como de outros direitos de natureza remuneratoria em indenizacao pecuniaria por aqueles que nao mais podem delas usufruir, seja por conta do rompimento do vinculo com a Administracao, seja pela inatividade, em virtude da vedacao ao enriquecimento sem causa da Administracao . Oportunamente, mostra-se importante sublinhar que a tese repetitiva cuida, unica e exclusivamente, de controversia envolvendo direito postulado por servidor publico federal inativo, concernente a conversao em pecunia de licenca-premio nao gozada, nao abrangendo, portanto, igual pretensao eventualmente formulada por servidores ativos. Alem disso, a controversia tambem engloba o debate sobre saber se a conversao em pecunia da licenca-premio nao gozada estaria condicionada, ou nao, a comprovacao, pelo servidor, de que a nao fruicao do aludido direito decorreu do interesse da Administracao Publica. Nesse passo, o reiterado entendimento do STJ considera desnecessaria a comprovacao de que as ferias e a licenca-premio nao foram gozadas por necessidade do servico ja que o nao-afastamento do empregado, abrindo mao de um direito, estabelece uma presuncao a seu favor (REsp 478.230/PB, Relator Ministro Humberto Martins, Segunda Turma, DJ de 21/5/2007, p. 554).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É razoável que o servidor receba a compensação pelo não-exercício de um direito que incorporou ao seu patrimônio funcional. 2. É devida a conversão de férias não gozadas e outros direitos de natureza remuneratória em indenização pecuniária por aqueles que não mais podem delas usufruir. 3. É desnecessária a comprovação de que as férias e a licença-prêmio não foram gozadas por necessidade do serviço, pois o não-afastamento do empregado, abrindo mão de um direito, estabelece uma presunção a seu favor.

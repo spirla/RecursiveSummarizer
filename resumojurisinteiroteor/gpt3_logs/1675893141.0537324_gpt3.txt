@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+70, inciso II, alneas a, b, e m, na forma do art. 79, todos do Cdigo Penal Militar. Em 21/01/2022, o Conselho Permanente de Justia revogou a priso preventiva do paciente e determinou a expedio de alvar de soltura em favor do paciente. Em 17/05/2022, o Conselho Permanente de Justia, em sesso de julgamento, por maioria de quatro votos a um, absolveu o ru, 3 SGT BM Cosme Eustquio da Trindade Alves, da imputao constante no artigo 157, nos termos do artigo 439, alnea "b" do CPPM. Votou vencido o Juiz de Direito que condenou o ru, impondo ao mesmo a pena de 04 (quatro) meses de deteno. O Conselho Permanente de Justia, por unanimidade de votos, desclassificou as infraes referentes s duas imputaes do artigo 342 para duas imputaes do artigo 223, pargrafo nico e condenou o ru pela prtica do delito capitulado no artigo 223 por trs vezes, sendo uma constante da denncia, e as outras duas decorrentes da desclassificao requerida pelo MP em alegaes orais na sesso de julgamento. O CPJ, por deciso unnime, condenou o ru pela prtica dos dois delitos de desrespeito, capitulado no artigo 160 do CPM. O CPJ, por deciso unnime, no concedeu ao ru o benefcio da suspenso condicional da pena em razo de expressa vedao legal contida no artigo 88, inciso II, alneas "a" e "b" do CPM. A pena ser cumprida em regime aberto. Em 16/07/2022, o magistrado subscritor destas informaes determinou a expedio de mandado de priso em desfavor do sentenciado em razo do trnsito em julgado da condenao. Em 27/07/2022, o paciente requereu a revogao do mandado de priso alegando que j haveria cumprido a pena privativa de liberdade imposta na sentena. Aduziu que permaneceu preso preventivamente e que a sua soltura foi condicionada, sendo assim, ele j teria cumprido a pena privativa de liberdade. Em 29/07/2022, o magistrado subscritor destas informaes indeferiu o requerimento do paciente. Na deciso, ressaltou que a revogao de uma priso preventiva no implica, automaticamente, em antecipao da pena privativa de liberdade que eventualmente vier a ser imposta. A concesso da liberdade provisria imps ao paciente no curso do processo algumas restries que evidentemente no se constituem modalidade de priso e por bvio no pode ser considerado antecipao do cumprimento da pena, ideia que se apresenta surreal. A priso do paciente naquele momento se deu em decorrncia do trnsito em julgado de sentena penal condenatria e ter detrado o prazo que esteve preso em flagrante e preventivamente, cabendo ressaltar que o cmputo desse perodo ser feito pelo juzo da execuo, nos termos do art. 66, inciso III, alnea c, da LEP quando da expedio da guia de recolhimento.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia absolveu o ru das imputações constantes no artigo 157 do Código Penal Militar, desclassificando-as para duas imputações do artigo 223 e condenando-o pelo delito capitulado no artigo 223 por três vezes. O CPJ negou o benefício da suspenção condicional da pena e a pena será cumprida em regime aberto. O magistrado subscritor expediu mandado de prisão em desfavor do sentenciado em razão do trânsito em julgado da condenação, o qual foi indeferido, pois a revogação da prisão preventiva não implica, automaticamente, em antecipação da pena privativa de liberdade.

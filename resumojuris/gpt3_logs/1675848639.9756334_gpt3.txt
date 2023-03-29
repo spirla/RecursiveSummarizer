@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+316, paragrafo unico, do CPP, devendo o magistrado singular examinar, periodicamente, a pertinencia da preservacao da cautela imposta, nao sem antes ouvir as partes. (Informativo n. 756) PROCESSO REsp 1.982.779-AC, Rel. Min. Olindo Menezes (Desembargador convocado do TRF da 1 Regiao), Sexta Turma, por unanimidade, julgado em 14/09/2022, DJe 20/09/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Crime praticado quando o acusado nao possuia foro por prerrogativa de funcao. Superveniente posse no cargo de prefeito. Deslocamento da competencia para o Pleno do Tribunal de Justica. Impossibilidade. DESTAQUE Nao sendo o crime praticado em razao e durante o exercicio do cargo ou funcao, as regras de competencia nao sao alteradas pela superveniente posse no cargo de Prefeito Municipal. O foro por prerrogativa de funcao exige contemporaneidade e pertinencia tematica entre os fatos em apuracao e o exercicio da funcao publica, haja vista que o Supremo Tribunal Federal decidiu que, nao obstante as recorrentes discussoes doutrinarias e jurisprudenciais acerca da competencia absoluta em razao da prerrogativa de funcao, o Supremo Tribunal Federal assentou posicionamento, ainda que restrito a Deputados Federais e Senadores, de que o foro por prerrogativa de funcao aplica-se tao somente aos crimes cometidos durante o exercicio do cargo e relacionados as funcoes desempenhadas, sendo que, terminada a instrucao processual, a competencia para processar e julgar acoes penais nao mais sera afetada em razao de o agente publico vir a ocupar cargo ou deixar o cargo que ocupava (AP n. 937 QO/RJ, Rel. Ministro Roberto Barroso, Tribunal Pleno, julgado em 3/5/2018). No caso, alem de o crime ser anterior a posse como chefe do Poder Executivo Municipal, o ato praticado nao guarda relacao com o seu cargo eletivo, nao havendo que se falar em deslocamento do feito para julgamento pelo Pleno do Tribunal de Justica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O foro por prerrogativa de funcao exige contemporaneidade e pertinencia tematica entre os fatos em apuracao e o exercicio da funcao publica. 2. O foro por prerrogativa de funcao aplica-se tao somente aos crimes cometidos durante o exercicio do cargo e relacionados as funcoes desempenhadas. 3. A competencia para processar e julgar acoes penais nao mais sera afetada em razao de o agente publico vir a ocupar cargo ou deixar o cargo que ocupava. 4. Nao sendo o crime praticado em razao e durante o exercicio do cargo ou funcao, as regras de competencia nao sao alteradas pela superveniente posse no cargo de Prefeito Municipal.

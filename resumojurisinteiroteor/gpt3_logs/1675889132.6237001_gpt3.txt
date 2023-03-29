@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se de recurso de apelao interposto pelo Cb PM Leonardo de Paula Silva em face da sentena proferida pelo Conselho Permanente de Justia (CPJ) da 1a Auditoria de Justia Militar Estadual (AJME), que julgou parcialmente procedente a denncia, para absolv-lo do delito de prevaricao previsto no art. 319 do Cdigo Penal Militar (CPM) e conden-lo pelo crime de recusa de obedincia descrito no art. 163 do CPM. O ru foi denunciado pelo Ministrio Pblico estadual, pelos fatos abaixo transcritos, nos termos da exordial acusatria: [...] No dia 19 de novembro de 2019, por volta as 17 horas, no quartel do 4 Peloto PM, em Mateus Leme/MG, o denunciado deixou de praticar indevidamente ato de ofcio para satisfazer sentimento pessoal. Consta dos autos que, na data citada, uma mulher compareceu ao quartel do 4 Peloto PM por volta das 16h40 e informou  guarnio do 3 Sgt. PM Marcos Roberto Diniz que havia acabado de ser vtima de roubo. Antes de sair do 4 Peloto para fazer o rastreamento do autor do roubo, o 3 Sgt. PM Marcos Roberto Diniz deixou a vtima aos cuidados do denunciado, que estava na funo de redator de REDS, e determinou que o denunciado fizesse o registro da ocorrncia. No entanto, o denunciado encerrou seu turno de servio s 17 horas e foi embora sem fazer o registro da ocorrncia. O denunciado deixou de praticar o ato de ofcio movido pelo sentimento pessoal de preguia, uma vez que estava com pressa para encerrar seu turno de servio e ir embora. Diante de todo o exposto, DENUNCIO o Cb. PM Leonardo de Paula Silva como incurso no art. 319 do Cdigo Penal Militar (prevaricao), requerendo o Ministrio Pblico que, recebida e autuada esta, seja o militar citado para apresentao de defesa que quiser produzir, bem como seja o acusado interrogado, alm de ouvidas as testemunhas abaixo relacionadas, cumpridas as demais formalidades da lei, para, ao final, ser condenado nas sanes cabveis. [...] (Evento 1 - DENUNCIA3 - Processo Originrio) A denncia foi recebida no dia 27 de julho de 2020 (Evento 1 - RECE_ DENUN1 - Processo Originrio). A representante do Ministrio Pblico, em audincia presencial remota realizada em 8 de abril de 2021, ofereceu proposta de suspenso condicional do processo ao ru, no tendo sido, todavia, o benefcio aceito por ele (Evento 22 - ATA1 - Processo Originrio). Em audincia presencial remota, ocorrida em 22 de junho de 2021, o parquet aditou a denncia, para incluir o delito de recusa de obedincia previsto no art. 163 do CPM, fazendo a seguinte alterao: No dia 19 de novembro de 2019, por volta as 17 horas, no quartel do 4 Peloto PM, em Mateus Leme/MG, o denunciado deixou de praticar indevidamente ato de ofcio para satisfazer sentimento pessoal.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia da 1a Auditoria de Justia Militar Estadual julgou parcialmente procedente a denncia contra o Cb PM Leonardo de Paula Silva, absolvendo-o do delito de prevaricao previsto no art. 319 do Cdigo Penal Militar e condenando-o pelo crime de recusa de obedincia descrito no art. 163 do CPM.

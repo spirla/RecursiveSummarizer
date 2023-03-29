@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No que diz respeito a expansao dos danos indenizaveis - tendencia que interessa mais de perto ao deslinde da controversia -, observa-se que a responsabilidade civil avanca, atualmente, para alem dos classicos danos materiais e morais, abordando o dano estetico, o dano por ricochete, o dano social, o dano transindividual, o dano pela perda de uma chance, entre outros. Com efeito, a Teoria do Desvio Produtivo, parte da premissa de que a sociedade pos-industrial proporciona a seus membros um poder liberador: o consumo de um produto ou servico de qualidade, produzido por um fornecedor especializado na atividade, tem a utilidade subjacente de tornar disponiveis o tempo e as competencias que o consumidor necessitaria para produzi-lo [por si mesmo] para seu proprio uso pois o fornecimento de um produto ou servico de qualidade ao consumidor tem o poder de liberar os recursos produtivos que ele utilizaria para produzi-lo pessoalmente. Desse modo, seria possivel identificar, no ordenamento juridico nacional, uma verdadeira obrigacao imposta aos fornecedores de garantir a otimizacao e o maximo aproveitamento dos recursos produtivos disponiveis na sociedade, entre eles, o tempo. Tal obrigacao teria por fundamento: (I) a vulnerabilidade do consumidor; (II) o principio da reparacao integral (Art. 6, VI, do CDC); (III) a protecao contra praticas abusivas (art. 39 do CDC); (IV) o dever de qualidade, seguranca, durabilidade e desempenho imposto aos fornecedores de produtos e servicos (Art. 4, II, d , do CDC), e (V) o dever de informar adequadamente e de agir sempre com boa-fe (Art. 6, III, e 51, IV, do CDC). Observa-se que, na esteira da referida teoria, a tutela do tempo util e seu maximo aproveitamento - valores subjacentes a funcao social da atividade produtiva - seria imposta aos fornecedores com base nas disposicoes especiais e protetivas do Codigo de Defesa do Consumidor.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I. A responsabilidade civil avança para além dos clássicos danos materiais e morais, abordando o dano estético, o dano por ricochete, o dano social, o dano transindividual e o dano pela perda de uma chance. II. A Teoria do Desvio Produtivo parte da premissa de que a sociedade pós-industrial proporciona a seus membros um poder liberador. III. É possível identificar no ordenamento jurídico nacional uma verdadeira obrigação imposta aos fornecedores de garantir a otimização e o máximo aproveitamento dos recursos produtivos disponíveis na sociedade, entre eles, o tempo. IV. A tutela do tempo útil e seu máximo aproveitamento são valores subjacentes à função social da atividade produtiva e são impostos aos fornecedores com base nas disposições especiais e protetivas do Código de Defesa do Consumidor.

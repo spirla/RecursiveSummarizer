@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No tem sentido o Conselho de Justia A ouvir testemunhas e vtima, o Conselho B interrogar o acusado e o Conselho C julgar. Se a produo de provas se realizar em sesses consecutivas, perante Conselhos de Justia diferentes, a oralidade e a imediatidade restam prejudicadas. Com o interrogatrio realizado no fim da instruo criminal, repito, fica evidenciado que deve ocorrer na mesma audincia inquiries e o interrogatrio para que o acusado possa imediatamente se defender. 15.8. Procedimento comum sumrio do CPP. Procedimento comum sumrio previsto nos artigos 531 a 538 do CPP, consoante o disposto no inciso II do artigo 394, caput, do CPP,  aplicado aos crimes com pena mxima inferior a quatro anos, apresentando diferenas com o procedimento comum ordinrio:
+(a) no procedimento comum ordinrio podem ser inquiridas at dezesseis testemunhas, oito arroladas pela acusao e oito pela defesa (artigo 401, CPP);
+enquanto no procedimento comum sumrio podem ser inquiridas at dez testemunhas arroladas, cinco arroladas pela acusao e cinco pela defesa (artigo 532, CPP);
+(b) no procedimento comum ordinrio a audincia de instruo e julgamento deve ser realizada no prazo mximo de 60 dias (artigo 400, caput, CPP);
+no procedimento comum sumrio o prazo  de 30 dias (artigo 531, CPP);
+(c) no procedimento comum sumrio no tem a fase de requerimento de diligncias, como h no procedimento comum ordinrio (artigo 402, CPP);
+(d) no procedimento comum sumrio as alegaes orais no podem ser substitudas por memoriais, como permitido no procedimento comum ordinrio (artigo 403, pargrafo 3, CPP);
+e (e) a sentena  sempre proferida oralmente, em prestgio  celeridade processual. Cabe ao juiz togado redigir a sentena (artigo 438, pargrafo 2, CPPM). 15.9. Procedimento sumarssimo: inaplicabilidade  Justia Militar. O procedimento comum sumarssimo, nos termos do artigo 394, III, CPP,  aplicvel s infraes de menor potencial ofensivo, na forma da lei, assim consideradas as contravenes penais e os crimes a que lei comine pena mxima no superior dois anos (artigo 61 da Lei 9.099/95).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho de Justiça deve realizar a produção de provas em sessões consecutivas para garantir a oralidade e a imediatidade. O procedimento comum sumário é aplicado aos crimes com pena máxima inferior a quatro anos, com diferenças em relação ao procedimento comum ordinário, como o número de testemunhas, o prazo e a sentença. O procedimento sumaríssimo é aplicável às infrações de menor potencial ofensivo, com pena máxima não superior a dois anos.

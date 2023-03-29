@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O adiantamento a contrato de cambio e, em verdade, um contrato de compra e venda de moeda a termo, uma vez que a concretizacao da operacao de cambio somente ocorrera quando o exportador cumprir com a obrigacao (enviando o bem ou prestando o servico no exterior) e for paga a contraprestacao (em moeda estrangeira) pelo importador. Assim, a instituicao financeira repassa recursos em moeda nacional ao exportador antes que ele efetive a transacao internacional de venda de mercadorias ou prestacao de servicos. Cuida-se, portanto, de um mecanismo de grande valia para que as transacoes internacionais se perfectibilizem, possibilitando aos exportadores utilizarem as quantias antecipadas para producao dos bens que serao enviados ao exterior, como capital de giro ou, ainda, para aproveitamento de melhores oportunidades negociais. Desse modo, caso a empresa exportadora nao entregue a moeda estrangeira a instituicao financeira que a comprou antecipadamente, a riqueza previamente aportada pelo banco nao pode ser considerada como patrimonio da massa falida, sendo absolutamente razoavel e devida a previsao legal que determina a sua restituicao ao verdadeiro titular antes do pagamento dos demais credores. Com base nesse entendimento, o Plenario julgou parcialmente procedentes os pedidos formulados na acao direta e improcedente o pedido objeto da arguicao de descumprimento de preceito fundamental. ADI 3424/DF, relator Min. Edson Fachin, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 16.4.2021 (sexta-feira), as 23:59 (INF 1013) ADPF 312/DF, relator Min. Edson Fachin, redator do acordao Min. Gilmar Mendes, julgamento virtual finalizado em 16.4.2021 (sexta-feira), as 23:59 (INF 1013) 10.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O adiantamento a contrato de câmbio é, na verdade, um contrato de compra e venda de moeda a termo. 2. A concretização da operação de câmbio ocorrerá quando o exportador cumprir com a obrigação (enviando o bem ou prestando o serviço no exterior) e for paga a contraprestação (em moeda estrangeira) pelo importador. 3. A instituição financeira repassa recursos em moeda nacional ao exportador antes que ele efetive a transação internacional de venda de mercadorias ou prestação de serviços. 4. A riqueza previamente aportada pelo banco não pode ser considerada como patrimônio da massa falida, sendo absolutamente razoável e devida a previsão legal que determina a sua restituição ao verdadeiro titular antes do pagamento dos demais credores.

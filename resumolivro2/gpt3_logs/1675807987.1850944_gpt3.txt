@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A liquidao do valor da obrigao s ocorre depois da condenao, de acordo com o artigo 209, pargrafo 2, do CPPM:
+O valor da obrigao ser liquidado definitivamente aps a condenao, podendo ser requerido novo arbitramento se o acusado ou o Ministrio Pblico no se conformar com o anterior  sentena condenatria. Se o acusado oferecer cauo suficiente, real ou fidejussria, a autoridade judiciria militar poder deixar de mandar proceder  inscrio da hipoteca (CPPM, artigo 209, pargrafo 3). No pode haver excesso na medida cautelar. No tpico limite da inscrio o artigo 209, pargrafo 4, pontifica que:
+Somente dever ser autorizada a inscrio da hipoteca dos imveis necessrios  garantia da obrigao. No CPPM a sentena de especializao no Registro Imobilirio desafia recurso inominado:
+Da deciso que a determinar [inscrio e especializao] cabe recurso para o Superior Tribunal Militar (artigo 210, pargrafo 1) e, se o processo apresentar complexidade ou envolver conflito patrimonial, ser remetido ao juzo cvel, para a deciso (artigo 209, pargrafo 2). A hipoteca legal no poder recair em imvel com clusula de inalienabilidade (artigo 211, CPPM). Das rendas dos bens sob hipoteca legal podero ser fornecidos recursos, arbitrados pela autoridade judiciria militar, para a manuteno do acusado e sua famlia (artigo 213, CPPM). A inscrio ser cancelada (a) se, depois de feita, o acusado oferecer cauo suficiente, real ou fidejussria e (b) se for julgada extinta a ao penal ou absolvido o acusado por sentena irrecorrvel (artigo 214, CPPM). 11.3.3. Arresto.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O valor da obrigao s ser liquidado definitivamente aps a condenao. Se o acusado oferecer cauo suficiente, a autoridade judiciria militar pode deixar de mandar proceder inscrio da hipoteca. A sentena de especializao no Registro Imobilirio desafia recurso inominado. A hipoteca legal no pode recair em imvel com clusula de inalienabilidade. Das rendas dos bens sob hipoteca legal podero ser fornecidos recursos para a manuteno do acusado e sua famlia. A inscrio ser cancelada se o acusado oferecer cauo suficiente ou se for julgada extinta a ao penal ou absolvido o acusado por sentena irrecorrvel.

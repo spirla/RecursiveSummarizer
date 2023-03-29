@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao incidencia. DESTAQUE Nao incide imposto de renda (IR) sobre o preco recebido em virtude de cessao com desagio de precatorio. Esta Corte possui entendimento consolidado no sentido de que a alienacao de precatorio com desagio nao implica ganho de capital no preco recebido, motivo pelo qual nao ha que se falar em incidencia da tributacao pelo Imposto de Renda por ocasiao do recebimento do preco pela cessao do referido credito. Como consignado no julgamento do AgInt no REsp 1.768.681/RJ, o preco da cessao do direito de credito e o efetivo pagamento do precatorio traduzem fatos geradores de Imposto de Renda distintos. Porem, a ocorrencia de um deles em relacao ao cedente, nao excluira a ocorrencia do outro em relacao ao proprio cedente. No que tange ao preco recebido pela cessao do precatorio, a tributacao ocorrera se e quando houver ganhos de capital por ocasiao da alienacao do direito, nos termos do art. 117 do RIR/99 . Todavia, e notorio que as cessoes de precatorio se dao sempre com desagio, nao havendo o que ser tributado em relacao ao preco recebido pela cessao do credito. (Informativo n. 751) 675 DIREITOS HUMANOS 676 PRIMEIRA TURMA Voltar ao Sumario. PROCESSO AgInt no REsp 1.833.056-SP, Rel. Min. Benedito Goncalves, Primeira Turma, por unanimidade, julgado em 22/08/2022, DJe 24/08/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não incide Imposto de Renda (IR) sobre o preço recebido em virtude de cessão com deságio de precatório. 2. A alienação de precatório com deságio não implica ganho de capital no preço recebido, motivo pelo qual não há que se falar em incidência da tributação pelo Imposto de Renda por ocasião do recebimento do preço pela cessão do referido crédito. 3. O preço da cessão do direito de crédito e o efetivo pagamento do precatório traduzem fatos geradores de Imposto de Renda distintos. 4. A tributação ocorrerá se e quando houver ganhos de capital por ocasião da alienação do direito, nos termos do art. 117 do RIR/99. 5. As cessões de precatório se dão sempre com deságio, não havendo o que ser tributado em relação ao preço recebido pela cessão do crédito.

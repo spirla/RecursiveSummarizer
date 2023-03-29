@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A leitura da sentena absolutria foi realizada na mesma data (Eventos 83 e 84). O Ministrio Pblico estadual interps recurso de apelao, consoante se depreende do Evento 86. Em suas razes recursais, afirmou que a prova dos autos  clara no sentido de que o apelado praticou o crime capitulado no artigo 303, 2 (peculato-furto), do Cdigo Penal Militar (CPM). Relatou que, a partir dos depoimentos prestados pelas testemunhas 2 Sgt PM Geraldo Majela Silva e Sgt PM Kendell da Silva, verifica-se que o apelado se deslocou at o 7 BPM, no seu dia de folga, e solicitou ao intendente, 2 Sgt. PM Majela, a chave da Viatura 20.891, para trocar uma lmpada. Ato contnuo, solicitou a chave da seo de transporte, sob o argumento de que iria abastecer a viatura. Instantes depois, o apelado retornou e devolveu as chaves, sendo posteriormente visto pelas testemunhas abastecendo seu veculo particular com um galo de gasolina. Para corroborar o alegado, colacionou trechos dos depoimentos prestados pelas testemunhas retromencionadas - 3 Sgt Kendell e 2 Sgt PM Geraldo Majela da Silva. Salientou que a alegao do apelado de ter enchido o tanque do seu carro particular antes de abastecer a viatura no merece prosperar, haja vista que a testemunha 2 Sgt PM Majela foi clara ao afirmar que o apelado abasteceu o seu veculo momentos depois de j ter-lhe entregue as chaves da viatura e da seo de transportes. Mencionou que a situao foi repassada ao Tenente PM Marcos, comandante da 50a Cia, que determinou a realizao de uma auditoria no abastecimento, ficando constatados, a partir das fichas extradas do Sistema Integrado de Administrao de Materiais e Servios (SIAD), 13 (treze) abastecimentos na Viatura PMMG prefixo 20.891, no perodo compreendido entre os dias 27/07/2018 e 20/08/2018. Aduziu que o abastecimento feito pelo apelado s 17h56min do fatdico dia foi justamente o que ensejou o menor rendimento da viatura, pois, segundo a quilometragem por litro realizada pelo Subtenente QPR Vantuir Martins Ferreira, gestor do posto do 7 BPM, a mdia registrada naquele dia foi de 4,23 Km/L, enquanto em situaes normais esse nmero variaria entre 7.60Km/L e 11.44Km/L. Dessa forma, concluiu que o baixo rendimento do combustvel na viatura ocorreu porque parte da gasolina extrada da bomba foi utilizada no carro particular do apelado. Asseverou que no, h nos autos, qualquer outro elemento, que no o desvio do combustvel, capaz de justificar o consumo excessivo de combustvel da viatura no perodo subsequente ao abastecimento do apelado. Informou, inclusive, que os militares que utilizaram a viatura posteriormente afirmaram no ter percebido qualquer alterao no consumo do combustvel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público Estadual interpôs recurso de apelação, alegando que o apelado praticou o crime de peculato-furto, de acordo com o artigo 303, 2 do Código Penal Militar. O recurso foi fundamentado em depoimentos de testemunhas e em auditoria de abastecimento de combustível da viatura, que apontou 13 abastecimentos entre 27/07/2018 e 20/08/2018, com rendimento inferior ao normal, indicando uso indevido do combustível.

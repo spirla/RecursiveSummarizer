@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A Constituicao impoe ao Poder Publico a criacao de diretrizes legais uniformes em materia educacional, para que iguais condicoes de formacao e desenvolvimento estejam a disposicao de toda a populacao em idade escolar, independentemente do estado ou municipio, bem como para evitar que realidades socioeconomicas dispares criem distincoes entre a formacao elementar recebida. Nao se constatam, ademais, violacoes aos principios da separacao dos Poderes e da legalidade, ja que o piso salarial tem os criterios de calculo de atualizacao estabelecidos pela Lei 11.738/2008, sendo fixado um valor minimo que pode ser ampliado conforme a realidade de cada ente. Alem disso, a lei preve a complementacao pela Uniao de recursos aos entes federativos que nao tenham disponibilidade orcamentaria para cumprir os valores referentes ao piso nacional. Nao caracterizada, portanto, ingerencia federal indevida nas financas dos estados e nem violacao aos principios orcamentarios. Nao caracterizada, de igual modo, violacao ao art. 37, XIII, da CF, pois, longe de ter criado uma vinculacao automatica da remuneracao dos servidores a um indice de aumento sobre o qual os Estados nao tem ingerencia , a Uniao, por meio da Lei 11.738/2008, preve uma politica publica essencial ao Estado Democratico de Direito, com a previsao de parametros remuneratorios minimos que valorizem o profissional do magisterio na educacao basica. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente o pedido formulado em acao direta de inconstitucionalidade. ADI 4848/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Constituição impõe ao Poder Público a criação de diretrizes legais uniformes em matéria educacional para garantir iguais condições de formação e desenvolvimento à população em idade escolar, independentemente do estado ou município. 2. Não há violação aos princípios da separação dos Poderes e da legalidade, pois o piso salarial tem critérios de cálculo de atualização estabelecidos pela Lei 11.738/2008. 3. A lei prevê a complementação pela União de recursos aos entes federativos que não tenham disponibilidade orçamentária para cumprir os valores referentes ao piso nacional. 4. Não há caracterização de ingerencias federais indevidas nas finanças dos estados e nem violação aos princípios orçamentários. 5. Não há caracterização de violação ao art. 37, XIII, da CF, pois a lei prevê uma política pública essencial ao Estado Democrático de Direito, com a previsão de parâmetros remuneratórios mínimos que valorizem o profissional do magistério na educação básica.

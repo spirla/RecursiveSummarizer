@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (RHC n. 168.715 AgR, de minha relatoria, Segunda Turma, DJe 16.8.2019). AGRAVO REGIMENTAL EM HABEAS CORPUS. REITERAO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NO INFIRMAM OS FUNDAMENTOS DA DECISO AGRAVADA. NA FORMA DO  1 DO ART. 370 DO CDIGO DE PROCESSO PM PENAL, A INTIMAO DA DECISO DE PRONNCIA SER FEITA AO DEFENSOR CONSTITUDO, AO QUERELANTE E AO ASSISTENTE DO MINISTRIO PBLICO: INC. I DO ART. 420 DO CPP. O ACUSADO SOLTO QUE NO FOR ENCONTRADO SER INTIMADO POR EDITAL: PARGRAFO NICO DO ART. 420 DO CPP.  NUS DA PARTE A IMPUGNAO DA NULIDADE DE ATO PROCESSUAL NA PRIMEIRA OPORTUNIDADE QUE TIVER PARA SE MANIFESTAR NOS AUTOS. A DEMONSTRAO DE PREJUZO  ESSENCIAL  ALEGAO DE NULIDADE. AGRAVO A QUE SE NEGA PROVIMENTO. (...) IV -  nus da parte, na primeira oportunidade que lhe couber falar nos autos, impugnar a nulidade de ato processual, sob pena de precluso temporal e convalidao do ato. (...) VI - Agravo a que se nega provimento (HC n. 156.616 AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 21.9.2018). HABEAS CORPUS. PROCESSO PENAL MILITAR. PRECLUSO. SUSPENSO CONDICIONAL DO PROCESSO (LEI 9.099/1995, ART. 89). No processo penal militar, eventual nulidade deve ser arguida nos debates orais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: No processo penal militar, o nus da parte de impugnar a nulidade de ato processual na primeira oportunidade que tiver para se manifestar nos autos, sob pena de precluso temporal e convalidao do ato.

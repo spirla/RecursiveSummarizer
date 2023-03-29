@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1.3 Abstraindo-se os aspectos penais os quais devem ficar a cargo do juzo competente, constata-se que a conduta imputada ao militar, numa anlise puramente administrativo-disciplinar, afetou a honra pessoal e o decoro da classe, situao que o incapacita, em tese, de permanecer nas fileiras da corporao. 1.4 Nesses termos, havendo o incursionamento do ato, em tese, no art. 64, inciso II, pargrafo nico, inciso III do CEDM, deve ser submetido a Processo Administrativo-Disciplinar, ocasio em que lhe sero assegurados os postulados constitucionais do devido processo legal, da ampla defesa e do contraditrio, nos termos do art. 63, do CEDM (Evento 1 - DOC15, pgs. 57/59). Registre-se que o contedo supramencionado foi extrado da deciso do comandante-geral da PMMG, uma vez que a defesa do apelante no trouxe aos autos eletrnicos a cpia integral do PAD, inclusive, de sua pea inaugural. Entretanto, apesar da incompletude e da desordenada instruo trazida pela defesa,  possvel concluir que houve o regular processamento do PAD, com a observncia dos princpios constitucionais do contraditrio e da ampla defesa. O apelante e seu advogado foram notificados para apresentar defesa prvia, com base nos seguintes termos: Nos termos do inciso LV do art. 5 da Constituio Federal, e em observncia a alnea c do inciso VIII do art. 70 CEDM, que asseguram o amplo direito de defesa e o exerccio ao contraditrio e, considerando que conforme os documentos em anexo, o militar supramencionado cometeu em tese, atos que comprometem a honra pessoal e o decoro da classe, por ter sido, em data de 05/02/2018, na cidade de Belo Horizonte, abordado pelo CPU do BPGd, no entorno da Cidade Administrativa, na conduo da Motocicleta Honda/CB 300, placa GWH-3660, a qual estava em situao irregular desde 2011, conforme REDS 2018-005362233001, conforme teor constante na portaria de convocao do PAD que segue anexa, estando, assim, incurso no inciso III do art. 13 c/c art. 64, inciso II, Pargrafo nico, inciso III, do CEDM, passo os documentos juntados, que compem a pea acusatria para que no prazo de 05 (cinco) dias teis apresente facultativamente, a defesa prvia, com argumentos e provas pertinentes, podendo, inclusive, apresentar suas testemunhas, at o limite de 05 (cinco). (Evento 1 - DOC11, pg. 55 - autos da Primeira Instncia). Grifei O apelante apresentou defesa prvia, alegando em sntese que a conduta a ele atribuda no tem amparo na norma interna; que a motocicleta no tem queixa de furto e roubo; que a sua conduta no pode ser considerada transgresso disciplinar, conforme ICCP/BM n. 01/2014; que a conduta a ele atribuda, qual seja, conduzir motocicleta em situao irregular, no ultrapassa mera infrao administrativa de trnsito, a qual no fere a honra pessoal e o decoro da classe (DOC11, pgs. 63/65, DOC12, pgs. 02/08).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A conduta imputada ao militar, em análise puramente administrativo-disciplinar, foi considerada como afetando a honra pessoal e o decoro da classe, o que o incapacita de permanecer nas fileiras da corporação. Por isso, foi submetido a Processo Administrativo-Disciplinar, garantindo-se os postulados constitucionais do devido processo legal, da ampla defesa e do contraditório. O apelante apresentou defesa prévia, alegando que a conduta não tem amparo na norma interna e que não ultrapassa mera infração administrativa de trânsito.

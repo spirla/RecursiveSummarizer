@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A Corte Especial, aplacando divergncia existente acerca da matria, pacificou o tema no mbito desta Corte Superior, decidindo que, diferentemente do CPC/73, o novo CPC exige, de forma expressa, que a comprovao da ocorrncia de feriado local seja feita no ato da interposio do recurso, a teor do disposto no art. 1.003,  6, do CPC/2015 (AREsp 957.821/MS, Rel. para o acrdo a Ministra NANCY ANDRIGHI, julgado em 21/11/2017, DJe 19/12/2017). 3. Assim, no havendo a comprovao da ocorrncia da suspenso do prazo processual no ato da interposio,  considerado intempestivo o recurso. 4. Noutro giro, "aos processos criminais no se aplica o disposto no art. 220 do CPC, regulamentado pela Resoluo CNJ n. 244/2016, em razo da especialidade das disposies previstas no art. 798, caput e  3, do CPP, motivo pelo qual no h falar em suspenso dos prazos entre os dias 20 de dezembro e 20 de janeiro." (AgRg no AREsp 1.718.132/SC, Rel. Ministro JOO OTVIO DE NORONHA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020). Precedentes. 5. No caso, o recorrente foi intimado do julgamento da apelao criminal no dia 11/12/2020, iniciando-se o prazo para a interposio do recurso especial em 14/12/2020 (segunda-feira), com trmino no dia 28/12/2020 (segunda-feira). Todavia, o recurso foi protocolizado apenas em 5/2/2021, havendo expirado, portanto, o prazo legal. 6. Por fim, "a contagem correta dos prazos recursais, nos termos definidos pela legislao processual,  nus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrnico no o exime de interpor o recurso no prazo previsto em lei" (AgRg no AREsp n. 1.825.919/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021)." (AgRg no AREsp 1.891.656/SC, Rel. Ministro SEBASTIO REIS JNIOR, SEXTA TURMA, julgado em 14/9/2021, DJe 22/9/2021).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Corte Especial decidiu que, de acordo com o CPC/2015, a comprovao da ocorrncia de feriado local deve ser feita no ato da interposio do recurso. A aplicao do art. 220 do CPC, regulamentado pela Resoluo CNJ n. 244/2016, no se aplica aos processos criminais. O recurso foi considerado intempestivo por no ter sido protocolizado no prazo legal. A contagem correta dos prazos recursais nus exclusivo da parte recorrente.

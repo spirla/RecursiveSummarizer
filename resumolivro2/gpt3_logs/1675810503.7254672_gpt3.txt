@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+14.2.15.1. Conceito e admissibilidade da prova emprestadaDefine Ada P. Grinover prova emprestada aquela que  produzida num processo para nele gerar efeitos, sendo depois transportada documentalmente para outro, visando efeitos em processo distinto. A doutrina diverge quanto  natureza da prova emprestada. Assevera-se que prova emprestada  sempre documental, em sentido oposto afirma-se que no segundo processo, em que se junta prova emprestada, embora trasladada na forma de documento, ela ter valor probante originrio (por exemplo, de prova testemunhal). Comungo do segundo entendimento, pois, a prova emprestada conserva a sua natureza originria. O laudo de exame de corpo de delito transportado em forma de documento para o segundo processo conserva a natureza de prova pericial. Sobre a admissibilidade (validade) da prova emprestada tomo como referncia a doutrina de Gustavo Badar, que, de forma acurada, observa que so quatro requisitos. Pelo primeiro requisito que a prova do primeiro processo tenha sido produzida perante o juiz natural. No se exige identidade do juzo entendido por autoridade judiciria. A doutrina assinala ser inaproveitvel a prova produzida fora do contraditrio institudo pelo juiz natural. O segundo requisito de admissibilidade (validade) da prova emprestada  o contraditrio:
+o documento por meio do qual se traslada a prova do processo originrio tenha sido submetido a posterior contraditrio judicial. O princpio constitucional exige que a prova emprestada para ter valia seja contraditada tanto no primeiro processo onde foi produzida, como no segundo onde ocorrero seus efeitos. Da lembrar Gustavo Badar que  fundamental que a defesa tenha participado, inclusive com direito a reperguntas, da oitiva no processo originrio, posto que, no segundo processo, o testemunho ser juntado na forma de documento, sendo invivel a inquirio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prova emprestada é aquela produzida em um processo para gerar efeitos em outro. Para ser admissível, ela deve ter sido produzida perante o juiz natural, ter sido submetida a contraditório judicial e a defesa deve ter participado da oitiva no processo originário.

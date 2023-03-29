@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No artigo 123 do Cdigo Penal Militar situam-se as causas de extino da punibilidade:
+I - pela morte do agente;
+II - pela anistia ou indulto;
+III - pela retroatividade de lei que no mais considera o fato como criminoso;
+IV - pela prescrio;
+V - pela reabilitao;
+VI - pelo ressarcimento do dano, no peculato culposo (artigo 303, pargrafo 4.). A extino da punibilidade pela morte do agente est em perfeita consonncia com o princpio da pessoalidade da pena inserto no artigo 5., XLV, da CF, de que nenhuma pena passar da pessoa do condenado. O documento hbil para comprovar a morte do agente  a certido de bito (artigo 81, pargrafo nico, do CPPM). A anistia e o indulto so manifestaes de indulgncia soberana. Anistia significa esquecimento jurdico do ilcito e tem por objeto fatos (no pessoas) definidos como crimes, em regra, polticos, militares ou eleitorais. A anistia apaga os efeitos penais, principal e secundrios, mas permanecem os efeitos civis. Cabe ao Congresso Nacional dispor sobre a concesso de anistia (artigo 48, VIII, da CF). A concesso do indulto  privativa do Presidente da Repblica (artigo 84, XII, da CF). O Cdigo Penal Militar no se refere  graa, espcie de clemncia individual, que pode ser concedida ao condenado  pena de morte em tempo de guerra. Extingue-se a punibilidade pela abolitio criminis (inciso III), quando nova lei penal militar considera que o fato no  mais crime, ou seja, revoga a lei anterior e retroage no tempo por ser lei mais benfica. A prescrio (inciso IV)  a perda da pretenso punitiva ou executria pelo Estado em razo do decurso de tempo. Com a prtica do crime surge para Estado a pretenso de punir o autor (jus puniendi) e, com o trnsito da sentena penal condenatria, a pretenso de executar a pena. O juiz no entra no mrito dos fatos. No absolve nem condena, apenas declara extinta a punibilidade. A Constituio Federal prev, no artigo 5., serem imprescritveis a prtica do racismo (inciso XLII) - os crimes de racismo so previstos na Lei 7.716, de 05.01.1989 - e a ao de grupos armados, civis e militares, contra a ordem constitucional e o Estado de Direito (inciso XLIV), ainda no tipificada.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 123 do Cdigo Penal Militar trata das causas de extino da punibilidade, como a morte do agente, anistia ou indulto, retroatividade de lei, prescrição, reabilitação e ressarcimento do dano. A anistia e o indulto são manifestações de indulgência soberana, enquanto a prescrição é a perda da pretenção punitiva ou executória pelo Estado em razão do decurso de tempo. A Constituição Federal prev a imprescritibilidade de crimes de racismo e de ação de grupos armados contra a ordem constitucional e o Estado de Direito.

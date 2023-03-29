@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por maioria, julgou improcedente pedido formulado em acao direta de inconstitucionalidade. Vencidos, em menor extensao, o ministro Nunes Marques, e, em maior extensao, os ministros Roberto Barroso e Gilmar Mendes. ADI 5962/DF, relator Min. Marco Aurelio, julgamento em 25.2.2021 (INF 1007) Trotes telefonicos e competencia estadual - ADI 4924/DF Resumo: E constitucional norma estadual que determine que as prestadoras de servico telefonico sao obrigadas a fornecer, sob pena de multa, os dados pessoais dos usuarios de terminais utilizados para passar trotes aos servicos de emergencia. Sob o aspecto formal, nao ha se falar em violacao aos arts. 21, XI, e art. 22, IV, da CF/88 (CF),, pois nao ha qualquer regra relativa a efetiva prestacao dos servicos de telecomunicacoes, as relacoes da concessionaria com o usuario, aos padroes de prestacao de servico ou ao equilibrio economico-financeiro do contrato. No mesmo sentido, nao ha qualquer inconstitucionalidade material por violacao a intimidade, a vida privada ou ao direito de protecao dos dados dos usuarios, bem como a clausula de reserva de jurisdicao, nos termos estabelecidos pelo art. 5, X e XII, da CF. O afastamento parcial desses preceitos constitucionais em casos de trotes telefonicos constitui medida proporcional e necessaria a garantia da prestacao eficiente dos servicos de emergencia contra a pratica de ilicitos administrativos, inexistindo qualquer outra medida que favoreca a higidez dessas atividades, que envolvem o atendimento a direitos fundamentais de terceiros, com um menor grau de afetacao dos direitos contrapostos. Destaque-se que a autorizacao legislativa para o acesso administrativo de dados cadastrais nao significa que o Poder Executivo estadual esteja autorizado a monitorar ou acessar indiscriminadamente os dados pessoais de todos os cidadaos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional norma estadual que determine que as prestadoras de serviço telefônico são obrigadas a fornecer, sob pena de multa, os dados pessoais dos usuários de terminais utilizados para passar trotes aos serviços de emergência. 2. Não há qualquer inconstitucionalidade material por violação à intimidade, à vida privada ou ao direito de proteção dos dados dos usuários, bem como à cláusula de reserva de jurisdição, nos termos estabelecidos pelo art. 5, X e XII, da CF. 3. O afastamento parcial desses preceitos constitucionais em casos de trotes telefônicos constitui medida proporcional e necessária à garantia da prestação eficiente dos serviços de emergência contra a prática de ilícitos administrativos. 4. A autorização legislativa para o acesso administrativo de dados cadastrais não significa que o Poder Executivo estadual esteja autorizado a monitorar ou acessar indiscriminadamente os dados pessoais de todos os cidadãos.

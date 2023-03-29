@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+As aes de conhecimento ainda podem ser subdivididas em:
+a) condenatria: quando sustenta uma acusao que visa  aplicao da pena a quem realiza o fato imputado como criminoso. Constitui a maioria das aes na rea criminal. Ex. : ao imputando a prtica do crime de furto, homicdio etc. Tambm  condenatria a ao que prope imediatamente a aplicao de pena na transao penal. Embora se trate de processo consensual, o suposto autor do fato  condenado a sofrer uma pena no privativa de liberdade;
+b) declaratria: quando no h pedido de condenao, mas sim de declarao sobre situao jurdica relevante.  o caso do habeas corpus que visa o reconhecimento de qualquer causa que produza a extino da pretenso punitiva ou executria;
+c) constitutiva: quando visa a criar, modificar ou extinguir determinada situao jurdica. Como exemplos marcantes, tem-se a reviso criminal e o habeas corpus que visa  anulao de sentena criminal;
+d) mandamental: quando visa a obter providncia judicial que determine a realizao ou absteno de ato de autoridade pblica.  o caso do mandado de segurana em matria criminal. Ao penal de execuo. Constitui o desdobramento natural do processo de conhecimento e, em sede criminal, instrumentaliza o cumprimento da pena. Vale observar que a execuo da pena de multa constitui exceo ao princpio da automaticidade, o que evidencia ainda mais o processo iniciado pela ao de execuo (artigo 164 da LEP). Ao penal cautelar. No processo penal, no h regulamentao sistemtica para aes cautelares, como no processo civil. No entanto, h previso expressa para vrias medidas cautelares, como a priso em flagrante, priso preventiva e medidas assecuratrias. O habeas corpus preventivo costuma ser citado como ao penal cautelar. No entanto, no se verifica a instrumentalidade dessa modalidade de habeas corpus a qualquer ao principal. Mais adequado  classificar o habeas corpus preventivo como ao penal declaratria. 11.3.2. Quanto  titularidade do exerccio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+As ações de conhecimento podem ser subdivididas em condenatória, declaratória, constitutiva e mandamental. A execução da pena de multa é uma exceção ao princípio da automaticidade e, em matéria criminal, as ações cautelares são representadas pelo habeas corpus preventivo.

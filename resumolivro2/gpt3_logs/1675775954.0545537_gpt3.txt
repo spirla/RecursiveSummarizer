@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Para melhor compreenso do sistema acusatrio  foroso examinar o inquisitrio, que dominou as legislaes processuais at o sc. XIX. Como bem acentua Magalhes Filho o mtodo inquisitivo aperfeioou-se sobretudo no seio das jurisdies eclesisticas, diante da necessidade de represso da heresia e das condutas irregulares do clero, que exigiam uma permanente atividade de investigao por parte das autoridades religiosas, e acresce o ilustre processualista que os corolrios dessas exigncias eram o segredo, face ao perigo de propagao das condutas herticas ou contestadoras do poder real, bem como o carter ilimitado da pesquisa da verdade, que consistia em verdadeira obsesso do inquisidor;
+da ser natural, nessa perspectiva, a utilizao do saber do prprio acusado como fonte de informao;
+se culpado, o acusado tem certamente um conhecimento preciso da realidade e a confisso, se obtida, constitui a melhor forma de se alcanar a verdade real. Caracterizou-se o sistema inquisitrio por:
+a) acumular na mesma pessoa a funo de acusar e de julgar (o juiz-acusador);
+b) liberdade do juiz na investigao, na aquisio e na valorao da prova independente qualquer entendimento da parte;
+c) desenvolvimento do processo em segredo e escrito. O fato de o processo ser escrito e secreto afastava a possibilidade de controle pblico na distribuio da justia, e tornou-se um feudo do juiz e o imputado o seu objeto. Apresentava o referido sistema duas fases distintas:
+o da inquisio geral, na qual se deveria declarar o fato e identificar o autor suspeito, e o da inquisio especial, que s vezes, com maior frequncia, destinava-se a transformar o indiciado em ru, o suspeito em culpado, com o abuso da tortura. O sistema inquisitrio baseava-se que existia um crime e algum era culpado. O processo tinha a funo meramente demonstrativa de uma verdade, que no necessitava ser averiguada, mas somente confrontada, atravs da confisso a fim de confirmar a acusao. A confisso do acusado representava, portanto, o objetivo primordial do procedimento inquisitrio, pois somente ela podia fornecer a certeza moral a respeito dos fatos investigados;
+a tortura era seu instrumento.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema acusatório forçoso examina o inquisitório, que dominou as legislações processuais até o século XIX. Caracterizou-se por acumular na mesma pessoa a função de acusar e julgar, liberdade do juiz na investigação, desenvolvimento do processo em segredo e escrito e duas fases distintas: inquisição geral e especial. O objetivo primordial era a confissão do acusado, com a tortura como seu instrumento.

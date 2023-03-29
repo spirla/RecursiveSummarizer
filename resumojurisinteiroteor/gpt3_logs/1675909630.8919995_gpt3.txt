@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Destaca-se a constatao da magistrada na sentena que consignou que "os exames de corpo de delito (Evento 1, OUT3, fls. 20/21 - autos n. 2000169- 25.2020.9.13.0003) realizados na mesma data dos fatos no apontaram nenhuma leso aparente no corpo dos ofendidos.. No h, nos autos, comprovao das agresses fsicas e no restou devidamente esclarecida a circunstncia de os apelados terem supostamente colocado um saco de arroz ou acar na cabea das supostas vtimas. Aparentemente, um saco de arroz ou acar no possui as dimenses necessrias para que seja coberto o rosto de duas pessoas adultas e tal situao no restou esclarecida nos autos. Para alm da insuficincia de provas, registro que a acusao indica que a testemunha Alberto Reis Alves seria pai da suposta vtima Andr. Todavia o nico testemunho da acusao, prestado pela Sra. Maria da Conceio Gregrio, demonstra que apenas a suposta vtima Samuel  filho de Alberto Reis Alves. Tal aspecto, aparentemente irrelevante, demonstra, ao meu ver, que no se pode condenar os apelados apenas com fundamento em confuso depoimento, sem a oitiva de outras testemunhas e das vtimas. Cabe destacar que o Ministrio Pblico no envidou esforos para a oitiva da testemunha Alberto Reis Alves, tendo-se limitado a solicitar que, quando fosse cumprida a carta precatria destinada  oitiva de uma das supostas vtimas, fosse indagado sobre o endereo atual desta testemunha. Ressalta-se que o Ministrio Pblico dispe de acesso a sistemas eletrnicos de segurana social e tambm poderia ter tentado obter o endereo atualizado por meio de requerimentos especficos  magistrada, tal como a requisio de informaes ao Tribunal Regional Eleitoral, o que no foi feito. Os depoimentos das testemunhas arroladas pela defesa tambm no auxiliam no esclarecimento dos fatos, uma vez que nenhum deles estava presente no momento das supostas agresses e torturas. No  possvel condenar os apelados com fundamento nos depoimentos prestados na fase anterior ao processo, uma vez que o art. 297 do CPPM exige que o juiz, ao proferir a sentena, faa a avaliao das provas que foram produzidas sob o manto do contraditrio. Dispe o art. 297 do CPPM: Art. 297. O juiz formar convico pela livre apreciao do conjunto das provas colhidas em juzo. Na considerao de cada prova, o juiz dever confront-la com as demais, verificando se entre elas h compatibilidade e concordncia. A impossibilidade de condenao com provas que no foram produzidas ou confirmadas durante o processo judicial tambm ocorre na justia comum, uma vez que o art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena consignou que não houve comprovação das agressões físicas e a circunstância de os apelados terem colocado um saco de arroz ou açúcar na cabeça das supostas vítimas não foi esclarecida nos autos. O Ministério Público não envidou esforços para a oitiva da testemunha e os depoimentos das testemunhas arroladas pela defesa também não auxiliaram no esclarecimento dos fatos. O art. 297 do CPPM exige que o juiz faça a avaliação das provas produzidas sob o manto do contraditório, sendo impossível condenar os apelados com provas que não foram produzidas ou confirmadas durante o processo judicial.

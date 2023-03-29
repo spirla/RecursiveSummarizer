@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A douta e culta procuradora de justia atuante junto a este Tribunal, doutora Elba Rondino, Evento 6 - PARECER1/TJM, manifestou-se pelo conhecimento e pelo provimento do recurso interposto pela acusao, a fim de que seja reformada a deciso de 1a instncia, com a condenao do 2 Tem PM Heizer Rodrigues de Souza nas sanes do art. 209, 3, do CPM, em razo dos fundamentos seguintes: [...] Pois bem, possui toda razo o representante do rgo Ministerial quando clama pela condenao pelo crime de leso corporal com resultado morte previsto no artigo 209,  3, do Cdigo Penal Militar, tendo em vista que ficou cabalmente comprovado que o acusado agrediu Raimundo Eugnio Rodrigues quando o abordou durante um surto psictico em via pblica e na ocasio lhe desferiu diversos chutes na regio do abdmen, os quais constituram agresso compatvel e suficiente para provocar a ruptura das alas do intestino delgado da vtima, a ponto de faz-la expelir lquido fecalide pela boca e causar a sua morte (evento 1 - DENUNCIA2 - fls. 13). Nota-se que a violncia que resultou na morte do ofendido ocorreu em circunstncias lamentveis, considerando que ele se encontrava nitidamente desequilibrado psicologicamente no momento dos fatos, proferindo palavras desconexas e andando em frente aos carros em uma avenida movimentada, porm, ao invs de receber o amparo que necessitava e merecia naquela situao, foi espancado por um agente da segurana pblica  paisana, simplesmente por no estar no seu juzo perfeito. Enfim, tendo o objeto recursal sido satisfatoriamente enfrentado pelo representante do Ministrio Pblico de 1a instncia, esta Procuradoria de Justia ratifica as razes recursais, com fundamento no artigo 17,  3, da Recomendao CNMP n. 57, de 05/07/2017. Conclui-se, desta maneira, que a sentena merece ser reformada, at para que se possibilite dar uma resposta  sociedade, que hoje clama incessantemente por uma punio aos agentes estatais que contrariam as regras de comportamento social, evitando-se, com isto, a impunidade e o incentivo  prtica de infraes altamente reprovveis, sob pena de, assim no se fazendo, levar o judicirio ao descrdito ante os olhos da sociedade, no mnimo a questionamentos to corriqueiros nos dias atuais. Diante do exposto, esta Procuradoria de Justia opina pelos conhecimento e provimento do recurso interposto pela acusao, a fim de que seja reformada a deciso de 1a instncia com a condenao do 2 Ten PM HEIZER RODRIGUES DE SOUZA nas sanes do artigo 209,  3, do Cdigo Penal Militar.  o relatrio. VOTOS DESEMBARGADOR JADIR SILVA, RELATOR Recebo o presente recurso, por estarem presentes os requisitos para a sua admissibilidade.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal manifestou-se pelo conhecimento e provimento do recurso interposto pela acusação, a fim de reformar a decisão de primeira instância com a condenação do acusado pelo crime de lesão corporal com resultado morte previsto no artigo 209, 3, do Código Penal Militar, tendo em vista que ficou comprovado que o acusado agrediu a vítima com diversos chutes na região do abdômen, o que provocou a ruptura das alas do intestino delgado da vítima e causou a sua morte.

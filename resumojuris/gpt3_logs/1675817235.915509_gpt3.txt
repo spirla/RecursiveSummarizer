@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(INF 1077) 4.8 ORCAMENTO Emendas do relator-geral do orcamento: suspensao da execucao orcamentaria e prestacao de servicos essenciais a coletividade - ADPF 850 MC-Ref-Ref/DF, ADPF 851 MC-Ref-Ref/DF e ADPF 854 MC-Ref-Ref/DF Resumo: Diante dos riscos de paralisacao de servicos essenciais a coletividade, deve-se dar, em juizo cau-telar, continuidade a execucao das despesas classificadas sob o identificador de Resultado Primario 9 (RP 9). As providencias adotadas pelo Congresso Nacional e pelos orgaos do Poder Executivo da Uniao em cumprimento da decisao proferida no julgamento conjunto das ADPFs 850, 851 e 854 mostram-se suficientes, ao menos em exame estritamente delibatorio, para justificar o afastamento dos efeitos da suspensao determi-nada pelo STF diante do risco de prejuizo que a paralisacao da execucao orcamentaria traz a prestacao de ser-vicos essenciais a coletividade. Com base nesse entendimento, o Plenario, por maioria, referendou a decisao que afastou a suspensao determinada pelo item c da decisao anteriormente proferida, para autorizar a continuidade da execucao das despesas classificadas sob o indicador RP 9, devendo ser observadas para tanto, no que couber, as regras do Ato Conjunto das Mesas da Camara dos Deputados e do Senado Federal 1/2021, e a Resolucao 2/2021 do Con-gresso Nacional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Diante dos riscos de paralisacao de serviços essenciais à coletividade, deve-se dar, em juízo cautelar, continuidade à execução das despesas classificadas sob o identificador de Resultado Primário 9 (RP 9). 2. As providências adotadas pelo Congresso Nacional e pelos órgãos do Poder Executivo da União em cumprimento da decisão proferida no julgamento conjunto das ADPFs 850, 851 e 854 são suficientes, ao menos em exame estritamente delibatório, para justificar o afastamento dos efeitos da suspensão determinada pelo STF diante do risco de prejuízo que a paralisação da execução orçamentária traz à prestação de serviços essenciais à coletividade. 3. O Plenário, por maioria, referendou a decisão que afastou a suspensão determinada pelo item c da decisão anteriormente proferida, para autorizar a continuidade da execução das despesas classificadas sob o indicador RP 9, devendo ser observadas para tanto, no que couber, as regras do Ato Conjunto das Mesas da Câmara dos Deputados e do Senado Federal 1/2021, e a Resolução 2/2021 do Congresso Nacional.

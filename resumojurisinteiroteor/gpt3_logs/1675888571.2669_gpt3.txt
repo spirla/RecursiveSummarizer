@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+JusPodivm, 2016, vol. 3, p.421). Os renomados doutrinadores ponderam tambm que "no se admite ao rescisria, sem que se alegue ou se demonstre a ocorrncia de uma das hipteses previstas no art. 966 do CPC. O elenco de hipteses do referido art. 966 do CPC  taxativo. (DIDIER JR, Fredie; Curso de direito processual civil: o processo civil nos tribunais, recursos, aes de competncia originria de tribunal e querela nullitatis, incidentes de competncia originria de tribunal/Fredie Didier Jr., Leonardo Carneiro da Cunha  13. ed. reform.  Salvador: Ed. JusPodivm, 2016, vol. 3, p.471). Conforme j mencionado, o autor objetiva a resciso da sentena retomando discusses j travadas de modo satisfatrio pelo julgado antecedente, adotando as mesmas premissas e alegaes j lanadas em peas anteriores. Analisando a deciso proferida pelo Juzo da 3a Auditoria Judiciria Militar Estadual (AJME), observo que as nulidades suscitadas foram devidamente apreciadas e rejeitadas, de maneira fundamentada, com base em elementos de convico de fato e de direito presente nos autos. Assim, a legalidade do processo administrativo-disciplinar e do ato administrativo demissional foi analisada e chancelada pelo Poder Judicirio. O autor, em verdade, busca, com a presente ao,  o reexame do conjunto probatrio e a rediscusso da matria, o que no  admitido por meio desta estreita via processual. Ressalte-se que o mero inconformismo com a deciso judicial  insuficiente para a viabilidade da ao rescisria, sendo imprescindvel a demonstrao de uma das hipteses taxativamente presentes no art. 966 do CPC, sob pena de violao  garantia da coisa julgada, que, por sua relevncia, encontra-se entre o rol dos direitos e garantias fundamentais previstos no texto do art. 5 da Constituio da Repblica. Por essa razo, a jurisprudncia entende que a rescisria no se presta nem mesmo  correo de eventual injustia na equivocada apreciao do acervo ftico das provas.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao rescisria foi rejeitada, pois no foi demonstrada a ocorrência de uma das hipteses previstas no art. 966 do CPC. O mero inconformismo com a decisão judicial não é suficiente para a viabilidade da ação rescisória, pois viola a garantia da coisa julgada.

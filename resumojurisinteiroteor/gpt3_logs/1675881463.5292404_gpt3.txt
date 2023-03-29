@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...] 2. "Configurada a agresso ao disposto no art. 489,  1, do CPC/2015, por ausncia da necessria fundamentao, impe-se a decretao de nulidade do acrdo da origem que apreciou os embargos declaratrios, com o retorno dos autos ao Tribunal de Justia, a fim de que o argumento relevante invocado, carente de apreciao, seja devidamente enfrentado" (EDcl no AgInt no AREsp 1.348.888/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/09/2019, DJe de 24/09/2019). [...] (STJ - AgInt nos EDcl no AREsp 1684098/SC, Rel. Ministro RAUL ARAJO, QUARTA TURMA, julgado em 16/11/2020, DJe 14/12/2020) Da mesma forma, esse  o entendimento de nossos tribunais, conforme jurisprudncia a seguir, relativa ao egrgio Tribunal de Justia do Estado de Minas Gerais: Processo Apelao Cvel 1.0223.07.236678-2/001 2366782 11. 2007.8.13.0223 (1) Relator(a) Des. (a) Generoso Filho rgo Julgador / Cmara Cmaras Cveis Isoladas / 9a CMARA CVEL Smula DE OFCIO, ANULARAM A SENTENA Comarca de Origem Divinpolis Data de Julgamento 04/05/2010 Data da publicao da smula 17/05/2010 Ementa AO DE COBRANA. SENTENA. AUSNCIA DE FUNDAMENTAO. NULIDADE ABSOLUTA. MATRIA DE ORDEM PBLICA. CONHECIMENTO DE OFCIO.  nula a sentena que deixa de examinar e fundamentar todas as questes deduzidas pelas partes, na forma do art. 93, IX, da CF/88. 15 A nulidade da sentena que desrespeita o art.468, II, do CPC  matria de ordem pblica, que pode ser decretada de ofcio pelo Tribunal. Processo: Remessa Necessria-Cv 1.0000.21.120217- 1/0015000361-43.2020.8.13.0405 (1) Relator(a): Des. (a) Oliveira Firmo Data de Julgamento: 15/12/2021 Data da publicao da smula: 16/12/2021 Ementa: EMENTA: REEXAME NECESSRIO - PROCESSUAL CIVIL - MANDADO DE SEGURANA: SENTENA: NULIDADE - QUESTO DE ORDEM PBLICA - ANLISE EM SEGUNDO GRAU DE JURISDIO. 1.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia de Minas Gerais e o Superior Tribunal de Justia entenderam que a nulidade da sentena que desrespeita o art.468, II, do CPC matria de ordem pblica, que pode ser decretada de ofício pelo Tribunal.

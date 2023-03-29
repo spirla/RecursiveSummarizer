@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O entendimento abraado pelas instncias ordinrias encontra-se em harmonia com a jurisprudncia desta Corte, no sentido de que, tendo o recorrente permanecido preso durante todo o andamento da ao penal, no faria sentido, ausentes alteraes nas circunstncias fticas, que, com a supervenincia da condenao, lhe fosse deferida a liberdade. Ainda na primeira situao - condenado preso provisoriamente durante a instruo criminal - a sentena condenatria, com efeito, considerou provada a autoria e a materialidade do delito, demonstrado, portanto, o fumus commissi delicti, ainda assim o recolhimento do sentenciado  priso s em caso de necessidade cautelar, se houver periculum libertatis, isto , se presente uma ou mais hiptese autorizadora de priso preventiva do artigo 255 do CPPM. Se o motivo que autorizou a priso preventiva at a sentena condenatria no persiste (por exemplo , a priso preventiva foi decretada para convenincia da instruo criminal), o rgo de primeiro grau deve colocar o sentenciado em liberdade, porm se houver novo motivo legal que justificou a priso preventiva, ou se surgir a necessidade da continuidade da priso preventiva (por exemplo , a priso preventiva deve ter continuidade para garantir da ordem pblica, para aplicao da lei penal ou para garantir as normas de hierarquia e disciplina militares). Em resumo, recolher o condenado preso antes do trnsito em julgado s  possvel se presente o motivo legal autorizador da priso preventiva (artigo 255, CPPM). H julgados da Suprema Corte no sentido que, se mantidos na deciso condenatria os motivos ensejadores da segregao cautelar, no h falar em constrangimento ilegal. Na segunda situao - condenado solto durante o processo - para o STF o:
+fato de o paciente permanecer livre durante o trmite da ao penal no gera o direito adquirido de aguardar o julgamento do recurso de apelao em liberdade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência da Suprema Corte entende que, se o réu permanecer preso durante todo o processo, não há sentido em deferir-lhe a liberdade com a condenação. Se a prisão preventiva foi decretada para a conveniência da instrução criminal, o réu deve ser colocado em liberdade, mas se houver novo motivo legal para a prisão, ela deve ser mantida. O STF também entende que, se o réu permanecer livre durante o processo, isso não gera o direito de aguardar o julgamento do recurso de apelação em liberdade.

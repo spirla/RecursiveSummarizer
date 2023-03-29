@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+200 De acordo com o paragrafo unico do artigo 10 da IRH n. 254/02-DRH: (...) Ativada a tela de punicao disciplinar, convalidam-se trs efeitos: reclassificacao conceitual automatizada do servidor, desconto no tempo de efetivo servico dos dias de suspensao aplicada e desconto dos dias suspensos no vencimento. 201 Sobre a prescricao da pretensao punitiva, vide comentarios ao artigo 90 deste Codigo. 202 Direito de punir. 203 EMEMG: Artigo 240-B. Nos casos em que couber a exoneracao, o militar sera submetido a processo administrativo proprio, sendo-lhe asseguradas as garantias constitucionais. 204 Relacional - em traducao literal - ou referencial (FONSECA, 2014). 205 Fonseca (2014) alerta A motivacao per relationem e geralmente apontada como sinnimo de motivacao aliunde, malgrado seja possivel visualizar diferencas entre ambas, pois enquanto aquela consiste em remeter a outras decisoes ou pareceres e mesmo a alegacoes das partes, constantes dos proprios autos, esta consiste em adotar argumentos veiculados fora dos autos, especialmente em precedentes jurisprudenciais, para fundamentar a decisao, em vez de desenvolver originalmente seus proprios argumentos. 206 DIDIER JR., Fredie. Sobre a fundamentacao da decisao judicial. 207 FONSECA, Leonardo Alvarenga da. A fundamentacao per relationem como tecnica constitucional de racionalizacao das decisoes judiciais. 208 GASPARINI, Diogenes. Direito administrativo. 209 Essa mesma tecnica pode, perfeitamente, ser utilizada nas decisoes em recursos em primeira e segunda instncia. 210 Sobre os efeitos do recurso disciplinar, vide comentarios ao artigo 60 deste Codigo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 10 da IRH n. 254/02-DRH estabelece três efeitos para a punição disciplinar: reclassificação conceitual automatizada do servidor, desconto no tempo de serviço dos dias de suspensão aplicada e desconto dos dias suspensos no vencimento. A motivação per relationem é geralmente apontada como sinônimo de motivação aliunde, sendo possível visualizar diferenças entre ambas. Essa técnica pode ser utilizada nas decisões em recursos em primeira e segunda instância. Sobre os efeitos do recurso disciplinar, vide comentários ao artigo 60 deste Código.

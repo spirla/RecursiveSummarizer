@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Gilmar Mendes, julgamento virtual finalizado em 21.5.2021 (sexta-feira), as 23:59 (INF 1018) 1.9 LICITACOES Petrobras: inaplicabilidade da Lei 8.666/1993 - RE 441280/RS Resumo: O regime de licitacao e contratacao previsto na Lei 8.666/1993 e inaplicavel as sociedades de economia mista que explorem atividade economica propria das empresas privadas, concorrendo, portanto, no mercado. Com efeito, nao e possivel conciliar o regime previsto na Lei 8.666/1993 com a agilidade propria desse tipo de mercado que e movido por intensa concorrencia entre as empresas que nele atuam. No caso concreto, a Petroleo Brasileiro S.A. (Petrobras) disputa espaco livremente, no mercado em que atua, ai incluida a luta entre concorrentes, em condicoes parelhas com as empresas privadas. Por isso, nao se ha de exigir que fique subordinada aos rigidos limites da licitacao da lei especial destinada aos servicos publicos, em sentido ampliado, sob pena de criar-se um grave obstaculo ao normal desempenho de suas atividades comerciais. Com base nesse entendimento, o Plenario, por maioria, negou provimento a recurso extraordinario. Vencidos os ministros Marco Aurelio, Edson Fachin, Rosa Weber e Carmen Lucia. RE 441280/RS, relator Min. Dias Tofolli, julgamento virtual finalizado em 6.3.2021 (INF 1008) Servico de tecnologia da informacao: dispensa de licitacao, delegacao de funcao normativa e livre iniciativa - ADI 4829/DF Resumo: E constitucional dispositivo de lei em que se dispensa a licitacao a fim de permitir a contratacao direta do Servico Federal de Processamento de Dados (Serpro), pela Uniao, para prestacao de servicos de tecnologia da informacao considerados estrategicos, assim especificados em atos de ministro de Estado, no ambito do respectivo ministerio. Frisa-se o que decidido pelo Supremo Tribunal Federal (STF) no exame da ADI 5127/DF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inaplicável o regime de licitação e contratação previsto na Lei 8.666/1993 às sociedades de economia mista que explorem atividade econômica própria das empresas privadas. 2. É possível dispensar a licitação para permitir a contratação direta do Serviço Federal de Processamento de Dados (Serpro) pela União, para prestação de serviços de tecnologia da informação considerados estratégicos.

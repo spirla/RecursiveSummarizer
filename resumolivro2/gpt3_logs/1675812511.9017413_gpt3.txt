@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Por exemplo:
+a denncia imputa ao ru dois crimes, em princpio um deles  da competncia do juiz togado julgar e outro do Conselho de Justia, entretanto, no curso da ao penal pode haver deciso do rgo fracionrio singular ou do colegiado declinando de sua competncia para que o outro rgo julgue o processo. Essa deciso desafia recurso em sentido estrito. Julgar procedente a exceo, salvo de suspeio (alnea f). A deciso que julga procedente a exceo de coisa julgada, litispendncia e ilegitimidade  sentena terminativa, que encerra o processo sem julgamento de mrito, enquanto a que acolhe a incompetncia  interlocutria, porque o processo segue o perante o juiz competente. Porm, se o juiz as julgar improcedentes caber habeas corpus. No cabe recurso em sentido estrito contra deciso que julga procedente a exceo de suspeio. Como anota Tourinho Filho, seria um contrassenso a parte que arguiu a suspeio recorrer. A exceo de suspeio do juiz de primeiro grau  apreciada pelo tribunal, logo, no  cabvel recurso em sentido estrito contra a deciso que a julga improcedente. Na doutrina advoga-se a possibilidade de interposio de recursos extraordinrio e especial, sem prejuzo de habeas corpus ou de mandado de segurana. O CPPM no prev exceo por ilegitimidade de parte. A omisso na legislao castrense pode ser suprida com aplicao dos artigos 95, IV, e 110 do CPP, conforme estatui o artigo 3, a, do CPPM. Por outro lado,  opinio corrente que a exceo de ilegitimidade de parte prevista no artigo 95, IV, do CPP, inclui a ilegitimidade ad causam (titularidade da ao), alm da ilegitimidade ad processum (capacidade processual). Assim, pode-se arguir a exceo quando a queixa  oferecida em caso de ao pblica e quando a denncia  oferecida em hiptese de ao privada (ilegitimidade ad causam);
+quando o querelante  incapaz, no podendo estar em juzo;
+quando o querelante no  representante legal do ofendido (ilegitimidade ad processum).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A denncia pode imputar ao ru dois crimes, sendo um deles da competncia do juiz togado e outro do Conselho de Justia. Se o juiz julgar improcedente a exceo de suspeio, caber habeas corpus. No cabe recurso em sentido estrito contra deciso que julga procedente a exceo de suspeio. O CPPM no prev exceo por ilegitimidade de parte, mas pode ser suprida com aplicao dos artigos 95, IV, e 110 do CPP. A exceo de ilegitimidade de parte inclui a ilegitimidade ad causam e ad processum.

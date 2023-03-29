@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Tal soluo  mesmo apontada pelo bom senso. O fato de obedecer s normas no justifica a omisso dos cuidados capazes de evitar a coliso. A diversidade das situaes que o trnsito de veculos apresenta implica real complexidade. Se alguns doutrinadores entendem que a infrao s regras de circulao impede a aplicao do princpio da confiana,693 outros reconhecem que, quando tal inobservncia no repercutir no sinistro, pode-se reconhecer a confiana na atuao regulamentar de terceiros. Nesse sentido, Roxin oferece o exemplo do condutor de veculo alcoolizado que  atingido por terceiro que no respeita a preferncia no cruzamento. A coliso no seria evitada se o condutor estivesse sbrio e este no pode ser castigado com a impossibilidade da aplicao do princpio da confiana. Na verdade, a questo no tem a importncia que aparenta. O exemplo nos conduz  discusso sobre o incremento da situao de risco. Com certeza, mesmo o alcoolizado deve ser respeitado quando aponta preferencialmente no cruzamento. Mas a teoria da equivalncia dos antecedentes j excluiria da relao causal a ingesto do lcool, pois, ainda que suprimido no processo hipottico de eliminao, o resultado teria sido do mesmo modo produzido. Ento, no  necessrio discutir a relevncia jurdica da conduta que sequer  considerada causa. A mesma soluo d-se ao caso em que o motorista que conduz com excesso de velocidade  colhido por outro que no respeita a preferncia no cruzamento. A conduo em excesso de velocidade, por si s, j produz risco desaprovado, independentemente da atuao dos demais. Para a imputao objetiva, entretanto, deve-se apurar qual das duas condutas arriscadas realizou o resultado lesivo. No caso, o excesso de velocidade no determinou o resultado, mas o desrespeito  preferncia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O bom senso indica que a diversidade das situações do trânsito requer cuidado para evitar colisões. Alguns doutrinadores entendem que a infração às regras impede a aplicação do princípio da confiança, enquanto outros reconhecem que, quando isso não resultar em um sinistro, é possível aplicar o princípio. O exemplo de um condutor alcoolizado atingido por outro que não respeitou a preferencia no cruzamento ilustra a discussão, pois mesmo o alcoolizado deve ser respeitado. A teoria da equivalência dos antecedentes exclui a ingestão de álcool da relação causal, pois o resultado teria sido o mesmo. No caso de um motorista que conduz com excesso de velocidade sendo atingido por outro que não respeitou a preferencia no cruzamento, é necessário apurar qual das duas condutas arriscadas produziu o resultado lesivo.

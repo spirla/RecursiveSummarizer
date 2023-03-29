@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Ao singularizar o agravo para todas as decises proferidas no processo de execuo, a LEP alterou as hipteses de cabimento de recurso em sentido estrito. Decises do STM, todavia, resistem processar e julgar o agravo em execuo e o recebem, pela fungibilidade, como recurso em sentido estrito. Outra  a situao da JME, porquanto o artigo 6 do CPPM determina a aplicao das normas processuais atinentes  execuo das sentenas aos processos de sua competncia. A suspenso condicional da pena  concedida ou negada no julgamento pelo Conselho de Justia ou pelo juiz togado nos processos de sua exclusiva competncia. Da deciso revogatria do sursis pelo juiz da execuo cabe agravo (artigo 197, LEP), porm, na JMU o entendimento tem sido de que cabe recurso em sentido estrito e no agravo. A deciso de revogar o sursis na audincia de advertncia (admonitria), que  realizada pelo juiz federal depois de transitada em julgado a sentena condenatria (artigo 610, CPPM), desafia o recurso em sentido estrito. Anular, no todo ou em parte, o processo da instruo criminal (alnea n). O primeiro aspecto  que tanto a declarao total como a parcial de nulidade desafiam o recurso. O segundo  que, mediante interpretao extensiva, a expresso instruo criminal compreende tambm o processo, de modo que  cabvel o recurso em sentido estrito tanto da anulao da instruo criminal como do processo. Por fim, se a declarao de nulidade ocorrer quando do julgamento pelo Conselho de Justia ou na sentena proferida pelo juiz togado nos processos de sua exclusiva competncia, o recurso a ser interposto  apelao. Decidir sobre a unificao das penas (alnea o). O recurso  o agravo em execuo (artigo 111, LEP). Se houver condenao por mais de um crime, no mesmo processo ou em processos diferentes, a determinao de regime de cumprimento depender da soma das penas ou da unificao delas, quando a somatria ultrapassar 30 (trinta) anos - artigo 81 do CPM. Decretar, ou no, a medida de segurana (alnea p).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei de Execução Penal (LEP) alterou as hipóteses de cabimento de recurso em sentido estrito. O STM resiste ao processamento e julgamento do agravo em execução, mas o recebe por fungibilidade. A JME segue o artigo 6 do CPPM para aplicar as normas processuais de execução. A decisão de revogar o sursis na audiência de advertência desafia o recurso em sentido estrito. A anulação total ou parcial do processo de instrução criminal também desafia o recurso. Se a anulação ocorrer no julgamento pelo Conselho de Justiça ou na sentença proferida pelo juiz togado, o recurso a ser interposto é a apelação. A decisão de unificação das penas cabe agravo em execução. A decretação ou não de medida de segurança também cabe agravo em execução.

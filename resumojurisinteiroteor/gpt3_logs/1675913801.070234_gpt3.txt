@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+70 - A CPAD, no funcionamento do processo, atender ao seguinte: (...) IX - providenciar quaisquer diligncias que entender necessrias  completa instruo do processo, at mesmo acareao de testemunhas e exames periciais, e indeferir, motivadamente, solicitao de diligncia descabida ou protelatria; Ademais,  assente na jurisprudncia do c. Superior Tribunal de Justia que o indeferimento fundamentado de produo de prova considerada impertinente para o esclarecimento dos fatos no configura cerceamento de defesa. Nesse sentido, colaciono o seguinte julgado: PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANA. POLICIAL FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR (PAD). PENA DE DEMISSO. CONTROLE JURISDICIONAL DO PROCESSO ADMINISTRATIVO DISCIPLINAR. INDEFERIMENTO FUNDAMENTADO DE DILIGNCIAS PROBATRIAS REQUERIDAS PELA DEFESA. INTELIGNCIA DO ART. 156, PARGRAFO 1, DA LEI 8.112/90. TESES NOVAS TRAZIDAS EM AGRAVO INTERNO. INOVAO RECURSAL. 1. Processo administrativo que aplicou penalidade de demisso ao impetrante, por concluir que o impetrante valeu-se do cargo que ocupava junto  Polcia Federal, em razo do qual teve acesso a dados sigilosos referentes s investigaes da denominada Operao Manilha e os utilizou para a prtica de ilcitos. 2. O indeferimento fundamentado de produo de prova considerada impertinente para o esclarecimento dos fatos no configura cerceamento de defesa, quando suficiente o conjunto probatrio do processo administrativo disciplinar (art. 156,  1, da Lei n 8.112/90). 3. No caso em exame a Comisso Processante explicitou os motivos pelos quais as inquiries das testemunhas que o impetrante menciona na inicial (Humberto Devoraes e Marcello) foram consideradas impertinentes pela Comisso, ao entendimento de que nenhuma delas participou ou presenciou os fatos pelos quais o impetrante foi responsabilizado, nem mesmos fatos circunstanciais que tivessem relevncia nas concluses acerca da responsabilidade do impetrante.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A CPAD deve providenciar diligncias necessrias para a instruo do processo, podendo indeferir, motivadamente, solicitaes de diligncias descabidas ou protelatórias. O indeferimento fundamentado de produção de prova considerada impertinente para o esclarecimento dos fatos não configura cerceamento de defesa.

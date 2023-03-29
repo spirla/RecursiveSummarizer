@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Defesa de interesse de candidatos aprovados em concurso publico. Impetracao por sindicato ou associacao de servidores publicos. Ilegitimidade. DESTAQUE 205 O sindicato de servidores e a associacao de servidores nao tem legitimidade para a impetracao de acao de mandado de seguranca coletivo no interesse de direitos de candidatos aprovados em concurso publico. Na hipotese, a demanda cuida de pretensao mandamental deduzida com a finalidade de estender o prazo de validade de concurso publico para o ingresso no quadro funcional auxiliar de Ministerio Publico Estadual. Ambos os impetrantes constituem-se como pessoas juridicas de direito privado associativas instituidas para a defesa do interesse de seus associados (art. 21 da Lei n. 12.016/2009). A associacao tem por finalidade congregar os servidores do Ministerio Publico na defesa de seus interesses e direitos coletivos, difusos, individuais homogeneos ou heterogeneos . Por sua vez, o sindicato e entidade constituida para fins de estudo, coordenacao, conscientizacao, uniao, defesa dos direitos coletivos, difusos individuais homogeneos ou heterogeneos e representacao legal da categoria profissional dos servidores do Ministerio Publico do Estado . Ambas sao inegavelmente constituidas, cada uma dentro da sua esfera de atuacao, para a defesa dos interesses dos servidores do Ministerio Publico, e nessa medida impetraram a acao. Dessa forma, nao buscaram a defesa de algum direito especificamente considerado da pessoa juridica em si, mas propuseram a acao porque consideravam que a situacao fatica (suspensao de nomeacoes pelo prazo de cento e oitenta dias) contrariava os interesses de seus membros integrantes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O sindicato de servidores e a associacao de servidores não têm legitimidade para a impetração de ação de mandado de segurança coletivo no interesse de direitos de candidatos aprovados em concurso público. 2. A demanda cuida de pretensão mandamental deduzida com a finalidade de estender o prazo de validade de concurso público para o ingresso no quadro funcional auxiliar de Ministério Público Estadual. 3. A associação tem por finalidade congregar os servidores do Ministério Público na defesa de seus interesses e direitos coletivos, difusos, individuais homogêneos ou heterogêneos. 4. O sindicato é entidade constituída para fins de estudo, coordenação, conscientização, união, defesa dos direitos coletivos, difusos individuais homogêneos ou heterogêneos e representação legal da categoria profissional dos servidores do Ministério Público do Estado.

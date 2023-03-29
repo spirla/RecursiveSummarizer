@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Condenacao ao ressarcimento de valores despendidos na realizacao dos trabalhos desenvolvidos com vista a elaboracao de Projeto de Lei. Descabimento. Teoria da interrupcao do nexo causal. DESTAQUE 171 Nao e possivel a condenacao de prefeito ao ressarcimento de valores despendidos na realizacao dos trabalhos desenvolvidos com vista a elaboracao de Projeto de Lei, na hipotese em que o ato administrativo encaminhado a Camara Municipal desconsidera a legislacao vigente, e e praticado com desvio de finalidade. A controversia diz respeito a possibilidade de condenar o chefe do Poder Executivo Municipal ao ressarcimento de valores despendidos na realizacao dos trabalhos desenvolvidos com vista a elaboracao de Projeto de Lei, quando o ato administrativo encaminhado a Camara Municipal, com vista a desafetacao e venda de area publica, desconsidera a legislacao vigente e ha provas da ocorrencia de desvio de finalidade. Na especie, o ex-prefeito foi condenado em acao popular a devolucao dos valores despendidos na realizacao dos trabalhos desenvolvidos com vista a elaboracao do Projeto de Lei que gerou Lei que transformou bem publico de uso especial em dominical, autorizando a sua venda, diante da desafetacao em desconsideracao a legislacao vigente e com desvio de finalidade. Porem, o dano supostamente causado pelo reu, corrigido nesta acao, foi aquele provocado ao patrimonio historico e cultural da cidade de Sao Paulo, em razao do alegado desvio de finalidade provocado pelo reu. E com esta lesao que o demandado mantem vinculacao direta e necessaria, e e por ela que e juridicamente responsavel. Entretanto, a partir do momento em que deflagra o processo legislativo, a tramitacao em si do projeto de lei nao ofende nenhum bem juridico tutelado em abstrato, ou seja, nao provoca dano. No maximo, a movimentacao da maquina estatal implica custo economico, relacionado ao regular exercicio de atribuicoes tipicas da Administracao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É descabida a condenação de prefeito ao ressarcimento de valores despendidos na realização de trabalhos com vista a elaboração de Projeto de Lei, quando o ato administrativo encaminhado à Câmara Municipal desconsidera a legislação vigente e há provas de desvio de finalidade. 2. Não é possível responsabilizar o prefeito pelo dano supostamente causado ao patrimônio histórico e cultural da cidade, pois a partir do momento em que deflagra o processo legislativo, a tramitação em si do projeto de lei não ofende nenhum bem jurídico tutelado em abstrato.

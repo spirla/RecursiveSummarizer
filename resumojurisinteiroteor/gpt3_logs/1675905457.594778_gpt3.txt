@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ por isso que o termo prova nova deve ser entendido como prova anteriormente existente, mas somente acessvel aps o trnsito em julgado. [...] Apenas se considera como prova nova aquela que o autor no tenha tido condies de produzir no processo originrio por motivos alheios  sua vontade e  sua disponibilidade, seja porque a desconhecia, seja por no lhe ser acessvel durante o processo originrio. E caber ao autor da ao rescisria comprovar tal impossibilidade de produo anterior da prova. [.] (DIDIER JR, Fredie; Curso de direito processual civil: o processo civil nos tribunais, recursos, aes de competncia originria de tribunal e querela nullitatis, incidentes de competncia originria de tribunal/Fredie Didier Jr., Leonardo Carneiro da Cunha  16. ed. reform.  Salvador: Ed. JusPodivm, 2019, vol. 3, p. 605/606) Os renomados doutrinadores, acerca do sentido da expresso "prova nova lecionam que: A prova nova  aquela estranha  causa, ou seja, aquela ainda no pertencente  causa. A prova nova no  aquela constituda, formada ou produzida posteriormente;  a que no foi apresentada no curso do processo originrio, destinada a provar fato j ocorrido. Prova nova, em outras palavras,  aquela que j existia antes do trnsito em julgado, mas no foi apresentada ou produzida oportunamente no processo originrio. A prova no existente ou que no poderia ser produzida durante o curso do processo originrio no possibilita a desconstituio do julgado. (DIDIER JR, Fredie; Curso de direito processual civil: o processo civil nos tribunais, recursos, aes de competncia originria de tribunal e querela nullitatis, incidentes de competncia originria de tribunal/Fredie Didier Jr., Leonardo Carneiro da Cunha  16. ed. reform.  Salvador: Ed. JusPodivm, 2019, vol. 3, p.607). Nesse mesmo sentido,  firme o entendimento jurisprudencial do c. Superior Tribunal de Justia: PROCESSUAL CIVIL. AGRAVO INTERNO NA AO RESCISRIA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prova nova aquela estranha causa, ou seja, aquela ainda no pertencente causa, que j existia antes do trnsito em julgado, mas no foi apresentada ou produzida oportunamente no processo originrio. Para desconstituir o julgado, caber ao autor da ao rescisria comprovar a impossibilidade de produo anterior da prova.

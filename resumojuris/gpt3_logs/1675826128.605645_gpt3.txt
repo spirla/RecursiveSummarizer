@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, ao apreciar o Tema 1075 da repercussao geral, por maioria, negou provimento a recurso extraordinario e declarou a inconstitucionalidade do art. 16 da Lei 7.347/1985, com a redacao dada pela Lei 9.494/1997, e, consequentemente, reconheceu a aplicacao de efeitos repristinatorios a redacao original do dispositivo questionado. Vencido o ministro Marco Aurelio. O ministro Edson Fachin acompanhou o relator com ressalvas. RE 1101973/SP, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 7.4.2021 (quarta-feira), as 23:59 (INF 1012) 14.2 COMPETENCIA Acao previdenciaria: competencia federal delegada e conflito de competencia - RE 860508/SP (Tema 820 RG) Tese Fixada: A competencia prevista no  3 do artigo 109 da CF/88, da Justica comum, pressupoe inexistencia de Vara Federal na Comarca do domicilio do segurado . Resumo: Compete a tribunal regional federal, no ambito da respectiva regiao, dirimir conflito de competencia entre juiz federal ou juizado especial federal e juiz estadual no exercicio da competencia federal delegada. Cabe a tribunal regional federal solucionar o conflito de competencia, observado o art. 108, I, e, e II, da CF/88 (CF). Isso, porque se define o orgao conforme a competencia para julgar possivel recurso. Ao atuar em causas previdenciarias, o juizo da Justica comum tem sua decisao submetida a tribunal federal, e nao a tribunal de justica. De igual modo, nao compete ao Superior Tribunal de Justica a atribuicao, porque sua atribuicao para dirimir conflito entre juizes vinculados a tribunais diversos  nos termos do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Plenário, ao apreciar o Tema 1075 da repercussão geral, negou provimento a recurso extraordinário e declarou a inconstitucionalidade do art. 16 da Lei 7.347/1985, com a redação dada pela Lei 9.494/1997. 2. A competência prevista no artigo 109 da Constituição Federal, da Justiça comum, pressupõe inexistência de Vara Federal na Comarca do domicílio do segurado. 3. Compete ao Tribunal Regional Federal, no âmbito da respectiva região, dirimir conflito de competência entre Juiz Federal ou Juizado Especial Federal e Juiz Estadual no exercício da competência federal delegada. 4. Ao atuar em causas previdenciárias, o Juízo da Justiça Comum tem sua decisão submetida a Tribunal Federal, e não a Tribunal de Justiça. 5. Não compete ao Superior Tribunal de Justiça a atribuição, porque sua atribuição para dirimir conflito entre juízes vinculados a tribunais diversos nos termos do artigo.

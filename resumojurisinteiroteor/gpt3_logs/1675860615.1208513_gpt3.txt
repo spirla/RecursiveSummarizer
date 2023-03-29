@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Sustenta que h equvocos na linha temporal dos fatos feita pela meritssima Juza "a quo com base nas informaes apresentadas pelo ofendido e por seus familiares, dentre eles o horrio da autuao da vtima, sendo que a autuao ocorreu s 4 horas daquele mesmo dia e no s 9 horas e 30 minutos, conforme consta na sentena. Aduz que, conforme exposto nas alegaes finais, h um erro material no Auto de Priso em Flagrante Delito (Evento 2, fls. 16 a 22, peas de IPM3), quando o escrivo fez constar como incio do referido Auto o horrio de 21 horas e 34 minutos, sendo que naquele horrio a dita vtima sequer havia sido abordada e presa. Diz que, conforme se v no REDS (Evento 2, pginas 23/25 - PEAS IPM3), a ocorrncia foi encerrada s 3 horas e 50 minutos, em que pese o agente da Polcia Civil que recebeu o preso e os objetos apreendidos no haver preenchido o campo data/hora, limitando-se a por o seu carimbo e assinar. Destaca que a dita vtima nada menciona sobre as agresses, conforme ressai do seu interrogatrio na pgina 19 do Evento 2 - PEAS-IPM3; e que somente por volta de 9 horas e 30 minutos, quando o delegado retornava  Delegacia, aps um lapso temporal de aproximadamente 6 (seis) horas,  que, segundo o delegado, nota-se um certo desconforto no conduzido. Afirma que as prprias declaraes da dita vtima, em juzo, deixam claro que a conversa com o delegado de polcia foi num momento diverso da autuao. Conclui que a dita vtima no foi autuada s 9 horas e 30 minutos de 18 de maio de 2010, como conclui a juza "a quo, e, sim, por volta das 4 horas daquele mesmo dia. Salienta que o agente de polcia que recebeu o conduzido, senhor Osvaldo Pereira Damasceno, nada questionou, dizendo que  protocolo da polcia civil no s exigir o laudo mdico, mas tambm inspecionar o conduzido, verificando se apresenta ou no leses aparentes e, caso positivo, se estas esto descritas no respectivo laudo. Nesse aspecto, afirma que nada foi constatado e o conduzido foi recebido pelo agente de polcia de planto, sem quaisquer observaes ou questionamentos. Alega que a legalidade da ao policial militar e a flagrncia de delito foi reconhecida pela autoridade policial que, aps inquirir o condutor, as testemunhas, o conduzido e a vtima, expediu o competente Despacho Ratificador (Evento 2 - fls. 21/34 - PEAS IPM3). Afirma que o senhor Arn no foi ouvido a respeito da possvel tortura, apesar de ter sido a pessoa que por mais tempo permaneceu ao lado da vtima, enquanto esta esteve sob a custdia da Polcia Militar. Salienta a controvrsia nas declaraes da irm da dita vtima, senhora Maria de Ftima Dutra.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A deciso judicial questiona a linha temporal dos fatos apresentada pela Juza "a quo" e afirma que a vítima foi autuada por volta das 4 horas do mesmo dia, e não às 9 horas e 30 minutos, como consta na sentença. O Auto de Prisão em Flagrante Delito foi encerrado às 3 horas e 50 minutos e a legalidade da ação policial foi reconhecida pela autoridade policial.

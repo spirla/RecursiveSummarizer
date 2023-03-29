@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+387,  2 do Cdigo de Processo Penal (CPP). Requereu, por ltimo, a revogao da priso preventiva ou, eventualmente, a adoo de medidas cautelares diversas da priso, nos termos do art. 319 e seguintes do CPP. Analisei com a devida acuidade os autos desta ao penal, do mesmo modo que venho analisando os processos correlatos e relacionados  operao cognominada hexagrama, em razo da preveno que se estabeleceu. Dessa anlise, pude constatar, sem dificuldades, e principalmente depois de uma cuidadosa leitura das razes de apelao defensiva e de acusao, das respectivas contrarrazes e bem assim do minudente parecer apresentado pela eminente procuradora de justia Dra. Elba Rondino, que razo alguma assiste  defesa, na medida em que os fundamentos adotados na sentena condenatria do Evento 87 tiveram como lastro, exclusivamente, as provas produzidas nos autos, em especial, mas no s elas, as mensagens trocadas entre Danone e o acusado, que foram extradas dos telefones celulares pertencentes e usados pelo primeiro, apreendidos com ele no momento de sua priso em 06 de maro de 2020. O acusado no seu interrogatrio do Evento 9 VIDEOS 2 e 3, negou todas as acusaes que lhe foram imputadas na denncia, do mesmo modo que negou conhecer Danone ou qualquer integrante da organizao criminosa. Negou com igual veemncia a autoria das mensagens referidas, ainda que tenha reconhecido como de sua propriedade e uso o aparelho de telefone celular cadastrado com o nmero (031) 996 00 52 61, de onde partiram as mensagens para Danone e onde chegaram outras mensagens por ele enviadas. Esse nmero foi anotado por Danone na agenda de seu telefone celular de nmero (031) 993 09 77 67 com a designao de Rafael PM Con uma referncia clara ao acusado, que alm de se chamar Rafael,  policial militar e exercia suas atividades no 39 BPM com sede na cidade de Contagem. Na agenda de um outro celular cadastrado com o nmero (31) 996 00 52 61, Danone anotou o mesmo nmero (031) 996 00 52 61 pertencente ao ru como sendo PM Contagem. Essas negativas a mim se afiguram, quando muito, como mera estratgia defensiva, sem conexo mnima com o contexto analisado, sendo incapazes, portanto, de desconstiturem as provas produzidas na fase investigativa e confirmadas durante a instruo processual. Negando a autoria das mensagens e indagado durante seu interrogatrio, o ru respondeu que existem vrios militares com o nome Rafael servindo no 39 BPM, insinuando e pretendendo convencer, no se sabe quem, de que poderia estar respondendo por aes praticadas, possivelmente, por outra pessoa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A análise dos autos da ação penal da operação cognominada hexagrama revelou que as provas produzidas nos autos, especialmente as mensagens trocadas entre Danone e o acusado, extradas dos telefones celulares pertencentes e usados pelo primeiro, apreendidos com ele no momento de sua prisão, confirmaram a sentença condenatória. As negativas do acusado durante seu interrogatório foram consideradas como mera estratégia defensiva, incapazes de desconstituir as provas produzidas.

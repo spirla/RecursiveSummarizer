@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ultrapassado o pedido de no conhecimento do recurso arguido pela eminente Procuradora, no mrito, entendo que os embargos infringentes devero ser providos. Da leitura da sentena penal condenatria, percebe-se que, de fato, os fundamentos registrados em sentena pelo respeitvel Juzo "a quo so genricos e referem-se a elementos prprios do tipo, abstratos, os quais se aplicariam a qualquer caso, ferindo-se, assim, a exigncia constitucional de que todas as decises devero ser fundamentadas, sob pena de nulidade (art. 93, IX, da Constituio da Repblica Federativa do Brasil) e a garantia de individualizao da pena (art. 5, XLVI, da Constituio da Repblica Federativa do Brasil). Nesse sentido, destaco que o colendo Superior Tribunal de Justia j decidiu que consideraes genricas e desvinculadas do contexto ftico dos autos, assim como elementos inerentes ao prprio tipo penal, no servem para a exasperao da pena. Destaco: PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICDIO QUALIFICADO. DOSIMETRIA. PENA-BASE. FUNDAMENTOS ABSTRATOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO. I - A parte que se considerar agravada por deciso de relator,  exceo do indeferimento de liminar em procedimento de habeas corpus e recurso ordinrio em habeas corpus, poder requerer, dentro de cinco dias, a apresentao do feito em mesa relativo  matria penal em geral, para que a Corte Especial, a Seo ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a. II - As circunstncias do crime, para fins do art. 59 do Cdigo Penal, tratam-se dos aspectos objetivos e subjetivos em que se desdobrou a prtica do delito. III - Na hiptese, denota-se que o Juzo de origem valorou negativamente as circunstncias do delito sem remisso s peculiaridades dos fatos, de modo que, o fundamento exarado, qual seja, "a vtima foi capturada quando chegava em sua residncia", reflete elemento nsito ao dispositivo violado. IV - A jurisprudncia desta Corte  firme no sentido de que consideraes genricas e desvinculadas do contexto ftico dos autos, assim como elementos inerentes ao prprio tipo penal, no servem para a exasperao da pena. Agravo regimental desprovido. (STJ, AgRg no HC 659882/GO, relator Ministro Jesuno Rissato (Desembargador convocado do TJDFT, Quinta Turma, julgamento realizado 14/09/2021, acrdo publicado no DJe 20/09/2021).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Superior Tribunal de Justia decidiu que consideraes genricas e desvinculadas do contexto ftico dos autos e elementos inerentes ao prprio tipo penal não servem para a exasperação da pena, violando a exigência constitucional de fundamentação das decisões e a garantia de individualização da pena. Agravo regimental desprovido.

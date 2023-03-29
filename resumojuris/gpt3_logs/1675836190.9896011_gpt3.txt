@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Afirma-se que 61 horarios de voos se encontravam ociosos, alocados a recuperanda, mas sem exploracao alguma. Nao resta duvida de que a agencia reguladora do setor detem competencia e capacidade institucional superior ao do Judiciario para identificar se o interesse economico da coletividade, nele considerado o dos usuarios diretos do sistema, que desejam voar e transportar cargas, e melhor atendido pela manutencao dos slots com a empresa em recuperacao ou com outras, ja operacionais ou ingressantes no mercado. A propria promocao do pleno emprego pode ser mais bem alcancada pelas concorrentes, impedidas de participar do mercado pela manutencao dos slots em ociosidade. O argumento juridico apenas reforca a interpretacao normativa positivada: compete a agencia a gestao dos slots, nao sendo passiveis de incorporacao, ainda que tangencial, aos direitos da empresa aerea em recuperacao, sob pena de grave violacao da legislacao federal do setor produtivo concedido e altamente regulado, em funcao de sua natureza estrategica na economia nacional. 199 A solucao desta Corte na SLS n. 1.161 resolve bem a materia, inexistindo razao para abandono do precedente especifico, a despeito da cognicao diversa daquela via. Naquele feito, extrai-se do voto-vista da Ministra Nancy Andrighi: Entendo, nesta analise preliminar da materia (que naturalmente podera ser revista por ocasiao do julgamento do recurso especial que advira), que assiste razao a ANAC. Com efeito, os criterios tecnicos pelos quais ela define as alocacoes de espacos para pousos e decolagens em cada aeroporto nacional dizem respeito a sua competencia especifica de regulacao do setor aeronautico e aeroportuario. As decisoes acerca de relocacao de vagas ociosas em aeroportos de alta demanda devem ser tomadas de maneira rapida e tecnica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A agência reguladora do setor detém competência e capacidade institucional superior ao do Judiciário para identificar se o interesse econômico da coletividade é melhor atendido pela manutenção dos slots com a empresa em recuperação ou com outras, já operacionais ou ingressantes no mercado. 2. A proposta do pleno emprego pode ser mais bem alcançada pelas concorrentes, impedidas de participar do mercado pela manutenção dos slots em ociosidade. 3. Compete à agência a gestão dos slots, não sendo passíveis de incorporação, ainda que tangencial, aos direitos da empresa aérea em recuperação, sob pena de grave violação da legislação federal do setor produtivo concedido e altamente regulado, em função de sua natureza estratégica na economia nacional. 4. Os critérios técnicos pelos quais a agência define as alocações de espaços para pousos e decolagens em cada aeroporto nacional dizem respeito à sua competência específica de regulação do setor aeronáutico e aeroportuário. 5. As decisões acerca de relocação de vagas ociosas em aeroportos de alta demanda devem ser tomadas de maneira rápida e técnica.

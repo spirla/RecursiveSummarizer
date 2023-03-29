@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 7211/RJ, relator Ministro Alexandre de Moraes, julgamento virtual finalizado em 30.9.2022 (sex-ta-feira), as 23:59 (INF 1070) Empresas de telefonia e internet: obrigatoriedade de insercao de mensagem nas faturas - ADI 6088/AM Resumo: E constitucional norma estadual que, a pretexto de proteger a saude publica, obriga as prestado-ras de servicos de telefonia celular e de internet a inserirem, nas faturas de consumo, mensagem incenti-vadora a doacao de sangue. A competencia suplementar dos estados somente pode ser afastada caso a norma federal regule deter-minada materia de forma nitida e uniforme. Assim, deve haver um direcionamento das acoes de governo do ente local para o nacional, prevalecendo, a teor do principio da subsidiariedade do federalismo brasileiro, uma presuncao a favor da competencia daqueles mais proximos dos interesses da populacao. No caso, nao ha usurpacao de competencia privativa da Uniao, visto que o valor constitucional pri-mordialmente tutelado pela norma impugnada nao e o servico prestado por concessionarias de telecomunica-coes, mas a protecao e defesa da saude, materia sujeita a competencia legislativa concorrente (CF/88, art. 24, XII). Com base nesse entendimento, o Plenario, por maioria, conheceu parcialmente da acao e a julgou im-procedente na parte conhecida para declarar a constitucionalidade da Lei 4.658/2018 do Estado do Amazo-nas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional norma estadual que, a pretexto de proteger a saúde pública, obriga as prestadoras de serviços de telefonia celular e de internet a inserirem, nas faturas de consumo, mensagem incentivadora a doação de sangue. 2. A competência suplementar dos estados somente pode ser afastada caso a norma federal regule determinada matéria de forma nitida e uniforme. 3. Deve haver um direcionamento das ações de governo do ente local para o nacional, prevalecendo, a teor do princípio da subsidiariedade do federalismo brasileiro, uma presunção a favor da competência daqueles mais próximos dos interesses da população. 4. Não há usurpação de competência privativa da União, visto que o valor constitucional primordialmente tutelado pela norma impugnada não é o serviço prestado por concessionárias de telecomunicações, mas a proteção e defesa da saúde, matéria sujeita a competência legislativa concorrente (CF/88, art. 24, XII).

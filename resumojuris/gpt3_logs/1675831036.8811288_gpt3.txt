@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+De acordo com a doutrina, e imprescindivel o juizo de valor a ser emitido pelos magistrados acerca da idoneidade traduzida no conceito de adequacao das medidas cautelares constritivas admitidas no processo penal. Essa adequacao pode ser de duas formas: a) adequacao qualitativa, correspondente a aptidao para alcancar os fins previstos na lei processual; e b) adequacao quantitativa, relativa a necessidade de respeitar os limites para que seja alcancada a finalidade perseguida. Acrescenta-se as exigencias acima os criterios da necessidade - traduzido na intervencao minima - e da proporcionalidade em sentido estrito ou da prevalencia do valor protegido - com base na qual o juiz deve examinar se o interesse estatal buscado e proporcional a violacao dos direitos fundamentais. E por tais motivos que o controle jurisdicional previo do ato e imprescindivel para se alcancar a legalidade de medidas extremas, como a de busca e apreensao com violacao de domicilio, ainda que empresarial. Dessa maneira, nao ha como justificar a atuacao conjunta de orgaos de policia autonomos e independentes entre si - Receita Federal, Policia Federal e Ministerio Publico - com a finalidade de busca e apreensao de diversos objetos, bens e valores sem o devido controle jurisdicional do ato. Ante o exposto, deve ser declarada a nulidade da medida de busca e apreensao em estabelecimento empresarial sem crivo jurisdicional e, por consequencia, das provas dela derivadas. (Informativo  Ed. Especial n. 10) CPP, art. 3-B, XI, c, c/c o art. 243 105 Processo AgRg no HC 735.745-MG, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 27/9/2022, DJe 4/10/2022. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Prisao preventiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É imprescindível o juízo de valor a ser emitido pelos magistrados acerca da idoneidade traduzida no conceito de adequação das medidas cautelares constritivas admitidas no processo penal. 2. A adequação das medidas cautelares constritivas admitidas no processo penal pode ser qualitativa ou quantitativa. 3. É necessário respeitar os critérios da necessidade e da proporcionalidade para que se alcance a legalidade das medidas extremas, como a de busca e apreensão com violação de domicilio. 4. É imprescindível o controle jurisdicional prévio do ato para se alcançar a legalidade de medidas extremas, como a de busca e apreensão com violação de domicilio. 5. Não há justificativa para a atuação conjunta de órgãos de polícia autonomos e independentes entre si com a finalidade de busca e apreensão de diversos objetos, bens e valores sem o devido controle jurisdicional do ato. 6. Deve ser declarada a nulidade da medida de busca e apreensão em estabelecimento empresarial sem crivo jurisdicional e, por consequência, das provas dela derivadas.

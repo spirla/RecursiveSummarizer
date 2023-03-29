@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+HOMICDIO PRIVILEGIADO. NULIDADE POR CERCEAMENTO DE DEFESA. INDEFERIMENTO DO PEDIDO DE JUNTADA AOS AUTOS DE DOCUMENTO IMPRESCINDVEL AO JULGAMENTO DA CAUSA. USURPAO DA COMPETNCIA CONSTITUCIONAL DO TRIBUNAL DO JRI. DESCUMPRIMENTO DO PRINCPIO CONSTITUCIONAL DA AMPLA DEFESA. EFETIVO PREJUZO DEMONSTRADO. INAPLICABILIDADE DA SMULA 7/STJ. AGRAVO REGIMENTAL PROVIDO. 1. Nos termos da assente jurisprudncia desta Corte Superior, o reconhecimento de nulidade, ainda que absoluta, no mbito do Processo Penal, exige a demonstrao do efetivo prejuzo suportado pelas partes (princpio pas de nullit sans grief). 2. Na hiptese dos autos, a defesa demonstrou, concretamente, a imprescindibilidade da prova requerida e posteriormente considerada lcita pelo Tribunal de origem. Tambm comprovou a existncia de prejuzo para o ru, pois ficou impedida de submeter a referida prova - que a ela compete - ao juiz natural da causa, e, depois, teve, contra si, uma deciso condenatria, o que evidentemente trouxe a quebra do equilbrio entre as partes. 3. Uma vez considerada legtima a prova requerida pela defesa, cabe ao Tribunal do Jri o exame da tese levantada pela defesa, rgo constitucionalmente competente para conhecer dos crimes dolosos contra a vida, em deciso proferida pela ntima convico de cada jurado (CF, art. 5, XXXVIII), sob pena de usurpao de sua competncia constitucionalmente estabelecida. 4. Para se chegar  concluso de existncia de efetivo prejuzo para a defesa, no se mostra necessrio o revolvimento dos fatos e das provas constantes dos autos, pois todas as premissas fticas e probatrias esto explicitamente admitidas e delineadas no acrdo recorrido, razo pela qual no incide o bice da Smula 7/STJ no caso em anlise. 5. Agravo regimental provido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal Superior entendeu que, em caso de homicídio privilegiado, a nulidade por cerceamento de defesa foi demonstrada, uma vez que houve prejuízo efetivo à defesa, e, portanto, o Tribunal do Júri é o competente para conhecer dos crimes dolosos contra a vida. Agravo regimental provido.

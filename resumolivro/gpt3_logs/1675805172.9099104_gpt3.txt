@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+181 TOLEDO, Francisco de Assis. Principios Basicos de Direito Penal, p. 215. 182 CAPEZ, Fernando. Curso de direito penal: parte geral, v. 1, p. 455. 183 Por erro de proibicao, disciplinado no CP Comum sobre a rubrica de erro sobre a ilicitude do fato, entende-se quando o agente desconhece ou mal conhece a norma proibitiva, ou quando estando na posicao de garantidor supoe nao estar obrigado a agir, ou quando erra sobre os limites de uma causa de exclusao de ilicitude (TOLEDO, Francisco de Assis. Principios basicos de direito penal, p. 270-271). Em todos esses casos, se plenamente justificavel o erro, restara excluida a culpabilidade no mbito penal comum, portanto, inexistira o crime. 184 Artigo 35. A pena pode ser atenuada ou substituida por outra menos grave quando o agente, salvo em se tratando de crime que atente contra o dever militar, supoe licito o fato, por ignorncia ou erro de interpretacao da lei, se escusaveis. 185 GRECO, Rogerio. Curso de direito penal, v. 1, p. 655. 186 Segundo Rogerio Greco (Curso de Direito Penal, Parte Geral, p. 23): elementares sao dados essenciais a figura tipica, sem os quais ocorre uma atipicidade absoluta ou uma atipicidade relativa. 187 Ressalta-se que a transgressao disciplinar do artigo 14, II, do CEDM, ao se referir a desidia no desempenho das funcoes, nao exige que o militar esteja de servico no momento do seu cometimento, tanto que a ICCPM/BM 01/2014 estabelece que para a sua ocorrncia devera o militar estar de servico ou deve a transgressao ser cometida em razao de sua funcao policial ou bombeiro militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O erro de proibição, disciplinado no Código Penal Comum, ocorre quando o agente desconhece ou mal conhece a norma proibitiva, ou quando estando na posição de garantidor supõe não estar obrigado a agir, ou quando erra sobre os limites de uma causa de exclusão de ilicitude. Se o erro for plenamente justificável, a culpabilidade será excluída e, portanto, inexistirá o crime. O artigo 35 do Código Penal prevê a atenuação ou substituição da pena por outra menos grave quando o agente supõe licito o fato por ignorância ou erro de interpretação da lei. A transgressão disciplinar do artigo 14, II, do CEDM não exige que o militar esteja de serviço no momento do seu cometimento, desde que a transgressão seja cometida em razão de sua função policial ou bombeiro militar.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O exemplo pode ser identificado pela denominao desistncia do executor. Veja-se a representao do caso:
+Nos casos de desistncia do executor em produzir o resultado mais grave,  necessrio distinguir se a desistncia  anterior ou posterior ao incio da execuo do crime mais grave. No exemplo dado, se a desistncia do executor for anterior ao incio da execuo do homicdio, o fato beneficia o mandante, pois o crime de homicdio no chegou a ser tentado. Neste caso, o ajuste foi no sentido de realizar um outro crime. O crime de homicdio no teve incio e, consequentemente, no se realizou (artigo 54 do CPM). Ambos devem responder por leso corporal consumada. Se, no entanto, a desistncia for posterior ao incio da execuo do crime de homicdio, no ocorrer o caso de impunibilidade estabelecido pelo artigo 54 do CPM. Trata-se, agora, de reconhecer a interrupo do crime de homicdio por circunstncias alheias  vontade de A (prprias  vontade de B). O impedimento da consumao do crime foi determinado por um dos concorrentes (desistncia voluntria - artigo 31 do CPM), contrariando a vontade do outro. Tem-se, ento, que o mandante responde por tentativa de homicdio, e o executor, por leso corporal consumada. Exemplo 4. O mandante A contrata o executor B para matar a vtima C. B, livre e conscientemente, resolve apenas lesionar a vtima C. No entanto, a vtima vem a morrer em decorrncia das agresses que lhe so desferidas. O exemplo tambm pode ser identificado pela denominao desistncia do executor. Veja-se a representao do caso:
+Nesse exemplo, se a desistncia acontecer depois de iniciada a execuo do crime, no haver maiores dificuldades. A desistncia do executor B no foi capaz de evitar a ocorrncia do resultado, e ambos os concorrentes devem responder por homicdio consumado. No entanto, se a desistncia acontecer antes do incio do crime, a situao fica mais complexa. O primeiro ato da conduta praticada por B caracteriza, para ele, o incio da execuo de um crime de leso corporal. A conduta do executor B  orientada pela inteno de lesionar e, portanto, no se pode caracterizar incio de execuo de homicdio. Mas resta uma dificuldade a ser enfrentada: e para A, caracteriza-se incio da execuo de crime de homicdio ou de leso corporal?. A soluo do problema no  simples e parece colocar em conflito as normas dos artigos 53, pargrafo 1, e 54, ambos do CP.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No exemplo dado, se a desistência do executor for anterior ao início da execução do homicídio, o fato beneficia o mandante, pois o crime de homicídio não chegou a ser tentado. Se a desistência for posterior, ambos devem responder por homicídio consumado. Se a desistência acontecer antes do incio do crime, a solução não é simples e coloca em conflito as normas dos artigos 53 e 54 do CPM.

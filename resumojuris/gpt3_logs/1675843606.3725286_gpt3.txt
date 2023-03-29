@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Culpabilidade. Consequencias do crime. Atuacao na condicao de Policial militar. Maior reprovabilidade da conduta. Fundamentacao idonea. DESTAQUE A condicao de policial militar que pratica o crime de extorsao indica maior reprovabilidade e censura da conduta praticada, o que justifica a majoracao da pena base. Cinge-se a controversia a analisar a dosimetria da pena na de condenacao de policial militar pelo crime de extorsao. O fato de ser policial militar justifica a maior reprovabilidade da conduta (culpabilidade) e, por conseguinte, a exasperacao da pena-base, uma vez que o comportamento dele esperado seria exatamente o de evitar a pratica de crimes. A referida caracteristica nao e elementar do crime de extorsao, nao havendo que se falar em bis in idem. O acordao embargado que a exasperacao da pena-base em funcao do desvalor da culpabilidade tinha restado suficientemente justificada, porquanto o recorrente foi condenado pela pratica de crime de extorsao majorada, de forma que, na esteira da jurisprudencia desta Corte Superior, o fato de ser (ele) policial justifica a maior reprovabilidade da conduta (culpabilidade) e, por conseguinte, a majoracao da pena-base, uma vez que o comportamento esperado seria exatamente o de evitar a pratica de crimes. Restou tambem expressamente consignado que, na esteira da jurisprudencia deste Superior Tribunal, e considerando que a condicao de policial a nao e elementar do crime de extorsao, demonstra, na verdade, a maior reprovabilidade e censura de sua conduta praticada, encontrando-se portanto justificadada a majoracao da pena-base em razao do desvalor da culpabilidade, nao havendo que se falar em bis in idem. (Informativo  Ed.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A condição de policial militar que pratica o crime de extorsão indica maior reprovabilidade e censura da conduta praticada, o que justifica a majoração da pena base. 2. O fato de ser policial militar justifica a maior reprovabilidade da conduta (culpabilidade) e, por conseguinte, a exasperação da pena-base. 3. A condição de policial não é elementar do crime de extorsão, demonstrando maior reprovabilidade e censura da conduta praticada, justificando a majoração da pena-base em razão do desvalor da culpabilidade.

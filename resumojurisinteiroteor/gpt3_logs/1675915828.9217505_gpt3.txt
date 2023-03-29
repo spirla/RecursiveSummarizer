@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Recebo o recurso, porque presentes os pressupostos que regem a sua admissibilidade. Como  sabido, os embargos de declarao possuem fundamentao vinculada e, dessa forma, para seu cabimento,  necessria a demonstrao de que a deciso embargada se mostrou ambgua, obscura, contraditria ou omissa, conforme disciplina o art. 542 do Cdigo de Processo Penal Militar. Ademais,  oportuno salientar entendimento pacificado no Superior Tribunal de Justia (STJ), no sentido de que, mesmo para fins de prequestionamento, s sero admissveis os embargos declaratrios se a deciso embargada ostentar algum dos vcios que ensejariam o seu manejo (ambiguidade, omisso, obscuridade ou contradio). [..] 2. Os Embargos de Declarao no merecem prosperar, uma vez que ausentes os vcios listados. Destaque-se que os Aclaratrios constituem recurso de rgidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento. [...] 5. Cumpre salientar que, ao contrrio do que afirma a parte embargante, no h omisso, contradio ou obscuridade no decisum embargado. As alegaes da parte embargante denotam o intuito de rediscutir o mrito do julgado, e no o de solucionar lacunas. 6. Dessa forma, reitera-se que a soluo integral da controvrsia, com fundamento suficiente, no caracteriza ofensa ao CPC e que os Embargos Declaratrios no constituem instrumento adequado  rediscusso da matria de mrito nem ao prequestionamento de dispositivos constitucionais com vistas  interposio de Recurso Extraordinrio. 7. Embargos de Declarao rejeitados. (STJ - EDcl no AgInt nos EAREsp 1315422/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 27/10/2020, DJe 12/11/2020) [...] 1. Ausente contradio, obscuridade, omisso ou ambiguidade, so rejeitados os embargos declaratrios, que no servem  rediscusso do julgado. 2. A mera desconformidade do embargante com a rejeio da tese que entende cabvel no caracteriza omisso, devendo ser atacada pelo meio processual idneo, e no pela via estreita dos embargos de declarao.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os embargos de declarao foram rejeitados, pois ausentes os vcios listados, sendo que a mera desconformidade do embargante com a deciso não caracteriza omisso, devendo ser atacada pelo meio processual adequado.

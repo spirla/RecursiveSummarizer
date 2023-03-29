@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No entanto, os crimes da legislao penal passaram a ser considerados militares quando praticados nas hipteses previstas no artigo 9, II, alneas a a e, do CPM. A jurisprudncia pode evoluir, por ser um direito pblico subjetivo, e entender cabvel a liberdade provisria com fiana nesses crimes impropriamente militares da legislao penal comum, sobretudo, para o civil em razo do princpio da igualdade. Em razo desse ltimo aspecto, passo a analisar o instituto. So inafianveis, segundo o artigo 5 da CF a prtica do racismo (inciso XLII), os crimes hediondos, a prtica da tortura, o trfico ilcito de entorpecentes e drogas afins e o terrorismo (inciso XLIII) e a ao de grupos armador, civis ou militares, contra ordem constitucional e o Estado democrtico (inciso XLIV). A finalidade da fiana  obrigar o afianado a comparecer perante a autoridade, todas as vezes que for intimado para atos do inqurito e da instruo criminal e para o julgamento (artigo 327, primeira parte, CPP). A fiana  a cauo dada em qualquer fase do inqurito ou do processo, enquanto no transitar em julgado a sentena penal condenatria, mediante depsito de dinheiro, pedras, objetos ou metais preciosos, ttulos da dvida pblica, federal, estadual ou municipal, ou em hipoteca inscrita em primeiro lugar (artigo 330, CPP). O dinheiro ou os objetos dados como fiana serviro ao pagamento das custas, da indenizao do dano, da prestao pecuniria e da multa, se o ru for condenado, mesmo no caso da prescrio depois da sentena condenatria (artigo 336, CPP). Absolvido o acusado ou declarada extinta a ao penal, o valor que a constituir, atualizado, ser restitudo sem desconto, salvo o disposto no pargrafo nico do artigo 336. A autoridade policial pode conceder fiana na infrao penal cuja pena privativa de liberdade mxima no seja superior a 4 (quatro) anos. Nos demais casos,  requerida ao juiz (artigo 322 e pargrafo nico do CPP). O CPP disciplina o valor da fiana.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A fiana uma cauo dada em qualquer fase do inqurito ou do processo, mediante depsito de dinheiro, pedras, objetos ou metais preciosos, ttulos da dvida pblica, federal, estadual ou municipal, ou em hipoteca inscrita em primeiro lugar. A autoridade policial pode conceder fiana nos crimes cuja pena privativa de liberdade mxima no seja superior a 4 anos. Nos demais casos, requerida ao juiz. O valor da fiana disciplinado pelo CPP.

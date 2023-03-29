@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Releva notar que o sistema de direitos individuais dos EUA deriva da cultura jurdico-poltica inglesa, porque os fundadores daquele pas procederam da Inglaterra e que muitas das colnias surgiram como concesses da Coroa inglesa, de maneira que trasladaram para elas os princpios do direito ingls. Assim, o habeas corpus transplantado para o direito norte-americano ganha amplitude considervel, no mais restrito a garantir a liberdade de locomoo, admitido como remdio contra toda violncia ou constrangimento  liberdade. A Constituio do Imprio (1824) refletiu as ideias liberais dos europeus e dos norte-americanos, mas no introduziu o habeas corpus entre ns, porque foi concebida segundo o modelo constitucional europeu continental, obedeceu  tradio francesa de organizar as garantias contra prises ilegais fora da Constituio. Produto da situao liberal de 1831, o habeas corpus fincou suas razes no direito brasileiro no art. 340 do Cdigo do Processo Criminal de 1832 5 e visava a garantir a liberdade de locomoo e evitar as prises injustas. 6 O habeas corpus adquiriu status constitucional na Constituio da Repblica de 1891. 7 A Carta de 1937 8 limitou o alcance do instituto de forma explcita  proteo da liberdade de locomoo. Na Constituio de 1946, houve a retomada democrtica com extensa e minuciosa declarao de direitos individuais. Previsto no art. 153,  20, da Constituio de 1967 e no art. 153,  20 da EC 1 de 1969, o habeas corpus sofreu restrio com a edio do AI-5, em 13.12.68, que determinou a sua suspenso nos crimes polticos, contra a segurana nacional, a ordem econmica e social e a economia popular. Travou-se entre Ruy Barbosa e Pedro Lessa polmica sobre a abrangncia e o significado da expresso liberdade individual , contida no art. 72,  22, da Constituio de 1891, que em pas algum jamais houve, e ficou conhecida por teoria brasileira do habeas corpus .
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema de direitos individuais dos EUA deriva da cultura jurdico-poltica inglesa, e o habeas corpus foi transplantado para o direito norte-americano. Na Constituição do Império (1824) não foi introduzido o habeas corpus, mas foi previsto no Código do Processo Criminal de 1832. Na Constituição da República de 1891, o habeas corpus adquiriu status constitucional. Na Constituição de 1946, houve a retomada democrática com extensa e minuciosa declaração de direitos individuais. O AI-5, em 1968, restringiu o alcance do instituto. Ruy Barbosa e Pedro Lessa discutiram sobre a abrangência e o significado da expressão liberdade individual.

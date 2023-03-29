@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+As nuances do caso concreto nao indicam que a investigacao e demasiadamente complexa: apura-se o alegado desvio de valores supostamente recebidos pelo paciente, na qualidade de advogado da vitima (pessoa idosa, analfabeta e economicamente hipossuficiente); ha apenas um investigado; foi ouvida somente uma testemunha e determinada a quebra do sigilo bancario de duas pessoas; e com diligencias ja cumpridas. Outrossim, a investigacao ficou paralisada por cerca de 4 (quatro) anos e a autoridade policial, posteriormente, apresentou relatorio que concluiu pela inexistencia de prova da materialidade e de indicios suficientes de autoria. No entanto, a pedido do Ministerio Publico, a investigacao prosseguiu. Mostra-se inadmissivel que, no panorama atual, em que o ordenamento juridico patrio e norteado pela razoavel duracao do processo (no ambito judicial e administrativo) - clausula petrea instituida expressamente na CF/88 pela Emenda Constitucional n. 45/2004 -, um cidadao seja indefinidamente investigado, transmutando a investigacao do fato para a investigacao da pessoa. O fato de o paciente nao ter sido indiciado ou sofrer os efeitos de qualquer medida restritiva, por si so, nao indica ausencia de constrangimento, considerando que a simples existencia da investigacao, que no caso esta relacionada ao exercicio profissional do paciente, ja e, como disse o Ministro Antonio Saldanha Palheiro por ocasiao do julgamento do RHC 135.299/CE, uma estigmatizacao decorrente da condicao de suspeito de pratica delitiva. O constrangimento e patente. (Informativo n. 747) 1259 PROCESSO HC 664.537-RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 16/08/2022, DJe 19/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Reconhecimento fotografico. Distancia temporal dos fatos. Inexistencia de outras provas alem do depoimento da vitima.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O ordenamento jurídico brasileiro é norteado pela razoável duração do processo, cláusula petrea instituída expressamente na Constituição Federal de 1988 pela Emenda Constitucional n. 45/2004. 2. É inadmissível que um cidadão seja indefinidamente investigado, transformando a investigação do fato para a investigação da pessoa. 3. O fato de o paciente não ter sido indiciado ou sofrer os efeitos de qualquer medida restritiva, por si só, não indica ausência de constrangimento. 4. A simples existência da investigação, que no caso está relacionada ao exercício profissional do paciente, já é uma estigmatização decorrente da condição de suspeito de prática delitiva.

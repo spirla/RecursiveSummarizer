@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Tal instituto nao tem natureza juridica de recurso, razao pela qual nao propicia a devolucao do conhecimento da materia para eventual reforma. Sua analise deve restringir-se a verificacao de possivel lesao a ordem, a saude, a seguranca ou a economia publicas, nos termos da legislacao de regencia, sem adentrar no merito da causa principal, de competencia das instancias ordinarias, nao bastando a mera e unilateral declaracao de que a decisao liminar recorrida levara a infringencia dos valores sociais protegidos pela medida de contracautela. 133 No caso, a irresignacao apresentada no pedido de contracautela nao possui relacao com os termos da concessao para prestacao do servico publico de educacao e, sim, irresignacao relacionada a questao pontual vinculada a emissao de diploma. A argumentacao usada para dar concretude ao uso do instrumento da suspensao de seguranca apenas ataca de forma indireta e tangencial a questao do ensino e da saude publica. Nesse quadro, conclui-se pela inexistencia de interesse publico na discussao veiculada na lide, cuidando-se apenas de questao relacionada a interesse privado da instituicao de ensino requerente. Portanto, no estreito e excepcional instituto de suspensao de seguranca, e inviavel o exame do acerto ou do desacerto da decisao cujos efeitos busca-se suspender, sob pena de transformacao do pedido de suspensao em sucedaneo recursal e de indevida analise de argumentos juridicos que atacam especificamente os fundamentos da decisao recorrida. (Informativo n. 757) PROCESSO AgInt na SLS 2.779-RJ, Rel. Min. Humberto Martins, Rel. Acd. Min. Joao Otavio de Noronha, Corte Especial, por maioria, julgado em 01/06/2022, DJe 16/08/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O instituto da suspensão de segurança não tem natureza jurídica de recurso, não propiciando a devolução do conhecimento da matéria para eventual reforma. 2. A análise deve restringir-se à verificação de possível lesão à ordem, à saúde, à segurança ou à economia públicas, nos termos da legislação de regência, sem adentrar no mérito da causa principal. 3. A irresignação apresentada no pedido de contracautela não possui relação com os termos da concessão para prestação do serviço público de educação. 4. É inviável o exame do acerto ou do desacerto da decisão cujos efeitos se busca suspender, sob pena de transformação do pedido de suspensão em sucedâneo recursal.

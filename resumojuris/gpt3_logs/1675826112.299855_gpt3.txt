@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+16 da LACP com os principios da igualdade e da eficiencia na prestacao jurisdicional. A definicao do juizo competente para o processamento de acoes civis publicas cuja sentenca tenha projecao regional ou nacional deve observar o disposto no art. 93, II, do CDC. Com a declaracao de inconstitucionalidade da atual redacao do art. 16 da LACP, deve-se impedir a escolha de juizos aleatorios para o processo e julgamento de acoes que versem sobre esses direitos difusos e coletivos. Desse modo, em se tratando de acao civil publica com abrangencia nacional ou regional, sua propositura deve ocorrer no foro, ou na circunscricao judiciaria, de capital de estado ou no Distrito Federal. Em se tratando de alcance geograficamente superior a um estado, a opcao por capital de estado evidentemente deve contemplar uma que esteja situada na regiao atingida. O juiz competente, nos termos do art. 2 da LACP e do art. 93 do CDC, que primeiro conhecer da materia ficara prevento para processar e julgar todas as demandas que proponham o mesmo objeto. A aplicacao dessas normas torna possivel definir qual o juiz competente, inclusive para acoes cuja decisao tenha efeitos regionais ou nacionais. E, uma vez fixada essa competencia, o primeiro que conhecer da materia, entre os competentes, ficara prevento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A definição do juízo competente para o processamento de ações civis públicas cuja sentença tenha projeção regional ou nacional deve observar o disposto no art. 93, II, do Código de Defesa do Consumidor. 2. Com a declaração de inconstitucionalidade da atual redação do art. 16 da Lei nº 7.347/85, deve-se impedir a escolha de juízos aleatórios para o processo e julgamento de ações que versem sobre direitos difusos e coletivos. 3. Em se tratando de ação civil pública com abrangência nacional ou regional, sua propositura deve ocorrer no foro, ou na circunscrição judiciária, de capital de estado ou no Distrito Federal. 4. O juiz competente, nos termos do art. 2 da Lei nº 7.347/85 e do art. 93 do Código de Defesa do Consumidor, que primeiro conhecer da matéria ficará prevento para processar e julgar todas as demandas que proponham o mesmo objeto.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Por consequncia, na eventualidade de haver algum tipo de quebra da cadeia de custdia das provas - break on the chain of custody -, quer se trate de meio ou de fonte de prova, h de se reconhecer a inadmissibilidade dessa evidncia como prova, assim como das demais provas delas decorrentes (CPP, art. 157, 1). Com efeito, se houve a quebra da cadeia de custdia das provas, pouco importando se causada de boa ou m-f, surge inevitvel dvida quanto ao grau de fiabilidade das evidncias colhidas pelos rgos persecutrios, dvida esta que h de ser interpretada em favor do acusado  luz da regra probatria do in dubio pro reo, da por que tal evidncia deve ser excluda dos autos.  exatamente nesse sentido a lio de Geraldo Prado. Segundo o autor, a constatao em um processo concreto de que houve supresso de elementos informativos colhidos nestas circunstncias fundamenta a suspeio sobre a infidelidade de registros remanescentes e reala a ineficcia probatria resultante da quebra da cadeia de custdia. (Manual de Processo Penal: volume nico - 8. ed. rev., ampl. e atual. - Salvador: Ed. JusPodium, 2020, p. 718; 720) Como visto, os fatos ocorreram no dia 8 de outubro de 2008, mas a apreenso das roupas da vtima apenas ocorreu em 20 de julho de 2009 (Evento 6 - PEAS DIGITALIZADAS5 - p. 39 - Processo Originrio), ou seja, mais de nove meses depois do crime, encontrando-se, durante todo esse perodo, em poder da genitora do ofendido. Como a prova permaneceu na residncia da vtima por mais de nove meses, compreendo que no h como garantir a autenticidade dos vestgios encontrados na roupa periciada, nem como afirmar que eles no tenham sofrido qualquer tipo de adulterao. Se nas roupas usadas pelo ofendido havia vestgios da prtica do delito de tortura (marca de bota na blusa, urina e sujidades na bermuda), como pretende provar a acusao, as vestes deveriam ter sido entregues/apreendidas no dia dos fatos, a fim de se preservar a cadeia de custdia da prova, com a garantia de que no haveria adulterao e de que as evidncias coletadas no dia do delito seriam as mesmas analisadas pelo magistrado. Como no h a possibilidade de se rastrear o caminho percorrido pela prova, julgo que esta perdeu a sua confiabilidade, uma vez que pairam dvidas sobre a origem dos vestgios encontrados nas roupas, no tendo sido assegurada a autenticidade e a integridade da fonte de prova, razo pela qual compreendo que se encontra extremamente enfraquecido o seu valor probatrio. Nesse sentido, h precedente no Superior Tribunal de Justia: HABEAS CORPUS. TRFICO DE DROGAS E ASSOCIAO PARA O NARCOTRFICO. QUEBRA DA CADEIA DE CUSTDIA DA PROVA. AUSNCIA DE LACRE. FRAGILIDADE DO MATERIAL PROBATRIO RESIDUAL. ABSOLVIO QUE SE MOSTRA DEVIDA. ASSOCIAO PARA O NARCOTRFICO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A quebra da cadeia de custdia das provas, seja de meio ou de fonte, leva à inadmissibilidade dessa evidência como prova, bem como das demais provas decorrentes. Se houve a quebra da cadeia de custdia, surge uma dúvida quanto ao grau de fiabilidade das evidências colhidas pelos órgãos persecutórios, devendo ser interpretada em favor do acusado. Nesse caso, como houve supressão de elementos informativos e ausência de lacres, o material probatório residual se mostra frágil, sendo devida a absolvição.

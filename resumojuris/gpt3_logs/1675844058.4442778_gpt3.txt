@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao. Trata-se de um jornalista que criticou, em reportagem assinada, um servidor publico federal, chefe do Ministerio Publico, por atos que praticou (e que, no entender do reporter, nao deveria ter praticado) e atos que nao praticou (e que, novamente no seu entender, deveria ter praticado). 791 Foram pesadas, violentas e ate mesmo grosseiras, sim, mas caso se admita que um servidor publico de alto escalacao nao possa ter sua atuacao funcional criticada, mesmo da forma que foi no caso concreto, sera o mesmo que manter sobre o jornalismo uma ameaca constante de punicao, de natureza penal, caso as criticas eventualmente tecidas sejam inconvenientes, satiricas, inoportunas ao olhar do criticado. Como disse o Ministro Alexandre de Moraes quando do julgamento da ADI 4.451: Tanto a liberdade de expressao quanto a participacao politica em uma democracia representativa somente se fortalecem em um ambiente de total visibilidade e possibilidade de exposicao critica das mais variadas opinioes sobre os governantes. O direito fundamental a liberdade de expressao nao se direciona somente a proteger as opinioes supostamente verdadeiras, admiraveis ou convencionais, mas tambem aquelas que sao duvidosas, exageradas, condenaveis, satiricas, humoristicas, bem como as nao compartilhadas pela maioria. E, ainda, diante das afirmativas do querelante de que os fatos descritos na reportagem e a ele imputados pelo paciente/agravante nao sao verdadeiros e, portanto, constituem tambem calunia, que, como disse o Ministro Ribeiro Dantas no precedente mais acima citado, os veiculos de comunicacao tem o dever de apurar, com boa-fe e dentro de criterios de razoabilidade, a correcao do fato ao qual darao publicidade. E bem de ver, no entanto, que nao se trata de uma verdade objetiva, mas subjetiva, subordinada a um juizo de plausibilidade e ao ponto de observacao de quem a divulga.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É permitido criticar a atuação funcional de servidores públicos de alto escalão, mesmo que de forma inconveniente, satírica ou inoportuna. 2. A liberdade de expressão e a participação política em uma democracia representativa só se fortalecem em um ambiente de total visibilidade e possibilidade de exposição crítica das mais variadas opiniões sobre os governantes. 3. O direito fundamental à liberdade de expressão não se direciona somente à proteção das opiniões supostamente verdadeiras, admiráveis ou convencionais, mas também aquelas que são duvidosas, exageradas, condenáveis, satíricas, humorísticas ou não compartilhadas pela maioria. 4. Os veículos de comunicação têm o dever de apurar, com boa-fé e dentro de critérios de razoabilidade, a correção do fato ao qual darão publicidade.

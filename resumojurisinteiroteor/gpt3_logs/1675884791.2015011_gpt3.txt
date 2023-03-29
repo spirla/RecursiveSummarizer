@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+942 DO CPC/15. APELAO DESPROVIDA. 1. Diante do resultado no unnime, o julgamento teve prosseguimento conforme o disposto no art. 942 do CPC/15. 2. Mantida a sentena de procedncia do pedido em relao ao coautor Ivanilton Morais Mota, por ter sido ele punido administrativamente sem sequer ter sido indiciado em sindicncia. 3. A deciso administrativa contrria s provas constantes de processo administrativo  ilegal e, portanto, deve ser anulada judicialmente. 4. A apreciao destas provas pela autoridade administrativa, no entanto, se insere no mrito administrativo, de sorte que no  cabvel a mera reapreciao judicial das provas valoradas administrativamente. 5. No caso concreto, contudo, tem-se que a deciso administrativa se afigura contrria s provas dos autos. 6. O caso dos autos se encontra em algum lugar entre a tnue linha que divide a liberdade de manifestao do pensamento - e a liberdade de atuao sindical, que lhe  conexa - e os deveres de urbanidade e de impessoalidade que devem ser observados pelos servidores pblicos - tanto os chefes quanto os seus subordinados. 7. O que houve foi uma manifestao de descontentamento de alguns servidores com a atuao do Diretor da Penitenciria, que entendem ter privilegiado alguns colegas e prejudicado outros, mormente por meio de avaliaes funcionais que, no entender de alguns servidores, serviram como mera forma de retaliao do Diretor contra parte deles. 8. Embora essa possvel perseguio pretrita no tenha sido objeto direto da sindicncia ora em anlise, se de fato ela aconteceu, isso refora a tese dos autores, porque torna muito mais crvel que tambm essa sindicncia tenha servido de mero instrumento de vingana do dirigente contra seus desafetos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Apelao desprovida. Sentena de procedncia do pedido mantida em relao ao coautor punido administrativamente sem indiciamento. Deciso administrativa contrria s provas constantes de processo administrativo ilegal, anulvel judicialmente, mas sem reapreciao judicial das provas. Possvel perseguio pretrita refora tese dos autores de que sindicncia serviu de mero instrumento de vingana.

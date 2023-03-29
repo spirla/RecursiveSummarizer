@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+167 da Constituicao do Estado do Para; e modulou os efeitos da declaracao de inconstitucionalidade (Lei 9.868/1999, art. 27), para dar efeitos prospectivos a decisao, de modo que somente produza seus efeitos a partir de seis meses da data de encerramento do julgamento desta acao, tempo habil para que a Justica do Para adote as medidas necessarias ao cumprimento da decisao, nos termos do voto do relator. O ministro Gilmar Mendes acompanhou o relator com ressalvas. ADI 3433/PA, relator Min. Dias Toffoli, julgamento virtual finalizado em 1.10.2021 (sexta-feira), as 23:59 (INF 1032) Concessao de descontos em farmacias e competencia legislativa concorrente - ADI 2435/RJ ODS 3 Resumo: E formalmente inconstitucional lei estadual que concede descontos aos idosos para aquisicao de medicamentos em farmacias localizadas no respectivo estado. Ao determinar a concessao de desconto de ate 30% nas medicacoes destinadas aos idosos com idade superior a 60 (sessenta) anos, a legislacao estadual viola a regulacao do setor estabelecida pelas Leis federais 10.213/2001 e 10.742/2003 e pelas medidas provisorias que as antecederam, pois altera a linha condutora do equilibrio do mercado farmaceutico tracado pela politica publica de precos e acesso a medicacoes desenhada pela Uniao. A lei estadual, portanto, extrapola a sua competencia supletiva e invade a competencia da Uniao para legislar sobre normas gerais de protecao e defesa da saude, direito economico e protecao do consumidor (art. 24, XII, da CF/88). Com esse entendimento, o Plenario, por maioria, declarou a inconstitucionalidade formal da Lei 3.542/2001 do estado do Rio de Janeiro. ADI 2435/RJ, relator. Min. Carmen Lucia, redator do acordao Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente inconstitucional lei estadual que concede descontos aos idosos para aquisição de medicamentos em farmácias localizadas no respectivo estado. 2. Ao determinar a concessão de desconto de até 30% nas medicações destinadas aos idosos com idade superior a 60 (sessenta) anos, a legislação estadual viola a regulação do setor estabelecida pelas Leis federais 10.213/2001 e 10.742/2003 e pelas medidas provisorias que as antecederam. 3. A lei estadual extrapola a sua competência supletiva e invade a competência da União para legislar sobre normas gerais de proteção e defesa da saúde, direito econômico e proteção do consumidor (art. 24, XII, da CF/88). 4. O Plenário, por maioria, declarou a inconstitucionalidade formal da Lei 3.542/2001 do estado do Rio de Janeiro.

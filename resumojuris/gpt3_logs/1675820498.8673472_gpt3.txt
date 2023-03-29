@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+50 da Lei 11.445/2007, a qual determina os requisitos de conformidade regulatoria esperados dos municipios, do Distrito Federal e dos estados, para que facam jus as transferencias voluntarias, onerosas e nao onerosas, provenientes da Uniao. Trata-se de mecanismo de compliance e o condicionamento da destinacao de recursos federais via transferencias voluntarias pode ocorrer, inclusive, por pactuacao contratual, sendo desnecessaria a existencia de lei disciplinadora das condicoes para a percepcao das dotacoes. Ademais, a exclusao do contrato de programa para a execucao dos servicos publicos de saneamento basico a partir da promulgacao da Lei 14.026/2020, representa uma afetacao proporcional a autonomia negocial dos municipios, em prol da realizacao de objetivos setoriais igualmente legitimos. Essa proibicao ocorre no mesmo ritmo da opcao legislativa pela delegacao sob o modelo de concessao, que, alem de proteger a seguranca juridica com a continuidade dos servicos, estipula metas quanto a populacao atendida pela distribuicao de agua (99% da populacao) e pelo esgotamento sanitario (90% da populacao), visa a fomentar a concorrencia para os mercados e a aumentar a eficiencia na prestacao dos servicos. Com base nesse entendimento, o Plenario, por maioria, em analise conjunta, julgou improcedentes os pedidos formulados em acoes diretas de inconstitucionalidade. Vencidos, parcialmente, os ministros Edson Fachin, Rosa Weber e Ricardo Lewandowski. ADI 6.492/DF, relator Min. Luiz Fux, julgamento em 2.12.2021 (INF 1040) ADI 6.536/DF, relator Min. Luiz Fux, julgamento em 2.12.2021 (INF 1040) ADI 6.583/DF, relator Min. Luiz Fux, julgamento em 2.12.2021 (INF 1040) ADI 6.882/DF, relator Min. Luiz Fux, julgamento em 2.12.2021 (INF 1040)  3.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O condicionamento da destinação de recursos federais via transferências voluntárias pode ocorrer por pactuação contratual, sendo desnecessária a existência de lei disciplinadora das condições para a percepção das dotações. 2. A exclusão do contrato de programa para a execução dos serviços públicos de saneamento básico a partir da promulgação da Lei 14.026/2020 representa uma afetação proporcional à autonomia negocial dos municípios, em prol da realização de objetivos setoriais igualmente legítimos. 3. A opção legislativa pela delegação sob o modelo de concessão visa à proteção da segurança jurídica com a continuidade dos serviços, à estipulação de metas quanto à população atendida pela distribuição de água e pelo esgotamento sanitário, ao fomento da concorrência para os mercados e ao aumento da eficiência na prestação dos serviços.

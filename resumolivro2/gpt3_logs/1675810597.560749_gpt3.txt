@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Rejeio da denncia. Compete, singularmente, ao juiz federal da JMU e ao juiz de direito da JME rejeitar a denncia se no estiverem atendidos os requisitos estabelecidos nas alneas a, b, c e d do artigo 78 do CPPM. Diz a alnea a que a denncia no ser recebida se no contiver os requisitos expressos no artigo anterior, ou seja, os requisitos do artigo 77 do CPPM tratados no item 7.5.1. Entretanto, no caso da alnea a a rejeio no  liminar, pois o artigo 78, pargrafo 1, determina que o juiz antes de rejeitar a denncia, mandar, em despacho fundamentado, remeter o processo ao rgo do Ministrio Pblico para que, dentro do prazo de trs dias, contados da data do recebimento dos autos, sejam preenchidos os requisitos que no o tenham sido. As hipteses das alneas b, c e d do artigo 78 do CPPM so de rejeio liminar. A denncia no  recebida pelo juiz se o fato narrado no constituir evidentemente crime da competncia da Justia Militar (alnea b). O advrbio evidentemente designa manifestamente, sem dvida, de maneira bvia. O juiz declara, em despacho fundamentado, a incompetncia da justia castrense e determina a remessa do processo ao juiz competente. Estabelece o CPPM na alnea c do artigo 78 que a denncia no ser recebida se j estiver extinta a punibilidade. A punibilidade  a possvel consequncia jurdica do crime. No artigo 123 do Cdigo Penal Militar situam-se as causas de extino da punibilidade:
+I - pela morte do agente;
+II - pela anistia ou indulto;
+III - pela retroatividade de lei que no mais considera o fato como criminoso;
+IV - pela prescrio;
+V - pela reabilitao;
+VI - pelo ressarcimento do dano, no peculato culposo (artigo 303, pargrafo 4.). A extino da punibilidade pela morte do agente est em perfeita consonncia com o princpio da pessoalidade da pena inserto no artigo 5., XLV, da CF, de que nenhuma pena passar da pessoa do condenado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz federal da JMU e o juiz de direito da JME têm o dever de rejeitar a denúncia se não estiverem atendidos os requisitos estabelecidos nas alíneas a, b, c e d do artigo 78 do CPPM. A alínea a prevê a rejeição não liminar, pois o juiz deve mandar remeter o processo ao Ministério Público para preenchimento dos requisitos. Já as alíneas b, c e d são de rejeição liminar, sendo a alínea b a incompetência da Justiça Militar, a alínea c a extinção da punibilidade e a alínea d a morte do agente.

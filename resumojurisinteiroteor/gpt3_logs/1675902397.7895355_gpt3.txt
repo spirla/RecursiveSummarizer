@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ao tomar cincia do v. acrdo (evento 20) em 30/11/2021, e constatando, de imediato, que o voto vencedor foi obscuro a respeito do ponto exato da arguio de intempestividade pela Procuradora de Justia, visando esclarec-lo, optou-se por fazer uso, no prazo de 5 (cinco) dias, portanto, tempestivamente, da medida processual constante dos artigos 538 e 542 c/c o artigo 547, todos do Cdigo de Processo Penal Militar. No parecer do evento 6 (autos de 2a instncia), a Procuradora de Justia arguiu a intempestividade da apelao da defesa porque esta tomou cincia da sentena no dia 30/04/2021 - sexta-feira, quando se realizou a audincia de leitura da sentena (evento 39 - ATA1), porm o apelo somente foi juntado aos autos eletrnicos em 10/05/2021 (evento 50 - 2a instncia). Alega que o dia 30/04/2021 caiu em uma sexta-feira e que, assim, o prazo de 5 (cinco) dias para interposio do recurso, previsto no artigo 529 do CPPM, se iniciou em 03/05/2021 - segunda-feira - e finalizou em 07/05/2021 - sexta-feira, no restando dvida acerca da extemporaneidade da apelao. Por ocasio do parecer ministerial no evento 6 (2a instncia), foi consignado que, no caso concreto, apenas o Ministrio Pblico de 1 grau ops embargos de declarao e a matria recursal da defesa versava exclusivamente sobre o teor da sentena, o que significa que os embargos declaratrios da acusao se mostravam imprestveis para fins de interrupo do prazo recursal defensivo. Diz que, ao ser apreciada esta preliminar de intempestividade do apelo, o voto condutor do acrdo mencionou apenas as datas de abertura de vista para apresentao das razes e da efetiva apresentao das razes, quais sejam, 07/06/2021 e 06/07/2021, que no foram objeto de questionamento por parte da Procuradoria, at porque a tempestividade ou no de um recurso se verifica pela efetiva data de interposio do apelo. Alega, ento, que, no presente feito, os apelantes no opuseram embargos de declarao, mas interpuseram o recurso de apelao em 10/05/2021 (evento 50), apesar de o prazo recursal defensivo ter-se expirado em 07/05/2021. Portanto, esse  o ponto exato da arguio da Procuradora de Justia, que, data vnia, ficou sem uma efetiva resposta no voto ora embargado, j que nele foi abordada a matria de tempestividade das razes recursais, inclusive com citao na ementa, e no da tempestividade do apelo propriamente dita. Assim, requer a eminente Procuradora de Justia que seja suprida a obscuridade ora apontada, com a apreciao da tempestividade do recurso ento interposto pela defesa na data de 10/05/2021, embora ela tenha tomado cincia da deciso recorrida em 30/04/2021.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Procuradora de Justia arguiu a intempestividade da apelao da defesa, pois esta tomou cincia da sentena em 30/04/2021, mas o apelo foi juntado aos autos eletrnicos em 10/05/2021. O voto vencedor foi obscuro a respeito do ponto exato da arguio, sendo requerido que seja suprida a obscuridade com a apreciao da tempestividade do recurso interposto pela defesa na data de 10/05/2021.

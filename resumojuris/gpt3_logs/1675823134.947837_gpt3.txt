@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A temporariedade da patente permite a harmonizacao da protecao a inventividade com o cumprimento da funcao social da propriedade, pois, apesar de resguardar os direitos dos autores de inventos ou modelos de utilidade por um periodo determinado, incentivando e remunerando os investimentos em inovacao, garante, ao restante da industria e a sociedade, a possibilidade de se apropriar dos beneficios proporcionados pelos produtos da criatividade, a partir da extincao dos privilegios de sua exploracao. Se por um lado a CF concede o privilegio da protecao a propriedade industrial, por outro, garante que, a partir de determinado prazo, os demais agentes da industria venham a se igualar ao titular da patente na possibilidade de exploracao do objeto protegido, liberando-o a logica concorrencial do mercado. O prolongamento arbitrario do privilegio vem em prejuizo do mercado como um todo, pois proporciona justamente o que a Constituicao buscou reprimir, ou seja, a dominacao dos mercados, a eliminacao da concorrencia e o aumento arbitrario dos lucros, aprofundando a desigualdade entre os agentes economicos e transformando o que era justificavel e razoavel em inconstitucional. Alem disso, a falta de justa limitacao temporal das patentes evidencia contrariedade a livre concorrencia e a defesa do consumidor, pois o adiamento da entrada da concorrencia no mercado possui serios impactos sobre os precos dos produtos e, consequentemente, sobre o acesso dos consumidores a tais produtos. De fato, a CF, ao promover uma ordem economica em que haja competicao entre os agentes do mercado de forma igualitaria, busca garantir, tambem, a liberdade de escolha dos consumidores, cujo exercicio depende da multiplicidade de opcoes. Observa-se, ademais, que a prorrogacao do prazo de vigencia da patente prevista no paragrafo unico do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A temporariedade da patente permite a harmonização da proteção à inventividade com o cumprimento da função social da propriedade. 2. A Constituição Federal concede o privilégio da proteção à propriedade industrial, garantindo, a partir de determinado prazo, a igualdade dos demais agentes da indústria na possibilidade de exploração do objeto protegido. 3. O prolongamento arbitrário do privilégio vem em prejuízo do mercado como um todo, pois proporciona o que a Constituição buscou reprimir. 4. A falta de justa limitação temporal das patentes evidencia contrariedade à livre concorrência e à defesa do consumidor. 5. A Constituição Federal, ao promover uma ordem econômica em que haja competição entre os agentes do mercado de forma igualitária, busca garantir a liberdade de escolha dos consumidores.

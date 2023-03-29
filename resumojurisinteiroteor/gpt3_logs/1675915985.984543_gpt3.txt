@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O processo foi distribudo a este relator, que, nos termos da deciso constante no "evento 6, indeferiu o pedido liminar. A autoridade apontada como coatora prestou informaes (evento 9). A i. procuradora de justia Dra. Elba Rondino, aps apresentar uma sntese do desenvolvimento do processo, sustenta que o habeas corpus no pode ser empregado como substitutivo do recurso cabvel. Assevera que o paciente, no caso concreto, argui a incompetncia do juzo militar e agiu, num primeiro momento, utilizando-se do instrumento processual adequado, qual seja, a exceo de incompetncia prevista no art. 143 do Cdigo de Processo Penal Militar (CPPM). Todavia, rejeitada a exceo, inexiste notcia nestes autos de pretenso recursal por parte do excipiente, nos moldes do que prev o art. 145 do CPPM. No que concerne  questo da competncia, sustenta ser matria que no pode ser enfrentada pela via estreita do habeas corpus, alm de a matria encontrar-se bem delineada na pea exordial acusatria. Pugna, ento, pelo no conhecimento do habeas corpus (Evento 14).  o relatrio. VOTOS DESEMBARGADOR FERNANDO ARMANDO RIBEIRO, RELATOR Trata-se de habeas corpus impetrado em favor do Cb PM Fabrcio Francisco Mafra, em que se pretende que seja declarada a incompetncia desta Justia especializada para apreciar e julgar a matria tratada nos autos do processo n. 2000313-28.2022.9.13.0000. O habeas corpus  o instrumento processual previsto na Constituio Federal (art. 5, LXVIII) que tem por finalidade coibir eventual ilegalidade ou abuso de poder que ameace o direito de locomoo de alguma pessoa. No Cdigo de Processo Penal Militar (CPPM), o instrumento jurdico que tutela a liberdade de locomoo est previsto no artigo 466. O dispositivo legal em questo dispe que ser concedida a ordem de habeas corpus sempre que algum sofrer ou se achar ameaado de sofrer violncia ou coao em sua liberdade de locomoo, por ilegalidade ou abuso de poder. As alneas "a e i do artigo 467 do CPPM dispem que haver ilegalidade ou abuso de poder quando o cerceamento da liberdade for ordenado por quem no tiver competncia para tal ou quando o processo estiver evidentemente nulo. Desta feita, em sentido contrrio  manifestao da i. procuradora de justia, entendo ser cabvel a apreciao do pleito de nulidade do processo, em razo da alegada incompetncia desta Justia especializada para o processamento e julgamento do feito. Na hiptese dos autos, todavia, no h que se falar em ilegalidade em razo da incompetncia, tampouco, em nulidade manifesta, a ser reconhecida pela via estreita do habeas corpus.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O habeas corpus impetrado em favor do Cb PM Fabrcio Francisco Mafra foi indeferido, pois a alegada incompetncia da Justia especializada para o processamento e julgamento do feito não configura ilegalidade ou nulidade manifesta a ser reconhecida pela via estreita do habeas corpus.

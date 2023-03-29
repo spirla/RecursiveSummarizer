@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Cdigo exige que o perdo seja aceito pelo querelado, para que ocorra a extino da responsabilidade, em ateno ao fato de que o processo penal, em si, representa um constrangimento, e o acusado pode preferir manter-se na instncia em busca de um decreto judicial absolutrio. Ao contrrio do perdo judicial, o perdo do ofendido, como ato bilateral, para que possa produzir seus efeitos, necessita ser aceito. Uma vez aceito, dever o juiz, nos termos do artigo 107, V, segunda parte, do Cdigo Penal, declarar extinta a responsabilidade. Caso a manifestao de perdo venha a ser recusada, o processo dever prosseguir em seu curso normal. O perdo do ofendido somente  admissvel enquanto no houver o trnsito em julgado da sentena, conforme dispe o pargrafo 2 do artigo 106 do Cdigo Penal. Assim, mesmo existindo uma deciso condenatria, se no houver o trnsito em julgado dessa deciso, tornar-se- perfeitamente possvel o perdo do ofendido. Diz o artigo 106 do Cdigo Penal que:
+Art. 106. O perdo [judicial], no processo ou fora dele, expresso ou tcito:
+- se concedido a qualquer dos querelados, a todos aproveita;
+- se concedido por um dos ofendidos, no prejudica o direito dos outros;
+- se o querelado o recusa, no produz efeito. No primeiro dos incisos do artigo 106, o Cdigo Penal estabelece quais so os efeitos do perdo em relao aos corrus. O dispositivo legal impe que, se o perdo for concedido a qualquer dos querelados, todos os demais devero ser beneficiados. A regra decorre do princpio da indivisibilidade da ao penal e visa a evitar que o acusador particular possa escolher contra qual dos autores do crime seja dirigida a represso estatal.  semelhana do que ocorre com a renncia ao direito de queixa, o princpio da indivisibilidade agora impe que o querelante perdoe todos os querelados ou no perdoe nenhum. No inciso II, o dispositivo determina que, se o perdo for concedido por um dos ofendidos, no prejudicar o direito dos outros. A regra tem aplicao quando se tratar de vrios ofendidos e apenas um ou parte deles perdoar o ofensor. O fato de um dos ofendidos perdoar o ofensor no impede que os demais ofendidos prossigam na ao penal. Se a ofensa for individualizada, o perdo impede o julgamento do fato relativo  pessoa que perdoa, isto , do mrito da acusao por ele deduzida em juzo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Cdigo Penal exige que o perdo seja aceito pelo querelado para que a responsabilidade seja extinta. O perdo judicial produz efeitos sobre todos os querelados, enquanto o perdo do ofendido somente é admissível enquanto não houver o trânsito em julgado da sentença. Se o perdo for concedido por um dos ofendidos, não prejudicará o direito dos outros.

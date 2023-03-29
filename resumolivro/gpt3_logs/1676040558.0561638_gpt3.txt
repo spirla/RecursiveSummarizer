@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se o erro da enfermeira era invencvel, no haver a culpa stricto sensu que autorize a tipificao por crime culposo e ela dever ser considerada mero instrumento da vontade dolosa do mdico. O mdico deve ser responsabilizado como autor mediato do crime, j que conscientemente enganou a enfermeira e, dominando-lhe a vontade, produziu o resultado lesivo. No haver autoria mediata, no entanto, se o mdico tambm estivesse em erro invencvel sobre a inadequao do medicamento. A impossibilidade de vencer o erro significa a inexistncia de cuidado que possa evitar a leso ao bem jurdico e, portanto, ausncia de culpa. Se a inadequao do medicamento for previsvel, seja pelo mdico, seja enfermeira, haver culpa e, no caso, responsabilidade por crime culposo. Tambm  possvel que se observe uma autoria mediata, por instrumento em erro, quando da indefinio do instrumento. Isto acontece nas situaes em que o autor mediato utiliza-se, para a realizao do crime, de um mecanismo acionvel por qualquer agente-instrumento. Veja-se o exemplo das minas explosivas, as quais, quando escondidas sob o solo, podem ser acionadas pelo peso de qualquer indivduo. No caso, para aquele que, sem querer, aciona a mina, tem-se erro de tipo invencvel. Igual raciocnio se apresenta para o erro inevitvel acerca da ilicitude do fato. Se o instrumento no puder conhecer a ilicitude de sua conduta, dado a influncia consciente do autor mediato, no lhe ser possvel reconhecer a reprovao da culpabilidade. A hiptese mais comum de erro de proibio  estabelecida pela obedincia hierrquica. Nesse sentido, pode-se citar o exemplo do comandado, inexperiente, que obedece  ordem ilegal do comandante sem perceber a ilegalidade do fato. Se o comandado acreditar sinceramente na legalidade da ordem, realizar a conduta determinada sem a conscincia da ilicitude do fato. Tratando-se de erro de proibio invencvel, para o comandado, no haver culpabilidade, dado inexistir a capacidade de conhecer a ilicitude do fato. Deve o comandado ser considerado instrumento da vontade do comandante. O comandante que determina conscientemente o erro do comandado dever responder como autor mediato. No entanto, se o comandante tambm erra quanto  ilicitude do fato que ordena ao comandado, tratando-se de erro invencvel, tambm para este haver irresponsabilidade. Se o erro do comandante for vencvel, sua culpabilidade ser diminuda, mas se caracterizar a autoria mediata.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Se o erro da enfermeira for invencível, não haverá culpa para tipificar um crime culposo e ela será considerada instrumento da vontade dolosa do médico. Se o médico também estiver em erro invencível sobre a inadequação do medicamento, não haverá autoria mediata. Se o erro for previsível, haverá culpa e responsabilidade por crime culposo. Na indefinição do instrumento, há autoria mediata por mecanismo acionável por qualquer agente-instrumento. Se o erro for invencível, não haverá culpabilidade. Se o erro for vencível, haverá culpabilidade diminuída e autoria mediata.

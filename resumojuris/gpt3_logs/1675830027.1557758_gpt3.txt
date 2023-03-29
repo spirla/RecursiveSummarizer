@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Criticas politicas a atuacao de membro do Ministerio Publico, sem que haja imputacao de um fato determinado, com a indicacao da conduta praticada, de quando fora praticada, em que local ou em que circunstancias supostamente delitivas, nao bastam para a configuracao do crime de calunia. No presente caso, o denunciado, em entrevista, proferira uma sequencia de criticas politicas a atuacao de alguns membros do Ministerio Publico Federal e do Poder Executivo, nao havendo a imputacao de um fato determinado, com a indicacao da conduta praticada, de quando fora praticada, em que local ou em que circunstancias supostamente delitivas. Houve apenas mencao a conduta de bloquear pedidos de deslocamento de competencia. De acordo com entendimento pacifico do STJ, para configuracao do crime de calunia, urge a imputacao falsa a outrem de fato definido como crime. Ou seja, deve ser imputado um fato determinado, devidamente situado no tempo e no espaco, bem como tal fato deve ser definido como crime pela lei penal, alem de a imputacao ser falsa. Portanto, nao configura calunia, em sentido oposto, a alegacao generica de uma conduta eventualmente delitiva. E jurisprudencia firme do STJ que nos crimes contra a honra, alem do dolo, e necessaria a existencia do elemento subjetivo especial do tipo, consubstanciado no animus calumniandi, vel diffamandi, vel injuriandi, no qual se busca, essencialmente, macular ou ofender a honra da vitima. (Informativo  Ed. Especial n. 8) 70 QUINTA TURMA Voltar ao Sumario. Processo AgRg no HC 749.440-SC, Rel. Ministro Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, por unanimidade, julgado em 23/8/2022, DJe 26/8/2022. Ramo do Direito DIREITO PENAL Tema Embriaguez ao volante.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não bastam críticas políticas à atuação de membro do Ministério Público para configurar o crime de calúnia; 2. Para configurar o crime de calúnia, é necessário imputar a outrem um fato definido como crime, situado no tempo e no espaço, além de ser falsa a imputação; 3. Não configura calúnia a alegação genérica de uma conduta eventualmente delitiva; 4. É necessário o elemento subjetivo especial do tipo, consubstanciado no animus calumniandi, vel diffamandi, vel injuriandi, para configurar os crimes contra a honra.

@@ -1,0 +1,51 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Para encontrar a data da consumacao da transgressao disciplinar, basta utilizar a tabela abaixo, que pode ser simplificada na formula apresentada na sequncia:
+Dia da Falta
+Dias de Ausncia Injustificada (8 dias)
+Consumacao Artigo 240-C EMEMG
+1
+2
+3
+4
+5
+6
+7
+8
+9 dia
+04
+Jan
+05
+Jan
+06
+Jan
+07
+Jan
+08
+Jan
+09
+Jan
+10
+Jan
+11
+Jan
+12
+Jan
+13
+Jan
+(dia da falta) + 9 (numero fixo) = (consumacao)
+4 + 9 = 13
+Ressalta-se que, quando se tratar de desercao decorrente de termino ou cassacao de licenca, a contagem dos dias de ausncia tera como marco inicial (o dia de falta constante da tabela/formula acima), o dia em que o militar deveria se apresentar para sua escala de servico na sua Unidade e nao, necessariamente, a data de cassacao. Por exemplo: um militar que trabalha no expediente administrativo de uma Unidade e tem como ultimo dia de sua licenca uma sexta-feira, seja em decorrncia de termino ou por cassacao dos dias posteriores concedidos pelo medico assistente, nesse caso, o dia da falta, caso ele nao retorne ao servico, sera a proxima segunda-feira, ja que em sua escala rotineira o final de semana e considerado como folga. Nesse sentido:
+REEXAME NECESSARIO - MANDADO DE SEGURANCA - MILITAR NO EXERCICIO DE SERVICO ADMINISTRATIVO - CONTAGEM DO PRAZO DE DESERCAO DEVE-SE INICIAR NO PRIMEIRO DIA UTIL SEGUINTE AO DIA EM QUE O MILITAR TIVER CONHECIMENTO DO TERMINO OU CASSACAO DE SUA LICENCA-SAUDE - INTELIGNCIA CONTIDA NO ART. 188, II, DO CPM - NAO TENDO O MILITAR SE AUSENTADO POR MAIS DE 08 (OITO) DIAS DA UNIDADE A QUAL PERTENCE, AFASTA-SE A PRATICA DA DESERCAO E DA TRANSGRESSAO DISCIPLINAR CONTIDA NO ART. 13, III, DA LEI ESTADUAL N 14.310/2.002 (CEDM) - ANULACAO DO ATO ADMINISTRATIVO QUE SE IMPOE - SENTENCA QUE SE MANTEM. - A desercao se consuma com a ausncia do militar, sem licenca, da unidade em que serve ou do lugar em que deve permanecer por mais de 08 (oito) dias. Pratica conduta similar a desercao, o militar que deixa de se apresentar a autoridade competente dentro do prazo de 08 (oito) dias, contados daquele em que termina ou e cassada a licenca. E o que se extrai dos artigos 187, caput, e 188, II, ambos do CPM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A desercao se consuma com a ausncia do militar, sem licenca, da unidade em que serve ou do lugar em que deve permanecer por mais de 08 (oito) dias. A data da consumacao da transgressao disciplinar pode ser calculada utilizando a tabela e formula apresentadas, que consideram o dia da falta e os dias de ausncia injustificada. Quando se tratar de desercao decorrente de termino ou cassacao de licenca, a contagem dos dias de ausncia tera como marco inicial o dia em que o militar deveria se apresentar para sua escala de servico na sua Unidade.

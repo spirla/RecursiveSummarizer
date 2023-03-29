@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Podem-se identificar, como fundamentos de legitimidade do Estado Democrtico e limitaes ao poder punitivo estatal, os princpios da humanidade, da reserva legal, da fragmentariedade, da interveno mnima e adequada, da ofensividade, da culpabilidade e da individualizao da pena. 2.2.1. Princpio da humanidade. O postulado maior da poltica criminal do Estado Democrtico reside no respeito ao princpio da humanidade, que decorre do fato de ser o homem o fim de todas as consideraes sociais. A Constituio brasileira expressamente dispe, em seu artigo 1, que a dignidade da pessoa humana  fundamento do Estado brasileiro. Mas os mecanismos de proteo aos direitos fundamentais do homem dependem da ideologia, dos valores e dos princpios que cada Constituio adota, de modo que cada Estado reconhece como fundamentais direitos humanos especficos. O respeito aos direitos fundamentais do homem resulta de processo tormentoso, o qual descreve lenta evoluo e ainda no chegou a seu fim. Suas razes remontam s declaraes do Direito Constitucional ingls: a Magna Carta imposta pelos bares ao Rei Joo Sem Terra, em 1215; a Petition of Rights dirigida a Carlos I, em 1628; e o Bill of Rights, que restringia o poder real de Guilherme de Orange, em 1689. Essas declaraes, por suas condies histricas, materializavam apenas os interesses mais imediatos dos povos ou classes sociais que se libertavam de alguma forma de opresso e no pretendiam consagrar-se como tributos a valores universais. A reivindicao humanitria europeia propagou-se pelo mundo e, na Amrica, os documentos declaratrios surgiram com tendncia a reconhecer universalidade para os direitos humanos fundamentais. A Declarao de Independncia Americana, de 1776, sustentou que todos os homens nascem igualmente dotados pelo Criador de direitos inalienveis, como a vida, a liberdade e a busca da felicidade. A Revoluo Francesa produziu, em 1789, a Declarao dos Direitos do Homem e do Cidado, a qual expressamente (artigo 2) reconheceu ser objeto de toda associao poltica a conservao dos direitos naturais e imprescritveis do homem, entendidos como tais a liberdade, a propriedade, a segurana e a resistncia contra a opresso. Conferindo aos direitos fundamentais uma abrangncia nunca antes vista, a declarao francesa  considerada a mais abstrata de todas as declaraes solenes de liberdade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado Democrático tem como princípio maior o respeito à dignidade da pessoa humana, conforme dispõe a Constituição brasileira. Os mecanismos de proteção aos direitos fundamentais do homem são resultado de um processo histórico que teve início com a Magna Carta, em 1215, e se estendeu até a Declaração dos Direitos do Homem e do Cidadão, em 1789. Essas declarações reconhecem universalidade para os direitos humanos fundamentais.

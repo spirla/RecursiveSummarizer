@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Observa, ainda, Denilson Feitosa que a jurisprudncia tem entendido de maneira ampla que o exame de corpo de delito indireto  constitudo por elementos probatrios diversos existentes nos autos, como a prova testemunhal ou documental. Neste sentido o STF decidiu:
+O exame de corpo de delito direto pode ser suprido, quando desaparecidos os vestgios sensveis da infrao penal, por outros elementos de carter probatrio existentes nos autos da persecutio criminis, notadamente os de natureza testemunhal ou documental. Os postulados da verdade real, do livre convencimento do magistrado e da inexistncia de hierarquia legal em matria probatria admitem e legitimam - consoante orientao firmada pela Suprema Corte - a utilizao da prova testemunhal, da prova documental e, at mesmo, da confisso do prprio ru, como elementos hbeis ao vlido suprimento da ausncia do exame pericial de corpo de delito. Na tese 9 da Jurisprudncia em Teses da edio 111 do STJ est firmado:
+ necessria a realizao do exame de corpo de delito para comprovao da materialidade do crime quando a conduta deixar vestgios, entretanto, o laudo pericial ser substitudo por outros elementos de prova na hiptese em que as evidncias tenham desaparecido ou que o lugar se tenha tornado imprprio ou, ainda, quando as circunstncias do crime no permitirem a anlise tcnica. Terceira corrente. O depoimento da testemunha deve ser considerado pelos peritos. No dizer Hlio Tornaghi, porm, o exame indireto no se confunde com o mero depoimento de testemunhas, porque no exame indireto, h sempre um juzo de valor feito pelos peritos. Uma coisa  afirmarem as testemunhas que viram tais ou quais sintomas, e outra  os peritos conclurem da que a causa mortis foi essa ou aquela. De acordo com o esclio de Hlio Tornaghi, o exame indireto  um raciocnio dos peritos embasado no que disse a testemunha.  possvel que os peritos, com base em seus conhecimentos tcnicos, cientficos ou artsticos, opinem  vista dos elementos que disponham, por exemplo, depoimentos, filmes, fotografias, objetos encontrados.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência tem entendido que o exame de corpo de delito indireto pode ser suprido por elementos probatórios diversos, como prova testemunhal ou documental. O STF e o STJ decidiram que é possível utilizar a prova testemunhal, documental e até mesmo a confissão do próprio réu para suprir a ausência do exame pericial de corpo de delito. O depoimento da testemunha deve ser considerado pelos peritos, pois o exame indireto é um raciocínio dos peritos embasado no que disse a testemunha. Os peritos podem opinar com base em seus conhecimentos técnicos, científicos ou artísticos, utilizando elementos como depoimentos, filmes, fotografias e objetos encontrados.

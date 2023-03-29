@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Competencia do juiz sentenciante. DESTAQUE Embora seja necessaria a quesitacao aos jurados sobre a incidencia de minorantes, a escolha do quantum de diminuicao da pena cabe ao juiz sentenciante, e nao ao juri. Nao ha nulidade pela suposta falta de quesitacao da minorante da colaboracao premiada. No caso, conforme a ata da sessao de julgamento pelo tribunal do juri, o juiz sentenciante inquiriu os jurados sobre a diminuicao da pena do recorrente pela colaboracao, como manda o art. 483, IV, e  3, I, do CPP. O quesito foi repetido para abranger todas as quatro vitimas dos homicidios. E de facil percepcao, portanto, que nao houve supressao do quesito obrigatorio. Extrai-se da situacao fatica que a defesa parecia discordar na realidade do quantum de reducao aplicado na sentenca. Isso porque o reu havia previamente pactuado com o Ministerio Publico a reducao em 2/3, mas o juiz sentenciante minorou a pena em 1/2. Entretanto, tal apreciacao nao diz respeito a falta de quesito obrigatorio, porque o juri nao e perguntado sobre as fracoes de aumento ou diminuicao aplicaveis as majorantes ou minorantes por ele reconhecidas, mas somente sobre a incidencia das majorantes ou minorantes em si. Assim, uma vez aplicadas estas pelos jurados, compete ao juiz presidente eleger a fracao cabivel, na forma do art. 492, I, c , do CPP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessária a quesitacao aos jurados sobre a incidência de minorantes. 2. A escolha do quantum de diminuição da pena cabe ao juiz sentenciante e não ao juri. 3. Não há nulidade pela suposta falta de quesitacao da minorante da colaboração premiada. 4. O quesito deve ser repetido para abranger todas as quatro vítimas dos homicídios. 5. O juiz sentenciante é responsável por eleger a fração cabível, de acordo com o art. 492, I, c, do CPP.

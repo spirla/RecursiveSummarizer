@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+I e II do  2 e do  3 do art. 120, dos arts. 122-A e 123-A do Anexo I do Decreto 4.676/2001 do estado do Para (Regulamento do ICMS), com as alteracoes dos Decretos 1.522/2009, 1.551/2009 e 360/2019. ADI 6479/PA, relatora Min. Carmen Lucia, julgamento virtual finalizado em 18.6.2021 (sexta-feira), as 23:59 (INF 1022) 17.2 CAPACIDADE TRIBUTARIA ATIVA Capacidade tributaria ativa: Imposto de Renda incidente sobre rendimentos pagos a autarquias e fundacoes estaduais e distritais - RE 607886/RJ (Tema 364 RG) Tese fixada: E dos Estados e Distrito Federal a titularidade do que arrecadado, considerado Imposto de Renda, incidente na fonte, sobre rendimentos pagos, a qualquer titulo, por si, autarquias e fundacoes que instituirem e mantiverem. Resumo: Pertence aos estados e ao Distrito Federal o produto da arrecadacao do Imposto de Renda incidente sobre os rendimentos, quando pagos, por si, respectivas autarquias e fundacoes. Nos termos do que disposto no art. 157, I, da CF/88 (CF), depreende-se haver o constituinte estabelecido distincao considerados o ente competente e o beneficiado pela receita tributaria. Embora a competencia impositiva tenha sido atribuida a Uniao (CF, art. 153, III), cabe aos estados e ao Distrito Federal a arrecadacao, na fonte, do tributo sobre os rendimentos pagos. No ato de retencao dos valores, da-se a incorporacao, ao patrimonio estadual ou distrital, do produto arrecadado. Frise-se que, ao disciplinar a entrega de recursos a ser realizada pela Uniao, considerada fracao do montante arrecadado a titulo de Imposto sobre Produtos Industrializados - IPI e Imposto de Renda - IR, o constituinte decotou, para efeito de calculo, o importe versado no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Pertence aos Estados e ao Distrito Federal o produto da arrecadação do Imposto de Renda incidente sobre os rendimentos, quando pagos, por si, respectivas autarquias e fundações. 2. A competência impositiva foi atribuída à União (CF, art. 153, III). 3. Cabe aos Estados e ao Distrito Federal a arrecadação, na fonte, do tributo sobre os rendimentos pagos. 4. Ao disciplinar a entrega de recursos a ser realizada pela União, considerada fração do montante arrecadado a título de Imposto sobre Produtos Industrializados - IPI e Imposto de Renda - IR, o constituinte decotou, para efeito de cálculo, o importe versado no art.

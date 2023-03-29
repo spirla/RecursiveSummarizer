@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A racionalidade que orientava a atuao dos militares e tambm de seus juzes considerava as necessidades de preservar a irrestrita obedincia da tropa, mesmo que isso importasse em violar a dignidade de qualquer de seus integrantes. Lamentavelmente, esta racionalidade da guerra (de colonizador) inspirou e continua a inspirar a interpretao da atuao da Justia Militar, de modo a vincul-la apenas s necessidades e convenincias das foras armadas que integram o Poder Executivo. Nesse sentido, tornou-se clssica a afirmao de Clemenceau, primeiro ministro que comandou o exrcito francs durante a primeira grande guerra, de que, ao lado da sociedade civil fundada sobre a liberdade, h uma sociedade militar fundada com base na obedincia e, por isso, o juiz da liberdade no pode ser o mesmo da obedincia. Nos parmetros de nossa sociedade contempornea, no se pode conceber um juiz da obedincia e se apresenta difcil imaginar como seria a lgica que orientaria a sua atuao. Uma noo jurdica de juiz da obedincia  impossvel e no conseguiria superar suas contradies conceituais internas. O pensamento de Clemenceau ainda costuma ser lembrado para orientar a conduta de juzes que hoje atuam em contextos muito diversos daquele para o qual foi concebido. No Brasil, no se pode conceber uma diviso social que permita a existncia de duas sociedades, que o militar pertena a uma sociedade distinta da qual se inserem os demais cidados brasileiros e que, desta forma, estaria, fora do contexto da comunicao argumentativa que se estabelece no ambiente social. Excluir o militar do contexto de participao popular na conformao do direito a que est submetido, instrumentalizando-o para os fins de preservao dos pilares administrativos da hierarquia e disciplina militares importa em manifesta violao ao direito fundamental da dignidade da pessoa humana, significa trat-lo como coisa (aos moldes de como j foram tratados os escravos) ou como um inimigo. O militar no  um escravo da sociedade brasileira. O militar possui alma e tambm dignidade como pessoa humana. No pode o Poder Judicirio trat-lo como mero instrumento para o alcance dos objetivos das instituies militares. O militar tambm no pode ser considerado um inimigo da sociedade a qual defende. Segundo as premissas contemporneas do direito penal do inimigo, se  a norma que atribui ao ser humano a qualidade de pessoa, tambm pode negar tal atribuio a determinados serem humanos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A racionalidade da guerra, que orientava a atuação dos militares e seus juízes, considerava a necessidade de preservar a obediência da tropa, mesmo que isso signifique violar a dignidade de seus integrantes. No Brasil, isso significaria excluir o militar do contexto de participação popular na conformação do direito a que está submetido, o que violaria o direito fundamental da dignidade da pessoa humana. O militar não é um escravo da sociedade brasileira e não pode ser tratado como mero instrumento para os fins das instituições militares.

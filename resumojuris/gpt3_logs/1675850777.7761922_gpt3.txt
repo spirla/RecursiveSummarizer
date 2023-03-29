@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Gilmar Mendes, DJe 8/10/2010). No mesmo sentido, neste STJ: REsp 1.574.681/RS. No caso, apesar da mencao a informacao anonima repassada pela Central de Operacoes da Policia Militar - Copom, nao ha nenhum registro concreto de previa investigacao para apurar a conformidade da noticia, ou seja, a ocorrencia do comercio espurio na localidade, tampouco a realizacao de diligencias previas, monitoramento ou campanas no local para averiguar a veracidade e a plausibilidade das informacoes recebidas anonimamente e constatar o aventado comercio ilicito de entorpecentes. Nao houve, da mesma forma, mencao a qualquer atitude suspeita, exteriorizada em atos concretos, nem movimentacao de pessoas tipica de comercializacao de drogas. 1295 Por ocasiao do julgamento do HC 598.051/SP (Rel. Ministro Rogerio Schietti, DJe 15/3/2021), a Sexta Turma desta Corte Superior de Justica, a unanimidade, propos nova e criteriosa abordagem sobre o controle do alegado consentimento do morador para o ingresso em seu domicilio por agentes estatais. Na ocasiao, foram apresentadas as seguintes conclusoes: a) Na hipotese de suspeita de crime em flagrante, exige- se, em termos de standard probatorio para ingresso no domicilio do suspeito sem mandado judicial, a existencia de fundadas razoes (justa causa), aferidas de modo objetivo e devidamente justificadas, de maneira a indicar que dentro da casa ocorre situacao de flagrante delito; b) O trafico ilicito de entorpecentes, em que pese ser classificado como crime de natureza permanente, nem sempre autoriza a entrada sem mandado no domicilio onde supostamente se encontra a droga.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessária a existência de fundadas razões (justa causa), aferidas de modo objetivo e devidamente justificadas, para o ingresso no domicilio do suspeito sem mandado judicial, na hipótese de suspeita de crime em flagrante. 2. O tráfico ilícito de entorpecentes, embora seja classificado como crime de natureza permanente, nem sempre autoriza a entrada sem mandado no domicilio onde supostamente se encontra a droga.

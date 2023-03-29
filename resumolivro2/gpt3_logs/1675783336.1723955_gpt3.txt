@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Sustenta em primeiro lugar o representante do Ministrio Pblico, em seguida o assistente ou seu procurador, se houver, e, finalmente, o defensor ou defensores, pela ordem de autuao dos acusados que representam, salvo acordo manifestado entre eles (artigo 433, CPPM). So destinadas trs horas para sustentao oral da acusao e da defesa, sem distino de ser o crime apenado de deteno ou recluso (artigo 433, pargrafo 1, CPPM). Dispem a acusao e a defesa de uma hora para a rplica e a trplica (pargrafo 2). O assistente de acusao ter metade do prazo concedido ao MP para acusao e rplica (pargrafo 3). O advogado que tiver a seu cargo a defesa de mais de um acusado ter direito a mais uma hora (pargrafo 4). O tempo  excessivo, sobretudo no julgamento de crime apenado com deteno. A sustentao oral compe o direito de defesa. O defensor pode apresentar teses principal e secundria. Alternativamente ao pedido de absolvio, defensor pode concordar com pedido de condenao do Ministrio Pblico, desde que vantajoso para o acusado, por exemplo, a desclassificao de crime doloso para culposo. O defensor no deve sustentar tese colidente com a apresentada pelo ru (o ru nega a autoria e o defensor sustenta legtima defesa), mas se assim o fizer, o julgador deve analisar cada uma delas e verificar qual delas pode ser procedente. O defensor pode inovar na trplica? Existem duas posies. A primeira, com a qual concordamos, sustenta que a inovao na trplica viola o contraditrio ao surpreender o acusador, impedindo-o de rebater a nova tese pois j fez uso da rplica. Para outra corrente prevalece a plenitude de defesa sobre o contraditrio e o Ministrio Pblico pode apartar para rebater os argumentos alinhavados na tese inovadora. A disciplina dos debates impe linguagem conveniente ao decoro dos tribunais e  disciplina judiciria (artigo 429 e 433, pargrafo 7, do CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 433 do CPPM estabelece três horas para a sustentação oral da acusação e da defesa, com direito a uma hora para a réplica e tréplica. O assistente de acusação tem direito a metade do tempo do MP para acusação e réplica. O advogado que defende mais de um acusado tem direito a mais uma hora. O defensor pode apresentar teses principais e secundárias, além de concordar com o pedido de condenação do MP, desde que seja vantajoso para o acusado. A inovação na tréplica é discutida entre duas correntes. A disciplina dos debates impõe linguagem adequada ao decoro dos tribunais.

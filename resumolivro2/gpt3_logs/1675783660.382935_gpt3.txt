@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Outro aspecto  que a denncia genrica inverte o nus da prova:
+impe ao denunciado a incumbncia de demonstrar a sua no participao nos fatos. Inpcia da denncia ou da queixa alternativa. Na denncia ou na queixa alternativa h imputao de mais de um crime ao acusado, posto que ainda no se sabe qual dos crimes praticou, ficando para ser apurado na instruo criminal. Por exemplo, imputa-se o crime de concusso e de corrupo passiva por haver dvida se o acusado exigiu ou recebeu vantagem indevida. A denncia alternativa por dificultar a defesa do acusado, na medida em que no especifica a acusao atribuda ao agente,  rejeitada por falta de justa causa para a ao penal. Inpcia da denncia em crime culposo por ausncia de descrio da falta de observncia ao dever de cuidado. Na imputao de crime culposo, cujo tipo penal  aberto, no basta que a denncia descreva a simples causao do resultado,  indispensvel dizer em que consistiu a falta de observncia do dever objetivo de cuidado, elemento fundamental do tipo culposo, a permitir ao denunciado o pleno exerccio da autodefesa e da defesa tcnica. A doutrina tem assinalado a necessidade de a denncia descrever em que consistiu a falta de dever de cuidado do agente. Nesse sentido segue o julgado de inpcia da pea acusatria de crime culposo, que no descreveram a infrao ao dever de cuidado:
+No delito culposo, a ao que viola o dever de cuidado mostra-se elemento integrante da tipicidade e, assim, compete ao Ministrio Pblico indicar na denncia a cautela que era exigida e foi desconsiderada pelo acusado, sob pena de inpcia. A denncia formulada que atribui ao ru atuar culposo precisa explicitar, com fatos, em que consiste a culpa em stricto sensu, no sendo suficiente a mera narrativa de determinao de um dano. Inpcia por falta de descrio da conduta comissiva por omisso.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A denncia genrica inverte o nus da prova, impondo ao denunciado a obrigação de provar sua inocência. Na denncia alternativa, mais de um crime é imputado ao acusado. Na imputação de crime culposo, é necessário descrever a falta de observância do dever de cuidado, elemento fundamental do tipo culposo. Na imputação de crime por omissão, é necessário descrever a conduta comissiva.

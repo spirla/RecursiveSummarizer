@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com lastro nos amplos debates e na decisao erga omnes e com efeito vinculante do Supremo Tribunal Federal, apesar da disposicao do art. 492, I, e , do CPP e da discussao ainda pendente de julgamento acerca de sua constitucionalidade (Tema n. 1068 de repercussao geral), a jurisprudencia da Quinta e da Sexta Turmas compreendem ser ilegal, conforme a interpretacao conferida ao direito fundamental da presuncao de inocencia, mandar prender o reu solto para execucao imediata e provisoria de condenacao nao definitiva lastreada em veredicto do Tribunal do Juri. Na hipotese, ainda que gravissimas as acusacoes, o paciente permaneceu, com a autorizacao judicial, em liberdade durante todo o processo, somente podendo ser dela privado, antes do transito em julgado da condenacao, se fato novo e contemporaneo (art. 312,  2, do CPP), justificar a aplicacao da prisao preventiva. Ademais, a teor da redacao legal incluida pela Lei n. 13.964/2019, nao sera admitida a decretacao da prisao preventiva com a finalidade de antecipacao de cumprimento de pena (art. 313,  2, do CPP). Em outros termos, mesmo apos a reforma introduzida pelo Pacote Anticrime, o CPP e muito claro, em varios dispositivos, sobre a imprescindibilidade de motivacao explicita, que indique fatos concretos e reveladores de riscos contemporaneos, para determinar a prisao preventiva ou qualquer outra cautelar em face de pessoa contra quem e proposta a acao penal. 779 Portanto, o entendimento pela impossibilidade de execucao antecipada da pena em caso de condenacoes criminais ainda provisorias proferidas contra acusados que responderam a acao penal nao finda em liberdade, devera ser observado ate que eventualmente venha o Supremo Tribunal Federal a mudar o entendimento sobre a interpretacao do direito fundamental da presuncao de inocencia em procedimentos dos crimes dolosos contra a vida. (Informativo  Ed. Especial n. 7) CF/88 (CF/88), art. 5, LVII; CPP (CPP/1941), arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilegal, conforme a interpretação conferida ao direito fundamental da presunção de inocência, mandar prender o réu solto para execução imediata e provisória de condenação não definitiva lastreada em veredicto do Tribunal do Júri. 2. Não será admitida a decretação da prisão preventiva com a finalidade de antecipação de cumprimento de pena. 3. É imprescindível motivação explícita, que indique fatos concretos e reveladores de riscos contemporâneos, para determinar a prisão preventiva ou qualquer outra cautelar em face de pessoa contra quem é proposta a ação penal. 4. O entendimento pela impossibilidade de execução antecipada da pena em caso de condenações criminais ainda provisórias proferidas contra acusados que responderam a ação penal não finda em liberdade deverá ser observado até que eventualmente venha o Supremo Tribunal Federal a mudar o entendimento sobre a interpretação do direito fundamental da presunção de inocência em procedimentos dos crimes dolosos contra a vida.

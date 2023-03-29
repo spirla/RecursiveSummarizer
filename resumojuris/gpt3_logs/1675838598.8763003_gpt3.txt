@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Jesuino Rissato (Desembargador Convocado do TJDFT), Rel. Acd. Min. Reynaldo Soares Da Fonseca, Quinta Turma, por maioria, julgado em 07/12/2021, DJe 13/12/2021 Ramo do Direito DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL Tema Busca e apreensao. Medida invasiva anterior aos indicios de autoria. Fishing expedition. Impossibilidade. Garantias constitucionais. Violacao. 523 DESTAQUE Os indicios de autoria antecedem as medidas invasivas, nao se admitindo em um Estado Democratico de Direito que primeiro sejam violadas as garantias constitucionais para so entao, em um segundo momento, e eventualmente, se justificar a medida anterior, sob pena de se legitimar verdadeira fishing expedition. Inicialmente, constata-se que a investigacao que ensejou a busca e apreensao na pessoa juridica nao lhe dizia respeito, referindo-se apenas a investigacao de crimes de organizacao criminosa, com participacao de funcionario publico, e de peculato contra a Prefeitura Municipal de Pocone/MT.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é admitido em um Estado Democrático de Direito que as garantias constitucionais sejam violadas antes dos indícios de autoria, sob pena de se legitimar uma verdadeira "fishing expedition". 2. A investigação que ensejou a busca e apreensão na pessoa jurídica não lhe dizia respeito, referindo-se apenas à investigação de crimes de organização criminosa, com participação de funcionário público, e de peculato contra a Prefeitura Municipal de Pocone/MT.

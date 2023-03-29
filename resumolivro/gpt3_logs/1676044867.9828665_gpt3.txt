@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A valorao de um acontecimento como injusto percorre respectivamente duas fases: a investigao da tipicidade da conduta (= valorao com o auxlio do tipo legal) e a determinao de no incidncia de causas justificantes (= valorao com o auxlio da ordem jurdica total). Fica claro que no h ilicitude penal sem a anterior constatao da tipicidade da conduta. Seguindo o mtodo proposto pelo conceito analtico de crime, o exame da ilicitude deve ser realizado aps o exame da tipicidade. A ilicitude pressupe um juzo positivo de tipicidade. No sendo tpica a conduta, no se poder avaliar sua ilicitude em matria penal. No entanto, da tipicidade no decorre sempre a ilicitude da conduta. A violao  norma pode ser justificada e a conduta ser considerada lcita. Por isso, deve-se entender que a atipicidade  um juzo definitivo sobre a licitude de uma conduta, enquanto a tipicidade  um juzo provisrio de ilicitude, pois ainda  possvel constatar a existncia de uma causa de justificao que venha a excluir a ilicitude da conduta. Via de regra, a conduta tpica tambm  ilcita, pois o tipo descreve a matria de proibio. Como s em casos excepcionais a conduta tpica  justificada, o exame da ilicitude faz-se essencialmente com a verificao da existncia de uma causa de justificao. Nesse sentido, Von Liszt j afirmou que a doutrina sobre a ilegalidade do crime no  mais do que a exposio das causas que, por exceo, tiram do fato o carter ilcito. Com efeito, somente em situaes muito especiais pode ser lcita a leso de bens juridicamente protegidos. A justificativa de uma conduta tpica resulta, no caso particular, da coliso entre uma norma proibitiva, fundamentadora do tipo de injusto, e um preceito permissivo. A ilicitude penal da conduta pressupe sua contradio com a norma jurdica que fundamenta o tipo e a inexistncia de uma causa de justificao. A admisso de uma causa de justificao no significa, entretanto, que a conduta justificada seja valorada positivamente. A justificao revela, simplesmente, que o ordenamento jurdico no caso especfico tolera a leso ao bem jurdico. 7.2. Ilicitude e injusto. Na doutrina, algumas vezes, as expresses ilicitude (antijuridicidade) e injusto so utilizadas como sinnimas. No entanto, elas no se confundem.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A valorao de um acontecimento como injusto percorre duas fases: a investigação da tipicidade da conduta e a determinação de não incidência de causas justificantes. A ilicitude pressupõe um juízo positivo de tipicidade, mas a atipicidade não é um juízo definitivo sobre a licitude da conduta. A justificativa de uma conduta típica resulta da colisão entre uma norma proibitiva e um preceito permissivo, mas isso não significa que ela seja valorada positivamente. A ilicitude e o injusto não são sinônimos.

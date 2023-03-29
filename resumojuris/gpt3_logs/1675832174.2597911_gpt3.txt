@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Esse lapso temporal, segundo a regra do paragrafo unico do mesmo dispositivo (revogada pela Lei 14.195/2021), nao pode - excetuadas as hipoteses de o INPI estar impedido de proceder ao exame do pedido por pendencia judicial ou forca maior - ser inferior a 10 anos (invencao) e sete anos (modelos de utilidade) desde a respectiva concessao. Tratando-se, contudo, de patentes excepcionalmente depositadas pelo sistema mailbox, a Lei de Propriedade Industrial, em suas disposicoes finais e transitorias (art. 229, paragrafo unico), estabeleceu regra expressa assegurando protecao limitada unicamente ao lapso de 20 anos (ou 15, para modelos de utilidade) contados do dia do deposito (conforme estipulado pelo citado art. 40, caput). Vale dizer, o fato de o texto do art. 229, paragrafo unico, da LPI dispor que referido prazo de vigencia esta somente limitado aquele previsto no caput do artigo 40 afasta, como corolario, a incidencia do prazo do respectivo paragrafo unico (10 ou sete anos contados da concessao). Esse dispositivo legal (art. 40, paragrafo unico, da LPI), ademais, nao deve incidir sobre a presente hipotese fatica tambem por estar inserido em capitulo da lei que versa sobre regras gerais aplicaveis ao sistema ordinario de patentes, nao podendo irradiar efeitos sobre materia a qual foi conferido tratamento especial pela mesma lei (sistema transitorio mailbox). Noutro vertice, no que concerne as alegacoes de que os titulares dos direitos em questao nao podem ser punidos com a reducao indevida da duracao de seu privilegio patentario em razao da demora na analise dos requerimentos pelo INPI, igualmente nao assiste razao. Sopesados os interesses em conflito, nao se afigura razoavel impor pesados encargos a coletividade em beneficio exclusivo dos interesses economicos dos titulares de direitos patentarios, sendo certo que eventual prejuizo causado pela demora do INPI nao autoriza que tal onus seja transferido a sociedade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O lapso temporal para concessão de patentes não pode ser inferior a 10 anos (invenção) e sete anos (modelos de utilidade), exceto nas hipóteses de impedimento judicial ou força maior. 2. Para patentes depositadas pelo sistema mailbox, a Lei de Propriedade Industrial estabeleceu regra expressa assegurando proteção limitada ao lapso de 20 anos (ou 15, para modelos de utilidade) contados do dia do depósito. 3. O dispositivo legal (art. 40, parágrafo único, da LPI) não deve incidir sobre a hipótese em questão, pois está inserido em capítulo da lei que versa sobre regras gerais aplicáveis ao sistema ordinário de patentes. 4. Não é razoável impor pesados encargos à coletividade em benefício exclusivo dos interesses econômicos dos titulares de direitos patentários, sendo certo que eventual prejuízo causado pela demora do INPI não autoriza que tal onus seja transferido à sociedade.

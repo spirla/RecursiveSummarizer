@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Nefi Cordeiro, Sexta Turma, DJe 10/2/2020, e o HC 476.341/SP, Rel. Ministro Sebastiao Reis Junior, Sexta Turma, DJe 9/9/2019 - ou remetem a circunstancias em que ha consentimento do acusado com o recolhimento do material biologico ou fornecimento voluntario do dado perquerido - como o HC 651.424/BA, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022, e o AgRg no REsp 1.979.815/PE, Rel. Ministro Jesuino Rissato, Quinta Turma, DJe 16/3/2022. Com efeito, o Pacto de San Jose da Costa Rica (aderido a legislacao patria pelo Decreto n. 678/1992) preve, como garantia de toda pessoa acusada, que ninguem e obrigado a se autoincriminar e assegura ao acusado/reu o direito a nao depor contra si mesmo, nem a declarar-se culpado (art. 8, item 2 , alinea g ). O direito a nao se inculpar tambem esta previsto na Constituicao da Republica, em seu art. 5, LXIII, segundo o qual o preso sera informado de seus direitos, entre os quais o de permanecer calado . Ainda, o CPP dispoe, em seu art. 186, a possibilidade de o reu ficar em silencio, quando interrogado. Dessa forma, declara-se a nulidade da coleta compulsoria de material organico e da insercao dos respectivos dados biologicos no Banco Nacional de Perfis Geneticos na hipotese dos autos, em que: I. nao ha sentenca contra o investigado; II. nao ha proporcionalidade na medida invasiva, nao ha denuncia em seu desfavor; III.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I. Não há sentença contra o investigado; II. Não há proporcionalidade na medida invasiva; III. Não há denúncia em desfavor do investigado; IV. O Pacto de San Jose da Costa Rica prevê o direito de ninguém ser obrigado a se autoincriminar; V. A Constituição da República prevê o direito de o preso permanecer calado; VI. O Código de Processo Penal prevê a possibilidade de o réu ficar em silêncio quando interrogado.

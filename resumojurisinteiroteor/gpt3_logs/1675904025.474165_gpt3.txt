@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+125 do Cdigo Penal Militar (CPM), que dispe:  1 Sobrevindo sentena condenatria, de que somente o ru tenha recorrido, a prescrio passa a regular-se pela pena imposta, e deve ser logo declarada, sem prejuzo do andamento do recurso se, entre a ltima causa interruptiva do curso da prescrio ( 5) e a sentena, j decorreu tempo suficiente. O mesmo dispositivo regula os marcos interruptivos da ao penal:  5 O curso da prescrio da ao penal interrompe-se: I - pela instaurao do processo; II - pela sentena condenatria recorrvel. Nesse sentido e ao contrrio do que alegou a defesa, o termo inicial para contagem do prazo prescricional  o recebimento da denncia (art. 125, 5, I, CPM), que, no caso, se deu em 29/06/2020. Assim, considerando que o apelante foi condenado  pena de 06 meses de deteno, constata-se que entre a data do recebimento da denncia (29/06/2020) e a data da leitura da sentena condenatria (21/09/2021) no transcorreu o lapso temporal de dois anos, necessrio para a incidncia da prescrio retroativa, nos termos do art. 125, inciso VII e 1 e 5, ambos do CPM. II - INPCIA DA DENNCIA Alegou a inpcia da denncia, em face da ausncia de especificao, de forma objetiva, da conduta delitiva atribuda ao apelante, em desconformidade com o que determina o artigo 77, alnea e, do Cdigo de Processo Penal Militar (CPPM). Mais uma vez, razo no assiste  defesa. Observa-se que a denncia foi formulada em obedincia aos requisitos estabelecidos no artigo 77 do CPPM, descrevendo perfeitamente a conduta tpica prevista no art. 166 do CPM, com todas as circunstncias necessrias para o exerccio da ampla defesa na persecuo penal. Cumpre salientar que a denncia, por se tratar de mera notcia apresentada em juzo acerca da ocorrncia, em tese, de fato tpico e antijurdico, no se reveste dos mesmos elementos de convico exigidos quando da prolao de uma sentena condenatria. O rgo acusador deve oferecer elementos probatrios mnimos que assegurem a viabilidade da narrativa apresentada e permitam, de plano, identificar a ocorrncia de fato tpico, assim como apresentar indcios que autorizem associar o fato ao denunciado, como ocorreu no caso em tela. Ademais, consoante o entendimento jurisprudencial do Superior Tribunal de Justia (STJ), a supervenincia da sentena penal condenatria torna superada a anlise da alegao de inpcia da denncia: [.] 1. Nos termos da orientao jurisprudencial desta Corte, a supervenincia da sentena penal condenatria esvai a anlise de inpcia da denncia, porque viabilizado o exerccio do contraditrio e da ampla defesa durante a instruo criminal, no mais existindo mera acusao em face do acusado, mas a definio de sua culpa, em sentena, que passa a ser passvel de enfrentamento recursal. [...] (AgRg no AREsp 1626777/SP, Rel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena condenatória interrompe o curso da prescrição da ação penal, conforme previsto no artigo 125, inciso I, do Código Penal Militar. A denncia foi formulada de acordo com os requisitos estabelecidos no artigo 77 do Código de Processo Penal Militar, descrevendo a conduta típica prevista no artigo 166 do CPM. A superveniência da sentena penal condenatória torna superada a análise da alegação de inpcia da denncia.

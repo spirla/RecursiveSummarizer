@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Somente pela Constituicao, e quando houver finalidade constitucional adequadamente demonstrada, pode-se criar distincoes entre os entes federados na cobranca judicial dos creditos tributarios e nao tributarios. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em arguicao de descumprimento de preceito fundamental para declarar a nao recepcao, pela CF/88, das normas previstas no paragrafo unico do art. 187 da Lei 5.172/1966 e no paragrafo unico do art. 29 da Lei 6.830/1980, e para cancelar o Enunciado 563 da Sumula do Supremo Tribunal Federal (STF). ADPF 357/DF, relatora Min. Carmen Lucia, julgamento em 24.6.2021 (INF 1023) 17.6 ICMS Diferencial de aliquota de ICMS e empresas optantes pelo Simples Nacional - RE 970821/RS (Tema 517 RG) Tese fixada: E constitucional a imposicao tributaria de diferencial de aliquota do ICMS pelo Estado de destino na entrada de mercadoria em seu territorio devido por sociedade empresaria aderente ao Simples Nacional, independentemente da posicao desta na cadeia produtiva ou da possibilidade de compensacao dos creditos. Resumo: E constitucional a cobranca antecipada de diferencial de aliquota de ICMS de sociedade empresaria optante pelo Simples Nacional, independentemente de o contribuinte estar na condicao de consumidor final no momento da aquisicao. A cobranca do diferencial de aliquota nao viola a sistematica do Simples Nacional, uma vez que ha previsao expressa no art. 13,  1, XIII, g, da Lei Complementar (LC) 123/2002. Alem disso, nao ha ofensa a regra da nao cumulatividade, haja vista que o art. 23 da LC 123/2002 veda explicitamente a apropriacao ou compensacao de creditos relativos a impostos ou contribuicoes abrangidos pelo Simples Nacional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Somente pela Constituição, e quando houver finalidade constitucional adequadamente demonstrada, pode-se criar distinções entre os entes federados na cobrança judicial dos créditos tributários e não tributários. 2. É constitucional a imposição tributária de diferencial de alíquota do ICMS pelo Estado de destino na entrada de mercadoria em seu território devido por sociedade empresária aderente ao Simples Nacional, independentemente da posição desta na cadeia produtiva ou da possibilidade de compensação dos créditos. 3. É constitucional a cobrança antecipada de diferencial de alíquota de ICMS de sociedade empresária optante pelo Simples Nacional, independentemente de o contribuinte estar na condição de consumidor final no momento da aquisição. 4. A cobrança do diferencial de alíquota não viola a sistemática do Simples Nacional, uma vez que há previsão expressa no art. 13, 1, XIII, g, da Lei Complementar (LC) 123/2002. 5. Não há ofensa à regra da não cumulatividade, haja vista que o art. 23 da LC 123/2002 veda explicitamente a apropriação ou compensação de créditos relativos a impostos ou contribuições abrangidos pelo Simples Nacional.

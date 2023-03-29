@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Entre os documentos eletrnicos, assume importncia o e-mail, dada a sua utilizao na comunicao pela internet e o meio de realizao ou de prova de crimes militares (por exemplo, crime de ameaa). A autenticidade de quem envia ou armazena a mensagem  fundamental. O documento certificado pelo ICP-Brasil presume-se autntico. O documento certificado por outro meio de comprovao de autoria e integridade ser considerado autntico e ntegro desde que admitido pelas partes como vlido ou aceito pela pessoa a que for oposto os documentos, isto , os documentos eletrnicos certificados por outro rgo que no seja o ICP-Brasil seguem o mesmo regime do CPP para os documentos particulares. A base fsica eletrnica permite o documento eletrnico ser alterado. Se na instruo criminal houver impugnaes,  indispensvel a realizao de percia tcnica a fim de comprovar a autenticidade e veracidade ou autoria e destinatrio. Quanto  autenticidade explica Augusto Tavares Rosa Marcacini que o documento eletrnico  a sequncia de bits e, onde quer que esteja gravado, em qualquer quantidade de cpias, mas desde que seja reproduzida exatamente a mesma sequncia, teremos sempre o mesmo documento. Dado o fato de que o documento eletrnico pode ser copiado infinitas vezes, mantendo-se exatamente igual  matriz,  impossvel falar-se em original, em cpia, ou em nmero de vias do documento eletrnico. Toda cpia do documento eletrnico ter sempre as mesmas caractersticas do original e, por isso, deve ser assim considerada.  o caso at de dizermos que no existe um original e no existem cpias nem vias do documento eletrnico, enquanto ele for mantido nesta forma. Por outro lado, um documento originalmente lavrado em papel pode ser introduzido no computador, por meio de um scanner, seja para fins de armazenamento e recuperao rpida, seja para transmisso. Aqui, existe um original em papel, do qual o documento eletrnico  apenas a cpia. A dvida quanto  autenticidade da cpia eletrnica demandar o exame do original em papel.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O e-mail é um documento eletrônico importante para a comunicação pela internet e para a realização ou prova de crimes militares. A autenticidade do remetente ou do armazenamento da mensagem é fundamental. O documento certificado pelo ICP-Brasil é considerado autêntico, assim como documentos certificados por outros meios, desde que aceitos pelas partes. O documento eletrônico pode ser alterado, por isso, é necessário realizar perícias técnicas para comprovar a autenticidade e a veracidade. Documentos originais em papel podem ser introduzidos no computador para armazenamento ou transmissão, sendo necessário examinar o original em papel para garantir a autenticidade da cópia eletrônica.

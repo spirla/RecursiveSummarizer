@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+E imperioso observar se o nome do advogado que consta no instrumento de procuracao esta regular e devidamente inscrito na OAB, conforme define o artigo 103 do Novo Codigo de Processo Civil. Caso a representacao se trate de sociedade de advogados, a outorga deve conter o nome da sociedade de advogados, o seu numero de inscricao regular na OAB, bem como o endereco completo. Isso inclui o endereco eletrnico. Deve conter, ainda, a descricao individual de cada um dos advogados que dela facam parte. Caso contrario, o poder outorgado pelo outorgante nao alcancara o advogado omitido na procuracao, ainda que ele comprove que faca parte da sociedade de advogados que consta no instrumento de procuracao, conforme prev o artigo 15, paragrafo 3 do Estatuto da OAB. 5. Lavratura da ata: conforme modelo referencial disponibilizado no MAPPA, sera inserida nos autos apos os documentos acima mencionados. Da mesma forma, todas as demais reunioes deverao ser finalizadas com a lavratura da respectiva ata (artigo 70, XXII, do CEDM). c) Vedacoes para realizacao de atos de instrucao durante a reuniao de instalacao
+Nao podera haver a realizacao de nenhum ato de instrucao - interrogatorio, oitivas ou outras (artigo 70, V, do CEDM e artigo 336, paragrafo 2, do MAPPA) - o que podera ocorrer e a notificacao do acusado e seu defensor para o proximo ato, que sera o interrogatorio. Podera, tambem, haver a juntada de documentacao complementar que o Presidente verificou como necessaria no inicio dos trabalhos e nao foi juntada a Portaria pela Autoridade Convocante. Ressalta-se que havera uma hipotese em que sera possivel ocorrer a notificacao para defesa previa ao final da reuniao de instalacao, o que sera visto mais a frente quando tratarmos da defesa previa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A procuração deve conter o nome do advogado ou da sociedade de advogados, devidamente inscrito na OAB, incluindo o endereço eletrônico. A ata da reunião de instalação deve ser lavrada conforme modelo referencial, e não devem haver atos de instrução durante a reunião. A notificação do acusado e seu defensor para o próximo ato pode ocorrer, assim como a juntada de documentação complementar. Em algumas hipóteses, a notificação para defesa previa pode ocorrer ao final da reunião de instalação.

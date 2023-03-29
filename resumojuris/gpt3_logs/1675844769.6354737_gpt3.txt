@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Afinal, ha uma inegavel similitude entre os efeitos praticos da obrigacao civil de reparar o dano causado e, exemplificativamente, a imposicao da pena de executar obras de recuperacao do meio ambiente degradado, modalidade de reprimenda restritiva de direitos (prestacao de servicos a comunidade) tratada no art. 23, II, da Lei n. 9.605/1998. 1143 As sancoes criminais, entretanto, nao se equiparam a obrigacoes civeis, porque o fundamento juridico de sua incidencia e em todo distinto. Na relacao entre o Ministerio Publico e o reu em uma acao penal, inexistem os tres elementos obrigacionais ha pouco referenciados, justamente porque a pretensao punitiva criminal nao e uma obrigacao, dela divergindo em suas fontes, estruturas e consequencias. No aspecto estrutural, o vinculo das obrigacoes recai sobre o patrimonio do devedor (art. 798 do CPC), enquanto a pretensao punitiva sujeita nao so os bens do acusado, mas tambem sua liberdade e, em casos extremos, sua propria vida (art. 5, XLVII, a , da CR/88) a potestade estatal. Essa severidade adicional do braco sancionador do Estado justifica outra diferenca nas estruturas da obrigacao e da pretensao punitiva: enquanto a obrigacao, sem atravessar a crise do inadimplemento, pode ser espontaneamente cumprida pelo devedor, a pretensao punitiva sequer e tecnicamente adimplivel. O autor de um delito nao pode, ele proprio, reconhecer a pratica do crime e privar-se de sua liberdade com uma pena reclusiva, sendo imprescindivel a intermediacao do Poder Judiciario para a imposicao de sancoes criminais - e isso mesmo nos casos em que o sistema juridico permite negociacoes entre acusacao e defesa a seu respeito, como nos acordos de colaboracao premiada, regidos pela Lei n. 12.850/2013. Por fim, as consequencias juridicas da obrigacao e da pretensao punitiva sao tambem distintas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A obrigação civil de reparar o dano causado possui similitude com a imposição da pena de executar obras de recuperação do meio ambiente degradado. 2. As sanções criminais não se equiparam às obrigações civis, pois o fundamento jurídico de sua incidência é distinto. 3. O vínculo das obrigações recai sobre o patrimônio do devedor, enquanto a pretensão punitiva sujeita não só os bens do acusado, mas também sua liberdade e, em casos extremos, sua própria vida. 4. Enquanto a obrigação, sem atravessar a crise do inadimplemento, pode ser espontaneamente cumprida pelo devedor, a pretensão punitiva sequer é tecnicamente adimplível. 5. As consequências jurídicas da obrigação e da pretensão punitiva são distintas.

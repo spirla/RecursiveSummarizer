@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O Superior Tribunal de Justia j pacificou o entendimento no sentido do no cabimento da reviso criminal quando utilizada como nova apelao, com vistas ao mero reexame de fatos e provas, no se verificando hiptese de contrariedade ao texto expresso da lei penal ou  evidncia dos autos, consoante previso do art. 621, I, do CPP. Precedentes. 3. No tendo sido admitida a reviso criminal, a sentena condenatria e o acrdo que julgou o recurso de apelao constituem peas essenciais ao deslinde da controvrsia, sem as quais no h como reexaminar as questes relativas  dosimetria das penas aplicadas. O rito clere do habeas corpus demanda prova documental pr-constituda do direito alegado pelo impetrante, no sendo admitida dilao probatria. Precedentes. 4. Habeas corpus no conhecido. - g.n. (STJ - 6a Turma - HC n 206.847/SP, Rel. Min. Nefi Cordeiro, julg. em 16/02/2016, pub. em 25/02/2016). Em resumo, inexiste, nos moldes do que preceitua o artigo 551, alnea c, do Cdigo de Processo Penal Militar, qualquer prova nova que possa fundamentar o pretendido reconhecimento da inimputabilidade ou semi-imputabilidade penal do requerente e as consequentes nulidade ou reforma da deciso condenatria com a reduo da pena.  o relatrio. VOTOS DESEMBARGADOR JADIR SILVA, RELATOR O presente pedido foi proposto por Santos Roberto Fernandes de Carvalho para desconstituir a respeitvel sentena penal condenatria proferida nos autos do Processo n. 0005535-60.2012.9.13.0003/MG, que teve seu trmite junto  Terceira Auditoria Judiciria Militar do Estado de Minas Gerais (3a AJME), tendo como fundamento o art. 621, incisos I, II e III, do Cdigo de Processo Penal (CPP)87 88 89. De incio, ressalto que se aplica ao caso os exatos termos do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Superior Tribunal de Justia pacificou o entendimento de inexistncia de cabimento da reviso criminal como nova apelao, quando no h hiptese de contrariedade ao texto expresso da lei penal ou evidncia dos autos. O habeas corpus tambm foi negado, pois no houve prova documental pr-constituda do direito alegado pelo impetrante e inexiste, nos moldes do artigo 551, alnea c, do Cdigo de Processo Penal Militar, qualquer prova nova que possa fundamentar o reconhecimento da inimputabilidade ou semi-imputabilidade penal e as consequentes nulidade ou reforma da deciso condenatria.

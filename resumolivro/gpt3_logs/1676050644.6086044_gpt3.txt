@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A Constituio da Repblica de 1988, posteriormente, nos artigos 8 e 9 dos atos das disposies constitucionais transitrias, ampliou os efeitos da anistia para beneficiar os que foram punidos entre 1946 e 1988 por motivos exclusivamente polticos, reconhecendo a eles o direito  reparao econmica dos prejuzos sofridos. A palavra anistia contm em sua etimologia uma clara referncia ao esquecimento. No entanto, a doutrina sempre deixou claro que a anistia no promove o esquecimento da ocorrncia do fato, mas apenas de seu carter criminoso. Conforme a clssica lio de Anbal Bruno, o fato como crime cessa de existir, mas subsiste como acontecer histrico e dele podem resultar efeitos no penais.. A anistia se opera por lei penal de efeito retroativo, que no importa revogao da lei anterior. Eugnio Zaffaroni esclarece que a anistia promove o esquecimento da tipicidade de determinadas condutas por meio de descriminalizao anmala, j que  forma de descriminalizao temporal. A ilicitude do fato, de mesma forma, no  esquecida. Por isso, salvo expressa previso legal, a anistia no impede que a ilicitude do fato produza efeitos civis e administrativos. A doutrina ptria sempre concordou que a anistia produz efeitos apenas em relao ao jus puniendi, no alcanando a obrigao de reparar os danos eventualmente causados pelo crime. Por isso, a Lei 10.559/2002, sancionada no governo Fernando Henrique Cardoso possibilitou a indenizao aos anistiados pelos danos sofridos por agentes do Estado, durante o regime militar. Os Estados da Federao tambm podem reconhecer o direito  indenizao daqueles que foram agredidos por agentes de seus quadros de funcionrios. Em Minas Gerais, a Lei 13.187, de 20 de janeiro de 1999, determina o pagamento de indenizao s vtimas de tortura praticada por agentes estaduais. A anistia pode ser:
+ geral: quando beneficia todas as pessoas que tenham participado dos fatos criminosos anistiados;
+ parcial: quando exclui do benefcio alguns participantes do crime;
+ ampla ou plena: quando apaga por completo os efeitos do crime a que se refere;
+ condicional: quando estabelece condies para sua aplicao;
+ irrestrita: quando beneficia a todos os crimes relacionados com o crime principal;
+ restrita: quando so excludas algumas infraes. A anistia opera-se por lei penal de efeito retroativo, que no importa revogao da lei anterior.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituio de 1988 ampliou os efeitos da anistia para beneficiar aqueles punidos por motivos polticos entre 1946 e 1988, reconhecendo-lhes o direito à reparação econômica. A anistia opera por lei penal de efeito retroativo, sem revogar a lei anterior, e pode ser geral, parcial, ampla, condicional, irrestrita ou restrita. A Lei 10.559/2002 possibilitou a indenização aos anistiados pelos danos sofridos durante o regime militar.

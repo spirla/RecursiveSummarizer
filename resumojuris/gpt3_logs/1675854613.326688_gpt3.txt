@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+115 DESTAQUE A autopsia psicologica constitui prova atipica admissivel no processo penal, cabendo ao magistrado controlar a sua utilizacao no caso concreto. Impugna-se a validade de prova pericial produzida na fase inquisitorial denominada autopsia psicologica , em razao da ausencia de previsao legal, tampouco metodologia cientifica adequada . Em um exame superficial, poder-se-ia concluir que o simples fato de estar assinado por dois especialistas seria suficiente para conferir automatica legitimidade a qualquer laudo pericial. Entretanto, esse raciocinio nao traduz a complexidade da discussao juridica que subjaz ao caso concreto, sobretudo em razao da simbiose entre o direito probatorio, as garantias processuais e os metodos cientificos. Dito isso, rememora-se que e univoca a opiniao de que a busca pela verdade no processo penal encontra limitacao nas regras de admissao, de producao e de valoracao do material probatorio, o qual servira de suporte ao convencimento do julgador. Afinal, os fins colimados pelo processo penal sao tao importantes quanto os meios de que se utiliza (Reclamacao 36.734/SP, Rel. Ministro Rogerio Schietti, Terceira Secao, DJe 22/2/2021). A primeira questao a ser enfrentada diz respeito a taxatividade, ou nao, das provas nominadas no CPP. Inicia-se esse debate partindo da constatacao de que existe um inegavel contraste entre a velocidade com que o conhecimento cientifico e construido e o tempo de atualizacao normativa. Nao obstante a ausencia de dispositivo especifico sobre as provas atipicas no CPP, e possivel utilizar, por analogia - como autoriza o art. 3 do CPP -, o art. 369 do CPC, que dispoe que as partes tem o direito de empregar todos os meios legais, bem como os moralmente legitimos, ainda que nao especificados neste Codigo, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na conviccao do juiz .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A autopsia psicológica constitui prova atípica admissível no processo penal, cabendo ao magistrado controlar a sua utilização no caso concreto. 2. É unívoca a opinião de que a busca pela verdade no processo penal encontra limitação nas regras de admissão, de produção e de valoração do material probatório. 3. É possível utilizar, por analogia, o art. 369 do CPC, que dispõe que as partes têm o direito de empregar todos os meios legais, bem como os moralmente legitimos, ainda que não especificados neste Código, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+767 Apos a analise dos precedentes desta Corte Superior e do STF, e razoavel concluir que a reincidencia nao impede, por si so, que se reconheca a insignificancia penal da conduta a luz dos elementos do caso concreto, mas pode ser um dos elementos que justificam a tipicidade material da conduta. Extrai-se do caso que, alem de estar em prisao domiciliar no momento em que praticou o furto, no dia 7/9/2016, o recorrente tambem ja foi condenado em 20/12/2013 por furto praticado em 24/1/2013; em 18/6/2014, por furto e resistencia praticados em 26/11/2013; em 28/2/2008, por tentativa de furto e uso de documento falso praticados em 22/5/2007, e, por fim, condenado em 7/12/2007 por tentativa de furto praticada em 22/8/2007. O entendimento, portanto, encontra-se em consonancia com a orientacao jurisprudencial da Terceira Secao desta Corte, no julgamento do EAREsp 221.999/RS, da relatoria do Ministro Reynaldo Soares da Fonseca, de que a reiteracao criminosa inviabiliza a aplicacao do principio da insignificancia, ressalvada a possibilidade de, no caso concreto, as instancias ordinarias verificarem ser a medida socialmente recomendavel, o que nao se da no caso. (Informativo n. 746) PROCESSO REsp 1.977.119-SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 16/08/2022. RAMO DO DIREITO DIREITO PENAL TEMA Trafico de drogas. Atuacao das guardas municipais. Rol taxativo do art. 144 da CF/88. Busca pessoal. Ausencia de relacao clara, direta e imediata com a tutela de bens, servicos e instalacoes municipais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A reincidência não impede, por si só, que se reconheça a insignificância penal da conduta a luz dos elementos do caso concreto, mas pode ser um dos elementos que justificam a tipicidade material da conduta. 2. A reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem ser a medida socialmente recomendável. 3. A atuação das guardas municipais deve seguir o rol taxativo do art. 144 da CF/88, sendo necessária a existência de uma relação clara, direta e imediata com a tutela de bens, serviços e instalações municipais para a realização de busca pessoal.

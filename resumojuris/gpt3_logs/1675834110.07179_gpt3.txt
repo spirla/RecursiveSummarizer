@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ente publico federal. Competencia. Juizo Federal. DESTAQUE O processamento e julgamento de procedimento administrativo de duvida suscitado por oficial de registro imobiliario relativamente a imoveis de autarquia publica federal compete ao juizo federal. O conflito de competencia decorre da divergencia instaurada entre juizo de registros publicos e juizo federal. Em ambos houve recusa ao processamento e ao julgamento de procedimento de suscitacao de duvida instaurada por titular de serventia de registro imobiliario derivado de pedido formulado por Universidade Federal. 140 No caso, a autarquia federal pretendeu a retificacao de registros imobiliarios com o fim de que fossem unificados sob uma matricula apenas, nova e a ser aberta em seu nome, mas, como havia a necessidade de esclarecimentos adicionais e do fornecimento de certa documentacao nao entregue, a titular do registro imobiliario suscitou o procedimento de duvida. Por conseguinte, o conflito surge em razao da presenca da autarquia federal que, para o juizo estadual, seria suficiente o deslocamento da competencia tendo em vista principalmente o teor da Lei n. 6.739/1979, que trata da matricula e do registro de imoveis rurais, e essencialmente disciplina os casos em que a matricula e o registro sao declarados inexistentes e cancelados quando versarem sobre imovel rural vinculado a titulo nulo de pleno direito, ou que tenha sido registro em desacordo com o art. 221 da Lei n. 6.015/1973. Todavia, nao se cuida aparentemente de imoveis rurais. A competencia decerto atribui-se ao juizo federal. A Lei n. 5.972/1973, que regula o procedimento para o registro de bens imoveis da Uniao, deve ser interpretada para que abranja nao apenas a Uniao propriamente, mas as demais pessoas juridicas de direito publico integrantes da Administracao Publica Federal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O processamento e julgamento de procedimento administrativo de dúvida suscitado por oficial de registro imobiliário relativamente a imóveis de autarquia pública federal compete ao Juízo Federal. 2. O conflito de competência decorre da divergência instaurada entre Juízo de Registros Públicos e Juízo Federal. 3. A Lei nº 5.972/1973, que regula o procedimento para o registro de bens imóveis da União, deve ser interpretada para que abranja não apenas a União propriamente, mas as demais pessoas jurídicas de direito público integrantes da Administração Pública Federal.

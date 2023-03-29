@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Tanto o e que, em paralelo a tese firmada no recurso representativo da controversia, em 21/05/2014, consolidou-se na jurisprudencia do STJ o entendimento de que o mero deposito para garantia do juizo, a fim de viabilizar a impugnacao do cumprimento de sentenca, nao perfaz adimplemento voluntario da obrigacao, porquanto a satisfacao desta somente ocorre quando o valor respectivo ingressa no campo de disponibilidade do credor. Por isso, passou esta Corte a diferenciar o pagamento da garantia do juizo , para o efeito de incidencia da multa prevista no entao art. 475-J do CPC/1973 (art. 523 do CPC/2015). A obrigacao da instituicao financeira depositaria pelo pagamento dos juros e correcao monetaria sobre o valor depositado convive com a obrigacao do devedor de pagar os consectarios proprios de sua mora, segundo previsto no titulo executivo, ate que ocorra o efetivo pagamento da obrigacao ao credor. No plano de direito material, considera-se em mora o devedor que nao efetuar o pagamento na forma e tempo devidos, hipotese em que devera responder pelos prejuizos a que sua mora der causa, mais juros e atualizacao dos valores monetarios, alem de honorarios de advogado, nos termos dos arts. 394 e 395 do CC. Outrossim, tem-se por caracterizada a mora do devedor ate que este a purgue, mediante o efetivo oferecimento ao credor da prestacao devida, acrescida dos respectivos consectarios (art. 401, I, do CC/2002). A purga da mora na obrigacao de pagar quantia certa, assim como ocorre no adimplemento pontual desse tipo de prestacao, nao se consuma com a simples perda da posse do valor pelo devedor; e necessario, deveras, que ocorra a efetiva entrega da soma de valor ao credor, ou, ao menos, a entrada da quantia na sua esfera de disponibilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O mero depósito para garantia do juízo não perfaz adimplemento voluntário da obrigação, pois a satisfação desta somente ocorre quando o valor respectivo ingressa no campo de disponibilidade do credor. 2. É caracterizada a mora do devedor até que este a purgue, mediante o efetivo oferecimento ao credor da prestação devida, acrescida dos respectivos consectários. 3. A purga da mora na obrigação de pagar quantia certa não se consuma com a simples perda da posse do valor pelo devedor; é necessário, deveras, que ocorra a efetiva entrega da soma de valor ao credor, ou, ao menos, a entrada da quantia na sua esfera de disponibilidade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No havendo previso legal para que as penas de prestao pecuniria e de perda de bens e valores sejam consideradas dvidas, continuam sendo consideradas o que realmente so: penas criminais. Dessa forma, descumprir a restrio imposta significa no pagar o dinheiro estipulado como prestao pecuniria; no cumprir a prestao de outra natureza; inviabilizar o confisco de bens e valores; no prestar os servios impostos para cumprimento em entidade pblica ou comunitria; exercer os direitos temporariamente interditados ou descumprir a obrigao de permanecer, nos dias e horrios estabelecidos, na casa do albergado ou estabelecimento adequado, bem como no participar das atividades desenvolvidas nesses locais. Se o descumprimento das restries for injustificado, deve o magistrado converter a pena restritiva de direitos em privativa de liberdade. Havendo descumprimento justificado, o juiz deve readequar o cumprimento da pena, de modo que o condenado cumpra integralmente a pena no cumprida (artigo 148 da LEP). Como a converso somente se d diante de descumprimento injustificado, antes de proceder  converso, o juiz deve ouvir o condenado para obter explicaes pelo no cumprimento da pena imposta. No se pode presumir a ausncia de justificativa. Considerando que a converso acarreta mudana na situao jurdica do condenado, com a privao de sua liberdade, no se pode abrir mo do contraditrio e da ampla defesa. b) Condenao  pena privativa de liberdade por outro crime. Conforme o pargrafo 5 do artigo 44 do CP, sobrevindo condenao a pena privativa de liberdade, por outro crime, o juiz da execuo penal decidir sobre a converso, podendo deixar de aplic-la se for possvel ao condenado cumprir a pena substitutiva anterior. A hiptese  de converso facultativa, mas o legislador definiu o critrio que deve orientar o julgador na deciso sobre a converso: ser possvel cumprir a pena restritiva de direitos anteriormente imposta. Cabe observar, no entanto, que a faculdade somente se apresenta quando a pena substituda puder ser cumprida. Havendo a possibilidade material de cumprimento, o juiz deve avaliar a convenincia da converso. Se entender que a situao ftica indica que a pena substitutiva no  suficiente para a reprovao e preveno do crime, poder determinar a converso. No entanto, se no for possvel o cumprimento da pena substitutiva anteriormente aplicada, a converso torna-se obrigatria.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O descumprimento das penas restritivas de direitos, como a prestação pecuniária, perda de bens e valores, serviços impostos e limitação de direitos, pode levar à conversão para pena privativa de liberdade caso seja injustificado. Se houver justificativa, o juiz deve readequar o cumprimento da pena. Se for condenado a uma pena privativa de liberdade por outro crime, o juiz pode optar por converter a pena restritiva anteriormente imposta, desde que seja possível cumpri-la.

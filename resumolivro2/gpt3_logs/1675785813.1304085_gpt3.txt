@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nos embarguinhos a parte pode pedir ao juiz togado, que tem atribuio de redigir a sentena (artigo 438, pargrafo 2, CPPM), que reconhea e declare haver nela obscuridade, ambiguidade, contradio ou omisso. No se confundem embargos de declarao com a possibilidade de o juiz corrigir inexatides materiais da sentena, de ofcio ou a requerimento da parte. Entende-se por erro material a falta de exatido sobre algum dado que no implica no mrito da sentena. Os embarguinhos tm importncia no prequestionamento do recurso extraordinrio, consoante dispe a Smula 356 do STF:
+O ponto omisso da deciso, sobre o qual no foram opostos embargos declaratrios, no pode ser objeto de recurso extraordinrio, por faltar o requisito do prequestionamento;
+e do recurso especial, conforme estabelecido na Smula 211 do STJ:
+Inadmissvel recurso especial quanto  questo que, a despeito da oposio de embargos declaratrios, no foi apreciada pelo tribunal a quo. 18.4.1. Requisitos de admissibilidadeCabem embargos da sentena que se apresentar obscura, ambgua, controversa ou omissa (artigo 382, CPP). Pode haver obscuridade, ambiguidade, contradio ou omisso entre o que consta na sentena e o que foi decidido pelo Conselho de Justia;
+entre o que foi decidido pelo Conselho de Justia e a motivao do julgado redigido pelo juiz;
+e entre o que consta da ata de sesso de julgamento e a sentena. O prazo para interposio  de dois dias contado da sentena. Tm legitimidade para opor embargos de declarao o Ministrio Pblico, o acusado e o defensor (artigo 511, CPPM). 18.4.2. Procedimento. A petio acompanhada das razes  endereada ao juiz prolator da sentena com a indicao do ponto ambguo, obscuro, contraditrio ou omisso. No h necessidade de intimao da outra parte para contrarrazoar, salvo se os embargos tiverem efeitos infringentes. O prazo previsto para o juiz decidir  de 5 dias (artigo 1.024, caput, CPC). 18.4.3.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Cabem embargos de declaração para sentenças obscuras, ambíguas, controversas ou omissas. Os embargos têm importância para o prequestionamento de recursos extraordinários e especiais. O prazo para interposição é de dois dias e o Ministério Público, o acusado e o defensor têm legitimidade para opor embargos. O juiz tem cinco dias para decidir.

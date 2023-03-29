@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A ttulo de exemplo citaram a seguinte fala do ru: Esse ano de 2017 ser promissor, tamo junto!" Disseram que ficou devidamente comprovado o recebimento de valores pelo ru Luciano, decorrentes da remunerao paga por Danone, pelos servios prestados  OrCrim, sendo absolutamente descabida a tese de que tais quantias seriam provenientes de um emprstimo contrado com o Danone. Apontaram como extremamente ofensiva a mera ilao de que o Ministrio Pblico ou os policiais vinculados ao GAECO teriam utilizado softwares que forjam conversas de WhatsApp para, criminosamente, produzir provas contra o apelante, afirmao esta que viola at mesmo os princpios da lealdade processual e da cooperao, na medida em sugere, sem qualquer prova, uma prtica criminosa por parte de agentes pblicos. Finalmente, anunciaram que a defesa no requereu, tempestivamente, durante a instruo criminal, a percia que ora reclama, para provar a suposta violao de integridade do aparelho celular de Danone, fazendo-o agora, s para lanar suspeitas vazias contra os julgadores numa fase processual em que no mais se permite dilao probatria. Tambm em relao ao ru Edmilson, as provas que sustentaram sua condenao foram igualmente reapresentadas, inclusive com a transcrio de trechos das mensagens que trocou com o Danone, salientando como absolutamente insustentvel, frente  prova dos autos, a alegao de que o recorrente realizava bicos sem saber que estava se envolvendo com uma organizao criminosa, j que os prints das telas do celular de Danone demonstram que o ru possua pleno conhecimento das ilicitudes das quais participava, ou seja, auxiliava um criminoso que explorava jogos de azar, corrompia policiais e, no mnimo, ameaava e agredia desafetos, ficando comprovada, assim, a estabilidade do vnculo por ele firmado com o lder da organizao. Tomaram por robustas as provas contra o acusado Edimilson, de ter aceitado promessa e efetivamente recebido vantagens indevidas, em razo de ter exercido suas atribuies na OrCrim, nos termos do comprovante de depsito na conta bancria de sua titularidade, realizado por Danone. Contra-arrazoando o apelo do ru Cristiano, amparados por entendimentos doutrinrios e jurisprudenciais sobre o tema, os promotores de Justia rebateram todas as alegaes defensivas, a partir da preliminar de inpcia da denncia, porquanto a jurisprudncia ptria no veda aes penais originadas de denncias annimas, apenas exigindo a realizao de diligncias preliminares para a verificao da verossimilhana dos fatos narrados, as quais foram devidamente realizadas no caso dos autos e comprovaram a existncia da organizao criminosa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa do ru Luciano foi descabida, pois ficou comprovado o recebimento de valores por serviços prestados. A defesa do ru Edmilson foi rejeitada, pois houve comprovação de vínculo com o líder da organização criminosa e aceitação de vantagens indevidas. A preliminar de inpcia da denúncia foi rejeitada, pois foram realizadas diligências preliminares que comprovaram a existência da organização criminosa.

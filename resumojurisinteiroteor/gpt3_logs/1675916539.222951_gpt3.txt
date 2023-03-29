@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em razo da condenao imposta, em sentena foi fixada a pena total de 04 (quatro) anos de recluso, a ser cumprida em regime aberto. Segundo a representao ministerial (Evento 1 - INIC1): [...] Segundo consta dos referidos autos, ciente da existncia de diversas irregularidades relacionadas  ausncia de medidas de segurana contra incndio e pnico nas dependncias da empresa denominada Recuperadora Gacha Ltda., situada em Uberlndia, em data no especificada do ms de agosto de 2017 o representado recebeu de Rogrio Ribeiro de Andrade o valor de R$ 300,00 (trezentos reais), para que realizasse uma pr-vistoria no local e orientasse os proprietrios do empreendimento sobre como deveriam agir para regularizar a edificao, vindo, posteriormente, a receber, tambm, a quantia de R$ 15.000,00 (quinze mil reais) como garantia de aprovao do projeto tcnico do local e de emisso do respectivo Auto de Vistoria do Corpo de Bombeiros (AVCB). Visando, ento, justificar a emisso do referido Auto de Vistoria, o representado inseriu informaes falsas no Boletim de Ocorrncia n. 2017-40142503 (REDS n. 2017-021285687-001) no sentido de que o Processo de Segurana contra Incndio e Pnico (PSCIP) do empreendimento havia sido aprovado pelo Corpo de Bombeiros, estando tal edificao em conformidade com a legislao estadual e com as normas e instrues de segurana, o que, contudo, no era verdade. Alm da condenao do aludido bombeiro militar a pena superior a dois anos, a perda da graduao se justifica no caso concreto pelas gravidades, circunstncias e repercusso dos crimes na sociedade local, que, sem dvida, tornaram inapropriada a permanncia do representado nas fileiras do Corpo de Bombeiros Militar do Estado de Minas Gerais. Diante do exposto, REQUER o Ministrio Pblico, aps sua distribuio e regular processamento, seja a presente representao julgada procedente com a excluso do 3 Sgt QPR BM MARCELO SARDELLA DA SILVA do Corpo de Bombeiros Militar do Estado de Minas Gerais, nos termos do artigo 102 do Cdigo Penal Militar. Com a representao, foram anexados os documentos constantes do Evento 1. Em petio no Evento 10, o representado, por sua combativa defesa, pede que seja anexado o inteiro teor do processo de origem, deixando de atentar para o fato de que se trata de autos eletrnicos, e que o processo relativo  ao de origem encontra-se devidamente relacionado. Citado, o representado apresentou defesa e documentos, como consta do Evento 19, aduzindo a existncia de ilegalidades e a inexistncia de provas para justificar o decreto condenatrio na ao de origem, bem como afirma a inpcia da denncia, alm de dizer que a reprimenda penal j foi suficiente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público requer a exclusão do 3º Sgt QPR BM do Corpo de Bombeiros Militar do Estado de Minas Gerais, em razão de condenação imposta em sentença, fixada a pena total de 04 anos de reclusão, a ser cumprida em regime aberto, por inserir informações falsas no Boletim de Ocorrência, visando justificar a emissão do Auto de Vistoria do Corpo de Bombeiros. O representado apresentou defesa e documentos, alegando ilegalidades e inexistência de provas para justificar o decreto condenatório.

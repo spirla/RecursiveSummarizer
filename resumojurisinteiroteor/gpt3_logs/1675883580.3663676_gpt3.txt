@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Equivoca-se a defesa do representado, tendo em vista que o processo originrio de perda de graduao das praas ou perda do posto e da patente dos oficiais trata-se de um processo autnomo, de competncia originria e exclusiva, nos Estados de Minas Gerais, So Paulo e Rio Grande do Sul, dos Tribunais de Justia Militar, quando militares estaduais forem condenados, na justia comum ou militar, a pena privativa de liberdade superior a dois anos, por sentena transitada em julgado, em conformidade com a Emenda Constitucional 45/2004. Neste aspecto, colaciono artigos constitucionais que tratam desta matria: Constituio Federal de 1988 Art. 125 - Os Estados organizaro sua Justia, observados os princpios estabelecidos nesta Constituio. [..]  4 - Compete  Justia Militar estadual processar e julgar os militares dos Estados, nos crimes militares definidos em lei e as aes judiciais contra atos disciplinares militares, ressalvada a competncia do jri quando a vtima for civil, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduao das praas. (redao determinada pela EC 45/2004). [..] Art. 142 - As Foras Armadas, constitudas pela Marinha, pelo Exrcito e pela Aeronutica, so instituies nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da Repblica, e destinam-se  defesa da Ptria,  garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem. [..] VI - o oficial s perder o posto e a patente se for julgado indigno do oficialato ou com ele incompatvel, por deciso de tribunal militar de carter permanente, em tempo de paz, ou tribunal especial, em tempo de guerra; [..] VII - o oficial condenado na justia comum ou militar a pena privativa de liberdade superior a dois anos, por sentena transitada em julgado, ser submetido ao julgamento previsto no inciso anterior; (g.n.) Constituio do Estado de Minas Gerais Art. 39 - So militares do Estado os integrantes da Polcia Militar e do Corpo de Bombeiros Militar, que sero regidos por estatuto prprio estabelecido em lei complementar. [..]  7 - O Oficial somente perder o posto e a patente se for julgado indigno do oficialato ou com ele incompatvel, por deciso do Tribunal de Justia Militar, ou de tribunal especial, em tempo de guerra, e a lei especificar os casos de submisso a processo e o rito dele. (Simetria com o art. 142, inciso VI da CF/88)  8 - O militar condenado na Justia, comum ou militar, a pena privativa de liberdade superior a dois anos, por sentena transitada em julgado, ser submetido ao julgamento previsto no pargrafo anterior. (Simetria com o art. 142, inciso VII da CF/88) Art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar tem competncia originria e exclusiva para julgar os militares dos Estados nos crimes militares, bem como para decidir sobre a perda do posto e da patente dos oficiais e da graduao das praas, quando militares estaduais forem condenados, na justia comum ou militar, a pena privativa de liberdade superior a dois anos, por sentena transitada em julgado.

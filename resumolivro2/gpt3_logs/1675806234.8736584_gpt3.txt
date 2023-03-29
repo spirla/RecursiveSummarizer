@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Compete aos Conselhos, de acordo com o artigo 27 da LOJMU, com a redao dada pela Lei 13.774/2018:
+I - Especial de Justia, processar e julgar oficiais, exceto oficiais-generais, nos delitos previstos na legislao penal militar;
+II - Permanente de Justia, processar e julgar militares que no sejam oficiais, nos delitos a que se refere o inciso I do caput deste artigo. Cuida-se de competncia ratione personae. So sorteados para integram o CEJ oficiais de posto superior ao do acusado, ou se do mesmo posto de maior antiguidade (artigo 23 da Lei 8.457/92), que depois de julgado o ru  dissolvido, reunindo-se, novamente, se sobrevier nulidade do processo ou do julgamento, ou diligncia determinada pela instncia superior. A atuao dos Conselhos de Justia se inicia aps o recebimento da denncia e, de acordo com o artigo 28 da Lei 8.457/92, lhes compete:
+I - decretar a priso preventiva de acusado, revog-la ou restabelec-la;
+II - conceder menagem e liberdade provisria, bem como revog-las;
+III - decretar medidas preventivas e assecuratrias;
+IV - declarar a inimputabilidade de acusado;
+V - decidir as questes de direito ou de fato suscitadas durante instruo criminal ou julgamento. O STF (HC 114.327/BA) concedeu ordem de habeas corpus, pois considerou que a deciso monocrtica proferida por juiz togado de reconhecer a incompetncia absoluta da Justia Militar, aps o recebimento da denncia, invadiu a competncia do Conselho Permanente da Justia, nos termos do artigo 28, V, da Lei 8.457/1992 (Lei de Organizao Judiciria Militar). Em razo da norma, o STM anulou deciso do juiz-auditor que arquivou o procedimento especial de desero de desertor considerado incapaz para o Servio Militar pela Junta Mdica. 8.3. Justia Militar dos estados.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os Conselhos de Justiça Militar têm a competência de processar e julgar militares, exceto oficiais-generais, nos delitos previstos na legislação penal militar. O Conselho Especial de Justiça é composto por oficiais de posto superior ao do acusado ou de mesmo posto de maior antiguidade. O Conselho Permanente de Justiça tem competência para decretar prisão preventiva, conceder liberdade provisória, decretar medidas preventivas e assecuratórias, declarar a inimputabilidade de acusado e decidir questões de direito ou de fato suscitadas durante instrução criminal ou julgamento. O STF concedeu habeas corpus pois considerou que a decisão monocrática proferida por juiz togado invadiu a competência do Conselho Permanente de Justiça. O STM anulou decisão do juiz-auditor que arquivou o procedimento especial de desero de desertor considerado incapaz para o Serviço Militar pela Junta Médica.

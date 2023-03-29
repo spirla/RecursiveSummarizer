@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os servios da JMU so executados pela Secretaria do STM e das Auditorias, cujos funcionrios esto sujeitos ao Regime Jurdico nico dos Servidores Pblicos Civis da Unio. A Lei 8.457/1992 organiza os servios desempenhados pelas Secretarias, estabelece as atribuies do diretor, dos analistas judicirios, dos oficiais de justia avaliadores e demais servidores. Nos estados h funes de Diretor de Secretaria, Coordenador de Cartrio, escrivo, tcnico judicirio ou escrevente. Entre as atribuies do serventurio as principais so as de manter em ordem os autos dos processos e de movimentar o processo (fsico) mediante a formalizao de termos. Com o termo de concluso remete os autos ao juiz. Com o termo de vista os disponibiliza ao membro do Ministrio Pblico ou ao advogado da parte. No termo de recebimento certifica o retorno dos autos ao cartrio ou  secretaria. Com o termo de autuao o serventurio certifica que reuniu documentos, enumerou folhas e registrou a natureza do procedimento. No termo de juntada o serventurio agrega aos autos documento, petio etc. Com o termo de apensamento registra que autos apartados foram apensados aos autos principais. No termo de desentranhamento registra que desentranhou dos autos determinado documento. Diz-se, ainda, tomar por termo ou reduzir a termo, que significa documentar por escrito o declarado por algum (no comparecimento espontneo do indicado ou acusado tomar-se-o por termo das declaraes que fizer - artigo 262, CPPM). Oficial de Justia realiza diligncias que lhe atribuir a lei de organizao judiciria militar e as que lhe forem ordenadas por despacho do juiz, certificando o ocorrido, no respectivo instrumento, com designao de lugar, dia e hora. As diligncias so feitas durante o dia, em perodo que medeie entre as seis e as dezoito horas e, sempre que possvel, na presena de duas testemunhas. Os mandados so entregues em cartrio logo depois de cumpridos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A JMU é responsável pelos serviços executados pela Secretaria do STM e das Auditorias, cujos funcionários estão sujeitos ao Regime Jurdico Único dos Servidores Públicos Civis da União. Os serventuários têm como principais atribuições manter em ordem os autos dos processos, movimentar o processo (físico) e certificar o retorno dos autos ao cartório ou secretaria. Oficiais de Justiça realizam diligências durante o dia, em período entre 6 e 18 horas, e entregam os mandados em cartório logo após serem cumpridos.

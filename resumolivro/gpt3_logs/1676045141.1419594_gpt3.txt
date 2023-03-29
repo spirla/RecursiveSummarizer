@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O artigo 24 do CP somente autoriza a justificao da conduta salvadora quando quem realiza o salvamento no tiver produzido, por sua vontade, o perigo ao bem jurdico que pretende salvar. Cabe notar que a restrio refere-se  produo voluntria do perigo, e no  produo do resultado tpico. O comportamento tpico que se pretende justificar pode ser doloso ou culposo, no importa. O que o legislador impede  que aquele que voluntariamente produziu a situao de perigo ao bem jurdico, a pretexto de salv-lo, venha, posteriormente, lesionar outro bem jurdico. Com certeza, provocar a situao de perigo a fim de us-la como pretexto para lesionar outro bem jurdico, ao contrrio de excluir o desvalor da conduta, mais a agrava. O tema gera controvrsia na doutrina, que discute se voluntariedade na produo do perigo significa unicamente a produo dolosa do perigo ou tambm se refere  produo culposa deste. Com certeza, no  possvel a justificao da conduta lesiva daquele que produziu intencionalmente a situao de perigo ao bem jurdico protegido. Se entendermos que produzir intencionalmente o perigo significa produzir dolosamente, a polmica restringe-se  produo culposa do perigo. Alguns doutrinadores, como Nelson Hungria, Magalhes Noronha e Assis Toledo, sustentaram que a produo culposa da situao de perigo tambm impediria a justificao da conduta de salvamento. O argumento acolhido  que a vontade est igualmente presente na culpa stricto sensu, como vontade na realizao de comportamento que d causa a um resultado no pretendido. Assis Toledo, nesse sentido, cita o exemplo do engenheiro de minas que faz explodir dinamites, estando devidamente autorizado para tanto. A exploso decorre de conduta voluntria, muito embora no exista a inteno de produzir situao de perigo ou dano. Ocorrendo a situao de perigo, por desateno aos deveres objetivos de cuidado na conduo do processo, no poderia o engenheiro justificar a leso a bens jurdicos de terceiros, a fim de salvar do perigo por ele provocado um bem jurdico prprio. J, Anbal Bruno, Heleno Fragoso e Rogrio Greco admitem a justificao quando a situao de perigo  produzida culposamente por quem realiza a ao de salvamento. O exemplo sempre lembrado  o caso do fumante que, estando no interior de uma sala de projeo de cinema, lana ao cho cigarro aceso que produz situao de incndio. Na disputa para alcanar rapidamente a nica sada e salvar a prpria vida, o fumante produz leso corporal em terceira pessoa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 24 do CP autoriza a justificação da conduta salvadora desde que não tenha sido produzido, voluntariamente, o perigo ao bem jurdico que se pretende salvar. A doutrina discute se a produção voluntária do perigo se refere à produção dolosa ou culposa. A maioria dos doutrinadores não admite a justificação da conduta lesiva de quem produziu intencionalmente o perigo, enquanto outros admitem a justificação quando o perigo foi produzido culposamente.

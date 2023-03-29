@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A moldura fatica da presente controversia apresenta uma forma peculiar de contratacao de plano de saude, em que o plano e contratado por uma associacao de empregados/servidores, mas o orgao empregador, sem se vincular com a operadora, patrocina o plano de saude, subsidiando, por forca de lei municipal, parte da mensalidade devida por seus servidores e empregados. Essa forma peculiar de contratacao de plano de saude nao se enquadra perfeitamente na definicao normativa de plano coletivo por adesao, pois impede que o plano de saude seja classificado como plano coletivo por adesao, nao obstante a formalizacao do contrato nesses termos. Conforme art. 9 da Resolucao Normativa ANS n. 195/2009 e Anexo II da Resolucao Normativa ANS n. 100/2005, a previsao normativa de patrocinio diz respeito aquele concedido pela propria entidade que contrata a operadora. Noutro norte, o enquadramento do plano como coletivo empresarial tambem encontra empecilhos, em virtude da figura da associacao como estipulante. Depreende-se do enunciado normativo do art. 23, da RN ANS n. 195/2009, que os planos de saude empresariais podem ser contratados diretamente pelas empresas ou por intermedio de uma administradora de beneficios, na condicao de estipulante. Nao ha previsao normativa de contratacao de plano empresarial por intermedio de uma associacao nao qualificada como administradora de beneficios, como ocorreu no caso. 32 Nesse passo, considerando a ausencia de norma especifica na Lei n. 9.656/1998 e na regulacao do setor de saude suplementar, mostra-se cabivel a aplicacao subsidiaria do Codigo de Defesa do Consumidor (cf. Sumula n. 608/STJ), especialmente do seu art. 47, que impoe um vetor interpretativo favoravel ao consumidor.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A forma peculiar de contratação de plano de saúde não se enquadra na definição normativa de plano coletivo por adesão. 2. O enquadramento do plano como coletivo empresarial também encontra empecilhos, em virtude da figura da associação como estipulante. 3. Não há previsão normativa de contratação de plano empresarial por intermédio de uma associação não qualificada como administradora de benefícios. 4. É cabível a aplicação subsidiária do Código de Defesa do Consumidor, especialmente do seu art. 47.

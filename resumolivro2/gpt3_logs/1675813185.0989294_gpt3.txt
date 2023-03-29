@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+41, II , da Lei n. 11.697, de 13.06.2008 , de organizao judiciria do Distrito Federal e dos Territrios,  o juiz de direito do juzo militar que concede  habeas corpus, quando a coao partir de autoridade administrativa ou judiciria militar, ressalvada a competncia do Tribunal de Justia . A Lei Estadual n. 3.293, de 12.11.99, que criou cargos de juiz-auditor e de serventurios vinculados  Auditoria Militar do Rio de Janeiro, disps, igualmente, e com acerto, que compete ao juiz-auditor, alm da competncia prevista na legislao particularmente aplicvel decidir habeas-corpus , quando for coatora autoridade sujeito  sua jurisdio. Se a autoridade coatora for membro do Ministrio Pblico, compete julgar o habeas corpus o tribunal ao qual est submetido a julgamento por eventual crime praticado. Se a autoridade coataora forem os procuradores e promotores da Justia Militar designados para oficiar juntos s Auditorias, membros do MPU, a competncia para julgar o habeas corpus  do respectivo Tribunal Regional Federal; se for membro do MPE, que oficia perante a Auditoria Militar Estadual ou perante o Tribunal de Justia e de Justia Militar Estadual, a competncia para julgar o habeas corpus  do Tribunal de Justia local (art. 96, III , CF/88 ). 19.1.5.Cabimento de habeas corpus
+O habeas corpus  um remdio constitucional destinado no s a tutelar a liberdade de locomoo, o direito de ir, de vir e de ficar, como, tambm, dar efetividade aos princpios constitucionais, na seara penal aos princpios da legalidade, da responsabilidade penal e da proporcionalidade e da humanidade das penas. No mbito processual (constitucional), a garantia do duplo grau de jurisdio, do juiz competente e da ampla defesa. No obstante o habeas corpus seja instrumento de tutela da liberdade locomoo, h entendimento doutrinrio e jurisprudencial que o remdio heroico pode tutelar outros direitos que tenham na liberdade locomoo a condio de exerccio. Ex.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei n. 11.697, de 13.06.2008, estabelece que o juiz de direito do juzo militar é o responsável por conceder o habeas corpus quando a coação partir de autoridade administrativa ou judiciria militar, exceto quando a autoridade coatora for membro do Ministério Público, caso em que compete ao tribunal julgar o habeas corpus. A Lei Estadual n. 3.293, de 12.11.99, também atribui ao juiz-auditor a competência para decidir habeas-corpus. O habeas corpus é um remédio constitucional destinado a tutelar a liberdade de locomoção, bem como a dar efetividade aos princípios constitucionais, como o da legalidade, da responsabilidade penal e da proporcionalidade e da humanidade das penas.

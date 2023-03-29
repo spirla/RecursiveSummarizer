@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Conforme os termos do ordenamento jurdico repressivo, a imposio imediata de pena somente pode ocorrer mediante o devido processo legal consensual (artigo 98, inciso I, da CR) estabelecido pela Lei 9.099/95 e o seu cumprimento somente pode ocorrer aps a constituio definitiva do titulo executivo judicial (trnsito em julgado formal e material da deciso homologatria da transao penal). O descumprimento injustificado da pena restritiva de direitos imediatamente imposta impe a converso em pena privativa de liberdade, nos termos do artigo 92 da Lei 9.099/94 combinado com o pargrafo 4 do artigo 44 do Cdigo Penal. O descumprimento injustificado da pena de multa imediatamente imposta, por sua vez, impe a execuo forada, nos termos da Lei 6.830/80, conforme determina artigo 92 da Lei 9.099/94 combinado com o artigo 51 do Cdigo Penal. 12.5. Acordo de no persecuo penal. Com a entrada em vigor da Lei 13.964, de 24 de dezembro de 2019, o ordenamento jurdico brasileiro passou a oferecer mais um importante espao para a atividade negocial no Direito Penal. A referida Lei inseriu o artigo 28-A no Cdigo de Processo Penal que permite ao Ministrio Pblico firmar com o investigado pela prtica de crimes de mdia gravidade acordo de no persecuo penal, com imposio de penas. Como condies para a no realizao da persecuo penal, nos termos dos incisos I a V do artigo 28-A do CPP, podem ser ajustadas as condies do investigado reparar os danos causados ou de restituir a coisa que pertence  vitima do crime; renunciar aos bens e direitos advindos da prtica criminosa; prestar servio  comunidade ou  entidades pblicas; pagar prestao pecuniria e/ou cumprir, por prazo determinado, outra condio indicada pelo Ministrio Pblico. Ao referir-se  condio de prestao de servios  comunidade ou  entidades pblicas, bem como  condio de pagar prestao pecuniria, os incisos III e IV do artigo 28-A do CPP mencionam expressamente os artigos 45 e 46 do Cdigo Penal, que estabelecem penas restritivas de direitos. Na doutrina relevante113, h quem sustente que as condies de prestar servios  comunidade e de pagar prestao pecuniria estabelecidas em acordo de no persecuo penal no constituem penas, mas sim obrigaes negociais que constituem o equivalente funcional para penas, pois o seu cumprimento no  imposto obrigatoriamente, mas sim acordado. Por tal razo, no haveria condenao no acordo de no persecuo penal e o acordo parcialmente descumprido no permite a detrao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O ordenamento jurdico brasileiro prevê a imposição imediata de pena somente mediante o devido processo legal consensual e o cumprimento da pena só pode ocorrer após a decisão homologatória da transação penal. A Lei 13.964, de 2019, introduziu o artigo 28-A no Código de Processo Penal, permitindo ao Ministério Público firmar acordos de não persecução penal com imposição de penas, como reparação de danos, renúncia a bens e direitos advindos do crime, serviços à comunidade ou entidades públicas e pagamento de prestação pecuniária.

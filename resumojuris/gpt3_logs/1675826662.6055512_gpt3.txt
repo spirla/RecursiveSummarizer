@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O art. 46 da Lei Complementar (LC) 75/1993 (Lei Organica do Ministerio Publico) atribui competencia exclusiva a Procuradoria-Geral da Republica para oficiar nos processos em curso perante o Supremo Tribunal Federal (STF). A reclamacao constitucional so pode ser ajuizada perante o STF pelo Ministerio Publico ou pela parte interessada. Do ponto de vista tecnico-juridico, nao ha espaco para que os procuradores da Republica, em cujos nomes foi protocolado o pedido de reconsideracao, ingressem nos autos na qualidade de simples particulares. Este feito e a propria acao penal em tramitacao no juizo de piso envolvem o exercicio do jus accusationis estatal e a atuacao do orgao ministerial na qualidade de dominus litis, na busca da procedencia da acusacao formulada contra o reclamante. Trata-se de atuacao institucional do Parquet. Portanto, e manifesta a ausencia de legitimidade postulatoria dos peticionantes, integrantes do Ministerio Publico Federal (MPF), de primeiro grau, totalmente alheios a lide, a impedir que intervenham nos autos para impugnar decisoes tomadas pelo STF, a pretexto de defender direitos proprios e de terceiros. A ninguem e dado pleitear direito alheio em nome proprio, salvo quando autorizado pelo ordenamento juridico. No caso, inexiste qualquer direito transindividual a justificar a atuacao do orgao ministerial de piso em legitimacao extraordinaria, na qualidade de substituto processual. Em todas as decisoes nas quais concedido o acesso ao material apreendido em operacao policial, houve ressalva de que os conteudos relativos exclusivamente a terceiros, sem qualquer relacao com o reclamante, deveriam ser mantidos sob rigoroso sigilo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 46 da Lei Complementar (LC) 75/1993 atribui competência exclusiva à Procuradoria-Geral da República para oficiar nos processos em curso perante o Supremo Tribunal Federal (STF). 2. A reclamação constitucional só pode ser ajuizada perante o STF pelo Ministério Público ou pela parte interessada. 3. Não há espaço para que os procuradores da República, em cujos nomes foi protocolado o pedido de reconsideração, ingressem nos autos na qualidade de simples particulares. 4. Trata-se de atuação institucional do Parquet. 5. É manifesta a ausência de legitimidade postulatória dos peticionantes, integrantes do Ministério Público Federal (MPF), de primeiro grau, totalmente alheios à lide, a impedir que intervenham nos autos para impugnar decisões tomadas pelo STF. 6. Ninguém é dado pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico. 7. Não existe qualquer direito transindividual a justificar a atuação do órgão ministerial de piso em legitimação extraordinária, na qualidade de substituto processual. 8. Em todas as decisões nas quais concedido o acesso ao material apreendido em operação policial, houve ressalva de que os conteúdos relativos exclusivamente a terceiros, sem qualquer relação com o reclamante, deveriam ser mantidos sob rigoroso sigilo.

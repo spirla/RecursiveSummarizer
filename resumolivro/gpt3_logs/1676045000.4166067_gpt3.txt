@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Considerava-se na ilicitude a existncia objetiva do crime, decorrente da vontade da lei, independentemente da conscincia da ilicitude do fato que era matria a ser examinada na culpabilidade. Com a mudana de paradigma proposta pelo finalismo e a percepo de elementos subjetivos tambm no injusto, o pensamento jurdico-penal passou a entender que:
+uma ao tpica no se torna desde j justificada quando subsistam os pressupostos objetivos de uma causa justificante. O autor deve ter agido, alm disso, no conhecimento da situao de fato justificante e com fundamento em uma autorizao que lhe  conferida atravs disto. A exigncia de que a conduta justificada seja motivada por vontade de atender aos fins protetivos implcitos na causa de justificao no  reconhecida na doutrina de forma pacfica. Rejeitando tal exigncia, alguns doutrinadores ainda sustentam que, para a excluso da ilicitude, basta o conhecimento dos pressupostos fticos da justificao. Nesse sentido, Stratenwerth adverte que, exigir determinados motivos para realizar o que a lei permite, importa ultrapassar os limites do juzo de valor jurdico para adentrar no campo da moral. Magalhes Noronha compartilhou da mesma opinio, sustentando que o que se passa na mente da pessoa no pode ter o dom de alterar o que se acha na realidade do fato externo. Muito embora no se devam confundir os valores jurdicos com os morais,  mais adequado o entendimento segundo o qual o mero conhecimento dos pressupostos fticos da justificao no  suficiente para excluir a ilicitude; sendo, ainda, necessrio que o sujeito direcione sua conduta por vontade de realizar comportamento substancialmente lcito, no exerccio de uma autorizao conferida pela ordem jurdica. Certamente, o desvalor da conduta no pode desaparecer se o sujeito orientar-se por motivos de desprezo aos bens ou interesses juridicamente tutelados. A teoria dos elementos subjetivos da justificao faz sentido quando sustenta que o sujeito somente poder atuar licitamente quando tiver a inteno de conduzir-se de acordo com os fins protetivos revelados pelos pressupostos fticos da causa justificante. Dessa forma, para a caracterizao da legtima defesa subjetivamente  necessria a vontade de defender-se; ao estado de necessidade, a vontade de salvamento; ao estrito cumprimento do dever legal, a finalidade de fielmente cumpri-lo; e, ao exerccio regular do direito, a vontade de atuar segundo os limites estabelecidos pelo ordenamento jurdico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A partir da mudança de paradigma proposta pelo finalismo, a teoria dos elementos subjetivos da justificação passou a exigir que o autor tenha agido com conhecimento da situação de fato justificante e com vontade de atender aos fins protetivos implícitos na causa de justificação. A intenção deve estar presente para que a conduta seja considerada lícita, não sendo suficiente o conhecimento dos pressupostos fáticos da justificação.

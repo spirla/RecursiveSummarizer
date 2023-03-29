@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+117, IV, do CP comum, veicula matria de direito penal, de forma que o sentido conceitual de "acrdo condenatrio" deve ser interpretado restritivamente, ou seja, como aquele acrdo que reforma a Sentena absolutria de primeiro grau. Nesse sentido, consoante abalizada doutrina, no se deve considerar que acrdo condenatrio  o mesmo que acrdo confirmatrio da condenao, eis que o primeiro est em contraposio  sentena absolutria de primeira instncia. Na interpretao do disposto no inciso II do  5 do art. 125 do CPM, prevalece nesta Corte castrense o entendimento de que o dispositivo abarca a Sentena condenatria e o Acrdo condenatrio, entendido este como a condenao que reforma sentena penal absolutria. Precedentes desta Corte no sentido de que, tratando-se de acrdo confirmatrio da condenao, a ltima causa interruptiva do prazo prescricional pela pretenso punitiva  a Audincia de leitura, assinatura e publicao da Sentena. Negado provimento ao Recurso para manter ntegra a Deciso de primeira instncia que declarou a extino da punibilidade, em decorrncia da prescrio intercorrente. Deciso por maioria. (Superior Tribunal Militar. RECURSO EM SENTIDO ESTRITO n. 7001355-69.2019.7.00.0000. Relator(a): Ministro(a) LCIO MRIO DE BARROS GES. Data de Julgamento: 28/05/2020, Data de Publicao: 19/08/2020) Grifei EMBARGOS INFRINGENTES DO JULGADO. ART. 267 DO CPM. PRESCRIO DA PRETENSO PUNITIVA. PUBLICAO DA SENTENA CONDENATRIA. MARCO INTERRUPTIVO. MANUTENO DO ACRDO EMBARGADO. DECISO POR MAIORIA. Consoante  jurisprudncia do Pretrio Excelso e desta egrgia Corte Castrense, havendo Sentena condenatria, o marco interruptivo da prescrio  a data da publicao/leitura do Decisum e no a data de julgamento pelo Conselho de Justia.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Superior Tribunal Militar negou provimento ao Recurso para manter ntegra a Deciso de primeira instncia que declarou a extino da punibilidade, em decorrncia da prescrio intercorrente. A jurisprudncia do Pretrio Excelso e desta Corte Castrense estabelece que, havendo Sentena condenatria, o marco interruptivo da prescrio a data da publicao/leitura do Decisum e no a data de julgamento pelo Conselho de Justia.

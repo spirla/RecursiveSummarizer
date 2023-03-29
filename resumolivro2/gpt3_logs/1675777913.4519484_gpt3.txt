@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 7, II, da Lei 8.906/94, garante ao advogado a inviolabilidade de seu escritrio ou local de trabalho, bem como de seus instrumentos de trabalho, de sua correspondncia escrita, eletrnica, telefnica e telemtica, desde que relativas ao exerccio da advocacia. Conversas telefnicas ou por e-mail entre cliente e advogado no podem ser utilizadas nos autos do processo sob pena de quebra de sigilo profissional. O sigilo profissional no tem o fim de proteger o advogado, mas o de tutelar o cidado:
+O destinatrio da franquia da inviolabilidade profissional  o cidado, titular dos direitos patrocinados, no o advogado, mero intermedirio (STF, MS-MC 23.595).  certo que essa garantia  inviolabilidade profissional no  absoluta, devendo ceder s razes jurdicas de interesse pblico, por exemplo, o STF discutiu se haveria ilicitude da prova obtida nas interceptaes telefnicas de conversas dos acusados com advogados, ao argumento de que essas gravaes ofenderiam o disposto no artigo 7, II, da Lei 8.906/96, que garante o sigilo dessas conversas em seu escritrio ou local de trabalho, e concluiu que o magistrado de primeiro grau, por reputar necessria a realizao da prova, determinou, de forma fundamentada, a interceptao telefnica direcionada s pessoas investigadas, no tendo, em momento algum, ordenado a devassa das linhas telefnicas dos advogados dos pacientes. No curso da execuo da medida, os dilogos travados entre o paciente e o advogado do corru acabaram, de maneira automtica, interceptados, alis, como qualquer outra conversa direcionada ao ramal do paciente. Valorao e eventual excluso da prova cabe ao magistrado a quem a prova  dirigida. A Lei 8.906/94 (EOAB) impe ao advogado deveres. Constitui infrao disciplinar o advogado abandonar a causa sem justo motivo ou antes de decorridos 10 (dez) dias da comunicao da renncia (artigo 34, XI).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 8.906/94 garante ao advogado a inviolabilidade de seu escritório, instrumentos de trabalho, correspondência escrita, eletrônica, telefônica e telemática, desde que relacionadas ao exercício da advocacia. Conversas entre advogado e cliente não podem ser usadas em processos judiciais, pois o sigilo profissional visa proteger o cidadão. No entanto, essa garantia não é absoluta e pode ser quebrada em casos de interesse público. Além disso, a Lei 8.906/94 impõe ao advogado o dever de não abandonar a causa sem justo motivo.

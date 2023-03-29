@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Comprovacao. Pleito Absolutorio. Incursao no acervo probatorio. Inviabilidade. DESTAQUE Demonstradas pela instancia de origem a estabilidade e permanencia do crime de associacao para o trafico de drogas, inviavel o revolvimento probatorio em sede de habeas corpus visando a modificacao do julgado. Esta Corte Superior possui pacifica jurisprudencia no sentido de que e necessaria a demonstracao da estabilidade e da permanencia da associacao para a condenacao pelo crime do art. 35 da Lei n. 11.343/2006. Sabe-se que, no crime de associacao para o trafico de drogas, ha um vinculo associativo duradouro e estavel entre seus integrantes, com o objetivo de fomentar especificamente o trafico de drogas, por meio de uma estrutura organizada e divisao de tarefas para a aquisicao e venda de entorpecentes, alem da divisao de seus lucros. A jurisprudencia do Superior Tribunal de Justica firmou-se no sentido de que: Para a configuracao do delito de associacao para o trafico de drogas, e necessario o dolo de se associar com estabilidade e permanencia, sendo que a reuniao de duas ou mais pessoas sem o animus associativo nao se subsume ao tipo do art. 35 da Lei n. 11.343/2006. Trata-se, portanto, de delito de concurso necessario (HC n. 434.972/RJ, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2018, DJe de 1/8/2018). No caso, as instancias ordinarias demonstraram a presenca da materialidade e da autoria do delito de associacao para o trafico, com a demonstracao da concreta estabilidade e permanencia da associacao criminosa, tendo em vista, em especial, a prova oral colhida contida nos autos e as conversas extraidas do aparelho celular apreendido, evidenciando que a pratica do crime de trafico de drogas nao era eventual, pelo contrario, representava atividade organizada, estavel e em funcao da qual todos os correus estavam vinculados subjetivamente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessária a demonstração da estabilidade e da permanência da associação para a condenação pelo crime do art. 35 da Lei n. 11.343/2006. 2. Para a configuração do delito de associação para o tráfico de drogas, é necessário o dolo de se associar com estabilidade e permanência. 3. É necessário demonstrar a presença da materialidade e da autoria do delito de associação para o tráfico, com a demonstração da concreta estabilidade e permanência da associação criminosa.

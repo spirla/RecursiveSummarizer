@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O conceito de atipicidade da prova compreende duas posies, a restritiva, que  majoritria no direito italiano, em que a ideia de atipicidade probatria  intimamente ligada  ausncia de previso legal da fonte de prova que se utiliza no processo, e a ampliativa, em que se tem uma prova atpica em duas situaes:
+1) quando a prova  prevista no ordenamento, mas no o seu procedimento;
+2) quando nem ela nem o seu procedimento so previstos em lei. No Brasil, Guilherme Dezem, Magalhes Gomes Filho e Badar identificam-se com a posio ampliativa. Com o que concorda Dezem, pois, a seu juzo, a teoria ampliativa parece mais adequada ao sistema. Explica Guilherme Dezem que no dizer do italiano Antonio Laronga prova  anmala quando utilizada para fins diversos daqueles que lhe so prprios, h um meio de prova expressamente previsto para a colheita da prova, no entanto, passa-se ao largo desse meio de prova tpico para logo concluir que a prova anmala consiste em grave deformao do sistema, e no pode ser aceita. A anomalia da prova acaba por redundar em nulidade, a atipicidade no. Para conceituar prova irritual vale-se o doutrinador brasileiro da definio do italiano Laronga,  a prova tpica colhida sem a observncia do modelo previsto em lei. Observa Guilherme Dezem que a prova nominada  aquela que se encontra prevista em lei, com ou sem procedimento probatrio previsto e d como exemplo de prova nominada, mas atpica, a reconstituio que  prevista no artigo 7 do CPP (e tambm no artigo 13, pargrafo nico, do CPPM), mas no  previsto seu procedimento (o CPPM tambm no prev procedimento para a reconstituio). 14.1.9. Garantias constitucionais e a prova. 14.1.9.1. Dignidade da pessoa humana. A dignidade da pessoa humana  um dos fundamentos da Repblica Federativa do Brasil (CF, artigo 1, III), que repercute com muita fora na prova. No se pode admitir a produo de prova ou admitir prova que atente contra a dignidade da pessoa humana. A Constituio Federal, em seu artigo 5, garante a inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas (inc. X), do domiclio (inc. XI) e do sigilo da correspondncia e das comunicaes telefnicas (inc. XII).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conceito de atipicidade da prova compreende duas posições: restritiva, em que a prova é considerada atípica quando não há previsão legal para a fonte de prova utilizada, e ampliativa, em que a prova é considerada atípica quando há previsão legal para a fonte de prova, mas não para o seu procedimento. No Brasil, a posição ampliativa é defendida por Guilherme Dezem, Magalhães Gomes Filho e Badar. A prova anômala é considerada uma deformação grave do sistema e pode resultar em nulidade, enquanto a prova atípica não. A Constituição Federal garante a inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas, do domicílio e do sigilo da correspondência e das comunicações telefônicas.

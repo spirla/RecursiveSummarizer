@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ Figueiredo Dias quem assim leciona:
+Diferentemente se passam as coisas em processo penal, onde, como sabemos, compete em ltimo termo ao juiz, oficiosamente, o dever de instruir e esclarecer o facto sujeito a julgamento:
+no existe aqui, por conseguinte, qualquer verdadeiro nus da prova que recaia sobre o acusador ou arguido. Vale examinar, igualmente, a posio de Eugenio Florian de que no h nus da prova porquanto o juiz supre, com sua iniciativa, a inrcia das partes:
+O juiz tem o dever de investigar todos os fatos e circunstncias indicados pelo acusado em suas declaraes, enquanto sirvam a verdade;
+o juiz ainda tem a faculdade de ordenar a realizao de provas. No se atribui ao imputado nus de provar, porque, a rigor, o juiz deve pesquisar a verdade processual. Incompatvel se torna, no entender de Romeu Pires de Campos de Barros, a entrega do nus da prova s partes num sistema processual em que o juiz  investido da faculdade instrutora supletiva e autnoma. Embora possa a parte introduzir um meio de prova no processo, indicar um fato, requerer a juntada de um documento, arrolar testemunhas etc., tais meios de prova ou elementos apresentados e apontados, desde que recebidos e avaliados no processo se desvinculam de quem os produziu. Portanto, no se pode falar, precisamente, num nus da prova para as partes e seria mais adequado dizer-se que elas exercem uma faculdade quando as produzem.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz tem o dever de investigar todos os fatos e circunstâncias indicados pelo acusado, enquanto sirvam à verdade, e ainda tem a faculdade de ordenar a realização de provas. Não se atribui ao imputado nus de provar, pois o juiz deve pesquisar a verdade processual. Embora as partes possam introduzir meios de prova, tais meios se desvinculam de quem os produziu, não sendo possível falar em nus da prova para as partes.

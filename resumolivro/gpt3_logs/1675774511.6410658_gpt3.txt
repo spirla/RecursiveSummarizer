@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Um exemplo de atitude desrespeitosa, pode se ligar a nao disponibilizacao de alojamento/vestiario para policiais femininas ou, entao, a sua utilizacao mista com militares masculinos, o que chegou a ser objeto do Memorando 10.200.4/16-EMPM:
+Ha mais de 30 anos, a PMMG incorporou a mulher em seus quadros de pessoal. Constata-se, rotineiramente, a presenca das policiais femininas nos diversos niveis da PMMG, o que, apesar da igualdade funcional com os policiais masculinos, demanda atencao por parte dos diversos comandantes, frente as caracteristicas peculiares de gnero. E imprescindivel, portanto, um ambiente idneo, salubre e reservado, dotado de alojamento ou vestiario proprio para as policiais, que propicie condicoes minimas de higiene e seguranca, com respeito a dignidade da pessoa humana. Por derradeiro, os Comandantes nos diversos niveis, nas fracoes em que existam policiais femininas lotadas, devem envidar esforcos e garantir que banheiros, vestiarios ou alojamentos sejam apropriados e de uso exclusivo para estas profissionais, conforme as peculiaridades, evitando possiveis transtornos, constrangimentos e, consequentemente, desmotivacao para a prestacao do servico. Destaca-se uma forma de cometimento da transgressao em comento que tem se tornado reincidente nas IMEs e que decorre da utilizacao indevida das midias sociais, em especial, o aplicativo WhatsApp. Nao ha como negar que a aludida midia social se tornou uma ferramenta importante no servico policial e de bombeiro militar, tanto que tem sido procedimento comum a criacao de grupos de WhatsApp de militares das Unidades, onde as divulgacoes de mensagens de interesse do servico ganham uma disseminacao instantnea e muito mais rapida do que os servicos de mensagens eletrnicas institucionais. Outra forma de utilizacao dessa ferramenta no servico policial-militar, se da na potencializacao da atividade de policia comunitaria, mormente nas redes de vizinhos e comerciantes protegidos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A PMMG incorporou a mulher em seus quadros de pessoal há mais de 30 anos. É necessário garantir alojamento ou vestiário próprio para as policiais, com condições de higiene e segurança, para evitar transtornos e desmotivação. O WhatsApp tem se tornado uma ferramenta importante para o serviço policial e de bombeiro militar, sendo usado para divulgação de mensagens de interesse do serviço e potencialização da atividade de policia comunitaria.

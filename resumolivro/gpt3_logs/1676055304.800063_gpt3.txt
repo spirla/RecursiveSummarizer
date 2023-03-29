@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No  possvel a caracterizao dos crimes com o dolo eventual, pois o tipo expressamente exige que a conduta seja orientada pela inteno de permitir a invaso de dispositivo informtico, nos termos em que  descrita no caput do referido dispositivo legal. Os crimes assemelhados so formais, bastando para a consumao dos mesmos que o sujeito produza, oferea, distribua, venda ou difunda dispositivo ou programa de computador com o fim de permitir a prtica da invaso de dispositivo informtico, conforme descrito no caput do artigo 154-A do Cdigo Penal. Para o sujeito que realiza qualquer das condutas assemelhadas, a posterior ocorrncia da invaso do dispositivo informtico constituir mero exaurimento do crime anteriormente praticado. No  possvel responsabilizar o sujeito pela prtica da conduta assemelhada e, tambm, pela participao na invaso de dispositivo informtico realizada posteriormente. 6.14.10. Figura qualificada. O pargrafo 3 do artigo 154-A do Cdigo Penal estabelece uma figura qualificada de invaso de dispositivo informtico, em razo da produo de resultados considerados mais gravosos, ao dispor que se da invaso resultar a obteno de contedo de comunicaes eletrnicas privadas, segredos comerciais ou industriais, informaes sigilosas, assim definidas em lei, ou o controle remoto no autorizado do dispositivo invadido. Os elementos normativos que integram a previso incriminadora qualificada foram examinados no item 12. supra. Ao crime qualificado foi cominada pena de recluso, de 6 (seis) meses a 2 (dois) anos, e multa, se a conduta no constitui crime mais grave. Nas hipteses em que o crime qualificado se caracteriza em razo da obteno do contedo de comunicaes eletrnicas privadas, de segredos comerciais ou industriais, ou de informaes sigilosas, o resultado que qualifica o crime pode ser produzido a titulo de dolo ou culpa.  possvel que o sujeito realize a invaso do dispositivo informtico com a inteno de obter ou assumindo o risco de obter tais informaes. No entanto, tambm  possvel que o sujeito no saiba quais informaes conseguir obter por meio da invaso do dispositivo informtico e, assim, deve-se considerar que a obteno das informaes mencionadas na descrio do crime qualificado foi culposa. Nesse caso, haver crime qualificado preterdoloso de invaso de dispositivo informtico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+É possível caracterizar o crime de invasão de dispositivo informático com dolo eventual, desde que a conduta seja orientada pela intenção de permitir a invasão. A obtenção de conteúdo de comunicações eletrônicas privadas, segredos comerciais ou industriais ou informações sigilosas qualificam o crime, sendo possível a responsabilização do sujeito por dolo ou culpa.

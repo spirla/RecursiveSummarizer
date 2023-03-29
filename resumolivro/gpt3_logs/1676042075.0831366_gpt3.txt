@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O constitucionalismo do final do sculo XX acentuou a hegemonia axiolgica dos princpios, os quais constituem a base normativa sobre a qual se assenta todo o edifcio do sistema jurdico; mesmo autores positivistas, como Norberto Bobbio,99 reconhecem que nos princpios de Direito existe normatividade. Paulo Bonavides esclarece que:
+De antiga fonte subsidiria de terceiro grau nos Cdigos, os princpios gerais, desde as derradeiras Constituies da segunda metade deste sculo, tornaram-se fonte primria de normatividade, corporificando do mesmo passo na ordem jurdica os valores supremos ao redor dos quais gravitam os direitos, as garantias e as competncias de uma sociedade constitucional. Os princpios so, por conseguinte, enquanto valores, a pedra de toque ou o critrio com que se aferem os contedos constitucionais em sua dimenso normativa mais elevada. Os princpios gerais do Direito, vislumbrados na doutrina clssica,101 so incorporados ao texto das Constituies contemporneas de modo a preservar os valores socialmente predominantes, agora sob o manto dos princpios constitucionais. O ordenamento jurdico passa, ento, a ser concebido sob novo paradigma: o principial. A teoria material da constituio trabalhou, de forma objetiva, o sistema de valores socialmente predominante para conformar o Estado Democrtico de Direito ao sentido principial. Como toda cincia, a poltica criminal possui liberdade de investigao. No entanto, suas estratgias de atuao na realidade social sofrem algumas limitaes. A atividade repressiva do Estado no se legitima unicamente por critrios utilitrios de necessidade e eficincia do combate  criminalidade. A interveno na esfera de liberdade individual deve preservar os padres de justia vigentes na sociedade, de modo que o sistema de princpios acolhido relaciona-se diretamente com os valores socialmente predominantes. Os princpios, justamente por fundamentarem toda a ordem jurdica, so orientadores seguros para o trabalho interpretativo das leis e a atuao concreta do operador do Direito. Nesse sentido, importa observar que so os princpios que orientam a relao de poder do Estado para com os membros da sociedade a que serve. No Estado Democrtico de Direito, os princpios penais devem limitar a atividade repressiva, estabelecendo quais so as garantias inafastveis da liberdade individual. O poder que emana do povo, embora utilizado para atender aos interesses da coletividade, no pode ser descuidado com qualquer de seus indivduos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O constitucionalismo do final do século XX destacou a hegemonia axiológica dos princípios, que constituem a base normativa do sistema jurídico. Os princípios gerais do Direito são incorporados às Constituições contemporâneas para preservar os valores predominantes da sociedade. A atividade repressiva do Estado deve ser limitada pelos princípios penais, estabelecendo as garantias inafastáveis da liberdade individual.

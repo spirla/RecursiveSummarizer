@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em ambos os casos, a sua concesso pressupe, genericamente, a demonstrao da probabilidade do direito (tradicionalmente conhecida como "fumus boni juris") e, junto a isso, a demonstrao do perigo de dano ou de ilcito, ou ainda do comprometimento da utilidade do resultado final que a demora do processo representa (tradicionalmente conhecido como "periculum in mora") (art. 300, CPC). [Curso de Direito Processual Civil, v. 2, 11.a ed., Salvador, 2016, Editora JusPodivm, p. 607]. Em outras palavras, em relao  tutela antecipada de urgncia, cabe  parte convencer ao juiz de que, no havendo uma proteo imediata, de nada adiantar uma proteo futura, em razo da inutilidade de um resultado posterior, mesmo que favorvel, se comprometido o bem jurdico a ser protegido. Nesse contexto, extrai-se dos autos que instruem o presente recurso que o agravante foi demitido atravs do Processo Administrativo-Disciplinar de Portaria n. 115.934/17-PAD/CPM, pela prtica das condutas previstas nos artigos 13, inciso III, c/c o art. 64, inciso II, ambos da Lei n. 14.310/2002 (Cdigo de tica e Disciplina dos Militares de Minas Gerais - CEDM) (Evento 1 - DOC3, pgs. 02/03 - Processo n. 2000145-54.2021.9.13.0005). Ademais, o Processo Administrativo-Disciplinar de Portaria n. 115.934/17-PAD/COM j foi objeto de anlise em duas aes que tramitaram perante a 5a AJME. A primeira, atravs de Mandado de Segurana (Processo n. 2000281-94.2020.9.13.0002) e a segunda, em sede de ao anulatria de ato administrativo-disciplinar (Processo n. 200074- 52.2021.9.13.0005). O recurso de apelao na ao mandamental foi de minha relatoria, e as decises das duas aes transitaram em julgado em 26/07/2021 e 01/12/2021, respectivamente. Nesse sentido, coaduno com o entendimento esposado pelo MM. juiz de direito da 5a AJME na deciso interlocutria constante no Evento 11 do processo de referncia, verbis: [...] A matria  complexa. Inclusive, em anlise prima facie, h a possibilidade de haver o reconhecimento da coisa julgada. A transgresso imputada ao requerente  gravssima. Urge ouvir, antes, o requerido - Estado de Minas Gerais. Ademais, a inicial contm alegaes subjetivas, bem como outras envolvendo, especificamente, mrito. Nenhuma alegao quanto a falha formal ou de natureza concreta foi comprovada objetivamente. Ao meu entendimento, a justificativa trazida pela defesa para subsidiar o pedido de tutela provisria de urgncia, a saber, que a no concesso da tutela recursal far com que o agravante continue injustamente excludo da PMMG, no se consubstancia na existncia de periculum in mora.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A concesso de tutela antecipada de urgncia pressupõe a demonstração da probabilidade do direito e a demonstração do perigo de dano ou ilícito, ou ainda do comprometimento da utilidade do resultado final que a demora do processo representa. No caso, a justificativa para o pedido de tutela provisória de urgência não se consubstancia na existência de periculum in mora.

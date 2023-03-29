@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O objeto da controversia e definir o alcance da norma inserta no  8 do artigo 85 do CPC/2015, a fim de compreender as suas hipoteses de incidencia, bem como se e permitida a fixacao dos honorarios por apreciacao equitativa quando os valores da condenacao, da causa ou o proveito economico da demanda forem elevados. O CPC/2015 pretendeu trazer mais objetividade as hipoteses de fixacao dos honorarios advocaticios e somente autoriza a aplicacao do  8 do artigo 85 - isto e, de acordo com a apreciacao equitativa do juiz - em situacoes excepcionais em que, havendo ou nao condenacao, estejam presentes os seguintes requisitos: 1) proveito economico irrisorio ou inestimavel, ou 2) valor da causa muito baixo. 86 A proposito, quando o  8 do artigo 85 menciona proveito economico inestimavel , claramente se refere aquelas causas em que nao e possivel atribuir um valor patrimonial a lide (como pode ocorrer nas demandas ambientais ou nas acoes de familia, por exemplo). Nao se deve confundir valor inestimavel com valor elevado . Trata-se, pois, de efetiva observancia do CPC, norma editada regularmente pelo Congresso Nacional, no estrito uso da competencia constitucional a ele atribuida, nao cabendo ao Poder Judiciario, ainda que sob o manto da proporcionalidade e razoabilidade, reduzir a aplicabilidade do dispositivo legal em comento, decorrente de escolha legislativa explicitada com bastante clareza. Percebe-se que o legislador tencionou, no novo diploma processual, superar jurisprudencia firmada pelo STJ no que tange a fixacao de honorarios por equidade quando a Fazenda Publica fosse vencida, o que se fazia com base no art. 20,  4, do CPC revogado. O fato de a nova legislacao ter surgido como uma reacao capitaneada pelas associacoes de advogados a postura dos tribunais de fixar honorarios em valores irrisorios, quando a demanda tinha a Fazenda Publica como parte, nao torna a norma inconstitucional nem autoriza o seu descarte.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O 8 do artigo 85 do CPC/2015 autoriza a aplicação da apreciação equitativa do juiz em situações excepcionais em que estejam presentes o proveito econômico irrisório ou inestimável, ou o valor da causa muito baixo. 2. O 8 do artigo 85 do CPC/2015 se refere às causas em que não é possível atribuir um valor patrimonial à lide. 3. O legislador pretendeu, com o CPC/2015, superar a jurisprudência firmada pelo STJ no que tange à fixação de honorários por equidade quando a Fazenda Pública fosse vencida.

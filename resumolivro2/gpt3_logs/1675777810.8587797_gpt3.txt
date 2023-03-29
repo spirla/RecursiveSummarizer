@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Esse princpio consagra uma garantia de ordem jurdica, destinada tanto a proteger o membro do Ministrio Pblico, na medida em que lhe assegura o exerccio pleno e independente do seu ofcio, quanto a tutelar a prpria coletividade, a quem se reconhece o direito de ver atuando, em quaisquer causas, apenas o Promotor cuja interveno se justifique a partir de critrios abstratos e pr-determinados, estabelecidos em lei. A matriz constitucional desse princpio assenta-se nas clusulas da independncia funcional e da inamovibilidade dos membros da Instituio. O princpio do promotor natural no impede o procurador-geral de Justia, nos termos artigo 10, IX, g, da Lei 8.625/93 (Lei Orgnica Nacional do Ministrio Pblico) de designar membros do Ministrio Pblico por ato excepcional e fundamentado, exercer as funes processuais afetas a outro membro da instituio, submetendo sua deciso previamente ao Conselho Superior do Ministrio Pblico. 9.4.3. Garantias. Como bem anota Jos Afonso da Silva, como agentes polticos os membros do Ministrio Pblico precisam de ampla liberdade funcional e maior resguardo para o desempenho de suas funes, no sendo privilgios pessoais as prerrogativas. So garantias dos membros do Ministrio Pblico previstas no artigo 128, pargrafo 5, I, CF:
+a) vitaliciedade, aps dois anos de exerccio, no podendo perder o cargo seno por sentena judicial transitada em julgado;
+b) inamovibilidade, salvo por motivo de interesse pblico, mediante deciso do rgo colegiado competente do Ministrio Pblico, pelo voto da maioria absoluta de seus membros, assegurada ampla defesa;
+c) irredutibilidade de subsdio, fixado na forma do artigo 39, pargrafo 4, e ressalvado o disposto nos artigos 37, X e XI, 150, II, 153, III, 153, pargrafo 2, I. Os membros do Ministrio Pblico sofrem as vedaes do artigo 128, II, CF. 9.4.4. Conflito de atribuies. H conflito positivo de atribuies se dois ou mais membros do Ministrio Pblico entenderem ter atribuio para oficiar em determinado feito. E conflito negativo de atribuies se dois ou mais membros do Ministrio Pblico entenderem no ter atribuio para oficiar em determinado feito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio do promotor natural garante a independência funcional e inamovibilidade dos membros do Ministério Público, assegurando o direito da coletividade de ver atuando apenas o Promotor cuja intervenção se justifique. O Procurador-Geral de Justiça pode designar membros do Ministério Público por ato excepcional e fundamentado, desde que previamente aprovado pelo Conselho Superior do Ministério Público. Os membros do Ministério Público possuem garantias como vitaliciedade, inamovibilidade e irredutibilidade de subsídio. Ocorre conflito positivo de atribuições quando dois ou mais membros entenderem ter atribuição para oficiar em determinado feito, e conflito negativo quando entenderem não ter atribuição para oficiar.

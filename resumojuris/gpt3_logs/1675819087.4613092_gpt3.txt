@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A prisao temporaria nao pode ser utilizada como meio de prisao para averiguacao ou em violacao ao direito a nao autoincriminacao, pois caracteriza abuso de autoridade, na medida em que representa instrumento utilizado como forma manifesta de constrangimento, impondo, por vias transversas, a submissao da pessoa em prestar depoimento na fase inquisitorial; ou quando fundada tao somente porque o representado nao possui residencia fixa, o que vai de encontro ao principio constitucional da igualdade em sua dimensao material, ja que essa circunstancia pode revelar-se como uma situacao de vulnerabilidade economico-social. Alem disso, o rol do inciso III do artigo 1 da Lei 7.960/1989 e taxativo e representa opcao do Poder Legislativo, que, dentro de sua competencia constitucional precipua, conferiu especial atencao a determinados crimes, de modo compativel com a CF/88 de 88 (CF/88). Por fim, nao e incompativel com o texto constitucional: (i) a expressao sera (art. 2, caput, da Lei 7.960/1989), ja que a decretacao da prisao temporaria nao se revela como medida compulsoria, devendo ser obrigatoriamente fundamentada ( 2 do art. 2 da Lei 7.960/1989 e art. 93, IX, da CF/88) (3); e (ii) o prazo de 24 horas previsto no art. 2,  2, da Lei 7.960/1989, porque, alem de improprio, justifica-se pela ur-gencia na analise do pedido pelo magistrado visando a eficiencia das investigacoes. Com base nesse entendimento, o Plenario, em julgamento conjunto, por maioria, conheceu da ADI 3360/DF e em parte da ADI 4109/DF e, no merito, julgou parcialmente procedentes os pedidos para dar inter-pretacao conforme a CF/88 ao art. 1 da Lei 7.960/1989. ADI 3360/DF, relatora Ministra Carmen Lucia, redator para o acordao Ministro Edson Fachin, julga-mento virtual finalizado em 11.2.2022 (sexta-feira), as 23:59.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A prisão temporária não pode ser utilizada como meio de prisão para averiguação ou em violação ao direito à não autoincriminação, pois caracteriza abuso de autoridade. 2. O rol do inciso III do artigo 1 da Lei 7.960/1989 é taxativo e representa opção do Poder Legislativo. 3. Não é incompatível com o texto constitucional a expressão "será" (art. 2, caput, da Lei 7.960/1989) e o prazo de 24 horas previsto no art. 2, § 2, da Lei 7.960/1989. 4. O Plenário, em julgamento conjunto, por maioria, conheceu da ADI 3360/DF e em parte da ADI 4109/DF e, no mérito, julgou parcialmente procedentes os pedidos para dar interpretação conforme a CF/88 ao art. 1 da Lei 7.960/1989.

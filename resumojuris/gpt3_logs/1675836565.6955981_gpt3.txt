@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A responsabilidade civil estatal e, em regra, objetiva e decorre do risco administrativo, a respeito da qual nao se exige perquirir sobre existencia de culpa, conforme disciplinado pelos arts. 14 do Codigo de Defesa do Consumidor; 186, 192 e 927 do CC; e 37,  6, da CF/88. O dualismo ocorre diante dos atos omissivos, para os quais, embora a lei nao tenha feito distincao, ha os que entendem que, para o ente publico, a responsabilidade se reveste do carater subjetivo. Na toada, entretanto, de que, conforme assevera a doutrina, nao e dado ao interprete restringir onde o legislador nao restringiu, sobretudo em se tratando de legislador constituinte , esta Corte, em diversos julgados, tem procurado alinhar-se ao entendimento do Excelso Pretorio de que - inclusive por atos omissivos - o Poder Publico responde de forma objetiva, quando constatada a precariedade/vicio no servico decorrente da falha no dever legal e especifico de agir. No caso, trata-se de responsabilidade civil atribuida a hospital, em que a atividade publica exercida, por sua natureza, inclui, alem do servico tecnico-medico, o servico auxiliar de estadia e, por tal razao, esta o ente publico obrigado a disponibilizar equipe/pessoal e equipamentos necessarios e eficazes para o alcance dessa finalidade. A inacao estatal esta atrelada ao mau funcionamento dos trabalhos auxiliares e estruturas operacionais (ausencia de servico/pessoal de vigilancia), razao pela qual entende-se que o ente publico, em virtude da natureza da atividade publica exercida, responde de forma objetiva, uma vez que, inegavelmente, tem o dever de atuar, ao menos minimamente, para impossibilitar a ocorrencia do evento nocivo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A responsabilidade civil estatal é objetiva e decorre do risco administrativo, não sendo necessário perquirir sobre existência de culpa. 2. O dualismo ocorre diante dos atos omissivos, para os quais, embora a lei não tenha feito distinção, há aqueles que entendem que, para o ente público, a responsabilidade se reveste do caráter subjetivo. 3. O Poder Público responde de forma objetiva, inclusive por atos omissivos, quando constatada a precariedade/vício no serviço decorrente da falha no dever legal e específico de agir. 4. O ente público é obrigado a disponibilizar equipe/pessoal e equipamentos necessários e eficazes para o alcance da finalidade. 5. O ente público responde de forma objetiva em virtude da natureza da atividade pública exercida, tendo o dever de atuar, ao menos minimamente, para impossibilitar a ocorrência do evento nocivo.

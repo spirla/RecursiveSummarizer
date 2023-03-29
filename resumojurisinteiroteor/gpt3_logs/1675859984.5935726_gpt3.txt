@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+AGRAVO INTERNO DESPROVIDO. [..] III - Ademais,  firme a jurisprudncia desta Suprema Corte no sentido da independncia das instncias administrativa, cvel e penal para fins de aplicao de penalidade. Precedente. [.] (STF - RE 1169564 AgR / SP - SO PAULO Relator(a): Min. NUNES MARQUES, 2a Turma, Julgamento: 24/02/2021, Publicao: 02/03/2021) No caso em tela, temos que os fatos noticiados no PAD de Portaria 101.851/2019-PAD-SCPM/15a RPM, que foi instaurado em desfavor do apelante, foram aflorados no Relatrio de Investigao Preliminar (RIP) n. 103.732/2018, conforme se observa s pgs. 95/98, DOC10, Evento 1 (autos de Primeira Instncia). Extrai-se da soluo do referido RIP que o comandante do Batalho de Polcia de Guardas (BPGD) da PMMG, com fulcro no art. 120, inciso IV, do Manual de Processos e Procedimentos Administrativos (MAPPA) (Resoluo Conjunta 4220/2012) encaminhou os autos ao Comando de Policiamento Especializado, propondo a instaurao de PAD, nos termos do art. 64, II, e do art. 13, II, ambos do Cdigo de tica e Disciplina dos Militares de Minas Gerais (CEDM). Desta feita, constaram na portaria inaugural do PAD as seguintes acusaes: 1.1 Aflorou nos autos do RIP de Despacho n. 103.732-2018/BPGd, que o n. 149.818, Cb PM Mrio Csar Souza da Silva Jnior, lotado no BPGd, adotou, em tese, conduta antitica incompatvel com os valores e princpios tico-militares, consubstanciados no CEDM; 1.2 Consta dos autos que, em 05Fev2018, o CPU do BPGd, em patrulhamento pelo entorno da Cidade Administrativa, abordou o Cb PM Mrio Jnior, ora acusado, na conduo da Motocicleta Honda/ CB 300, placa GWH - 3660, a qual estava em situao irregular desde 2011, conforme REDS n. 2018-005362233-001, fls. 04/07; 1.2.1 Consta da pea investigativa que o acusado adquiriu a referida motocicleta em meados de 2011-2012, de militar do qual no recorda o nome, por valor inferior o do mercado. O acusado tinha total conhecimento da situao da motocicleta, que estava em nome de terceiro, com prestaes atrasadas, bem como a impossibilidade de transferncia de propriedade para o seu nome, alm de infraes de trnsito que seriam contabilizadas de forma indevida no pronturio do verdadeiro proprietrio, fls. 291/292. O militar ora investigado transitou com a motocicleta por aproximadamente seis (6) anos, contabilizando neste perodo treze (13) multas de trnsito; 1.2.2 Pode-se abstrair tambm do presente, fls. 12/19, os Boletins de Ocorrncia n. 2011-001667032-001 e 2016-020571999001, os quais constam reclamao do suposto proprietrio da motocicleta, que tem recebido cobranas relativas ao veculo, sem contudo conhecer a existncia deste, inclusive seu foi negativado junto aos rgos de crdito em virtude da suposta aquisio do veculo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Agravo Interno foi desprovido, tendo em vista a jurisprudência da Suprema Corte de independência das instâncias administrativa, cível e penal para fins de aplicação de penalidade. O caso em questão diz respeito ao militar da Polícia Militar de Minas Gerais que adquiriu uma motocicleta em meados de 2011-2012, de um militar cujo nome não recordava, por valor inferior ao do mercado. O militar transitou com a motocicleta por aproximadamente seis anos, contabilizando treze multas de trânsito.

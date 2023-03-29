@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Agravo regimental no agravo em recurso especial. Inovacao introduzida no art. 7,  2-B, III, da Lei n. 8.906/1994 pela Lei n. 14.365/2022. Sustentacao oral. Descabimento. DESTAQUE Nao cabe sustentacao oral no julgamento de agravo regimental no agravo em recurso especial, mesmo apos a inovacao introduzida no Estatuto da Ordem dos Advogados do Brasil pela Lei n. 14.365/2022. Nao configura nulidade a falta de notificacao da defesa para realizar sustentacao oral em sede de agravo regimental. Como se extrai do art. 7,  2-B, III, da Lei n. 8.906/1994, a inovacao introduzida no EOAB pela Lei n. 14.365/2022 garantiu ao advogado o direito de sustentacao no agravo interno ou regimental em sede de recurso especial, mas nada dispos sobre o julgamento de agravo regimental no agravo em recurso especial. Este ultimo e especie recursal distinta, consoante a diferenciacao adotada expressamente pela legislacao processual civil - aplicavel ao processo penal por forca do art. 638 do CPP - no art. 994, VI e VIII, do CPC, e nao teve seu regime de julgamento alterado pela novel legislacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não cabe sustentação oral no julgamento de agravo regimental no agravo em recurso especial, mesmo após a inovação introduzida no Estatuto da Ordem dos Advogados do Brasil pela Lei n. 14.365/2022. 2. Não configura nulidade a falta de notificação da defesa para realizar sustentação oral em sede de agravo regimental. 3. A inovação introduzida no EOAB pela Lei n. 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispõe sobre o julgamento de agravo regimental no agravo em recurso especial. 4. O agravo regimental no agravo em recurso especial é uma espécie recursal distinta, consoante a diferenciação adotada expressamente pela legislação processual civil - aplicável ao processo penal por força do art. 638 do CPP - no art. 994, VI e VIII, do CPC, e não teve seu regime de julgamento alterado pela nova legislação.

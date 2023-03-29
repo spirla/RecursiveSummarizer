@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na tese 9 da Jurisprudncia em Teses da edio 111 do STJ est firmado:
+ necessria a realizao do exame de corpo de delito para comprovao da materialidade do crime quando a conduta deixar vestgios, entretanto, o laudo pericial ser substitudo por outros elementos de prova na hiptese em que as evidncias tenham desaparecido ou que o lugar se tenha tornado imprprio ou, ainda, quando as circunstncias do crime no permitirem a anlise tcnica. Terceira corrente. O depoimento da testemunha deve ser considerado pelos peritos. No dizer Hlio Tornaghi, porm, o exame indireto no se confunde com o mero depoimento de testemunhas, porque no exame indireto, h sempre um juzo de valor feito pelos peritos. Uma coisa  afirmarem as testemunhas que viram tais ou quais sintomas, e outra  os peritos conclurem da que a causa mortis foi essa ou aquela. De acordo com o esclio de Hlio Tornaghi, o exame indireto  um raciocnio dos peritos embasado no que disse a testemunha.  possvel que os peritos, com base em seus conhecimentos tcnicos, cientficos ou artsticos, opinem  vista dos elementos que disponham, por exemplo, depoimentos, filmes, fotografias, objetos encontrados. O magistrado sentenciante pode, desde que no mais subsistam os vestgios materiais da infrao penal, recorrer a outros meios de convico, no obstante a ausncia de exame pericial, entretanto, a confisso no supre o exame do corpo de delito (artigo 328, parte final, CPPM, correlata ao artigo 158, parte final, CPP). A doutrina tem acentuado que confisso  prova da autoria e no do fato delituoso, de modo que no tocante  constatao do corpus criminis, a confisso nenhuma significao apresenta, afigurando-se, portanto, imprestvel para determin-la.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Jurisprudncia em Teses da edio 111 do STJ estabelece que o exame de corpo de delito necessrio para comprovar a materialidade do crime quando houver vestgios, mas pode ser substitudo por outros elementos de prova se as evidncias tiverem desaparecido ou se o lugar se tornar imprprio. O depoimento da testemunha deve ser considerado pelos peritos, mas a confisso no supre o exame do corpo de delito.

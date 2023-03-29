@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1 e 2 da Lei 9.507/2021, todos do Estado do Rio de Janeiro. ADI 7063/RJ, relator Ministro Edson Fachin, julgamento virtual finalizado em 3.6.2022 (sexta-feira), as 23:59 (INF 1057) Tempo de servico como criterio de desempate para a promocao na carreira da magistratu-ra - ADI 6772/AL ODS: 16 Resumo: E inconstitucional, por disciplinar materia concernente ao Estatuto da Magistratura, norma es-tadual que preve a adocao do maior tempo de servico publico como criterio de desempate para a promo-cao de magistrados. Compete a Uniao, mediante lei complementar de iniciativa reservada ao Supremo Tribunal Federal, legislar sobre a organizacao da magistratura nacional (CF/88, art. 93, caput). Enquanto esta norma nao e editada, a uniformizacao do regime juridico da magistratura permanece sob a regencia da Lei Complementar 35/1979 (Lei Organica da Magistratura - LOMAN). Portanto, as disposicoes e regras nela previstas devem ser seguidas por todos os legisladores estaduais e do Distrito Federal, sob pena de incidirem em inconstitucionalidade formal, de modo que o tempo de ser-vico publico  como previsto na norma estadual impugnada  representa criterio estranho aos fixados pela LOMAN. Com base nesse entendimento, o Plenario, por unanimidade, conheceu em parte da acao e, nessa ex-tensao, a julgou procedente para declarar a inconstitucionalidade da expressao aquele que tiver maior tempo de servico publico, ou, sucessivamente , do art. 174, e o inciso IV do  3 do art. 175, ambos da Lei 6.564/2005 do Estado de Alagoas. ADI 6772/AL, relator Ministro Edson Fachin, julgamento virtual finalizado em 23.9.2022 (sexta-feira), as 23:59 (INF 1069) Transformacao de juizos e juizados e definicao de suas respectivas competencias - ADI 4235/RJ 4.16 PROCESSO LEGISLATIVO Extemporaneidade do veto presidencial - ADPF 893/DF Tese fixada: O poder de veto previsto no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional, por disciplinar matéria concernente ao Estatuto da Magistratura, norma estadual que prevê a adoção do maior tempo de serviço público como critério de desempate para a promoção de magistrados. 2. Compete à União, mediante lei complementar de iniciativa reservada ao Supremo Tribunal Federal, legislar sobre a organização da magistratura nacional (CF/88, art. 93, caput). 3. Enquanto esta norma não é editada, a uniformização do regime jurídico da magistratura permanece sob a regência da Lei Complementar 35/1979 (Lei Orgânica da Magistratura - LOMAN). 4. O Plenário, por unanimidade, conheceu em parte da ação e, nessa extensão, a julgou procedente para declarar a inconstitucionalidade da expressão "aquele que tiver maior tempo de serviço público", ou, sucessivamente, do art. 174, e o inciso IV do 3 do art. 175, ambos da Lei 6.564/2005 do Estado de Alagoas. 5. O poder de veto previsto no art. 49 da Constituição Federal não admite extemporaneidade.

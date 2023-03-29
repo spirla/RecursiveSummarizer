@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Entre os crimes patrimoniais previstos no Cdigo Penal a descrio do constrangimento ilegal se aproxima muito da que  reservada ao crime de extorso, previsto no artigo 158 do Cdigo Penal. O tipo incriminador da ofensa patrimonial prescreve como proibida a conduta de constranger algum, mediante violncia ou grave ameaa, e com o intuito de obter para si ou para outrem indevida vantagem econmica, a fazer, tolerar que se faa ou deixar fazer alguma coisa. O que distingue essencialmente o crime de constrangimento ilegal da extorso  o intuito de obter para si ou para outrem indevida vantagem econmica que este ltimo exige. Constrangimento ilegal e abuso de autoridade (poder). O constrangimento que  exercido por agente pblico deve ser primeiramente examinado sob o enfoque da legislao especial. O conflito aparente de normas que se estabelece entre o constrangimento ilegal e o abuso de autoridade deve ser resolvido por meio da aplicao do princpio da especialidade. A nota distintiva entre os crimes de constrangimento ilegal e algumas figuras criminais denominadas de abuso de autoridade, previstas na Lei 13.869/19  que estas ltimas descrevem crimes funcionais, ou seja  elementar do crime (comunicvel pela regra do artigo 30 do CP) que o sujeito ativo seja um funcionrio pblico e que a conduta seja realizada em razo de suas funes. Desta forma, a conduta de constranger pessoa presa em flagrante a exibir-se  curiosidade pblica pode caracterizar constrangimento ilegal, se praticado por um sujeito no funcionrio, ou um abuso de autoridade (artigo 13 da Lei 13.869/19), se cometido por um funcionrio pblico no exerccio de suas funes. A caracterizao do crime funcional, entretanto, exige constatar a relao de causalidade entre a conduta punvel e o exerccio das funes do agente pblico. Se no houver tal relao no ser possvel caracterizar o crime funcional. Assim, no exemplo do policial civil que constrange a prpria mulher a sair da residncia conjugal deve-se reconhecer o crime de constrangimento ilegal e no o de abuso de autoridade. Vale lembrar que para a caracterizao do crime previsto na legislao extravagante a definio de funcionrio pblico dever ser extrada do artigo 327 do Cdigo Penal. Constrangimento ilegal e tortura. Tratando-se de constrangimento praticado por agente do Estado, tambm  necessrio examinar a possibilidade de caracterizao do crime de tortura, previsto na Lei 9.455/1997.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal prevê o crime de constrangimento ilegal, que se aproxima da extorsão, mas exige o intuito de obter vantagem econômica. O conflito de normas entre constrangimento ilegal e abuso de autoridade deve ser resolvido pelo princípio da especialidade. O crime funcional exige a relação de causalidade entre a conduta punível e o exerccio das funções do agente público. A tortura também deve ser examinada quando praticada por agente do Estado.

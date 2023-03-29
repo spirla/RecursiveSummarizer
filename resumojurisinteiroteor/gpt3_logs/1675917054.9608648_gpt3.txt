@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Este desembargador relator indeferiu o pedido de antecipao de tutela de urgncia e determinou a intimao do Estado de Minas Gerais, para que, nos termos do inciso II do art. 1.019, c/c o art. 183 do Cdigo de Processo Civil (CPC), apresente sua resposta (Evento 06). Intimado, o Estado de Minas Gerais apresentou as contrarrazes recursais. Inicialmente, alegou perda do objeto em razo da supervenincia da deciso de mrito nos Autos n. 2000149-91.2021.9.13.0005. No mrito, requereu que seja negado provimento ao agravo de instrumento, sob os seguintes fundamentos: [...] 9. Em exame detido das razes recursais no restam dvidas de se tratar de hiptese de exame antecipado do mrito. 10.Inolvidvel que a Lei Federal n.8.437, de 1992, cuida das medidas cautelares contra a Fazenda Pblica, sendo que o artigo 1 (caput e  3) probe sua concesso quando providncia semelhante no puder ser concedida em aes de mandado de segurana e, ainda, nas hipteses em que a medida esgote, no todo ou em parte, o objeto da demanda. 11. A antiga Medida Provisria n. 1.570, de 1997, convertida na Lei n. 9.494, de 10 de setembro de 1997, estendeu s tutelas antecipatrias, expressamente, as restries fixadas na Lei n. 8.437, de 1992. Assim, a antecipao de tutela no poder ser concedida para efeito de pagamento de vencimentos e vantagens pecunirias a servidor pblico [3] , em face do disposto no artigo 1,  4, da Lei n. 5.021, de 1966 c/c com o artigo 1, caput, da Lei n. 8.437, de 1992 j mencionado, sendo inadmissvel que esgote, integral ou parcialmente, o objeto da ao. 12. Dessa forma, a pretenso inicial foi corretamente indeferida, pois, caso contrrio, estaria em flagrante contradio com o disposto no artigo 1,  3 da Lei n. 8.437, de 1992, aplicvel  espcie, tendo em vista que o pedido de antecipao de tutela  o prprio objeto final da demanda, o que no se pode admitir, em face das proibies legais mencionadas. 13. Ainda que no fosse este o entendimento, mister registrar que o Agravante no logrou em demonstrar os elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado til do processo, conforme disposio do artigo 300 do CPC/15: [.] 17. Ao nosso sentir, o Agravante se afastou da causa de sua irresignao e negligenciou o seu dever de desincumbir-se do nus de demarcao incontroversa dos requisitos processuais supramencionados, para se limitar a reiterar fatos e argumentos invocados na exordial. 18. Desta forma, no estando presentes os requisitos da tutela antecipada, a mesma no poder ser concedida.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O pedido de antecipação de tutela foi indeferido, pois não foram demonstrados os elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, conforme disposto no artigo 300 do Código de Processo Civil. Além disso, a concessão da tutela antecipada estaria em contradição com as proibições legais estabelecidas na Lei n. 8.437, de 1992.

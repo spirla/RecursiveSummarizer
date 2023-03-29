@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+3. Agravo regimental improvido. (AgRg no RMS n. 38.537/MG, relator Ministro Sebastio Reis Jnior, Sexta Turma, julgado em 15/10/2015, DJe de 5/11/2015.) (Destaca-se) Logo, compreendo que, em sede de processo penal militar, a via adequada para se questionar a deciso que deixa de receber recurso  o recurso em sentido estrito, salientando que a carta testemunhvel deve ser utilizada apenas no processo penal comum, ante a ausncia de omisso no CPPM. A propsito, Ccero Robson Coimbra Neves esclarece: [...] Importante ressaltar que no processo penal comum apenas a deciso que obsta a apelao ser atacvel por recurso em sentido estrito. Nos demais recursos com prelibao em primeira instncia, havendo negao de seu seguimento, caber a carta testemunhvel, prevista no art. 639 do CPP. No sistema processual penal militar, ausente que  a carta testemunhvel, a alnea q do art. 516 do CPPM abarcou no rol de decises atacveis por recurso em sentido estrito as que obstam (secundum eventum litis), no recebem quaisquer dos recursos, inclusive o prprio recurso em sentido estrito. Assim, diante da negativa do seguimento de uma apelao, tanto no processo penal comum como no militar, a deciso ser desafiada por recurso em sentido estrito. Contudo, se o curso deste tambm sucumbir em prelibao, no processo penal comum ser cabvel carta testemunhvel, enquanto no processo penal militar ser cabvel novo recurso em sentido estrito. [...] (Manual de Direito Processual Penal Militar: (em tempo de paz) - So Paulo: Saraiva, 2014, p. 876) (Destaca-se) Entretanto, considerando-se que, na hiptese dos autos, o presente recurso foi interposto dentro do prazo de 3 (trs) dias e que no restou caracterizada a m-f ou o erro grosseiro - mesmo porque, no prprio Superior Tribunal Militar, h precedente admitindo a apresentao de carta testemunhvel em processo penal militar (Correio Parcial n. 000001669.2011.7.10.0010, Relator: Ministro Marcos Martins Torres, julgada em 28/06/2011) -, cabvel  a aplicao do princpio da fungibilidade, previsto no art. 514 do CPPM, para conhecer da presente carta testemunhvel como recurso em sentido estrito. Passo ao exame do mrito. Do exame dos autos, observa-se que o magistrado a quo indeferiu o pedido formulado pela defesa do recorrente de realizar a oitiva das testemunhas Subten PM Cludio Roberto Diniz e 1 Ten PM Silas Herman Christian Bicca (Evento 252 - Autos n. 2001315-44.2019.9.13.0001). Contra a referida deciso, o recorrente interps correio parcial (Evento 266 - Autos n. 2001315-44.2019.9.13.0001), a qual no foi recebida, em virtude de o juzo primevo t-la considerado intempestiva.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Agravo Regimental foi improvido, pois a via adequada para se questionar a decisão que deixa de receber recurso no processo penal militar é o recurso em sentido estrito. Entretanto, aplicando-se o princípio da fungibilidade, foi possível conhecer a carta testemunhvel como recurso em sentido estrito.

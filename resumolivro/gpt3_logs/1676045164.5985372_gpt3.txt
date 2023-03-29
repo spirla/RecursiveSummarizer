@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A justificao para o fato necessrio somente ocorre quando o perigo ou leso ao bem jurdico produzido pela ao de salvamento no puder, de outro modo, ser evitado. No se justifica perigo ou leso desnecessrio ao salvamento do bem jurdico que inicialmente estava em perigo. Evidentemente, no se trata de exigir daquele que realiza a conduta justificada que evite a situao de perigo  qual est submetido o bem jurdico que se pretende salvar. Se esse perigo fosse evitado, no haveria a necessidade de lesionar outro bem jurdico e o prprio fato tpico no teria ocorrido. A justificao decorre, justamente, da existncia do perigo ao bem jurdico que se pretende salvar.  certo que, se foi o prprio sujeito que realizou a conduta lesiva que provocou (involuntariamente) a situao de perigo motivadora da conduta de salvamento, pode-se discutir sua concreta possibilidade de evitar tal situao. Tal investigao, na prtica, tornaria quase impossvel justificar a conduta daquele que produziu a situao de perigo. Se aquele que produziu o fato lesivo tambm produziu involuntariamente a situao de perigo, mas possua previsibilidade de sua ocorrncia e havia cuidado objetivo que pudesse evitar o perigo, restaria excluda a justificao. Nesse caso, como seria possvel evitar a situao de perigo, com conduta anterior mais cautelosa, no haveria justificao para a conduta lesiva que se desenvolve posteriormente. Mas, se  admissvel que aquele que realiza a conduta de salvamento tenha produzido a situao de perigo involuntariamente, s se pode dele exigir que evite tal situao por ato intencional. Em outras palavras, s se pode exigir que no tenha a inteno de produzir o perigo. Todavia, se o perigo no foi provocado por quem realiza a conduta lesiva, tambm no se poder exigir dele que evite a situao de perigo provocada por outrem. S se pode evitar o que ainda no aconteceu. O perigo que motiva a ao de salvamento  preexistente ao fato necessrio e, permanecendo atual, exige interveno para impedir que a situao de perigo continue ou transforme-se em dano. No salvamento do bem jurdico em perigo, contudo, deve-se evitar novas situaes de perigo ou dano que se dirijam a outros bens jurdicos. O que interessa evitar no  o perigo atual, mas o perigo de leso e, consequentemente, a prpria leso a outros bens jurdicos em razo da conduta posterior de salvamento.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A justificao para o fato necessrio ocorre quando o perigo ou leso ao bem jurdico produzido pela ao de salvamento no puder ser evitado de outro modo. Se foi o prprio sujeito que realizou a conduta lesiva que provocou a situao de perigo, pode-se discutir sua concreta possibilidade de evitar tal situao. Contudo, se o perigo no foi provocado por quem realiza a conduta lesiva, tambm no se poder exigir dele que evite a situao de perigo provocada por outrem. O que interessa evitar no o perigo atual, mas o perigo de leso e, consequentemente, a prpria leso a outros bens jurdicos em razo da conduta posterior de salvamento.

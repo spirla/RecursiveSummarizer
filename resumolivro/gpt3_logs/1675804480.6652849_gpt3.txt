@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido, a Lei 8.906/1994 (Estatuto da OAB), em seu artigo 7, X, garante ao advogado o direito de fazer o uso da palavra pela ordem, para que ele (o advogado) possa esclarecer qualquer fato que possa influenciar no julgamento. Em assim ocorrendo, devera o CEDMU apenas consignar em ata a manifestacao do advogado, ja que a eventual resposta cabera a autoridade competente para decidir o processo disciplinar. Ressalta-se que, mesmo que a defesa do militar nos autos do processo disciplinar tenha sido realizada por procurador constituido (advogado), a exigncia legal de notificacao e apenas do militar acusado. Nesse sentido, assim decidiu o TJM-MG ao atestar a ausncia de nulidade da realizacao de reuniao do CEDMU sem a previa notificacao do seu defensor constituido:
+APELACAO CIVEL - (...) A EVENTUAL AUSNCIA DE NOTIFICACAO DO DEFENSOR DE ACUSADO PARA PARTICIPAR DE REUNIAO DO CDMU CONSTITUI MERA IRREGULARIDADE, CONSIDERANDO QUE EM TAL ATO PROCESSUAL NAO E PERMITIDA A MANIFESTACAO DA DEFESA - RECURSO A QUE SE NEGA PROVIMENTO. (TJM-MG: Apelacao - Processo PJe 1000003-47.2019.9.13.0002; Relator: Desembargador Fernando Galvao da Rocha; Julgamento (unnime): 19/12/2019. PJe: 21/01/2020). APELACAO - ANULACAO DE PADS - VIOLACAO AO DISPOSTO NO ART. 70, INCISO VIII, LETRA A, DO CEDM -AUSNCIA DE NOTIFICACAO DOS DEFENSORES DO MILITAR PARA REUNIAO DO CEDMU - PREJUIZO PARA A DEFESA - NAO COMPROVACAO - NULIDADE AFASTADA - INTELIGNCIA DO ART. 69 DO CEDM (...). (TJM-MG: AC 0000134-49.2013.9.13.0002, Rel. Juiz Fernando Armando Ribeiro Julgamento 18/12/2014)
+Agora, caso o militar nao seja localizado ou esteja impedido de receber notificacoes, a notificacao apenas do seu defensor satisfaz o requisito legal. Outra questao e que a norma determina a notificacao previa apenas do militar a quem e imputada a pratica de transgressao disciplinar. Consequentemente, quando se tratar de documentacao referente a concessao de recompensas, dispensa-se a notificacao previa do militar indicado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 8.906/1994 garante ao advogado o direito de fazer uso da palavra durante o julgamento. O CEDMU deve consignar a manifestação do advogado em ata, e a notificação do militar acusado é exigência legal. Se o militar não for localizado ou estiver impossibilitado de receber notificações, a notificação do seu defensor satisfaz o requisito legal. Quando se trata de documentação referente à concessão de recompensas, dispensa-se a notificação previa do militar indicado.

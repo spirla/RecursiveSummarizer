@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Com base nos elementos de prova produzidos na esfera criminal que foram compartilhados nestes autos, destacou que o ora recorrente praticou falta grave e que sua punio foi condizente e proporcional, no havendo que se falar em reparos por parte do judicirio. Destacou que o "autor teve sua priso em flagrante ratificada e fiana arbitrada pela autoridade policial competente, considerando que A autoria foi definida nas oitivas realizadas e a materialidade restou demonstrada no laudo preliminar formalizado pelo mdico (Evento 1. Doc. 13. Fl. 49). Ressaltou que a vtima requereu medidas protetivas, que foram deferidas, em 21.08.18, pelo juzo competente, por considerar que "Os fatos noticiados revestem-se de alto grau de gravidade e notadamente, mostram-se presentes os requisitos ensejadores das medidas de cautela previstas na Lei 11.340/06 (Evento 1. Doc. 14. Fl. 13). Ressaltou, ainda, que "H elementos suficientes nos autos a justificarem o convencimento da Administrao militar, que se debruou sobre cada um deles, respeitando o direito de defesa do autor e a autoridade das decises emanadas pelas instncias administrativas. Ao final, por considerar que o procedimento instaurado pela Administrao foi aplicado em conformidade com as determinaes legais pertinentes, notadamente no que diz respeito aos princpios do contraditrio e da ampla defesa, pugnou pelo no acolhimento do pedido. O recorrente apresentou impugnao, conforme documento juntado no Evento. 21 Em sntese, reiterou os argumentos apresentados na inicial e combateu os argumentos apresentados pelo Estado de Minas Gerais. Intimados, o Estado de Minas Gerais entendeu pela no produo de provas, e o recorrente requereu a produo de provas testemunhais. O pedido do recorrente foi indeferido pelo juzo primevo, conforme deciso de Evento n. 35. A sentena se encontra no Evento n. 41. Em deciso fundamentada, o magistrado sentenciante entendeu que razo no assiste ao militar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena proferida determinou que a punio aplicada ao recorrente foi condizente e proporcional, considerando que a autoria foi definida nas oitivas realizadas e a materialidade restou demonstrada no laudo preliminar. O pedido de produo de provas testemunhais foi indeferido pelo juzo primevo, mantendo-se a sentena de que a punio aplicada ao recorrente foi condizente e proporcional.

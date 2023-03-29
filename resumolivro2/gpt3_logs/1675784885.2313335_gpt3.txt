@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Assim julgou o STF (RHC 97.182):
+A voluntria ausncia do representante do Ministrio Pblico em parte da sesso de julgamento no gera, s por si, a nulidade dos atos nela realizados, especialmente se, de tal ausncia, no resultar qualquer prejuzo ao ru, eis que este no pode invocar, como causa de invalidao processual, nulidade, que, se existente, derivaria de exigncia formal cuja observncia interessa, unicamente,  parte contrria, que  o rgo da acusao penal (CPPM, artigo 501, parte final). O princpio do interesse no se aplica s nulidades absolutas porque o interesse em reconhecer a nulidade absoluta  pblico. 17.4.4. Princpio da convalidao. Convalidar tem o significado de remover o defeito, remediar a falha, sanear o vcio, a fim de que o ato processual inicialmente imperfeito possa ser considerado apto a produzir efeitos legais inerentes ao ato perfeito.  um desdobramento dos princpios da economia processual e da instrumentalidade das formas. A convalidao do ato processual viciado ocorre nas nulidades relativas quando no arguidas em tempo oportuno. O artigo 504 do CPPM determina o momento que a nulidade relativa deve ser arguida:
+a) as da instruo do processo, no prazo para a apresentao das alegaes escritas. Opera a precluso, se a parte no arguir nas alegaes escritas (artigo 428 do CPPM), nulidade relativa ocorrida na instruo criminal;
+b) as ocorridas depois do prazo das alegaes escritas, na fase do julgamento ou nas razes de recurso.  muito improvvel ocorrer nulidade relativa depois do prazo das alegaes escritas, mas, havendo, poder ser arguida com a demonstrao do prejuzo no julgamento ou nas razes de recurso de recurso. O CPPM prev trs situaes de saneamento da nulidade (nulidade sanvel). A primeira hiptese de saneamento surge com o comparecimento do interessado ao ato processual, conforme dispe o artigo 503:
+A falta ou a nulidade da citao, da intimao ou notificao ficar sanada com o comparecimento do interessado antes de o ato consumar-se, embora declare que o faz com o nico fim de argui-la.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF julgou que a ausência do representante do Ministério Público em parte da sessão de julgamento não gera nulidade dos atos realizados, desde que não resulte prejuízo ao réu. O princípio da convalidação permite remover o defeito de um ato processual inicialmente imperfeito para que possa produzir efeitos legais. A nulidade relativa deve ser arguida no prazo para a apresentação das alegações escritas, caso contrário, opera a preclusão. O CPPM prevê três situações de saneamento da nulidade, sendo a primeira com o comparecimento do interessado ao ato processual.

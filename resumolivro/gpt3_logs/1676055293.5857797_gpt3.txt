@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No contexto da boa relao mantida entre os amigos,  possvel reconhecer que a alterao da configurao do aparelho se apresente irrelevante (insignificante) e, assim, no seja possvel caracterizar a violao da norma incriminadora. Omisso do garantidor. O ncleo do tipo incriminador descreve a conduta proibida por meio do verbo invadir que indica a realizao de um comportamento comissivo do sujeito ativo. No entanto, o crime em exame tambm pode ser cometido por quem esteja na posio de garantidor, conforme os termos do artigo 13, pargrafo 2, do Cdigo Penal. Como exemplo, pode-se considerar o caso do supervisor de equipe profissional que no impede um dos integrantes que lhe  subordinado de invadir o dispositivo informtico cujo acesso no lhe seja permitido. 6.14.7. Elemento subjetivo do tipo. O crime de invaso de dispositivo informtico s possui previso legal para realizao em sua forma dolosa. Desse modo,  necessrio que o sujeito oriente sua conduta diretamente pela inteno de invadir dispositivo informtico alheio, conforme o especial fim de agir estabelecido no tipo (item 13. supra).  possvel a caracterizao do tipo subjetivo com o dolo eventual, nos casos em que o sujeito assumir o risco de que sua conduta viole, indevidamente, um mecanismo de segurana, bem como nos casos em que obtenha, adultere ou destrua dados ou informaes assumindo o risco de no haver autorizao do titular do dispositivo. 6.14.8. Consumao e tentativa. O crime de invaso de dispositivo informtico  formal, de modo que a descrio tpica impe que sua consumao ocorra no instante em que o sujeito ativo consegue ter acesso ao dispositivo informativo, aps a superao do obstculo oposto pelo mecanismo de segurana. Como deixa claro o tipo incriminador previsto no caput do artigo 154-A do CP, a conduta deve ser realizada com a finalidade de obter, adulterar ou destruir dados ou informaes sem autorizao expressa ou tcita do titular do dispositivo ou instalar vulnerabilidades para obter vantagem ilcita. No entanto, no  necessrio que tais resultados naturalsticos ocorram. Materialmente, basta que ocorra a invaso do dispositivo automtico, com violao indevida do mecanismo de segurana. Para a consumao do crime  irrelevante que ocorra a obteno, adulterao ou destruio de dados ou informaes, bem como a instalao da vulnerabilidade. Contudo, tratando-se de crime exaurido a reprovao ao condenado deve ser mais intensa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de invaso de dispositivo informtico previsto no artigo 154-A do Cdigo Penal s possui previso legal para realizao em sua forma dolosa. A consumao ocorre no instante em que o sujeito consegue ter acesso ao dispositivo, com violao indevida do mecanismo de segurana, e irrelevante que ocorra a obteno, adulterao ou destruio de dados ou informaes.

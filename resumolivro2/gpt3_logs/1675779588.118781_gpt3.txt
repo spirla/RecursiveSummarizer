@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A apreenso de pessoas ou de coisas ocorre se o executor da busca encontrar as pessoas ou coisas a que se referem os artigos 172 e 181 (artigo 185 primeira parte do CPPM). De igual modo apreender armas ou objetos pertencentes s Foras Armadas ou de uso exclusivo de militares quando estejam em posse indevida, ou seja incerta a sua propriedade (artigo 185 segunda parte do CPPM). Eivada de inconstitucionalidade a norma do artigo 185, pargrafo 1, CPPM, reza A correspondncia aberta ou no, destinada ao indiciado ou ao acusado, ou em seu poder, ser apreendida se houver fundadas razes para suspeitar que pode ser til  elucidao do fato ante a Constituio Federal que no artigo 5, XII, assegura ser inviolvel o sigilo da correspondncia. No  permitida a apreenso de documento em poder do defensor, salvo quando constituir elemento do corpo de delito, regra insculpida no artigo 185, pargrafo 1, CPPM, em perfeita consonncia o disposto no artigo 7, II, da Lei 8.906/94, que assegura ao advogado direito a inviolabilidade de seu escritrio ou local de trabalho, bem como de seus instrumentos de trabalho, de sua correspondncia escrita, eletrnica, telefnica e telemtica, desde que relativas ao exerccio da advocacia. Finda a diligncia de busca, conforme dispe o artigo 189 e pargrafo nico do CPPM, lavra-se o auto circunstanciado da busca e apreenso, assinado por duas testemunhas, com declarao do lugar, dia e hora em que se realizou, com citao das pessoas que a sofreram e das que nelas tomaram parte ou as tenham assistido, com as respectivas identidades, bem como de todos os incidentes ocorridos durante a sua execuo. Se resultar positiva busca constaro do auto a relao e descrio das coisas apreendidas, com a especificao:
+a) se mquinas, veculos, instrumentos ou armas, da sua marca e tipo e, se possvel, da sua origem, nmero e data da fabricao;
+b) se livros, o respectivo ttulo e o nome do autor;
+c) se documentos, a sua natureza.
+.
+11.4.4. Restituio de coisas apreendidas.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A apreensão de pessoas ou de coisas ocorre se o executor da busca encontrar as pessoas ou coisas a que se referem os artigos 172 e 181 do CPPM. O sigilo da correspondência é inviolável de acordo com a Constituição Federal. O auto circunstanciado da busca e apreensão deve conter a relação e descrição das coisas apreendidas, com a especificação da marca, tipo, origem, número e data de fabricação, título e nome do autor, e natureza dos documentos. A restituição das coisas apreendidas também é prevista.

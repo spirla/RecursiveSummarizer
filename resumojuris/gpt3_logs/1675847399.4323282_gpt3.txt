@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Outrossim, apos fixada a causa de aumento de pena para cada crime de lavagem de dinheiro, cabera ao Juizo da Vara de Execucoes a ulterior soma ou unificacao das penas eventualmente impostas em cada uma das acoes penais. (Informativo n. 735) 1215 PROCESSO AgRg no RHC 156.413-GO, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 05/04/2022, DJe 08/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Desvio de verbas publicas do SUS. Competencia da Justica Federal. Teoria do juizo aparente. Avaliacao da validade da prova determinada pelo Juizo incompetente. Atribuicao do Juizo Federal. DESTAQUE E aplicavel a teoria do juizo aparente para ratificar medidas cautelares no curso do inquerito policial quando autorizadas por juizo aparentemente competente. A jurisprudencia do STJ tem entendido, de maneira ampla, que os desvios de verbas do Sistema Unico de Saude - SUS - atrai a competencia da Justica Federal, tendo em vista o dever de fiscalizacao e supervisao do governo federal. Nao obstante reconhecer a incompetencia do Juizo estadual, os atos processuais devem ser avaliados pelo Juizo competente, para que decida se valida ou nao os atos ate entao praticados.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É aplicável a teoria do juízo aparente para ratificar medidas cautelares no curso do inquérito policial quando autorizadas por juízo aparentemente competente. 2. Os desvios de verbas do Sistema Único de Saúde - SUS - atraem a competência da Justiça Federal, tendo em vista o dever de fiscalização e supervisão do governo federal. 3. Apesar de reconhecer a incompetência do Juízo estadual, os atos processuais devem ser avaliados pelo Juízo competente, para que decida se validam ou não os atos até então praticados.

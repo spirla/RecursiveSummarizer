@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Situao em que policiais militares da ativa, no exerccio de sua funo, foram acusados do homicdio de civil no curso de perseguio a veculo ocupado por 5 civis suspeitos de atuao em roubos. O recorrente  acusado, ainda, do suposto cometimento do delito previsto no artigo 347, pargrafo nico, do Cdigo Penal, pois teria concorrido para que outro policial inovasse artificiosamente o estado de coisa, com o fim de induzir a erro o juiz, ao colocar sobre o cadver arma que estaria na posse de outro dos civis perseguidos, no momento da abordagem. No se questiona a competncia para o julgamento do homicdio, mas apenas para o julgamento da fraude processual. 2. A conexo entre delitos no autoriza o julgamento conjunto de ambos os crimes por um mesmo Juzo, quando h concurso entre a jurisdio comum e a militar (art. 79, I, do Cdigo de Processo Penal). Ainda que no trate especificamente de "conexo" ou "continncia", o enunciado n. 90 da Smula desta Corte reflete, tambm, a legislao que prev o desmembramento do feito em que coexistem delitos de competncia militar e da Justia comum, quando dispe que "Compete  Justia Estadual Militar processar e julgar o policial militar pela prtica do crime militar, e  Comum pela prtica do crime comum simultneo quele". 3. A Lei 13.491/2017 (em vigor a partir de 16/10/2017) ampliou a competncia da Justia Militar, na medida em que doravante no so apenas os crimes que sejam concomitantemente previstos no Cdigo Penal Militar e na legislao penal comum que, em virtude do princpio da prevalncia da lei especial sobre a lei geral, atrairo a competncia da Justia Militar. Passa a deslocar-se para a Justia castrense tambm qualquer crime contra civil previsto na Legislao Penal Comum (Cdigo Penal e Leis Esparsas), desde que praticado por militar em servio ou no exerccio da funo. Inteligncia da alnea "c" do inciso II do art. 9 do CPM. 4. Muito embora o tipo do art. 347 do Cdigo Penal proteja precipuamente o bem jurdico da administrao da Justia, tendo, por consequncia, como sujeito passivo principal o Estado, a doutrina reconhece que o delito tambm tem como vtima, ainda que em segundo plano, a pessoa prejudicada pela inovao artificiosa, tanto mais em contexto no qual o prejuzo para a vtima  evidente na medida em que a fraude processual lhe imputaria o cometimento de crime (efetuar disparos de arma de fogo contra policiais militares) que jamais existiu. 5. Reconhecido que o crime descrito no art. 357 do CP tem como sujeito passivo secundrio a pessoa fsica vtima da inovao artificiosa, no h como se negar que o delito em questo se amolda  descrio de crime militar prevista no art. 9, II, "c", do Cdigo Penal Militar (na redao da Lei 13.491/2017).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A competência para o julgamento de um crime previsto no artigo 347 do Código Penal, cometido por policiais militares, desloca-se para a Justiça Militar, em virtude da Lei 13.491/2017, que ampliou a competência da Justiça Militar para crimes previstos na Legislação Penal Comum praticados por militares em serviço ou no exercício da função.

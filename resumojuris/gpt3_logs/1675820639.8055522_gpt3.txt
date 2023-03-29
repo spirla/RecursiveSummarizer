@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(INF 1026) ADI 6516/AL, relator Min. Roberto Barroso, julgamento virtual finalizado em 20.8.2021 (sexta-feira), as 23:59. (INF 1026) 4.3 COMPETENCIA LEGISLATIVA ADPF: lei municipal, radios comunitarias e competencia privativa da Uniao - ADPF 335/MG Tese fixada: E inconstitucional lei municipal que dispoe sobre a autorizacao e exploracao de servico de radiodifusao comunitaria. Resumo: Por tratar de materia de competencia reservada a Uniao, apresenta vicio de inconstitucionalidade formal lei municipal que: a) institui direitos e obrigacoes das radios comunitarias, b) autoriza seu funcionamento e exploracao no ambito de seu territorio, e c) estabelece infracoes, sancoes e o pagamento de taxa de funcionamento. As normas constitucionais sao claras ao dispor que cabe a Uniao legislar privativamente a respeito da radiodifusao, assim como explorar os servicos de radiodifusao sonora [CF/88 (CF), art. 21, XII, a; art. 22, IV; art. 223 ]. Dentro do esquema constitucional de competencias, nao ha espaco para a atuacao do legislador municipal. Principalmente quando se observa que o ato normativo local nao esta de acordo com a disciplina nacional sobre o tema (Lei 9.612/1998). Com esse entendimento, o Plenario julgou procedente pedido formulado em arguicao de descumprimento de preceito fundamental para declarar a inconstitucionalidade formal da Lei 9.418/2004 do municipio de Uberaba/MG. ADPF 335/MG, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional lei municipal que dispõe sobre a autorização e exploração de serviço de radiodifusão comunitária. 2. Cabe à União legislar privativamente a respeito da radiodifusão, assim como explorar os serviços de radiodifusão sonora. 3. Não há espaço para a atuação do legislador municipal quando o ato normativo local não está de acordo com a disciplina nacional sobre o tema (Lei 9.612/1998). 4. O Plenário julgou procedente pedido formulado em arguição de descumprimento de preceito fundamental para declarar a inconstitucionalidade formal da Lei 9.418/2004 do município de Uberaba/MG.

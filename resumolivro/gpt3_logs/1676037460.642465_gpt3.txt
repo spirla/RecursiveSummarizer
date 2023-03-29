@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A possibilidade de reduo da pena (pargrafo nico do artigo 30 do CPM) somente se apresenta nessa fase (entre os pontos 3 e 4 da representao grfica). Em alguns tipos penais, h a previso para a ocorrncia de desdobramentos naturalsticos da conduta que no so necessrios para a consumao do crime. Tais consequncias mais gravosas constituem o que se convencionou chamar de exaurimento e possibilitam sustentar a pertinncia de aumentar a pena a ser imposta em condenao. 2.6.1. Possibilidade da Tentativa. A tentativa se caracteriza pela realizao incompleta da conduta proibida, ou seja, pela inocorrncia da consumao do crime. A consumao pode no ocorrer devido  interrupo do processo executivo do crime ou pelo impedimento da produo do resultado naturalstico exigido nos crimes materiais. Quando a tentativa caracterizar um fragmento da realizao plena do comportamento previsto no tipo penal incriminador, sua possibilidade depender fundamentalmente da possibilidade de fragmentar-se materialmente a conduta. Em outras palavras, a tentativa somente ser possvel quando a conduta tpica puder ser fracionada. Iniciada a execuo, a conduta dever ser interrompida antes de alcanada a consumao. Nos crimes que exigem a ocorrncia de um resultado naturalstico, a caracterizao da tentativa depender da possibilidade de evitar-se a ocorrncia do resultado material exigido pelo tipo. Nesses casos, mesmo que o sujeito no seja interrompido em sua conduta (efetue seis disparos de arma de fogo contra a vtima, por exemplo), se a ocorrncia do resultado naturalstico for impedida, estar caracterizada a tentativa. Crimes unissubsistentes. Considerando que o ato  um fragmento da conduta, em princpio, a possibilidade da tentativa est condicionada  existncia de mais de um ato, para que, entre um e outro, a conduta possa ser interrompida. Nesse sentido, impossvel seria a tentativa nos crimes unissubsistentes, j que tais crimes caracterizam-se pela existncia de ato nico. Somente nos crimes plurissubsistentes (constitudos por vrios atos) seria possvel a tentativa. Como exemplos de crimes unissubsistentes, citam-se o exemplo da injria oral (artigo 216 do CPM) e o uso de documento falso (artigo 315 do CPM). Nesses casos, ou o sujeito executa o ato, e o crime est consumado, ou no o executa, e o crime no teve incio. Contudo, a ideia de que o ato nico no possa ser fracionado  incorreta. No  difcil imaginar um crime unissubsistente que permita o fracionamento da conduta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A reduo da pena s possvel entre os pontos 3 e 4 da representao grfica. Em alguns tipos penais, h a previso de desdobramentos mais gravosos que permitem aumentar a pena. A tentativa caracteriza-se pela realizao incompleta da conduta proibida. Nos crimes unissubsistentes, ou o sujeito executa o ato e o crime est consumado, ou no o executa e o crime no teve incio. No entanto, ainda possvel fracionar a conduta em crimes unissubsistentes.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/12/2011, DJe 19/12/2011). 3. No h interesse de agir, no tocante ao pleito de absolvio, uma vez que, constatada a excludente de culpabilidade, o acusado foi absolvido com fundamento na inimputabilidade, sendo-lhe, no entanto, aplicada medida de segurana nos termos do art. 386, pargrafo nico, inciso III, do CPP, no havendo assim qualquer ilegalidade a ser reconhecida. 4. Agravo regimental no provido. (AgRg no AREsp n. 1.923.481/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021.) Nesse diapaso, o egrgio Conselho Permanente de Justia apresentou os fundamentos seguintes: Apesar da ampla discusso probatria em sede de alegaes finais, envolvendo tambm a prpria pessoa do acusado e a sua responsabilidade penal, a apreciao da conduta criminosa prevista no art.298, do CPM afigura-se simples, cristalina e plenamente configurada; No se desconhece e no se ignora que o acusado enfrentava diversos problemas pessoais  poca dos fatos. Conforme narrado, ele suspeitava de que estava sendo perseguido com fim homicida, porque teria se envolvido em troca de tiros em seu veculo particular com terceiros. O filho da acusado enfrentava graves problemas de sade, fonte perene de sofrimento e de dor. No entanto, se as circunstncias citadas explicam o crime, elas no isentam o acusado de sua prtica, naquela velha expresso de Ortega y Gasset, citada de memria, "eu sou eu e as minhas circunstncias"; ou seja, somos indissociveis e inseparveis dos acontecimentos de nossas vidas e de nossas escolhas na curta trajetria terrena. E, por nossas escolhas somos responsveis. A conduta criminosa imputada ao acusado no se ampara em nenhuma causa excludente de ilicitude ou de iseno de pena: o acusado tinha plena conscincia de que deveria se portar de forma comedida, porque o binmio estruturantes das institues militares so a hierarquia e a disciplina militares. O dolo do acusado foi intenso. Alm de possuir um aplicativo que gravava as conversas telefnicas, ele posteriormente divulgou as ofensas proferidas contra o ofendido por meio de grupos de Whatsapp. Embora a gravao de conversas telefnicas possa ter cunho de proteo pessoal, a posterior divulgao dos dilogos mostra e demonstra a inteno do acusado de deprimir a autoridade do ofendido. [.] O documento mdico ao Evento 119, confeccionado por mdico particular que acompanha o acusado, no  suficiente para sustentar eventual tese de inimputabilidade. O mdico particular no  perito oficial.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O agravo regimental foi negado, pois foi constatada a excludente de culpabilidade do acusado, que foi absolvido com fundamento na inimputabilidade, mas aplicada medida de segurana. O Conselho Permanente de Justia considerou que a conduta criminosa prevista no art.298, do CPM estava plenamente configurada, pois o acusado tinha plena conscincia de que deveria se portar de forma comedida e o dolo do acusado foi intenso. O documento mdico particular no suficiente para sustentar eventual tese de inimputabilidade.

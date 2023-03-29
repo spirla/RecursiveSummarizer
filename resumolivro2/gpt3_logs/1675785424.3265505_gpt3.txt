@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Prefere-se, por vezes, impetrar habeas corpus, com ou sem pedido de liminar, em razo da celeridade de processamento do remdio heroico. Tem legitimidade ativa o Ministrio Pblico para interpor recurso em sentido estrito contra a deciso que no decretar a priso preventiva. Por fim, desafia o recurso em sentido estrito a deciso do Conselho de Justia ou do juiz togado que revogar a priso preventiva. Revoga-se, pois, a priso preventiva se no mais persistir o motivo para que subsista (artigo 259, CPPM). Conceder ou negar a menagem (alnea i). A concesso ou a negao da menagem depende do preenchimento ou no dos requisitos objetivos e subjetivos do artigo 263 do CPPM:
+pena privativa de liberdade que no exceda a 4 anos, natureza do crime e os antecedentes do acusado. Decretar a prescrio, ou julgar, por outro modo, extinta a punibilidade (alnea j) ou que indeferir o pedido de reconhecimento da prescrio ou de outra causa extintiva da punibilidade (alnea l). A prescrio da pretenso punitiva e da pretenso executria est disciplinada nos artigos 124 a 132 do Cdigo Penal Militar. Os outros modos de extino da punibilidade esto capitulados no artigo 123 do Cdigo Penal Militar, a saber, a morte do agente, a anistia ou indulto, a retroatividade da lei que no mais considera o fato como criminoso, a reabilitao e o ressarcimento do dano no caso de peculato culposo. A sentena que extingue a punibilidade no processo de execuo desafia o agravo (artigo 197, LEP) em vez do recurso em sentido estrito. Conceder, negar, ou revogar o livramento condicional ou a suspenso condicional da pena (alnea m). Compete ao juiz federal da Justia Militar da Unio executar a sentena (artigo 30, XI, Lei 8.457/92 - LOJMU). Nos Estados depende da organizao judiciria militar, que pode atribuir a determinado juzo, comum ou militar, competncia para execuo das penas. A organizao judiciria militar do Estado do So Paulo fixou a competncia do Juzo da 5 Auditoria para execuo criminal. Na fase da execuo da pena, quando pode ser concedido, negado ou revogado o livramento condicional, cabe agravo sem efeito suspensivo (artigo 197 da Lei 7.210, de 11.07.1984).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O habeas corpus é um remédio heroico que pode ser impetrado para obter celeridade no processamento. O Ministério Público tem legitimidade para interpor recurso em sentido estrito contra a decisão que não decretar a prisão preventiva. A prisão preventiva pode ser revogada se não mais existir motivo para que ela persista. A concessão ou negação da menagem depende dos requisitos objetivos e subjetivos do artigo 263 do CPPM. A prescrição da pretenção punitiva e da pretenção executória está disciplinada nos artigos 124 a 132 do Código Penal Militar. O livramento condicional ou a suspensão condicional da pena podem ser concedidos, negados ou revogados. A execução da pena é de competência do juiz federal da Justiça Militar da União.

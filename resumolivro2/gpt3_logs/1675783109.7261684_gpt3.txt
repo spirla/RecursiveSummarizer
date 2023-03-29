@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A testemunha que prestou depoimento no tem contato com a testemunha que ir prestar depoimento. Notada a comunicao entre as testemunhas o incidente deve ser registrado na ata de sesso. A testemunha deve prestar depoimento e ser inquirida em contraditrio, e no apenas confirmar ou ratificar as declaraes que prestou no IPM depois de lidas pelo juiz presidente do Conselho de Justia. O artigo 352 do CPPM determina que a testemunha deve relatar o que sabe ou tem razo de saber, a respeito do fato delituoso narrado na denncia e circunstncias que com o mesmo tenham pertinncia, no podendo limitar o seu depoimento  simples declarao de que confirma o que prestou no inqurito. A testemunha  obrigada a responder as perguntas que lhe forem feitas, salvo se ofensivas ou impertinentes ou sem relao com o fato descrito na denncia, ou importarem repetio de outra pergunta j respondida (artigo 419, CPPM). O Cdigo de Processo Penal Militar, no artigo 418, adota o sistema presidencialista. As testemunhas so inquiridas pelo juiz togado e, por intermdio desse, pelos juzes militares, procurador, assistente e advogados. s testemunhas arroladas pela acusao o advogado formular perguntas por ltimo. Da mesma forma a acusao, s indicadas pela defesa. So recusadas as perguntas das partes que forem ofensivas, impertinentes, sem relao com o fato descrito na denncia ou que importarem repetio de outra pergunta j respondida. As perguntas recusadas sero, a requerimento de qualquer das partes, consignadas na ata da sesso, salvo se ofensivas e sem relao com o fato descrito na denncia. O controle de reperguntas  do juiz, que indefere perguntas sugestivas das partes ou recusa as perguntas que no tiverem relao com os fatos tratados no processo ou importarem repetio de outra j respondida. Quando se tratar de perguntas sugestivas elaboradas pelo magistrado, as partes podem protestar;
+caso o juiz insista na indagao sugestiva, cabe  parte que o protesto fique consignado. Camargo Aranha destaca formas viciosas de perguntar:
+a) Disjuntiva completa:
+O acusado foi preso com o relgio da vtima ou no? H uma fora sugestiva em sentido afirmativo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Testemunhas que prestam depoimento devem ser inquiridas em contraditório, respondendo às perguntas feitas, exceto se forem ofensivas ou impertinentes. O controle de reperguntas é do juiz, que pode recusar perguntas sem relação com o fato descrito na denúncia ou que importem repetição de outra já respondida. Perguntas sugestivas elaboradas pelo magistrado podem ser protestadas pelas partes, sendo consignado na ata da sessão.

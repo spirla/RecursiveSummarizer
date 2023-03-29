@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O reconhecimento de pessoa deve seguir o procedimento previsto no artigo 368 do CPPM dividido em trs fases (etapas):
+1) fase da descrio da pessoa a ser reconhecida (alnea a);
+2) fase do reconhecimento propriamente dito (alnea b);
+3) fase da formalizao do reconhecimento (lavratura de termo pormenorizado). Na primeira fase a pessoa que tiver de fazer o reconhecimento ser convidada a descrever a pessoa que deva ser reconhecida (alnea a). Os objetivos deste passo inicial so (a) de verificar a fixao na memria do reconhecedor das caractersticas fsicas do reconhecido ou dificuldade na conservao da fisionomia;
+(b) evitar que o reconhecedor seja influenciado ao ficar frente a frente com as pessoas postas na sala de reconhecimento e (c) de confrontar essa descrio prvia com a pessoa reconhecida depois. A doutrina assinala que essa fase  fundamental, pois o reconhecimento envolve um ato de percepo passada e um ato de memria. Se descrio for diversa das caractersticas da pessoa que se pretende reconhecer, o reconhecimento ser destitudo de valor. Na segunda fase - fase do reconhecimento propriamente dito - a pessoa cujo reconhecimento se pretender ser colocada, se possvel, ao lado de outrasque com ela tiverem qualquer semelhana, convidando-se a apont-la quem houver de fazer o reconhecimento (alnea b). O cuidado de os figurantes guardarem semelhana fsica (cor, altura, cor de cabelo, porte fsico etc.) com a pessoa que se pretende reconhecer, bem como o modelo do fardamento militar  uma forma de dar credibilidade ao reconhecimento. No entanto, a obrigatoriedade da semelhana entre a pessoa reconhecenda e as outras colocadas ao seu lado  discutvel. H entendimento de que se no houver uma semelhana entre as pessoas o reconhecimento  nulo por defeito formal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O reconhecimento de pessoa deve seguir o procedimento previsto no artigo 368 do CPPM, dividido em três fases: descrição da pessoa a ser reconhecida, reconhecimento propriamente dito e formalização do reconhecimento. A descrição da pessoa é fundamental para evitar influências e confrontar com a pessoa reconhecida. Na segunda fase, a pessoa cujo reconhecimento se pretende é colocada ao lado de outras com semelhança física, para dar credibilidade ao reconhecimento. No entanto, a obrigatoriedade da semelhança é discutível.

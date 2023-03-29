@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os quesitos devem ser especificos, simples e de sentido inequivoco, nao podendo ser sugestivos nem conter implicita a resposta. Exigncia de especificacao e esclarecimento
+Paragrafo 1 O juiz, de oficio ou a pedido de qualquer dos peritos, podera mandar que as partes especifiquem os quesitos genericos, dividam os complexos ou esclarecam os duvidosos, devendo indeferir os que nao sejam pertinentes ao objeto da pericia, bem como os que sejam sugestivos ou contenham implicita a resposta. Esclarecimento de ordem tecnica
+Paragrafo 2 Ainda que o quesito nao permita resposta decisiva do perito, podera ser formulado, desde que tenha por fim esclarecimento indispensavel de ordem tecnica, a respeito de fato que e objeto da pericia. 2. Sobrestamento do PAD: devera a CPAD paralisar os trabalhos e solicitar a autoridade convocante o sobrestamento do processo ate a emissao do respectivo laudo pericial pela JCS - artigo 73, caput, do CEDM e artigo 350, paragrafo 3, do MAPPA. Durante o periodo de sobrestamento, podera o Presidente expedir oficios que visem preparar a continuidade da instrucao processual, como, por exemplo, solicitar copia de processos e documentos e proceder a sua juntada aos autos. O que nao podera realizar sao atos de instrucao, como a oitiva de pessoas. Nesse sentido:
+APELACAO CIVEL - REINTEGRACAO - OFENSA AO PRINCIPIO DO CONTRADITORIO - NAO CARACTERIZACAO - NULIDADE NO CURSO DO PAD - PRATICA DE DILIGNCIAS ANTES DA AUTORIZACAO DE DESSOBRESTAMENTO DO PROCESSO ADMINISTRATIVO - AUSNCIA DE COMPROVACAO DE PREJUIZO A DEFESA - NULIDADE DA PERICIA PSICOPATOLOGICA - NAO CARACTERIZACAO - NEGADO PROVIMENTO AO RECURSO. (TJM-MG: AC n. 0003235-94.2013.9.13.0002, Rel. Juiz Fernando Armando Ribeiro, publicado em 18/03/2015)
+Sobre os resultados que podem advir da pericia psicopatologica e suas repercussoes processuais, remetemos aos comentarios ao artigo 73 deste Codigo. Ressalta-se que o fato do militar encontrar-se com licenca ou dispensa saude e ate mesmo internado em hospital nao e fator impeditivo para realizacao da pericia (artigo 175, paragrafos 1, 2 e 3, do MAPPA).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz pode exigir que as partes especifiquem os quesitos de forma clara e inequívoca, e indeferir os que não sejam pertinentes ao objeto da perícia. Ainda que o quesito não permita resposta decisiva do perito, pode ser formulado para esclarecimento de ordem técnica. Durante o período de sobrestamento do processo administrativo disciplinar (PAD), o Presidente pode expedir ofícios para preparar a continuidade da instrução processual, mas não pode realizar atos de instrução, como a oitiva de pessoas. A realização da perícia psicopatológica não é impedida mesmo que o militar esteja licenciado ou dispensado por motivo de saúde.

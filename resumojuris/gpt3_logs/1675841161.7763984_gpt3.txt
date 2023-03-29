@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Valores que ja lhe pertenceriam. Peculato-desvio. Atipicidade. Apuracao na esfera administrativa. DESTAQUE 732 Nao e tipico o ato do servidor que se apropria de valores que ja lhe pertenceriam, em razao do cargo por ele ocupado. No caso, a conduta imputada as partes e a nomeacao da re para o exercicio de cargo em Camara Municipal, no gabinete do correu. Segundo a narrativa do Parquet, essa conduta configurou o crime de peculato-desvio porque a re apenas comparecia ao trabalho, para assinar o ponto sem, contudo, exercer suas atribuicoes do cargo e, dessa forma, nao faria jus a remuneracao percebida. Extrai-se na situacao fatica que houve comunhao de esforcos, a partir de janeiro de 2016, e teriam desviado, em proveito proprio, R$ 478.419,09, referentes aos vencimentos mensais da re. Isso porque, embora cedida para trabalhar no gabinete do correu na Camara de Vereadores, desempenhava outras funcoes, nao cumprindo com a carga horaria semanal de 40 horas. Todavia, nao ha imputacao de que o correu tomasse para si os vencimentos da re, mas somente que a referida servidora nao desempenhava, efetivamente, as funcoes para as quais foi nomeada. Tampouco o acordao recorrido registra, em qualquer momento, que as verbas remuneratorias fossem destinadas a qualquer pessoa, alem da propria re. Nos termos da jurisprudencia deste STJ, nao e tipico o ato do servidor que se apropria de valores que ja lhe pertenceriam, em razao do cargo por ele ocupado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é típico o ato do servidor que se apropria de valores que já lhe pertenceriam, em razão do cargo por ele ocupado. 2. A conduta imputada às partes é a nomeação da ré para o exercício de cargo em Câmara Municipal, no gabinete do correu. 3. A conduta configurou o crime de peculato-desvio porque a ré apenas comparecia ao trabalho, para assinar o ponto sem, contudo, exercer suas atribuições do cargo e, dessa forma, não faria jus à remuneração percebida. 4. Houve comunhão de esforços, a partir de janeiro de 2016, e teriam desviado, em proveito próprio, R$ 478.419,09, referentes aos vencimentos mensais da ré. 5. Embora cedida para trabalhar no gabinete do correu na Câmara de Vereadores, desempenhava outras funções, não cumprindo com a carga horária semanal de 40 horas. 6. Não há imputação de que o correu tomasse para si os vencimentos da ré, mas somente que a referida servidora não desempenhava, efetivamente, as funções para as quais foi nomeada.

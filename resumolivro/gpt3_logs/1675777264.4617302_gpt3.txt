@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido:
+APELACAO CIVEL - FALTAR AO SERVICO - ARTIGO 13, INCISO XX, DO CEDM - PRELIMINAR DE PRESCRICAO NAO ACOLHIDA - DUAS NOTAS MERITORIAS RECLAMADAS COMO RECOMPENSA FORAM CONCEDIDAS APOS O COMETIMENTO DA TRANSGRESSAO DISCIPLINAR, O QUE INVIABILIZA O SEU APROVEITAMENTO - INSTRUCAO DE RECURSOS HUMANOS N. 239/02-DRH C/C LEI ESTADUAL N. 14.310/2002 - DOSIMETRIA E ENQUADRAMENTO CORRETOS - ATO ADMINISTRATIVO PERFEITO E ACABADO - INEXISTNCIA DE ILEGALIDADE A ENSEJAR A NULIDADE DO ATO ADMINISTRATIVO PUNITIVO - NEGADO PROVIMENTO AO RECURSO DO AUTOR. SENTENCA DE PRIMEIRO GRAU EQUIVOCADA, EM SUA PARTE FINAL - CONSIDERACAO DE DUAS NOTAS MERITORIAS INDEVIDAS - AFRONTA A LEGISLACAO VIGENTE - REFAZIMENTO DO ATO PUNITIVO NAO CABIVEL - REFORMA DA SENTENCA, APENAS NESTE PONTO - DADO PROVIMENTO AO RECURSO DO ESTADO DE MINAS GERAIS. - O julgamento da transgressao disciplinar foi precedido de analise que considerou os antecedentes do transgressor, tomando-se como ponto de partida a data em que foi cometida a transgressao disciplinar. - O levantamento da existncia de notas meritorias concedidas deve-se ater ao primeiro ano que antecede a transgressao disciplinar,2 nos exatos termos do artigo 2, inciso III, alinea b, da Instrucao de Recursos Humanos n. 239/2002-DRH c/c a Lei n. 14.310/2002. - As duas notas meritorias concedidas foram publicadas em datas posteriores ao cometimento da transgressao. - A decisao do magistrado a quo esta absolutamente equivocada, pelo que deve ser reformada, neste ponto, tendo em vista que estes fundamentos nao coadunam com a legislacao vigente de procedimentos para elaboracao de enquadramentos disciplinares. - Reforma da sentenca, na sua parte final. - Negado provimento ao recurso do autor. - Dado provimento ao recurso do Estado de Minas Gerais. (TJM-MG: Proc. 1000014-47.2017.9.13.0002, Rel.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O julgamento da transgressão disciplinar foi precedido de análise que considerou os antecedentes do transgressor, tomando-se como ponto de partida a data em que foi cometida a transgressão. O levantamento da existência de notas meritorias concedidas deve-se ater ao primeiro ano que antecede a transgressão. As duas notas meritorias concedidas foram publicadas em datas posteriores ao cometimento da transgressão. A sentença de primeiro grau foi equivocada, pelo que deve ser reformada, tendo em vista que os fundamentos não coadunam com a legislação vigente. Negado provimento ao recurso do autor. Dado provimento ao recurso do Estado de Minas Gerais.

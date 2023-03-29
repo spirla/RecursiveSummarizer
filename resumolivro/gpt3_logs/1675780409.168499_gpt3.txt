@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+p..
+225 DI PIETRO, Maria Sylvia Zanella. Direito Administrativo, 30 ed. p. 238. 226 DI PIETRO, Maria Sylvia Zanella. Direito Administrativo, 30 ed. p. 813. 227 DI PIETRO, Maria Sylvia Zanella. Op. cit. p. 239. 228 Conforme esclarece Daniel Amorim Assumpcao Neves, em Limitacoes Procedimentais a Busca da Verdade: O que se deve buscar e a melhor verdade possivel dentro do processo, dentro das limitacoes que serao objeto de nossa analise e com a conscincia de que a busca da verdade nao e um fim em si mesma, apenas funcionando como um dos fatores para a efetiva realizacao da justica, por meio de uma prestacao jurisdicional de boa qualidade. Ainda que se respeitem os limites impostos a busca da verdade, justificaveis a luz de valores e garantias previstos na Constituicao Federal, o que se procurara no processo e a obtencao da verdade possivel. Por verdade possivel, como veremos, entendemos a verdade alcancavel no processo, que coloque o juiz o mais proximo possivel do que efetivamente ocorreu no mundo dos fatos, o que se dara pela ampla producao de provas, com os devidos limites que serao analisados a seguir. 229 O principio do in dubio pro reo acarreta numa interpretacao que melhor beneficia o acusado no caso de duvidas sobre a real ocorrncia dos fatos diante da fragilidade do acervo. A consequncia e o arquivamento do processo por nao existir prova suficiente para o enquadramento disciplinar (artigo 7, VI, do MAPPA).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio do in dubio pro reo acarreta uma interpretação que beneficia o acusado quando há dúvidas sobre a real ocorrência dos fatos. Como consequência, o processo pode ser arquivado por não haver prova suficiente para o enquadramento disciplinar.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Apelao desprovida. (TRF 3a Regio, 1a Turma, ApCiv - APELAO CVEL - 000467832.2010.4.03.6000, Rel. Desembargador Federal WILSON ZAUHY FILHO, julgado em 12/08/2022, DJEN DATA: 16/08/2022) No que concerne  movimentao realizada em desfavor do apelado, verifica-se que o ato vinculou a transferncia  suposta ocorrncia do exerccio de segunda atividade remunerada bico  - DOC6, tendo sido invocada a aplicao do item 2.4 do Memorando Circular n. 10.463.2/2019-EMPM, que prev essa hiptese nos casos de flagrante do exerccio de atividade de segurana privada. Percebe-se que a autoridade militar se embasou, nica e exclusivamente, no fato de ter sido o militar supostamente flagrado prestando servio segurana em supermercado. Em razo de aqui prevalecer o entendimento de inexistncia de provas que permitem a concluso de o militar estar em atividade no permitida e reconhecer a procedncia dos pedidos do autor e promover a anulao da punio da administrao, considero coerente anular a transferncia a bem da disciplinar levada a efeito pela Administrao Militar. Sobre o pedido liminar apresentado pelo apelado em suas contrarrazes, considerei desnecessria a anlise, porquanto solicitei a incluso do processo em pauta de julgamento em 20 dias de sua entrada nesta segunda instncia. Ainda nesse ponto, considero ser possvel ao apelado requerer junto ao juzo originrio o cumprimento provisrio de sentena quanto  obrigao de retornar o apelado  lotao original, antes da instaurao do procedimento apuratrio, haja vista os recursos extraordinrios no serem dotados de efeito suspensivo (arts. 520, 5, e 522 do CPC). Quanto ao pedido de majorao de honorrios requerido pelo apelado em suas contrarrazes, esclareo que, na fixao de honorrios em desfavor da Fazenda Pblica, devero ser observados os limites fixados no art. 85,  2, 3 e 4, do Cdigo de Processo Civil (CPC). Destaco os preceitos do referido artigo, in verbis: Art. 85. A sentena condenar o vencido a pagar honorrios ao advogado do vencedor. [...]  2 Os honorrios sero fixados entre o mnimo de dez e o mximo de vinte por cento sobre o valor da condenao, do proveito econmico obtido ou, no sendo possvel mensur-lo, sobre o valor atualizado da causa, atendidos: I - o grau de zelo do profissional; II - o lugar de prestao do servio; III - a natureza e a importncia da causa; IV - o trabalho realizado pelo advogado e o tempo exigido para o seu servio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Apelao foi desprovida. A transferncia do apelado foi anulada por inexistncia de provas de que estava exercendo atividade proibida. Foi solicitada ao juzo originrio a incluso do processo em pauta de julgamento em 20 dias. Os honorrios devem ser fixados entre 10% e 20% do valor da condenao, do proveito econômico obtido ou do valor atualizado da causa.

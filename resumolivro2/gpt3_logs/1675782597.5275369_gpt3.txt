@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na interceptao telefnica os interlocutores desconhecem que h interceptao das comunicaes telefnicas, logo, a intimidade de ambos  violada. Na escuta telefnica apenas um dos interlocutores tem conhecimento da captao da conversa, de modo que o outro interlocutor a desconhece e no autorizou a captao da conversa. A doutrina brasileira interpreta que a expresso contida no artigo 1, caput, da Lei 9.296/96 - interceptao de comunicaes telefnicas, de qualquer natureza - abrange a interceptao telefnica em sentido estrito e a escuta telefnica, porque em ambas h um terceiro que faz a interceptao e capta a conversa alheia. O STF (HC 74.678/SP) decidiu pela validade da escuta telefnica (gravao de conversa telefnica feita por terceiro com a autorizao de um dos interlocutores sem o conhecimento do outro, que est praticando crime) reconhecendo que aquele que autorizou a gravao da conversa telefnica agiu amparado na excludente da antijuridicidade (legtima defesa). O artigo 1, caput, da Lei 9.296/96, no disciplina a gravao clandestina, nem a gravao ambiental. A gravao clandestina  a gravao da conversa telefnica realizada por um dos interlocutores sem que o outro interlocutor tenha conhecimento. Diferente do que ocorre com a interceptao telefnica, a gravao clandestina no depende de autorizao judicial, a prova  obtida por meio lcito, porque no h violao de sigilo das comunicaes telefnicas (artigo 5, XII, CF). A Constituio veda a interferncia de terceiro na comunicao telefnica, sem ordem judicial. A conversa telefnica gravada por um dos interlocutores sem conhecimento do outro  prova lcita, conforme deciso do STF (...) se no h causa legal especfica de sigilo nem de reserva da conversao. Conforme julgado do STJ a gravao realizada por um dos interlocutores  considerada prova lcita.  lcita a gravao de conversa telefnica feita por um dos interlocutores, ou com sua autorizao, sem cincia do outro, quando se trate, por exemplo, de comprovar a prtica de extorso, equiparando a situao  de quem age em legtima defesa, o que exclui a antijuridicidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interceptao telefnica e a escuta telefnica são formas de captação de conversas telefônicas, sendo que na primeira os interlocutores desconhecem a interceptação, enquanto na segunda apenas um dos interlocutores tem conhecimento da captação. A gravação clandestina é a gravação da conversa telefônica realizada por um dos interlocutores sem que o outro interlocutor tenha conhecimento, sendo considerada prova lícita.

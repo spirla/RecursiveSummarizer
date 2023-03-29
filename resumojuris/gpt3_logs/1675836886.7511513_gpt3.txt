@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Na origem, cuida-se de acao ordinaria, ajuizada por servidores da FUNASA, objetivando o pagamento, desde outubro de 2005, da indenizacao de campo reajustada no mesmo percentual da menor diaria, nivel D (R$ 57,28), com acrescimo de 50%, que sempre incide sobre a diaria para as localidades que nao sejam capital de Estado, ao fundamento de que o Decreto n. 5.554/2005, ao assim dispor, majorou, dissimulada e indevidamente, o valor da diaria, nivel D, nao observando, porem, a equivalencia de 46,87% entre o reajuste da diaria e o da indenizacao de campo, conforme previsto no art. 15 da Lei n. 8.270/1991, que estabeleceu que a indenizacao de campo, criada pela Lei n. 8.216/1991, sera reajustada pelo Poder Executivo na mesma data e percentual de revisao dos valores de diarias . Sobre o tema, o STJ firmou o entendimento de que a indenizacao de campo, prevista no art. 16 da Lei n. 8.216/1991, deve ser reajustada pelo Poder Executivo na mesma data e com os mesmos percentuais de reajuste aplicados as diarias, e que esta previsao resulta na garantia de que a indenizacao deve sempre corresponder ao valor de 46,87% das diarias, tendo em vista que esta proporcao permanece inalterada, independentemente do percentual de reajuste aplicado nas diarias (REsp 690.309/PB, Rel. Ministro Gilson Dipp, Quinta Turma, DJU de 13/06/2005). 220 O Decreto n. 5.554/2005, nao obstante a Portaria ministerial n. 402, de 02/10/2002 - que, regularizando a situacao, fixara o valor da indenizacao de campo, com efeitos financeiros a partir de 01/08/2002, em R$ 26,85 (vinte e seis reais e oitenta e cinco centavos), correspondente a 46,87% do menor valor da diaria, de nivel D, no importe de R$ 57,28 -, continuou fixando a indenizacao de campo em R$ 17,46, valor menor que o da Portaria n. 402/2005 e que era o valor anteriormente previsto para a indenizacao de campo, nos anteriores Decretos n. 1.656/1995 e n. 3.643/2000 (R$ 17,26).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Decreto n. 5.554/2005 majorou indevidamente o valor da diaria, não observando a equivalência de 46,87% entre o reajuste da diaria e o da indenizacao de campo, conforme previsto no art. 15 da Lei n. 8.270/1991. 2. A indenizacao de campo, prevista no art. 16 da Lei n. 8.216/1991, deve ser reajustada pelo Poder Executivo na mesma data e com os mesmos percentuais de reajuste aplicados as diarias. 3. A indenizacao de campo deve sempre corresponder ao valor de 46,87% das diarias, tendo em vista que esta proporcao permanece inalterada, independentemente do percentual de reajuste aplicado nas diarias.

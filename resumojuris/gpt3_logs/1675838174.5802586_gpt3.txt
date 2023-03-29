@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+100,  2, da CF/88 e 102,  2, do ADCT, com a adocao dos limites estabelecidos por lei local que majorou o teto para as obrigacoes de pequeno valor. Na origem, a recorrente impetrou Mandado de Seguranca contra ato do Juiz de Direito da Coordenadoria de Conciliacao de Precatorios do Distrito Federal (COORPRE), consubstanciado no indeferimento do pedido de complementacao do credito de natureza alimenticia, dotado de superpreferencia, na forma dos arts. 100,  2, da CF/88 e 102,  2, do ADCT, com a adocao dos limites estabelecidos por lei local pela Lei Distrital n. 6.618, de 08/06/2020 - que majorou, de dez para vinte salarios-minimos -, o teto para as obrigacoes de pequeno valor, no ambito do Distrito Federal. A impetrante, idosa, recebeu, em 21/05/2020, o adiantamento do credito alimenticio preferencial, previsto no art. 102,  2, do ADCT, obedecido o teto de 50 (cinquenta) salarios-minimos, nos termos da Lei Distrital n. 3.624/2005, postulando a complementacao de tal valor, obedecido o parametro do art. 102,  2, do ADCT c/c a Lei Distrital n. 6.618, de 08/06/2020, ou seja, 100 (cem) salarios-minimos, o que lhe foi negado, ao fundamento de que a preferencia constitucional so pode ser concedida em unica oportunidade, de forma que o recebimento da importancia remanescente devera obedecer rigorosamente a lista cronologica de credores . Sobre o tema, a jurisprudencia do Superior Tribunal de Justica orienta-se no sentido de que nao e possivel que o mesmo credor possa ser beneficiado, mais de uma vez, em um mesmo precatorio, com a antecipacao de credito dotado de 'super preferencia', por motivos distintos - em razao da idade e de ser portador de doenca grave -, com fundamento no art. 100,  2, da CF/88, porquanto tal interpretacao contraria o dispositivo constitucional (STJ, RMS n. 59.661/RO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11/03/2019).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a adoção de limites estabelecidos por lei local para obrigações de pequeno valor, nos termos dos arts. 100, § 2º, da CF/88 e 102, § 2º, do ADCT. 2. Não é possível que o mesmo credor seja beneficiado mais de uma vez, em um mesmo precatório, com a antecipação de crédito dotado de “superpreferencia”, por motivos distintos, com fundamento no art. 100, § 2º, da CF/88, pois tal interpretação contraria o dispositivo constitucional.

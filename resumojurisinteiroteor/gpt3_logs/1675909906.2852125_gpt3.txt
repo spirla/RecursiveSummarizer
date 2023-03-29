@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Disse que a prova testemunhal foi colhida de forma inquisitiva e unilateral, em flagrante violao ao exerccio da ampla defesa e ao art. 5, inciso LV, da Constituio Federal. Com tais consideraes, requereu a procedncia da ao para anular o ato de sano e os efeitos decorrentes. Requereu, ainda, a concesso dos benefcios da assistncia judiciria gratuita e a condenao do Estado de Minas Gerais ao pagamento das despesas processuais e dos honorrios advocatcios. Atribuiu  causa o valor de R$ 1.000,00 (mil reais) (Evento 01 - INIC1). A inicial foi instruda com os documentos apostos no Evento 01. A certido coligida no Evento 2, CERT1, certificou a existncia dos seguintes processos em nome do autor: 2000980-22.2019.9.13.0002, 2001040-95.2019.9.13.0001, 2000023-84.2020.9.13.0002, 200020306.2020.9.13.0001, 2000272-32.2020.8.13.0003, 200007304.2020.9.13.0005, 2000074-86.2020.9.13.0005 e 2000076 56.2020.09.13.0005. Em despacho inaugural, o MM. Juiz de Direito Titular da 5a AJME Cvel concedeu o benefcio da justia gratuita e afastou os institutos da coisa julgada e da litispendncia. Na oportunidade, determinou que o autor informasse a interposio de recurso disciplinar na primeira e segunda instncia do PCD e, caso positivo, que juntasse as decises correspondentes, bem como o seu extrato de registros funcionais (ERF) atualizado (Evento 4). A defesa do autor peticionou informando a ausncia de interposio de recursos disciplinares durante o PCD e juntou os extratos de registros funcionais e o de sanes vlidas (Evento 10). Devidamente citado, o Estado de Minas Gerais apresentou contestao. Em sntese, alegou que o processo administrativo obedeceu aos princpios da ampla defesa e do contraditrio, pois ao autor foi oportunizada a produo de provas que fundamentassem suas alegaes, no tendo ele conseguido elidir as acusaes que pesavam em seu desfavor. Disse que a declarao de nulidade do ato administrativo depende da demonstrao do prejuzo, o que no ocorreu. Aduziu que a nomeao de defensor ad hoc para oitiva das testemunhas era irrelevante, na medida em que a audio das trs requeridas pela defesa em nada contribuiu para a apurao dos fatos, tendo em vista que elas desconheciam o ocorrido. Ademais, salientou que a matria no fora arguida a tempo e modo durante o procedimento, ensejando, portanto, a precluso lgica. Por fim, disse que a anlise do Poder Judicirio se restringe  legalidade do ato, no cabendo, portanto, a apreciao do mrito, sob pena de se infringir o princpio da separao dos poderes. Com esses argumentos, pugnou pela improcedncia dos pedidos iniciais e pela condenao do autor ao pagamento dos nus sucumbenciais (Evento 17 - CONT1).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O autor ajuizou ao anulatria de ato administrativo, pleiteando a procedncia da ao para anular o ato de sano e os efeitos decorrentes, bem como a concesso dos benefcios da assistncia judiciria gratuita e a condenao do Estado de Minas Gerais ao pagamento das despesas processuais e dos honorrios advocatcios. O Estado de Minas Gerais alegou que o processo administrativo obedeceu aos princpios da ampla defesa e do contraditrio, e que a anlise do Poder Judicirio se restringe legalidade do ato, no cabendo, portanto, a apreciao do mrito.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+a) Considerando que a legislao repressiva alem no pune a participao em suicdio, penalistas do porte de Claus Roxin, Jescheck e Rudolphi sustentam no ser punvel o fato de algum intencionalmente induzir outrem  realizao de atividade perigosa, por meio da qual, em atuao consciente, venha a morrer, ou mesmo na participao culposa para que ocorra essa morte. No Brasil, contudo, a soluo no  acertada. O artigo 207 do Cdigo Penal Militar considera crime o induzimento, a instigao e o auxlio ao suicdio. A premissa para a soluo da questo  outra. Se o sujeito colabora intencionalmente para que a vtima coloque-se em situao de risco no autorizada, buscando esta o autoextermnio, e se a vtima vier a morrer ou ficar gravemente lesionada, caracteriza-se o tipo previsto no artigo 207 do CPM. Contudo, se o sujeito no atua com inteno de colaborar no suicdio, mas, materialmente, sua conduta contribui para que isso ocorra, mesmo havendo previsibilidade, no se caracteriza crime culposo. Primeiro, porque o artigo 207 somente descreve modelo de comportamento doloso. Depois, porque pode o sujeito confiar que, ordinariamente, as pessoas no atentam contra a prpria vida. A tipificao do homicdio culposo no ocorre porque, mesmo sendo o fato previsvel, o sujeito pode confiar que a vtima no atentar contra a prpria vida. O princpio da confiana, a ser examinado no item seguinte,  capaz de impedir a imputao objetiva pelo resultado, salvo se existirem indcios de que, no caso concreto, no se possa confiar no comportamento ordinrio. b) No caso em que o traficante fornece droga ao viciado, vindo este a morrer por causa de sua ingesto, Rudolphi e Roxin sustentam que, se o viciado reconhece o perigo do entorpecente que lhe foi entregue e de livre vontade decide consumi-lo, no se pode imputar objetivamente o resultado ao traficante. A atual jurisprudncia alem  no sentido de que as autocolocaes em perigo desejadas e realizadas por prpria responsabilidade no so subsumveis ao tipo de um crime de leso ou de homicdio nos casos em que se realiza o risco conscientemente corrido com a colocao em perigo. Quem meramente incita, possibilita ou facilita tal autocolocao em perigo no  punvel por um crime de leso ou de homicdio. Tal posicionamento, diante da nossa legislao repressiva, no  correto. No Brasil, como tambm na Alemanha, a situao exige considerar o dever de agir de quem est na posio de garantidor.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Claus Roxin, Jescheck e Rudolphi sustentam que no punvel o fato de alguém induzir outra pessoa a realizar atividades perigosas conscientemente. No Brasil, contudo, o artigo 207 do Código Penal Militar considera crime o induzimento, instigamento e auxílio ao suicídio. Em casos de autocolocação em perigo desejada e realizada por própria responsabilidade, quem meramente incita, possibilita ou facilita tal autocolocação em perigo não é punível por um crime de lesão ou homicídio.

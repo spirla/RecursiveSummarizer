@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Desse modo, a atuacao do Poder Legislativo so se justifica no ambito do controle difuso  de modo a expandir a todos os efeitos de decisao dotada originalmente com eficacia entre as partes . Com base nesses entendimentos, o Plenario julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade da expressao ou de lei ou ato normativo municipal em face da Lei Organica respectiva do art. 61, I, l, assim como do  3 do art. 63 da Constituicao do Estado de Pernambuco. ADI 5548/PE, relator Min. Ricardo Lewadowski, julgamento virtual finalizado em 16.8.2021 (segunda-feira), as 23:59. (INF 1025) Destinacao de parcela da arrecadacao de emolumentos extrajudiciais para financiamento de fundos publicos - ADI 3704/RJ Resumo: E constitucional lei estadual que destine parcela da arrecadacao de emolumentos extrajudiciais a fundos dedicados ao financiamento da estrutura do Poder Judiciario ou de orgaos e funcoes essenciais a Justica. Com efeito, a jurisprudencia do Supremo Tribunal Federal (STF) acena positivamente para leis estaduais que destacam percentual dos emolumentos cobrados pelos registradores e notarios em beneficio de orgaos ou fundos publicos. Isso porque a Corte enxerga, na hipotese, puro e simples desconto dos valores devidos ao estado-membro a titulo de taxa em razao do exercicio regular de poder de policia, e nao propriamente uma distribuicao automatica e linear, em beneficio de orgaos estatais, das receitas arrecadadas com a cobranca de emolumentos extrajudiciais. Por se tratar de taxa de poder de policia, nao incide a vedacao da vinculacao de impostos a qualquer orgao, fundo ou despesa publica, prevista no art. 167, IV, da CF/88 (CF). Decorre da propria CF a qualificacao da Advocacia Publica como funcao essencial a Justica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional lei estadual que destine parcela da arrecadação de emolumentos extrajudiciais a fundos dedicados ao financiamento da estrutura do Poder Judiciário ou de órgãos e funções essenciais à Justiça. 2. A jurisprudência do Supremo Tribunal Federal acena positivamente para leis estaduais que destacam percentual dos emolumentos cobrados pelos registradores e notários em benefício de órgãos ou fundos públicos. 3. Tratando-se de taxa de poder de polícia, não incide a vedação da vinculação de impostos a qualquer órgão, fundo ou despesa pública, prevista no art. 167, IV, da Constituição Federal. 4. A Advocacia Pública é qualificada como função essencial à Justiça.

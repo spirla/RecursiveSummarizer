@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A discussao extravasa a aplicacao literal do CC por envolver hipotese em que a restricao do uso do bem publico decorre da necessidade de prestacao de servico publico no interesse da coletividade. O fato de o Poder Constituinte de Reforma ter mantido sob a responsabilidade da Uniao a titularidade da prestacao dos servicos de telecomunicacoes torna incontroverso que estes apresentam natureza de servico publico. A essencia de carater publico dos servicos de telecomunicacoes nao foi desconstituida pela simples previsao legal de que podem ser prestados por meio de autorizacao. Diferentemente das autorizacoes administrativas tradicionais, as autorizacoes de servicos de telecomunicacoes nao se esgotam na simples emissao unilateral do ato, e marcam vinculacao permanente com a Administracao, com a finalidade de tutelar o interesse publico. Sobre a necessidade do meio utilizado, existe forte logica economica na extensao nacional da gratuidade: evitar que custos pela utilizacao da faixa de dominio sejam repassados aos consumidores de telecomunicacoes. Alem de trazer outras dificuldades, a cobranca de maneira uniforme pelas diferentes esferas da Administracao e concessionarias elevaria o custo ao consumidor final, dificultando o acesso aos servicos, na contramao da politica nacional de telecomunicacoes. No tocante a proporcionalidade em sentido estrito, a lei federal e seu regulamento previram salvaguardas a fim de evitar o aniquilamento do direito real em jogo. Corrobora a proporcionalidade da restricao, o fato de: (i) o direito de passagem dever ser autorizado pelos orgaos reguladores sob cuja competencia estiver a area a ser ocupada ou atravessada; (ii) a instituicao do direito nao abranger os custos necessarios a infraestrutura e equipamentos, tampouco afetar obrigacoes indenizatorias decorrentes de eventual dano ou de restricao de uso significativa; (iii) o art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os serviços de telecomunicações apresentam natureza de serviço público, mesmo que sejam prestados por meio de autorização. 2. A gratuidade da faixa de domínio deve ser estendida nacionalmente para evitar o repasse de custos aos consumidores de telecomunicações. 3. O direito de passagem deve ser autorizado pelos órgãos reguladores competentes. 4. O direito de passagem não abrange os custos necessários à infraestrutura e equipamentos, tampouco afeta obrigações indenizatórias decorrentes de eventual dano ou de restrição de uso significativa.

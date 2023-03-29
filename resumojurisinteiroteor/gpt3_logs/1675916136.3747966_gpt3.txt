@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Elba Rondino, manifestou-se nos seguintes termos, verbis, Evento 14: [...] Pois bem, a questo se revela singela, uma vez que o impetrante pretende o trancamento da ao penal militar simplesmente porque, de acordo com a sua prpria percepo, existe a possibilidade real de que direitos e garantias fundamentais da Paciente sejam violados caso se decrete, por exemplo, eventual busca e apreenso, entendendo, ainda, que a simples marcha da persecuo penal militar se constitui em um enorme peso, numa dor incomensurvel, podendo a paciente, a qualquer momento, ser convocada para ser interrogada na justia [sic] - evento 1 (INIC1 - fls. 06). Desta forma, no se verifica qualquer ato da autoridade apontada como coatora que possa configurar ameaa  liberdade de locomoo da paciente, nos termos do que dispe o artigo 467 do CPPM, o que, por si s, inviabiliza o conhecimento da medida processual ora adotada. Ainda que assim no fosse, conforme se extrai da deciso que recebeu a denncia no dia 27/06/2022, a pea exordial encontra-se perfeita de modo a atender aos requisitos formais e legais necessrios ao seu recebimento, com narrativa, em tese, constitutiva de injusto culpvel... tipicidade objetiva, punibilidade concreta, justa causa e legitimidade ad causam [sic] - evento 1 (OUT5), razo pela qual fica evidente que o impetrante se utilizou inadequadamente da via de habeas corpus para tentar provar a inocncia da paciente com base nas provas supostamente obtidas a seu favor, a exemplo de um arquivo de udio que, segundo ele, foi acostado aos autos do IPM (evento 1 - INIC1 - fls. 05), fazendo-se necessrio, ento, dar continuidade  instruo criminal, a fim de que, somente ao final, seja possvel decidir sobre a procedncia ou no da ao penal militar. Assim, tendo a matria sido enfrentada com preciso j por ocasio do indeferimento da liminar (evento 6), visando no incidir em cansativas repeties, esta Procuradoria de Justia se pe totalmente de acordo com a fundamentao constante da aludida deciso liminar. Pelo exposto, mostrando-se evidente que o habeas corpus no se presta  finalidade pretendida pelo impetrante, esta Procuradoria de Justia opina pelo seu no conhecimento e, caso conhecido, pela denegao da ordem  o relatrio. VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Trata-se de habeas corpus, com pedido liminar, impetrado em favor da paciente Kissy de Paula Andrade, com a finalidade de trancar a Ao Penal n. 2000404-21.2022.9.13.0003, que tramita perante a 3a Auditoria Judiciria Militar Estadual (AJME).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Habeas Corpus impetrado em favor da Paciente Kissy de Paula Andrade, com o objetivo de trancar a Ao Penal n. 2000404-21.2022.9.13.0003, não se mostrou adequado para a finalidade pretendida, uma vez que não foi verificado qualquer ato da autoridade que possa configurar ameaça à liberdade de locomoção da Paciente, além de a peça exordial se encontrar perfeita para o recebimento. Assim, a Procuradoria de Justia opina pelo não conhecimento do Habeas Corpus, caso conhecido, pela denegação da ordem.

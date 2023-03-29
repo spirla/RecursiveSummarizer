@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[.] Ambas as penas somadas totalizam 02 (dois) anos e 08 (oito) meses, a serem cumpridas em regime aberto. A audincia para leitura da sentena ocorreu no dia 23/07/2021. Na oportunidade, a defesa manifestou o desejo de recorrer da sentena penal condenatria (Evento 153 - ATA1). Em suas razes de apelao, a defesa suscitou, em sede preliminar, a incompetncia desta Justia Militar estadual para julgar o feito. Argumentou que a desclassificao do delito de homicdio tentado para o de disparo de arma de fogo em local habitado, que foi efetivada pelo douto Conselho de Justia, retirou da Justia castrense a competncia para julgar o delito previsto no artigo 15 do Estatuto do Desarmamento - Lei n. 10.826/03. Alegou que o delito de disparo de arma de fogo em local habitado  um tipo penal de perigo abstrato, contudo o apelante estava de folga e em sua residncia no dia dos fatos, no ensejando, portanto, a configurao de nenhuma das hipteses previstas no artigo 9 do Cdigo Penal Militar. Aduziu que o disparo ocorreu em situao diversa da atuao profissional do militar, bem como em local no sujeito  competncia da Administrao Militar. Dessa forma, pugnou pela remessa dos autos para o juzo competente para julgar o feito, ou seja, a Justia comum estadual. No mrito, alegou que, em razo da absolvio do agente pelo delito principal (homicdio tentado), no caberia a desclassificao para o delito meio (disparo de arma de fogo), o qual inevitavelmente seria absorvido pelo delito fim. Ademais alegou que a anlise da sentena condenatria deixou claro que o delito de disparo de arma de fogo teve como finalidade resistir  violncia da abordagem policial, restando afastado, portanto, o animus necandi. A fim de corroborar o esposado, citou julgado e apontamento doutrinrio sobre a matria. Caso ultrapassado o argumento anterior, reiterou a assertiva no sentido de que a sentena primeva deixou claro que o delito de disparo de arma de fogo teve como finalidade resistir  violncia da abordagem policial. Nessa esteira, defendeu que o tipo penal previsto no artigo 15 da Lei n. 10.826/03 (disparo de arma de fogo) s se caracteriza se a conduta do agente no tiver como finalidade a prtica de outro delito, o que no ocorreu, pois as provas carreadas aos autos demonstram que o apelante s disparou porque tentava resistir  abordagem policial. Dessa forma, alegou que o disparo de arma de fogo deve ser absorvido pelo delito finalstico, que  a resistncia mediante violncia. Por fim, disse que as provas carreadas aos autos demonstram que no houve a efetiva comprovao dos ilcitos descritos na sentena penal condenatria.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa do apelante alegou incompetncia da Justia Militar para julgar o feito, pois o delito descrito no artigo 15 do Estatuto do Desarmamento - Lei n. 10.826/03 - disparo de arma de fogo em local habitado - seria de perigo abstrato. Argumentou ainda que o delito deveria ser absorvido pelo delito finalstico, a resistncia mediante violncia.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Em virtude da evolucao da internet, o comercio eletronico (e-commerce), atividade de alienacao, em sentido amplo, de bens ou servicos por meio eletronico, apresenta-se como forma interessante de desenvolvimento da atividade empresarial, propiciando o advento de novos modelos de negocio e a expansao da livre concorrencia. 616 Nesse rumo, ao mesmo tempo em que a concorrencia e favorecida, impoe-se a cada um dos atuantes do mercado empenho maior para que se destaque dos demais. Assim, para suprir essa demanda, novos expedientes de visibilidade sao desenvolvidos e oferecidos pelos provedores de pesquisa da Internet. Com efeito, as empresas que atuam no e-commerce preocupam-se com o formato e funcionalidade de seus enderecos virtuais e, cada vez mais, empregam esforcos para que seus sites aparecam em posicao de destaque nos resultados das buscas na Internet. Agem desta maneira visando atrair o maior numero possivel de visitantes, potenciais clientes. Por certo, o principal instrumento utilizado pelo comercio eletronico e oferecido pelos provedores de pesquisa, sites que rastreiam, indexam e armazenam as mais variadas informacoes disponiveis online, organizando-as e classificando-as para que, uma vez consultados, possam fornece-las atraves de sugestoes (ou resultados) que atendam aos criterios de busca informados pelos proprios usuarios, um servico pago de publicidade para alterar o referenciamento de um dominio, com base na utilizacao de certas palavras-chave. Dizendo de outro modo, o provedor coloca a venda palavras-chave, que quando utilizadas pelo usuario, acarretarao o aparecimento, com destaque e precedencia, do conteudo pretendido pelo anunciante. A esse mecanismo oferecido pelos provedores de busca para dar publicidade aos produtos e servicos da-se o nome de links patrocinados (keyword advertising).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O comércio eletrônico (e-commerce) é uma forma interessante de desenvolvimento da atividade empresarial, propiciando o advento de novos modelos de negócio e a expansão da livre concorrência. 2. As empresas que atuam no e-commerce preocupam-se com o formato e funcionalidade de seus endereços virtuais e, cada vez mais, empregam esforços para que seus sites apareçam em posição de destaque nos resultados das buscas na internet. 3. O principal instrumento utilizado pelo comércio eletrônico e oferecido pelos provedores de pesquisa é um serviço pago de publicidade para alterar o referenciamento de um domínio, com base na utilização de certas palavras-chave. 4. O mecanismo oferecido pelos provedores de busca para dar publicidade aos produtos e serviços é conhecido como links patrocinados (keyword advertising).

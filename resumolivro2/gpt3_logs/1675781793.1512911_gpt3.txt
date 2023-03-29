@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em outras palavras, o corpo de delito  objeto do exame ou da percia, enquanto o laudo de exame de corpo de delito  o resultado materializado desse exame ou percia, elaborado pelos peritos. Na infrao que deixar vestgios - delicta facti permanentis - ser indispensvel o exame de corpo de delito, direto ou indireto, no podendo supri-lo a confisso do acusado (artigo 328, CPPM). So exemplos de infraes que deixam vestgios (delitos materiais) o homicdio (artigo 205, CPM) e a leso corporal (artigo 209, CPM), cujo vestgio no primeiro caso  o cadver e no segundo o resultado da ofensa  integridade corporal ou  sade, em ambos, a materialidade (vestgio)  provada, respectivamente, mediante laudo necroscpico e de exame de corpo de delito. Por outro lado, h infraes que no deixam vestgios - delicta facti transeuntes - cujos exemplos so a injria e o desacato. Avulta de importncia o exame de corpo de delito, no s por constituir a materialidade do crime, mas tambm porque a sua falta acarreta nulidade do processo. O Cdigo de Processo Penal Militar no dispensa o exame de corpo de delito naqueles delitos que deixam vestgios e sanciona de nulidade o processo pela falta do referido exame (artigo 500, III, b, CPPM). No h contradio entre o disposto no artigo 297 do CPPM, que permite a livre apreciao das provas, e a nulidade prevista no artigo 500, III, b, do CPPM. Ao analisar regra semelhante do CPP (artigo 564, III, b), Antonio Magalhes Gomes Filho comenta que o seu objetivo  evitar erros que poderiam resultar na indiscriminada admisso de qualquer prova para demonstrao da prpria existncia do ato que deixou rastros materiais. Determinadas causas de aumento de pena ou circunstncias qualificadoras de crime dependem de exame de corpo de delito, por exemplo , para o reconhecimento do furto qualificado previsto no artigo 240, pargrafo 6, I, CPM,  indispensvel a prova da destruio ou rompimento de obstculo  subtrao da coisa. O exame de corpo de delito direto  o exame pericial feito diretamente por peritos sobre os vestgios sensveis ou materiais deixados pela infrao penal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O exame de corpo de delito é indispensável para provar a materialidade de alguns delitos, como homicídio e lesão corporal. O Código de Processo Penal Militar prevê nulidade do processo pela falta do exame de corpo de delito. Algumas circunstâncias qualificadoras de crime dependem do exame de corpo de delito direto, feito por peritos sobre os vestígios materiais deixados pela infração penal.

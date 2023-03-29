@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+119 A previsao legal para a realizacao do exame em foco foi trazida pela apontada Lei n. 13.103/2015, que, embora mirasse, mais detidamente, disciplinar as condicoes laborais de motoristas profissionais rodoviarios de passageiros e de carga, teve por ratio teleologica diminuir a violencia no transito, por intermedio, tambem, da melhoria das condicoes de trabalho dos condutores de veiculos pesados e de maior porte, categoria na qual se incluem os motoristas de transporte coletivo escolar. Assim, ao inserir o art. 148-A no CTB, o diploma de 2015 nao condicionou - tampouco ressalvou - sua aplicacao unicamente a classe profissional de condutores rodoviarios. Isso porque, conforme se verifica da leitura do proprio dispositivo legal, a obrigatoriedade de apresentacao de resultado negativo no exame toxicologico esta vinculada as categorias de habilitacao, e nao a parametros associados a atividade profissional, porquanto nas graduacoes C , D e E estao inseridas exigencias justificadamente maiores em relacao as categorias precedentes, por forca das caracteristicas fisicas e das finalidades dos veiculos envolvidos. Por sinal, e sintomatico que a Lei n. 13.103/2015 tenha empregado a expressao motorista profissional multiplas vezes, nao, porem, no seu art. 8, especificamente responsavel por introduzir a exigencia do exame no CTB. De fato, cuida-se de questao essencialmente atrelada a qualificacao e ao preparo de agentes diretamente envolvidos no deslocamento e na seguranca cotidiana de milhares de criancas e/ou adolescentes, cuja atividade, por obvio, e incompativel com o consumo de substancias estupefacientes. Tambem e certo que o qualificativo rodoviario nao tem o condao de excluir, como pretendem, os transportadores de escolares do ambito da incidencia da norma, considerando que transporte rodoviario e o realizado em vias publicas (art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 13.103/2015 tem como ratio teleologica diminuir a violência no trânsito, por intermédio da melhoria das condições de trabalho dos condutores de veículos pesados e de maior porte, incluindo os motoristas de transporte coletivo escolar. 2. A obrigatoriedade de apresentação de resultado negativo no exame toxicológico está vinculada às categorias de habilitação e não a parâmetros associados à atividade profissional. 3. A exigência do exame toxicológico é essencialmente atrelada à qualificação e ao preparo de agentes diretamente envolvidos no deslocamento e na segurança cotidiana de milhares de crianças e/ou adolescentes. 4. O qualificativo rodoviário não tem o condão de excluir os transportadores de escolares do âmbito da incidência da norma, considerando que transporte rodoviário é o realizado em vias públicas.

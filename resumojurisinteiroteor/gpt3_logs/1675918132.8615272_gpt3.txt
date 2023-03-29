@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Conheo do recurso, porque presentes os pressupostos que regem sua admissibilidade. Confrontando as razes do presente recurso de embargos de declarao e o acrdo embargado, verifica-se que as duas primeiras omisses alegadas no merecem prosperar, j que devidamente enfrentadas, cuidando-se a via eleita, na verdade, de pretensa rediscusso da causa. Para tanto, trago  colao trechos do acrdo embargado pertinentes  primeira e segunda omisso aventadas: PRELIMINAR - INSTRUO PROBATRIA REALIZADA POR JUZO INCOMPETENTE Alegou a defesa do apelante a nulidade do presente feito, com base no art. 500, inciso I, do Cdigo de Processo Penal Militar (CPPM), sob o argumento de ter sido a instruo probatria realizada por juzo absolutamente incompetente e, ainda, em razo de no terem sido inquiridas as testemunhas de defesa. Todavia, razo no lhe assiste. No caso em exame, verifica-se que os fatos narrados na exordial acusatria ocorreram em 16 de maro de 2014, poca em que a Justia Comum estadual era a competente para apreciar e julgar a matria, o que foi alterado com a vigncia da Lei n. 13.491, de 13 de outubro de 2017, que ampliou a competncia da Justia Militar, para processar e julgar, alm dos crimes militares estabelecidos no Cdigo Penal Militar (CPM), tambm aqueles previstos na legislao penal comum e extravagante, quando praticados na forma do inciso II do artigo 9 do CPM. Com efeito, a nova lei, por tratar de matria processual, possui aplicabilidade imediata, impondo que os atos a serem praticados aps a sua vigncia sejam por ela regulados, nos termos do art. 5 do CPPM. Confira-se: Art. 5 As normas deste Cdigo aplicar-se-o a partir da sua vigncia, inclusive nos processos pendentes, ressalvados os casos previstos no art. 711, e sem prejuzo da validade dos atos realizados sob a vigncia da lei anterior. Sobre o tema, cito a doutrina de Ccero Robson Coimbra Neves e Marcelo Streifinger: O art. 2 do Cdigo de Processo Penal comum consagra [...] o princpio do efeito imediato, princpio da aplicao imediata ou princpio do tempus regit actum. O art. 5 do CPPM traz Tribunal de Justia Militar do Estado de Minas Gerais previso semelhante [...]. Essa previso permite entender que a regra tambm  vlida para a lei processual penal militar, podendo-se dizer que o CPPM, ao adotar o princpio do tempus regit actum, traz como consequncia a validade de atos processuais praticados sob a gide da lei processual anterior e a aplicao imediata de todas as normas inauguradas no processo penal militar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de embargos de declaração foi conhecido pelo Tribunal de Justia Militar do Estado de Minas Gerais, pois estavam presentes os pressupostos para sua admissibilidade. As duas primeiras omissões alegadas não merecem prosperar, pois foram devidamente enfrentadas e a via eleita é de pretensa rediscussão da causa. A competência da Justiça Militar para processar e julgar crimes previstos na legislação penal comum foi alterada com a vigncia da Lei n. 13.491, de 13 de outubro de 2017. O CPPM adotou o princípio do tempus regit actum, o que implica a validade de atos processuais praticados sob a gide da lei processual anterior e a aplicação imediata de todas as normas inauguradas no processo penal militar.

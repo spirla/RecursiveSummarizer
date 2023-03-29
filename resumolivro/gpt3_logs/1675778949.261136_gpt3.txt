@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A utilizacao do Painel Administrativo na PMMG e de ferramenta correspondente no CBMMG, como meio eletrnico habil a comunicacao e intimacao de militares para atos em processos e procedimentos administrativos, e validada pelo Decreto 48.383/2022290, que assim dispoe:
+Artigo 31 - Os orgaos e as entidades da Administracao Publica direta, autarquica e fundacional do Poder Executivo poderao realizar todas as comunicacoes, as notificacoes e as intimacoes por meio eletrnico. Paragrafo unico - O ente publico podera realizar as comunicacoes, as notificacoes e as intimacoes por meio de ferramenta mantida por outro ente publico. Artigo 32 - As ferramentas usadas para os atos de que trata o artigo 31:
+- disporao de meios que permitam comprovar a autoria das comunicacoes, das notificacoes e das intimacoes;
+- terao meios de comprovacao de emissao e de recebimento, ainda que nao de leitura, das comunicacoes, das notificacoes e das intimacoes;
+- poderao ser utilizadas mesmo que legislacao especial preveja apenas as comunicacoes, as notificacoes e as intimacoes pessoais ou por via postal;
+- serao passiveis de auditoria;
+- conservarao os dados de envio e de recebimento por, pelo menos, cinco anos. Destaca-se, contudo, que, em que pese o Painel Administrativo ser de acesso obrigatorio por todos os militares, a validade da notificacao no processo exige a confirmacao de leitura, nao podendo essa ser presumida diante do dever do militar de acessa-la. A outra opcao de notificacao que se aventa, se dara mediante o envio por meio do aplicativo de WhatsApp. Trata-se de um aplicativo de mensagens que, da mesma forma que o Painel Administrativo, garante o recebimento da notificacao por parte do acusado, bem como possibilita a confirmacao de leitura pelo remetente. Ressalta-se, inclusive, que o Conselho Nacional de Justica (CNJ) validou a sua utilizacao em processos judiciais perante o Juizado Especial Civel, o que pode se refletir perfeitamente nos processos administrativos, que segue a mesma linha de informalismo e celeridade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Decreto 48.383/2022290 permite a comunicação, notificação e intimação de militares por meio eletrônico, como o Painel Administrativo e o CBMMG. O CNJ também validou a utilização do WhatsApp para esses fins. As ferramentas usadas devem permitir comprovar a autoria, emissão e recebimento, além de serem passíveis de auditoria e conservar os dados por pelo menos 5 anos.

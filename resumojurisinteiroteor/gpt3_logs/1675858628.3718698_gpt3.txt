@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+427 do CPPM, o Ministrio Pblico no requereu diligncia e a defesa do ru Cb PM Helder Vitor Morais de Souza pleiteou a juntada de documentos, o que foi deferido (Documentao constante no Evento 101 - Processo Originrio). Em alegaes finais escritas, o Ministrio Pblico requereu a condenao dos rus 1 Sgt PM QPR Amaro Dabrius Junqueira, 3 Sgt PM Chrystian Frana Lana e Cb PM Helder Vitor Morais de Souza pelo delito previsto no art. 1, inciso II, na forma do 4, incisos I e II, da Lei n. 9.455/97 c/c o art. 29 do CP. Pleiteou, ainda, a fixao de valor mnimo para reparao dos danos sofridos pela vtima; a suspenso dos direitos polticos dos sentenciados; a decretao de perda do cargo pblico dos rus; e a declarao, aps o trnsito em julgado da sentena ou eventual confirmao da condenao no tribunal, de que os rus no podero ser nomeados, designados ou contratados, a ttulo comissionado, para o exerccio de funes, cargos e empregos na Administrao Pblica direta e indireta do Poder Executivo de Minas Gerais (Evento 104 - Processo Originrio). A defesa do Cb PM Helder Vitor Morais de Souza, em alegaes finais escritas, pugnou pela absolvio do acusado, com respaldo na excludente de ilicitude do estrito cumprimento do dever legal. Alm disso, sustentou a insuficincia de provas para a condenao (Evento 121 - Processo Originrio). Em alegaes finais escritas, a defesa do 1 Sgt PM QPR Amaro Dabrius Junqueira e do 3 Sgt PM Chrystian Frana Lana, preliminarmente, arguiu a inpcia da denncia, por considerar que no houve a individualizao da conduta dos acusados. No mrito, requereu a absolvio dos rus, sob o argumento de estar provada a inexistncia do fato, ou de no haver prova da sua existncia (Evento 126 - Processo Originrio). Em seguida, a juza de direito julgou improcedente a denncia e absolveu os acusados, 1 Sgt PM QPR Amaro Dabrius Junqueira, 3 Sgt PM Chrystian Frana Lana e Cb PM Helder Vitor de Morais Souza, da prtica do crime previsto no art. 1, inciso II, na forma do 4, incisos I e II, da Lei n. 9.455/97 c/c o art. 29, do CP, com fundamento no art. 439, "e", do CPPM (Evento 129 - Processo Originrio). Irresignado, o Ministrio Pblico interps o presente recurso de apelao. Nas razes recursais, o parquet sustentou que a materialidade do delito se encontra comprovada por meio do Laudo Mdico de Leses Corporais n. 711/2008 e do Laudo Pericial n. 2887/2009. Da mesma forma, afirmou que a autoria delitiva se encontra demonstrada pelas palavras da vtima e pelas declaraes das testemunhas Janana Roberta dos Santos Costa e Rosemary Lopes da Silva Souza. Salientou que, no caso, os acusados impuseram dor fsica e psicolgica em desfavor do ofendido, por crueldade, intimidao, punio ou, simplesmente, por prazer de torturar. Ressaltou que os rus efetuaram um conjunto de aes premeditadas, sistemticas e agressivas  psique e ao fsico do ofendido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público requereu a condenação dos réus pelo delito previsto no art. 1, inciso II, na forma do 4, incisos I e II, da Lei n. 9.455/97 c/c o art. 29 do CP, bem como a fixação de valor mínimo para reparação dos danos sofridos pela vítima, a suspensão dos direitos políticos dos sentenciados, a decretação de perda do cargo público dos réus e a declaração de que os réus não poderão ser nomeados, designados ou contratados para o exercício de funções, cargos e empregos na Administração Pública direta e indireta do Poder Executivo de Minas Gerais. A juíza de direito julgou improcedente a denúncia e absolveu os acusados, com fundamento no art. 439, "e", do CPPM.

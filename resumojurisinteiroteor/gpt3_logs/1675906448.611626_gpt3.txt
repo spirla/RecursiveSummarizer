@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em deciso de evento 9 - DEC1, o meritssimo juiz titular da 5a AJME - Cvel concedeu ao militar a gratuidade de justia, na forma dos artigos 98 e seguintes do Cdigo de Processo Civil; determinou a citao do Estado de Minas Gerais, o prosseguimento nos demais atos processuais quanto s fases dos artigos 350 e 351 do CPC; e, logo aps, a intimao das partes para informar se possuam provas a produzir, pois, caso contrrio, dar-se-ia o julgamento antecipado da lide. O Estado de Minas Gerais apresentou sua contestao no evento 15 - CONT1, alegando que o autor reproduz argumentao invocada no procedimento administrativo, que foi devidamente enfrentada pela Administrao Militar (evento 1 - COP18, pgina 4/8). Disse que toda a alegao do autor se cinge nos supostos prejuzos sofridos por ele em razo de equvocos de ordem procedimental por parte da Administrao na conduo do procedimento administrativo. Nesse aspecto, sustenta que, em momento algum, o autor comprova o efetivo prejuzo, muito menos demonstra a relao entre o prejuzo e a conduta administrativa. Registrou que a jurisprudncia do colendo Superior Tribunal de Justia  firme no sentido de que a declarao de nulidade exige a comprovao de prejuzo, em consonncia com o art. 563 do Cdigo de Processo Penal (precedente AgInt no AREsp n. 442.923/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/5/2018). Quanto  alegao de existncia de nulidades em virtude de erro in procedendo por ausncia de notificao para oitiva de testemunhas e interrogatrio, aduziu que o autor no destacou o dano concreto e efetivo ao exerccio de sua defesa. Afirmou que as provas carreadas aos autos informam a participao do autor nas fases do procedimento administrativo, quedando-se inerte em todas elas quanto ao protesto acerca de eventuais irregularidades procedimentais. Concluiu que o autor, sem desincumbir-se do nus de demonstrar o prejuzo oriundo da suposta desproporcionalidade invocada, procura, na verdade, atrair o Judicirio  imerso no mrito administrativo pela reviso de provas, substituindo a figura da autoridade militar. Ao final, requereu o no acolhimento do pedido inicial. O autor impugnou a contestao (evento 19 - IMPUGNAO1). Sustentou que o Estado no se desincumbiu do nus de demonstrar a existncia de fato impeditivo, modificativo ou extintivo do direito do autor, nos termos do art. 373, inciso II, do CPC. Afirmou que o Estado de Minas Gerais sequer manifesta especificamente sobre as alegaes contidas na exordial, e, to somente, discorre genericamente sobre a presuno de legalidade do ato administrativo e a impossibilidade de o Poder Judicirio adentrar no mrito administrativo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz da 5a AJME - Cvel concedeu ao militar a gratuidade de justia e determinou a citao do Estado de Minas Gerais, bem como a prosseguimento nos demais atos processuais. O Estado de Minas Gerais alegou que o autor no comprovou o prejuzo sofrido em razo de equvocos de ordem procedimental da Administrao Militar. O autor impugnou a contestao alegando que o Estado no se desincumbiu do nus de demonstrar a existncia de fato impeditivo, modificativo ou extintivo do direito do autor.

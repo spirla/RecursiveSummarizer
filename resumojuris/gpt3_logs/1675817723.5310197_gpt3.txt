@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 7104/RJ, relator Ministro Edson Fachin, julgamento virtual finalizado em 5.8.2022 (sexta-feira), as 23:59 (INF 1062) ADI 7179/RJ, relator Ministro Edson Fachin, julgamento virtual finalizado em 5.8.2022 (sexta-feira), as 23:59 (INF 1062) Covid-19: indenizacao por incapacidade ou morte de profissionais da saude em razao da pandemia - ADI 6970/DF ODS: 3 Resumo: E constitucional norma federal que preve compensacao financeira de carater indenizatorio a ser paga pela Uniao por incapacidade permanente para o trabalho ou morte de profissionais da saude decor-rentes do atendimento direto a pacientes acometidos pela Covid-19. No caso, a Lei 14.128/2021 dispoe sobre politica publica social para atender finalidade especifica, com fundamento no dever estatal de promover politicas e programas de protecao e defesa da saude. Ela nao representa qualquer interferencia sobre o regime juridico de servidores publicos da Uniao ou a estrutura e atri-buicoes de orgaos da Administracao Publica federal, inexistindo suposta violacao a iniciativa privativa do Presidente da Republica (CF/88, art. 61,  1). Ademais, a indenizacao prevista nao configura despesa obrigatoria de carater continuado, eis que pos-sui como justificativa especifica o enfrentamento das consequencias sociais e economicas decorrentes da crise sanitaria da Covid-19. Assim, o seu pagamento restringe-se ao periodo de calamidade publica e se insere no regime fiscal excepcional disposto pelas ECs 106/2020 e 109/2021, atraves das quais a observancia de condici-onantes fiscais foi flexibilizada, de modo que desnecessaria a apresentacao de estimativa do impacto orcamen-tario e financeiro (ADCT, art. 113). Com base nesses entendimentos, o Plenario, por unanimidade, converteu o julgamento da medida cau-telar em definitivo de merito e julgou improcedente a acao para declarar a constitucionalidade da Lei 14.128/2021.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional norma federal que prevê compensação financeira de caráter indenizatório a ser paga pela União por incapacidade permanente para o trabalho ou morte de profissionais da saúde decorrentes do atendimento direto a pacientes acometidos pela Covid-19. 2. A Lei 14.128/2021 não representa qualquer interferência sobre o regime jurídico de servidores públicos da União ou a estrutura e atribuições de órgãos da Administração Pública federal. 3. A indenização prevista não configura despesa obrigatória de caráter continuado. 4. O pagamento da indenização restringe-se ao período de calamidade pública e se insere no regime fiscal excepcional disposto pelas ECs 106/2020 e 109/2021.

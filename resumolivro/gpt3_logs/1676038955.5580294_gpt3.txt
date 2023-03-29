@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Considerando que no se pode admitir validade para duas teorias distintas do crime e que a teoria consolidada no Cdigo Penal comum foi introduzida por legislao mais recente que deve prevalecer,  necessrio concluir que a excludente do estado de necessidade que se aplica aos crimes militares somente no se caracteriza se o sujeito que pratica a conduta necessria provocou a situao de perigo por sua vontade. Cabe notar que a restrio refere-se  produo voluntria do perigo, e no  produo do resultado tpico. O comportamento tpico que se pretende justificar pode ser doloso ou culposo, no importa. O que o legislador impede  que aquele que voluntariamente produziu a situao de perigo ao bem jurdico, a pretexto de salv-lo, venha, posteriormente, lesionar outro bem jurdico. Com certeza, provocar a situao de perigo a fim de us-la como pretexto para lesionar outro bem jurdico, ao contrrio de excluir o desvalor da conduta, mais a agrava. O tema gera controvrsia na doutrina, que discute se voluntariedade na produo do perigo significa unicamente a produo dolosa do perigo ou tambm se refere  produo culposa deste. Com certeza, no  possvel a justificao da conduta lesiva daquele que produziu intencionalmente a situao de perigo ao bem jurdico protegido. Se entendermos que produzir intencionalmente o perigo significa produzir dolosamente, a polmica restringe-se  produo culposa do perigo. Alguns doutrinadores, como Nelson Hungria, Magalhes Noronha e Assis Toledo, sustentaram que a produo culposa da situao de perigo tambm impediria a justificao da conduta de salvamento. Tal posicionamento impediria reconhecer qualquer distino entre as previses para o estado de necessidade constantes do Cdigo Penal Comum e do Cdigo Penal Militar. O argumento acolhido por tais doutrinadores  que a vontade est igualmente presente na culpa stricto sensu, como vontade na realizao de comportamento que d causa a um resultado no pretendido. Assis Toledo, nesse sentido, cita o exemplo do engenheiro de minas que faz explodir dinamites, estando devidamente autorizado para tanto. A exploso decorre de conduta voluntria, muito embora no exista a inteno de produzir situao de perigo ou dano. Ocorrendo a situao de perigo, por desateno aos deveres objetivos de cuidado na conduo do processo, no poderia o engenheiro justificar a leso a bens jurdicos de terceiros, a fim de salvar do perigo por ele provocado um bem jurdico prprio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A excludente do estado de necessidade que se aplica aos crimes militares somente no se caracteriza se o sujeito que pratica a conduta necessria provocou a situao de perigo por sua vontade. A doutrina discute se voluntariedade na produo do perigo significa unicamente a produo dolosa ou também se refere à produção culposa. Assis Toledo defende que a produção culposa da situação de perigo também impede a justificação da conduta de salvamento.

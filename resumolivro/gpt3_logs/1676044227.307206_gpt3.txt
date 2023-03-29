@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Havendo incio de execuo do crime de homicdio e a produo da morte por outra causa (circunstncia alheia  vontade do agente), considera-se tentado o crime. Situao diferente ocorrer quando se tratar de crime culposo. No pretendendo o autor do fato a produo de qualquer resultado, se a causa superveniente produz o resultado lesivo mais grave, no se pode cogitar de tentativa de produzir esse resultado. A imputao para os atos anteriores, nos crimes culposos, significa imputao pelos resultados efetivamente j produzidos. Voltando ao exemplo da ambulncia: se a vtima necessita de socorro por ter sido atropelada em acidente de trnsito (e no por leses decorrentes de disparo de arma de fogo) e vem a morrer por traumatismo craniano decorrente de um segundo acidente, o atropelador responde por leses corporais culposas. No  o caso de tentativa de homicdio, pois o atropelador no pretendia a morte. A responsabilidade pelo crime culposo  restrita ao resultado lesivo produzido. Considerando apenas os resultados anteriores, a imputao restringe-se  produo culposa do resultado leses corporais. 6.6. Critrios normativos de relevncia. A dogmtica entendeu inicialmente que a relao de causalidade material entre a conduta e o resultado bastaria para caracterizar o tipo objetivo. Nos casos em que era flagrante a ilegitimidade da punio, diante da mera relao causal, procurou-se impedir a responsabilizao com a excluso do dolo. O artifcio, no entanto, somente evidenciou a fragilidade do sistema repressivo de base causal-mecanicista. Mesmo construindo-se as teorias individualizadoras da causalidade, no foi possvel evitar a contradio sistmica nos muitos casos em que a leso ao bem jurdico no retrata materialmente um injusto. As deficincias da teoria da condio simples no foram plenamente corrigidas pelo suplemento oferecido pela ideia da condio adequada, mas as correes oferecidas conduziram a anlise do ponto de vista ontolgico para o normativo. Reconhecida a necessidade de discutir a relevncia jurdica do comportamento, percebe-se que a conexo causal entre um ato de vontade e o resultado naturalstico no  suficiente para viabilizar a imputao. A relevncia jurdica da contribuio do sujeito passou a ser requisito de legitimidade da punio e a exigncia normativa imps desenvolver novos esforos tericos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Havendo incio de execuo do crime de homicídio e produção da morte por outra causa, considera-se tentado o crime. No caso de crimes culposos, a responsabilidade é restrita ao resultado lesivo produzido. A relação de causalidade material entre a conduta e o resultado não basta para caracterizar o tipo objetivo, sendo necessário discutir a relevância jurídica do comportamento.

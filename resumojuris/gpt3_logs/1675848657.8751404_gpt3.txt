@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Esta Sexta Turma entende que as regras de competencia nao sao alteradas quando, apos a prolacao da sentenca, um dos reus passa a exercer cargo de Prefeito Municipal, mantendo-se o julgamento do recurso interposto por orgao fracionario do Tribunal de origem. (Informativo n. 755) 1243 PROCESSO HC 750.946-RJ, Rel. Min. Olindo Menezes (Desembargador convocado do TRF da 1 Regiao), Sexta Turma, por maioria, julgado em 11/10/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Colaboracao premiada. Acordo entre acusacao e defesa. Vitima colaboradora. Impossibilidade. DESTAQUE A colaboracao premiada e um acordo realizado entre o acusador e a defesa, nao podendo a vitima ser colaboradora. O  6 do art. 4 da Lei n. 12.850/2013 estipula que o juiz nao participara das negociacoes realizadas entre as partes para a formalizacao do acordo de colaboracao, que ocorrera entre o delegado de policia, o investigado e o defensor, com a manifestacao do Ministerio Publico, ou, conforme o caso, entre o Ministerio Publico e o investigado ou acusado e seu defensor . Pela jurisprudencia desta Corte Superior e pela legislacao pertinente, a vitima nao pode ser colaboradora, porque lhe faltaria interesse - haja vista que e a interessada na tutela punitiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A colaboração premiada é um acordo realizado entre o acusador e a defesa, não podendo a vítima ser colaboradora. 2. O artigo 6 da Lei n. 12.850/2013 estipula que o juiz não participará das negociações realizadas entre as partes para a formalização do acordo de colaboração. 3. Pela jurisprudência desta Corte Superior e pela legislação pertinente, a vítima não pode ser colaboradora, porque lhe faltaria interesse.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ACRDO Vistos, relatados e discutidos os presentes autos, sendo apelante Gleuber Dias Machado e apelado o Ministrio Pblico do Estado de Minas Gerais, acordam os desembargadores da Primeira Cmara, por unanimidade, em negar provimento ao recurso, para manter intacta a sentena proferida em primeiro grau de jurisdio. RELATRIO O Parquet oficiante perante a 3a Auditoria da Justia Militar de Minas Gerais ofereceu a denncia, recebida em 12/10/2018, nos seguintes termos: Consta dos autos que na data de 17 de outubro de 2017, por volta de 01h48min, no bairro Primeiro de Maio, Belo Horizonte - MG, o primeiro denunciado 3 Sgt PM Gleuber Dias Machado, agindo com animus laedendi, ofendeu a integridade corporal do civil Marcelo Quaresma de Oliveira Campos, causando-lhe leses corporais de natureza gravssima. Depreende-se dos autos que, nas mesmas circunstncias de tempo e lugar citados, os denunciados Cb PM Reginaldo Dias da Silva e Sd PM Emerson Ferreira Pinto, de forma livre e consciente, deixaram de praticar, indevidamente, ato de oficio para satisfazer interesse ou sentimento pessoal. Na mesma data e local, os denunciados fizeram inserir, em documento pblico, declarao diversa que dele devia constar, com o fim de alterar a verdade sobre fato juridicamente relevante, atentando contra a Administrao Militar. Conforme restou apurado, a guarnio policial composta pelos denunciados, durante rastreamento no bairro Primeiro de Maio, realizou a abordagem a indivduos que se encontravam em um ponto de nibus situado na Av. Risoleta Neves, nas proximidades do n47. Durante a abordagem, o primeiro denunciado, comandante da guarnio, efetuou pelo menos dois disparos com uma espingarda calibre 12, utilizando munio de elastmero, sendo que um dos disparos acertou o olho direito do ofendido Marcelo. Tal agresso lhe causou lacerao e ruptura ocular com perda de tecido intraocular, traumatismo do olho e da rbita, apresentando perda total da viso do olho direito e deformidade permanente, conforme laudo de ECD de fl.54/59. Aps o disparo, o militar entrou na viatura e sairam do local, sendo o ofendido socorrido por populares, que o levaram a UPA do bairro Primeiro de Maio, onde foi atendido e encaminhado para o Hospital Joo XXIII. Os demais denunciados, Cb PM Reginaldo e Sd PM Emerson, integrantes da guarnio presenciaram a infrao cometida e deixaram de praticar ato de oficio, para satisfazer interesse ou sentimento pessoal, quedando-se inertes, no anunciando os fatos ao oficial responsvel pelo turno de servio, tampouco registrando alguma ocorrncia relacionada a abordagem.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso foi negado por unanimidade, mantendo-se a sentena proferida em primeiro grau de jurisdição. O Ministério Público do Estado de Minas Gerais acusou o Primeiro Denunciado, o 3º Sgt PM Gleuber Dias Machado, de agir com animus laedendi e ofender a integridade corporal do civil Marcelo Quaresma de Oliveira Campos, causando-lhe lesões corporais de natureza gravíssima. Os demais denunciados também foram acusados de deixar de praticar ato de ofício para satisfazer interesse ou sentimento pessoal, e de inserir declaração diversa em documento público para alterar a verdade sobre fato juridicamente relevante.

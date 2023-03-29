@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Recentemente, a Suprema Corte julgou o merito do Recurso Extraordinario, de relatoria do Ministro Alexandre de Moraes, definido pela constitucionalidade da penhora do bem de familia do fiador de contrato de locacao comercial. Portanto, a Tese definida no Tema 1127 foi a de que e constitucional a penhora de bem de familia pertencente a fiador de contrato de locacao, seja residencial, seja comercial . Nessa perspectiva, a Segunda Secao do STJ, assim como o fez o STF, deve aprimorar os enunciados definidos no REsp Repetitivo 1.363.368/MS e na Sumula 549 para reconhecer a validade da penhora de bem de familia pertencente a fiador de contrato de locacao comercial. Isso porque a lei nao distinguiu entre os contratos de locacao para fins de afastamento do bem de familia, (art. 3, inciso VII, da Lei n. 8.009/1990). Como bem pontuado pelo Min. Alexandre de Moraes em seu voto condutor, nao e possivel criar distincao onde a lei nao distinguiu, pois haveria flagrante violacao ao principio da isonomia relacionada ao instituto da fianca, haja a vista que o fiador de locacao comercial, embora tambem excepcionado pelo artigo 3, VII, teria incolume o seu bem de familia, ao passo que o fiador de locacao residencial poderia ter seu imovel penhorado. Teriamos uma diferenciacao nao prevista por lei e sem diferenciacao, a meu ver, principiologica que a embase . Ao que parece, se realmente fosse para conferir algum tipo de protecao com base na igualdade, esta seria o de salvaguardar o fiador que deu o seu imovel para proteger o direito fundamental a moradia do locador residencial e nao o de socorrer aquele fiador que espontaneamente afiancou negocio juridico voltado a promover o comercio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a penhora de bem de família pertencente a fiador de contrato de locação, seja residencial, seja comercial. 2. A Segunda Seção do STJ deve aprimorar os enunciados definidos no REsp Repetitivo 1.363.368/MS e na Sumula 549 para reconhecer a validade da penhora de bem de família pertencente a fiador de contrato de locação comercial. 3. Não é possível criar distinção onde a lei não distinguiu, pois haveria flagrante violação ao princípio da isonomia relacionada ao instituto da fiança. 4. Se realmente fosse para conferir algum tipo de proteção com base na igualdade, esta seria a de salvaguardar o fiador que deu o seu imóvel para proteger o direito fundamental à moradia do locador residencial e não o de socorrer aquele fiador que espontaneamente afiançou negócio jurídico voltado a promover o comércio.

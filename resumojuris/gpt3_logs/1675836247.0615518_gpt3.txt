@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL TEMA Honorarios advocaticios de sucumbencia. Fazenda Publica vencedora. Patrimonio da entidade estatal. Direito autonomo do procurador judicial. Inocorrencia. DESTAQUE Os honorarios advocaticios de sucumbencia, quando vencedora a Fazenda Publica, integram o patrimonio da entidade estatal, nao constituindo direito autonomo do procurador judicial. 201 Na hipotese, o agravante sustentou a violacao ao artigo 1.022 do CPC/2015 sob o argumento de que a Corte de origem, ao concluir que os honorarios de sucumbencia integram o patrimonio da entidade publica, negou vigencia ao  19 do art. 85, do CPC/2015 e ao art. 23, da Lei n. 8.906/1994, tampouco aplicou o julgado do STF ADI n. 6053/DF, em que se reafirmou que a natureza constitucional dos servicos prestados pelos advogados publicos possibilita o recebimento da verba de honorarios sucumbenciais. Contudo, registra-se que o Tribunal a quo decidiu a controversia de modo integral e suficiente ao expressamente consignar que a Lei Municipal analisada e clarissima ao dispor que a verba dos honorarios advocaticios e devida a Fazenda Municipal e, para que esta integre o patrimonio dos procuradores, seria necessaria a existencia de expressa destinacao legal. Assim, ao contrario do que afirmou o agravante, a jurisprudencia consolidada do STJ e no sentido de que os honorarios advocaticios de sucumbencia, quando vencedora a Fazenda Publica, integram o patrimonio da entidade estatal, nao constituindo direito autonomo do procurador judicial, o que viabiliza sua compensacao (RCD no REsp 1861943/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 05/10/2021, DJe 26/10/2021), e ainda prevalece nos recentes julgados desta Corte.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os honorários advocatícios de sucumbência, quando vencedora a Fazenda Pública, integram o patrimônio da entidade estatal, não constituindo direito autônomo do procurador judicial. 2. A jurisprudência consolidada do STJ é no sentido de que os honorários advocatícios de sucumbência, quando vencedora a Fazenda Pública, integram o patrimônio da entidade estatal, não constituindo direito autônomo do procurador judicial.

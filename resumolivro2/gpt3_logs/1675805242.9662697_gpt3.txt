@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+4.1. Noes gerais:
+princpios e regras. Princpios e regras so espcies de normas. Procura-se distingui-los pela abstrao e generalidade. Pelo grau de abstrao os princpios so normas com um grau de abstraco relativamente elevado;
+de modo diverso, as regras possuem uma abstraco relativamente reduzida. No dizer de Paulo Bonavides, a generalidade da regra jurdica no  a mesma generalidade do princpio. A regra  editada contemplando uma situao jurdica determinada, enquanto o princpio comporta uma srie indefinida de aplicaes. Os princpios so normas dotadas de alto grau de generalidade, ao passo que as regras, sendo tambm, normas, tm, contudo, grau relativamente baixo de generalidade. Para Ronald Dworkin, os princpios, que no determinam a deciso, mas apontam para determinada direo, possuem uma dimenso de peso (dimension of weight). Na hiptese de coliso entre os princpios, o princpio com peso relativo maior se sobrepe ao outro sem perder a validade. No pensamento de Dworkin, quem houver de tomar a deciso levar em conta todos os princpios envolvidos, elegendo um deles. As regras so aplicadas pelo tudo ou nada (all-or-nothing). A regra  vlida e deve ser aceita, ou no  vlida.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Princípios e regras são espécies de normas que se distinguem pelo grau de abstração. Enquanto os princípios possuem um alto grau de generalidade, as regras têm um grau relativamente baixo. Segundo Dworkin, os princípios possuem uma dimensão de peso, e na hipótese de colisão entre eles, o princípio com maior peso se sobrepõe ao outro. Já as regras são aplicadas pelo tudo ou nada, ou seja, são válidas e devem ser aceitas, ou não são válidas.

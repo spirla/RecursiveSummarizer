@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+230 Consagrado na Declaracao Universal dos Direitos Humanos: Artigo XI. Toda pessoa acusada de um ato delituoso tem o direito de ser presumida inocente, ate que a culpabilidade tenha sido provada de acordo com a lei, em julgamento publico, no qual lhe tenham sido asseguradas todas as garantias necessarias a sua defesa. Tambem instituido no artigo 5, LVII, da CRFB/88: Ninguem sera considerado culpado ate o trnsito em julgado de sentenca penal condenatoria. 231 NEVES, Daniel Amorim Assumpcao. Novo Codigo de Processo Civil Comentado. p. 36. 232 CMARA, Alexandre Freitas. O novo processo civil brasileiro. p. 38. 233 CPP: Artigo 38. Salvo disposicao em contrario, o ofendido, ou seu representante legal, decaira no direito de queixa ou de representacao, se nao o exercer dentro do prazo de seis meses, contado do dia em que vier a saber quem e o autor do crime, ou, no caso do artigo 29, do dia em que se esgotar o prazo para o oferecimento da denuncia. 234 CPC: Artigo 105. A procuracao geral para o foro, outorgada por instrumento publico ou particular assinado pela parte, habilita o advogado a praticar todos os atos do processo, exceto receber citacao, confessar, reconhecer a procedncia do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a acao, receber, dar quitacao, firmar compromisso e assinar declaracao de hipossuficincia econmica, que devem constar de clausula especifica. 235 A coerncia na decisao se liga ao disposto no artigo 15 do CPC, que assim estabelece: Artigo 15. Na ausncia de normas que regulem processos eleitorais, trabalhistas ou administrativos, as disposicoes deste Codigo lhes serao aplicadas supletiva e subsidiariamente
+236 Segundo Marcus Vinicius Riso Goncalves (Op cit.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Toda pessoa acusada de um ato delituoso tem o direito de ser presumida inocente até que a culpabilidade seja provada em julgamento público, garantindo-lhe todas as garantias necessárias para sua defesa. O ofendido ou seu representante legal tem o direito de queixa ou representação, desde que seja exercido dentro de seis meses a partir do dia em que se souber quem é o autor do crime. O advogado tem autorização para praticar todos os atos do processo, exceto receber citacao, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito, receber, dar quitação, firmar compromisso e assinar declaração de hipossuficiência econômica. A coerência na decisão se liga à ausência de normas que regulem processos eleitorais, trabalhistas ou administrativos.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, registrou o acordao recorrido que consta no edital e contrato de concessao, a possibilidade de 'Cobranca pelo uso da faixa de dominio publico, inclusive por outras concessionarias de servico publico, permitida pela legislacao em vigor' . (Informativo n. 724) 226 QUARTA TURMA Voltar ao Sumario. PROCESSO REsp 1.987.853-PB, Rel. Min. Marco Buzzi, Quarta Turma, por unanimidade, julgado em 14/06/2022, DJe 20/06/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Acao de cobranca do seguro DPVAT. Requerimento administrativo. Aplicacao analogica do entendimento firmado pelo STF no RE 631.240. DESTAQUE A lesao ou ameaca de lesao a direito aptas a ensejar a necessidade de manifestacao judiciaria do Estado se caracterizam em demandas de cobranca do seguro DPVAT, salvo excecoes particulares, apos o previo requerimento administrativo, consoante aplicacao analogica do entendimento firmado pelo STF no RE 631.240, julgado em repercussao geral. O seguro DPVAT, sigla comumente utilizada para designar o Seguro Obrigatorio de Danos Pessoais causados por veiculos automotores de via terrestre, ou por sua carga, a pessoas transportadas ou nao, nao e uma modalidade de beneficio previdenciario. 227 Evidentemente, o STF, em repercussao geral, nao cuidou dessa questao, dado que o precedente tem como base fatica pretensao previdenciaria reclamada junto ao INSS e a regra de transicao la estabelecida tinha aplicabilidade restrita as hipoteses envolvendo postulacoes de beneficios previdenciarios junto ao INSS. Em virtude disso, a utilizacao da compreensao estabelecida pelo STF para demandas de cunho nao previdenciario tem se dado de forma analogica, tal como a que ocorreu no caso dos autos e tem sido aplicada, inclusive por esta Corte Superior, em determinados julgados, para pretensoes de pagamento de seguro DPVAT.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A lesão ou ameaça de lesão a direito aptas a ensejar a necessidade de manifestação judiciária do Estado se caracterizam em demandas de cobrança do seguro DPVAT, salvo exceções particulares, após o previo requerimento administrativo, consoante aplicação analógica do entendimento firmado pelo STF no RE 631.240, julgado em repercussão geral. 2. O seguro DPVAT não é uma modalidade de benefício previdenciário. 3. A utilização da compreensão estabelecida pelo STF para demandas de cunho não previdenciário tem se dado de forma analógica, tal como a que ocorreu no caso dos autos e tem sido aplicada, inclusive por esta Corte Superior, em determinados julgados, para pretensões de pagamento de seguro DPVAT.

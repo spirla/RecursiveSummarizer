@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+129,  3 e 4, da CF). Ademais, a equiparacao automatica de vencimentos e vantagens dos membros do Ministerio Publico comum aos membros do Parquet especial implica vinculacao de vencimentos, o que e vedado pelo artigo 37, XIII, da CF. Com base nesse entendimento, o Plenario, por unanimidade, julgou o pedido procedente, em parte, para: a) declarar a inconstitucionalidade do caput do art. 150 da Constituicao do Estado de Alagoas; e b) em relacao ao paragrafo unico do art. 150 da Constituicao alagoana, declarar a inconstitucionalidade tao somente da expressao vencimentos, vantagens . ADI 3804/AL, relator Min. Dias Toffoli, julgamento virtual finalizado em 3.12.2021 (sexta-feira), as 23:59 (INF 1040) 4.17 ORCAMENTO Emendas do relator-geral do orcamento e transparencia no uso dos recursos financeiros  ADPF 854 MC-Ref/DF; ADPF 850 MC-Ref/DF e ADPF 851 MC-Ref/DF Resumo: O modelo de elaboracao e execucao das despesas oriundas de emendas do relator-geral do orcamento viola o principio republicano e os postulados informadores do regime de transparencia no uso dos recursos financeiros do Estado,. O regramento pertinente as emendas do relator introduz, nas esferas do processo legislativo orcamentario e da execucao orcamentaria, uma categoria programatica cuja autoria material nao corresponde aquela declarada na peca formal. Nesse modelo, o relator-geral do orcamento figura apenas formalmente como autor da programacao orcamentaria classificada sob o indicador RP 9. Quem detem, de fato, o poder de decidir quais serao o objeto e o destino dos valores previstos nessa categoria orcamentaria sao apenas os deputados e senadores autorizados, por meio de acordos informais, a realizarem as indicacoes dos orgaos e entidades a serem contemplados com as dotacoes previstas naquela categoria de programacao (RP 9).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedado vincular vencimentos e vantagens dos membros do Ministério Público comum aos membros do Parquet especial, conforme previsto no artigo 37, XIII, da Constituição Federal. 2. É declarada a inconstitucionalidade do caput do art. 150 da Constituição do Estado de Alagoas. 3. É declarada a inconstitucionalidade da expressão "vencimentos, vantagens" do parágrafo único do art. 150 da Constituição alagoana. 4. O modelo de elaboração e execução das despesas oriundas de emendas do relator-geral do orçamento viola o princípio republicano e os postulados informadores do regime de transparência no uso dos recursos financeiros do Estado.

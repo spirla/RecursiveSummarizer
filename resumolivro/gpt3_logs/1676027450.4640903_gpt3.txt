@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na segunda metade do sculo XX, a experincia traumtica do holocausto colocou o Direito e seu raciocnio jurdico positivista em franca crise, na medida em que se percebeu que o positivismo jurdico possibilitou a atuao dos projetos autoritrios do nacional-socialismo e do fascismo. Nesse sentido, o testemunho de Radbruch foi dos mais eloquentes. Dentre os muitos aspectos dessa crise destacaram-se a crise de legalidade, a crise no atendimento da funo social do Direito e a crise do tradicional conceito de soberania. O paradigma positivista do Estado de Direito legal, que tem como objetivo fundamental vincular o poder do juiz aos termos da lei se revelou insuficiente. A reconstruo da Alemanha e da Itlia, na Europa do ps-guerra, bem como, tardiamente entre ns, a redemocratizao operada pela Constituio de 1988, contriburam para determinar a passagem do Estado de Direito Legal para o Estado de Direito Constitucional. O julgamento proferido pelo Tribunal de Nuremberg constituiu o marco inicial dessa passagem da cultura da lei (Estado de Direito Legal) para a cultura do Direito (Estado de Direito Constitucional), pois os militares nazistas foram condenados por violarem o Direito, muito embora tenham cumprido a lei vigente em seu pas. O novo paradigma substancial do Estado de Direito Constitucional, ao superar a ideia de que a lei encerra todo o contedo do Direito, estabelece os limites e vnculos de Direito que devem ser observados tanto na produo legislativa como nas decises judiciais, sem descuidar de que a legalidade esteja sempre subordinada  legitimidade. A nova perspectiva foi denominada pela doutrina neoconstitucionalismo ou constitucionalismo contemporneo. O giro conceitual e pragmtico iniciado na Europa decorre do entendimento de que  a prpria cincia do Direito que deve oferecer as respostas necessrias  superao de sua crise, definindo claramente na Constituio os limites e fins do poder poltico do Estado. A reelaborao da teoria do Direito tornou-se necessria para responder  complexidade social e pretendeu salvar, com o futuro do direito, tambm o futuro da democracia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Na segunda metade do século XX, o holocausto colocou em crise o Direito e o raciocínio juspositivista, pois permitiu que projetos autoritários como o nazismo e o fascismo prosperassem. A reconstrução da Alemanha e da Itália, assim como a redemocratização brasileira, contribuíram para a passagem do Estado de Direito Legal para o Estado de Direito Constitucional. O julgamento de Nuremberg foi um marco dessa transição, pois condenou os militares nazistas por violarem o Direito, mesmo que cumprissem a lei vigente. A teoria do Direito foi reelaborada para responder à complexidade social e salvar tanto o futuro do direito quanto o da democracia.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+72, Autos n. 2000373-72.2020.9.13.0002), distribudos  2a AJME (Evento 1, Autos n. 2001306-79.2019.9.13.0002) e redistribudos  4a AJME por remanejamento de acervo (Evento 25, Autos n. 200130679.2019.9.13.0002). A denncia foi recebida no dia 07/05/2020 (Evento 1 - RECE- _DENUN2 e Evento 37, Autos n. 2001306- 79.2019.9.13.0002). Na ocasio, procedeu-se  distribuio da mesma denncia sob o n. 2000050-61.2020.9.13.0004 (Evento 1), sendo os Autos n. 200130679.2019.9.13.0002 "arquivados conforme a determinao coligida no despacho exarado no Evento 38 dos Autos n. 2001306 79.2019.9.13.0002. Citada, a defesa do Tenente PM Antnio Marcos Azevedo apresentou defesa prvia, alegando que, aps a instruo do feito, demonstraria a inocncia do militar. Na oportunidade, arrolou 5 (cinco) testemunhas (Evento 19). O Ministrio Pblico manifestou-se pelo prosseguimento do feito em face da ausncia das causas de absolvio sumria previstas no artigo 397 do Cdigo de Processo Penal (CPP) (Evento 24 - MaNII). O meritssimo juiz de direito da 4a AJME determinou a juntada de Folha de Antecedentes Criminais (FAC) e Certido de Antecedentes Criminais (CAC) das justias comum e militar, deferiu o rol de testemunhas e ainda determinou o prosseguimento do feito (Eventos 24, 28, 30, 32, 34 e 40). A vtima, Fabiano Azevedo Batista, e a testemunha de acusao, Marcos Antnio Batista, foram inquiridas, consoante se depreende no Evento 61. Em seguida, foram inquiridas as testemunhas de defesa - Cb PM Gisella Lorene Pinto Rodrigues, Cb PM Mrio Vincius Silva, Cb PM Dioney Jnio de Mendona e Cb PM Normam Douglas de Souza (Evento 72). A defesa dispensou a oitiva da testemunha Cb PM Wesley Olmpio Ferreira e requereu a juntada do udio atinente  chamada da vtima, Fabiano Azevedo Batista, ao servio 190, no dia 27/07/2018, das 2h50 s 4h (Evento 72 - ATA1). Cumprindo a determinao judicial, foram juntados os udios constantes no Evento 77. O interrogatrio do acusado - Tenente PM Antnio Marcos Azevedo - ocorreu no dia 30/06/2021 (Evento 113 - VDEO2). Na fase do artigo 427 do Cdigo de Processo Penal Militar (CPPM), o Ministrio Pblico nada requereu. A defesa, por sua vez, pugnou pela reiterao do ofcio para juntada aos autos da gravao da chamada telefnica junto ao 190 atinente aos fatos e que foi objeto de percia (Evento 113). As partes tomaram cincia dos udios coligidos no Evento 77 (Eventos 120 e 122). O Ministrio Pblico apresentou suas alegaes finais escritas. Na oportunidade, alegou que a autoria e a materialidade do crime foram devidamente comprovadas nos autos, devendo o acusado ser condenado pela prtica do delito previsto no artigo 3, alnea i (abuso de autoridade por atentado  incolumidade fsica do indivduo), da Lei n. 4.898/65, nos exatos termos da denncia (Evento 127).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A denncia foi recebida e distribuda, a defesa apresentou defesa prvia e arrolou 5 testemunhas. O Ministério Público manifestou-se pelo prosseguimento do feito. O juiz de direito determinou a juntada de Folha de Antecedentes Criminais e Certidão de Antecedentes Criminais, deferiu o rol de testemunhas e determinou o prosseguimento do feito. A vítima e a testemunha de acusação foram inquiridas, assim como as testemunhas de defesa. O interrogatório do acusado ocorreu e as partes tomaram ciência dos áudios juntados. O Ministério Público apresentou suas alegações finais escritas.

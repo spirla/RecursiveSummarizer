@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A diversidade dos valores faz que um valor no apenas conserve sua individualidade em relao aos demais, como tambm esteja inserido em uma relao de hierarquia. A estrutura hierrquica da ordem axiolgica pressupe a possibilidade da distino entre valores mais altos e valores mais baixos. Contudo, os critrios at hoje vislumbrados para identificar a altura dos valores so manifestamente insatisfatrios. Habilidosamente fugindo  tormentosa questo, o legislador penal referiu-se  relevncia do valor social ou moral, estabelecendo que a medida do valor deve ser delimitada por sua relevncia  ordem social ou  moralidade predominante. Adotando essa frmula, ainda deixou claro que somente interessam  atenuao da pena os valores ligados aos interesses sociais e morais. Para mensurar a diminuio de pena em decorrncia da atenuante prevista na alnea a do inciso III do artigo 65 do Cdigo Penal, deve o julgador perceber o lugar que o valor envolvido na motivao do condenado ocupa na escala de relevncia social ou moral. Quanto maior for a relevncia do valor, maior dever ser a atenuao da pena; quanto menor essa relevncia, menor dever ser a reduo da pena. Tal mecanismo de graduao encontra fundamento no fato de que, ao sujeito que atua contra o Direito por influncia de motivao mais nobre,  menos exigvel comportamento diverso e, em consequncia, menor  o juzo de reprovao da culpabilidade. Vale observar que os motivos alegados pelo condenado para a prtica criminosa devem ser compatveis com a proteo de valores sociais ou morais. Dessa forma, no ser possvel reconhecer aplicao  atenuante diante de motivao tendente a satisfazer os interesses de uma sociedade ou moralidade marginal ou alternativa. A carga da reprovao penal  determinada pela ordem social dominante, e a diminuio da censura somente ser possvel na medida em que os motivos determinantes do crime forem alinhados com os interesses socialmente predominantes. 15.4. Tentativa de evitar ou minorar as consequncias do crime e reparao do dano. Conforme a alnea b do inciso III do artigo 65 do Cdigo Penal, o sujeito que procura, em ato voluntrio, com eficincia, logo aps o crime, evitar ou minorar suas consequncias poder ser beneficiado com a atenuao de sua pena. O mesmo acontece com o sujeito que repara o dano antes do julgamento. Esta  uma atenuante que se apresenta mais comum nos crimes de trnsito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O legislador penal estabeleceu que a medida do valor deve ser delimitada pela relevncia social ou moral. Para mensurar a diminuição da pena, deve-se perceber o lugar que o valor envolvido na motivação do condenado ocupa na escala de relevância. A tentativa de evitar ou minorar as conseqüências do crime e a reparação do dano são consideradas atenuantes da pena.

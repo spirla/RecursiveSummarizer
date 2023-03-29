@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os denominados crimes de perigo so aqueles cuja descrio tpica no exige a ocorrncia de qualquer ofensa ao bem juridicamente protegido. Nesses casos, a incriminao consolida-se antes mesmo da ocorrncia do dano, com a simples exposio do bem  situao de perigo. Para a satisfao dos requisitos objetivos do tipo, basta a violao da norma que pretende proteger o bem jurdico da situao de perigo. A doutrina denomina crimes de perigo concreto aqueles em que a descrio tpica exige a efetiva ocorrncia da situao ftica de aumento das chances de leso ao bem jurdico. O perigo  dito concreto porque constitui um dado objetivo da realidade material. A descrio tpica do perigo concreto deixa clara a necessidade de comprovao da situao ftica de exposio do bem jurdico ao aumento das chances de sua leso. A real situao de aumento das chances de leso ao bem jurdico constitui um resultado naturalstico, da mesma forma que a situao de dano. O perigo concreto constitui resultado naturalstico porque  um dado da realidade objetiva,  algo mais do que a execuo de uma ao com determinada orientao subjetiva:  a produo de uma situao ftica de perigo para um bem juridicamente protegido. So exemplos de crime de perigo concreto o incndio (artigo 250 do CP) e a exploso (artigo 251 do CP). A descrio tpica desses crimes de perigo comum deixa claro que  necessrio que a vida, a integridade fsica ou o patrimnio de um nmero indeterminado de pessoas seja efetivamente exposto  situao de aumento das chances de dano. Um exemplo de crime de perigo concreto individual  o de perigo de contgio venreo (artigo 130 do CP). Nesse caso, a caracterizao do crime exige que uma pessoa determinada seja exposta a contgio de molstia venrea. 23.5.3. Crime de perigo abstrato. Os crimes de perigo no se fundamentam apenas na concreta probabilidade de dano ao bem jurdico, mas tambm diante de situao em que seja presumido pelo legislador o aumento das chances da ocorrncia de sua leso. Nos denominados crimes de perigo abstrato, a situao de perigo  presumida pelo legislador e a descrio tpica no exige a comprovao da situao ftica de aumento das chances da ocorrncia do dano. O legislador, com base na experincia ordinria da vida social, presume haver perigo na realizao de determinada conduta e a probe com a utilizao do tipo penal. Nesses casos, o perigo no  elemento do tipo, mas motivo para que o legislador proba a conduta presumidamente perigosa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os crimes de perigo so aqueles cuja descrição típica não exige a ocorrência de qualquer ofensa ao bem juridicamente protegido. São divididos em perigo concreto, que exige comprovação da situacão fática de exposição do bem jurdico ao aumento das chances de lesão, e perigo abstrato, que é presumido pelo legislador.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+SMULA III - decidir sobre: a) soma ou unificao de penas; b) progresso ou regresso nos regimes; c) detrao e remio da pena; [...]  HABEAS CORPUS Processo eproc n. 2000123-74.2022.9.13.0000 Referncia: Processo eproc n. 2000862-78.2021.9.13.0001 Relator: Desembargador Jadir Silva Julgamento: 17/11/2022 Publicao: 28/11/2022 Deciso: UNNIME EMENTA HABEAS CORPUS - EXECUO PENAL - ALEGAO DE ABUSO DE AUTORIDADE NA EXPEDIO DE MANDADO DE PRISO PARA INICIAR O CUMPRIMENTO DA PENA - EXPEDIO DE GUIA DE EXECUO COM O RECOLHIMENTO DO SENTENCIADO AO CRCERE - INTELIGNCIA DOS ARTIGOS 594 DO CDIGO DE PROCESSO PENAL MILITAR E 105 DA LEI DE EXECUO PENAL - REGULARIDADE - ALEGAO DE INOBSERVNCIA DO REGIME IMPOSTO NA PENA E DESCONSIDERAO DO PERODO DE PENA, EM TESE, CUMPRIDO NA DURAO DAS MEDIDAS RESTRITIVAS IMPOSTAS APS A REVOGAO DA PRISO PREVENTIVA - REGIME DE PENA DE ACORDO COM A SENTENA - MEDIDA RESTRITIVA DE CONTATO COM AS TESTEMUNHAS DO PROCESSO, HIPTESE QUE NO SE COMPUTA PARA A DETRAO DA PENA - PEDIDO DE PRISO DOMICILIAR - INDEFERIMENTO EM VIRTUDE DE O PACIENTE NO PREENCHER OS REQUISITOS LEGAIS PARA A CONCESSO DO BENEFCIO - ORDEM DENEGADA. ACRDO Vistos, relatados e discutidos os presentes autos, sendo paciente o Sgt BM QPR Cosme Eustquio da Trindade Alves, impetrante(s)/advogado(s) Edson Rodrigues de Oliveira e outro(a/s) e autoridade apontada como coatora o juiz de direito titular da 1a Auditoria Judiciria Militar Estadual, acordam os desembargadores da Segunda Cmara, por unanimidade, em denegar o pedido de habeas corpus. RELATRIO O nobre advogado Doutor Edson Rodrigues de Oliveira impetrou ao de habeas corpus, com pedido liminar, em favor do sargento BM QPR Cosme Eustquio da Trindade Alves, contra a deciso do meritssimo juiz de direito da Primeira Auditoria Judiciria Militar Estadual (1a AJME), que, supostamente, o mantm em regime de cumprimento de pena mais gravoso (Evento 1 - INIC1). Na petio inicial, o impetrante informa que o paciente foi condenado a 10 meses em regime aberto, contudo, antes de iniciar o processo de execuo, foi expedido mandado de priso em seu desfavor, quando caberia somente a sua intimao. Disse ainda que j havia cumprido priso preventiva e liberdade condicional, e sequer foi considerada a detrao da pena, ao arrepio da Constituio, de julgados do excelso Supremo Tribunal Federal e do colendo Superior Tribunal de Justia e das leis regentes. Disse, ainda, que o paciente foi submetido ao regime inicial semiaberto, com apresentao noturna e liberao pela manh e recolhimento aos finais de semana no 3 Batalho de Bombeiros Militar em Belo Horizonte/MG, que nada tem a ver com albergue [contrariando os arts. 93 a 95 da Lei n. 7.210, de 11 de julho de 1984 - Lei de Execuo Penal (LEP)].
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Habeas Corpus foi denegado, pois a deciso do Juiz de Direito da Primeira Auditoria Judiciria Militar Estadual foi considerada regular, tendo em vista que a pena foi aplicada de acordo com a sentena, e a medida restritiva de contato com as testemunhas do processo no foi computada para a detrao da pena. A petio de priso domiciliar foi indeferida por no preencher os requisitos legais para a concesso do benefício.

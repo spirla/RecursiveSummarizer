@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado em acao direta, para declarar a inconstitucionalidade formal da Lei Complementar 278/2019 do Estado de Rorai-ma. ADI 6303/RR, relator Ministro Roberto Barroso, julgamento virtual finalizado em 11.3.2022 (sexta-feira), as 23:59 (INF 1046) 9.3 FEDERALISMO FISCAL Autonomia municipal e vinculacao de parte do ICMS recebido pelo estado - ADI 2355/PR Resumo: E inconstitucional, por violacao a clausula constitucional da nao afetacao da receita oriunda de impostos e a autonomia municipal, norma estadual que determina a forma de aplicacao dos recursos destinados ao municipio em razao da reparticao constitucional de receitas. Conforme jurisprudencia desta Corte, e de pleno direito dos proprios municipios a parcela que lhes e devida na reparticao constitucional de receitas, de modo que nao cabe o estabelecimento de qualquer forma de condicionamento ou retencao pelos estados. Os estados-membros podem fixar, mediante lei, a maneira como sera feito o credito de parcela do va-lor da arrecadacao do ICMS a ser repartido (CF/88, art. 158, IV e paragrafo unico). Contudo, isso nao impli-ca alteracao da titularidade da quota pertencente aos municipios, razao pela qual a destinacao que sera dada ao repasse depende de decisao autonoma do ente municipal beneficiario, notadamente porque ocorre em fase posterior ao ingresso do montante no erario. Com base nesse entendimento, o Plenario, por unanimidade, confirmou a medida cautelar anterior-mente deferida (Informativo 273) e julgou procedente a acao para declarar a inconstitucionalidade da Lei 12.690/1999 do Estado do Parana. ADI 2355/PR, relator Ministro Nunes Marques, julgamento virtual finalizado em 16.9.2022 (sexta-feira), as 23:59 (INF 1068) 10.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional, por violação à cláusula constitucional da não afetação da receita oriunda de impostos e à autonomia municipal, norma estadual que determina a forma de aplicação dos recursos destinados ao município em razão da repartição constitucional de receitas. 2. É de pleno direito dos próprios municípios a parcela que lhes é devida na repartição constitucional de receitas, de modo que não cabe o estabelecimento de qualquer forma de condicionamento ou retenção pelos estados. 3. Os estados-membros podem fixar, mediante lei, a maneira como será feito o crédito de parcela do valor da arrecadação do ICMS a ser repartido. 4. A destinação que será dada ao repasse depende de decisão autônoma do ente municipal beneficiário, notadamente porque ocorre em fase posterior ao ingresso do montante no erário.

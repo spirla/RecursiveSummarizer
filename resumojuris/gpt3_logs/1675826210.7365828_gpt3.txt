@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: O procedimento de execucao extrajudicial de imovel objeto de divida hipotecaria, previsto no Decreto-lei 70/1966, e compativel com o vigente ordenamento constitucional. Com efeito, na linha de diversos precedentes do Supremo Tribunal Federal (STF), a compatibilidade decorre da constatacao de que esse procedimento nao e realizado de forma aleatoria. Ele se submete a efetivo controle judicial, em ao menos uma de suas fases, sendo certo que o devedor e intimado a acompanha-lo, podendo impugnar, inclusive no ambito judicial, o desenrolar do procedimento, se irregularidades vierem a ocorrer durante o seu tramite. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 249 da repercussao geral, negou provimento a recurso extraordinario. Seguindo a mesma orientacao, o Plenario, tambem por maioria, deu provimento a outro recurso extraordinario julgado em conjunto. Vencidos, em ambos os julgados, os ministros Luiz Fux (Presidente), Carmen Lucia, Ayres Britto, Edson Fachin e Marco Aurelio. RE 627106/PR, relator Min. Dias Toffoli, julgamento virtual finalizado em 7.4.2021 (quarta-feira) as 23:59 (INF 1012) RE 556520/SP, relator Min. Marco Aurelio, redator do acordao Min. Dias Toffoli, julgamento virtual finalizado em 7.4.2021 (quarta-feira) as 23:59 (INF 1012) 14.6 HONORARIOS ADVOCATICIOS SUCUMBENCIAIS Acao civil publica e os efeitos da coisa julgada formada em acao de desapropriacao - RE 1010819/PR (Tema 858 RG) Tese fixada: I - O transito em julgado de sentenca condenatoria proferida em sede de acao desapropriatoria nao obsta a propositura de Acao Civil Publica em defesa do patrimonio publico, para discutir a dominialidade do bem expropriado, ainda que ja se tenha expirado o prazo para a Acao Rescisoria; II - Em sede de Acao de Desapropriacao, os honorarios sucumbenciais so serao devidos caso haja devido pagamento da indenizacao aos expropriados.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I - O procedimento de execução extrajudicial de imóvel objeto de dívida hipotecária previsto no Decreto-Lei 70/1966 é compatível com o ordenamento constitucional. II - O transito em julgado de sentença condenatória proferida em sede de ação desapropriatória não impede a propositura de Ação Civil Pública em defesa do patrimônio público, mesmo que já tenha expirado o prazo para a Ação Rescisória. III - Em sede de Ação de Desapropriação, os honorários sucumbenciais só serão devidos caso haja devido pagamento da indenização aos expropriados.

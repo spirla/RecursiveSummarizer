@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com esses entendimentos, o Plenario julgou parcialmente procedente pedido formulado em acao dire-ta de inconstitucionalidade a fim de conferir ao art. 156,  2, da Lei 2.578/2012 do Estado do Tocantins interpretacao conforme a CF/88, de modo a afastar o carater compulsorio da contribuicao men-cionada no dispositivo, com modulacao dos efeitos da decisao, estabelecendo que ela produza efeitos ex nunc a partir da data de publicacao da ata do julgamento do merito e reconhecendo a impossibilidade de repeticao das contribuicoes recolhidas ate a referida data. ADI 5368/TO, relator Ministra Dias Toffoli, julgamento virtual finalizado em 28.10.2022 (sexta-feira), as 23:59 (INF 1074) Lei estadual: planos de saude e limitacao de tratamento para pessoas com deficiencia - ADI 7172/RJ ODS: 3 Resumo: E inconstitucional, por ofensa a competencia privativa da Uniao para legislar sobre direito civil e politica de seguros (CF/88, art. 22, I e VII), lei estadual que veda, no ambito de seu territorio, operado-ras de plano de saude de limitarem consultas e sessoes para o tratamento de pessoas com deficiencia. As obrigacoes referentes a servicos de assistencia medico-hospitalar sao regidas por contratos de natu-reza privada, razao pela qual sao materias atinentes ao direito civil e a politica de seguros. Consoante a Lei federal 9.656/1998 (Lei dos Planos de Saude)  a que estao sujeitas as operadoras de planos de saude  o servico de saude prestado pela iniciativa privada subordina-se as normas e a fiscalizacao da Agencia Nacional de Saude (ANS). Ademais, a competencia legislativa concorrente em materia de defesa do consumidor nao autoriza os estados-membros a editarem normas sobre o tema, nem mesmo em carater suplementar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional, por ofensa à competência privativa da União para legislar sobre direito civil e política de seguros (CF/88, art. 22, I e VII), lei estadual que veda, no âmbito de seu território, operadoras de plano de saúde de limitarem consultas e sessões para o tratamento de pessoas com deficiência. 2. As obrigações referentes a serviços de assistência médico-hospitalar são regidas por contratos de natureza privada, razão pela qual são materias atinentes ao direito civil e a política de seguros. 3. Conforme a Lei federal 9.656/1998 (Lei dos Planos de Saúde) a que estão sujeitas as operadoras de planos de saúde o serviço de saúde prestado pela iniciativa privada subordina-se as normas e a fiscalização da Agência Nacional de Saúde (ANS). 4. A competência legislativa concorrente em matéria de defesa do consumidor não autoriza os estados-membros a editarem normas sobre o tema, nem mesmo em caráter suplementar.

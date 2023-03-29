@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A Lei 12.720, de 27 de setembro de 2012, acrescentou o pargrafo 6 ao artigo 121 do CP para incluir mais duas causas de aumento de pena aplicveis ao homicdio doloso. Segundo o referido dispositivo, a pena  aumentada de 1/3 (um tero) at a metade se o crime for praticado por milcia privada, sob o pretexto de prestao de servio de segurana, ou por grupo de extermnio. A previso legal contem duas causas de aumento distintas: a) se o crime for praticado por milcia privada, sob o pretexto de prestao de servio de segurana; e b) se o crime for praticado por grupo de extermnio. No primeiro caso, importa inicialmente saber o que  milcia privada. Milcia  uma designao genrica frequentemente utilizada para identificar organizaes militares ou paramilitares que utilizam armas para o exerccio de suas atividades. Nesse sentido, constituem milcias todas as organizaes pblicas ou privadas que se orientam por estatutos com formato militar, baseados na hierarquia e disciplina, no integrantes das foras armadas da Unio. Nos dias atuais, o termo milcia est associado  formao de grupos armados paramilitares que contam em seus quadros com agentes e ex-agentes do poder pblico e, de maneira ilegal, praticam extorso contra moradores de comunidades urbanas de baixa onde o Estado se mostra ausente. O relatrio produzido pela Comisso Parlamentar de Inqurito instituda pela Resoluo 433/2008 da Assembleia Legislativa do Estado do Rio de Janeiro60 identificou cinco caractersticas fundamentais de atuao das milcias: 1) controle de um territrio e da populao que nele habita por parte de um grupo armado irregular; 2) o carter coativo desse controle; 3) o nimo de lucro individual como motivao central; 4) um discurso de legitimao referido  proteo dos moradores e  instaurao de uma ordem; e 5) a participao ativa e reconhecida dos agentes do Estado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 12.720 acrescentou o pargrafo 6 ao artigo 121 do CP para incluir duas causas de aumento de pena aplicveis ao homicdio doloso: prtica de milcia privada, sob o pretexto de prestao de servio de segurana, ou por grupo de extermnio. Estas milcias são caracterizadas por controle de território, carter coercitivo, motivação de lucro individual, discurso de legitimidade e participação ativa dos agentes do Estado.

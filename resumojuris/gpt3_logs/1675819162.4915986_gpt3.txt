@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, o Decreto 3.048/1999 e a Portaria 1.135/2001 do Ministerio da Previdencia e Assistencia So-cial (MPAS) alteraram a base de calculo do tributo de que dispoem ao estipular que, no lugar da remuneracao efetivamente paga aos transportadores autonomos  conforme criterio estabelecido pela Lei 8.212/1991 , se considerasse o resultado de um percentual (11,71% ou 20%) incidente sobre o valor bruto do frete, carreto ou transporte de passageiros. Com isso, a aliquota da contribuicao previdenciaria passou a nao mais incidir sobre a remuneracao efetivamente paga, e sim sobre um novo montante, cujo valor previsto abrange, alem da remuneracao do trans-portador autonomo, outras parcelas, como combustivel, seguros e desgaste do equipamento. Com base nesse entendimento, o Plenario, por unanimidade, reconheceu a existencia da repercussao geral da questao constitucional suscitada (Tema 1223 RG) e, no merito, tambem por unanimidade, reafirmou a jurisprudencia dominante sobre a materia para dar provimento ao recurso extraordinario, assentando a in-constitucionalidade do Decreto 3.048/1999 e da Portaria MPAS 1.135/2001. RE 1381261/RS, relator Ministro Dias Toffoli, julgamento finalizado no Plenario Virtual em 5.8.2022 (INF 1062) Regime nao cumulativo da contribuicao ao PIS/Pasep e da Cofins - RE 841979/PE (Tema 756 RG) ODS: 16 Teses fixadas: I. O legislador ordinario possui autonomia para disciplinar a nao cumulatividade a que se refe-re o art. 195,  12, da CF/88, respeitados os demais preceitos constitucionais, como a matriz constituci-onal das contribuicoes ao PIS e Cofins e os principios da razoabilidade, da isonomia, da livre concorren-cia e da protecao a confianca; II. E infraconstitucional, a ela se aplicando os efeitos da ausencia de reper-cussao geral, a discussao sobre a expressao insumo presente no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I. O legislador ordinário possui autonomia para disciplinar a não cumulatividade a que se refere o art. 195, § 12, da CF/88, respeitados os demais preceitos constitucionais, como a matriz constitucional das contribuições ao PIS e Cofins e os princípios da razoabilidade, da isonomia, da livre concorrência e da proteção à confiança. II. É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a discussão sobre a expressão “insumo” presente no art. 195, § 12, da CF/88.

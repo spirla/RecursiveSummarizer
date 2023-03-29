@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: O Estado responde de forma objetiva pelos danos causados a profissional de imprensa ferido, por policiais, durante cobertura jornalistica de manifestacao publica em que ocorra tumulto ou conflito, desde que o jornalista nao haja descumprido ostensiva e clara advertencia quanto ao acesso a areas definidas como de grave risco a sua integridade fisica, caso em que podera ser aplicada a excludente da responsabilidade por culpa exclusiva da vitima. O art. 37,  6, da CF/88 (CF) preve a responsabilidade civil objetiva do Estado quando presentes e configurados a ocorrencia do dano, o nexo causal entre o evento danoso e a acao ou omissao do agente publico, a oficialidade da conduta lesiva e a inexistencia de causa excludente da responsabilidade civil (forca maior, caso fortuito ou comprovada culpa exclusiva da vitima). Nao e adequado, no entanto, atribuir a profissional da imprensa culpa exclusiva pelo dano sofrido, por conduta de agente publico, somente por permanecer realizando cobertura jornalistica no local da manifestacao popular no momento em que ocorre um tumulto, sob pena de ofensa ao livre exercicio da liberdade de imprensa. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 1.055 da repercussao geral, deu provimento a recurso extraordinario. Vencido o ministro Nunes Marques. Em seguida, por maioria, o Tribunal fixou a tese de repercussao geral. Vencidos, no ponto, os ministros Marco Aurelio (relator), Edson Fachin e Luiz Fux (Presidente). RE 1209429/SP, relator Min. Marco Aurelio, redator do acordao Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Estado responde de forma objetiva pelos danos causados a profissional de imprensa ferido, por policiais, durante cobertura jornalistica de manifestacao publica em que ocorra tumulto ou conflito. 2. O art. 37, 6, da CF/88 preve a responsabilidade civil objetiva do Estado quando presentes e configurados a ocorrencia do dano, o nexo causal entre o evento danoso e a acao ou omissao do agente publico, a oficialidade da conduta lesiva e a inexistencia de causa excludente da responsabilidade civil. 3. Nao e adequado atribuir a profissional da imprensa culpa exclusiva pelo dano sofrido, por conduta de agente publico, somente por permanecer realizando cobertura jornalistica no local da manifestacao popular no momento em que ocorre um tumulto, sob pena de ofensa ao livre exercicio da liberdade de imprensa.

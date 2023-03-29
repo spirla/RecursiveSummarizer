@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PM David Ferreira de Farias e o Cb. PM Erlon Gonalves de Carvalho pelo crime de descumprimento de misso, previsto no art. 196 do Cdigo Penal Militar (Evento 109, APELAO1). A defesa do Cb PM Elton Costa de Souza, apresentou contrarrazes ao recurso de apelao do Ministrio Pblico. Em sntese, alegou que o Ministrio Pblico pleiteou a reforma da sentena primeva to somente no tocante  absolvio dos militares denunciados pela prtica do crime de descumprimento de misso, previsto no artigo 196 do Cdigo Penal Militar. Dessa forma, disse que ao apelado Cb PM Elton Costa de Souza no houve a imputao de tal conduta criminosa, mas, sim, da prevista no artigo 195 do CPM - abandono de posto. Por tal razo, pugnou que no se conhecesse do recurso de apelao em relao ao Cb PM Elton Costa Souza ou, caso se desse a ele conhecimento, que, no mrito, lhe fosse negado provimento (Evento 121, CONTRAZAP). A defesa do Sd PM Marcelo Alves Pereira apresentou contrarrazes ao recurso de apelao interposto pelo Ministrio Pblico. Segundo a defesa, o apelado estava designado para a realizao de patrulhamento ostensivo, atividade de rotina que pode ser realizada por qualquer militar. Destacou ainda que a prova produzida no curso da instruo processual revelou que, no dia dos fatos, o apelado s no realizou o patrulhamento porque a viatura policial estava avariada (viatura com farol quebrado e defeito no amortecedor, sem condies de circulao), fato que foi comunicado a seu superior hierrquico. Diante de tal impossibilidade de a viatura ser colocada em uso, restou comprovado que o apelado permaneceu trabalhando em operao realizada defronte  unidade policial, realizando a segurana junto com os demais militares. Alegou tambm que a nica prova apresentada teriam sido os registros de dados de GPS levantados. No entanto, as testemunhas Emerson Santos Vieira, Eduardo Peixoto, Rogrio Aparecido de Melo e Marco Antnio de Paula informaram que o sistema de GPS no era to preciso e que havia inmeros relatos de falhas e inconsistncias nos dados fornecidos pelo sistema de GPS, o que fragiliza a prova aclamada pela acusao. Com tais argumentos, a defesa requereu a manuteno da sentena absolutria nos moldes do artigo 439, alnea "b, do CPPM, uma vez que restou comprovado que o apelado no descumpriu misso a ele confiada ou, alternativamente, pugnou pela absolvio nos moldes do artigo 439, alnea "e, do CPPM, em razo da insuficincia de provas da prtica da conduta delitiva. (Evento 127, CONTRAZAP1 - autos de 1a Instncia). Em suas razes de apelao, a defesa do Cb PM Elton Costa de Souza suscitou prejudicial de mrito em relao ao crime de abandono de posto. Alegou a ocorrncia da prescrio da pretenso punitiva estatal, pela pena in concreto, nos termos do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa dos militares denunciados pelo crime de descumprimento de missão previsto no artigo 196 do Código Penal Militar apresentou contrarrazões ao recurso de apelação do Ministério Público, alegando que o apelado Cb PM Elton Costa de Souza não foi imputado da conduta prevista no artigo 196, mas sim no artigo 195 do CPM - abandono de posto. A defesa do Sd PM Marcelo Alves Pereira também apresentou contrarrazões ao recurso de apelação, alegando que o apelado estava designado para a realização de patrulhamento ostensivo, mas a viatura policial estava avariada, impossibilitando a realização da missão. A defesa do Cb PM Elton Costa de Souza também suscitou prejudicial de mérito em relação ao crime de abandono de posto, alegando a ocorrência da prescrição da pretenção punitiva estatal.

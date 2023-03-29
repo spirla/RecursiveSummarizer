@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No Estado Democrtico de Direito, o respeito  liberdade e  dignidade da pessoa humana impe que o Direito Penal possa justificar, satisfatoriamente, a pena que concretamente  aplicada ao infrator da norma jurdica. Como, ento, justificar a aplicao da pena no arbtrio? A orientao garantista que dirige a interpretao dos dispositivos penais leva-nos a concluir pelo tratamento igualitrio: atendidos os requisitos legais, todos os acusados tm direito ao perdo judicial. 21.11.1. Natureza jurdica. Muito se discutiu sobre a natureza jurdica da sentena que concede o perdo judicial. Parece que a questo hoje no tem repercusso prtica na seara do Direito Penal, na medida em que, seja qual for a natureza da deciso, no ser possvel reconhecer a ocorrncia da reincidncia, em caso de nova condenao. O artigo 120 do CP dispe expressamente que a sentena que conceder perdo judicial no ser considerada para efeitos de reincidncia. Contudo, se a sentena concessiva do perdo for considerada condenatria, produzir o efeito de interromper a prescrio da pretenso punitiva, nos termos do inciso IV do artigo 117 do CP. Caso contrrio, no haver a interrupo da prescrio. No entanto, para o direito civil a questo tambm adquire relevncia. Se a sentena concessiva do perdo for condenatria, poder ser executada no juzo cvel, determinando obrigatoriamente a reparao dos danos, nos termos do artigo 63 do CPP. Caso se entenda que a sentena no  condenatria, no constitui ttulo executivo judicial para a reparao dos danos, devendo o interessado ajuizar ao de conhecimento. O tema  bastante polmico, sendo que, na doutrina, encontram-se cinco posies distintas. A primeira sustenta que a deciso que concede o perdo  condenatria, persistindo todos os efeitos no impedidos pelo artigo 120, como a inscrio do ru no rol dos culpados, o pagamento de custas e a obrigao de reparar os danos. A segunda afirma que a deciso  condenatria, mas no subsiste qualquer efeito de sentena condenatria. A terceira corrente afirma ser a deciso absolutria. A quarta sustenta que a deciso no  condenatria ou absolutria, mas de excluso facultativa de punibilidade. A ltima posio, melhorando a fundamentao da anterior, concebe a deciso de perdo como declaratria da extino da punibilidade. No sentido da ltima posio doutrinria, o STJ exarou a Smula 18.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado Democrtico de Direito exige que o Direito Penal justifique a pena aplicada ao infrator da norma jurdica, sendo que o tratamento igualitrio, atendidos os requisitos legais, garante a todos os acusados o direito ao perdo judicial. A natureza jurdica da sentena concessiva de perdo polmica, sendo que a doutrina apresenta cinco posies distintas. O STJ segue a ltima posio doutrinria, considerando-a como declaratria da extino da punibilidade.

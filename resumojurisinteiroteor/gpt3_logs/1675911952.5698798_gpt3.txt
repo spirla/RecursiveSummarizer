@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A jurisprudncia desta Corte Superior se firmou no sentido de que, no campo da nulidade no processo penal, vigora o princpio pas de nulit sans grief, previsto no art. 563, do CPP, segundo o qual, o reconhecimento de nulidade exige a comprovao de efetivo prejuzo. Acerca dessa temtica, foi editada pelo Supremo Tribunal Federal a Smula 523, que assim dispe: "No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficincia s o anular se houver prova de prejuzo para o ru". 5. Desse modo, ainda que se reconhecesse que os dados do celular do corru foram coletados pela polcia sem a devida autorizao judicial, tal fato, por si s, no inquinaria de nulidade o feito, uma vez que, no presente caso, a defesa no logrou demonstrar prejuzo em razo do alegado vcio, visto que a condenao se sustenta por outros meios de prova constantes dos presentes autos. 6. Agravo regimental no provido. (AgRg no AREsp 1779821/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/04/2021, DJe 13/04/2021) Grifo nosso Ademais, conforme relatado alhures, verifica-se que a prpria defesa do acusado desistiu da percia no telefone celular de Andr Luiz Miranda, que fora deferida pelo juzo, conforme se observa nos eventos 78 e 120, ATA5. Por fim, como bem salientou a e. Procuradora de Justia, constata-se que a referida prova (prints das mensagens pelo aplicativo Whatsapp) sequer foi mencionada na sentena condenatria, tendo sido a deciso baseada em outros elementos de prova para confirmar a autoria e materialidade delitiva, sobretudo no comprovante da transferncia bancria efetuada pela vtima, Andr Luiz Miranda, em favor de Vnia Ferreira da Silva, esposa do apelante, no valor de R$ 5.000,00 (cinco mil reais) e tambm na farta prova testemunhal produzida em juzo. [...] Ademais,  assente o entendimento jurisprudencial de que no h necessidade de que o julgador refute expressamente todas as teses aventadas pela defesa, desde que fundamente a condenao com base no contexto probatrio, o que ocorreu in casu. Para ilustrar tal assertiva, cito: HABEAS CORPUS. PROCESSO PENAL. CRIME APROPRIAO INDBITA DE CONTRIBUIO PREVIDENCIRIA. ALEGADO NO ENFRENTAMENTO DAS TESES DE DEFESA NO ACRDO QUE JULGOU A APELAO. INOCORRNCIA. 1. Depreende-se dos acrdos proferidos pelo Tribunal a quo, que todas as teses defensivas foram, ao contrrio do alegado na impetrao, rechaadas, direta ou indiretamente. A condenao de primeiro grau foi mantida com apoio no material probatrio colhido na instruo processual e em observncia ao Princpio do Livre Convencimento Motivado, segundo o qual o juiz forma sua convico por meio da livre apreciao da prova, sendo-lhe facultada a crtica aos elementos coligidos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Corte Superior reconheceu que, no campo da nulidade no processo penal, vigora o princípio pas de nulit sans grief, segundo o qual, o reconhecimento de nulidade exige a comprovação de efetivo prejuzo. No caso em questão, a defesa não conseguiu demonstrar prejuzo em razão do alegado vício, pois a condenação se sustentou por outros meios de prova constantes dos autos.

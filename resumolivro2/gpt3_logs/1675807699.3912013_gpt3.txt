@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Delito punido com deteno. Previso legal de cumprimento em regime semiaberto ou aberto (CP, artigo 33). 4. Violao ao princpio da proporcionalidade:
+a custdia cautelar se apresenta como medida mais gravosa do que a prpria sano a ser aplicada no caso de eventual condenao. Precedentes. 5. Constrio cautelar excessivamente gravosa. Decreto prisional com fundamentao precria. Em deciso anterior (HC 123.226/PI, rel. Min. Dias Toffoli, DJe 17.11.2014) o STF reconheceu constrangimento ilegal na imposio de medida cautelar mais gravosa a liberdade do que o estabelecido no ttulo penal condenatrio para o cumprimento inicial da reprimenda, em clara afronta, portanto, ao princpio da proporcionalidade, concedeu ordem de habeas corpus no sentido de revogar a priso preventiva com o estabelecimento, pelo juzo processante, de medidas cautelares diversas da priso (CPP, artigo 319). Nas duas decises do STF restou consignado que a priso preventiva se mostrava excessivamente gravosa e incompatvel com a condenao em regime diverso do fechado. A pena privativa de liberdade at dois anos, preenchidos os requisitos objetivos ou subjetivos do artigo 84 do CPM, indica regime aberto.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF reconheceu constrangimento ilegal na imposição de medida cautelar mais gravosa que a liberdade prevista no título penal condenatório, concedendo habeas corpus para revogar a prisão preventiva e estabelecer medidas cautelares diversas. Nas duas decisões, a prisão preventiva foi considerada excessivamente gravosa e incompatível com a condenação em regime diverso do fechado, pois a pena privativa de liberdade até dois anos indica regime aberto.

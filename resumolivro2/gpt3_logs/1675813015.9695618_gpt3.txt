@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A exegese de preceito inscrito na Constituio da Repblica, muito mais do que simplesmente razovel, h de ser juridicamente correta. Segunda hiptese de cabimento:
+quando a deciso recorrida declarar a inconstitucionalidade de tratado ou lei federal (artigo 102, III, b). A deciso do rgo jurisdicional que declarou a inconstitucionalidade de lei  levada ao STF por meio do recurso extraordinrio. Trata-se de uma hiptese de controle de constitucionalidade, toda vez que um rgo jurisdicional diverso do STF declarar a inconstitucionalidade de uma lei, esta questo pode ser elevada ao prprio STF, guardio da Constituio, a quem cabe a ltima palavra sobre a matria. Os tribunais e juzes fazem o controle difuso de uma causa penal, enquanto o STF faz o controle direto. Os tratados de direitos humanos, se aprovados na forma do artigo 5, pargrafo 3, CF, equivalem s emendas constitucionais. O problema  que o pargrafo 3 do artigo 5 foi inserido na Constituio Federal pela Emenda Constitucional 45, de 08.12.2004, e a Conveno Americana de Direitos Humanos entrou em vigor no Brasil pelo Decreto 678, de 03.06.1992. Para o STF, a CADH est abaixo da Constituio Federal, mas acima da legislao interna. Sustenta-se que a deciso violadora de normas e princpios da CADH deve ser impugnada por recurso extraordinrio. Terceira hiptese de cabimento:
+se a deciso recorrida julgar vlida lei ou ato de governo local contestado em face desta Constituio (artigo 102, III, c). Entre o texto constitucional e o direito local, o julgado prestigiou o ltimo, da o exame da matria pelo STF, de modo que so dois pressupostos:
+a) que a constitucionalidade da regra local tenha sido posta em dvida na instncia inferior;
+e b) que a deciso recorrida tenha concludo por sua validade, em face da Constituio Federal. Quarta e ltima hiptese de cabimento:
+quando a deciso julgar vlida lei local contestada em face de lei federal (artigo 102, III, d).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF tem a ltima palavra sobre questões de constitucionalidade, sendo que tratados de direitos humanos, aprovados na forma do artigo 5, pargrafo 3, CF, equivalem s emendas constitucionais. O STF também pode ser acionado quando houver decisão de órgão jurisdicional diverso que declarou a inconstitucionalidade de uma lei, ou quando houver decisão que julgar válida lei ou ato de governo local contestado em face da Constituição ou lei federal.

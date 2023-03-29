@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Isto e, nenhum ato sera declarado nulo sem que seja comprovado efetivo prejuizo ao acusado, influncia concreta na decisao desfavoravel ou obstrucao na apuracao da verdade real dos fatos. Analogamente ao processo penal, extrai-se que:
+Artigo 563. Nenhum ato sera declarado nulo, se da nulidade nao resultar prejuizo para a acusacao ou para a defesa. Artigo 566. Nao sera declarada a nulidade de ato processual que nao houver influido na apuracao da verdade substancial ou na decisao da causa. Atentando-se a finalidade do processo disciplinar, qual seja a busca da verdade dos fatos, ao acusado devem ser providos todos os meios de defesa a fim de garantir-lhe pleno exercicio do contraditorio e ampla defesa. A luz dessa perspectiva, a analise da eventual nulidade no processo esta diretamente ligada ao grau de cerceamento de defesa, conforme prescreve a Sumula 523 do STF:
+Sumula 523 - No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficincia so a anulara se houver prova de prejuizo para o reu. Por fim, tendo em vista o formalismo moderado admitido no processo disciplinar, a demonstracao do prejuizo encontra-se aliado a comprovacao da impossibilidade de alcance dos mesmos efeitos por meio diverso. Isto e, o suposto ofendido deve comprovar que nao existia outro modo, senao aquele que pretende impugnar, capaz de revelar a verdade dos fatos e garantir sua defesa. Acerca da materia, manifestou-se a Advocacia-Geral da Uniao por meio dos Pareceres-AGU GQ-37 e GQ-177, vinculantes, respectivamente:
+15. (...) o cerceamento de defesa nao se presume, eis que, em sendo um fato, ha que exsurgir do contexto do processo disciplinar
+Ementa: (...) O cerceamento de defesa e um fato e, em decorrncia, quem o alega deve demonstrar o efetivo dano sofrido no exercicio do direito de defender-se, nao se admitindo sua presuncao.
+Assim, inexistindo efetivo cerceamento de defesa ou prejuizo concreto para a defesa, eventual irregularidade praticada no curso do processo disciplinar pela comissao/encarregado nao constituira nulidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No processo disciplinar, a nulidade de um ato processual só será declarada se houver prejuízo para a acusação ou defesa, influência na decisão desfavorável ou obstrução na apuração da verdade real dos fatos. O cerceamento de defesa não se presume, sendo necessário demonstrar o efetivo dano sofrido no exercício do direito de se defender. Se não houver cerceamento de defesa ou prejuízo concreto para a defesa, eventual irregularidade não constituirá nulidade.

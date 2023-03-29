@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Tratando-se de condenado que lidere organizaes criminosas armadas ou que tenham armas  disposio, por imposio do pargrafo 8 do artigo 2 da Lei 12.850/13,  obrigatrio iniciar o cumprimento da pena em estabelecimentos penais de segurana mxima. No regime fechado, segundo o artigo 34 do CP, o condenado poder trabalhar no perodo diurno, nas dependncias do estabelecimento ou fora dele, quando em obra ou servio pblico, devendo ser recolhido ao crcere no perodo noturno. O trabalho externo, a ser autorizado pela direo do estabelecimento prisional, depender de aptido, disciplina e responsabilidade do condenado, bem como do cumprimento mnimo de um sexto da pena (artigo 37 da LEP). Vale observar que o trabalho no pode ser obrigatrio, como dispe o pargrafo 1 do artigo 34 do CP, j que a Constituio da Repblica expressamente probe o trabalho forado, artigo 5, XLVII, c. Mesmo reconhecendo que o trabalho  um dos fatores principais do tratamento reeducativo, Jason Albergaria9 observa que no se pode admitir a imposio do tratamento reeducativo, pois tal obrigatoriedade faria supor que o trabalho seria realizado por coao, o que ofende os direitos fundamentais do condenado. A questo, entretanto,  polmica e admite entendimento diverso j que o item 3, alnea a, do artigo 6 da Conveno Americana de Direito Humanos - Pacto de San Jos da Costa Rica, que ingressou na ordem jurdica interna por meio do Decreto 678/1992, dispe que no constituem trabalhos forados ou obrigatrios os trabalhos ou servios normalmente exigidos de pessoa reclusa em cumprimento de sentena ou resoluo formal expedida pela autoridade judiciria competente. O dispositivo convencional ainda dispe que tais trabalhos ou servios devem ser executados sob a vigilncia e controle das autoridades pblicas, e os indivduos que os executarem no devem ser postos  disposio de particulares, companhias ou pessoas jurdicas de carter privado. 10.1.1.2. Regime semiaberto. O regime semiaberto constitui, em termos de severidade, a fase intermediria da execuo penal. Nos termos do pargrafo 1 do artigo 35 do Cdigo Penal, o cumprimento da pena deve realizar-se em colnia agrcola, industrial ou estabelecimento similar. Nesse regime ocorre a valorizao do trabalho como atividade capaz de reintegrar o condenado ao ambiente social. O condenado poder ficar alojado em compartimento coletivo, em instalaes existentes no mesmo estabelecimento que lhe proporcionar o trabalho.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 12.850/13 exige que condenados que lideram organizações criminosas armadas cumpram a pena em estabelecimentos penais de segurança máxima. No regime fechado, o condenado pode trabalhar no período diurno, nas dependências do estabelecimento ou fora dele, desde que autorizado pela direção e com cumprimento mínimo de um sexto da pena. No regime semiaberto, o trabalho é valorizado como forma de reintegrar o condenado ao ambiente social, podendo ficar alojado em compartimentos coletivos.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+33,  4, da Lei n. 11.343/2006 (RHC 138.117 AgR, Relatora: Rosa Weber, Primeira Turma, publicado em 6/4/2021). Assim, verificado o atendimento dos requisitos do art. 33,  4, da Lei de Drogas, reduz-se a pena em 1/6, atento ao disposto no art. 42 da Lei n. 11.343.2006 (expressiva quantidade de droga apreendida). (Informativo n. 734) PROCESSO CC 182.977-PR, Rel. Min. Laurita Vaz, Terceira Secao, por unanimidade, julgado em 09/03/2022, DJe 14/03/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Estelionato. Tentativa de saque com apresentacao de cheque fraudulento. Hipotese nao prevista na Lei n. 14.155/2021. Consumacao do crime no local onde a vitima possui conta bancaria. DESTAQUE O crime de estelionato praticado por meio saque de cheque fraudado compete ao Juizo do local da agencia bancaria da vitima.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 33, § 4º, da Lei n. 11.343/2006 prevê a redução da pena em 1/6 quando atendidos os requisitos do art. 42 da mesma lei. 2. O crime de estelionato praticado por meio de saque de cheque fraudado compete ao Juízo do local da agência bancária da vítima, conforme previsto na Lei n. 14.155/2021.

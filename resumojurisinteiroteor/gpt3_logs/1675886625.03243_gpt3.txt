@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ordem concedida para declarar extinta a punibilidade do paciente. (HC 92574, Relator(a): CARLOS BRITTO, Primeira Turma, julgado em 18/03/2008, DJe-162 DIVULG 28-08-2008 PUBLIC 29-08-2008 EMENT VOL-02330-03 PP-00476) EMENTA: HABEAS CORPUS. PROCESSUAL PENAL MILITAR. INCIO DO PRAZO PARA INTERPOSIO DE APELAO: SESSO DE LEITURA E PUBLICAO DA SENTENA EM AUDINCIA PBLICA: TEMPESTIVIDADE. PRECEDENTES. HABEAS CORPUS DENEGADO. 1. A regra, em matria de publicao de sentena e incio de prazo recursal,  a cincia inequvoca do contedo da deciso pelas partes. 2. A simples proclamao do resultado do julgamento no caracteriza, por si s, a publicao da sentena, sobretudo quando o magistrado no faz a leitura de seu contedo e determina a realizao de uma audincia para essa finalidade. Precedentes. 3. Habeas corpus denegado. (HC 91206, Relator(a): CRMEN LCIA, Primeira Turma, julgado em 19/06/2007, DJe-082 DIVULG 16-08-2007 PUBLIC 17-08-2007 DJ 1708-2007 PP-00059 EMENT VOL-02285-04 PP-00800) Registra-se que nem mesmo o precedente citado no voto vencido e tambm nas razes do presente recurso - Habeas Corpus n. 103686/RJ, da relatoria do eminente Ministro Dias Tofolli - encontrou unanimidade naquele Sodalcio. O julgamento tratava-se de um Habeas Corpus contra deciso do Superior Tribunal Militar que no reconheceu a prescrio da pretenso punitiva na modalidade superveniente, o que no  o caso dos autos. No mesmo sentido, j decidiu o Superior Tribunal de Justia: PROCESSUAL PENAL MILITAR. HABEAS CORPUS. APELAO. TEMPESTIVIDADE.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Ordem concedida para declarar extinta a punibilidade do paciente. A cincia inequvoca do contedo da deciso pelas partes necessria para caracterizar a publicao da sentena, e a simples proclamao do resultado do julgamento no suficiente. Habeas corpus denegado.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O artigo 5 da referida lei dispe que o paciente h longo tempo hospitalizado ou para o qual se caracterize situao de grave dependncia institucional, decorrente de seu quadro clnico ou de ausncia de suporte social, ser objeto de poltica especfica de alta planejada e reabilitao psicossocial assistida, sob responsabilidade da autoridade sanitria competente e superviso de instncia a ser definida pelo Poder Executivo, assegurada a continuidade do tratamento, quando necessrio. Dessa forma, a Lei 10.216/2001 impede a internao perptua e estabelece o direito do interno ao planejamento de sua alta hospitalar. Esgotado o prazo mximo de durao da medida de segurana, o juiz da execuo deve encaminhar o inimputvel para a continuidade de seu tratamento na rede pblica de sade, comunicando-se o fato ao Ministrio Pblico, conforme dispe o artigo 8, pargrafo 1, da Lei 10.216/2001. 19.5. Cessao da periculosidade. A cessao da periculosidade ser averiguada ao fim do prazo mnimo de durao da medida de segurana ou a qualquer tempo, quando determinada pelo juiz (artigo 97, pargrafo 2, do CP, e 176 da LEP), pelo exame das condies pessoais do sujeito. Segundo a LEP, a autoridade administrativa dever, at um ms antes de expirar o prazo de durao mnima da medida de segurana, remeter ao juiz minucioso relatrio que o habilite a resolver sobre a revogao ou permanncia da medida (artigo 175). Igual procedimento dever acontecer quando, mesmo antes de findo o prazo mnimo de durao da medida, o juiz determinar a realizao do exame pericial. Segundo o pargrafo 3 do artigo 97 do CP, a desinternao, ou a liberao, ser sempre condicional, devendo ser restabelecida a situao anterior se o sujeito, antes do decurso de 1 (um) ano, pratica fato indicativo de persistncia de sua periculosidade. Assim, a desinternao do manicmio judicirio ou a liberao do tratamento ambulatorial ser sempre condicional, cujo perodo de prova  de 1 (um) ano. A reconduo  situao anterior (internao ou sujeio a tratamento ambulatorial) deve ser precedida de exame judicial apurado, no qual se possibilite a ampla defesa do interessado. No  admissvel que o indivduo seja submetido a privao da liberdade ou a restrio do tratamento ambulatorial sem o exerccio do contraditrio e da ampla defesa. O referido dispositivo legal deixa claro, portanto, que, decorrido um ano da desinternao, a prtica de outro ato indicativo de periculosidade que constitua ilcito penal deve ser apurado em novo processo penal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 10.216/2001 impede a internação perpétua, estabelecendo o direito do interno ao planejamento de sua alta hospitalar. Após o prazo mínimo de duração da medida de segurança, o juiz da execução deve encaminhar o inimputável para a continuidade de seu tratamento na rede pública de saúde. A desinternação ou liberação é sempre condicional, devendo ser restabelecida a situação anterior se o sujeito praticar fato indicativo de persistência de sua periculosidade, antes do decurso de 1 ano.

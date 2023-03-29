@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Juizo da execucao. DESTAQUE A eventual incidencia da causa de aumento descrita na parte final do  4 do art. 1 da Lei de Lavagem de Dinheiro, na redacao dada pela Lei n. 12.683/2012, nao constituiu empecilho para o juiz manter a separacao dos feitos, nos termos do art. 80 do CPP. O Superior Tribunal de Justica, ha muito, ja sufragou entendimento de que a reuniao de processos em razao da conexao e uma faculdade do Juiz, conforme interpretacao a contrario sensu do art. 80 do CPP que possibilita a separacao de determinados processos (RHC 29.658/RS, Rel. Ministro Gilson Dipp, Quinta Turma, DJe 8/2/2012). No caso, a magistrada singular entendeu pela nao reuniao dos processos, com fundamento no art. 80 do CPP, que faculta a separacao processual. Conforme se observa, a eventual incidencia da causa de aumento descrita na parte final do  4 do art. 1 da Lei de Lavagem de Dinheiro, na redacao dada pela Lei n. 12.683/2012, nao constituiu empecilho para o juiz manter a separacao dos feitos, nos termos do art. 80 do CPP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Superior Tribunal de Justiça já sufragou o entendimento de que a reunião de processos em razão da conexão é uma faculdade do juiz, conforme interpretação a contrário sensu do art. 80 do CPP que possibilita a separação de determinados processos. 2. A eventual incidência da causa de aumento descrita na parte final do 4 do art. 1 da Lei de Lavagem de Dinheiro, na redação dada pela Lei n. 12.683/2012, não constituiu empecilho para o juiz manter a separação dos feitos, nos termos do art. 80 do CPP.

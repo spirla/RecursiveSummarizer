@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Violao de domiclio e homicdio culposo. Nos casos em que a violao de domiclio for praticada por meio de vias de fato, mas o sujeito acabar por produzir a morte de algum, no se poder aplicar o concurso de penas. A cominao especial estabelece o concurso de penas a partir do emprego da violncia e no das vias de fato. Nestes casos, o fato caracterizar concurso formal prprio de crimes (inexiste desgnio autnomo para o crime culposo), entre a violao de domiclio e o homicdio culposo, previsto no pargrafo 3 do artigo 121 do CP. 6.9.11. Ao penal e suspenso condicional do processo. A ao penal  pblica incondicionada e, ordinariamente, a competncia para processar e julgar o crime de violao de domiclio  do Juizado Especial da Justia comum estadual, salvo no caso de crime qualificado em que h concurso de penas em razo da violncia (pargrafo 1) e aumento pena no crime qualificado (pargrafo 2), em que a competncia ser da Vara Criminal da Justia comum estadual. No entanto, a competncia ser do Juizado Especial da Justia comum federal, com a mesma ressalva da cominao superior a dois anos de privao de liberdade, quando o crime for cometido a bordo de navios ou aeronaves brasileiras, tambm ressalvada a competncia da Justia Militar (inciso IX, do artigo 109 da CF), quando o acusado ou a vitima forem funcionrios pblicos federais e o crime for cometido em razo de suas funes (inciso IV, do artigo 109 da CF e Smula 147 do STJ), ou se houver concurso com um crime da competncia da Justia Federal (Smula 122 do STJ). Considerando que a pena mnima cominada ao crime de violao de domiclio, seja na figura simples ou qualificada  inferior a 1 ano de privao da liberdade, salvo nos casos de crime qualificado em que h concurso de penas em razo da violncia (pargrafo 1) e aumento pena no crime qualificado (pargrafo 2) em que a pena mnima cominada for maior do que 1 ano de privao da liberdade, ser possvel a suspenso condicional do processo, desde que atendidos os demais requisitos estabelecidos no artigo 89 da Lei n 9.099/95. 6.9.12. Conflito aparente de normas. Violao de domiclio e usurpao. A violao de domiclio  crime contra a liberdade pessoal e no contra o patrimnio. Portanto, no se confunde com o crime de usurpao, previsto no artigo 161, pargrafo 1, inciso II, do Cdigo Penal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de violação de domicílio é caracterizado como crime contra a liberdade pessoal e não contra o patrimônio. A competência para processar e julgar o crime de violação de domicílio é do Juizado Especial da Justiça Comum Estadual, salvo nos casos de crime qualificado em que houver concurso de penas em razão da violência. A pena mínima cominada ao crime de violação de domicílio é inferior a 1 ano, sendo possível a suspenção condicional do processo.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Diversamente do entendimento consignado pela instancia recursal ordinaria, nao se mostra plausivel a ideia de se premiar o infrator particular com a metade dos ganhos obtidos com a venda do minerio por ele irregularmente lavrado, notadamente porque tal compreensao nao reflete o principio da integral reparacao do dano, colidindo, ao inves, com o primado de que a ninguem e licito beneficiar-se da propria torpeza. Portanto, a empresa que efetua irregularmente a lavra de minerio, enriquecendo-se ilicitamente, nao pode pretender o ressarcimento dos custos operacionais dessa atividade contra legem, sob o argumento de que a nao remuneracao de tais custos ensejaria o locupletamento sem causa da Uniao. Ao inves disso, desponta intuitivo que a previa conduta antijuridica da mineradora particular afasta a protecao normativa que invoca para si. (Informativo n. 746) PROCESSO AREsp 1.408.660-SP, Rel. Min. Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 16/08/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Acao popular. Prefeito. Ato administrativo. Encaminhamento de projeto de lei a camara municipal. Inobservancia da legislacao vigente. Desvio de finalidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é plausível premiar o infrator particular com a metade dos ganhos obtidos com a venda do minério por ele irregularmente lavrado, pois tal compreensão não reflete o princípio da integral reparação do dano. 2. A empresa que efetua irregularmente a lavra de minério, enriquecendo-se ilicitamente, não pode pretender o ressarcimento dos custos operacionais dessa atividade contra a lei, sob o argumento de que a não remuneração de tais custos ensejaria o locupletamento sem causa da União. 3. A conduta antijurídica da mineradora particular afasta a proteção normativa que invoca para si.

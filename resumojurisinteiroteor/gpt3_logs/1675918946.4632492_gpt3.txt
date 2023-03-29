@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+3 do CPPM, c/c o art. 659 do CPP. RELATRIO A nobre advogada Andrea Vanessa de Arajo impetrou habeas corpus, com pedido liminar, com fundamento no artigo 5, LXVIII, da Constituio da Repblica, e no art. 648, I, do Cdigo de Processo Penal, em favor do 3 Sargento PM Ivo Rodrigues da Paz, com a pretenso de trancamento de Inqurito Policial Militar (IPM) de Portaria n. 118.300/2021 41 BPM (Evento 1 - IPM5 e IPM6). Disse que o paciente foi nomeado como encarregado na apurao de um Procedimento de Comunicao Disciplinar de despacho n. 101.167/20 41 BPM, em face do militar n. 145-470-1, CB Pm Davidson Kleber Gonalves Reis. Disse, ainda, que a Administrao entendeu que o paciente, na figura de encarregado, no buscou elucidar o ocorrido ao confeccionar o relatrio para fundamentar parecer pelo arquivamento ou cometimento de transgresso disciplinar. Salientou que a administrao est equivocada porque o paciente, na condio de encarregado do PCD, atentou a todos os detalhes relativos  elucidao do procedimento Alegou que, desde a abertura do inqurito policial militar, em 17 de dezembro de 2021, at a presente data, mais de 70 (setenta) dias se passaram, e as investigaes no trouxeram qualquer elemento que corroborasse as atitudes suspeitas deduzidas por parte da Polcia Judiciria Militar. Sustentou ausncia de justa causa, o que gera grave constrangimento ilegal, uma vez que o paciente ser indiciado, sem haver a presena de elementos mnimos de provas entre os fatos apurados e a justificativa indiciria. Afirmou que, da anlise dos autos tanto do PCD quanto da SAD, percebe-se que o paciente seguiu exatamente o que determina a legislao vigente, razo pela qual no pode ser punido por cumprir o que a lei determina. Alegou que o paciente no cometeu crime de calnia, haja visto serem verdade os fatos apontados por ele no relatrio do PCD. Salientou que o paciente foi discreto e moderado ao epigrafar o adjetivo "deselegante" ao se referir ao comportamento do 1 Tenente PM Reinaldo porque o dito oficial, de acordo com os depoimentos das testemunhas ouvidas no procedimento do qual era encarregado, teria sido desrespeitoso - conduta que seria uma transgresso disciplinar. Citou trechos do depoimento da testemunha Sd PM Victor Cristiano do Nascimento para reafirmar o alegado pelo paciente no sentido de ocorrncia dos fatos ento descritos como caluniosos. Ressaltou que o paciente  vtima de perseguio na caserna por parte do Tenente Rangel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A advogada impetrou habeas corpus com pedido liminar com base no artigo 5, LXVIII, da Constituio da Repblica e no art. 648, I, do Cdigo de Processo Penal, em favor do 3 Sargento PM Ivo Rodrigues da Paz, com a pretenso de trancamento de Inqurito Policial Militar (IPM). Alegou ausncia de justa causa para o indiciamento do paciente, pois as investigaes no trouxeram elementos que corroborassem as atitudes suspeitas deduzidas por parte da Polcia Judiciria Militar. Afirmou que o paciente seguiu exatamente o que determina a legislao vigente, razo pela qual no pode ser punido. Alegou ainda que o paciente vtima de perseguio na caserna por parte do Tenente Rangel.

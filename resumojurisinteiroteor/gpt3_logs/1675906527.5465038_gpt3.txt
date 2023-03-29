@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+485, V, e seu  3, do CPC/15, bem como condenou o autor ao pagamento das custas processuais, suspendendo-se a cobrana, por ter-lhe sido concedida a justia gratuita, nos termos do 3 do art. 98, do CPC. Irresignada, a defesa do autor apresentou recurso de apelao (Evento 29). Asseverou, em sntese, "que o mrito propriamente dito, no foi examinado na presente ao, no havendo, portanto, que falar em coisa julgada.. Arguiu, preliminarmente, nos exatos termos da inicial, a nulidade do processo administrativo, alegando: - violao ao devido processo legal; existncia de nomeao de outro Policial Militar pela CPAD para atuar como Defensor Dativo em Processo Administrativo Disciplinar, evidenciando flagrante conflito de interesses, mormente porque o defensor est vinculado ao prprio Estado, alm de no raras vezes, ser subordinado aos integrantes da Comisso ou do Conselho; atropelos procedimentais e as violaes de prerrogativas dos Advogados; remessa intempestiva do ato decisrio do Excelentssimo Senhor Governador do Estado, o que no tem o condo de convalidar a precoce demisso que padece de legalidade por violao do princpio da publicidade dos atos da administrao pblica; violao da segurana jurdica e da legalidade do ato administrativo. No mrito, com argumentos idnticos aos da inicial, asseverou que o processo administrativo foi decidido com com rigor excessivo, desviando a finalidade do ato disciplinar do seu carter pedaggico, tudo em vertiginosa incompatibilidade com a prova produzida nos autos do processo, razo pela qual, protesta em juzo pelo reconhecimento da ilegalidade do ato disciplinar demissionrio, por violao da razoabilidade. Ao final, requereu o conhecimento e o provimento do presente recurso com o acolhimento das preliminares arguidas, a fim de que seja declarada a nulidade do processo administrativo, bem como o reconhecimento da ilegalidade/irrazoabilidade da sano de demisso, por contrariedade  prova dos autos do processo. Pugnou, ainda, pela reconduo do Militar ao cargo pblico, assegurados os reflexos na remunerao por pagamentos retroativos e ressarcimento por preterio. Intimado, o Estado de Minas Gerais apresentou contrarrazes ao apelo defensivo. Em resumo, sustentou que os fatos e fundamentos ora aduzidos pelo autor j foram objeto de apreciao pelo Judicirio, ensejando a ocorrncia da coisa julgada. Ao final, pugnou pelo desprovimento do presente recurso. Registro que deixei de abrir vista dos autos  douta Procuradoria de Justia, considerando a ausncia das hipteses de sua interveno, previstas na Recomendao n. 01, de 03/09/2001, do Conselho Superior do Ministrio Pblico do Estado de Minas Gerais, publicada no Minas Gerais de 05/09/2001.  o relatrio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa do autor apresentou recurso de apelao, sustentando a nulidade do processo administrativo e a ilegalidade/irrazoabilidade da sano de demisso, requerendo o reconhecimento da ilegalidade do ato disciplinar demissionrio e a reconduo do Militar ao cargo pblico. O Estado de Minas Gerais apresentou contrarrazes ao apelo defensivo, sustentando a ocorrncia da coisa julgada.

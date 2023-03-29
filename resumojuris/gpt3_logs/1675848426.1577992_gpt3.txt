@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O Parquet apelou, mas o recurso foi julgado intempestivo, em acordao que transitou em julgado. Nao obstante o Ministerio Publico afirme que a intencao seria proteger e educar o menor, que e vulneravel, observa-se que o real escopo da acao rescisoria e reabrir a discussao acerca da pratica do ato infracional e aplicar ao menor, medida socioeducativa por fato em relacao ao qual foi definitivamente absolvido, mostrando-se indevida a tentativa de usar a vulnerabilidade do menor em seu proprio desfavor. (Informativo n. 759) PROCESSO AgRg nos EDcl no HC 656.845-PR, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 04/10/2022, DJe 17/10/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Reconhecimento fotografico. Inobservancia do procedimento previsto no art. 226 do CPP. Demais provas produzidas sob o crivo do contraditorio e da ampla defesa. Fonte independente e suficiente. Condenacao mantida. DESTAQUE Ainda que o reconhecimento fotografico esteja em desacordo com o procedimento previsto no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O recurso do Parquet foi julgado intempestivo. 2. O real escopo da ação rescisória é reabrir a discussão acerca da prática do ato infracional e aplicar ao menor, medida socioeducativa por fato em relação ao qual foi definitivamente absolvido. 3. O reconhecimento fotográfico está em desacordo com o procedimento previsto no art. 226 do CPP. 4. A condenação foi mantida, considerando as demais provas produzidas sob o crivo do contraditório e da ampla defesa, bem como a fonte independente e suficiente.

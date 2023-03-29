@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Do que foi exposto chegamos s seguintes concluses:
+1. O artigo 437, a, do CPPM, trata da emendatio libelli. O Conselho de Justia ou o juiz singularmente pode dar ao fato definio jurdica diversa da que constar da denncia, mesmo que tenham de aplicar, em consequncia, sano penal mais grave.  indispensvel, entretanto, que a nova definio jurdica tenha sido formulada pelo Ministrio Pblico Militar em alegaes escritas, em observncia da regra da correlao entre a denncia e seu aditamento por escrito e a sentena, garantidos ao acusado os princpios constitucionais da inrcia da jurisdio, do contraditrio e da ampla defesa, ex vi do artigo 5, LIV e LV, CF.2. Por conseguinte, deve ser interpretada a Smula 5 do STM, que versa sobre a emendatio libelli,  luz do princpio constitucional do contraditrio e da ampla defesa, de sorte que a desclassificao nela referida no pode ser operada sem que o ru tenha oportunidade de se defender. Nem toda desclassificao importa em benefcio para o ru. Equivocado e simplista supor que se o julgador, por exemplo, desclassificar de peculato-furto para furto h o benefcio por conta de o ru sofrer pena privativa de liberdade menor, uma vez que estar condenado. Permite a Smula 5 do STM a desclassificao do crime se constar de matria ftica. A expresso  ambgua, pois, constar de matria ftica no encerra, necessariamente, a certeza de que no houve surpresa com a desclassificao, tampouco que o ru tenha tido oportunidade de se defender.. O ru se defende do fato e da classificao do crime feita na denncia.. O CPPM no probe a mutatio libelli.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 437, a, do CPPM trata da emendatio libelli, que permite ao Conselho de Justiça ou ao juiz singularmente dar ao fato definição jurídica diversa da que consta na denúncia, desde que o Ministério Público Militar formule a nova definição por escrito, respeitando os princípios constitucionais da inércia da jurisdição, do contraditório e da ampla defesa. A Smula 5 do STM permite a desclassificação do crime se constar de matéria fática, desde que o réu tenha oportunidade de se defender. O CPPM não proíbe a mutatio libelli.

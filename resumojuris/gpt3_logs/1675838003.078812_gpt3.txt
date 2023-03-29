@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Isto e, enquanto a questao estava sob o crivo judicial, as autoridades impetradas, invocando parte dos fundamentos adotados, em juizo precario, na referida Rcl 6.702/PR, assim como dificuldades e prejuizos para o funcionamento do TCE, desfizeram a investidura do impetrante unilateralmente, quando a vaga poderia ter sido temporariamente suprida pela convocacao de auditores, tal como estabelecem, inclusive na hipotese de vacancia, os arts. 129 e ss. da Lei Organica do TCE/PR (Lei Complementar n. 113/2005). Por essas razoes, e correto o entendimento de que a anulacao da nomeacao ja se evidencia como ato invalido, porque nao precedida por devido processo legal judicial . Alem disso, deve-se observar a regulacao da Lei estadual n. 6.174/1970 (Estatuto dos Servidores Publicos Civis do Estado do Parana). Segundo o art. 108 da aludida Lei estadual, reintegrado judicialmente o agente, quem lhe ocupava o lugar sera exonerado ou reconduzido ao cargo anteriormente ocupado. Contudo, os arts. 107, paragrafo unico, e 147, II, da mesma Lei estabelecem que, nao sendo possivel exonerar ou reconduzir o atual ocupante do cargo, fica assegurado ao servidor reintegrado o direito de permanecer em disponibilidade. Estes ultimos dispositivos - e nao o art. 108 - e que devem orientar a solucao da controversia. Isso porque a clausula aberta - impossibilidade de exoneracao ou reconducao, a que aludem os citados arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A anulação da nomeação é um ato inválido, pois não foi precedida por devido processo legal judicial. 2. O artigo 108 da Lei Estadual n. 6.174/1970 (Estatuto dos Servidores Públicos Civis do Estado do Paraná) estabelece que, em caso de reintegração judicial, quem ocupava o lugar será exonerado ou reconduzido ao cargo anteriormente ocupado. 3. Os artigos 107, parágrafo único, e 147, II, da mesma Lei estabelecem que, não sendo possível exonerar ou reconduzir o atual ocupante do cargo, fica assegurado ao servidor reintegrado o direito de permanecer em disponibilidade.

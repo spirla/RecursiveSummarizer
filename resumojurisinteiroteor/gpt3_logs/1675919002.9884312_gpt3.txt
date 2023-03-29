@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Cuida-se de ao de habeas corpus em favor do paciente Victor Neri Santos, contra a deciso do juiz de direito da 4a Auditoria da Justia Militar de Minas Gerais que determinou a priso daquele na data de 30/06/2022. De acordo com os impetrantes, o paciente foi denunciado nas sanes do artigo 2, caput, (organizao criminosa) com as causas de aumento de pena previstas nos  4 inciso I (participao de adolescentes) e inciso II (concurso de funcionrio pblico), do mesmo artigo, da lei 12.850/2013; alm do crime de corrupo ativa insculpido no artigo 308,  1 do Cdigo Penal Militar, por 6 vezes, em concurso material.. Dizem os impetrantes que [...] o paciente teve sua priso preventiva decretada por conta de representao do Ministrio Pblico distribuda em apenso  referida ao penal, sob o nmero 20004102520229130004, tendo sido deferido pelo juiz de primeira instncia ao argumento que a decretao da priso preventiva se faz necessria em face da necessidade de manuteno da ordem pblica, garantia da instruo criminal e manuteno da hierarquia e disciplina. Os impetrantes afirmam que a deciso que decretou a priso preventiva do paciente [...] fundamentou-se genericamente nos requisitos previstos nos artigos 254 e 255 do CPPM sem, contudo, demonstrar de forma objetiva a subsuno dos fatos  norma penal, violando a Constituio Federal e jurisprudncia dominante do Supremo Tribunal Federal e Superior Tribunal de Justia.". Argumentam ainda os impetrantes que inexistem motivos para a decretao da priso cautelar fundamentada no art. 466 e nas alneas b, c, e, do art. 467 do Cdigo de Processo Penal Militar (CPPM); que tal deciso no fundamentou a necessidade e a adequao da medida cautelar, alm de [...] empregar conceitos jurdicos indeterminados, sem explicar o motivo concreto de sua incidncia no caso concreto.. Alegam ainda os impetrantes que o paciente  ru primrio, no figura em outras aes penais, possui bons antecedentes, endereo fixo e [...] no h provas que faz do crime um meio de vida, de modo que possui condies objetivas e subjetivas aptas a responder ao processo em liberdade, com ou sem medidas cautelares diversas da priso.". Afirmam ainda os impetrantes que inexistem provas de que o paciente tenha atrapalhado a ao penal ou tenha ameaado as vtimas e testemunhas; ou de que exista risco de fuga para se eximir da persecuo penal ou que venha a praticar novos crimes. Alegam que a deciso que decretou a priso preventiva foi fundamentada na convenincia da instruo criminal e manuteno da ordem na tropa e que, entretanto, tais argumentos seriam [...] meras conjecturas e previses futuras, ou seja, argumento inidneos a fundamentar uma segregao cautelar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Ação de habeas corpus impetrada a fim de revogar a decretação da prisão preventiva do paciente, decretada em razão de denúncia de organização criminosa, corrupção ativa e aumento de pena previstos em lei. Os impetrantes alegam que a decisão não demonstrou de forma objetiva a subsunção dos fatos à norma penal, além de não fundamentar a necessidade e a adequação da medida cautelar. Argumentam ainda que o paciente possui condições objetivas e subjetivas aptas a responder ao processo em liberdade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+ muito comum que os operadores do direito se refiram a determinado crime por meio de denominao que ressalta caractersticas do tipo penal que o descreve. Nesse sentido, a referncia aos crimes qualificados indica a caracterstica da redao tpica de ser uma derivao da redao que  conferida ao tipo simples ou fundamental. 23.7.1. Tipo simples e tipo derivado (qualificado, privilegiado e complexo). Por tipo simples, tambm denominado bsico ou fundamental, deve-se entender aquele que descreve a forma mais essencial de ataque ao bem juridicamente tutelado. O exemplo mais eloquente de crime que  descrito por um tipo simples  o do homicdio simples, previsto no caput do artigo 121 do CP. O referido tipo descreve a conduta de matar algum, e essa  a forma essencial de ataque ao bem jurdico vida. Outro bom exemplo  o furto simples, previsto no caput do artigo 155 do CP, cuja descrio  subtrair, para si ou para outrem, coisa alheia mvel. Nesses casos, o tipo descreve a forma mais simples de ataque ao bem jurdico. Essa forma essencial de ataque ao bem jurdico, em alguns casos, poder constituir ponto de partida para a formulao de figuras tpicas derivadas. As figuras tpicas derivadas constituem crimes autnomos em relao  incriminao fundamental, mas resulta de previso que lhe agrega circunstncias relevantes. O tipo derivado contm a descrio tpica fundamental acrescentando algumas caractersticas para formar o crime derivado. As caractersticas que so adicionadas  figura simples so consideradas relevantes e, por isso, promovem alteraes na intensidade da cominao reservada ao tipo simples. Como os tipos derivados so crimes autnomos, possuem cominao de penas distintas do tipo simples. Os crimes derivados podem ser previstos em pargrafos do artigo que descreve o crime simples ou em artigo distinto. O que importa perceber  que o tipo derivado descreve determinada conduta proibida e, por isso, possui cominao prpria de penas. Vale observar, contudo, que nem todos os crimes simples so objeto de desdobramento por parte do legislador para a formao de crimes derivados. Quando o legislador agrega ao crime simples caractersticas que evidenciam maior gravidade para a conduta criminosa, o crime derivado  denominado qualificado. O crime  dito qualificado porque determinadas circunstncias consideradas graves, denominadas qualificadoras, so acrescentadas ao crime simples.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os operadores do direito se referem a crimes qualificados como derivação da redação do tipo simples ou fundamental. Exemplos de crimes simples são homicídio e furto. Quando o legislador agrega características que evidenciam maior gravidade à conduta criminosa, o crime é denominado qualificado.

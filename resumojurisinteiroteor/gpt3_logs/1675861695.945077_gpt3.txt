@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A expresso "tribunal competente, inserida no 4 do artigo 125 da CF, diz respeito ao tribunal originrio para conhecer da representao para perda do posto ou da graduao, que ser o Tribunal de Justia Militar nos Estados de Minas Gerais, So Paulo e Rio Grande do Sul e o Tribunal de Justia nos demais Estados da Federao. Apenas por isso utilizou-se o constituinte do termo "tribunal competente, que em nada se relaciona com a origem da condenao, ou seja, se da Justia Militar ou da Comum. No caso especfico dos oficiais, a necessidade de submisso a julgamento por "tribunal militar, visando  declarao de indignidade  para o oficialato e  perda do posto e da patente, est assegurada pelo artigo 142, inciso VI, da CF, procedimento este a ser adotado no caso de oficial condenado na justia comum ou militar a pena privativa de liberdade superior a dois anos, como expressamente estabelecido no inciso VII do mesmo dispositivo constitucional. Portanto, no resta a menor dvida de que o militar, inclusive o oficial, somente poder perder a sua patente mediante processo judicial para tal finalidade, sob pena de veemente negativa de vigncia aos incisos VI e VII do artigo 142 da Constituio Federal. Alis, o processo judicial de perda do posto e da graduao representa um verdadeiro privilgio ao policial militar, uma vez que aps a condenao criminal  submetido a novo processo judicial, onde, alm de lhe serem garantidos o contraditrio e a ampla defesa, ainda obtm de um rgo Colegiado a declarao de sua excluso ou no dos quadros da Corporao a que integra, em tratamento totalmente diferenciado dos demais policiais (civis, federais etc.). Sem isto o policial militar cairia na vala comum e estaria sujeito  perda do cargo decretada por juiz singular, decorrente da simples condenao a pena superior a dois anos. Jamais deveriam os policiais militares pretenderem abrir mo desse privilgio a eles constitucionalmente deferido! Deste modo, a preliminar defensiva no sentido da incompetncia da Justia Militar para conhecer do pedido inicial deve ser imediatamente rechaada. Em relao ao mrito, os fatos praticados pelo representado, que deram ensejo  condenao e a esta representao para perda do posto, encontram-se descritos na pea constante do evento 1 (INIC1), para a qual se remete o leitor, sendo desnecessria nova transcrio de seu contedo. A conduta, por si s, mostrou-se grave, muito embora entenda o representado que sua ao foi legtima (evento 16 - fls. 18) e que a narrativa do ocorrido constante da representao no condiz com a realidade (evento 16 - fls. 07). Ocorre, em primeiro lugar, que, se a ao do representado houvesse sido reconhecida como legtima, ele no estaria condenado por homicdio, mas sim absolvido com amparo em alguma excludente de ilicitude (art. 42 do CPM).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de Justia Militar de Minas Gerais, So Paulo e Rio Grande do Sul, e o Tribunal de Justia dos demais Estados, são competentes para conhecer da representação para perda do posto ou da graduação de oficiais condenados na Justiça Comum ou Militar a pena privativa de liberdade superior a dois anos, conforme previsto no artigo 142, incisos VI e VII da Constituição Federal. A conduta do representado foi considerada grave, mesmo que ele alegue que sua ação foi legítima.

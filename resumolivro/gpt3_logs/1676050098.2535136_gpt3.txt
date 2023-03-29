@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Sendo necessrio o tratamento psiquitrico, este  que deve ser imposto ao condenado. Se, no entanto, a capacidade do condenado for apenas reduzida pela supervenincia da doena ou perturbao mental, caber ao juiz decidir se o cumprimento da pena foi ou no prejudicado.  possvel que a superveniente doena ou perturbao no seja grave o suficiente para prejudicar a compreenso sobre o significado da execuo da pena. Nesse caso, apesar da doena ou perturbao, o juiz dever manter o curso da execuo penal. A substituio da pena (reduzida ou no) pela medida de segurana depender sempre do fato de estar o condenado necessitando de especial tratamento curativo. Se a doena superveniente no justificar a aplicao da medida de segurana, o juiz no dever proceder  substituio. 19.4. Durao. A execuo da medida de segurana tem incio aps o trnsito em julgado da sentena penal que a determinar (artigo 171 da LEP), e tanto o recolhimento hospitalar como o tratamento ambulatorial exigem a expedio de guia prpria (artigo 172 da LEP). A nova parte geral do CP no permite, como a legislao de 1940, a aplicao provisria de medida de segurana, estando, portanto, revogados os artigos 378 e 380 do CPP. Como a medida de segurana relaciona-se  periculosidade do sujeito, o Cdigo Penal prev que a internao ou tratamento ambulatorial ser por tempo indeterminado, perdurando enquanto no for averiguada, mediante percia mdica, a cessao de periculosidade. Importando restries (tratamento ambulatorial) ou privaes (internao hospitalar), a medida de segurana, por tempo indeterminado,  mais gravosa ao indivduo que a aplicao de pena. No entanto, o Cdigo estabelece que o juiz dever fixar prazo mnimo de durao da medida, findo o qual dever proceder-se a exame de cessao da periculosidade. A fixao de prazo mnimo presta-se a obrigar o reexame das condies do indivduo, preservando-o contra a desateno da autoridade pblica em relao  sua situao. Nos termos dos pargrafos 1 e 2 do artigo 97, o prazo mnimo de durao da medida dever ser de 1 (um) a 3 (trs) anos, sendo que o exame de cessao da periculosidade dever ocorrer ao fim do prazo mnimo e repetir-se anualmente ou a qualquer tempo, se determinar o juiz da execuo. A medida de segurana, como a pena, importa privaes ou restries ao indivduo e somente se justifica na medida de sua necessidade. Se no mais se verifica a periculosidade do sujeito, no h como persistir a medida de segurana.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tratamento psiquiátrico é necessário para condenados, mas o juiz deverá decidir se a doença ou perturbação mental não prejudicou o cumprimento da pena. Se a doença não justificar a substituição da pena, ela será mantida. A execução da medida de segurança tem início após o trânsito em julgado da sentença e seu tempo de duração é indeterminado, podendo ser de 1 a 3 anos. A medida de segurança só se justifica na medida de sua necessidade e será revogada quando não houver mais periculosidade.

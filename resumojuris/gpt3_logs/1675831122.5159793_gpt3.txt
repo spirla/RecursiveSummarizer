@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A controversia cinge-se a possibilidade de impedir a participacao do reu na oitiva da vitima e testemunha quando o juiz verificar que sua presenca pode causar temor, humilhacao ou constrangimento aos depoentes, mesmo no caso de audiencia realizada por videoconferencia. Ao interpretar o art. 217 do CPP, a jurisprudencia desta Corte se firmou no sentido de que e possivel a retirada do reu da sala de audiencia, desde que devidamente fundamentado pelo juiz que sua presenca pode causar humilhacao, temor ou serio constrangimento a testemunha ou ao ofendido. A hipotese em analise, no entanto, trata de situacao diversa, porquanto a audiencia foi realizada por videoconferencia, nao de forma presencial e, ainda assim, o reu foi impedido de assistir a oitiva da vitima e testemunha. Pela interpretacao literal do artigo 217 do CPP, aparentemente o reu nao poderia ser impedido de visualizar os depoimentos ja que a audiencia foi realizada por videoconferencia. No entanto, nao parece ser esta a melhor interpretacao da lei. Isso porque, alem de se garantir a maxima fidedignidade na producao da prova, o objetivo da norma e no sentido de preservar a dignidade e a intimidade da vitima e testemunha, o que nao estaria resguardado caso se permitisse ao reu presenciar o depoimento, ainda que a distancia. Ademais, o contraditorio e a ampla defesa do reu permanecem resguardados pela indispensavel presenca da defesa tecnica no ato processual, afastando-se qualquer prejuizo ao direito de defesa. (Informativo  Ed. Especial n. 10) 108 LEGISLACAO CPP (CPP), art. 217 Processo AgRg no AREsp 2.004.877-MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 16/8/2022, DJe 22/8/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a retirada do réu da sala de audiência, desde que devidamente fundamentado pelo juiz que sua presença pode causar humilhação, temor ou sério constrangimento a testemunha ou ao ofendido. 2. A interpretação literal do artigo 217 do CPP não parece ser a melhor interpretação da lei, pois o objetivo da norma é preservar a dignidade e a intimidade da vítima e testemunha. 3. O contraditório e a ampla defesa do réu permanecem resguardados pela indispensável presença da defesa técnica no ato processual, afastando-se qualquer prejuízo ao direito de defesa.

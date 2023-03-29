@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Entretanto o Conselho Permanente deferiu que fosse oficiado o Comando da Unidade em que servia o ru para que remetesse a pasta funcional deste, bem como esclarecesse os motivos e os fundamentos para a dispensa do uso de fardamento e de armamento pelo acusado. A administrao militar remeteu os documentos e as informaes constantes no Evento 69. Intimada a defesa para os fins do disposto no art. 417,  2, do Cdigo de Processo Penal Militar (CPPM), diante da impossibilidade de contato com o ru, a Defensoria Pblica no arrolou testemunhas. Designada sesso do CPJ para interrogatrio do ru e aps intimao deste por edital, sua oitiva restou prejudicada, tendo em vista o seu no comparecimento (Evento 102). Na fase do art. 427 do CPPM, as partes nada requereram, enquanto na fase do art. 428 do mesmo Cdigo, a defesa requereu a realizao das alegaes finais orais em plenrio de julgamento. Em sesso de julgamento, o Ministrio Pblico requereu que fosse julgada parcialmente procedente a denncia, para condenar o acusado pela prtica do crime previsto no art. 195 do CPM e para absolv-lo da prtica do crime previsto no art. 160 do CPM, com fundamento no art. 439, "b", do CPPM. J a defesa requereu que fosse julgada improcedente a denncia, para absolver o acusado das duas acusaes formuladas, com fundamento no art. 439, "b", do CPPM. O CPJ, por maioria de trs votos a dois, condenou o acusado pela prtica do crime previsto no art. 195 do CPM, aplicando-lhe a pena definitiva de 06 (seis) meses de deteno, a serem cumpridos em regime aberto, sem a concesso do sursis. Tambm por maioria de trs votos a dois, o CPJ absolveu o ru da prtica do crime previsto no art. 163 do CPM, com fundamento no art. 439, "b", do CPPM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente deferiu que fosse oficiado o Comando da Unidade para remeter a pasta funcional do acusado e esclarecer os motivos e fundamentos para a dispensa do uso de fardamento e de armamento. O Ministério Público requereu a condenação do acusado pelo crime previsto no art. 195 do CPM, enquanto a defesa requereu a absolvição. O Conselho Permanente, por maioria de três votos a dois, condenou o acusado pela prática do crime previsto no art. 195 do CPM, aplicando-lhe a pena definitiva de 06 (seis) meses de detenção, a serem cumpridos em regime aberto, sem a concessão do sursis, e absolveu o acusado da prática do crime previsto no art. 163 do CPM.

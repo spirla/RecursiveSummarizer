@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Data: ___/___/___(fl. _____). 21. ATA DA REUNIAO DE DELIBERACAO - artigo 68, XI, do CEDM. Data: ___/___/___(fl. _____). 22. RELATORIO E PARECER - artigo 68, XI, do CEDM. Data: ___/___/___(fl. _____). Artigo 69 - A nulidade do processo ou de qualquer de seus atos verificar-se-a quando existir comprovado cerceamento de defesa ou prejuizo para o acusado, decorrente de ato, fato ou omissao que configure vicio insanavel. Paragrafo 1 - Os membros da CPAD manifestar-se-ao imediatamente a autoridade convocante sobre qualquer nulidade que nao tenham conseguido sanar, para que a autoridade convocante mande corrigir a irregularidade ou arquivar o processo. Paragrafo 2 - A nulidade de um ato acarreta a de outros sucessivos dele dependentes.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A CPAD deve notificar imediatamente a autoridade convocante sobre qualquer nulidade que não possa ser sanada, para que a autoridade possa corrigir a irregularidade ou arquivar o processo. A nulidade de um ato acarreta a de outros atos dependentes.

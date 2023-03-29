@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse particular, a execucao da busca pessoal sem mandado, como medida autonoma, depende da presenca de fundada suspeita da posse de objetos que constituam corpo de delito. Para tanto, ressalto que, conforme a doutrina, nao e suficiente, esta claro, a mera conjectura ou desconfianca sobre tal posse, mas a suspeita amparada por circunstancias objetivas que permitam uma grave probabilidade de que sejam encontradas as coisas mencionadas pela lei . Ocorre que, no caso dos autos, a busca pessoal realizada pelos policiais foi justificada apenas com base no fato de que o acusado, que estava em local conhecido como ponto de venda drogas, ao avistar a viatura policial, demonstrou nervosismo. No entanto, a percepcao de nervosismo por parte do agente policial - ainda que posteriormente confirmada pela apreensao de objetos ilicitos - e dotada de excesso de subjetivismo e, por isso, nao e suficiente para caracterizar a fundada suspeita, que exige mais do que mera desconfianca por parte dos agentes publicos. (Informativo n. 732) PROCESSO Processo sob segredo judicial, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 05/04/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL, DIREITOS HUMANOS TEMA Violencia domestica contra mulher trans. Aplicacao da Lei n. 11.340/2006. Lei Maria da Penha. Afastamento de aplicacao do criterio exclusivamente biologico. Distincao entre sexo e genero.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A execução da busca pessoal sem mandado depende da presença de fundada suspeita da posse de objetos que constituam corpo de delito; 2. Não é suficiente a mera conjectura ou desconfiança sobre tal posse, mas a suspeita amparada por circunstâncias objetivas que permitam uma grave probabilidade de que sejam encontradas as coisas mencionadas pela lei; 3. A percepção de nervosismo por parte do agente policial não é suficiente para caracterizar a fundada suspeita, que exige mais do que mera desconfiança por parte dos agentes públicos; 4. A Lei n. 11.340/2006 (Lei Maria da Penha) prevê a aplicação do critério exclusivamente biológico para a violência doméstica contra mulher trans; 5. É necessária a distinção entre sexo e gênero.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A jurisprudncia do STF  no sentido de que a participao de membro do Ministrio Pblico na fase investigatria no acarreta, por si s, seu impedimento ou sua suspeio para o oferecimento da denncia, por ser ele o dominuslitis e sua atuao estar voltada  formao de sua convico. A Smula 234 expressa ser o mesmo entendimento do STJ:
+A participao de membro do Ministrio Pblico na fase investigatria criminal no acarreta o seu impedimento ou suspeio para o oferecimento da denncia. Cabe, nos termos do artigo 138 do CPPM, ao juiz de primeira instncia processar e julgar exceo de impedimento ou suspeio de procurador ou promotor de Justia Militar. 9.4.2. Princpios. O Ministrio Pblico desempenha suas funes orientado pelos princpios institucionais da unidade, da indivisibilidade e independncia funcional (artigo 127, pargrafo 1, CF). A unidade significa que o Ministrio Pblico  um rgo sob nica direo do chefe da instituio, o procurador-geral. A indivisibilidade permite a seus membros no se vincularem aos processos em que atuam podendo ser substitudos uns pelos outros. A atuao de diversos de seus membros  feita em nome da instituio, sem que isso importe em fragmentao. A independncia funcional do membro do Ministrio Pblico permite-lhe desempenhar suas funes, sem estar obrigado a cumprir quaisquer determinaes de rgo superior da instituio, em matria processual. O artigo 397, pargrafo 1, do CPPM, bem demonstra essa independncia funcional quando o procurador-geral discorda do arquivamento do IPM entendendo que h elementos para ao penal designando outro membro do Ministrio Pblico para promov-la. O princpio do promotor natural  entendido como a garantia do imputado de ser acusado por rgo do Estado previamente escolhido por critrio legais, afastando a possibilidade de designaes arbitrrias do Procurador-Geral. Precedente do STF reconheceu o princpio do promotor natural tendo presente a disciplina constitucional do Ministrio Pblico, que repele, a partir da vedao de designaes casusticas efetuadas pela Chefia da Instituio, a figura do acusador de exceo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência do STF e do STJ é no sentido de que a participação de membro do Ministério Público na fase investigatória não impede ou suspeita o oferecimento de denúncia. O Ministério Público atua de acordo com os princípios da unidade, indivisibilidade e independência funcional. O princípio do promotor natural garante ao imputado ser acusado por um órgão do Estado previamente escolhido por critérios legais.

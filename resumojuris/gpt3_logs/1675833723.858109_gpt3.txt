@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse cenario, o art. 4,  1, da Lei n. 9.847/1999, pela especialidade que ostenta, afasta a incidencia dos arts. 37-A da Lei n. 10.522/2001, e 61,  1 e 3, da Lei n. 9.430/1996, relativamente ao termo inicial da incidencia dos juros e da multa moratoria de multa administrativa imposta pela ANP. (Informativo n. 740) 122 PROCESSO REsp 1.817.302-SP, Rel. Min. Regina Helena Costa, Primeira Secao, por unanimidade, julgado em 08/06/2022. (Tema IAC 8). RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Faixa de dominio de rodovia concedida. Uso local por prestadora publica de servico de saneamento basico. Cobranca pela concessionaria. Descabimento. Tema IAC 8/STJ.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 4, 1, da Lei n. 9.847/1999 afasta a incidência dos arts. 37-A da Lei n. 10.522/2001, e 61, 1 e 3, da Lei n. 9.430/1996, relativamente ao termo inicial da incidência dos juros e da multa moratória de multa administrativa imposta pela ANP. 2. É descabida a cobrança pela concessionária de rodovia de uso local por prestadora pública de serviço de saneamento básico.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Foram inquiridas, ainda, as testemunhas de acusao - Coronel BM Marcus Jos Tibrcio Lima e Capito BM Ranier (Evento 41). O acusado manifestou no ter interesse em arrolar testemunhas de defesa (Evento 44). Na fase do artigo 427 do Cdigo de Processo Penal Militar (CPPM), o Ministrio Pblico requereu que fosse expedido ofcio  direo da Instituio "Associao Salvar, a fim de prestar esclarecimentos. O requerido foi deferido e as informaes solicitadas foram prestadas (Eventos 50, 54 e 56). Por sua vez, a defesa manifestou no possuir diligncias a serem requeridas (Evento 52). J na fase do artigo 428 do CPPM, as partes pugnaram pelas alegaes finais em plenrio de julgamento (Eventos 68 e 72). Concluda a instruo criminal, em 08/09/2021, reuniu-se o douto Conselho Especial de Justia da 1a AJME para a sesso de julgamento. Procedeu-se, na forma da lei,  leitura das principais peas do processo e foi dada a palavra ao Ministrio Pblico estadual, que requereu a condenao do acusado, nos exatos termos da denncia. A defesa, por sua vez, requereu a absolvio do militar, nos termos do artigo 439, alnea "b, do CPPM. Findos os debates, o Conselho Especial de Justia decidiu, in verbis: [...] por maioria de 04 (quatro) votos a 01 (um) decidiu condenar o 1 TEN BM QOR Roberto Proccio da Silva, pela prtica do delito capitulado no art. 166, do CPM, impondo ao mesmo a pena definitiva de 06 (seis) meses de deteno. O CEJ no concedeu benefcio da Suspenso condicional da Pena em razo de expressa vedao legal contida no art. 88, II, alnea "a", do CPM, por se tratar de delito de insubordinao. Votou vencido pela absolvio o juiz militar CAP BM Edson Pereira de Aquino, que absolveu o ru nos termos do artigo 439, alnea "e", do CPPM (Evento 111). A audincia para leitura da sentena condenatria acostada ao Evento 122 ocorreu no dia 21/09/2021 (Evento 123). A defesa interps recurso de apelao (Evento 125). Em suas razes recursais, alega preliminarmente a ocorrncia da prescrio da pretenso punitiva, na modalidade retroativa. Para tanto, alegou que o apelante foi condenado a 06 (seis) meses de deteno, todavia, entre a data do fato (julho de 2018) e a prolao da sentena (21/09/2021), transcorreram mais de dois anos, incidindo, portanto, a prescrio da pretenso punitiva, nos termos do art. 125, VII, do Cdigo Penal Militar (CPM).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Especial de Justia decidiu condenar o acusado pela prtica do delito capitulado no art. 166, do CPM, impondo ao mesmo a pena definitiva de seis meses de deteno. A defesa interps recurso de apelao, alegando a prescrio da pretenso punitiva.

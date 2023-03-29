@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A concepo de Feuerbach pode ser considerada como o antecedente mais importante do trabalho de construo da noo conceitual de bem jurdico. A concepo de Feuerbach se fundamenta em uma perspectiva contratualista segundo a qual, na sociedade civil, os homens abrem mo de parcela de sua liberdade natural em favor do Estado. Nos termos do contrato firmado entre os homens, caberia ao Estado o papel de garantir a compatibilidade entre as liberdades de cada indivduo - entre os direitos subjetivos de liberdade. Nesse contexto, a ordem jurdica estabelece os limites para o exerccio adequado das liberdades individuais e garante os direitos subjetivos contra eventuais aes violadoras. A conciliao promovida pela ordem jurdica garante, essencialmente, que o direito subjetivo de um cidado somente pode ser limitado pelo direito subjetivo de outro. A pena criminal se justifica como consequncia jurdica que atende  necessidade de garantir a compatibilidade entre os direitos subjetivos em face de eventuais condutas que lhe sejam violadoras. No seu tempo, a construo de Feuerbach foi revolucionria, por identificar no crime um contedo material limitador da interveno punitiva. A partir de Feuerbach, a doutrina penal passou a defender que o estabelecimento de um crime no poderia mais fundamentar-se na mera descrio de uma conduta proibida.  necessrio algo mais. Vinculando o crime  violao de um direito subjetivo, Feuerbach sustentou que somente uma conduta violadora de direito subjetivo poderia ser considerada um crime. Em outras palavras, uma conduta que no viole direitos subjetivos de outrem no pode ser considerada criminosa. O conceito de bem jurdico, assim entendido, efetivamente possu uma funo crtica da interveno punitiva. O estatuto repressivo nacional parece adotar a noo de bem jurdico como direito subjetivo quando, na previso das excludentes de ilicitude, vincula os institutos do estado de necessidade e da legitima defesa ao fim de proteger um direito (artigos 24 e 25 do CP). A concepo de Feuerbach recebeu crticas importantes, na medida em que ficou evidenciado que, em muitos crimes, no se pode demonstrar a ocorrncia de uma leso a direito subjetivo e que a referncia a tal leso no permite estabelecer um contedo material para o injusto. O direito subjetivo somente pode ser entendido como emanao e reverso do direito objetivo, o que no pode esclarecer o contedo material da proteo jurdica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A concepo de Feuerbach, contratualista, fundamenta-se na perspectiva de que o Estado deve garantir a compatibilidade entre as liberdades individuais e os direitos subjetivos. O bem jurdico, entendido como direito subjetivo, tem a funo de limitar a interveno punitiva. No entanto, h crticas que afirmam que muitos crimes no mostram leso a direito subjetivo e que o direito subjetivo somente pode ser entendido como emanao do direito objetivo.

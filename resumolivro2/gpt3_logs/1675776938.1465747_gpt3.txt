@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+8.1. Jurisdio e competncia. A etimologia da palavra jurisdio  jurisdicio, formada por juris, jus (direito) e dictio, dictionis (dizer). A jurisdio  a funo desempenhada pelo Poder Judicirio, atravs dos juzes e tribunais, de dizer o direito no caso concreto. A funo de julgar os militares no se esgota na jurisdio militar. Compete, privativamente, ao Senado Federal processar e julgar os Comandantes da Marinha, do Exrcito e da Aeronutica nos crimes de responsabilidade e nos conexos a eles (artigo 52, I, CF). A competncia  a medida da jurisdio, que  una. Todo juiz tem jurisdio, mas nem todo juiz tem competncia, porque, em razo da complexidade das normas penais, a jurisdio penal sofre limitaes;
+a cada juiz ou tribunal  determinada competncia para processar e julgar certas causas criminais. A competncia, portanto,  a fixao dos limites do exerccio da atividade jurisdicional por cada rgo do poder Judicirio. 8.1.1. Princpios relacionados  jurisdio militarPelo princpio da inrcia da jurisdiomilitar o juiz atua se provocado. So conhecidos os aforismos do nemo iudex sine actore - no h juiz sem autor ou no h jurisdio sem ao - e do ne procedat judex ex officio - o juiz no pode proceder sem provocao da parte. Dessa inrcia da jurisdio militar decorre o princpio da iniciativa da parte. A regra  o rgo do Ministrio Pblico Militar propor a ao penal. O princpio da investidura designa que a jurisdio  exercida por juiz investido no cargo e em exerccio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisdição é a função desempenhada pelo Poder Judiciário, através dos juízes e tribunais, de dizer o direito no caso concreto. A competência é a medida da jurisdição, que é una. O Senado Federal tem competência privativa para processar e julgar os Comandantes da Marinha, do Exército e da Aeronáutica nos crimes de responsabilidade. O princípio da inércia da jurisdição militar significa que o juiz só atua se provocado. O princípio da iniciativa da parte determina que o Ministério Público Militar proponha a ação penal. O princípio da investidura designa que a jurisdição é exercida por juízes investidos no cargo e em exercício.

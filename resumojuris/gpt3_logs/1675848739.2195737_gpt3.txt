@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 02/08/2022, DJe 08/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Tribunal do Juri. Art. 563, III, d, do CPP. Interpretacao estrita. Decisao teratologica. Completamente divorciada do conjunto probatorio constante do processo. Apelacao. Possibilidade. DESTAQUE O art. 563, inciso III, alinea d, do CPP deve ser interpretado de forma estrita, permitindo a rescisao do veredicto popular somente quando a conclusao alcancada pelos jurados seja teratologica, completamente divorciada do conjunto probatorio constante do processo. A instituicao do juri, com a organizacao que lhe da o CPP, assegura a soberania dos veredictos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 563, inciso III, alínea d, do Código de Processo Penal deve ser interpretado de forma estrita. 2. É possível a rescisão do veredicto popular somente quando a conclusão alcançada pelos jurados seja teratológica, completamente divorciada do conjunto probatório constante do processo. 3. A instituição do júri, com a organização que lhe dá o Código de Processo Penal, assegura a soberania dos veredictos.

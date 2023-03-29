@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em razo da condenao imposta em sentena, foram fixadas as penas de 02 (dois) anos e 04 (quatro) meses de recluso ao representado Cludio Eduardo dos Santos e de 02 (dois) anos e 11 (onze) meses de recluso ao representado Luciano dos Reis Pereira, a serem cumpridas em regime aberto. Segundo a representao ministerial (Evento 1 - INIC1): [...] Segundo consta dos referidos autos, no final do ano de 2014, aps abordar Rafael Antnio Prestes dos Santos na conduo de 1 uma motocicleta Honda Biz pelas ruas de Araguari e constatar que ele no possua Carteira Nacional de Habilitao, alm de o veculo apresentar irregularidades na documentao, o representado Luciano exigiu do condutor a quantia de R$ 200,00 (duzentos reais) para liber-lo sem proceder  apreenso da moto, o que se efetivou mediante o pagamento da exigncia j no dia seguinte. No satisfeito, a partir de ento o representado Luciano, na companhia do representado Cludio, passou a exigir trimestralmente de Rafael quantias de R$ 200,00 (duzentos reais) ou R$500,00 (quinhentos reais) para que no fossem adotadas providncias acerca das infraes de trnsito por ele cometidas, exigncias que comprovadamente ocorreram em 08/05/2016, quando o representado Luciano ameaou a vtima de plantar drogas em seu desfavor, caso ela no o atendesse, bem como na data de 09/05/2016, ocasio em que Rafael solicitou prazo at o dia 20/05/016 para o pagamento que lhe estava sendo imposto. J durante uma conversa por via telefnica na data de 12/05/2016, aps insistir na exigncia indevida o representado Luciano revelou a Rafael Antnio Prestes dos Santos informaes sobre as escalas de servio dos militares que se encontravam trabalhando no ms de maio de 2016, informaes estas que possua justamente em virtude do cargo que ocupava, tudo no intuito de possibilitar a Rafael escapar da atuao militar de preveno e represso  prtica de crimes. Por fim, no dia 15/05/2016 e em outra data no precisa, aps abordarem Rafael no bairro Braslia, em Araguari, os representados Luciano e Cludio lhe entregaram um pacote contendo cocana para que ele a vendesse e, ento, pudesse pagar a exigida quantia de R$500,00 (quinhentos reais). Alm da condenao dos aludidos policiais militares a pena superior a dois anos, a perda da graduao se justifica no caso concreto pelas gravidade, circunstncias e repercusso do crime na sociedade local, que, sem dvida, tornaram inapropriada a permanncia dos representados nas fileiras da Polcia Militar do Estado de Minas Gerais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os representados Cludio Eduardo dos Santos e Luciano dos Reis Pereira foram condenados a penas de 02 (dois) anos e 04 (quatro) meses de recluso e 02 (dois) anos e 11 (onze) meses de recluso, respectivamente, em regime aberto, por exigir quantias de R$ 200,00 (duzentos reais) ou R$500,00 (quinhentos reais) de um condutor de veículo sem Carteira Nacional de Habilitação e por entregar-lhe um pacote contendo cocaína para venda. Além da condenação, foi decretada a perda da graduação dos policiais militares devido à gravidade, circunstâncias e repercussão do crime na sociedade local.

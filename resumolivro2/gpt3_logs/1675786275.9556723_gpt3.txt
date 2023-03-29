@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STF (HC 94.809/RS) reconheceu a legitimidade ativa do representante do MPM de primeira instncia para impetrar habeas corpus , originariamente, perante o STF, especialmente para impugnar decises do STM. Por ouro lado, a Lei n. 8.625/93 , Lei Orgnica Nacional do Ministrio Pblico , que dispe sobre as normas gerais para a organizao do Ministrio Pblico dos Estados, em seu art. 32, I, confere aos promotores de Justia atribuio para impetrar habeas corpus perante os Tribunais de Justia e de Justia Militar dos Estados. O STF 25 afirmou que a legitimidade do Ministrio Pblico para impetrar habeas corpus tem fundamento na incumbncia da defesa da ordem jurdica e dos interesses individuais indisponveis, e de dispor de legitimidade processual para defender em juzo violao  liberdade de ir e vir por meio de habeas corpus . 26
+Para o STJ, o Ministrio Pblico pode impetrar habeas corpus em favor do ru (RHC 19.809/RN), visando a tutelar a liberdade de locomoo ilicitamente coarctada ou ameaada (HC 22.216/RS), mas no tem legitimidade ativa se a impetrao no visar a tutela da liberdade de locomoo do paciente, mas sim o reconhecimento no interesse da acusao (RHC 19.815/RN). Se qualquer pessoa pode impetrar habeas corpus em seu favor ou de outrem (art. 470 , CPPM ) a vtima de crime militar tem legitimidade ativa para faz-lo em favor do indiciado ou acusado? Por exemplo, o militar de igual posto ou patente foi ofendido por outro militar. Sem que o ofendido houvesse representado ou requerido providncia foi instaurado IPM e o Ministrio Pblico promoveu a devida ao penal. O ofendido entendendo haver injustia no indiciamento ou na imputao, pois seu ofensor no se houve com dolo por exemplo, tem legitimidade ativa para impetrar habeas corpus em favor do indiciado ou acusado com o fim de trancar o IPM ou a ao penal. A despeito de ser inusitado tal proceder de vtima de crime militar, esse  o esprito da Carta da Repblica, que tem no habeas corpus um remdio constitucional destinado  proteo da liberdade de locomoo, logo, deve ser conhecido.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF reconheceu a legitimidade do Ministério Público para impetrar habeas corpus, de acordo com a Lei Orgânica Nacional do Ministério Público. O STJ afirmou que o Ministério Público tem legitimidade para impetrar habeas corpus para tutelar a liberdade de locomoo, mas não tem legitimidade para impetrar habeas corpus para fins de reconhecimento de interesse da acusação. A vítima de crime militar tem legitimidade ativa para impetrar habeas corpus em favor do indiciado ou acusado, com o objetivo de trancar o inquérito ou ação penal.

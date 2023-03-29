@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1130 Contudo, sucede que o fundo de investimentos, que e um condominio de natureza especial, destinado a aplicacao em ativos financeiros, bens e direitos de qualquer natureza (art. 1.368, CC/2002), nao pode responder integralmente por delitos imputados a um agente que detem apenas 14% das cotas do fundo de investimento. Desse modo, num juizo de razoabilidade, e para evitar o excesso cautelar, a constricao deve ser reduzida a 14% das cotas pertencentes ao acusado no referido Fundo de Investimentos, tendo em vista que nao faz sentido que os 16 demais cotistas, que nao fazem parte do relacao processual penal da base, tenham o seu patrimonio afetado pelo bloqueio. No mesmo sentido e o entendimento da Terceira Turma do STJ: o patrimonio gerido pelo Fundo de Investimento em Participacoes (FIP) pertence, em condominio, a todos os investidores (cotistas), a impedir a responsabilizacao do fundo por divida de um unico cotista, de modo que, em tese, nao poderia a constricao judicial recair sobre todo o patrimonio comum do fundo de investimento por dividas de um so cotista, ressalvada a penhora da sua cota-parte . (REsp 1.965.982/SP, relator Ministro Ricardo Villas Boas Cueva, Terceira Turma, julgado em 05/04/2022, DJe de 08/04/2022). (Informativo n. 746) 1131 DIREITO PROCESSUAL MILITAR 1132 QUINTA TURMA Voltar ao Sumario. Processo AgRg nos EDcl no REsp 1.961.504-PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 21/06/2022, DJe 27/06/2022. Ramo do Direito DIREITO PROCESSUAL PENAL, DIREITO PROCESSUAL PENAL MILITAR Tema Tentativa de homicidio. Militares contra civil. Inquerito policial militar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O fundo de investimentos é um condomínio de natureza especial destinado à aplicação em ativos financeiros, bens e direitos de qualquer natureza (art. 1.368, CC/2002). 2. Não é possível responsabilizar o fundo de investimentos integralmente por delitos imputados a um agente que detém apenas 14% das cotas do fundo de investimento. 3. A constrição judicial não pode recair sobre todo o patrimônio comum do fundo de investimento por dívidas de um só cotista, ressalvada a penhora da sua cota-parte. 4. No caso de tentativa de homicídio envolvendo militares e civis, o inquérito policial militar é aplicável.

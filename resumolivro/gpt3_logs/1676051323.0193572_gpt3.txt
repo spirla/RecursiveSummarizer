@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Crime comissivo. O crime  denominado comissivo ou de comisso quando o tipo penal possui como ncleo um verbo que descreve uma conduta ativa e o sujeito o realiza mediante uma ao. A norma penal que  subjacente ao tipo de crime comissivo tem natureza proibitiva e visa impedir a realizao da ao socialmente considerada inadequada e, por isso, proibida. Os crimes comissivos constituem a grande maioria dos crimes previstos na legislao penal, podendo ser exemplificados pelo homicdio (artigo 121); pelo furto (artigo 155); e pelo estupro (artigo 213). 23.3.2. Crime omissivo prprio. No crime omissivo prprio o tipo penal possui como ncleo um verbo que descreve uma conduta negativa e o sujeito o realiza mediante uma omisso. A norma penal que  subjacente ao tipo de crime omissivo prprio tem natureza mandamental e visa determinar ao sujeito a realizao de ao especfica, considerada protetiva do bem jurdico. Pode-se dizer que a omisso  prpria porque  o prprio tipo incriminador que identifica como conduta criminosa a omisso. Muitos dos crimes omissivos prprios acarretam situao real de perigo ao bem jurdico e, por isso, tambm so classificados como crimes de perigo. Os crimes omissivos prprios constituem exceo entre os crimes previstos na legislao penal. No Cdigo Penal podem ser exemplificados pela omisso de socorro (artigo 135); pelo abandono material (artigo 244); pelo abandono intelectual (artigo 246); e pela prevaricao, nas modalidades de retardar e de deixar de praticar (artigo 319). Vale observar que, em alguns tipos penais incriminadores, vrios verbos constituem ncleos, sendo que uns descrevem conduta comissiva e outros omissiva. E, ainda, que em alguns casos o tipo descreve uma omisso penalmente relevante que se verifica aps a realizao de determinada conduta comissiva. Para este ltimo caso, pode-se alinhar o exemplo da apropriao indbita de coisa achada (artigo 169, pargrafo nico, II), em que inicialmente verifica-se a conduta positiva de apossamento da coisa que foi encontrada e, posteriormente, a omisso em restitu-la a quem seja de direito. 23.3.3. Crime omissivo imprprio. Os crimes omissivos imprprios so tambm chamados pela doutrina de crimes comissivos por omisso e esta denominao em muito auxilia a compreenso sobre o modo pelo qual se executam tais crimes.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os crimes comissivos possuem como núcleo um verbo que descreve uma conduta ativa e a norma penal tem natureza proibitiva. Os crimes omissivos próprios possuem como núcleo um verbo que descreve uma conduta negativa e a norma penal tem natureza mandamental. Por fim, os crimes omissivos impróprios são também chamados de crimes comissivos por omissão.

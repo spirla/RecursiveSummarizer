@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+255, letras "a e "e, do Cdigo de Processo Penal Militar (CPPM) em deciso proferida em 24 de agosto de 2020 (Evento 8 - DEC1, nos autos do Processo n. 2000646-54.2020.9.13.0001). Foram ouvidas 3 (trs) testemunhas arroladas pela acusao (2o Ten PM Odirlei Jorge Moreira, Sub Ten Hlio Fernandes Bento e 3 Sgt PM Ivan Miranda), em audincia presencial remota ocorrida em 26 de maro de 2021 (Evento 20 - AtA - AJME). Nessa ocasio, o ilustre representante do Ministrio Pblico dispensou a oitiva da 1 o Ten PM Sueli de Macedo Teodoro. A Folha de Antecedentes Criminais (FAC) foi juntada no Evento 29 - OUT1, e as Certides de Antecedentes Criminais (CACs) foram juntadas nos Eventos 30 - CERTANTCRIM2 (comarca de Belo Horizonte/MG) e 21- CERTANTCRIM2 (TJMMG). Em 11 de janeiro de 2021, houve a oitiva de quatro testemunhas arroladas pela defesa (Ueliton Jos Arcanjo, Wesley Paulino Arcanjo Medina, Cristiano Antnio Pimenta e 1o Sgt PM Givaldo de Oliveira Silva), em audincia presencial remota - Evento 47 - AJME. Nessa ocasio, a defesa do acusado dispensou a oitiva das testemunhas Ueslei Fabiano Miranda Lopes e Joemir Matozinhos Pereira e requereu a realizao de exame toxicolgico do ru. O laudo toxicolgico foi juntado no Evento 60 - OUT4 - AJME. Em audincia do dia 18 de maro de 2021, houve a revogao da priso preventiva, e o acusado Sd PM Felipe Vicente de Oliveira foi interrogado (Evento 86 - ATA - AJME). O exame pericial realizado no pen-drive e celulares foi juntado no Evento 122. A folha de antecedentes criminais e as certides de antecedentes criminais da Justia Militar e da comarca de Belo Horizonte/MG foram juntadas nos Eventos 155, 142 e 143, respectivamente. A instruo do processo transcorreu regularmente, conforme se v nos Eventos 2 a 167. Em sesso de julgamento realizada em 14 de julho de 2022, o egrgio Conselho Permanente de Justia, por unanimidade de votos, condenou o militar Sd PM Felipe Vicente de Oliveira pela prtica do delito previsto no art. 290 (trfico, posse ou uso de entorpecente ou substncia de efeito similar) do CPM. Dois juzes militares impuseram a pena de 3 (trs) anos. O juiz de direito e um juiz militar impuseram a pena de 2 (dois) anos e 6 (seis) meses de recluso. Um juiz militar imps a pena de 2 (dois) anos, 4 (quatro) meses e 26 (vinte e seis) dias de recluso. Em razo da diversidade de votos na fixao da pena, nos termos do art. 435, pargrafo nico, do CPM, prevaleceu a pena de 2 (dois) anos e 6 (seis) meses de recluso (Evento 176 - ATA 76 - AJME). A sentena foi proferida e lida na mesma assentada.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia, por unanimidade de votos, condenou o militar Sd PM Felipe Vicente de Oliveira pela prtica do delito previsto no art. 290 (trfico, posse ou uso de entorpecente ou substncia de efeito similar) do CPM, impondo a pena de 2 (dois) anos e 6 (seis) meses de recluso.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+As normas incriminadoras que se aplicam a todos as pessoas pertencem ao direito penal comum e as normas que se aplicam exclusivamente a uma classe ou categoria de pessoas, em razo de sua qualidade ou especial situao jurdica, compem o direito penal especial. Segundo este critrio, os crimes comuns so institudos pelo direito penal comum e se aplicam a todas as pessoas. Os crimes especiais, por sua vez, so institudos pelo direito penal especial e se aplicam a determinadas pessoas. Cabe notar ainda que antes das primeiras codificaes penais no havia qualquer coordenao sistemtica que pudesse auxiliar o operador do direito na tarefa de localizar na legislao determinada previso para os crimes em espcie. A reunio dos tipos penais incriminadores em uma codificao e a classificao dos crimes conforme sua objetividade jurdica facilitou muito o trabalho dos operadores do direito penal, tendo em vista que a sistematizao racional dos crimes permite visualizar melhor como a legislao conformou a tutela penal dos bens jurdicos. Nos dias atuais, entretanto, a legislao extravagante multiplicou a previso dos crimes e j no se pode conceber o direito penal apenas por meio dos crimes constantes do Cdigo Penal. Passou-se a distinguir os crimes previstos no Cdigo Penal comum daqueles previstos na legislao extravagante, tambm denominada complementar. Com base nessa distino, vislumbrou-se o Direito Penal Fundamental consubstanciado nas regras do Cdigo Penal e o Direito Complementrio, que se compe das normas penais estabelecidas pela legislao extravagante. Tendo em vista os crimes previstos na legislao extravagante, os operadores do direito passaram a referir-se aos crimes ambientais, aos crimes tributrios, aos crimes contra a relao de consumo etc. Em conformidade com o critrio do rgo julgador (Justia comum ou Justia especializada), apenas os crimes eleitorais e os crimes militares podem ser considerados crimes especiais. A classificao dos crimes em comuns e especiais decorre das exigncias da tcnica legislativa e no se trata de um tema fundamental de direito penal. No se pode dizer que o crime especial proteja bem jurdico mais importante que o crime comum, ou vice-versa. 23.8.1. Crime comum. Os crimes considerados comuns esto previstos na parte especial do Cdigo Penal, nos artigos 121 a 359. A denominao especial para a parte que define os crimes em espcie no Cdigo Penal evidencia a aplicao restrita de seus dispositivos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Direito Penal comum se aplica a todas as pessoas enquanto o Direito Penal especial se aplica a determinadas pessoas. A codificação dos tipos penais e a classificação dos crimes de acordo com sua objetividade jurdica facilitou muito o trabalho dos operadores do direito penal. Os crimes previstos no Código Penal comum são diferentes dos previstos na legislação extravagante, também chamada de complementar. Os crimes comuns estão previstos na parte especial do Código Penal.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Parametro. DESTAQUE O parametro remuneratorio sobre o qual deve incidir a VNPI para o calculo da remuneracao dos Procuradores da Fazenda Nacional e o existente em marco/2002. E pacifico no ambito do STJ que, a partir de 26/6/2002, data da publicacao da MP 43/2002, a composicao da remuneracao dos Procuradores da Fazenda Nacional passou a ser a seguinte: a) vencimento basico; b) pro labore, calculado no percentual de 30% (trinta por cento) sobre o referido vencimento basico; c) Vantagem Pessoal Nominalmente Identificada - VPNI, caso ocorra reducao na totalidade da remuneracao dos servidores publicos. 166 A MP 43/2002 (convertida na Lei n. 10.549/2002), embora tenha sido publicada em julho/2002, determinou, no art. 3, que a nova estrutura de pagamento nela prevista retroagiria ao mes de marco/2002, sem excluir, desse periodo intermediario , as vantagens que ate entao foram percebidas pelos Procuradores da Fazenda Nacional, o que acabou ocasionando uma situacao virtualmente hibrida, porque entre o regime remuneratorio anterior (ate marco/2002) e o regime novo (a partir de julho/2002) os agentes publicos fizeram jus aos valores correspondentes as vantagens de ambos os regimes. Hipotese em que a discussao e sobre qual o parametro remuneratorio em relacao ao qual deve incidir a VNPI acima citada: se aquele existente em marco/2002, ou se o que existiu entre marco/2002 e junho/2002, sendo certo que deve prevalecer a primeira opcao, em funcao de interpretacao teleologica e historica da lei.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É pacífico no âmbito do STJ que, a partir de 26/6/2002, data da publicação da MP 43/2002, a composição da remuneração dos Procuradores da Fazenda Nacional passou a ser a seguinte: a) vencimento básico; b) pro labore, calculado no percentual de 30% (trinta por cento) sobre o referido vencimento básico; c) Vantagem Pessoal Nominalmente Identificada - VPNI, caso ocorra redução na totalidade da remuneração dos servidores públicos. 2. A MP 43/2002 (convertida na Lei n. 10.549/2002), embora tenha sido publicada em julho/2002, determinou, no art. 3, que a Nova estrutura de pagamento nela prevista retroagiria ao mês de marco/2002, sem excluir, desse período intermediário, as vantagens que até então foram percebidas pelos Procuradores da Fazenda Nacional. 3. O parametro remuneratório sobre o qual deve incidir a VNPI para o cálculo da remuneração dos Procuradores da Fazenda Nacional é aquele existente em março/2002, e não o que existiu entre março/2002 e junho/2002.

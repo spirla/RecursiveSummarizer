@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+518, 5, que prev:  5 Os processos disciplinares de natureza demissionria, reformatria ou exoneratria sero, obrigatoriamente, instrudos com o ERF (Extrato de Registros Funcionais) do acusado, devendo a pea ser includa nos autos antes da abertura de vista para defesa final. Nos demais processos, a incluso do ERF ficar condicionado a eventual pedido da defesa, por ato discricionrio da autoridade militar ou do encarregado. Temos ainda que, embora o extrato de registros funcionais do comunicado no tenha sido juntado aos autos, houve avaliao, pela autoridade administrativa, dos antecedentes do comunicado para a dosimetria da pena, considerando que o ato de sano revela a contabilizao da circunstncia atenuante prevista no inciso II do art. 20 do CEDM (Evento 1, DOC25, pg.6). Outrossim, insta salientar que, ao contrrio do que concluiu o magistrado a quo, entendo que no h que se falar em ofensa ao contraditrio e  ampla defesa na colheita da prova testemunhal. Sobre a defesa tcnica nos processos administrativo-disciplinares, dispe a Smula Vinculante n. 5 do Supremo Tribunal Federal que "a falta de defesa tcnica por advogado no processo administrativo-disciplinar no ofende a Constituio". No mesmo sentido, cito ainda: CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANA. PROCEDIMENTO DISCIPLINAR DO CONSELHO NACIONAL DO MINISTRIO PBLICO CONFORME SUAS COMPETNCIAS CONSTITUCIONAIS E RESPEITO AO REGIMENTO INTERNO. OBSERVNCIA AOS PRINCPIOS DA AMPLA DEFESA, CONTRADITRIO E PUBLICIDADE. AUSNCIA DE ILEGALIDADE OU ABUSO DE PODER. SEGURANA DENEGADA. 1. A observncia dos princpios constitucionais da ampla defesa e do contraditrio no decorrer do procedimento administrativo disciplinar supre eventual deficincia no decorrer de procedimento que antecede a instaurao do PAD. 2.  pacfico o entendimento no Supremo Tribunal Federal de que o processado se defende dos fatos que lhe so imputados no ato de instaurao do processo administrativo e no de sua capitulao jurdica. (MS n. 36.689, 1a T/STF, rel. p/ acrdo Min. Alexandre de Moraes, DJe 20/5/2021) AGRAVO REGIMENTAL NO RECURSO ORDINRIO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF entendeu que a observância dos princípios constitucionais da ampla defesa e do contraditório supre eventual deficiência no procedimento administrativo disciplinar, e que o processado se defende dos fatos que lhe são imputados no ato de instauração do processo administrativo, não sendo necessário o uso de defesa técnica por advogado.

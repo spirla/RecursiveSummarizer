@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+3 do CPP (CPP), a lei processual penal e norma que admite a interpretacao extensiva e aplicacao analogica , de modo que nao ha obice, por exemplo, na aplicacao, por analogia, do art. 91 da Lei 9.099/1995, nem da incidencia do art. 485,  3, do CPC (CPC), que informa que os pressupostos de desenvolvimento valido e regular do processo, assim como a legitimidade de agir podem ser conhecidas pelo magistrado de oficio, em qualquer tempo e grau de jurisdicao, enquanto nao ocorrer o transito em julgado . Com base nesse entendimento, a Segunda Turma, por maioria, negou provimento ao agravo regimental, mas concedeu o habeas corpus, de oficio, para trancar a acao penal, com a aplicacao retroativa, ate o transito em julgado, do disposto no art. 171,  5, do CP, com a alteracao introduzida pela Lei 13.964/2019. Vencido, em parte, o ministro Ricardo Lewandowski, que deu provimento ao recurso para conceder a ordem e trancar a acao penal. HC 180421 AgR/SP, relator Min. Edson Fachin, julgamento em 22.6.2021 (INF 1023)  13. DIREITO PREVIDENCIARIO 13.1 APOSENTADORIA Delegacao ao Poder Executivo para regulamentar o Fator Acidentario de Prevencao (FAP)  RE 677725/RS (Tema 554 RG) Tese fixada: O Fator Acidentario de Prevencao (FAP), previsto no art. 10 da Lei n 10.666/2003, nos moldes do regulamento promovido pelo Decreto 3.048/99 (RPS), atende ao principio da legalidade tributaria (art. 150, I, CRFB/88). Resumo: E constitucional a incidencia do Fator Acidentario de Prevencao (FAP) para a definicao da reducao ou majoracao das aliquotas da contribuicao para o Seguro de Acidente de Trabalho (SAT), conforme disposto no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É admitida a interpretação extensiva e aplicação analógica do Código de Processo Penal (CPP). 2. É possível a incidência do artigo 485, 3º, do Código de Processo Civil (CPC), que informa que os pressupostos de desenvolvimento válido e regular do processo, assim como a legitimidade de agir podem ser conhecidas pelo magistrado de ofício, em qualquer tempo e grau de jurisdição, enquanto não ocorrer o trânsito em julgado. 3. É constitucional a incidência do Fator Acidentário de Prevenção (FAP) para a definição da redução ou majoração das alíquotas da contribuição para o Seguro de Acidente de Trabalho (SAT), conforme disposto no art. 10 da Lei nº 10.666/2003, nos moldes do regulamento promovido pelo Decreto 3.048/99 (RPS).

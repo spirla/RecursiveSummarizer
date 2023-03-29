@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O valor do depoimento da testemunha direta, aquela que presenciou os fatos (testemunha presencial)  maior se comparado com outras categorias de testemunha, por exemplo , com o depoimento da testemunha indireta aquela que no presenciou os fatos (testemunha no presencial), posto que soube dos fatos por ouvir dizer, de terceiro. A conservao do conhecimento do fato depende, em primeiro plano, do lapso temporal decorrido entre a data do fato e a do depoimento e, em muito, da idade, das condies fsicas da testemunha.  justamente em razo da dificuldade na conservao do fato que as partes podem requerer ou o juiz determinar que  testemunha seja lido o depoimento ou parte dele prestado no IPM, bem como o juiz permite a testemunha consultar apontamentos (notas resumidas, lembretes etc. sobre lugares, datas, valores etc.) durante a inquirio para reavivar a memria. O artigo 204, pargrafo nico, do CPP, no ser vedada  testemunha breve consulta a apontamentos. A testemunha durante os fatos registra dados especficos e genricos e os armazena. Quando provocada deles se recorda. Esta caracterstica da prova testemunhal envolve o passado, a memria e o esquecimento. Este  a perda gradual do registro da memria. Na mentira involuntria, a testemunha por erro de percepo, de memria ou por sugesto acaba afirmar inverdade de um fato. Na mentira involuntria o agente incorre em erro que exclui o dolo. Na mentira voluntria a testemunha deliberadamente no diz a verdade por razes de amizade, de coleguismo e de solidariedade, entre outras.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O depoimento de uma testemunha presencial é mais valorizado do que o de uma testemunha indireta, pois a memória da testemunha pode ser afetada pelo tempo decorrido entre o fato e o depoimento, bem como pela idade e condições físicas. O juiz pode permitir que a testemunha consulte apontamentos para reavivar a memória. A mentira involuntária ocorre quando a testemunha afirma algo errado por erro de percepção, memória ou sugestão, enquanto a mentira voluntária ocorre quando a testemunha deliberadamente não diz a verdade por motivos como amizade, coleguismo ou solidariedade.

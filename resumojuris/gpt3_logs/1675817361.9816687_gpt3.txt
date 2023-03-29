@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 1008166/SC, relator Ministro Luiz Fux, julgamento finalizado em 22.9.2022 (INF 1069) FUNDEF/FUNDEB: precatorio e pagamento de pessoal - ADPF 528/DF Resumo: O carater extraordinario dos valores de complementacao do FUNDEB pagos pela Uniao aos es-tados e aos municipios, por forca de condenacao judicial, justifica o afastamento da subvinculacao pre-vista nos arts. 60, XII, do ADCT e 22 da Lei 11.949/2007. Isso porque a observancia a regra da subvinculacao implicaria em pontual e insustentavel aumento sa-larial dos professores do ensino basico, que, em razao da regra de irredutibilidade salarial, teria como efeito pressionar o orcamento publico municipal nos periodos subsequentes  sem que houvesse receita subsequente proveniente de novos precatorios inexistentes , acarretando o investimento em salarios alem do patamar previsto constitucionalmente, em prejuizo de outras acoes de ensino a serem financiadas com os mesmos re-cursos. E inconstitucional o pagamento de honorarios advocaticios contratuais com recursos destinados ao FUNDEB, o que representaria indevido desvio de verbas constitucionalmente vinculadas a educacao. O comando constitucional e claro ao afirmar que os recursos recebidos por meio do FUNDEB devem ser destinados exclusivamente a educacao basica publica. Dessa forma, a utilizacao de tais verbas para paga-mento de honorarios advocaticios contratuais caracterizaria violacao direta ao texto constitucional. Por outro lado, e admissivel o pagamento de honorarios advocaticios contratuais com verbas provenientes dos juros moratorios incidentes sobre o valor do precatorio devido pela Uniao. Com base nesses entendimentos, o Plenario, por unanimidade, julgou improcedente arguicao de des-cumprimento de preceito fundamental.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O caráter extraordinário dos valores de complementação do FUNDEB pagos pela União aos Estados e aos Municípios, por força de condenação judicial, justifica o afastamento da subvinculação prevista nos arts. 60, XII, do ADCT e 22 da Lei 11.949/2007. 2. É inconstitucional o pagamento de honorários advocatícios contratuais com recursos destinados ao FUNDEB. 3. É admissível o pagamento de honorários advocatícios contratuais com verbas provenientes dos juros moratórios incidentes sobre o valor do precatório devido pela União.

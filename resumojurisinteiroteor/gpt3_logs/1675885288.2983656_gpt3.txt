@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Juiz Cooperador manteve os atos processuais e decisrios, com fulcro no  4 do artigo 64 do CPC. O Autor externou pretender prova emprestada de todas as testemunhas inquiridas em juzo e oitiva de novas testemunhas. Bem. O processo nada mais  do que um sistema de atuao, com atos sequenciados e regulados por lei, visando possibilitar o exerccio da jurisdio. Inclusive, etimologicamente, proveniente do latim procedere, processo possui o significado de marcha avante, ou caminhada. Segundo Humberto Teodoro Jnior a precluso consiste na perda da faculdade de praticar um ato processual, quer porque j foi exercitada a faculdade processual, no momento adequado, quer porque a parte deixou escoar a fase processual prpria, sem fazer uso de seu direito. No caso a fase instrutria j se findou, inclusive com a apresentao de memorial, pelo que se operou a precluso para se requerer a produo de provas,  vista do disposto nos artigos 218 e 223 do CPC. A retroao  fase anterior desnatura o prprio rito processual e vai de encontro ao princpio da durao razovel do processo, previsto no inciso LXXVIII do artigo 5 da Constituio Federal. Com respeito mximo ao despacho proferido pelo MM. Juiz que me antecedeu, indefiro a produo de prova extempornea pretendida pelo Autor, requerida sob o evento 15/especificao de provas 1. Intime. Aps conclusos para sentena. - Evento 17 - DEC1. Certificou-se a no manifestao das partes (Evento 28 - CERT1). O meritssimo juiz de direito da 5a AJME - Cvel julgou improcedentes os pedidos do autor, determinando a extino do feito, com a resoluo do mrito, nos termos do art. 487, I, do CPC. Condenou o autor ao pagamento das custas e de honorrios advocatcios, os quais foram arbitrados em 10% (dez por cento) do valor dado  causa, ficando suspensa a exigibilidade da cobrana, nos termos do 3 do art. 98 do CPC (Evento 30 - SENT1). O autor interps recurso de apelao (Evento 34 - APELAO1).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz Cooperador manteve os atos processuais e decisrios, negando a requerida produo de prova extempornea. O Juiz de Direito da 5ª AJME julgou improcedentes os pedidos do autor, condenando-o ao pagamento de custas e honorários advocatícios. O autor interpôs recurso de apelação.

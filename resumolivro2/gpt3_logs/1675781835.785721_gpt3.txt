@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O magistrado sentenciante pode, desde que no mais subsistam os vestgios materiais da infrao penal, recorrer a outros meios de convico, no obstante a ausncia de exame pericial, entretanto, a confisso no supre o exame do corpo de delito (artigo 328, parte final, CPPM, correlata ao artigo 158, parte final, CPP). A doutrina tem acentuado que confisso  prova da autoria e no do fato delituoso, de modo que no tocante  constatao do corpus criminis, a confisso nenhuma significao apresenta, afigurando-se, portanto, imprestvel para determin-la. Regras probatrias tm por finalidade evitar que o convencimento do juiz possa conduzir a concluses arriscadas, uma dessas regras  a obrigatoriedade da prova pericial para a constatao da materialidade da infrao penal, quando esta deixar vestgios, excluindo peremptoriamente o recurso  confisso do acusado. 14.2.6. Exames nos crimes contra a pessoa. O artigo 330 do CPPM disciplina os exames que tm por fim comprovar a existncia de crime contra a pessoa, a saber, exames de leses corporais, de sanidade fsica e mental, cadavricos, de identidade de pessoa, de laboratrio e de instrumentos que tenham servido  prtica do crime. 14.2.6.1. Exames nos crimes de leses corporaisO exame de corpo de delito tem por fim classificar a leso corporal em leve (artigo 209, caput, CPM) ou grave (artigo 209, pargrafos 1 e 2, CPM). O primeiro laudo pode ser conclusivo e suficiente em, desde logo, classificar a leso corporal leve, mas se inconclusivo (incompleto) procede-se a exame complementar, de acordo com o artigo 331 do CPPM:
+Em caso de leses corporais, se o primeiro exame pericial tiver sido incompleto, proceder-se- a exame complementar, por determinao da autoridade policial militar ou judiciria, de ofcio ou a requerimento do indiciado, do Ministrio Pblico, do ofendido ou do acusado. O prognstico do perito no primeiro exame no  suficiente para classificar a leso grave. O perito, geralmente, assinala no primeiro laudo a necessidade desta providncia, sem embargo de a autoridade polcia judiciria militar ou judiciria determinar sua realizao ou de requer-la o indiciado, o Ministrio Pblico, o ofendido ou o acusado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O magistrado sentenciante pode recorrer a outros meios de convicção, como a confissão, para determinar a autoria de um crime, mas não pode supri-la no que diz respeito à constatação do corpus criminis. O exame de corpo de delito tem por fim classificar a lesão corporal em leve ou grave. Se o primeiro exame for inconclusivo, procede-se a um exame complementar, determinado pela autoridade policial ou judiciária.

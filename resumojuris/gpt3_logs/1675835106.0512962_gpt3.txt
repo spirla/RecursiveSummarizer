@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com efeito, alguma razao assiste ao autor no que se refere a natureza relativamente subjetiva da avaliacao fenotipica, quando menos porque, no atual estagio tecnologico, nao e possivel, nessa seara, estabelecer parametros absolutos, objetivamente aferiveis ou numericamente mensuraveis. Logo, no contexto assim desenhado, se alguma margem de subjetividade deve mesmo ser tolerada, ante a falta de criterios objetivos seguros, exsurge, entao, mais uma forte razao a sinalizar em desfavor do emprego do especialissimo rito mandamental para se discutir e definir, no caso concreto, o direito do recorrente em se ver enquadrado como pardo, para o fim de concorrer em vagas nesse segmento reservadas. (Informativo n. 746) PROCESSO REsp 1.860.239-SC, Rel. Min. Sergio Kukina, Primeira Turma, por unanimidade, julgado em 09/08/2022, DJe 19/08/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO AMBIENTAL TEMA Extracao ilegal de recurso natural (areia). Desatendimento as limitacoes constantes da licenca de operacao. Pretensao indenizatoria da Uniao. Reparacao integral do valor obtido com a extracao irregular. Oposicao de pedido de ressarcimento dos custos operacionais. Descabimento. DESTAQUE A empresa que efetua irregularmente a lavra de minerio, enriquecendo-se ilicitamente, nao pode pretender o ressarcimento dos custos operacionais dessa atividade contra legem, sob o argumento de que a nao remuneracao ensejaria o locupletamento sem causa da Uniao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A avaliação fenotípica possui natureza relativamente subjetiva, devido ao atual estágio tecnológico, não sendo possível estabelecer parâmetros absolutos, objetivamente aferíveis ou numericamente mensuráveis. 2. A falta de critérios objetivos seguros justifica a tolerância de alguma margem de subjetividade no contexto. 3. A empresa que efetua irregularmente a lavra de minério, enriquecendo-se ilicitamente, não pode pretender o ressarcimento dos custos operacionais dessa atividade contra legem, sob o argumento de que a não remuneração ensejaria o locupletamento sem causa da União.

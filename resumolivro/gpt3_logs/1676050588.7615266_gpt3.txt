@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O argumento de que o ru tem direito a ver reconhecida sua inocncia no tem prevalecido nos tribunais, que encerram a relao processual com a declarao da extino da responsabilidade. De fato, a extino da responsabilidade faz perecer o interesse de agir, que  condio da ao penal. 21.1.2. Alcance das causas extintivas da responsabilidade. Segundo o artigo 108 do CP,. Art. 108. A extino da punibilidade de crime que  pressuposto, elemento constitutivo ou circunstncia agravante de outro no se estende a este. Nos crimes conexos, a extino da punibilidade de um deles no impede, quanto aos outros, a agravao da pena resultante da conexo. A regra define o alcance das causas extintivas da responsabilidade, expressamente estabelecendo a incomunicabilidade de seus efeitos em relao aos crimes conexos. A extino da responsabilidade opera efeitos especificamente em relao a cada crime, de maneira individualizada. A primeira regra contida no artigo 108 diz respeito  extino da responsabilidade do crime que  pressuposto da ocorrncia de outro. Para o caso, pode-se formular o seguinte exemplo: a extino da responsabilidade em relao ao furto no repercute efeitos no crime de receptao de objeto furtado. O furto  pressuposto do crime de receptao, mas nem por isso  afetado pela causa extintiva da responsabilidade pelo furto. Para a receptao, o Cdigo previu, no pargrafo 4do artigo 180, regra expressa no sentido de que a receptao  punvel, ainda que desconhecido ou isento de pena o autor do crime de que proveio a coisa. Mas em muitos outros casos verifica-se a mesma situao. No homicdio qualificado pela inteno de ocultar, de garantir a impunidade ou vantagem de outro crime, tem-se que o outro crime  pressuposto do crime de homicdio qualificado. Se o sujeito mata para ocultar a prtica de um anterior peculato, a extino da responsabilidade em relao ao crime praticado contra a Administrao Pblica no interfere na caracterizao e responsabilidade pelo crime contra a vida. Quando se tratar de crime complexo (artigo 101 do CP), a regra do artigo 108 deixa claro que a extino da responsabilidade do crime, que  elemento constitutivo do crime complexo, no se estende a este. Com efeito, o crime complexo constitui uma unidade autnoma, distinta dos crimes que o compem.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 108 do CP estabelece que a extino da responsabilidade de um crime não afeta os crimes conexos. No caso de crime complexo, a extino da responsabilidade de um dos elementos constitutivos não se estende ao crime complexo como unidade autônoma.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+64 se refere a eventual nova pretensao de movimentacao funcional, pelo mesmo fundamento. Portanto, o intersticio de 2 anos e previsto na LONMP como impeditivo da realizacao de nova permuta, e nao como um limite temporal para a eficacia da permuta, como pretendido pelo legislador estadual. Alem de os dispositivos impugnados incorrerem em inconstitucionalidade formal por invasao da competencia da Uniao para a definir normas gerais para os Ministerios Publicos estaduais (CF/88, art. 61,  1, II, d), sob o aspecto material, violam o que previsto pela CF/88 para a progressao e movi-mentacao funcional de magistrados (CF/88, art. 93, II e VIII-A), quanto aos criterios de antiguidade e mere-cimento, os quais se estendem aos membros do Ministerio Publico (CF/88, art. 129,  4). Com esses entendimentos, o Plenario, por unanimidade, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade da Lei Complementar 113/2014 do Estado de Goias, no que introduziu os arts. 167-A e 169-A a Lei Complementar 25/1998 (Lei Organica do Ministerio Publico do Estado de Goias). ADI 6328/GO, relator Ministro Alexandre de Moraes, julgamento virtual finalizado em 15.8.2022 (se-gunda-feira), as 23:59 (INF 1063) Obrigatoriedade de reserva de vagas de estacionamento para advogados em orgaos publi-cos estaduais - ADI 6937/RO ODS: 16 Resumo: E inconstitucional  por violar o principio da separacao dos Poderes (CF/88, art. 2), em de-correncia da usurpacao da iniciativa exclusiva do Poder Executivo para legislar sobre a organizacao e a administracao dos orgaos da Administracao Publica (CF/88, art. 61,  1, II, e , e art. 84, VI, a )  lei de iniciativa parlamentar que institui regra de reserva de vagas de estacionamento aos orgaos publi-cos estaduais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O interstício de 2 anos previsto na LONMP não é um limite temporal para a eficácia da permuta, como pretendido pelo legislador estadual. 2. Os dispositivos impugnados incorrem em inconstitucionalidade formal por invasão da competência da União para a definir normas gerais para os Ministérios Públicos estaduais. 3. Os critérios de antiguidade e merecimento se estendem aos membros do Ministério Público. 4. É inconstitucional lei de iniciativa parlamentar que institui regra de reserva de vagas de estacionamento aos órgãos públicos estaduais, por violar o princípio da separação dos Poderes e usurpar a iniciativa exclusiva do Poder Executivo para legislar sobre a organização e a administração dos órgãos da Administração Pública.

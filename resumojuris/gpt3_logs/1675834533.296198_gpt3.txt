@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Uniao ou Ministerio Publico Federal) regularmente reconhecido pelo Juizo Federal nos termos da Sumula 150/STJ, a competencia para processar e julgar a acao civil de improbidade administrativa sera da Justica Federal. Em sintese, e possivel afirmar que a competencia civel da Justica Federal e definida em razao da presenca das pessoas juridicas de direito publico previstas no art. 109, I, da CF na relacao processual, seja como autora, re, assistente ou oponente e nao em razao da natureza da verba federal sujeita a fiscalizacao da Corte de Contas da Uniao. 153 No caso, nao figura em nenhum dos polos da relacao processual ente federal indicado no art. 109, I, da CF/88, o que afasta a competencia da Justica Federal para processar e julgar a referida acao. Ademais, nao existe nenhuma manifestacao de interesse em integrar o processo por parte de ente federal e o Juizo Federal consignou que o interesse que prevalece restringe-se a orbita do Municipio autor, o que atrai a competencia da Justica Estadual para processar e julgar a demanda. (Informativo n. 724) PRIMEIRA TURMA Voltar ao Sumario. PROCESSO REsp 1.819.105-RS, Rel. Ministro Sergio Kukina, Primeira Turma, por unanimidade, julgado em 29/11/2022, DJe 5/12/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Servidor publico. Juiz atuando como conselheiro do Conselho Nacional de Justica - CNJ. Mudanca temporaria para cidade diversa daquela em que sediado o CNJ.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência para processar e julgar a ação civil de improbidade administrativa é da Justiça Federal, em razão da presença das pessoas jurídicas de direito público previstas no art. 109, I, da Constituição Federal na relação processual. 2. A competência da Justiça Federal para processar e julgar a referida ação é afastada quando não há presença de ente federal nos polos da relação processual indicado no art. 109, I, da Constituição Federal. 3. A competência para processar e julgar a demanda é da Justiça Estadual quando não há manifestação de interesse em integrar o processo por parte de ente federal.

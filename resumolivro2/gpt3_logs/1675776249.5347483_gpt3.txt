@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em resumo, exercem o direito de representao (a) o ofendido maior de 18 anos e mentalmente capaz;
+(b) o representante legal do ofendido menor de 18 ou do mentalmente incapaz. O CPP no exige frmula legal da representao. No  necessrio que a representao seja instruda com prova plena da autoria e da materialidade, mas que sejam apresentadas informaes suficientes para convencer que h um crime a apurar. Se feita oralmente, a representao  reduzida a termo. Importa dizer que a representao conter todas as informaes que possam servir  apurao do fato e da autoria (artigo 39, pargrafo 2, CPP). O ofendido ou seu representante legal decaem do direito de representao se no o exercer no prazo de 6 (seis) meses, contado do dia em que vier a saber quem  o autor do crime (artigo 38, CPP). O prazo de decadncia  nico:
+para o menor de 18 anos comea ao completar a maioridade, enquanto para o representante legal do menor do dia em que vier a saber quem  o autor do crime. A decadncia  causa de extino da punibilidade (artigo 107, IV, CP). 6.3.3. IPM nos crimes de ao penal de iniciativa privada. Poucos crimes da legislao penal que passaram, circunstancialmente,  jurisdio militar so de ao privada. Neles, a autoridade policial somente poder proceder a inqurito a requerimento de quem tenha qualidade para intent-la (artigo 5, pargrafo 5, CPP). Tem qualidade para intentar a ao penal o ofendido maior de 18 anos ou seu representante legal (artigo 34, CPP). O requerimento, de acordo com o previsto no artigo 5, pargrafo 1, CPP, conter sempre que possvel a narrao do fato, com todas as circunstncias, a individualizao do indiciado ou seus sinais caractersticos e as razes de convico ou de presuno de ser ele o autor da infrao, ou os motivos de impossibilidade de o fazer e a nomeao das testemunhas, com indicao de sua profisso e residncia. Encerrado o IPM que apura crime de ao penal privada, os autos so remetidos  Auditoria, onde aguardam queixa-crime, que deve ser oferecida em seis meses (artigo 38, CPP), sob pena de decadncia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O direito de representação é exercido pelo ofendido maior de 18 anos e mentalmente capaz ou pelo seu representante legal. A representação deve conter informações suficientes para convencer que há um crime a ser investigado. O ofendido ou seu representante legal decaem do direito de representação se não o exercerem dentro de 6 meses. Para crimes de ação penal privada, a autoridade policial só pode proceder ao inquérito a requerimento de quem tenha qualidade para intentá-lo. A queixa-crime deve ser oferecida em seis meses, sob pena de decadência.

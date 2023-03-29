@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A sentena terminativa faz coisa julgada formal, mas no faz coisa julgada material. Faz coisa julgada formal a deciso que rejeita a denncia por ausncia de pressupostos processuais ou de qualquer condies exigidas na lei para o exerccio da ao penal. A sentena condenatria transitada em julgado pode ser rescindida a favor do condenado por meio de reviso criminal (artigo 550 e ss. do CPPM). A reviso criminal  ao de impugnao de legitimidade exclusiva do condenado. A reviso criminal  pro reo. Como bem anota Eugnio Pacelli, no h qualquer justificativa de ordem tica, poltica, filosfica ou do que seja, para que se mantenha uma condenao injusta, seja porque lastreada em material probatrio insuficiente ou falso, seja porque contrria  aplicao do Direito em qualquer momento de nossa realidade histrica. Os efeitos da sentena condenatria, a rigor, so mutveis, porque a sentena condenatria, a qualquer tempo poder ser reexaminada, alterada pela reviso criminal quando houver erro judicirio, ou seja, quando se descobrirem novas provas de inocncia do condenado ou de circunstncias que determine ou autorize a diminuio da pena ou, ainda, nulidade do processo (artigo 588, CPPM). O fundamento de a sentena condenatria no se tornar intangvel e imutvel, poder ser revista em reviso criminal ou mesmo apreciada situao em sede de habeas corpus,  que o Estado prefere evitar a condenao de um inocente a intangibilidade da coisa julgada. Diz-se haver coisa soberanamente julgada porque a sentena absolutria ou declaratria de extino da punibilidade transitada em julgado no pode ser revista. No se admite reviso criminal contra o ru, ainda que surjam novas provas da autoria e materialidade. Observa, com agudez, Aury Lopes Jnior essa peculiaridade do processo penal de no admitir reviso criminal contra o ru (ou pro societate), ainda que surjam provas cabais da autoria e materialidade, pelos efeitos da denominada de coisa soberanamente julgada vindos da sentena absolutria ou declaratria de extino da punibilidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena terminativa faz coisa julgada formal, mas no material. A sentena condenatria pode ser rescindida a favor do condenado por meio de reviso criminal. A reviso criminal pro reo e, se houver erro judicirio, a sentena condenatria pode ser revista. A sentena absolutria ou declaratria de extino da punibilidade transitada em julgado no pode ser revista, pois h coisa soberanamente julgada.

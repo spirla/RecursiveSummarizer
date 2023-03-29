@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se constitudo por dois acusados e durante o interrogatrio um dos acusados negar a participao no fato delituoso e imputar a exclusiva autoria ao corru, ao defensor resta renunciar ao patrocnio de ambos ou de um deles dada a colidncia de defesa. O artigo 133 da Constituio garante ao advogado a inviolabilidade de atos e manifestaes no exerccio da sua profisso. No exerccio da sua funo ao advogado so assegurados direitos pelo Estatuto da Advocacia e da Ordem dos Advogados do Brasil (Lei 8.906/94). O artigo 7, II, da Lei 8.906/94, garante ao advogado a inviolabilidade de seu escritrio ou local de trabalho, bem como de seus instrumentos de trabalho, de sua correspondncia escrita, eletrnica, telefnica e telemtica, desde que relativas ao exerccio da advocacia. Conversas telefnicas ou por e-mail entre cliente e advogado no podem ser utilizadas nos autos do processo sob pena de quebra de sigilo profissional. O sigilo profissional no tem o fim de proteger o advogado, mas o de tutelar o cidado:
+O destinatrio da franquia da inviolabilidade profissional  o cidado, titular dos direitos patrocinados, no o advogado, mero intermedirio (STF, MS-MC 23.595).  certo que essa garantia  inviolabilidade profissional no  absoluta, devendo ceder s razes jurdicas de interesse pblico, por exemplo, o STF discutiu se haveria ilicitude da prova obtida nas interceptaes telefnicas de conversas dos acusados com advogados, ao argumento de que essas gravaes ofenderiam o disposto no artigo 7, II, da Lei 8.906/96, que garante o sigilo dessas conversas em seu escritrio ou local de trabalho, e concluiu que o magistrado de primeiro grau, por reputar necessria a realizao da prova, determinou, de forma fundamentada, a interceptao telefnica direcionada s pessoas investigadas, no tendo, em momento algum, ordenado a devassa das linhas telefnicas dos advogados dos pacientes.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 133 da Constituição garante ao advogado a inviolabilidade de atos e manifestações no exercício da profissão. O Estatuto da Advocacia e da Ordem dos Advogados do Brasil (Lei 8.906/94) assegura ao advogado o direito de inviolabilidade de seu escritório ou local de trabalho, bem como de sua correspondência escrita, eletrônica, telefônica e telemática. O sigilo profissional tem o objetivo de tutelar o cidadão, e pode ceder às razões jurdicas de interesse público. O STF discutiu se haveria ilicitude da prova obtida nas interceptações telefônicas de conversas dos acusados com advogados, concluindo que o magistrado de primeiro grau determinou, de forma fundamentada, a interceptação telefônica direcionada às pessoas investigadas, sem ordenar a devassa das linhas telefônicas dos advogados.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Art. 1.227 do CC/2002. DESTAQUE O fato gerador do laudemio e o registro do imovel em Cartorio de Registro de Imoveis, que e o momento em que ocorre a transferencia do dominio util do aludido direito real. A controversia consiste em definir qual a legislacao aplicavel para fins de recolhimento do laudemio incidente sobre a transferencia de terrenos de marinha, a da epoca da realizacao do negocio juridico ou do registro do titulo translativo no Registro de Imoveis. 157 A respeito do tema, o STJ ja se manifestou no sentido de que o fato gerador da laudemio nao ocorre quando da celebracao do contrato de compra e venda, nem da sua quitacao, mas, sim, da data do registro do imovel em Cartorio de Registro de Imoveis (art. 1.227 do CC/2002), que e o momento em que ocorre a transferencia do dominio util do aludido direito real, razao pela qual deveriam incidir 5%, nao meramente sobre o valor do imovel ao tempo do ajuste, mas sobre o valor atualizado do bem (REsp 1.257.565/CE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/08/2011). (Informativo n. 757) PROCESSO RMS 68.647-GO, Rel. Min. Sergio Kukina, Rel. Acd.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O fato gerador do laudemio é o registro do imóvel em Cartório de Registro de Imóveis, que é o momento em que ocorre a transferência do domínio útil do direito real. 2. A legislação aplicável para fins de recolhimento do laudemio incidente sobre a transferência de terrenos de marinha é a da época da realização do negócio jurídico ou do registro do título translativo no Registro de Imóveis. 3. O fato gerador da laudemio não ocorre quando da celebração do contrato de compra e venda, nem da sua quitação, mas sim da data do registro do imóvel em Cartório de Registro de Imóveis (art. 1.227 do CC/2002). 4. O laudemio deveria incidir 5%, não meramente sobre o valor do imóvel ao tempo do ajuste, mas sobre o valor atualizado do bem.

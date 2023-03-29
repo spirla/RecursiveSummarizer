@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+66
+O mbito de cognio restrita do habeas corpus dificulta o exame de provas. O nus da prova  do impetrante, pois predomina o entendimento de que havendo controvrsia a ordem  denegada. 67 Ensinam os doutrinadores que a ao sumarssima do habeas corpus exige prova pr-constituda, o que impede a sua utilizao para superar situao de fato controvertida ou que demande dilao probatria. 68 A jurisprudncia dos nossos tribunais superiores  pacfica, como mostram os julgados que se seguem. O STF, nessa mesma linha, decidiu que o exame de provas  inadmissvel no espectro processual da habeas corpus , ao constitucional que pressupe para seu manejo uma ilegalidade ou abuso de poder to flagrante que pode ser demonstrada de plano. 69 O trancamento da ao penal, em habeas corpus , constitui medida excepcional que s deve ser aplicada quando indiscutvel a ausncia de justa causa ou quando h flagrante ilegalidade demonstrada em inequvoca prova pr-constituda. 70
+Para o STJ, tambm, o conhecimento do habeas corpus exige-se prova pr-constituda na impetrao, uma vez que no h dilao probatria. 71 O remdio constitucional do habeas corpus reveste-se de especialidade, de modo a exigir da parte a demonstrao de plano ou pr-constituio de seu direito. H necessidade, por isso, de que o constrangimento ao direito lquido e certo, concernente ao  status libertatis , seja facilmente detectado, pois a simples aluso a suposto ferimento da ordem libertria no enseja o reconhecimento  tutela jurisdicional. 72
+Em resumo, se diante dos documentos apresentados h dvida sobre a ilegalidade ou constrangimento ilegal a ordem de habeas corpus  denegada. Comprovado, no entanto, o constrangimento ilegal ou ilegalidade da atividade estatal a ordem  concedida. A sentena concessiva da ordem de habeas corpus pode ter natureza cautelar, constitutiva ou declaratria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O habeas corpus exige prova pré-constituída para o seu manejo, não permitindo a dilatação probatória. Se houver dúvida sobre a ilegalidade ou constrangimento ilegal, a ordem é denegada. Se for comprovado o constrangimento ilegal ou ilegalidade da atividade estatal, a ordem é concedida, podendo ter natureza cautelar, constitutiva ou declaratória.

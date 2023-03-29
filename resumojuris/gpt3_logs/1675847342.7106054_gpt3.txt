@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alem disso, a Corte local assentou nao haver conexao entre as acoes penais, haja vista as organizacoes criminosas possuirem objetivos que nao se convergem, sendo que o simples compartilhamento de provas da Operacao Deforest I (em tramite perante juizo estadual) para a Operacao Deforest II (em tramite perante juizo federal), nao implica na conexao capaz de ensejar a competencia do juizo federal para processo e julgamento da acao penal que tramita perante o juizo estadual . Ademais, a acao penal em tramite na Justica Estadual ja foi sentenciada, o que, nos termos do art. 82 do CPP excepciona eventual possibilidade de se avocar o processo. (Informativo n. 737) 1213 PROCESSO HC 662.690-RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, por unanimidade, julgado em 17/05/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Procedimento Investigatorio Criminal Autonomo instaurado pelo Ministerio Publico estadual. Gravacao ambiental realizada por um dos interlocutores sem conhecimento do outro. Participacao das advogadas no ato, na presenca do inquirido e dos representantes do Ministerio Publico. Licitude. Prestigio aos principios da ampla defesa e do devido processo legal. DESTAQUE A gravacao ambiental em que advogados participam do ato, na presenca do inquirido e dos representantes do Ministerio Publico, inclusive se manifestando oralmente durante a sua realizacao, ainda que clandestina ou inadvertida, realizada por um dos interlocutores, nao configura crime, escuta ambiental, muito menos interceptacao telefonica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há conexão entre as ações penais, haja vista as organizações criminosas possuírem objetivos que não se convergem. 2. O simples compartilhamento de provas da Operação Deforest I (em tramite perante juízo estadual) para a Operação Deforest II (em tramite perante juízo federal) não implica na conexão capaz de ensejar a competência do juízo federal para processo e julgamento da ação penal que tramita perante o juízo estadual. 3. A ação penal em tramite na Justiça Estadual já foi sentenciada, o que, nos termos do art. 82 do CPP excepciona eventual possibilidade de se avocar o processo. 4. A gravação ambiental em que advogados participam do ato, na presença do inquirido e dos representantes do Ministério Público, inclusive se manifestando oralmente durante a sua realização, ainda que clandestina ou inadvertida, realizada por um dos interlocutores, não configura crime, escuta ambiental, muito menos interceptação telefônica.

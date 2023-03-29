@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O conceito de culpabilidade nessa formulao apresenta-se complexo, e Wessels assinala que, neste, compreendem-se a capacidade de culpa, os elementos especiais da culpabilidade (previstos apenas em determinados casos), a forma de culpabilidade (dolosa ou culposa), a conscincia do injusto e a ausncia de causas exculpantes. Percebendo clara distino entre o injusto, que representa a desconformidade do fato com as normas do dever da ordem jurdica, e a culpabilidade, Wessels define a culpabilidade como a censurabilidade da formao e da manifestao da vontade. Para essa sistematizao de cunho social, a culpabilidade  vislumbrada como reprovabilidade de base normativa, fundada no nimo adverso ao direito. Significa, assim, censurabilidade do fato com considerao sobre o nimo ativo juridicamente repreensvel. A culpabilidade diz respeito ao fato, e no ao carter; contudo, Wessels admite que indiretamente poder ocorrer uma culpabilidade pela conduta de vida. Tal postura configura um Direito Penal do autor, embora mitigado, e sofre todas as mesmas crticas dirigidas  culpabilidade de carter, tambm observadas na postura de Welzel. Por entender que o contedo da culpabilidade de um comportamento punvel sempre se torna codeterminado pelo contedo do injusto, pois cada variao deste influiria indiretamente na gravidade da censura, a sistematizao social considera o dolo e a culpa, tanto no momento de anlise do tipo como quando da anlise da culpabilidade. Em virtude dessa dupla considerao, o dolo, no exame da tipicidade, coloca-se como elemento determinante da direo do comportamento e, no exame da culpabilidade, estabelece um tipo de culpa,  medida que reflete o desvalor do nimo impulsionador do fato e caracteriza a posio adversa ou indiferente do sujeito em relao s normas jurdicas. Esclarece Jescheck:
+(...) el dolo no debe, sin embargo, incluir-se slo en el tipo de injusto, sino que ostenta una doble posicin. En cuanto determinante de la direccin del comportamiento constituye el elemento central de lo injusto tpico de la accin, en cuanto resultado del proceso de motivacin del autor pertenece a la culpabilidad.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conceito de culpabilidade é complexo e envolve a capacidade de culpa, elementos especiais da culpabilidade, forma de culpabilidade (dolosa ou culposa), consciência do injusto e ausência de causas exculpantes. Wessels define culpabilidade como a censurabilidade da formação e manifestação da vontade, sendo vislumbrada como reprovabilidade de base normativa. O dolo tem dupla posição, sendo determinante da direção do comportamento no exame da tipicidade e resultado do processo de motivação do autor no exame da culpabilidade.

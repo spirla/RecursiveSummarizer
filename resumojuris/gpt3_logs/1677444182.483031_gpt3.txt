@@ -1,0 +1,19 @@
+PROMPT:
+
+# Encontre as teses jurdicas no texto abaixo e organize-as em tpicos.
+
+Informativo
+1082
+1082
+1082
+1081
+
+TESES JURDICAS: 1.  inconstitucional o tpico. 2.  constitucional o tpico. 3.  possvel o tpico. 4. Os requisitos do tpico so, A, B e C. (Informativo X, ADI Y, 01/01/2000).
+
+TESES JURDICAS: 1.
+
+==========
+
+RESPONSE:
+
+Inconstitucionalidade do Tópico 1082. 2. Constitucionalidade do Tópico 1081. 3. Possibilidade de aplicação do Tópico 1082. 4. Requisitos do Tópico 1082: A, B e C (Informativo X, ADI Y, 01/01/2000).

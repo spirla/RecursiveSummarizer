@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 15/9/2022, DJe 23/9/2022. Ramo do Direito DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL Tema Condicoes da acao. Interesse de agir. Anulacao de debito. Erro material em declaracao de credito tributario federal - DCTF. Lancamento. Credito tributario constituido. Previo requerimento administrativo. Desnecessidade. Retificacao da declaracao de credito. Pretensao distinta. DESTAQUE Nao constitui condicao da acao o previo requerimento administrativo para ajuizar acao requerendo anulacao de debito fiscal fundamentada na ocorrencia de erro material no preenchimento da Declaracao de Credito Tributario Federal - DCTF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é necessário o requerimento administrativo prévio para ajuizar ação requerendo anulação de débito fiscal fundamentada na ocorrência de erro material no preenchimento da Declaração de Crédito Tributário Federal - DCTF. 2. Não constitui condição da ação o requerimento administrativo prévio para ajuizar ação requerendo anulação de débito fiscal fundamentada na ocorrência de erro material no preenchimento da Declaração de Crédito Tributário Federal - DCTF.

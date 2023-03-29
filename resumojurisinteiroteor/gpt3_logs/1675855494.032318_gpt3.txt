@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A reviso criminal, embora sendo uma ao penal de natureza constitutiva e de competncia originria do Tribunal pleno, neste caso sub examine, foi ajuizada no com a finalidade de rever uma deciso criminal condenatria, com trnsito em julgado, em que, eventualmente, pudesse ter havido erro quanto aos fatos, sua apreciao, avaliao e enquadramento, nos termos da regra contida no art. 550 do Cdigo de Processo Penal Militar (CPPM). O autor pretendeu, na verdade, a desconstituio do acrdo que decidiu sobre a perda de sua graduao e a sua excluso dos quadros da Polcia Militar do Estado de Minas Gerais (PMMG), na ao de representao ajuizada pelo Ministrio Pblico estadual, em razo de sua condenao a pena privativa de liberdade superior a 2 (dois) anos. Nesse sentido, julgo conveniente transcrever, do precitado parecer, os pargrafos com os quais a eminente procurara fundamentou sua posio contrria ao conhecimento deste feito: [..] De qualquer forma, a petio inicial constante do evento 1 se mostra absolutamente inepta, haja vista que o requerente no se dignou a delimitar o dispositivo legal em que se baseava o pedido revisional e nem poderia, pois, ante uma ligeira anlise da referida pea,  possvel constatar que a exposio das razes no se enquadra em nenhuma hiptese de admissibilidade. Isso porque todas as situaes de admissibilidade enumeradas nas alneas "a, b e c do artigo 551 do CPPM exigem a provenincia de uma deciso penal condenatria, ou seja, a reviso criminal, que no  um recurso, mas sim uma ao, deve ser proposta visando desconstituir integral ou parcialmente uma deciso condenatria de natureza criminal. Todavia, no caso em questo, o peticionrio foi enftico no sentido de pretender desconstituir, no a deciso condenatria, mas sim a que decretou a perda de sua graduao, a qual, ainda que decorrente de uma deciso condenatria, no pode ser revista por meio de reviso criminal em face da absoluta ausncia de amparo legal e tambm por no se tratar a reviso de instrumento recursal. Ademais, a matria trazida  apreciao desse juzo revisional, precisamente, a competncia da Justia Militar para decretar a perda de graduao de militares estaduais, no se enquadra em nenhuma das hipteses do aludido artigo 551 do CPPM, at porque tal matria no foi objeto de deciso no juzo da condenao. Assim sendo, por qualquer ngulo que se veja a questo, a reviso criminal ora interposta se mostra totalmente inadmissvel, de modo que resta impossibilitada, inclusive, a anlise do mrito, motivo pelo qual esta Procuradoria de Justia opina pelo seu no conhecimento. [...] Senhores desembargadores,  de fcil percepo que o autor, embora com uma petio inicial extensa, tenha articulado, apenas e fundamentalmente, dois argumentos para tentar atingir o seu intento.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal negou o conhecimento da reviso criminal, pois a petio inicial do autor no se enquadra em nenhuma das hipteses de admissibilidade previstas no artigo 551 do Cdigo de Processo Penal Militar (CPPM), pois a reviso criminal deve ser proposta visando desconstituir integral ou parcialmente uma deciso condenatria de natureza criminal, e a matria trazida apreciao no se enquadra em nenhuma das hipteses do referido artigo.

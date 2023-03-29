@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nas decises judiciais  usual frisar-se que para a condenao so necessrios indcios veementes, graves e concludentes. Em outras palavras, a condenao exige pluralidade e qualidade dos indcios, indcio isolado no constitui prova. H crticas sobre o valor da prova indiciria por ser considerada quanto ao resultado semiplena;
+prova crtica por sua concluso depender de raciocnio do julgador e, por conseguinte, causadora de erro judicirio. A doutrina brasileira ao tratar do valor da prova indiciria considera que a partir do sistema de livre convencimento que o Cdigo adota, o seu valor probatrio  em tudo igual ao das provas diretas. Concorda Jos Henrique Pierangelli que o julgador tem toda a liberdade para admitir a prova que considera til ao esclarecimento da verdade e para apreci-la de acordo com as regras de Lgica, da Psicologia e da experincia comum, adverte, todavia, sobre o risco dessa prova. Ao dissertar sobre a questo, Hlio Tornaghi afirma que o valor da prova indiciria depende, em primeiro lugar, da natureza da premissa maior condicionado  certeza da premissa menor. A natureza da premissa maior  de duas ordens:
+regra da experincia ou princpio da razo. Quando a premissa maior  uma regra de experincia a concluso  apenas provvel, porque as leis experimentais admitem sempre alguma possibilidade de virem a ser desmentidas (atualmente no se pode mais afirmar com certeza que a gravidez resultou de relao sexual, porque pode ser resultado de inseminao artificial). Entretanto, a premissa maior sendo um princpio da razo, imutvel conduz  certeza da premissa menor. Exemplo do libi:
+se o suspeito estava no Japo no momento do crime praticado no Brasil  certo que no foi autor do crime, porque ningum pode estar e no estar no Brasil ao mesmo tempo, segundo o princpio da contradio. Para doutrinadores estrangeiros o valor da prova indiciria depende da concordncia entre os indcios.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A condenação exige pluralidade e qualidade dos indícios para ser considerada válida. O valor da prova indiciária depende da natureza da premissa maior, que pode ser uma regra de experiência ou princípio da razão. Para doutrinadores estrangeiros, o valor da prova indiciária depende da concordância entre os indícios.

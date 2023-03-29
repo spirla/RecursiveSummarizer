@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Cometendo novo crime, a essncia do benefcio  frustrada. Contudo, quando se tratar de crime praticado anteriormente  concesso do benefcio, no se verifica nenhuma quebra de confiana. O condenado no desatendeu s expectativas sociais relacionadas com a sua libertao antecipada. Nessas situaes, a revogao produzir efeitos distintos daqueles verificados na situao anterior, considerando-se como de cumprimento de pena o tempo em que o liberado esteve solto (artigo 141 da LEP). A ressalva que o artigo 86, II, faz ao disposto no artigo 84 significa que a revogao somente ser obrigatria se a soma das penas impostas, considerando o tempo de pena j cumprido, no permitir a continuidade do benefcio. Cabe ressaltar que, mesmo sendo a condenao posterior relativa  prtica de crime anterior  concesso do benefcio,  possvel que a condenao posterior reconhea a reincidncia.  que a reincidncia ocorre diante do cometimento de crime posterior  condenao, e no ao incio do perodo de prova (artigo 63). Nesses casos, a aferio do tempo mnimo de cumprimento de pena utiliza o parmetro para os casos de reincidncia apenas em relao  nova pena, e no em relao ao somatrio das penas. Se o condenado tiver cumprido um tero da primeira e metade da segunda, poder continuar em liberdade. Suspenso do livramento. Segundo o artigo 145 da LEP,  possvel que, com a prtica pelo liberado de outra infrao penal, o juiz ordene a sua priso, ouvidos o Conselho Penitencirio e o Ministrio Pblico, suspendendo o curso do livramento condicional. A revogao do benefcio, entretanto, fica dependendo de deciso especfica. A suspenso do livramento condicional importa cumprimento de pena, nos moldes antigos. Enquanto preso o condenado e suspenso o livramento condicional, conta-se o tempo de priso como de efetivo cumprimento de pena. Se, posteriormente, o condenado vier a ser novamente condenado e o benefcio revogado, apenas o tempo em que ele ficou livre deixar de ser considerado de cumprimento de pena. Revogao facultativa. As causas facultativas de revogao do livramento condicional, conforme os termos do artigo 87 do Cdigo Penal, restringem-se s hipteses em que o liberado deixar de cumprir quaisquer das obrigaes constantes da sentena ou for irrecorrivelmente condenado, por crime ou contraveno, a pena que no seja privativa de liberdade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A revogação do livramento condicional pode ocorrer de forma obrigatória ou facultativa. Obrigatória, quando a soma das penas impostas não permitir a continuidade do benefício. Facultativa, quando o liberado deixar de cumprir as obrigações da sentença ou for condenado por crime ou contravenção. Se houver reincidência, somente é considerado para aferir o tempo mínimo de cumprimento de pena a nova pena. A suspenso do livramento condicional importa cumprimento de pena como antigamente.

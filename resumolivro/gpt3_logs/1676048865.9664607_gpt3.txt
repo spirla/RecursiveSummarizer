@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A princpio, a maior reprovao se verifica nos casos de cometimento de crime doloso, em que o sujeito conhece a situao especial que o une  vtima e, mesmo assim, comete o crime. No entanto, tambm pode ocorrer situao concreta em que o agravamento da pena se verifique em condenao por crime culposo, tendo em vista a maior exigibilidade de cuidado em relao ao bem jurdico. Veja-se o exemplo em que o policial deixa uma arma de fogo carregada em cima de uma mesa no interior de sua residncia, mesmo sabendo que seus filhos menores so muito curiosos em relao a armas, vindo um dos menores a manusear a arma e efetuar disparo que causa a morte do outro. A caracterstica concreta da curiosidade dos filhos menores, que era do conhecimento do policial, permite exigir dele maior cuidado com o armamento e sua reprovao deve ser maior. Importa perceber que no se fez qualquer distino entre parentesco legtimo ou ilegtimo, natural ou civil. Portanto, sendo o crime praticado contra qualquer parente, a agravante dever incidir. No entanto, a agravante deve ser aplicada em razo de sua finalidade material, havendo desarmonia ou em hostilidade entre os parentes; estando ausentes o afeto e a estima, no se justifica a agravao da pena. Para a aplicao da agravante, prevista na alnea e do inciso II do artigo 61 do Cdigo Penal, no se exige a existncia de relao de confiana entre vtima e ofensor, devendo a pena ser majorada mesmo que a vtima tenha motivos para esperar a prtica do crime. Embora existam decises em contrrio, a razo de ser da agravante no se relaciona com a quebra da relao de confiana. Cabe notar que, nos crimes patrimoniais cometidos, sem violncia ou grave ameaa contra cnjuge, na constncia da sociedade conjugal ou contra ascendente ou descendente, seja o parentesco legtimo ou ilegtimo, civil ou natural, o sujeito  isento de pena. Trata-se das imunidades penais de carter pessoal, tambm denominadas escusas absolutrias, previstas no artigo 181 do Cdigo Penal. 14.7. Abuso de autoridade, relaes domsticas, de coabitao ou de hospitalidade e violncia contra a mulher. O abuso nas relaes de dependncia, intimidade ou comunidade material de existncia tambm agrava a pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A pena pode ser agravada em casos de cometimento de crime doloso ou culposo, como por exemplo, quando o policial deixa uma arma carregada em cima de uma mesa em sua residncia, sabendo que seus filhos menores so curiosos. A agravante deve ser aplicada quando houver desarmonia ou hostilidade entre os parentes. No entanto, nos crimes patrimoniais cometidos sem violncia ou grave ameaa contra cnjuge, na constncia da sociedade conjugal ou contra ascendente ou descendente, o sujeito isento de pena. O abuso nas relaes de dependncia, intimidade ou comunidade material tambm agrava a pena.

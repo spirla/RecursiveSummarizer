@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Legislao pertinente e normas internas definem as duas primeiras situaes - atividade de natureza militar e operao de paz. Operaes de paz das Naes Unidas ajudam pases devastados por conflitos. Na terceira situao h emprego das Foras Armadas em operao de garantia da lei e da ordem (GLO), disciplinada pela Lei Complementar 97, de 09.06.1999, que sofreu alteraes pelas Leis Complementares 117 de 2004 e 136 de 2010. Essa operao de garantia da lei e da ordem (GLO) decorre de deciso e iniciativa do Presidente da Repblica, ou em atendimento a pedido dos Presidentes do Supremo Tribunal Federal, do Senado Federal ou da Cmara dos Deputados, aps esgotados os instrumentos destinados  preservao da ordem pblica e da incolumidade das pessoas e do patrimnio, relacionados no artigo 144 da Constituio Federal. O emprego das Foras Armadas em rea estabelecida e por tempo limitado, de carter preventivo e repressivo, implica aes de patrulhamento, revista de pessoas, de veculos terrestres, de embarcaes e de aeronaves e efetuar prises em flagrante delito.  pacfica a jurisprudncia do STM de ser a JMU competente para processar e julgar delitos praticados contra integrantes das Foras Armadas, quando empregados em operaes em garantia da lei e da ordem. Por fim, h referncia  Lei 7.565, de 19 de dezembro de 1986 - Cdigo Brasileiro de Aeronutica - e da Lei 4.737, de 15 de julho de 1965 - Cdigo Eleitoral. 8.2.4. Submisso de civil ao foro militar. A Constituio Federal atribui  Justia Militar competncia para julgar os crimes militares definidos em lei e delega, ainda,  legislao ordinria a tarefa de fixar a competncia (artigo 124 e pargrafo nico). O artigo 82, pargrafo 1, do CPPM, estende o foro militar aos civis que cometerem crimes contra as instituies militares.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A legislação pertinente e normas internas definem as duas primeiras situações de emprego das Forças Armadas: atividade de natureza militar e operação de paz. A terceira situação é a operação de garantia da lei e da ordem (GLO), disciplinada pela Lei Complementar 97, de 09.06.1999. Esta operação pode ser decidida pelo Presidente da República ou em atendimento a pedido dos Presidentes do Supremo Tribunal Federal, do Senado Federal ou da Câmara dos Deputados. A Justiça Militar é competente para processar e julgar delitos praticados contra integrantes das Forças Armadas, quando empregados em operações em garantia da lei e da ordem. Por fim, há referência à Lei 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica - e à Lei 4.737, de 15 de julho de 1965 - Código Eleitoral. O artigo 82, pargrafo 1, do CPPM, estende o foro militar aos civis que cometerem crimes contra as instituições militares.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+AO JULGADA IMPROCEDENTE. 1. Pedido desconstitutivo de deciso desta Corte que, em ao de indenizao por danos materiais e morais decorrentes da supresso do uso e gozo de imvel, conheceu parcialmente do recurso especial para reformar, em parte, o acrdo de origem. 2. Consoante orientao jurisprudencial da Segunda Seo desta Corte, considerando que o acrdo da Quarta Turma, reputado rescindendo, julgou parte do mrito da demanda originria, reconhece-se a competncia do STJ para conhecer e julgar a ao rescisria, ainda mais quando as questes envolvidas so interdependentes e prejudiciais. Precedentes. 3. No mbito de ao rescisria, o erro de fato se configura quando o julgado que se pretende rescindir admita fato inexistente ou reputa inexistente fato efetivamente ocorrido, sendo indispensvel, em ambos os casos, no ter havido controvrsia nem pronunciamento judicial a respeito. 4. No configurao dos erros de fato apontados na petio inicial, pois foram objeto de especfica e expressa anlise pelos acrdos rescindendos. 5. A viabilidade da ao rescisria por ofensa a literal disposio de lei pressupe violao frontal e direta da literalidade da norma jurdica. 6. Na hiptese, os acrdos rescindendos deram interpretao razovel e sistemtica aos arts. 160, I, do CC/16 e 474 e 512 do CPC/73, com respaldo, inclusive, em jurisprudncia firmada nesta Corte Superior. 7. A ao rescisria no pode ser utilizada como sucedneo recursal, sendo cabvel, excepcionalmente, apenas nas hipteses previstas em lei. 8. DEMANDA RESCISRIA CONHECIDA PARA JULGAR IMPROCEDENTES OS PEDIDOS.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Demanda Rescisria foi julgada improcedente, pois não houve erro de fato nos acórdãos rescindendos, que deram interpretação razoável e sistemática à lei, e a ação não pode ser usada como sucedâneo recursal.

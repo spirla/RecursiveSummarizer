@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Tendo-se em vista que a TR nao reflete o poder aquisitivo da moeda nacional, a Justica laboral deve utilizar, ate que o Poder Legislativo oportunamente solucione a questao, os mesmos indices de correcao mone-taria e de juros vigentes para as condenacoes civeis em geral, isto e, o Indice Nacional de Preco ao Consumidor Amplo Especial (IPCA-E) na fase pre-judicial e a taxa do Sistema Especial de Liquidacao e Custodia (SELIC) a partir do ajuizamento da acao. Tambem devem ser estritamente observados os marcos fixados para a modu-lacao dos efeitos da decisao plenaria proferida no julgamento conjunto acima destacado, cujas balizas foram expressamente reproduzidas na tese do tema de repercussao geral. Com base nesse entendimento, o Plenario, por unanimidade, reconheceu a existencia de repercussao geral da questao constitucional suscitada (Tema 1191 RG). No merito, por maioria, reafirmou a jurisprudencia dominante sobre a materia para prover parcialmente o recurso extraordinario. RE 1269353/DF, relator Ministro Luiz Fux, julgamento finalizado no Plenario Virtual em 17.12.2021 (INF 1043)  8. DIREITO ELEITORAL 8.1 CAMPANHA ELEITORAL Criacao do Fundo Especial de Financiamento de Campanha - ADI 5795/DF ODS: 16 Resumo: E constitucional a criacao do Fundo Especial de Financiamento de Campanha (FEFC) por meio de norma infraconstitucional, dada a inexistencia de obrigacao ou proibicao sobre o tema na CF/88. O Congresso Nacional entendeu que o metodo de financiamento de campanha ate entao em vigor, apos a declaracao de inconstitucionalidade das doacoes por pessoas juridicas de direito privado, nao se revelava suficiente para atender as demandas. Por essa razao, instituiu o FEFC, constituido apenas em anos eleitorais com destinacao de parcela do orcamento da Uniao e com objetivo exclusivo de financiar as campanhas eleito-rais com recursos publicos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Justiça Laboral deve utilizar os mesmos índices de correção monetária e de juros vigentes para as condenações cíveis em geral, ou seja, o Índice Nacional de Preço ao Consumidor Amplo Especial (IPCA-E) na fase pré-judicial e a taxa do Sistema Especial de Liquidação e Custódia (SELIC) a partir do ajuizamento da ação. 2. É constitucional a criação do Fundo Especial de Financiamento de Campanha (FEFC) por meio de norma infraconstitucional, dada a inexistência de obrigação ou proibição sobre o tema na Constituição Federal de 1988.

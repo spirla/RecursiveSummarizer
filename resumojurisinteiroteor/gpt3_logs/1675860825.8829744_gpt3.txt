@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Os ditos policiais procediam a averiguaes sobre uma ocorrncia de prtica de ameaa, com disparo de arma de fogo realizado em desfavor do senhor Arn Marcelino de Oliveira. Aps, o civil Geraldo Gonalves Dutra foi reconhecido como autor do disparo de arma de fogo contra Arn Marcelino de Oliveira. Ambos foram levados  Delegacia de Polcia Civil da Comarca de Coroaci/MG e apresentados a autoridade policial com Boletim de Ocorrncia n. 116/2010 (evento 2 - PEAS IpM3, pginas 23/25), laudos mdicos (Auto de Corpo de Delito, documentos de pginas 26 e 27 do evento 2 - PEAS IPM3) realizados pelo mdico do posto de sade da cidade de Nacif Raydan/MG, bem como projtil de chumbo, encontrado na residncia do senhor Arn Marcelino de Oliveira. Procedeu-se  lavratura da priso em flagrante de Geraldo Gonalves Dutra pela autoridade policial civil - evento 2 - PEAS IPM3, pginas 16/27. Logo aps a sada dos policiais militares da Delegacia de Polcia, um segundo delegado acolheu uma queixa do preso de, supostamente, haver sofrido tortura por partes dos policiais, razo pela qual oficiou ao Juzo daquela comarca, nos termos seguintes: No dia 18 de maio de 2010, por volta de 9hs30 da manh, o nacional GERALDO GONSALVES DUTRA, j qualificado, encontrava-se sentado no corredor desta Delegacia de Polcia Civil de Coroaci/MG, aguardando para ser conduzido ao Crcere em Peanha/MG, aps ter sido autuado em flagrante delito, ante o cometimento de suposto delito tipificado no art. 15 da Lei n. 10.826/03. Aps observar o desconforto com que o mencionado cidado se encontrava, esta Autoridade Policial o indagou se estava tudo bem, momento em que o mesmo relatou que no estava bem, pois havia sido torturado pelos Policiais Militares CB Joao Fidelis Mendes e SD Danilo Pena Braga, quando da priso em flagrante do mesmo, para que este confessasse ter em seu poder uma arma de fogo em sua residncia. De imediato, as declaraes do Sr. Geraldo Gonalves Dutra foram reduzidas a termo, sendo posteriormente encaminhado ao Hospital Municipal para primeiros atendimentos, momento em que foi confeccionado Auto de Corpo Delito Preliminar, constatando alguns hematomas e escoriaes. E o que temos a comunicar. Coroaci/MG, 18 de maio de 2010. Sobre a possvel materialidade do delito, tem-se o Auto de Corpo de Delito juntado no evento 2 - PEAS IPM3, pgina 7, realizado na Delegacia de Polcia da Comarca de Peanha/MG, cujo item II aponta a descrio das leses observadas: Hematoma em regio de flanco (D); hematoma e escoriaes leves em punhos, circundando cada um deles causadas provavelmente por algema; escoriaes por arranhadura e por trauma em regio de MID, que encontra-se edemaciado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Foi realizada uma averiguação sobre uma ocorrência de prática de ameaça com disparo de arma de fogo em desfavor de Arn Marcelino de Oliveira, que resultou na prisão em flagrante de Geraldo Gonalves Dutra. Posteriormente, foi oficiado ao Juízo da Comarca de Coroaci/MG uma queixa de suposta tortura por parte dos policiais militares, sendo constatadas lesões no Auto de Corpo de Delito Preliminar.

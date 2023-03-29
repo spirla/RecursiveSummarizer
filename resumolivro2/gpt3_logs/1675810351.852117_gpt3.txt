@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STJ (RHC 18.116/SP) decidiu que conversa realizada em sala de bate papo da internet, no est amparada pelo sigilo das comunicaes, pois o ambiente virtual  de acesso irrestrito e destinado a conversas informais. O artigo 3, II, Lei 12.850/2013 (Lei de Organizaes Criminosas) prev como meio de obteno de prova a captao ambiental de sinais eletromagnticos, pticos ou acsticos, e, para tanto, no exige qualquer autorizao judicial. 14.2.13.3. Natureza jurdica da interceptao das comunicaes telefnicas. A interceptao telefnica  meio de obteno de prova para fins de investigao criminal ou instruo processual penal e o contedo da conversa interceptada por ordem do juiz competente e nas hipteses em que a lei estabelecer  a prova pertinente ao fato que se apura. A interceptao telefnica  medida cautelar, cujos requisitos para ser deferida so o fumus boni iuris e o periculum in mora. O fumus boni iuris na seara criminal engloba duas exigncias a probabilidade da autoria e a probabilidade de ocorrncia de infrao penal, que esto no inciso I do artigo 2 da Lei 9.296/1996 sendo uma alusiva ao agente indcios razoveis de autoria ou participao e a outra  ocorrncia de infrao penal. O segundo requisito da medida da cautelar, o periculum in mora,  evidenciado no s pela necessidade e urgncia da medida, como tambm pelo risco de a prova no poder ser feita por outros meios disponveis (artigo 2, II). A exigncia do periculum in mora, isto , do perigo de ser perdida a prova sem a interceptao, est expressa no inciso II. Para determinar a interceptao de conversas telefnicas em investigao ou instruo criminal, o juiz e o Conselho de Justia devem verificar se o fato, em tese,  crime militar. 14.2.13.4. Juiz competente para quebra do sigilo telefnico. O artigo 1, caput, da Lei 9.296/1996, disciplina que a interceptao de comunicaes telefnicas depende de ordem do juiz competente da ao principal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ decidiu que conversas realizadas em salas de bate-papo da internet não estão amparadas pelo sigilo das comunicações. A Lei de Organizações Criminosas prevê a captação ambiental de sinais eletromagnéticos, ópticos ou acústicos como meio de obtenção de prova, não exigindo autorização judicial. A interceptação telefônica é um meio de obtenção de prova para fins de investigação criminal ou instrução processual penal, sendo uma medida cautelar que exige o fumus boni iuris e o periculum in mora. O juiz competente para quebra do sigilo telefônico é o juiz da ação principal.

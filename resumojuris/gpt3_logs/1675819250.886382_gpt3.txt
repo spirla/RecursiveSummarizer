@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Isso porque a literalidade do texto constitucional evidencia exatamente que as cotas destinadas aos estados e municipios (2/3 do montante arreca-dado) devem ser distribuidas nacionalmente de acordo com o numero de alunos matriculados nas redes de ensino, ja que nao ha qualquer referencia a lei e tampouco a proporcionalidade quanto ao valor arrecadado em cada estado. Nesse contexto, criterio de distribuicao com base na proporcionalidade do local de arrecadacao nao atende ao objetivo da Republica de reduzir as desigualdades regionais, pois contribui para aumentar a discre-pancia entre os valores dispensados com o financiamento de cada aluno no Brasil. Por outro lado, a reparticao igualitaria da arrecadacao da contribuicao social em referencia e uma forma de concretizacao do principio federativo, com enfase na cooperacao fiscal entre os diversos centros de governo para a progressiva realizacao da igualdade das condicoes sociais de vida em todo o territorio nacional. Com base nesse entendimento, o Plenario, por maioria, julgou procedente a acao para dar interpreta-cao conforme ao conjunto normativo compreendido pelo art. 15,  1, da Lei federal 9.424/1996, e pelo art. 2 da Lei federal 9.766/1998, ambas alteradas pela Lei 10.832/2003, de modo a determinar que as cotas estaduais e municipais cabiveis, a titulo de salario-educacao, sejam integralmente distribuidas, observando-se tao so-mente a proporcionalidade do numero de alunos matriculados de forma linear. Por fim, o Tribunal, por unani-midade, modulou os efeitos da decisao, para que produza efeitos somente a partir de 1.1.2024. ADPF 188/DF, relator Ministro Edson Fachin, julgamento em 15.6.2022 (INF 1059) 14.2 FATO GERADOR Constitucionalidade da chamada norma geral antielisao - ADI 2446/DF Resumo: Nao viola o texto constitucional a previsao contida no paragrafo unico do art. 116 do Codigo Tri-butario Nacional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A literalidade do texto constitucional evidencia que as cotas destinadas aos estados e municipios devem ser distribuidas nacionalmente de acordo com o número de alunos matriculados nas redes de ensino. 2. Critério de distribuição com base na proporcionalidade do local de arrecadação não atende ao objetivo da República de reduzir as desigualdades regionais. 3. A repartição igualitária da arrecadação da contribuição social em referência é uma forma de concretização do princípio federativo, com enfase na cooperação fiscal entre os diversos centros de governo para a progressiva realização da igualdade das condições sociais de vida em todo o território nacional. 4. A previsão contida no parágrafo único do art. 116 do Código Tributário Nacional não viola o texto constitucional.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Da Lei 13.431/2017, que estabelece normas para oitiva de crianas e adolescentes vtimas ou testemunhas de violncia, cabe destacar a escuta especializada (artigo 7) e o depoimento especial (artigo 8). A Recomendao 33/2010 do Conselho Nacional de Justia (CNJ) normatiza a implantao do sistema para colheita de depoimento de crianas e adolescentes vtimas ou testemunhas de violncia. O depoimento deve ser realizado em ambiente separado da sala de audincias e oferecer segurana, privacidade, conforto e condies de acolhimento. A escuta judicial  executada por equipe multidisciplinar, objetivando, principalmente, minimizar a revitimizao da criana ou adolescente e contribuir para a fidedignidade do depoimento, por meio da utilizao de uma metodologia cientificamente testada. Representa nova postura da autoridade judiciria, que complementa a sua funo com a participao de uma equipe de psiclogos, assistentes sociais e profissionais capacitados em tcnicas de entrevista forense. Isso porque o depoimento tradicional costuma gerar grande desconforto e estresse em crianas que precisam repetir inmeras vezes os fatos ocorridos, nas vrias fases da investigao. Outro fator relevante  que o depoimento especial aumenta a fidedignidade dos relatos dos depoentes. Pesquisas demonstram que se questionada de forma inadequada, crianas e adolescentes - assim como adultos - podem relatar situaes que no ocorreram ao se sentirem constrangidas ou mesmo ter falsas memrias implantadas. Por esta razo,  fundamental que os entrevistadores sejam altamente qualificados na tcnica. Para o depoimento especial devem ser seguidos alguns passos que a cincia demonstrou eficazes para proteger o depoente e garantir a fidedignidade do relato. A vtima  incentivada a rememorar o fato sem ser interrompida. As perguntas do juiz, promotor ou advogado so repassadas por telefone ao entrevistador, que as adequar aos padres de perguntas que preservam a criana ou adolescente de violncia emocional.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 13.431/2017 estabelece normas para oitiva de crianças e adolescentes vítimas ou testemunhas de violência, como a escuta especializada e o depoimento especial. O Conselho Nacional de Justiça (CNJ) normatiza a implantação de um sistema para colheita de depoimento de crianças e adolescentes, que deve ser realizado em ambiente seguro e acolhedor. A escuta judicial é executada por equipe multidisciplinar para minimizar a revitimização e garantir a fidedignidade do depoimento. O depoimento especial segue passos cientificamente testados para proteger o depoente e garantir a fidedignidade do relato.

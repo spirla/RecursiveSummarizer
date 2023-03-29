@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Do reconhecimento da distincao dos cargos, decorre a compreensao de que, no Tribunal de Contas do estado da Bahia (TCE/BA), nao ha cargo equivalente ao da CF, inexistindo auditor legitimado a desempenhar as atribuicoes relacionadas ao exercicio de atividades judicantes e a substituicao de conselheiros, tampouco que possa figurar como candidato a sucessao dos membros daquela Corte de contas. A adequacao ao modelo federal deve ser promovida de modo prioritario e celere, para se conferir maxima eficacia a CF. Considerada a vigencia dos preceitos em debate e a situacao funcional, que ja conduziu a efeitos consolidados e exauridos, modula-se a declaracao de inconstitucionalidade a fim de que tenha eficacia a partir de doze meses da data de publicacao da conclusao deste julgamento, permitindo-se a manutencao dos servicos ate a realizacao do concurso devido. O Plenario nao conheceu de acao direta quanto ao pleito formulado de declaracao de inconstitucionalidade do art. 57 da LC 5/1991 e, na parte conhecida, julgou o pedido parcialmente procedente para declarar a inconstitucionalidade da expressao compreendendo as categorias de Auditor Juridico e Auditor de Controle Externo disposta no art. 58 da LC 5/1991, bem assim da expressao compreendendo as funcoes de substituicao de Conselheiro; instrucao e apreciacao, em primeira instancia, de processos constante do art. 5,  3, I, da Lei 7.879/2001, reproduzido no art. 5,  3, I, da Lei 13.192/2014, todas do estado da Bahia, ressaltando que a inexistencia do cargo de auditor previsto no art. 73 da CF torna ilegitima a substituicao temporaria de conselheiros e a realizacao de atos inerentes a judicatura por servidores do TCE/BA ate que sobrevenha a lei que implemente a carreira de auditor e que se realize concurso publico para prover tais cargos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há cargo equivalente ao da CF no Tribunal de Contas do Estado da Bahia (TCE/BA). 2. A adequação ao modelo federal deve ser promovida de modo prioritário e célere para se conferir máxima eficácia à CF. 3. O Plenário não conheceu de ação direta quanto ao pleito formulado de declaração de inconstitucionalidade do art. 57 da LC 5/1991. 4. O pedido foi julgado parcialmente procedente para declarar a inconstitucionalidade da expressão compreendendo as categorias de Auditor Jurídico e Auditor de Controle Externo disposta no art. 58 da LC 5/1991, bem assim da expressão compreendendo as funções de substituição de Conselheiro; instrução e apreciação, em primeira instância, de processos constante do art. 5, 3, I, da Lei 7.879/2001, reproduzido no art. 5, 3, I, da Lei 13.192/2014, todas do Estado da Bahia. 5. A inexistência do cargo de auditor previsto no art. 73 da CF torna ilegítima a substituição temporária de conselheiros e a realização de atos inerentes a judicatura por servidores do TCE/BA até que sobrevenha a lei que implemente a carreira de auditor e que se realize concurso público para prover tais cargos.

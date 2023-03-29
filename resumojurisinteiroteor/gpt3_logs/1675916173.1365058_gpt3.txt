@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ainda que assim no fosse,  oportuno asseverar que eventuais irregularidades existentes no inqurito policial no tm o condo de gerar A a nulidade da ao penal, por se tratar de pea de carter meramente inquisitivo. Nesse sentido,  assente o entendimento do STJ: [...] 3. Eventuais irregularidades ocorridas na fase inquisitorial - inexistentes na hiptese - no contaminam o desenvolvimento da ao penal, tendo em vista ser o Inqurito Policial pea meramente informativa e no probatria, que tem por finalidade fornecer ao Ministrio Pblico ou ao ofendido, conforme a natureza da infrao, os elementos necessrios para a propositura da ao penal. [...] (HC 282322 / RS HABEAS CORPUS 2013/0377796-4; Relatora: Ministra LAURITA VAZ; Data de julgamento: 18/06/2014). [...] A jurisprudncia desta Corte Superior de Justia consolidou-se no sentido de que eventuais irregularidades verificadas no decorrer do inqurito policial no contaminam a ao penal, considerando o fato de que o procedimento inquisitivo apenas se presta a fornecer ao Ministrio Pblico ou ao ofendido, conforme a natureza da infrao, os elementos necessrios para a propositura da ao penal, podendo, inclusive, ser dispensado (HC 185.256/MG, Rel. Ministro Gilson Dipp, Quinta Turma, julgado em 14/08/2012, DJe 20/08/2012) Por tais razes, denego a ordem requerida.  como voto. DESEMBARGADOR JADIR SILVA Acompanho o voto do eminente desembargador relator. DESEMBARGADOR JAMES FERREIRA SANTOS Acompanho o voto do eminente desembargador relator. Belo Horizonte, sesso ordinria presencial de julgamento do Tribunal de Justia Militar do Estado de Minas Gerais, aos 11 de agosto de 2022. Desembargador Scrates Edgard dos Anjos Relator HABEAS CORPUS Processo eproc n. 2000032-81.2022.9.13.0000 Referncia: Processos eproc n. 2000244-30.2021.9.13.0003; 2000136-10.2021.9.13.0000; 2000265-06.2021.9.13.0003 Relator: Desembargador James Ferreira Santos Julgamento: 28/04/2022 Publicao: 05/05/2022 Deciso: UNNIME EMENTA HABEAS CORPUS - AUSNCIA DE ELEMENTOS CAPAZES DE DEMONSTRAR O CONSTRANGIMENTO ILEGAL ALEGADO PELA IMPETRANTE - ORDEM DENEGADA. ACRDO Vistos, relatados e discutidos os presentes autos, sendo paciente e impetrante/advogada Marielle Nunes Barcelos e autoridade apontada como coatora a juza de Direito da 3a AJME, acordam os desembargadores da Segunda Cmara, por unanimidade, em denegar a ordem impetrada. RELATRIO Trata-se de ao de habeas corpus, com pedido liminar, proposta por Marielle Nunes Barcelos, fundamentado nos arts. 5, inciso LXVIII, da Constituio Federal de 1988 (CF/88) e 58 do Cdigo de Processo Penal Militar (CPPM), contra deciso da MMa. Juza de Direito Titular da 3a Auditoria de Justia Militar Estadual (AJME).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ e a jurisprudncia desta Corte Superior de Justia consolidaram-se no sentido de que eventuais irregularidades verificadas no decorrer do inqurito policial no contaminam a ao penal, sendo o procedimento inquisitivo apenas destinado a fornecer ao Ministrio Pblico ou ao ofendido os elementos necessrios para a propositura da ao penal. Por tais razes, foi denegada a ordem de habeas corpus.

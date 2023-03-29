@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Confere  autoridade de polcia judiciria militar e ao Ministrio Pblico acesso, independentemente de autorizao judicial, aos dados cadastrais do investigado que informem exclusivamente a qualificao pessoal, a filiao e o endereo mantidos pela Justia Eleitoral, empresas telefnicas, instituies financeiras, provedores de internet e administradoras de carto de crdito. O acesso no  uma devassa sobre possveis suspeitos de integrar organizao criminosa, mas a pessoa determinada, o investigado, limitado aos dados cadastrais. O entendimento do STF firmado em precedentes  no sentido de que no se confundem comunicao telefnica e registros telefnicos, que recebem, inclusive, proteo jurdica distinta. No se pode interpretar a clusula do artigo 5, XII, da CF, no sentido de proteo aos dados enquanto registro, depsito registral. A proteo constitucional  da comunicao de dados e no dos dados. Assim, independente de autorizao judicial, o Ministrio Pblico e a autoridade de polcia judiciria militar tm acesso exclusivamente  qualificao pessoal (nome, profisso, nacionalidade nmero de documentos de identificao etc. ), filiao e o endereo. No mais que isso por conta do advrbio exclusivamente. Das empresas telefnicas no tm acesso, sem ordem judicial, ao perodo de utilizao da linha telefnica, aos nmeros dos telefones para os quais a linha do investigado efetuou ou recebeu ligaes, bem como data, hora e o tempo de durao das ligaes e, ainda, dados relativos  estao radiobase (ERB).  permitido o acesso, sem ordem judicial, aos dados cadastrais mantidos nas instituies financeiras e administradoras de carto de crdito relativos  qualificao pessoal, filiao e endereo colhidos quando da abertura de contas;
+o acesso  data de abertura de conta corrente e demais operaes financeiras depende de ordem judicial de quebra de sigilo bancrio (artigo 5, pargrafo 1, LC 105/01).  permitido o acesso direto e permanente do juiz, do Ministrio Pblico ou da autoridade de polcia judiciria militar s reservas e registro de viagens das empresas de transporte, que devem manter bancos de dados pelo prazo de cinco anos (artigo 16).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF permite que o Ministério Público e a autoridade de polícia judiciária militar tenham acesso, sem autorização judicial, aos dados cadastrais do investigado, como qualificação pessoal, filiação e endereço, mantidos por empresas telefônicas, instituições financeiras, provedores de internet e administradoras de cartão de crédito. O acesso a dados de transporte deve ser feito por meio de bancos de dados mantidos pelo prazo de cinco anos. A quebra de sigilo bancário depende de ordem judicial.

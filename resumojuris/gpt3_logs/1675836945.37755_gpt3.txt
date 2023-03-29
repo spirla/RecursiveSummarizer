@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL 222 TEMA Acao de fornecimento de suplementacao alimentar. Manifestacao da Uniao. Envio de oficio ao Ministerio da Saude. Determinacao de citacao. Ausencia. Comparecimento espontaneo. Nao configuracao. DESTAQUE A juntada nos autos de simples manifestacao da Uniao informando o envio de oficio, antes de despacho determinando a sua citacao para responder a acao, nao configura comparecimento espontaneo apto a suprir a falta de citacao. Na origem foi ajuizada acao por menor, tendo como reus a Uniao, Estado e Municipio, pleiteando fornecimento de suplementacao alimentar, em razao de ser portadora da doenca de Crohn e nao possuir recursos financeiros para tanto. A liminar foi deferida e posteriormente confirmada com a procedencia da acao, condenando o Estado ao devido fornecimento e a Uniao ao repasse de verba para a aquisicao da respectiva suplementacao. Cinge-se a controversia a discutir a validade da sentenca em razao de a Uniao nao ter sido citada para responder a acao. Na hipotese, a Uniao manifestou-se nos autos tao somente para informar que teria enviado oficio ao Ministerio da Saude para o cumprimento da decisao liminar e, posteriormente, foi proferido despacho no juizo monocratico determinando a citacao dos reus para responder a acao, o que nao foi feito.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A juntada nos autos de simples manifestação da União informando o envio de ofício, antes de despacho determinando a sua citação para responder à ação, não configura comparecimento espontâneo apto a suprir a falta de citação. 2. A condenação da União ao repasse de verba para aquisição da suplementação alimentar é válida mesmo que a União não tenha sido citada para responder à ação.

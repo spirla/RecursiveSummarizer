@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No laudo, que  instrudo com fotografias, desenhos ou esquemas grficos, peritos registram as alteraes do estado das coisas e as consequncias dessas alteraes na dinmica dos fatos. A propsito da importncia do exame de local, o artigo 347 do CP define o crime de fraude processual na conduta de inovar artificiosamente o estado de lugar, de coisa ou de pessoa, com o fim de induzir a erro o juiz ou o perito, para produzir efeito em processo penal, ainda que no iniciado. Inovar designa modificar o estado de lugar, qualquer ambiente que deve ser objeto de exame pelo magistrado ou perito, o estado de coisa mvel ou imvel, o cadver, lavar manchas de sangue, alterar escritura de livro mercantil, eliminar sinais de abalroamento de veculo, e o estado de pessoa no aspecto fsico, ou externo, ou anatmico interno. 14.2.7.2. Exame de verificao de embriaguez. Com o exame de verificao de embriaguez realizado em laboratrio, mediante a coleta sangue consentida pelo examinado, prova-se o delito de embriagar-se quando em servio ou apresentar-se embriagado para prest-lo (CPM, artigo 202). Entretanto, na conduta tipificada no artigo 306 do Cdigo de Trnsito Brasileiro a verificao da embriaguez poder ser obtida mediante teste de alcoolemia ou toxicolgico, exame clnico, percia, vdeo, prova testemunhal ou outros meios de prova em direito admitidos, observado o direito  contraprova (artigo 306, pargrafo 2, CTB). 14.2.7.3. Percia de furto qualificado. O furto qualificado pela destruio ou rompimento de obstculo  subtrao da coisa (artigo 240, pargrafo 6, I, CPM) e mediante escalada (artigo 240, pargrafo 6, II, CPM) deixa vestgio, que deve ser comprovado por percia. Os objetos da percia so as coisas destrudas, danificadas e os obstculos rompidos. Os peritos, alm de descrever os vestgios, indicaro com que instrumentos, por que meios e em que poca presumem ter sido o fato praticado (artigo 341, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O laudo pericial registra as alterações do estado das coisas e as conseqüências dessas alterações na dinâmica dos fatos. O crime de fraude processual é definido pelo artigo 347 do Código Penal como a conduta de modificar o estado de lugar, coisa ou pessoa para induzir a erro o juiz ou o perito. O exame de verificação de embriaguez pode ser obtido por meio de teste de alcoolemia, exame clínico, perícia, vídeo, prova testemunhal ou outros meios de prova admitidos. A perícia de furto qualificado tem como objetos as coisas destruídas, danificadas e os obstáculos rompidos, e os peritos descrevem os vestígios e indicam com que instrumentos, por que meios e em que poca presumem ter sido o fato praticado.

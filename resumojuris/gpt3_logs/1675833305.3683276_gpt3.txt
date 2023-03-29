@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE E vedada a utilizacao de inqueritos e/ou acoes penais em curso para impedir a aplicacao do art. 33,  4, da Lei n. 11.343/2006. A aplicacao da causa de diminuicao de pena prevista no art. 33,  4, da Lei n. 11.343/2006 (Lei de Drogas) constitui direito subjetivo do acusado, caso presentes os requisitos legais, nao sendo possivel obstar sua aplicacao com base em consideracoes subjetivas do juiz. E vedado ao magistrado instituir outros requisitos alem daqueles expressamente previstos em lei para a sua incidencia, bem como deixar de aplica-la se presentes os requisitos legais. E unissono nesta Corte Superior que inqueritos e acoes penais em curso podem ser utilizados para avaliar, em carater preliminar e precario, a periculosidade do agente para fins de fundamentar eventual prisao cautelar. Isso se justifica porque esta medida acauteladora nao exige que se afirme inequivocamente que o Reu provisoriamente segregado e o autor do delito ou que sua liberdade indubitavelmente oferece riscos, bastando que haja, nos termos do art. 312, caput, do CPP, indicio suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado . Diversamente das decisoes cautelares, que se satisfazem com a afirmacao de simples indicios, os comandos legais referentes a aplicacao da pena exigem a afirmacao peremptoria de fatos, e nao a mera expectativa ou suspeita de sua existencia. Por isso, a jurisprudencia do Superior Tribunal de Justica tem rechacado o emprego de inqueritos e acoes penais em curso na formulacao da dosimetria da pena, tendo em vista a indefinicao que os caracteriza. Isso porque, por expressa previsao inserta no art. 5, inciso LVII, da CF/88, a afirmacao peremptoria de que um fato criminoso ocorreu e e imputavel a determinado autor, para fins tecnico-penais, somente e possivel quando houver o transito em julgado da sentenca penal condenatoria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/2006. 2. A aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 (Lei de Drogas) constitui direito subjetivo do acusado, caso presentes os requisitos legais. 3. É vedado ao magistrado instituir outros requisitos além daqueles expressamente previstos em lei para a sua incidência, bem como deixar de aplicá-la se presentes os requisitos legais. 4. Inqueritos e ações penais em curso podem ser utilizados para avaliar, em caráter preliminar e precário, a periculosidade do agente para fins de fundamentar eventual prisão cautelar. 5. A afirmação peremptória de que um fato criminoso ocorreu e é imputável a determinado autor, para fins técnico-penais, somente é possível quando houver o trânsito em julgado da sentença penal condenatória.

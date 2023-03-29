@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Prisao preventiva. Crime de violacao sexual mediante fraude. Ausencia dos requisitos do art. 312 do CPP. Crime praticado no exercicio da medicina. Condicoes pessoais favoraveis. Suficiencia das medidas cautelares do art. 319 do CPP. DESTAQUE Nao se justifica a prisao preventiva se, considerando o modus operandi dos delitos, a imposicao da cautelar de proibicao do exercicio da medicina e de suspensao da inscricao medica, e outras que o Juizo de origem entender necessarias, forem suficientes para prevencao da reiteracao criminosa e preservacao da ordem publica. A custodia prisional e providencia extrema que deve ser determinada quando demonstrados o fumus commissi delicti e o periculum libertatis, na forma do art. 312 do CPP. Em razao de seu carater excepcional, somente deve ser imposta quando incabivel a substituicao por outra medida cautelar menos gravosa, conforme disposto no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não se justifica a prisão preventiva se, considerando o modus operandi dos delitos, a imposição da cautelar de proibição do exercício da medicina e de suspensão da inscrição médica, e outras que o Juízo de origem entender necessárias, forem suficientes para prevenção da reiteração criminosa e preservação da ordem pública. 2. A custódia prisional é providência extrema que deve ser determinada quando demonstrados o fumus commissi delicti e o periculum libertatis, na forma do art. 312 do CPP. 3. Em razão de seu caráter excepcional, somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 319 do CPP.

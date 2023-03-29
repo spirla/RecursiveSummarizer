@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A ideia de responsabilidade pelo ato praticado remonta a Aristteles,17 mas como o pensador grego dissertou sobre a tica, e no sobre o Direito, foi Frank, em sua obra de 1907,18 que ofereceu cabal contestao aos trabalhos positivistas e reuniu os elementos particulares do juzo de reprovao da culpabilidade, que passa a ser considerado juzo de valor normativo. A noo de culpabilidade, a partir de ento, foi enriquecida com a considerao sobre a contrariedade ao dever e deixou de ser meramente psicolgica para adquirir carga valorativa. Nesse sentido, Beling chegou a reconhecer que a culpabilidade deveria expressar juzo valorativo sobre a fase interna da ao criminosa. Com a contribuio de Frank, o dolo e a culpa deixam de ser espcies de culpabilidade e passam a ser seus elementos, estabelecendo um conceito complexo de culpabilidade. Nessa formulao, coexistiam elementos psquicos e valorativos. Alm da relao psquica que liga o sujeito ao fato punvel, a culpabilidade ainda comportaria um juzo de valor normativo, que qualifica a conduta como contrria ao dever e reprovvel pela ordem jurdico-penal, pressupondo que o sujeito tenha atuado em estado normal de circunstncias. Nestes termos, a concepo de culpabilidade  de natureza psicolgico-normativa e ainda orientada por uma racionalidade cognitiva instrumental. Mesmo aps a teoria normativa de Frank, que buscava identificar a essncia da culpabilidade, foi somente Graf Zu Dohna21 que estabeleceu ntida distino entre reprovabilidade como valorao e dolo como objeto de valorao, sustentando que a culpabilidade deve limitar a valorao desse objeto. Mas a questo ainda no fora bem colocada, pois o dolo significa o resultado de uma valorao jurdica que possui por objeto o elemento subjetivo da conduta criminosa. Dolo e culpa no podem ser objetos de valorao do juzo de culpabilidade, pois so conceitos jurdicos abstratos que resultam da valorao realizada sobre o elemento subjetivo do autor: a inteno. O dolo no se confunde com a inteno que motivou a conduta. A vontade finalista que orienta a conduta  um dado da realidade sobre o qual incide a valorao jurdica. O dolo, por sua vez,  conceito jurdico relacionado com o tipo legal e retrata a valorao do legislador sobre a vontade natural.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ideia de responsabilidade pelo ato praticado remonta a Aristteles, mas foi Frank quem ofereceu contestação aos trabalhos positivistas, reunindo elementos particulares do juzo de reprovabilidade da culpabilidade, que passou a ser considerado um juzo de valor normativo. Graf Zu Dohna estabeleceu distinção entre reprovabilidade como valor e dolo como objeto de valor, sustentando que a culpabilidade deve limitar a valorização deste último. O dolo não se confunde com a intenção que motivou a conduta, sendo um conceito jurdico relacionado com o tipo legal.

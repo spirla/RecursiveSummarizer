@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Comumente os condenados morriam ou enlouqueciam. As limitaes do sistema celular provocaram sua reelaborao. Na tentativa de superar as dificuldades do sistema celular, o sistema implantado na priso de Auburn - Nova Iorque - permitiu o trabalho em comum durante o dia, com o isolamento apenas no perodo noturno. No Sistema Auburniano, tambm se conservou a obrigao de silncio absoluto. Os condenados somente podiam dirigir-se aos guardas sob licena e em voz baixa. A rgida disciplina, em verdade, no contribua para a reforma do condenado, mas unicamente para estabelecer a dominao dos carcereiros. O sistema progressivo, por sua vez, pretende incentivar a colaborao do condenado, estimulando sua boa conduta com a possibilidade de obter os benefcios do regime menos rigoroso. Pretende-se que a esperana do condenado em obter recompensas mediante seu bom comportamento seja instrumento eficaz para sua reforma moral, bem como sua reintegrao social7. O sistema progressivo brasileiro foi constitudo com regras prprias e no se confunde com outras sistematizaes que estabelecem progressividade na concesso de benefcios, como os sistemas progressivos ingls, irlands ou de Montesinos. Roberto Lyra foi muito feliz ao observar que:
+o cdigo adotou um sistema progressivo e no o sistema progressivo, construindo, com uma progresso original, flexvel e realista, o sistema progressivo brasileiro. No prestou obedincia a qualquer esquema preestabelecido. De maneira geral, quer quanto ao nmero, quer quanto ao ritmo, quer quanto  essncia, no se subordinou  rigidez de perodos incompatveis com a individualizao executiva da pena e com a contnua transformao da cincia penitenciria. 10.1.1.1. Regime fechado. O regime fechado constitui a fase mais gravosa da execuo penal. Segundo o artigo 87 da Lei 7.210/84 - Lei de Execuo Penal -, o cumprimento da pena em regime fechado realiza-se em penitenciria. A penitenciria, como o prprio nome indica,  o estabelecimento no qual o condenado deve cumprir as penitncias impostas pelo Estado, no se confundindo com o presdio ou a cadeia pblica, que so estabelecimentos destinados ao abrigo dos presos provisrios e condenados por contravenes. A penitenciria  o estabelecimento prisional de segurana mxima ou mdia, destinado  execuo penal dos condenados  pena de recluso e de deteno (s no caso de regresso), em regime fechado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema celular foi reelaborado e o Sistema Auburniano foi implantado na prisão de Auburn - Nova Iorque, com trabalho em comum durante o dia e isolamento noturno, além da obrigação de silêncio. O sistema progressivo brasileiro foi criado para incentivar a colaboração do condenado e estimular sua boa conduta para obter benefícios. O regime fechado é a fase mais gravosa da execução penal, sendo realizada em penitenciária.

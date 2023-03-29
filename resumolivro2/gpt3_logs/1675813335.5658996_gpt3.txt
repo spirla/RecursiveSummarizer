@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A questo de competncia do Juiz que decretou a priso preventiva ficou superada com nova deciso que a manteve, proferida pelo mesmo Juiz, quando j investido de jurisdio sobre o caso, por ato cuja validade no se discute . 19.1.5.12.Habeas corpus e tipicidade
+H abuso de poder e ilegalidade e poder ser concedido habeas corpus quando algum estiver processado por fato que no constitua crime em tese  (art. 467, alnea g , CPPM ). Portanto, durante o processo pode ser concedido o writ e trancada a ao penal. Pode, ainda, ser concedido habeas corpus de acordo com o art. 468, alnea a , do CPPM ,  quando o fato imputado, tal como estiver narrado na denncia, no constituir infrao penal . A despeito da dificuldade da demonstrao da atipicidade nos limites estreitos do writ , se houver manifesta prova de que o fato imputado no constitui crime,  imperativa a concesso da ordem de habeas corpus . 19.1.5.13.Habeas corpus e extino da punibilidade
+H abuso de poder e ilegalidade se houver persecuo penal  quando estiver extinta a punibilidade  (art. 467, alnea h , CPPM ). O habeas corpus  conhecido, desde logo, sem necessidade de aprofundamento no exame da prova. O art. 123 do CPM prev as causas de extino da punibilidade: pela morte do agente, pela anistia ou indulto, pela retroatividade da lei que no mais considera o fato como criminoso ( abolitio criminis ), pela prescrio, pela reabilitao e pelo ressarcimento do dano no peculato culposo (art. 303,  4).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz que decretou a prisão preventiva foi mantido em sua decisão, pois não houve abuso de poder ou ilegalidade. O habeas corpus pode ser concedido quando o fato imputado não constitui infração penal ou quando a punibilidade estiver extinta. As causas de extinção da punibilidade são: morte do agente, anistia ou indulto, retroatividade da lei, prescrição, reabilitação e ressarcimento do dano no peculato culposo.

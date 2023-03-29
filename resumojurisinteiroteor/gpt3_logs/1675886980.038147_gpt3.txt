@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Posteriormente, a defesa requereu por trs vezes a revogao da medida cautelar consistente na utilizao da tornozeleira eletrnica e pugnou pelo restabelecimento da posse de arma de fogo (eventos 130, 164 e 206). O Ministrio Pblico estadual manifestou-se pelo indeferimento dos pedidos, alegando, em todas as oportunidades, que as razes que justificaram a imposio das medidas cautelares ainda subsistiam, no se podendo falar em constrangimento ilegal, tampouco ausncia de razes que justificassem a manuteno das medidas impostas ao paciente (eventos 93, 140, 171 e 220). O juzo a quo indeferiu os pedidos, sob os seguintes argumentos, in verbis: [...]  importante destacar que ao requerer a revogao das medidas cautelares, a defesa apresentou no evento 164, argumentos idnticos aos j apresentados no requerimento do evento n. 130 e que se confundem com o prprio mrito da ao penal ora em curso e que ser apreciado pelo juzo somente quando do julgamento do feito. As medidas cautelares visam assegurar o exerccio da jurisdio penal em situaes em que a produo da prova  ameaada de risco pela conduta do investigado ou acusado, sendo assim, as medidas cautelares de natureza pessoal impem ao ru certas restries na sua liberdade de locomoo enquanto se mostrarem necessrias para o andamento do processo. Conforme j analisado pelo juzo nas decises constantes dos eventos 100 e 148, as medidas cautelares pessoais diversas da priso que foram aplicadas tm se mostrado como suficientes para o regular prosseguimento do feito, razo pela qual indefiro o requerimento da defesa constante do evento 130, consistente na revogao das medidas cautelares diversas da priso, ficando mantidas as medidas impostas nos termos do art. 319, incisos II, III, VI e IX, do CPP c/c art. 3, alnea a, do CPPM, na deciso do evento 42, devendo o denunciado continuar utilizando a tornozeleira eletrnica e sem o uso de armamento (eventos 148 e 180). Nesse contexto, no vislumbro constrangimento ilegal alegado. Da anlise dos autos, percebo que as medidas cautelares em apreo encontram-se devidamente justificadas, em dados concretos extrados dos autos, para a garantia da ordem pblica, ante a gravidade concreta das condutas, em tese, atribudas ao acusado, ora paciente. No tocante  alegao de que a medida cautelar de monitoramento eletrnico estaria contrariando os preceitos contidos no art. 6, pargrafo nico, da Resoluo n. 41/2021 do Conselho Nacional de Justia (CNJ), corroboro o entendimento manifestado pela douta Procuradora de Justia, haja vista que a retromencionada disposio diz respeito  reavaliao da medida cautelar no prazo mximo de 180 (cento e oitenta) dias e no acerca do perodo que o paciente poder ser submetido ao monitoramento eletrnico.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juízo indeferiu o pedido de revogação da medida cautelar consistente na utilização da tornozeleira eletrônica, pois as medidas se mostraram suficientes para o regular prosseguimento do feito, não havendo constrangimento ilegal. A medida também não contraria a Resolução n. 41/2021 do Conselho Nacional de Justiça.

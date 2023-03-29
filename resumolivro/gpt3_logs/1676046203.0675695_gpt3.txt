@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Em nosso Cdigo Penal, so exemplos de crimes de concurso necessrio: a rixa (artigo 137), a paralisao de trabalho (artigos 200 e 201) e a quadrilha ou bando (artigo 288). A maioria dos crimes no exige a interveno de vrias pessoas para caracterizar-se a violao  norma. Nesses casos, a conduta criminosa pode ser realizada por uma nica pessoa. Se o crime puder ser praticado por uma s pessoa, dir-se- que  unissubjetivo. So exemplos de crimes unissubjetivos: o homicdio (artigo 121), o furto (artigo 155) e o roubo (artigo 157). Mesmo nos casos em que o crime possa ser praticado por uma s pessoa,  possvel a ocorrncia do concurso de pessoas. Quando o concurso de pessoas no for uma exigncia tpica, sua ocorrncia poder ser qualificada de eventual ou contingente. O tema do concurso de pessoas integra a teoria do tipo penal incriminador, j que confere tipicidade  conduta daqueles que realizam, apenas em parte, a conduta descrita no tipo ou auxiliam outros na realizao de conduta tpica. Para efetivar tal responsabilidade, o estatuto repressivo precisa conceber norma de extenso tpica que alcance a conduta daqueles que se quer reconhecer participantes da empreitada criminosa. Isso significa que violam a norma jurdica no somente aqueles que realizam as condutas descritas no tipo incriminador, como tambm aqueles que os instigam ou auxiliam. Nesse sentido, o Cdigo Penal brasileiro dispe, em seu artigo 29, que quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas. 9.2. Teorias para a incriminao. Percebendo diversidade na colaborao de cada um dos participantes na realizao do fato criminoso, a Cincia Penal discute, desde o Direito Romano, se, nas hipteses em que ocorrer um concurso de pessoas, configura-se um ou mais crimes. Vrias teorias vm, ento, sendo elaboradas no sentido de estabelecer as consequncias jurdicas para a pluralidade de pessoas no crime. Cumpre destacar as teorias unitria, dualista e pluralista. Teoria unitria ou monista. A teoria unitria sustenta que, mesmo diante da interveno de vrias pessoas, verifica-se um s crime. Tal teoria fundamenta-se em critrios objetivos e considera que as diversas condutas no so praticadas autonomamente, mas convergem para a realizao de um nico objetivo. Por isso, deve ser nico o resultado que decorre da interveno conjunta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal brasileiro prevê crimes unissubjetivos e de concurso necessário, sendo que a ocorrência de concurso de pessoas não típico pode ser qualificada como eventual ou contingente. Existem três teorias para a incriminação desses crimes: unitária, dualista e pluralista. A teoria unitária defende que, mesmo com a intervenção de várias pessoas, há um único crime, pois as condutas se convergem para um objetivo único.

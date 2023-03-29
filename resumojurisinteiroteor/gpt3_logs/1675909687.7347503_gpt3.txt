@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A Juza de Direito julgou improcedente a denncia para absolver o acusado da prtica do crime previsto no art. 259, do CPM, com fundamento no art.439, "b", do CPPM c.c. o art.74, do Cdigo Penal. Quanto ao crime de leso corporal previsto no art. 209, do CPM, a magistrada desclassificou o crime para a infrao disciplinar prevista no art. 209,  6, do CPM, aplicando ao caso penal o princpio da insignificncia ou da bagatela dada a ausncia de materialidade da conduta. A sentena foi juntada no Evento 194, tendo, ento, o Ministrio Pblico interposto o presente recurso de apelao, requerendo a reforma da sentena para que seja o apelado condenado pela prtica dos crimes de concusso e leso corporal leve. Argumenta o Ministrio Pblico em suas razes recursais juntadas no Evento 208 que os fatos narrados na denncia restaram comprovados, pois causa estranheza um policial militar realizar cobrana indevida a um civil que sequer conhecia e que houve a utilizao do cargo pblico para cobrar uma dvida, proveniente de trfico de drogas. Disse ainda o recorrente que o apelado, temendo a presena da Polcia Militar que estava sendo acionada pela vtima, teria iniciado as agresses. Aduz o apelante que restou evidente a prtica do crime de concusso, pois o apelado exigiu que o ofendido pagasse uma dvida pertencente a um amigo em comum de ambos, apontado pelas testemunhas como um traficante de drogas local. Afirma o apelante que o apelado informou, na data dos fatos, que teria ido ao local cobrar um servio pago e no executado e que, entretanto, no interrogatrio judicial, o apelado passou a declarar que no conhecia o ofendido. Alega ainda o Recorrente que aps a data dos fatos, o apelado procurou novamente a vtima, numa clara tentativa de intimidao da mesma. Argumenta ainda o Ministrio Pblico que a inteno do apelado, de efetuar a cobrana de uma dvida, restou evidente nos autos e que, portanto, restou a comprovada a prtica do crime de concusso. Aduz ainda o Ministrio Pblico em suas razes recursais que o crime de leso corporal restou comprovado; que a vtima foi agredida aps tentar ligar para a Polcia Militar, que as escoriaes, as mordidas; e a toro do p do ofendido comprovaria a prtica do crime de leso corporal leve. Disse ainda o Ministrio Pblico no pode prosperar o entendimento exposto na sentena, de aplicao do princpio da insignificncia, uma vez que houve efetiva ofensa ao bem jurdico tutelado por inmeras capacetadas na cabea da vtima. Disse que a vtima apenas reagiu e que tal situao no exclui a prtica do crime pelo apelado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Juza de Direito julgou improcedente a denncia para absolver o acusado dos crimes de concusso e leso corporal leve previstos nos arts. 259 e 209, do CPM, respectivamente. O Ministrio Pblico interps recurso de apelao requerendo a reforma da sentena para que o acusado seja condenado pelos crimes referidos. O recorrente argumentou que os fatos narrados na denncia restaram comprovados e que a inteno do acusado de efetuar a cobrana de uma dvida restou evidente nos autos. O Ministrio Pblico alegou ainda que o crime de leso corporal restou comprovado e que a aplicao do princpio da insignificncia no exclui a prtica do crime pelo acusado.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A tutela constitui um nus em favor do incapaz e deve ser exercida por quem possa bem cuidar dos interesses do menor. A incapacidade para o exerccio da tutela, como efeito da condenao criminal, somente se justifica quando o crime doloso praticado demonstrar que o tutor no tem condies para cuidar dos interesses do tutelado. A imposio da incapacidade visa a evitar que o condenado volte a praticar novos crimes contra o tutelado. Por isso, cabe ao juiz analisar se o caso concreto demonstra a inconvenincia da permanncia da tutela ou no. A incapacidade para o exerccio da tutela dever ser expressamente declarada e fundamentada na sentena condenatria. No  possvel impor a incapacidade para a tutela na condenao por crimes culposos, pois, nesses casos, o tutor no pretendeu cometer qualquer crime contra o tutelado. A desateno para com os deveres objetivos de cuidado que protegem os interesses do tutelado pode ser causa de destituio do tutor, nos termos do artigo 1. do CC. No entanto, tal destituio deve proceder-se no mbito civil. Conforme o artigo 1. do CC, esto sujeitos a curatela: I - aqueles que, por enfermidade ou deficincia mental, no tiverem o necessrio discernimento para os atos da vida civil; II - aqueles que, por outra causa duradoura, no puderem exprimir sua vontade; III - os deficientes mentais, os brios habituais e os viciados em txicos; IV - os excepcionais sem completo desenvolvimento mental; V - os prdigos. A curatela constitui um nus em favor daquele que, por sua idade, normalmente seria considerado capaz, mas, excepcionalmente, no tem condies de administrar sua pessoa e seus bens. O curador, assim, passa a gerir a pessoa e os bens do interdito. As regras estabelecidas para o exerccio da tutela aplicam-se  curatela (artigo 1.781). Do mesmo modo como acontece com a tutela, a incapacidade para o exerccio da curatela somente se justifica quando o crime doloso praticado demonstrar que o curador no tem condies de cuidar dos interesses do curatelado. Por isso, cabe ao juiz analisar se o caso concreto justifica, ou no, a imposio da incapacidade, sempre tendo em vista a possibilidade da ocorrncia de novos crimes contra o interdito. A incapacidade para o exerccio da curatela dever ser expressamente declarada e fundamentada na sentena condenatria. 18.2.3. Inabilitao para dirigir veculo. A ltima hiptese de efeito especfico da condenao est alinhada no inciso III do artigo 92 do CP e trata da inabilitao para dirigir veculo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A tutela e a curatela constituem nus em favor do incapaz e devem ser exercidas por quem possa bem cuidar dos interesses do menor. A incapacidade para o exerccio da tutela ou curatela somente se justifica quando o crime doloso praticado demonstrar que o tutor ou curador não tem condições para cuidar dos interesses do tutelado ou curatelado. A inabilitação para dirigir veículo também é um efeito específico da condenação.

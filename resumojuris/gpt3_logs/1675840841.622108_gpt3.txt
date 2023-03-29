@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A pandemia de covid-19 gerou uma situacao de panico e angustia, levando o pais a uma crise sanitaria sem precedentes. O desespero tomou conta de muitos, provocando a pratica de condutas moralmente reprovaveis, noticiadas diariamente pela imprensa, de tentativa de burla a ordem estabelecida pelos planos nacionais, estaduais ou municipais. As condutas de desrespeito as regras de vacinacao, embora moralmente reprovaveis, nao caracterizam ilicito penal, em especial em face do principio da legalidade (inciso XXXIX do art. 5 da CF/88), que estabelece que somente pode haver responsabilizacao criminal por condutas previamente criminalizadas, adequada e claramente descritas pelo legislador. Assim, por falta de previsao legal, sao atipicas a conduta de submeter-se a vacinacao contra covid-19 em local diverso do agendado e/ou com aplicacao de imunizante diverso do reservado e/ou de submeter-se a vacinacao contra covid-19 sem a realizacao de agendamento. (Informativo n. 752) 725 PROCESSO RHC 164.616-GO, Rel. Min. Joao Otavio de Noronha, Quinta Turma, por unanimidade, julgado em 27/09/2022, DJe 30/09/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Advogado. Apresentacao de noticia criminis ao Ministerio Publico. Delacao. Ausencia de justa causa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A conduta de desrespeito às regras de vacinação contra covid-19, embora moralmente reprovável, não caracteriza ilícito penal, em especial em face do princípio da legalidade (inciso XXXIX do art. 5 da CF/88). 2. É atípica a conduta de submeter-se à vacinação contra covid-19 em local diverso do agendado e/ou com aplicação de imunizante diverso do reservado e/ou de submeter-se à vacinação contra covid-19 sem a realização de agendamento. 3. Não há justa causa para a apresentação de notícia criminis ao Ministério Público.

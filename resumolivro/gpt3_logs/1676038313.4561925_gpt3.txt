@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a norma jurdica que  subjacente ao tipo incriminador possui especfica finalidade protetiva, no se pode ampliar a responsabilidade para alm dos casos circunscritos ao escopo normativo. Mesmo na perspectiva do funcionalismo sistmico, que estabelece prevalncia ao objetivo de afirmao dos padres valorativos da sociedade, e no exatamente na proteo aos bens jurdicos,671 a finalidade da norma incriminadora estabelece os limites da responsabilizao. Existem casos em que o aumento do risco para alm dos limites do permitido no acarreta imputao, pois a situao est fora do alcance da norma jurdica incriminadora. Roxin apresenta exemplo bastante elucidativo: dois ciclistas trafegam com suas bicicletas, durante a noite, por uma rodovia sem iluminao, seguindo um na frente do outro. O ciclista que vinha na frente choca-se com um terceiro ciclista que transitava em sentido contrrio e no o viu, dada a falta de iluminao. Certamente, se o ciclista que vinha atrs estivesse iluminando seu caminho, o terceiro ciclista poderia ver o primeiro e evitar a coliso. A impossibilidade da imputao, no entanto, opera-se em face do reconhecimento da inexistncia da obrigao de iluminar bicicletas alheias e que a norma que impe o dever de trafegar com faris acesos tem a finalidade de evitar sinistros com a pessoa do prprio condutor, e no em terceiros. 3.6.1.4. Excluso da imputao ante o risco permitido. Com muita propriedade, Roxin observa que, mesmo que o sujeito crie, com seu comportamento, uma situao de risco, no  possvel formular-se imputao quando se tratar de um risco permitido. Sem dvidas, o comportamento que se mantm nos limites da tolerncia social no pode caracterizar injusto. Apesar de a noo de risco permitido ser utilizada nos mais variados contextos, seu significado no  suficientemente claro. Entretanto, pode-se entender que o risco permitido caracteriza situao de perigo relevante ao bem jurdico, que, de modo geral (independentemente do caso concreto),  socialmente tolerado.  noo que implica o exerccio de atividade valorativa, a qual se realiza na anlise custo-benefcio do comportamento arriscado. A permisso para a realizao da atividade perigosa fundamenta-se no reconhecimento de que a proibio traria consequncias desvaliosas para a sociedade. Na sociedade contempornea, no  possvel evitar a existncia de certos riscos, mas tais riscos podem ser administrados.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A responsabilização dos infratores deve se limitar ao escopo normativo da norma jurdica incriminadora, pois existem casos em que o aumento do risco para além dos limites permitidos não implica imputação. O risco permitido caracteriza uma situação de perigo relevante ao bem jurdico, que é socialmente tolerado e fundamenta-se na análise custo-benefício do comportamento arriscado.

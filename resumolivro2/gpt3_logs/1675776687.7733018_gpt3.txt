@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O membro do Ministrio Pblico  obrigado a oferecer a denncia, no podendo deixar de faz-lo por inspirar-se em critrios polticos ou de utilidade social. O fato de o Ministrio Pblico deixar de propor a ao penal ofertando a transao penal para o autor do fato (artigo 76 da Lei 9.009/95) relativizou a obrigatoriedade da ao penal, porm a aplicao do instituto da transao penal no mbito da Justia Militar foi proibida pela regra do artigo 90-A da Lei 9.009/95. Pelo princpio da indisponibilidade o Ministrio Pblico no pode desistir da ao penal depois de iniciado o processo penal militar:
+Apresentada a denncia, o Ministrio Pblico no poder desistir da ao penal (CPPM, artigo 32), mesmo que, no curso do processo, se convena da sua improcedncia, neste caso, deve aguardar o julgamento para opinar pela absolvio do acusado (artigo 54, pargrafo nico, CPPM). O Ministrio Pblico tambm no pode desistir do recurso interposto (artigo 512, CPPM). O princpio da indivisibilidade significa que a ao penal deve abranger a todos aqueles que cometeram infrao penal militar. Assim, se o Ministrio Pblico entender que cabe oferecer denncia contra um ou mais corrus e promover o arquivamento do IPM em relao a outro ou outros corrus deve faz-lo de modo fundamentado. O juiz, por sua vez, discordando do pedido de arquivamento deve remeter os autos do IPM ao chefe da instituio, a quem cumpre decidir pelo acerto ou no da promoo de arquivamento. O princpio do impulso oficial impede a paralisao do procedimento pela inrcia ou omisso das partes, cabe ao juiz prover a regularidade do processo (artigo 36, CPPM), diversamente da ao penal privada em que ocorre a perempo (artigo 60 do CPP). O princpio da iniciativa das partes decorre da atribuio exclusiva do Ministrio Pblico de promover a ao penal e probe o juiz de proceder de ofcio (ne procedat judex ex officio). Por fim, o princpio da intranscendncia significa que a ao penal deve ser proposta contra quem praticou a infrao penal militar. No dizer de Fernando Tourinho, no pode atingir familiares do acusado ou estranhos. 7.3.2. Ao penal de iniciativa pblica condicionada.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público é obrigado a oferecer a denúncia, não podendo se basear em critérios políticos ou de utilidade social. A transação penal é relativizada, mas proibida na Justiça Militar. O Ministério Público não pode desistir da ação penal depois de iniciado o processo penal militar. O princípio da indivisibilidade significa que a ação penal deve abranger todos os envolvidos. O princípio do impulso oficial impede a paralisação do procedimento e o princípio da iniciativa das partes atribui ao Ministério Público a responsabilidade de promover a ação penal. Por fim, o princípio da intranscendência significa que a ação penal deve ser proposta contra quem praticou a infração penal militar.

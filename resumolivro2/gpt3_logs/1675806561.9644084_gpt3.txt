@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A despeito de o Cdigo Penal Militar tipificar no artigo 178 o crime de Promover ou facilitar a fuga de pessoa legalmente presa ou submetida a medida de segurana detentiva e de forma anloga o Cdigo Penal tipificar no artigo 351 o delito de Promover ou facilitar a fuga de pessoa legalmente presa ou submetida a medida de segurana detentiva a diferena entre ambos  que a norma do Cdigo Penal Militar tutela a autoridade militar, enquanto a do Cdigo Penal tutela a regularidade do funcionamento da Administrao da Justia (Parte Especial, Ttulo XI, Captulo III). Continua a ter inteira aplicao a Smula 75 do STJ:
+Compete  Justia Comum Estadual processar e julgar o policial militar por crime de promover ou facilitar a fuga de preso de estabelecimento penal no caso de facilitao de fuga de preso de estabelecimento prisional comum (cadeia, penitenciria etc.). Se houver facilitao da fuga de preso de hospital, de quartel ou de delegacia de polcia a competncia  da justia castrense estadual. No  mais aplicada a Smula 6 do STJ:
+Compete  Justia Comum Estadual processar e julgar delito decorrente de acidente de trnsito envolvendo viatura da Polcia Militar, salvo se autor e vtima forem policiais militares em situao de atividade. Delito decorrente de acidente de trnsito envolvendo viatura da Polcia Militar e previsto na Lei 9.503/97 (Cdigo de Trnsito Brasileiro), em razo da referida modificao legislativa,  de competncia da JME. 8.7.4. Conflito de competncia entre Justia Militar da Unio e Justia Militar estadual. A conduta do militar da FAs, que praticar fato considerado crime militar contra policial militar de servio, deve de ser apreciada pela JMU, em razo de a JME ter competncia para processar e julgar militares estaduais. Neste caso, ainda, se no restar configurado o delito militar, firma-se a competncia da justia comum, jamais da JME.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal Militar e o Código Penal tipificam o crime de Promover ou facilitar a fuga de pessoa legalmente presa ou submetida a medida de segurança detentiva. A Smula 75 do STJ estabelece que a Justiça Comum Estadual é responsável pelo processo e julgamento de policiais militares envolvidos em facilitação de fuga de presos de estabelecimentos prisionais comuns, enquanto a Justiça Militar Estadual é responsável por facilitação de fuga de presos de hospitais, quartéis ou delegacias de polícia. A Justiça Militar da União é responsável por processar e julgar militares da Força Aérea que praticam fatos considerados crimes militares contra policiais militares em serviço. Se não for configurado o delito militar, a competência é da Justiça Comum.

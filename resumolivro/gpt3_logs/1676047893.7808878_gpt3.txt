@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nessa hiptese, o legislador entendeu que a quantidade da pena estabelece presuno da necessidade da sujeio do condenado a regime mais rigoroso desde o incio. Vale lembrar, no entanto, que, se o condenado tiver sido preso provisoriamente no curso do inqurito ou da instruo, o tempo referente a essa priso dever ser detrado, conforme o artigo 42 do CP, e, se o tempo que restar ao cumprimento for igual ou inferior a oito anos,  possvel entender que o condenado seja submetido de imediato ao regime semiaberto. No se pode esquecer que o regime inicial fechado somente  possvel na execuo de pena de recluso. Tratando-se de deteno, a regra do artigo 33 caput impede que seja definido o regime fechado para cumprimento inicial. A deteno e a priso simples no comportam regime inicial fechado, mesmo que aplicadas por tempo superior a 8 (oito) anos (possvel somente em caso de unificao de penas). Por isso, para a deteno, o regime mais gravoso possvel  o semiaberto. b) Aplicada pena superior a 4 (quatro) e no excedente a 8 (oito) anos, caso o condenado no seja reincidente, poder iniciar o cumprimento de sua pena no regime semiaberto. Nessa hiptese, alm do critrio relativo  quantidade da pena imposta, dever o juiz considerar a qualificao subjetiva do condenado. Impondo a primariedade como requisito necessrio para iniciar o cumprimento da pena no regime semiaberto, a alnea b do pargrafo 2 do artigo 33 estabelece manifesta contradio com a disposio do caput. Se o condenado  pena de deteno deve iniciar seu cumprimento no regime semiaberto, conforme o caput do artigo 33, o requisito da primariedade, imposto pelo seu pargrafo 2, b, parece inviabilizar que a disposio inicial seja aplicada no caso de reincidente condenado  pena de deteno. Enfrentando a questo, a jurisprudncia dominante firmou entendimento no sentido de que o legislador quis punir, mais severamente, apenas o condenado reincidente, com pena de recluso, impondo-lhe o regime prisional fechado, no incio do cumprimento da pena. Mas a pena de deteno exclui o regime inicial fechado, ainda que se trate de sentenciado reincidente. Dessa forma, o reincidente condenado  pena detentiva poder iniciar seu cumprimento no regime semiaberto. O dispositivo legal utiliza-se da expresso poder para reafirmar o princpio segundo o qual a necessidade de reprovao e preveno do crime pode, no caso concreto, levar ao estabelecimento de regime inicial mais gravoso.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O legislador entendeu que a quantidade da pena estabelece presuno da necessidade da sujeio do condenado a regime mais rigoroso desde o incio. Se o tempo que restar ao cumprimento for igual ou inferior a 8 anos, possvel entender que o condenado seja submetido de imediato ao regime semiaberto. Para deteno, o regime mais gravoso possvel o semiaberto. Aplicada pena superior a 4 e no excedente a 8 anos, caso o condenado no seja reincidente, poder iniciar o cumprimento de sua pena no regime semiaberto. O reincidente condenado pena detentiva também poder iniciar seu cumprimento no regime semiaberto.

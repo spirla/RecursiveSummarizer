@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse quadro, uma vez constatada a superacao (overruling) da jurisprudencia desta Corte, a partir da fixacao da tese vinculante pelo Supremo Tribunal Federal (Tema 944 da sistematica da repercussao geral: Os atos ilicitos praticados por Estados estrangeiros em violacao a direitos humanos nao gozam de imunidade de jurisdicao ), afigura-se impositiva a reforma da decisao extintiva da acao indenizatoria, cujo julgamento devera retomar o seu devido curso. (Informativo n. 740) PROCESSO Processo sob segredo judicial, Rel. Min. Raul Araujo, Quarta Turma, por unanimidade, julgado em 05/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL CIVIL, DIREITOS HUMANOS TEMA Execucao de alimentos. Inadimplemento. Prisao Civil. Pandemia. Covid-19. Retomada do cumprimento em regime fechado. Possibilidade. Analise casuistica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os atos ilícitos praticados por Estados estrangeiros em violação aos direitos humanos não gozam de imunidade de jurisdição. 2. É impositiva a reforma da decisão extintiva da ação indenizatória, cujo julgamento deverá retomar o seu devido curso. 3. É possível a retomada do cumprimento da execução de alimentos em regime fechado, desde que haja análise casuística.

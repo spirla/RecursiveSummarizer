@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Cdigo Penal Militar reconhece as seguintes causas excludentes da imputabilidade:
+a) a doena mental;
+b) o desenvolvimento mental incompleto;
+c) o desenvolvimento mental retardado;
+d) a embriaguez completa, proveniente de caso fortuito ou fora maior;
+e) a menoridade. 5.9.1.1. Reconhecimento da incapacidade. O Cdigo Penal militar adotou como regra o critrio biopsicolgico para identificar as situaes em que o sujeito  considerado inimputvel. Esse critrio resulta da sntese do critrio biolgico, no qual somente se leva em conta a existncia de anomalia biolgica (doena mental, desenvolvimento mental retardado ou incompleto), com o critrio psicolgico, que exige a existncia de causalidade entre a anomalia psicolgica e a impossibilidade de entendimento sobre o carter ilcito do fato ou de autodeterminao do sujeito, quando da prtica criminosa. O reconhecimento da inimputabilidade, portanto, pressupe que o sujeito, ao tempo da prtica criminosa, no possua condies de entendimento sobre a natureza ilcita de seu comportamento ou de determinao de acordo com a percepo dessa ilicitude. A utilizao do critrio biopsicolgico  mais adequada do que a do critrio biolgico puro, uma vez que exige apurao quanto  gravidade da anomalia biolgica e sua relao com o fato concreto. Em relao ao critrio puramente psicolgico, o mtodo biopsicolgico oferece maior segurana jurdica, ao identificar as causas da incapacidade de entendimento e autoconduo. Note-se que o critrio utilizado para identificar as hipteses de incapacidade , antes de tudo, de aferio valorativa, pois indica quando  possvel exigir-se do indivduo a manifestao de finalidade compatvel com as expectativas da ordem jurdica. A opo poltica que determina o acolhimento do critrio biopsicolgico amplia a incriminao  medida que restringe as hipteses de exculpao. Entretanto,  plenamente compatvel com o ideal garantista, ao impedir a punio do indivduo que atuou sem capacidade psquica para adequar seu comportamento s expectativas sociais. 5.9.1.2. Doena mental. A primeira causa de excluso da capacidade psquica do sujeito e, portanto, da responsabilidade criminal prevista no Cdigo Penal Militar  a doena mental. Conforme dispe o artigo 48, para que ocorra a irresponsabilidade  necessrio que, ao tempo da ao ou da omisso, a doena mental cause no sujeito absoluta incapacidade para entender o carter ilcito da conduta realizada ou para determinar-se de acordo com esse entendimento.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal Militar reconhece a doença mental, desenvolvimento mental incompleto ou retardado, embriaguez completa, caso fortuito ou força maior e menoridade como causas excludentes da imputabilidade. O critério biopsicológico é adotado para identificar a incapacidade de entendimento ou autodeterminação do sujeito. A doença mental é a primeira causa de exclusão da responsabilidade criminal prevista no Código Penal Militar.

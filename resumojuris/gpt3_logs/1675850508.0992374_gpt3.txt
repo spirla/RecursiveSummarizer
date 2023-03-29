@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+226 do CPP, a fim de superar o entendimento, ate entao vigente, de que referido o artigo constituiria mera recomendacao e, como tal, nao ensejaria nulidade da prova eventual descumprimento dos requisitos formais ali previstos. Na ocasiao, foram apresentadas as seguintes conclusoes: 1.1) O reconhecimento de pessoas deve observar o procedimento previsto no art. 226 do CPP, cujas formalidades constituem garantia minima para quem se encontra na condicao de suspeito da pratica de um crime; 1.2) A vista dos efeitos e dos riscos de um reconhecimento falho, a inobservancia do procedimento descrito na referida norma processual torna invalido o reconhecimento da pessoa suspeita e nao podera servir de lastro a eventual condenacao, mesmo se confirmado o reconhecimento em juizo; 1.3) Pode o magistrado realizar, em juizo, o ato de reconhecimento formal, desde que observado o devido procedimento probatorio, bem como pode ele se convencer da autoria delitiva com base no exame de outras provas que nao guardem relacao de causa e efeito com o ato viciado de reconhecimento; 1.4) O reconhecimento do suspeito por simples exibicao de fotografia(s) ao reconhecedor, a par de dever seguir o mesmo procedimento do reconhecimento pessoal, ha de ser visto como etapa antecedente a eventual reconhecimento pessoal e, portanto, nao pode servir como prova em acao penal, ainda que confirmado em juizo. Necessario e oportuno proceder a um ajuste na conclusao n. 4 do mencionado julgado. Nao se deve considerar propriamente o reconhecimento fotografico como etapa antecedente a eventual reconhecimento pessoal , mas apenas como uma possibilidade de, entre outras diligencias investigatorias, apurar a autoria delitiva. Nao e necessariamente a prova a ser inicialmente buscada, mas, se for produzida, deve vir amparada em outros elementos de conviccao para habilitar o exercicio da acao penal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O reconhecimento de pessoas deve observar o procedimento previsto no art. 226 do CPP, cujas formalidades constituem garantia minima para quem se encontra na condição de suspeito da prática de um crime. 2. A inobservância do procedimento descrito na referida norma processual torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o reconhecimento em juízo. 3. O magistrado pode realizar, em juízo, o ato de reconhecimento formal, desde que observado o devido procedimento probatório, bem como pode ele se convencer da autoria delitiva com base no exame de outras provas que não guardem relação de causa e efeito com o ato viciado de reconhecimento. 4. O reconhecimento do suspeito por simples exibição de fotografia(s) ao reconhecedor não pode servir como prova em ação penal, ainda que confirmado em juízo. 5. Não se deve considerar propriamente o reconhecimento fotográfico como etapa antecedente a eventual reconhecimento pessoal, mas apenas como uma possibilidade de, entre outras diligências investigatórias, apurar a autoria delitiva.

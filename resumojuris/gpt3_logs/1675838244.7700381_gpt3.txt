@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Tal conclusao decorre do art. 232 da CF, os indios, suas comunidades e organizacoes, sao partes legitimas para ingressar em juizo em defesa de seus direitos e interesses, intervindo o Ministerio Publico em todos os atos do processo. A norma e taxativa: os indios e suas comunidades sao os legitimados para as causas, pelo motivo mais elementar de tambem serem os titulares dos direitos nelas discutidas. E evidentemente a logica que informa todo o sistema juridico brasileiro. Como protecao adicional dos direitos dos indigenas, a Constituicao exige a presenca do MPF, nas causas em que se debaterem seus direitos. A imposicao constitucional atende ao imperativo de que os indios nem sempre estao em condicoes sociologicas de aquilatar as implicacoes de processos em seus direitos, e nisso nao diferem tanto dos demais leigos em direito, malgrado disponham das condicoes intelectuais, morais e psicologicas para se inteirar do assunto, se devidamente esclarecidos a respeito. O problema esta em que todo o processo judicial se desenvolve no universo de sentido europeu, que muitas vezes e estranho ou apenas superficialmente conhecido pelas comunidades indigenas. Caso as relacoes fossem inversas, isto e, se nossa sociedade ainda se pautasse pelo codigo de sentido indigena, seriamos nos, os especialistas no direito nos demais ramos do conhecimento europeu, que necessitariamos de explicacoes antropologicas e sociologicas para a compreensao do Pais. 512 Outro problema parece facilmente identificavel na tese contraria e consiste numa leitura, data venia, apressada das normas legais de regencia do caso. Assim, do fato de o MPF ser o titular de funcao teleologicamente preordenada a defesa dos direitos dos indios, rigorosamente nada se segue acerca da legitimidade deles para a defesa de seus proprios direitos. Do fato de A ter o direito ao aforamento de certa acao nao se pode afirmar nada a respeito da prerrogativa de B faze-lo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os índios, suas comunidades e organizações são partes legitimas para ingressar em juízo em defesa de seus direitos e interesses. 2. A Constituição exige a presença do Ministério Público Federal nas causas em que se debaterem direitos dos índios. 3. Os índios não diferem dos demais leigos em direito, mas necessitam de esclarecimentos a respeito do processo judicial, pois se desenvolve no universo de sentido europeu. 4. Do fato de o Ministério Público Federal ser o titular de função preordenada à defesa dos direitos dos índios, não se segue acerca da legitimidade deles para a defesa de seus próprios direitos.

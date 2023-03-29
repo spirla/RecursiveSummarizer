@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A alteracao promovida pela Lei 11.690/2008 modificou substancialmente a sistematica procedimental da inquiricao de testemunhas. As partes, em modelo mais consentaneo com o sistema acusatorio, tem o protagonismo na audiencia. Cabe-lhes a formulacao de perguntas diretamente as testemunhas. Ao juiz, como presidente da audiencia, cabe o controle do ato processual para que a prova seja produzida nos moldes legais e pertinentes ao caso. Ele nao atua como mero espectador, mas exerce, no tocante a producao da prova testemunhal, especificamente quanto a formulacao de perguntas as testemunhas, papel subsidiario, secundario, de modo que somente e legitima sua atividade instrutoria apos o previo exercicio do direito a prova pelas partes e para saneamento de duvida quanto a aspectos nao esclarecidos e relevantes. Nao pode o magistrado, em substituicao a atuacao das partes, ser o protagonista do ato de inquiricao e tomar para si o papel de primeiro questionador das testemunhas, mesmo porque compete as partes a comprovacao do quanto alegado. Com base nesse entendimento, a Primeira Turma, por maioria, deferiu a ordem de habeas corpus, para reconhecer a nulidade do processo-crime a partir da audiencia de instrucao, com a necessaria renovacao do ato. Vencidos os ministros Alexandre de Moraes e Luis Roberto Barroso. HC 187035/SP, relator Min. Marco Aurelio, julgamento em 6.4.2021 (INF 1012) 16.11 RECURSOS EM GERAL Reclamacao e ilegitimidade recursal - Rcl 43007 AgR/DF Resumo: Os pedidos de reconsideracao carecem de qualquer respaldo no regramento processual vigente. Eles nao constituem recursos, em sentido estrito, nem mesmo meios de impugnacao atipicos. Por isso, nao suspendem prazos e tampouco impedem a preclusao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A alteração promovida pela Lei 11.690/2008 modificou substancialmente a sistemática procedimental da inquirição de testemunhas, conferindo maior protagonismo às partes. 2. O juiz, como presidente da audiência, exerce papel subsidiário e secundário na produção da prova testemunhal, somente atuando instrutoria após o exercício do direito à prova pelas partes. 3. O magistrado não pode substituir a atuação das partes na inquirição de testemunhas, tomando para si o papel de primeiro questionador. 4. Os pedidos de reconsideração não constituem recursos, em sentido estrito, nem meios de impugnação atípicos, não suspendendo prazos e tampouco impedindo a preclusão.

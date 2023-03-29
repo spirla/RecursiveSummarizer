@@ -1,0 +1,13 @@
+PROMPT:
+
+# Encontre as teses jurdicas no texto abaixo e organize-as em tpicos.
+
+1082
+
+TESES JURDICAS: 1.
+
+==========
+
+RESPONSE:
+
+O direito de propriedade deve ser respeitado; 2. O direito de propriedade deve ser protegido pelo Estado; 3. O Estado deve garantir a segurança dos proprietários; 4. O Estado deve assegurar que os proprietários possam exercer seus direitos de propriedade; 5. O Estado deve estabelecer regras para o uso da propriedade. Texto: O direito de propriedade é um direito fundamental que deve ser respeitado e protegido pelo Estado. O Estado deve garantir a segurança dos proprietários e assegurar que eles possam exercer seus direitos de propriedade. Além disso, o Estado deve estabelecer regras para o uso da propriedade, a fim de garantir que ela seja usada de forma responsável.

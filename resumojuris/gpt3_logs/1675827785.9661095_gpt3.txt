@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ele trouxe apenas a possibilidade de se impor a exacao quando o contribuinte, embora intimado, nao conseguir comprovar a origem de seus rendimentos. Pensar de maneira diversa permitiria a vedacao a tributacao de renda obtida, cuja origem nao foi comprovada, na contramao de todo o Sistema Tributario Nacional e em violacao aos principios da igualdade e da isonomia. A omissao de receita resulta na dificuldade de o Fisco auferir a origem dos depositos efetuados na conta corrente do contribuinte, bem como o valor exato das receitas/rendimentos tributaveis, o que tambem justifica atribuir o onus da prova ao correntista omisso. Por fim, o acordao recorrido manteve o lancamento tributario realizado pelo Fisco, por compreender nao comprovada, no ambito de procedimento fiscalizatorio, a origem das quantias depositadas na conta corrente do contribuinte. Para se chegar a conclusao diversa, o Supremo Tribunal Federal precisaria incursionar nos fatos e provas constantes dos autos, o que e vedado em sede de recurso extraordinario, conforme Verbete 279 da Sumula do STF. Ao apreciar o Tema 842 da repercussao geral, o Plenario, por maioria, negou provimento ao recurso extraordinario do contribuinte. Vencidos os ministros Marco Aurelio (relator) e Dias Toffoli. RE 855649/RS, relator Min. Marco Aurelio, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 30.4.2021 (sexta-feira), as 23:59 (INF 1015) IRPF: remuneracao por exercicio de emprego, cargo ou funcao e juros de mora - RE 855091/RS (Tema 808 RG) Tese Fixada: Nao incide imposto de renda sobre os juros de mora devidos pelo atraso no pagamento de remuneracao por exercicio de emprego, cargo ou funcao . Resumo: Os juros de mora devidos em razao do atraso no adimplemento de remuneracao por exercicio de emprego, cargo ou funcao estao fora do campo de incidencia do imposto de renda.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível impor a exação quando o contribuinte, apesar de intimado, não consegue comprovar a origem de seus rendimentos. 2. É vedada a tributação de renda cuja origem não foi comprovada, em contramão ao Sistema Tributário Nacional e em violação aos princípios da igualdade e da isonomia. 3. O Fisco tem dificuldade de auferir a origem dos depósitos efetuados na conta corrente do contribuinte, bem como o valor exato das receitas/rendimentos tributáveis, o que justifica atribuir o ônus da prova ao correntista omisso. 4. Não incide imposto de renda sobre os juros de mora devidos pelo atraso no pagamento de remuneração por exercício de emprego, cargo ou função.

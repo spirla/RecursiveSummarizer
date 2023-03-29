@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1. A jurisprudncia desta Corte Superior tem firme entendimento quanto  necessidade de autorizao judicial para o acesso a dados ou conversas de aplicativos de mensagens instalados em celulares apreendidos durante flagrante delito, ressalvando as circunstncias em que houve a voluntariedade do detentor, como na hiptese. (AgRg no RHC n. 153.021/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 2/3/2022.) 2. No caso, paciente Arnaldo franqueou aos policiais civis o acesso aos dados constantes em seu celular, inclusive mediante o fornecimento de senha. 4. Agravo regimental improvido. (AgRg no HC n. 690.792/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022.) Assim, entendo de maneira semelhante ao juzo de primeiro grau quando refutou o argumento defensivo trazido como preliminar de mrito. A vtima, ao ser ouvida s folhas 401/404 do PAD, ratificou suas declaraes apresentadas na SAD s folhas 72/75, afirmando, categoricamente, que suas informaes iniciais foram prestadas livremente e com seu pleno consentimento. A prova testemunhal demonstra, com a certeza necessria, que o apelante recebeu, em razo de sua funo, vantagem indevida, maculando a imagem da Instituio a qual serviu. Reitero que o primeiro contato da vtima, Andr Luiz Miranda, com o apelante apenas se deu em razo de suas funes como servidor da rea de segurana pblica. Alm disso, a Administrao entendeu que, desde as primeiras tratativas realizadas entre eles, foi acertado o pagamento de uma "recompensa pela recuperao do veculo furtado, configurando-se, assim, a conduta transgressiva. A argumentao da defesa de que a percia seria imprescindvel para a comprovao da acusao no procede, haja vista que, para formar a convico quanto  culpabilidade, no so consideradas as provas isoladamente. Ademais, conforme bem destacou o Estado de Minas Gerais em suas contrarrazes de apelo "ficou claro que o teor da conversa ocorrida entre a vtima e o autor, via WhatsApp, est em simetria com a acusao, e com as outras provas produzidas. Assim, no verifico, no presente caso, a ocorrncia da alegada quebra da cadeia de custdia, pois em nenhum momento ficou demonstrado qualquer indcio de adulterao da prova ou de alterao da ordem cronolgica da conversa de WhatsApp. Nesse sentido, veja-se precedente do STJ: AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSO. NULIDADE DA PROVA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Corte Superior tem entendimento firme de que necessria autorizao judicial para acesso a dados de aplicativos de mensagens instalados em celulares apreendidos durante flagrante delito, salvo quando houver voluntariedade do detentor. No caso, o paciente franqueou aos policiais civis o acesso aos dados de seu celular, inclusive mediante fornecimento de senha. A vtima ratificou suas declaraes iniciais, afirmando que foram prestadas livremente e com seu consentimento. A prova testemunhal demonstra que o apelante recebeu vantagem indevida, maculando a imagem da Instituio para a qual serviu. Nenhum indcio de adulterao da prova ou alterao da ordem cronolgica da conversa foi demonstrado.

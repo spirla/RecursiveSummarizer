@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Na realidade, se o sujeito pretende matar A e, por erro de percepo confunde B com A e mata B, mata a sua vitima culposamente. O sujeito no pretendia matar B e sim A. O estatuto repressivo militar, contudo, determina que o sujeito seja responsabilizado como se tivesse praticado o crime contra aquela que realmente pretendia atingir. Isto significa dizer que o resultado danoso produzido em erro de percepo deve ser atribudo ao sujeito a ttulo de dolo, de modo que, no exemplo, dever ser responsabilizado por homicdio doloso. O Cdigo Penal Militar expressamente considerou o erro de percepo um erro juridicamente irrelevante para a caracterizao do elemento subjetivo da conduta criminosa. Da mesma forma, se o sujeito pretende matar A e, por erro nos meios de execuo, mata B, ocorre tentativa de homicdio doloso em concurso com homicdio culposo. No entanto, o artigo 37 determina que, nesse caso, o sujeito responda como se tivesse praticado o crime contra a pessoa visada e, por fico, considera o fato praticado um crime nico. No erro sobre a pessoa e no erro de execuo no se trata apenas de modificar a responsabilidade pelos resultados produzidos, como acontece no concurso formal e no crime continuado, mas de alterao substancial nas regras da imputao objetiva. Os institutos produzem efeitos diretos na imputao objetiva, de modo a estabelecer para referncia do fato punvel um tipo penal que no  identificado pelas regras ordinrias de imputao objetiva. A exposio de motivos do Cdigo Penal Militar no menciona os institutos do erro sobre a pessoa e do aberratio ictus. A exposio de motivos do Cdigo Penal comum, entretanto, esclarece sobre o erro de execuo, no item 28, que o projeto v na aberratio uma unidade substancial de crime, ou seja, um s crime doloso (absorvido por este a tentativa contra a pessoa visada pelo agente). No estatuto repressivo militar o instituto do erro de execuo foi concebido da mesma maneira como o foi no estatuto repressivo comum. O instituto do erro de execuo desafia de maneira mais importante a compreenso do operador do direito e deve ser examinado com mais cuidado. Desconsiderando a tentativa, o artigo 37 do Cdigo Penal Militar determina que, no exemplo dado, o sujeito responda unicamente por homicdio doloso consumado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal Militar considera o erro de percepção como irrelevante para a caracterização do elemento subjetivo da conduta criminosa, desconsiderando a tentativa. No caso de erro de execução, o artigo 37 determina que o sujeito responda unicamente por homicídio doloso consumado.

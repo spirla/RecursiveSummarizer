@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+: Mesmo que o interrogatorio seja transferido para o final da instrucao, a presente notificacao devera ocorrer apos a reuniao de instalacao. 9. JUNTADA DA DEFESA PREVIA E ROL DE TESTEMUNHAS DE DEFESA - artigo 68, VII, do CEDM (obs. : peca opcional da defesa, que pode decidir por nao a apresentar). Data: ___/___/___ (fl. _____). 10. OITIVA DO OFENDIDO - se existir e a primeira pessoa a ser ouvida, depois do acusado e antes das testemunhas. O CEDM nao prev a figura da vitima, nesse caso, segue-se subsidiariamente a regra do processo penal. Data: ___/___/___(fl. _____). 11. DEPOIMENTO DAS TESTEMUNHAS - primeiro as arroladas pela CPAD e, depois, as da defesa: artigo 68, VIII, do CEDM. 1 - Testemunhas arroladas pela CPAD fls. ____;
+2 Testemunhas arroladas pela CPAD fls.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O interrogatório deve ocorrer após a reunião de instalação. A defesa pode optar por não apresentar a defesa prévia e o rol de testemunhas de defesa. A oitiva do ofendido, se existir, deve ser a primeira pessoa a ser ouvida, depois do acusado e antes das testemunhas. As testemunhas devem ser arroladas primeiro pela CPAD e, depois, pela defesa.

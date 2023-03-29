@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Limites objetivos da coisa julgada. Os limites objetivos da coisa julgada dizem respeito a quais partes da sentena ficam acobertadas pela coisa julgada. A sentena  composta de trs partes conforme as alneas do artigo 438 do CPPM:
+relatrio (a e b), fundamentao ou motivao (c) e dispositivo (d). Em princpio, fica acobertado pela autoridade da coisa julgada apenas o dispositivo da sentena, no os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentena. As causas absolutrias ficam acobertadas pela coisa julgada, por exemplo, estar provada inexistncia do fato e as excludentes de ilicitude, cuja rediscusso  incabvel em outro processo penal ou cvel. Os limites objetivos da coisa julgada dizem respeito ao fato julgado e no  capitulao do crime. Preconiza o artigo 153 do CPPM ao tratar da exceo da coisa julgada que se o juiz reconhecer que o fato principal foi definitivamente julgado por sentena irrecorrvel mandar arquivar a nova denncia. O que compreende a expresso fato principal? Na doutrina brasileira prevalece o entendimento que fato principal  o fato material imputado ao ru, independentemente de sua qualificao jurdico-penal. No dizer de Tourinho Filho esse fato principal de que fala o artigo 110, no seu pargrafo 2, do CPP, e tambm o diz o artigo 153 do CPPM,  o fato material que, na pea acusatria, se imputa ao ru, pouco importando a qualificao jurdico-penal que se lhe d. Assim diz Tourinho Filho que, se o ru foi absolvido da acusao de furto de aparelho televisor de Mvio no poder depois ser acusado de ter-se apropriado indevidamente do mesmo aparelho televisor de Mvio, por ser o mesmo fato embora com roupagem jurdico-penal diversa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os limites objetivos da coisa julgada referem-se às partes da sentença que ficam acobertadas pela autoridade da coisa julgada, sendo que apenas o dispositivo da sentença é acobertado, não os motivos. A coisa julgada também abrange as causas absolutórias, como a inexistência do fato e as excludentes de ilicitude. O fato principal, que é o fato material imputado ao réu, independentemente da sua qualificação jurdico-penal, é o que está abrangido pela coisa julgada.

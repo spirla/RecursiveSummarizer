@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+5) , o acusado Joel como condutor e primeira testemunha (fl. 03), a denunciada llza como segunda testemunha (fl. 04) e, por derradeiro, a acusada Ana Paula como autoridade policial responsvel pela autuao em flagrante de Pedro Henrique Elias por crime de tentativa de roubo sabidamente inexistente (fls. 03/08). As distores e incongruncias do flagrante em comento so manifestas e levaram a MM. Juza de Direito da Vara Criminal a poca, Dra. Aila Figueiredo, a relaxar a priso em flagrante de Pedro Henrique Elias e a requisitar a instaurao de inqurito policial para apurar os fatos dos quais este teria sido vtima. Conforme brilhantes observaes feitas pela ilustre Magistrada no termo de audincia juntada por copia as fls. 44/46: - Joel de Castro Miranda consta formalmente como condutor do APFD em testilha, entretanto, a rigor, no o foi, uma vez que ele prprio afirmou que, ao se aproximar do local dos fatos, o autor teria empreendido fuga e sido perseguido por policiais militares, tendo ele ido socorrer Rosane, que estava nervosa com a abordagem; - Rosane Claudio Mesquita Machado, em suas declaraes, curiosamente, apenas conseguiu talar com os policiais acerca do crime de desacato, tendo se esquecido de talar sobre a tentativa de roubo, dado o nervosismo do momento, e a tolha original de suas declaraes no continha a assinatura da autoridade policial que presidiu a lavratura do flagrante, ao contrario das demais. Frise-se que, por certo, uma tentativa de assalto e sobremaneira mais traumtica que um desacato e, estranhamente, num primeiro momento, Rosane apenas se lembrou deste; - O Boletim de Ocorrncia relativa ao fato praticado por Pedro Henrique Elias (fls. 47/48) narra apenas o crime de desacato, nada aludindo a suposto delito de tentativa de roubo; - Chegou ao Juzo Criminal, atravs do gabinete da 4a Promotoria de Justia, a notcia de que um advogado havia comparecido a Cadeia Publica e visto Pedro Henrique com diversos sinais de agresso, pelo que foi determinada a conduo deste, que foi ouvido judicialmente, oportunidade em que foram visualizadas as mencionadas marcas de agresso. Nessa esteira, conclui-se que Rosane Claudio Mesquita Machado teria sido abordada e desacatada na madrugada do dia 21 de abril de 2010, no tendo se verificado qualquer tentativa de roubo. E mais, dos elementos informativos amealhados nos autos do inqurito policial em apenso, infere-se que sequer foi Pedro Henrique Elias o autor do mencionado crime de desacato, uma vez que suas caractersticas fsicas so bem diferentes das descritas pelas testemunhas.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O flagrante de Pedro Henrique Elias por crime de tentativa de roubo foi relaxado pela Juza de Direito da Vara Criminal devido às distorções e incongruências apresentadas. O boletim de ocorrência relativo ao fato praticado por Pedro Henrique Elias narrou apenas o crime de desacato e ao ser ouvido judicialmente foram visualizadas marcas de agressão. Conclui-se que Rosane Claudio Mesquita Machado teria sido abordada e desacatada na madrugada do dia 21 de abril de 2010, não tendo se verificado qualquer tentativa de roubo e que Pedro Henrique Elias não era o autor do crime de desacato.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com a entrada em vigor da referida lei, que estabelece situao jurdica prejudicial aos interesses do condenado, a prescrio retroativa somente poder beneficiar acusados pela prtica de crimes ocorridos anteriormente  sua vigncia. A garantia constitucional de que a lei penal s poder retroagir para beneficiar o condenado (artigo 5, XL) possibilita a aplicao do instituto aos crimes ocorridos durante a vigncia da disposio legal anterior. A prescrio retroativa foi instituda pelo artigo 110, pargrafo 2, do CP na redao que lhe deu a reforma penal de 1984. O instituto considerava que aps a deciso condenatria definitiva, ou contra a qual somente a defesa tenha recorrido, a anlise da prescrio deveria ser feita tendo como referncia a pena efetivamente aplicada, considerando-se retroativamente o prazo prescricional em relao ao perodo de tempo transcorrido at o estabelecimento dessa pena. A disposio permitia uma correo da contagem do prazo de prescrio que, nos termos do artigo 109, teria sido feita com base na pena mxima cominada ao crime imputado. Utilizava-se a expresso prescrio retroativa justamente porque, aps a deciso condenatria, considerava-se a produo de efeitos em perodos anteriores. O artigo 110 do CP trata da prescrio que se verifica aps o trnsito em julgado da deciso condenatria. Com base nesta a pena, a anterior redao do pargrafo 2 do artigo 110 do CP dispunha que a prescrio (...) pode ter por termo inicial data anterior  do recebimento da denncia ou da queixa. Isso significou dizer que seria necessrio reavaliar se, entre os pontos interruptivos da contagem do prazo prescricional, teria ocorrido perodo de tempo suficiente para, com base na pena imposta, ser reconhecida a prescrio. A previso legal para a prescrio retroativa no restringia a anlise ao perodo compreendido entre a data do crime e a primeira causa interruptiva da prescrio (recebimento da denncia ou queixa). Ao contrrio, permitindo considerar o mais longnquo perodo, o dispositivo legal tambm permitiu avaliar a prescrio em qualquer perodo que se verifique entre as causas interruptivas da contagem estabelecidas no artigo 117 do CP.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A lei penal retroage para beneficiar o condenado, permitindo a aplicação da prescrição retroativa aos crimes ocorridos durante a vigência da disposição legal anterior. O artigo 110 do CP trata da prescrição verificada após o trânsito em julgado da decisão condenatória, permitindo avaliar a prescrição em qualquer período entre as causas interruptivas da contagem estabelecidas no artigo 117 do CP.

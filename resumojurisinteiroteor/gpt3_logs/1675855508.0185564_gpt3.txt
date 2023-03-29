@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O primeiro argumento articulado foi no sentido de justificar a escolha da ao de reviso criminal para desconstituir o acrdo que decretou a perda de sua graduao e o excluiu dos quadros da Polcia Militar de Minas Gerais (PMMG) - mantendo-se seus proventos -, em razo de sua condenao, pelo cometimento de um crime comum, a uma pena privativa de liberdade superior a 2 (dois) anos. O autor tomou como base para sua alegao a deciso prolatada por esta egrgia Corte na Ao Rescisria n. 1.00084.32.2015.9.13.0000, que foi extinta sem resoluo de mrito, com alegao de ajuizamento da ao errada, devido a impossibilidade de aplicao do princpio da fungibilidade por caracterizao de erro grosseiro, bem como da inadmissibilidade da ao rescisria em matria penal, por se tratar de um pedido juridicamente impossvel e por falta de interesse processual. Os embargos declaratrios insurgindo-se contra esse acrdo foram rejeitados e a deciso foi mantida nos termos do art. 485, inciso VI, do novo Cdigo de Processo Civil (CPC). Para melhor elucidao e contextualizao dos fatos, tomo a liberdade de reproduzir no meu voto, a parte transcrita na pea inicial, que foi extrada do supracitado acrdo dos aclaratrios: [...] Em minha deciso de fls. 53/53v, afirmei que esta ao rescisria visava desconstituir deciso demissionria decorrente de processo de perda de graduao, cuja representao foi apresentada pelo Ministrio Pblico, tendo por base a condenao criminal do ora embargante a uma pena definitiva de dois anos e oito meses, em regime aberto, como incurso nas iras do artigo 209,  1, c/c o artigo 70, II, alneas a e g, bem como com o artigo 53,  2, inciso I, todos do CPM. Assim sendo, a presente ao rescisria visa rescindir a demisso do ora embargante, decorrente dos efeitos de uma sentena penal condenatria e no de uma ao cvel que seria originria de um processo administrativo disciplinar. As provas dos autos se referem a julgamento criminal a que o embargante foi submetido, que culminou com sua demisso em processo originrio de perda de graduao. A pretenso do recorrente neste feito, manifestada atravs de ao rescisria, no  compatvel com a via eleita. Se o autor interpe a ao errada ou utiliza do procedimento incorreto, o provimento jurisdicional no lhe ser til, razo pela qual a inadequao procedimental acarreta a inexistncia de interesse processual. Desta forma, a fundamentao dos embargos de declarao com base no artigo 1022, inciso III (corrigir erro material), do novo CPC, no se sustenta, se considerarmos que o pedido de suspenso da deciso que julgou a perda de graduao do autor foi em decorrncia de condenao criminal transitada em julgado, tratando-se de matria penal e no cvel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A ao rescisria apresentada pelo autor para desconstituir o acrdo que decretou a perda de sua graduao e o excluiu dos quadros da Polcia Militar de Minas Gerais foi rejeitada, pois se tratava de um pedido juridicamente impossível e de falta de interesse processual, uma vez que a condenção criminal transitada em julgado era de matéria penal e não cível.

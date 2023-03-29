@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Alegou que em se tratando de competncia absoluta em razo da matria (crime militar) os autos devem ser remetidos imediatamente ao juzo competente (art. 43 do Cdigo de Processo Civil), salvo se j houver sentena transitada em julgado. Nesse sentido, aduziu que todos os processes que estejam tramitando na Justia Comum, quando tiverem sido cometidos por militares estaduais em uma das hipteses do inciso II do art. 9, do Cdigo Penal Militar devem ser remetidos  Justia Militar. Asseverou que a Smula n.172 do Superior Tribunal de Justia (STJ) que dispe sobre a competncia da Justia Comum para processar e julgar o militar que pratica crime de abuso de autoridade perdeu a sua validade. No mrito, inicialmente destacou a divergncia havida entre o exame clnico elaborado pelo mdico plantonista, Dr. Pedro Coutinho Comello, no dia dos fatos e o exame de corpo de delito elaborado pelo mdico que atendeu as vtimas no dia seguinte (14/07/2010), h mais de 24 (vinte e quatro) horas dos fatos, Dr. Joo Srgio Lougon Borges de Mattos. Asseverou, que no primeiro documento foi atestado que as vtimas no apresentaram alteraes fsicas ao exame clnico, entretanto, o segundo foi elaborado de forma tendenciosa e com contradies. Disse que no item 3, aps responder negativamente ao questionamento se a ofensa foi produzida por tortura, meio insidioso, cruel ou que poderia resultar perigo comum, em seguida, atestou na parte conclusiva, que os ferimentos foram causados por policiais militares, que teria sofrido socos e pontaps. Destacou que os apelantes negaram a prtica das agresses e, esclareceram que as supostas vtimas so conhecidas no meio policial pela prtica de ilcitos e envolvimento com trfico de drogas e no tm permisso para pilotar motos, tendo no dia dos fatos, aps ordem de parada, empreendido fuga e cado da referida moto, na estrada de cho que estava molhada e escorregadia. Disse que a vtima Kelson acusou os apelantes de terem desferido socos em sua face, o que acarretaria gravssimas leses, deformaes, fraturas e/ou hematomas, mas que tal fato no foi comprovado ou atestado em nenhum exame clnico. Alegou que as frgeis e contraditrias acusaes perpetradas pelas supostas vtimas tiveram a colaborao das testemunhas de defesa, que so seus amigos ntimos, conforme se observa nos depoimentos prestados em juzo, com o objetivo de prejudicar os acusados e tir-los do bom combate ao trfico de drogas. Transcreveu trecho do depoimento de Felipe Moraes Alves e asseverou que o mesmo demonstrou toda simulao criada, tendo a referida vtima confessado que eles (Kelson) so amigos ntimos e estavam pilotando moto em via pblica sem a devida habilitao, razo pela qual empreenderam fuga e na estrada de terra molhada caram e foram abordados pela PM; que Kelson j teve passagem policial; que somente ele e Kelson estavam no local da abordagem e que os outros amigos encontraram com ele depois.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A Justia Militar tem competncia absoluta para processar e julgar os militares estaduais que cometem crimes de acordo com o Cdigo Penal Militar. O relator destacou a divergncia entre os exames clnicos realizados para as vtimas e a simulao criada por elas, com o objetivo de prejudicar os acusados. Asseverou que a vtima confessou que ela e os acusados eram amigos ntimos e que eles estavam pilotando moto em via pblica sem a devida habilitao.

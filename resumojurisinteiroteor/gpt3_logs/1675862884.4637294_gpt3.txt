@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+324, todos do CPM, o Cb. PM Eli Cssio Teixeira Santana nos arts. 195, 312 e 324, todos do CPM, o Cb. PM Elton Costa de Souza, nos arts. 195, 312 e 324 todos do CPM, o Sd PM David Ferreira de Farias, nos art. 196 e art. 324, CPM, o Sd. PM Gleison Eugnio de Oliveira e o Sd. PM Marcelo Alves Pereira, ambos os dois ltimos no art. 196, CPM, pelo que o Ministrio Pblico requer sejam eles citados para interrogatrio e defesa que quiserem produzir, ouvidas as pessoas abaixo arroladas, cumpridas as demais formalidades da lei, para ao final, serem condenados nas sanes que Ihes couberem. (Evento 3, DENNCIA 2 - autos de 1a Instncia) Em 20 de abril de 2018, a denncia foi recebida (Evento 3, RECE_DENUN14, pg. 2 - autos de 1a Instncia). Nos dias 21 de agosto e 12 de setembro de 2018, respectivamente, foram inquiridas as testemunhas de acusao - Cap PM Emerson Santos Vieira, 2 Ten QOR PM Eduardo Peixoto, 2 Sgt PM Marcos Antonio da Silva, Maj PM Roberto Martins, Alex Marcos Dias Jlio Teixeira e Michele Paula Kelly Teixeira Julio; e as de defesa - 3 Sgt PM Rogrio Aparecido de Nea, 3 Sgt PM Marco Antnio de Paula e Cb PM Wemerson Pereira da Silva. (Evento 3, PEAS DIGITALIZADAS 16, e PEAS DIGITALIZADAS 17, pgs. 23/26 - autos de 1a Instncia). Em 31 de janeiro de 2020, os acusados foram interrogados (Evento 3, PEAS DIGITALIZADAS 17, pgs. 66/67- autos de 1a Instncia). Na fase do artigo 427 do CPPM, as partes nada requereram (Evento 3, PEAS DIGITALIZADAS 17, pgs. 69/70 - autos de 1a Instncia). Na fase do artigo 428 do CPPM, apenas a defesa dos acusados Marcelo Alves Pereira e Elton Costa de Souza manifestou-se pela apresentao das alegaes finais em plenrio de julgamento (Evento 64, PET1 - autos de 1a Instncia).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A denncia foi recebida em 20 de abril de 2018 e as testemunhas de acusação e defesa foram inquiridas nos dias 21 de agosto e 12 de setembro de 2018, respectivamente. Os acusados foram interrogados em 31 de janeiro de 2020. Na fase do artigo 427 do CPPM, as partes nada requereram e, na fase do artigo 428 do CPPM, a defesa dos acusados manifestou-se pela apresentação das alegações finais em plenário de julgamento.

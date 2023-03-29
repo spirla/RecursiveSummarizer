@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Sebastiao Reis Junior, Terceira Secao, por maioria, julgado 26/10/2022, DJe 03/11/2022. RAMO DO DIREITO DIREITO PENAL, EXECUCAO PENAL TEMA Prescricao da pretensao executoria. Art. 112, I, do CP. Termo inicial. Transito em julgado para ambas as partes. Entendimento sufragado pelo STF. DESTAQUE O Termo inicial da contagem do prazo da prescricao da pretensao executoria e o transito em julgado para ambas as partes. Necessario o alinhamento dos julgados do Superior Tribunal de Justica com o posicionamento adotado nas recentes decisoes monocraticas proferidas no ambito do Supremo Tribunal Federal, bem como nos seus orgaos colegiados. O Tribunal Pleno fixou a orientacao de que [a] prescricao da pretensao executoria, no que pressupoe quadro a revelar a possibilidade de execucao da pena, tem como marco inicial o transito em julgado, para ambas as partes, da condenacao . Logo, enquanto nao proclamada a inadmissao de recurso de natureza excepcional, tem- se o curso da prescricao da pretensao punitiva, e nao a da pretensao executoria (AI 794.971/RJ-AgR, rel. do ac.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O termo inicial da contagem do prazo da prescrição da pretensão executória é o transito em julgado para ambas as partes. 2. É necessário alinhar os julgados do Superior Tribunal de Justiça com o posicionamento adotado pelo Supremo Tribunal Federal. 3. O Tribunal Pleno fixou a orientação de que a prescrição da pretensão executória tem como marco inicial o transito em julgado, para ambas as partes, da condenação. 4. Enquanto não proclamada a inadmissão de recurso de natureza excepcional, tem-se o curso da prescrição da pretensão punitiva, e não a da pretensão executória.

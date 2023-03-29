@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE O INMETRO nao possui competencia exclusiva para fiscalizacao quantitativa de produtos comercializados. Na origem, trata-se de acao ordinaria ajuizada por sociedade empresaria objetivando liberacao de mercadorias apreendidas (pescado) em decorrencia de divergencia quanto ao peso liquido do produto, apos desglaciamento, mediante apuracao de procedimento fiscalizatorio promovido pelo Ministerio da Agricultura, Pecuaria e Abastecimento - MAPA, com base no nos subitens b e c do item 16.1 do Oficio Circular n. 25/2009. A Corte Regional, com base na analise e interpretacao dos termos das letras b e c, do item 16.1, do topico 16, constante do Oficio Circular GAB/DIPOA n. 25/2009, concluiu que o procedimento fiscalizatorio adotado pelo MAPA, com esteio no referido ato administrativo, invadiu a competencia exclusiva do INMETRO, notadamente a relacionada a verificacao do peso liquido do produto comercializado, pelo que entendeu nula a autuacao do orgao ministerial. Entretanto, nao seria este o melhor entendimento aplicado a lide, uma vez que, indubitavelmente, a metrologia legal, como parte da metrologia que se refere as exigencias legais, tecnicas e administrativas, relativas as unidades de medida, aos metodos de medicao, aos instrumentos de medir e as medidas materializadas, e, de fato, uma atividade indelegavel, de competencia exclusiva do Conselho Nacional de Metrologia, Normalizacao e Qualidade Industrial - CONMETRO. No caso analisado, entretanto, o que se discute e a possibilidade de o MAPA, em concorrencia com o INMETRO, proceder a fiscalizacao sobre pesagem de produtos comercializados destinados ao consumidor final. Nesse passo, seria desarrazoado imaginar que o INMETRO, orgao com estrutura insuficiente para todo o territorio, fosse o unico a vigiar a saude e o respeito aos padroes de todos os setores produtivos do Brasil .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O INMETRO não possui competência exclusiva para fiscalização quantitativa de produtos comercializados; 2. A metrologia legal é uma atividade indelegável, de competência exclusiva do CONMETRO; 3. O MAPA pode proceder a fiscalização sobre pesagem de produtos comercializados destinados ao consumidor final; 4. O INMETRO possui estrutura insuficiente para vigiar a saúde e o respeito aos padrões de todos os setores produtivos do Brasil.

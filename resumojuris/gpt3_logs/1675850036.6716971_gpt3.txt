@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Rogerio Schietti, 6 Turma, DJe 15/3/2021), do uso de cameras pelos agentes de seguranca, a fim de que se possa aprimorar o controle sobre a atividade policial, tanto para coibir praticas ilegais, quanto para preservar os bons policiais de injustas e levianas acusacoes de abuso. Sobre a gravacao audiovisual, alias, e pertinente destacar o recente julgamento pelo Supremo Tribunal Federal dos Embargos de Declaracao na Medida Cautelar da ADPF 635 ( ADPF das Favelas , finalizado em 3/2/2022), oportunidade na qual o Pretorio Excelso - em sua composicao plena e em consonancia com o decidido por este Superior Tribunal no HC 598.051/SP - reconheceu a imprescindibilidade de tal forma de monitoracao da atividade policial e determinou, entre outros pontos, que o Estado do Rio de Janeiro, no prazo maximo de 180 (cento e oitenta) dias, instale equipamentos de GPS e sistemas de gravacao de audio e video nas viaturas policiais e nas fardas dos agentes de seguranca, com o posterior armazenamento digital dos respectivos arquivos . Mesmo que se considere que todos os flagrantes decorrem de busca pessoal - o que por certo nao e verdade -, as estatisticas oficiais das Secretarias de Seguranca Publica apontam que o indice de eficiencia no encontro de objetos ilicitos em abordagens policiais e de apenas 1%; isto e, de cada 100 pessoas revistadas pelas policias brasileiras, apenas uma e autuada por alguma ilegalidade. Conquanto as instituicoes policiais hajam figurado no centro das criticas, nao sao as unicas a merece-las. E preciso que todos os integrantes do sistema de justica criminal facam uma reflexao conjunta sobre o papel que ocupam na manutencao da seletividade racial. Por se tratar da porta de entrada no sistema, o padrao discriminatorio salta aos olhos, a primeira vista, nas abordagens policiais, efetuadas principalmente pela Policia Militar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário o uso de câmeras por parte dos agentes de segurança para aprimorar o controle sobre a atividade policial, tanto para coibir práticas ilegais quanto para preservar os bons policiais de injustas e levianas acusações de abuso. 2. O Supremo Tribunal Federal reconheceu a imprescindibilidade da gravação audiovisual para monitorar a atividade policial e determinou, entre outros pontos, que o Estado do Rio de Janeiro, no prazo máximo de 180 dias, instale equipamentos de GPS e sistemas de gravação de áudio e vídeo nas viaturas policiais e nas fardas dos agentes de segurança, com o posterior armazenamento digital dos respectivos arquivos. 3. É necessário que todos os integrantes do sistema de justiça criminal reflitam conjuntamente sobre o papel que ocupam na manutenção da seletividade racial.

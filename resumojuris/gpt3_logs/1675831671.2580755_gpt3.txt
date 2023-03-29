@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Moura Ribeiro, Terceira Turma, por unanimidade, julgado em 18/10/2022, DJe 20/10/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL, RECUPERACAO JUDICIAL Tema Recuperacao judicial. Administrador judicial. Honorarios advocaticios sucumbenciais. Fixacao em favor do administrador. Nao cabimento. DESTAQUE Nao cabe a fixacao de honorarios sucumbenciais em favor do administrador judicial em recuperacao judicial ou falencia. Nos termos do art. 85 do NCPC, os honorarios advocaticios de sucumbencia devem ser pagos pela parte vencida exclusivamente ao profissional que tenha atuado como advogado da parte vencedora. O sindico, assim como seu sucedaneo - administrador judicial - possui natureza juridica de orgao auxiliar do Juizo, cumprindo verdadeiro munus publico, nao se limitando a representar o falido ou mesmo seus credores. Cabe-lhe, desse modo, efetivamente, colaborar com a administracao da Justica (REsp 1.032.960/PR, relator Ministro Massami Uyeda, Terceira Turma, julgado em 1/6/2010, DJe 21/6/2010). De acordo com a doutrina, havendo resistencia a pretensao do impugnante e formacao da lide, a parte vencida suportara os onus sucumbenciais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não cabe a fixação de honorários sucumbenciais em favor do administrador judicial em recuperação judicial ou falência. 2. Os honorários advocatícios de sucumbência devem ser pagos pela parte vencida exclusivamente ao profissional que tenha atuado como advogado da parte vencedora. 3. O síndico, assim como seu sucedâneo - administrador judicial - possui natureza jurídica de órgão auxiliar do Juízo, cumprindo verdadeiro munus público, não se limitando a representar o falido ou mesmo seus credores. 4. Havendo resistência a pretensão do impugnante e formação da lide, a parte vencida suportará os ônus sucumbenciais.

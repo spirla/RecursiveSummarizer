@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A testemunha, por sua vez, no depoimento que presta em juzo (artigo 352, CPPM) deve relatar os fatos que sabe ou presenciou, por ter o dever jurdico de dizer a verdade e lhe  vedado expressar opinio pessoal (artigo 357, CPPM). No obstantes tais diferenas as declaraes do ofendido tm valor probatrio e relevncia na apurao da verdade. Ningum melhor que a vtima para esclarecer o ocorrido. Antonio Scarance Fernandes adverte que as palavras da vtima importam muito, pois, de regra, tem ela conhecimento direto do fato e de seu agente. Pode, assim, influir decisivamente na soluo final. Importa a ela tambm ser ouvida. Alm de eventual interesse de ordem penal, tem normalmente interesses civis na resoluo da causa:
+obter ttulo executivo civil ou impedir que, pelo teor da absolvio, fique impedida a via civil. A existncia destes dois interesses na oitiva da vtima, o da justia e o dela prpria, cria um verdadeiro paradoxo em torno do valor a ser dado s suas declaraes. De um lado, deve-se basear no que ela diz por que  importante para a soluo do processo. Mas, por outro, como tem ela interesse na resoluo da causa, no est sujeita a compromisso nem comete falso testemunho e, por isso, suas palavras devem ser analisadas com reserva, no tendo em princpio o mesmo valor de uma prova testemunhal.  certo que o juiz, num sistema de livre convencimento, no est preso a regras apriorsticas e matemticas sobre o valor de cada prova, podendo, por isso, em determinado caso a palavra da vtima convenc-lo muito mais que os dizeres de uma testemunha. Alguns critrios foram, contudo, se formando e servem como orientaes genricas sobre o valor da palavra da vtima. Algumas circunstncias atuam na valorao das declaraes do ofendido. O ofendido no comete crime, no presta o compromisso de dizer a verdade, como ocorre com a testemunha sujeita  imputao de falso testemunho. Se sua mentira no constitui crime o ofendido pode exagerar na carga acusatria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A testemunha e o ofendido têm diferentes obrigações ao prestar depoimento em juízo. As declarações do ofendido têm valor probatório e relevância na apuração da verdade. O juiz, no entanto, deve analisar as declarações do ofendido com reserva, pois elas podem ser influenciadas por seu interesse na resolução da causa. Algumas circunstâncias, como o fato de o ofendido não estar sujeito a compromisso ou a imputação de falso testemunho, influenciam na valoração das suas declarações.

@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Para o STF (HC 73.271/SP), defeitos ou irregularidades registrados no curso do procedimento de investigao penal no se transmitem ao processo judicial ulteriormente instaurado:
+Eventuais vcios formais concernentes ao inqurito policial no tm o condo de infirmar a validade jurdica do subsequente processo penal condenatrio. As nulidades processuais concernem, to-somente, aos defeitos de ordem jurdica que afetam os atos praticados ao longo da ao penal condenatria. Posio reiterada no ARE 654.192-AgR/PR, rel. Min. Gilmar Mendes:
+()2. Jurisprudncia do Supremo Tribunal pacfica no sentido de que o inqurito policial  pea meramente informativa e dispensvel e, com efeito, no  vivel a anulao do processo penal em razo das irregularidades detectadas no inqurito, porquanto as nulidades processuais dizem respeito, to somente, aos defeitos de ordem jurdica que afetam os atos praticados durante a ao penal. No STJ esse entendimento jurisprudencial foi assim sumulado na edio 69 da Jurisprudncia em Teses:
+As nulidades surgidas no curso da investigao preliminar no atingem a ao penal dela decorrente. No IPM so colhidas provas irrepetveis, conforme dispe o artigo 9, pargrafo nico, do CPPM, so:
+instrutrios da ao penal os exames, percias e avaliaes realizados regularmente no curso do inqurito, por peritos idneos e com obedincia s formalidades previstas neste Cdigo. Exames, percias e avaliaes so produzidos no IPM para que no desapaream os vestgios, indispensveis enquanto prova do fato delituoso nos crimes materiais. Para a denncia ser apresentada, o Ministrio Pblico Militar deve dispor da prova de fato que, em tese, constitua crime (artigo 30, a, CPPM). Essas provas so classificadas de no renovveis (no repetveis), mas com o contraditrio diferido, posterior.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF e o STJ entendem que eventuais vícios formais no inquérito policial não afetam a validade do processo penal condenatório. As nulidades processuais se referem apenas a defeitos de ordem jurídica que afetam os atos praticados durante a ação penal. Exames, perícias e avaliações realizados no inquérito policial são considerados instrutórios da ação penal e são indispensáveis como prova do fato delituoso.

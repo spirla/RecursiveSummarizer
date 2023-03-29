@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Embora o tipo exija que o sujeito passivo esteja vinculado a um estabelecimento comercial ou industrial, o contedo que qualifica a correspondncia  unicamente o de natureza comercial. Nesse sentido, a correspondncia do estabelecimento comercial ou industrial que recebe a tutela penal  somente a que se refere  comercializao de produtos. No recebe a tutela penal mais gravosa reservada para o crime de correspondncia comercial a violao de correspondncias que tratem de outros assuntos pessoais, tais como os relativos aos negcios firmados com instituies financeiras, aos encargos trabalhistas ou previdencirios dos empregados do estabelecimento, ou as questes associativas. O dispositivo legal que orienta a interpretao do significado da correspondncia comercial menciona apenas a carta e o telegrama. Contudo, deve-se considerar como espcies de carta a carta-proposta comercial, a aceitao da proposta comercial, o convite para participar de concorrncia e a correspondncia que envia boletos e carns para pagamento de produtos adquiridos. Tambm para o crime de correspondncia comercial, cabe ressaltar que a correspondncia no se confunde com a encomenda que, segundo o artigo 47 da Lei 6.538/78,  o objeto com ou sem valor mercantil, para encaminhamento por via postal. O crime em exame tutela a correspondncia comercial e no a encomenda comercial. No se pode fazer analogia para construir a incriminao. A lei que regulamenta os servios postais no tratou da correspondncia comercial eletrnica que se realiza no contexto do que entre ns se convencionou chamar de comrcio eletrnico ou e-commerce. O desenvolvimento tecnolgico dos nossos dias, efetivamente, incrementou variadas formas de realizao de operaes comerciais por meio eletrnico. Contudo, tratando-se de mensagem comercial interceptada no ambiente eletrnico h previso incriminadora especfica, no artigo 10 da Lei 9.296/96. O referido dispositivo legal criminaliza a conduta de realizar interceptao de comunicaes telefnicas, de informtica ou telemtica, no fazendo distino em relao  natureza das mensagens envolvidas no processo de comunicao. A previso legal se aplica aos casos de mensagens pessoais e comerciais. Assim, no caso de interceptao de mensagem comercial eletrnica, o seu desvio, sonegao ou supresso, bem como a revelao de seu contedo a terceiros constitui mero exaurimento da interceptao anteriormente realizada e no permite incriminao autnoma.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de correspondência comercial tutela a correspondência de natureza comercial, como cartas-proposta, aceitação de propostas, convites para concorrência e boletos/carnês. A lei não trata da correspondência comercial eletrônica, que é regulamentada pelo artigo 10 da Lei 9.296/96, que criminaliza a interceptação de comunicações telefônicas, de informática ou telemática, independentemente da natureza das mensagens.

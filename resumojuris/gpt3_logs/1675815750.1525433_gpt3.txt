@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+2,  5, da Lei 2.913/2012, incluido pela Lei 3.526/2015, ambas do Estado de Rondonia, de modo a estabelecer que a soma dos subsidios e honorarios percebidos mensalmente pelos procuradores estaduais nao podera exceder o teto remuneratorio previsto no art. 37, XI, da CF/88. ADI 5910/RO, relator Ministro Dias Toffoli, julgamento virtual finalizado em 27.5.2022 (sexta-feira), as 23:59 (INF 1056) 1.13 REGIME PREVIDENCIARIO Criacao de regime previdenciario especifico para os agentes publicos nao titulares de car-gos efetivos por lei estadual - ADI 7198/PA ODS: 8 Resumo: Viola o art. 40, caput e  13, da CF/88, a instituicao, por meio de lei estadual, de um regime previdenciario especifico para os agentes publicos nao titulares de cargos efetivos. A competencia legislativa dos estados e do Distrito Federal em materia previdenciaria restringe-se a competencia suplementar para o respectivo regime proprio (CF/88, art. 24,  2) e a instituicao da contribui-cao previdenciaria para o regime proprio (CF/88, art. 149,  1). Em qualquer hipotese, o exercicio dessa competencia legislativa e sempre limitada aos servidores titulares de cargo efetivo. Nao ha, pois, espaco para que os entes subnacionais criem regime proprio de previdencia para agentes publicos nao titulares de cargos efetivos. Ressalte-se que, conforme disposto no art. 40,  13, da CF/88, aplica-se o Regime Geral de Previ-dencia Social ao agente publico ocupante, exclusivamente, de cargo em comissao declarado em lei de livre nomeacao e exoneracao; de outro cargo temporario  inclusive mandato eletivo  ou de emprego publico. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado na acao direta, para declarar a inconstitucionalidade do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a instituição, por meio de lei estadual, de um regime previdenciário específico para agentes públicos não titulares de cargos efetivos. 2. A competência legislativa dos Estados e do Distrito Federal em matéria previdenciária restringe-se à competência suplementar para o respectivo regime próprio (CF/88, art. 24, §2) e à instituição da contribuição previdenciária para o regime próprio (CF/88, art. 149, §1). 3. O Regime Geral de Previdência Social aplica-se ao agente público ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração; de outro cargo temporário, inclusive mandato eletivo, ou de emprego público.

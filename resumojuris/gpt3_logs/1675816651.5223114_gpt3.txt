@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Esses recursos sao indispensaveis para manter a modicidade das tarifas e a qualidade dos servicos. A regulamentacao desse tipo de servico ou de qualquer outro agregado, portanto, pode ser feita apenas pela Uniao, em razao da sua intima conexao economica com o servico de telecomunicacao propriamente dito. Com base nesse entendimento, o Plenario julgou procedente o pedido formulado para declarar a in-constitucionalidade da Lei 16.600/2019 do Estado de Pernambuco. ADI 6199/PE, relator Ministro Nunes Marques, julgamento virtual finalizado em 15.8.2022 (segunda-feira), as 23:59 (INF 1063) Substituicao de trabalhador privado em greve por servidor publico - ADI 1164/DF Resumo: Nao ha vicio de iniciativa de lei na edicao de norma de origem parlamentar que proiba a substi-tuicao de trabalhador privado em greve por servidor publico. No caso, ainda que a lei distrital impugnada, de iniciativa parlamentar, esteja voltada ao funciona-mento da Administracao Publica, ela nao se sobrepoe ao campo de discricionariedade politica que a CF reser-vou, com exclusividade, ao governador, no que toca a dispor sobre a organizacao administrativa. Alem disso, a norma revela-se harmonica com a CF, notadamente com os principios do art. 37, caput, na medida em que permite a substituicao nos estritos limites dos parametros federais aplicaveis e. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente o pedido formulado em acao direta.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A regulamentação de serviços agregados pode ser feita apenas pela União, em razão da sua intima conexão econômica com o serviço de telecomunicação propriamente dito. 2. Não há vício de iniciativa de lei na edição de norma de origem parlamentar que proíba a substituição de trabalhador privado em greve por servidor público. 3. A lei distrital impugnada, de iniciativa parlamentar, não se sobrepõe ao campo de discricionariedade política que a Constituição Federal reservou, com exclusividade, ao governador, no que toca a dispor sobre a organização administrativa. 4. A norma revela-se harmônica com a Constituição Federal, notadamente com os princípios do art. 37, caput, na medida em que permite a substituição nos estritos limites dos parâmetros federais aplicáveis.

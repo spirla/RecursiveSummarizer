@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por maioria, confirmou parcialmente a medida liminar deferida pelo ministro Marco Aurelio (relator), para determinar a adocao de medidas administrativas e legislativas necessarias a realizacao do Censo Demografico do IBGE no exercicio financeiro seguinte ao da concessao da tutela de urgencia (2022), observados os parametros tecnicos preconizados pelo IBGE, devendo a Uniao adotar todas as medidas legais necessarias para viabilizar a pesquisa censitaria, inclusive no que se refere a previsao de creditos orcamentarios para a realizacao das despesas publicas. Vencidos os ministros Marco Aurelio e Edson Fachin, que propuseram o referendo da medida liminar, e o ministro Nunes Marques, que negou o pedido liminar. ACO 3508 TA-Ref/DF, relator Min. Marco Aurelio, redator do acordao Min. Gilmar Mendes, julgamento virtual finalizado em 14.5.2021 (sexta-feira), as 23:59 (INF 1017) Piso nacional do magisterio publico da educacao basica - ADI 4848/DF Tese Fixada: E constitucional a norma federal que preve a forma de atualizacao do piso nacional do magisterio da educacao basica . Resumo: O mecanismo de atualizacao do piso nacional do magisterio da educacao basica, previsto no art. 5, paragrafo unico, da Lei 11.738/2008, e compativel com a CF/88 (CF). A previsao de mecanismos de atualizacao e uma consequencia direta da existencia do proprio piso. A edicao de atos normativos pelo Ministerio da Educacao, nacionalmente aplicaveis, objetiva uniformizar a atualizacao do piso nacional do magisterio em todos os niveis federativos e cumprir os objetivos previstos no art. 3, III, da CF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a norma federal que prevê a forma de atualização do piso nacional do magistério da educação básica. 2. É compativel com a Constituição Federal a previsão de mecanismos de atualização do piso nacional do magistério da educação básica. 3. É objetivo da edição de atos normativos pelo Ministério da Educação, nacionalmente aplicáveis, uniformizar a atualização do piso nacional do magistério em todos os níveis federativos.

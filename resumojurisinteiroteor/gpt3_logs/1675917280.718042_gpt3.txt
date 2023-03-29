@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O magistrado proferiu a seguinte sentena, juntada no Evento 9: Trata-se de pedido de Reabilitao Criminal formulado pelo ex- PM Jefferson Antnio dos Santos Batista, em razo da condenao proferida nos autos n. 0000448-08.2007.9.13.0001. O requerente foi condenado  pena de 4 anos, 4 meses e 15 dias de deteno, tendo cumprido a pena privativa de liberdade nos autos n. 0091062-56.2016.8.13.0024 - SEEU. Aps o cumprimento das condies, foi decretada extinta a punibilidade pelo cumprimento a pena privativa de liberdade em 23/01/2020, conforme se verifica no sequencial 22.1, nos autos da execuo penal. Ouvido o Ministrio Pblico, este manifestou no evento n. 6, opinando contrariamente ao pedido. Disse que a legislao a ser observada deve ser o Cdigo Penal Militar, porque o requerente foi condenado pela prtica de crime militar e ele no preencheu o requisito temporal previsto na legislao castrense, qual seja, de 5 anos da extino da punibilidade. Em nova manifestao no evento n. 8, o requerente argumenta que o prazo deve ser o de 2 anos previsto no Cdigo Penal, porque o que deve ser observado  a reabilitao criminal e no o delito. Acrescentou que foi excludo da PMMG h mais de 10 anos.  de se notar que, embora a legislao penal militar regule a matria, entendo que deva ser aplicada a legislao penal comum, notadamente por estipular requisitos mais favorveis  concesso da reabilitao criminal, sobretudo no tocante ao lapso temporal exigido, com base nos princpios da isonomia, da razoabilidade e da proporcionalidade. Vale ressaltar que a legislao penal comum  aplicada por este juzo em casos que ela se apresenta mais favorvel ao ru, como por exemplo, no prazo para a concesso de livramento condicional, na aplicao de regime aberto e semiaberto para o cumprimento de pena e na dosimetria de pena em crime continuado. Alm disso, o requerente foi excludo da corporao h mais de 10 anos, tendo cumprido sua pena em estabelecimento comum como um cidado civil e por isso no h sentido em submet-lo ao rigor excessivo da legislao castrense para fins de reabilitao criminal, j que ele no integra mais a corporao. Analisando os documentos acostados no evento 1,  de se perceber que o requerente preenche os requisitos para a concesso da reabilitao criminal previstos no art. 94 do Cdigo Penal. Do exposto, pelas razes de fato e de direito aqui registradas, concedo a reabilitao criminal ao ex-PM Jefferson Antnio dos Santos Batista, com o cancelamento do registro da condenao dos autos n. 0000448-08.2007.9.13.0001 de suas anotaes criminais. Remetam os autos ao Egrgio Tribunal de Justia Militar de Minas Gerais em obedincia ao disposto no at. 654, do CPPM. Aps o trnsito em julgado, determino o arquivamento dos autos. Cumpra-se.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O magistrado concedeu a reabilitao criminal ao ex-PM Jefferson Antnio dos Santos Batista, com o cancelamento do registro da condenao nos autos n. 0000448-08.2007.9.13.0001 de suas anotaes criminais, aplicando a legislao penal comum, pois ela se apresenta mais favorvel ao requerente, e remetendo os autos ao Tribunal de Justia Militar de Minas Gerais.

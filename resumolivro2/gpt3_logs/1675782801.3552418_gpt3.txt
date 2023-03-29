@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STF admitiu o aproveitamento da prova por considerar compatvel com o artigo 5, XII e LVI, o uso de prova obtida fortuitamente atravs de interceptao telefnica licitamente conduzida, ainda que o crime descoberto, conexo ao que foi objeto da interceptao, seja punido com deteno. O STJ considerou lcita a prova de crime diverso, obtida por meio de interceptao telefnica de terceiro (terceiro que se comunicou com o investigado ou utilizou a linha monitorada) no mencionado a autorizao judicial de escuta, uma vez que havia entre os fatos conexo ou continncia. No julgado que segue o STJ considerou lcita prova encontrada de modo fortuito referente a crime diverso daquele em apurao na interceptao telefnica para apurar a prtica de crime diverso, sem necessidade de demonstrao da conexo entre o crime investigado e o fortuitamente descoberto:
+I - Em princpio, havendo o encontro fortuito de notcia da prtica futura de conduta delituosa, durante a realizao de interceptao telefnica devidamente autorizada pela autoridade competente, no se deve exigir a demonstrao da conexo entre o fato investigado e aquele descoberto, a uma, porque a prpria Lei 9.296/96 no a exige, a duas, pois o Estado no pode se quedar inerte diante da cincia de que um crime vai ser praticado e, a trs, tendo em vista que se por um lado o Estado, por seus rgos investigatrios, violou a intimidade de algum, o fez com respaldo constitucional e legal, motivo pelo qual a prova se consolidou lcita. II - A discusso a respeito da conexo entre o fato investigado e o fato encontrado fortuitamente s se coloca em se tratando de infrao penal pretrita, porquanto no que concerne as infraes futuras o cerne da controvrsia se dar quanto a licitude ou no do meio de prova utilizado e a partir do qual se tomou conhecimento de tal conduta criminosa. Habeas corpus denegado (HC 69.552/PR, rel. Min. Felix Fischer, 5 T., j. 06/02/2007, DJ 14/05/2007). Discute-se se h possibilidade de utilizao a ttulo de prova emprestada.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF e o STJ consideram lcita a utilização de prova obtida fortuitamente por meio de interceptação telefônica licitamente conduzida, mesmo que o crime descoberto seja diferente do objeto da interceptação. Não é necessário demonstrar a conexão entre o crime investigado e o fortuitamente descoberto. A discusão sobre a conexão só se coloca quando se trata de infrações penais pretéritas.

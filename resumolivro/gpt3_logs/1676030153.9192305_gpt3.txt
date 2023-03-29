@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+As referncias constantes do Cdigo Penal Militar sugerem que, para o reconhecimento da insignificncia penal militar da conduta examinada, seja necessrio constatar a existncia de previso normativa para a transgresso disciplinar. No entanto, cabe observar que a Suprema Corte no faz mesma exigncia em relao aos crimes funcionais praticados por civis. Se, por exemplo, um policial civil subtrair uma caneta esferogrfica Bic da delegacia em que trabalha, para o reconhecimento da insignificncia de sua conduta no ser exigido que exista infrao administrativa disciplinar que o possa punir de maneira suficiente. Se tal exigncia  adequada aos servidores militares, tambm deveria ser para os servidores civis. 3.6.1.1.2. Insignificncia e crimes complexos. A aplicao do princpio da insignificncia em crimes complexos  possvel, desde que a insignificncia se verifique em relao a todos os bens jurdicos envolvidos na incriminao. Nos termos do artigo 101 do Cdigo Penal comum (a definio no consta do CPM), o crime complexo resulta da conjugao em um nico tipo penal incriminador de fatos que, por si mesmos, constituem crimes. O crime complexo  crime nico e autnomo em relao aos crimes que o compem. O crime de roubo (artigo 242 do CPM)  crime complexo, e a jurisprudncia do Supremo Tribunal Federal j consolidou o entendimento de que  impossvel a aplicao do princpio da insignificncia (HC 95. e AI 557. AgR). Entretanto, o fato de que o crime complexo envolve proteo a mais de um bem jurdico no  impeditivo do reconhecimento da insignificncia da conduta que  capaz de conduzir ao reconhecimento da atipicidade material. Certamente, no se pode considerar a insignificncia apenas em relao a um dos bens jurdicos atacados pela conduta punvel para promover a desclassificao do crime complexo para outro que lhe seja parte integrante. Nos termos do exemplo considerado, no se pode considerar apenas a insignificncia da ameaa ou do emprego da violncia para desclassificar o crime de roubo para o crime de furto. Da mesma forma, no se pode reconhecer apenas a insignificncia do valor da coisa para desclassificar o crime de roubo para o de ameaa ou leso corporal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal Militar sugere que para reconhecer a insignificância da conduta penal militar, é necessário verificar se há previsão normativa para a transgresso disciplinar. Entretanto, para civis, não é necessário. O princípio da insignificância também pode ser aplicado em crimes complexos, desde que a insignificância seja verificada em relação a todos os bens jurídicos envolvidos. No entanto, não é possível considerar apenas a insignificância de um dos bens jurídicos para desclassificar o crime complexo.

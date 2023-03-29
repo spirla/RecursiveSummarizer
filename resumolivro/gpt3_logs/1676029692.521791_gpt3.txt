@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A sistematizao de todos os critrios definidores do que deva ser considerada conduta criminosa est a cargo da teoria geral do crime. Cabe  teoria da imputao objetiva articular as exigncias de natureza objetiva para a caracterizao do tipo, contribuindo para a realizao do projeto de sistematizao global formulado pela teoria do crime que lhe d suporte. No  correto afirmar que a teoria da imputao objetiva complemente a teoria da causalidade. Nos crimes materiais, a imputao objetiva depende da concreta afetao do bem jurdico, que normalmente se traduz em resultado naturalstico. Nesses casos, a atribuio de conduta objetivamente criminosa depende sempre do critrio da causalidade material. Entretanto, com a evoluo das teorias do bem jurdico e do crime, o contedo normativo (valorativo) do tipo foi melhor compreendido e ao critrio da causalidade naturalstica foram acrescentadas novas exigncias, de modo que, hoje, pode-se falar de uma causalidade jurdica. Na concepo de uma teoria do crime causal-naturalista, a imputao objetiva esgota-se na relao de causalidade natural. Nessa perspectiva, o tipo  avalorativo. Contudo, nos termos de uma construo de ndole normativo-social, a imputao objetiva ganha o colorido das exigncias valorativas e fica mais enriquecida. A teoria da imputao objetiva, assim, engloba a teoria da causalidade material. Com acerto, adverte Chaves Camargo:
+O problema do nexo causal, de suma importncia para os causalistas, na imputao objetiva passa a constituir-se num dos itens que a integram, pois seu mbito  muito mais extenso do que o mero curso causal que determinou o resultado. A doutrina mais adequada da imputao objetiva a concebe como um exame que se desdobra em dois graus, sendo que o primeiro  constitudo pela causalidade naturalstica - determinada pela teoria da condio, e o segundo por critrios valorativos de imputao. Nesse sentido, na conformao do presente trabalho, a anlise da imputao objetiva se desenvolver apartir do exame da causalidade natural e prosseguir examinando os critrios normativos de relevncia (imputao). Importa, ainda, ressaltar que no se pode simplificar a teoria da imputao objetiva reduzindo-a a uma tese de defesa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Teoria Geral do Crime estabelece os critérios para o que é considerado conduta criminosa. A Teoria da Imputação Objetiva articular as exigências objetivas para a caracterização do tipo de crime, contribuindo para o projeto de sistematização global da Teoria Geral do Crime. A imputação objetiva não é complementar à teoria da causalidade. Em crimes materiais, depende da afetação do bem jurídico, normalmente traduzida em resultado naturalístico. A imputação objetiva compreende a causalidade natural e os critérios normativos de relevância. Não se pode simplificar a teoria da imputação objetiva reduzindo-a a uma tese de defesa.

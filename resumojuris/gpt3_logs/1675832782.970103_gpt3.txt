@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 1.187.264/SP, Rel. Min. Marco Aurelio, Rel. p/ acordao Min. Alexandre de Moraes, j. 24.02.2021, DJe 20.05.2021). Essencialmente porque, de acordo com a legislacao vigente, se a receita liquida compreende a receita bruta, descontados, entre outros, os tributos incidentes, significa que, contrario sensu, a receita bruta compreende os tributos sobre ela incidentes. Conforme ja mencionado, a partir da alteracao promovida pela Lei n. 13.161/2015, as empresas listadas nos artigos 7 e 8 da Lei n. 12.546/2011 tem a faculdade de aderir ao novo sistema, caso concluam que a sistematica da CPRB e, no seu contexto, mais benefica do que a contribuicao sobre a folha de pagamentos. Logo, nao poderia a empresa aderir ao novo regime de contribuicao por livre vontade e, ao mesmo tempo, querer se beneficiar de regras que nao lhe sejam aplicaveis. Ora, permitir que a recorrente adira ao novo regime, abatendo do calculo da CPRB o ICMS sobre ela incidente, ampliaria demasiadamente o beneficio fiscal, pautado em amplo debate de politicas publicas tributarias. Tal pretensao acarretaria grave violacao ao artigo 155,  6, da CF/88, que determina a edicao de lei especifica para tratar sobre reducao de base de calculo de tributo. Por fim, a teor do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A receita bruta compreende os tributos sobre ela incidentes. 2. As empresas listadas nos artigos 7 e 8 da Lei n. 12.546/2011 tem a faculdade de aderir ao novo sistema de contribuição por receita bruta. 3. Não é permitido que a empresa adira ao novo regime de contribuição e se beneficie de regras que não lhe sejam aplicáveis. 4. É necessária a edição de lei específica para tratar sobre redução de base de cálculo de tributo, de acordo com o artigo 155, 6, da CF/88.

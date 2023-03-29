@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com as crticas s primeiras formulaes do sistema causal-naturalista, principalmente por parte de Max Ernest Mayer, passou-se a reconhecer no tipo seu carter indicirio da ilicitude. O tipo passou a ser entendido como o fundamento cognitivo, a ratio cognoscendi, da ilicitude. O tipo define a matria de proibio e, portanto, significa uma forma especfica de manifestao da ilicitude. A ilicitude em matria penal sempre se manifesta por meio da realizao de condutas tpicas, cujo exame  obrigatrio para se conhecer a contrariedade do comportamento em relao  ordem jurdica. Nessa concepo, a violao da norma jurdica subjacente ao tipo constitui apenas um indcio de que o comportamento seja ilcito. A concepo indiciria  bastante adequada, na medida em que mantm uma conveniente distino entre tipicidade e ilicitude e no permite confuses entre os dois elementos do conceito analtico do crime. A presuno de ilicitude estabelecida pela tipicidade  relativa, podendo ser afastada diante da ocorrncia de uma causa de justificao. As dificuldades dogmticas podem ser mais bem resolvidas de acordo com as opes poltico-criminais. As consequncias do erro que incide sobre uma causa de justificao, por exemplo, podem ser convenientemente direcionadas ao tipo ou  culpabilidade. Em ateno s crticas, Beling posteriormente admitiu que a realizao do tipo representa forte indcio de que a conduta  antijurdica. Essa concepo  a que, atualmente, colhe maior aceitao na doutrina. Concepo da ratio essendi ou do tipo de injusto. Outra concepo que pretendeu explicar a relao entre tipo e ilicitude sustentou que o tipo  a prpria razo de ser da ilicitude. Tal teoria parte da premissa de que o fundamento da ilicitude deve ser encontrado na prpria lei, bem como que, como expresso do princpio da reserva legal, o tipo define o que  ilcito. Dessa forma, a concepo da ratio essendi sustenta que o tipo no somente indica, mas  o fundamento real e de validade da ilicitude. A concepo da ratio essendi conduziu a doutrina a manifestos exageros conceituais. A teoria dos elementos negativos do tipo ou do tipo total  expresso mxima desse exagero. Para a teoria dos elementos negativos do tipo, o tipo penal deve conter no somente as circunstncias definidoras do comportamento proibido como tambm todas aquelas que digam respeito  ilicitude. Todos os pressupostos de justificao devem estender-se ao tipo, como seus elementos negativos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A concepção da ilicitude como indiciária do tipo penal foi adotada para manter a distinção entre tipicidade e ilicitude. A presunção de ilicitude estabelecida pelo tipo é relativa e pode ser afastada com a ocorrência de uma causa de justificação. A concepção da ratio essendi, que entende o tipo como a própria razão de ser da ilicitude, foi criticada por conduzir à doutrina a manifestos exageros conceituais, como a teoria dos elementos negativos do tipo.

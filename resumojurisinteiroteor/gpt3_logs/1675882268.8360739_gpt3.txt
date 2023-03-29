@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Relatou que o ru lhe contou que conversara com Cleusa e Camila sobre uma declarao em que deveria constar que ele havia prestado servios na instituio. Asseverou que, em virtude de ter ouvido Camila comentar sobre uma declarao que deveria ser feita para um policial, confiou na palavra do acusado e elaborou o documento, embora no tivesse certeza de que o policial mencionado por Camila fosse, efetivamente, o acusado. Disse que no se recorda de que o acusado tenha feito doao  instituio, salientando que os dias em que ele esteve na APAE no foram com a finalidade de prestar servios. Ressaltou, ainda, no ter recebido qualquer vantagem ilcita para fazer a declarao. Veja-se: [...] respondeu que trabalhou na APAE Juiz de Fora, durante o perodo de 10 de julho de 2017 a 16 de dezembro de 2017; que na poca dos fatos exercia a funo de Auxiliar Administrativo e recepcionista; que o indiciado Euzbio Pessi, a poca dos fatos, no prestou servios na instituio, haja vista que, no existia habitualidade de pessoas externas prestarem servios no local; que se recorda que, durante o perodo que trabalhou na APAE, o indiciado Euzbio Pessi compareceu na instituio cerca de duas ou trs vezes; que a poca dos fatos a APAE - Juiz de Fora, passava por uma interveno; que se recorda que havia uma declarao a ser elaborada em favor de um Policial Militar, porm, no sabia se a declarao seria para o indiciado Euzbio Pessi; que quem havia comentado sobre a referida declarao era a funcionaria de nome Camila, integrante da equipe de interveno chefiada pela senhora Cleuza; que Camila e Cleuza vieram a falecer em um acidente automobilstico em 2017; que no sabe dizer por qual motivo a declarao no havia sido elaborada anteriormente; que quando esteve na instituio, o indiciado Euzbio Pessi, procurou por Camila e por Cleuza dizendo que j havia conversado com as referidas; que no dia 15 de dezembro de 2017, data de emisso da declarao, a depoente estava deixando efetivamente a instituio; que em virtude de diversos afazeres - abertura de conta bancaria, exames mdicos para admisso em outro trabalho e outros - o dia foi corrido para depoente, ficando pouco tempo na instituio; que na referida data esteve inclusive a com a funcionaria de nome Helena Maria, atual interventora, tendo-lhe relatado sobre sua sada da instituio; que no se recorda que tenha efetivamente elaborado a declarao relacionada ao indiciado Euzbio Pessi naquele dia. Perguntado, respondeu que o indiciado Euzbio Pessi, quando esteve na instituio, no foi para prestar servios; que no sabe dizer o real motivo de seu comparecimento, presumindo se tratar de algum fato relacionado a declarao emitida posteriormente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O depoente afirmou que o acusado Euzbio Pessi não prestou serviços na APAE Juiz de Fora, mas que compareceu cerca de duas ou três vezes durante o período em que trabalhou na instituição. O depoente disse que ouviu Camila e Cleusa comentando sobre uma declaração a ser feita para um policial, e, confiando na palavra do acusado, elaborou o documento, embora não tivesse certeza de que o policial mencionado fosse, efetivamente, o acusado. O depoente também afirmou que não houve doação da instituição por parte do acusado e que não recebeu qualquer vantagem ilícita para fazer a declaração.

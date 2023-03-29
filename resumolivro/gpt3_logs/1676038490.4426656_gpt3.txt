@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Sem dvidas, a fagulha  causa material da exploso, nos termos da teoria da equivalncia dos antecedentes. Mas, sendo extraordinrio o processo causal, no se verifica a relevncia jurdica da conduta e, portanto, a imputao objetiva do resultado. Note-se, no se chega a analisar a previsibilidade da produo do resultado, mas se, diante das circunstncias concretas, o acionamento do interruptor de luz caracteriza a criao de risco juridicamente desaprovado. Vale observar, porm, que no  o baixo ndice de ocorrncias lesivas que relegam ao extraordinrio o cuidado que evita o resultado, mas o sentido da ordem social expresso na norma proibitiva. A imputao pela produo culposa do resultado fundamenta-se na inobservncia ao dever de cuidado imposto pela experincia ordinria. Se um cuidado especial incorpora-se aos parmetros ordinrios de exigncia social, sua inobservncia possibilita a imputao objetiva, pois o processo causal que dali se origina  de apreenso ordinria. Veja-se o caso do sujeito que faz uso do telefone celular durante o voo em aeronave militar. Embora seja baixo o ndice de resultados lesivos provenientes da interferncia produzida pelo celular nos equipamentos de controle de voo, ocorrendo um sinistro, devem ser imputados ao usurio do celular os resultados lesivos. Hoje em dia, o cuidado de desligar o telefone durante um voo faz parte das exigncias ordinrias de cuidado. 3.6.1.6.3. Aes perigosas de salvamento. As aes de salvamento de terceiro tm lugar no contexto de situao de perigo preexistente, uma vez que pode ocorrer que o salvador acabe sofrendo danos quando de sua tentativa de salvamento. O exemplo mais candente  o do salva-vidas que entra no mar para salvar o banhista e acaba morrendo. A situao no  simples e impe analisar se h responsabilidade do banhista pela morte do salva-vidas, inclusive quando os esforos deste ultrapassem os limites do risco permitido. O salva-vidas tem o dever de enfrentar o perigo, mas esse dever no subsiste diante do risco que impossibilita o prprio salvamento. O salva-vidas no est juridicamente obrigado a morrer pelo banhista ou com ele. A obrigao de enfrentar o perigo no desobriga de escolher os meios adequados para realizar a tarefa e, ao mesmo tempo, proteger a prpria vida. Se a tentativa de salvamento operar-se fora dos limites do risco permitido, por deciso prpria do salvador, a este caber a responsabilidade pela ocorrncia de resultados lesivos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria da equivalncia dos antecedentes afirma que a fagulha causa material da exploso, mas a relevncia jurdica da conduta depende das circunstncias concretas. O baixo ndice de ocorrncias lesivas no isenta o dever de cuidado imposto pela experincia ordinria. A imputao pela produo culposa do resultado fundamenta-se na inobservncia ao dever de cuidado. Exemplo disso o uso de telefone celular durante voo em aeronave militar. Aes de salvamento tambm podem ser responsabilizadas se ultrapassarem os limites do risco permitido.

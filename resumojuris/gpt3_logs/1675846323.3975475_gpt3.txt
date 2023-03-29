@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+71,  2, do RI/STJ. Em outras palavras, nos termos do art. 71,  2, do RISTJ, a competencia, entao fixada a partir da distribuicao de recurso especial, cede lugar a prevencao estabelecida com a designacao do ministro indicado para lavratura do acordao, na hipotese de o relator ficar vencido (AgInt nos EDcl na PET no AREsp 1.777.272/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe 25/11/2021). Com efeito, nao ha nenhuma previsao legal ou regimental para afastar o julgador vencido de futuros julgamentos de recursos ou acoes distribuidos por prevencao ao orgao julgador do qual integra. Por determinacao regimental, o magistrado unicamente deixa de ser relator do acordao cujo seu voto restou vencido e passa a nao mais ser relator de futuros recursos ou acoes distribuidos por prevencao aquele julgado. Ademais, o principio do juiz natural nao se confunde com o da identidade fisica do juiz. Nesse sentido, modificar a composicao do orgao julgador, sem nenhum amparo legal, fere frontalmente tal principio, bem como caracteriza juizo de excecao, vedado em nosso ordenamento. Assim e incabivel afastar o julgador, que teve sua competencia estabelecida pela distribuicao originaria (juiz natural), do quorum de julgamento de recursos e acoes subsequentes preventos, em razao de seu entendimento acerca da tese de merito restar vencido. (Informativo  Ed. Especial n. 7) Regimento Interno do Tribunal de Justica do Estado do Parana (RI/TJPR), art. 197,  7; e Regimento Interno do Superior Tribunal de Justica (RI/STJ), art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência, fixada a partir da distribuição de recurso especial, cede lugar à prevenção estabelecida com a designação do ministro indicado para lavratura do acórdão, na hipótese de o relator ficar vencido. 2. Não há previsão legal ou regimental para afastar o julgador vencido de futuros julgamentos de recursos ou ações distribuídos por prevenção ao órgão julgador do qual integra. 3. O princípio do juiz natural não se confunde com o da identidade física do juiz. 4. É vedado modificar a composição do órgão julgador sem nenhum amparo legal. 5. É incabível afastar o julgador, que teve sua competência estabelecida pela distribuição originária (juiz natural), do quorum de julgamento de recursos e ações subsequentes preventos, em razão de seu entendimento acerca da tese de mérito restar vencido.

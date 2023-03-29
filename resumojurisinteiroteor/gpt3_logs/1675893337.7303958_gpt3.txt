@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Como se sabe, a ao de reviso criminal tem por finalidade desconstituir sentena condenatria transitada em julgado quando estiver presente uma das hipteses taxativamente elencadas no art. 551 do Cdigo de Processo Penal Militar. Veja-se: Art. 551. A reviso dos processos findos ser admitida: a) quando a sentena condenatria fr contrria  evidncia dos autos; b) quando a sentena condenatria se fundar em depoimentos, exames ou documentos comprovadamente falsos; c) quando, aps a sentena condenatria, se descobrirem novas provas que invalidem a condenao ou que determinem ou autorizem a diminuio da pena. No caso em exame, a defesa aduz que o dito condenatrio proferido em desfavor do requerente foi contrrio  evidncia dos autos, sustentando a atipicidade das condutas que lhe foram imputadas. Sabe-se que a reviso criminal fundada na alegao de contrariedade  evidncia dos autos, como  o caso dos autos, demanda a inexistncia de acervo probatrio a amparar a tese acusatria, o que no se observa in casu. Sobre o assuntou, vejam-se os ensinamentos de Renato Brasileiro de Lima: [...] A expresso evidncia deve ser compreendida como a verdade manifesta. Portanto, s se pode falar em sentena contrria  evidncia dos autos quando esta no se apoia em nenhuma prova produzida no curso processo, nem tampouco, subsidiariamente, em elementos informativos produzidos no curso da fase investigativa. Essa contrariedade pode se referir tanto  autoria do fato delituoso, quanto ao crime em si, ou, ainda, a circunstncia que determinem a excluso do crime, iseno ou diminuio da pena. Portanto, a mera fragilidade ou precariedade do conjunto probatrio que levou  prolao de sentena condenatria no autoriza o ajuizamento de reviso criminal. De fato, quando o art. 621, inciso I, do CPP, se refere  deciso contrria  evidncia dos autos, exige a demonstrao de que a condenao no tenha se fundado em uma nica prova sequer. A expresso contra a evidncia dos autos no autoriza, portanto, o ajuizamento de reviso criminal para se pleitear absolvio por insuficincia ou precariedade de prova. Afinal, como visto anteriormente, no se pode admitir que a reviso criminal seja utilizada  semelhana dos recursos ordinrios, como meio comum de impugnao de sentenas condenatrias ou absolutrias imprprias, pretendendo-se uma reanlise do conjunto probatrio que levou  condenao do acusado. [...] (Manual de Processo Penal: volume nico - 8. ed. rev., ampl. e atual. - Salvador: Ed.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A reviso criminal não é admitida quando a sentença condenatória se fundar em provas produzidas no curso do processo ou elementos informativos produzidos na fase investigativa, pois a expresão "contrária à evidência dos autos" exige a demonstração de que a condenação não tenha se fundado em uma única prova sequer.

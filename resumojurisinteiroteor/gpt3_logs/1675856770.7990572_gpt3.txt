@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+As partes que supostamente faltam no referido arquivo, devido certamente  sua extenso - mais de 200 GB -, segundo informa o Ministrio Pblico, o que sinaliza, em alguma medida, para a incompatibilidade com o sistema deste TJMMG, no fizeram falta aos julgadores, porque no foram essas as nicas provas a sustentarem a sentena condenatria e, portanto, no representam qualquer prejuzo para a defesa. A sentena, a bem da verdade, alm das provas testemunhais colhidas no bojo de todas as aes relacionadas  operao Hexagrama, est lastreada tambm, e muito mais, nos dados constantes do Ofcio n. 106/2020-GCOC, colacionado aos autos em verso do Word, com possibilidade de se executarem todos os arquivos, nos termos do pargrafo que transcrevo a seguir, extrado das contrarrazes ministeriais: [.] Por outro lado, importa ressaltar que, mesmo diante da suposta ausncia de tais dados no HD externo, no houve qualquer prejuzo  defesa, uma vez que em 30.04.2020 foi entregue  Secretaria do Juzo, alm do HD externo, um DVD com a verso em Word do Ofcio n 106/2020-GCOC (que embasou a r. sentena); o arquivo em Word permite executar os arquivos de udio e vdeo com um duplo clique. Por fim, causa estranheza o fato de apenas depois de cerca de um ano e meio seja trazida aos autos a alegao de que os dados no estariam no HD externo, mormente porque foi concedida vista do HD s defesas em vrias ocasies (Eventos 131, 170, 237, 304, 305 e 372), inclusive  defesa do apelante GILTOMMY, em 16.07.2020 (Evento 568 do Proc. n 2000321-76.2020.9.13.0002). [...] Mais a mais, a defesa no logrou demonstrar em que ponto e em que medida a suposta falta de dados representou prejuzo para a parte, sendo essa uma exigncia para se cogitar a anulao de qualquer ato judicial, sob pena de se afetar o consagrado princpio do pas de nullit sans grief, adotado no direito ptrio e positivado no direito castrense atravs do artigo 499 do Cdigo de Processo Penal Militar (CPPM), com a redao que se repete idntica no art. 563 do Cdigo de Processo Penal comum. Veja-se: 499. Nenhum ato judicial ser declarado nulo se da nulidade no resultar prejuzo para a acusao ou para a defesa. Pelas razes expostas, passo tambm pela segunda preliminar levantada pela defesa. Terceira preliminar - de nulidade da prova constituda pelo Painel Administrativo encaminhado pela testemunha 1 Ten Rafael Augusto Matheus Machado. Segundo a percepo da defesa, o painel administrativo referido, que teria sido redigido pelo Ten Matheus, muito tempo depois, por ordem de um superior hierrquico para atender aos seus interesses pessoais, trata-se de prova criada e, portanto, ilcita, que deve ser desconsiderada para os fins da condenao e desentranhada dos autos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A alegação de que os dados necessários para o julgamento não estavam no HD externo não foi considerada válida, pois o Ofício n. 106/2020-GCOC foi colacionado aos autos em formato Word, possibilitando a execução dos arquivos ao serem abertos com um duplo clique. Além disso, a defesa não conseguiu demonstrar em que medida a falta de dados representou prejuízo para a parte. Por fim, a prova constituída pelo Painel Administrativo encaminhado pela testemunha não foi considerada ilícita.

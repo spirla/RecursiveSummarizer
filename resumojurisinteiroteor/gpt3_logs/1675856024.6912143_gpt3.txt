@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No mais, tendo o objeto do apelo ministerial sido satisfatoriamente enfrentado pelo representante do Ministrio Pblico de1a instncia, esta Procuradoria de Justia ratifica as razes recursais da acusao (evento 203), com fundamento no artigo 17,  3, da Recomendao CNMP n 57, de 05/07/2017. [...]  o quanto basta relatar. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Recebo os recursos interpostos pela defesa do ru Guilherme Augusto Pires da Silva e pelo Ministrio Pblico, por terem preenchido os pressupostos objetivos e subjetivos de sua admissibilidade. Visando atender a melhor didtica, analisarei, inicialmente, o recurso interposto pela defesa do ru Guilherme Augusto, que arguiu em preliminar de mrito a nulidade do feito devido  ausncia de exame pericial nos arquivos digitais apresentados no Ofcio n. 288/GCOC/GAECO, o que teria, segundo seu entendimento, violado o art. 328 do Cdigo de Processo Penal Militar (CPPM). Ainda preliminarmente, suscitou a nulidade do feito por ofensa aos preceitos taxativos do art. 500, III, alnea b, do CPPM, que tem por objeto estabelecer os requisitos necessrios  integridade dos elementos probatrios colhidos durante a investigao, em razo de a extrao de dados dos aparelhos telefnicos apreendidos ter sido realizada por agente pblico sem a formao necessria para a preservao, o manuseio e a avaliao dos arquivos digitais. Analiso conjuntamente as duas preliminares suscitadas por serem vinculadas entre si e reportarem-se a fatos similares: Nos termos reiteradamente assentados por esta colenda Segunda Cmara no mbito de acrdos prolatados em autos correlatos de processos com julgamento de policiais militares envolvidos na operao Hexagrama, os dados foram extrados de quatro terminais de telefone celular apreendidos com Jonathan Magno Peres, lder da organizao criminosa, no dia de sua priso, ocorrida em 06/03/2020. O acesso a esses terminais foi alcanado com a devida autorizao judicial e com emprego da Soluo Cellebrite UFED Touch 2d, uma ferramenta prpria para essa finalidade e utilizada, universalmente, o que dispensa, por conseguinte, maiores conhecimentos tcnicos da parte de quem a operou para desincumbir-se da tarefa. Ainda assim, a extrao de dados neste caso posto sob nossa anlise, ao contrrio do que alega a defesa, foi executada pelo Cb PM Marcelo Vincius Ribeiro de Miranda, integrante do grupo disponibilizado pela Diretoria de Inteligncia da Polcia Militar de Minas Gerais ao Grupo de Atuao de Combate ao Crime Organizado (GAECO). Sua capacitao para a tarefa foi alcanada com o curso que lhe foi ministrado pela UFED Foundations, com carga horria de 32 (trinta e duas) horas, no perodo entre 12 e 15 de maro de 2019.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A Procuradoria de Justia ratificou os recursos interpostos pela defesa do ru e pelo Ministério Público, tendo sido preenchidos os pressupostos objetivos e subjetivos de admissibilidade. As preliminares de nulidade do processo devido à ausência de exame pericial nos arquivos digitais e a ofensa aos preceitos taxativos do artigo 500, III, alínea b, do Código de Processo Penal Militar foram analisadas conjuntamente. A extração de dados dos aparelhos telefônicos apreendidos foi realizada por agente público com a devida capacitação para preservar, manusear e avaliar os arquivos digitais.

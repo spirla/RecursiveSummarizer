@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Quando o atestado for solicitado pelo paciente ou seu representante legal para fins de pericia medica devera observar:(...) VI - o provavel tempo de repouso estimado necessario para a sua recuperacao, que complementara o parecer fundamentado do medico perito, a quem cabe legalmente a decisao do beneficio previdenciario, tais como: aposentadoria, invalidez definitiva, readaptacao; (...) paragrafo 3 O atestado medico goza da presuncao de veracidade, devendo ser acatado por quem de direito, salvo se houver divergncia de entendimento por medico da instituicao ou perito. 95 EMEMG: Artigo 119 - A licenca para tratamento de saude e concedida ex-officio ou a pedido, mediante inspecao de saude, pelo prazo indicado na respectiva ata. [] Artigo 120 - A licenca tera inicio na data em que o militar for julgado doente pelo medico ou pela Junta Militar de Saude, ressalvados outros casos especiais previstos no Regulamento Geral da Corporacao.
+96 Resolucao Conjunta n. 4.278/2013: Artigo 32 (...) paragrafo 6 - O militar que receber atestado de saude, que sugira afastamento do trabalho ou atividade, comunicara imediatamente ao seu chefe direto a impossibilidade de seu comparecimento ao servico. O RGPM, estabelece em no inciso XI do artigo 278: XI - ser pontual na instrucao e no servico, participando ao seu chefe, sem perda de tempo e pelo meio mais rapido ao seu alcance, de tal modo que lhe seja possivel providenciar a respeito, quando, por motivo de doenca ou forca maior, se encontre impedido de cumprir esse dever. 97 Ensejara, tambem, o crime de desercao tipificado no artigo 188, II, do CPM: Artigo 188. Na mesma pena incorre o militar que: (...) II - deixa de se apresentar a autoridade competente, dentro do prazo de oito dias, contados daquele em que termina ou e cassada a licenca ou agregacao ou em que e declarado o estado de sitio ou de guerra.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O atestado médico goza da presunção de veracidade e deve ser acatado por quem de direito. O militar que receber atestado de saúde que sugira afastamento do trabalho ou atividade deve comunicar imediatamente ao seu chefe direto. O RGPM estabelece o dever de ser pontual na instrução e no serviço. O não cumprimento deste dever pode ensejar o crime de deserção.

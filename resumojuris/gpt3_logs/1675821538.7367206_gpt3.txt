@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No exame do Tema 6 e do Tema 500 da repercussao geral, o Tribunal estabeleceu algumas premissas consensuais para que o Poder Judiciario possa compelir o Estado a fornecer farmaco nao constante das listas de dispensacao do SUS, quais sejam: (i) a comprovacao da imprescindibilidade do medicamento; (ii) a impossibilidade de substituicao por outro similar; (iii) a incapacidade financeira do enfermo; e (iv) o impedimento de a demanda cuidar de medicamento experimental ou de uso nao autorizado pela Anvisa. No caso concreto, a respeito da substancia terapeutica pleiteada, alem de nao ser proibida a comercializacao no Pais, a importacao de produtos a base de canabidiol, para uso pessoal, tem autorizacao da Anvisa, se cumpridos criterios especificos. O recorrido, inclusive, possui autorizacao individual da Agencia. Desse modo, o Plenario negou provimento a recurso extraordinario. Vencidos os ministros Marco Aurelio (relator) e Edson Fachin, que fixaram tese diversa; e o ministro Nunes Marques, que nao fixou tese. RE 1165959/SP, relator Min. Marco Aurelio, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 18.6.2021 (sexta-feira), as 23:59 (INF 1022) Competencia legislativa: plano de saude, carencia contratual e Covid-19 - ADI 6493/PB Resumo: Por usurpar competencia privativa da Uniao para legislar sobre Direito Civil, Comercial e politica de seguros, e inconstitucional legislacao estadual que impeca as operadoras de planos de saude de recusarem o atendimento ou a prestacao de alguns servicos, no ambito de seu territorio, aos usuarios diagnosticados ou suspeitos de estarem com Covid-19, em razao de periodo de carencia contratual vigente. A imposicao de periodos de carencia pelas operadoras de planos de saude e tema que ja foi disciplinado pela Lei federal 9.656/1998, no exercicio de competencia privativa da Uniao [CF/88 (CF) art., 22, I e VII], de modo que nao cabe ao legislativo estadual inovar na materia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(i) O Poder Judiciário pode compelir o Estado a fornecer medicamento não constante das listas de dispensação do SUS, desde que comprovada a imprescindibilidade do medicamento, a impossibilidade de substituição por outro similar, a incapacidade financeira do enfermo e o impedimento de a demanda cuidar de medicamento experimental ou de uso não autorizado pela Anvisa. (ii) A importação de produtos a base de canabidiol para uso pessoal tem autorização da Anvisa, desde que cumpridos critérios específicos. (iii) É inconstitucional legislação estadual que impeça as operadoras de planos de saúde de recusarem o atendimento ou a prestação de alguns serviços, no âmbito de seu território, aos usuários diagnosticados ou suspeitos de estarem com Covid-19, em razão de período de carência contratual vigente. (iv) A imposição de períodos de carência pelas operadoras de planos de saúde já foi disciplinada pela Lei Federal 9.656/1998, no exercício de competência privativa da União.

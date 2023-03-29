@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A fase do artigo 427 do CPPM tem por objetivo completar as provas produzidas no curso da instruo criminal, no se destina  dilao probatria. O STF decidiu que no  de prosperar o pleito defensivo em que se reconhece o intuito meramente protelatrio. A jurisprudncia do STJ  iterativa, conforme os excertos que seguem:
+O indeferimento fundamentado de pedido de percia no caracteriza constrangimento ilegal, pois cabe ao juiz, na esfera de sua discricionariedade, negar motivadamente s diligncias que considerar desnecessrias ou protelatrias (artigo 400, pargrafo 1, do CPP). Assentou o STJ que:
+no h constrangimento ilegal no indeferimento de produo de provas, quando o Magistrado o faz fundamentadamente, por consider-las infundadas, desnecessrias ou protelatrias. Na hiptese em tela, o Juzo processante destacou a impossibilidade de coletar digitais em uma arma que j fora manuseada por diversas pessoas aps sua apreenso. Outro aresto sobre a mesma questo:
+I. O Superior Tribunal de Justia possui jurisprudncia sedimentada no sentido de que o indeferimento do pedido de produo de determinada prova, desde que devidamente fundamentado,  providncia regular, caso entenda o magistrado ser ela desnecessria para o deslinde da causa, ou ser de carter protelatrio, nos termos do artigo 400, pargrafo 1, do CPP, no havendo de se falar em cerceamento de defesa, tal como ocorre, in casu. II. Conforme j assentou esta Corte Superior de Justia, no h constrangimento ilegal no indeferimento de produo de provas, quando o Magistrado o faz fundamentadamente, por consider-las infundadas, desnecessrias ou protelatrias. Mais uma vez, o STJ, HC 166.115/RJ, rel. Min. Sebastio Reis Jnior, 6 T., DJe 15/08/2013, frisou que:
+(...)3. Por um lado, ao acusado no processo penal  assegurado o direito de produo de provas necessrias a dar embasamento  tese defensiva;
+no obstante, por outro, -lhe exigida a devida justificao acerca da imprescindibilidade da providncia requerida, sendo, portanto, facultado ao magistrado o indeferimento, de forma devidamente fundamentada, das diligncias que julgar protelatrias, irrelevantes ou impertinentes ao deslinde da causa. 4.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 427 do CPP tem por objetivo completar as provas produzidas no curso da instrução criminal, não se destinando à dilatação probatória. O STF decidiu que não há prosperidade no pleito defensivo que reconheça intuito meramente protelatório. O STJ tem jurisprudência iterativa de que o indeferimento fundamentado de pedido de perícia não caracteriza constrangimento ilegal, pois cabe ao juiz, na esfera de sua discricionariedade, negar motivadamente as diligências que considerar desnecessárias ou protelatórias. O acusado tem o direito de produzir provas necessárias para embasar sua tese defensiva, mas o magistrado pode indeferir, de forma devidamente fundamentada, as diligências que julgar protelatórias, irrelevantes ou impertinentes ao deslinde da causa.

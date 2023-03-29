@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Julgamento dos embargos de declaracao que compete ao Tribunal Regional Federal. DESTAQUE Existindo interesse juridico da Uniao no feito, na condicao de assistente simples, a competencia afigura-se da Justica Federal, conforme preve o art. 109, I, da Constituicao da Republica, motivo pelo qual compete ao Tribunal Regional Federal o julgamento de embargos de declaracao opostos contra acordao proferido pela Justica Estadual. Trata-se de embargos de divergencia que visam a compor o antagonismo de interpretacoes dadas quanto a necessidade ou nao de seguimento do feito na Justica Federal ante a intervencao da Uniao na demanda, na qualidade de assistente simples pela Quarta e Segunda Turmas do Superior Tribunal de Justica. No caso, a Quarta Turma do Superior Tribunal de Justica, no julgamento do agravo interno deu provimento ao recurso especial, acolhendo a alegacao de violacao do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015), determinando o retorno dos autos ao Tribunal de origem - Tribunal de Justica do Estado. A Uniao ingressou no processo na qualidade de assistente, logo apos a interposicao de agravo interno pela assistida, interpos embargos de declaracao objetivando reparo de ordem processual no que tange a determinacao de retorno dos autos ao Tribunal de origem, uma vez que, ao reconhecer a Uniao como assistente simples, a remessa dos autos deveria ser determinada ao Tribunal Regional Federal. A luz da interpretacao dada pela Quarta Turma, no caso em comento seria aplicavel o art. 43 do CPC, que estabelece a regra da perpetuatio jurisdictionis em favor do Tribunal de Justica, para se evitar deslocamentos indesejaveis do foro, consignando ainda que, tendo as decisoes de merito sido proferidas pela Justica Estadual, tanto no 1 como no 2 grau de jurisdicao, nao ha que se falar em possibilidade revisional pela Justica Federal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Existe interesse jurídico da União no feito, na condição de assistente simples, a competência afigura-se da Justiça Federal, conforme prevê o art. 109, I, da Constituição da República. 2. Compete ao Tribunal Regional Federal o julgamento de embargos de declaração opostos contra acórdão proferido pela Justiça Estadual. 3. Trata-se de embargos de divergência que visam a compor o antagonismo de interpretações dadas quanto à necessidade ou não de seguimento do feito na Justiça Federal ante a intervenção da União na demanda. 4. A luz da interpretação dada pela Quarta Turma, no caso em comento seria aplicável o art. 43 do CPC, que estabelece a regra da perpetuatio jurisdictionis em favor do Tribunal de Justiça, para se evitar deslocamentos indesejáveis do foro. 5. Tendo as decisões de mérito sido proferidas pela Justiça Estadual, tanto no 1º como no 2º grau de jurisdição, não há que se falar em possibilidade revisional pela Justiça Federal.

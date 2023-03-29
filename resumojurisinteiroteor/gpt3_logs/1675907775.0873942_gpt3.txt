@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em seu parecer (Evento 21), a douta Procuradora de Justia reconheceu ser possvel, em regra, a aplicao da detrao penal antes do trnsito em julgado; contudo, in casu, opinou contrariamente ao pedido da defesa do paciente por falta de amparo legal, diante das especificidades do caso em anlise. Ao final, a eminente Procuradora opinou pela denegao da ordem de habeas corpus, com a no concesso da progresso de regime ao Cb PM Rafael Henrique Ribeiro.  o relatrio. Em mesa para julgamento. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Trata-se de ao de habeas corpus, com pedido liminar, impetrada em favor do Cb PM Rafael Henrique Ribeiro, que se encontra preso, preventivamente, desde o dia 09/11/2020, por envolvimento em uma organizao criminosa, liderada por Jonathan Magnun Peres, vulgo "Danone. Consta das informaes prestadas pela autoridade apontada como coatora que o Conselho Especial de Justia (CEJ) entendeu que os motivos que ensejaram a priso cautelar do paciente ainda se encontram hgidos, mesmo aps a condenao do ru, por sentena lavrada em 20/09/2021, a uma pena de 7 (sete) anos, 6 (seis) meses e 20 (vinte) dias de recluso, regime fechado, com a inaplicabilidade do sursis. Consta, ainda, do mencionado documento que "o ru no apenas integrou a organizao criminosa, mas tambm dispunha de locais com "pontos" de mquinas caa-nqueis, denotando desenvoltura e desembarao em lidar com outras Orcrims dedicadas ao ramo de explorao de jogos de azar, evidenciando, portanto, risco para a ordem pblica e prejuzo na apurao de condutas, bem como fica configurada leso aos princpios reitores da PMMG no mbito da ordem disciplinar militar. Pois bem. Conforme se verifica dos autos, ao contrrio do alegado pelo impetrante, todas as decises exaradas pela autoridade tida como coator foram absolutamente fundamentadas como exige a lei vigente. Assim, de forma semelhante  sentena localizada no Evento 12 - SENT3, entendo que a alegao de ofensa aos arts. 5, inciso LXI, e 93, inciso IX, da Constituio Federal (CF/88) no guarda relao com a realidade dos fatos. Nesse sentido, confira-se o trecho da mencionada sentena, que, por oportuno, transcrevo: [...] O CEJ/PM, por maioria de votos, aps analisar detidamente as circunstncias do envolvimento e participao do ru na organizao criminosa, notadamente e especialmente, ter sido provado que o ru possua "pontos" de explorao de mquina caa-nqueis, bem como a conduta reiterada de informar ao lder da Orcrim a realizao de operaes policiais no mbito territorial do 39 BPM, acolhe a manifestao do Ministrio Pblico, para manter a priso cautelar do Cb Rafael Henrique Ribeiro, no lhe concedendo o direito de recorrer em liberdade.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Procuradora de Justia reconheceu que, em regra, a aplicao da detrao penal antes do trnsito em julgado possvel, mas negou o pedido de habeas corpus do Cb PM Rafael Henrique Ribeiro, diante das especificidades do caso. O Conselho Especial de Justia entendeu que os motivos para a priso cautelar do paciente ainda se encontravam hgidos, mesmo aps a condenao do ru. O relator, Desembargador James Ferreira Santos, entendeu que a alegao de ofensa aos arts. 5, inciso LXI, e 93, inciso IX, da Constituio Federal no guarda relao com a realidade dos fatos e, portanto, negou a ordem de habeas corpus.

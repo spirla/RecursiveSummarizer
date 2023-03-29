@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A colaboracao premiada, hoje prevista em varios diplomas legais punitivos, foi introduzida no Brasil pela Lei n. 8.072/1990 (arts. 7 e 8, paragrafo unico), e tem sempre para o colaborador o objetivo personalissimo de obter uma reducao ou mesmo isencao de pena, como esta claro na Lei n. 12.850/2013, que inclusive preve que o MP podera deixar de oferecer a denuncia (art. 4,  2 e 4), o que, ate mesmo pela excepcionalidade da norma penal, ou pre-processual penal, nao se aplica as pessoas juridicas, cuja responsabilidade penal se limita aos crimes ambientais (art. 225,  3 - CF), e menos ainda em relacao aos seus executivos, pessoas fisicas, que tem o direito personalissimo de, segundo a suja conveniencia, admitir contra si a pratica de crimes com o referidos propositos penais. Segundo a Lei n. 12.850/2013, nao se mostra possivel o enquadramento de pessoa juridica como investigada ou acusada no tipo de crime de organizacao criminosa. Tambem nao seria razoavel qualifica-la como ente capaz de celebrar o acordo de colaboracao nela previsto, menos ainda em relacao aos seus dirigentes. O fator vontade do imputado vem previsto de forma expressa na lei, ao dispor que Realizado o acordo na forma do  6, o respectivo termo, acompanhado das declaracoes do colaborador e de copia da investigacao, sera remetido ao juiz para homologacao, o qual devera verificar sua regularidade, legalidade e voluntariedade, podendo para este fim, sigilosamente, ouvir o colaborador, na presenca de seu defensor (art. 4,  7).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A colaboração premiada foi introduzida no Brasil pela Lei n. 8.072/1990 e tem como objetivo personalíssimo obter uma redução ou isenção de pena. 2. A Lei n. 12.850/2013 prevê que o Ministério Público pode deixar de oferecer a denúncia, mas não se aplica às pessoas jurídicas. 3. Não é possível enquadrar pessoa jurídica como investigada ou acusada no tipo de crime de organização criminosa. 4. O acordo de colaboração previsto na Lei n. 12.850/2013 deve ser homologado pelo juiz, verificando sua regularidade, legalidade e voluntariedade.

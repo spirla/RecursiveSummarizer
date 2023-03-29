@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Tribunal do juri. Fase acusatoria (iudicium accusationis). Nao oferecimento de alegacoes finais. Comprovacao de que isso nao ocorreu por desidia do acusado. Prejuizo a defesa. Configuracao. Principio da plenitude de defesa. Nulidade da decisao de pronuncia. DESTAQUE O entendimento de que, em processos de competencia do juri, o nao oferecimento de alegacoes finais na fase acusatoria nao e causa de nulidade do processo nao se aplica na hipotese em que isso nao ocorre por deliberacao do acusado. Em processos de competencia do juri, a jurisprudencia do Superior Tribunal de Justica e no sentido de que o nao oferecimento de alegacoes finais na fase acusatoria (iudicium accusationis) nao e causa de nulidade do processo, pois o juizo de pronuncia e provisorio, nao havendo antecipacao do merito da acao penal, mas mero juizo de admissibilidade positivo ou negativo da acusacao formulada, para que o Reu seja submetido, ou nao, a julgamento perante o Tribunal do Juri, juizo natural da causa. (RHC 103.562/PE, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 08/11/2018, DJe 23/11/2018).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O não oferecimento de alegações finais na fase acusatória (iudicium accusationis) não é causa de nulidade do processo em processos de competência do Júri. 2. O juízo de pronúncia é provisório, não havendo antecipação do mérito da ação penal, mas mero juízo de admissibilidade positivo ou negativo da acusação formulada. 3. O não oferecimento de alegações finais na fase acusatória não se aplica na hipótese em que isso não ocorre por deliberação do acusado. 4. O princípio da plenitude de defesa pode ser configurado em caso de prejuízo à defesa decorrente do não oferecimento de alegações finais na fase acusatória.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em resumo, a Constituio Federal no autoriza a priso decorrente de lei processual militar, ex lege, em razo do princpio da presuno de inocncia (artigo 5, LVII) e da obrigatoriedade da fundamentao das decises judiciais (artigo 5, LXI). No processo penal militar no se concede a liberdade provisria se presentes um dos motivos da priso preventiva. Ao receber o auto de priso em flagrante delito na audincia de custdia, o juiz converte a priso em flagrante em preventiva, quando presentes os requisitos do artigo 255 do CPPM. 12.4. Liberdade provisria no CPP. Examinar a legislao processual comum permite no s a comparao com a legislao processual castrense, como tambm notar avanos daquela na conformao com a Constituio Federal e a distncia desta do texto constitucional. O juiz concede a liberdade provisria com ou sem fiana nos termos do artigo 310, inciso III, do CPP:
+I -Liberdade provisria vinculada sem fiana. A redao do artigo 310, pargrafo 1 do CPP,  semelhante  do artigo 253 do CPPM:
+Se o juiz verificar, pelo auto de priso em flagrante, que o agente praticou o fato em qualquer das condies constantes dos incisos I, II ou III do caput do artigo 23 do Decreto-Lei 2.848 de 7 de dezembro de 1940 (Cdigo Penal), poder, fundamentadamente, conceder ao acusado liberdade provisria, mediante termo de comparecimento obrigatrio a todos os atos processuais, sob pena de revogao. II -Liberdade provisria mediante fiana. O artigo 270 do CPPM no tratou da liberdade provisria com fiana, a fiana  um instituto estranho ao processo penal militar e o CPP probe ser concedida em caso de priso militar (artigo 324, II, CPP), muito embora quanto  essa proibio a doutrina se divide. Entende-se proibida a fiana se a priso militar for decorrente de condenao por crime militar. Outros doutrinadores interpretam a expresso do artigo 324, II, do CPP, como priso militar disciplinar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituio Federal proíbe a prisão decorrente de lei processual militar, ex lege, em razão do princípio da presunção de inocência e da obrigatoriedade da fundamentação das decisões judiciais. No processo penal militar, a liberdade provisória só é concedida se presentes um dos motivos da prisão preventiva. O CPP prevê a concessão da liberdade provisória com ou sem fiança, mas o CPPM não trata da liberdade provisória com fiança. A doutrina se divide quanto à proibição da fiança em caso de prisão militar.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+159, do CP, referente ao crime de extorsao mediante sequestro; no  2 do art. 25 da Lei n. 7.492/1986 - que define os crimes contra o sistema financeiro nacional; no art. 8, paragrafo unico, da Lei n. 8.072/1990 - Lei de Crimes Hediondos; no art. 1,  5, da Lei 9.613/1998 - que dispoe sobre os crimes de lavagem ou ocultacao de bens, direitos e valores; ou nos arts. 13 e 14 da Lei n. 9.807/1999 - que estabelece normas para a organizacao e a manutencao de programas especiais de protecao a vitimas e a testemunhas ameacadas). Considerada a conjuntura de que prerrogativas penais ou processuais como essas a) estao esparsas na legislacao; b) foram instituidas tambem para beneficiar delatores; e que c) o CPP nao regulamenta o procedimento de formalizacao dos acordos de delacao premiada; e d) a Lei n. 12.850/2013 nao preve, de forma expressa, que os meios de prova ali previstos incidem tao-somente nos delitos de organizacao criminosa; nao ha obice a que as disposicoes de natureza majoritariamente processual previstas na referida Lei apliquem-se as demais situacoes de concurso de agentes (no que nao for contrariada por disposicoes especiais, eventualmente existentes). A proposito, pelo Supremo Tribunal Federal, foram diversos os recebimentos de denuncias, lastreados em elementos probatorios oriundos de colaboracoes premiadas em que nao houve a imputacao especifica ou condenacao pelo crime de promover, constituir, financiar ou integrar, pessoalmente ou por interposta pessoa, organizacao criminosa , previsto no art. 2 da Lei n. 12.850/2013. Ademais, segundo a doutrina, o argumento de que so os crimes praticados por organizacao criminosa sao capazes de gerar o beneficio da colaboracao nao pode prosperar, pois, muitas vezes, nao ha uma estrutura propriamente de organizacao (ou estrutura empresarial) e nem por isso os associados a pratica delitiva cometem delitos que nao mereceriam um acordo com o Estado .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+a) Estão esparsas na legislação prerrogativas penais ou processuais; b) Foram instituidas também para beneficiar delatores; c) O CPP não regulamenta o procedimento de formalização dos acordos de delação premiada; d) A Lei n. 12.850/2013 não prevê, de forma expressa, que os meios de prova ali previstos incidem tão-somente nos delitos de organização criminosa; e) As disposições de natureza majoritariamente processual previstas na referida Lei aplicam-se às demais situações de concurso de agentes; f) O argumento de que somente os crimes praticados por organização criminosa são capazes de gerar o benefício da colaboração não pode prosperar.

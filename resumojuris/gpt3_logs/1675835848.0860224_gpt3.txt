@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Portanto, tratando-se de hipotese de intervencao limitativa do direito de propriedade, e nao de intervencao supressiva, a oferta indenizatoria, caso comprovado o prejuizo, nao impora a concessionaria a obrigacao de pagar o montante como se fosse pela propriedade inteira, antes lhe autorizando a abater as depreciacoes do bem e a proceder com os descontos de direito. Contudo, havendo a limitacao, o valor da indenizacao, e da oferta inicial, ha observar como parametro aqueles vetores estabelecidos no paragrafo primeiro do art. 15, de maneira que se nao houver, e de rigor o indeferimento da imissao possessoria. (Informativo n. 756) 190 PROCESSO AREsp 2.147.187-MS, Rel. Min. Herman Benjamin, Segunda Turma, por unanimidade, julgado em 08/11/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO TRIBUTARIO TEMA Ordem dos Advogados do Brasil (OAB). Anuidades. Execucao judicial. Valor inferior a R$ 2.500,00. Impossibilidade. Art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Tratando-se de hipótese de intervenção limitativa do direito de propriedade, não de intervenção supressiva, a oferta indenizatória não impõe a concessionária a obrigação de pagar o montante como se fosse pela propriedade inteira, antes lhe autorizando a abater as depreciações do bem e a proceder com os descontos de direito. 2. Havendo a limitação, o valor da indenização e da oferta inicial deve observar como parâmetro os vetores estabelecidos no parágrafo primeiro do art. 15, de maneira que se não houver, é de rigor o indeferimento da imissão possessoria.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 929886/SC, relator Ministro Dias Toffoli, julgamento virtual finalizado em 2.9.2022 (sexta-feira), as 23:59 (INF 1066) 4.2 COMPETENCIA LEGISLATIVA Concessao de meia-entrada em estabelecimentos de lazer e entretenimento para professo-res da rede publica estadual e municipais de ensino - ADI 3753/SP Resumo: E constitucional lei estadual que concede aos professores das redes publicas estadual e munici-pais de ensino o beneficio da meia-entrada nos estabelecimentos de lazer e entretenimento. A competencia para legislar sobre direito economico e concorrente entre a Uniao, os estados-membros, o Distrito Federal e os municipios. Assim, como a legislacao federal atualmente vigente que trata do beneficio em comento (Lei 12.933/2013) nao contempla a especifica categoria profissional abrangida pela norma estadual impugnada, o ente federado pode utilizar-se legitimamente de sua competencia normativa supletiva para tanto. Sob o aspecto material, tambem nao ha inconstitucionalidade, uma vez que a medida nao viola, sob qualquer aspecto, o principio da isonomia. O tratamento desigual criado pela lei (concessao da meia-entrada apenas a parcela da categoria) esta plenamente justificado  constitui estrategia de politica publica que se coaduna com a priorizacao absoluta da educacao basica. Alem disso, revela-se como salutar intervencao par-cimoniosa do Estado na ordem economica, que visa a realizacao de relevantes valores constitucionais, e como condicao para a concretizacao da justica social. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente a acao direta. ADI 3753/SP, relator Ministro Dias Toffoli, julgamento virtual finalizado em 8.4.2022 (sexta-feira), as 23:59 (INF 1050) Concessao de porte de arma de fogo a procuradores estaduais por lei estadual - ADI 6985/AL Resumo: A concessao de porte de arma a procuradores estaduais, por lei estadual, e incompativel com a CF/88.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional lei estadual que concede aos professores das redes públicas estadual e municipais de ensino o benefício da meia-entrada nos estabelecimentos de lazer e entretenimento. 2. A competência para legislar sobre direito econômico é concorrente entre a União, os Estados-membros, o Distrito Federal e os municípios. 3. A medida não viola, sob qualquer aspecto, o princípio da isonomia. 4. O tratamento desigual criado pela lei está plenamente justificado e constitui estratégia de política pública que se coaduna com a priorização absoluta da educação básica. 5. A concessão de porte de arma a procuradores estaduais, por lei estadual, é incompatível com a Constituição Federal de 1988.

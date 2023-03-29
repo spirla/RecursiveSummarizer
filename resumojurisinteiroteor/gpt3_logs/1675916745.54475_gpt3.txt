@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Na Ao penal n. 0001429-21.2013.9.13.0003, julgada em primeira instncia, o CPJ, por maioria de quatro votos a um, julgou procedente a denncia para condenar o Sd Christian pela prtica do crime previsto no artigo 251 do CPM (estelionato), desconsiderada a continuidade delitiva, aplicando-lhe a pena mnima, ou seja, de 2 (dois) anos de recluso, diminuindo-a de 2/3, por maioria de trs votos a um, em razo da tentativa, tornando-a definitiva em 8 (oito) meses de recluso, a serem cumpridos em regime aberto, concedendo-se o sursis penal, por maioria de trs votos a um, pelo prazo de dois anos. Interposto recurso, a Primeira Cmara negou provimento ao recurso de apelao, para manter integralmente a sentena condenatria de primeiro grau, ocorrido o trnsito em julgado em 15/09/2015. A execuo da sentena foi distribuda em 10/04/2017 sob o n. 0000596-61.2017.9.13.0003. Alega a defesa do apelante que a deciso demissionria afrontou o princpio da proporcionalidade e da razoabilidade e que no houve o cometimento de qualquer transgresso disciplinar que teria afetado a honra pessoal e o decoro da classe. [...] Em que pesem as alegaes apresentadas, julga-se que eventual ofensa aos princpios da ampla defesa e do contraditrio no seria de forma direta, mas, sim, por via reflexa  CR, uma vez que a controvrsia foi dirimida, por este Tribunal, sob o prisma infraconstitucional. Ademais, registre-se que o Supremo Tribunal Federal, quando do julgamento do Agravo em Recurso Extraordinrio (ARE) n. 748.371RG/MT, Tema n. 660, publicado em 1/08/2013, de relatoria do Ministro Gilmar Mendes, assentou o entendimento de que no h repercusso geral quando a alegao de violao aos princpios do contraditrio, da ampla defesa, dos limites da coisa julgada e do devido processo legal depender do exame de norma infraconstitucional. Veja-se: [..] Como visto, na hiptese dos autos, restou demonstrada, na deciso combatida, que eventual ofensa aos princpios da ampla defesa e do contraditrio no se daria de forma direta, mas, sim, por via reflexa  Constituio da Repblica, uma vez que a controvrsia foi dirimida por este Tribunal, sob o prisma infraconstitucional - Lei estadual n. 14.310/2002 e Resoluo Conjunta n. 4.220/2012 (MAPPA). Desta feita, verifica-se aplicabilidade do Tema n. 660 da sistemtica da repercusso geral  hiptese dos autos. Portanto, considerando-se que o agravante no trouxe argumento algum capaz de infirmar a deciso monocrtica que negou seguimento ao recurso extraordinrio, julga-se que esta deve ser mantida, pois, conforme demonstrado, o paradigma (ARE n. 748.371RG/MT, Tema n. 660) do Supremo Tribunal Federal foi devidamente aplicado  hiptese dos autos. Diante do exposto, NEGO PROVIMENTO ao presente recurso.  como voto.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Primeira Cmara negou provimento ao recurso de apelao, mantendo integralmente a sentena condenatria de primeiro grau, que condenou o Sd Christian pelo crime previsto no artigo 251 do CPM (estelionato), desconsiderada a continuidade delitiva, aplicando-lhe a pena mnima, ou seja, de 2 (dois) anos de recluso, diminuindo-a de 2/3, por maioria de trs votos a um, em razo da tentativa, tornando-a definitiva em 8 (oito) meses de recluso, a serem cumpridos em regime aberto, concedendo-se o sursis penal, por maioria de trs votos a um, pelo prazo de dois anos. O recurso foi negado, pois a deciso monocrtica que negou seguimento ao recurso extraordinrio foi devidamente aplicada hiptese dos autos.

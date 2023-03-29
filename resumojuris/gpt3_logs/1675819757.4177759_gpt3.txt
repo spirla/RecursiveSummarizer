@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+19, XV, da Lei 9.472/1997, que estabelece a busca e apreensao de bens, tem uma dimensao distinta. Frise-se que, segundo orientacao do STF, o conceito de domicilio nao esta limitado a residencia domiciliar, mas abarca tambem qualquer compartimento privado onde alguem exerce profissao ou atividade. A competencia atribuida ao Conselho Diretor da ANATEL para editar normas proprias de licitacao e contratacao (Lei 9.472/1997, art. 22, II) deve observar o arcabouco normativo atinente as licitacoes e aos contratos, em respeito ao principio da legalidade. Com efeito, as agencias reguladoras nao possuem a prerrogativa de legislar em materia de licitacao. Primeiro, porque isso viola a competencia legislativa privativa da Uniao (CF, art. 22, XXVII). Segundo, porque inovar no ordenamento juridico nao se encontra dentre os atributos que a funcao regulatoria desses orgaos detem, uma vez que eles colmatam lacunas propositais de natureza tecnica na legislacao, mas nao podem estabelecer, de forma originaria e primaria, deveres e obrigacoes aos particulares, menos ainda exercer atividade criativa no que concerne a modalidades licitatorias e contratuais. Diante da especificidade dos servicos de telecomunicacoes, e valida a criacao de novas modalidades licitatorias por lei de mesma hierarquia da Lei Geral de Licitacoes (Lei 8.666/1993). Portanto, sua disciplina deve ser feita por meio de lei, e nao de atos infralegais, em obediencia aos artigos 21, XI, e 22, XXVII, do texto constitucional. Em razao disso, e inconstitucional a expressao serao disciplinados pela Agencia contida no art. 55 da Lei 9.472/1997.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O conceito de domicílio não se limita à residência domiciliar, mas abrange também qualquer compartimento privado onde alguém exerce profissão ou atividade. 2. A competência atribuída ao Conselho Diretor da ANATEL para editar normas proprias de licitação e contratação deve observar o arcabouco normativo atinente às licitações e aos contratos, em respeito ao princípio da legalidade. 3. As agências reguladoras não possuem a prerrogativa de legislar em matéria de licitação, pois isso viola a competência legislativa privativa da União. 4. É válida a criação de novas modalidades licitatórias por lei de mesma hierarquia da Lei Geral de Licitações. 5. A disciplina dos serviços de telecomunicações deve ser feita por meio de lei, e não de atos infralegais, em obediência aos artigos 21, XI, e 22, XXVII, do texto constitucional. 6. É inconstitucional a expressão "serão disciplinados pela Agência" contida no art. 55 da Lei 9.472/1997.

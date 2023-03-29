@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Tratando-se de internao hospitalar, a garantia concilia-se com a previso constitucional de que ningum ser privado da liberdade (...) sem o devido processo legal (artigo 5, LIV). O contedo material da disposio constitucional  no sentido de que o processo legal constitua meio de controle judicial que possibilite o exame de mrito sobre a validade da privao da liberdade; nesse sentido, inteira aplicao tem a regra em relao  medida de segurana. Lamentavelmente, nem todos os indivduos submetidos a tratamento psiquitrico em manicmio, verdadeiramente privados de sua liberdade, esto submetidos ao controle judicial por meio de medidas de segurana. Nossa sociedade acostumou-se  excluso do portador de sofrimento mental, e ainda resta lutar muito para banirem-se completamente os manicmios, excrescncia conservada desde a era medieval. Com base no Decreto Federal 24.559/34, um nmero significativo de indivduos foi internado em manicmios e l permaneceram por longos perodos, por ordem mdica, sem que um juiz de direito tivesse conhecimento. Essa prtica  intolervel no Estado Democrtico de Direito. Ainda como garantia aos direitos humanos fundamentais, tem-se o princpio da individualizao da execuo das medidas de segurana. Pela anlise dos artigos 99 do CP, 43, 100 e 174 da LEP, constata-se que a individualizao da medida de segurana foi, a exemplo da individualizao da pena, expressamente acolhida na legislao infraconstitucional. Bruno Ribeiro esclarece:
+o indivduo a elas submetido receber tratamento mdico-psiquitrico o mais individualizado possvel em face do distrbio especfico que apresente, sendo inclusive facultado a seus familiares contratarem mdico de sua confiana a fim de orientar e acompanhar o tratamento, devendo o juiz da execuo solucionar as eventuais divergncias entre os mdicos oficiais e os particulares. O artigo 99 do CP no permite que o inimputvel ou o semi-imputvel sejam submetidos  medida de segurana em estabelecimento prisional comum: o internado ser recolhido a estabelecimento dotado de caractersticas hospitalares e ser submetido a tratamento. Lamentavelmente, no  raro que medidas de segurana sejam cumpridas nas cadeias pblicas, a espera de vaga nos manicmios. Isso significa, na verdade, que no so cumpridas. A Lei 10.216/2001. Como fruto da luta antimanicomial brasileira, foi editada a Lei 10.216/2001, que dispe sobre a proteo e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em sade mental.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituio garante o devido processo legal para a privao da liberdade, por meio de medidas de segurana. No entanto, muitos indivduos submetidos a tratamento psiquitrico em manicmios no so submetidos ao controle judicial. A Lei 10.216/2001 foi editada para proteger e garantir os direitos das pessoas portadoras de transtornos mentais e redirecionar o modelo assistencial em sade mental.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Note-se que, segundo a prpria definio legal, a reincidncia somente diz respeito  reiterao de crimes, e, no caso da prtica de um crime aps a condenao por uma contraveno, no h que se falar em reincidncia. No entanto, no caso em que o agente pratica uma contraveno depois de passar em julgado a sentena que o tenha condenado, no Brasil ou no estrangeiro, por qualquer crime, ou, no Brasil, por motivo de contraveno, tambm se verifica a reincidncia, conforme o disposto no artigo 7 do Decreto-lei 3.688/41. Dessa forma, para a caracterizao da reincidncia,  necessrio que exista deciso condenatria, com trnsito em julgado, por crime anterior. Se o novo crime  cometido antes da publicao da deciso condenatria relativa ao crime anterior, ou se esta tiver sido publicada, mas no tenha transitado em julgado, no haver reincidncia. A noo de primariedade que, na legislao anterior, colocou-se da mesma forma relevante, em face da nova parte geral, perdeu toda a sua importncia. Interpretando os dispositivos legais mencionados, chega-se  concluso de que primrio  o indivduo que no  reincidente. Exigindo o conceito de reincidncia uma condenao anterior, conclui-se que o acusado que responde a vrios processos simultneos seria apenas tecnicamente primrio. Na verdade, como o conceito de reincidncia  um conceito tcnico-jurdico, somente se pode falar em reincidncia quando satisfeitos os requisitos legais. Reincidncia e primariedade so conceitos tcnicos. Portanto, no possui qualquer relevncia a considerao extrajurdica que aponta o indivduo como tecnicamente primrio, pois a lei somente se refere ao reincidente como sendo o indivduo anteriormente condenado. O indivduo tecnicamente primrio no  reincidente. A prtica de vrios crimes em curto espao de tempo, via de regra, no gera reincidncia, j que no h tempo til para que ocorra deciso condenatria com trnsito em julgado antes da reiterao da conduta criminosa. Como leciona Fragoso,9 o ru pode manter a primariedade, embora condenado por vrios crimes, desde que nenhum deles tenha sido praticado depois da primeira condenao imposta. Conforme o artigo 64, inciso I, do Cdigo Penal, para efeito de reincidncia no prevalece a condenao anterior, se entre a data do cumprimento ou extino da pena e a infrao posterior tiver decorrido perodo de tempo superior a 5 (cinco) anos, computado o perodo de prova da suspenso ou do livramento condicional, se no ocorrer revogao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conceito de reincidncia, segundo a legislao brasileira, requer uma condenao anterior com trânsito em julgado. Se o novo crime for cometido antes da publicação da decisão condenatória do crime anterior, ou se esta tiver sido publicada, mas não tiver transitado em julgado, não haverá reincidência. O indivíduo tecnicamente primário não é reincidente. Se entre a data do cumprimento ou extinção da pena e a infração posterior tiver decorrido um período de tempo superior a 5 anos, computado o período de prova da suspenso ou do livramento condicional, não há reincidência.

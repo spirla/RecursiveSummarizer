@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os agentes infiltrados recebem, basicamente, tarefas de descobrir crimes e seus autores mediante a colheita de provas. Os requisitos para a infiltrao so (a) o fumus comissi delicti, os indcios de infrao penal de que trata o artigo 1 da Lei (artigo 10, pargrafo 2) e dos crimes conexos;
+(b) se a prova no puder ser produzida por outros meios disponveis. (artigo 10, pargrafo 2), vale dizer, em razo dos riscos para o agente infiltrado  prefervel outro meio de prova;
+(c) a concordncia do agente infiltrado (artigo 14, inciso I). O conhecimento da operao fica restrito ao juiz,  autoridade de polcia judiciria militar e ao Ministrio Pblico at a denncia, pois os autos contendo as informaes da operao de infiltrao acompanharo a denncia do Ministrio Pblico, quando sero disponibilizados  defesa, assegurando-se a preservao da identidade do agente (artigo 12, pargrafo 2). Instaurada a ao penal em face dos integrantes da organizao criminosa,  direito da defesa conhecer por qual meio foi obtida a prova, sempre preservada a identidade do agente. O sigilo da investigao  decretado pela autoridade judicial competente para garantir a celeridade e a eficcia das diligncias investigatrias, assegurando-se ao defensor, no interesse do representado, amplo acesso aos elementos de prova que digam respeito ao exerccio do direito de defesa, devidamente precedido de autorizao judicial, ressalvados os referentes s diligncias em andamento (artigo 23). O defensor tem acesso aos autos da infiltrao quando juntados:
+ direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, j documentados em procedimento investigatrio realizado por rgo com competncia de polcia judiciria, digam respeito ao exerccio do direito de defesa (Smula Vinculante 14). Segundo se extrai da Smula Vinculante 14, o defensor pode ter acesso s diligncias j documentadas no IPM, salvo se a diligncia estiver em andamento para no comprometer a finalidade das diligncias.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Agentes infiltrados são usados para descobrir crimes e seus autores, desde que haja indícios de infração penal e que a prova não possa ser obtida por outros meios. O conhecimento da operação é restrito ao juiz, autoridade de polícia judiciária militar e Ministério Público até a denúncia. A defesa tem direito ao acesso aos elementos de prova, desde que autorizada judicialmente, exceto se a diligência estiver em andamento.

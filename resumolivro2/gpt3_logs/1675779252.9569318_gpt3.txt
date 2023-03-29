@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O detido goza das garantias de permanecer calado, de ter assistncia da famlia e de advogado (artigo 5, LXIII, CF). 11.2.6. Priso de desertor e do insubmisso. A priso de desertor e de insubmisso independe de ordem judicial, consoante o artigo 243 do CPPM os militares devero prender quem for insubmisso ou desertor, porquanto o termo de desero sujeita desde logo, o desertor  priso (artigo 452, CPPM) e o termo de insubmisso  o instrumento legal autorizador da captura do insubmisso para efeito da incorporao (artigo 463, pargrafo 1, CPPM). A priso do insubmisso decorre do termo de insubmisso (artigo 463, pargrafo 1, CPPM). A sujeio de insubmisso  priso, semelhante ao que sucede com o desertor, ocorre ainda que fora situao de flagrante delito ou mesmo sem haver ordem escrita de autoridade judiciria competente, com amparo no artigo 5, LXI, da CF. Demais disso, a desero  crime permanente, cujo momento consumativo prolonga-se no tempo e cessa a permanncia com a apresentao voluntria do desertor ou com a sua captura. A priso de desertor  medida cautelar pessoal e, como tal, exige o fumus commissi delicti - prova do fato delituoso e indcios suficientes de autoria - e o periculum libertatis, de conformidade com os artigos 254 e 255 do CPPM. O risco de tornar a desertar, se solto, autoriza a medida cautelar (artigo 255, d, CPPM). Reza o artigo 453 do CPPM:
+O desertor que no for julgado dentro de sessenta dias, a contar do dia de sua apresentao voluntria ou captura, ser posto em liberdade, salvo se tiver dado causa ao retardamento do processo. Se o insubmisso no for julgado no prazo de sessenta dias, a contar do dia de sua apresentao voluntria ou captura, sem que para isso tenha dado causa, ser posto em liberdade (artigo 464, pargrafo 3). A jurisprudncia do STM era consolidada no sentido de prevalecer a regra do artigo 453 do CPPM, ou seja, no se concedia liberdade provisria ao desertor antes de decorridos os sessenta dias. Ou seja, era incabvel a concesso de liberdade ao ru, em processo de desero, antes de exaurido o prazo previsto no artigo 453 do CPPM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O detido goza de direitos como permanecer calado, ter assistência da família e de advogado (artigo 5, LXIII, CF). A prisão de desertor e de insubmisso não depende de ordem judicial, conforme o artigo 243 do CPPM. A prisão do insubmisso decorre do termo de insubmissão (artigo 463, pargrafo 1, CPPM). O desertor que não for julgado dentro de sessenta dias, a contar do dia de sua apresentação voluntária ou captura, será posto em liberdade, salvo se tiver dado causa ao retardamento do processo. O mesmo vale para o insubmisso (artigo 464, pargrafo 3).

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em diversos julgados, que se seguiram, as Turmas do STF reafirmaram o entendimento de que o princpio da presuno de inocncia no impedia a execuo provisria da pena, ainda que pendente de julgamento o recurso especial ou extraordinrio. Essa jurisprudncia que firmou a legalidade da execuo provisria da pena modificou-se em 2009, quando o Pleno, no HC 84.078/MG, por sete votos a quatro, asseverou que o princpio da presuno de inocncia se mostrava incompatvel com a execuo da sentena antes do trnsito em julgado da condenao. Houve em 2016 nova mudana de orientao, o STF voltou a aceitar que a execuo provisria da pena no ofendia a presuno de inocncia. Por maioria de votos, no HC 126.292, rel. Min Teori Zavascki, j. 17.02.2016, decidiu que a condenao em segundo grau de jurisdio (Tribunal de Justia ou Tribunal Regional Federal) podia ser executada imediatamente, sem necessidade de aguardar-se o exame de recursos extraordinrio e especial, pois no compromete o princpio constitucional da presuno de inocncia (artigo 5, LVII, CF). Na ocasio, o STF reconheceu que na apelao ficava definitivamente exaurido o exame dos fatos e das provas, com a fixao da responsabilidade penal do acusado, quando se concretiza o duplo grau de jurisdio, destinado ao reexame de deciso judicial em sua inteireza, mediante ampla devolutividade da matria deduzida na ao penal. Portanto, os recursos de natureza extraordinria no configuram desdobramentos do duplo grau de jurisdio, porquanto no so recursos de ampla devolutividade, j que no se prestam ao debate da matria ftica e probatria. Os recursos para instncias extraordinrias do STJ e do STF - recurso especial e extraordinrio - tm mbito de cognio estrito  matria de direito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF decidiu, por maioria de votos, que a execução provisória da pena não ofende o princípio da presunção de inocência, desde que a condenação seja proferida em segundo grau de jurisdição. Os recursos extraordinários e especiais não configuram desdobramentos do duplo grau de jurisdição, pois têm mbito de cognição estrito, limitado à matéria de direito.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No se caracteriza a imputao objetiva porque o sentido e finalidade das normas penais de proibio no so violados por aes que se dirijam a reduzir o risco de leso ao bem jurdico, atenuem tais leses ou retardem a produo do resultado lesivo. Importa notar que a situao de diminuio do risco que impede a imputao objetiva pressupe que o bem jurdico j se encontra em perigo. Considere-se o exemplo de um motorista que, conduzindo imprudentemente seu veculo, atropela um homem de negcios, causando-lhe leses nas pernas. Por causa das leses, o homem deixa de tomar um avio, adiando viagem marcada para o mesmo dia. Posteriormente, verifica-se que o avio que o homem deveria tomar caiu, sendo que todos os passageiros morreram. Com certeza, as leses produzidas pelo motorista impediram que o homem de negcios tomasse o avio e morresse com os demais passageiros. No entanto, o risco de morrer ainda no se tinha verificado quando do atropelamento. Assim, haver imputao objetiva em relao s leses, pois o nico risco existente para a vtima foi o de ser atropelado pelo automvel e esse risco realizou-se. Igual soluo deve-se dar no caso de o homem de negcios morrer quatro meses aps o atropelamento. No se poderia alegar que o resultado morte foi postergado pelo atropelador, que evitou a morte da vtima que ocorreria no dia da queda do avio. 6.6.1.6.6. Acelerao do resultado. A princpio, nos casos em que a conduta do sujeito produza a antecipao do resultado, revela-se a ocorrncia do incremento do risco e, por consequncia, a relevncia jurdica que autoriza a imputao objetiva. Veja-se o exemplo da interveno mdico-cirrgica descuidada que antecipa a morte do paciente. A doena que debilitava a sade do paciente colocava em risco sua vida e, inevitavelmente, iria conduzi-lo  morte em momento posterior. Contudo, a interveno que antecipa o resultado  penalmente relevante por incrementar o risco j existente. Por isso, o descuido do mdico guarda relao causal com o resultado e satisfaz as exigncias da imputao objetiva. No entanto, nem sempre a antecipao do resultado implica desvalor da conduta. Veja-se outro exemplo: no sendo caso de urgncia, um dentista antecipa a extrao do dente siso de um paciente, causando em sua boca apenas as leses necessrias  extrao do dente, no perodo de suas frias para evitar que os desconfortos decorrentes do procedimentos prejudiquem suas atividades laborativas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imputao objetiva não se aplica em casos em que a ação do sujeito visa reduzir o risco de lesão ao bem jurdico, atenuar tais leses ou retardar o resultado lesivo. Se o bem já estiver em risco, a imputao objetiva pode ser aplicada. Por exemplo, se um motorista atropela um homem de negócios e ele não toma um avião que posteriormente cai, a imputao objetiva pode ser aplicada. Se o dentista antecipar a extração de um dente siso para evitar desconfortos durante as atividades laborais, não há desvalorização da conduta.

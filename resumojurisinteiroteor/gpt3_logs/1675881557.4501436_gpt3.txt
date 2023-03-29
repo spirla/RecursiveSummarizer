@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(a) Maurcio Pinto Ferreira , 8a CMARA CRIMINAL, julgamento em 14/07/2022, publicao da smula em 19/07/2022) EMENTA: APELAO CRIMINAL - ESTUPRO (ART.213, 1 DO CP) - ADOLESCENTE DE 15 (QUINZE) ANOS DE IDADE - CONHECIDO O RECURSO PARA ALTERAO DO FUNDAMENTO DA SENTENA ABSOLUTRIA - CABIMENTO - ATO SEXUAL E AUTORIA CONFIRMADOS - AUSNCIA DE PROVA DO ELEMENTO SUBJETIVO - PALAVRA DA VTIMA SEM AMPARO EM OUTROS ELEMENTOS DE PROVA - PRINCPIO "IN DUBIO PRO REO" - ABSOLVIO MANTIDA  cabvel conhecer de recurso de apelao interposto pelo ru, se a sentena absolutria foi por insuficincia de provas (art.386, VII do CPP), pleiteando o apelante que o fundamento para absolvio seja a inexistncia do fato (art.386, I do CPP). No processo penal, para que haja um decreto condenatrio, a prova deve ser irretorquvel, cristalina e indiscutvel, sob pena de aplicao do princpio in dubio pro reo. Por opo legislativa, no sendo caso de estupro de vulnervel (art.217-A do CP), no h presuno da violncia. Deve estar presente o elemento subjetivo (dolo), comprovando o constrangimento da adolescente maior de 14 (quatorze) e menor de 18 (dezoito) anos de idade (art.213, 1 do CP), por violncia ou grave ameaa, para a prtica da conjuno carnal ou de outro ato libidinoso. (TJMG - Apelao Criminal 1.0392.20.000278-1/001, Relator(a): Des. (a) Bruno Terra Dias , 6a CMARA CRIMINAL, julgamento em 16/11/2021, publicao da smula em 19/11/2021) PENAL E PROCESSO PENAL. APELAO CRIMINAL. AMEAA. PEDIDO DE ABSOLVIO. INVIABILIDADE. PEDIDO DE MODIFICAO DO FUNDAMENTO DA ABSOLVIO EM RELAO A UMA DAS VTIMAS. IMPOSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO. 1. Mantm-se a condenao do apelante pelos crimes de ameaa, uma vez que o decreto condenatrio encontra-se lastreado pelas declaraes das vtimas e pelo depoimento da testemunha, bem como por outros elementos idneos aptos a ensejar a condenao. 2. Invivel a alterao do fundamento da absolvio por insuficincia de provas para inexistncia do fato, uma vez que a ameaa com relao  ofendida, existiu, todavia, no houve provas suficientes para basear a condenao. 3. Recurso conhecido e desprovido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso interposto pelo ru foi conhecido, mas desprovido, mantendo-se a condenao por crime de ameaa, pois o decreto condenatrio encontra-se lastreado por declaraes das vtimas, depoimento da testemunha e outros elementos idneos. A alterao do fundamento da absolvio por insuficincia de provas para inexistncia do fato foi invivel, pois a ameaa existiu, mas no houve provas suficientes para a condenao.

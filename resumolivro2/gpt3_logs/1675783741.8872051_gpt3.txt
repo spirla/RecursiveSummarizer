@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na audincia de instruo e julgamento, conforme o caput do artigo 400 do CPP:
+proceder-se-  tomada de declaraes do ofendido,  inquirio das testemunhas arroladas pela acusao e pela defesa, nesta ordem, ressalvado o disposto no artigo 222 deste Cdigo, bem como aos esclarecimentos dos peritos, s acareaes e ao reconhecimento de pessoas e coisas, interrogando-se, em seguida, o acusado. A Lei 11.690/08 alterou o procedimento de inquirio de testemunha ao dar nova redao ao artigo 212 do CPP, e adotou mtodo do exame direto e cruzado:
+As perguntas sero formuladas pelas partes diretamente  testemunha, no admitindo o juiz aquelas que puderem induzir a resposta, no tiverem relao com a causa ou importarem na repetio de outra j respondida. As perguntas so formuladas pelas partes diretamente  testemunha. Em seguida, a testemunha  reperguntada pela parte contrria. As partes se cruzam quando da oitiva das testemunhas. O mtodo do exame direto e cruzado na inquirio de testemunhas tem raiz no sistema adversarial anglo-americano, no qual prepondera na atividade probatria a iniciativa dos interessados. O depoente  colocado em contato direto com as partes, sendo inquirido inicialmente por quem o arrolou (direct-examination) e, em seguida, submetido ao exame cruzado pela parte contrria (cross-examination). O juiz decide sobre a admissibilidade das perguntas aps impugnao das partes. As vantagens desse sistema de exame cruzado so o contato direto, a sustentao e a objetividade. A parte contrria (cross-examiner), com suas perguntas, pode obter relevantes informaes. O mtodo, a despeito das crticas que enfatizam sua abusiva utilizao como meio de confundir, humilhar e destruir as testemunhas do adversrio, ainda assim representa a mais importante garantia probatria no sistema adversarial. H inclinao para o modelo adversarial, anglo-saxo, marcado pela autonomia das partes, com abandono das concepes do direito processual europeu continental.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 400 do CPP prevê a tomada de declarações do ofendido, o inquérito das testemunhas arroladas pela acusação e pela defesa, acareações, reconhecimento de pessoas e coisas e interrogatório do acusado. A Lei 11.690/08 alterou o procedimento de inquérito de testemunha, adotando o método do exame direto e cruzado, com as perguntas sendo formuladas diretamente à testemunha e, em seguida, sendo reperguntada pela parte contrária. O método do exame direto e cruzado tem raiz no sistema adversarial anglo-americano, com as partes tendo autonomia para obter informações relevantes.

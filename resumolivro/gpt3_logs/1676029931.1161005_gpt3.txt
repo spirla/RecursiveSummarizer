@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em muitos casos concretos, vrias causas podem ser identificadas como vinculadas  produo de determinado resultado naturalstico. A concorrncia de causas  tema que desafia o legislador a resolver, politicamente, a questo da responsabilidade penal. Todas as causas produziram a violao da norma e autorizam a responsabilizao? Ou somente algumas? Nesse ltimo caso, quais causas autorizam a responsabilizao? Para essas indagaes, o legislador teve que apresentar uma soluo jurdica (poltica) que restringe os efeitos da teoria da equivalncia dos antecedentes. A soluo acolhida se fundamenta em critrio de natureza ontolgica, que desafia examinar se, dentre as diversas condutas, alguma produziu isoladamente o resultado naturalstico. No Cdigo Penal Militar, o pargrafo 1 do artigo 29 acolhe frmula restritiva dos efeitos da teoria da equivalncia, em franca concesso  teoria da causalidade qualificada. Segundo o mencionado dispositivo, a supervenincia de causa relativamente independente exclui a imputao quando, por si s, produziu o resultado; os fatos anteriores, entretanto, imputam-se a quem os praticou. Fica evidente aqui que, em relao  primeira causa (antecedente), a imputao do resultado mais grave no acontece. Nos termos da equivalncia dos antecedentes, a causalidade se apresentaria. A imputao, no entanto,  afastada pela relevncia da causa superveniente. Vale observar que o pargrafo 1 do artigo 29 do estatuto repressivo militar no acolheu a teoria da causalidade adequada, com seu mtodo de valorao abstrata e apreciao da contribuio ex ante. De maneira expressa, o dispositivo que trata da supervenincia de causas preocupou-se em identificar a causa que, por si s, produziu o resultado. Uma avaliao de causa que produziu o resultado indica valorao concreta, ex post.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal Militar adota uma solução jurdica para restringir os efeitos da teoria da equivalência dos antecedentes, baseada em critérios ontológicos. O artigo 29 do estatuto repressivo militar exclui a imputação quando uma causa relativamente independente produziu o resultado naturalístico por si só, enquanto os fatos anteriores são imputados a quem os praticou. A solução adotada não segue a teoria da causalidade adequada, mas uma avaliação concreta ex post.

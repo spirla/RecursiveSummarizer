@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Caracterstica fundamental da percia  que o perito emite um juzo de valor sobre os fatos, externando sua impresso sobre a possibilidade de terem sido causados por outros acontecimentos e de explicarem, justificarem ou virem a produzir outros. Os peritos, como explica Chiovenda, so pessoas chamadas a expor ao juiz no s as observaes de seus sentidos e suas impresses pessoais sobre os fatos observados, seno tambm as indues que se devem tirar objetivamente dos fatos observados ou que se lhes deem por existentes. Enquanto a prova testemunhal se decompe em observao e declarao, a percia  constituda de observao, avaliao e declarao. [BADAR, Gustavo Henrique. Processo Penal. So Paulo: Editora Revista dos Tribunais, 2014, p. 434]. Assim, a ausncia de atuao do Instituto Geral de Percias no torna a prova ilcita, porquanto no se tratou de uma percia propriamente dita; foram apenas informaes extradas do telefone. HABEAS CORPUS. ANLISE DA ALEGAO DE NULIDADE DAS INTERCEPTAES TELEFNICAS E DE WHATSAPP DETERMINADA PELO STJ. INOCORRNCIA DE ILEGALIDADE. EXISTNCIA DE AUTORIZAO JUDICIAL PRVIA. AUSNCIA DE PROVA ACERCA DA QUEBRA DA CADEIA DE CUSTDIA. Havendo prvia autorizao judicial, no h falar em nulidade das interceptaes telefnicas e de Whatsapp colhidas pela equipe de investigao policial. O fato de os dados no terem sido coletados por peritos no invalida a prova. Da mesma forma, no h falar em quebra da cadeia de custdia, alegao que veio desprovida de qualquer elemento de prova, havendo, ainda, notcias de que o contedo das interceptaes telemticas j foi submetido  percia, observado o direito ao contraditrio e  ampla defesa. De qualquer sorte, eventual ilegalidade na coleta da prova no ensejaria a soltura dos pacientes nesta fase, j que esto presos porque presentes os requisitos da priso preventiva. ORDEM DENEGADA [TJRS- HC: 70080009939 RS, Relator: Cristina Pereira Gonzales, Data de Julgamento: 03/07/2019, Quinta Cmara Criminal, Data de Publicao: 05/07/2019]. [...] Por todas as razes expostas, nego provimento ao recurso interposto pela defesa e mantenho intacta a sentena de primeiro grau que condenou o ru Cb PM Alexandre Arcanjo de Carvalho Gomes a uma pena de 2 (dois) anos e 8 (oito) meses de recluso, a ser cumprida em regime aberto, pelo crime do art. 308,  1, do CPM.  como voto.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal negou a ordem de Habeas Corpus, pois houve prvia autorizao judicial para as interceptações telefônicas e de Whatsapp, não havendo prova da quebra da cadeia de custódia. A sentença de primeiro grau foi mantida, condenando o réu a 2 anos e 8 meses de reclusão em regime aberto.

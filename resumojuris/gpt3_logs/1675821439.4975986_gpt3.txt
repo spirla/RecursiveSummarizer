@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Os Tribunais de Contas do Municipio  orgaos autonomos e independentes, com atuacao circunscrita a esfera municipal, compostos por servidores municipais, com a funcao de auxiliar a Camara Municipal no controle externo da fiscalizacao financeira e orcamentaria do respectivo Municipio , distinguem-se, portanto, dos Tribunais de Contas dos Municipios  orgaos estaduais, cuja area de abrangencia coincide com o territorio do estado ao qual vinculados. Inexiste paralelismo entre o modelo federal estabelecido ao Tribunal de Contas da Uniao e o do Tribunal de Contas do Municipio, sendo essa mais uma das assimetrias constitucionais entre os entes federados, como, por exemplo, a ausencia de Poder Judiciario, Ministerio Publico e Policia Militar na esfera municipal. Ausente a instituicao no plano municipal, nao ha o que se instituir, menos ainda sob o argumento de ausencia de simetria do que se tem no estado e na Uniao sobre o Ministerio Publico. Dessa forma, no caso, nao e obrigatoria a instituicao e regulamentacao do Ministerio Publico especial junto ao Tribunal de Contas do Municipio de Sao Paulo. Com base nesse entendimento, o Plenario, por unanimidade, conheceu de ADPF e julgou improcedente o pedido nela formulado, por nao vislumbrar omissao da Camara de Vereadores e do Tribunal de Contas do Municipio de Sao Paulo na criacao do Ministerio Publico especial junto ao Tribunal de Contas Municipal. ADPF 272/DF, relatora Min. Carmen Lucia, julgamento em 25.3.2021 (INF 1011) Prerrogativa de foro e principio da simetria - ADI 5591/SP Resumo: A autonomia dos estados para dispor sobre autoridades submetidas a foro privilegiado nao e ilimitada, nao pode ficar ao arbitrio politico do constituinte estadual e deve seguir, por simetria, o modelo federal. Com efeito, o poder dos estados-membros de definirem, em suas constituicoes, a competencia dos tribunais de justica esta limitado pelos principios da CF/88 (CF) (arts. 25,  1, e 125,  1).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os Tribunais de Contas do Município são órgãos autônomos e independentes, com atuação circunscrita à esfera municipal, compostos por servidores municipais, com a função de auxiliar a Câmara Municipal no controle externo da fiscalização financeira e orçamentária do respectivo Município. 2. Não há paralelismo entre o modelo federal estabelecido ao Tribunal de Contas da União e o do Tribunal de Contas do Município, sendo essa mais uma das assimetrias constitucionais entre os entes federados. 3. A autonomia dos estados para dispor sobre autoridades submetidas a foro privilegiado não é ilimitada, não pode ficar ao arbitrio político do constituinte estadual e deve seguir, por simetria, o modelo federal.

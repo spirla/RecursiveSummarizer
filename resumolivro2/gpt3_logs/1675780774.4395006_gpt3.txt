@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Quanto aos juzos de possibilidade e de probabilidade, temos a possibilidade no lugar da probabilidade, quando as razes favorveis e contrrias da hiptese so equivalentes. No juzo de possibilidade no h predominncia de qualquer das razes positivas sobre as negativas, ou vice-versa. (...) no juzo de probabilidade h um predomnio das razes positivas sobre as negativas, ou vice-versa. E mais:
+na medida em que o predomnio aumenta, maior a probabilidade. Quando o predomnio das razes positivas vai decrescendo, tendendo a se igualar s razes negativas, a probabilidade diminui. Isso at o ponto em que os juzos entre razes positivas e negativas se igualam, pois a se retorna ao campo da possibilidade. A verdade atingida no processo nada mais  do que um elevado ou elevadssimo grau de probabilidade de que o fato tenha ocorrido como as provas demostram. Por outro lado, a certeza, enquanto aspecto subjetivo da verdade, tambm  relativa. O juiz tem certeza de um fato quando, de acordo com as provas produzidas, pode racionalmente considerar que uma hiptese ftica  a prefervel entre as possveis. Ou seja, em linguagem mais simples, o juiz tem certeza quando as provas o fazem acreditar que o seu conhecimento  verdadeiro. Diz-se que da certeza que extrai das provas, o juiz labora sua verdade. 14.2. Provas em espcie. 14.2.1. Interrogatrio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juízo de possibilidade ocorre quando as razões favoráveis e contrárias da hipótese são equivalentes. Já o juízo de probabilidade ocorre quando há predomínio das razões positivas ou negativas, sendo que quanto maior o predomínio, maior a probabilidade. A verdade atingida é um elevado ou elevadíssimo grau de probabilidade de que o fato ocorreu como as provas mostram. A certeza é relativa e o juiz tem certeza quando as provas o fazem acreditar que o seu conhecimento é verdadeiro. Uma das provas em especie é o interrogatório.

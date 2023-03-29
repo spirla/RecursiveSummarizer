@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+H Tribunal de Justia Militar nos estados de So Paulo, Minas Gerais e Rio Grande do Sul, cuja composio  mista e majoritariamente militar. A composio do Tribunal de Justia Militar do estado de So Paulo  de sete juzes, sendo quatro militares coronis da ativa da Polcia Militar do estado e trs civis (artigo 80, da Constituio estadual). Para os cargos de juzes civis so nomeados um juiz de direito de carreira, um representante da Ordem dos Advogados do Brasil e um representante do Ministrio Pblico. O Tribunal de Justia Militar do estado de Minas Gerais  composto, conforme artigo 110 da CE, de oficiais da ativa do mais alto posto da Polcia Militar ou do Corpo de Bombeiros Militar, e de juzes civis, em nmero mpar, fixado na Lei de Organizao e Diviso Judiciria, excedendo o nmero de juzes militares ao de juzes civis em uma unidade. Os integrantes do quinto constitucional so nomeados por ato do Governador do estado. De modo semelhante a Constituio do estado do Rio Grande do Sul (artigo 104) organizou o segundo grau de jurisdio. No primeiro grau de jurisdio os Conselhos de Justia, de composio mista e de maioria militar, so presididos pelo juiz de direito (artigo 125, pargrafo 5, CF) e integrados por quatro oficiais militares. Se o acusado for oficial, so sorteados para o Conselho Especial de Justia quatro oficiais militares de posto e patente ao oficial acusado ou, no caso de igualdade de posto e patente, mais antigo. Ao menos um dos juzes militares deve ser oficial superior (major, tenente-coronel ou coronel). A questo que pode surgir  se o acusado for coronel da ativa de maior antiguidade dos oficiais da ativa que integram a lista de sorteio. Coronis inativos, que na ativa eram mais antigos do que o ru, devem integrar a lista de sorteio e os quatro sorteados revertidos ao servio ativo para compor o Conselho Especial de Justia? Para uma outra linha de entendimento, no entanto, o Conselho Especial  formado por coronis da ativa, ainda que mais modernos que o ru na ativa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar nos estados de So Paulo, Minas Gerais e Rio Grande do Sul é composto majoritariamente por militares. Em So Paulo, são sete juízes, sendo quatro militares e três civis. Em Minas Gerais, é composto por oficiais da ativa da Polícia Militar ou do Corpo de Bombeiros Militar e juízes civis. No Rio Grande do Sul, o Conselho de Justia é presidido por um juiz de direito e composto por quatro oficiais militares. Se o acusado for oficial, quatro oficiais militares de posto e patente ao oficial acusado são sorteados para o Conselho Especial de Justia.

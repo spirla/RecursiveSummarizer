@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Portanto, conforme a doutrina, o ideal e anular o julgamento, em juizo rescisorio, determinando a realizacao de outro, quando efetivamente o Conselho de Sentenca equivocou-se, adotando tese integralmente incompativel com as provas dos autos. Nao cabe anulacao quando os jurados optam por umas das correntes de interpretacao da prova possiveis de surgir . (Informativo n. 752) 1246 PROCESSO RHC 119.342-SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 20/09/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Interceptacao telefonica. Requisitos da utilizacao da tecnica de fundamentacao per relationem. Impossibilidade. Mera remissao a representacao do Ministerio Publico. Ausencia de transcricao dos argumentos ou acrescimo das razoes de decidir do Magistrado. Exigencia de consideracao autonoma relativa ao caso concreto. Efetiva demonstracao da imprescindibilidade de prorrogacao/autorizacao da medida constritiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ideal anular o julgamento, em juízo rescisório, determinando a realização de outro, quando o Conselho de Sentença equivocou-se, adotando tese integralmente incompatível com as provas dos autos. 2. Não cabe anulação quando os jurados optam por uma das correntes de interpretação da prova possíveis de surgir. 3. É necessária a fundamentação per relationem para a utilização da técnica de interceptação telefônica. 4. É imprescindível a transcrição dos argumentos ou acrescimo das razões de decidir do Magistrado. 5. É necessária a consideração autônoma relativa ao caso concreto para a efetiva demonstração da imprescindibilidade de prorrogação/autorização da medida constritiva.

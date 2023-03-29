@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1207 Inicialmente, pontua-se que nao ha controversia fatica quanto a inimizade entre o advogado e o julgador, que e inclusive admitida por este ultimo. O debate limita-se a questoes processuais que, na otica da Corte local, impediriam o reconhecimento da suspeicao, mesmo diante da inimizade ja conhecida pelo proprio Tribunal de origem, a saber: (I) a inexistencia de procuracao constituindo o advogado inimigo do magistrado como defensor do reu; (II) o fato de o mesmo causidico ja ter laborado em outras acoes sem suscitar a suspeicao do juiz; e (III) a suposta existencia de manobra defensiva para provocar o afastamento do julgador. A Corte estadual e o magistrado excepto tem adotado postura erratica, ora reconhecendo a suspeicao nos processos em que o advogado atua, ora rejeitando-a. Essa situacao, alem de violar os mandamentos de estabilidade e coerencia contidos no art. 926 do CPC, dificulta a tarefa deste Tribunal Superior e prejudica nao so a posicao juridica da defesa, mas a propria eficiencia do processo penal em si. A imparcialidade do juiz e uma garantia fundamental do processo penal democratico, sem a qual e verdadeiramente impossivel construir uma solucao juridica adequada para cada caso concreto. O proprio plexo de garantias funcionais da magistratura elencado no art. 95 da CR/88 e disciplinado nos arts. 24 a 35 da LC n. 35/1979, alias, guarda intima relacao com a preservacao da imparcialidade, por proteger o magistrado contra pressoes externas que poderiam afetar sua isencao decisoria. Como hipotese extraordinaria que e, a superacao da suspeicao na forma do art. 256 do CPP exige do julgador que a reconhecer a exposicao idonea e minudente dos fundamentos que lhe levaram a constatar a comprovacao de uma manobra de ma-fe da parte excipiente. Nao cabem, aqui, argumentos genericos, intuicoes, conjecturas ou desconfiancas: para a aplicacao do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I. Não há controvérsia fática quanto à inimizade entre o advogado e o julgador, que é admitida pelo Tribunal de origem. II. A inexistência de procuração constituindo o advogado inimigo do magistrado como defensor do réu. III. O fato de o mesmo causídico já ter laborado em outras ações sem suscitar a suspeição do juiz. IV. A suposta existência de manobra defensiva para provocar o afastamento do julgador. V. A imparcialidade do juiz é uma garantia fundamental do processo penal democrático. VI. A superação da suspeição na forma do art. 256 do CPP exige do julgador que a reconheça a exposição idonea e minudente dos fundamentos que lhe levaram a constatar a comprovação de uma manobra de má-fé da parte excipiente.

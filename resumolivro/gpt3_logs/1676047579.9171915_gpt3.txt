@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se no houver sucumbncia, no haver como admitir pedido de reviso do decisum. No caso de absolvio, no poder o acusado recorrer para, por exemplo, mudar os fundamentos da deciso. No entanto, se a pena aplicada no for a que o rgo do Ministrio Pblico entender por justa, haver interesse em modific-la, j que houve sucumbncia parcial. A doutrina aponta, ainda, como questo relativa ao interesse de agir, a adequao da pretenso manifestada ao provimento jurisdicional pleiteado. Por adequao, deve-se entender a correlao existente entre o fato narrado pelo autor e o provimento jurisdicional postulado. Pode-se vislumbrar a falta dessa correlao nas aes de habeas corpus intentadas para trancar aes penais propostas em face de pessoas jurdicas, nos crimes ambientais. Se a pessoa jurdica no sofrer o perigo de ter privada a sua liberdade ambulatria, no haver que se falar em habeas corpus. A prpria denominao da ao j evidencia a falta de correlao: apresente-se que corpo? Contudo, a hiptese enquadra-se perfeitamente no exame da possibilidade jurdica do pedido. Com toda certeza, no  juridicamente possvel manejar a ao de habeas corpus em favor de uma pessoa jurdica. 11.2.4. Justa causa. Considerando que a ao penal condenatria representa srio gravame para a situao jurdica do acusado e que no se podem admitir acusaes temerrias, a doutrina estabeleceu que todo e qualquer pedido de condenao deve encontrar suporte em justa causa. Nesse sentido, o artigo 395, inciso III, do Cdigo de Processo Penal determina a rejeio da acusao quando no houver justa causa. Apesar de constar de um inciso diverso do que menciona a rejeio da acusao por faltar condio para o exerccio da ao penal (inciso II), a existncia de justa causa para a acusao  entendida pela doutrina como uma das condies da ao penal. A justa causa que se apresenta como condio da ao no se confunde com a causa de pedir da condenao. Se o autor alega a ocorrncia de um crime, o fato criminoso sempre confere justa causa para um pedido de condenao. O crime  socialmente relevante e autoriza a condenao e a imposio de pena. Como condio da ao, no entanto, a justa causa tem outro significado. Por justa causa, deve-se entender um lastro mnimo de prova que deve fornecer arrimo  acusao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Se houver sucumbncia, pode-se admitir um pedido de reviso da deciso. Se a pena aplicada no for considerada justa pelo Ministério Público, pode-se recorrer para modificá-la. A doutrina estabelece que todo pedido de condenação deve ter justa causa, ou seja, um lastro mínimo de prova para fornecer arrimo à acusação.

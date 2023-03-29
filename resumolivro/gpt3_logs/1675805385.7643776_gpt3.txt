@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+p/ Acordao Ministra Laurita Vaz, Quinta Turma, julgado em 19/10/2010, DJe 01/02/2011). Nesse mesmo foi a decisao do STJ no seguinte acordao: AgRg nos EREsp 998.249/RS, Rel. Min. Sebastiao Reis Junior, Terceira Secao, DJe 21/09/2012. 295 GONCALVES, Marcus Vinicius Rios. Direito processual civil esquematizado. p. 284. 296 Op cit. p. 423. 297 Nesse mesmo sentido, estabelece o CPPM: Artigo 296. O nus da prova compete a quem alegar o fato, mas o juiz podera, no curso da instrucao criminal ou antes de proferir sentenca, determinar, de oficio, diligncias para dirimir duvida sobre ponto relevante.(...).. 298 Nesse sentido, o CPC dispoe: Artigo 373. O nus da prova incumbe: I - ao autor, quanto ao fato constitutivo do seu direito; II - ao reu, quanto a existncia de fato impeditivo, modificativo ou extintivo do direito do autor.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ decidiu que o nus da prova compete a quem alegar o fato, mas o juiz pode determinar, de ofício, diligências para dirimir dúvidas sobre pontos relevantes. O CPC estabelece que o nus da prova incumbe ao autor quanto ao fato constitutivo do seu direito e ao réu quanto a existência de fato impeditivo, modificativo ou extintivo do direito do autor.

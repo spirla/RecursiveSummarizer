@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Cabe observar que a atribuio objetiva do resultado jurdico, por si s, ainda no caracteriza a conduta como punvel, sendo apenas o primeiro passo para atender as exigncias de caracterizao do injusto. O tipo objetivo  somente a parte externa do crime, que evidencia a magnitude social da conduta e constitui referncia para o exame do tipo subjetivo. O exame da tipicidade somente ser completo quando se constatar a subsuno do fato s exigncias subjetivas do tipo, e a penal ainda depender do juzo de culpabilidade. 6.2.1. Finalidade da conduta. Na concepo naturalista, o tipo constitua o ponto neutro de referncia para os exames valorativos da ilicitude e culpabilidade. A conduta proibida compreendia apenas o movimento corpreo consciente e voluntrio, cujos elementos seriam um querer, uma atuao e uma relao de causalidade entre a conduta e o resultado naturalstico por ela produzido. Ao considerar um querer na estrutura tpica, no se pretendeu examinar o contedo da vontade, mas apenas a sua existncia ntica, de modo que, mesmo nas condutas culposas, foi identificada a finalidade inerente a toda conduta humana. O contedo da vontade, por sua vez, deveria ser examinado somente na culpabilidade. Com a perspectiva finalista, percebeu-se que a estrita considerao sobre a relao de causalidade material era incapaz de selecionar a matria de interesse do Direito Penal. A causalidade naturalista deveria ser enriquecida com consideraes sobre o elemento intencional. Nesse sentido, Welzel asseverou que:
+en los crimes dolosos slo es tpicamente relevante la relacin causal dirigida por el dolo (de tipo). Todos los efectos que acontecen ms all de la relacin causal abarcada por el dolo (de tipo) no entran en consideracin para los tipos de los crimes dolosos. En ellos, por consiguiente, la relacin causal relevante slo viene a ser dada por el enlace del tipo objetivo con el tipo subjetivo, esto es, la concordancia entre el curso del acontecer exterior y el dolo que lo gobierna. O tipo subjetivo no foi considerado mero corretivo do curso causal objetivo. Na doutrina finalista, materialmente, o dolo  fator de direo prvio do curso causal. Nos crimes culposos, somente  relevante a produo do resultado que inobserva um dever objetivo de cuidado, identificvel por meio da previsibilidade objetiva. Dessa maneira, Welzel sustentou a prevalncia do desvalor da ao sobre o desvalor do resultado no momento da adequao tpica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A análise da tipicidade de um crime é composta por dois elementos, o objetivo e o subjetivo. O primeiro se refere à magnitude social da conduta e o segundo à vontade consciente e voluntária. A perspectiva finalista enriquece a causalidade naturalista, pois considera a intencionalidade na estrutura típica. Nos crimes dolosos, a relação causal é dada pela concordância entre o curso do acontecimento exterior e o dolo que o governa. Já nos culposos, é relevante a produção do resultado que descumpre um dever objetivo de cuidado.

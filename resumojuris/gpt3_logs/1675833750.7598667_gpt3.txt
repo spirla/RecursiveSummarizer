@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+123 Pelo prisma jurisprudencial revelado nos precedentes desta Corte, e possivel afirmar que o regramento contido nesse permissivo legal abrange interacoes entre concessionarias, sendo inapto para embasar cobranca pelo uso da faixa de dominio quando, sob regime de exploracao direta ou indireta, o Estado participe da relacao processual, seja na qualidade de gestor da rodovia e autor da cobranca, seja na condicao de sujeito passivo, quando lhe e exigido o pagamento pela utilizacao do espaco por empresa privada administradora da via. Portanto, ainda que respeitada a modicidade tarifaria, nao e possivel as concessionarias de rodovias alargar a base de arrecadacao pelo ingresso de receita complementar derivada da exploracao da faixa de dominio se, para tanto, for preciso onerar entidade estatal prestadora de servico publico distinto do viario, cuja configuracao juridica seja adversa a lucratividade. (Informativo n. 740) PROCESSO REsp 1.857.098-MS, Rel. Min. Og Fernandes, Primeira Secao, por unanimidade, julgado em 11/05/2022. (Tema IAC 13) RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Direito de acesso a informacao ambiental. Principios da maxima divulgacao e favor informare. Arts. 2 da Lei n. 10.650/2003, 8 da Lei n. 12.527/2011 (LAI) e 9 da Lei n. 6.938/1981 (Politica Nacional do Meio Ambiente - PNMA). Principio 10 da Declaracao do Rio, Acordo de Escazu e Convencao de Aarhus. Convergencia normativa. Transparencia ambiental ativa, passiva e reativa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível afirmar que o regramento contido em permissivo legal abrange interações entre concessionárias. 2. Não é possível as concessionárias de rodovias alargar a base de arrecadação pelo ingresso de receita complementar derivada da exploração da faixa de domínio se, para tanto, for preciso onerar entidade estatal prestadora de serviço público distinto do viário. 3. É assegurado o direito de acesso à informação ambiental, nos termos dos artigos 2 da Lei n. 10.650/2003, 8 da Lei n. 12.527/2011 (LAI) e 9 da Lei n. 6.938/1981 (Política Nacional do Meio Ambiente - PNMA). 4. É assegurado o princípio da máxima divulgação e favor informare, bem como o princípio 10 da Declaração do Rio, Acordo de Escazu e Convenção de Aarhus. 5. É assegurada a transparência ambiental ativa, passiva e reativa.

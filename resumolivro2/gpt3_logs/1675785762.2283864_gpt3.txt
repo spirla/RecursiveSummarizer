@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No faz mais sentido a ltima exceo ao efeito suspensivo em caso de suspenso condicional da pena, porque o artigo 606 do CPPM deve ser cotejado com a redao original do artigo 527 do CPPM, que determina que:
+O ru no poder apelar sem recolher-se  priso, e que no foi acolhido pela Constituio Federal de 1988. O condenado apelava preso, salvo se a pena privativa de liberdade no fosse superior a dois anos, que poderia ser suspensa de dois a seis anos. Percebe-se, ento, a lgica da exceo. A apelao tem efeito devolutivo. Devolve ao tribunal a matria de fato e de direito para ser julgada. Esta devoluo  plena quando for devolvida ao tribunal toda matria apreciada em primeiro grau e ser parcial se for impugnao de parte da deciso recorrida, por exemplo, se a apelao tiver por objeto apenas a reduo da pena. O efeito devolutivo da apelao permite ao tribunal apreciar em profundidade o recurso, mas no em sua extenso (limite horizontal), de modo que o tribunal deve restringir-se  matria questionada. O efeito extensivo previsto no artigo 515 do CPPM (No caso de concurso de agentes, a deciso do recurso interposto por um dos rus, se fundada em motivos que no sejam de carter exclusivamente pessoal, aproveitar aos outros)  regra geral dos recursos.  possvel estender os efeitos favorveis aos rus que praticaram o mesmo crime e desde que a deciso da apelao no seja fundada em motivos que no sejam de carter exclusivamente pessoal. Por exemplo:
+de dois condenados pela prtica de determinada conduta apenas um deles apela e  dado provimento ao recurso de apelao em razo da atipicidade. Mesmo que apenas um dos rus tenha apelado, a absolvio aproveitar ao corru, porque a atipicidade no  motivo de carter exclusivamente pessoal. 18.3.5. Execuo provisria da pena. A execuo provisria da pena depois do julgamento da apelao envolve diretamente o princpio da presuno de inocncia:
+ningum ser considerado culpado at o trnsito em julgado de sentena penal condenatria (artigo 5, LVII, da CF).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 606 do CPPM deve ser lido em conjunto com o artigo 527 do CPPM, que determina que o ru não pode apelar sem antes se recolher à prisão, exceto se a pena não for superior a dois anos, que pode ser suspensa de dois a seis anos. A apelão tem efeito devolutivo, ou seja, devolve ao tribunal a matéria de fato e de direito para ser julgada. O efeito extensivo previsto no artigo 515 do CPPM permite que os efeitos favoráveis sejam estendidos aos rus que praticaram o mesmo crime. A execução provisória da pena depois do julgamento da apelação envolve diretamente o princípio da presunção de inocência.

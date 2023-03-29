@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Existem casos em que o aumento do risco para alm dos limites do permitido no acarreta imputao, pois a situao est fora do alcance da norma jurdica incriminadora. Roxin apresenta exemplo bastante elucidativo: dois ciclistas trafegam com suas bicicletas, durante a noite, por uma rodovia sem iluminao, seguindo um na frente do outro. O ciclista que vinha na frente choca-se com um terceiro ciclista que transitava em sentido contrrio e no o viu, dada a falta de iluminao. Certamente, se o ciclista que vinha atrs estivesse iluminando seu caminho, o terceiro ciclista poderia ver o primeiro e evitar a coliso. A impossibilidade da imputao, no entanto, opera-se em face do reconhecimento da inexistncia da obrigao de iluminar bicicletas alheias e que a norma que impe o dever de trafegar com faris acesos tem a finalidade de evitar sinistros com a pessoa do prprio condutor, e no em terceiros. 3.6.1.4. Excluso da imputao ante o risco permitido. Com muita propriedade, Roxin observa que, mesmo que o sujeito crie, com seu comportamento, uma situao de risco, no  possvel formular-se imputao quando se tratar de um risco permitido. Sem dvidas, o comportamento que se mantm nos limites da tolerncia social no pode caracterizar injusto. Apesar de a noo de risco permitido ser utilizada nos mais variados contextos, seu significado no  suficientemente claro. Entretanto, pode-se entender que o risco permitido caracteriza situao de perigo relevante ao bem jurdico, que, de modo geral (independentemente do caso concreto),  socialmente tolerado.  noo que implica o exerccio de atividade valorativa, a qual se realiza na anlise custo-benefcio do comportamento arriscado. A permisso para a realizao da atividade perigosa fundamenta-se no reconhecimento de que a proibio traria consequncias desvaliosas para a sociedade. Na sociedade contempornea, no  possvel evitar a existncia de certos riscos, mas tais riscos podem ser administrados. A administrao das situaes de risco serve para estabelecer os marcos segundo os quais tais riscos so tolerados em favor de determinados proveitos sociais.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existem casos em que o risco para além dos limites permitidos não acarreta imputação, pois a situação está fora do alcance da norma jurdica incriminadora. A impossibilidade de imputação ocorre quando o risco é permitido, pois o comportamento se mantém dentro da tolerância social. A permisão para a realização da atividade perigosa é baseada no reconhecimento de que a proibição traria conseqüências desvaliosas para a sociedade. A administração das situações de risco serve para estabelecer os limites aceitáveis em favor de determinados benefícios sociais.

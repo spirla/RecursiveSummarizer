@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL CIVIL TEMA Conflito negativo de competencia. Juizos estadual e federal. Acao de improbidade administrativa ajuizada por ente municipal. Prestacao de contas de verbas federais. Mitigacao das sumulas 208/STJ e 209/STJ. Competencia civel da Justica Federal absoluta em razao da pessoa. Art. 109, I, da CF. Ausencia de ente federal em qualquer dos polos da relacao processual. Competencia da Justica Estadual. DESTAQUE Nas acoes de improbidade administrativa, a competencia da Justica Federal e definida em razao da presenca das pessoas juridicas de direito publico previstas no art. 109, I, da CF/88 na relacao processual, e nao em razao da natureza da verba federal sujeita a fiscalizacao da Tribunal de Contas da Uniao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Nas ações de improbidade administrativa, a competência da Justiça Federal é definida em razão da presença das pessoas jurídicas de direito público previstas no art. 109, I, da CF/88 na relação processual, e não em razão da natureza da verba federal sujeita a fiscalização do Tribunal de Contas da União. 2. A competência cível da Justiça Federal é absoluta em razão da pessoa. 3. A ausência de ente federal em qualquer dos polos da relação processual determina a competência da Justiça Estadual. 4. A mitigação das Súmulas 208/STJ e 209/STJ é necessária para o julgamento de conflitos negativos de competência entre juízos estadual e federal.

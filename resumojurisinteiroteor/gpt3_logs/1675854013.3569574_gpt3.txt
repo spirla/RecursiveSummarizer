@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+226 (violao de domicilio); no art. 319 (prevaricao); no art. 312 (falsidade ideolgica) e no art. 243 (extorso simples). (Evento 5 - DENUNCIA2). A denncia foi recebida em 23/05/2018 (Evento 5 - RECE_DENUN15). Os depoimentos dos ofendidos - Washington Luiz Cursini Caldeira de Oliveira, David Caran da Silva Perptuo e Fbio Martins Ferreira - e das testemunhas arroladas pela acusao - 2 Sgt. PM Jos Agostinho Leandro Carvalho, Cb. PM Alessandro Malveira Oliveira, Cb. PM Leandro Tadeu Moura Reis, Cb. PM Cleyton Caldeira de Sousa Melo, Cb. PM Jean talo de Melo Gomes, Sara Louize Damasceno Dalmsio, Rafael Lima Cherman e Joaquim Perdigo Neto - foram colhidos por meio de recurso audiovisual (Eventos 11/15). O Ministrio Pblico desistiu da oitiva da vtima Carlos Leonardo da Silva Cardoso (Evento 5 - PEASDIGITALIZADAS19, pg. 89). As inquiries das testemunhas arroladas pela defesa - Cel. QPR Shubert Siqueira Campos, Ten. Cel PM Walter Anselmo Simes Rocha, Ten. Cel PM Lucas Mateus de Souza Emdio, 1 Ten. PM Wagner de Paula Souza, 3 Sgt. PM Michell Henrique Feliciano, Cb.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A denncia foi recebida em 23/05/2018 e os depoimentos dos ofendidos e das testemunhas arroladas pela acusao foram colhidos por meio de recurso audiovisual. O Ministrio Pblico desistiu da oitiva da vtima. As inquiries das testemunhas arroladas pela defesa tambm foram realizadas.

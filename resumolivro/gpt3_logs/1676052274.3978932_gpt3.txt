@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Vale observar que o estudo sociolgico de Durkheim mudou o enfoque usual sobre o suicdio, que centravam atenes nas caractersticas individuais da vitima, para estudar as conexes existentes entre os indivduos e a sociedade. Segundo Durkheim, a ocorrncia do suicdio est diretamente ligada ao nvel de integrao social que o indivduo mantm com os grupos. Nveis anormais de integrao social podem resultar num aumento das taxas de suicdio. Durkheim diferenciou trs tipos de suicdio: o egostico, o altruista e o anmico83, concluindo que as taxas de suicdio so maiores entre os solteiros, vivos e divorciados do que entre os casados; entre pessoas que no tm filhos e entre protestantes que entre catlicos. Nelson Hungria pretendeu restringir a noo jurdica de suicdio definindo-o como a eliminao voluntria e direta da prpria vida. Entretanto, no h razes para restringir o suicdio aos casos em que a morte resulta da atuao direta da vitima. Com razo, Durkheim afirma que. Embora de uma maneira geral o suicdio seja pensado como uma aco positiva e violenta que implica um investimento de fora muscular, pode acontecer que uma atitude puramente negativa ou uma simples absteno tenham a mesma conseqncia. As pessoas tanto se matam atravs da recusa de se alimentarem como pela destruio pelo ferro e pelo fogo. Nem sequer  necessrio que o acto emanado do paciente tenha sido o antecedente imediato da morte para que esta possa ser considerada como o efeito de tal acto; a relao de causalidade pode ser indirecta, o fenmeno no entanto no se altera na sua natureza. Desta forma,  possvel caracterizar o suicdio na conduta da pessoa que no sai da frente de um veculo em movimento, que desafia outrem a desferir-lhe disparo de arma de fogo ou no procura salvar-se de situao de perigo concreto  sua vida. Contudo, para que se caracterize o suicdio  necessrio que ocorra a extino da prpria vida por conduta livre, consciente e voluntria daquele que morre. Nos termos da incriminao, a produo da prpria morte deve constituir o objetivo realizado da conduta do suicida ou que este a aceite como fato possvel diante da conduta perigosa que realiza. O suicdio  a morte da prpria pessoa que no quer mais viver e no a morte daquele que enfrenta situao de perigo para a realizao de outros objetivos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Durkheim mudou o enfoque sobre o suicídio, passando a estudar as conexões entre os indivíduos e a sociedade. Segundo ele, a ocorrência do suicídio está diretamente ligada ao nível de integração social. Durkheim diferenciou três tipos de suicídio e Nelson Hungria definiu-o como a eliminação voluntária e direta da própria vida. A morte pode ser resultado de uma atitude puramente negativa ou da recusa em se alimentar. Para que se caracterize o suicídio é necessário que ocorra a extinção da própria vida por conduta livre, consciente e voluntária daquele que morre.

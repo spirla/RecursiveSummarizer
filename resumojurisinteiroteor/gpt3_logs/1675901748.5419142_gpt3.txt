@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Concluiu que a punio  injusta, sendo evidente que, para no punir, a administrao deveria reconhecer o prprio erro, o que no foi feito. Entendeu que no restam dvidas, portanto, de que a deciso administrativa feriu o princpio da legalidade e da razoabilidade. Requereu a procedncia do pedido inicial, para que se possa tornar nula a deciso que o puniu, decorrente da SAD de Portaria n. 115.089/2015 - 2 BPM, condenando-se o ru ao pagamento das custas e das despesas processuais, bem como dos honorrios advocatcios a serem estipulados pelo juzo. Deu  causa o valor de R$ 500,00 (quinhentos reais) - Evento 1- INIC1. Certificou-se a realizao de pesquisa nos sistemas SINGEP/PJE e EPROC, e a identificao dos processos cveis: PJE n.s 100003849.2015.9.13.0001 e 1000034-09.2015.9.13.0002, EPROC 200002511.2021.9.13.0005, em nome do autor, que tramitaram e tramitam nesta Justia Militar estadual (Evento 2). Em despacho constante no Evento 4, o meritssimo juiz titular da 5a AJME - Cvel determinou ao autor a emenda  inicial e concedeu-lhe a gratuidade de justia. Determinou, ainda, que certifique quanto a partes, natureza da ao, causa de pedir, pedido, data de distribuio, suma da sentena e do acrdo e data do trnsito em julgados relativos a outros processos que tramitem ou tenham tramitado na Justia Militar do Estado de Minas Gerais, em especial, os relacionados na certido de Evento 2 - certido. No Evento 8, o autor emendou a inicial. As certides sobre o inteiro teor dos processos mencionados no Evento 2 e demais documentos foram juntados no Evento 6. O meritssimo juiz titular da 5a AJME - Cvel recebeu a petio inicial (Evento 10 - DEC1). O Estado de Minas Gerais apresentou contestao (Evento14- CONT1). O autor impugnou a contestao (Evento 19 - IMPUGNAO1). O Estado de Minas Gerais informou no ter mais provas a serem produzidas e pediu o julgamento antecipado da lide, conforme art. 355, inciso I, do Cdigo de Processo Civil (CPC) (Evento 24). O autor no se manifestou nessa fase (certido - Evento 26). O meritssimo juiz de direito da 5a AJME - Cvel julgou improcedentes os pedidos do autor, determinando a extino do feito, com a resoluo do mrito, nos termos do art. 487, I, do CPC. Condenou o autor ao pagamento das custas e de honorrios advocatcios, os quais foram arbitrados em 10% (dez por cento) do valor dado  causa, ficando suspensa a exigibilidade da cobrana, nos termos do 3 do art. 98 do CPC (Evento 30 - SENT1).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A deciso judicial concluiu que a punio foi injusta, violando o princpio da legalidade e da razoabilidade. Requereu-se a procedncia do pedido inicial, condenando-se o ru ao pagamento das custas e dos honorrios advocatcios. O juiz julgou improcedentes os pedidos do autor, determinando a extino do feito, com a resoluo do mrito, condenando o autor ao pagamento das custas e de honorrios advocatcios.

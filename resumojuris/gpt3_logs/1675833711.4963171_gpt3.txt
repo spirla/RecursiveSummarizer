@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por conseguinte, trata-se de opcao legislativa que estabelece o termo inicial da fluencia dos juros e da multa moratoria para depois do epilogo da instancia administrativa, ainda que o sujeito autuado nao apresente defesa nem alegacoes finais, porquanto, considerando a ausencia de data de vencimento da obrigacao no auto de infracao, somente se impora o prazo de trinta dias para recolher o valor apos decorridos, ao menos, os lapsos temporais para tais manifestacoes. Noutro giro, sera apenas na decisao administrativa de procedencia da autuacao que se determinara o pagamento da multa com vencimento em trinta dias, esgotados os quais o montante podera sofrer a incidencia dos encargos (arts. 26 e 27 do Decreto n. 2.953/1999). Ate aqui, portanto, nao ha, a rigor, conflito entre os diplomas legais envolvidos, uma vez que, tanto a lei especifica, quanto a geral, prescrevem a fluencia dos acrescimos tomando como baliza para o marco inicial o vencimento da obrigacao encartado na decisao confirmatoria irrecorrida. O dissenso desponta, efetivamente, quando o autuado recorre do pronunciamento administrativo de primeiro grau decisorio, o que faz deslocar o termo inicial da fluencia dos encargos do dia seguinte ao vencimento do trintidio fixado no pronunciamento para o dia subsequente ao transito em julgado da decisao do recurso, vale dizer, da decisao final ou definitiva. Cuida-se, no entanto, de marco legitimamente eleito pela lei especial e previsto na norma regulamentadora, dos quais defluem a prioridade do exercicio de defesa pelo agente autuado em detrimento da satisfacao adiantada da sancao pecuniaria. No ponto, oportuno registrar que a Lei n. 9.847/1999 desestimula eventual conduta protelatoria do infrator, ao lhe conferir a significativa reducao de trinta por cento do valor da multa, caso renuncie expressamente ao direito de recorrer da decisao confirmatoria da autuacao, no prazo disponivel para a interposicao do recurso.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Estabelece-se o termo inicial da fluência dos juros e da multa moratória após o epílogo da instância administrativa, ainda que o sujeito autuado não apresente defesa nem alegações finais. 2. O vencimento da obrigação encartada na decisão confirmatória irrecorrida determinará o pagamento da multa com vencimento em trinta dias. 3. O termo inicial da fluência dos encargos desloca-se do dia seguinte ao vencimento do trintidio fixado no pronunciamento para o dia subsequente ao trânsito em julgado da decisão do recurso. 4. A Lei n. 9.847/1999 concede redução de trinta por cento do valor da multa caso o infrator renuncie expressamente ao direito de recorrer da decisão confirmatória da autuação, no prazo disponível para a interposição do recurso.

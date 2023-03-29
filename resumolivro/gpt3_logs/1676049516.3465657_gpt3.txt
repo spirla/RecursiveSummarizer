@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Referindo-se  espcie, o legislador deixa claro que pretendeu incluir crimes diversos em uma mesma espcie. Portanto, deve-se entender por crimes da mesma espcie todos aqueles constantes do mesmo Captulo do Cdigo Penal, sendo que o Ttulo constitui a classificao genrica dos crimes que visam a proteger um mesmo bem jurdico. Isso significa, por exemplo, que, no gnero crimes contra o patrimnio, o roubo e a extorso so da mesma espcie, ao tempo que o furto pertence  espcie diversa. Tratando-se de crimes previstos em legislao extravagante,  necessrio observar que a previso em separado dos crimes na legislao especial j indica uma classificao distinta em relao ao Cdigo Penal e que, na previso especfica, tambm poder ocorrer outra classificao para sistematizar as possibilidades de agresso ao bem jurdico. Vejamos exemplos. Os crimes previstos na Lei 11.343/2006, que se relacionam  sade pblica, constituem subdiviso diversa daquela estabelecida no Captulo III do Ttulo VIII do CP. Dessa forma, ser possvel reconhecer a continuidade entre os crimes previstos nos artigos 28 e 33 da lei especial, mas no se poder reconhecer continuidade entre o uso de drogas (artigo 28 da Lei 11.343/2006) e a epidemia (artigo 267 do CP). Por outro lado, a Lei 9.605/98, que trata dos crimes ambientais, apresenta uma classificao prpria. Se o gnero puder ser identificado no Captulo dos Crimes contra o Meio Ambiente, a classificao em Sees evidenciar que todos os crimes contra a fauna pertencem a uma mesma espcie. Aplicao da pena no crime continuado. O crime continuado  um instituto que determina, em favor do ru, a aplicao de uma pena reduzida, j que impede o somatrio das penas que normalmente seriam aplicadas pela prtica das diversas condutas proibidas. No importa alterao nas regras da imputao objetiva, mas sim da responsabilidade. Explicando os motivos dessa apenao diminuda, Pedro Vergara15 sustentou que, no crime continuado, verifica-se uma menor culpabilidade do condenado em consequncia das facilidades que se apresentaram  reiterao de crimes. No entanto, tal posicionamento no  correto. O Direito Penal contemporneo sustenta a aplicao da pena na culpabilidade do sujeito pela prtica de determinado crime16 e, no crime continuado, a culpabilidade relativa a apenas um dos diversos crimes praticados  considerada para fixar pena-base e realizar as posteriores operaes de dosimetria da pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O legislador pretendeu incluir crimes diversos em uma mesma espcie, como por exemplo, roubo e extorso no gênero crimes contra o patrimônio. A lei especial prevê uma classificação distinta em relação ao Código Penal. A pena aplicada no crime continuado é reduzida, pois impede o somatório das penas. O Direito Penal contemporâneo sustenta a aplicação da pena na culpabilidade do sujeito pela prática de determinado crime.

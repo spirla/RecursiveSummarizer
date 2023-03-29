@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A doutrina distingue trs categorias psicolgicas de conscincia: a) a conscincia perceptiva ou lcida, que se refere ao conhecimento dos acontecimentos internos e externos, objetos da considerao; b) a conscincia discriminativa, situada em plano mais elevado de inteligncia e que permite distinguir o justo do injusto, bem como a ilicitude dos fatos criminosos e suas consequncias, pressupondo a estimativa de valores e a capacidade de previso; c) a conscincia moral, que estabelece um tribunal no foro interno do indivduo sobre suas prprias condutas. Leciona Jorge Frias Cabalero que a conscincia moral no  mais do que a conscincia discriminativa, aplicada ao cumprimento das normas ticas que regem a vida dos homens. As alteraes da conscincia podem ser fisiolgicas (normais) ou patolgicas (anormais). Como exemplo importante de alterao normal da conscincia tem-se o sono ordinrio. Enquanto alguns autores limitam-se a fazer poucas referncias sobre as possibilidades de alterao da conscincia, Mezger952 e Frias Cabalero953 desenvolveram estudos mais aprofundados sobre o tema. Esses autores assinalam a ocorrncia de transtornos da conscincia no sono normal, no sono produzido por hipnose, nos estados emocionais intensos, no estado de sonolncia, na embriaguez aguda, na embriaguez patolgica, nas alteraes produzidas por substncias entorpecentes, nas depresses de qualquer espcie, nos delrios febris, nos estados de fadiga intensa, na embriaguez do sono e nos estados crepusculares com base histrica, epilptica ou esquizofrnica. Vale notar que, ao Direito Penal, somente interessa discutir os distrbios anormais da conscincia e do sistema motor. A irresponsabilidade penal tem causa na fora incapacitante de uma doena mental, nunca na de um estado fisiolgico normal. No h como excluir a responsabilidade penal diante de meros distrbios do humor, do comportamento, da funo sensitiva ou da funo autonmica, os quais podem at ser produtos de patologias neurolgicas, se no influrem na conscincia valorativa do indivduo, impedindo seu entendimento sobre a ilicitude do fato, ou a determinao de seus movimentos. Doena  toda alterao do estado de sade produzida por uma causa, externa ou interna, conhecida. O Dicionrio mdico Andrei registra que. uma distino ntida entre doena, afeco e entidade mrbida nem sempre est claramente estabelecida e emprega-se com frequncia esses termos como sinnimos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina distingue três categorias psicológicas de consciência: percepção, discriminação e moral. Alterações da consciência podem ser fisiológicas ou patológicas. Estudos aprofundados sobre o tema foram desenvolvidos por Mezger e Frias Cabalero. O Direito Penal somente se interessa por distúrbios anormais da consciência e do sistema motor, que sejam causados por doença mental.

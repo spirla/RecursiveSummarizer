@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Salvo situacoes excepcionais, a Administracao Publica tem o dever de absoluta transparencia na conducao dos negocios publicos. A divulgacao constante e padronizada dos dados epidemiologicos permite analises e projecoes comparativas necessarias para auxiliar as autoridades publicas na tomada de decisoes e possibilitar a populacao em geral o pleno conhecimento da situacao vivenciada no Pais. Cumpre ressaltar que a Republica Federativa do Brasil e signataria de tratados e regras internacionais relacionados a divulgacao de dados epidemiologicos. Na especie, trata-se do julgamento conjunto de tres acoes do controle concentrado de constitucionalidade em face de atos do Poder Executivo que teriam restringido a publicidade de dados referentes a pandemia da Covid-19. O Plenario julgou parcialmente procedente os pedidos formulados em arguicoes de descumprimento de preceito fundamental para determinar que: (i) o Ministerio da Saude mantenha, em sua integralidade, a divulgacao diaria dos dados epidemiologicos relativos a pandemia (Covid-19), inclusive no sitio do Ministerio da Saude e com os numeros acumulados de ocorrencias, exatamente conforme realizado ate o dia 4.6.2020; e (ii) o Governo do Distrito Federal se abstenha de utilizar nova metodologia de contabilidade dos casos e obitos decorrentes da pandemia de Covid-19, mantendo a divulgacao dos dados na forma como veiculada ate o dia 18.8.2020. ADPF 690/DF, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 13.3.2021 (INF 1009) ADPF 691/DF, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 13.3.2021 (INF 1009) ADPF 692/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(i) O Ministério da Saúde tem o dever de manter a divulgação diária dos dados epidemiológicos relativos à pandemia da Covid-19, inclusive no site do Ministério da Saúde e com os números acumulados de ocorrências, exatamente conforme realizado até 4 de junho de 2020; (ii) O Governo do Distrito Federal deve se abster de utilizar nova metodologia de contabilidade dos casos e óbitos decorrentes da pandemia da Covid-19, mantendo a divulgação dos dados na forma como veiculada até 18 de agosto de 2020.

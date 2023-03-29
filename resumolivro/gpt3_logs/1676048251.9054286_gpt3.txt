@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No que diz respeito aos crimes, a definio estabelece como nico critrio para a identificao da menor ofensividade a quantidade da pena privativa de liberdade cominada. No importa se h cominao de multa, seja cumulada ou alternativamente. Embora a definio legal no trate da cominao alternativa de pena de multa, deve-se entender que havendo cominao de pena privativa de liberdade essa cominao dever ser tomada como critrio identificador da menor lesividade. A expresso cumulada ou no com multa utilizada na definio presta-se a esclarecer a indiferena da ocorrncia de cominao  pena de multa e no a estabelecer outro critrio concorrente com o da quantidade da pena privativa de liberdade cominada. 12.4.2. Impossibilidade de aplicao. A aplicao imediata de pena no ser possvel quando se constatar a ocorrncia de qualquer das causas impeditivas estabelecidas no pargrafo 2 do artigo 76 da Lei 9.099/95. O dispositivo deixa claro que cabe ao Ministrio Pblico a prova do fato impeditivo e somente diante dessa prova poder justificar a no formulao da proposta de aplicao imediata de pena. As duas primeiras causas impeditivas da transao so de natureza objetiva, e a terceira, de natureza subjetiva. Conforme o referido dispositivo legal, no se admitir a proposta se ficar comprovado: I - ter sido o autor da infrao condenado, pela prtica de crime,  pena privativa de liberdade, por sentena definitiva; II - ter sido o agente beneficiado anteriormente, no prazo de 5 (cinco) anos, pela aplicao de pena restritiva ou multa, nos termos deste artigo; III - no indicarem os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstncias, ser necessria e suficiente a adoo da medida. Fica claro que a condenao por contraveno, qualquer que tenha sido a pena aplicada, ou por crime cuja pena no tenha sido a privativa de liberdade autoriza a transao penal. Deve-se entender que houve condenao  pena no privativa de liberdade quando, na sentena ou no acrdo em grau de recurso, esta vier a ser substituda por restritiva de direitos ou multa. Nesses casos, a pena privativa de liberdade foi utilizada apenas como parmetro para a substituio, sendo que a pena efetivamente imposta  a pena substituta. Vale observar que a ocorrncia de anterior transao penal, no prazo de 5 (cinco) anos,  situao que no pode ser confundida com a ocorrncia de anterior composio civil.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A definição legal estabelece como critério único para identificar a menor ofensividade a quantidade da pena privativa de liberdade cominada. Não é admitida a proposta de aplicação imediata de pena quando houver condenado por crime com pena privativa de liberdade, anterior condenação nos últimos 5 anos, ou se os antecedentes, conduta social e personalidade do agente não indicarem a necessidade da medida. A condenção por contravenção, qualquer que seja a pena aplicada, ou por crime com pena não privativa de liberdade autoriza a transação penal.

@@ -1,0 +1,23 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No mbito penal, a deciso condenatria definitiva produz vrios efeitos secundrios, entre os quais destacam-se:
+- a revogao2 da suspenso condicional da pena anteriormente concedida (artigo 81) e impedimento para a concesso de posterior sursis (artigo 77, I);
+- a revogao3 do livramento condicional (artigos 86 e 87);
+- caracterizar a reincidncia, se houver condenao por fato anterior (artigos 63 e 64);
+- o aumento ou a interrupo do prazo de prescrio (artigos 110, caput, e 117, VI);
+- revogao da reabilitao, se a condenao caracterizar reincidncia (artigo 95);
+- impossibilidade de aplicao de causas de diminuio de pena em processo posterior, enquanto perdurarem os efeitos da reincidncia, como as previstas nos artigos 155, pargrafo 2; 170; e 171, pargrafo 1;
+- impossibilidade de concesso de suspenso condicional do processo pela prtica de crime posterior (artigo 89 da Lei 9.099/95). Outros efeitos, de natureza extrapenal, tambm so produzidos, conforme dispem os artigos 91 e 92 do estatuto repressivo nacional. A produo de efeitos civis pela condenao criminal  objeto de crtica dos doutrinadores que visualizam ofensa ao princpio da correlao entre acusao e condenao. Nesse sentido, Jos Cirilo de Vargas afirma:
+Os denominados efeitos da condenao, principalmente os de natureza essencialmente civil, so de um atraso cientfico inconcebvel, algo que se manifesta no mundo jurdico de maneira absolutamente retrgrada, ultrapassada. Se j  perniciosa a interferncia estatal em setores penais, como acontece no perodo de prova da suspenso condicional da pena, muito mais o ser quando  determinada a perda da arma com a qual foi disparado um tiro em via pblica. Ou, ainda, a certeza legal de que o condenado, por sentena irrecorrvel, tem a obrigao de reparar o dano, s se podendo discutir a liquidao (...) O trnsito em julgado no deveria ultrapassar os limites penais. Jurista algum nos convence do acerto da legislao que contempla, como a nossa, natureza dupla ao pronunciamento penal. Sentena penal  para levar o cidado ao crcere, o que j  suficiente (...). Com certeza, a obrigao de indenizar o dano causado pelo crime no fez parte do pedido formulado na inicial da ao penal. Com acerto, o professor Cirilo observou que nosso ordenamento jurdico quebra a regra que estabelece a correlao entre a acusao e a sentena ao impor a produo de outros efeitos que no os constantes do pedido.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A decisão condenatória definitiva produz vários efeitos secundários, tanto de natureza penal quanto extrapenal, como a revogação da suspenso condicional da pena, do livramento condicional, a caracterização da reincidência, entre outros. No entanto, o trânsito em julgado não deveria ultrapassar os limites penais, pois a obrigação de indenizar o dano causado pelo crime não faz parte do pedido formulado na inicial da ação penal.

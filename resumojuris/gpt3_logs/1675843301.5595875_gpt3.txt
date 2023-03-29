@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE E cabivel o acesso aos dados telematicos de aparelho celular de advogado, quando a medida e autorizada em razao da existencia de serios indicios da pratica de crime por meio da utilizacao do aparelho. Cinge-se a controversia a respeito da extensao da extracao dos dados telematicos em aparelho celular de advogados, acusados de participacao em organizacao criminosa, por meio de coacao de testemunhas em determinada acao penal, em que os procuradores ostentam a garantia do sigilo profissional. O cerne da investigacao deflagrada que inclusive foi a causa de prisao em flagrante, e o fato de os advogados, em tese, utilizarem seus aparelhos celulares para coagir testemunhas a prestarem depoimentos falsos em juizo, em audiencia da acao penal decorrente de investigacao policial (Operacao Regalia) que apurou a pratica de diversos crimes (concussao, estelionato, falsidade ideologica, facilitacao a fuga de preso, usurpacao de funcao publica). 773 Neste Superior Tribunal o entendimento e de que a inviolabilidade prevista no art. 7, II, da Lei n. 8.906/1994 nao se presta para afastar da persecucao penal a pratica de delitos pessoais pelos advogados. Trata-se de garantia voltada ao exercicio da advocacia e protege o munus constitucional exercido pelo profissional em relacao a seus clientes, criminosos ou nao, mas que nao devem servir de blindagem para a pratica de crimes pelo proprio advogado, em concurso ou nao com seus supostos clientes (APn n. 940/DF, Rel. Ministro Og Fernandes, Corte Especial, DJe 13/05/2020).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É cabível o acesso aos dados telemáticos de aparelho celular de advogado, quando a medida é autorizada em razão da existência de sérios indícios da prática de crime por meio da utilização do aparelho. 2. A inviolabilidade prevista no art. 7, II, da Lei n. 8.906/1994 não se presta para afastar da persecução penal a prática de delitos pessoais pelos advogados. 3. A garantia da inviolabilidade da advocacia é voltada ao exercício da advocacia e protege o munus constitucional exercido pelo profissional em relação a seus clientes, criminosos ou não, mas que não devem servir de blindagem para a prática de crimes pelo próprio advogado, em concurso ou não com seus supostos clientes.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O Instituto define a percia de comparao de locutores como percia de base lingustica (lingustica  a cincia que estuda a linguagem), que busca determinar a autoria de falas armazenadas em mdia. So realizados cotejos entre as falas tomadas como padro do locutor suspeito e as falas a ele inicialmente atribudas nos denominados udios questionados. Na comparao de locutores  utilizada a conjuno de duas anlises:
+a perceptivo-auditiva e a acstico-instrumental. Pela primeira so avaliados aspectos de caracterizao geral do indivduo, parmetros vocais especficos e o comportamento lingustico manifestado. Pela segunda, verifica-se quantitativa e qualitativamente o material cotejado (trechos de confronto). O acusado no  obrigado a fornecer material para realizao da percia (artigo 5, LXIII, CF, e artigo 296, pargrafo 2, CPPM). Neste caso, a prova da autoria ficar dependente de outras provas de corroborao. 14.2.8. Prova testemunhal. 14.2.8.1. Conceito de testemunha. Qualquer pessoa poder ser testemunha (artigo 351, CPPM). Em seu sentido etimolgico testemunha vem de testibus, que significa dar f da veracidade de um fato. No sentido jurdico  a pessoa que perante a autoridade judiciria declara o que sabe a respeito do fato criminoso e de suas circunstncias. O ato de testemunhar no se confunde com o de depor, aquele significa presenciar o fato, enquanto este significa dizer sobre o fato testemunhado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Percia de Comparação de Locutores é uma análise baseada na Linguística que busca determinar a autoria de falas armazenadas em mídia. É realizada uma análise perceptivo-auditiva e acústico-instrumental para avaliar aspectos de caracterização geral do indivíduo, parâmetros vocais específicos e comportamento linguístico. A testemunha é qualquer pessoa que, perante a autoridade judiciária, declara o que sabe sobre o fato criminoso e suas circunstâncias.

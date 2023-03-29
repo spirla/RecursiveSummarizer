@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Alm de suspender o processo, pode ser decretada a priso preventiva do acusado, quando presente pelo menos um dos motivos legais que autorizam a adoo da medida cautelar. Pode o juiz determinar a produo antecipada das provas consideradas urgentes. No STF, um conjunto de decises considerou inaplicvel ao processo penal militar o artigo 366 do CPP, em face de os sistemas castrense e comum serem distintos, no podendo haver mescla entre eles de modo a se criar hibridismo normativo, alm disso, denegou ordem de habeas corpus (HC 90.977/MG) ao considerar que a aplicao do artigo 366 do CPP ao procedimento penal militar com a consequente suspenso do prazo prescricional resulta em desfavor do acusado. Na linha do que fora decidido pelo STF, o STM ressaltou a natureza hbrida da norma do artigo 366 do CPP, sua primeira parte  processual e a segunda penal (a prescrio  causa extintiva de punibilidade, regra de direito material), e que a suspenso ou interrupo da prescrio, por serem prejudiciais ao ru, no podem ser aplicadas por analogia prejudicial ou in malam partem, enquanto a revelia na forma do artigo 292 do CPPM  mais favorvel, porque no interrompe a prescrio:
+I  A norma extrada do texto do artigo 366 do Cdigo de Processo Penal possui natureza hbrida, sendo a primeira parte de essncia processual e a segunda penal. Tal afirmao extrai-se do fato de que o instituto da prescrio  causa extintiva de punibilidade, porquanto regra de direito material. II  Intercorrentes obstativos  prescrio, seja suspenso ou interrupo, por serem prejudiciais ao ru, devem decorrer de lei, trata-se da reserva legal. Em decorrncia do postulado constitucional da legalidade, em matria penal, veda-se a analogia prejudicial ou in malam partem. III  Para ser defensvel sua avocao, o resultado da incidncia do seu dispositivo deve ser na ntegra mais favorvel do que o advindo da aplicao do artigo 292 do CPPM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 366 do Código de Processo Penal possui natureza híbrida, sendo a primeira parte de essência processual e a segunda penal. A suspenso ou interrupção da prescrição, por serem prejudiciais ao réu, devem decorrer de lei, pois a analogia prejudicial ou in malam partem é vedada. Para ser defensável, o resultado da incidência do dispositivo deve ser mais favorável do que o advindo da aplicação do artigo 292 do CPPM.

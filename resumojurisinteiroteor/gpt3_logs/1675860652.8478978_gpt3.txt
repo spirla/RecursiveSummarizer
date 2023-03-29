@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em suas contrarrazes (Evento 223), o ilustre representante do Ministrio Pblico sustentou, preliminarmente, a inocorrncia da prescrio, bem como a ausncia de nulidade do feito em razo da alegada inverso tumulturia do processo (os apelantes foram interrogados antes da oitiva em juzo de uma das testemunhas arroladas nos autos). Sustentou, ainda, que devem ser rejeitadas as preliminares de "inpcias de denncia, bem como "ausncia de fundamentao do recebimento da denncia. No mrito, aduziu que a sentena no merece qualquer reparo, inclusive no que se refere a perda do cargo, funo ou emprego pblico, que  efeito automtico da condenao pela prtica do crime de tortura. Ao final, requereu a rejeio das preliminares arguidas e, no mrito, que seja negado provimento ao apelo, mantendo-se a respeitvel sentena condenatria por seus prprios e jurdicos fundamentos. A douta e culta procuradora de justia atuante junto a este Tribunal, doutora Elba Rondino, Evento 7 - PARECER1 - TJM, assim se posicionou: [...] Pois bem, inicialmente, quanto  preliminar de ocorrncia da prescrio da pretenso punitiva pela pena em concreto, arguida pelos apelantes Joo (evento 218 - fls. 01/02) e Danilo (evento 219 - fls. 01/02), no merece prosperar, porque, conforme prudentemente demonstrou a Promotora de Justia subscritora da pea de contrarrazes (evento 223 - fls. 04/06), os marcos interruptivos da prescrio so os dois taxativamente previstos no artigo 125,  5, incisos I e II, do CPM, o primeiro a instaurao do processo e o segundo a prolao de sentena condenatria recorrvel, inexistindo um suposto terceiro marco interruptivo consistente na data da intimao do sentenciado acerca do decreto condenatrio, ao contrrio do que parece ter entendido a defesa do ru Joo (evento 218 - fls. 02). Como os apelantes foram condenados, cada um,  pena de dois (02) anos, sete (07) meses e quinze (15) dias de recluso, a prescrio se opera em 8 anos, nos termos do que dispe o artigo 125, inciso V, do CPM, porm, tendo a denncia sido recebida em 27/01/2014 (evento 2 - RECE_DENUN4) e a sentena prolatada na data de 19/01/2022 (evento 201), transcorreram menos de 8 anos entre os dois supracitados marcos interruptivos da prescrio. Deste modo, no houve decurso do prazo prescricional, devendo a preliminar de prescrio ser, liminarmente, rejeitada. No que tange  preliminar de inpcia da denncia, arguida somente pelo apelante Joo (evento 218 - fls. 04/05), tambm descabe acolhimento, uma vez que, de uma ligeira leitura da pea exordial acusatria (evento 2 - DENUNCIA2), verifica-se que, alm de a sua descrio se mostrar perfeitamente compreensvel quanto  dinmica dos fatos e a autoria dos apelantes no crime, ainda atende por completo os requisitos do artigo 77 do Cdigo de Processo Penal Militar e os previstos no artigo 78 do mesmo cdigo, que, se ausentes, ensejariam a sua rejeio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministrio Pblico sustentou a ausncia de prescrio, nulidade do feito e rejeio das preliminares de inpcias de denncia e ausncia de fundamentao do recebimento da denncia. A procuradora de justia posicionou-se de forma favorvel ao Ministrio Pblico, concluindo que a prescrio no ocorreu, a denncia atendeu aos requisitos legais e as preliminares devem ser rejeitadas.

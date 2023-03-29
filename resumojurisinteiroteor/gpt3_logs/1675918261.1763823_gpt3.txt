@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[..]  2 Os honorrios sero fixados entre o mnimo de dez e o mximo de vinte por cento sobre o valor da condenao, do proveito econmico obtido ou, no sendo possvel mensur-lo, sobre o valor atualizado da causa, atendidos: I - o grau de zelo do profissional; II - o lugar de prestao do servio; III - a natureza e a importncia da causa; IV - o trabalho realizado pelo advogado e o tempo exigido para o seu servio.  3 Nas causas em que a Fazenda Pblica for parte, a fixao dos honorrios observar os critrios estabelecidos nos incisos I a IV do  2 e os seguintes percentuais: I - mnimo de dez e mximo de vinte por cento sobre o valor da condenao ou do proveito econmico obtido at 200 (duzentos) salrios-mnimos; II - mnimo de oito e mximo de dez por cento sobre o valor da condenao ou do proveito econmico obtido acima de 200 (duzentos) salrios-mnimos at 2.000 (dois mil) salrios-mnimos; III - mnimo de cinco e mximo de oito por cento sobre o valor da condenao ou do proveito econmico obtido acima de 2.000 (dois mil) salrios-mnimos at 20.000 (vinte mil) salrios-mnimos; IV - mnimo de trs e mximo de cinco por cento sobre o valor da condenao ou do proveito econmico obtido acima de 20.000 (vinte mil) salrios-mnimos at 100.000 (cem mil) salrios-mnimos; V - mnimo de um e mximo de trs por cento sobre o valor da condenao ou do proveito econmico obtido acima de 100.000 (cem mil) salrios-mnimos. Os critrios para a fixao de honorrios deveriam ser o da condenao, ou o proveito econmico, e, por fim, o valor dado  causa. Nesse sentido, destaco: AGRAVO INTERNO NOS EMBARGOS DE DECLARAO NO RECURSO ESPECIAL - AO ORDINRIA - DECISO MONOCRTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGNCIA RECURSAL DA DEMANDADA. 1. Nos termos da jurisprudncia desta Corte Superior,  possvel a cumulao de clusula penal moratria com os lucros cessantes, quando a multa contratual no apresenta equivalncia com os locativos, como na presente hiptese, sem que tal proceder caracterize afronta ao Tema Repetitivo n. 970/STJ. Precedentes. 2. O benefcio de gratuidade de justia foi deferido com base na situao econmico-financeira do agravado, comprovada pela documentao acostada aos autos, produzindo efeitos quanto aos atos processuais relacionados ao momento do pedido ou aos posteriores a ele, no sendo admitida, portanto, sua retroatividade. 3. Os honorrios advocatcios sucumbenciais devem ser fixados, em regra, com observncia dos percentuais e da ordem de gradao da base de clculo estabelecida pelo art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A decisão judicial trata da cumulação de cláusula penal moratória e lucros cessantes, além do deferimento do benefício da gratuidade de justiça, com base na situação econômico-financeira do agravado. Por fim, os honorários advocatícios sucumbenciais devem ser fixados observando os percentuais e a ordem de gradação da base de cálculo estabelecida pelo artigo.

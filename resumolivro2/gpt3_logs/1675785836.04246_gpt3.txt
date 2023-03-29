@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se todos votos proferidos no julgamento discrepam e o resultado  obtido pelo voto intermedirio (exemplo:
+dois entre os integrantes da turma ou da cmara julgadora confirmam a condenao, mas um deles reduz a pena e o terceiro absolve;
+a soluo ser a condenao com reduo da pena, por ser o meio termo entre os votos proferidos), sero cabveis os embargos, com fundamento no voto vencido que era favorvel ao ru. A segunda parte do artigo 539 do CPPM estabelece que no cabero embargos de acrdo proferido em grau de embargos, salvo os de declarao, nos termos do artigo 542. Ou seja, cabem embargos infringentes e de nulidade do acordo no unnime proferido em embargos de declarao. A doutrina observa serem embargveis acrdos proferidos na apelao ou recurso em sentido estrito, mas que no cabem embargos infringentes e de nulidade no julgamento de reviso criminal. Os embargos infringentes e de nulidade podem ser opostos  deciso em agravo em execuo (artigo 197, LEP), porquanto este segue o procedimento adotado recurso em sentido estrito..
+18.5.1.2. Tempestividade. O prazo para opor os embargos  de cinco dias contado da data da intimao do acrdo (artigo 540, CPPM), porm  permitido oferecer embargos independentemente de intimao do acrdo (artigo 540, pargrafo 2, CPPM). Leciona Gustavo Badar que, em caso de divergncia parcial, a parte no unnime do acrdo  sujeita a embargos infringentes ou de nulidade, enquanto a parte unnime pode ser impugnada por meio de recurso especial ou extraordinrio se houver violao de lei federal ou da Constituio Federal. Diante da omisso do CPP - e nesta incluo o CPPM - em disciplinar a contagem do prazo, deve-se em tal caso aplicar, por analogia, o artigo 498 do revogado CPC de 1973, inicialmente so interpostos os embargos e, somente aps o seu julgamento,  que sero interpostos os recursos especial e extraordinrio. 18.5.1.3. Regularidade (observncia das formalidades legais). Os embargos so oferecidos por petio dirigida, conforme a respectiva competncia, ao presidente do STM ou dos Tribunais de Justia ou de Justia Militar estadual (artigo 543, CPPM).  petio podem ser juntados documentos (artigo 541, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 539 do CPPM estabelece que cabem embargos infringentes e de nulidade do acordo não unânime proferido em embargos de declaração. O prazo para opor os embargos é de cinco dias contados da data da intimação do acordo. A parte não unânime do acordo é sujeita a embargos infringentes ou de nulidade, enquanto a parte unânime pode ser impugnada por meio de recurso especial ou extraordinário. Os embargos são oferecidos por petição dirigida ao presidente do STM ou dos Tribunais de Justiça ou de Justiça Militar estadual.

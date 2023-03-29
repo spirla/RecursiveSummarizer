@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E nessa ocasiao que se definem as prioridades de atuacao da Administracao, isto e, que se apontam as politicas e os servicos publicos que deverao ser implementados ou aprimorados no exercicio financeiro respectivo. A ordem constitucional rechaca a interferencia do Judiciario na organizacao orcamentaria dos projetos da Administracao Publica, salvo, excepcionalmente, como fiscalizador. Entende-se, por fim, que, no caso, os atos jurisdicionais impugnados, ao bloquearem verbas orcamentarias para o pagamento de indenizacoes trabalhistas, atuaram como obstaculos ao exercicio eficiente da gestao publica, subvertendo o planejamento e a ordem de prioridades na execucao de projetos sociais do Poder Executivo local, o que caracteriza desrespeito ao principio da eficiencia da Administracao Publica (art. 37, caput, da CF). Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em arguicao de descumprimento de preceito fundamental para (i) suspender decisoes judiciais nas quais se promoveram constricoes patrimoniais por bloqueio, penhora, arresto, sequestro; (ii) determinar a sujeicao da empresa estatal ao regime constitucional de precatorios; e (iii) determinar a imediata devolucao das verbas subtraidas dos cofres publicos  e ainda em poder do Judiciario , para as respectivas contas de que foram retiradas. ADPF 588/PB, relator Min. Roberto Barroso, julgamento virtual finalizado em 26.4.2021 (segunda-feira), as 23:59 (INF 1014) Caesb: decisoes judiciais da Justica do Trabalho e regime de precatorios - ADPF 890 MC-Ref/DF Resumo: Sao inconstitucionais os pronunciamentos judiciais que determinam bloqueios e outros atos de constricao sobre bens e valores da Companhia de Saneamento Ambiental do Distrito Federal (Caesb) para o pagamento de verbas trabalhistas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(i) É inconstitucional a decisão judicial que promove constrições patrimoniais por bloqueio, penhora, arresto ou sequestro; (ii) É constitucional a sujeição da empresa estatal ao regime constitucional de precatórios; (iii) É necessária a imediata devolução das verbas subtraidas dos cofres públicos e ainda em poder do Judiciário, para as respectivas contas de que foram retiradas.

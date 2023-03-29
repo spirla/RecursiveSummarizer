@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Caracterizada a ocorrncia do injusto, a imputabilidade  o primeiro exame do juzo de reprovao pessoal. Considerando esse fato, alguns autores percebem-na como pressuposto, e no como elemento da culpabilidade. No entanto, posicionar o exame da imputabilidade antes e fora do juzo de culpabilidade no  sistematicamente adequado, j que no existem categorias igualmente antecedentes aos juzos de tipicidade e ilicitude que demonstrem preocupao com a capacidade psquica de formulao da inteno que fundamenta o dolo do tipo ou a capacidade de reconhecer os dados fticos da causa de justificao. Vincular a imputabilidade aos obstculos de natureza psquica que dificultam ou impedem a exigncia de compreenso da norma ou de autodeterminao do indivduo, em razo dessa compreenso, significa enfrentar o tema no mesmo nvel analtico da exigibilidade de compreenso da ilicitude do fato, ou seja, na culpabilidade. Vulgarmente, imputar significa atribuir algo a algum. Especificamente no campo do Direito Penal, a imputabilidade  conceito tcnico que possibilita atribuir ao indivduo a prtica da conduta criminosa para que se possa responsabiliz-lo. A imputabilidade pressupe a capacidade de culpa do sujeito ou, em outras palavras, a capacidade de ser responsvel criminalmente pelo cometimento da conduta punvel. A capacidade de culpa encontra fundamento no fato de que o sujeito, considerando-se suas foras psquicas, possua condies de compreender a norma jurdica e evitar a prtica criminosa. Mas, na teoria do crime, a imputabilidade  caracterstica da conduta criminosa, no do homem, e fundamenta-se na capacidade do sujeito de ser responsvel por ela. Como qualidade da conduta punvel, a imputabilidade relaciona determinada conduta proibida a quem a realiza somente quando este puder ser considerado criminalmente responsvel.  necessrio constatar se o sujeito possui certa capacidade psquica para responsabiliz-lo criminalmente. No entanto, a capacidade que interessa ao exame da culpabilidade no se confunde com a capacidade que confere voluntariedade  conduta humana, pois, em caso de atos involuntrios, no se caracteriza o prprio tipo penal incriminador. Da mesma forma, a incapacidade que caracteriza a inimputabilidade no decorre da inconscincia, pois os atos inconscientes no caracterizam conduta jurdico-penal relevante. O movimento corpreo inconsciente, verificado nas hipteses de sonambulismo ou de atos reflexos, no caracteriza o pressuposto ftico da teoria do crime.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imputabilidade um conceito tcnico do Direito Penal que permite atribuir ao indivduo a responsabilidade pela conduta criminosa. Esta capacidade de culpa baseia-se na capacidade do sujeito de compreender a norma jurdica e evitar a prtica criminosa, mas não se confunde com a capacidade que confere voluntariedade conduta humana. A incapacidade que caracteriza a inimputabilidade não decorre da inconscincia, pois os atos inconscientes não caracterizam conduta jurdico-penal relevante.

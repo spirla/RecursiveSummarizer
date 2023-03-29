@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a circunstncia preponderante sobrepe seus efeitos na comparao com outra circunstncia considerada no preponderante, como resolver a hiptese em que uma circunstncia preponderante concorre com duas no preponderantes?  o caso do crime praticado por reincidente, que desconhecia a lei e tenha agido sob coao a que podia resistir. Como a redao do artigo 67 do CP trabalha a valorao de circunstncias isoladas, parece que a melhor interpretao  a de que a preponderncia d-se apenas em relao a outra circunstncia no preponderante. Havendo uma circunstncia considerada mais valiosa e outras duas consideradas menos valiosas, a preponderncia da primeira no mais se estabelece. Parece mais adequado que, nessa hiptese, as circunstncias devam compensar-se. Quando ocorrer a hiptese em que uma circunstncia considerada mais valiosa concorra com trs consideradas menos valiosas, deve-se que reconhecer que o somatrio dos efeitos das trs circunstncias menos valiosas sobrepe-se aos efeitos da circunstncia considerada mais valiosa.  que a considerao de seu maior valor decorre da comparao de circunstncias isoladas. Para exemplificar a situao, pode-se considerar o caso do crime praticado por sujeito reincidente, que desconhecia a lei, tenha agido sob coao a que podia resistir e cometido o crime sob a influncia de multido em tumulto, que no provocou. Cabe notar que, mesmo no contida explicitamente na previso do artigo 67, a atenuante da idade inferior a 21 (vinte e um) anos foi acolhida pela jurisprudncia como predominante em qualquer hiptese. Assim, havendo concorrncia entre a menoridade e a reincidncia (ambas consideradas preponderantes pelo CP), deve prevalecer a menoridade. (STF - HC 71.773). Essa posio no foi alterada com a entrada em vigor do novo Cdigo Civil Brasileiro, que, em seu artigo artigo 5, estabelece que a menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada  prtica de todos os atos da vida civil.  que a atenuante refere-se ao fato de o sujeito ter menos de 21 (vinte e um) anos, sendo irrelevante sua capacidade para os atos da vida civil. 12.1.5. Causas de diminuio e de aumento. Posteriormente, sobre o resultado da operao anterior, incidem as causas de diminuio e de aumento, previstas na parte geral ou na parte especial do Cdigo Penal. Nessa terceira etapa, ser determinado, em definitivo, o quantum de pena a ser aplicada ao condenado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 67 do Código Penal trabalha a valorização de circunstâncias isoladas, sendo que a preponderância dá-se apenas em relação a outra circunstância não preponderante. A menoridade é considerada preponderante em qualquer hipótese, sendo irrelevante sua capacidade para os atos da vida civil. Posteriormente, incidem as causas de diminuição e de aumento previstas na parte geral ou na parte especial do Código Penal para determinar o quantum de pena a ser aplicada ao condenado.

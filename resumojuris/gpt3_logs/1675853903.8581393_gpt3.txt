@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Em regra, a reconsideracao do juiz decorrera da propria sistematica do agravo, que permite ao magistrado o exercicio da retratacao (art. 1.018,  1, do CPC/2015). E pacifico o entendimento de que o pedido de reconsideracao em nada modifica a contagem do prazo recursal. 93 E irrefutavel que houve inovacao legislativa ao ser prevista a estabilidade da decisao de saneamento somente apos o decurso do prazo de 5 (cinco) dias para manifestacao das partes quanto a esclarecimentos ou ajustes. De forma que equiparar o pleito de esclarecimentos a um pedido de reconsideracao e simplificar os efeitos previstos em lei a ponto de anula-los, desconsiderando-se, por conseguinte, o principio basilar da hermeneutica juridica de que a lei nao contem palavras inuteis ou desnecessarias - verba cum effectu sunt accipienda. Tampouco e possivel aplicar o disposto nos arts. 1.026, caput, e 1.044,  1, do CPC/2015, a fim de estender o efeito interruptivo, expressamente previsto apenas para dois recursos - embargos de declaracao e embargos de divergencia -, a solicitacao de esclarecimento ou ajuste. Entender de forma diversa, e criar por analogia um efeito que a lei somente conferiu a recursos especificos. Da mesma forma, o pedido de esclarecimento ou ajuste nao deve ser confundido, em seus efeitos, com os embargos de declaracao, pois possui finalidade propria e exclusiva, qual seja, a integracao das partes, de modo a contribuirem efetivamente para a plena organizacao do processo e a prolacao de uma decisao coparticipativa, encerrando-se a fase de saneamento. Ademais, a decisao de saneamento, proferida entre as fases postulatoria e instrutoria, possui como finalidade a organizacao do processo, a resolucao de questoes processuais pendentes, com a delimitacao das materias de fato e de direito relevantes, especificando-se os meios de prova admitidos e a distribuicao do onus probatorio, e, caso necessario, designando audiencia de instrucao e julgamento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O pedido de reconsideração não modifica a contagem do prazo recursal. 2. Houve inovação legislativa ao ser prevista a estabilidade da decisão de saneamento somente após o decurso do prazo de 5 (cinco) dias para manifestação das partes quanto a esclarecimentos ou ajustes. 3. Não é possível equiparar o pleito de esclarecimentos a um pedido de reconsideração e simplificar os efeitos previstos em lei a ponto de anulá-los. 4. O pedido de esclarecimento ou ajuste não deve ser confundido, em seus efeitos, com os embargos de declaração. 5. A decisão de saneamento possui como finalidade a organização do processo, a resolução de questões processuais pendentes, com a delimitação das matérias de fato e de direito relevantes, especificando-se os meios de prova admitidos e a distribuição do ônus probatório.

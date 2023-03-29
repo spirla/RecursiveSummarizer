@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Os depoimentos prestados pelas testemunhas, desde o Auto de Priso em Flagrante de Delito, j confirmam o delito de violncia contra superior e a existncia de leso, com a indicao expressa da autoria delitiva. Vejamos: 3 Sgt PM Marcelo Henrique de Souza (Evento 8 - P_FLAGRANTE3 - p. 6/7 e Evento 51 - VDEO4): [...] respondeu que foram empenhados pelo COPOM relatando que haviam dois policiais brigando em via pblica, que quando chegaram no local tinham vrias pessoas, que pararam na porta do bar, que quando desceu da viatura policial, o Sgt Jaime veio de encontro a ele e lhe entregou a arma do Joo Batista, dizendo que o problema j estava todo resolvido, que era para avisar que no tinha mais nada l, que ento lhe falou que pela gravidade da situao era para ele aguardar, pois o CPU j estava chegando no local, que ento o Sgt Jaime continuou insistindo para dispensar a ocorrncia no local, contudo, novamente lhe falou para aguardar, pois o CPU estava deslocando para resolver a situao, que o Sgt Jaime lhe entregou a arma, que ento a passou para o motorista da viatura, Cb Coelho, que o Sgt Jaime disse que iria embora, que novamente lhe falou para aguardar o CPU, que quando virou as costas para ir ao bar saber o que houve no local, o Sgt Jaime entrou em seu veculo e evadiu do local, que as informaes colhidas no local davam conta de que o Cb Joo Batista havia discutido com um rapaz sobre suas tatuagens e logo a seguir saiu do bar e retornou com o Sgt Jaime, que os dois no sabe porque, discutiram e o Cb Joo retirou a arma e desferiu-lhe um golpe no rosto, que o Sgt Jaime juntamente com outras pessoas se atracaram com ele e retiraram sua arma. [...] Josino Pereira Rodrigues (Evento 8 - P_FLAGRANTE3 - p. 11 e Evento 114 - VDEO3): [...] respondeu que, chegou no bar do amigo localizado na rua Lorena, no bairro Caravelas; que quando chegou viu o Tuzinho (Matusalm) dentro do bar e que viu tambm o Cabo Joo Batista sentado numa mesa tomando cerveja; que o cabo Joo Batista comeou a implicar com Tuzinho por causa de uma tatuagem que o mesmo possui, que em dado momento o Tuzinho disse que iria chamar seu primo que seria policial; que o cabo Joo Batista disse para o Tuzinho que iria d uma coronhada em sua boca; que o Tuzinho saiu e logo em seguida chegou ao local o Sgt Jaime e comeou a conversar com o cabo Joo Batista; que de repente o cabo Joo Batista levantou com a arma na mo e desferiu um golpe no rosto do Sgt Jaime; Perguntado se tomou conhecimento da conversa entre o cabo Joo Batista e o Sgt Jaime, respondeu que no. Perguntado se viu algum ferimento no rosto do Sgt Jaime, proveniente do golpe aplicado pelo cabo Joo Batista, respondeu que viu apenas um hematoma, uma vermelhido, que no viu sangue.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os depoimentos das testemunhas confirmam o delito de violncia contra superior e a existncia de leso, indicando a autoria do mesmo. As testemunhas relataram que o Cabo Joo Batista discutiu com um rapaz sobre suas tatuagens e, em seguida, retornou ao local com o Sgt Jaime. O Cabo Joo Batista então levantou com a arma na mão e desferiu um golpe no rosto do Sgt Jaime, causando um hematoma.

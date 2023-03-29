@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A CF/88 impoe ao Estado a obrigacao de informar ao preso seu direito ao silencio nao apenas no interrogatorio formal, mas logo no momento da abordagem, quando recebe voz de prisao por policial, em situacao de flagrante delito. Ademais, na linha de precedentes da Corte, a falta da advertencia ao direito ao silencio, no momento em que o dever de informacao se impoe, torna ilicita a prova. Isso porque o privilegio contra a auto-incriminacao (nemo tenetur se detegere), erigido em garantia fundamental pela Constituicao, importou compelir o inquiridor, na policia ou em juizo, ao dever de advertir o interrogado acerca da possibilidade de permanecer calado. Dessa forma, qualquer suposta confissao firmada, no momento da abordagem, sem observacao ao direito ao silencio, e inteiramente imprestavel para fins de condenacao e, ainda, invalida demais provas obtidas atraves de tal interrogatorio. No caso, a leitura dos depoimentos dos policiais responsaveis pela prisao da paciente demonstra que nao foi observado o citado comando constitucional. Com base nesse entendimento, a Segunda Turma, por maioria, negou provimento ao agravo regimental para restabelecer a sentenca de primeiro grau. Vencido o ministro Nunes Marques. RHC 170843 AgR/SP, relator Min. Gilmar Mendes, julgamento em 4.5.2021 (INF 1016) Operacao Lava Jato : ausencia de conexao e nulidade de atos decisorios - HC 193726 AgR/PR e HC 193726 AgR-AgR/PR Resumo: A afetacao de feitos a julgamento pelo Plenario do Supremo Tribunal Federal e atribuicao discricionaria do relator. Com efeito, essa afetacao e possivel por forca do que dispoem os arts. 21, I, e 22, ambos do Regimento Interno do Supremo Tribunal Federal (RISTF), pronunciamento que, a teor do art. 305 do RISTF, afigura-se irrecorrivel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A CF/88 impõe ao Estado a obrigação de informar ao preso seu direito ao silêncio não apenas no interrogatório formal, mas logo no momento da abordagem, quando recebe voz de prisão por policial, em situação de flagrante delito. 2. A falta da advertência ao direito ao silêncio, no momento em que o dever de informação se impõe, torna ilícita a prova. 3. O privilégio contra a auto-incriminação (nemo tenetur se detegere), erigido em garantia fundamental pela Constituição, impõe ao inquiridor, na polícia ou em juízo, o dever de advertir o interrogado acerca da possibilidade de permanecer calado. 4. Qualquer suposta confissão firmada, no momento da abordagem, sem observância ao direito ao silêncio, é inteiramente imprestável para fins de condenação e, ainda, invalida demais provas obtidas através de tal interrogatório. 5. É possível a afetação de feitos a julgamento pelo Plenário do Supremo Tribunal Federal e atribuição discricionária do relator, por força do que dispõem os arts. 21, I, e 22, ambos do Regimento Interno do Supremo Tribunal Federal (RISTF), pronunciamento que, a teor do art. 305 do RISTF, é irrecorrível.

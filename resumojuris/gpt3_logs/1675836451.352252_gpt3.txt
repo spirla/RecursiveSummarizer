@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Francisco Falcao, Segunda Turma, por unanimidade, julgado em 14/06/2022, DJe 20/06/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO 207 TEMA Industria de comercializacao de pescado. Fiscalizacao. Ministerio da Agricultura, Pecuaria e Abastecimento - MAPA. Glaciamento do pescado. Comercializacao. Afericao quantitativa. Competencia do Servico de Inspecao Federal. INMETRO. Atribuicao nao exclusiva. Competencia concorrente do orgao ministerial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Ministério da Agricultura, Pecuaria e Abastecimento (MAPA) tem competência concorrente com o Serviço de Inspeção Federal (SIF) para fiscalizar a indústria de comercialização de pescado. 2. O INMETRO não possui competência exclusiva para aferir quantitativamente o pescado comercializado.

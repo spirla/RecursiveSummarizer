@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O interesse pblico, em situaes excepcionais, pode se sobrepor  privacidade, para evitar que direitos e garantias fundamentais sejam utilizados para resguardar conduta criminosa. Como j decidiu a Suprema Corte, a clusula tutelar da inviolabilidade do sigilo epistolar no pode constituir instrumento de salvaguarda de prticas ilcitas. Diferente das duas interpretaes acima, a intepretao intermediria considera haver no inciso XII do artigo 5 da CF duas partes:
+(1) do sigilo da correspondncia e das comunicaes telegrficas e (2) de dados e das comunicaes telefnicas. De modo que a ressalva da parte final do inciso XII no ltimo caso se refere s comunicaes telefnicas e de dados. No sentir de Miguel Reale Jnior o melhor entendimento  no sentido de que a exceo referida pela expresso salvo no ltimo caso diga respeito  frase entre vrgulas, de dados e das comunicaes telefnicas, que no so absolutamente inviolveis, mas podem ter seu sigilo afastado por determinao judicial. Essa interpretao de que h duas partes, e no quatro, no inciso XII do artigo 5 da CF foi feita em julgado do STF (Pet. 577/DF). Pois, se  dominante que a expresso salvo no ltimo caso diga respeito tambm s comunicaes de dados, cujo sigilo pode ser afastado por determinao judicial, foroso distinguir quais dados tm a tutela constitucional. Dados podem ser armazenados em suporte material diverso dos discos de computadores (por exemplo, uma agenda ou caderno). Os dados em si, ou merecem proteo por dizerem respeito  intimidade ou vida privada (por exemplo, relao de nomes e datas de aniversrios de amigos), e, nesse caso, esto tutelados pelo inciso X do artigo 5 da CR, ou so dados que no se referem  esfera privada do indivduo (por exemplo, lista de quantos gols fez um determinado jogador). Ao mais, o inciso XII da liberdade de comunicaes entre os indivduos, por diversos meios, e no, diretamente da proteo da vida privada.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O interesse público pode se sobrepor à privacidade em situações excepcionais para evitar o uso de direitos e garantias fundamentais para proteger ações criminosas. A interpretação intermédia do inciso XII do artigo 5 da Constituição Federal considera que existem duas partes: o sigilo da correspondência e das comunicações telegráficas e de dados e comunicações telefônicas. Dados podem ser protegidos pela inviolabilidade do sigilo ou afastados por determinação judicial. O inciso XII da liberdade de comunicação entre os indivíduos não se refere diretamente à proteção da vida privada.

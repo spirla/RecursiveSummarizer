@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No so aconselhveis quesitos genricos, que tornam a indagao complicada e levam os peritos a dar respostas vagas e indeterminadas, do mesmo modo se a questo for complexa, convm desdobr-la, ou seja, no formular em um nico quesito. H controle judicial sobre os quesitos, pois o juiz, de ofcio ou a pedido de qualquer dos peritos, poder mandar que as partes especifiquem os quesitos genricos, dividam os complexos ou esclaream os duvidosos, devendo indeferir os que no sejam pertinentes ao objeto da percia, bem como os que sejam sugestivos ou contenham implcita a resposta (artigo 317, pargrafo 1, CPPM). Ainda que o quesito no permita resposta decisiva do perito, poder ser formulado, desde que tenha por fim esclarecimento indispensvel de ordem tcnica, a respeito de fato que  objeto da percia (artigo 317, pargrafo 2, CPPM). O perito descreve os vestgios materiais deixados pelo crime ou as pessoas e coisas, que possam servir de prova, e responde com clareza e de modo positivo aos quesitos formulados (artigo 319, CPPM). As respostas so transcritas no laudo em sequncia a cada quesito, devem ser fundamentadas, mas sem necessidade de consideraes tericas. O parecer do perito se destina informar, por isso o laudo deve ser claro, conciso e com linguagem inteligvel a pessoa que no  perita. Os peritos podem solicitar da autoridade competente a apresentao de pessoas, instrumentos ou objetos que tenham relao com o crime (artigo 320, CPPM). A autoridade policial militar ou judiciria ao marcar prazo razovel para apresentao do laudo (artigo 325, CPPM) atentar para a natureza do exame e a situao de solto ou preso do indiciado ou ru. A demora injustificvel para concluso do laudo com o ru preso constitui constrangimento ilegal sanvel por meio de habeas corpus.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O quesito deve ser pertinente ao objeto da percia e permitir resposta decisiva do perito. O laudo deve ser claro, conciso e de linguagem inteligível. O perito pode solicitar à autoridade competente a apresentação de pessoas, instrumentos ou objetos relacionados ao crime. A demora injustificada para conclusão do laudo com o réu preso é considerada constrangimento ilegal.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, pragmaticamente, parece pouco efetivo para a protecao do acusado, obrigar o Juizo processante a reexaminar a prisao, de oficio, a cada 90 dias, nada impedindo, contudo, que a defesa protocole pedidos de revogacao ou relaxamento da custodia, quando entender necessario. (Informativo n. 731) 1221 PROCESSO AgRg no HC 714.884-SP, Rel. Min. Jesuino Rissato (Desembargador convocado do TJDFT), Rel. Acd. Min. Joao Otavio de Noronha, Quinta Turma, por maioria, julgado em 15/03/2022, DJe 24/03/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Homicidio Qualificado. Execucao provisoria Pena. Reprimenda igual ou superior a 15 anos de reclusao. Art. 492, I, do CPP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É pouco efetivo para a proteção do acusado obrigar o Juízo processante a reexaminar a prisão de ofício a cada 90 dias. 2. Não impede, contudo, que a defesa protocolo pedidos de revogação ou relaxamento da custódia, quando entender necessário. 3. No caso de homicídio qualificado, com pena de reprimenda igual ou superior a 15 anos de reclusão, a execução provisória da pena é permitida de acordo com o art. 492, I, do CPP.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6230/DF, relator Ministro Ricardo Lewandowski, julgamento virtual finalizado em 5.8.2022 (sex-ta-feira), as 23:59 (INF 1062) Fundo Partidario e Fundo Eleitoral: vedacao de repasse de seus recursos - ADI 7214/DF ODS: 16 Resumo: Sao constitucionais, visto nao ofenderem a autonomia partidaria, os dispositivos de Resolucao editada pelo TSE que vedam o repasse de recursos do Fundo Partidario e do Fundo Especial de Financi-amento de Campanha (FEFC) por partidos politicos ou candidatos nao pertencentes a mesma coligacao e/ou nao coligados. No caso, a atividade normativa do TSE nao passou da esfera regulamentar. A vedacao prevista pelos dispositivos impugnados encontra amparo direto na CF/88 e na legislacao eleitoral, revelan-do-se plenamente razoavel, pois leva em conta a finalidade dos repasses de recursos do FEFC e do Fundo Par-tidario, bem como a necessidade de acabar com as assimetrias causadas pela existencia de coligacoes em elei-coes proporcionais. Com efeito, o montante dos referidos fundos que sera repartido entre as agremiacoes politicas e definido pelo criterio da representatividade no Congresso Nacional, nao sendo plausivel permitir o repasse de seus recursos a candidatos de partidos distintos nao pertencentes a mesma coligacao, especialmente em razao da natureza publica dessas verbas. Com base nesse entendimento, o Tribunal, por unanimidade, julgou improcedente a acao para assentar a constitucionalidade do art. 17,  2, I, II, e do art. 19,  7, I, II, ambos da Resolucao TSE 23.607/2019.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a vedação de repasse de recursos do Fundo Partidário e do Fundo Especial de Financiamento de Campanha (FEFC) por partidos políticos ou candidatos não pertencentes à mesma coligação e/ou não coligados. 2. A atividade normativa do Tribunal Superior Eleitoral não passou da esfera regulamentar. 3. A vedação prevista pelos dispositivos impugnados encontra amparo direto na Constituição Federal de 1988 e na legislação eleitoral. 4. O montante dos referidos fundos que será repartido entre as agremiações políticas é definido pelo critério da representatividade no Congresso Nacional. 5. Não é plausível permitir o repasse de recursos dos referidos fundos a candidatos de partidos distintos não pertencentes à mesma coligação, especialmente em razão da natureza pública dessas verbas.

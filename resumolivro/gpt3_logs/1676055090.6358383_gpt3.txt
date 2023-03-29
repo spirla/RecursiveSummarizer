@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O tipo incriminador no exige que a revelao se refira  totalidade do contedo da informao que deve ser mantida em segredo.  possvel a caracterizao tpica com a revelao de parte do segredo, desde tal parte constitua informao relevante. A privacidade dos segredos se fundamenta na relevncia do contedo da informao secreta e no apenas na indicao formal de que se trata de informao secreta. Em alguns casos a relevncia do segredo deve ser presumida em razo da forma de constituio do documento particular, como seria o caso do advogado que participa da elaborao de testamento cerrado (artigos 1. a 1. do Cdigo Civil). Em outros, ser necessrio analisar o contedo da informao para constatar que a sua relevncia justifica a tutela penal. A revelao do segredo deve ser considerada indevida, sem justa causa, o que evidencia a necessidade de realizar o juzo valorativo inerente  imputao objetiva. Para a caracterizao do tipo incriminador ainda  necessrio que a revelao possa causar danos a outrem. Tais danos podem ser causados em desfavor de qualquer pessoa que tenha interesse no sigilo da informao. O tipo no se refere, entretanto, aos danos produzidos em desfavor do prprio sujeito ativo do crime. A revelao do segredo, por si s, causa danos  liberdade individual de instituir sigilo para os aspectos da intimidade pessoal. Dessa forma, os danos a que se refere o tipo constituem desdobramentos da revelao da informao podendo ser de qualquer natureza, inclusive patrimoniais. 6.13.5. Elementos normativos do tipo. O tipo que descreve o crime de violao de segredo profissional apresenta alguns elementos normativos que podem dificultar a compreenso da conduta proibida e possibilitar a ocorrncia de inadequao tpica por erro de tipo (artigo 20 do CP). Vejamos o significado desses elementos:
+Sem justa causa. O elemento normativo sem justa causa se presta a permitir a realizao de um juzo de valor sobre a adequao social da conduta que realiza a revelao do segredo. A considerao sobre a ausncia de uma justificativa, uma justa causa, desafia o operador do direito a compreender valorativamente o contexto em que a revelao concretamente se verificou para examinar se a conduta se apresenta inadequada. Nesse sentido, o elemento normativo ressalta a capacidade de rendimento aplicativo da teoria da imputao objetiva. Revelar o segredo somente constitui crime quando a conduta for considerada indevida, inadequada, ou seja, sem justa causa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de violação de segredo profissional exige que a revelação se refira à informação relevante mantida em segredo, sem justa causa, podendo causar danos a qualquer pessoa interessada no sigilo. O elemento normativo sem justa causa permite a realização de um juízo de valor da conduta para verificar sua inadequação.

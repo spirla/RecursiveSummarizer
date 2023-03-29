@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inexistindo a previsao exata na norma regente, impoe-se a interpretacao mais favoravel a defesa. Trata-se de imposicao decorrente da presuncao de inocencia, base fundamental ao sistema penal de um Estado Democratico de Direito. Com base nesse entendimento, o Plenario, por unanimidade, reconheceu a existencia de repercussao geral da questao constitucional suscitada (Tema 1169 da RG). No merito, por maioria, reafirmou a jurisprudencia dominante sobre a materia. Vencido o ministro Luiz Fux. ARE 1327963/SP, relator Min. Gilmar Mendes, julgamento no Plenario Virtual finalizado em 17.9.2021 (INF 1032) Remicao da pena por estudo - HC 190806 AgR/SC Resumo: Para o calculo de dias remidos pelo estudo, a Recomendacao 44/2013 do Conselho Nacional de Justica (CNJ) orienta-se pelos parametros previstos na Resolucao 3/2010 do Conselho Nacional de Educacao (CNE), a qual, todavia, deve ser conjugada com a carga horaria prevista na Lei 9.394/1996, por tratar-se de interpretacao mais benefica ao reu. Com efeito, e manifestamente mais adequado e justo aplicar as orientacoes da Recomendacao 44/2013/CNJ, a partir de uma interpretacao in bonam partem das demais leis que regulamentam a situacao, para determinar ao calculo da remicao da carga horaria minima do ensino fundamental regular, 800 horas anuais, totalizando 3.200 horas para os quatro anos finais de curso. A Resolucao do CNE fixa a duracao minima de 1.600 horas, de forma global, para todos os quatro anos finais do ensino fundamental, sobre a qual devera incidir os 50% estipulados pelo Conselho Nacional de Justica, parametro que, de fato, nao atende aos fatores essenciais do principio da proporcionalidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A interpretação da norma regente deve ser a mais favorável à defesa, em decorrência da presunção de inocência. 2. A Recomendação 44/2013 do Conselho Nacional de Justiça deve ser conjugada com a carga horária prevista na Lei 9.394/1996 para o cálculo de dias remidos pelo estudo. 3. A Resolução 3/2010 do Conselho Nacional de Educação deve ser interpretada in bonam partem para determinar o cálculo da remição da carga horária mínima do ensino fundamental regular. 4. A duração mínima de 1.600 horas para os quatro anos finais do ensino fundamental deve incidir sobre os 50% estipulados pelo Conselho Nacional de Justiça.

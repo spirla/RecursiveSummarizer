@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A culpa ou a voluntariedade na embriaguez ou no entorpecimento no altera o quadro de incapacidade. Nesse sentido, Joo Mestieri pondera que a superao da questo, diante do tratamento simplista que lhe reservou o Cdigo Penal, deve-se dar no nvel da tipicidade.Se o resultado no era sequer previsvel para o sujeito, quando ainda em estado de conscincia e imputabilidade, nos casos de embriaguez voluntria ou culposa, no haver crime por tipicidade subjetiva insuficiente. Contudo, a dificuldade a superar no  apenas terica; , sobretudo, ideolgica e envolve a conscientizao dos operadores do Direito. A teoria da actio libera in causa  manifestamente de ndole autoritria e, portanto, incompatvel com o modelo garantista caracterstico do sistema repressivo cunhado pelo Estado democrtico de Direito. Os objetivos de proteo da liberdade individual no se conciliam com a responsabilidade objetiva. A responsabilizao do embriagado, conforme a teoria da actio libera in causa, merece reparos at na hiptese da embriaguez preordenada. Se o sujeito propositadamente ingere bebida alcolica para, vencendo suas barreiras morais, cometer crime, no se pode reconhecer sempre legitimidade na responsabilizao. Se a embriaguez  incompleta e o sujeito possui alguma capacidade de entendimento e autodeterminao, no h dificuldades para identificar a situao de semi-imputabilidade. No entanto, a ideia de embriaguez completa, geralmente,  incompatvel com a predeterminao da conduta criminosa, pois ou o sujeito no est completamente embriagado e se lembra do plano delitivo ou, estando completamente bbado, dele no se lembra. A nica possibilidade ftica para o cumprimento do plano delitivo em estado de embriaguez completa  a que se refere  prtica de crimes omissivos, quando o processo de execuo realmente inicia-se por ocasio da ingesto da bebida que, posteriormente, ir causar a impossibilidade de movimento. Nesse caso, o sujeito imputvel planeja utilizar a si mesmo como instrumento quando estiver embriagado. Vislumbrando essa hiptese, Jescheck reconheceu um paralelismo entre a teoria da actio libera in causa e a autoria mediata. 8.9.1.7. Embriaguez incompleta. A embriaguez, no entanto, no ser causa de inimputabilidade quando apenas prejudicar a normal capacidade do sujeito para entender o carter ilcito do fato ou determinar-se de acordo com esse entendimento no momento da ao ou omisso criminosa. Nessa hiptese, a incapacidade psquica  parcial, devido ao fato de ser a embriaguez incompleta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A embriaguez ou entorpecimento não altera o quadro de incapacidade, mas a superação da questão deve-se dar no nível da tipicidade. A teoria da actio libera in causa é incompatível com o modelo garantista do Estado democrático de Direito. Se a embriaguez for incompleta e o sujeito possuir alguma capacidade de entendimento e autodeterminação, há semi-imputabilidade. No entanto, a embriaguez completa é incompatível com a predeterminação da conduta criminosa.

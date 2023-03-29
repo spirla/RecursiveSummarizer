@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No tocante ao aspecto material, a quantidade de assentos reservados na lei estadual foi estabelecida em percentual razoavel, estando de acordo com a realidade brasileira e garantindo uma ocupacao digna e con-fortavel as pessoas com obesidade, alem de protecao adequada, necessaria e proporcional para o atendimento desse publico. Ademais, a medida disposta na lei nao invalida os conteudos dos principios do valor social do trabalho, da livre iniciativa, da igualdade e da protecao da ordem economica, mas, ao contrario disso, os pon-dera com o principio da dignidade da pessoa humana. Com base nesses entendimentos, o Plenario, por unanimidade, julgou improcedentes ambas as acoes, para assentar a constitucionalidade da reserva de assentos prevista na Lei 13.132/2001 do Estado do Parana. ADI 2477/PR, relator Ministro. Roberto Barroso, julgamento virtual finalizado em 21.10.2022 (sexta-feira), as 23:59 (INF 1073) ADI 2572/PR, relator Ministro Roberto Barroso, julgamento virtual finalizado em 21.10.2022 (sexta-feira), as 23:59 (INF 1073) Resolucao do TSE e enfrentamento a desinformacao no processo eleitoral - ADI 7261 MC/DF ODS: 16 Resumo: A Resolucao 23.714/2022 do TSE  que dispoe sobre o enfrentamento a desinformacao atentatoria a integridade do processo eleitoral  nao exorbita o ambito da sua competencia normativa e tampouco impoe censura ou restricao a meio de comunicacao ou linha editorial da midia impressa e ele-tronica. Na hipotese, em analise perfunctoria de medida cautelar, pode-se afirmar que a competencia normati-va do TSE foi exercida nos limites de sua missao institucional e de seu poder de policia, considerada, sobretu-do, a ausencia de previsao normativa constante da Lei Geral das Eleicoes (Lei 9.504/1997), em relacao a reco-nhecida proliferacao de noticias falsas, com aptidao para contaminar o espaco publico e influir indevidamente na vontade dos eleitores.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A quantidade de assentos reservados na lei estadual foi estabelecida em percentual razoável, estando de acordo com a realidade brasileira e garantindo uma ocupação digna e confortável para as pessoas com obesidade. 2. A medida disposta na lei não invalida os conteúdos dos princípios do valor social do trabalho, da livre iniciativa, da igualdade e da proteção da ordem econômica, mas, ao contrário disso, os ponderam com o princípio da dignidade da pessoa humana. 3. A Resolução 23.714/2022 do TSE que dispõe sobre o enfrentamento à desinformação atentatória à integridade do processo eleitoral não exorbita o âmbito da sua competência normativa e tampouco impõe censura ou restrição a meio de comunicação ou linha editorial da mídia impressa e eletrônica.

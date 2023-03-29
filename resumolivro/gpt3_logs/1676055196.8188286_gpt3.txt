@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O computador, por sua vez,  uma mquina eletrnica composta de elementos fsicos e lgicos, capaz de efetuar, em linguagem natural, uma notvel multiplicidade de tarefas unindo pressupostos da velocidade aos da preciso operacional.114 Nesse sentido, a rede de computadores  o conjunto formado por computadores que funcionam de maneira independente do outro, mas que se encontram interconectados por cabos (telefnicos, coaxiais ou pticos), por equipamentos de radiofrequncia ou de infravermelho. A intercomunicao estabelecida no contexto de uma rede permite o compartilhamento de informaes e arquivos, bem como a execuo de tarefas conjuntas. A rede pode estabelecer uma conexo entre computadores, entre computadores e equipamentos perifricos (impressoras, scanners, e cmeras), e entre computadores e outras mquinas, como as que integram determinada linha de produo. A rede de computadores pode ser estabelecida apenas entre os computadores que se encontram restritos ao ambiente interno de uma empresa ou organizao, sendo, nesse caso, denominada de intranet. A rede, por outro lado, tambm pode estabelecer comunicao entre computadores que no se encontram restritos a um determinado ambiente por meio de tecnologia que permite acesso a word wibe web. A esta modalidade de rede designamos extranet. A revoluo da conectividade iniciada na dcada de 1950 atingiu amplitude mundial com uma rede que permite a conexo entre computadores do mundo todo, designada de internet. Segundo a norma 04/95, aprovada pela Portaria 148 do Ministrio de Estado das Comunicaes, de 31 de maio de 1995, internet  o nome genrico que designa o conjunto de redes, os meios de transmisso e comutao, roteadores, equipamentos e protocolos necessrios  comunicao entre computadores, bem como o software e os dados contidos nestes computadores. Violao indevida. Nos termos da incriminao em exame, a expresso violao indevida significa a superao no autorizada dos mecanismos de segurana predispostos para a proteo da informao constante no dispositivo de informtica. No contexto, violar significa superar, ultrapassar, o obstculo oferecido pelo mecanismo de segurana que protege a privacidade das informaes constantes no dispositivo informtico. O elemento normativo indevida no indica a necessidade de constatar a existncia de um dever (legal ou contratual) de superar o mecanismo de segurana para conhecer o contedo do dispositivo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O computador uma mquina eletrnica que permite realizar diversas tarefas com rapidez e preciso. A rede de computadores um conjunto de computadores interconectados, permitindo compartilhamento de informações e execução de tarefas conjuntas. A internet a rede mundial que permite conexão entre computadores do mundo todo. Violação indevida significa a superação não autorizada dos mecanismos de segurança para proteger a privacidade das informações contidas em um dispositivo informático.

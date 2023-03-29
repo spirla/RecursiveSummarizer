@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+13,  4, da Lei Kandir. ADC 49/RN, relator Min. Edson Fachin, julgamento virtual finalizado em 16.4.2021 (sexta-feira) as 23:59 (INF 1013) Necessidade de lei em sentido estrito para a instituicao de substituicao tributaria - ADI 6144/AM e ADI 6624/AM Resumo: E inconstitucional decreto estadual que atribua as empresas geradoras de energia eletrica a responsabilidade por substituicao tributaria pelo recolhimento do Imposto sobre Circulacao de Mercadorias e Servicos (ICMS). Para haver substituicao tributaria relativamente ao ICMS, e imprescindivel que haja a lei complementar federal a que alude o art. 155,  2, XII, b, da CF/88 (CF) e que o mecanismo esteja previsto em lei estadual, conforme determina o art. 150,  7, da CF,. No que diz respeito ao primeiro requisito, a Lei Complementar (LC) 87/1996 (Lei Kandir) permite que essa responsabilidade seja atribuida por lei estadual (art. 6), observada, ainda, a necessidade de acordo celebrado pelos estados interessados, se a operacao for interestadual (art. 9). Em relacao as operacoes com energia eletrica, a propria Lei Kandir ja trouxe quais atores economicos podem ser eleitos como substitutos tributarios (art. 9,  1, II), mas nao atribuiu, ela propria, desde logo, a nenhum sujeito passivo alguma responsabilidade por substituicao tributaria. Assim, se a substituicao tributaria nao esta prevista em lei estadual em sentido estrito, o decreto, ao tratar originariamente do assunto, inova no ordenamento juridico e incide em inconstitucionalidade formal, por ofensa ao principio da legalidade tributaria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional decreto estadual que atribua as empresas geradoras de energia elétrica a responsabilidade por substituição tributária pelo recolhimento do Imposto sobre Circulação de Mercadorias e Serviços (ICMS). 2. Para haver substituição tributária relativamente ao ICMS, é imprescindível que haja lei complementar federal a que alude o art. 155, § 2º, XII, b, da Constituição Federal (CF) e que o mecanismo esteja previsto em lei estadual, conforme determina o art. 150, § 7º, da CF. 3. A Lei Complementar (LC) 87/1996 (Lei Kandir) permite que essa responsabilidade seja atribuida por lei estadual (art. 6), observada, ainda, a necessidade de acordo celebrado pelos estados interessados, se a operação for interestadual (art. 9). 4. Em relação às operações com energia elétrica, a própria Lei Kandir já trouxe quais atores econômicos podem ser eleitos como substitutos tributários (art. 9, § 1º, II), mas não atribuiu, ela própria, desde logo, a nenhum sujeito passivo alguma responsabilidade por substituição tributária. 5. Se a substituição tributária não está prevista em lei estadual em sentido estrito, o decreto, ao tratar originariamente do assunto, inova no ordenamento jurídico e incide em inconstitucionalidade formal, por ofensa ao princípio da legalidade tributária.

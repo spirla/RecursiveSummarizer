@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No entanto, outras vezes nos deparamos com a absoluta falta de fundamentao. No caso dos autos, apesar de restar absolvido o ru, ora apelado, a sentena no trouxe a mnima fundamentao sobre os motivos que levaram o Conselho Permanente de Justia (CPJ), por maioria, a absolver o acusado. Vejam que o CPJ absolveu o militar com base no art. 439, "d, do Cdigo de Processo Penal Militar (CPPM), vencido o juiz de direito da 1a AJME, que condenou o militar. O art. 439 do CPPM determina que: Art. 439. O Conselho de Justia absolver o acusado, mencionando os motivos na parte expositiva da sentena, desde que reconhea: [..] Ento, temos por obrigatria a exposio dos motivos da absolvio na parte expositiva da sentena. De igual modo, o art. 438 do CPPM  firme ao elencar o contedo da sentena, in verbis: Art. 438. A sentena conter: a) o nome do acusado e, conforme o caso, seu psto ou condio civil; b) a exposio sucinta da acusao e da defesa; c) a indicao dos motivos de fato e de direito em que se fundar a deciso; d) a indicao, de modo expresso, do artigo ou artigos de lei em que se acha incurso o acusado; e) a data e as assinaturas dos juzes do Conselho de Justia, a comear pelo presidente e por ordem de hierarquia e declarao dos respectivos postos, encerrando-as o auditor. [.]  obrigatrio constar da sentena a indicao dos motivos de fato e de direito em que se fundar a deciso, seja condenatria, seja absolutria. E mais. O  2 do art. 438 do CPPM determina, ainda, que a "sentena ser redigida pelo auditor, ainda que discorde dos seus fundamentos ou da sua concluso, podendo, entretanto, justificar o seu voto, se vencido, no todo ou em parte, aps a assinatura. O mesmo poder fazer cada um dos juzes militares. Feitas essas consideraes, vamos  sentena em anlise.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena de absolvio do acusado dever conter a exposio sucinta da acusao e da defesa, a indicao dos motivos de fato e de direito em que se fundar a deciso e a indicao, de modo expresso, do artigo ou artigos de lei em que se acha incurso o acusado. O auditor dever redigir a sentena, ainda que discorde dos seus fundamentos ou da sua concluso, podendo, entretanto, justificar o seu voto, se vencido, no todo ou em parte, aps a assinatura.

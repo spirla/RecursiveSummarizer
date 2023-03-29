@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A relevncia jurdico-penal da conduta, neste sistema terico, decorre da interpretao que reconhece na conduta o mesmo sentido (significado) que fundamenta a instituio do tipo de ao dos diferentes crimes previstos na legislao repressiva. Pretenso de ilicitude (antijuridicidade ou ilicitude). Na perspectiva da pretenso de ilicitude Vives considera apenas o aspecto da antijuridicidade formal da conduta, que pode ser excluda por dispositivos permissivos. Se a conduta foi realizada com dolo ou culpa, nos casos previstos em lei, a princpio deve ser considerada ilcita. A ilicitude da conduta relevante, contudo, pode ser excluda em face da concorrncia de dispositivos que outorguem um direito ou permisses fortes (causas de justificao) ou se limitem a tolerar a conduta por meio de uma permisso fraca (excusas ou causas de excluso da responsabilidade pelo fato). No exame da pretenso de ilicitude Vives Antn prope seja considerada a inteno de violao da norma, que se expressa por meio da realizao de uma conduta ofensiva ao bem jurdico no suportvel pelas exigncias do ordenamento jurdico. A anlise da pretenso de ilicitude deve examinar uma inteno que se situa fora do tipo de ao e que  reveladora da existncia ou no de compromisso com a violao de um bem jurdico, consoante ao tipo subjetivo (dolo ou culpa), bem como da existncia de uma permisso forte ou fraca emanada do sistema do ordenamento jurdico. Tal posicionamento j influenciou juristas brasileiros, como o professor Paulo Cesar Busato, a tratar o dolo e a imprudncia na contexto da perspectiva da pretenso subjetiva de ilicitude. Pretenso de reprovao (culpabilidade). A pretenso de reprovao recai sobre o autor da conduta que se conforma ao tipo de ao e no  amparada por excludente de ilicitude. Na proposta de Vives, que se funda na liberdade de ao, a reprovao jurdica se fundamenta na possibilidade de exigir que o sujeito realize conduta diversa da que  proibida. A pretenso de reprovao se apresenta como consequncia inevitvel do reconhecimento de validez da norma e da atitude participativa daquele que a viola.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A relevância jurdico-penal da conduta decorre da interpretação que reconhece na conduta o mesmo sentido que fundamenta a instituição do tipo de ação dos diferentes crimes previstos na legislação repressiva. A pretenso de ilicitude avalia se a conduta foi realizada com dolo ou culpa, e pode ser excluída por dispositivos permissivos. Já a pretenso de reprovabilidade recai sobre o autor da conduta que se conforma ao tipo de ação não amparado por excludentes de ilicitude, e se fundamenta na possibilidade de exigir que o sujeito realize conduta diversa da proibida.

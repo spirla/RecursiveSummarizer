@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Por fim, a Conveno Americana de Direitos Humanos proclama presuno de inocncia at a pessoa ser julgada em duas instncias, verbis, assegura que se presuma sua inocncia enquanto no se comprove legalmente sua culpa e que tem o direito de recorrer da sentena para juiz ou tribunal superior (artigo 8, 2, h). No processo penal militar  recorrvel e, portanto, sujeita ao duplo grau de jurisdio a sentena final, que encerra o processo, com ou sem julgamento do mrito e as decises no curso processo que desafiam recurso em sentido estrito. Na JMU as decises dos Conselhos de Justia e do juiz federal so reexaminadas pelo STM quando provocado por meio da apelao ou do recurso em sentido estrito. Nas JME esse reexame das decises dos Conselhos de Justia e do juiz de direito  feito pelo Tribunal de Justia ou de Justia Militar local, onde houver. A doutrina adverte tratar-se de um nico reexame. O recurso especial (STJ) e o extraordinrio (STF) no integram o duplo grau de jurisdio, porque no reexaminam a matria ftica e probatria apreciada na primeira e na segunda instncia da Justia Militar. O recurso especial  cabvel quando a deciso do Tribunal de Justia ou de Justia Militar contrariar tratado ou lei federal ou negar-lhe vigncia (artigo 105, III, a, CF) e o extraordinrio se a causa decidida em nica ou ltima instncia contrariar dispositivo da Constituio Federal (artigo 102, III, a, CF). 18.1.3.6. Princpio da personalidade. O princpio da personalidade dos recursos significa que o recurso beneficia  parte que o interps e no aproveita a parte que no recorreu e, ainda, que quem recorreu no pode ter sua situao agravada. Pelo princpio da personalidade, o resultado do recurso aproveita a parte recorrente, que no pode ter sua situao agravada se s ela recorreu. Por exemplo:
+deveria ser fixado o regime semiaberto, mas foi fixado erroneamente o aberto, o Ministrio Pblico que deveria ter recorrido para alter-lo no apelou. No julgamento da apelao em que a defesa pugna pela absolvio, o tribunal no pode manter a condenao do primeiro grau e modificar o regime de aberto para o semiaberto, pois s a defesa apelou.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Convenção Americana de Direitos Humanos assegura a presunção de inocência até que se comprove legalmente a culpa. No processo penal militar, a sentença final é recorrível e sujeita ao duplo grau de jurisdição. O recurso especial e o extraordinário não integram o duplo grau de jurisdição, pois não reexaminam a matéria fática e probatória. O princípio da personalidade dos recursos significa que o resultado do recurso aproveita somente à parte recorrente, que não pode ter sua situação agravada.

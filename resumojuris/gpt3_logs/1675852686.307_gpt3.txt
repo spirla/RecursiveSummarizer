@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Avaliacao. Impossibilidade. DESTAQUE Na via do habeas corpus, nao e possivel avaliar a capacidade do paciente de arcar com o pagamento de valores executados a titulo de pensao alimenticia para afastar a prisao civil. O habeas corpus e instrumento processual caracterizado por cognicao sumaria e rito celere, nao comportando, por isso, a analise de questoes que, para seu deslinde, demandam aprofundado exame dos elementos fatico- probatorios coligidos nos autos. Na via estreita do habeas corpus, nao e viavel, para fins de afastamento da prisao civil, avaliar a capacidade do paciente de arcar com o pagamento dos valores executados a titulo de pensao alimenticia, bem como a nao configuracao do binomio necessidade/possibilidade, pois isso demandaria a analise aprofundada de provas e fatos controvertidos (RHC 136.336/MG, relator Ministro Marco Aurelio Bellizze, Terceira Turma, DJe 3/3/2022 e AgInt no HC 505.546/SP, relator Ministro Raul Araujo, Quarta Turma, DJe 1/7/2019). (Informativo  Ed. Especial n. 9) 49 CF/88, art. 5, LXVIII. CPC, art. 528,  3. CPP, art. 647.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O habeas corpus não é o instrumento processual adequado para avaliar a capacidade do paciente de arcar com o pagamento de valores executados a título de pensão alimentícia para afastar a prisão civil, pois demandaria a análise aprofundada de provas e fatos controvertidos. 2. Não é possível, na via estreita do habeas corpus, avaliar a capacidade do paciente de arcar com o pagamento dos valores executados a título de pensão alimentícia, bem como a não configuração do binômio necessidade/possibilidade.

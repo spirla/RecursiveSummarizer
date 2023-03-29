@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+3.5.5. Imputao Objetiva. A conduta que expe a vida ou a sade de outrem a perigo direto e iminente, ordinariamente, recebe uma valorao negativa e apresenta-se vivel a imputao objetiva. No entanto, no se pode esquecer que a imputao objetiva decorre de atividade valorativa que reconhece a inadequao social do comportamento, no sendo suficiente constatar a tipicidade formal da conduta examinada. A relevncia jurdica que legitima a pretenso de validade (correo) da norma jurdica incriminadora se expressa por meio do significado de inadequao social da conduta criminosa11. A irrelevncia jurdica  capaz de excluir a tipicidade material da conduta formalmente tpica e a atividade valorativa que caracteriza a imputao objetiva da violao  norma jurdica subjacente ao tipo incriminador previsto no artigo 132 do CP pode apresentar dificuldades ao operador do direito. Adequao social. Em alguns casos, a exposio ao perigo pode no constituir conduta inadequada e, por isso, conduta materialmente tpica. Veja-se o exemplo em que o bombeiro retira uma pessoa pela janela de edificao em chamas transportando-a, por meio de cordas (rapel), para local seguro. Na hiptese, o transporte perigoso realizado por meio de cordas e em altura elevada do solo constitui meio de salvamento da situao de perigo provocada pelas chamas e  socialmente adequado por aumentar as chances de salvamento. O mesmo se verifica quando um salva-vidas em ao de salvamento de banhista que no consegue voltar  praia o conduz para alm da rea de arrebentao das ondas, visando realizar o seu posterior salvamento. No contexto, a conduo do banhista para mais longe da praia  conduta socialmente adequada que aumenta as chances de salvamento e, por isso, no pode caracterizar violao da norma do artigo 132 do CP. Insignificncia. Vale observar que o princpio da insignificncia materializa a valorao jurdica sobre a adequao social do comportamento e sua aplicao  possvel quando se tratar de analisar a violao da norma incriminadora do crime de perigo para a vida ou sade de outrem. Uma conduta que cause perigo insignificante ao bem jurdico tutelado pela norma jurdico-penal no  capaz de produzir a sua violao, pois no  socialmente adequado que a norma penal se ocupe de ofensas insignificantes. Conforme o princpio da insignificncia12, somente poder ser considerado violador da norma incriminadora o perigo  vida ou  sade que possa ser considerada significante.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imputação objetiva da conduta que expõe a vida ou a saúde de outrem a perigo direto e iminente é baseada na valoração da inadequação social da conduta criminosa. Em alguns casos, a exposição ao perigo pode não ser inadequada e, portanto, materialmente típica. O princípio da insignificância materializa a valoração jurdica sobre a adequação social do comportamento e sua aplicação é possível quando se trata de analisar a violação da norma incriminadora do crime de perigo para a vida ou saúde de outrem.

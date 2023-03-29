@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+...
+Pargrafo 1o Considera-se organizao criminosa a associao de 4 (quatro) ou mais pessoas estruturalmente ordenada e caracterizada pela diviso de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prtica de infraes penais cujas penas mximas sejam superiores a 4 (quatro) anos, ou que sejam de carter transnacional. A organizao criminosa constitui uma espcie de associao criminal que possui requisitos especficos para a sua caracterizao e que a diferem dos crimes de associao criminosa, previsto no artigo 288 do Cdigo Penal (cuja redao atual foi determinada pelo artigo 24 da Lei 12.805/13); do crime de constituio de milcia privada, previsto no artigo 288-A do Cdigo Penal; e do crime de associao para o trfico de drogas, previsto no artigo 35 da Lei 11.343/06. Entre os elementos especficos que distinguem o crime de organizao criminosa, cabe destacar a finalidade de praticar infraes penais cujas penas mximas cominadas sejam superiores a 4 (quatro) anos de privao de liberdade ou que tenham o carter transnacional. Para a imposio do confisco que ora nos ocupa a ateno, contudo, a condenao deve se fundar na prtica de crime cuja pena mxima cominada seja superior  06 (seis) anos. O confisco tambm dever ser aplicado sobre os instrumentos do crime praticado por meio de milcias. A milcia a que se refere o pargrafo 5  a milcia privada, cuja incriminao  feita pelo artigo 288-A do Cdigo Penal. O legislador, porm, no definiu o que se deva entender por milcia. A milcia  uma espcie de organizao criminosa que possui caractersticas prprias, o que motivou o legislador a estabelecer a distino no pargrafo 5 do artigo 91-A do Cdigo Penal. Considerando a concluso do Relatrio final da Comisso Parlamentar de Inqurito destinada a investigar a ao das milcias no mbito do Estado de Rio de Janeiro15, pode-se entender que a milcia constitui um grupo armado irregular que exerce o controle de um territrio e da populao que nele habita, de maneira coativa, cuja motivao central  o lucro, e que utiliza um discurso legitimador que se ampara na proteo dos moradores e na manuteno da ordem. As milcias ainda se caracterizavam pela participao ativa e ostensiva de agentes do Estado. Para os fins de imposio do confisco, ainda  necessrio que o crime praticado por meio da milcia e que fundamenta a condenao tenha pena cominada superior a 06 (seis) anos de recluso.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Organização criminosa é uma associação de 4 ou mais pessoas estruturalmente ordenadas com o objetivo de obter vantagens ilegais, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 anos ou de caráter transnacional. O confisco pode ser aplicado sobre os instrumentos do crime praticado por meio de milícias, sendo necessário que a pena cominada seja superior a 6 anos de reclusão.

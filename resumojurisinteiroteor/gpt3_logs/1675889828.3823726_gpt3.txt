@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+489, 1, do novo CPC, o qual preconiza que cabe ao julgador enfrentar apenas as questes capazes de infirmar a concluso adotada na deciso recorrida, como ocorreu in casu. Sobre o assunto, o STF, no julgamento do AI n. 791.292/PE, Tema n. 339, publicado em 13/08/2010, de relatoria do Ministro Gilmar Mendes, reconheceu a repercusso geral da matria e assentou que o art. 93, inciso IX, da CF no impe que a deciso seja exaustivamente fundamentada, de forma a examinar pormenorizadamente cada uma das alegaes da parte, mas, sim, que indique, de forma clara, os motivos de seu convencimento. Veja-se: Questo de ordem. Agravo de Instrumento. Converso em recurso extraordinrio (CPC, art. 544,  3 e 4). 2. Alegao de ofensa aos incisos XXXV e LX do art. 5 e ao inciso IX do art. 93 da Constituio Federal. Inocorrncia. 3. O art. 93, IX, da Constituio Federal exige que o acrdo ou deciso sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegaes ou provas, nem que sejam corretos os fundamentos da deciso. 4. Questo de ordem acolhida para reconhecer a repercusso geral, reafirmar a jurisprudncia do Tribunal, negar provimento ao recurso e autorizar a adoo dos procedimentos relacionados  repercusso geral. (Destaca-se) Assim, constatou-se que o acrdo vergastado foi adequadamente fundamentado, pois os motivos do convencimento do rgo julgador foram claramente expostos, estando, portanto, em consonncia com a referida orientao firmada pelo STF. Entretanto o agravante, no presente recurso, sustenta que o Tema n. 339 da sistemtica de repercusso geral poderia ser adotado apenas nos recursos interpostos sob a gide do CPC de 1973.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O acórdão vergastado foi adequadamente fundamentado, pois os motivos do convencimento do órgão julgador foram claramente expostos, estando em consonância com a orientação firmada pelo STF, de que o art. 93, inciso IX, da CF não exige exame pormenorizado de cada uma das alegações ou provas.

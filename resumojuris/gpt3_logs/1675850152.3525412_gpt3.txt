@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Hipotese de suspeicao. Nulidade. Reconhecimento. DESTAQUE Expressoes ofensivas, desrespeitosas e pejorativas proferidas pelo magistrado na sessao de julgamento contra a honra do jurisdicionado que esta sendo julgado, podem configurar causa de nulidade absoluta, haja vista que ofendem a garantia constitucional da imparcialidade, que deve, como componente do devido processo legal, ser observada em todo e qualquer julgamento em um sistema acusatorio. Mesmo que nenhum juiz seja axiologicamente neutro, nao se pode negar que o envolvimento emocional (subjetivo) do juiz com as partes do processo e com o fato apurado pode interferir na sua imparcialidade, atributo que faz parte do devido processo legal , de base constitucional (art. 5, LIV). Nao pode haver o devido processo legal sem a imparcialidade do julgador, cuja falta, se objetivamente positivada, implica nulidade por suspeicao (arts. 254, I e 564, I, do CPP). O art. 35, IV, da Lei Complementar n. 35/1979, Lei Organica da Magistratura Nacional, arrola como dever do magistrado tratar com urbanidade as partes, os membros do Ministerio Publico, os advogados, as testemunhas, os funcionarios e auxiliares da Justica, e atender aos que o procurarem, a qualquer momento, quanto se trate de providencia que reclame e possibilite solucao de urgencia . 1280 Na hipotese - e aqui nao esta em discussao o fato criminoso imputado ao acusado, em termos de procedencia, de improcedencia ou de indigencia probatoria -, e com toda a venia que se impoe, as desrespeitosas expressoes que lhe foram dirigidas oralmente na sessao de julgamento da apelacao exorbitam claramente de uma mera questao de falta de urbanidade, para configurar visivel falta de imparcialidade e, portanto, caso de nulidade por suspeicao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Expressões ofensivas, desrespeitosas e pejorativas proferidas pelo magistrado na sessão de julgamento contra a honra do jurisdicionado que está sendo julgado podem configurar causa de nulidade absoluta. 2. O envolvimento emocional (subjetivo) do juiz com as partes do processo e com o fato apurado pode interferir na sua imparcialidade, atributo que faz parte do devido processo legal, de base constitucional. 3. Não pode haver o devido processo legal sem a imparcialidade do julgador, cuja falta, se objetivamente positivada, implica nulidade por suspeita. 4. É dever do magistrado tratar com urbanidade as partes, os membros do Ministério Público, os advogados, as testemunhas, os funcionários e auxiliares da Justiça. 5. Desrespeitosas expressões dirigidas oralmente na sessão de julgamento da apelação configuram falta de imparcialidade e, portanto, caso de nulidade por suspeita.

@@ -1,0 +1,29 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Compete ao juiz federal, monocraticamente, de acordo artigo 30 da LOJMU com a redao dada pela Lei 13.774/2018:
+I - decidir sobre recebimento de denncia, pedido de arquivamento, de devoluo de inqurito e representao;
+I-A - presidir os Conselhos de Justia;
+I-B - processar e julgar civis nos casos previstos nos incisos I e III do artigo 9 do Decreto-Lei 1.001, de 21 de outubro de 1969 (Cdigo Penal Militar), e militares, quando estes forem acusados juntamente com aqueles no mesmo processo;
+I-C - julgar os habeas corpus, habeas data e mandados de segurana contra ato de autoridade militar praticado em razo da ocorrncia de crime militar, exceto o praticado por oficial-general;
+II - relaxar, quando ilegal, em despacho fundamentado, a priso que lhe for comunicada;
+III - manter ou relaxar priso em flagrante e decretar, revogar ou restabelecer priso preventiva de indiciado ou acusado, em despacho fundamentado em qualquer caso, ressalvado o disposto no inciso I do caput do artigo 28 desta Lei;
+V - determinar a realizao de exames, percias, diligncias e nomear peritos. No processo:
+VI - formular ao ru, ofendido ou testemunha suas perguntas e as requeridas pelos demais juzes, bem como as requeridas pelas partes para serem respondidas por ofendido ou testemunha;
+VII - relatar os processos nos Conselhos de Justia e redigir, no prazo de oito dias, as sentenas e decises;
+VIII - proceder ao sorteio dos Conselhos. Aps o encerramento do processo compete acordo com o artigo 30 da Lei 8.457/92:
+X - decidir sobre o recebimento de recursos interpostos;
+XI - executar as sentenas, inclusive as proferidas em processo originrio do STM;
+XIV - decidir sobre livramento condicional;
+XV - revogar o benefcio da suspenso condicional da pena. 8.2.6. Competncia dos Conselhos de Justia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz federal tem competência para decidir sobre o recebimento de denúncias, arquivamento, devolução de inquérito e representação, presidir os Conselhos de Justia, processar e julgar civis e militares, relaxar prisões ilegais, decretar, revogar ou restabelecer prisão preventiva, determinar exames, perícias e diligências, formular perguntas ao réu, ofendido ou testemunha, relatar processos nos Conselhos de Justia, redigir sentenças e decisões, decidir sobre recursos interpostos, executar sentenças, decidir sobre livramento condicional e revogar benefícios da suspensão condicional da pena.

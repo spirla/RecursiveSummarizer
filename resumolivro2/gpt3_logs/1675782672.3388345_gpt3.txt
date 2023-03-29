@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No entanto, para que no haja quebra da imparcialidade, o juiz federal, juiz de Direito e o Conselho de Justia no devem determinar, sem provocao, a providncia cautelar, deferindo-a, se for caso, quando provocado, a requerimento da autoridade de polcia judiciria militar na investigao criminal ou do Ministrio Pblico Militar na investigao criminal e na instruo criminal (artigo 3, I e II, da Lei 9.296/96). O pedido de interceptao de comunicao telefnica deve preencher os dois requisitos. O primeiro  a demonstrao de que a sua realizao  necessria  apurao de infrao penal, com indicao dos meios a serem empregados (artigo 4, Lei 9.296/96). A necessidade da interceptao telefnica decorre da inexistncia de outros meios de obteno da prova. A prova no pode ser feita por outros meios disponveis (artigo 2, inciso II, da Lei 9.296/96). Por exemplo:
+que a interceptao telefnica  o nico meio de obteno de prova disponvel e eficaz na apurao de crimes cometidos por organizao criminosa. No requerimento a autoridade de polcia judiciria militar ou o MPM deve (a) apontar quais diligncias foram realizadas sem sucesso a exigir a interceptao telefnica como o meio de prova adequado para fazer a prova;
+(b) ou, que h intensa comunicao telefnica entre os integrantes da organizao criminosa, de modo somente com sua interceptao  possvel descobrir os crimes e identificar seus autores;
+(c) ou, que a interceptao telefnica  a nica prova que permitir aprofundar a investigao. O segundo requisito do pedido  a indicao dos meios a serem empregados. Com o desenvolvimento constante e vertical da tecnologia surgem novos meios de interceptao telefnica, que podem ser indicados pela autoridade de polcia judiciria militar ou pelo MPM, como mais adequados ao procedimento de captao. O artigo 7 dessa Lei 9.296/96 confere  autoridade policial o poder de requisitar servios e tcnicos especializados s concessionrias de servio pblico, mas  usual a polcia judiciria militar indicar no pedido a empresa concessionria de servio pblico (operadora de telefonia).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O pedido de interceptação de comunicação telefônica deve preencher dois requisitos: a demonstração de que é necessária para a apuração de infração penal e a indicação dos meios a serem empregados. A autoridade de polícia judiciária militar ou o Ministério Público Militar podem requisitar serviços e técnicos especializados às concessionárias de serviço público para a captação.

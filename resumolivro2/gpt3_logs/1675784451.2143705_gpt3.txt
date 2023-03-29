@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Mesmo se as partes no requererem a produo de provas, o juiz deve realizar novo interrogatrio para que o acusado possa exercer a autodefesa sobre o fato diverso objeto do aditamento.. No segundo grau de jurisdio, a Smula 453 do STF determina que no se aplicam  segunda instncia o artigo 384 e pargrafo nico do Cdigo de Processo Penal, que possibilitam dar nova definio jurdica ao fato delituoso, em virtude de circunstncia elementar no contida, explcita ou implicitamente, na denncia ou queixa. Decidiu o STF que, no tendo o MPM, em apelao, atacado o regime prisional imposto pela sentena condenatria, ocorreu precluso dessa matria para a acusao, motivo pelo qual no poderia o tribunal a quo ter piorado a situao do paciente, em flagrante violao do princpio que veda a reforma para pior. Necessrio examinar os casos de maior ocorrncia no processo penal militar sobre o tema da correlao entre a acusao e a sentena:
+1. Mudana de crime consumado para tentado e de tentado para consumado. Diz-se consumado o crime quando nele se renem todos os elementos de sua definio legal (CPM, artigo 30, inciso I) e tentado quando, iniciada a execuo, no se consuma por circunstncias alheias  vontade do agente (inciso II). Se no curso do processo for descoberta situao que modifique o crime de consumado para tentado ou de tentado para consumado, a denncia deve ser aditada por escrito para correlao entre a nova acusao e a sentena e dada a oportunidade de o ru se defender, em ateno  garantia da ampla defesa. H nova definio jurdica do fato (no  emendatio libelli) em consequncia de prova existente nos autos de elemento ou circunstncia da infrao penal no contida na acusao e dela o acusado tem o direito de se defender, a despeito de a diminuio da pena pela tentativa ser mais benfica.. Mudana de imputao de autor de crime para partcipe (de autoria para participao) e vice-versa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz deve realizar novo interrogatório para que o acusado possa exercer a autodefesa sobre o fato diverso objeto do aditamento. A Smula 453 do STF determina que no se aplicam em segunda instância o artigo 384 e pargrafo nico do Código de Processo Penal, que possibilitam dar nova definição jurdica ao fato delituoso. Se houver mudança de crime consumado para tentado ou de tentado para consumado, a denúncia deve ser aditada para correlação entre a nova acusação e a sentença. Se houver mudança de imputação de autor de crime para participante ou vice-versa, o acusado tem o direito de se defender.

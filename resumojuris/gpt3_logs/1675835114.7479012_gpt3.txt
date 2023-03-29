@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+170 O caso trata de acao civil publica proposta pela Uniao em desfavor de empresa mineradora, objetivando a condenacao desta ao ressarcimento de R$ 2.134.548,00 (dois milhoes, cento e trinta e quatro mil, quinhentos e quarenta e oito reais), em razao de prejuizos causados pela extracao ilegal de 177.879 m de areia, bem como a restauracao ambiental da area degradada. Na origem, houve o reconhecimento da pratica de extracao ilegal de minerios, com desatendimento as limitacoes constantes da licenca de operacao, optando, contudo, empregar os criterios da proporcionalidade e da razoabilidade por ocasiao da delimitacao do quantum indenizatorio. Do calculo, concluiu-se que a indenizacao deveria ser arbitrada em 50% (cinquenta por cento) do valor obtido com a extracao irregular de areia, sob o argumento de que a reparacao proporcional ao dano sofrido pela vitima, nao poderia proporcionar lucro (ganho que nao auferiria acaso o dano nao houvesse ocorrido), pois valer-se do preco de venda do minerio equivaleria a permitir que a Uniao se apropriasse do trabalho, dos custos e dos investimentos alheios. Ao assim decidir, o Tribunal de origem se afastou da orientacao jurisprudencial consagrada no STJ, no sentido de que a indenizacao deve abranger a totalidade dos danos causados ao ente federal, sob pena de frustrar o carater pedagogico-punitivo da sancao e incentivar a impunidade de empresa infratora, que praticou conduta grave com a extracao mineral irregular, fato incontroverso nos autos. (REsp 1.923.855/SC, relator Ministro Francisco Falcao, Segunda Turma, julgado em 26/4/2022, DJe de 28/4/2022).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É cabível ação civil pública proposta pela União em desfavor de empresa mineradora para condená-la ao ressarcimento de prejuízos causados pela extração ilegal de minério. 2. A indenização deve ser arbitrada em 50% do valor obtido com a extração irregular de minério, pois não pode proporcionar lucro à vítima. 3. A indenização deve abranger a totalidade dos danos causados ao ente federal, para evitar a impunidade da empresa infratora.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A relevncia do comportamento examinado deve ser apurada conforme critrios normativos que possibilitem identificar na realidade material as condutas que adquirem relevncia jurdico-penal. O tema da imputao objetiva diz respeito ao juzo de tipicidade, na perspectiva de um tipo penal de contedo valorativo. No entanto, h quem defenda que  no juzo de ilicitude que deva ser examinado o tema da imputao objetiva. Juan Bustos Ramrez, embora reconhea que a tendncia da doutrina espanhola  considerar a imputao objetiva como um complemento da teoria da causalidade, sustenta que. la imputacin del resultado no puede ser un aspecto de la tipicidad, ni conceptual ni sistemticamente, sino slo de la antijuridicidad, en cuanto aqu entran a jugar todas las otras valoraciones que recoge el bien jurdico desde el ordenamiento en su conjunto. Tal posicionamento se fundamenta em noo avalorativa do tipo, o que  inadequado, por descaracterizar o aspecto mais importante do modelo de comportamento proibido. O tipo penal outorga significao social s condutas humanas.  no contedo normativo do tipo que a discusso sobre a imputao objetiva exerce funo limitadora que permite precisar o alcance da proibio penal. Cabe observar que a atribuio objetiva do resultado jurdico, por si s, ainda no caracteriza a conduta como punvel, sendo apenas o primeiro passo para atender as exigncias de caracterizao do injusto. O tipo objetivo  somente a parte externa do crime, que evidencia a magnitude social do comportamento e constitui referncia para o exame do tipo subjetivo. O exame da tipicidade somente ser completo quando se constatar a subsuno da conduta s exigncias subjetivas do tipo, e a responsabilidade penal ainda depender do juzo de culpabilidade. 3.2.1. Finalidade da conduta. Na concepo naturalista, o tipo constitua o ponto neutro de referncia para os exames valorativos da ilicitude e culpabilidade. A conduta proibida compreendia apenas o movimento corpreo consciente e voluntrio, cujos elementos seriam um querer, uma atuao e uma relao de causalidade entre a conduta e o resultado naturalstico por ela produzido. Ao considerar um querer na estrutura tpica, no se pretendeu examinar o contedo da vontade, mas apenas a sua existncia ntica, de modo que, mesmo nas condutas culposas, foi identificada a finalidade inerente a toda conduta humana. O contedo da vontade, por sua vez, deveria ser examinado somente na culpabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tema da imputacao objetiva diz respeito ao juzo de tipicidade, com base em critérios normativos para identificar condutas relevantes jurdico-penalmente. Esta imputação está relacionada à teoria da causalidade e ao conteúdo normativo do tipo penal, que atribui significado social às ações humanas. A existência de um querer é necessária para caracterizar a conduta como punível, mas não se examina o conteúdo da vontade, apenas sua existência ntica.

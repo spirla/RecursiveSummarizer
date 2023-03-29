@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Quanto a alegada necessidade de utilizacao de pedido de cooperacao juridica internacional, a Corte Especial do STJ entende que o mecanismo e necessario apenas quando haja necessidade de coleta de prova produzida em jurisdicao estrangeira, nao quando seu armazenamento posterior se de em local diverso do de sua producao por opcao da empresa que preste servicos a usuarios brasileiros (Inq 784/DF, relatora Ministra Laurita Vaz, Corte Especial, DJe de 28/08/2013). O que se espera de empresas que prestam servico no Brasil e o fiel cumprimento da legislacao patria e cooperacao na elucidacao de condutas ilicitas, especialmente quando regularmente quebrado por decisao judicial o sigilo de dados dos envolvidos. Nesse sentido, o fato de determinada empresa estar sediada nos Estados Unidos nao tem o condao de eximi- la do cumprimento das leis e decisoes judiciais brasileiras, uma vez que disponibiliza seus servicos para milhoes de usuarios que se encontram em territorio brasileiro. (Informativo n. 750) PROCESSO HC 746.737-DF, Rel. Min. Joel Ilan Paciornik, Quinta Turma, por unanimidade, julgado em 06/09/2022, DJe 12/09/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Crime eleitoral ou conexao do delito comum com delito eleitoral. Inocorrencia. Justica eleitoral. Incompetencia. DESTAQUE Nao tendo havido imputacao de crime eleitoral ou a ocorrencia de conexao de delito comum com delito eleitoral, nao se justifica o encaminhamento do feito a Justica Eleitoral. O nucleo da controversia consiste na identificacao do Juizo competente para o julgamento do crime descrito no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário o mecanismo de pedido de cooperação jurídica internacional apenas quando houver necessidade de coleta de prova produzida em jurisdição estrangeira, não quando seu armazenamento posterior se der em local diverso do de sua produção por opção da empresa que preste serviços a usuários brasileiros. 2. É esperado das empresas que prestam serviço no Brasil o fiel cumprimento da legislação patria e cooperação na elucidação de condutas ilícitas, especialmente quando regularmente quebrado por decisão judicial o sigilo de dados dos envolvidos. 3. Não tendo havido imputação de crime eleitoral ou a ocorrência de conexão de delito comum com delito eleitoral, não se justifica o encaminhamento do feito à Justiça Eleitoral.

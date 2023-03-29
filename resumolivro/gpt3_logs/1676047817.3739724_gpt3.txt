@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos termos do dispositivo legal, no prevalecem os efeitos da reincidncia se entre a data do cumprimento ou extino da pena e a infrao posterior tiver decorrido perodo de tempo superior a 5 (cinco) anos, computado o perodo de prova da suspenso ou do livramento condicional, se no ocorrer revogao. O instituto da reincidncia tambm no se aplica em relao aos crimes militares prprios e aos polticos. Nestes casos, no ser possvel reconhecer a incidncia da agravante. A preponderncia indicada pelo artigo 67 do CP somente se verifica quando uma circunstncia considerada mais valiosa concorre com outra menos valiosa (considerada no preponderante), quando a modificao da pena-base deve seguir o sentido da circunstncia considerada mais valiosa. Mas  necessrio considerar que a modificao da pena operada pela circunstncia preponderante deve levar em conta o efeito (ainda que reduzido) da circunstncia no preponderante. Significa dizer, a variao da pena-base deve ser menor do que seria se a circunstncia preponderante fosse considerada isoladamente. A existncia de circunstncia no preponderante deve repercutir efeitos de diminuir a natural modificao operada pela ocorrncia da circunstncia preponderante. Se a circunstncia preponderante verificar-se sozinha, operar efeitos mais significativos. Com certeza, uma circunstncia agravante preponderante, como a reincidncia, deve operar menor variao de pena quando existir circunstncia atenuante a ser tambm considerada. A importncia dessa compensao produzida pelo concurso de circunstncia  matria reservada ao prudente arbtrio do julgador. Por outro lado, se o concurso d-se entre duas circunstncias preponderantes, uma agravante e outra atenuante, por serem igualmente mais valiosas, uma anula os efeitos da outra.  o caso do concurso entre a reincidncia e o motivo de relevante valor moral. A mesma soluo se verifica quando o concurso d-se entre duas circunstncias no preponderantes, como no caso do crime praticado contra criana em que o sujeito comete o crime em cumprimento de ordem de autoridade superior. O Cdigo Penal Militar, ao tratar do tema das circunstncias preponderantes em seu artigo 75, foi mais claro ao dispor que se houver equivalncia entre umas e outras,  como se no tivessem ocorrido. No entanto, o Cdigo Penal no deixa claro o parmetro para a comparao das circunstncias.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O instituto da reincidência não se aplica a crimes militares próprios e políticos. Quando há concurso de circunstâncias, uma agravante e outra atenuante, elas se anulam mutuamente. O Código Penal não especifica o parâmetro para a comparação das circunstâncias.

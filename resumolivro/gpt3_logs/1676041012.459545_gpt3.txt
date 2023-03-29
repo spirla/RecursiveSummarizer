@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Perelman distinguiu a retrica que  especificamente utilizada pelos juristas da retrica geral, acolhendo a designao lgica jurdica para diferenciar o raciocnio jurdico da lgica formal. Segundo Perelman, no raciocnio lgico-formal ocorre a demonstrao da concluso, por meio da passagem necessria oferecida pelas premissas. Se as premissas so verdadeiras, a concluso, necessariamente, tambm o ser. No raciocnio dialtico (jurdico), por outro lado, a argumentao evidencia apenas o carter plausvel, razovel de uma deciso ou opinio. Por isso, Perelman concebeu como ponto central de sua teoria que a argumentao  sempre dirigida a um determinado auditrio a que se pretende persuadir para obter sua adeso intelectual. A sua nova retrica considera que a argumentao pode dirigir-se a auditrios diversos e, por isso, no se limita ao exame das tcnicas do discurso pblico, que  dirigido a uma multido no especializada, como a retrica clssica. Perelman se interessou especialmente pelo raciocnio dialtico, que permite defender uma tese e atacar um adversrio, em uma controvrsia. A especificidade do raciocnio jurdico reside na dificuldade da argumentao alcanar um acordo entre os interessados, pois esta se desenvolve sempre em meio a uma controvrsia. Muito embora Perelman conceba o Direito sob uma perspectiva menos formalista, porque preocupada com a aceitao do meio no qual exerce sua regulamentao, entende que a controvrsia que  levada ao conhecimento do Judicirio somente pode ser superada pelo poder da autoridade de impor uma deciso, adaptando o texto da lei ao caso concreto, de modo que o papel do juiz  encontrar uma soluo que seja razovel, aceitvel, ou seja, nem subjetiva, nem arbitrria. A nova retrica descaracteriza o raciocnio jurdico como uma simples deduo silogstica ou uma busca por uma soluo equitativa para o caso concreto. A concepo de Perelman procura estabelecer uma sntese na qual se leva em conta o valor da soluo e a sua conformidade com o ordenamento positivo, de modo que a soluo para o caso concreto no seja apenas conforme a lei, mas tambm equitativa, razovel e aceitvel. A importncia da obra de Perelman reside, fundamentalmente, na reabilitao da razo prtica, que pretende introduzir racionalidade na discusso sobre questes como a moral, o Direito e a poltica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Perelman distinguiu a retrica especificamente utilizada pelos juristas da retrica geral, propondo a lgica jurdica para o raciocínio dialético (jurídico). A sua teoria considera que a argumentação pode se dirigir a auditórios diversos, focando-se na defesa de uma tese e ataque ao adversário. A especificidade do raciocínio jurdico reside na dificuldade da argumentação alcançar um acordo, sendo necessário o poder da autoridade para impor uma decisão. A obra de Perelman reabilita a razão prática, buscando introduzir racionalidade na discusão sobre questões como moral, Direito e política.

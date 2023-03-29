@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Para o STM existem duas possibilidades de emendatio libelli:
+in mellius, ou seja, em benefcio do ru, ou in pejus, causando-lhe uma situao mais gravosa. A primeira possibilidade - emendatio libelli in mellius - o STM consagrou no enunciado da Smula 5:
+A desclassificao de crime capitulado na denncia pode ser operada pelo Tribunal ou pelos Conselhos de Justia, mesmo sem manifestao, neste sentido, do Ministrio Pblico Militar nas alegaes finais, desde quando importe em benefcio para o ru e conste da matria ftica. A desclassificao pode at ser em favor do ru, no entanto, a inteligncia do artigo 437, a, do CPPM, exige requerimento do MPM, em suas alegaes escritas, para a possibilidade de o Tribunal desclassificar o crime capitulado na denncia. Assim, seguindo esse critrio, o STM desclassificou de delito doloso (furto) para culposo (receptao culposa). Para ocorrer a segunda modalidade - emendatio libelli in pejus - exige o STM a teor do artigo 437, a, do CPPM, prvia formulao do MPM (aditamento por escrito) e de notificao da defesa para responder ao aditamento, em homenagem aos princpios da ampla defesa e do contraditrio. O que a regra do artigo 437, a, do CPPM, veda  a iniciativa do juiz de agir de ofcio - ne procedat index ex officio -  funo institucional, privativa do Ministrio Pblico, promover a ao penal de iniciativa pblica. Precedentes do STM mencionam que o acusado no se defende da tipificao penal que lhe fora atribuda, mas, efetivamente, dos fatos que lhe foram imputados. O brocardo latino narra mihi factum, dabo tibi jus (narra-me o fato e te darei o direito), portanto,  tarefa do magistrado dar adequada qualificao ao fato ao proferir a sentena, o ru se defende do fato delituoso narrado na denncia e no da classificao jurdico-penal tem sofrido crtica de parte da doutrina.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STM reconhece duas possibilidades de emendatio libelli: in mellius, em benefício do réu, e in pejus, causando-lhe uma situação mais gravosa. Para a primeira, o STM permite a desclassificação de crime sem a manifestação do Ministério Público Militar. Para a segunda, exige o requerimento do MPM e a notificação da defesa para responder ao aditamento, em homenagem aos princípios da ampla defesa e do contraditório. O juiz não pode agir de ofício, pois é função do Ministério Público promover a ação penal de iniciativa pública. O réu se defende dos fatos narrados na denúncia e não da classificação jurdico-penal.

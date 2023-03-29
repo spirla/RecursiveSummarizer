@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A diferenca reside no fato de que, no dolo, ha a vontade de realizar os elementos objetivos de um tipo penal, ou, no minimo, o agente assumiu o risco da sua realizacao. Na culpa, ao contrario, a vontade do agente se dirige a um indiferente penal, contudo, ocorre a producao de um resultado tipico objetivamente previsivel, mas de forma nao intencional e produto de uma acao negligente, imprudente ou imperita. 59 De acordo com Francisco de Assis Toledo (1994, p. 125), a tipicidade formal consiste na exata correspondncia entre uma conduta da vida real a um tipo incriminador. 60 O contrapondo da tipicidade formal e a denominada tipicidade material, que e aplicavel no mbito do Direito Penal e e cunhada pelos Principios da Insignificncia e da Ofensividade. Denominados por Fernando Capez (2007, p. 10) como integrantes de um rol de principios penais limitadores decorrentes da dignidade humana, em linhas gerais, sera insignificante aquela conduta incapaz de ofender o interesse protegido pelo tipo penal ao ocasionar um dano de nenhuma monta e nao havera ofensividade quando a conduta nao tiver oferecido qualquer perigo concreto, real, efetivo e comprovado de lesao ao bem juridico tutelado. 61 Ensinamento que se extrai das seguintes obras: CANOTILHO, Joaquim Jose Gomes. Direito constitucional e teoria da Constituicao, p. 408; FERNANDES, Bernardo Goncalves. Curso de direito constitucional, p. 273. 62 Tal premissa encontra-se estampada na seguinte obra: GRECO, Rogerio. Direito penal do equilibrio: Uma Visao Minimalista do Direito Penal, p. 56-57. 63 GRECO, Rogerio. Direito penal do equilibrio: Uma Visao Minimalista do Direito Penal, p. 55. 64 Artigo 216-A. Constranger alguem com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se o agente da sua condicao de superior hierarquico ou ascendncia inerentes ao exercicio de emprego, cargo ou funcao. Pena - detencao, de 1 (um) a 2 (dois) anos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O dolo e a vontade de realizar os elementos objetivos de um tipo penal, enquanto a culpa e a producao de um resultado tipico objetivamente previsivel, mas de forma nao intencional. A tipicidade formal consiste na correspondencia entre uma conduta da vida real e um tipo incriminador, enquanto a tipicidade material e aplicavel no mbito do Direito Penal e e cunhada pelos Principios da Insignificancia e da Ofensividade. O Artigo 216-A prevê pena de detenção de 1 a 2 anos para quem constranger alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se do seu cargo ou função.

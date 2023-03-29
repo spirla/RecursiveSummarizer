@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inexistencia. Coacao ambiental/circunstancial. Vicio na manifestacao de vontade. Fishing expedition. Configuracao. DESTAQUE O simples fato de o acusado ter antecedente por trafico de drogas nao autoriza a realizacao de busca domiciliar, porquanto desacompanhado de outros indicios concretos e robustos de que, nesse momento especifico, ele guarda drogas em sua residencia. O art. 5, XI, da CF/88 consagrou o direito fundamental a inviolabilidade do domicilio, ao dispor que a casa e asilo inviolavel do individuo, ninguem nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinacao judicial. O Supremo Tribunal Federal definiu, em repercussao geral (Tema 280), que o ingresso forcado em domicilio sem mandado judicial apenas se revela legitimo - a qualquer hora do dia, inclusive durante o periodo noturno - quando amparado em fundadas razoes, devidamente justificadas pelas circunstancias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situacao de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes, DJe 8/10/2010). Ao julgar o REsp n. 1.574.681/RS (DJe 30/5/2017), esta colenda Sexta Turma decidiu, a unanimidade, que nao se ha de admitir que a mera constatacao de situacao de flagrancia, posterior ao ingresso, justifique a medida. Se o proprio juiz so pode determinar a busca e apreensao durante o dia, e mesmo assim mediante decisao devidamente fundamentada, apos previa analise dos requisitos autorizadores da medida, nao seria razoavel conferir a um servidor da seguranca publica total discricionariedade para, a partir de mera capacidade intuitiva, entrar de maneira forcada na residencia de alguem e, entao, verificar se nela ha ou nao alguma substancia entorpecente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O direito fundamental à inviolabilidade do domicílio é consagrado no art. 5, XI, da CF/88. 2. O ingresso forcado em domicílio sem mandado judicial só é legitimo quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto. 3. Não se admite que a mera constatação de situação de flagrância, posterior ao ingresso, justifique a medida. 4. Não é razoável conferir a um servidor da segurança pública total discricionariedade para entrar de maneira forcada na residência de alguém.

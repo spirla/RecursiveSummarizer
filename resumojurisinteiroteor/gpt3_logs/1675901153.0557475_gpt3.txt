@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ato contnuo, na mesma deciso, este desembargador relator determinou o retorno dos autos  primeira instncia, intimando-se o apelante para apresentar, l, as razes de seu apelo, bem como com oferta de contrarrazes pelo parquet, e, somente aps processado o recurso, os autos deveriam retornar  segunda instncia, para julgamento. Destaca-se que o ora apelante no recorreu da deciso acima citada, anuindo aos seus termos, e sobre essa deciso operou-se a coisa julgada, com precluso consumativa para os atos que tendem  sua impugnao, pois houve a extino da faculdade de praticar determinado ato processual em virtude de ter ocorrido a oportunidade para tanto. A, de acordo com os autos de origem, o feito retornou  primeira instncia, e ali o ora apelante foi novamente intimado para apresentar suas razes de apelao, mas deixou transcorrer in albis o prazo para tanto. Os autos ficaram cerca de 30 (trinta) dias na primeira instncia, aguardando as razes do recurso de apelao. Ento, foi certificado o transcurso do prazo para a apresentao das razes de apelo pelo militar ru, vindo os autos, novamente, para a segunda instncia, diga-se, sem qualquer manifestao da defesa do ru na primeira instncia, ou seja, sem qualquer objeo  subida dos autos sem as razes recursais, e sem haver, sequer, o pedido de intimao do ru para nomear novo procurador para a prtica do ato. Depois, com o retorno dos autos  segunda instncia, o apelante desconsiderou completamente a deciso anterior deste relator,  qual anuiu, e apresentou, de novo, suas razes recursais no Tribunal de Justia Militar do Estado de Minas Gerais, tendo este desembargador relator no conhecido das razes do apelo e determinado o desentranhamento da pea respectiva, conforme deciso lanada no Evento 24. O apelante, no satisfeito, apresentou agravo interno (Evento 33), reiterando o pedido para apresentao das razes em segunda instncia e apontando, inclusive, falha no sistema eproc da Justia Militar estadual. O agravo em referncia no foi conhecido, nos termos da deciso lanada no Evento 41. Por fim, o apelante apresentou novo agravo interno (Evento 47), agora contra a deciso deste desembargador relator (Evento 41), repetindo suas teses e acrescentando que o ru deveria ter sido intimado para constituir novo procurador para a apresentao das razes de apelao, que deveriam ter sido admitidas as razes apresentadas em segunda instncia, tendo a Colenda Primeira Cmara negado provimento ao recurso,  unanimidade. Assim, o apelo  conhecido, mas sem as razes recursais, destacando que o militar alega a ausncia de provas para um decreto condenatrio, e requer a absolvio com base no art. 439, alnea e, do CPPM, ou seja, pela atipicidade da conduta.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A deciso judicial determinou o retorno dos autos para a primeira instância, onde o apelante foi intimado para apresentar suas razões de apelo. Com a ausência de manifestação da defesa, os autos retornaram à segunda instância para julgamento, sem as razões recursais. O apelante apresentou agravos internos, mas não obteve êxito. Assim, o apelo foi conhecido, mas sem as razões recursais, alegando a ausência de provas para um decreto condenatório e requerendo a absolvição com base na atipicidade da conduta.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O princpio em questo impe a prtica de conduta adequada, necessria e suficiente na espcie, configurando violao a este dever a prtica de qualquer exagero injustificado. A relao entre a transgresso e a sano aplicada deve ser, ainda, guiada pelos parmetros estabelecidos em lei, sob pena de violao ao princpio da razoabilidade. Neste particular, acompanhamos as lies de Jos dos Santos Carvalho Filho, no sentido de que a aferio da razoabilidade da conduta da Administrao Pblica pelo Judicirio no significa violar o princpio da separao de poderes, mas, to somente, fazer cumprir os parmetros impostos pela lei. Confira-se: Desse modo, quando alguns estudiosos indicam que a razoabilidade vai se atrelar  congruncia lgica entre as situaes postas e as decises administrativas, parece-nos que a falta da referida congruncia viola, na verdade, o princpio da legalidade, porque, no caso, ou h vcio nas razes impulsionadoras da vontade, ou o vcio estar no objeto desta. A falta de razoabilidade, na hiptese,  puro reflexo da inobservncia de requisitos exigidos para a validade da conduta. (Carvalho Filho, Jos dos Santos; Manual de Direito Administrativo - 35. ed. - Barueri: Atlas, 2021, p. 44) O parmetro para se verificar se a interpretao e a aplicao dadas foram sustentveis  construdo a partir das circunstncias fticas do caso concreto, em cotejo com os princpios constitucionais e legais que regem a Administrao Pblica. E, por bvio, apenas as infraes consideradas graves, aps a anlise de todo o quadro ftico envolvido na espcie, ensejaro a aplicao da pena mais severa. Na hiptese concreta dos presentes autos, no meu entender, a pena aplicada ao apelante no violou os princpios da proporcionalidade e da razoabilidade, em face da situao ftica apresentada. Conforme restou apurado, em que pese o apelante ter sido diagnosticado com discopatia da coluna com hrnia discal, houve simulao ou metassimulao da doena por parte do ex-militar no intuito de prorrogar a licena mdica que lhe fora concedida. Emblemtica  a descrio do comportamento adotado pelo apelante no dia 21/12/2015, data em que foi submetido  percia na Junta Central de Sade (JCS). Para melhor elucidao, transcrevo o seguinte trecho da deciso proferida pelo comandante-geral da PMMG. [...] 3. o alegado pela defesa no encontra suporte, pois o que embasou a concluso da JCS pela metassimulao de doena, por parte do acusado, foi a incoerncia de suas alegaes, bem como as investigaes realizadas pela Corregedoria da Polcia Militar de Minas Gerais, no perodo compreendido entre os dias 23/11/2015 e 21/12/2015. Destaca-se do Laudo Mdico Pericial elaborado pela JCS,  fl.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A deciso judicial verificou se a pena aplicada ao apelante violou os princpios da proporcionalidade e da razoabilidade, tendo em conta a situao ftica apresentada. Apurou-se que o apelante simulou ou metassimulou a doena para prorrogar a licena mdica. Por fim, constatou-se que as investigaes realizadas pela Corregedoria da Polcia Militar de Minas Gerais confirmaram a metassimulao de doena.

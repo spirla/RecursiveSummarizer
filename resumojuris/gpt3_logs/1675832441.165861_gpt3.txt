@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+67 do CP, pois sao igualmente preponderantes. Em seguida, a Terceira Secao, em 10/4/2013, sob a sistematica dos recursos especiais repetitivos, firmou, no julgamento do REsp. n. 1.341.370/MT, DJe de 17/4/2013, o entendimento de que, observadas as especificidades do caso concreto, deve-se compensar a atenuante da confissao espontanea com a agravante da reincidencia na segunda fase da dosimetria da pena (Tema n. 585/STJ). 59 No julgamento do Habeas Corpus n. 365.963/SP, definiu-se que a especificidade da reincidencia nao obstaculiza sua compensacao com a atenuante da confissao espontanea. Em outras palavras, a reincidencia, ainda que especifica, deve ser compensada integralmente com a atenuante da confissao, demonstrando, assim, que nao deve ser ofertado maior desvalor a conduta do reu que ostente outra condenacao pelo mesmo delito. Destacou-se ainda que, tratando-se de reu multirreincidente, deve ser reconhecida a preponderancia da agravante prevista no art. 61, I, do CP, sendo admissivel a sua compensacao proporcional com a atenuante da confissao espontanea, em estrito atendimento aos principios da individualizacao da pena e da proporcionalidade. Na verdade, a condicao de multirreincidencia exige maior reprovacao do que a conduta de um acusado que tenha a condicao de reincidente em razao de um evento unico e isolado em sua vida. Se a simples reincidencia e, por lei, reprovada com maior intensidade, porque demonstra um presumivel desprezo as solenes advertencias da lei e da pena, reveladora de especial tendencia antissocial, por questao de logica e de proporcionalidade, e em atendimento ao principio da individualizacao da pena, ha a necessidade de se conferir um maior agravamento na situacao penal do reu nos casos de multirreincidencia, em funcao da frequencia da atividade criminosa, a qual evidencia uma maior reprovabilidade da conduta, devendo, assim, prevalecer sobre a confissao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A reincidência, ainda que específica, deve ser compensada integralmente com a atenuante da confissão. 2. A condição de multirreincidente exige maior reprovacao do que a conduta de um acusado que tenha a condição de reincidente em razão de um evento único e isolado em sua vida. 3. É admissível a compensação proporcional da agravante prevista no art. 61, I, do CP com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.

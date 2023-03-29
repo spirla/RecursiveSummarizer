@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+59 do CP, podem ser utilizadas para modulacao da fracao de diminuicao de pena do trafico privilegiado, desde que nao utilizadas para fixacao da pena-base. Em razao disso, configura constrangimento ilegal o afastamento do trafico privilegiado por presuncao de que o agente se dedica a atividades criminosas, derivada unicamente da analise da natureza ou da quantidade de drogas apreendidas; da mesma maneira, configura constrangimento ilegal a reducao da fracao de diminuicao de pena por esse mesmo e unico motivo. (Informativo n. 731) 746 PROCESSO AREsp 1.964.508-MS, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 29/03/2022, DJe 01/04/2022. RAMO DO DIREITO DIREITO PENAL TEMA Violencia domestica. Crime praticado na presenca de filho menor de idade. Ameaca. Dosimetria. Valoracao negativa da culpabilidade. Cabimento. DESTAQUE Ameacar a vitima na presenca de seu filho menor de idade justifica a valoracao negativa da culpabilidade do agente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a modulação da fração de diminuição de pena do tráfico privilegiado, desde que não seja utilizada para fixação da pena-base. 2. Configura constrangimento ilegal o afastamento do tráfico privilegiado por presunção de que o agente se dedica a atividades criminosas, derivada unicamente da análise da natureza ou da quantidade de drogas apreendidas. 3. Configura constrangimento ilegal a redução da fração de diminuição de pena por esse mesmo e único motivo. 4. Ameaçar a vítima na presença de seu filho menor de idade justifica a valoração negativa da culpabilidade do agente.

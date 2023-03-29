@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Considerando a finalidade criminosa como objeto de valorao da culpabilidade, pode-se concluir que se a pessoa decidiu violar a norma de cuidado, estando consciente de que havia a possibilidade da produo de um resultado ilcito, a exigibilidade social de absteno da conduta perigosa  maior do que na situao em que a pessoa fez atuar sua finalidade sem atingir tal conscincia, quando lhe era possvel atingi-la. Dito de outro modo,  finalidade consciente do carter ilcito do fato corresponde maior exigibilidade social de comportamento diverso e, portanto, reprovao mais severa. 5.9. Exculpao. Estando a reprovao da pessoa fsica intimamente relacionada com o critrio da exigibilidade de conduta diversa, sempre que for inexigvel do indivduo outro comportamento, restar excluda a reprovao jurdica e, consequentemente, a responsabilidade criminal. No estgio atual, a doutrina reconhece ser possvel a excluso da responsabilidade, pela inexigibilidade de outro comportamento, nos casos de incapacidade psquica; incompreenso da ilicitude do fato; coliso de deveres; coao irresistvel; obedincia  ordem de superior hierrquico e estado de necessidade. Vale observar, no entanto, que, sendo a inexigibilidade um princpio geral de Direito, outras hipteses podem ser acrescidas a essas para excluir a responsabilidade. 5.9.1. Inexigibilidade por incapacidade psquica: inimputabilidade. Caracterizada a ocorrncia do injusto, a imputabilidade  o primeiro exame do juzo de reprovao pessoal. Considerando esse fato, alguns autores percebem-na como pressuposto, e no como elemento da culpabilidade. No entanto, posicionar o exame da imputabilidade antes e fora do juzo de culpabilidade no  sistematicamente adequado, j que no existem categorias igualmente antecedentes aos juzos de tipicidade e ilicitude que demonstrem preocupao com a capacidade psquica de formulao da inteno que fundamenta o dolo do tipo ou a capacidade de reconhecer os dados fticos da causa de justificao. Vincular a imputabilidade aos obstculos de natureza psquica que dificultam ou impedem a exigncia de compreenso da norma ou de autodeterminao do indivduo, em razo dessa compreenso, significa enfrentar o tema no mesmo nvel analtico da exigibilidade de compreenso da ilicitude do fato, ou seja, na culpabilidade. Vulgarmente, imputar significa atribuir algo a algum.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A exigibilidade social de abstenção de condutas perigosas é maior quando a pessoa tem consciência do caráter ilícito do fato, resultando em uma repreensão mais severa. A responsabilidade criminal é excluída quando a exigibilidade de outro comportamento é inexigível, como nos casos de incapacidade psicológica, incompreensão da ilicitude do fato, coação irresistível, obediência à ordem de superior hierárquico e estado de necessidade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Vale observar que se fosse definido um certo nmero de repeties para caracterizar a consumao do crime, outras dificuldades se apresentariam. Como saber se, aps a consumao do crime habitual, inicia nova contagem das repeties para a caracterizao de um crime habitual subsequente. Tambm teramos que examinar a possibilidade de reconhecer um crime continuado de crime habitual. Tais questes no encontram resposta adequada na doutrina e as dificuldades tericas repercutem de maneira importante na atuao prtica dos operadores do direito. Considerando especialmente as repercusses prticas decorrentes da soluo dada  questo, parece mais adequado entender que a consumao da perseguio ocorre quando houver um nmero significativo de repeties da conduta (apesar da impreciso que isto importa) e que tal consumao se prolonga para alcanar a reiteraes subsequentes da conduta proibida. O crime de perseguio, assim, pode ter sua consumao prolongada por anos e durante todo este tempo deve ser considerado como um nico crime. Na doutrina h quem sustente que o crime habitual no admite tentativa. No entanto,  perfeitamente possvel que o sujeito ativo do crime inicie a conduta que pretende reiterar e seja impedido de continuar, caracterizando um crime habitual tentado. Veja-se o exemplo daquele indivduo que inicia aplicativo eletrnico programado para violar o perfil da vitima na rede social e postar, reiteradamente, comentrios ameaadores nas postagens da vitima que  interrompido antes que o aplicativo publique um numero significativo de comentrios ofensivos. Deve-se observar, entretanto, outra dificuldade do crime habitual que se apresenta nos casos em que ocorre a interrupo da conduta aps a consumao do crime. Aps verificar-se a consumao, a interrupo da conduta no permite caracterizar apenas a tentativa. Nos intervalos existentes entre as condutas reiteradas, praticadas aps a consumao, no se pode considerar que o crime habitual ainda esteja em execuo. Encerrada uma parcela da conduta proibida (necessariamente constituda por reiterao de condutas consideradas parciais em relao ao contexto), o crime somente prossegue quando novamente iniciada a conduta que se exige reiterada. Esta noo adquire especial importncia no que diz respeito  possibilidade de levar a efeito uma priso em flagrante. Voltando ao exemplo do aplicativo preparado para postar comentrios ofensivos na rede social.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de perseguio pode ter sua consumação prolongada por anos e durante todo este tempo deve ser considerado como um único crime. É possível que o sujeito ativo do crime inicie a conduta que pretende reiterar e seja impedido de continuar, caracterizando um crime habitual tentado. A interrupção da conduta após a consumação não permite caracterizar apenas a tentativa. Esta noção é importante para a possibilidade de levar a efeito uma prisão em flagrante.

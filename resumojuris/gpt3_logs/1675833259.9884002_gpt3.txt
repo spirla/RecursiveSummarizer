@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+319, V, do CPP) deve ser detraido da pena definitiva a ele imposta pelo Estado. Quanto a necessidade do monitoramento eletronico estar associado a medida de recolhimento noturno e nos dias de folga para fins da detracao da pena de que aqui se cuida, tem-se que o monitoramento eletronico (ME) e medida de vigilancia, que afeta os direitos fundamentais, destacadamente a intangibilidade corporal do acusado. E possivel sua aplicacao isolada ou cumulativamente com outra medida. Essa medida e pouco difundida no Brasil, em razao do alto custo ou, ainda, de duvidas quanto a sua efetividade. Outro aspecto importante e o fato de que seu emprego prevalece em fases de execucao da pena (80%), ou seja, nao se destina primordialmente a substituicao da prisao preventiva. Assim, levando em conta a precaria utilizacao do ME como medida cautelar e, considerando que o recolhimento noturno ja priva a liberdade de quem a ele se submete, nao se vislumbra a necessidade de dupla restricao para que se possa chegar ao grau de certeza do cumprimento efetivo do tempo de custodia cautelar, notadamente tendo em conta que o monitoramento eletronico e atribuicao do Estado. Nesse cenario, nao se justifica o investigado que nao dispoe do monitoramento receber tratamento nao isonomico em relacao aquele que cumpre a mesma medida restritiva de liberdade monitorado pelo equipamento. Portanto, deve prevalecer a corrente jurisprudencial inaugurada pela Ministra Laurita Vaz, no RHC 140.214/SC, de que o direito a detracao nao pode estar atrelado a condicao de monitoramento eletronico, pois seria impor ao investigado excesso de execucao, com injustificavel aflicao de tratamento nao isonomico aqueles que cumprem a mesma medida de recolhimento noturno e nos dias de folga monitorados. Ainda, a soma das horas de recolhimento domiciliar a que o reu for submetido devem ser convertidas em dias para contagem da detracao da pena.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O monitoramento eletronico (ME) e uma medida que afeta os direitos fundamentais, destacadamente a intangibilidade corporal do acusado, podendo ser aplicada isolada ou cumulativamente com outra medida. 2. O emprego do ME prevalece em fases de execução da pena, não se destinando primordialmente à substituição da prisão preventiva. 3. Não se justifica o investigado que não dispõe do monitoramento receber tratamento não isonômico em relação aquele que cumpre a mesma medida restritiva de liberdade monitorado pelo equipamento. 4. O direito à detração não pode estar atrelado à condição de monitoramento eletrônico, pois seria impor ao investigado excesso de execução, com injustificável aflicção de tratamento não isonômico. 5. A soma das horas de recolhimento domiciliar a que o réu for submetido devem ser convertidas em dias para contagem da detração da pena.

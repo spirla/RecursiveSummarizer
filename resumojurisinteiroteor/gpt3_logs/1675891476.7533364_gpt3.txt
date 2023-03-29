@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em anlise a preceito semelhante do Cdigo de Processo Penal (CPP) comum, j se decidiu que  constitucional o preceito estabelecido no art. 385 e que a circunstncia de o Ministrio Pblico requerer a absolvio do Acusado, seja como custos legis, em alegaes finais ou em contrarrazes recursais, no vincula o rgo Julgador, cujo mister jurisdicional funda-se no princpio do livre convencimento motivado. Destaco: AO PENAL ORIGINRIA. CRIME DO DECRETO-LEI N 201/67. EMPREGO IRREGULAR DE VERBAS PBLICAS. AUSNCIA DE PROVAS DA OCORRNCIA DO FATO. ABSOLVIO REQUERIDA PELO MINISTRIO PBLICO. 1. As provas produzidas sob o contraditrio demonstram que servidor pblico ocupante de cargo em comisso, nomeado pelo ru, dividiu seu salrio com terceiro, que no integrava a Administrao Pblica Municipal. 2. Contudo, a prpria Procuradoria-Geral da Repblica sustenta que a prova produzida no foi suficiente para demonstrar que a ordem de diviso dos valores tenha partido efetivamente do ru e, por essa razo, requer a sua absolvio. 3. Nesse tipo de delito costuma haver um pacto de silncio entre os envolvidos, todos beneficiados pela ilicitude. Por essa razo, no mais das vezes, o crime ser provado por meios indiretos. 4. O art. 385 do Cdigo de Processo Penal permite ao juiz proferir sentena condenatria, embora o Ministrio Pblico tenha requerido a absolvio. Tal norma, ainda que considerada constitucional, impe ao julgador que decidir pela condenao um nus de fundamentao elevado, para justificar a excepcionalidade de decidir contra o titular da ao penal. No caso concreto, contudo, as parcas provas colhidas pela Procuradoria-Geral da Repblica so insuficientes para justificar a aplicao da norma excepcional.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministrio Pblico requereu a absolvio do acusado de emprego irregular de verbas pblicas, no entanto, as provas produzidas não foram suficientes para comprovar a ocorrência do fato. O art. 385 do Código de Processo Penal permite ao juiz proferir sentença condenatória, no entanto, as provas colhidas são insuficientes para justificar a excepcionalidade de decidir contra o titular da ação penal.

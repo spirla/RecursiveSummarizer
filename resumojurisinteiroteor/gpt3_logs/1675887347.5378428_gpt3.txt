@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A defesa do Tenente PM Antnio Marcos Azevedo pugnou por sua absolvio, nos termos do artigo 439, alnea d, do Cdigo de Processo Penal Militar (CPPM). Subsidiariamente, requereu a aplicao da pena mnima e, ainda, a concesso do benefcio da suspenso condicional da pena (Evento 132). O meritssimo juiz de direito da 4a AJME, no mbito de sua competncia, decidiu, in verbis: [...] condenar o ru, 1 Ten PM Antnio Marcos de Azevedo, pela prtica do crime previsto no art. 209, caput, do CPM. Passo a fixar-lhes a pena, obedecendo-se ao critrio trifsico, nos termos do art. 5, inc. XLVI, da CR e do art. 440, do CPPM. Na fixao da pena-base, levando-se em considerao as circunstncias judiciais estabelecidas no art. 69, do CPM, assim foi examinada a conduta do acusado: a) Da gravidade do crime: o crime  grave, uma vez que praticou leso corporal contra civil de forma deliberada, estando a vtima subjugada e sem condies de reao, circunstncia desfavorvel; b) Em relao  personalidade do ru: nada a considerar; c) A extenso do dano: repercute desfavoravelmente ao ru uma vez que a leso corporal alm de violar a integridade fsica atinge a dignidade e a honra do ser humano, desfavorvel; d) Dos meios empregados: desfavorvel, nada a considerar; e) Modo de execuo: nada a considerar; f) Os motivos determinantes do crime: nada a considerar, eis que ser examinada nas circunstncias agravantes; g) O tempo do crime: desfavorvel ao ru, uma vez que praticou o fato fora do horrio de servio, revelando a intensidade do dolo; h) O lugar do crime: desfavorvel, eis que foi praticado no interior da delegacia de polcia, lugar em que a vtima deveria estar em segurana e sob a proteo do Estado, lhe  desfavorvel; i) Antecedentes do ru: nada a considerar; j) Insensibilidade do crime/ arrependimento aps o crime: nada a considerar. Cotejando-se o conjunto das circunstncias judiciais, fixo a pena em 05 (cinco) meses de deteno. Na segunda fase da aplicao da pena, verifiquei a incidncia da agravante de motivo torpe e abjeto, uma vez que a leso corporal foi perpetrada com o intuito de infringir castigo fsico  vtima por ter discutido com as telefonistas do 190, agindo o ru com o propsito de exibir valentia para com os seus subordinados. Assim, acreso 1/3  pena-base, perfazendo-se o total de 06 (seis) meses e 20 (vinte) dias. Na terceira fase no identifiquei circunstncias agravantes ou atenuantes. Para o regime de cumprimento da pena, por analogia, aplica-se o que estabelece o Cdigo Penal Comum, pelo que fixo o REGIME ABERTO, nos termos do art. 33,  1 alnea c, do Cdigo Penal, conforme jurisprudncia ptria a respeito do tema, crimes culposos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tenente PM Antnio Marcos Azevedo foi condenado pelo crime previsto no artigo 209, caput, do Cdigo Penal Militar (CPPM), com a pena fixada em 05 (cinco) meses de deteno. A agravante de motivo torpe e abjeto foi considerada, acrescentando 1/3 pena-base, perfazendo-se o total de 06 (seis) meses e 20 (vinte) dias. O regime de cumprimento da pena foi fixado como aberto.

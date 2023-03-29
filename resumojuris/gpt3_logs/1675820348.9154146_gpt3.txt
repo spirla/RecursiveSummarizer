@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 5355/DF, relator Min Luiz Fux, julgamento em 10 e 11.11.2021 (INF 1038) Inconstitucionalidade da ascensao funcional e possibilidade de promocao por conclusao de curso de nivel superior - ADI 6355/PE Resumo: E inconstitucional a interpretacao de disposicoes legais que viabilizem a promocao a cargo de nivel superior a servidores que ingressaram por concurso publico para cargo de nivel medio. A equiparacao de carreira de nivel medio a outra de nivel superior constitui ascensao funcional, vedada pelo art. 37, II, da CF/88 (CF). Com base nesse entendimento, o Plenario, por maioria, julgou procedente em parte o pedido para conferir interpretacao conforme a Constituicao ao caput e ao  2 do art. 27, ao art. 30, ao inc. I do art. 32 e ao  1 do art. 61, todos da Lei Complementar 107/2008 do estado de Pernambuco, para reconhecer a inconstitucionalidade de interpretacao desses dispositivos legais que vise possibilitar a promocao, para o cargo de auditor fiscal do tesouro estadual, classe II, aos servidores publicos que ingressaram por concurso nos cargos de nivel medio existentes antes da vigencia da Lei 11.562/1998, modulando os efeitos dessa decisao para preservar as promocoes concedidas e os atos administrativos praticados ate a publicacao do presente acordao. Vencido parcialmente o ministro Marco Aurelio apenas no tocante a projecao dos efeitos da decisao. ADI 6355/PE, relatora Min. Carmen Lucia, julgamento virtual finalizado em 28.5.2021 (sexta-feira), as 23:59 (INF 1019) Isonomia e instituicao de subtetos remuneratorios diferenciados para entes federativos distintos  ADI 3855/DF e ADI 3872/DF Resumo: A instituicao de subtetos remuneratorios com previsao de limites distintos para as entidades politicas, bem como para os Poderes, no ambito dos estados e do Distrito Federal nao ofende o principio da isonomia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a interpretação de disposições legais que viabilizem a promoção a cargo de nível superior a servidores que ingressaram por concurso público para cargo de nível médio. 2. A equiparação de carreira de nível médio a outra de nível superior constitui ascensão funcional, vedada pelo art. 37, II, da CF/88. 3. A instituição de subtetos remuneratórios com previsão de limites distintos para as entidades políticas, bem como para os Poderes, no âmbito dos estados e do Distrito Federal não ofende o princípio da isonomia.

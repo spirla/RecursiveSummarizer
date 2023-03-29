@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alem disso, e admissivel, por ser possivel ser refutada - seja porque ha indicacao das fontes originarias dos depoimentos, preservando a cadeia de custodia, seja porque os assistentes tecnicos puderam contestar sua cientificidade no curso do processo. No entanto, cumpre repisar que se trata de prova ainda nao padronizada pela comunidade cientifica e erigida, inegavelmente, em aspectos subjetivos - limitando-se a concluir, no caso sub judice, ser pouco provavel a ocorrencia de suicidio. Assim, incumbira aos jurados, juizes naturais da causa, realizar o cauteloso cotejo do referido laudo com o restante do acervo probatorio acostado aos autos. (Informativo  Ed. Especial n. 10) CPP, art. 3 CPC, art. 369 CPP Militar, art. 295 117 Processo REsp 1.958.753-SP, Rel. Ministra Laurita Vaz, Sexta Turma, por unanimidade, julgado em 14/9/2022, DJe 30/9/2022. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Peculato. Pericia. Indeferimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É admissível a prova pericial no processo penal, desde que haja indicação das fontes originárias dos depoimentos e preservação da cadeia de custódia, ou seja, que os assistentes técnicos possam contestar sua cientificidade no curso do processo. 2. A prova pericial ainda não é padronizada pela comunidade científica e é erigida em aspectos subjetivos. 3. É incumbência dos jurados realizar o cauteloso cotejo do referido laudo com o restante do acervo probatório acostado aos autos.

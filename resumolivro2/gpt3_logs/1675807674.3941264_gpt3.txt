@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Assim, se no primeiro teste, a medida j se revelar inadequada (inidnea), no se passar ao exame subsequente da necessidade. Da se enfatizar que a medida cautelar a ser adotada deve ser proporcional a eventual resultado favorvel ao pedido do autor, no sendo admissvel que a restrio  liberdade, durante o curso do processo, seja mais severa que a sano que ser aplicada caso o pedido seja julgado procedente. Leciona Gustavo Badar que a imposio de alguma medida cautelar, seja ela pessoal ou real, ser sempre imperativo verificar, por primeiro, se h necessidade de tal medida e, sendo imprescindvel a sua imposio, em um segundo momento, buscar entre as medidas possveis a mais adequada, entendida esta, como a que impe uma restrio menos gravosa ao direito do acusado a ser afetado pela medida cautelar. 11.2.3.8.1. Exame da necessidadeExamina-se se a medida cautelar  necessria para aplicao da lei penal, para a investigao ou a instruo criminal e, nos casos expressamente previstos, para evitar a prtica de infraes penais (artigo 282, I, CPP), ou seja, tem carter instrumental, eis que  voltada  aplicao da lei penal ou  investigao formalmente instaurada ou  instruo criminal e para evitar novas infraes penais. No que tange  priso preventiva o CPP a reduz s situaes previstas no caput do artigo 313:
+I - nos crimes dolosos punidos com pena privativa de liberdade mxima superior a 4 (quatro) anos;
+II - se tiver sido condenado por outro crime doloso, em sentena transitada em julgado, ressalvado o disposto no inciso I do caput do artigo 64 do Decreto-Lei 2.848, de 7 de dezembro de 1940 - Cdigo Penal;
+III - se o crime envolver violncia domstica e familiar contra a mulher, criana, adolescente, idoso, enfermo ou pessoa com deficincia, para garantir a execuo das medidas protetivas de urgncia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A medida cautelar a ser adotada deve ser proporcional ao resultado favorável ao pedido do autor. O exame da necessidade de tal medida deve ser verificado para aplicação da lei penal, investigação ou instrução criminal. A prisão preventiva é reduzida a situações previstas no artigo 313 do Código de Processo Penal, como crimes dolosos punidos com pena superior a 4 anos, condenação por outro crime doloso ou violência doméstica.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ministro OG FERNANDES, PRIMEIRA SEO, julgado em 14/08/2019, DJe 19/08/2019). Feita essa breve considerao, na hiptese concreta dos autos, pela anlise da fundamentao da sentena rescindenda, no resta caracterizado o erro de fato. O autor assevera que a sentena deixou de apreciar os fatos efetivamente demonstrados no caderno processual, pois a tese apresentada na inicial de que os fatos descritos na portaria do PAD seriam exatamente iguais aos fatos apurados na esfera administrativa (sic) foram colacionadas e cabalmente demonstradas, sendo que o magistrado destacou justamente o contrrio na sentena de mrito. Cita, ento, o seguinte trecho da sentena: [.] Da mesma forma, no h qualquer ilegalidade ou imposio para que o PAD seja sobrestado at o julgamento na esfera criminal. Vale destacar que, apenas nos casos em que a portaria do PAD mencione ou descreva fato, que seja objeto de apurao administrativa idntico a fato crime, pode-se cogitar tal hiptese, o que no  o caso dos autos. [.] Da leitura da r. sentena, percebe-se nitidamente que o MM. juiz a quo rejeitou a ilegalidade do ato administrativo demissional suscitada pelo autor na ao que deu ensejo  deciso rescindenda, com base no princpio da independncia das instncias (administrativa/criminal). Para melhor elucidao, transcrevo os fundamentos da r. sentena rescindenda, na parte que cuidou da ilegalidade em questo: [.] O autor afirma que o ato demissionrio foi ilegal, uma vez que no aguardou a repercusso dos fatos na esfera criminal. A No assiste razo ao autor, eis que as esferas criminal e administrativa so independentes, exatamente por isso, denomina-se transgresso disciplinar residual. Como dito, no h que falar ou condicionar que a Administrao Militar aguarde o trmite criminal, para que possa exarar deciso segundo a convenincia e oportunidade que os fatos impem. Neste sentido, cedio o entendimento jurisprudencial a respeito da separao das instncias judicial e administrativa. Da mesma forma, no h qualquer ilegalidade ou imposio para que o PAD seja sobrestado at o julgamento na esfera criminal. Vale destacar que, apenas nos casos em que a portaria do PAD mencione ou descreva fato, que seja objeto de apurao administrativa idntico a fato crime, pode-se cogitar tal hiptese, o que no  o caso dos autos. Registre-se que o nosso ordenamento jurdico permite que um mesmo fato seja responsabilizado em 3 esferas distintas: administrativa, penal e cvel. A regra da independncia das instncias administrativa e penal  mitigada em duas hipteses, quando reconhecida a inexistncia do fato ou a negativa de autoria na esfera criminal. Nesse sentido,  consolidado o entendimento jurisprudencial.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministro OG FERNANDES da Primeira Seção julgou que não resta caracterizado o erro de fato na sentença rescindenda, pois a sentença rejeitou a ilegalidade do ato administrativo demissional, com base no princípio da independência das instâncias (administrativa/criminal). O entendimento jurisprudencial é de que a regra da independência das instâncias administrativa e penal é mitigada em duas hipóteses, quando reconhecida a inexistência do fato ou a negativa de autoria na esfera criminal.

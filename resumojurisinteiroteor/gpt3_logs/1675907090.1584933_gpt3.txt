@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+NECESSIDADE DE REEXAME DE PROVAS. REGRA DE EXCLUSO (EXCLUSIONARY RULE) DAS PROVAS DERIVADAS DAS ILCITAS. TEORIA DA DESCOBERTA INEVITVEL (INEVITABLE DISCOVERY). CONQUANTO FOSSE POSSVEL DECOTAR A PROVA RELATIVA AOS DADOS ARMAZENADOS NO TELEFONE. PERSISTNCIA DE ELEMENTOS PROBATRIOS SUFICIENTES PARA MANTER A CONDENAO. ADOO DE ENTENDIMENTO DIVERSO REQUER A VERTICALIZAO DA PROVA. MEDIDA OBSTADA NO MBITO DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO. [...] II Pedido de Nulidade. Acesso a mensagens telefnicas. art. 5, XII, da Constituio da Repblica e art. 1, pargrafo nico, da Lei n. 9.296/96. A mens legislatoris, como se depreende, tratou de salvaguardar quatro liberdades: a comunicao de correspondncia, telegrfica, de dados e a comunicao telefnica. Assinale-se que os dados armazenados nos aparelhos celulares decorrentes de envio ou recebimento de dados via mensagens SMS, programas ou aplicativos de troca de mensagens (dentre eles o WhatsApp), ou mesmo por correio eletrnico, dizem respeito  intimidade e  vida privada do indivduo, sendo, portanto, inviolveis, nos termos do art. 5, X, da Constituio Federal. III - Na hiptese em foco, o relato que h no aresto impugnado  de que os policiais solicitaram ao menor e ao paciente acesso aos seus celulares, os quais permitiram que os agentes da lei verificassem o teor dos dados ali contidos. Ressalte-se que em nenhum momento se verifica coao ou uso da fora, a fim de que o paciente disponibilizasse o acesso de seu aparelho celular aos policiais. Portanto, no h ilegalidade a ser reconhecida.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Acesso a mensagens telefnicas, armazenadas em aparelhos celulares, está protegido pelo art. 5, X, da Constituição Federal, sendo inviolável. Não houve ilegalidade na solicitação de acesso aos dados armazenados, pois não houve uso de coação ou da força.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Requereu tambm o deferimento dos benefcios da justia gratuita, e que, ao final da ao, fossem acolhidas as preliminares levantadas, bem como fosse anulada a punio disciplinar e que "[...] seja determinado o pagamento da remunerao que o autor deixou de auferir em razo da demisso, garantindo assim, o ressarcimento pela preterio e a condenao do ru ao pagamento de custas e honorrios sucumbenciais. O valor da causa foi estabelecido em R$ 5.001,70 (cinco mil e um reais e setenta centavos), valor da ltima remunerao percebida pelo ora apelante antes de sua excluso. O juiz de primeiro grau de jurisdio recebeu a petio inicial, deferiu os benefcios da justia gratuita, indeferiu o pedido de antecipao de tutela e determinou a citao do ru. Devidamente citado, o Estado de Minas Gerais apresentou contestao (Evento 21), argumentando que no houve qualquer prejuzo pelo fato de a reunio do Conselho de tica e Disciplina ter sido realizada na sala da Diretoria de Finanas, mencionando o art. 499 do Cdigo de Processo Penal Militar (CPPM). Disse ainda o Estado de Minas Gerais que o autor se fez presente na reunio do Conselho de tica e Disciplina e que, naquele momento, deixou de arguir a alegada irregularidade ou qualquer outro fato que pudesse levar a suspeio, impedimento ou ilegalidade na realizao do ato. Aduziu o Estado de Minas Gerais que a reunio ocorreu na sala da Diretoria de Finanas, tendo em vista que outro militar tambm figurava como processado no mesmo PAD e que os integrantes do Conselho estavam de posse dos autos do PAD e, por isso, conheciam todos os fatos imputados ao ora apelante. Argumentou tambm o ora apelado que inexiste qualquer ilegalidade na Lei n. 23.629/2020, que suspendeu os prazos prescricionais, e que a Administrao Pblica atuou com lisura e transparncia, em estrita observncia ao princpio da legalidade. Com tais argumentos, pretendeu o Estado de Minas Gerais que fosse a presente ao julgada improcedente, bem como fosse o ento autor condenado ao pagamento de honorrios sucumbenciais. O ora apelante impugnou, no Evento 25, a contestao apresentada, requerendo o acolhimento de suas pretenses. Determinada a especificao de provas, o Estado de Minas Gerais requereu o julgamento da ao no estado em que se encontrava. J o ora apelante requereu que fosse intimada a administrao militar para: certificar ao nclito juzo se na data da demisso, quando efetivada/ativada a punio disciplinar, foi o autor intimado/notificado do inteiro teor da Deciso do Excelentssimo Senhor Governador do Estado exarada no "Despacho Administrativo em Recurso Disciplinar de Protocolos 59/2020 e 60/2020, ou apenas foi intimado/notificado do desprovimento do Recurso Administrativo publicado no Dirio Oficial.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O autor requereu o deferimento dos benefícios da justiça gratuita, a anulação da punição disciplinar e o pagamento da remuneração que deixou de auferir em razão da demissão, condenando o réu ao pagamento de custas e honorários sucumbenciais. O Estado de Minas Gerais apresentou contestação, alegando que não houve prejuízo e que a reunião do Conselho de Ética e Disciplina ocorreu na sala da Diretoria de Finanças. O autor impugnou a contestação, requerendo a intimação da administração militar para certificar se foi intimado do inteiro teor da decisão do Governador do Estado.

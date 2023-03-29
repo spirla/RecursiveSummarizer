@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Entenda-se por lugar da infrao o local em que se consumou o crime;
+no caso de crime tentado a competncia  do lugar onde foi praticado o ltimo ato de execuo. A regra  composta por duas oraes separadas por ponto e vrgula. A segunda orao refere no caso de tentativa a competncia  determinada pelo lugar em que for praticado o ltimo ato de execuo. O CPPM adotou a teoria do resultado, que facilita a colheita e obteno de provas, uma vez que os vestgios do delito permanecem no local em que o crime se consumou ou foi tentado. Como leciona Hlio Tornaghi, nenhum juiz  mais indicado para conhecer de um crime do que o da localidade na qual ocorreu a infrao. A LOJMU (item 8.2.1.) divide o territrio em Circunscrio Judiciria, que corresponde a 1 (uma) Auditoria, excetuadas a 1 CJM que tem 4 (quatro) Auditorias, a 3 CJM 3 (trs) Auditorias e a 2 e a 11 CJM 2 (duas) Auditorias. Assim, a competncia territorial do juiz federal da Justia Militar, pelo local da infrao,  determinada pela circunscrio da Auditoria. Crimes militares cometidos a bordo de navio. O artigo 89 do CPPM  composto de duas partes:
+Os crimes cometidos a bordo de navio ou embarcao sob comando militar ou militarmente ocupado em porto nacional, nos lagos e rios fronteirios ou em guas territoriais brasileiras, sero, nos dois primeiros casos, processados na Auditoria da Circunscrio Judiciria correspondente a cada um daqueles lugares. A primeira parte refere-se aos dois primeiros casos - os crimes foram cometidos a bordo de navio ou embarcao sob comando militar ou militarmente ocupado em porto nacional e lagos - nestes casos  competente a Auditoria da Circunscrio Judiciria correspondente a cada um daqueles lugares. Por exemplo:
+o crime militar foi praticado a bordo de navio sob comando militar no porto da cidade do Rio de Janeiro ser competente uma das Auditorias da 1 CJM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A competência territorial do juiz federal da Justiça Militar é determinada pela circunscrição da Auditoria. No caso de crime tentado, a competência é determinada pelo lugar em que foi praticado o último ato de execução. Crimes militares cometidos a bordo de navio ou embarcação sob comando militar ou militarmente ocupado em porto nacional, nos lagos e rios fronteirios ou em águas territoriais brasileiras são processados na Auditoria da Circunscrição Judiciria correspondente a cada um daqueles lugares.

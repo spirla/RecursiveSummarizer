@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(AgRg no REsp 1627502/RO, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2017, DJe 01/12/2017). No caso analisado, tem-se que a fundamentacao adota pela Corte estadual, no sentido de que menoridade nao se encaixa nas hipoteses de preponderancia previstas no art. 67 do CP, nao deve prevalecer. Assim, havendo agravante reconhecida pelo conselho de sentenca (motivo futil), com uma atenuante preponderante - menoridade do reu -, a pena nao deve sofrer alteracao na segunda fase da dosimetria da pena. Nesse norte: AREsp 1085046/SP, Ministro Reynaldo Soares da Fonseca, julgado em 14/12/2017, DJe 18/12/2017. (Informativo  Ed. Especial n. 7) CP (CP/1940), art. 67. PRECEDENTES QUALIFICADOS REsp 1.341.370/MT, Rel. Min. Sebastiao Reis Junior, Terceira Secao, por unanimidade, julgado em 10/04/2013, DJe 17/04/2013 (Tema 585) Processo AgRg no HC 735.572-RS, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O reconhecimento de agravante pelo conselho de sentença, ainda que presente motivo futil, não deve alterar a pena na segunda fase da dosimetria da pena, quando houver atenuante preponderante, como a menoridade do réu. 2. O artigo 67 do Código Penal/1940 prevê hipóteses de preponderância. 3. O entendimento de que menoridade não se encaixa nas hipóteses de preponderância previstas no artigo 67 do Código Penal/1940 não deve prevalecer.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ao final, requereu o provimento do recurso de apelao, nos termos do art. 439, "a, do CpPm, para que seja reformada a sentena de primeiro grau e absolvido o apelante. Em contrarrazes ao apelo defensivo (Evento n. 70), a Promotora de Justia atuante na Promotoria de Justia Especializada de Defesa dos Direitos Humanos de Belo Horizonte/MG combateu as alegaes defensivas, aduzindo que no h prova capaz de sustentar um decreto condenatrio, todavia, ante os elementos de convico produzidos, no se mostra possvel afirmar categoricamente que o crime de tortura inexistiu. Disse que a materialidade do crime posto em anlise, de fato, restou fragilizada, considerando a ausncia de Laudo de Exame de Corpo de Delito ou de qualquer outro documento que comprovasse leses de modo a sugerir a ocorrncia de eventual tortura. Disse, ainda, que no se verifica na deciso de primeiro grau carncia de fundamentao apta a corroborar a alegao utilizada pela defesa para justificar a no ocorrncia do crime de tortura, at porque a notcia de agresso e tortura por parte do ru partiu dos seus prprios colegas de profisso, muito embora realmente houvesse um desentendimento pessoal entre estes e o acusado, o que, obviamente, fragiliza as declaraes prestadas pelos militares denunciante. Por fim, ponderou que negar a existncia do fato  ir alm do que as evidncias mostram, uma vez que, mesmo no tendo sido produzidas provas suficientes para sustentar a condenao, os depoimentos dos militares denunciantes e as declaraes da vtima afastam a fundamentao da absolvio na alnea "a do art. 439 do CPPM, impondo dvidas e, em consequncia, a aplicao do princpio in dubio pro reo, com a absolvio amparada no art. 439, alnea "e, do CPPM. Ao final, pugnou "pelo conhecimento do recurso interposto, posto que prprio e tempestivo para, no mrito, negar provimento ao apelo, mantendo-se a r. sentena condenatria, por seus prprios e jurdicos fundamentos.. A douta Procuradora de Justia oficiante neste Tribunal emitiu parecer, alegando que: [...] Muito embora se trate de recurso tempestivo e devidamente processado, no se encontra presente o interesse por parte do apelante, o que torna a forma recursal imprpria e as partes ilegtimas. Isso porque, tendo sido decretada a absolvio pura e simples do ru, sem qualquer ressalva, a deciso no lhe gerou sucumbncia alguma, que  exatamente a desconformidade entre o que foi pleiteado e o que foi concedido. [.] Afirmou que, "reconhecendo-se o interesse em recorrer como decorrente da sucumbncia, que, no caso concreto, inexistiu diante do decreto absolutrio, restou ausente um dos pressupostos recursais. Desse modo, a eminente Procuradora, preliminarmente, opinou pelo no conhecimento da apelao da defesa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O apelante requereu o provimento do recurso de apelao para que seja reformada a sentena de primeiro grau e absolvido o acusado. A Promotoria de Justia discordou, alegando que, embora os elementos de convico produzidos no sejam suficientes para sustentar um decreto condenatrio, a notcia de agresso e tortura por parte do ru partiu dos seus prprios colegas de profisso. A Procuradora de Justia opinou pelo no conhecimento da apelao da defesa, pois a deciso de primeiro grau decretou a absolvio pura e simples do ru, sem qualquer ressalva, ausentando um dos pressupostos recursais.

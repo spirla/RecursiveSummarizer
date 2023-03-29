@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 776594/SP, relator Ministro Dias Toffoli, julgamento virtual finalizado em 2.12.2022 (sexta-feira), as 23:59 Parametros para o calculo das custas judiciais e emolumentos - ADI 2846/TO ODS: 10 e 16 Resumo: E valida a cobranca das custas judiciais e emolumentos tendo por parametro o valor da causa ou do bem ou negocio objeto dos atos judiciais e extrajudiciais, desde que definidos limites minimo e maxi-mo e mantida uma razoavel e proporcional correlacao com o custo da atividade. Na linha da jurisprudencia desta Corte, essa forma de calculo e plenamente admitida, visto que os pa-rametros fixados nao constituem a base de calculo da taxa respectiva, mas apenas um criterio para a sua inci-dencia, haja vista ser impossivel aferir, em cada caso, o efetivo custo do servico. Ademais, inexiste violacao a garantia constitucional de prestacao jurisdicional e ao acesso a Justica, visto que a lei permite ao juiz, em cada caso concreto, verificar a necessidade da concessao do beneficio da justica gratuita e, consequentemente, isentar a parte do pagamento das custas judiciais. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente a acao para declarar a constitucionalidade da Lei 1.286/2001 do Estado do Tocantins. ADI 2846/TO, relator Ministro Ricardo Lewandowski, julgamento virtual finalizado em 13.9.2022 (sexta-feira), as 23:59 (INF 1067) Taxas de fiscalizacao da atividade de mineracao - ADI 4785/MG, ADI 4786/PA e ADI 4787/AP ODS: 12, 15, 16 e 17 Resumo: E constitucional a instituicao, por meio de lei estadual, de taxas de controle, monitoramento e fiscalizacao de atividades de pesquisa, lavra, exploracao e aproveitamento de recursos minerarios (TFRM).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É válida a cobrança de custas judiciais e emolumentos com base no valor da causa ou do bem ou negócio objeto dos atos judiciais e extrajudiciais, desde que definidos limites mínimo e máximo e mantida uma razoável e proporcional correlação com o custo da atividade. 2. É constitucional a instituição, por meio de lei estadual, de taxas de controle, monitoramento e fiscalização de atividades de pesquisa, lavra, exploração e aproveitamento de recursos minerais.

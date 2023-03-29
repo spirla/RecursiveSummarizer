@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+As testemunhas arroladas pela acusao foram ouvidas por meio de carta precatria, sendo as seguintes: Jeferson Ferreira de Almeida (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 9, e VDEO4 do Evento 5); Antnio Gonalves Dutra (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 10, e VDEO2 do Evento 5); Maria de Ftima Dutra (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 11, e VDEO2 do Evento 5); e Geraldo Gonalves Dutra (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 12, e VDEO1 do Evento 5). O Ministrio Pblico desistiu da oitiva da senhora Terezinha Gonalves de Jesus e de Letcia Dolane Gonalves e Silva (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 22). As testemunhas arroladas pela defesa dos militares foram ouvidas, sendo as seguintes: Rafael Vitorino Ferreira (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 70, e UDIO/VDEO1 do Evento 3); Jasmo Antnio Braga (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 127, e VDEO1 do Evento 4); Joo Augusto de Oliveira (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 132). A defesa dispensou a oitiva das testemunhas Jos das Dores Leite e Joo Antnio Sanches Braga Rafael Vitorino Ferreira (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 125). Os rus foram interrogados, o 2 Sgt PM Joo Fidelis Mendes (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 152, e UDIO/VDEO2 do Evento 3) e o Sd Danilo Pena Braga (Termo de Evento 2 - PEAS DIGITALIZADAS7, pgina 154, e UDIO/VDEO3 do Evento 3). A instruo criminal transcorreu regularmente nesta Justia Militar, conforme se v nos Eventos 2 a 198. Em julgamento realizado em 19 de janeiro de 2022 (Evento 201), em deciso monocrtica, a meritssima juza de direito da 3a AJME condenou o 3 Sgt QPR Joo Fidelis Mendes e o Sd Danilo Pena Braga  pena de 2 (dois) anos de recluso, acrescida de 3 (trs) meses pela agravante do art. 70, II, "g (abuso de poder) e "l (estando de servio), do Cdigo de Processo Penal Militar (CPPM) e ainda, aplicou o aumento de 1/6, ou seja, 4 (quatro) meses e 15 (quinze) dias, em virtude da causa prevista no art. 1, 4, I (se o crime for cometido por agente pblico), da Lei n. 9.455/97, tornando em definitivo, para ambos os militares, a pena de 2 (dois) anos, 7 (sete) meses e 15 (quinze) dias, a serem cumpridas em regime aberto. Inconformados com o decreto condenatrio, os ilustres advogados recorreram (Evento 209 e 211). A defesa do 2 Sgt QPR Joo Fidelis Mendes, em suas razes recursais (Evento 218), preliminarmente, suscita a incidncia da prescrio da pretenso punitiva do Estado e a nulidade do feito em virtude do cerceamento de defesa por inpcia da denncia, considerando a ausncia de individualizao das condutas dos denunciados.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público arrolou testemunhas e a defesa dos réus dispensou a oitiva de algumas. Os réus foram interrogados e a instrução criminal transcorreu regularmente. Em julgamento, os réus foram condenados a 2 (dois) anos de reclusão acrescida de 3 (três) meses pela agravante do art. 70, II, "g (abuso de poder) e "l (estando de serviço), do Código de Processo Penal Militar (CPPM). A defesa recorreu alegando prescrição da pretenção punitiva do Estado e nulidade do feito em virtude de cerceamento de defesa por inpcia da denúncia.

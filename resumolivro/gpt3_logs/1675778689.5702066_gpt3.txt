@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+1 DA LEI FEDERAL N. 9.296/96. PRECEDENTE. VOTO VENCIDO. Dados obtidos em interceptacao de comunicacoes telefnicas e em escutas ambientais, judicialmente autorizadas para producao de prova em investigacao criminal ou em instrucao de processo penal, podem ser usados em procedimento administrativo disciplinar, contra a mesma ou as mesmas pessoas em relacao as quais foram colhidos, ou contra outros servidores cujos supostos ilicitos teriam despontado a colheita dessa prova. (STF: Inq 2424 QO/RJ - Seg. Quest. Ord. em inquerito, Re. Min. Cezar Peluso. julgado em 20/06/2007 - Tribunal Pleno). Agora, destacamos, os aludidos julgados se referem a prova emprestada como sendo aquela que e transportada do processo criminal para o administrativo. Por essa razao tem-se a necessidade da autorizacao da autoridade judicial condutora do processo criminal. Nesse sentido, explicando o conceito juridico de prova emprestada, assim se manifestou o TJM-MG:
+APELACAO CIVEL - ACAO ANULATORIA DE ATO ADMINISTRATIVO E DE PROCESSO ADMINISTRATIVO-DISCIPLINAR (PAD) - INQUERITO POLICIAL N. 771/2015 - RELATORIO DE INVESTIGACAO PRELIMINAR N. 115.260/17-CPM - ACAO PENAL N. 0609012-21.2016.8.13.0024 - AS PROVAS PRODUZIDAS NOS PROCEDIMENTOS ADMINISTRATIVOS INQUISITORIAIS FORAM SUBMETIDAS AO CRIVO DO CONTRADITORIO E DA AMPLA DEFESA NO PAD - CUMPRIMENTO DO DEVIDO PROCESSO LEGAL - SENTENCA MANTIDA - RECURSO A QUE SE NEGA PROVIMENTO. - A prova emprestada deve ter origem no processo penal para o administrativo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei Federal n. 9.296/96 permite o uso de dados obtidos em interceptações telefônicas ou escutas ambientais autorizadas judicialmente em procedimentos administrativos disciplinares. Estas provas devem ter origem no processo penal para o administrativo e devem passar pelo crivo do contraditório e da ampla defesa.

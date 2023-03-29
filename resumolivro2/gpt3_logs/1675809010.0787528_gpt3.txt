@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Assim a definiu Frederico Marques:
+confisso, sob o aspecto processual,  um testemunho duplamente qualificado:
+do ponto de vista objetivo, porque recai sobre fatos contrrios ao interesse de quem confessa;
+e do ponto de vista subjetivo, porque provm do prprio ru. O acusado  uma testemunha de suas aes, nada obstante existam aspectos jurdicos e psicolgicos, que distinguem o interrogatrio do depoimento da testemunha. Vale acrescentar que quem confessa no pode ser uma terceira pessoa estranha, como o  a testemunha. O ato de testemunhar pressupe o testemunho desinteressado com o desfecho da causa penal e compromissado na forma da lei. O testemunho provm de quem no  parte no processo, ou seja, de quem no tem interesse, enquanto a confisso  sempre um ato de quem  parte naquele. Sustenta, com inteira razo, Greco Filho que a confisso  a prpria prova, consistente no reconhecimento da autoria por parte do acusado, e que o interrogatrio  meio de prova em que ela pode ocorrer. Todavia, tem sido tradicionalmente tratada nos cdigos como meio de prova. No CPPM a confisso est situada no Ttulo XV dos atos probatrios. 14.2.2.2. Espcies de confisso. A confisso  classificada como prova direta, histrica, pessoal e semiplena. A confisso  uma prova direta por visar imediatamente o fato.  uma prova histrica, pois dispensa o julgador de raciocnio crtico,  uma prova pessoal, porque  sempre feita pela pessoa do acusado e, quanto ao resultado, a confisso  uma prova semiplena, cujo valor depende de outras provas para o cabal convencimento do julgador.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A confissão é um ato processual qualificado, pois é contrário ao interesse do acusado e provém dele mesmo. É classificada como prova direta, histórica, pessoal e semiplena, sendo que seu valor depende de outras provas para o cabal convencimento do julgador.

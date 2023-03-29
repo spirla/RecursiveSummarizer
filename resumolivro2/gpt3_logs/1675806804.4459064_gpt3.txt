@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 115 da Lei Orgnica do Ministrio Pblico do Estado de So Paulo (Lei Complementar 734, de 26.11.1996), por exemplo, estabelece que os conflitos de atribuio so decididos pelo Procurador-Geral de Justia. Nos julgamentos das ACOs 924 e 1.394 o STF julgou-se incompetente para conhecer de conflito de atribuies entre membros do Ministrio Pblico Militar da Unio e dos Estados, posto ser sua competncia originria excepcional e no passvel de ser ampliada. Os autos foram remetidos ao procurador-geral da Repblica. A partir dessa recente orientao do STF a soluo do conflito de atribuio passou a ser atribuio do PGR. 9.5. Assistente de acusao. O ofendido, seu representante legal e seu sucessor podem habilitar-se a intervir no processo como assistentes do Ministrio Pblico (artigo 60, CPPM). O ofendido  a pessoa fsica que sofre a ao delituosa perpetrada pelo indiciado ou acusado, ainda que o sujeito passivo primrio seja o Estado ou Administrao Militar, por exemplo, no crime de concusso. Se houver mais de um ofendido na mesma ao penal  possvel que cada um deles se habilite. Ofendido, se acusado no mesmo processo, no poder intervir como assistente, salvo se absolvido por sentena passada em julgado (artigo 64, CPPM). So representantes do ofendido o ascendente ou descendente, tutor ou curador do ofendido, se menor de dezoito anos ou incapaz e sucessor, em caso de morte, seu ascendente, descendente ou irmo (artigo 60, pargrafo nico, CPPM). O cnjuge no foi includo. Qualquer deles, com excluso dos demais, pode exercer o encargo ou constituir advogado para esse fim (parte final do artigo 60, pargrafo nico, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei Orgânica do Ministério Público do Estado de São Paulo (Lei Complementar 734, de 26.11.1996) estabelece que os conflitos de atribuição sejam decididos pelo Procurador-Geral de Justiça. O STF julgou-se incompetente para conhecer de conflitos de atribuições entre membros do Ministério Público Militar da União e dos Estados, sendo a solução do conflito de atribuição atribuída ao Procurador-Geral da República. O ofendido, seu representante legal e sucessor podem intervir no processo como assistentes do Ministério Público. Representantes do ofendido são ascendentes ou descendentes, tutor ou curador do ofendido, se menor de dezoito anos ou incapaz e sucessor, em caso de morte, seu ascendente, descendente ou irmão.

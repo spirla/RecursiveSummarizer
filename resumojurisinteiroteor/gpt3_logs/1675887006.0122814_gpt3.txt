@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Posteriormente, o denunciado determinou a um dos policiais que puxasse a ficha do folgado, sendo que ao constatar que no havia nenhuma irregularidade, prendeu a vtima por suposto desacato e desobedincia (Evento 4 - DENUNCIA2 - Processo Originrio) A denncia foi recebida no dia 2 de maio de 2019, pelo juzo da 2a Auditoria Judiciria Militar Estadual (AJME) (Evento 4 - RECE DENUN4 - Processo Originrio). O ru foi devidamente citado em 18 de junho de 2019 (Evento 4 - PROCJUDIC5 - p. 21 - Processo Originrio). Em audincia preliminar, realizada em 11 de julho de 2019, o acusado recusou a proposta de transao penal ofertada pelo Ministrio Pblico (Evento 4 - PROCJUDIC5 - p. 22 - Processo Originrio). Em audincia de instruo, ocorrida em 2 de setembro de 2019, o juiz de direito admitiu o assistente da acusao, bem como realizou o interrogatrio do ru e a oitiva do ofendido e de 2 (duas) testemunhas arroladas pela acusao, salientando-se que todas as declaraes foram colhidas por meio de gravao eletrnica. Na oportunidade, o Ministrio Pblico desistiu da oitiva da testemunha Adriana Aparecida Rezende, em razo da notcia de que ela estaria em Portugal, mas requereu a juntada de prova emprestada, uma vez que ela teria prestado depoimento sobre esses mesmos fatos no Processo n. 0100209-93.2017.8.13.0114, que imputava  vtima o delito de desacato, o qual tramitou no Juizado Especial Criminal da Comarca de Ibirit/MG. O juiz de direito deferiu o pedido formulado pelo parquet, bem como determinou que fossem solicitadas quele juzo cpias da denncia, dos depoimentos e da sentena (Evento 4 - PROCJUDIC5 - p. 49; Eventos 5 e 6 - Processo Originrio). Foi determinada a migrao do processo fsico para o meio eletrnico (Evento 4 - DESP6 - p.2 - Processo Originrio). Somente no dia 29 de junho de 2021 foram encaminhadas a este juzo as cpias das peas solicitadas do Processo n. 010020993.2017.8.13.0114 (Evento 24 - Processo Originrio). Na fase do art. 427 do Cdigo de Processo Penal Militar (CPPM), o Ministrio Pblico, o assistente da acusao e a defesa nada requereram (Eventos 28, 34 e 42 - Processo Originrio). Em alegaes finais escritas, o Ministrio Pblico sustentou estar comprovada a autoria e a materialidade do delito de leso corporal leve e requereu a condenao do acusado nos termos da denncia (Evento 47 - Processo Originrio), o que foi ratificado pelo assistente da acusao (Evento 50 - Processo Originrio). A defesa do acusado, em alegaes finais, preliminarmente, sustentou que a sesso de julgamento tem que ser realizada exclusivamente na modalidade oral, nos moldes do art. 431 e seguintes do CPPM. No mrito, pleiteou a absolvio do ru, por considerar que ele no foi o autor dos fatos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito admitiu o assistente da acusação, bem como realizou o interrogatório do réu e a oitiva do ofendido e de duas testemunhas arroladas pela acusação. O Ministério Público requereu a juntada de prova emprestada de um processo anterior, o qual foi deferido. Em alegações finais, o Ministério Público requereu a condenação do acusado e o assistente da acusação ratificou tal pedido. A defesa do acusado, por sua vez, pleiteou a absolvição do réu.

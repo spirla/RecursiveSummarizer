@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Isto porque nao e a condicao de pessoa fisica que coloca o produtor rural na situacao de contribuinte, mas a condicao de organizar-se factualmente como empresa. Consoante a Instrucao Normativa RFB n. 1.863/2018, norma vigente que dispoe sobre o Cadastro Nacional da Pessoa Juridica (CNPJ), o que move o CNPJ e o interesse cadastral da RFB ou dos convenentes. Desta forma, ha inscricoes que se traduzem em mera formalidade adotada para fins de controle dos orgaos publicos, o que nao significa que a entidade inscrita assuma feicao empresarial ou de pessoa juridica propriamente dita. O fato de determinada entidade possuir inscricao no CNPJ gera uma presuncao relativa (juris tantum) de que e empresa, portanto, contribuinte, mas que pode ser ilidida mediante a producao de provas no sentido de que nao e empresa por nao realizar atividade empresarial e/ou constituir-se como tal. Por tais motivos que a jurisprudencia deste Superior Tribunal de Justica tem entendido que o produtor rural, pessoa fisica inscrito no CNPJ e devedor da contribuicao ao salario-educacao, ja o produtor rural, pessoa fisica nao inscrito no CNPJ nao e contribuinte, salvo se demonstrar tratar-se de produtor que desenvolve atividade empresarial. (Informativo  Ed. Especial n. 8) 125 LEGISLACAO Lei n. 9.424/1996, art. 15. Lei n. 9.766/1998, art. 1,  3. Lei n. 8.212/1991, art. 15.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é a condição de pessoa física que coloca o produtor rural na situação de contribuinte, mas a condição de organizar-se factualmente como empresa. 2. A inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) gera uma presunção relativa (juris tantum) de que é empresa, portanto, contribuinte, mas que pode ser ilidida mediante a produção de provas no sentido de que não é empresa por não realizar atividade empresarial e/ou constituir-se como tal. 3. A jurisprudência do Superior Tribunal de Justiça tem entendido que o produtor rural, pessoa física inscrito no CNPJ é devedor da contribuição ao salário-educação, enquanto o produtor rural, pessoa física não inscrito no CNPJ não é contribuinte, salvo se demonstrar tratar-se de produtor que desenvolve atividade empresarial.

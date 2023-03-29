@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Cumpre registrar que, nesta Corte Superior de Justica, e pacifica a aplicabilidade da teoria do juizo aparente para ratificar medidas cautelares no curso do inquerito policial quando autorizadas por juizo aparentemente competente. Com efeito, [a]s provas colhidas ou autorizadas por juizo aparentemente competente a epoca da autorizacao ou producao podem ser ratificadas a posteriori, mesmo que venha aquele a ser considerado incompetente, ante a aplicacao no processo investigativo da teoria do juizo aparente. Precedentes: HC 120.027, Primeira Turma, Rel. p/ Acordao, Min. Edson Fachin, DJe de 18/2/2016 e HC 121.719, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 27/6/2016. (AgR no HC 137.438/SP, Rel. Ministro Luiz Fux, Primeira Turma, DJe 20/6/2017) (Informativo n. 733) 1216 PROCESSO AgRg no RMS 67.164-MG, Rel. Min. Reynaldo Soares Da Fonseca, Quinta Turma, julgado em 29/03/2022, DJe 31/03/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Decreto-Lei n. 3.240/1941.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É pacífico na Corte Superior de Justiça a aplicabilidade da teoria do juízo aparente para ratificar medidas cautelares no curso do inquérito policial quando autorizadas por juízo aparentemente competente. 2. As provas colhidas ou autorizadas por juízo aparentemente competente na época da autorização ou produção podem ser ratificadas a posteriori, mesmo que venha aquele a ser considerado incompetente, ante a aplicação no processo investigativo da teoria do juízo aparente.

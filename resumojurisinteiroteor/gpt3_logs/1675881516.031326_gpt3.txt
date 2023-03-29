@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em 3 de dezembro de 2020, a Segunda Cmara deste Tribunal, por maioria de votos, negou provimento  correio parcial e, consequentemente, determinou que fosse restaurada a validade do interrogatrio do acusado realizado por videoconferncia, bem como de todos os atos processuais posteriores a ele, os quais eventualmente teriam sido praticados, retomando-se o trmite regular da presente ao penal (Evento 124 - OFIC2 - AJME). Foram opostos embargos infringentes e de nulidade (Autos n. 2000001-95.2021.9.13.0000) do acrdo proferido quando do julgamento da correio parcial, tendo o Pleno deste Tribunal Militar, em 7 de abril de 2021, por maioria de votos, negado provimento ao recurso e mantido inclume a deciso majoritria proferida pela Segunda Cmara (Evento 140 - ACORD2 - AJME). Na fase do art. 427 do Cdigo de Processo Penal Militar (CPPM), a acusao requereu a juntada do Exame de Corpo de Delito do ofendido Cb PM Ramon Ribeiro Freitas (Evento 89 - AJME). J a defesa pleiteou a realizao da percia psicopatolgica no acusado e a juntada do seu Extrato de Registros Funcionais e do Extrato da vtima, bem como a juntada do Exame de Corpo de Delito do ru (Eventos 98, 151 e 159 - AJME). Em audincia presencial remota, realizada em 12 de maio de 2021, o CPJ,  unanimidade de votos, deferiu o pedido de realizao do exame de insanidade mental no ru e suspendeu o processo at a sua efetivao pela Junta Central de Sade (JCS) (Evento 163 - AJME). A defesa apresentou quesitos  realizao do exame de insanidade mental (Evento 171 - AJME). O laudo do incidente de insanidade mental do acusado foi homologado pelo CPJ (Evento 27 - Autos n. 2000504-13.2021.9.13.0002 - AJME), tendo sido retomada a marcha processual (Evento 178 - AJME). Em sesso de julgamento presencial remota, realizada no dia 9 de maio de 2022, o Ministrio Pblico, em alegaes finais, requereu a condenao do ru nos exatos termos da denncia. A defesa, por sua vez, pugnou pela absolvio do acusado, com base no art. 439, alneas "b ou "e, do CPPM. Subsidiariamente, pleiteou a desclassificao do crime de homicdio qualificado tentado para o de leso corporal. O CPJ, por maioria de votos, absolveu o ru do delito de homicdio qualificado tentado, previsto no art. 205, 2, inciso I, c/c o art. 30, inciso II, ambos do CPM, com fundamento no art. 439, alnea "e, do CPPM.  unanimidade de votos, o CPJ absolveu o acusado do crime de violncia contra superior, descrito no art. 157 do CPM, com fulcro no art. 439, alnea "e, do CPPM, e o condenou pela prtica do delito de recusa de obedincia, previsto no art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Segunda Cmara deste Tribunal, por maioria de votos, negou provimento correio parcial e determinou que fosse restaurada a validade do interrogatrio do acusado realizado por videoconferncia, bem como de todos os atos processuais posteriores a ele. O Pleno deste Tribunal Militar, por maioria de votos, negou provimento ao recurso e mantido inclume a deciso majoritria proferida pela Segunda Cmara. O CPJ, por maioria de votos, absolveu o ru do delito de homicdio qualificado tentado e, unanimidade de votos, absolveu o acusado do crime de violncia contra superior, descrito no art. 157 do CPM, e o condenou pela prtica do delito de recusa de obedincia, previsto no art.

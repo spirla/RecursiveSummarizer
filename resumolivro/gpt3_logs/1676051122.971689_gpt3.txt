@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O curso da prescrio interrompe-se:
+- pelo recebimento da denncia ou da queixa;
+- pela pronncia;
+- pela deciso confirmatria da pronncia;
+- pela publicao da sentena ou acrdo condenatrios recorrveis;
+- pelo incio ou continuao do cumprimento da pena;
+- pela reincidncia. Recebimento da denncia ou da queixa. A primeira hiptese de interrupo da contagem do prazo prescricional  o recebimento da pea acusatria, pblica ou privada. Tal causa interruptiva opera efeitos no curso da contagem do prazo estabelecido para a ocorrncia da prescrio da pretenso punitiva. Nos crimes cuja ao penal  de iniciativa pblica, o Ministrio Pblico oferece a acusao, mediante denncia. Os crimes para os quais o legislador previu a iniciativa privada, por sua vez, somente so levados ao conhecimento do Poder Judicirio mediante queixa. A interrupo da contagem acontece na data em que o despacho de recebimento da acusao  publicado, em mos do escrivo. No entanto, quando o recebimento  feito pelo tribunal, seja nos processos de sua competncia originria, seja em grau de recurso, a interrupo opera-se no dia da sesso de julgamento.  que, nesses casos, o recebimento da acusao d-se em sesso pblica, e a posterior publicao da deciso apenas registra o fato. Qualquer que seja a iniciativa da acusao, no se poder admiti-la sem que exista um conjunto probatrio mnimo sobre a ocorrncia de comportamento tpico, ilcito e culpvel. Para a colheita de tal conjunto probatrio, a polcia judiciria desenvolve investigaes que so registradas em inqurito policial ou em termo circunstanciado de ocorrncia, quando se tratar de crimes de menor potencial ofensivo. O Ministrio Pblico tambm pode coletar os elementos mnimos de convico em inqurito civil (emprestando as provas colhidas  ao penal), ou em procedimento administrativo investigatrio. A concluso das investigaes nem sempre se d em tempo hbil, e  comum a ocorrncia da prescrio da pretenso punitiva antes do recebimento da denncia.  de observar-se que o recebimento da denncia pelo magistrado interrompe a contagem da prescrio, e no o oferecimento da denncia pelo membro do Ministrio Pblico. Por isso, nas comarcas com acmulo de servio, a demora na anlise, pelo magistrado, da pea acusatria poder contribuir para a ocorrncia da prescrio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O curso da prescrio interrompe-se pelo recebimento da denncia ou da queixa, pela pronncia, pela deciso confirmatria da pronncia, pela publicao da sentena ou acrdo condenatrios recorrveis, pelo incio ou continuao do cumprimento da pena e pela reincidncia. A interrupo da contagem acontece na data em que o despacho de recebimento da acusao publicado, em mos do escrivo.

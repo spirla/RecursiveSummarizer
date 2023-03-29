@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Descabimento. Efeitos da revelia em caso de omissao. Inaplicabilidade. DESTAQUE As medidas protetivas de urgencia previstas nos incisos I, II e III do art. 22 da Lei Maria da Penha tem natureza de cautelares penais, nao cabendo falar em citacao do requerido para apresentar contestacao, tampouco a possibilidade de decretacao da revelia, nos moldes da lei processual civil. 1164 Cinge-se a controversia acerca da necessidade ou nao de citacao para contestar pedido de aplicacao de medidas protetivas da Lei n. 11.340/2006, Lei Maria da Penha, bem como da incidencia ou nao dos efeitos da revelia. De inicio, nao figura viavel incluir as medidas protetivas de urgencia como especies de tutela inibitoria. Ao contrario da ultima, as medidas previstas na Lei Maria da Penha sao concedidas em carater provisorio, a titulo precario, visto que se baseiam nao em juizo de certeza da pratica ou da ameaca da pratica do ato ilicito pelo agressor, mas em juizo de probabilidade, fundado em elementos indiciarios colhidos em fase procedimental preliminar. Dessa forma, as medidas devem ser, por sua natureza, revogaveis e reversiveis, quando constatada a superveniente ausencia dos motivos autorizadores de sua aplicacao. Quanto a distincao entre tutelas antecipadas ou tutelas cautelares, o objeto destas medidas nao coincide com o objeto da tutela jurisdicional final. Nao se pretende precipuamente, por meio da decretacao dessas medidas, antecipar os efeitos da sentenca ou antecipar a fruicao do bem juridico desejado pelo autor da demanda, que apenas seria obtido ao final do processo de conhecimento, em caso de procedencia da pretensao deduzida em juizo. Ao se decretar uma medida protetiva, visa-se, antes de tudo, proteger a vida e a incolumidade fisica e psiquica da vitima e, com isso, de uma forma mais ampla, acautelar a ordem publica, uma das finalidades das cautelares previstas no CPP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As medidas protetivas de urgencia previstas nos incisos I, II e III do art. 22 da Lei Maria da Penha tem natureza de cautelares penais. 2. Não é viável incluir as medidas protetivas de urgencia como espécies de tutela inibitória. 3. As medidas previstas na Lei Maria da Penha são concedidas em caráter provisório, a título precário, fundado em elementos indiciários colhidos em fase procedimental preliminar. 4. Não se pretende, por meio da decretação dessas medidas, antecipar os efeitos da sentença ou antecipar a fruição do bem jurídico desejado pelo autor da demanda. 5. Ao se decretar uma medida protetiva, visa-se, antes de tudo, proteger a vida e a incolumidade física e psíquica da vítima e, com isso, de uma forma mais ampla, acautelar a ordem pública.

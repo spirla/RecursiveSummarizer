@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Depois das informaes das autoridades e do parecer do Ministrio Pblico (artigos 116 e 117), o Tribunal decide o conflito na primeira sesso, salvo se a instruo do feito depender de diligncia. Da deciso do conflito no cabe recurso (artigo 119, CPPM). O procedimento na Justia Militar estadual se inicia mediante representao do juiz de direito e do Conselho de Justia suscitando o conflito de competncia. O RITJMSP fixa a competncia do Pleno para processar e julgar conflito de competncia entre as Cmaras e as Auditorias (artigo 9, I, f), cabendo ao relator do conflito de competncia requisitar informaes das autoridades em conflito, remetendo-lhes cpia do requerimento ou representao e fixando o prazo de 10 (dez) dias para atendimento. Prestadas as informaes, o relator dar vista dos autos  Procuradoria de Justia por 5 (cinco) dias. O Pleno decidir o conflito e declarar qual  o juiz competente (artigos 102 a 104 do RITJMSP). O artigo 105, pargrafo 1, do RITJMSP, dispe que reconhecida a incompetncia da Justia Militar e lavrado o acrdo, os autos sero encaminhados  Justia competente;
+no caso de conflito negativo de competncia entre o TJM e outro Juzo, os autos sero conclusos ao presidente para suscitar o conflito perante o STJ (pargrafo 2). O mesmo procedimento  adotado no caso de conflito positivo (artigo 106). Pelo estabelecido nos artigos 113/116 do RITJMRS o relator nos conflitos de competncia suscitados por representao do juiz de direito e dos Conselhos de Justia ou a requerimento das partes interessadas determina s autoridades conflitantes o sobrestamento do feito, solicita-lhes informaes, d vista do processo ao Procurador de Justia por cinco (5) dias e, a seguir, coloca em mesa para julgamento. Compete ao STJ processar e julgar, originariamente, os conflitos de competncia entre quaisquer tribunais, bem como entre Tribunal e juzes a ele no vinculados e entre juzes vinculados a tribunais diversos (artigo 105. I, d, CF). Compete ao STJ dirimir conflito negativo ou positivo de competncia entre o juiz da Auditoria Militar estadual e o juiz da Vara Criminal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal decide o conflito de competência na primeira sessão, salvo se a instrução do feito depender de diligência. O procedimento na Justiça Militar estadual se inicia mediante representação do juiz de direito e do Conselho de Justiça. O STJ processa e julga conflitos de competência entre quaisquer tribunais, bem como entre Tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos.

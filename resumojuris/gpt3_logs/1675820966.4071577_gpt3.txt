@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Sobre a delimitacao de competencia dos entes federados quanto ao ordenamento territorial, planejamento, uso e ocupacao do solo urbano, a CF/88 (CF) estabelece, no art. 30, I e VIII, a competencia dos municipios para legislar sobre assuntos de interesse local e promover, no que couber, adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupacao do solo urbano . No mesmo sentido, a CF dispoe, no art. 182, a competencia material dos municipios para a execucao da politica de desenvolvimento urbano. Alem disso, no exercicio da competencia para editar normas gerais de direito urbanistico, a Uniao reconheceu a competencia dos municipios para afetar e desafetar bens, inclusive em areas verdes e institucionais, assim como estabelecer, para cada zona em que se divida o territorio municipal, os usos permitidos de ocupacao do solo. Nesse passo, ainda que os estados tenham competencia para editar legislacao suplementar em materia urbanistica, nos termos do art. 24, I, da CF, reconhece-se o protagonismo que o texto constitucional conferiu aos municipios em materia de politica urbana. Por fim, a jurisprudencia do Supremo Tribunal Federal e firme no sentido de que a delimitacao de competencia municipal por meio de dispositivo de constituicao estadual ofende o principio da autonomia municipal. Com base nesse entendimento, o Plenario, por unanimidade, conheceu da presente acao direta e, no merito, julgou procedente o pedido para declarar inconstitucionais os  1 a 4 do inc. VII do art. 180 da Constituicao do estado de Sao Paulo. ADI 6602/SP, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Constituição Federal (CF) estabelece, no art. 30, I e VIII, a competência dos municípios para legislar sobre assuntos de interesse local e promover, no que couber, adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo. 2. A CF dispõe, no art. 182, a competência material dos municípios para a execução da política de desenvolvimento urbano. 3. A União reconheceu a competência dos municípios para afetar e desafetar bens, inclusive em áreas verdes e institucionais, assim como estabelecer, para cada zona em que se divida o território municipal, os usos permitidos de ocupação do solo. 4. Embora os estados tenham competência para editar legislação suplementar em matéria urbanística, nos termos do art. 24, I, da CF, reconhece-se o protagonismo que o texto constitucional conferiu aos municípios em matéria de política urbana. 5. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a delimitação de competência municipal por meio de dispositivo de Constituição Estadual ofende o princípio da autonomia municipal.

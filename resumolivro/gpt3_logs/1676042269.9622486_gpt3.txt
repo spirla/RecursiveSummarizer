@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A Lei de Introduo s normas do Direito Brasileiro (Decreto-lei 4.657/42), em seu artigo 4, dispe que quando a lei for omissa, o juiz decidir o caso de acordo com a analogia, os costumes e os princpios gerais de direito. Contudo, tendo em vista a adoo expressa do princpio da reserva legal, no mbito do Direito Penal, a disposio no tem aplicao para a criao de crimes e a imposio de penas no definidos em lei. Analogia. A analogia  uma forma de autointegrao do sistema normativo que utiliza a soluo jurdica prevista para um determinado caso em outro que no encontra soluo expressamente prevista. Segundo Vicente Ro:
+a analogia consiste na aplicao dos princpios extrados da norma existente a casos outros que no os expressamente contemplados, mas cuja diferena em relao a estes no seja essencial; consiste, isto , na aplicao desses princpios aos casos juridicamente iguais, ou iguais por sua essncia. No se pode estabelecer novos crimes ou penas por analogia. Mas  possvel que, por analogia, aplique-se ao caso concreto disposies penais no incriminadoras ou punitivas que venham a beneficiar o ru. A analogia geralmente  invocada para garantir a aplicao de um princpio fundamental, como acontece em especial com o da isonomia. No se deve confundir analogia com integrao analgica. A analogia pressupe a lacuna da lei, e a integrao analgica, um comando normativo que determine que se utilize a lei existente aos casos semelhantes no previstos. Alguns tipos penais incriminadores utilizam frmulas genricas que indicam a necessidade de integrao por parte do aplicador do Direito. Nesses casos,  a prpria lei que determina a sua aplicao a casos no expressamente previstos. Como exemplo de tipo incriminador que desafia o aplicador  integrao analgica, temos o homicdio qualificado por motivo torpe. O artigo 121, pargrafo 2, do CP dispe que o crime  qualificado quando o homicdio  cometido mediante paga ou promessa de recompensa, ou por outro motivo torpe. A referncia expressa aos casos em que se verifique outro motivo torpe indica a necessidade de identificar as situaes em que ocorre a mesma torpeza dos motivos. A integrao analgica, contudo, decorre de previso expressa da lei. Costume. Vicente Ro define o costume como sendo a regra de conduta criada espontaneamente pela conscincia comum do povo, que a observa por modo constante e uniforme e sob a convico de corresponder a uma necessidade jurdica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei de Introdução às Normas do Direito Brasileiro (Decreto-lei 4.657/42) estabelece que, quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e os princípios gerais de direito. Contudo, no âmbito do Direito Penal, a disposição não se aplica à criação de crimes e à imposição de penas não previstas em lei. A analogia é uma forma de autointegração do sistema normativo que utiliza a solução já prevista para um determinado caso em outro que não encontra solução expressamente prevista. O costume é uma regra de conduta criada espontaneamente pela consciência comum do povo.

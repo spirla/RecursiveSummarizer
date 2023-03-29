@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 45 estabeleceu um rol taxativo de autoridades, listadas pelos cargos que ocupam nas respectivas IMEs, competentes para aplicar sancao disciplinar aos militares estaduais, ou seja, quais sao as autoridades com poder disciplinar e o correspondente nivel de abrangncia. Iniciando pela base, no primeiro nivel (inciso VI) do poder disciplinar, estao os Comandantes de Unidade (Comandantes de Batalhoes e Companhias Independentes), Chefes de Centro (Chefes de Unidades Administrativas com autonomia administrativa) e Chefes de Secoes do Estado-Maior da IME, como competentes para aplicar sancao somente aos militares que servirem sob seu comando ou chefia. No segundo nivel (inciso V), estao os Diretores e Comandantes de Unidades de Comando Intermediario - funcoes privativas de Coroneis que se situam no nivel intermediario organizacional -, que sao competentes para aplicar sancao tanto aos militares lotados na sede do respectivo Comando Intermediario quanto aqueles lotados nas Unidades que lhe sao subordinadas. Ressalta-se que, no mesmo nivel, estao todas as demais funcoes privativas de Coronel, situadas no nivel de Direcao Geral, que nao seja o Comandante-Geral, o Chefe do Gabinete Militar do Governador (GMG), o Chefe do Estado-Maior e o Corregedor. No terceiro nivel (inciso III), esta o Corregedor, cargo privativo de Coronel, que tem competncia para sancionar todos os militares estaduais no mbito da respectiva IME, inclusive os do ultimo posto (Coroneis), com excecao apenas dos Coroneis Comandante-Geral, Chefe do Estado-Maior/Subcomandante-Geral, por serem autoridades militares hierarquicamente superiores, e do Coronel Chefe do GMG, que tem subordinacao disciplinar somente em relacao ao Comandante-Geral e ao Governador, e dos militares a que alude o artigo 47 do CEDM. Ressalta-se, contudo, que o Corregedor pode aplicar sancao em face de todos os demais militares que estao lotados no Comando-Geral, no Estado-Maior (EMPM/EMBM) e no Gabinete Militar do Governador (GMG).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 45 do CEDM estabelece um rol taxativo de autoridades com poder disciplinar para aplicar sancao aos militares estaduais. O primeiro nível é o dos Comandantes de Unidade, Chefes de Centro e Chefes de Seções do Estado-Maior da IME. O segundo nível é o dos Diretores e Comandantes de Unidades de Comando Intermediário e demais funções privativas de Coronel. O terceiro nível é o do Corregedor, que tem competência para sancionar todos os militares estaduais, exceto os Coroneis Comandante-Geral, Chefe do Estado-Maior/Subcomandante-Geral e Coronel Chefe do GMG.

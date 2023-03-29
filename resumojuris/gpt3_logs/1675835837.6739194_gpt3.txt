@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse sentido, a imissao provisoria na posse pode ser feita, sem a oitiva do proprietario, e sem a avaliacao previa, desde que (a) seja depositado o preco oferecido, sendo este superior a vinte vezes o valor locativo do imovel sujeito a IPTU; (b) seja depositada a quantia correspondente a vinte vezes o valor locativo do imovel sujeito a IPTU, se o preco for menor; (c) seja depositado o valor cadastral do imovel, para fins de lancamento do IPTU, caso tenha havido atualizacao no ano fiscal imediatamente anterior; ou (d) se nao tiver havido essa atualizacao, o juiz fixara o valor a ser depositado tendo em conta a epoca em que houver sido fixado originalmente o valor cadastral e a valorizacao ou desvalorizacao posterior do imovel. Assim, o contraditorio do proprietario do bem e dispensado apenas se o ente publico interventor cumpre algum desses requisitos, que basicamente se bipartem em duas ordens: a oferta inicial deve ser superior a vinte vezes o preco locativo e, caso nao seja, isso deve ser complementado (hipotese da alinea b ), ou a oferta deve ser correspondente ao valor cadastral do imovel, desde que atualizado no ano fiscal anterior ao da propositura da demanda, e se nao tiver havido a atualizacao sera o juiz quem fixara o valor do deposito. Dessa maneira, ressalvadas as hipoteses do art. 15,  1., do Decreto-Lei n. 3.365/1941, e de rigor a observancia da regra geral prevista na cabeca do preceito, a fim de que se condicione a imissao do desapropriante, ou, como no caso, do dominante, na posse do bem imovel. Para alem disso, as hipoteses que dispensam o contraditorio, com pericia provisoria e previa, devem seguir estritamente o que consignado no texto legal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A imissão provisória na posse pode ser feita sem a oitiva do proprietário e sem a avaliação previa, desde que sejam cumpridos os requisitos previstos no art. 15, § 1º, do Decreto-Lei n. 3.365/1941. 2. O contraditório do proprietário do bem é dispensado se o ente público interventor cumprir algum dos requisitos previstos no art. 15, § 1º, do Decreto-Lei n. 3.365/1941. 3. A oferta inicial deve ser superior a vinte vezes o preço locativo, ou correspondente ao valor cadastral do imóvel, desde que atualizado no ano fiscal anterior ao da propositura da demanda. 4. Se não houver atualização do valor cadastral do imóvel, será o juiz quem fixará o valor do depósito.

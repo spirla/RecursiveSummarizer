@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Premissa menor:
+aquele homem foi visto nessa situao (premissa concreta, real e particular). Concluso:  ele o autor do furto praticado naquela madrugada. Tourinho Filho afirma que no se trata de induo e sim de deduo:
+Na verdade, se o indcio  o fato provado, a circunstncia que se v e que, por concluso natural, alcana o fato probando, logo, a esse fato principal se chega por deduo nesta, diz o respeitado processualista, procura-se o desconhecido possivelmente contido na circunstncia conhecida. 14.2.12.3. Requisitos da prova indiciria. Com efeito, como j assinalado, o indcio em si no  prova. Para que o indcio constitua prova so necessrios os requisitos do artigo 383, alneas a e b, do CPPM. Para que o indcio constitua prova  necessrio que a circunstncia ou o fato indicante tenha relao de causalidade, prxima ou remota, com a circunstncia ou o fato indicado (alnea a). A circunstncia ou fato indicante deve ser plenamente conhecido e provado, sem o que no se chegar ao resultado minimamente seguro. Sobre o indcio (na dico da regra processual a circunstncia ou fato indicante) no deve haver dvida. Para que se deduza a existncia da circunstncia ou do fato de que no se tem prova  necessria uma relao de causalidade entre a circunstncia ou o fato indicante (o indcio, a circunstncia ou fato conhecido e provado) com circunstncia ou o fato indicado (a circunstncia ou o fato de que no se tem prova). Essa relao de causalidade  prxima ou remota. Na relao de causalidade prxima a relao do indcio com a circunstncia ou fato de que no se tem prova  direta.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O processualista Tourinho Filho afirma que a dedução de um fato desconhecido a partir de um fato conhecido e provado não é indução, mas sim dedução. Para que o indício seja considerado prova, é necessário que haja uma relação de causalidade próxima ou remota entre o fato indicante (conhecido e provado) e o fato indicado (desconhecido).

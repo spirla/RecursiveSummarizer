@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, a defesa argumenta que (i) tratados tambem sao fonte de direito processual e seu cumprimento constitui garantia fundamental insita ao devido processo legal; (ii) o fato de existir decisao fundamentada de quebra de sigilo proferida pelo Juizo brasileiro nao afasta a necessidade de observancia das disposicoes do tratado para a obtencao da prova no Canada, sob pena de violacao do principio locus regit actum; (iii) a quebra de sigilo telematico foi dirigida e cumprida pela empresa estrangeira, sendo a existencia de sede brasileira irrelevante; (iv) o tratado bilateral e aplicavel a todo procedimento investigativo que busca elementos, informacoes e provas no territorio estrangeiro, sendo irrelevante que o investigado seja ou nao nacional, residente ou nao em um dos estados signatarios; (v) os julgados relativos ao Mutual Legal Assistance Treaty (MLAT), celebrado entre o Brasil e os Estados Unidos da America, sao inaplicaveis ao caso sub examine . 1203 O Brasil e o Governo do Canada firmaram, em 27/11/1995, Tratado de Assistencia Mutua em Materia Penal, promulgado por meio do Decreto n. 6.747/2009. Nada obstante, se os servicos de telefonia, por meio dos quais foram interceptadas as comunicacoes - BlackBerry Messenger (BBM), encontravam-se ativos no Brasil, por intermedio de operadoras de telefonia estabelecidas no territorio nacional, o sigilo esta submetido a jurisdicao nacional, nao sendo necessaria a cooperacao juridica internacional. Com efeito, a conclusao e de que e licita a coleta de dados telematicos de mensagens enviadas por meio de aparelhos Blackberry. (Informativo  Ed. Especial n. 4) Decreto 6.747/2009, arts. 10 e 11 PROCESSO AgRg no HC 731.648-SC, Rel. Min. Joel Ilan Paciornik, Rel. Acd. Min. Joao Otavio de Noronha, Quinta Turma, por maioria, julgado em 07/06/2022, DJe 23/06/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(i) Tratados também são fonte de direito processual e seu cumprimento constitui garantia fundamental insita ao devido processo legal. (ii) É necessário observar as disposições do tratado para a obtenção de prova no Canadá, sob pena de violação do princípio locus regit actum. (iii) A quebra de sigilo telemático foi dirigida e cumprida pela empresa estrangeira, sendo a existência de sede brasileira irrelevante. (iv) O tratado bilateral é aplicável a todo procedimento investigativo que busca elementos, informações e provas no território estrangeiro, sendo irrelevante que o investigado seja ou não nacional, residente ou não em um dos estados signatários. (v) Os julgados relativos ao Mutual Legal Assistance Treaty (MLAT), celebrado entre o Brasil e os Estados Unidos da América, são inaplicáveis ao caso sub examine.

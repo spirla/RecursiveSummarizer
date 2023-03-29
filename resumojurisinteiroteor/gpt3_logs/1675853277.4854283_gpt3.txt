@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Consoante o fundamentado na sentena, o procedimento seguido na Justia comum estadual era praticamente idntico ao procedimento seguido e previsto na Justia Militar estadual, e o juiz competente admitiu as provas, colheu-as adequadamente, e o fez em obedincia ao sistema jurdico ento vigente, com recursos interpostos e amplo exerccio do direito de defesa. Quanto  imputao, os fatos descritos na denncia so claros no sentido de que os denunciados respondiam pelo homicdio de Wilson de Jesus Ferreira e pela tentativa de homicdio de Gelson de Jesus Ferreira, cometidos mediante tortura, considerando a expressa imputao dos delitos do art. 121, 2, inciso III, combinado com o art. 14, II, na forma do art. 69, combinado com o art. 29, todos do CP, do art. 6 da Lei n. 4.898, de 9 de dezembro de 1965 e do art. 1, inciso II, da Lei n. 9455, de 14 de maro de 1997. Havia a imputao de tortura independente do delito de homicdio na forma qualificada. Nesse ponto, assiste razo ao ilustre representante do Ministrio Pblico no sentido de que  possvel verificar que o crime de tortura qualificada pelo resultado morte e praticado por agente pblico est claramente contido no relato trazido na denncia, sendo certo que nenhuma surpresa incorreu nos autos em relao  defesa, uma vez que toda a bagagem ftica ligada ao delito consta na pea inaugural, no havendo que se falar em ofensa ao princpio da correlao. Com vistas dos fatos expostos na denncia, o egrgio Tribunal de Justia promoveu a readequao jurdica em relao ao crime de tortura referente  vtima Wilson de Jesus Ferreira, para incluir a qualificadora "resultado morte prevista no 3 do art. 1, II, da Lei n. 9.455/97, via emendatio libelli, uma vez que a constncia foi devidamente narrada em detalhes pela denncia. Houve a aplicao das disposies do artigo 383 do CPP, e, no caso especfico, do art. 418 do CPP, que possibilita ao juiz, sem modificar a descrio do fato contido na denncia ou queixa, atribuir-lhe definio jurdica diversa, ainda que, em consequncia, tenha de aplicar pena mais grave. Percebe-se que, diante dessa redefinio, no houve insurgncia das partes. Com a remessa dos autos a esta Justia castrense, permitiu-se s partes manifestarem-se em razes finais escritas, contraporem os argumentos da acusao e apontarem os elementos probatrios que sustentam suas teses, em amplo exerccio do contraditrio e da ampla defesa. No h que se falar em cerceamento de defesa. Concernente  ausncia de demonstrao de prejuzos decorrentes da suposta nulidade de cerceamento de defesa, saliente-se que o colendo Superior Tribunal de Justia estabeleceu o entendimento de que, para o reconhecimento de nulidade, ainda que absoluta, no mbito do processo penal, exige-se a demonstrao do efetivo prejuzo suportado pelas partes. Nesse sentido, destaco recentes julgados, in verbis: PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de Justia promoveu a readequao jurdica em relao ao crime de tortura referente vtima Wilson de Jesus Ferreira, para incluir a qualificadora "resultado morte prevista no 3 do art. 1, II, da Lei n. 9.455/97, via emendatio libelli. O juiz permitiu s partes manifestarem-se em razes finais escritas, contraporem os argumentos da acusao e apontarem os elementos probatrios que sustentam suas teses, em amplo exerccio do contraditrio e da ampla defesa. O Superior Tribunal de Justia estabeleceu que, para o reconhecimento de nulidade, ainda que absoluta, no mbito do processo penal, exige-se a demonstrao do efetivo prejuzo suportado pelas partes.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em 31/07/2022, em nova manifestao, o paciente requereu o cmputo do perodo em que esteve solto aps a revogao da priso preventiva na pena privativa de liberdade aplicada. Diz que a priso preventiva foi revogada e impostas condies que implicam no cumprimento da pena em regime aberto. Em 12/08/2022, o magistrado subscritor destas informaes indeferiu o pedido posto que a revogao da priso preventiva no  antecipao de cumprimento de pena, conforme j decidido no evento n. 158 dos autos principais. Em 07/09/2022, o paciente requereu a concesso da priso domiciliar alegando que  portador de doena e que no tem condies psicolgicas. Em 08/09/2022, o Ministrio Pblico requereu a designao de audincia de justificao para os fins do art. 118,  2 da LEP, com a consequente regresso de regime do paciente em razo do descumprimento das seguintes condies da guia de recolhimento: 15.2-falta grave em 09 de agosto- chegar atrasado para o recolhimento - chegou s 00:50; 32.3-falta grave em 25 de agosto- chegar atrasado para o recolhimento - chegou s 21:19; 24.1 -falta grave em 12 de agosto- no se recolheu; 30.4- falta grave em 12 de agosto- no se recolheu 13, 14. Em 04/10/2022, o magistrado subscritor destas informaes indeferiu o pedido, posto que o paciente no se enquadra em nenhuma das hipteses previstas no art. 117, da LEP que autorizam o recolhimento do condenado em pena privativa de liberdade em seu domiclio e designou a data de 10/10/2022, s 16:30 horas para audincia de justificao. Em 10/10/2022, foi realizada a audincia de justificao do paciente, ausente o advogado, embora devidamente intimado. Foi determinado ao paciente a juntada dos documentos comprobatrios dos fatos alegados pelo paciente. O Ministrio Pblico ressaltou que em caso de no apresentao dos documentos, que seja realizada a regresso de regime nos termos da Lei de Execuo Penal. Em 16/10/2022, o paciente fez a juntada de documentos no SEEU. Os autos se encontram com vista ao Ministrio Pblico dos documentos juntados. A eminente procuradora de justia Doutora Elba Rondino opinou pela denegao da ordem de habeas corpus (Evento 16 - PARECER1 - TJM). Destaco: [.] Pois bem, a questo se revela singela, tendo em vista que o impetrante pretende a libertao do paciente por entender que o tempo em que ele se submeteu a medidas cautelares diversas da priso deveria ser subtrado da quantidade de pena a ser cumprida (evento 1 - INIC1 - fls. 02 e 06).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O paciente requereu o cmputo do perodo em que esteve solto aps a revogao da priso preventiva, bem como a concesso da priso domiciliar alegando portador de doena e que no tem condies psicolgicas. O magistrado indeferiu ambos os pedidos e designou audincia de justificao para os fins do art. 118, 2 da LEP, com a consequente regresso de regime do paciente em razo do descumprimento das condies da guia de recolhimento. O paciente fez a juntada de documentos e os autos se encontram com vista ao Ministrio Pblico. A procuradora de justia opinou pela denegao da ordem de habeas corpus.

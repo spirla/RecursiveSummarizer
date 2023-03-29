@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Decorre de uma opcao legitima do legislador de, em atencao ao que decidido pelo STF na ADI 4650, conferir os meios necessarios para que as mais diversas candidaturas se facam presentes no jogo democratico. A fixacao da verba publica destinada ao FEFC e campo de atuacao eminentemente politico, e o resul-tado de tal processo, desde que respeitadas as regras previamente fixadas, em nada pode representar desvio de finalidade. Com base nesse entendimento, o Plenario, por maioria, indeferiu medida cautelar em acao direta de inconstitucionalidade. Vencidos os ministros Roberto Barroso, Rosa Weber, Carmen Lucia, e, em maior exten-sao, os ministros Andre Mendonca (relator) e Ricardo Lewandowski. ADI 7058 MC/DF, relator Ministro Andre Mendonca, redator do acordao Ministro Nunes Marques, julgamento finalizado em 3.3.2022 (INF 1045) Prazo para o ajuizamento de representacao que visa apurar condutas em desacordo com as normas eleitorais relativas a arrecadacao e gastos de recursos - ADI 4532/DF ODS: 16 Resumo: A fixacao do prazo de 15 (quinze) dias para o ajuizamento da representacao prevista no art. 30-A da Lei 9.504 /1997, com a redacao dada pela Lei 12.034/2009, nao compromete os valores da isonomia entre os candidatos nem afronta o sistema de protecao a lisura e a legitimidade das eleicoes (CF/88, art. 14,  9). O estabelecimento do referido prazo decadencial se harmoniza com os principios que regem o exerci-cio da jurisdicao eleitoral, em especial o da seguranca juridica, da celeridade e da duracao razoavel do processo (CF/88, art. 5, LXXVIII; e Lei 9.504/1997, art. 97-A), com o objetivo de proporcionar a estabilizacao do resultado das urnas, de modo a refletir a vontade soberana do eleitor.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É legítima a opção do legislador de conferir meios para que diversas candidaturas se façam presentes no jogo democrático. 2. A fixação da verba pública destinada ao Fundo Especial de Financiamento de Campanha e o campo de atuação eminentemente político, desde que respeitadas as regras previamente fixadas, não representam desvio de finalidade. 3. O estabelecimento do prazo decadencial de 15 dias para o ajuizamento da representação prevista na Lei 9.504/1997 se harmoniza com os princípios que regem o exercício da jurisdição eleitoral, em especial o da segurança jurídica, da celeridade e da duração razoável do processo.

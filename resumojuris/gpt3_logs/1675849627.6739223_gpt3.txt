@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ausencia de previsao legal. Interpretacao in malam partem vedada. DESTAQUE Nao ha a suspensao dos prazos prescricionais em execucao penal, por ausencia de previsao legal, em razao da submissao de tema a repercussao geral na hipotese prevista no art. 1.035,  5, do CPC, sem a declaracao de sobrestamento dos processos, nem a suspensao expressa dos prazos citados. A prescricao das faltas disciplinares de natureza grave, em virtude da inexistencia de legislacao especifica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109, VI, do CP, de 3 (tres) anos. Como a decisao proferida na QO no RE n. 966.177/RS refere-se especificamente a hipotese prevista no art. 1.035,  5, do CPC, e nao houve o sobrestamento dos processos, nem a suspensao do prazo prescricional, pelo Supremo Tribunal Federal no RE n. 972.598/RS - tema 941, verifica-se a ocorrencia de manifesta ilegalidade na suspensao do prazo prescricional sem previa previsao legal. Isso porque, apesar de o artigo 1.030, III, do CPC prever a possibilidade de o relator sobrestar o recurso que versar sobre controversia de carater repetitivo, nada dispoe sobre a possibilidade de suspensao do prazo prescricional nos casos em que reconhecida a repercussao geral do tema. Assim, em observancia ao principio da legalidade, as causas suspensivas da prescricao demandam expressa previsao legal, o que nao se vislumbra na hipotese prevista no art. 1.030, III, do CPC, utilizada para sobrestar o processo no Tribunal de origem, nao sendo admissivel a analogia in malam partem. Com efeito, decorrido lapso superior a 3 (tres) anos, previsto no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há suspensão dos prazos prescricionais em execução penal, por ausência de previsão legal, em razão da submissão de tema a repercussão geral na hipótese prevista no art. 1.035, 5, do CPC, sem a declaração de sobrestamento dos processos, nem a suspensão expressa dos prazos citados. 2. A prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109, VI, do CP, de 3 (tres) anos. 3. É ilegal a suspensão do prazo prescricional sem previa previsão legal, pois, apesar de o artigo 1.030, III, do CPC prever a possibilidade de o relator sobrestar o recurso que versar sobre controvérsia de caráter repetitivo, nada dispõe sobre a possibilidade de suspensão do prazo prescricional nos casos em que reconhecida a repercussão geral do tema. 4. Em observância ao princípio da legalidade, as causas suspensivas da prescrição demandam expressa previsão legal, o que não se vislumbra na hipótese prevista no art. 1.030, III, do CPC, utilizada para sobrestar o processo no Tribunal de origem, não sendo admissível a analogia in malam partem.

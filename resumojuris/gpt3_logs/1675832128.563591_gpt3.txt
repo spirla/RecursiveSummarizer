@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Tema 1075) RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO FINANCEIRO TEMA Servidor publico. Progressao funcional. Requisitos legais preenchidos. Direito subjetivo. Descumprimento por restricoes orcamentarias previstas na Lei de Responsabilidade Fiscal. Ilegalidade. Tema 1075. DESTAQUE E ilegal o ato de nao concessao de progressao funcional de servidor publico, quando atendidos todos os requisitos legais, a despeito de superados os limites orcamentarios previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de ente publico, tendo em vista que a progressao e direito subjetivo do servidor publico, decorrente de determinacao legal, estando compreendida na excecao prevista no inciso I do paragrafo unico do art. 22 da Lei Complementar n. 101/2000. A Lei Complementar n. 101/2000 determina que seja verificado se a despesa de cada Poder ou orgao com pessoal - limite especifico - se mantem inferior a 95% do seu limite; isso porque, em caso de excesso, ha um conjunto de vedacoes que deve ser observado exclusivamente pelo Poder ou pelo orgao que houver incorrido no excesso, como visto no art. 22 da LC n. 101/2000. O mesmo diploma legal nao preve vedacao a progressao funcional do servidor publico que atender aos requisitos legais para sua concessao, em caso de superacao dos limites orcamentarios previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de ente publico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilegal o ato de não concessão de progressão funcional de servidor público, quando atendidos todos os requisitos legais, a despeito de superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de ente público. 2. A Lei Complementar n. 101/2000 determina que seja verificado se a despesa de cada Poder ou órgão com pessoal - limite específico - se mantém inferior a 95% do seu limite. 3. Em caso de excesso, há um conjunto de vedações que deve ser observado exclusivamente pelo Poder ou pelo órgão que houver incorrido no excesso, como visto no art. 22 da LC n. 101/2000. 4. A Lei Complementar n. 101/2000 não prevê vedação à progressão funcional do servidor público que atender aos requisitos legais para sua concessão, em caso de superação dos limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de ente público.

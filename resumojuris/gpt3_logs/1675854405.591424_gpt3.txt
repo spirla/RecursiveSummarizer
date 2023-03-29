@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ramo do Direito DIREITO PROCESSUAL PENAL Tema Trafico de drogas. Violacao de domicilio. Denuncia anonima. Ausencia de fundadas razoes. Nulidade das provas. DESTAQUE A mera denuncia anonima, desacompanhada de outros elementos preliminares indicativos de crime, nao legitima o ingresso de policiais no domicilio. A entrada forcada em domicilio sem mandado judicial so e licita, mesmo em periodo noturno, quando amparada em fundadas razoes, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situacao de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados. (RE 603.616, Rel. Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, Repercussao Geral - DJe 9/5/2016). A ausencia de justificativas e de elementos seguros a legitimar a acao dos agentes publicos, diante da discricionariedade policial na identificacao de situacoes suspeitas relativas a ocorrencia de trafico de drogas, pode fragilizar e tornar irrito o direito a intimidade e a inviolabilidade domiciliar (REsp 1.574.681/RS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017). Na hipotese, a operacao policial que resultou na apreensao de drogas no domicilio se originou de denuncia anonima, todavia, esta ausente qualquer circunstancia fatica que indique a ocorrencia de trafico de drogas no interior da residencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A mera denuncia anonima, desacompanhada de outros elementos preliminares indicativos de crime, não legitima o ingresso de policiais no domicilio. 2. A entrada forçada em domicilio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados. 3. A ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar irrito o direito à intimidade e à inviolabilidade domiciliar.

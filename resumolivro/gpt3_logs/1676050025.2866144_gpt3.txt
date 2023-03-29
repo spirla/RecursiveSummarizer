@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a loucura conduz todos a um estado de cegueira onde todos se perdem, o louco, pelo contrrio, lembra a cada um sua verdade; na comdia em que todos enganam aos outros e iludem a si prprios, ele  a comdia em segundo grau, o engano do engano. Ele pronuncia em sua linguagem de parvo, que no se parece com a da razo, as palavras racionais que fazem a comdia desatar no cmico: ele diz o amor para os enamorados, a verdade da vida aos jovens, a medocre realidade das coisas para os orgulhosos, os insolentes e os mentirosos. O juzo de reprovao da culpabilidade ser invivel se aquele que realiza o crime for incapacitado psiquicamente - inimputvel. No entanto, a prtica do injusto evidencia ataque a bens penalmente protegidos e a incapacidade do sujeito sugere a possibilidade da repetio da conduta inadequada. A incapacidade psquica aumenta as chances de reiterao da conduta e o indivduo passa a ser considerado pela ordem jurdica como perigoso. Periculosidade  conceito jurdico que reconhece no indivduo sua maior propenso ao desenvolvimento de finalidades socialmente indesejadas, que podem levar  realizao de ofensas aos valores penalmente tutelados. A aplicao de medida de segurana, no entanto, opera-se por deciso absolutria imprpria que reconhece a ocorrncia de comportamento tpico e ilcito (artigo 386, V, e pargrafo nico, III, do CPP). As medidas de segurana somente podero ser aplicadas se o agente cometer injusto penal, j que o juiz criminal no pode impor coercitivamente medidas teraputicas aos autores de prticas atpicas ou lcitas. A internao de doentes mentais que no cometeram comportamentos punveis somente ser possvel por meio da ao civil de interdio; assim, existindo situao que exclua a tipicidade ou a ilicitude do fato, no poder o juiz criminal aplicar medida de segurana para internar o inimputvel. As medidas de segurana so instrumentos utilizados pelo Direito Penal para a defesa da sociedade contra o potencial ofensivo inerente aos indivduos considerados perigosos e visam a remover desses indivduos sua caracterstica de periculosidade. As medidas de segurana somente se aplicam aos inimputveis por doena mental, desenvolvimento mental incompleto ou retardado, bem como aos dependentes de substncias alcolicas ou entorpecentes. Certamente, no se justifica a internao de menor de dezoito anos em hospital psiquitrico ou sua sujeio a tratamento ambulatorial, pois sua incapacidade psquica, naturalmente, ser superada pelo decurso do tempo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O louco é capaz de lembrar a verdade para todos, mesmo que seja em sua linguagem de parvo. O Direito Penal prevê medidas de segurança para proteger a sociedade contra indivíduos considerados perigosos, como inimputáveis por doença mental, desenvolvimento mental incompleto ou retardado, e dependentes de substâncias alcoólicas ou entorpecentes. No entanto, a internação de menores de 18 anos em hospitais psiquiátricos ou seu sujeição a tratamento ambulatorial não se justifica, pois sua incapacidade psicológica será superada com o tempo.

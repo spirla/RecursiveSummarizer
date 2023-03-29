@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ao final, requereu seja negado provimento ao recurso de apelao interposto pela defesa (evento 90 - autos de 1a Instncia). A defesa do Cabo PM Alex Carlos de Paula apresentou contrarrazes de apelao, reiterando os termos trazidos em seu apelo. Aduziu que a percia (laudo n. 2018-024-000210-024-007340857-87) realizada nas imagens citadas pelo Ministrio Pblico em suas razes de apelao concluiu no ser possvel identificar as datas em que as imagens foram gravadas. Alegou que, aps a concluso do IPM de Portaria n. 103.307/16, que apurou os fatos objetos desta ao penal, os autos foram encaminhados  Procuradoria-Geral de Justia do Estado de Minas Gerais, tendo o Ministrio Pblico ajuizado a ao de improbidade administrativa contra o acusado. Disse que o Juiz da 4a Vara da Fazenda Pblica e Autarquias desta Capital indeferiu o pedido liminar do Ministrio Pblico de indisponibilidade de bens do autor, sob o argumento de que o suposto fato de ter conduzido veculo automotor e ido ao supermercado durante o perodo da licena no permitiam concluir que ele estava simulando a existncia de dor quando comparecia  percia, pois se tratando de enfermidade na regio da coluna lombar, mormente hrnia de disco, no  incomum que a dor seja intermitente e de intensidade varivel, sendo perfeitamente possvel que referidas atividades tenham sido realizadas em momento em que o desconforto no existia ou era pequeno (Processo n. 503174974.2019.8.13.0024). Nesses termos, requereu seja negado provimento ao recurso de apelao interposto pelo Ministrio Pblico (evento 118 - autos de 1a Instncia). Em minuciosos e abalizados pareceres, a e. Procuradora de Justia atuante neste Tribunal, Dra. Elba Rondino, manifestou, in verbis: [.] Pois bem, como se sabe, so pressupostos gerais de admissibilidade de qualquer recurso a previso legal, legitimidade, tempestividade e o interesse. Muito embora se trate de recurso tempestivo e devidamente processado, no se encontra presente o interesse por parte do apelante, o que torna a forma recursal imprpria e as partes ilegtimas. Isso porque, tendo sido decretada a absolvio pura e simples do ru, sem qualquer ressalva, a deciso no lhe gerou sucumbncia alguma, que  exatamente a desconformidade entre o que foi pleiteado e o que foi concedido. Deste modo, reconhecendo-se o interesse em recorrer como decorrente da sucumbncia, que, no caso concreto, inexistiu diante do decreto absolutrio, restou ausente um dos pressupostos recursais, motivo pelo qual, preliminarmente, o Ministrio Pblico opina pelo no conhecimento da apelao da defesa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelao interposto pela defesa foi negado por falta de interesse recursal, pois houve decreto de absolvio pura e simples do ru, sem qualquer ressalva. O Ministrio Pblico tambm opina pelo no conhecimento da apelao da defesa.

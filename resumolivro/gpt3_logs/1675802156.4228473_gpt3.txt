@@ -1,0 +1,33 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O CEDM estabeleceu o sistema de somatorio de pontos que definem a punicao a ser aplicada conforme a natureza da transgressao (leve, media ou grave), as circunstncias agravantes e atenuantes e as recompensas registradas na ficha funcional do militar. Assim, estabelecido o tipo transgressional descrito em um dos incisos dos artigos 13, 14, ou 15 do CEDM, basta iniciar o somatorio a partir da respectiva pontuacao base negativa (artigo 18), computar a pontuacao positiva das atenuantes (artigo 20) e das recompensas (artigo 51) e a pontuacao negativa das agravantes (artigo 21). O esquema a seguir demonstra, de forma didatica e clara, o passo a passo para se calcular a sancao disciplinar do militar, ou seja, a dosimetria da sancao disciplinar:
+Por derradeiro, conforme veremos na tabela a seguir, o resultado obtido do aludido somatorio devera ser confrontado com as margens de pontuacao estabelecidas no artigo 22 do CEDM, que estabelece a sancao a ser aplicada. Ressalta-se que, caso a sancao a ser aplicada seja a de suspensao, devemos nos reportar ao artigo 31 do CEDM, que contem o parmetro para aplicacao da referida sancao, estabelecendo o maximo de dias a depender da pontuacao negativa final e, na sequncia, ao artigo 53 do Decreto 42.843/2002, que fixa o minimo de dias:
+PONTUACAO NEGATIVA FINAL
+SANCAO A SER APLICADA
+1 a 4 pontos
+Advertncia
+5 a 10 pontos
+Repreensao
+11 a 20 pontos
+Prestacao de servico (1 dia de servico)
+21 a 23 pontos
+Minimo 1 e maximo 3 dias de suspensao
+24 a 25 pontos
+Minimo 4 e maximo 5 dias de suspensao
+26 a 28 pontos
+Minimo 6 e maximo 8 dias de suspensao
+29 a 30 pontos
+Minimo 9 e maximo 10 dias de suspensao
+Questao que merece destaque e que foge a qualquer regra razoavel de dosimetria de pena e que, nem sempre, o militar sera sancionado ao final do enquadramento disciplinar, basta que a sua pontuacao positiva decorrente das atenuantes e recompensas sejam superiores em relacao a pontuacao negativa base somada as agravantes.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CEDM estabeleceu o sistema de somatorio de pontos para definir a punição a ser aplicada ao militar de acordo com a natureza da transgressão, as circunstâncias agravantes e atenuantes e as recompensas registradas na ficha funcional. A pontuação negativa final é confrontada com as margens de pontuação estabelecidas no artigo 22 do CEDM para determinar a sancão a ser aplicada. Se a pontuação positiva decorrente das atenuantes e recompensas for superior à pontuação negativa, o militar não será sancionado.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Para os fins da incriminao em exame deve-se entender por sistemas de informao o conjunto ordenado de informaes que permite o acesso e a gesto das informaes armazenadas, que podem ser relacionadas entre si, para a consecuo de um ou mais objetivos. Um sistema de informaes se caracteriza, essencialmente, pela existncia de um conjunto de informaes armazenadas e pela possibilidade de estabelecer uma relao lgica entre as mesmas. Banco de dados. Por banco de dados se deve entender qualquer tipo de coleo ou arquivo de informaes que permita seu armazenamento e organizao para viabilizar o acesso quando necessrio. O banco de dados pode ser fsico ou digital. O banco de dados digital pode estar instalado no disco rgido de memria de um computador ou em dispositivos de memria externa, que permita a conexo com computadores. Administrao pblica. Em sentido formal, a Administrao Pblica  o conjunto de rgos pblicos incumbidos de executar ou fiscalizar as atividades que, direta ou indiretamente, visam  satisfao das necessidades coletivas com bens e servios. Em sentido material, a Administrao Pblica  o conjunto das atividades exercidas pelos referidos rgos. Cabe observar que, muito embora a funo administrativa seja tpica do Poder Executivo, os Poderes Legislativo e Judicirio tambm exercem atividades administrativas no que diz respeito  sua estruturao e funcionamento. No contexto da incriminao em exame o elemento normativo Administrao Pblica no possui o significado restrito de uma das funes do Estado na clssica tripartio dos poderes. Com base na concepo unitria do Estado, que alcana as funes exercidas pelos trs poderes, os crimes que ora nos ocupam a ateno visam proteger o sigilo das informaes relativas s funes administrativas de qualquer dos Poderes e no somente em relao s do Poder Executivo. Para a caracterizao do crime em exame  necessrio que o sujeito ativo tenha perfeita compreenso quanto ao significado do elemento normativo do tipo. O erro quanto ao carter sigiloso da informao divulgada, por exemplo,  causa de inadequao tpica, por excluso do dolo, o que torna o fato penalmente irrelevante. 6.12.6. Imputao objetiva. A divulgao de segredos que  descrita nos tipos incriminadores em exame (figura simples e qualificada), ordinariamente, recebe uma valorao negativa e apresenta-se vivel a imputao objetiva.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os sistemas de informação são conjuntos ordenados de informações que permitem o acesso e a gestão das informações armazenadas, relacionadas entre si para alcançar um ou mais objetivos. A Administração Pública é o conjunto de órgãos públicos responsáveis pela execução ou fiscalização de atividades que visam satisfazer as necessidades coletivas. A divulgação de segredos é considerada uma ação negativa e recebe uma imputação objetiva.

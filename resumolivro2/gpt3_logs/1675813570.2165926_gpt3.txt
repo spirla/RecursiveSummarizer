@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+19.3.3.Procedimento
+A competncia para processar e julgar o mandado de segurana  determinada segundo a hierarquia e a condio federal ou estadual da autoridade coatora . O art. 97 do RISTM estabelece que:
+Conceder-se- mandado de segurana para proteger direito lquido e certo no amparado por Habeas Corpus ou Habeas Data contra ato do Tribunal, do Presidente ou de autoridade judiciria ou administrativa vinculada  Justia Militar, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa fsica ou jurdica sofrer violao ou haver justo receio de sofr-la. Enquanto o art. 97,  1 a 3, do RITJMSP dispe que o Pleno processar e julgar os mandados de segurana cujos recursos sejam de sua competncia, ou, originariamente, quando o coator ou o impetrante estiver diretamente sujeito  sua jurisdio e, tambm, os impetrados contra atos das Cmaras e de seus juzes, enquanto compete s Cmaras processar e julgar os mandados de segurana impetrados contra atos dos juzes de Direito da primeira instncia. O mandado de segurana  uma ao civil de cognio sumria e rito especial. A Lei n. 12.016/2009 trata do contedo da petio no art. 6 e da exibio de documentos nos  1 e 2. Ao despachar a inicial, o juiz ordena a notificao da autoridade coatora para prestar informaes no prazo de 10 dias (art. 7, I), pode conceder tutela de urgncia (art. 7, III) para  que se suspenda o ato que deu motivo ao pedido, quando houver fundamento relevante e do ato impugnado puder resultar a ineficcia da medida, caso seja finalmente deferida . A tutela de urgncia  concedida no incio do processo, cujos efeitos, salvo se revogada ou cassada, persistem at a prolao da sentena. So requisitos necessrios para a concesso o fundamento relevante e a possibilidade de ineficcia da medida ao final deferida .
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O mandado de segurana é uma ação civil de cognição sumária e rito especial para proteger direitos líquidos e certos. A competência para processar e julgar o mandado de segurana é determinada de acordo com a hierarquia e a condição federal ou estadual da autoridade coatora. O juiz pode conceder tutela de urgência para suspender o ato impugnado, desde que haja fundamento relevante e a possibilidade de ineficácia da medida ao final deferida.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A atenuao decorrente de circunstncias posteriores no guarda relao com a exigibilidade de conduta diversa e, portanto, com a culpabilidade. Nesse caso, a atenuante inominada decorre de opo poltico-criminal em favor do ru, no relacionada com o juzo de reprovao da culpabilidade ou com a teoria do crime. 13.2. Antecedentes. Os antecedentes do acusado dizem respeito aos fatos anteriores de sua vida que no so objeto da imputao que autorizou a acusao posta em julgamento. Ordinariamente, imagina-se que essa circunstncia diz respeito apenas aos anteriores processos criminais a que o acusado respondeu, aos inquritos policiais instaurados, s passagens pelo juizado de menores, s condenaes em aes cveis de perda ou suspenso do ptrio poder etc. No entanto,  possvel que o exame dessa circunstncia revele, ao contrrio, fatos demonstrativos de uma boa adaptao do indivduo  sociedade, como ausncia de processos criminais, bom relacionamento familiar, xito profissional ou estudantil, elogios, prmios ou condecoraes recebidos. Na prtica, interessa perceber quais consequncias podem-se extrair do reconhecimento dos maus ou bons antecedentes. Os argumentos manejados na discusso travada na doutrina e jurisprudncia, em especial sobre os maus antecedentes, permitem compreender a importncia da questo. A polmica maior estabelece-se no que diz respeito  considerao dos inquritos policiais, aes penais em curso e anteriores condenaes criminais como indicativos de maus antecedentes. No que diz respeito aos inquritos policiais e s aes penais em andamento, a Suprema Corte brasileira, no julgamento do Recurso Extraordinrio 591.054/SC, em deciso plenria sobre o tema 129 da Repercusso Geral, ocorrida em 17 de dezembro de 2014, consolidou, por maioria de votos (6 a 4), a tese de que a existncia de inquritos policiais ou de aes penais sem trnsito em julgado no pode ser considerada como maus antecedentes para fins de dosimetria da pena. No mesmo sentido, vem decidindo o Superior Tribunal de Justia (HC 126.195), que chegou a editar a Smula 444, que dispe que  vedada a utilizao de inquritos policiais e aes penais em curso para agravar a pena-base. A questo est evidentemente desfocada, revelando que os argumentos desenvolvidos nos julgados mencionados estabelecem confuso entre a culpabilidade relativa ao fato submetido a julgamento e uma possvel reprovao por fatos anteriores.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A atenuao decorrente de circunstncias posteriores não está relacionada à culpabilidade. Os antecedentes do acusado dizem respeito aos fatos anteriores de sua vida e podem revelar boa adaptação do indivíduo à sociedade. A polêmica maior estabelece-se no que diz respeito à consideração dos inquritos policiais, ações penais em curso e anteriores condenações criminais como indicativos de maus antecedentes. A Suprema Corte brasileira e o Superior Tribunal de Justia decidiram que a existência de inquritos policiais ou ações penais sem trânsito em julgado não pode ser considerada como maus antecedentes.

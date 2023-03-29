@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E inconstitucional norma estadual que vede a comercializacao de produtos desenvolvidos a partir de teste em animais, bem como a que determina conste no rotulo informacao acerca da nao realizacao de testes em animais. Isso porque esses dispositivos legais violam a competencia legislativa da Uniao para editar normas gerais sobre producao e consumo, e para legislar sobre comercio interestadual. Ademais, a vedacao imposta genericamente a comercializacao de todo e qualquer produto sem distincao da sua respectiva origem invade a competencia da Uniao para legislar sobre comercio interestadual, nos termos do art. 22, VIII, da CF. Com base nesse entendimento, o Plenario, por maioria, julgou parcialmente procedente pedido formulado em acao direta para declarar a inconstitucionalidade do paragrafo unico do art. 1 e do art. 4 da Lei 7.814/2017 do estado do Rio de Janeiro. ADI 5995/RJ, relator Min. Gilmar Mendes, julgamento em 26 e 27.5.2021 (INF 1019) 2.3 SANEAMENTO BASICO Constitucionalidade do novo marco legal do saneamento basico  ADI 6492/DF, ADI 6536/DF, ADI 6583/DF e ADI 6882/DF Resumo: E constitucional o novo marco legal do saneamento basico. A lei 14.026/2020, fundamentada nos arts 21, XX, 22, XXVII, e 23, IX, da CF/88 (CF), possibilitou a formacao de arranjos federativos de contratacao publica compativeis com a autoadministracao dos municipios. Com efeito, embora a organizacao das atividades continue sob a titularidade dos municipios, o planejamento das politicas de saneamento e o resultado da deliberacao democratica em dois niveis, o Plano federal e o Plano estadual ou regional, nao havendo, assim, se falar em violacao a autonomia municipal. Da mesma forma, nao ocorre ofensa ao principio federativo em decorrencia da nova redacao do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma estadual que vede a comercialização de produtos desenvolvidos a partir de testes em animais, bem como a que determina conste no rótulo informação acerca da não realização de testes em animais, pois violam a competência legislativa da União para editar normas gerais sobre produção e consumo, e para legislar sobre comércio interestadual. 2. É constitucional o novo marco legal do saneamento básico, pois a lei 14.026/2020, fundamentada nos arts 21, XX, 22, XXVII, e 23, IX, da CF/88 (CF), possibilitou a formação de arranjos federativos de contratação pública compatíveis com a autoadministração dos municípios, não havendo, assim, ofensa ao princípio federativo.

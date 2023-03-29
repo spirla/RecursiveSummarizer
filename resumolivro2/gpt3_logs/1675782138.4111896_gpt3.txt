@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A testemunha durante os fatos registra dados especficos e genricos e os armazena. Quando provocada deles se recorda. Esta caracterstica da prova testemunhal envolve o passado, a memria e o esquecimento. Este  a perda gradual do registro da memria. Na mentira involuntria, a testemunha por erro de percepo, de memria ou por sugesto acaba afirmar inverdade de um fato. Na mentira involuntria o agente incorre em erro que exclui o dolo. Na mentira voluntria a testemunha deliberadamente no diz a verdade por razes de amizade, de coleguismo e de solidariedade, entre outras. As falsas memrias so lembranas de algo que no aconteceu ou o reconhecimento de uma pessoa que no estava envolvida. As falsas memrias podem surgir de forma espontnea (genericamente recorda-se um homem jovem e claro) ou so sugeridas, isto , provocada por meio de perguntas. Preciso ver que as falsas memrias no so mentiras. As falsas memrias se diferenciam da mentira, essencialmente, porque, nas primeiras, o agente cr honestamente no que est relatando, pois, a sugesto  externa (ou interna, mas inconsciente), chegando a sofrer com isso. J a mentira  um ato consciente, em que a pessoa tem noo de seu espao de criao e manipulao. Quanto  declarao do conhecimento, a testemunha no pode trazer o depoimento por escrito para l-lo em audincia, porque faltaria a espontaneidade necessria revelada em depoimento oral. As perguntas  testemunha atendem ao princpio do contraditrio. Pequenas contradies no depoimento da testemunha decorrem das prprias imperfeies do psiquismo humano, agravadas, em geral, pelas condies em que o fato ocorreu.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A testemunha armazena dados especficos e genricos e se recorda deles quando provocada. A prova testemunhal envolve o passado, a memria e o esquecimento. Na mentira involuntria, a testemunha incorre em erro que exclui o dolo. Na mentira voluntria, a testemunha deliberadamente não diz a verdade. As falsas memórias são lembranças de algo que não aconteceu ou o reconhecimento de uma pessoa que não estava envolvida. A declaração do conhecimento da testemunha deve ser feita oralmente para garantir a espontaneidade. As perguntas à testemunha atendem ao princípio do contraditório. Pequenas contradições no depoimento da testemunha decorrem das imperfeições do psiquismo humano.

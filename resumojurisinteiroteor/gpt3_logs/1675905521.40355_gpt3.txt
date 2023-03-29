@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O encarregado do procedimento manifestou-se pelo no enquadramento disciplinar do Cad PM Antnio Franceildo Soares Matias - relatrio de Evento 1 - OUT13, pginas 36/47. O agravante foi punido com suspeno de 4 (quatro dias) e deduo de 24 (vinte e quatro) pontos em seu conceito funcional (Evento 1 - OUT18, pginas 15/17). Informou que o meritssimo juiz de direito cooperador na 5a AJME - Cvel indeferiu o pedido de tutela provisria pelas razes seguintes: [...] Decido. Concedo o benefcio da justia gratuita, nos termos da Lei 1060/50, com as alteraes introduzidas pelo CPC/2015 (art. 98 e seguintes), levando em considerao a declarao de 31 hipossuficincia e situao estampada pelos documentos do evento 1. Nos termos do art. 300, caput, do CPC, so requisitos para se alcanar a tutela de urgncia o fumus boni iuris - consistente na probabilidade do direito substancial invocado, e o periculum in mora - consistente no dano potencial prximo, de grave e difcil reparao, com risco  utilidade do processo. No caso, a medida liminar se confunde com o mrito, devendo os fatos serem tratados mediante a aplicao do devido processo legal, aps estabelecido o necessrio contraditrio, mesmo porque, em caso de eventual procedncia da ao, os efeitos da nulidade retroagem. Destarte, prematuro  se concluir pela verossimilhana do direito substancial invocado, posto haver somente o ponto de vista da parte Autora, pendente de ser demonstrado em prova a ser debatida no curso da instruo. Destarte, indefiro o pleito liminar. Cite o Estado de Minas Gerais, atravs do seu Advogado- Geral, a fim de se defender, nos termos dos artigos 335 e seguintes do CPC, no prazo de 30 (trinta) dias teis. Prossiga nos demais atos, conforme o disposto no  4, do artigo 203 do CPC, quanto as fases dos artigos 350 e 351 do mesmo cdigo. Decorrida a fase de impugnao, intime as partes a dizerem, de forma fundamentada, em 05 (cinco) dias teis, se possuem outras provas a produzir, pois, no caso contrrio, se dar o julgamento antecipado da lide. Contra a referida deciso, o autor interps o presente agravo de instrumento. Inicialmente, exps que o PCD de Portaria n. 101.449/2020/EFO iniciou em 30/01/2020 e foi instrudo pelos Boletins de Ocorrncias registrados pelas partes envolvidas na ocorrncia do dia 29 de dezembro de 2019 na cidade de Rifaina-SP.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz indeferiu o pedido de tutela provisria, pois a medida liminar se confundia com o mrito, devendo os fatos serem tratados mediante a aplicao do devido processo legal, aps estabelecido o necessrio contraditrio. O autor interps agravo de instrumento, que foi instruído por Boletins de Ocorrências registrados na ocorrência de 29 de dezembro de 2019.

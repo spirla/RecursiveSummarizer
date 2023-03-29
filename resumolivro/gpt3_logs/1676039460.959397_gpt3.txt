@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nesse modelo, o grau da reprovao pessoal decorria da mensurao do dolo e da culpa verificados na conduta, sendo que a intensidade do dolo e o grau da culpa constituam ndices para aferir a responsabilidade do sujeito. Felizmente, nos dias atuais, parte da doutrina nacional do Direito Penal Militar j reconhece que no  possvel trabalhar com as circunstncias judiciais da intensidade do dolo e do grau de culpa, pois tais elementos subjetivos da conduta no comportam mensurao. Apesar do esforo desenvolvido para identificar maior intensidade no dolo direto do que no dolo eventual e maior gravidade na culpa consciente do que na inconsciente854 e, assim, seguir os termos do CPM, no  possvel superar a impossibilidade de constituir conceitos jurdicos como objetos de valorao da culpabilidade e utilizar duas teorias diversas para identificar o crime. Dolo e culpa no podem ser objetos do juzo de reprovao da culpabilidade porque so conceitos jurdicos abstratos. A teoria causalista acolhida no estatuto repressivo militar no pode mais ser utilizada porque a reforma penal de 1984 regulamentou de modo diverso toda a matria relativa  teoria do crime e revogou implicitamente todos os dispositivos que lhe so incompatveis (artigo 2, pargrafo 1, do Decreto-Lei 4.657/42 - Lei de Introduo s Normas do Direito Brasileiro). Na jurisprudncia, com muito acerto, j decidiu o Superior Tribunal de Justia que o dolo do acusado no pode ser usado na culpabilidade para majorar a pena-base, eis que a vontade livre e direta de praticar o crime  inerente  prpria norma penal incriminadora. (HC 60709/DF). 5.2.3. Concepo normativa. A mudana de paradigma promovida pelo sistema finalista possibilitou a consolidao da concepo normativa de culpabilidade. A teoria finalista da ao observou que o comportamento humano  sempre dirigido pela vontade e, por isso, no se pode realizar o juzo de tipicidade, sem considerar os elementos ontolgicos da conduta. Reelaborando a estratificao analtica do crime, o finalismo concebeu a culpabilidade desprovida de elementos psicolgicos, os quais passaram a integrar o exame de tipicidade. A doutrina normativa restringiu, ento, a culpabilidade a um juzo normativo de reprovao pessoal que tem por objeto a formao da vontade individual que orientou a realizao do crime.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria causalista de culpabilidade não é mais utilizada devido à reforma penal de 1984, que regulamentou de modo diverso toda a matéria relativa à teoria do crime. A teoria finalista da ação observou que o comportamento humano é sempre dirigido pela vontade e, por isso, o juízo de tipicidade não deve considerar os elementos psicológicos da conduta. A doutrina normativa restringiu então a culpabilidade a um juízo normativo de reprovabilidade pessoal.

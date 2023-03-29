@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A entrega dos dados a Administracao nao implica dizer que eles deverao ser expostos ao publico em geral, cabendo aquela, ja com as informacoes em maos, adotar as cautelas necessarias para dar concretude ao art. 5, LXXIX, da CF/88, e a Lei Geral de Protecao de Dados Pessoais (LGPD), ou seja, tais normas nao proibem a coleta dos dados, mas, antes, asseguram que os entes politicos-administrativos deverao respeitar o tratamento nelas conferido. (Informativo n. 747) PROCESSO RMS 58.785-MS, Rel. Min. Sergio Kukina, Primeira Turma, por unanimidade, julgado em 23/08/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Concurso publico. Cotas. Candidato autodeclarado pardo. Posterior recusa pela comissao especial. Caso concreto. Dilacao probatoria. Inadequacao da via mandamental.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A entrega dos dados à Administração não implica que eles devem ser expostos ao público em geral, cabendo à Administração adotar as cautelas necessárias para dar concretude ao art. 5, LXXIX, da CF/88 e à Lei Geral de Proteção de Dados Pessoais (LGPD). 2. As normas não proíbem a coleta dos dados, mas asseguram que os entes políticos-administrativos devem respeitar o tratamento nelas conferido.

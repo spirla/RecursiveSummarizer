@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se, por um lado, o juzo de culpabilidade indicar idntica reprovao para mais de uma infrao, a imputao objetiva consolidar-se- em relao a qualquer delas. Se, por outro lado, for identificado um crime mais grave, a imputao objetiva consolidar-se- apenas em relao a este, com aumento da pena que lhe  reservada. Vale notar que a ao pode consistir em um s ato ou em vrios atos, porque o ato  apenas um fragmento da ao. A noo de conduta que  utilizada para a caracterizao do concurso formal no se identifica com o sentido comum do vocbulo, devendo ser entendida conforme o sentido jurdico, que  valorativo e teleolgico. Contudo, no se pode confundir o concurso formal com as hipteses de crime complexo ou de crime progressivo, j que, nesses casos, a concorrncia de normas penais  apenas aparente e resolve-se pelos princpios da especialidade e consuno. No concurso formal, ocorrem vrios crimes; no crime complexo e no progressivo, caracteriza-se apenas uma figura criminosa. Concurso formal imprprio. Questo importante diz respeito ao concurso formal imprprio. Tem-se o concurso formal imprprio quando, apesar da ao nica, as penas tiverem de ser aplicadas cumulativamente. Nesse caso, o concurso formal deixa de beneficiar o ru. Nos termos do artigo 70, as penas aplicam-se, entretanto, cumulativamente, se a ao ou omisso  dolosa e os crimes concorrentes resultam de desgnios autnomos. O dispositivo deixa claro que o concurso formal no  instituto restrito aos crimes praticados culposamente, como se pode imaginar em um primeiro exame (lembre-se sempre do acidente de veculos em que ocorrem vrias mortes e/ou leses corporais). A prtica de crime resultante de desgnio autnomo  incompatvel com a caracterizao da culpa stricto sensu. Se o sujeito pretende especificamente produzir determinado resultado, no se pode falar em culpa. Para a caracterizao de concurso formal imprprio,  necessrio que os crimes concorrentes resultem de desgnios autnomos. Isso significa que os dois ou mais crimes decorrem de intenes distintas. Vale observar que a concorrncia ideal de infraes pode apresentar-se mesmo com a ocorrncia de crimes dolosos e culposos. Isso se mostra evidente nas hipteses de aberratio ictus e aberratio delicti, com mltiplos resultados, conforme previstas nos artigos 73 e 74 do CP.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juzo de culpabilidade indica reprovao para mais de uma infração, consolidando-se a imputação objetiva em relação ao crime mais grave. A ação pode consistir em um só ato ou em vários atos. O concurso formal impróprio ocorre quando, apesar da ação única, as penas são aplicadas cumulativamente e não beneficia o réu. Para caracterizar o concurso formal impróprio, é necessário que os crimes concorrentes resultem de desígnios autônomos.

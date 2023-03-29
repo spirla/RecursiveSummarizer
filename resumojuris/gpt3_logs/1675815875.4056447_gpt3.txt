@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 642890/DF, relator Ministro Nunes Marques, julgamento virtual finalizado em 7.10.2022 (sexta-feira), as 23:59 (INF 1071) Auditor substituto de conselheiro de Corte de Contas estadual e remuneracao proporcional - ADI 6951/CE e ADI 6952/AM ODS: 16 Resumo: E constitucional norma estadual que preve o pagamento proporcional da remuneracao devida a conselheiro de Tribunal de Contas para auditor em periodo de substituicao. Com efeito, trata-se de compensacao financeira, justa e devida, cuja constitucionalidade ja foi reco-nhecida pelo Supremo Tribunal Federal. Por constituir exercicio temporario das mesmas funcoes, admite-se o pagamento dos mesmos vencimentos e vantagens, por criterio de isonomia. Nao se trata, portanto, de equipa-racao ou vinculacao das remuneracoes das duas carreiras, pratica vedada pela CF/88. Ademais, como o conteudo das normas impugnadas nao e a sistematizacao da remuneracao da carreira de auditor dos Tribunais de Contas estaduais, nao ha ofensa ao art. 37, X, da CF/88. Inexiste, ainda, qual-quer afronta ao modelo federal de fiscalizacao dos Tribunais de Contas, cuja observancia pelos estados e com-pulsoria, nos termos do art. 75 da CF/88. Com base nesses entendimentos, o Plenario, por unanimidade, julgou improcedentes as acoes. ADI 6951/CE, relator Ministro Edson Fachin, julgamento virtual finalizado em 10.6.2022 (sexta-feira), as 23:59 (INF 1058) ADI 6952/AM, relator Ministro Edson Fachin, julgamento virtual finalizado em 10.6.2022 (sexta-feira), as 23:59 (INF 1058) Impossibilidade de concessao de aumento pelo Poder Judiciario com fundamento no prin-cipio da isonomia - ARE 1341061/SC (Tema 1175 RG) Tese fixada: Contraria o disposto na Sumula Vinculante 37 a extensao, pelo Poder Judiciario e com funda-mento no principio da isonomia, do percentual maximo previsto para o Adicional de Compensacao por Disponibilidade Militar, previsto na Lei 13.954/2019, a todos os integrantes das Forcas Armadas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional norma estadual que prevê o pagamento proporcional da remuneração devida a conselheiro de Tribunal de Contas para auditor em período de substituição. 2. É admitido o pagamento dos mesmos vencimentos e vantagens, por critério de isonomia, para exercício temporário das mesmas funções. 3. Não se trata de equiparação ou vinculação das remunerações das duas carreiras, prática vedada pela CF/88. 4. Não há ofensa ao art. 37, X, da CF/88, pois o conteúdo das normas impugnadas não é a sistematização da remuneração da carreira de auditor dos Tribunais de Contas estaduais. 5. Contraria o disposto na Sumula Vinculante 37 a extensão, pelo Poder Judiciário e com fundamento no princípio da isonomia, do percentual máximo previsto para o Adicional de Compensação por Disponibilidade Militar, previsto na Lei 13.954/2019, a todos os integrantes das Forças Armadas.

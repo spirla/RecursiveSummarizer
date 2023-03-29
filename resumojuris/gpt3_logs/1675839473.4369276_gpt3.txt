@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+129 da Lei n. 9.279/1996, sendo certo que abrange o uso da marca em papeis, impressos, propaganda e documentos relativos a atividade do titular , tambem nos termos do art. 131 da mesma lei. Nesse rumo de ideias, e certo que o estimulo a livre iniciativa, dentro ou fora da rede mundial de computadores, deve conhecer limites, sendo inconcebivel reconhecer licita conduta que cause confusao ou associacao proposital a marca de terceiro atuante no mesmo nicho de mercado. (Informativo n. 747) 617 PROCESSO REsp 1.783.269-MG, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, por maioria, julgado em 14/12/2021. RAMO DO DIREITO DIREITO CIVIL, DIREITO DA CRIANCA E DO ADOLESCENTE, DIREITO DIGITAL TEMA Rede social. Provedor de aplicacao. Menor. Protecao integral. Dever de toda a sociedade. Publicacao ofensiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O uso da marca em papeis, impressos, propaganda e documentos relativos à atividade do titular está abrangido pelo art. 129 da Lei n. 9.279/1996. 2. É necessário estabelecer limites ao estimulo à livre iniciativa, para evitar confusão ou associação proposital a marca de terceiro atuante no mesmo nicho de mercado. 3. É dever de toda a sociedade assegurar a proteção integral ao menor em relação à publicação ofensiva na rede social.

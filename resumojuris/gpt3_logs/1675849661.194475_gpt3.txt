@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+220. 1269 PROCESSO HC 582.678-RJ, Rel. Min. Laurita Vaz, Sexta Turma, por unanimidade, julgado em 14/06/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Acordo de colaboracao premiada. Crimes cometidos em coautoria. Possibilidade. Organizacao criminosa estruturada. Desnecessidade. DESTAQUE E possivel celebrar acordo de colaboracao premiada em quaisquer condutas praticadas em concurso de agentes. Examina-se se a homologacao do acordo de colaboracao premiada entabulado entre o Ministerio Publico Estadual e terceiro (o Delator) envolvido em suposto esquema cumpre os requisitos legais. No caso, as apuracoes iniciais realizadas pela Corregedoria-Geral de Justica de Estado indicavam a participacao de ao menos 7 (sete) pessoas naturais com atribuicoes especificas no esquema, supostamente para a pratica de infracoes penais cujas penas maximas sao superiores a 4 (quatro) anos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível celebrar acordo de colaboração premiada em quaisquer condutas praticadas em concurso de agentes. 2. A homologação do acordo de colaboração premiada entabulado entre o Ministério Público Estadual e terceiro (o Delator) envolvido em suposto esquema cumpre os requisitos legais. 3. Não é necessário que a organização criminosa seja estruturada para que se celebre acordo de colaboração premiada.

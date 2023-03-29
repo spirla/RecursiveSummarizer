@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O julgador teria, ento, que considerar a responsabilidade pelo injusto (geral) e a culpabilidade (individual). Na verdade, o exame sobre a reprovabilidade de quem comete o injusto realiza-se no juzo de culpabilidade e no parece haver razes lgicas para desmembrar tal exame. As colocaes de Roxin e Maurach evidenciam a necessidade de melhorar o conceito de culpabilidade, de modo a permitir avaliaes mais precisas sobre a necessidade e as consequncias da reprovao penal do indivduo. Conforme o entendimento predominante, o conceito analtico do crime foi elaborado para viabilizar os exames da tipicidade, ilicitude e culpabilidade. A punibilidade  a consequncia jurdica da prtica do crime, e no seu elemento. Zaffaroni esclarece que o duplo sentido atribudo  punibilidade induz ao equvoco (tautolgico) de considerar-se a punibilidade elemento do conceito de crime. A punibilidade, entendida como merecimento da pena, nunca pode ser desvinculada do crime, mas a punibilidade entendida como possibilidade jurdica de fazer efetiva a penalidade que o crime merece  um problema que deve se resolver no ncleo central da teoria da coero penal. O sentido juridicamente vlido de punibilidade  o de possibilidade de aplicar-se a efetiva sano criminal ao infrator. Vale observar que a punibilidade no importa necessariamente a punio do infrator. Mesmo aps a condenao, essa possibilidade pode deixar de existir, tendo em vista a supervenincia de fatos que tornem impossvel ou inconveniente a punio. A morte do condenado  exemplo marcante de fato superveniente que torna impossvel a aplicao da pena. As causas extintivas da punibilidade nada mais so que fatos ou atos jurdicos que, expressamente previstos pelo legislador, impedem o Estado de realizar a punio do infrator da norma jurdico-penal. Na verdade, nesses casos, ocorre a extino da responsabilidade penal, e essa expresso  mais adequada do que a expresso extino da punibilidade. A expresso punibilidade estimula o sentimento de vingana e induz  interpretao de que, no ocorrendo a aplicao da pena, haver impunidade. Impunidade  expresso por demais desgastada, diante da vulgarizao que lhe causou seu emprego pelos meios de comunicao de massa, quando em trabalho de crtica ao sistema repressivo estatal. A populao  estimulada pela mdia a perseguir, a todo custo, a punio exemplar do infrator, que materializa verdadeiro ato de vingana promovido pela autoridade pblica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O julgador deve considerar a responsabilidade geral e a culpabilidade individual do infrator. Roxin e Maurach defendem a necessidade de melhorar o conceito de culpabilidade para avaliaes mais precisas da punibilidade. A punibilidade entendida como possibilidade de aplicar sano criminal ao infrator e pode ser extinta por fatos supervenientes, como a morte do condenado, ou por atos jurdicos previstos pelo legislador.

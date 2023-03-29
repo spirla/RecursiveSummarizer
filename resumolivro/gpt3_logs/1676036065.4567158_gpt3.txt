@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Cdigo Penal comum tambm no contm um dispositivo que esclarea qual modelo terico foi adotado para identificar a conduta criminosa, sendo necessrio extrair dos dispositivos legais que contm as diretrizes tericas para o trabalho analtico do crime. A reforma penal promovida pela Lei 7.209/84 direcionou-se expressamente para a parte geral do Cdigo Penal comum (artigo 1), o que parece no produzir efeitos sobre o estatuto repressivo militar. Ao tratar dos crimes dolosos e culposos, em seu artigo 18, a nova parte geral do Cdigo Penal comum retirou a rubrica culpabilidade. A mudana indica que no se pode mais entender dolo e culpa como elementos conceituais do juzo de culpabilidade. Com a nova redao do artigo 20, fica claro que os referidos elementos conceituais passaram a integrar o juzo de tipicidade. Se o erro de tipo exclui o dolo, mas permite punio por culpa, dolo e culpa so elementos do tipo incriminador e no da culpabilidade. Com base nos referidos artigos, pode-se afirmar que o estatuto repressivo nacional acolheu a mudana sistemtica proposta pela teoria finalista119 e se apresenta coerente com uma parte especial que distingue tipos incriminadores dolosos e culposos. No que diz respeito  culpabilidade, as mudanas foram igualmente relevantes. A nova parte geral, ao tratar do concurso de pessoas, em seu artigo 29, deixa claro que a culpabilidade  individual e que a reprovao de cada um dos participantes do crime encontra limite na medida de sua prpria culpabilidade. Isto indica que  no juzo de culpabilidade que se realiza a reprovao normativa de quem realiza o comportamento proibido. A nova parte geral, em seu artigo 21, fez expressa distino entre o desconhecimento da lei e a potencial conscincia da ilicitude do fato, reafirmando o carter normativo da culpabilidade conforme a proposta finalista. A redao conferida ao artigo 59, por sua vez, substituiu as antigas circunstncias judiciais relativas  intensidade do dolo e ao grau de culpa por culpabilidade. A mudana indica que a culpabilidade foi concebida conforme a teoria normativa pura, no havendo espaos para a valorao de conceitos referidos a elementos psicolgicos. Cabe observar, entretanto, que o Cdigo Penal traz apenas algumas referncias  teoria do crime. As referncias existentes evidenciam a correo dos problemas existentes com a adoo do sistema clssico, mas tambm permitem superar as limitaes dos sistemas de ndole naturalista.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal comum foi reformado pela Lei 7.209/84, retirando a rubrica culpabilidade e direcionando-se expressamente para a parte geral. O juízo de tipicidade foi alterado, excluindo o dolo, mas permitindo punição por culpa. A culpabilidade foi concebida conforme a teoria normativa pura, não havendo espaço para elementos psicológicos. A reforma corrigiu problemas do sistema clássico e superou limitações dos sistemas naturalistas.

@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nessa linha, o STJ entendeu que as disposies do artigo 226 do CPP - correlatas s disposies do artigo 368 do CPPM - no passam de recomendao legal e caso no sejam observadas no acarretam nulidade:
+Esta Corte Superior de Justia firmou o entendimento no sentido de que as disposies insculpidas no artigo 226 do CPP configuram uma recomendao legal, e no uma exigncia, cuja inobservncia no enseja a nulidade do ato, adquire ainda mais quando examinado em conjunto com os demais elementos coletados durante a instruo processual. Por fim, de acordo com o enunciado na edio 69 do Jurisprudncia em Teses, o STJ firmou o entendimento:
+As irregularidades relativas ao reconhecimento pessoal do acusado no ensejam nulidade, uma vez que as formalidades previstas no artigo 226 do CPP so meras recomendaes legais. No h reconhecimento coletivo, nos termos do artigo 370 do CPPM:
+Se vrias forem as pessoas chamadas a efetuar o reconhecimento de pessoa, cada uma o far em separado, evitando-se qualquer comunicao entre elas. Se forem vrias as pessoas ou coisas que tiverem de ser reconhecidas, cada uma o ser por sua vez. O disposto na aliena c do artigo 368 - reconhecimento atravs de sala de reconhecimento - tem aplicao no IPM (CPPM, artigo 368, pargrafo 1). Assim, o reconhecimento em audincia  feito vis--vis. O juiz pede para o depoente descrever fisicamente a pessoa a ser reconhecida, em seguida que olhe para o ru e diga se o reconhece. Demonstra segurana o depoente que, sem demonstrar temor, olhar para o ru e responder  indagao se o reconhece ou no;
+de outro giro, se o depoente se negar olhar para o ru por receio o reconhecimento ficar, de certo modo prejudicado. O juiz sempre pergunta ao reconhecedor por que reconhece ou deixa de reconhecer o ru.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ entendeu que as disposições do artigo 226 do CPP são recomendações legais e não exigências, e que a inobservância destas não acarreta nulidade. O reconhecimento em audiência é feito vis-à-vis, e o juiz sempre pergunta ao reconhecedor por que reconhece ou não reconhece o réu.

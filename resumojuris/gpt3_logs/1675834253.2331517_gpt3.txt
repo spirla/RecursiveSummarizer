@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+14 da Lei n. 10.259/2001, cabe Pedido de Uniformizacao de Interpretacao de Lei Federal quando as decisoes das Turmas Recursais forem proferidas em desacordo com a jurisprudencia dominante do STJ. Neste contexto, as duas Turmas da Primeira Secao tem posicionamento uniforme, no sentido de que a indenizacao, prevista no art. 16 da Lei n. 8.216/91, deve ser reajustada, pelo Poder Executivo, na mesma data e percentuais de reajustes aplicados as diarias. (Informativo  Ed. Especial n. 5) Lei n. 8.216/1991, art. 16; Lei n. 8.270/1991, art. 15; Lei n. 10.259/2001, art. 14; e Decreto n. 6.907/2009. SUMULAS Sumula n. 58 da TNU. 146 Processo MS 25.318-DF, Rel. Min. Gurgel de Faria, Primeira Secao, por unanimidade, julgado em 22/06/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Cabe Pedido de Uniformização de Interpretação de Lei Federal quando as decisões das Turmas Recursais forem proferidas em desacordo com a jurisprudência dominante do STJ (Lei n. 10.259/2001, art. 14). 2. A indenização prevista no art. 16 da Lei n. 8.216/91 deve ser reajustada, pelo Poder Executivo, na mesma data e percentuais de reajustes aplicados às diárias (Lei n. 8.216/1991, art. 16; Lei n. 8.270/1991, art. 15; Decreto n. 6.907/2009). 3. A TNU possui a Sumula n. 58.

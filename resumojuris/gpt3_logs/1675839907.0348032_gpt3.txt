@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo  Ed. Especial n. 7) 688 PROCESSO AgInt na SEC 6.362-EX, Rel. Min. Jorge Mussi, Corte Especial, por unanimidade, julgado em 01/06/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO INTERNACIONAL, DIREITO PROCESSUAL CIVIL TEMA Homologacao de sentenca estrangeira. Guarda de crianca concedida ao pai. Acao judicial posterior, com transito em julgado, na jurisdicao brasileira. Dispositivos em conflito. Sentenca estrangeira nao homologada. DESTAQUE A mera pendencia de acao judicial no Brasil nao impede a homologacao da sentenca estrangeira, mas a existencia de decisao judicial proferida no Brasil contraria ao conteudo da sentenca estrangeira impede a sua homologacao. A controversia apresentada pelas partes limita-se aos efeitos de decisao judicial brasileira dispondo em sentido diverso daquela proferida no exterior. Nesse contexto, convem esclarecer que foram apresentadas para homologacao duas sentencas proferidas pela jurisdicao de Ontario, Canada, que concedeu ao pai a guarda da filha dos ex-conjuges, ambos brasileiros.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A mera pendência de ação judicial no Brasil não impede a homologação de sentença estrangeira. 2. A existência de decisão judicial proferida no Brasil contrária ao conteúdo da sentença estrangeira impede a sua homologação.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Quem tem que provar o alegado (nus da prova)  a acusao.  fundamental para condenar a certeza da autoria e da culpabilidade, de modo que subsistindo dvida, o acusado deve ser absolvido. Se a prova existente for insuficiente para condenar ou se a prova estiver dividida, h prova favorvel e desfavorvel  verso dada pelo acusado, ou, se no h prova consistente em corroborar a denncia, ou se no aflorou dos autos prova inconcussa da verossimilhana das acusaes, a absolvio  de rigor. Como  de rigor a absolvio se no h prova contundente no conjunto probatrio que se contraponha  verso do acusado. A prova, para embasar um decreto condenatrio, tem de ser plena, robusta e estreme de dvidas. Alegaes aleatrias, imprecisas e contraditrias geram dvida. Como leciona Aury Lopes Jnior, ao lado da presuno de inocncia, como critrio pragmtico de soluo de incerteza (dvida) judicial, o princpio do in dubio pro reo corrobora a atribuio da carga probatria ao acusador e refora a regra de julgamento (no condenar o ru sem que sua culpabilidade tenha sido suficientemente demonstrada). A nica certeza exigida pelo processo penal refere-se  prova da autoria e da materialidade, necessrias para que se prolate uma sentena condenatria. Do contrrio, em no se alcanando esse grau de convencimento (e liberao de cargas), a absolvio  imperativa. 16.3.1.6. Estar extinta a punibilidade. A extino da punibilidade poder ser reconhecida e declarada em qualquer fase do processo, de ofcio ou a requerimento de qualquer das partes, ouvido o Ministrio Pblico, se deste no for o pedido (artigo 81, CPPM). As causas de extino da punibilidade esto no artigo 123, I a VI, e pargrafo nico, do Cdigo de Penal Militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O nus da prova da acusação é fundamental para condenar o acusado, sendo que, se a prova existente for insuficiente ou dividida, ou não houver prova consistente para corroborar a denúncia, a absolvição é de rigor. A extinção da punibilidade pode ser reconhecida em qualquer fase do processo, de ofício ou a requerimento de qualquer das partes, ouvido o Ministério Público.

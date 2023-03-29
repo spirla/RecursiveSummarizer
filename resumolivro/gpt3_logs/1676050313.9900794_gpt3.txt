@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como a anistia impede a subsuno do comportamento  norma incriminadora, resta desconstituda a sentena condenatria que poderia constituir o ttulo executivo da obrigao de reparar/indenizar os danos causados pelo crime. No  possvel, portanto, extrair efeitos civis de deciso condenatria desconstituda. Mas, se a anistia anula os efeitos da sentena penal, na rea cvel, nada impede a propositura de ao de conhecimento, prpria  satisfao dos interesses da pretenso de ressarcimento. Vale observar que a Constituio da Repblica, em seu artigo 5, XLIII, impede que seja aplicado o benefcio da graa e da anistia aos crimes hediondos,21  tortura,22 ao trfico ilcito de entorpecentes e drogas afins23 e ao terrorismo. O dispositivo constitucional no veda expressamente a concesso do indulto. Entretanto, como o indulto  uma graa deferida a um nmero indeterminado de pessoas (perdo coletivo), tambm no  possvel a concesso deste. 21.3.2. Graa. A graa, ou, na perspectiva da LEP, o indulto individual, pode ser concedida por provocao do condenado; por qualquer do povo; pelo Conselho Penitencirio ou pelo Ministrio Pblico. Entretanto, o Cdigo de Processo Penal ressalva ao Presidente da Repblica a faculdade de conced-la espontaneamente (artigo 734). Poder ser total, quando se referir  totalidade da pena aplicada, ou parcial, se objetiva diminuir, comutar ou substituir a pena aplicada. S ser concedida aps o trnsito em julgado da deciso condenatria e no produz efeitos sobre as consequncias civis do crime. A graa somente dever ser deferida em situaes especiais, sempre em ateno aos interesses pblicos. Exigindo fundamentao excepcional para o perdo individual, a graa no  concedida com frequncia. Em princpio, o perdo da graa no pode ser recusado pelo beneficirio. Contudo, se o perdo for parcial, a comutao da pena poder ser recusada pelo condenado, conforme o artigo 739 do CPP. A graa  ato do Poder Executivo, cabendo ao Presidente da Repblica o poder de conced-la aps procedimento administrativo perante o Ministrio da Justia, com parecer do Conselho Penitencirio. Diante do decreto presidencial, o juiz da execuo declarar extinta a responsabilidade ou ajustar a execuo aos termos do decreto, no caso de reduo ou comutao de pena. As previses para o indulto individual (graa) constantes da LEP (artigos 187 a 192) e do CPP consideram como beneficiria a pessoa condenada, no exigindo que a condenao tenha transitado em julgado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A anistia impede a subsuno do comportamento norma incriminadora, desconstituindo a sentena condenatria, impossibilitando o título executivo da obrigação de reparar/indenizar os danos causados pelo crime. A Constituição da República impede a aplicação da anistia aos crimes hediondos, tortura, tráfico ilícito de entorpecentes e drogas afins e terrorismo. O indulto individual (graça) pode ser concedido por provocação do condenado, qualquer pessoa, Conselho Penitenciário ou Ministério Público, sendo ato do Poder Executivo.

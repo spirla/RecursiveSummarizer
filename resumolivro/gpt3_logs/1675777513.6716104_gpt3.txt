@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Lacuna. Aplicacao subsidiaria. O Codigo de Processo Civil, no mbito da jurisdicao nao criminal, serve de texto-base a disciplina processual. Assim sendo, os temas (processuais) que nao encontrarem disciplina especifica no mbito de sua especializacao serao regidos na forma que dispuser o NCPC. 2. O rol a que alude o artigo 15 e meramente exemplificativo. A aplicacao subsidiaria do Codigo nao se limita, a evidncia, - aos processos: eleitoral, trabalhista e administrativo. Tratando-se de jurisdicao nao criminal, o Codigo tem aplicacao secundaria, no que tange a materia processual, a quaisquer especializacoes, salvo disposicao expressa de lei. (Novo codigo de processo civil anotado / OAB. - Porto Alegre : OAB RS, 2015, p. 34)
+Complementando, Alexandre Freitas Cmara esclarece que:
+Certo e que o Codigo de Processo Civil veicula a lei processual comum, a ser aplicada como regra geral a todos os processos judiciais ou administrativos em curso no Brasil, ressalvada apenas a existncia de lei especifica (como e o caso do Codigo de Processo Penal, da Consolidacao das Leis do Trabalho ou da Lei de Processos Administrativos Federais) ou, no caso de omissao da lei especifica, de incompatibilidade entre esta e a lei geral (caso em que se fala de aplicacao subsidiaria do CPC). Alem disso, o Codigo de Processo Civil se aplica aos processos eleitorais, trabalhistas e administrativos em carater supletivo. Assim, quando o CEDM for incompleto ou omisso no que tange ao processamento da comunicacao disciplinar, impoe-se a aplicacao das disposicoes do novo CPC, mormente no que tange a instrucao probatoria. Nesse sentido, apresento um rol exemplificativo de aplicacoes do CPC, de forma supletiva e subsidiaria, no processamento da comunicacao disciplinar, com atencao especial para a prova testemunhal, que e aquela em que os encarregados de processos mais encontram embargos:
+ Limitacao do rol de testemunhas
+O paragrafo 6 do artigo 357 do CPC estabelece que, o numero de testemunhas arroladas nao pode ser superior a 10 (dez), sendo 3 (trs), no maximo, para a prova de cada fato.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código de Processo Civil é a lei processual comum aplicável a todos os processos judiciais ou administrativos no Brasil, exceto quando houver lei específica ou incompatibilidade entre ela e a lei geral. O CPC também se aplica aos processos eleitorais, trabalhistas e administrativos de forma supletiva e subsidiária. O número de testemunhas arroladas não pode ser superior a 10, sendo 3, no máximo, para a prova de cada fato.

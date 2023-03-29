@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Corte Militar reiterou no ter suporte constitucional inibir a concesso da liberdade provisria, consoante a vedao contida no artigo 270, pargrafo nico, alnea b, do CPPM, uma vez que tal dispositivo no foi recepcionado pela Constituio Federal (artigo 5, LIV e LXVI). O STM reafirmou esse entendimento jurisprudencial:
+A despeito da restrio contida no artigo 270, pargrafo nico, letra b, do CPPM, a jurisprudncia desta Corte admite a concesso de liberdade provisria a Acusados pela prtica dos delitos relacionados no citado dispositivo, eis que tal vedao no foi recepcionada pela Constituio Federal. A primeira interpretao, hoje minoritria, ainda esbarra em dois aspectos que no podem ser desconsiderados. Aos crimes em que  vedada a liberdade provisria, de violncia contra superior (artigo 157), desrespeito a superior (artigo 160), recusa de obedincia (artigo 163), oposio a ordem de sentinela (artigo 164), publicao ou crtica indevida (artigo 166), ofensa aviltante a inferior (artigo 176), de resistncia (artigo 177), desero (artigo 187), desero por evaso ou fuga (artigo 192), de pederastia ou outro ato de libidinagem (artigo 235) e desacato a militar (artigo 299) do Cdigo Penal Militar, abstratamente, atingem diretamente ou indiretamente a hierarquia e a disciplina militar, no entanto, a vedao deve ser afastada porque retira do juiz a possibilidade de apreciar a gravidade concreta do fato e se a conduta, de fato, atingiu a hierarquia e a disciplina militar. Outro motivo pelo qual a primeira interpretao tambm no se sustenta  que crimes de desrespeito a smbolo nacional (artigo 161), de despojamento desprezvel (artigo 162), de abuso de requisio (artigo 173), de fuga de preso ou internado (artigo 178) e de ingresso clandestino (artigo 302) do estatuto repressivo castrense nem sempre afetam a disciplina e a hierarquia militar, tampouco so graves a ponto de o artigo 270, alnea b, do CPPM, impedir a concesso de liberdade provisria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Corte Militar reafirmou que, embora o artigo 270, pargrafo nico, letra b, do CPPM vede a concesso de liberdade provisria para alguns crimes, tal vedao no foi recepcionada pela Constituio Federal. A jurisprudncia admite a concesso de liberdade provisria para esses crimes, desde que sejam avaliados os fatos concretos e se a conduta atingiu a hierarquia e a disciplina militar.

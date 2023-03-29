@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Sobre a punio que acompanha a transgresso da lei moral, afirma o filsofo alemo que:
+embora aquele que castiga possa ter ao mesmo tempo a boa inteno de dirigir igualmente a punio para esse fim, ela deve no entanto justificar-se antes como castigo, isto , como simples mal em si, de maneira que o castigado, se as coisas ficassem por a e ele no divisasse nenhum favor oculto por detrs desse rigor, deve admitir pessoalmente que se lhe fez justia e que a sua sorte corresponde perfeitamente  sua conduta [...] o castigo  um mal fsico que, ainda mesmo que no estivesse ligado ao mal moral como consequncia natural, deveria apesar de tudo estar-lhe associado como consequncia segundo os princpios de uma legislao moral. Segundo Kant, a pena realiza a justa retribuio de um mal por outro. A pena judicial, ao contrrio da pena natural, em que o vcio constitui o prprio castigo, no pode ser aplicada visando a alcanar-se outros fins, seja para a sociedade, seja para o criminoso. A pena deve ser aplicada ao indivduo unicamente pelo fato de ter violado a ordem jurdica, no sendo possvel tomar-se o homem como instrumento para a obteno de outros fins. Assim, na hiptese de dissoluo da sociedade, por deciso consensual de seus membros, o ltimo assassino que estivesse no crcere deveria ser executado, para que cada indivduo recebesse a pena merecida pelo crime que cometeu. Considerando que princpios morais sustentam a aplicao da pena, caso esta deixe de ser aplicada, o prprio povo poderia ser considerado cmplice da violao da lei. A ideia de retribuio, sob esse aspecto, pressupe a superioridade moral da comunidade sobre a pessoa do criminoso. De maneira utpica, essa construo deixa de perceber que a realidade social pode fazer que os indivduos que no aceitam os valores sociais predominantes tambm no reconheam qualquer legitimidade no ordenamento jurdico e, tampouco, na aplicao da pena. A confuso do Direito com a moral tambm induz  confuso entre as noes de Justia e validez. No  correto, ainda, pressupor que todo crime representa violao da ordem tica. Na realidade, vrios crimes no contrastam com a ordem tica predominante. O princpio de retribuio moral, sustentado pela necessidade racional da lei, desconsidera que essa racionalidade seja direcionada por uma finalidade determinada, e que a ausncia dessa finalidade seja capaz de tornar o mandamento legal irracional.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Segundo Kant, a pena deve ser aplicada como retribuio de um mal por outro e não para fins sociais ou para o criminoso. O princípio de retribuição moral pressupõe que a racionalidade da lei seja direcionada por uma finalidade determinada e que a ausência dessa finalidade seja capaz de tornar o mandamento legal irracional.

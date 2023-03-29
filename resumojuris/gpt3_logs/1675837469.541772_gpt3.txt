@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse contexto, a aplicacao dos referidos enunciados sumulares, em processos de natureza civel, tem sido mitigada no ambito deste Tribunal Superior. A Segunda Turma afirmou a necessidade de uma distincao (distinguishing) na aplicacao das Sumulas 208 e 209 do STJ, no ambito civel, pois tais enunciados provem da Terceira Secao deste Superior Tribunal, e versam hipoteses de fixacao da competencia em materia penal, em que basta o interesse da Uniao ou de suas autarquias para deslocar a competencia para a Justica Federal, nos termos do inciso IV do art. 109 da CF. Logo adiante concluiu que a competencia da Justica Federal, em materia civel, e aquela prevista no art. 109, I, da CF/88, que tem por base criterio objetivo, sendo fixada tao so em razao dos figurantes da relacao processual, prescindindo da analise da materia discutida na lide (REsp 1.325.491/BA, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 05/06/2014, DJe 25/06/2014). Assim, nas acoes de ressarcimento ao erario e improbidade administrativa ajuizadas em face de eventuais irregularidades praticadas na utilizacao ou prestacao de contas de valores decorrentes de convenio federal, o simples fato das verbas estarem sujeitas a prestacao de contas perante o Tribunal de Contas da Uniao, por si so, nao justifica a competencia da Justica Federal. O Supremo Tribunal Federal ja afirmou que o fato dos valores envolvidos transferidos pela Uniao para os demais entes federativos estarem eventualmente sujeitos a fiscalizacao do Tribunal de Contas da Uniao nao e capaz de alterar a competencia, pois a competencia civel da Justica Federal exige o efetivo cumprimento da regra prevista no art. 109, I, da CF/88. Igualmente, a mera transferencia e incorporacao ao patrimonio municipal de verba desviada, no ambito civil, nao pode impor de maneira absoluta a competencia da Justica Estadual.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A aplicação das Sumulas 208 e 209 do STJ, no âmbito cível, necessita de uma distinção; 2. A competência da Justiça Federal, em matéria cível, é aquela prevista no art. 109, I, da CF/88, que tem por base critério objetivo, sendo fixada tão somente em razão dos figurantes da relação processual; 3. O fato dos valores envolvidos transferidos pela União para os demais entes federativos estarem eventualmente sujeitos a fiscalização do Tribunal de Contas da União não é capaz de alterar a competência; 4. A mera transferência e incorporação ao patrimônio municipal de verba desviada, no âmbito civil, não pode impor de maneira absoluta a competência da Justiça Estadual.

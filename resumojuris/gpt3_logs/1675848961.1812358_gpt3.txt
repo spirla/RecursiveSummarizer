@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+nao ha duvida acerca da identificacao do investigado; IV. o delito pelo qual se determinou a providencia restritiva nao deixa vestigios; V. nao ha comprovacao bastante de que a identificacao genetica do investigado e essencial para a investigacao criminal; VI. nao se trata de material biologico descartado; VII. a coleta dos dados organicos depende da intervencao no corpo do individuo, nao consentida; VIII. o investigado, em principio, e primario, de modo que nao ha motivo idoneo, ao menos por ora, para a inclusao do seu perfil biologico em banco estatal de dados geneticos; IX. ha discussao relevante no Supremo Tribunal Federal sobre a possibilidade de atos semelhantes ao ora impugnado violarem direito a personalidade de pessoas definitivamente condenadas, bem como a prerrogativa de os reus nao se autoincriminarem (conforme, inclusive, orientacao da Corte Europeia de Direitos Humanos); e X. a especie nao se adequa aos precedentes do STJ, que se reportam a sentenciados, a material descartado ou ao consentimento da provisao dos dados biologicos pelos reus. (Informativo n. 750) 1250 PROCESSO Processo sob segredo de justica, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por maioria, julgado em 20/09/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Violencia domestica. Medidas protetivas de urgencia. Conclusao do inquerito policial sem indiciamento do recorrente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I. Não há dúvida acerca da identificação do investigado; II. O delito pelo qual se determinou a providência restritiva não deixa vestígios; III. Não há comprovação bastante de que a identificação genética do investigado é essencial para a investigação criminal; IV. Não se trata de material biológico descartado; V. A coleta dos dados orgânicos depende da intervenção no corpo do indivíduo, não consentida; VI. O investigado, em princípio, é primário, de modo que não há motivo idôneo, ao menos por ora, para a inclusão do seu perfil biológico em banco estatal de dados genéticos; VII. Há discussão relevante no Supremo Tribunal Federal sobre a possibilidade de atos semelhantes ao ora impugnado violarem direito à personalidade de pessoas definitivamente condenadas, bem como a prerrogativa de os réus não se autoincriminarem; VIII. A espécie não se adequa aos precedentes do STJ, que se reportam a sentenciados, a material descartado ou ao consentimento da provisão dos dados biológicos pelos réus.

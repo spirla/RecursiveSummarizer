@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A doutrina brasileira estabelece diferenas entre atos de prova, praticados em estrita observncia da publicidade, contradio e imediao ante o juiz que julgar o processo para convenc-lo da verdade de uma afirmao, e atos de investigao, produzidos na fase pr-processual sem observncia de publicidade, contradio e imediao, que formam um juzo de probabilidade (no de certeza) e servem para a formao da opinio delicti do acusador e de limitado valor probatrio. A unilateralidade das investigaes desenvolvidas pela polcia judiciria militar no autoriza, sob pena de grave ofensa  garantia constitucional do contraditrio e da plenitude de defesa, a condenao do acusado exclusivamente com base nos elementos informativos colhidos no IPM, porquanto assim determina a regncia do artigo 297 do CPPM:
+O juiz formar convico pela livre apreciao do conjunto das provas colhidas em juzo. O depoimento de testemunha, declarao de vtima e do indiciado colhidos no IPM so elementos informativos destinados a instruir o rgo da acusao penal a promover a persecutio criminis in judicio, que para terem valor probatrio devem ser renovados em juzo na presena do juiz ou do Conselho de Justia, do Ministrio Pblico e do defensor, portanto, em contraditrio. Os elementos informativos no so desprezveis. Se convergentes com as provas produzidas em contraditrio, reforam o convencimento do julgador. Cabe notar, ainda, que constituem justa causa para ao penal e servem para o juiz fundamentar a adoo de medidas cautelares. Outra consequncia de o IPM ser uma pea informativa e administrativa  que os vcios ou irregularidades nos elementos informativos no contaminam de nulidade a ao penal. A orientao jurisprudencial do STF  no sentido de que se mostra invivel a anulao do processo penal em razo das irregularidades detectadas no inqurito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina brasileira estabelece diferenças entre atos de prova e atos de investigação. A unilateralidade das investigações desenvolvidas pela polícia judiciária militar não autoriza a condenação do acusado com base nos elementos informativos colhidos no IPM, pois devem ser renovados em juízo com contraditório. Os elementos informativos podem reforçar o convencimento do julgador, mas não contamina de nulidade a ação penal.

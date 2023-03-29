@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Conforme demonstrado na deciso agravada, verifica-se que a Primeira Cmara deste Tribunal, durante o julgamento do acrdo combatido no recurso extraordinrio, por unanimidade, negou provimento ao recurso de apelao e manteve a sentena proferida em primeiro grau de jurisdio, que culminou com a sua punio disciplinar tipificada no artigo 13, inciso XII, da Lei Estadual n. 14.310/2002, com esteio nos seguintes fundamentos. [...] Quanto  alegao de nulidade pela falta de nomeao de defensor ad hoc, entendo no assistir razo ao recorrente. O Supremo Tribunal Federal (STF), por meio da edio da Smula Vinculante n. 5, nesse sentido, esclarece que a falta de defesa tcnica por advogado, em processo administrativo-disciplinar, no ofende a Constituio. [.] Quanto  alegao de ausncia de fundamentao para a pleiteada audio de militar, entendo que tambm no assiste razo ao apelante.  verdade que o MAPPA, em seu art. 291,  3, prev situaes excepcionais em que se demonstra possvel a apresentao de testemunhas no momento ou aps a apresentao das razes escritas de defesa (RED), quais sejam, casos de contribuio para a busca da verdade real em que no tenha sido possvel a produo de prova em momento anterior, ou, ainda, havendo justificativa relevante. A regra geral, contudo,  de vedao a essa possibilidade. [.] Por derradeiro, quanto  alegao de vcios no procedimento de degravao de udio utilizado na SAD, tambm entendo no caber razo ao apelante. O art. 256 do MAPPA deixa claro inexistir necessidade de cincia, tampouco consentimento para gravao de conversao em telefones de emergncia do servio pblico, como  o caso do teleatendimento do telefone 190. Nesse sentido, no h que se falar, via de regra, em ataque  intimidade ou  privacidade daqueles que tenham suas falas gravadas no aludido teleatendimento. [.] Essas irregularidades, contudo, no influem na apurao do ocorrido. Fato  que foi registrado um dilogo entre o atendente e o apelante, e que nesse dilogo consta a existncia de comentrios realizados pelo apelante, esses aptos a serem alvo de um processo administrativo- disciplinar. A degravao constitui apenas uma das provas consideradas pela Administrao Militar para solucionar a apurao. O apelante alega prejuzo sem, contudo, indicar qual  o prejuzo concreto que sofreu. Em suas palavras: justamente em decorrncia de no serem observadas formalidades necessrias  degravao, houve efetivo prejuzo ao apelante, pois prejudicou sim o entendimento do inteiro teor da suposta conversa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Primeira Câmara deste Tribunal, por unanimidade, negou provimento ao recurso de apelação e manteve a sentença proferida em primeiro grau de jurisdição, que culminou com a punição disciplinar do apelante. A Smula Vinculante n. 5 do STF esclarece que a falta de defesa técnica por advogado, em processo administrativo-disciplinar, não ofende a Constituição. O MAPPA, em seu artigo 291, 3, prevê situações excepcionais em que se demonstra possível a apresentação de testemunhas, contudo, a regra geral é a vedação dessa possibilidade. O artigo 256 do MAPPA deixa claro que não há necessidade de ciência ou consentimento para a gravação de conversa em telefones de emergência do serviço público. Assim, as irregularidades não influem na apuração do ocorrido.

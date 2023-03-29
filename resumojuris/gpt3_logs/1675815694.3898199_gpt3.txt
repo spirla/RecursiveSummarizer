@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6603/DF, relatora Ministra Rosa Weber, julgamento virtual finalizado em 13.9.2022 (sexta-feira), as 23:59 (INF 1067) 1.11 PROCESSO ADMINISTRATIVO Processo administrativo e principio da publicidade - ADI 5371/DF Tese fixada: Os processos administrativos sancionadores instaurados por agencias reguladoras contra con-cessionarias de servico publico devem obedecer ao principio da publicidade durante toda a sua tramita-cao, ressalvados eventuais atos que se enquadrem nas hipoteses de sigilo previstas em lei e na Constitui-cao . Resumo: Em regra, a imposicao de sigilo a processos administrativos sancionadores, instaurados por agencias reguladoras contra concessionarias de servico publico, e incompativel com a Constituicao. Isso porque (i) a regra no regime democratico instaurado pela Constituicao de 88 e a publicidade dos atos estatais, sendo o sigilo absolutamente excepcional; (ii) a CF/88 afasta a publicidade em apenas duas hipoteses: informacoes cujo sigilo seja imprescindivel a seguranca do Estado e da sociedade e protecao a intimidade, vida privada, honra e imagem das pessoas; (iii) essas excecoes constitucionais, regula-mentadas pelo legislador especialmente na Lei de Acesso a Informacao , devem ser interpretadas restritiva-mente, sob forte escrutinio do principio da proporcionalidade; e (iv) o STF deve se manter vigilante na defesa da publicidade estatal, pois retrocessos a transparencia publica tem sido recorrentes. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado e declarou a inconstitucionalidade do art. 78-B da Lei 10.233/2001.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os processos administrativos sancionadores instaurados por agências reguladoras contra concessionárias de serviço público devem obedecer ao princípio da publicidade durante toda a sua tramitação, ressalvados eventuais atos que se enquadrem nas hipóteses de sigilo previstas em lei e na Constituição. 2. A imposição de sigilo a processos administrativos sancionadores, instaurados por agências reguladoras contra concessionárias de serviço público, é incompatível com a Constituição. 3. A regra no regime democrático instaurado pela Constituição de 88 é a publicidade dos atos estatais, sendo o sigilo absolutamente excepcional. 4. A Constituição Federal afasta a publicidade em apenas duas hipóteses: informações cujo sigilo seja imprescindível à segurança do Estado e da sociedade e proteção à intimidade, vida privada, honra e imagem das pessoas. 5. As exceções constitucionais, regulamentadas pelo legislador especialmente na Lei de Acesso à Informação, devem ser interpretadas restritivamente, sob forte escrutínio do princípio da proporcionalidade. 6. O STF deve se manter vigilante na defesa da publicidade estatal, pois retrocessos à transparência pública têm sido recorrentes.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Tal entendimento recebeu tratamento especial - e mais restritivo - quando da recente alteracao da Lei n. 8.429/1992 pela Lei n. 14.230/2021, que estabeleceu o dolo especifico como requisito para a caracterizacao do ato de improbidade administrativa, ex vi do seu art. 1,  2 e 3, sendo necessario aferir a especial intencao desonesta do agente de violar o bem juridico tutelado. De acordo com a jurisprudencia desta Corte Superior, desde ha muito, a contratacao de servidores publicos temporarios sem concurso publico baseada em legislacao local, ainda que considerada inconstitucional pelo 17 acordao recorrido, afasta a caracterizacao do dolo generico para a configuracao de improbidade administrativa que atenta contra os principios da administracao publica. O afastamento do elemento subjetivo de tal conduta da-se em razao da dificuldade de identificar o dolo generico, situacao que foi alterada com a edicao da Lei n. 14.230/2021, que conferiu tratamento mais rigoroso, ao estabelecer nao mais o dolo generico, mas o dolo especifico como requisito para a caracterizacao do ato de improbidade administrativa, ex vi do seu art. 1,  2 e 3, em que e necessario aferir a especial intencao desonesta do agente de violar o bem juridico tutelado. (Informativo n. 736) PROCESSO REsp 1.872.008-RS, Rel. Min. Assusete Magalhaes, Primeira Secao, por unanimidade, julgado em 11/05/2022. (Tema 1088) RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Militar. Reforma ex officio. HIV. Militar portador assintomatico do virus.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 8.429/1992 foi alterada pela Lei n. 14.230/2021, estabelecendo o dolo especifico como requisito para a caracterização do ato de improbidade administrativa. 2. A contratação de servidores públicos temporários sem concurso público baseada em legislação local não caracteriza dolo genérico para a configuração de improbidade administrativa. 3. A edição da Lei n. 14.230/2021 conferiu tratamento mais rigoroso ao estabelecer não mais o dolo genérico, mas o dolo específico como requisito para a caracterização do ato de improbidade administrativa.

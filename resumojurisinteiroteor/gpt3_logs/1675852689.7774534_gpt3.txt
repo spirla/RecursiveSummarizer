@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A defesa alega quebra na cadeia de custdia das provas, mas no demonstra nos autos, concretamente, quais as falhas procedimentais poderiam ter sido cometidas pelos policiais militares e que teriam ensejado, efetivamente, a quebra, nem aponta, efetivamente, quais os prejuzos que os atos que pretende anular teriam causado  defesa. A simples afirmao de que os policiais militares no tm competncia tcnica para extrarem dos aparelhos de telefone celular as mensagens trocadas entre Danone e o apelante no pode ser tomada como motivao para se decretar a nulidade das provas carreadas aos autos. At porque esses dados foram extrados com o emprego da Soluo Cellebrite UFED Touch 2d, uma ferramenta prpria ao fim a que se destina e utilizada, universalmente, dispensando-se, por conseguinte, maiores conhecimentos tcnicos da parte de quem vai oper-la para desincumbir-se da tarefa. Mais a mais, se alguma dvida ainda permanecer quanto a esta questo, ser suficiente ao final esclarecimento, alm das bem fundamentadas contrarrazes ao apelo defensivo, a leitura da resposta produzida pelo mesmo Ministrio Pblico ao requerimento da parte lanada no Evento 34, de clareza solar e preciso inquestionvel. A extrao de dados contidos nas mensagens trocadas atravs de telefones celulares, via WhatsApp no demanda percia tcnica e pode sim, ser executada por pessoa habilitada para a tarefa. E neste caso em comento, a tarefa foi executada pelo CB PM Marcelo Vincius Ribeiro de Miranda, em razo de sua habilitao conseguida aps sua participao no curso UFED Foundations, com carga horria de 32 (trinta e duas) horas, realizado no perodo entre 12 e 15 de maro de 2019, nos termos do certificado que lhe foi conferido pela empresa TECHBiz Forense Digital Ltda, diga-se de passagem, a nica empresa credenciada como Distribuidora Autorizada (Authorized Distributor) no Brasil da Cellebrite Solues Tecnolgicas Ltda, nos termos do certificado acostado no Evento 34 DOC5. Da resposta ministerial a que me refiro ouso transcrever os pargrafos a seguir, que poro, ao que penso, fim  celeuma levantada: [...] A coleta das evidncias foi realizada pelas equipes de policiais militares escaladas para o cumprimento dos mandados, que lacraram os dispositivos no local e os entregaram  Secretaria do GAECO em 06.03.2020, conforme detalhado no Auto de Busca N 02/2020-P01 e REDS n 2020-011685671-001. Os dados referentes a como, quando, onde e por quem foram apreendidos esto nos referidos documentos. [...] Os referidos aparelhos foram recebidos pela Secretaria do GAECO em 06.03.2020 e permaneceram sob a custdia da Secretaria, devidamente isolados e preservados, sendo encaminhados ao GCOC em 12.03.2020, sob a responsabilidade do Ten Cel PM Nepomuceno. Os dados solicitados esto disponveis nos documentos que acompanham esta manifestao.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa alegou quebra na cadeia de custdia das provas, mas no conseguiu demonstrar, nos autos, quais as falhas procedimentais que teriam ensejado a quebra. A extrao de dados contidos nas mensagens trocadas através de telefones celulares, via WhatsApp, no exige percia tcnica e foi executada por pessoa habilitada para a tarefa. Os dados solicitados estão disponíveis nos documentos anexados.

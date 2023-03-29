@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se de embargos de declarao opostos por Weidman Tadeu de Arajo Maia, Yuri Salim Lima Salomo e Vitor Costa Santos, em face do acrdo proferido pela colenda Segunda Cmara, que,  unanimidade de votos, deu provimento parcial ao recurso de apelao, para absolver os embargantes da condenao pelo crime de concusso, em observncia ao princpio da consuno, e, tambm, para redimensionar as penas-base relativas aos crimes de prevaricao e extorso mediante sequestro. Em suas razes recursais, alegou o embargante que os embargos de declarao tm por objetivo sanar as omisses e contradies na deciso colegiada e, ainda, prequestionar a matria, para eventual interposio de recursos nas instncias superiores. Alegou que os argumentos expostos pela defesa como teses subsidirias - desclassificao dos crimes de concusso e de extorso mediante sequestro para o crime de constrangimento ilegal e, ainda, a falsidade ideolgica como mero exaurimento do crime de prevaricao - no foram enfrentados na deciso colegiada. Aduziu que a matria foi reproduzida no relatrio do acrdo, discutida nas contrarrazes do Ministrio Pblico e no parecer da Procuradora de Justia, porm, no foi examinada pelo Colegiado. Ademais, afirmou que, em sede de razes de apelao, a defesa argumentou que a fundamentao utilizada para majorao das penas- base se apresentavam inidneas, violando o art. 93, IX, da Constituio Federal (Cf) de 1988 e o art. 11 do Cdigo de Processo Civil (CPC). Acrescentou que tal fundamentao poderia ser utilizada para justificar qualquer outra deciso, o que,  luz do artigo 315, 2, inciso III, do Cdigo de Processo Penal (CPP), faz com que a deciso recorrida seja considerada no fundamentada. Disse que a colenda Cmara concordou implicitamente com a tese arguida pela defesa, mas no reconheceu a nulidade da fundamentao utilizada pelo juzo a quo, limitando-se apenas a redimensionar as penas, deixando, todavia, de aplic-las em seu mnimo legal, como deveria ser feito. Outrossim, alegou que o acrdo embargado restou omisso quanto ao pedido de aplicao da atenuante prevista no artigo 72, II, do Cdigo Penal Militar (CPM). Destacou tambm a existncia de omisso quanto ao no reconhecimento da extino da punibilidade, pela incidncia da prescrio em relao s condenaes dos embargantes Yuri Salim Lima Salomo e Vitor Costa Santos pelo crime de prevaricao (art. 319 do CPM). Asseverou que, no tocante ao mesmo crime, caso ocorra a reduo da pena a patamar inferior a 01 (um) ano em relao ao embargante Weidman Tadeu de Arajo Maia, tambm dever ser reconhecida a incidncia da prescrio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os embargantes alegaram omisses e contradies na decisão colegiada, bem como a ausência de fundamentação para a majoração das penas-base, a desclassificação dos crimes de concussão e de extorsão mediante sequestro para o crime de constrangimento ilegal e a aplicação da atenuante prevista no artigo 72, II, do Código Penal Militar. Também foi alegada a extinção da punibilidade em relação aos embargantes Yuri Salim Lima Salomo e Vitor Costa Santos pelo crime de prevaricação e, eventualmente, a prescrição em relação ao embargante Weidman Tadeu de Arajo Maia.

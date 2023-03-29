@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE O Municipio prejudicado e o legitimado para a execucao de credito decorrente de multa aplicada por Tribunal de Contas estadual a agente publico municipal, em razao de danos causados ao erario municipal. Inicialmente, a Segunda Turma do STJ entendeu que o acordao de origem estava em consonancia com a jurisprudencia desta Corte Superior, afirmando que as multas aplicadas pelos Tribunais de Contas estaduais deverao ser revertidas ao ente publico ao qual a Corte esta vinculada, mesmo se aplicadas contra gestor municipal. Contudo, o STF julgou o Tema 642, no qual se fixou a seguinte tese: o Municipio prejudicado e o legitimado para a execucao de credito decorrente de multa aplicada por Tribunal de Contas estadual a agente publico municipal, em razao de danos causados ao erario municipal. (RE 1.003.433, Rel. Marco Aurelio, Rel. p/ Acordao Alexandre de Moraes, Tribunal Pleno, julgado em 15/09/2021, DJe 11/10/2021) Na hipotese, impoe-se a adequacao do julgado, para ajustar ao novo entendimento de carater obrigatorio. Assim, o Municipio prejudicado, e nao o Estado, e o legitimado para a execucao de credito decorrente de multa aplicada por Tribunal de Contas estadual a agente publico municipal, em razao de danos causados ao erario municipal. (Informativo n. 725) PROCESSO AREsp 1.510.988-SP, Rel. Min. Assusete Magalhaes, Segunda Turma, por unanimidade, julgado em 08/02/2022, DJe 10/02/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Concessionaria de servico publico. Faixa de dominio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Municipio prejudicado e o legitimado para a execução de crédito decorrente de multa aplicada por Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal. 2. O STF julgou o Tema 642, no qual se fixou a tese de que o Municipio prejudicado e o legitimado para a execução de crédito decorrente de multa aplicada por Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal.

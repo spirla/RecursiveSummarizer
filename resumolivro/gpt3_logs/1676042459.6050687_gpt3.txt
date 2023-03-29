@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No havendo julgamento do crime no pas estrangeiro, tendo em vista que ele ocorreu em aeronaves ou embarcaes brasileiras, o Brasil reserva-se o direito de aplicar a sua lei. O fundamento atribudo a tal previso  que o desinteresse do pas em que o crime ocorreu pode gerar impunidade. Assim, segundo o princpio da representao, o Brasil prope-se a aplicar a lei penal brasileira subsidiariamente. As condies estabelecidas para a extraterritorialidade condicionada esto previstas no pargrafo 2 do artigo 7 do CP, que assim dispe:
+Pargrafo 2 Nos casos do inciso II, a aplicao da lei brasileira depende do concurso das seguintes condies:
+a) entrar o agente no territrio nacional;
+b) ser o fato punvel tambm no pas em que foi praticado;
+c) estar o crime includo entre aqueles pelos quais a lei brasileira autoriza a extradio;
+d) no ter sido o agente absolvido no estrangeiro ou no ter a cumprido a pena;
+e) no ter sido o agente perdoado no estrangeiro ou, por outro motivo, no estar extinta a punibilidade, segundo a lei mais favorvel. As condies previstas no referido dispositivo so cumulativas entre si e, ainda, em relao  condio inserta no prprio texto da previso constante da alnea c do inciso II do artigo 7 do CP. O pargrafo 3 do artigo 7 ainda dispe que: a lei brasileira aplica-se tambm ao crime cometido por estrangeiro contra brasileiro fora do Brasil, se, reunidas as condies previstas no pargrafo anterior: a) no foi pedida ou foi negada a extradio; b) houve requisio do Ministro da Justia. Nesse caso, o legislador valeu-se do princpio da personalidade passiva, segundo o qual o nacional de um pas deve ser protegido contra a prtica de crimes, onde quer que se encontre. 3.4. Eficcia da lei penal quanto s pessoas. A lei penal, durante o perodo de sua vigncia, aplica-se a todas as pessoas que se encontram submetidas ao poder poltico do Estado. Em ateno ao princpio da isonomia, ou da igualdade de todos perante a lei, consagrado no caput do artigo 5 da Constituio da Repblica, todos esto sujeitos ao imprio da lei, sem distines de qualquer natureza. O sistema normativo, no entanto, contempla algumas restries  eficcia da lei penal quanto a determinadas pessoas que se encontram em situaes especiais. A referncia que a doutrina faz s pessoas, ao tratar do tema, na verdade, no  precisa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Brasil reserva-se o direito de aplicar a sua lei penal subsidiariamente nos casos em que o crime ocorreu em aeronaves ou embarcações brasileiras e o desinteresse do país em que o crime ocorreu pode gerar impunidade. O princípio da representação e da personalidade passiva são fundamentos para a aplicação da lei brasileira, desde que as condições previstas no artigo 7 do CP sejam cumulativas. A lei penal se aplica a todas as pessoas submetidas ao poder político do Estado, mas há algumas restrições à sua eficácia.

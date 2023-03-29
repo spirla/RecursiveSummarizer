@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso de posterior arquivamento, absolvicao, deferimento de institutos despenalizadores, anulacao, no ambito dos referidos feitos, a defesa teria que percorrer as instancias do Judiciario ajuizando meios de impugnacao autonomos para buscar a incidencia do redutor, uma correcao com sensivel impacto na pena final e cujo tempo necessario a sua efetivacao causaria prejuizos sobretudo aqueles mais vulneraveis. A interpretacao ora conferida ao art. 33,  4, da Lei n. 11.343/2006 nao confunde os conceitos de antecedentes, reincidencia e dedicacao a atividades criminosas. Ao contrario das duas primeiras, que exigem a existencia de condenacao penal definitiva, a ultima pode ser comprovada pelo Estado-acusador por qualquer elemento de prova idoneo, tais como escutas telefonicas, relatorios de monitoramento de atividades criminosas, documentos que comprovem contatos delitivos duradouros ou qualquer outra prova demonstrativa da dedicacao habitual ao crime. O que nao se pode e inferir a dedicacao ao crime a partir de simples registros de inqueritos e acoes penais cujo deslinde e incerto. Nao ha falar em ofensa aos principios da individualizacao da pena ou da igualdade material, pois o texto constitucional, ao ordenar que ninguem pode ser considerado culpado antes do transito em julgado da sentenca penal condenatoria, vedou que a existencia de acusacao pendente de analise definitiva fosse utilizada como criterio de diferenciacao para fins pedagogicos. (Informativo n. 745) 92 PROCESSO REsp 1.921.190-MG, Rel. Min. Joel Ilan Paciornik, Terceira Secao, por unanimidade, julgado em 25/05/2022, DJe 26/05/2022. (Tema 1110) RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Delito de roubo. Emprego de arma branca. Lei n. 13.654/2018.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A defesa deve ajuizar meios de impugnação autônomos para buscar a incidência de redutor de pena, caso haja posterior arquivamento, absolvição, deferimento de institutos despenalizadores ou anulação dos feitos. 2. O conceito de dedicação a atividades criminosas pode ser comprovado pelo Estado-acusador por qualquer elemento de prova idoneo, como escutas telefônicas, relatorios de monitoramento de atividades criminosas, documentos que comprovem contatos delitivos duradouros ou qualquer outra prova demonstrativa. 3. Não se pode inferir dedicação ao crime a partir de simples registros de inquéritos e ações penais cujo deslinde é incerto. 4. A existência de acusação pendente de análise definitiva não pode ser utilizada como critério de diferenciação para fins pedagógicos.

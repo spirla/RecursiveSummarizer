@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Constituicao de reserva indigena. Intervencao do poder judiciario. Possibilidade. DESTAQUE O Poder Judiciario pode determinar, ante injustificavel inercia estatal, que o Poder Executivo adote medidas necessarias a concretizacao de direitos constitucionais dos indigenas. Na controversia, o Tribunal a quo concluiu pela necessidade de disponibilizacao ou aquisicao imediata de terras para os Fulkaxo, ante a existencia de conflito irreversivel com o grupo ou com nucleos familiares da etnia Kariri-Xoco, que habitam o mesmo territorio indigena, notadamente para que aqueles se livrem da discriminacao e de alegadas ameacas de mortes, bem como para que se viabilize sua sobrevivencia fisica e cultural de acordo com seus usos, costumes e tradicoes. No caso, nao se trata das terras indigenas tradicionais, vale dizer, aquelas cuja posse os indios exercem de forma imemorial, com base nas regras do art. 231 da CF/88 - tema submetido a repercussao geral no STF (RE 1.017.366/DF: Tese 1031) -, tampouco sobre o processo administrativo de demarcacao e ampliacao das terras indigenas Kariri-Xoko, materia objeto de outra acao ordinaria, que se encontra suspensa por determinacao da Corte a quo. Segundo a legislacao de regencia, as reservas indigenas poderao ser instituidas em propriedade da Uniao, bem como ser adquiridas mediante compra, doacao de terceiros ou desapropriacao, na eventualidade de nao se verificar a tradicionalidade da ocupacao indigena ou se constatar a insuficiencia de terra demarcada, sendo possivel, ainda, a intervencao do ente federal em terra indigena para a resolucao de casos excepcionais, como os de conflito interno irreversivel entre grupos tribais, conforme disciplina o art. 20,  1, a , da Lei n. 6.001/1973. 503 Nao procede o argumento de ingerencia indevida do Poder Judiciario nas diretrizes de politicas publicas, notadamente quando se cuida de reconhecer a omissao estatal na adocao de providencias especificas (arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Poder Judiciário pode determinar, ante injustificável inércia estatal, que o Poder Executivo adote medidas necessárias para a concretização de direitos constitucionais dos indígenas. 2. As reservas indígenas podem ser instituídas em propriedade da União, adquiridas mediante compra, doação de terceiros ou desapropriação. 3. É possível a intervenção do ente federal em terra indígena para a resolução de casos excepcionais, como os de conflito interno irreversível entre grupos tribais. 4. Não procede o argumento de ingerencia indevida do Poder Judiciário nas diretrizes de políticas públicas, notadamente quando se trata de reconhecer a omissão estatal na adoção de providências específicas.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Segundo a doutrina especializada, o reconhecimento pessoal, feito na fase pre-processual ou em juizo, apos o reconhecimento fotografico (ou mesmo apos um reconhecimento pessoal anterior), como uma especie de ratificacao, encontra serias e consistentes dificuldades epistemologicas. 1289 Se realizado em conformidade com o modelo legal (art. 226 do CPP), o reconhecimento pessoal e valido, sem, todavia, forca probante absoluta, de sorte que nao pode induzir, por si so, a certeza da autoria delitiva, em razao de sua fragilidade epistemica. Se, todavia, tal prova for produzida em desacordo com o disposto no art. 226 do CPP, devera ser considerada invalida, o que implica a impossibilidade de seu uso para lastrear juizo de certeza da autoria do crime, mesmo que de forma suplementar. Mais do que isso, invalido o reconhecimento, nao podera ele servir nem para lastrear outras decisoes, ainda que de menor rigor quanto ao standard probatorio exigido, tais como a decretacao de prisao preventiva, o recebimento de denuncia e a pronuncia. Em julgamento concluido no dia 23/2/2022, a Segunda Turma do Supremo Tribunal Federal deu provimento ao RHC 206.846/SP (Rel. Ministro Gilmar Mendes), para absolver um individuo preso em Sao Paulo depois de ser reconhecido por fotografia, tendo em vista a nulidade do reconhecimento fotografico e a ausencia de provas para a condenacao. Reportando-se ao decidido no julgamento do referido HC n. 598.886/SC, no STJ, foram fixadas tres teses: 4.1) O reconhecimento de pessoas, presencial ou por fotografia, deve observar o procedimento previsto no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) O reconhecimento pessoal, feito na fase pre-processual ou em juízo, apos o reconhecimento fotografico (ou mesmo apos um reconhecimento pessoal anterior), como uma especie de ratificação, encontra serias e consistentes dificuldades epistemológicas. 2) Se realizado em conformidade com o modelo legal (art. 226 do CPP), o reconhecimento pessoal é válido, sem, todavia, força probante absoluta, de sorte que não pode induzir, por si só, a certeza da autoria delitiva, em razão de sua fragilidade epistemica. 3) Se, todavia, tal prova for produzida em desacordo com o disposto no art. 226 do CPP, deverá ser considerada inválida, o que implica a impossibilidade de seu uso para lastrear juízo de certeza da autoria do crime, mesmo que de forma suplementar. 4) O reconhecimento de pessoas, presencial ou por fotografia, deve observar o procedimento previsto no art. 226 do CPP.

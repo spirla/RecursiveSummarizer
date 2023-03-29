@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Na presenca dos requisitos objetivos e subjetivos previstos na legislacao de regencia, impoe- se sua homologacao apos o recebimento da denuncia, com suspensao do processo e do prazo prescricional (APn n. 954/DF, relator Ministro Joao Otavio de Noronha, Corte Especial, julgado em 6/10/2021, DJe de 15/10/2021). No caso, nao se verifica constrangimento ilegal, pois foi proposta pelo Ministerio Publico a suspensao condicional do processo, nao tendo sido o beneficio homologado pelo juizo em razao do desacordo entre as partes acerca do valor a ser pago a titulo de reparacao do dano, uma das condicoes para a concessao desse beneficio, previsto no art. 89, 1, I, da Lei n. 9.099/1995. A reparacao do dano causado, salvo na impossibilidade de faze-lo, prevista no art. 89,  1, I, da Lei n. 9.099/1995, e imprescindivel para concessao do sursis processual . (RHC 62.119/SP, Rel. Ministro Gurgel De Faria, Quinta Turma, julgado em 10/12/2015, DJe 05/02/2016). Outrossim, em situacao analoga, decidiu esta Corte que, no que diz respeito a alegada afronta ao art. 89 da Lei n. 9.099/1995, tem-se que a suspensao condicional do processo deixou de ser oferecida nao em virtude da ausencia de previa reparacao do dano, mas sim em razao da ausencia de acordo sobre o ressarcimento do dano, situacao que, de fato, inviabiliza o beneficio legal . (AgRg no AREsp n. 1.751.724/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/9/2021, DJe de 27/9/2021). (Informativo n. 754) 1245 PROCESSO AgRg no HC 482.056-SP, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessária a homologação dos requisitos objetivos e subjetivos previstos na legislação de regência para a suspensão do processo e do prazo prescricional. 2. Não há constrangimento ilegal quando o Ministério Público propõe a suspensão condicional do processo. 3. A reparação do dano é imprescindível para a concessão do sursis processual. 4. A suspensão condicional do processo não é oferecida em virtude da ausência de prévia reparação do dano, mas sim em razão da ausência de acordo sobre o ressarcimento do dano.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E que atos de imperio que resultem na morte de cidadaos brasileiros nao combatentes, ainda que praticados num contexto de guerra, sao atos ilicitos, seja por ofenderem as normas que regulamentam os conflitos armados, seja por ignorarem os principios que regem os direitos humanos. Ademais, em hipoteses como essa, devem prevalecer os direitos humanos tal como determina o art. 4, II, da CF/88 de 88 (CF/88), quando se fez a explicita opcao normativa por um paradigma novo nas relacoes internacionais, no qual sao preponderantes, nao mais a soberania dos Estados, mas os seres humanos. No caso, trata-se de acao de ressarcimento de danos materiais e morais de autoria de netos ou de viuvas de netos de cidadao brasileiro nao combatente que morreu em decorrencia de ataque feito por submarino alemao a barco pesqueiro localizado no mar territorial brasileiro, durante a II Guerra Mundial. Com base nesse entendimento, o Plenario, por maioria, apreciando o Tema 944 da repercussao geral, deu provimento ao recurso extraordinario para, afastando a imunidade de jurisdicao da Republica Federal da Alemanha, anular a sentenca que extinguiu o processo sem resolucao de merito. Vencidos os ministros Gilmar Mendes, Alexandre de Moraes, Nunes Marques, Luiz Fux (Presidente) e Marco Aurelio. ARE 954858/RJ, relator Min. Edson Fachin, julgamento virtual finalizado em 20.8.2021 (sexta-feira), as 23:59. (INF 1026)  12. DIREITO PENAL 12.1 CAUSA DE AUMENTO DE PENA Crime de descaminho: clandestinidade e transporte aereo, maritimo ou fluvial - HC 162553 AgR/CE Resumo: Para aplicacao da majorante prevista no art. 334,  3, do CP (CP), e necessaria a condicao de clandestinidade. O aumento expressivo da pena, em face da aplicacao da majorante, precisa ser justificado em razao de um maior desvalor da acao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Atos de imperio que resultem na morte de cidadãos brasileiros não combatentes são ilícitos, seja por ofenderem as normas que regulamentam os conflitos armados, seja por ignorarem os princípios que regem os direitos humanos. 2. Devem prevalecer os direitos humanos, tal como determina o art. 4, II, da CF/88. 3. É possível o ressarcimento de danos materiais e morais de autoria de netos ou de viúvas de netos de cidadão brasileiro não combatente que morreu em decorrência de ataque feito por submarino alemão a barco pesqueiro localizado no mar territorial brasileiro, durante a II Guerra Mundial. 4. A imunidade de jurisdição da República Federal da Alemanha pode ser afastada. 5. Para a aplicação da majorante prevista no art. 334, 3, do CP, é necessária a condição de clandestinidade. 6. O aumento expressivo da pena, em face da aplicação da majorante, precisa ser justificado em razão de um maior desvalor da ação.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+H precluso se a incompetncia relativa no for alegada no momento oportuno. Ao declinar da sua competncia (declinatoria fori) o juiz remete o processo ao juzo competente (artigo 147, CPPM). A doutrina salienta que o entendimento do STJ firmado na Smula 33 no mbito do processo civil de que A incompetncia relativa ou declinatoria fori no pode ser declarada de ofcio tem sido aplicado no processo penal (CC 37.149/RN, j. 27-04-2005). O rgo do Ministrio Pblico, por outro lado, poder alegar a incompetncia do juzo antes de oferecer a denncia (artigo 146, CPPM). Essa alegao  apreciada pelo juiz de primeiro grau e no segundo pelo relator em se tratando de processo de competncia originria. Em ambos os casos, rejeitada arguio, cabe recurso inominado nos prprios autos. A doutrina tem se inclinado no sentido que o Ministrio Pblico pode opor exceo de incompetncia na qualidade fiscal da lei, mesmo que tenha oferecido denncia perante o juiz incompetente, sobretudo se a incompetncia for absoluta. A oposio da exceo de incompetncia no suspende o processo. A parte ope de forma escrita ou verbal, logo aps a qualificao do acusado (CPPM, artigo 143), todavia, em razo da alterao feita pelo Pretrio Excelso transferindo o interrogatrio para o final da instruo criminal e na resposta  acusao, prevista no artigo 396-A do CPP, oposta exceo de incompetncia. Assim procedendo a defesa no precisa aguardar o trmino da instruo criminal para s ento opor a exceo de incompetncia. Se provocado no se declarar incompetente, o juiz determina vista dos autos  parte contrria (artigo 144, CPPM) para que se manifeste sobre a arguio no prazo de quarenta e oito horas. Se acolhida a alegao de incompetncia do juzo os autos so remetidos ao juzo competente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A incompetência relativa ou declinatória fori deve ser alegada no momento oportuno. O juiz remete o processo ao juízo competente se a incompetência for alegada. O Ministério Público pode alegar a incompetência antes de oferecer a denúncia. A exceção de incompetência pode ser oposta na qualidade fiscal da lei, mesmo que a denúncia já tenha sido oferecida. Se a exceção for acolhida, os autos são remetidos ao juízo competente.

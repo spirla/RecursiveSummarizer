@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE O autor da acao civil publica da causa a nulidade processual quando deixa de indicar no polo passivo as pessoas beneficiadas pelo procedimento e pelos atos administrativos inquinados, deixando de formar o litisconsorcio na hipotese em que homologado o resultado final do concurso, com as consequentes nomeacao e posse dos aprovados. Ministerio Publico de Estado ajuizou uma acao civil publica contra Municipio e contra sociedade empresaria com a finalidade de ver reconhecida a nulidade de concurso publico e do procedimento licitatorio para contratacao da sociedade empresaria para realizar o certame. O Parquet, ao deduzir na acao civil publica a pretensao anulatoria dos referidos procedimentos administrativos, embora tenha corretamente indicado para alem da municipalidade a sociedade empresaria beneficiada com a licitacao, nao procedeu da mesma forma com as pessoas beneficiadas pela aventada fraude na execucao do concurso. Na hipotese, nao se esta a falar que todos os candidatos aprovados teriam de ser chamados a integrar a lide - providencia que seria em grande medida correta dada a homologacao do resultado final, com as consequentes nomeacao e posse - mas ao menos aqueles indicados pelo proprio Ministerio Publico estadual como suspeitos de coparticipacao na fraude, seja porque beneficiados com uma suspeita aprovacao em primeiro lugar, seja porque, como no caso do procurador juridico, participava da perpetracao da irregularidade ao mesmo tempo em que era candidato no concurso. E bem verdade que ao tempo da propositura da acao civil publica o certame nao havia ainda sido homologado, e tanto por isso e que se pediu tutela provisoria para a suspensao dos seus efeitos. No entanto, entre o deferimento dessa tutela e a sua suspensao, houve interregno anterior a prolacao da sentenca em que o autor da acao civil publica havia de reformular o polo passivo, a fim de prevenir eventual nulidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário indicar no polo passivo as pessoas beneficiadas pelo procedimento e pelos atos administrativos inquinados para formar o litisconsórcio. 2. O Ministério Público de Estado ajuizou uma ação civil pública para reconhecer a nulidade de concurso público e do procedimento licitatório. 3. É necessário chamar todos os candidatos aprovados para integrar a lide quando homologado o resultado final do concurso. 4. É necessário indicar aqueles suspeitos de coparticipação na fraude para integrar o polo passivo. 5. É necessário reformular o polo passivo para prevenir eventual nulidade.

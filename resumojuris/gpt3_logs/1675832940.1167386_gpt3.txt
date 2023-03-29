@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Embora o CC tenha sido lacunoso a respeito do tema, limitando-se a tratar das obrigacoes de dar coisa certa ou incerta - com o que nao se confunde a obrigacao de pagar -, o CPC, ao dispor sobre o cumprimento forcado da obrigacao, deixa claro que a satisfacao do credito se da pela entrega do dinheiro ao credor, ressalvada a possibilidade de adjudicacao dos bens penhorados, nos exatos termos do art. 904 do CPC/2015. Na mesma linha, o art. 906 do CPC, expressamente vincula a declaracao de quitacao da quantia paga ao momento do recebimento do mandado de levantamento pela parte exequente, ou, alternativamente, pela transferencia eletronica dos valores. Assim, tem-se que somente o deposito judicial efetuado voluntariamente pelo devedor, com vistas a imediata satisfacao do credor, sem qualquer sujeicao do levantamento a discussao do debito, tem a aptidao de fazer cessar a mora do devedor e extinguir a obrigacao, nos limites da quantia depositada. Se o deposito e feito a titulo de garantia do juizo ou se e coercitivo, decorrente da penhora de ativos financeiros, nao se opera a cessacao da mora do devedor, haja vista que, em hipoteses tais, nao ocorre a imediata entrega do dinheiro ao credor, cujo ato enseja a quitacao do debito. Consequentemente, se o deposito nao tem a finalidade de pronto pagamento ao credor, devem continuar a correr contra o devedor os juros moratorios e a correcao monetaria previstos no titulo executivo, ou eventuais outros encargos contratados para a hipotese de mora, ate que ocorra a efetiva liberacao da quantia ao credor, mediante o recebimento do mandado de levantamento ou a transferencia eletronica dos valores.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Código Civil (CC) trata das obrigações de dar coisa certa ou incerta, não se confundindo com a obrigação de pagar. 2. O Código de Processo Civil (CPC) dispõe sobre o cumprimento forçado da obrigação, deixando claro que a satisfação do crédito se dá pela entrega do dinheiro ao credor. 3. Somente o depósito judicial efetuado voluntariamente pelo devedor, com vistas à imediata satisfação do credor, sem qualquer sujeição do levantamento à discussão do débito, tem a aptidão de fazer cessar a mora do devedor e extinguir a obrigação, nos limites da quantia depositada. 4. Se o depósito é feito a título de garantia do juízo ou se é coercitivo, decorrente da penhora de ativos financeiros, não se opera a cessação da mora do devedor. 5. Se o depósito não tem a finalidade de pronto pagamento ao credor, devem continuar a correr contra o devedor os juros moratórios e a correção monetária previstos no título executivo, ou eventuais outros encargos contratados para a hipótese de mora, até que ocorra a efetiva liberação da quantia ao credor, mediante o recebimento do mandado de levantamento ou a transferência eletrônica dos valores.

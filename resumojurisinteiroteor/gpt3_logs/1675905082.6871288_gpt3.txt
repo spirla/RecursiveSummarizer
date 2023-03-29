@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+798, caput e  3, do CPP, motivo pelo qual no h falar em suspenso dos prazos entre os dias 20 de dezembro e 20 de janeiro (...)" (AgRg no AREsp 1718132/SC, Rel. Ministro JOO OTVIO DE NORONHA, QUINTA TURMA, DJe 17/12/2020). 2. No se conhece de embargos de divergncia apresentados depois de decorrido o prazo de 15 (quinze) dias teis da intimao da deciso agravada, nos termos dos arts. 219 e 1.070 do CPC/2015. No caso, o acrdo embargado foi publicado em 17/12/2021 e os presentes embargos de divergncia s foram opostos em 15/2/2022, ou seja, de forma intempestiva. 3. Agravo regimental desprovido. (STJ - AgRg nos EDcl nos EAREsp n. 1.945.252/RJ, relator Ministro Joel Ilan Paciornik, Terceira Seo, julgado em 11/5/2022, DJe de 13/5/2022) (Destaca-se) Na hiptese dos autos, observa-se que a expedio de intimao eletrnica ao testemunhante a respeito da deciso combatida ocorreu em 11 de janeiro de 2022 (tera-feira) (Evento 125 - Autos n. 0001341 13.2018.9.13.1). Sobre as intimaes realizadas por meio eletrnico, o art. 5 da Lei n. 11.419/06 elucida: [..] Art. 5 As intimaes sero feitas por meio eletrnico em portal prprio aos que se cadastrarem na forma do art. 2 desta Lei, dispensando-se a publicao no rgo oficial, inclusive eletrnico.  1 Considerar-se- realizada a intimao no dia em que o intimando efetivar a consulta eletrnica ao teor da intimao, certificando-se nos autos a sua realizao.  2 Na hiptese do  1 deste artigo, nos casos em que a consulta se d em dia no til, a intimao ser considerada como realizada no primeiro dia til seguinte.  3 A consulta referida nos  1 e 2 deste artigo dever ser feita em at 10 (dez) dias corridos contados da data do envio da intimao, sob pena de considerar-se a intimao automaticamente realizada na data do trmino desse prazo. [...] Como visto, nos termos do 3 do art. 5 da Lei n. 11.419/06, o prazo para a efetivao da intimao eletrnica ficta  de 10 (dez) dias corridos. Assim, como o testemunhante no realizou a consulta em at 10 (dez) dias corridos, contados a partir do dia 12 de janeiro de 2022 (quarta-feira), considera-se que a sua intimao se efetivou tacitamente no trmino desse prazo, isto , em 21 de janeiro de 2022 (sexta-feira) (Evento 131 - Autos n. 0001341-13.2018.9.13.0001).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O agravo regimental foi desprovido, pois os embargos de divergência foram apresentados fora do prazo previsto nos arts. 219 e 1.070 do CPC/2015. A intimação eletrônica ao testemunhante foi considerada como realizada tacitamente no trmino de 10 dias corridos, contados a partir do dia 12 de janeiro de 2022.

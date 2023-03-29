@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Rogrio Schietti Cruz, DJe de 14/9/2017). III - Ora, esta Corte Superior j assentou, de forma pacfica, que os recursos em matria processual penal no so regidos pela regra de contagem dos prazos em dias teis, tal qual ocorre em matria civil: " intempestivo [...] interposto fora do prazo de 5 dias corridos [...]" (AgInt no REsp n. 1.717.810/AL, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 29/8/2018). IV - Conforme reiterada jurisprudncia deste Superior Tribunal de Justia, "o prequestionamento das teses jurdicas constitui requisito de admissibilidade da via, inclusive em se tratando de matrias de ordem pblica, sob pena de incidir em indevida supresso de instncia e violao da competncia constitucionalmente definida para esta Corte" (HC n. 349.782/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/12/2017). Habeas corpus no conhecido. (HC 718.027/SC, Rel. Ministro JESUNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 22/02/2022, DJe 25/02/2022) - grifei. HABEAS CORPUS. PROCESSUAL PENAL. HOMICDIO QUALIFICADO. ABSOLVIO PELO CONSELHO DE SENTENA. RECURSO DE APELAO ACUSATRIO PROVIDO POR SER O VEREDICTO CONTRRIO  PROVA DOS AUTOS. TESES DE ILEGITIMIDADE DO MINISTRIO PBLICO E INTEMPESTIVIDADE DO RECURSO ACUSATRIO IMPROCEDENTES. ABSOLVIO COM BASE NO QUESITO GENRICO (ART. 483, III, DO CPP), QUE NO SE REVESTE DE IRREVOGABILIDADE. OFENSA  SOBERANIA DO TRIBUNAL DO JRI.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Habeas Corpus não conhecido. O Tribunal Superior de Justiça assentou que os recursos processuais penais não são regidos pela contagem de prazos em dias úteis, e que o prequestionamento das teses jurdicas é requisito de admissibilidade da via. O recurso acusatório foi imprócedente por ser a absolvição baseada em quesito genérico, que não se reveste de irrevogabilidade, ofendendo a soberania do Tribunal do Júri.

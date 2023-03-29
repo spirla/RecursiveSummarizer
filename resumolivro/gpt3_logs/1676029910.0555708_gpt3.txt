@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Por isso, torna-se necessrio complementar a causalidade natural com o exame da relevncia jurdica da conduta examinada. 3.5.2. Teoria da causalidade adequada. A doutrina jurdico-penal percebeu que afirmar o nexo de causalidade por meio de silogismo que presume a no ocorrncia do resultado diante da ausncia do comportamento no era suficiente para resolver os problemas da incriminao.  necessrio esclarecer a razo pela qual se pode concluir que, ausente o comportamento, o resultado no teria se verificado. Considerando as inmeras dificuldades da utilizao da teoria da condio simples, os esforos tericos passam a justificar a causalidade na qualidade especial do antecedente, que  considerado causa. Na verdade, pretende-se que o critrio de determinao da causa deva adaptar-se s necessidades da imputao objetiva, restringindo o mbito de atuao da teoria da equivalncia. Entre as vrias teorias que trabalharam a ideia de condies qualificadas destaca-se a teoria da causalidade adequada, atribuda ao mdico Johannes Von Kries. Segundo essa construo terica, causa  o antecedente, no s necessrio, como tambm adequado  produo do resultado. A adoo de tal posicionamento significa que no se deve considerar todos os antecedentes necessrios  produo do resultado, mas somente aqueles que, alm de necessrios, so idneos  produo do resultado. A idoneidade do antecedente  apurada com auxlio da experincia que revela, de maneira objetiva, ser ordinria a produo do resultado pela atuao da causa. A idoneidade  identificada pela probabilidade de o antecedente produzir o resultado. Assim, ficam excludos da relao causal os acontecimentos extraordinrios, excepcionais, mesmo que tenham concorrido para a produo do resultado. No exemplo de Beling, no existiria relao causal entre acender uma lareira no inverno e o incndio produzido pelas fagulhas carregadas pelo vento. A considerao da inadequao da contribuio  cadeia causal pode, ainda, excluir da causalidade determinado antecedente considerado insignificante.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria da causalidade adequada, desenvolvida por Johannes Von Kries, afirma que a causa de um resultado deve ser necessária e adequada para sua produção. Para determinar a adequação, é necessário avaliar a probabilidade de o antecedente produzir o resultado. Eventos extraordinários ou excepcionais, mesmo que concorram para a produção do resultado, são excluídos da relação causal. Além disso, contribuições consideradas insignificantes também são excluídas.

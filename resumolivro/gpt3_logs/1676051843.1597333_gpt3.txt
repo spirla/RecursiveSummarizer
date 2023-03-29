@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A jurisprudncia do Superior Tribunal de Justia registra julgados em que no se considera haver motivo ftil nos crimes cometidos por cime (Resp 171.627). No entanto, deve-se examinar em cada caso concreto qual  o fato gerador da reao ciumenta. No caso do marido que mata a mulher flagrada em conjuno carnal com outro homem, por exemplo, no se pode reconhecer a futilidade do motivo embora seja a conduta homicida reprovvel. A realizao do crime para satisfazer o sentimento de vingana no caracteriza a motivao ftil, embora, eventualmente, possa caracterizar o motivo torpe (STJ - HC 126.730). A qualificao do crime se justifica ainda quando o motivo no tenha se apresentado como futilidade para o sujeito do caso concreto. Se, para o sujeito ativo, o motivo apresentou-se importante, parece no haver como reconhecer maior culpabilidade. Contudo, a culpabilidade retrata juzo social de reprovao e no individual. O homicdio praticado por motivo ftil deve ser mais reprovvel quando o sujeito tenha percebido a insignificncia do motivo e, mesmo assim, tenha optado pela realizao da conduta criminosa. Mas, deve-se reconhecer a qualificao do crime mesmo quando o sujeito considerar o motivo relevante, pois a dificuldade de percepo quanto  desproporcionalidade de sua conduta no reduz a reprovao social. Questo que promove especial polmica  a que diz respeito  compatibilidade entre a embriaguez e o reconhecimento da futilidade do motivo. A embriaguez, normalmente,  capaz de subtrair ao sujeito ativo do fato a possibilidade de realizar um juzo de proporcionalidade entre o motivo e o crime praticado. Contudo, no se pode dizer que nos casos em que o sujeito est embriagado existe sempre incompatibilidade com a motivao ftil. O Superior Tribunal de Justia j decidiu pela possibilidade de reconhecimento da motivao ftil em sujeito embriagado (HC 75.177). Em especial nos casos de embriaguez incompleta,  perfeitamente possvel que, em face da pouca interferncia do lcool na conscincia do indivduo, este possa perceber a desproporo entre o motivo e o crime, viabilizando maior juzo de reprovao pessoal. De qualquer forma, a qualificao do homicdio sempre decorre de maior reprovao social sobre a conduta criminosa e esta reprovao deve ser analisada em cada caso concreto. Outra questo que pode gerar alguma dificuldade  a que diz respeito  ausncia de motivo. Inicialmente cabe distinguir duas situaes diversas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudncia do Superior Tribunal de Justia (STJ) no considera haver motivo ftil nos crimes cometidos por cime, mas deve-se examinar em cada caso concreto qual o fato gerador da reao ciumenta. A qualificao do crime se justifica ainda quando o motivo no tenha se apresentado como futilidade para o sujeito do caso concreto. Contudo, a embriaguez pode subtrair ao sujeito ativo do fato a possibilidade de realizar um juzo de proporcionalidade entre o motivo e o crime praticado. A qualificao do homicdio sempre decorre de maior reprovao social sobre a conduta criminosa e esta reprovao deve ser analisada em cada caso concreto.

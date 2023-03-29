@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 737) PROCESSO AREsp 1.711.065-RJ, Rel. Min. Assusete Magalhaes, Segunda Turma, por unanimidade, julgado em 03/05/2022, DJe 05/05/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Servidor publico. Valores recebidos. Decisao judicial precaria. Reforma posterior. Restituicao. Possibilidade. DESTAQUE Valores recebidos por servidores publicos por forca de decisao judicial precaria, posteriormente reformada, devem ser restituidos ao erario. 215 Inicialmente, registra-se que o caso ora analisado, relativo a devolucao de valores recebidos pelos servidores por forca de liminar - confirmada em acordao concessivo da seguranca, posteriormente cassado pelo TST, com transito em julgado -, nao se amolda a materia referente ao Tema 531/STJ ( Quando a Administracao Publica interpreta erroneamente uma lei, resultando em pagamento indevido ao servidor, cria-se uma falsa expectativa de que os valores recebidos sao legais e definitivos, impedindo, assim, que ocorra desconto dos mesmos, ante a boa-fe do servidor publico ), tampouco ao Tema 1.009/STJ ( Os pagamentos indevidos aos servidores publicos decorrentes de erro administrativo (operacional ou de calculo), nao embasado em interpretacao erronea ou equivocada da lei pela Administracao, estao sujeitos a devolucao, ressalvadas as hipoteses em que o servidor, diante do caso concreto, comprova sua boa-fe objetiva, sobretudo com demonstracao de que nao lhe era possivel constatar o pagamento indevido ). Nos termos da jurisprudencia consolidada nesta Corte, tendo a servidora recebido os referidos valores amparada por uma decisao judicial precaria, nao ha como se admitir a existencia de boa-fe, pois a Administracao em momento nenhum gerou-lhe uma falsa expectativa de definitividade quanto ao direito pleiteado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Valores recebidos por servidores públicos por força de decisão judicial precária, posteriormente reformada, devem ser restituídos ao erário. 2. Os pagamentos indevidos aos servidores públicos decorrentes de erro administrativo (operacional ou de cálculo), não embasado em interpretação erronea ou equivocada da lei pela Administração, estão sujeitos a devolução, ressalvadas as hipóteses em que o servidor, diante do caso concreto, comprova sua boa-fé objetiva. 3. Tendo a servidora recebido os referidos valores amparada por uma decisão judicial precária, não há como se admitir a existência de boa-fé, pois a Administração em momento nenhum gerou-lhe uma falsa expectativa de definitividade quanto ao direito pleiteado.

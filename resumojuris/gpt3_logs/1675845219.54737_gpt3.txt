@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Definicao diversa atribuida pelo magistrado singular. Prazo para aditamento. Desnecessidade. Ofensa ao principio da correlacao. Nao ocorrencia. 1156 DESTAQUE E licito ao juiz alterar a tipificacao juridica da conduta do reu no momento da sentenca, sem modificar os fatos descritos na denuncia, sendo desnecessaria a abertura de prazo para aditamento. A defesa alega que, uma vez desclassificado o delito, deveria ter sido aplicado o disposto no art. 384 do CPP. No entanto, e licito ao juiz alterar a tipificacao juridica da conduta do reu no momento da sentenca, sem modificar os fatos descritos na denuncia, conforme a inteligencia do art. 383 do CPP, sendo despicienda a abertura de prazo para aditamento (art. 384 do CPP). Como cedico, nao constitui ofensa ao principio da correlacao entre a denuncia e a sentenca condenatoria o ato de magistrado singular, nos termos do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É licito ao juiz alterar a tipificação jurídica da conduta do réu no momento da sentença, sem modificar os fatos descritos na denúncia. 2. É desnecessária a abertura de prazo para aditamento. 3. Não constitui ofensa ao princípio da correlação entre a denúncia e a sentença condenatória o ato de magistrado singular.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+730 No caso, nao se questionou o juri sobre o conhecimento dos reus, mandantes do crime, acerca da maneira pela qual seus executores diretos o cometeriam, o que causa, sim, nulidade no reconhecimento da qualificadora. Afinal, a emboscada e qualificadora objetiva - relacionada ao modus operandi do homicidio - que se comunica a todos os coautores, desde que estes tenham ciencia do fato que qualifica o crime. Lembre-se que, desde sua historica transposicao da culpabilidade para a tipicidade no ambito da teoria geral do delito, o dolo engloba um elemento cognitivo - vale dizer, o conhecimento do agente quanto a todos os fatos descritos no tipo penal como elementares. Caso contrario, os acusados poderiam ser punidos por circunstancia fatica que nunca entrou em sua esfera de ciencia e, consequentemente, jamais integrou seu dolo, o que configuraria responsabilizacao penal objetiva, inadmissivel em nosso sistema criminal, em franca violacao do art. 18, I, do CP. Ate se poderia pensar, em tese, na possibilidade de dolo eventual dos mandantes quanto a emboscada, por ser previsivel que os executores diretos dos assassinatos adotariam tal artificio para ceifar a vida dos ofendidos, tendo os mandantes demonstrado uma hipotetica indiferenca a esse respeito. No entanto, essa nova configuracao fatica deveria ter sido objeto de denuncia, instrucao, pronuncia, prova em plenario e quesitacao aos jurados, sendo que nada disso ocorreu. Da maneira como redigido o quesito, o juri reconheceu apenas que os executores diretos do homicidio - os pistoleiros autores dos disparos - o fizeram mediante uma emboscada, mas nao e possivel extrair, de sua resposta, nenhuma conclusao a respeito da interferencia dos mandantes nesse ponto. O quesito nao contempla, por exemplo, a hipotese de a emboscada ter sido o modo eleito pelos mandantes para a pratica dos assassinatos, ou escolhida pelos pistoleiros e aprovada pelos mandantes, ou ao menos sabida por estes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O conhecimento dos reus, mandantes do crime, acerca da maneira pela qual seus executores diretos o cometeriam é necessário para o reconhecimento da qualificadora. 2. O dolo engloba um elemento cognitivo, ou seja, o conhecimento do agente quanto a todos os fatos descritos no tipo penal como elementares. 3. É inadmissível responsabilizar penalmente o agente por circunstância fática que nunca entrou em sua esfera de conhecimento. 4. É possível pensar, em tese, na possibilidade de dolo eventual dos mandantes quanto à emboscada. 5. O quesito não contempla a hipótese de a emboscada ter sido o modo eleito pelos mandantes para a prática dos assassinatos.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Surgiram no direito brasileiro com a incluso do artigo 103-A na Constituio Federal pela EC 45/2004:
+O Supremo Tribunal Federal poder, de ofcio ou por provocao, mediante deciso de dois teros dos seus membros, aps reiteradas decises sobre matria constitucional, aprovar smula que, a partir de sua publicao na imprensa oficial, ter efeito vinculante em relao aos demais rgos do Poder Judicirio e  administrao pblica direta e indireta, nas esferas federal, estadual e municipal, bem como proceder  sua reviso ou cancelamento, na forma estabelecida em lei. O chamado precedente (stare decisis) utilizado no modelo judicialista  o caso j decidido, cuja deciso primeira sobre o tema (leading case) atua como fonte para estabelecimento (indutivo) de diretrizes para os demais casos a serem julgados. O efeito vinculante das smulas em relao aos rgos do Poder Judicirio pode levar  concluso de que aos juzes e tribunais  vedado interpret-las. No esclio de Lenio Streck8  equivocado sustentar que o sistema jurdico brasileiro est se transformando em um sistema de precedentes da common law. As smulas vinculantes so textos e, como tal, so interpretveis. Para Denilson Feitoza, tambm, o juiz ou o tribunal aplica o preceito da smula vinculante de maneira semelhante  aplicao de uma norma contida em lei, e que teriam a independncia violada se no pudessem aferir se o fundamento determinante do caso concreto em julgamento  o mesmo da smula vinculante. As leis de organizao judiciria militar definem os rgos que exercem a funo jurisdicional e organizam os servios auxiliares. Temos a Lei 8.457/92 (Lei de Organizao da Justia Militar da Unio), a Lei 5.048/58 (Lei de Organizao da Justia Militar do Estado de So Paulo), a Lei Estadual 7.356/80 (Cdigo de Organizao Judiciria do Rio Grande do Sul) e Lei Estadual 226/1937 (Lei de Organizao da Justia Militar de Minas Gerais).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Supremo Tribunal Federal (STF) pode, por deciso de dois terços de seus membros, aprovar smulas com efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta. O sistema julgamental brasileiro não se transformou em um sistema de precedentes da common law, pois as smulas são interpretáveis. Existem leis de organização judiciária militar que definem os órgãos que exercem a função jurisdicional e organizam os serviços auxiliares.

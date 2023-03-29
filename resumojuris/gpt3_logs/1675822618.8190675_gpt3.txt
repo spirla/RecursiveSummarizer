@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Isso porque a defesa da saude incumbe nao apenas a Uniao, mas tambem a qualquer das unidades federadas, seja por meio da edicao de normas legais, respeitadas as suas competencias, seja mediante a realizacao de acoes administrativas, sem que, como regra, dependam da autorizacao de outros niveis governamentais para leva-las a efeito, cumprindo-lhes, apenas, consultar o interesse publico que tem a obrigacao de preservar. Dessa forma, nao obstante constitua incumbencia do Ministerio da Saude coordenar o Programa Nacional de Imunizacoes - PNI e definir as vacinas integrantes do calendario nacional de imunizacoes (Lei 6.259/1975), tal atribuicao nao exclui a competencia dos estados, do Distrito Federal e dos municipios para adapta-los as peculiaridades locais, no tipico exercicio da competencia comum de que dispoem para cuidar da saude e assistencia publica (CF, art. 23, II). Embora o ideal, em se tratando de uma molestia que atinge o Pais por inteiro, seja a inclusao de todas as vacinas seguras e eficazes no PNI, de maneira a imunizar uniforme e tempestivamente toda a populacao, o certo e que, nos diversos precedentes relativos a pandemia causada pela Covid-19, o Supremo Tribunal Federal (STF) tem ressaltado a possibilidade de atuacao conjunta das autoridades estaduais e locais para o enfrentamento dessa emergencia de saude publica, em particular para suprir lacunas ou omissoes do governo central. Ademais, a propria Lei 13.979/2020, nos precitados dispositivos, apresenta uma solucao para a questao, ao assinalar que as autoridades  sem fazer qualquer distincao entre os diversos niveis politico-administrativos da federacao  poderao lancar mao do uso de medicamentos e insumos na area de saude sem registro na Anvisa. Por fim, a dispensacao excepcional de medicamentos sem registro na Anvisa, em caso de mora irrazoavel na sua atuacao, tambem ja foi apreciada e admitida pelo STF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A defesa da saúde incumbe não apenas à União, mas também às unidades federadas, seja por meio da edição de normas legais, seja mediante a realização de ações administrativas. 2. O Ministério da Saúde tem a incumbência de coordenar o Programa Nacional de Imunizações e definir as vacinas integrantes do calendário nacional de imunizações, mas isso não exclui a competência dos estados, do Distrito Federal e dos municípios para adaptá-los às peculiaridades locais. 3. O Supremo Tribunal Federal tem ressaltado a possibilidade de atuação conjunta das autoridades estaduais e locais para o enfrentamento de emergências de saúde pública. 4. A Lei 13.979/2020 permite que as autoridades utilizem medicamentos e insumos na área de saúde sem registro na Anvisa. 5. A dispensação excepcional de medicamentos sem registro na Anvisa, em caso de mora irrazoável na sua atuação, também foi admitida pelo STF.

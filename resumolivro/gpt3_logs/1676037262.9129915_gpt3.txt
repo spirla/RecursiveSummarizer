@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Espcies de dolo. Para o disposto no artigo 33, inciso I, do Cdigo Penal Militar, a doutrina estabeleceu uma classificao que distingue o dolo da seguinte forma:
+Dolo direto.  expresso na frmula legal de querer o resultado. A caracterizao do dolo direto se faz mediante a vontade livre e consciente que se dirige diretamente para a realizao da conduta descrita no tipo objetivo. Dolo eventual. Encontra expresso na frmula legal de assumir o risco de produzir o resultado. O dolo eventual no possui como contedo uma intencionalidade com direcionamento preciso ou determinado no sentido da realizao da conduta descrita no tipo penal. No entanto, o dolo eventual permite caracterizar o tipo subjetivo com a inteno de realizar conduta perigosa que pode acabar se adequando ao descrito no tipo penal incriminador. A doutrina expressa a postura subjetiva de quem realiza a conduta por dolo eventual na antiga frmula de Reinhard Frank: seja o que for, der no que der, em qualquer caso eu no deixo de agir. Nos termos do Cdigo Penal Militar em vigor, tambm se pode entender caracterizado o dolo eventual nas situaes em que o sujeito demonstra postura subjetiva alternativa (dolo alternativo na expresso de Welzel). Nesses casos, o aspecto volitivo pode ser alternativo em relao ao resultado naturalstico produzido pela conduta ou em relao  pessoa contra a qual o crime  praticado. A primeira situao caracteriza alternatividade objetiva, para a qual pode-se citar o exemplo daquele que desfere facadas na vtima com a inteno de ferir ou matar. A segunda caracteriza alternatividade subjetiva, sendo exemplo a hiptese daquele que, a certa distncia, efetua disparos de arma de fogo contra duas pessoas, querendo matar uma ou outra. Nesse caso, o dolo no se apresenta alternativo quanto ao resultado morte, mas quanto ao sujeito passivo da prtica criminosa. Todos esses casos, na prtica, so resolvidos segundo a frmula de assumir o risco de produzir qualquer dos resultados naturalsticos ou atingir qualquer das pessoas. Dolo de dano e dolo de perigo. A doutrina ainda classifica o dolo conforme seja o tipo relacionado com o dano ou perigo ao bem jurdico. Nesse sentido, cabe, mais uma vez, ressaltar que o modelo comportamental proibido previsto no tipo pode, ou no, descrever um resultado no mundo naturalstico. Quando existe um dano ao bem jurdico como resultado naturalstico, pode-se falar em dolo de dano.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina estabeleceu uma classificação para o dolo, que pode ser direto ou eventual, e de dano ou perigo ao bem jurdico. O dolo eventual é caracterizado pela intenção de realizar conduta perigosa que se adequa ao descrito no tipo penal incriminador. O dolo de dano é relacionado ao resultado naturalístico de um dano ao bem jurdico.

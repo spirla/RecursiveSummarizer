@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Apesar de o Brasil ter ratificado a Conveno contra a tortura e outras penas ou tratamentos cruis, desumanos ou degradantes, da Organizao das Naes Unidas - ONU (Decreto 40, de 15 de fevereiro de 1991) e a Conveno interamericana para prevenir e punir a tortura, da Organizao dos Estados Americanos - OEA (Decreto 98.386, de 9 de novembro de 1989), no ratificou a Conveno sobre a imprescritibilidade dos crimes de guerra e dos crimes contra a humanidade, adotada pela Resoluo 2.391, em 26 de novembro de 1968, pela Assembleia Geral das Naes Unidas. Mesmo assim, a Constituio de 1988 deveria ter feito a opo pela imprescritibilidade do crime de tortura, dado  gravidade e  repugnncia que sua prtica causa na comunidade internacional. Comparativamente, pode-se dizer que a tortura  crime mais grave do que o crime de racismo, considerado imprescritvel. Com mais razo, a prtica da tortura deveria ser considerada prescritvel pelo ordenamento jurdico nacional. A imprescritibilidade constitui exceo  regra de que se deve evitar o prolongamento demasiado da situao jurdica que possibilita a punio do ru. Tal exceo fundamenta-se em opo poltica que reconhece especial gravidade aos crimes no atingidos pela prescrio, sendo que as hipteses excepcionais somente podem ser identificadas por opo poltico-constitucional. Isso significa que o legislador infraconstitucional no pode estabelecer outras hipteses de imprescritibilidade. As hipteses de imprescritibilidade estabelecidas na Carta Constitucional de 1988 so aplicveis aos crimes ocorridos anteriormente, desde que no tenha ocorrido a prescrio na poca da entrada em vigor dos dispositivos constitucionais. Nesses casos, a Constituio entra em vigor quando ainda existente o poder-dever de punir do Estado, e declara expressamente a impossibilidade de extino da responsabilidade pela prescrio. No se trata de aplicao de norma penal prejudicial ao ru retroativamente, mas em relao a pretenses que so viveis e ainda podem ser satisfeitas. Sendo assim, no se pode alegar que a Constituio probe, no inciso XL do artigo 5, a aplicao retroativa de dispositivo penal prejudicial ao ru. A imprescritibilidade dos crimes ainda no atingidos pela prescrio no importa aplicao retroativa. De qualquer forma, a restrio constitucional refere-se aos dispositivos legais, e no aos constitucionais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Brasil ratificou a Conveno contra a Tortura e outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes da ONU e a Conveno Interamericana para Prevenir e Punir a Tortura da OEA, mas no ratificou a Conveno sobre a Imprescritibilidade dos Crimes de Guerra e dos Crimes Contra a Humanidade. A Constituição de 1988 deveria ter feito a opção pela imprescritibilidade do crime de tortura, pois é considerado mais grave do que o crime de racismo. A imprescritibilidade constitui exceção à regra de que se deve evitar o prolongamento da situação jurídica que possibilita a punição do ru, sendo uma opção política que reconhece especial gravidade aos crimes não atingidos pela prescrição.

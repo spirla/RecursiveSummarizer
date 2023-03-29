@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Sem contar que a ocultacao e a dissimulacao podem se protrair no tempo, mediante a pratica de diversos atos subsequentes, exatamente para dar aparencia de legalidade as aquisicoes obtidas de modo ilicito (REsp 1.829.744/SP, Rel. Min. Sebastiao Reis Junior, Sexta Turma, DJe 3/3/2020). Em outro vies, ainda que para a configuracao do delito de lavagem de capitais nao seja necessaria a condenacao pelo delito antecedente, tendo em vista a autonomia do primeiro em relacao ao segundo, basta, apenas, a presenca de indicios suficientes da existencia do crime antecedente (AgRg no HC 514.807/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/12/2019). Evidentemente, no entanto, exsurge-se da analise do caso concreto a avaliacao do elemento subjetivo, a saber, a acao volitiva do agente, com o intuito espurio de ocultar a origem dos valores ilicitos, dando a estes aspecto licito, a incidir do tipo legal da Lei n. 9.613/1998. Tal desiderato deve ser facilmente extraido da denuncia, com a narrativa dos fatos imputados, indicacao minima de indicios do conhecimento da ilicitude dos bens ou valores oriundos de atividade criminosa e a consequente demonstracao cabal da ocultacao e dissimulacao do capital. Assim, na situacao em exame, inexistindo a demonstracao do minimo vinculo entre a acusada e o delito imputado, impossibilitado esta o exercicio do contraditorio e da ampla defesa. (Informativo n. 730) PROCESSO HC 695.980-GO, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 22/03/2022, DJe 25/03/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Violacao de domicilio. Ingresso policial apoiado em atitude suspeita do acusado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A ocultação e a dissimulação podem se protrair no tempo, mediante a prática de diversos atos subsequentes, exatamente para dar aparência de legalidade às aquisições obtidas de modo ilícito. 2. Para a configuração do delito de lavagem de capitais não é necessária a condenação pelo delito antecedente, tendo em vista a autonomia do primeiro em relação ao segundo, bastando apenas a presença de indícios suficientes da existência do crime antecedente. 3. O elemento subjetivo para a configuração do delito de lavagem de capitais é a ação volitiva do agente, com o intuito espurio de ocultar a origem dos valores ilícitos, dando a estes aspecto licito. 4. Para o exercício do contraditório e da ampla defesa é necessário a demonstração do mínimo vínculo entre a acusada e o delito imputado.

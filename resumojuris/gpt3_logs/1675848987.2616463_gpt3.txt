@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Revogacao. DESTAQUE E indevida a manutencao de medidas protetivas na hipotese de conclusao do inquerito policial sem indiciamento do acusado. O STJ possui o entendimento segundo o qual as medidas de urgencia, protetivas da mulher, do patrimonio e da relacao familiar, somente podem ser entendidas por seu carater de cautelaridade - vigentes de imediato, mas apenas enquanto necessarias ao processo e a seus fins (AgRg no REsp 1.769.759/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 07/05/2019, DJe de 14/05/2019). No caso, foram deferidas medidas protetivas pelo prazo de seis meses. Ao termino, as medidas foram prorrogadas por mais seis meses. Todavia, apesar de as medidas protetivas terem sido devidamente fundamentadas, ocorreu a conclusao do inquerito policial sem indiciamento do recorrente. Nesse sentido, tem-se que a imposicao das restricoes de liberdade ao recorrente, por medida de carater cautelar, de modo indefinido e desatrelado de inquerito policial ou processo penal em andamento, significa, na pratica, infligir-lhe verdadeira pena sem o devido processo legal, resultando em constrangimento ilegal (RHC 94.320/BA, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 09/10/2018, DJe 24/10/2018). (Informativo n. 750) 1251 PROCESSO Processo sob segredo judicial, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 13/09/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Imposicao de outra medida cautelar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É indevida a manutenção de medidas protetivas na hipótese de conclusão do inquérito policial sem indiciamento do acusado. 2. As medidas de urgência, protetivas da mulher, do patrimônio e da relação familiar, somente podem ser entendidas por seu caráter de cautelaridade, vigentes de imediato, mas apenas enquanto necessárias ao processo e a seus fins. 3. A imposição das restrições de liberdade ao recorrente, por medida de caráter cautelar, de modo indefinido e desatrelado de inquérito policial ou processo penal em andamento, significa, na prática, infligir-lhe verdadeira pena sem o devido processo legal, resultando em constrangimento ilegal.

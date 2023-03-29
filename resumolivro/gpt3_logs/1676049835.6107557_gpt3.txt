@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Segundo lio de Hely Lopes Meirelles,28 o.
+cargo  o lugar institudo na organizao do servio pblico, com denominao prpria, atribuies e responsabilidades especficas e estipndio correspondente, para ser provido e exercido por um titular, na forma estabelecida em lei. Funo  a atribuio ou o conjunto de atribuies que a Administrao confere a cada categoria profissional ou comete individualmente a determinados servidores para a execuo de servios eventuais. Importa notar que a previso do inciso I do artigo 92 do CP distingue situaes administrativas diferenciadas ao possibilitar a imposio dos efeitos da condenao. Todo cargo pblico constitui um centro de convergncia de atividades pblicas exercidas por seu titular. Nesse sentido, o artigo 3 da Lei 8.112/90 define cargo pblico como o conjunto de atribuies e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor. Dessa forma, a perda do cargo pblico implica, necessariamente, a perda das funes (atribuies) que lhe so inerentes. A previso legal para a perda da funo pblica tem aplicao apenas nos casos em que o condenado no seja titular de cargo, mas exera uma funo de natureza pblica.  necessrio observar que todo cargo rene um conjunto de funes pblicas a serem exercidas por seu titular, mas  possvel haver o exerccio de funo pblica por quem no seja titular de cargo pblico. As funes inerentes ao cargo esto relacionadas aos servios prestados pela administrao pblica em carter permanente, sendo que essa se organiza funcionalmente por meio dos cargos para a prestao dos servios cuja necessidade  continuada. Nesse sentido, importa notar que o inciso V do artigo 37 da Constituio da Repblica determina que as funes de confiana relativas  direo, chefia e assessoramento s podem ser exercidas por servidores ocupantes de cargos efetivos. Essa imposio  consequncia da natureza permanente de tais funes pblicas. O exerccio de funes sem cargo, por outro lado, ocorre quando a administrao necessita prestar servios eventuais. Nos casos de prestao de servios eventuais, que no iro constituir uma atividade permanente, a administrao contrata servidores que no ocupam cargo pblico. Ao final dos servios, contratados por prazo determinado conforme dispe o artigo 37, inciso IX, da Constituio da Repblica, encerra-se o vnculo existente entre a administrao e o servidor.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O cargo público é o conjunto de atribuições e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor. A função é a atribuição ou o conjunto de atribuições que a Administração confere a cada categoria profissional ou comete individualmente a determinados servidores para a execução de serviços eventuais. O exerccio de funções sem cargo ocorre quando a administração necessita prestar serviços eventuais.

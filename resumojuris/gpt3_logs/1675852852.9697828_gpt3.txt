@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Luis Felipe Salomao, Quarta Turma, por unanimidade, julgado em 08/08/2022, DJe 15/08/2022. Ramo do Direito DIREITO DO CONSUMIDOR Tema Plano de saude. Estabelecimento de rede credenciada. Possibilidade. Reembolso. Limites da tabela do plano de saude. Situacoes excepcionais. DESTAQUE Para o reembolso das despesas medico-hospitalares efetuadas pelo beneficiario com tratamento/atendimento de saude fora da rede credenciada, alem da observancia de se limitar a hipoteses excepcionais, os direitos dos usuarios do plano de saude, mormente a questao da rede credenciada, devem ser examinados a luz de cada plano de saude especifico, isto e, da respectiva relacao contratual. O fato de o hospital de escolha, na hipotese, alegadamente fazer parte da rede credenciada de planos de saude da Unimed Paulistana , nao significa que e da rede credenciada de todos os planos de Saude mesmo daquela Unimed, tampouco do plano de saude especifico da agravante (da Unimed de Cuiaba). 56 Conforme o principio da funcao social do contrato, insculpido no art. 421 do CC, nao se pode descuidar de que o modelo se baseia no conceito de mutualismo, que vem da area de seguros: um grupo de pessoas se junta, cotiza- se e gera-se uma receita por meio do pagamento individual da mensalidade, sendo o valor total arrecadado usado para pagar as despesas decorrentes do atendimento a saude de integrantes desse grupo. Como sao varias pessoas, os custos se diluem, o preco do plano se reduz, e elas podem ter acesso a servicos que teriam dificuldade de custear individualmente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível estabelecer uma rede credenciada para planos de saúde. 2. É possível o reembolso de despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada, desde que observadas hipóteses excepcionais. 3. Os direitos dos usuários do plano de saúde, mormente a questão da rede credenciada, devem ser examinados a luz de cada plano de saúde específico. 4. O fato de o hospital de escolha fazer parte da rede credenciada de planos de saúde de determinada Unimed não significa que seja da rede credenciada de todos os planos de saúde daquela Unimed, tampouco do plano de saúde específico da agravante. 5. O modelo de plano de saúde se baseia no conceito de mutualismo, sendo o valor total arrecadado usado para pagar as despesas decorrentes do atendimento à saúde de integrantes desse grupo.

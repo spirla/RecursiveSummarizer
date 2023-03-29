@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, a condenacao nao se amparou, exclusivamente, no reconhecimento pessoal realizado na fase do inquerito policial, destacando-se, sobretudo, que uma das vitimas reconheceu o acusado em Juizo, descrevendo a negociacao e a abordagem. A identificacao do perfil na rede social facebook foi apenas uma das circunstancias do fato, tendo em conta que a negociacao se deu por essa rede social. Isso nao afastou o reconhecimento dos autores do fato em juizo, razao pela qual nao ha falar em violacao do art. 226 do CPP. (Informativo n. 733) PROCESSO HC 703.978-SC, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, por unanimidade, julgado em 05/04/2022, DJe 07/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Interrogatorio. Perguntas do juiz condutor do processo. Art. 186 do CPP. Manifestacao do desejo de nao responder.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A condenação não se amparou exclusivamente no reconhecimento pessoal realizado na fase do inquérito policial. 2. Uma das vítimas reconheceu o acusado em juízo, descrevendo a negociação e a abordagem. 3. A identificação do perfil na rede social Facebook foi apenas uma das circunstâncias do fato. 4. Não há falar em violação do art. 226 do CPP.

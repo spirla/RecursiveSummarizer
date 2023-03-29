@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Dada a palavra ao Advogado de Defesa do acusado Alex, s suas perguntas respondeu: que conversou com as vtimas Michel e Talita que relataram os mesmos fatos relatados ao tenente Dcio; que Tenente Dcio foi o primeiro a chegar ao local; que, segundo as vtimas, os dois acusados foram autores da agresso, mas somente o nome de Alex foi citado; que Talita disse que sofreu abuso sexual; que ouviu de alguns militares que o local dos fatos seria ponto de traficncia. Nada mais. Dada a palavra ao Advogado de Defesa do acusado Wagner, s suas perguntas respondeu: que alm da mquina de choque, Michel no alegou ser agredido por outro instrumento; que no tem condies de informar se a leso havida nas costas de Michel seria compatvel com mquina de choque; que Michel falou que o policial que estava com o policial Alex foi quem o agrediu com mquina de choque. Nada mais. Outrossim, temos ainda o testemunho de Jos Madalena Lana, proprietrio do imvel onde se deram os fatos, que, apesar de no ter presenciado as agresses, por ter sido trancado em um dos quartos, relatou que ouviu gritos das vtimas (Evento 3, UDIO/VDEO 2 e UDIO/VDEO6). Da mesma forma, razo no assiste  defesa no tocante  ausncia de comprovao da materialidade do crime de tortura. Apesar de constar apenas o exame de corpo de delito de Michael Douglas Lima, realizado no dia seguinte aos fatos (23 de maio de 2012, s 05h11min), confirmando que houve ofensa  sua integridade corporal e, tambm, o laudo pericial realizado na enxada e na vassoura tipo piaava que teriam sido utilizadas para as agresses (Evento 1 - INQ3, pg. 18 e DEFESA PRVIA7, pg. 9), temos que  assente o entendimento jurisprudencial no sentido de que a ausncia do exame de corpo de delito da vtima no macula a procedncia da ao penal, vez que outras provas podero suprir-lhe a falta12.  a hiptese dos autos. No mesmo sentido: [.] 1. A parte insiste na ausncia de exame de corpo de delito, olvidando que o acrdo recorrido assentou que, no caso, as agresses foram de tal monta que no deixaram vestgios, havendo outras provas a corroborar a efetiva prtica delitiva. 2. Em se tratando do crime de tortura e sendo impingido  vtima sofrimento de ordem psicolgica e agresses que no deixaram vestgios,  suficiente a sua comprovao por meio de prova testemunhal. Precedentes. [.] (STJ - AgRg nos EDcl no AREsp n. 44.396/AP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/11/2015, DJe de 25/11/2015.) [...] 2. A falta do exame de corpo de delito no retira a admissibilidade da acusao, porquanto lastreada em outros elementos de prova da materialidade dos crimes (relatrio fotogrfico, depoimentos testemunhais, exame de corpo de delito na outra vtima, boletim de ocorrncia, auto de reconhecimento fotogrfico e depoimentos das vtimas sobreviventes).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A ausência do exame de corpo de delito da vítima não macula a procedência da ação penal, pois outras provas podem suprir a sua falta. Os depoimentos testemunhais, relatos fotográficos, exames de corpo de delito na outra vítima, boletins de ocorrência, auto de reconhecimento fotográfico e depoimentos das vítimas sobreviventes são suficientes para comprovar a materialidade dos crimes.

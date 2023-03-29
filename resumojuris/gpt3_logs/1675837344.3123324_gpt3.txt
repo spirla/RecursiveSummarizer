@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Dessa forma, verifica-se que, na assistencia simples, pela propria diccao do CPC, o terceiro interessado necessita ter interesse juridico na causa, diferentemente do que ocorre na intervencao anomala, na qual basta, tao somente, o interesse meramente de natureza economica. No caso em analise, no momento da admissao da habilitacao da Uniao na demanda, esta foi realizada na qualidade de assistente simples e em decisao que passou irrecorrida, sendo que, conforme anteriormente citado, nesses casos de intervencao, o interesse juridico na causa deve estar presente e assim o fora reconhecido. O interesse juridico especifico da Uniao a ser tutelado encontra-se presente, tendo em conta que reflete em evidente interesse publico demonstrado - consubstanciado no abastecimento nacional de combustiveis, considerado de utilidade publica, conforme  1 do art. 1 da Lei n. 9.847/1999, uma vez que, com a condenacao da assistida, podera ser afetada a continuidade das atividades desta e, consequentemente a atividade de distribuicao de combustiveis no ambito nacional, sendo que a alienacao de participacao societaria noticiada nao tem o condao de desconstituir tal interesse. Com efeito, o art. 109, I, da CF/88 dispoe que compete a Justica Federal processar e julgar as causas em que a Uniao for interessada na condicao de autora, re, assistente ou oponente, fato que implicaria a remessa dos autos ao Juizo federal. Assim, existindo o interesse da Uniao no feito, na condicao de assistente simples, a competencia afigura-se como da Justica Federal, conforme preve o art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Na assistência simples, o terceiro interessado necessita ter interesse jurídico na causa, diferentemente do que ocorre na intervenção anômala, na qual basta, tão somente, o interesse meramente de natureza econômica. 2. O interesse jurídico específico da União a ser tutelado encontra-se presente, tendo em conta que reflete em evidente interesse público demonstrado. 3. Compete à Justiça Federal processar e julgar as causas em que a União for interessada na condição de autora, ré, assistente ou oponente.

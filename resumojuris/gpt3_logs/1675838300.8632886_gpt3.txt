@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A medida restritiva ao direito de propriedade, consistente em impedir, de forma absoluta, o proprietario de entrar em sua unidade condominial e adequada para atingir o objetivo pretendido, qual seja, evitar a disseminacao da covid-19, assegurando o direito a saude e a vida dos condominos. Entretanto, a medida nao e necessaria, tendo em vista a existencia de outros meios menos gravosos e igualmente adequados, como a implementacao, pelo sindico, de um cronograma para que os proprietarios possam acessar suas respectivas unidades condominiais em horarios pre-determinados, mantendo vedado o acesso ao publico externo. Hipotese em que se reconhece a indevida restricao ao direito de propriedade pela medida adotada pelo sindico do condominio de vedar totalmente o acesso do predio aos proprietarios; e, consequentemente, o direito de adentrar em sua unidade condominial. (Informativo  Ed. Especial n. 6) CC, art. 1.228; CF/88, art. 5, XXII; CC, arts. 1.347 e 1.348, II; Lei n. 4.591/1964, 22, caput e  1. 514 Processo EDcl no AgInt nos EDcl no REsp 1.604.422-MG, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, por unanimidade, julgado em 24/08/2021, DJe 27/08/2021. Ramo do Direito DIREITO CONSTITUCIONAL, DIREITO BANCARIO Tema Bem de familia dado em garantia de contrato diverso do que ensejou a execucao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É indevida a restrição ao direito de propriedade pela medida adotada pelo síndico do condomínio de vedar totalmente o acesso do prédio aos proprietários; 2. É possível a implementação de um cronograma para que os proprietários possam acessar suas respectivas unidades condominiais em horários pré-determinados, mantendo vedado o acesso ao público externo; 3. A medida restritiva ao direito de propriedade, consistente em impedir, de forma absoluta, o proprietário de entrar em sua unidade condominial, não é necessária, tendo em vista a existência de outros meios menos gravosos e igualmente adequados.

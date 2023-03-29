@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+24 da Lei n. 9.656/1998 estabelece que sempre que detectadas nas operadoras sujeitas a disciplina desta Lei anormalidades administrativas graves que coloquem em risco a continuidade dos planos de saude, a ANS podera determinar a alienacao da carteira, o regime de direcao fiscal ou tecnica, por prazo nao superior a trezentos e sessenta e cinco dias, ou a liquidacao extrajudicial, conforme a gravidade do caso. Isso porque, eventuais decisoes administrativas ou judiciais a margem da lei escapam das previsoes preteritas e tem o condao de agravar a delicada situacao financeira de inumeras operadoras de planos de saude, que, seguida de intervencoes, liquidacoes ou aquisicoes de carteiras de clientes, fere em ultima analise a propria confianca e expectativa dos consumidores, razao maior da contratacao do plano ou seguro de saude. O problema deixa de ser da operadora e passa a atingir toda a sociedade . As diretrizes da socialibilidade e eticidade foram alcadas pelo CC/2002 a postulados fundamentais. Nesse passo, os contratos passam a ser concebidos em termos economicos e sociais, consoante propugna a teoria preceptiva. Nesse passo, o pedido exordial vai de encontro aos principios da eticidade, da boa-fe objetiva e da funcao social do contrato, nao havendo interesse juridico-social na tutela da situacao objetivamente gerada por unilateral escolha da parte autora que nao se valeu da rede credenciada (sendo bem de ver, a titulo de mero registro, que a operadora do plano de saude repisa em contrarrazoes recursais que a prova pericial apontou que o tratamento de cancer poderia ter sido feito na rede credenciada), inclusive em vista das consequencias economicas e sociais deleterias de uma jurisprudencia permissiva. (Informativo  Ed. Especial n. 9) 57 CC, arts. 113, 421, paragrafo unico e 422. Lei n. 9.656/1998, art. 24. Lei n. 13.784/2019.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 9.656/1998 estabelece que a ANS pode determinar a alienação da carteira, o regime de direção fiscal ou técnica, por prazo não superior a 365 dias, ou a liquidação extrajudicial, conforme a gravidade do caso, quando detectadas anormalidades administrativas graves que coloquem em risco a continuidade dos planos de saúde. 2. Os contratos passam a ser concebidos em termos econômicos e sociais, de acordo com os princípios da eticidade, da boa-fé objetiva e da função social do contrato. 3. Não há interesse jurídico-social na tutela da situação objetivamente gerada por unilateral escolha da parte autora que não se valeu da rede credenciada.

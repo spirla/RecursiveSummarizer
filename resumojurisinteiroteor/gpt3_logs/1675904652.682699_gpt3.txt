@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Requereu a procedncia do pedido para anular o ato de sano, retirando do seu extrato funcional a punio aplicada, com a devoluo da pontuao perdida, bem como a restituio dos dias de suspenso a ttulo de sano disciplinar, tendo em vista os efeitos retroativos. Deu  causa o valor de R$ 1.000,00 (Evento 1 - INIC1). Verifica-se, no Evento 2 - CERT1, em consulta ao e-proc, as seguintes Aes Cveis ns. 2000980-22.2019.9.13.0002, 2001040 95.2019.9.13.1, 2000023-84.2020.9.13.0002, 2000203 06.2020.9.13.1, 2000272-32.2020.9.13.0003, 200007304.2020.9.13.0005, 2000074-86.2020.9.13.0005 e 2000075 71.2020.9.13.0005, em nome do Autor. O Meritssimo juiz substituto na Quinta Auditoria Judiciria Militar Estadual (AJME) cvel recebeu a petio inicial e concedeu o benefcio da justia gratuita. Afirmou que, em consulta aos Processos de ns. 2000980-22.2019.9.13.0002, 2001040-95.2019.9.13.0001, 2000023 84.2020.9.13.2, 2000203-06.2020.9.13.0001, 2000272 32.2020.9.13.3, 2000073-04.2020.9.13.0005, 2000074 86.2020.9.13.0005 e 2000075-71.2020.9.13.0005, constantes da certido do Evento 2, no sistema EPROC, estes no se apresentam com a mesma causa de pedir, nem com o mesmo pedido do que a presente ao, razo pela qual reconheceu a ausncia de litispendncia ou de coisa julgada. Em relao ao PCD de Portaria n 112.754/2015 - 4 BPM, objeto de questionamento, determinou que o autor juntasse o seu ERF atualizado e o Extrato de Sanes Vlidas do SIRH, em que estivesse consignada a data da ativao da sano disciplinar atinente ao PCD questionado. (Evento 4 - DESP1). O autor juntou o extrato de registro funcional e o extrato de sanes vlidas no Evento 11. Em despacho de Evento 13 - DESP1, o meritssimo juiz substituto da 5a AJME- cvel determinou a citao do Estado de Minas Gerais. Citado, o Estado de Minas Gerais apresentou contestao (Evento 17 - CONT1), sustentou que no h que se falar em nulidade do aludido procedimento, o qual foi devidamente instaurado e cujas autoridades processantes seguiram, rigorosamente, todo o regramento de regncia. Afirmou que o autor obteve cincia da imputao contra ele erigida (Evento 1 - DOC2, pgina 7), constituiu defensor tcnico (Evento 1 - DOC2, pgina 9), arrolou testemunhas (Evento 1 - DOC2, pgina 10), tendo gozado das prerrogativas defensivas que lhe foram ofertadas, no havendo qualquer cerceamento  defesa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O autor requereu a procedncia do pedido para anular o ato de sano, retirando do seu extrato funcional a punio aplicada, com a devoluo da pontuao perdida, bem como a restituio dos dias de suspenso a título de sano disciplinar. O Estado de Minas Gerais contestou alegando que o procedimento foi devidamente instaurado e que o autor gozou das prerrogativas defensivas que lhe foram ofertadas.

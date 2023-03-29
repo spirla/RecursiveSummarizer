@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O Regimento Interno do STM estabelece que na petio dirigida ao presidente, com a exposio do fato e do direito, faz-se a demonstrao do cabimento do recurso extraordinrio e as razes do pedido (artigo 136, inciso I a III), aplicar, no que couber, ao processamento do recurso extraordinrio as disposies do artigo 1.029 ao artigo 1.041 do CPC (artigo 136, pargrafo 1) e o cabimento e o respectivo procedimento do agravo em recurso extraordinrio (artigo 140, I e II, e pargrafo 1, I a III, e pargrafos 2 e 3). 18.10.3. Efeitos. O pedido de concesso de efeito suspensivo ao recurso extraordinrio  dirigido ao Presidente do STM no perodo compreendido entre a interposio do recurso e a publicao da deciso de admisso do recurso (RISTM, artigo 139). O artigo 255 do RISTJ dispe que O recurso especial ser interposto na forma e no prazo estabelecido na legislao processual vigente e recebido no efeito devolutivo, salvo quando interposto do julgamento de mrito do incidente de resoluo de demandas repetitivas, hiptese em que ter efeito suspensivo. A Smula 267 do STJ determina que a interposio de recurso, sem efeito suspensivo, contra deciso condenatria no obsta a expedio de mandado de priso. O STF e o STJ realizam juzo rescindente ao cassar ou revogar a deciso ou juzo rescisrio ao proferir deciso de mrito que substitui a anterior. 18.10.4. Recursos extraordinrio e especial repetitivos. Cuida-se de um instituto que visa reduzir o excessivo nmero de recursos julgados pelo STF e STJ por meio do julgamento de um recurso ou de vrios recursos por amostragem sempre que houver multiplicidade de recursos extraordinrios ou especiais com fundamento em idntica questo de direito, conforme estabelece o artigo 1036 do CPC. O presidente ou o vice-presidente de Tribunal selecionar 2 (dois) ou mais recursos representativos da controvrsia, que sero encaminhados ao STF ou ao STJ para fins de afetao, determinando a suspenso do trmite de todos os processos pendentes, individuais ou coletivos, que tramitem no Estado ou na regio, conforme o caso (artigo 1036, pargrafo 1, CPC).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Regimento Interno do STM estabelece o cabimento e o procedimento do recurso extraordinrio e do agravo em recurso extraordinrio. O pedido de concessão de efeito suspensivo ao recurso extraordinário é dirigido ao Presidente do STM. O recurso especial é interposto na forma e no prazo estabelecido na legislação processual vigente. O STF e o STJ realizam juízo rescindente ou juízo rescisório, respectivamente. O instituto de recursos extraordinário e especial repetitivos visa reduzir o excessivo número de recursos julgados pelo STF e STJ.

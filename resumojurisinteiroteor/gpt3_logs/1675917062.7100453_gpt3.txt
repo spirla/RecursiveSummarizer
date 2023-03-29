@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(Evento 12).  o relatrio. VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Em consulta  movimentao do processo que originou o presente recurso, verifiquei que foi proferida sentena, nos autos que ensejaram a interposio do presente agravo de instrumento, denegando a segurana pretendida, com fulcro no inciso I do artigo 487 do Cdigo de Processo Civil (Evento 31 do Processo n. 2000149-91.2021.9.13.0005). Desta feita, a anlise do presente recurso resta prejudicada pela perda do objeto. Nesse sentido,  assente o entendimento do Superior Tribunal de Justia: PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE INTERPOSTO CONTRA ACRDO QUE DECIDE QUESTO INTERLOCUTRIA. SUPERVENINCIA DE SENTENA DE MRITO NO FEITO PRINCIPAL. PERDA DE OBJETO DO RECURSO ESPECIAL. 1. A natureza exauriente da sentena proferida na ao principal pe fim s discusses travadas em agravo de instrumento interposto contra deciso interlocutria. 2. A questo relativa  competncia foi tratada pelo Juzo de primeiro grau, circunstncia que autorizou o agravante a devolv-la ao exame do Tribunal de origem sob novo ttulo, providncia esta que, segundo as informaes trazidas aos autos, de fato ocorreu. Logo, irretocvel a deciso agravada que no conheceu do recurso especial diante da perda de objeto da insurgncia. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1889061/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/04/2022, DJe 22/04/2022) PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso especial foi denegado pelo Superior Tribunal de Justia devido perda de objeto da insurgncia, pois a questo relativa competncia foi tratada pelo Juzo de primeiro grau.

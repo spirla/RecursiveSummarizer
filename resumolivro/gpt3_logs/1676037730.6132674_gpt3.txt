@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se o tipo incriminador no estabelecer proibio para determinada conduta, visando instituir proteo para algum objeto jurdico, o que parece no ocorrer na prtica, seria o caso de se reconhecer a impossibilidade jurdica de tal incriminao. Tambm pode ocorrer de o legislador estabelecer incriminao para determinada conduta, instituindo como objeto da tutela penal objeto jurdico que seja imprprio  interveno do Direito Penal, tendo em vista as limitaes de ordem constitucional. A impossibilidade de caracterizao do crime no se deve restringir aos obstculos de natureza material, podendo tambm fundamentar-se em restries jurdicas. Neste sentido, se poder falar em crime juridicamente impossvel. Por objeto material do crime deve-se entender a pessoa ou coisa contra a qual se dirige a conduta proibida. A identificao do objeto material do crime deve levar em considerao as caractersticas prprias ao crime que se pretende realizar, sendo que, em alguns casos, h crimes sem objeto material. Nos crimes materiais, a identificao do objeto  mais fcil ao operador do direito. Como exemplo de objeto de crimes materiais  possvel citar o corpo da pessoa humana no crime de homicdio e o veculo automotor no crime de furto. Para crimes formais, novamente o corpo da pessoa pode constituir exemplo de objeto do crime de extorso mediante sequestro - artigo 244 do CPM. Para os crimes de mera conduta, cabe lembrar da substncia entorpecente que constitui o objeto do crime de trfico de drogas previsto no artigo 290 do CPM. Em alguns casos o objeto jurdico est restrito aos limites fsicos do objeto material do crime, como no caso do homicdio em que o corpo da pessoa humana encerra-lhe a prpria vida ou no caso do furto do nico bem patrimonial que uma pessoa possua. Em outros casos, como quando o patrimnio pessoal no se reduz a um nico bem material, o objeto material representa apenas uma parcela do bem juridicamente protegido. Tambm pode ocorrer que o crime no possua qualquer objeto material, como ocorre nos casos de injria proferida por meio de palavras e gestos (artigo 216 do CPM). Do mesmo modo como ocorre com a causa de inadequao tpica anteriormente examinada, no crime impossvel o sujeito acredita que o objeto  idneo  realizao do crime, mas este no o . A impropriedade do objeto que impede a adequao tpica deve ser absoluta de modo a impedir totalmente a realizao objetiva da conduta proibida.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O objeto material de um crime pode ser uma pessoa, coisa ou substância; em alguns casos, o objeto jurdico pode ser restrito aos limites físicos do objeto material. Em outros casos, o objeto material representa apenas uma parte do bem juridicamente protegido. Em alguns casos, o crime não possui objeto material, como ocorre nos casos de injúria proferida por meio de palavras e gestos. Quando o objeto é impróprio para a realização do crime, este é considerado juridicamente impossível.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a realizao da conduta, conforme o Direito, tivesse conduzido ao mesmo resultado, no seria possvel a imputao, pois, embora descuidada a conduta do motorista, no aumentou o risco j existente de produzir-se o resultado. Note-se que o legislador autorizou a realizao de conduta arriscada quando permitiu a ultrapassagem de veculos nas rodovias. Se, ao contrrio, a realizao correta da ultrapassagem pudesse evitar o sinistro, deveria haver imputao. As discusses sobre a teoria da imputao objetiva receberam forte impulso quando a Suprema Corte alem, em 1958, absolveu um condutor de caminho envolvido em idntica situao, entendendo que no se podia descartar a possibilidade da ocorrncia do resultado, mesmo que o condutor tivesse observado a distncia regulamentar;
+b) no fato doloso: o diretor de uma fbrica de pincis fornece a suas trabalhadoras pelos de cabra da China para a confeco dos objetos, sem desinfet-los previamente, como estava prescrito. O diretor pretendia, com a omisso do desinfetante, matar uma de suas trabalhadoras. A trabalhadora efetivamente infecta-se e morre. Uma investigao posterior comprova que o desinfetante prescrito no seria eficaz contra os bacilos da infeco, pois estes no eram conhecidos at aquele momento na Europa. Como a conduta alternativa, conforme o Direito, no poderia evitar o resultado, no se reconhece o incremento da situao de perigo e, portanto, no h a imputao pelo resultado. Roxin entende ser possvel responsabilizar o diretor da fbrica por homicdio tentado. O caso  realmente complexo. Nos termos da legislao brasileira, a omisso no  considerada causa do resultado, pois este no seria evitado com a desinfeco. Contudo, o fornecimento do pelo de cabra caracteriza crime comissivo, o que implicaria o reconhecimento de homicdio consumado. A meno ao exemplo de Roxin para fato doloso visa a ressaltar que, embora o princpio do incremento do risco tenha aplicao preponderante nos crimes negligentes, as regras para a imputao tambm se aplicam aos crimes dolosos. O incremento do risco somente poder ser avaliado ex post, ou seja, observando-se o fato j ocorrido. Nessa avaliao do aumento da situao de risco, sempre ser necessria a considerao de todas as circunstncias do fato que se tornem conhecidas. No exemplo dado, a embriaguez do ciclista, a distncia exata deste em relao ao veculo e a velocidade do caminho.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imputao de um resultado depende do aumento da situao de risco pela conduta do agente, seja ela dolosa ou negligente. O direito permite a realização de condutas arriscadas, como a ultrapassagem de veículos nas rodovias. No entanto, se a conduta correta pudesse evitar o resultado, deveria haver imputabilidade. A teoria da imputabilidade objetiva recebeu forte impulso com a decisão da Suprema Corte Alemã, em 1958. No caso doloso, a omisso não é considerada causa do resultado, mas o fornecimento do pelo de cabra caracteriza crime comissivo. O incremento do risco só pode ser avaliado ex post, considerando todas as circunstâncias do fato.

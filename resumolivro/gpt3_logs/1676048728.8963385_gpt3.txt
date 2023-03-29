@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Conforme o artigo 68 do diploma repressivo nacional, a considerao das circunstncias agravantes e atenuantes constitui a segunda fase da tarefa de individualizao, que  totalmente distinta da primeira fase, ou seja, da fixao da pena-base. Cabe notar que a previso das circunstncias legais  especfica em relao  previso genrica da circunstncia judicial. Ocorrendo situao ftica prevista expressamente como circunstncia legal, no se pode consider-la na fase da identificao da pena-base. Da mesma forma, no se podem considerar como circunstncias judiciais dados que constituam a essncia do tipo incriminador ou de uma causa de aumento ou diminuio. No se pode admitir realizar sobre uma mesma circunstncia dupla valorao. Como exemplos dessa situao, tem-se a ocorrncia do incndio, inundao ou calamidade, que constitui elemento essencial do crime previsto no artigo 257 do CP; ou o horrio destinado ao repouso noturno, que  causa de aumento de pena para o furto, previsto no pargrafo 1 do artigo 155 do CP. A considerao que a circunstncia judicial enseja realizar diz respeito aos demais aspectos objetivos do crime que no mereceram previso especfica do legislador. Deve-se, assim, analisar os dados objetivos relativos aos instrumentos utilizados na prtica da conduta, ao modo de agir, ao tempo e lugar do crime e a outros dados que possam fazer o julgador melhor visualizar a dinmica criminosa. Um ditado popular diz que a oportunidade faz o ladro. Talvez fosse o caso de dizer que a oportunidade revela o ladro. De qualquer forma, a circunstncia judicial em exame possibilita avaliar a oportunidade em que o crime foi realizado. As facilidades ou dificuldades enfrentadas pelo sujeito na execuo do crime podem fazer o magistrado avaliar melhor a necessidade e suficincia da pena para a reprovao e preveno do crime. Havendo excepcional estmulo  prtica do crime, em situao no prevista como circunstncia atenuante, pode-se caracterizar hiptese de aplicao de pena inferior ao que determina a culpabilidade. No entanto, a realizao do crime em circunstncias extremamente adversas pode indicar a necessidade de aplicar-se a pena determinada pela culpabilidade. Note-se que a maior gravidade das circunstncias no poder elevar a pena alm dos limites estabelecidos pela culpabilidade do sujeito neste caso concreto. 13.7. Consequncias do crime.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 68 do diploma repressivo nacional prevê a consideração de circunstâncias agravantes e atenuantes na segunda fase da individualização da pena, que é distinta da primeira fase, que é a fixação da pena-base. A circunstância judicial avalia os dados objetivos relativos à prática da conduta, ao modo de agir, ao tempo e lugar do crime para melhor visualizar a dinâmica criminosa. A oportunidade pode revelar o ladrão e as circunstâncias extremamente adversas podem indicar a necessidade de aplicar-se a pena determinada pela culpabilidade.

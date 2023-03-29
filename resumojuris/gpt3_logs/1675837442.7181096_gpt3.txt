@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+109, I, da CF/88 na relacao processual, e nao em razao da natureza da verba federal sujeita a fiscalizacao da Tribunal de Contas da Uniao. No caso, o ente municipal ajuizou acao de improbidade administrativa, em razao de irregularidades na prestacao de contas de verbas federais decorrentes de convenio. 492 A competencia para processar e julgar acoes de ressarcimento ao erario e de improbidade administrativa, relacionadas a eventuais irregularidades na utilizacao ou prestacao de contas de repasses de verbas federais aos demais entes federativos, estava sendo dirimida por esta Corte Superior sob o enfoque das Sumulas 208/STJ ( Compete a Justica Federal processar e julgar prefeito municipal por desvio de verba sujeita a prestacao de contas perante orgao federal ) e 209/STJ ( Compete a Justica Estadual processar e julgar prefeito por desvio de verba transferida e incorporada ao patrimonio municipal ). O art. 109, I, da CF/88 preve, de maneira geral, a competencia civel da Justica Federal, delimitada objetivamente em razao da efetiva presenca da Uniao, entidade autarquica ou empresa publica federal, na condicao de autoras, res, assistentes ou oponentes na relacao processual. Estabelece, portanto, competencia absoluta em razao da pessoa (ratione personae), configurada pela presenca dos entes elencados no dispositivo constitucional na relacao processual, independentemente da natureza da relacao juridica litigiosa. Por outro lado, o art. 109, VI, da CF/88 dispoe sobre a competencia penal da Justica Federal, especificamente para os crimes praticados em detrimento de bens, servicos ou interesse da Uniao, entidades autarquicas ou empresas publicas. Assim, para reconhecer a competencia, em regra, bastaria o simples interesse da Uniao, inexistindo a necessidade da efetiva presenca em qualquer dos polos da demanda.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência para processar e julgar ações de ressarcimento ao erário e de improbidade administrativa relacionadas a eventuais irregularidades na utilização ou prestação de contas de repasses de verbas federais aos demais entes federativos está sendo dirimida pela Corte Superior sob o enfoque das Sumulas 208/STJ e 209/STJ. 2. O art. 109, I, da CF/88 prevê, de maneira geral, a competência cível da Justiça Federal, delimitada objetivamente em razão da efetiva presença da União, entidade autárquica ou empresa pública federal, na condição de autoras, réus, assistentes ou oponentes na relação processual. 3. O art. 109, VI, da CF/88 dispõe sobre a competência penal da Justiça Federal, especificamente para os crimes praticados em detrimento de bens, serviços ou interesse da União, entidades autárquicas ou empresas públicas.

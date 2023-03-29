@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A afirmao vazia de contedo no demonstra em que medida as irregularidades do procedimento de degravao inviabilizaram a compreenso do contexto no qual o apelante proferiu os comentrios objeto de apurao da SAD. [.] Por tais razes, nego provimento ao presente recurso, mantendo a sentena proferida em primeiro grau de jurisdio. Como se pode extrair da deciso agravada, a eventual ofensa aos princpios da ampla defesa e do contraditrio no se deu de forma direta, mas, sim, por via reflexa  CF, uma vez que a controvrsia foi dirimida por este Tribunal, com supedneo na legislao infraconstitucional, isto , com base na Lei Estadual n. 14.310/2002, que dispe sobre o Cdigo de tica e Disciplina dos Militares do Estado de Minas Gerais. Sobre a questo, registre-se que o STF, quando do julgamento do ARE n. 748.371 RG/MT, Tema n. 660, publicado em 1708/2013, de relatoria do Ministro Gilmar Mendes, assentou o entendimento de que no h repercusso geral quando a alegao de violao aos princpios do contraditrio, da ampla defesa, dos limites da coisa julgada e do devido processo legal depender do exame de norma infraconstitucional, como ocorre no presente caso. Ao contrrio do que foi sustentado pelo agravante, no seria possvel apreciar a afronta aos referidos princpios constitucionais sem examinar-se a legislao infraconstitucional supramencionada, o que no  possvel pela via do apelo extremo. A propsito, colaciona-se o seguinte precedente: EMENTA: DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINRIO COM AGRAVO. CRIME DE CALNIA. AUSNCIA DE PREQUESTIONAMENTO. SMULA 282/STF. ALEGAO DE VIOLAO AOS PRINCPIOS DO CONTRADITRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA, DO DEVIDO PROCESSO LEGAL. AUSNCIA DE REPERCUSSO GERAL. INDIVIDUALIZAO DA PENA. ANLISE DA LEGISLAO INFRACONSTITUCIONAL E DO CONJUNTO FTICO-PROBATRIO DOS AUTOS. SMULA 279/STF. AUSNCIA DE VIOLAO AO ART. 93, IX, DA CONSTITUIO FEDERAL. 1.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal negou provimento ao recurso, mantendo a sentena proferida em primeiro grau de jurisdio, pois a alegao de violação aos princípios da ampla defesa e do contraditório não se deu de forma direta, mas por via reflexa, e não é possível apreciar a afronta aos referidos princípios sem examinar a legislação infraconstitucional, o que não é possível pela via do apelo extremo.

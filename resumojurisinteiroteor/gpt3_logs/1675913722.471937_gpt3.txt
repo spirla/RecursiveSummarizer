@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em relao  deciso recorrida, assevera que o MM juiz a quo indeferiu o pedido liminar de suspenso do PAD de Portaria n. 103.054/2021, sob o fundamento de que o agravante no comprovou nos autos o efetivo prejuzo de que o ato impugnado possa resultar  ineficcia da medida, se deferida ao final, alegando ainda que cabe ao encarregado do PAD avaliar a convenincia e a oportunidade para a oitiva das testemunhas e dos envolvidos. Sustenta que a referida deciso feriu frontalmente o objetivo do mandado de segurana, no sentido de assegurar que a defesa no ficasse prejudicada na realizao dos atos de representao do militar/agravante, ante a existncia de circunstncias que no foram devidamente esclarecidas na fase de instruo do PAD. Os autos do recurso foram distribudos a este relator, que, nos termos da deciso constante no "Evento 6, indeferiu o pedido de tutela provisria de urgncia. Na oportunidade, foi determinada a intimao do agravado, nos termos do disposto no inciso II do art. 1.019 do Cdigo de Processo Civil (CPC). O Estado de Minas Gerais apresentou sua contraminuta ao agravo (Evento 12), na qual, em sntese, defendeu a ausncia dos requisitos indispensveis  concesso da tutela de urgncia. Sustentou que a norma que regulamenta o PAD autoriza  autoridade responsvel rejeitar, de forma motivada, os requerimentos impertinentes ou procrastinatrios formulados pela defesa, bem como que o agravante no demonstrou o nexo de causalidade entre o indeferimento da oitiva da citada testemunha e o prejuzo para sua defesa.  o relatrio. VOTOS DESEMBARGADOR FERNANDO ARMANDO RIBEIRO, RELATOR Conheo do recurso, presentes os requisitos objetivos e subjetivos de sua admissibilidade. O agravante sustenta que esto sendo violados os princpios da ampla defesa e do contraditrio, por ter sido indeferido o seu pedido de produo de prova testemunhal - constituda na oitiva do civil Maurcio Lopo Belm. Afirma que o civil Maurcio Lopo Belm, quando ouvido em sede de auto de priso em flagrante, relatara  autoridade policial ter recebido ligao do agravante, fato esse posteriormente negado quando ouvido pelo oficial PM responsvel pelo Relatrio de Investigao Preliminar (RIP), que antecedera o PAD a que ele, agravante, encontra-se submetido. Sustenta que o depoimento do referido civil, utilizado como objeto da acusao na portaria do PAD fora colhido em oportunidades em que no fora facultada  defesa a possibilidade de seu acompanhamento, ou de realizar perguntas, motivo pelo qual o referido civil deveria ser ouvido no PAD em respeito aos princpios do contraditrio e da ampla defesa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia de Minas Gerais negou o pedido de tutela provisria de urgncia do agravante, que requeria a suspenso do PAD de Portaria n. 103.054/2021, alegando a violao dos princpios da ampla defesa e do contraditrio, pois o civil Maurcio Lopo Belm, quando ouvido em sede de auto de priso em flagrante, relatara autoridade policial ter recebido ligao do agravante, fato esse posteriormente negado quando ouvido pelo oficial PM responsvel pelo Relatrio de Investigao Preliminar (RIP).

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Paulo de Tarso Sanseverino, Terceira Turma, por unanimidade, julgado em 6/9/2022, DJe 9/9/2022. Ramo do Direito DIREITO CIVIL, DIREITO DO CONSUMIDOR Tema Plano de saude. Direito de manutencao do ex-empregado demitido. Plano coletivo patrocinado pela ex-empregadora. Equiparacao a plano empresarial. Modalidade mais favoravel ao consumidor. Aplicabilidade do CDC a especie. Sumula n. 608/STJ. DESTAQUE Assegura-se ao usuario, ex-empregado, o direito de manutencao previsto no art. 30 da Lei n. 9.656/1998, na hipotese de plano coletivo contratado por uma associacao, em beneficio de seus associados, mas custeado parcialmente pela empregadora. A exegese do art. 30 da Lei n. 9.656/1998 nao deixa duvidas acerca da inaplicabilidade do direito de manutencao aos contratos coletivos por adesao, pois o exercicio do referido direito pressupoe um anterior vinculo empregaticio/estatutario, o que nao se confunde com o vinculo associativo, tipico dos planos coletivos por adesao .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Assegura-se ao usuário, ex-empregado, o direito de manutenção previsto no art. 30 da Lei n. 9.656/1998, na hipótese de plano coletivo contratado por uma associação, em benefício de seus associados, mas custeado parcialmente pela empregadora. 2. A exegese do art. 30 da Lei n. 9.656/1998 não deixa dúvidas acerca da inaplicabilidade do direito de manutenção aos contratos coletivos por adesão, pois o exercício do referido direito pressupõe um anterior vínculo empregatício/estatutário, o que não se confunde com o vínculo associativo, típico dos planos coletivos por adesão.

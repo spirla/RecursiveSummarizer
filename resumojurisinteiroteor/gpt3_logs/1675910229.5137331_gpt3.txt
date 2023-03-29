@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em sentena proferida no Evento 31, o juiz de direito substituto da 5a AJME julgou procedentes os pedidos da inicial, para anular o ato de sano disciplinar decorrente do PCD n. 103.571/2018-52 BPM, que redundou em seis dias de suspenso e no decrscimo de 26 pontos no conceito funcional do autor, determinando ainda a retirada de qualquer meno ao referido ato em seus registros funcionais, bem como a restituio pecuniria decorrente. Extinguiu o feito, com resoluo de mrito, nos termos do artigo 487, inciso I, do Cdigo de Processo Civil (CPC). Atribuiu custas ao Estado de Minas Gerais, ficando este isento do pagamento, consoante disposto no inciso I do artigo 10 da Lei n. 14.939, e honorrios advocatcios fixados em R$1.200,00 (mil e duzentos reais), nos termos dos  2 e 3 do art. 85 do CPC. Inconformado, o Estado de Minas Gerais apelou da deciso, alegando que a sentena do magistrado a quo coloca a Corporao em uma encruzilhada, pois  desarrazoado punir na capitulao descrita o militar que no homologa a tempo e modo o atestado mdico, no menos ser conduzir a Administrao Militar  inobservncia da regulamentao atinente ao caso, conforme prev a Resoluo Conjunta n. 4.278, de 10/10/2013. O autor no logrou comprovar qualquer causa de justificao a lhe impedir a entrega do seu atestado a tempo e modo, conforme determina a legislao. Pelo exposto, requer o Estado de Minas Gerais que seja dado provimento ao presente recurso, para reformar a deciso guerreada, e que sejam julgados improcedentes os pedidos formulados na pea de ingresso. Pede e espera deferimento. As contrarrazes de apelao foram apresentadas pelo autor no Evento 44, requerendo que o presente recurso de apelao seja desprovido, a fim de manter-se integralmente a sentena recorrida, julgando-se procedente o pedido inicial por questo de direito e de justia. Os autos foram remetidos a este egrgio Tribunal. Em despacho proferido no Evento 4 dos autos originrios, este relator determinou a certificao do inteiro teor da Ao Cvel n. 200001938.2020.9.13.0005 e, aps, "vista s partes pelo prazo de cinco dias, para se manifestarem sobre a possvel ocorrncia de litispendncia ou coisa julgada, em cumprimento s garantias constitucionais do devido processo legal. Em manifestao no Evento 10, a defesa do autor informou que, no Processo n. 2000019-38.2020.9.13.0005, foi requerida a anulao do ato administrativo decorrente do PCD n. 101.031/2018-52 BPM, pelo fato de o requerente ter faltado ao servio no dia 19/08/2017. J no presente Processo de n. 2000012-12.2021.9.13.0005, foi requerida a anulao de outro ato administrativo decorrente do PCD n. 103.571/2018-52 BPM, pelo fato de o requerente ter faltado ao servio do dia 20/08/2017. Portanto, no h que se falar em ocorrncia de litispendncia ou coisa julgada.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito Substituto da 5ª AJME julgou procedentes os pedidos da inicial, anulando o ato de sano disciplinar decorrente do PCD n. 103.571/2018-52 BPM, determinando a retirada de qualquer meno ao referido ato em seus registros funcionais, bem como a restituio pecuniria decorrente. O Estado de Minas Gerais apelou da deciso, alegando que não há causa de justificação para o autor não ter entregado o atestado mdico a tempo e modo. O relator determinou a certificação do inteiro teor da ação cível e manifestou que não há litispendência ou coisa julgada.

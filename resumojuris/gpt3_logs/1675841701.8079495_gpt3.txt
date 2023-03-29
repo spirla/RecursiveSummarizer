@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A revisao da conclusao alcancada pelo Tribunal de origem, de sorte a confirmar-se a versao defensiva de que nao ha comprovacao da associacao estavel a outros correus para o trafico de entorpecentes, somente poderia ser feita por meio do exame aprofundado da prova, providencia inadmissivel na via do habeas corpus. (Informativo n. 730) 748 PROCESSO AgRg no HC 693.887-ES, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 15/02/2022, DJe 21/02/2022. RAMO DO DIREITO DIREITO PENAL TEMA Roubo. Circunstancias do crime. Delito praticado no interior de onibus vazio. Simulacro de arma de fogo. Periculosidade normal do tipo. Elevacao da reprimenda. Inidoneidade. DESTAQUE O roubo em transporte coletivo vazio e circunstancia concreta que nao justifica a elevacao da pena-base.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) É inadmissível o exame aprofundado da prova na via do habeas corpus. 2) O roubo em transporte coletivo vazio não justifica a elevação da pena-base.

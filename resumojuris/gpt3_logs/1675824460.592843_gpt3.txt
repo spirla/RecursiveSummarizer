@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por isso, a interferencia do Judiciario na organizacao orcamentaria dos projetos da Administracao Publica  salvo, excepcionalmente, como fiscalizador  ofende o principio da separacao dos Poderes (CF, art. 2),. Por fim, no caso analisado, o principio da eficiencia da Administracao Publica (CF, art. 37, caput) e igualmente relevante para a solucao da controversia. Isso porque os atos jurisdicionais impugnados, ao bloquearem verbas orcamentarias da empresa publica estadual para o pagamento de suas dividas, atuaram como obstaculo ao exercicio eficiente da gestao publica, subvertendo o planejamento e a ordem de prioridades na execucao de politicas publicas de saude, em momento dramatico de combate a pandemia da COVID-19. Com base nesse entendimento, o Plenario confirmou a cautelar anteriormente deferida e julgou procedente o pedido formulado em arguicao de descumprimento de preceito fundamental para: (i) suspender as decisoes judiciais nas quais se promoveram constricoes patrimoniais por bloqueio, penhora, arresto, sequestro; (ii) determinar a sujeicao da Empresa Maranhense de Servicos Hospitalares  EMSERH ao regime constitucional de precatorios; e (iii) determinar a imediata devolucao das verbas subtraidas dos cofres publicos, e ainda em poder do Judiciario, para as respectivas contas de que foram retiradas. ADPF 789/MA, relator Min. Roberto Barroso, julgamento virtual finalizado em 20.8.2021 (sexta-feira), as 23:59. (INF 1026) Bloqueio judicial de verbas publicas e empresa prestadora de servico publico essencial prestado em regime nao concorrencial - ADPF 588/PB Tese fixada: Os recursos publicos vinculados ao orcamento de estatais prestadoras de servico publico essencial, em regime nao concorrencial e sem intuito lucrativo primario nao podem ser bloqueados ou sequestrados por decisao judicial para pagamento de verbas trabalhistas, em virtude do disposto no art. 100 da CF/88, e dos principios da legalidade orcamentaria (art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Interferência do Judiciário na organização orçamentária dos projetos da Administração Pública ofende o princípio da separação dos Poderes (CF, art. 2). 2. Princípio da eficiência da Administração Pública (CF, art. 37, caput) é relevante para a solução da controvérsia. 3. Recursos públicos vinculados ao orçamento de estatais prestadoras de serviço público essencial, em regime não concorrencial e sem intuito lucrativo primário não podem ser bloqueados ou sequestrados por decisão judicial para pagamento de verbas trabalhistas, em virtude do disposto no art. 100 da CF/88, e dos princípios da legalidade orçamentária (art. 167, § 1º, da CF/88).

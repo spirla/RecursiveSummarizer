@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Relativamente as concessionarias de servicos telefonicos moveis, a criacao de obrigacoes e sancoes por lei estadual  no caso, extensao aos clientes antigos de promocoes ofertadas a novos , ainda que sob o argumento de proteger os direitos do consumidor, tambem invade a competencia da Uniao. Com base nesses e em outros entendimentos, o Plenario, em julgamento conjunto, por maioria, (i) co-nheceu parcialmente das acoes diretas e, nessa parte, as julgou parcialmente procedentes para declarar a in-constitucionalidade parcial do art. 1, paragrafo unico, inciso 1, no que diz respeito ao servico de telefonia movel, e inciso 5, no que diz respeito ao servico privado de educacao, ambos da Lei 15.854/2015 do Estado de Sao Paulo; e (ii) acolheu os embargos de declaracao para reconsiderar a decisao embargada e declarar a nuli-dade parcial, sem reducao de texto, do art. 35, II, da Lei 16.559/2019 do Estado de Pernambuco, em ordem a excluir as instituicoes de ensino privado da obrigacao de conceder a seus clientes preexistentes os mesmos beneficios de promocoes e liquidacoes destinadas a novos clientes. ADI 5399/SP, relator Ministro Roberto Barroso, julgamento em 9.6.2022 (INF 1058) ADI 6191/SP, relator Ministro Roberto Barroso, julgamento em 9.6.2022 (INF 1058) ADI 6333 ED/PE, relator Ministro Gilmar Mendes, redator do acordao Ministro Alexandre de Moraes, julgamento em 9.6.2022 (INF 1058) Substituicao de sacos e sacolas plasticos por outros de materiais biodegradaveis imposta por lei municipal - RE 732686/SP (Tema 970 RG) ODS: 11, 12, 14 e 15 Tese fixada: E constitucional  formal e materialmente  lei municipal que obriga a substituicao de sacos e sacolas plasticos por sacos e sacolas biodegradaveis.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(i) É inconstitucional parcialmente o art. 1, parágrafo único, inciso 1, no que diz respeito ao serviço de telefonia móvel, e inciso 5, no que diz respeito ao serviço privado de educação, ambos da Lei 15.854/2015 do Estado de São Paulo. (ii) É nula parcialmente, sem redução de texto, o art. 35, II, da Lei 16.559/2019 do Estado de Pernambuco, em ordem a excluir as instituições de ensino privado da obrigação de conceder a seus clientes preexistentes os mesmos benefícios de promoções e liquidações destinadas a novos clientes. (iii) É constitucional formal e materialmente lei municipal que obriga a substituição de sacos e sacolas plásticos por sacos e sacolas biodegradáveis.

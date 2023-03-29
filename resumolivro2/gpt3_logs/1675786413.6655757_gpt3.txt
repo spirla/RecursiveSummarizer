@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+36
+O STF vem decidindo que o trancamento de inqurito surge no campo da exceo. 37 A jurisprudncia da Suprema Corte (HC 138.507/SP)  pacfica:
+()
+II  O trancamento de inqurito policial pela via do habeas corpus , segundo pacfica jurisprudncia desta Suprema Corte, constitui medida excepcional s admissvel quando evidente a falta de justa causa para o seu prosseguimento, seja pela inexistncia de indcios de autoria do delito, seja pela no comprovao de sua materialidade, seja ainda pela atipicidade da conduta do investigado. O extrato da deciso do RHC 43.659/SP demonstra que o STJ no diverge dessa exegese:
+1. O trancamento de inqurito policial ou de ao penal em sede de habeas corpus  medida excepcional, s admitida quando restar provada, inequivocamente, sem a necessidade de exame valorativo do conjunto ftico-probatrio, a atipicidade da conduta, a ocorrncia de causa extintiva da punibilidade, ou, ainda, a ausncia de indcios de autoria ou de prova da materialidade do delito. O STM (HC 7000425-85.2018.7.00.0000) vai nesta esteira:
+O trancamento do Inqurito Policial Militar na via estreita do Habeas Corpus  providncia excepcionalssima, a exigir que, de plano, ou seja, sem exame aprofundado e exaustivo da prova pr-constituda e daquela eventualmente propiciada pela autoridade indigitada coatora, exsurja a certeza da atipicidade da conduta, da inexistncia de materialidade, da ausncia de indcios de autoria ou da ocorrncia de alguma causa extintiva de punibilidade. O TJMSP (RSE 0000266-88.2015.9.26.0030) no diverge desse entendimento de que o IPM tem  natureza inquisitiva e que pode at gerar constrangimento ao investigado, mas um constrangimento que, absolutamente, no  ilegal, pois  dever da autoridade militar proceder  apurao de crime noticiado . O entendimento pretoriano, como se v,  que a investigao policial somente pode ser obstada pela restrita via do habeas corpus se, de um simples exame dos autos, verificar-se, desde logo, no haver uma infrao penal, em tese, ou qualquer indcio de autoria envolvendo os investigados. Em resumo, o trancamento do IPM por falta de justa causa  vivel se houver manifesta atipicidade do fato.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF e STJ entendem que o trancamento de inqurito policial por meio de habeas corpus medida excepcional, s admissvel quando houver evidência de falta de justa causa para o prosseguimento, como atipicidade da conduta, inexistência de materialidade ou ausência de indícios de autoria. O TJMSP entende que a investigação policial somente pode ser obstada se, de um simples exame dos autos, verificar-se que não há infração penal ou indícios de autoria.

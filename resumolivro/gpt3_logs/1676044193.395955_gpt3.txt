@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Quando se analisa a concorrncia de causas,  possvel que todas tenham operado efeitos concomitantemente. Tambm  possvel que ocorra sucesso de causas no tempo, e umas tenham operado efeitos antes que outras. Nesse caso, se o interesse do operador do direito  dirigido  causa que opera efeitos posteriormente, fala-se em causa superveniente. Caso o interesse volte-se para a causa que primeiro opera efeitos, tem-se a questo da causa antecedente. Em qualquer caso, seja a causa antecedente, concomitante ou superveniente, a excluso da imputao exige que uma delas tenha produzido, sozinha, o resultado. Se no houve a produo isolada do resultado por qualquer das causas, no se exclui a imputao e todas autorizam a imputao objetiva. A previso legal da supervenincia de causas menciona a relativa independncia entre as causas. Tambm nesse aspecto o legislador enfrentou a questo mais complexa, definindo a premissa fundamental para a soluo de outros problemas. A expresso relativa independncia presta-se a incluir na soluo apresentada as hipteses em que as causas so oferecidas por pessoas diferentes, fora do contexto de planificao de um nico crime; mas uma causa no teria influenciado a produo do resultado se no fosse a influncia da outra. Seria o caso da infeco hospitalar, que somente poderia afetar a vtima se ela j estivesse no hospital. Haveria uma relao de dependncia entre a causa que levou a vtima ao hospital e a causa da infeco. No sendo o caso de insistncia na produo do resultado (concurso entre a pessoa que efetuou o disparo contra a vtima e outra que lhe produz a infeco), a dependncia que se verifica entre as causas  apenas relativa. Nessa hiptese, se qualquer das causas (seja o disparo de arma de fogo ou a infeco), por si s, produzir o resultado, ocorrer a excluso da imputao em relao  outra. Da mesma forma, se as causas forem absolutamente independentes, a excluso da imputao em relao a qualquer delas depende de que outra tenha produzido sozinha o resultado. As causas so absolutamente independentes quando a produo dos efeitos de cada qual se opera sem necessidade da ocorrncia dos efeitos das demais. Um exemplo de causas absolutamente independentes  a ocorrncia de dois atentados contra uma mesma vtima, enquanto esta permanece no mesmo lugar, praticados por pessoas que no agem em concurso. Digamos que dois agentes tentem matar uma mesma vtima por envenenamento, ministrando-lhe determinadas doses de veneno.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A concorrência de causas pode ocorrer em três situações: causa antecedente, concomitante ou superveniente. A exclusão da imputação exige que uma das causas produza sozinha o resultado. Se as causas forem absolutamente independentes, a exclusão da imputação depende de que outra tenha produzido sozinha o resultado. Um exemplo disso é a ocorrência de dois atentados contra uma mesma vítima, praticados por pessoas que não agem em concurso.

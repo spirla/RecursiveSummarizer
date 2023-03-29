@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No sistema judicial brasileiro  possvel que uma ao penal seja submetida  quatro graus de jurisdio. No mbito da justia comum estadual, a deciso condenatria de primeiro grau de jurisdio, proferida pelo juiz de direito, pode ser atacada por recurso de apelao. O recurso  processado e julgado, em segundo grau, pelo Tribunal de Justia. O acrdo proferido no julgamento da apelao poder ser atacado por recurso especial, a ser examinado pelo Superior Tribunal de Justia em terceiro grau de jurisdio. No havendo reforma da deciso proferida em sede de apelao, a deciso proferida pelo Tribunal de Justia ainda pode ser atacada por recurso extraordinrio que  dirigido ao Supremo Tribunal Federal, para o exerccio do quarto grau de jurisdio. Muito embora no exista a possibilidade de submeter a deciso do STF a um grau de jurisdio superior, a deciso proferida no julgamento do recurso extraordinrio ainda poder ser objeto de recurso de embargos de declarao e de embargos infringentes. Este fato evidencia que importa considerar a deciso condenatria do STF como causa interruptiva da prescrio. Considerando que o sistema de repartio de competncias no Brasil  bastante complexo, cabe fazer uma sntese das possibilidades de interrupo da contagem do prazo prescricional. No segundo grau de jurisdio da Justia Estadual, interrompem a contagem da prescrio as decises condenatrias proferidas pelas turmas recursais do juizado especial criminal, pelos Tribunais de Justia e pelos Tribunais de Justia Militar. No mbito da Justia Federal, as decises proferidas pelas turmas recursais do juizado especial criminal, pelo Tribunal Regional Federal, pelo Tribunal Regional Eleitoral e pelo Superior Tribunal Militar. Em terceiro grau de jurisdio, interrompem a prescrio as decises condenatrias proferidas pelo Superior Tribunal de Justia. Em ltimo grau, constituem causas interruptivas da prescrio as decises condenatrias proferidas pelo Supremo Tribunal Federal. Incio ou continuao do cumprimento da pena. O inciso V do artigo 117 do CP prev a primeira causa interruptiva da prescrio da pretenso executria. A deciso condenatria definitiva satisfaz plenamente a pretenso punitiva estatal. A possibilidade de executar a pena imposta na condenao, por sua vez, gera a pretenso executria, que somente ser satisfeita com o cumprimento integral da pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema judicial brasileiro possibilita que uma ação penal seja submetida a quatro graus de jurisdição. Na Justiça Comum Estadual, a decisão condenatória de primeiro grau de jurisdição pode ser atacada por recurso de apelação e julgada pelo Tribunal de Justiça. O acórdão proferido no julgamento da apelação pode ser atacado por recurso especial, examinado pelo Superior Tribunal de Justiça, e, não havendo reforma da decisão, pode ser atacado por recurso extraordinário dirigido ao Supremo Tribunal Federal. A decisão condenatória definitiva satisfaz plenamente a pretenção punitiva estatal e gera a pretenção executória, que somente será satisfeita com o cumprimento integral da pena.

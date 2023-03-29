@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Dolo e culpa
+O CEDM nao segue a mesma linha do Codigo Penal Militar, segundo o qual a regra e que todo o crime se dara na forma dolosa e, somente sera admitida a forma culposa, quando o tipo penal incriminador trouxer disposicao expressa nesse sentido. As transgressoes disciplinares podem, em regra, ser praticadas na forma dolosa ou culposa. Por exemplo, nao importa se o militar faltou ao servico de forma dolosa, por querer, ou culposa, sem querer, por haver, por exemplo, se esquecido de consultar a escala de servico afixada, sua conduta se amoldara, em ambos os casos, ao artigo 13, XX, do CEDM. Nesse sentido:
+HABEAS CORPUS. EXECUCAO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. TENTATIVA DE FUGA DO PRESIDIO. PRATICA, EM TESE, DE CRIME DOLOSO (DESTRUICAO DE PATRIMNIO PUBLICO). ABSOLVICAO NO JUIZO CRIMINAL. AUSNCIA DE DOLO. REPERCUSSAO NA ESFERA ADMINISTRATIVA. HABEAS CORPUS NAO CONHECIDO. 1.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CEDM não segue a mesma linha do Código Penal Militar, pois as transgressões disciplinares podem ser praticadas na forma dolosa ou culposa. No caso de um militar que faltou ao serviço, não importa se foi dolosa ou culposa, pois a conduta se amolda ao artigo 13, XX, do CEDM. No caso de tentativa de fuga do presídio e prática de crime doloso, a absolvição no julgamento criminal não tem repercussão na esfera administrativa, sendo o habeas corpus não conhecido.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Processo administrativo disciplinar. Autonomia das entidades descentralizadas para gerir seus quadros de pessoal. Ausencia de vinculo hierarquico com a pessoa politica. Incompetencia de Governador para aplicar sancao funcional a servidor de autarquia. DESTAQUE Cabe ao Chefe do Executivo Estadual aplicar sancoes aos servidores vinculados a Administracao Direta, ficando a cargo da chefia superior das autarquias e das fundacoes punir os servidores a elas subordinados. A Lei Estadual n. 1.102/1990 - Estatuto dos Funcionarios Publicos Civis do Poder Executivo, das Autarquias e das Fundacoes Publicas do Estado de Mato Grosso do Sul - estabelece competir, privativamente, ao Governador do Estado ou dirigente superior de autarquia ou fundacao, a aplicacao da penalidade de demissao e cassacao de disponibilidade. 175 Desse modo, salvo disposicao constitucional ou legal em contrario, a autonomia da entidade autarquica inviabiliza o exercicio do poder disciplinar pela pessoa politica a qual se encontra vinculada, porquanto, estando sujeita ao principio da tutela administrativa - o qual lhe impoe um controle apenas finalistico por parte da Administracao Direta -, nao pode ser submetida ao poder disciplinar da entidade central, exatamente por nao existir relacao hierarquica entre elas. Com efeito, verifica-se a incompetencia originaria do Governador do Estado do Mato Grosso do Sul para aplicar penalidades aos servidores vinculados aos entes descentralizados daquela unidade federativa, nao constituindo a suposta complexidade do caso fundamento legal idoneo a legitimar a avocacao de competencia sob pena de usurpar incumbencia reservada, privativamente, aos Diretores-Presidentes de Agencias Estaduais, nos termos dos arts. 239, I, e 256 da Lei Estadual n. 1.102/1990. (Informativo  Ed. Especial n. 5) Lei do Estado de Mato Grosso do Sul n. 1.102/1990, arts. 239, I, e 256.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Cabe ao Chefe do Executivo Estadual aplicar sanções aos servidores vinculados à Administração Direta. 2. A Lei Estadual n. 1.102/1990 estabelece competir privativamente ao Governador do Estado ou dirigente superior de autarquia ou fundação, a aplicação da penalidade de demissão e cassação de disponibilidade. 3. A autonomia da entidade autarquica inviabiliza o exercício do poder disciplinar pela pessoa política a qual se encontra vinculada. 4. Verifica-se a incompetência originária do Governador do Estado do Mato Grosso do Sul para aplicar penalidades aos servidores vinculados aos entes descentralizados daquela unidade federativa.

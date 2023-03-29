@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(STF, HC n. 168446 Agr, Relator Ministro Ricardo Lewandowski, julgamento realizado em 24/05/2019, Segunda Turma, publicao realizada no dia 14/08/2019). - grifei. Ementa: AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME SOCIETRIO. INPCIA DA DENNCIA. INOCORRNCIA. DESNECESSIDADE DE INDIVIDUALIZAO PORMENORIZADA DAS CONDUTAS DE CADA INDICIADO. AUSNCIA DOS REQUISITOS AUTORIZADORES DO EXCEPCIONAL TRANCAMENTO DA AO PENAL. INVIABILIDADE NA ESPCIE DA ANLISE DA ALEGADA ATIPICIDADE: NECESSIDADE DE INCURSO NOS FATOS E PROVAS DA CAUSA. AUSNCIA DE MANIFESTA VIOLNCIA OU COAO ILEGAL AO DIREITO DE LOCOMOO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - As razes do agravo regimental no se mostram aptas a infirmar os fundamentos que lastrearam a deciso agravada. II - "Este Supremo Tribunal Federal sufraga o entendimento no sentido de que nos crimes societrios,  prescindvel que conste da denncia a descrio minuciosa de cada acusado, mostrando-se consentneo com os postulados do contraditrio e da ampla defesa que se exponha o vnculo dos acusados com a sociedade comercial e que se narre as condutas delituosas de forma a possibilitar o exerccio do direito de defesa (HC 149.328-AgR/SP, Rel. Min. Luiz Fux). III - O trancamento da ao penal, em habeas corpus, constitui medida excepcional que s deve ser aplicada nos casos (i) de manifesta atipicidade da conduta; (ii) de presena de causa de extino da punibilidade do paciente; ou (m) de ausncia de indcios mnimos de autoria e materialidade delitivas. o que no ocorre na situao sob exame. sendo nesse sentido o entendimento unssono desta Suprema Corte. ]V - A anlise da conduta do acusado constitui matria probatria que deve ser apreciada pelo juiz natural da causa no curso da ao penal.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Agravo Regimental em Habeas Corpus foi negado pelo STF, pois a prescindibilidade da individualização pormenorizada das condutas de cada indiciado nos crimes societários, assim como a ausência dos requisitos autorizadores do trancamento da ação penal, inviabilizam a análise da alegada atipicidade. A análise da conduta do acusado deve ser apreciada pelo juiz natural da causa.

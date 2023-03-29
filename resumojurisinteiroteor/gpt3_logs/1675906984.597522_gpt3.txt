@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(EDcl no AgInt no AREsp 1898749/AP, Rel. Ministro MARCO AURLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2021, DJe 15/12/2021). EMBARGOS DE DECLARAO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIO. INEXISTNCIA. OMISSES. PARCIAL. 1. A contradio que autoriza a oposio de embargos declaratrios  aquela interna ao julgado, relativa a seus fundamentos e dispositivo, e no a contradio entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decises do STJ. Precedentes. 2. O papel desta Corte  uniformizar a interpretao da lei federal, de modo que no est autorizada a se debruar sobre provas em sede de recurso especial, atividade reservada aos juzes de primeiro grau e aos Tribunais de apelao. 3. A formulao de tese, no mbito de agravo interno, no suscitada em recurso especial, configura inovao recursal. 4. Embargos de declarao parcialmente acolhidos. (EDcl no AgInt nos EDcl no AREsp 1801652/SP, relator Ministra Nancy Andrighi, Terceira Turma, julgamento em 30/08/2021, publicao no DJe 02/09/2021). PROCESSO CIVIL E TRIBUTRIO. EMBARGOS DE DECLARAO NO AGRAVO INTERNO NO RECURSO ESPECIAL.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Embargos de Declaração no Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial acolhidos parcialmente. A contradição deve ser interna ao julgado e não entre este e o entendimento da parte. A Corte não está autorizada a se debruar sobre provas em sede de recurso especial. A formulação de tese, no âmbito de agravo interno, não suscitada em recurso especial configura inovação recursal.

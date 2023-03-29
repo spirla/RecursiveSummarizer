@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 282, I, do CPP, refere-se  necessidade. H necessidade de medida cautelar diversa da priso para aplicao da lei penal, por exemplo, em caso de risco de fuga com o comparecimento peridico em juzo, no prazo e nas condies fixadas pelo juiz, para informar e justificar atividades (CPP, artigo 319, I);
+ou, se houver necessidade de garantir o sucesso da investigao ou da instruo criminal em razo do risco de o indiciado ou acusado prejudicar o andamento da investigao ou da instruo criminal, o juiz poder impor, por exemplo, proibio de manter contato com pessoa determinada quando, por circunstncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante (CPP, artigo 319, III), medida idnea para acautelar a investigao e a instruo criminal. Por fim, o artigo 282, I, do CPP permite, se houver necessidade, a imposio de medida cautelar diversa da priso para evitar a prtica de infraes penais. Cabe lembrar, mais uma vez, a suspenso do exerccio da funo pblica (artigo 319, VI, CPP)  to eficaz quanto  priso preventiva, porque afasta o militar do locus commissi delicti e menos gravosa porque no restringe a liberdade de ir e vir. Quanto ao critrio da adequao, o juiz leva em conta (a) a gravidade do crime;
+de acordo com a gravidade concreta do crime o juiz deve aplicar a medida cautelar;
+(b) as circunstncias do fato, que so dados agregados ao fato delituoso, servem de norte para adotar ou no medida cautelar diversa da priso;
+(c) s condies pessoaisdo indiciado ou do acusado, que podem ser favorveis, como a profisso certa, domiclio conhecido e a primariedade, indicativas de que o indiciado ou o acusado no ir fugir do distrito da culpa. A proporcionalidade em sentido estrito, etapa do sopesamento, tem a funo principal de evitar exagero, que medidas estatais, embora adequadas e necessrias, restrinjam direitos fundamentais alm daquilo que a realizao do objetivo seja capaz de justificar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 282, I, do CPP, permite a imposio de medidas cautelares diversas da prisão, como comparecimento periódico em juízo, proibição de contato com determinadas pessoas, suspenso do exercício de função pública, entre outras, para acautelar a investigação e a instrução criminal. O critério da adequação leva em conta a gravidade do crime, as circunstâncias do fato e as condições pessoais do indiciado ou acusado. A proporcionalidade tem a função de evitar exagero na restrição de direitos fundamentais.

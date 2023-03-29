@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Segundo a doutrina de Hlio Gomes8, denomina-se de escoriao toda a perda epidrmica decorrente de ao traumtica. A equimose, por sua vez,  o derrame hemtico em que o sangue extravasado se infiltra e coagula nas malhas do tecido da pele ou dos rgos. Os hematomas, por fim, so colees sanguneas produzidas pelo sangue derramado que, descolando a pele, se preservam em forma de bolsas. Cabe observar, entretanto, que tais leses nem sempre podem ser consideradas insignificantes. A quantidade ou dimenso de tais leses constituem elementos que podem indicar a gravidade da ofensa e autorizar a imputao objetiva. Efeitos adversos de medicamentos.  muito comum que a bula que acompanha os medicamentos informe sobre a possibilidade de que o seu uso venha a causar efeitos colaterais. A princpio, se a comercializao do medicamento  autorizada pelo rgo pblico competente, no ser possvel a imputao objetiva em face da ocorrncia do efeito colateral. No entanto, a questo merece ser examinada com cuidado. O efeito colateral  um efeito diferente daquele que  considerado como o principal efeito a ser produzido por um medicamento. O efeito colateral, contudo, nem sempre ser considerado nocivo para quem o sofre. Um medicamento pode causar, alm do principal, outros efeitos potencialmente benficos para o paciente como, por exemplo, a amnsia temporria por uso de sedativos ou a sonolncia decorrente do uso de anti-histamnicos. Se, nestes casos, a alterao da normalidade da sade do paciente for capaz de auxiliar no enfrentamento de sua enfermidade no ser considerado adverso o efeito e no ser possvel a imputao objetiva. No entanto, dependendo da situao concreta, os mesmos efeitos podem ser considerados nocivos ou adversos. Se a sonolncia impedir o desenvolviemnto normal das atividades laborativas do paciente que deve estar apto ao trabalho, por exemplo, ser o caso de se reconhecer que o efeito  adverso. O efeito colateral deve ser considerado nocivo ou adverso quando for indesejado e capaz de produzir agravos  integridade fsica ou a sade das pessoas que utilizam os medicamentos. Os efeitos adversos podem produzir as mais variadas intervenes na sade de quem utiliza o medicamento, desde alteraes de humor at choques spticos, que caracterizam leses corporais. A avaliao sobre a nocividade do efeito depender sempre das peculiaridades do caso concreto.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Hlio Gomes define escoriao como qualquer perda epidérmica decorrente de ação traumática. Equimose é o derrame hematíco que se infiltra e coagula na pele ou nos órgãos. Hematomas são coleções de sangue que se preservam em forma de bolsas. Os efeitos colaterais de medicamentos podem ser nocivos ou benéficos, dependendo da situação. A avaliação da nocividade do efeito depende das particularidades do caso.

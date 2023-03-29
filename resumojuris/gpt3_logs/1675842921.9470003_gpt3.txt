@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Descricao insuficiente dos fatos e nexo de causalidade. Multiplos atores no cargo de administrador. Alta rotatividade. Ausencia de precisa individualizacao da conduta de cada um dos acusados na denuncia. Vinculo associativo permanente nao demonstrado. Inepcia reconhecida. DESTAQUE Para a caracterizacao do delito de associacao criminosa inserido em contexto societario, e imprescindivel que a denuncia contenha a descricao da predisposicao comum de meios para a pratica de uma serie indeterminada de delitos e uma continua vinculacao entre os associados com essa finalidade, nao bastando a mencao da posicao/cargo ocupado pela pessoa fisica na empresa. A jurisprudencia deste Superior Tribunal e firme na direcao de que nos crimes societarios mostra-se impositivo que a denuncia contenha a descricao minima da conduta de cada acusado e do nexo de causalidade, sob pena de ser considerada inepta. Registre-se que o nexo causal nao pode ser aferido pela simples posicao ocupada pela pessoa fisica na empresa. A imputacao de responsabilidade individual exige como substrato minimo a identificacao de comportamento concreto violador de um determinado tipo penal. Afinal, nao se trata de responsabilizar os sujeitos pelo mero pertencimento a organizacao empresarial, mas pelo suposto cometimento de delitos a partir dela. E insuficiente e equivocado afirmar que um individuo e autor porque detem o dominio do fato se, no plano intermediario ligado aos fatos, nao ha nenhuma circunstancia que estabeleca o nexo entre sua conduta e o resultado lesivo (comprovacao da existencia de plano delituoso comum ou contribuicao relevante para a ocorrencia do fato criminoso).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É imprescindível que a denúncia contenha a descrição da predisposição comum de meios para a prática de uma série indeterminada de delitos e uma continua vinculação entre os associados com essa finalidade para a caracterização do delito de associação criminosa inserido em contexto societário. 2. Para a responsabilização individual é necessário o substrato mínimo de identificação de comportamento concreto violador de um determinado tipo penal. 3. Não se trata de responsabilizar os sujeitos pelo mero pertencimento a organização empresarial, mas pelo suposto cometimento de delitos a partir dela. 4. É insuficiente e equivocado afirmar que um indivíduo é autor porque detém o domínio do fato se, no plano intermediário ligado aos fatos, não há nenhuma circunstância que estabeleça o nexo entre sua conduta e o resultado lesivo.

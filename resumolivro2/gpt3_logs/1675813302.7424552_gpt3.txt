@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A jurisprudncia da Suprema Corte brasileira permite a imposio de regime mais gravoso do que o previsto para o quantum de pena aplicado, desde que tal deciso seja devidamente fundamentada.  a orientao da Smula 719 do STF:  A imposio do regime de cumprimento mais severo do que a pena aplicada permitir exige motivao idnea . Ainda em matria de pena, bem frisou STF 43 que em sede de habeas corpus , a discusso a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critrios utilizados, restringindo-se, portanto, ao exame da motivao [formalmente idnea] de mrito e  congruncia lgico-jurdica entre os motivos declarados e a concluso (HC 69.419/MS, Rel. Min. Seplveda Pertence). Para o STJ, 44 o habeas corpus , via de regra, constitui-se em meio imprprio para o reexame da dosimetria da pena fixada, visto que no comporta a anlise do conjunto ftico-probatrio produzido nos autos, tampouco  cabvel para reavaliar a justia da deciso, mas verificada ilegalidade a ordem  concedida. Ou, quando evidenciado, sem a necessidade de exame de provas, o desacerto na considerao de circunstncia judicial ou errnea aplicao do mtodo trifsico, resultando da flagrante ilegalidade e prejuzo ao ru. 45 Concedeu o STJ, de ofcio, ordem de habeas corpus por reconhecer ilegalidade na exasperao da pena-base e compensar a confisso espontnea com a reincidncia, redimensionando a pena final do paciente. 46
+Em sede de habeas corpus, deve ser evitada modificao da sano penal imposta pelas instncias ordinrias, que esto mais prximas dos fatos e so soberanas na anlise das provas contidas nos autos, devendo a reviso ocorrer somente nos casos de flagrante ilegalidade ou teratologia no seu clculo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência da Suprema Corte brasileira permite a imposição de um regime mais gravoso do que o previsto para o quantum de pena aplicado, desde que devidamente fundamentado. O STF e o STJ reconhecem que o habeas corpus é um meio impróprio para reexame da dosimetria da pena, mas concede-se a ordem quando houver flagrante ilegalidade ou teratologia no seu cálculo.

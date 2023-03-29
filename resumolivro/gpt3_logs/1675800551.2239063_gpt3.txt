@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Agregada a tal conduta deve-se observar a situacao funcional do militar, ou o cometimento da transgressao em razao desta, que divulgue ou contribua para a divulgacao de assunto de carater sigiloso. O verbo divulgar ou a expressao contribuir para a divulgacao sao condutas taxativas, ou seja, somente pode o militar ser responsabilizado pela presente transgressao disciplinar, se praticar uma ou as duas condutas descritas nos dois termos descritos. Sigilo, conforme conceituado na Instrucao 02/2003-CG, que trata da salvaguarda de dados, informacoes, documentos, areas, instalacoes e materiais sigilosos na PMMG, significa: segredo; de conhecimento restrito a pessoas credenciadas; protecao contra revelacao nao-autorizada. A mesma norma, assim trata das medidas de seguranca no trato com documentos sigilosos:
+6 MEDIDAS DE SEGURANCA E DE RESPONSABILIDADE
+6.1 Compete ao Comandante, Diretor ou Chefe assegurar-se de que o pessoal sob suas ordens conheca, perfeitamente, as medidas de seguranca em vigor. 6.2 O conhecimento de assunto sigiloso depende da funcao desempenhada pela pessoa e nao de seu grau hierarquico, posicao ou precedncia. 6.3 Toda e qualquer pessoa que tome conhecimento de assunto sigiloso fica, automaticamente, responsavel pela preservacao de seu sigilo e sujeito as sancoes administrativas, civis e penais decorrentes da eventual divulgacao do mesmo. 6.4 Verificando-se qualquer ocorrncia que possa implicar no comprometimento de assunto sigiloso, o Comandante, Diretor ou Chefe tomara as providncias necessarias para verificar a extensao do comprometimento e apurar as responsabilidades. 6.5 Qualquer pessoa que tenha conhecimento de uma situacao, na qual um assunto sigiloso possa estar ou venha a ser comprometido, ou verificar indicios de violacao ou de qualquer irregularidade na correspondncia recebida, dara cincia do fato ao seu superior hierarquico e ao destinatario, o qual informara imediatamente ao remetente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O militar deve observar a conduta de não divulgar ou contribuir para a divulgação de assuntos sigilosos. O sigilo é definido como segredo, de conhecimento restrito a pessoas credenciadas e proteção contra revelação não autorizada. O Comandante, Diretor ou Chefe deve assegurar que o pessoal conheça as medidas de segurança e qualquer pessoa que tome conhecimento de assunto sigiloso é responsável por preservar seu sigilo. Se houver qualquer ocorrência que possa comprometer um assunto sigiloso, o Comandante, Diretor ou Chefe deve tomar as providências necessárias para verificar a extensão do comprometimento e apurar as responsabilidades.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na interpretao do segundo princpio Rawls sustenta que a ordem social justa no deve estabelecer e assegurar as expectativas mais atraentes dos que esto em melhores condies, salvo se fazendo isso tambm trouxer vantagens para os menos favorecidos. Desta forma, a formulao de Rawls permite identificar trs princpios bsicos de Justia: 1) o princpio da igual liberdade, em que a sociedade deve assegurar a mxima liberdade para cada pessoa, na medida em que essa mesma liberdade possa ser conferida a todas as demais pessoas; 2) o princpio da diferena, segundo o qual a sociedade deve distribuir a riqueza de maneira igual, salvo se as desigualdades econmicas e sociais trouxeram maiores benefcios para os menos favorecidos; e 3) o princpio da justa oportunidade, segundo o qual as desigualdades econmicas e sociais devem estar associadas a posies e cargos acessveis em condies de justa igualdade de oportunidades para todos. Nesse aspecto, o trabalho desenvolvido por Rawls com os princpios da Justia se aproxima do pensamento tpico de Theodor Viehweg. Fica claro que Rawls tambm perseguiu o objetivo de integrar as explicaes sobre a distribuio das vantagens sociais ao contexto de uma igualdade democrtica, na medida em que pretende que a distribuio de todos os bens sociais primrios deve ser feita de maneira igual, a menos que uma distribuio desigual de alguns ou de todos esses bens beneficie os menos favorecidos. Para justificar a escolha racional de tais princpios Rawls defende a aplicao da regra de maximin, segundo a qual, na posio original, devemos classificar as alternativas para a Justia de acordo com os piores resultados que lhes so possveis e adotar a alternativa cujo pior resultado seja melhor do que os piores resultados das demais alternativas. A alternativa escolhida dessa forma assegurar a maior proteo a quem no sabe em que posio se encontrar quando da aplicao da alternativa. Nesses termos, o senso de Justia  obtido por meio de um equilbrio reflexivo que decorre da avaliao realizada sobre as diversas possibilidades de soluo para o problema que est em jogo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O trabalho de Rawls sobre os princípios da Justiça se aproxima do pensamento de Theodor Viehweg. O objetivo é integrar explicações sobre distribuição de vantagens sociais a um contexto democrático, pois a distribuição dos bens primários deve ser feita de forma igual, exceto se isso beneficiar os menos favorecidos. Para justificar a escolha racional desses princípios, Rawls defende a regra de maximin, segundo a qual as alternativas para a Justiça devem ser avaliadas pelo pior resultado possível e a escolhida deve garantir maior proteção a quem não sabe em que posição se encontrar.

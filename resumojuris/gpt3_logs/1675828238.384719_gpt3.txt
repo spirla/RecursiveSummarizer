@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Roberto Barroso, julgamento virtual finalizado em 8.3.2021 (INF 1008) 17.16 TAXAS Parametros para o calculo das custas judiciais e das taxas judiciarias - ADI 5688/PB Resumo: E legitima a cobranca das custas judiciais e das taxas judiciarias tendo por parametro o valor da causa, desde que fixados valores minimos e maximos. O art. 145, II, da CF/88 (CF) determina, implicitamente, que a base de calculo das taxas cobradas pela prestacao de servico publico especifico e divisivel deve guardar consonancia com o gasto oriundo da atividade estatal. Nao ha se falar em excessiva majoracao dos valores cobrados se a instituicao do tributo, ou o seu reajuste, (a) guardam correlacao com o servico prestado, (b) mostram-se razoaveis e proporcionais, (c) nao impedem o acesso ao Judiciario, e (d) nao possuem carater confiscatorio. Com base nesse entendimento, o Plenario, por maioria, julgou improcedente o pedido formulado em acao direta, para declarar a constitucionalidade do art. 3 da Lei 8.071/2006 do Estado da Paraiba. ADI 5688/PB, relator Min. Edson Fachin, redator do acordao Min. Dias Toffoli, julgamento virtual finalizado em 22.10.2021 (sexta-feira), as 23:59 (INF 1035) Taxa de Registro de Contratos - ADI 6737/PR Resumo: E constitucional a instituicao de taxa pela qual observada equivalencia razoavel entre o valor exigido do contribuinte e os custos referentes ao exercicio do poder de policia, nos termos do do art. 145, II, da CF/88. A Taxa de Registro de Contratos, devida pelo exercicio regular do poder de policia do Detran/PR, nao se afigura excessiva a caracterizar ofensa ao principio que veda a utilizacao de tributo com efeito de confisco. Nao ha, tampouco, incongruencia entre o valor da taxa e o custo da atividade estatal por ela remunerada.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É legítima a cobrança das custas judiciais e das taxas judiciárias tendo por parâmetro o valor da causa, desde que fixados valores mínimos e máximos. 2. O art. 145, II, da CF/88 determina, implicitamente, que a base de cálculo das taxas cobradas pela prestação de serviço público específico e divisível deve guardar consonância com o gasto oriundo da atividade estatal. 3. É constitucional a instituição de taxa pela qual observada equivalência razoável entre o valor exigido do contribuinte e os custos referentes ao exercício do poder de polícia, nos termos do art. 145, II, da CF/88. 4. A Taxa de Registro de Contratos, devida pelo exercício regular do poder de polícia do Detran/PR, não se afigura excessiva a caracterizar ofensa ao princípio que veda a utilização de tributo com efeito de confisco.

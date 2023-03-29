@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O pargrafo 1 do artigo 29 do CPM, ao excluir a imputao da violao da norma pelas causas que no produziram o resultado naturalstico, determina que os fatos anteriores, entretanto, imputam-se a quem os praticou. Isso significa que a imputao objetiva deve se dar de modo a considerar a produo dos resultados naturalsticos anteriores. No se pode esquecer, no entanto, que a responsabilidade tambm  determinada pela satisfao de requisitos de ordem subjetiva. Assim, tratando-se de crime doloso cujo resultado foi produzido exclusivamente pela causa superveniente, considera-se tentado o crime, embora o resultado pretendido tenha se verificado. No caso da ambulncia que se envolve em sinistro e o paciente morre por traumatismo craniano, o autor do disparo que visava  morte da vtima, situao que a levou a ser socorrida na ambulncia, responde por tentativa de homicdio. Verifica-se que a inteno do sujeito era a de produzir a morte da vtima e esta ocorreu. Mas a causa exclusiva da morte foi o traumatismo craniano, que excluiu a imputao por esse resultado ao autor do disparo. Havendo incio de execuo do crime de homicdio e a produo da morte por outra causa (circunstncia alheia  vontade do agente), considera-se tentado o crime. Situao diferente ocorrer quando se tratar de crime culposo. No pretendendo o autor do fato a produo de qualquer resultado, se a causa superveniente produz o resultado lesivo mais grave, no se pode cogitar de tentativa de produzir esse resultado. A imputao para os atos anteriores, nos crimes culposos, significa imputao pelos resultados efetivamente j produzidos. Voltando ao exemplo da ambulncia: se a vtima necessita de socorro por ter sido atropelada em acidente de trnsito (e no por leses decorrentes de disparo de arma de fogo) e vem a morrer por traumatismo craniano decorrente de um segundo acidente, o atropelador responde por leses corporais culposas. No  o caso de tentativa de homicdio, pois o atropelador no pretendia a morte. A responsabilidade pelo crime culposo  restrita ao resultado lesivo produzido. Considerando apenas os resultados anteriores, a imputao restringe-se  produo culposa do resultado leses corporais. 3.6. Critrios normativos de relevncia. A dogmtica entendeu inicialmente que a relao de causalidade material entre a conduta e o resultado bastaria para caracterizar o tipo objetivo. Nos casos em que era flagrante a ilegitimidade da punio, diante da mera relao causal, procurou-se impedir a responsabilizao com a excluso do dolo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 29 do CPM exclui a imputao de violação da norma quando não há produção de resultado naturalístico. A responsabilidade é determinada pela satisfação de requisitos subjetivos, como no caso de um homicídio tentado cujo resultado foi produzido por uma causa superveniente. No caso de um crime culposo, a imputação é restrita ao resultado lesivo produzido.

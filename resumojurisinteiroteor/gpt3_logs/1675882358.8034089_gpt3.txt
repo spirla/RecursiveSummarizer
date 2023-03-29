@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Embora o conjunto probatrio lastreado no feito no demonstre que o acusado tenha efetuado a doao de cestas bsicas  APAE, certo  que, ainda que ele o tivesse feito, tal fato no traria qualquer relevncia para a questo, uma vez que o crime de falsidade ideolgica se consumou no momento em que o ru fez inserir declarao falsa em documento particular e, em seguida, o entregou ao juzo da execuo, com a completa cincia de que o seu contedo no era verdadeiro. Logo, ao contrrio do que tentou fazer crer a defesa, no houve atipicidade da conduta praticada no caso em comento, razo pela qual incabvel  o acolhimento do pedido de absolvio. Passo  apreciao da dosimetria da pena e ao enfrentamento das teses correlatas. Verifica-se que o magistrado a quo fixou a pena-base do ru em 1 (um) ano e 4 (quatro) meses de recluso, por considerar desfavorveis a gravidade; a personalidade; a extenso do dano; os meios empregados; o modo de execuo; os motivos determinantes; e a insensibilidade do autor e/ou seu no arrependimento aps o crime, bem como os seus antecedentes.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conjunto probatrio no demonstrou que o acusado tenha efetuado a doao de cestas bsicas APAE, e a conduta praticada no caso no foi atpica, razo pela qual no houve acolhimento do pedido de absolvio. O magistrado fixou a pena-base do ru em 1 (um) ano e 4 (quatro) meses de recluso, considerando desfavorveis fatores como gravidade, personalidade, extenso do dano, meios empregados, modo de execuo, motivos determinantes, insensibilidade do autor e seus antecedentes.

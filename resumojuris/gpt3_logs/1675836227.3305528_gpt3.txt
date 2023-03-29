@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Og Fernandes, Segunda Turma, por unanimidade, julgado em 21/06/2022, DJe 28/06/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CIVIL, DIREITO PROCESSUAL CIVIL TEMA Fundacao Privada de apoio a universidade. Prestacao de servico publico. Terceiro prejudicado. Responsabilidade objetiva civil extracontratual. Prescricao quinquenal. Art. 1-C da Lei n. 9.494/1997. DESTAQUE A fundacao privada de apoio a universidade publica presta servico publico, razao pela qual responde objetivamente pelos prejuizos causados a terceiros, submetendo-se a pretensao indenizatoria ao prazo prescricional quinquenal previsto no art. 1-C da Lei n. 9.494/1997. A controversia consiste em determinar o prazo prescricional na hipotese de danos provocados por fundacao privada que prestou servicos publicos de apoio a universidade publica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Fundação privada de apoio a universidade pública presta serviço público, respondendo objetivamente pelos prejuízos causados a terceiros. 2. A pretensão indenizatória à fundação privada de apoio a universidade pública está sujeita ao prazo prescricional quinquenal previsto no art. 1-C da Lei n. 9.494/1997.

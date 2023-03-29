@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+As molduras normativa e doutrinaria elucidam constituir premissa do texto da Convencao que a melhor forma de atender aos interesses da crianca se da com a restituicao do impubere ao local de sua residencia habitual. A correta aplicacao da norma pressupoe a analise e o emprego das excecoes previstas de maneira restritiva, como, alias, e a regra em nosso ordenamento juridico. Por conseguinte, a doutrina abalizada acerca do tema orienta o aplicador da norma a perquirir o melhor interesse da crianca dentro dos ditames da Convencao Internacional da Haia. Este Superior Tribunal firmou compreensao segundo a qual a interpretacao dos arts. 12, in fine, e 13 da Convencao Internacional da Haia deve ser restritiva, em razao de representarem excecoes a regra da restituicao do menor subtraido ao local de sua residencia habitual, como forma de atendimento ao melhor interesse da crianca. Desse modo, a norma constante do art. 12, in fine, somente admite a perquiricao acerca da adaptacao do menor subtraido ao meio em que foi colocado pelo autor da retencao ilicita quando o genitor prejudicado exercer a pretensao de busca e apreensao de seu rebento em prazo superior a um ano. Ademais, o requisito do 'risco grave', ao qual alude o art. 13, alinea b, do tratado internacional, a justificar excepcionalizacao do retorno da crianca a sua residencia habitual, remete a perigos e ameacas de natureza complexa e prolongada, dentre elas, consoante a diccao legal, a submissao a danos de ordem fisica ou psiquica , bem como exposicao, de algum modo, a situacao intoleravel . Nao engloba, portanto, os naturais abalos psicologicos que poderao advir de seu afastamento da genitora subtratora, ou do ambiente em que foi por ela inserido.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A melhor forma de atender aos interesses da criança é a restituição do impúbere ao local de sua residência habitual. 2. A interpretação dos artigos 12 e 13 da Convenção Internacional da Haia deve ser restritiva. 3. O requisito do "risco grave" para justificar a excepcionalização do retorno da criança a sua residência habitual remete a perigos e ameaças de natureza complexa e prolongada. 4. Não engloba os naturais abalos psicológicos que poderão advir de seu afastamento da genitora subtratora ou do ambiente em que foi por ela inserido.

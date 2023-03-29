@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Conforme demonstrado na deciso agravada, verifica-se que a Primeira Cmara deste Tribunal, durante o julgamento do acrdo combatido no recurso extraordinrio, por unanimidade, manteve a sentena que julgou improcedente o pedido de anulao do ato administrativo-disciplinar que ensejou a demisso do agravante das fileiras da Polcia Militar do Estado de Minas Gerais (PMMG), com esteio nos seguintes fundamentos: [.] Acerca da preliminar de incompetncia desta justia militar, destaco que, de acordo com o  5 do art. 125 da Constituio da Repblica (CR),  de competncia da Justia Militar processar e julgar as aes judiciais propostas contra atos disciplinares militares. O ato que excluiu o ora apelante das fileiras da PMMG, sem dvidas, possui natureza de ato administrativo disciplinar e, por isso, a Justia Militar  competente para promover o julgamento sobre a validade do ato punitivo disciplinar. No foi por outro motivo que o e. TJMG declarou a sua incompetncia para o processamento e julgamento da presente ao e remeteu os autos para esta justia especializada. Portanto, ultrapasso tal argumentao. No que se refere  alegao de que a autoridade que demitiu o apelante era incompetente, destaco que a deciso demissionria administrativa das praas da PMMG  de competncia do comandante- geral da PMMG. A CR prev, em seu art. 125, que a perda da graduao das praas  de competncia do Tribunal competente, no caso especfico de Minas Gerais, o TJMMG. Ocorre que o ora apelante foi demitido administrativamente pela prtica de infrao disciplinar, situao diversa daquela prevista na CR. Por tais razes, tambm deixo de acolher este argumento. Alega tambm o apelante que,  poca de sua demisso, estaria acometido por doena mental incapacitante. Ocorre que, compulsando os autos, no se constata a existncia de provas de doena mental, tampouco de que a mesma seja de tamanha monta que o autor possa ser considerado como inimputvel. Em sentido contrrio ao alegado pelo apelante, o laudo elaborado pela Junta Central de Sade, em 14/08/1988, concluiu que o mesmo era imputvel (Evento 1 - OUT7). A documentao juntada aos autos, embora sugira que o ora apelante possua indcios de doena mental no  suficiente para presumir que estes indicativos sejam comprovaes da incapacidade do apelante, tampouco que o laudo pericial esteja equivocado. Neste aspecto, ressalto que o laudo produzido no bojo do processo de interdio do ora apelante, e que concluiu pela sua incapacidade para praticar os atos da vida civil, foi realizado em 24/07/2001, e a demisso do autor ocorreu em 29/03/1999. Tambm no identifiquei irregularidade no procedimento administrativo-disciplinar, em especial quanto  suposta falta de imputao do tipo disciplinar transgredido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Primeira Cmara deste Tribunal, por unanimidade, manteve a sentena que julgou improcedente o pedido de anulao do ato administrativo-disciplinar que ensejou a demisso do agravante das fileiras da Polcia Militar do Estado de Minas Gerais, pois a Justia Militar competente para promover o julgamento sobre a validade do ato punitivo disciplinar e o comandante- geral da PMMG de competncia para a deciso demissionria administrativa das praas da PMMG. Além disso, no foi comprovada a existência de doena mental incapacitante e também no identificou irregularidade no procedimento administrativo-disciplinar.

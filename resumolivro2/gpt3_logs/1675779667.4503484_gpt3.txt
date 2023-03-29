@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se a coisa foi apreendida em poder de terceiro de boa-f, consoante o artigo 193 do CPPM, procede-se da seguinte maneira:
+(a) se a restituio for pedida pelo prprio terceiro, o juiz do processo poder orden-la, se estiverem preenchidos os requisitos do artigo 191;
+(b) se pedida pelo acusado ou pelo lesado e, tambm, pelo terceiro, o incidente autuar-se- em apartado e os reclamantes tero, em conjunto, o prazo de cinco dias para apresentar provas e o de trs dias para arrazoar, findos os quais o juiz decidir, cabendo da deciso recurso parao Superior Tribunal Militar. Se persistir dvida quanto  propriedade, os reclamantes sero remetidos ao juzo cvel (artigo 193, pargrafo 1). A nomeao de depositrio para a guarda da coisa at que se resolva a controvrsia. O Ministrio Pblico  ouvido no incidente de restituio (artigo 194, CPPM). A coisa facilmente deteriorvel  avaliada e levada a leilo pblico (artigo 195, CPPM). Decorridos noventa dias do trnsito em julgado de sentena condenatria, os bens apreendidos tm, de acordo com o artigo 196 do CPPM, destino:
+a) os referidos no artigo 109, II, letra a, do Cdigo Penal Militar, sero inutilizados ou recolhidos ao Museu Criminal ou entregues s Foras Armadas, se lhes interessarem;
+b) quaisquer os outros bens sero avaliados e vendidos em leilo pblico (...). Com o trnsito em julgado de sentena absolutria, consoante o artigo 197 do CPPM, as coisas apreendidas:
+a) se houver sido decretado o confisco (Cdigo Penal Militar, artigo 119), observar-se- o disposto na letra a do artigo anterior;
+b) nos demais casos, as coisas sero restitudas quele de quem houverem sido apreendidas. Por ltimo, o artigo 198 do CPPM prev que Fora dos casos previstos nos artigos anteriores, se, dentro do prazo de noventa dias, a contar da data em que transitar em julgado a sentena, condenatria ou absolutria, os objetos apreendidos no forem reclamados por quem de direito, sero vendidos em leilo, depositando-se o saldo  disposio do juiz de ausentes. Captulo XII. Liberdade Provisria. 12.1. Conceito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+De acordo com o artigo 193 do CPPM, se a coisa foi apreendida em poder de terceiro de boa-fé, procede-se da seguinte maneira: (a) se a restituição for pedida pelo próprio terceiro, o juiz do processo poderá ordená-la; (b) se pedida pelo acusado ou pelo lesado e, também, pelo terceiro, o incidente será autuado em apartado e os reclamantes terão, em conjunto, o prazo de cinco dias para apresentar provas e o de três dias para arrazoar, findos os quais o juiz decidirá, cabendo da decisão recurso para o Superior Tribunal Militar. Se persistir dúvida quanto à propriedade, os reclamantes serão remetidos ao juízo cível. O Ministério Público será ouvido no incidente de restituição. A coisa facilmente deteriorável será avaliada e levada a leilão público. Decorridos noventa dias do trânsito em julgado de sentença condenatória, os bens apreendidos terão destino específico. Com o trânsito em julgado de sentença absolutória, as coisas apreendidas serão restituídas a quem de direito. Se, dentro do prazo de noventa dias, os objetos apreendidos não forem reclamados, serão vendidos em leilão.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+2, pargrafo 4, inciso II, da Lei n. 12.850, de 2013, perfazendo-se 4 (quatro) anos de recluso, a ser cumprida em regime inicialmente fechado, negando-se o benefcio do sursis. Por maioria de 3 (trs) votos a 2 (dois), foi imposta condenao ao ru pelo crime de corrupo passiva, nos termos do art. 308, 1, do CPM,  pena- base de 2 (dois) anos de recluso, acrescentada de 1/3 (um tero) devido  causa de aumento de pena e 2/3 (dois teros) pela continuidade delitiva, nos termos do art. 71 do Cdigo Penal (CP), perfazendo-se o total de 4 (quatro) anos, 5 (cinco) meses e 10 (dez) dias de recluso, a ser cumprida em regime inicialmente fechado, negando-se o benefcio do sursis. Por maioria de 4 (quatro) votos a 1 (um), o ru foi absolvido das imputaes do artigo 1, 4, da Lei n. 9.613, de 1998 (lavagem de dinheiro), vencido o Juiz militar Ten Cel PM Marcos Antnio Arajo, que entendeu que a conduta do ru est absorvida pelo crime de corrupo passiva, do art. 308, 1, do CPM. Por maioria de 3 (trs) votos a 2 (dois), o ru foi absolvido da prtica da contraveno penal do art. 50 do Decreto-Lei n. 3.688, de 1941, nos termos do art. 439, alnea "e", do CPPM, vencidos o Juiz de direito Dr. Andr de Mouro Motta e o Juiz militar Maj PM Fernando Henrique dos Santos, que entenderam que a contraveno penal est absorvida pelo crime da corrupo passiva. Com os votos unnimes de seus integrantes o CEJ/PM concedeu ao ru o direito de recorrer em liberdade. Em seguida  sesso de julgamento e ainda antes de ser prolatada a sentena, a defesa manifestou seu inconformismo e interps recurso de apelao, conforme evento 86. Com a juntada aos autos da sentena (evento 93), os ilustres representantes do Ministrio Pblico, inconformados com a absolvio do ru pela contraveno penal de explorao de jogos de azar e com o no reconhecimento da causa de aumento de pena devido ao emprego de arma de fogo para o crime de organizao criminosa, interps apelao consoante evento 96. A audincia para a leitura da sentena se realizou no dia 17/09/2021 (evento 101); as razes de apelo da acusao foram apresentadas no evento 105 e contra-arrazoadas no evento 110; as razes do ru foram lanadas no evento 112 e suas respectivas contrarrazes no evento 118. Razes de apelao do ru Daniel Alves Silva: O apelante Daniel, nas razes de apelao lanadas no evento 112, arguiu, em preliminar, a nulidade da sentena pela quebra da cadeia de custdia, em virtude da forma com que foram coletados e armazenados os dados e materiais apreendidos durante a operao de busca e apreenso, e por no terem sido as provas derivadas dos dados extrados dos telefones celulares de Danone periciadas por profissional competente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O ru foi condenado a 4 (quatro) anos de recluso, em regime inicialmente fechado, pelo crime de corrupção passiva, tendo sido absolvido das imputações de lavagem de dinheiro e da contravenção penal de exploração de jogos de azar. A defesa interpôs recurso de apelação, alegando nulidade da sentença por quebra da cadeia de custódia e por não terem sido as provas derivadas dos dados extrados dos telefones celulares periciadas.

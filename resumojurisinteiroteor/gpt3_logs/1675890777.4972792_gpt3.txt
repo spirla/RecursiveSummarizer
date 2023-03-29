@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Precedentes. 4. A sentena proferida no mbito criminal somente repercute na esfera administrativa quando reconhecida a inexistncia material do fato ou a negativa de sua autoria. 5. Os pedidos de indeferimento de provas ou providncias pelo presidente da comisso processante devem ser fundamentados. Aplicao do disposto no  1 do art. 156 da Lei 8.112/90. 6. Autoria e materialidade da conduta comprovadas, em perfeita subsuno dos fatos s normas proibitivas (art. 117, IX e X, e 132, XIII, da Lei 8.112/90), aplicando-se a pena indicada no dispositivo legal, sem chance de discricionariedade. 7. Em mandado de segurana sendo a prova pr-constituda, no se admite dilao probatria. 8. Segurana denegada. (STJ - MS n. 19.823, Relatora: Ministra Eliana Calmon, data de Julgamento 14/01/2013). ADMINISTRATIVO. PROCESSUAL CIVIL. POLICIAL CIVIL ESTADUAL. DELITO ADMINISTRATIVO TAMBM APURADO COMO CRIME DE CONCUSSO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena proferida no mbito criminal somente repercute na esfera administrativa quando reconhecida a inexistncia material do fato ou a negativa de sua autoria. Autoria e materialidade da conduta comprovadas, aplicando-se a pena indicada no dispositivo legal, sem chance de discricionariedade. Em mandado de segurana sendo a prova pr-constituda, no se admite dilao probatria. Segurana denegada.

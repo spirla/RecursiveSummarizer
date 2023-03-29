@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Theodor Viehweg publicou, em 1953, a primeira edio de seu Tpica e jurisprudncia, texto que foi apresentado  Universidade de Munique para a obteno do ttulo de livre-docente. Nesse livro, Viehweg resgatou o pensamento tpico como um procedimento que busca estabelecer as premissas compartilhadas ou tpicos que gozam de uma presuno de plausibilidade e oferecem referenciais para a argumentao jurdica. A tpica foi por ele definida como uma tcnica de pensar por problemas, desenvolvida pela retrica. Os tpicos so diretrizes de orientao para o pensamento problemtico, os lugares-comuns ou topoi, que permitem discutir os problemas por meio da argumentao dialtica. Trata-se de frmulas variveis, no tempo e no espao, cuja fora persuasiva  reconhecida e, por isso, pode ser utilizada at mesmo em argumentaes no jurdicas. Constituem exemplos de topoi as noes-chaves como a maioria decide e o respeito  autonomia da vontade, e os princpios bsicos como in dubio pro reo, no tirar proveito da prpria ilicitude e dar a cada um o que  seu. Como os tpicos so frmulas de sentido vago, somente constituem referencial para a argumentao em razo dos problemas especficos a que se referem. Tomando por base esses argumentos estandardizados que so aceitos por todos ou, ao menos, pela maioria dos interessados, a argumentao jurdica visa obter um consenso que seja capaz de solucionar a situao problemtica. A pretenso de Viehweg foi contrapor ao pensamento sistemtico fechado (lgico dedutivo) o pensamento problemtico dialtico, que se refere a controvrsias prticas, que confere mais nfase s premissas do que as concluses, e orienta o raciocnio jurdico para o exame de caso a caso, do particular para o particular. Viehweg sustentou que a estrutura total da jurisprudncia (no sentido de cincia do Direito) s pode ser determinada a partir do problema (caso concreto), que desafia entender o que  a soluo justa, de modo que as partes integrantes, os conceitos e as proposies da cincia do Direito devem manter estrita ligao com a situao problema e somente podero ser compreendidas a partir desta. Nesses termos, o raciocnio jurdico se restringe  anlise e  deciso do caso concreto.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Theodor Viehweg publicou, em 1953, o livro Tpica e Jurisprudência, que resgatou o pensamento tpico como um procedimento para estabelecer premissas compartilhadas e oferecer referenciais para a argumentação jurdica. Os tópicos são diretrizes de orientação para o pensamento problemático, permitindo discutir problemas por meio da argumentação dialética. Viehweg defendeu o pensamento problemático dialético contra o pensamento sistemático fechado, dando ênfase às premissas e orientando o raciocínio jurdico para o exame de caso a caso. A estrutura total da jurisprudência deve ser determinada a partir do problema, sendo que os conceitos e proposições da ciência do Direito só podem ser compreendidos a partir deste.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Todavia, verifica-se que a Lei n. 10.522/2001 disciplina, original e particularmente, a inscricao de creditos nao pagos no CADIN, revelando, por conseguinte, objeto generico e distinto do regramento acerca da incidencia dos apontados encargos, foco da presente controversia. Ja a Lei n. 9.847/1999, diferentemente, contem disciplina especial quanto ao procedimento, forma de pagamento e consectarios das multas aplicadas especificamente pela ANP, como resultado da sua acao fiscalizadora sobre as atividades do abastecimento nacional de combustiveis. Segue-se, portanto, que estao presentes os elementos especializantes objetivo (processo administrativo com disciplina propria para apuracao de infracao praticada no mercado de combustiveis) e subjetivo (autuacao promovida pela ANP). 121 Assim, embora cronologicamente ulterior, a previsao inserida na Lei n. 10.522/2001 nao tem o condao de afastar a aplicacao do preceito especifico, pois, conforme advertiu a doutrina, nao pode o aparecimento da norma ampla causar, so por si, sem mais nada, a queda da autoridade da prescricao especial vigente . Fato e que, quando ausente disposicao legal especifica quanto a forma de contagem dos acrescimos moratorios - o que nao ocorre na especie -, a legislacao de regencia de algumas agencias reguladoras remete a atualizacao da multa para outros diplomas, a exemplo da Agencia Nacional de Energia Eletrica - ANEEL, cujo decreto regulamentador dispoe que a autarquia atualizara os valores das multas segundo os criterios fixados pela legislacao federal especifica (art. 17,  5, do Decreto n. 2.335/1997), e da Agencia Nacional de Aviacao Civil - ANAC, que alude a legislacao dos tributos federais (art. 29-A da Lei n. 11.182/2005).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 10.522/2001 disciplina original e particularmente a inscrição de créditos não pagos no CADIN. 2. A Lei n. 9.847/1999 contém disciplina especial quanto ao procedimento, forma de pagamento e conseqüências das multas aplicadas especificamente pela ANP. 3. Estão presentes os elementos especializantes objetivo e subjetivo. 4. A previsão inserida na Lei n. 10.522/2001 não tem o condão de afastar a aplicação do preceito especial vigente. 5. Quando ausente disposição legal específica quanto à forma de contagem dos acréscimos moratórios, a legislação de regência de algumas agências reguladoras remete a atualização da multa para outros diplomas.

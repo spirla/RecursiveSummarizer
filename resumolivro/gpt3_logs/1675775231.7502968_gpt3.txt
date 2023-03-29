@@ -1,0 +1,34 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Artigo 14 - Sao transgressoes disciplinares de natureza media:
+- executar atividades particulares durante o servico;
+- demonstrar desidia no desempenho das funcoes, caracterizada por fato que revele desempenho insuficiente, desconhecimento da missao, afastamento injustificado do local ou procedimento contrario as normas legais, regulamentares e a documentos normativos, administrativos ou operacionais;
+- deixar de cumprir ordem legal ou atribuir a outrem, fora dos casos previstos em lei, o desempenho de atividade que lhe competir;
+- assumir compromisso em nome da IME ou representa-la indevidamente;
+- usar indevidamente prerrogativa inerente a integrante das IMEs;
+- descumprir norma tecnica de utilizacao e manuseio de armamento ou equipamento;
+- faltar com a verdade, na condicao de testemunha, ou omitir fato do qual tenha conhecimento, assegurado o exercicio constitucional da ampla defesa;
+- deixar de providenciar medida contra irregularidade de que venha a tomar conhecimento ou esquivar-se de tomar providncias a respeito de ocorrncia no mbito de suas atribuicoes;
+- utilizar-se do anonimato ou envolver indevidamente o nome de outrem para esquivar-se de responsabilidade;
+- danificar ou inutilizar, por uso indevido, negligncia, imprudncia ou impericia, bem da administracao publica de que tenha posse ou seja detentor;
+- deixar de observar preceito legal referente a tratamento, sinais de respeito e honras militares, definidos em normas especificas;
+- contribuir para a desarmonia entre os integrantes das respectivas IMEs, por meio da divulgacao de noticia, comentario ou comunicacao infundados;
+- manter indevidamente em seu poder bem de terceiro ou da Fazenda Publica;
+- maltratar ou nao ter o devido cuidado com os bens semoventes das IMEs;
+- deixar de observar prazos regulamentares;
+- comparecer fardado a manifestacao ou reuniao de carater politico-partidario, exceto a servico;
+- recusar-se a identificar-se quando justificadamente solicitado;
+- nao portar etiqueta de identificacao quando em servico, salvo se previamente autorizado, em operacoes policiais especificas;
+- participar, o militar da ativa, de firma comercial ou de empresa industrial de qualquer natureza, ou nelas exercer funcao ou emprego remunerado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Transgressões disciplinares de natureza média incluem executar atividades particulares durante o serviço, demonstrar desidia no desempenho das funções, deixar de cumprir ordem legal, assumir compromisso em nome da IME indevidamente, usar prerrogativa inerente às IMEs indevidamente, descumprir norma técnica de utilização e manuseio de armamento ou equipamento, faltar com a verdade na condição de testemunha, deixar de providenciar medida contra irregularidade de que venha a tomar conhecimento, utilizar anonimato ou envolver indevidamente o nome de outrem para esquivar-se de responsabilidade, danificar ou inutilizar bem da administração pública, deixar de observar preceito legal referente a tratamento, sinais de respeito e honras militares, contribuir para a desarmonia entre os integrantes das IMEs, manter indevidamente em seu poder bem de terceiro ou da Fazenda Pública, maltratar ou não ter o devido cuidado com os bens semoventes das IMEs, deixar de observar prazos regulamentares, comparecer fardado a manifestação ou reunião de caráter político-partidário, recusar-se a identificar-se quando justificadamente solicitado, não portar etiqueta de identificação quando em serviço e participar de firma comercial ou de empresa industrial de qualquer natureza.

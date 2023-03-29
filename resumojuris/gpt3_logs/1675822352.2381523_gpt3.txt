@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse aspecto, a Lei 9.656/1998 (Lei dos Planos de Saude) e a Lei 9.961/2000 atribuem a ANS o encargo de fixar valores de referencia para o ressarcimento do SUS por servicos prestados em favor de beneficiarios de planos de saude e esse e um criterio razoavel para compensar o ente privado. Nada impede, no entanto, que o legislador estabeleca outros parametros para a apuracao do valor indenizatorio, que, em seu entendimento, devem observar a realidade do segmento, sem deixar de atender ao interesse publico que permeia a atividade de prestacao de servicos de saude. Com base nesse entendimento, o Plenario, por unanimidade, ao apreciar o Tema 1033 da repercussao geral, deu parcial provimento a recurso extraordinario. RE 666094/DF, relator Min. Roberto Barroso, julgamento em 30.9.2021 (INF 1032) Vacinacao compulsoria de criancas e adolescentes e liberdade de consciencia e crenca dos pais - ARE 1267879/SP (Tema 1103 RG) ODS 3 Tese fixada: E constitucional a obrigatoriedade de imunizacao por meio de vacina que, registrada em orgao de vigilancia sanitaria, (i) tenha sido incluida no Programa Nacional de Imunizacoes ou (ii) tenha sua aplicacao obrigatoria determinada em lei ou (iii) seja objeto de determinacao da Uniao, estado, Distrito Federal ou municipio, com base em consenso medico-cientifico. Em tais casos, nao se caracteriza violacao a liberdade de consciencia e de conviccao filosofica dos pais ou responsaveis, nem tampouco ao poder familiar . Resumo: E ilegitima a recusa dos pais a vacinacao compulsoria de filho menor por motivo de conviccao filosofica. O direito a liberdade de consciencia e de crenca e objeto de especial protecao pelo texto constitucional (CF, art. 5, VI e VIII), que destaca o pluralismo como um dos valores essenciais do Estado brasileiro (CF, art. 1, V). Todavia, em certas hipoteses, a liberdade de crenca e de conviccao filosofica precisa ser ponderada com outros direitos, entre os quais a vida e a saude.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a obrigatoriedade de imunização por meio de vacina que, registrada em órgão de vigilância sanitária, (i) tenha sido incluída no Programa Nacional de Imunizações ou (ii) tenha sua aplicação obrigatória determinada em lei ou (iii) seja objeto de determinação da União, estado, Distrito Federal ou município, com base em consenso médico-científico. 2. É ilegítima a recusa dos pais à vacinação compulsória de filho menor por motivo de convicção filosófica. 3. O direito à liberdade de consciência e de crença é objeto de especial proteção pelo texto constitucional (CF, art. 5, VI e VIII), que destaca o pluralismo como um dos valores essenciais do Estado brasileiro (CF, art. 1, V). 4. Em certas hipóteses, a liberdade de crença e de convicção filosófica precisa ser ponderada com outros direitos, entre os quais a vida e a saúde.

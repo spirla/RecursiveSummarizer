@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Conforme o disposto no art. 7, II, da Lei 8.134/1990, o valor correspondente a contribuicao previdenciaria deve ser deduzido da base de calculo do imposto de renda. Desse modo, se o servidor sofre um aumento na tributacao dos seus rendimentos pela contribuicao previdenciaria, tambem se beneficia de reducao do montante pago a titulo de imposto de renda. Nesse contexto, o acrescimo de 2,25% na exacao, cujo impacto e reduzido pela deducao da base de calculo do imposto de renda, nao parece comprometer a sobrevivencia digna dos servidores publicos. Com base nesses entendimentos, ao julgar o Tema 933 da repercussao geral, o Plenario deu provimento a recurso extraordinario, para declarar a constitucionalidade da Lei Complementar 100/2012 do Estado de Goias. ARE 875958/GO, relator Min. Roberto Barroso, julgamento virtual finalizado em 18.10.2021 (segunda-feira), as 23:59 (INF 1034) 17.5 CREDITO TRIBUTARIO Preferencia da Uniao no recebimento de creditos da divida ativa - ADPF 357/DF Amicus Curiae Resumo: O concurso de preferencia entre os entes federados na cobranca judicial dos creditos tributarios e nao tributarios, previsto no paragrafo unico do art. 187 da Lei 5.172/1966 (Codigo Tributario Nacional) e no paragrafo unico do art. 29 da Lei 6.830/1980 (Lei de Execucoes Fiscais), nao foi recepcionado pela CF/88 de 88 (CF/88). Isso porque ameaca o pacto federativo e contraria o inc. III do art. 19 da CF/88 a definicao de hierarquia na cobranca judicial dos creditos da divida publica da Uniao aos estados e Distrito Federal e esses aos Municipios. A autonomia e a isonomia dos entes federados sao os alicerces para a manutencao do modelo juridico-constitucional adotado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O valor correspondente à contribuição previdenciária deve ser deduzido da base de cálculo do imposto de renda, conforme disposto no art. 7, II, da Lei 8.134/1990. 2. O aumento na tributação dos rendimentos pela contribuição previdenciária é compensado pela redução do montante pago a título de imposto de renda. 3. O Plenário do STF declarou a constitucionalidade da Lei Complementar 100/2012 do Estado de Goiás. 4. O concurso de preferência entre os entes federados na cobrança judicial dos créditos tributários e não tributários, previsto no parágrafo único do art. 187 da Lei 5.172/1966 (Código Tributário Nacional) e no parágrafo único do art. 29 da Lei 6.830/1980 (Lei de Execuções Fiscais), não foi recepcionado pela CF/88. 5. A autonomia e a isonomia dos entes federados são os alicerces para a manutenção do modelo jurídico-constitucional adotado.

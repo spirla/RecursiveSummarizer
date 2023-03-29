@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inexiste violacao ao devido processo legislativo, pois as normas dos Regimentos Internos reduzem as formalidades processuais para casos especificos, devidamente reconhecidos pela maioria legislativa, o que e permitido pela propria Constituicao. O silencio constitucional quanto a indicacao das Comissoes das Casas Legislativas e a definicao do momento e oportunidade da intervencao deve ser interpretado como opcao pela disciplina regimental, sob pena de inviabilizar os proprios trabalhos legislativos. Portanto, a adocao do rito e materia interna corporis, sendo defeso ao STF adentrar em tal seara, o que implicaria indevido controle jurisdicional sobre a interpretacao do sentido e do alcance de normas meramente regimentais, infringindo o principio da separacao dos Poderes. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente a acao direta. ADI 6968/DF, relator Ministro Edson Fachin, julgamento virtual finalizado em 20.4.2022 (quarta-feira), as 23:59 (INF 1051) Quorum para aprovacao de emendas constitucionais estaduais - ADI 6453/RO Resumo: E inconstitucional norma de Constituicao estadual que preveja quorum diverso de 3/5 dos mem-bros do Poder Legislativo para aprovacao de emendas constitucionais. As regras e parametros do processo legislativo federal, como e o caso do processo de reforma consti-tucional, na forma disposta pela CF/88 (CF), e de reproducao obrigatoria nas Constituicoes esta-duais, em estrita observancia ao principio da simetria, ao qual a autonomia dos estados-membros se submete, a teor do que preve os arts. 25 da CF e 11 do Ato das Disposicoes Constitucionais Transitorias - ADCT.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É permitido pela Constituição reduzir as formalidades processuais para casos especificos, devidamente reconhecidos pela maioria legislativa. 2. O silêncio constitucional quanto à indicação das Comissões das Casas Legislativas e à definição do momento e oportunidade da intervenção deve ser interpretado como opção pela disciplina regimental. 3. É defeso ao STF adentrar em seara de matéria interna corporis, o que implicaria indevido controle jurisdicional sobre a interpretação do sentido e do alcance de normas meramente regimentais, infringindo o princípio da separação dos Poderes. 4. É inconstitucional norma de Constituição estadual que preveja quorum diverso de 3/5 dos membros do Poder Legislativo para aprovação de emendas constitucionais. 5. As regras e parâmetros do processo legislativo federal, como é o caso do processo de reforma constitucional, na forma disposta pela CF/88, são de reprodução obrigatória nas Constituições estaduais, em estrita observância ao princípio da simetria, ao qual a autonomia dos estados-membros se submete.

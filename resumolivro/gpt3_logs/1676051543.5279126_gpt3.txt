@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com base nessa orientao, os operadores do Direito passaram a designar os rgos jurisdicionais como integrantes da Justia comum ou da Justia especializada. Conforme o critrio do rgo julgador, como a Justia do Trabalho no possui competncia criminal,32 seriam especiais como os crimes da competncia da Justia Militar e os da Justia Eleitoral. Tambm podem ser considerados especiais os crimes de responsabilidade, sujeitos  jurisdio poltica, previstos na Lei 1.079/50. Nos termos do artigo 52 da Constituio da Repblica, compete privativamente ao Senado Federal processar e julgar o Presidente e o Vice-Presidente da Repblica nos crimes de responsabilidade, bem como os Ministros de Estado e os Comandantes da Marinha, do Exrcito e da Aeronutica, nos crimes da mesma natureza conexos com aqueles; os Ministros do Supremo Tribunal Federal; os membros do Conselho Nacional de Justia e do Conselho Nacional do Ministrio Pblico; o Procurador-Geral da Repblica e o Advogado-Geral da Unio, nos crimes de responsabilidade. O Governador e o Vice-Governador do Estado, nos crimes de responsabilidade, e o Secretrio de Estado nos crimes da mesma natureza conexos com aqueles, o Procurador-Geral de Justia e o Advogado-Geral do Estado nos crimes de responsabilidade sero julgados conforme dispuser a Constituio Estadual. Nesses casos, o processo e o julgamento podem ser de competncia exclusiva da Assembleia Legislativa ou por um Tribunal de jurisdio mista em que sero iguais, pelo nmero, os representantes dos rgos que o integrarem, excludo o Presidente, que ser o Presidente do Tribunal de Justia. Nos Estados, onde as Constituies no determinarem o processo nos crimes de responsabilidade dos Governadores, o julgamento dever ser proferido por um tribunal composto de cinco membros do Legislativo e de cinco desembargadores sob a presidncia do Presidente do Tribunal de Justia local, que ter direito de voto no caso de empate. A escolha dos membros do legislativo ser feita mediante eleio pela Assembleia e a dos desembargadores mediante sorteio (artigo 78 da Lei 1.079/50). Vale observar que, na doutrina, no  pacfica a utilizao do critrio do rgo julgador para distinguir os crimes comuns e os crimes especiais. Antolisei sustentou que o direito penal comum e o direito penal especial se distinguem conforme o mbito de aplicao de suas normas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os operadores do Direito passaram a designar os rgos jurisdicionais como Justia comum ou especializada. A Justia do Trabalho não tem competência criminal. Crimes de responsabilidade, previstos na Lei 1.079/50, são considerados especiais. A Constituição Federal determina a competência exclusiva do Senado Federal para processar e julgar crimes de responsabilidade de autoridades federais. Nos Estados, as Constituições determinam o processo e julgamento por um tribunal misto ou pela Assembleia Legislativa. Na doutrina, a distinção entre direito penal comum e direito penal especial é feita pelo mbito de aplicação de suas normas.

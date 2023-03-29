@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+As consequncias do reconhecimento de ambas as hipteses de erro so manifestamente diferenciadas. Incidindo sobre os elementos do tipo, o erro de tipo exclui o dolo e, em alguns casos, tambm a culpa. O erro de proibio, incidindo sobre a potencial conscincia de ilicitude, poder excluir ou diminuir a culpabilidade. Concretamente, o erro de proibio poder isentar de pena ou diminu-la. 5.6.1. Erro essencial e erro acidental. O artigo 20 do CP deve ser interpretado de modo que a excluso do dolo somente deva ocorrer quando o erro incidir sobre elemento do tipo considerado essencial. Por erro essencial deve-se entender aquele que recai sobre dados objetivos que se vinculam  prpria essncia da matria de proibio. Todavia, se o erro for considerado inessencial ou acidental, no haver a excluso do dolo. A distino entre as hipteses de erro essencial e acidental opera-se mediante a compreenso da finalidade protetiva da norma jurdica e do contedo material da proibio. Os exemplos permitem compreender melhor essa ideia. No homicdio, algum  um elemento objetivo do tipo que define qual  o objeto material do crime. A finalidade protetiva da norma visa a evitar que a vida humana seja atingida, e a matria de proibio refere-se s condutas capazes de matar uma pessoa. Entretanto, na realizao da conduta, o sujeito poder errar quanto a esse elemento. Dependendo do caso, o erro ser considerado essencial ou acidental. No conhecido exemplo em que o caador, pensando tratar-se de um animal, efetua um disparo de arma de fogo contra uma pessoa, matando-a, caracteriza-se um erro essencial. Na representao do sujeito, a conduta no foi subjetivamente dirigida para matar uma pessoa. A compreenso de que se trata de uma pessoa (algum)  essencial para entender a matria de proibio do crime de homicdio. Certamente, no h dolo de matar algum quando se trata de pretender matar um animal. De modo diverso, se o sujeito pretende matar a pessoa X e, pensando dirigir-se contra ela, atira e mata a pessoa Y, o erro deve ser considerado acidental e no haver a excluso do dolo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O erro de proibio pode excluir ou diminuir a culpabilidade, dependendo do caso. O erro essencial incide sobre elementos objetivos da matéria de proibição e pode excluir o dolo, enquanto o erro acidental não exclui o dolo. Exemplo: se o caçador atira pensando tratar-se de um animal, mas mata uma pessoa, o erro é essencial e exclui o dolo; se o caçador pretende matar a pessoa X e mata a pessoa Y, o erro é acidental e não exclui o dolo.

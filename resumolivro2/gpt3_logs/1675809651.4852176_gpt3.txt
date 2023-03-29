@@ -1,0 +1,23 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+H classificao da percia conforme atividade do perito:
+a) na percia percipiendi o perito aponta as percepes colhidas, descreve o objeto examinado, sem fazer anlise ou valorao;
+b) na percia deducendi o perito interpreta ou aprecia cientificamente um fato (se o projtil foi disparo de certa arma de fogo ou de arma de fogo de determinado calibre). Disserta Antonio Scarance Fernandes decorrerem do direito  prova os seguintes direitos:
+a) direito de requerer a produo da prova pericial;
+b) direito de apresentar quesitos para realizao da prova;
+c) direito a acompanhar a colheita de elementos pelos peritos para elaborao do laudo, se, pela natureza da percia, isso for possvel;
+d) direito a se manifestar a respeito da prova produzida, podendo requerer nova percia, sua complementao ou esclarecimentos dos peritos;
+e) direito a que o juiz examine a prova pericial produzida e leve em conta o pronunciamento da parte a seu respeito. 14.2.4.2. Procedimento nas percias em geral. As percias, de acordo com o artigo 318 do CPPM, sempre que possvel sero feitas por dois peritos, ou seja, podem ser feitas por apenas um perito. A referida regra est em consonncia com o artigo 159, caput, do CPP, cuja redao foi dada pela Lei 11.690/2008. A percia pode ser determinada, conforme o permite o artigo 315 do CPPM, pela autoridade de polcia judiciria militar ou pela judiciria;
+as partes, o Ministrio Pblico e o acusado podem requer-la. Tanto a autoridade de polcia judiciria militar como a judiciria podem requisitar dos institutos mdico-legais, dos laboratrios oficiais e das reparties tcnicas, militares ou civis, as percias e exames que se tornem necessrios ao processo (artigo 321, CPPM). As percias, exames e diligncias que tenham que ser feitos em quartis, navios, aeronaves, estabelecimentos ou reparties, militares ou civis, devem ser precedidos de comunicaes aos respectivos comandantes, diretores ou chefes, pela autoridade competente (artigo 327, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+As percias podem ser determinadas pela autoridade de polícia judiciária militar ou judiciária, e as partes, o Ministério Público e o acusado também podem requerê-las. Elas devem ser feitas por dois peritos, mas podem ser feitas por apenas um. As percias, exames e diligências que tenham que ser feitas em quartéis, navios, aeronaves, estabelecimentos ou repartições, militares ou civis, devem ser precedidas de comunicações aos respectivos comandantes, diretores ou chefes.

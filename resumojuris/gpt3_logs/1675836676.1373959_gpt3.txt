@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+De pronto, deve-se afastar qualquer interpretacao da lei que transfira as entidades publicas os poderes do titular do direito, emasculando-o. Mesmo quando atua por meio da substituicao processual, o MPF nao usurpa nem anula a titularidade dos indios sobre seus direitos. Tal conclusao decorre do art. 232 da CF, os indios, suas comunidades e organizacoes, sao partes legitimas para ingressar em juizo em defesa de seus direitos e interesses, intervindo o Ministerio Publico em todos os atos do processo. 213 A norma e taxativa: os indios e suas comunidades sao os legitimados para as causas, pelo motivo mais elementar de tambem serem os titulares dos direitos nelas discutidas. E evidentemente a logica que informa todo o sistema juridico brasileiro. Como protecao adicional dos direitos dos indigenas, a Constituicao exige a presenca do MPF, nas causas em que se debaterem seus direitos. A imposicao constitucional atende ao imperativo de que os indios nem sempre estao em condicoes sociologicas de aquilatar as implicacoes de processos em seus direitos, e nisso nao diferem tanto dos demais leigos em direito, malgrado disponham das condicoes intelectuais, morais e psicologicas para se inteirar do assunto, se devidamente esclarecidos a respeito. O problema esta em que todo o processo judicial se desenvolve no universo de sentido europeu, que muitas vezes e estranho ou apenas superficialmente conhecido pelas comunidades indigenas. Caso as relacoes fossem inversas, isto e, se nossa sociedade ainda se pautasse pelo codigo de sentido indigena, seriamos nos, os especialistas no direito nos demais ramos do conhecimento europeu, que necessitariamos de explicacoes antropologicas e sociologicas para a compreensao do Pais. Outro problema parece facilmente identificavel na tese contraria e consiste numa leitura, data venia, apressada das normas legais de regencia do caso.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O MPF não usurpa nem anula a titularidade dos índios sobre seus direitos, conforme prevê o art. 232 da CF. 2. Os índios e suas comunidades são os legitimados para as causas, pois são titulares dos direitos nelas discutidas. 3. A Constituição exige a presença do MPF nas causas em que se debaterem os direitos dos índios, como proteção adicional. 4. O processo judicial se desenvolve no universo de sentido europeu, que muitas vezes é estranho ou superficialmente conhecido pelas comunidades indígenas.

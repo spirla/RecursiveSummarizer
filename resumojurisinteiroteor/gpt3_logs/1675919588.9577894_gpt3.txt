@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Diante da certido juntada no Evento 20 demonstrando a identidade de partes, pedidos e causa de pedir entre a presente ao e o Processo n. 2000098-17.2020.9.13.0005, o juiz de primeiro grau proferiu a sentena constante no Evento 23 reconhecendo a litispendncia entre a presente ao e a outra j mencionada, e extinguindo a ao sem resoluo de seu mrito, nos termos do inciso V do artigo 485 e o seu  3 do Cdigo de Processo Civil (CPC). O juiz de direito ainda condenou o ento impetrante ao pagamento das custas processuais, suspendendo a exigibilidade do crdito, sob entendimento de que o autor estaria amparado pelos benefcios da justia gratuita. Inconformado, o autor interps o presente recurso, argumentando que a totalidade de seus pedidos formulados na Ao n. 200009817.2020.9.13.0005 no teriam sido apreciados e que, portanto, no teria ocorrido a litispendncia. Alega o recorrente que a ao citada possua inmeros fundamentos e o juiz acolheu apenas um deles, no havendo sobre os demais a precluso, razo pela qual deve ser afastada a litispendncia. Disse ainda o apelante que a prescrio  matria de ordem pblica e que pode ser reconhecida a qualquer tempo, e que o prazo previsto na smula 03 deste e. TJMMG seria ilegal, pois apenas uma lei poderia estabelecer os prazos prescricionais. Por fim, disse o apelante que o Superior Tribunal de Justia (STJ) j reconheceu o prazo prescricional de 04 (quatro) anos para a demisso de um policial civil e que a diversidade de prazos prescricionais violaria o principio constitucional da isonomia. Com tais argumentos, requer o apelante que seja conhecido e provido o presente recurso para reformar a sentena proferida em primeiro grau de jurisdio e sejam acolhidas as suas pretenses, bem como lhe seja "assegurado o pagamento retroativo da remunerao preterida. Intimado, o Estado de Minas Gerais apresentou as suas contrarrazes ao recurso no Evento 39, requerendo seja mantida a sentena recorrida, tendo em vista a ocorrncia da litispendncia. Ao receber o presente recurso, este relator determinou a intimao do advogado do recorrente para, em 05 (cinco) dias, recolher as custas processuais em dobro, sob pena de aplicao da pena de desero. Contra tal deciso, o recorrente interps agravo interno (Evento 13). Aps intimao do agravado e de sua contraminuta ao recurso interposto, em juzo de retratao, o presente recurso foi conhecido independente do recolhimento de custas, tendo em vista que restou consignado na sentena proferida nesta Justia Militar o seguinte: "Suspendo a condenao acima, pois o Impetrante se encontra sob o plio da justia gratuita, ressalvado o disposto no  3, do artigo 98, do CPC." (Evento 20).  o relatrio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Primeiro Grau reconheceu a litispendência entre a presente ação e outra já mencionada, extinguindo a ação sem resolução de seu mérito, condenando o impetrante ao pagamento das custas processuais, suspendendo a exigibilidade do crédito. O autor interpôs recurso, alegando que a totalidade de seus pedidos não foram apreciados, requerendo a reforma da sentença e o pagamento retroativo da remuneração preterida. O Estado de Minas Gerais apresentou contrarrazões, requerendo a manutenção da sentença. O recurso foi conhecido independente do recolhimento de custas, tendo em vista que o Impetrante se encontra sob o plião da Justiça Gratuita.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Extrai-se dos autos que o autor foi submetido ao Processo de Comunicao Disciplinar (PCD) n. 116.838/15 - 52 Batalho da PMMG, por ter, em tese, cometido transgresso disciplinar prevista no inciso I do artigo 15 da Lei Estadual n. 14.310/2002 - Cdigo de tica e Disciplina dos Militares de Minas Gerais (CEDM) -, em razo de ter-se apresentado tardiamente para o servio. Ao final, foi punido com a sano disciplinar de repreenso. Inicialmente, afirmou a defesa que o militar, na data dos fatos, estava de licena mdica, pelo prazo de 20 (vinte) dias, com o incio no dia 05/10/2015. Afirmou que o atestado mdico no foi aceito pela Administrao, uma vez que o militar no protocolou o mencionado documento, em tempo hbil, no NAIS, ou seja, no primeiro dia til subsequente. Disse que, no bastasse o no recebimento do atestado mdico, o PCD se encontra eivado de vcios. Nesse sentido, afirmou que tanto o princpio do contraditrio como o da ampla defesa no foram observados, j que as testemunhas arroladas pela defesa no foram sequer ouvidas, sendo, portanto, nula a deciso que o puniu. Ressaltou que a Administrao no pode deixar de conhecer da licena mdica ou do atendimento mdico lanados em atestado que goza de presuno de veracidade e que a mera ausncia de homologao junto  Junta Central de Sade (JCS) atrairia a incidncia da transgresso prevista no art. 14, II - consistente em falta de natureza mdia -, conforme vasta jurisprudncia deste e. Tribunal castrense, e no da prevista no art. 13, Xx (faltar ao servio) - consistente em falta de natureza grave -, ambos do CEDM. Disse que, conforme entendimento jurisprudencial j consolidado neste Tribunal, as punies aplicadas ao acusado devero ser anuladas/revogadas, com a retificao de seu conceito na Instituio Militar Estadual (IME) e a anulao do PCD de referncia. Asseverou ser imprescindvel a observncia dos princpios da legalidade, da razoabilidade e da proporcionalidade na aplicao de eventual sano, notadamente para que no seja praticada nenhuma injustia ou arbitrariedade pela Administrao, como foi feito contra o acusado. Ao final, requereu: 4.1. o acolhimento das preliminares para reconhecer a nulidade do PCD, em razo a inconstitucionalidade que feriu o contraditrio e ampla defesa, onde o encarregado do PCD deixou de colher oitiva das testemunhas sem motivo plausvel, bem como por no observar as provas materiais nele contido. 4.2. Ultrapassada as preliminares, requereu fosse acolhido o pedido para que seja reconhecida a nulidade do PCD de n 116838/2015 - 52 BPM, vez que o aludido procedimento se encontra eivado de vcio insanvel, notadamente pela total ausncia de atos de apurao de transgresso, o que impediu o exerccio da ampla defesa e do contraditrio; 4.3.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O autor foi submetido ao Processo de Comunicao Disciplinar (PCD) n. 116.838/15 - 52 Batalho da PMMG, por ter cometido transgresso disciplinar prevista no inciso I do artigo 15 da Lei Estadual n. 14.310/2002 - Cdigo de tica e Disciplina dos Militares de Minas Gerais (CEDM). O autor foi punido com a sano disciplinar de repreensão. A defesa alegou que o atestado médico não foi aceito pela Administração, bem como que o PCD se encontrava eivado de vícios, pois não foram observados os princípios do contraditório e da ampla defesa. O Tribunal castrense entendeu que a punição deveria ser anulada/revogada, com a retificação do conceito na Instituio Militar Estadual (IME) e a anulação do PCD de referência.

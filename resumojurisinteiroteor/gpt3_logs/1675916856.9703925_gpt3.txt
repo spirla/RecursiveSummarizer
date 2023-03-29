@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Registro que deixei de abrir "vista dos autos  douta Procuradoria de Justia, considerando a ausncia das hipteses de sua interveno, previstas nos artigos 81 e 82, ambos do CPC, bem como a Recomendao n. 01, de 03/09/2001, do Conselho Superior do Ministrio Pblico de Minas Gerais, publicada no Minas Gerais de 05/09/2001.  o relatrio. VOTOS DESEMBARGADOR RBIO PAULINO COELHO, RELATOR Conheo do recurso, pois preenche os requisitos de admissibilidade, uma vez que se encontra instrudo com os documentos elencados pelo artigo 1.017, inciso I, do CPC. A deciso do juiz de direito titular da 5a AJME foi pelo indeferimento da tutela de urgncia requerida pelo autor, fundamentando que por ora era prematuro concluir pela verossimilhana do direito substancial invocado, uma vez haver somente o ponto de vista do autor, ora agravante, pendente de ser demonstrado em prova a ser debatida durante a instruo processual. Ausente se encontra o requisito de dano potencial, uma vez que j houve a consumao da sano demissionria. Pelo que vejo nos autos, a Administrao Militar atuou em estrita observncia s disposies previstas na Lei 14.310/2002, dando plenas condies ao agravante de exercer o seu direito de ampla defesa e do contraditrio, no Processo Administrativo Disciplinar (PAD) de Portaria n. 117.507/2017, ao qual foi submetido. A conduta imputada ao agravante foi descrita de forma pormenorizada na pea acusatria. A deciso demissionria foi fundamentada com a indicao minuciosa de todos os elementos de prova que convergiram na formao da convico do comandante-geral da PMMG, autoridade competente para demitir os policiais militares submetidos a PAD. O cenrio recursal foi esgotado at a ltima instncia, oportunidade em que o governador do Estado negou provimento ao recurso e manteve a deciso demissionria. Em relao s alegaes do agravante de que a fundamentao da deciso do comandante-geral da PMMG utilizada para arrazoar a sua demisso  deficiente e genrica, com instruo probatria insuficiente para aferir a ofensa ao decoro da classe, bem como de que os depoimentos das testemunhas so na totalidade em seu favor, razo nenhuma assiste ao agravante. H necessidade da dilao probatria. Durante a tramitao do PAD, o agravante foi assistido por advogados constitudos. No houve demonstrao de ocorrncia de qualquer prejuzo para a defesa, se considerarmos, que aps o interrogatrio do autor, foram apresentadas as razes finais de defesa, bem como houve a interposio de recursos disciplinares, que tiveram seus provimentos negados.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso foi conhecido pois preenche os requisitos de admissibilidade. A decisão do juiz de direito titular da 5a AJME foi pelo indeferimento da tutela de urgência requerida pelo autor, pois havia somente o ponto de vista do autor pendente de ser demonstrado em prova. A Administração Militar atuou em estrita observância às disposições previstas na Lei 14.310/2002. A decisão demissionária foi fundamentada com a indicação minuciosa de todos os elementos de prova que convergiram na formação da convicção do comandante-geral da PMMG. O cenário recursal foi esgotado até a última instância. Não houve demonstração de ocorrência de qualquer prejuízo para a defesa.

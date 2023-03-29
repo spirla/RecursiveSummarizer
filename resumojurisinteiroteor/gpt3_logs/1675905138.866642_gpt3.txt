@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(Destaca-se) No bastasse, no merece prosperar a alegao de que o testemunhante e seus advogados confiaram plenamente na integridade e na oficialidade do sistema eletrnico do Tribunal de Justia Militar, de modo que eventual erro na contagem de prazo no poderia prejudic-lo no exerccio da defesa, ante a ausncia de indcios de m-f de sua parte. Isso porque  nus do testemunhante zelar pela apresentao do recurso no prazo legalmente previsto e os seus procurados possuem o conhecimento de que o recurso em sentido estrito deve ser interposto no prazo de 3 (trs) dias, nos termos do art. 518 do CPPM. Logo, embora o sistema tenha informado que o testemunhante teria 5 (cinco) dias para recorrer, era nus exclusivo dele verificar se o prazo apresentado era adequado ou no para o recurso que ele pretendia interpor, notadamente considerando-se que a lei processual penal prev mais de um recurso, com prazos diferentes. Ademais, a situao dos presentes autos  distinta dos casos mencionados pelo testemunhante (REsp n. 1.324.432/SC e EREsp n. 1.805.589/MT), em que o Superior Tribunal de Justia aplicou o princpio da boa-f processual e relativizou a intempestividade dos recursos interpostos. No REsp n. 1.324.432/SC, houve equvoco no lanamento da data de intimao constante no sistema. J no EREsp n. 1.805.589/MT, houve equvoco na contagem do prazo pelo sistema, em razo da ocorrncia de feriado. Entretanto tais situaes no se assemelham ao presente caso, em que a apresentao extempornea do recurso se deu exclusivamente por descuido da defesa do testemunhante. Na hiptese dos autos, o fato de constar que o testemunhante teria 5 (cinco) dias para recorrer no configurou equvoco, pois o sistema no teria como vislumbrar qual o tipo de recurso a parte pretendia interpor, o que  incumbncia exclusiva da defesa, mormente se considerarmos que no h previso legal de interposio de recurso em sentido estrito contra a deciso questionada. Nesse sentido, confira-se jurisprudncia em caso similar: PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PBLICO. RECURSO ESPECIAL. ALEGADA AFRONTA AO ART. 535, I E II, DO CPC/1973. NO OCORRNCIA. EMBARGOS  EXECUO. INTEMPESTIVIDADE RECONHECIDA PELAS INSTNCIAS ORDINRIAS. SISTEMA ELETRNICO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal rejeitou a alegao de que o testemunhante e seus advogados confiaram plenamente na integridade e na oficialidade do sistema eletrônico do Tribunal de Justiça Militar, pois era nus exclusivo da defesa verificar se o prazo apresentado era adequado para o recurso que pretendia interpor. O Tribunal também rejeitou a aplicação do princípio da boa-f processual, pois a apresentação extemporânea do recurso se deu exclusivamente por descuido da defesa.

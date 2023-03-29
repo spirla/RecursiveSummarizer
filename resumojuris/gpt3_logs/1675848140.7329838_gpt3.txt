@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Admitir a validade desse fundamento para, isoladamente, autorizar essa diligencia invasiva, implicaria, em ultima analise, permitir que todo individuo que um dia teve algum registro criminal na vida tenha seu lar diuturnamente vasculhado pelas forcas policiais, a ensejar, alem da inadmissivel prevalencia do Direito Penal do autor sobre o Direito Penal do fato , uma especie de perpetuacao da pena restritiva de liberdade, por vezes ate antes que ela seja imposta. Isso porque, mesmo depois de cumprida a sancao penal (ou ate antes da condenacao), todo sentenciado (ou acusado ou investigado) poderia ter sua residencia vistoriada, a qualquer momento, para averiguacao da existencia de drogas, como se a anotacao criminal lhe despisse para todo o sempre da presuncao de inocencia e da garantia da inviolabilidade domiciliar, alem de lhe impingir uma marca indelevel de suspeicao. As regras de experiencia e o senso comum, somados as peculiaridades do caso concreto, nao conferem verossimilhanca a afirmacao dos agentes policiais de que o paciente, depois de ser abordado e preso por porte de arma de fogo em via publica distante de sua residencia, sabendo ter drogas em casa, haveria livre e espontaneamente franqueado a realizacao de buscas no imovel com caes farejadores, os quais fatalmente encontrariam tais substancias. Em verdade, caberia aos agentes que atuam em nome do Estado demonstrar, de modo inequivoco, que o consentimento do morador foi livremente prestado, ou que, na especie, havia em curso na residencia uma clara situacao de comercio espurio de droga, a autorizar, pois, o ingresso domiciliar mesmo sem consentimento valido do morador.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é admissível a prevalência do Direito Penal do autor sobre o Direito Penal do fato. 2. É inadmissível a perpetuação da pena restritiva de liberdade, mesmo depois de cumprida a sanção penal ou antes da condenação. 3. O registro criminal não despe o indivíduo da presunção de inocência e da garantia da inviolabilidade domiciliar. 4. É necessário demonstrar de modo inequívoco que o consentimento do morador foi livremente prestado ou que havia em curso na residência uma clara situação de comércio espurio de droga para autorizar o ingresso domiciliar mesmo sem consentimento válido do morador.

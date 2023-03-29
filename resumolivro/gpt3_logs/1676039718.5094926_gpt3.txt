@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Ressalte-se que, no se podendo exigir do homem mdio o reconhecimento do dever de cuidado necessrio para a proteo do bem jurdico, no se caracterizar o injusto jurdico-penal, sob pena de promover-se responsabilidade objetiva. A ocorrncia de processos causais inadequados ou anormais faz excluir j do tipo de injusto a exigncia do cuidado, tido como excepcional. No caso, no se encontra satisfeita a exigncia da previsibilidade objetiva da produo do resultado ilcito e a tipicidade no se verifica. Mas ao exame da culpabilidade somente importa discutir a previsibilidade do homem concretamente envolvido no crime, ou seja, a previsibilidade subjetiva. Essa previsibilidade, entretanto, no se vincula  produo do resultado lesivo (como acontece na tipicidade), mas ao carter ilcito da conduta que produziu o resultado lesivo. O juzo de reprovao  satisfeito apenas com a potencialidade de conscincia da ilicitude do fato, mas se a culpabilidade importa juzo de reprovao pessoal, a potencialidade de reconhecimento da ilicitude do fato  aferida em relao  pessoa concreta que realizou o injusto penal, e no em relao ao homem mdio. O exame relativo ao potencial conhecimento da ilicitude do fato apresenta distines, conforme se trate de injusto doloso ou culposo. A percepo da ilicitude dos crimes dolosos verifica-se, de maneira direta, pelo juzo de comparao entre a conduta e a norma proibitiva. J a ilicitude dos crimes culposos surge da leso ao cuidado objetivo necessrio ao regular desenvolvimento da conduta. A violao ao dever de cuidado est sempre ligada  possibilidade de leso ao bem jurdico, e o conhecimento da ilicitude do fato, nessas hipteses, significa possibilidade individual de conhecer a relao existente entre a violao ao dever de cuidado e a leso ao bem jurdico. Nesse sentido, Juarez Tavares938 esclarece:
+Nos crimes culposos, o conhecimento do injusto reduz-se  conscincia das exigncias objetivas de cuidado, como verdadeiro dever jurdico. Essa conscincia tanto pode ser atual quanto potencial. Na negligncia consciente vigora normalmente o conhecimento atual desse dever jurdico. Na negligncia inconsciente, porm, basta que o agente tenha podido reconhec-lo como dever jurdico. Nos delitos de resultado  de se exigir, ainda, que o agente tenha podido saber que o resultado que causaria ou causou era reprovado pela ordem jurdica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O reconhecimento do dever de cuidado necessário para a proteção do bem jurdico não caracteriza o injusto jurdico-penal, exceto quando há previsibilidade objetiva da produção do resultado ilícito. A culpabilidade depende da previsibilidade subjetiva do homem envolvido no crime, que é avaliada em relação à consciência da ilicitude do fato. Nos crimes culposos, o conhecimento do injusto é reduzido à consciência das exigências objetivas de cuidado.

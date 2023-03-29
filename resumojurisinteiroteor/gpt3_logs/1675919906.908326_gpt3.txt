@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Conheo do recurso, porque presentes os pressupostos que regem a sua admissibilidade. Sabe-se que os embargos declaratrios constituem instrumento processual com a finalidade de dirimir questes do julgamento referentes a obscuridades, contradies ou omisses sobre tema cujo pronunciamento se impunha pela deciso ou, ainda, de corrigir manifesto erro material, a teor do disposto no artigo 1.022 do Cdigo de Processo Civil (CPC). Da anlise das razes recursais, verifica-se que, ao contrrio do que alegou o embargante, o acrdo embargado (Evento 10) enfrentou, de maneira clara e coerente, a questo aventada, em perfeita consonncia com a legislao e jurisprudncia aplicvel  espcie. Na verdade, constata-se que os presentes embargos de declarao foram opostos com o inequvoco intento de rediscutirem questes j decididas, o que sabidamente no se coaduna com a sua finalidade processual eleita. Nesse sentido, confira-se: E M E N T A: EMBARGOS DE DECLARAO - INOCORRNCIA DE CONTRADIO, OBSCURIDADE OU OMISSO - PRETENDIDO REEXAME DA CAUSA - CARTER INFRINGENTE - INADMISSIBILIDADE - EMBARGOS DE DIVERGNCIA - ACRDO EMBARGADO QUE NO APRECIA O MRITO DA QUESTO SUSCITADA NO APELO EXTREMO - EMBARGOS DE DECLARAO REJEITADOS. - No se revelam admissveis os embargos de declarao, quando a parte recorrente - a pretexto de esclarecer uma inexistente situao de obscuridade, omisso ou contradio - vem a utiliz-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa. Precedentes. [...] (STF - ARE 1011446 AgR-ED-EDv-AgR-ED, Relator(a): CELSO DE MELLO, Tribunal Pleno, julgado em 19/11/2018, PROCESSO ELETRNICO DJe-262 DIVULG 05-12-2018 PUBLIC 06-12-2018) PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PBLICO. INDENIZAO. DANOS MORAIS E MATERIAIS. DESVIO DE FUNO. PEDIDOS IMPROCEDENTES. NO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NO ATACA OS FUNDAMENTOS DA DECISO RECORRIDA. ALEGAES DE VCIOS NO ACRDO. INEXISTENTES. [.] IV - Opostos embargos de declarao, aponta a parte embargante vcios no acrdo embargado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Embargos de declarao rejeitados, pois no se revelam admissíveis quando a parte recorrente vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa.

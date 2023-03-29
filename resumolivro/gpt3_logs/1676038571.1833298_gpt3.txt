@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Veja-se o seguinte exemplo: no contexto de ao de salvamento, o sujeito empurra energicamente pessoa que iria receber um golpe na cabea, conseguindo que ela dele se esquive, mas que, em consequncia do empurro, cai ao solo, lesionando-se. Segundo a teoria da equivalncia dos antecedentes causais, tal conduta seria causa das leses corporais sofridas pela vtima. Obviamente, em casos como esse, a responsabilizao no poderia mesmo acontecer, ante a excludente de ilicitude. No entanto, a conduta do sujeito no aumentou o risco existente; ao contrrio, diminuiu-o. Considerando que a imputao objetiva do resultado  questo normativa que no prescinde da considerao sobre a finalidade que orientou a ao, Roxin sustenta que a ao que diminui o risco de produzir-se o resultado no possibilita a imputao objetiva, ainda que tenha produzido resultado de gravidade mitigada. No se trata realmente de ao tipicamente lesiva. No se caracteriza a imputao objetiva porque o sentido e finalidade das normas penais de proibio no so violados por aes que se dirijam a reduzir o risco de leso ao bem jurdico, atenuem tais leses ou retardem a produo do resultado lesivo. Importa notar que a situao de diminuio do risco que impede a imputao objetiva pressupe que o bem jurdico j se encontra em perigo. Considere-se o exemplo de um motorista que, conduzindo imprudentemente seu veculo, atropela um homem de negcios, causando-lhe leses nas pernas. Por causa das leses, o homem deixa de tomar um avio, adiando viagem marcada para o mesmo dia. Posteriormente, verifica-se que o avio que o homem deveria tomar caiu, sendo que todos os passageiros morreram. Com certeza, as leses produzidas pelo motorista impediram que o homem de negcios tomasse o avio e morresse com os demais passageiros. No entanto, o risco de morrer ainda no se tinha verificado quando do atropelamento. Assim, haver imputao objetiva em relao s leses, pois o nico risco existente para a vtima foi o de ser atropelado pelo automvel e esse risco realizou-se. Igual soluo deve-se dar no caso de o homem de negcios morrer quatro meses aps o atropelamento. No se poderia alegar que o resultado morte foi postergado pelo atropelador, que evitou a morte da vtima que ocorreria no dia da queda do avio. 3.6.1.6.6. Acelerao do resultado. A princpio, nos casos em que a conduta do sujeito produza a antecipao do resultado, revela-se a ocorrncia do incremento do risco e, por consequncia, a relevncia jurdica que autoriza a imputao objetiva.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria da equivalência dos antecedentes causais aponta que ações que reduzam o risco de produzir um resultado não permitem a imputação objetiva, ainda que tenham produzido resultado de gravidade mitigada. No entanto, a imputação objetiva é possível em casos em que a conduta do sujeito produza a antecipação do resultado, pois há incremento do risco.

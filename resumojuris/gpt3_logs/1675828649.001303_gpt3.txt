@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Cinge-se a controversia a determinar se ha ou nao interesse de agir no ajuizamento de acao para anular credito tributario constituido em virtude de erro em Declaracao de Credito Tributario Federal, quando nao comprovado o previo requerimento administrativo pela parte autora a Administracao Publica. Tratando-se apenas do direito potestativo de retificar a declaracao, seria questionavel a necessidade de acao judicial, notadamente por restar duvida sobre a existencia de lesao ou ameaca de lesao a direito da parte autora. Bastaria ao demandante, por conta propria, promover a correcao. No caso, porem, o contribuinte nao corrigiu a declaracao e o tributo foi lancado e passou a ser exigido. A pretensao, entao, nao era de retificar declaracao, mas de anular o credito tributario exigivel. Evidencia-se, portanto, que, no ultimo caso, no minimo, havia ameaca a direito (patrimonial) em face da possibilidade de cobranca do tributo, sendo plenamente aplicavel o direito fundamental previsto no art. 5, XXXV, da Constituicao, presente, portanto, o interesse de agir, sendo descabida a extincao do feito sem exame de merito. (Informativo  Ed. Especial n. 8) CF/88, art. 5, XXXV 17 SEGUNDA TURMA Voltar ao Sumario. Processo RMS 68.657-MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, por unanimidade, julgado em 27/9/2022, DJe 29/9/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário comprovar o previo requerimento administrativo para ajuizar ação para anular crédito tributário constituído em virtude de erro em Declaração de Crédito Tributário Federal. 2. O direito potestativo de retificar a declaração não exige ação judicial. 3. Quando o contribuinte não corrige a declaração e o tributo é exigido, há ameaça a direito (patrimonial) e é aplicável o direito fundamental previsto no art. 5, XXXV, da Constituição. 4. Há interesse de agir, sendo descabida a extinção do feito sem exame de mérito.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A eminente procuradora da justia apresentou suas contrarrazes aos embargos infringentes (Evento 8 - IMPUGNAO1), com vistas das razes seguintes: [...] Trata-se de recurso prprio, ou seja, embargos infringentes contra deciso, no unnime, desfavorvel ao ru; interposto por advogado sem procurao nos autos, parte legtima e interessada, e  tempestivo. Assim, deve ser conhecido. Pretendem os embargantes a reforma da deciso para que seja adotado o posicionamento exposto no voto minoritrio proferido pelo Desembargador Revisor James Ferreira Santos, o qual, apesar de acompanhar o Relator no que diz respeito  absolvio dos rus pelo crime de concusso descrito no episdio 1 da denncia e de furto qualificado narrado no episdio 2, deu provimento ao recurso defensivo para tambm os absolver das imputaes de concusso e falsidade ideolgica constantes do episdio 2, bem como para negar provimento ao recurso ministerial e manter intacta a absolvio pelos crimes relativos ao episdio 3. Entretanto, no h dvida de que o entendimento esboado nos votos vencedores conferiu a melhor interpretao  prova coligida aos autos no que tange aos crimes de concusso e falsidade ideolgica narrados nos episdios 2 e 3 da denncia, uma vez que, aps ter o Relator procedido s minuciosa e atenta descrio dos fatos, obteve xito em demonstrar que tais delitos foram, sim, praticados pelos embargantes, cada um  sua maneira, inexistindo razo para que deixassem de ser responsabilizados. Isso porque, quanto aos fatos ocorridos nos dias 30/03/2015 e 1/04/2015 (episdio 2), examinando cuidadosamente as declaraes prestadas por Clsio Miranda de Jesus, vtima do crime de concusso, observa-se que, em todas as oportunidades em que foi ouvido, apresenta verso extremamente coerente sobre a dinmica dos fatos, ficando evidenciado que os rus, aps localizarem certa quantidade de drogas em sua residncia, exigiram- lhe o pagamento da quantia de R$ 4.000,00 para que ele no fosse preso, o que, contudo, no foi aceito, motivo pelo qual os acusados retornaram ao local no dia seguinte para efetuarem a cobrana da propina, quando, ento, simularam uma apreenso de drogas com o objetivo de justificar a priso de Clsio, tendo os rus Washington Gonalves e Washington Santana inserido informaes totalmente inverdicas no respectivo REDS visando omitir a ilegalidade das condutas por eles perpetradas. Como se no bastassem os relatos da vtima e de sua esposa Rafaela de Almeida Viviane, que tambm se encontrava no local, o histrico do GPS da viatura policial 20580 registrou que, naquela data, a guarnio composta pelos acusados realmente esteve na regio em que se situava a residncia de Clsio, em horrio compatvel com o que foi por ele informado, no havendo que se questionar, portanto, acerca da ocorrncia dos crimes de concusso e falsidade ideolgica.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A Procuradora da Justia apresentou contrarrazes aos embargos infringentes, requerendo o conhecimento do recurso prprio interposto por advogado sem procurao nos autos, parte legtima e interessada. Os embargantes pretendem a reforma da decisão para que seja adotado o posicionamento exposto no voto minoritário. Após análise dos fatos e das declarações prestadas, ficou evidenciado que os rus praticaram os crimes de concussão e falsidade ideológica narrados nos episdios 2 e 3 da denúncia.

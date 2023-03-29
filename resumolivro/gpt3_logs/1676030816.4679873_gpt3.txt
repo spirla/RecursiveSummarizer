@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Toulmin no se preocupou com a anlise da estrutura dos diversos tipos de argumentos ou das tcnicas argumentativas, mas sim dos argumentos em geral, contribuindo para a elaborao de uma verdadeira teoria geral da argumentao. Sua teoria distinguiu o esquema geral da argumentao, que  nico para todos os tipos de argumentos, das regras especiais da argumentao que variam conforme o campo concreto em que esta se verifique. Toulmin considerou basicamente a existncia de cinco mbitos de atuao da argumentao (denominados empresas racionais): o Direito, a moral, a cincia, os negcios e a crtica da arte. Na tentativa de superar a lgica formal, que s distingue premissas e concluso, Toulmin ainda fez distino entre seis tipos distintos de proposies, com funes diferenciadas na argumentao: o respaldo, a garantia, as razes, o qualificador, a condio de refutao e a pretenso. O grande mrito da teoria de Toulmin foi caracterizar a argumentao como um tipo de interao humana17, o que aproxima a lgica das argumentaes que efetivamente ocorrem na realidade social. Wittgenstein, em suas Investigaes filosficas, j havia revelado a linguagem humana como uma forma de atividade social que funciona por meio do sentido e do uso que  atribudo s palavras. O pensador austraco ressaltou que no importa indagar apenas do significado das palavras, mas sim de suas funes prticas. 2.4. A ao comunicativa e o discurso argumentativo. As reflexes desenvolvidas por Viehweg, Perelman e Toulmin construram condies propcias para o grande desenvolvimento das teorias da argumentao e o giro para uma racionalidade comunicativa. A comunicao que se realiza entre as pessoas passou a ser compreendida como dialgica (e no apenas como meio de transmisso de sinais portadores de significados), de modo a reconhecer que os sujeitos capazes de linguagem e ao interagem no ambiente social buscando obter um entendimento sobre os problemas e questes advindos da convivncia. Muitos autores contemporneos trabalham a filosofia da linguagem sob o prisma da interao dialgica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Toulmin desenvolveu uma teoria geral da argumentação que distinguiu o esquema geral da argumentação, único para todos os tipos de argumentos, das regras especiais da argumentação que variam conforme o campo concreto em que esta se verifique. Esta teoria considerou basicamente a existência de cinco mbitos de atuao da argumentação e seis tipos distintos de proposições. Wittgenstein contribuiu para a teoria da argumentação ao revelar a linguagem humana como uma forma de atividade social que funciona por meio do sentido e do uso das palavras. Estas reflexões contribuíram para o desenvolvimento das teorias da argumentação e o giro para uma racionalidade comunicativa.

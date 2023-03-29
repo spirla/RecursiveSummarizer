@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+MINISTRA LAURITA VAZ, no resolveu o mrito da controvrsia identicamente alegada neste writ e naquele recurso - o que no induz  litispendncia. Assim, no h bice ao exame da controvrsia por reiterao de pedido. Precedentes. 2. A circunstncia de o Ministrio Pblico requerer a absolvio do Acusado, seja como custos legis, em alegaes finais ou em contrarrazes recursais, no vincula o rgo Julgador, cujo mister jurisdicional funda-se no princpio do livre convencimento motivado, conforme interpretao sistemtica dos arts. 155, caput, e 385, ambos do Cdigo de Processo Penal. Precedentes do Supremo Tribunal Federal e do Superior Tribunal de Justia. 3. "Quando o Ministrio Pblico pede a absolvio de um ru, no h, ineludivelmente, abandono ou disponibilidade da ao, como faz o promotor norte-americano, que simplesmente retira a acusao (decision on prosecution motion to withdraw counts) e vincula o posicionamento do juiz. Em nosso sistema,  vedada similar iniciativa do rgo de acusao, em face do dever jurdico de promover a ao penal e de conduzi-la at o seu desfecho, ainda que, eventualmente, possa o agente ministerial posicionar-se de maneira diferente - ou mesmo oposta - do colega que, na denncia, postulara a condenao do imputado" (STJ, REsp 1.521.239/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 9/3/2017, DJe de 16/3/2017). 4. Ad argumentandum, vale referir que o Legislador Ordinrio, ao editar a Lei n. 13.964/2019, acrescentou ao Cdigo de Processo Penal o art. 3.-A, segundo o qual "[o] processo penal ter estrutura acusatria, vedadas a iniciativa do juiz na fase de investigao e a substituio da atuao probatria do rgo de acusao". Todavia, qualquer interpretao que determine a vinculao do Julgador ao pedido absolutrio do Ministrio Pblico com fundamento, por si s, nessa regra, no tem legitimidade jurdica, pois o Supremo Tribunal Federal, em deciso monocrtica proferida no dia 22/10/2020 pelo Ministro LUIZ FUX, "na condio de relator das ADIs 6.298, 6.299, 6.300 e 6305", suspendeu, "sine die a eficcia, ad referendum do Plenrio, [?] da implantao do juiz das garantias e seus consectrios (Artigos 3-A, 3-B, 3-C, 3-D, 3a-E, 3-F, do Cdigo de Processo Penal)". 5. "A instaurao do incidente de inconstitucionalidade  incompatvel com o rito do habeas corpus, ante a impossibilidade de suspenso do feito e da afetao do tema  Corte Especial para exame do pedido" (STJ, AgRg no RHC 90.145/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/02/2018, DJe 26/02/2018).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal não vincula o órgão Julgador ao pedido absolutório do Ministério Público, pois o Supremo Tribunal Federal suspendeu, ad referendum do Plenário, a implantação do juiz das garantias e seus consectários. No entanto, a instauração do incidente de inconstitucionalidade é incompatível com o rito do habeas corpus.

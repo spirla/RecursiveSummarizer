@@ -1,0 +1,48 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Juiz Cel PM Rubio Paulino Coelho, publicado em 14/01/2013)
+CAPITULO III
+Funcionamento do Processo
+Artigo 70 - A CPAD, no funcionamento do processo, atendera ao seguinte:
+- funcionara no local que seu presidente julgar melhor indicado para a apuracao e analise do fato;
+- examinara e emitira seu parecer, no prazo de quarenta dias, o qual, somente por motivos excepcionais, podera ser prorrogado pela autoridade convocante, por ate vinte dias;
+- exercera suas atribuicoes sempre com a totalidade de seus membros;
+- marcara, preliminarmente, a reuniao de instalacao no prazo de dez dias, a contar da data de publicacao da portaria, por meio de seu presidente, o qual notificara o militar da acusacao que lhe e feita, da data, hora e local da reuniao, com ate quarenta e oito horas de antecedncia, fornecendo-lhe copia da portaria e dos documentos que a acompanham;
+- a reuniao de instalacao tera a seguinte ordem:
+a) o presidente da Comissao prestara o compromisso, em voz alta, de pe e descoberto, com as seguintes palavras: Prometo examinar, cuidadosamente, os fatos que me forem submetidos e opinar sobre eles, com imparcialidade e justica, ao que, em idntica postura, cada um dos outros membros confirmara: Assim o prometo;
+b) o escrivao autuara todos os documentos apresentados, inclusive os oferecidos pelo acusado;
+c) sera juntada aos autos a respectiva procuracao concedida ao defensor constituido pelo acusado;
+- as razoes escritas de defesa deverao ser apresentadas pelo acusado ou seu procurador legalmente constituido, no prazo de cinco dias uteis, no final da instrucao;
+- se o processo ocorrer a revelia do acusado, ser-lhe-a nomeado curador pelo presidente;
+- nas reunioes posteriores, proceder-se-a da seguinte forma:
+a) o acusado e o seu defensor serao notificados, por escrito, com antecedncia minima de quarenta e oito horas, exceto quando ja tiverem sido intimados na reuniao anterior, observado o intersticio minimo de vinte e quatro horas entre o termino de uma reuniao e a abertura de outra;
+b) o militar que, na reuniao de instalacao, se seguir ao presidente em hierarquia ou antiguidade procedera ao interrogatorio do acusado;
+c) ao acusado e assegurado, apos o interrogatorio, prazo de cinco dias uteis para oferecer sua defesa previa e o rol de testemunhas;
+d) o interrogante inquirira, sucessiva e separadamente, as testemunhas que a Comissao julgar necessarias ao esclarecimento da verdade e as apresentadas pelo acusado, estas limitadas a cinco, salvo nos casos em que a portaria for motivada em mais de um fato, quando o limite maximo sera de dez;
+e) antes de iniciado o depoimento, o acusado podera contraditar a testemunha e, em caso de acolhimento pelo presidente da Comissao, nao se lhe deferira o compromisso ou a dispensara nos casos previstos no Codigo de Processo Penal Militar - CPPM;
+- providenciara quaisquer diligncias que entender necessarias a completa instrucao do processo, ate mesmo acareacao de testemunhas e exames periciais, e indeferira, motivadamente, solicitacao de diligncia descabida ou protelatoria;
+- tanto no interrogatorio do acusado como na inquiricao de testemunhas, podem os demais membros da Comissao, por intermedio do interrogante e relator, perguntar e reperguntar;
+- e permitido a defesa, em assunto pertinente a materia, perguntar as testemunhas, por intermedio do interrogante, e apresentar questoes de ordem, que serao respondidas pela Comissao quando nao implicarem nulidade dos atos ja praticados;
+- efetuado o interrogatorio, apresentada a defesa previa, inquiridas as testemunhas e realizadas as diligncias deliberadas pela Comissao, o presidente concedera o prazo de cinco dias uteis ao acusado para apresentacao das razoes escritas de defesa, acompanhadas ou nao de documentos, determinando que se lhe abra vista dos autos, mediante recibo;
+- havendo dois ou mais acusados, o prazo para apresentacao das razoes escritas de defesa sera comum de dez dias uteis;
+- se a defesa nao apresentar suas razoes escritas, tempestivamente, novo defensor sera nomeado, mediante indicacao pelo acusado ou nomeacao pelo presidente da Comissao, renovando-se-lhe o prazo, apenas uma vez, que sera acrescido ao tempo estipulado para o encerramento do processo;
+- findo o prazo para apresentacao das razoes escritas de defesa, a vista das provas dos autos, a Comissao se reunira para emitir parecer sobre a procedncia total ou parcial da acusacao ou sua improcedncia, propondo as medidas cabiveis entre as previstas no artigo 74;
+- na reuniao para deliberacao dos trabalhos da Comissao, sera facultado ao defensor do acusado assistir a votacao, devendo ser notificado pelo menos quarenta e oito horas antes da data de sua realizacao;
+- o parecer da Comissao sera posteriormente redigido pelo relator, devendo o membro vencido fundamentar seu voto;
+- as folhas do processo serao numeradas e rubricadas pelo escrivao, inutilizando-se os espacos em branco;
+- os documentos serao juntados aos autos mediante despacho do presidente;
+- as resolucoes da Comissao serao tomadas por maioria de votos de seus membros;
+- a ausncia injustificada do acusado ou do defensor nao impedira a realizacao de qualquer ato da Comissao, desde que haja um defensor nomeado pelo presidente;
+- de cada sessao da Comissao o escrivao lavrara uma ata que sera assinada por seus membros, pelo acusado, pelo defensor e pelo curador, se houver.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A CPAD, no funcionamento do processo, atenderá ao seguinte: reunião de instalação com compromisso de imparcialidade, autuação de documentos, procuração do defensor, notificação do acusado e defensor, interrogatório do acusado, inquirição de testemunhas, defesa previa, razões escritas de defesa, diligências, curador, votação, ata e rubrica dos documentos.

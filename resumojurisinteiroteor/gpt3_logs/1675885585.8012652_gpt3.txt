@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em vista da ocorrncia do trnsito em julgado (Eventos 25 e 26), foi por mim determinada a citao do representado e a requisio do seu Extrato de Registros Funcionais (ERF) e de sua Certido de Antecedentes Criminais (CAC) - Evento 29. Foram colacionadas aos autos as certides de antecedentes criminais provenientes desta Justia especializada (Evento 31 - CERTANTCRIM1) e da Justia comum estadual, Comarca de Belo Horizonte/MG (Evento 31 - CERTANTCRIM1), e o ERF (Evento 39 - EXTRATO2) do representado. No ERF do representado, h informao de que o ora representado se encontra na situao funcional de RESERVA CARGO ELETIVO, no conceito "A 50. H meno, como pontos positivos, de 7 notas meritrias, 10 elogios individuais e 1 dispensa de servio. Citado, o representado, por intermdio de advogada constituda, apresentou defesa (Evento 44 - DEFESAESCRITA1). A causdica defensora do representado sustenta que, para a decretao da perda da graduao, devem ser analisados o ERF do militar, o seu comportamento, antes e aps a conduta delituosa, bem como a repercusso do fato junto  tropa e  sociedade. Assevera a defesa que o representado possui excelente ficha funcional e  detentor de apreo de seus pares, subordinados e superiores, bem como da sociedade local. Disse que os fatos ocorreram no ano de 2002, havendo o transcurso de lapso temporal de 20 anos, sendo que, nesse perodo, o representado no praticou qualquer outro crime ou ato que desabonasse sua conduta. Em relao aos processos criminais que deram ensejo  presente representao, a defesa asseverou que o representado foi denunciado, pelo Ministrio Pblico Federal, pela prtica do delito do art. 317 do CP (corrupo passiva) e pela prtica dos delitos dos arts. 90 e 96, I, da Lei n. 8666/93, em concurso material, sob suposta fraude em licitao ocorrida no ano de 2002, denominada "Mfia dos Sanguessugas. Asseverou tambm que, nos autos da Ao Penal n. 0032119-92.2013.4.01.0000, que teve curso perante o TRF-1, o representado foi condenado a cumprir a pena total de 6 anos de deteno, em regime semiaberto, pela prtica dos delitos dos arts. 90 e 96, I, da Lei n. 8666/93, em concurso material, tendo o trnsito em julgado ocorrido em 19 de setembro de 2020; que o representado j cumpriu 4 anos, 5 meses e 16 dias dessa pena, havendo, ainda, aproximadamente 127 dias a serem remidos; que, em razo do bom comportamento, houve a progresso do regime de pena para o aberto, tendo-lhe sido deferido o livramento condicional na data de 07/05/2020. Em relao aos autos da Ao Penal n. 0052376- 41.2013.4.01.0000, que teve curso perante o TRF- 1, na qual o representado foi condenado pela prtica do delito do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia especializada determinou a citação do representado e a requisição de seu Extrato de Registros Funcionais (ERF) e de sua Certidão de Antecedentes Criminais (CAC). O ERF do representado indicou que o mesmo se encontra na situação funcional de RESERVA CARGO ELETIVO, com 7 notas meritórias, 10 elogios individuais e 1 dispensa de serviço. A defesa do representado alegou que o mesmo possui excelente ficha funcional, não tendo praticado qualquer outro crime ou ato que desabonasse sua conduta nos últimos 20 anos. O representado foi condenado pela prática de corrupção passiva e de fraude em licitação, tendo cumprido 4 anos, 5 meses e 16 dias da pena, sendo que, em razão do bom comportamento, houve a progresso do regime de pena para o aberto, tendo-lhe sido deferido o livramento condicional.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A sindicncia Regular teve seu curso normal, onde foi oportunizada a ampla defesa e o contraditorio. - Nao procede a alegacao de violacao ao principio do non bis in idem, tendo em vista que o apelante foi punido por duas condutas distintas, nao havendo possibilidade aparente de conflito dos tipos previstos no artigo 15, inciso III e no artigo 13, inciso V, podendo ambos coexistir pacificamente. - Quanto a alegacao de ofensa aos principios da legalidade e da ampla defesa pela ausncia do extrato de registros funcionais do recorrente nos autos, o SIRH da corporacao oferece dados atualizados que permitem uma analise segura, sobre as reais condicoes do militar que sera sancionado. Desta forma, nenhum prejuizo foi causado ao apelante. - Provimento negado. (TJM-MG: Proc. 1000004-74.2015.9.13.0001, Rel. Juiz Cel PM Rubio Paulino Coelho, julgamento 24/11/2015)
+Outra forma de utilizacao incorreta da presente agravante ocorre quando, por questao de economia processual, instaura-se apenas um processo administrativo para apuracao de faltas autnomas (desconexas ou sem simultaneidade), mas, praticadas no mesmo contexto fatico e envolvendo o mesmo militar acusado. Nesse caso, o correto e a instauracao de processos administrativos distintos, para apuracao das faltas de forma independente. Nesse sentido:
+APELACAO CIVEL - ACAO ANULATORIA DE ATOS ADMINISTRATIVO-DISCIPLINARES - PEDIDO DE TUTELA DE URGNCIA INDEFERIDO - PRATICA SIMULTNEA OU CONEXAO DE DUAS TRANSGRESSOES NAO COMPROVADAS - CONDUTAS AUTNOMAS E DISTINTAS - INEXISTNCIA DE VICIOS E ILEGALIDADES APTAS A ENSEJAREM A NULIDADE DOS PROCEDIMENTOS - OBSERVNCIA DOS PRECEITOS LEGAIS CONTIDOS NA LEI N. 14.310/2002 - MANUTENCAO DA SENTENCA DE PRIMEIRO GRAU - RECURSO A QUE SE NEGA PROVIMENTO. - Ainda que as duas punicoes tenham sido originadas em uma mesma data, os fatos ocorridos se deram em momentos distintos, nao configurando uma pratica simultnea. - A Administracao Militar abriu dois processos autnomos para a apuracao dos fatos, procedendo a analise e ao julgamento das transgressoes disciplinares, em datas diferentes, nao havendo qualquer ilegalidade a contaminar os procedimentos administrativos. - Sentenca mantida. - Provimento negado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sindicância regular teve seu curso normal, com ampla defesa e contraditório. Não houve violação ao princípio do non bis in idem, pois o apelante foi punido por duas condutas distintas. A alegação de ofensa aos princípios da legalidade e da ampla defesa foi rejeitada, pois o SIRH da corporação ofereceu dados atualizados. A instauração de processos administrativos distintos para apurar faltas autônomas foi considerada correta. Provimento negado.

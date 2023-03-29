@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Na hipotese, nao ha falar em manifesto prejuizo para a defesa do reu, em razao do indeferimento da apresentacao do rol de testemunhas em momento posterior. Consoante a fundamentacao apresentada pela Corte local, nao obstante a defesa do acusado seja exercida pela Defensoria Publica, observa-se, no caso em exame, que houve pedido generico para apresentacao do rol de testemunhas de forma extemporanea, sem levar em consideracao que a audiencia de instrucao foi designada para data distante, havendo, portanto, tempo disponivel para que a defesa tenha acesso ao acusado, atualmente recolhido ao carcere, mesmo com todas as dificuldades e limitacoes decorrentes da pandemia. Por fim, como e de conhecimento, no processo penal, as nulidades observam ao principio pas de nullite sans grief, consagrado no art. 563 do CPP, segundo o qual Nenhum ato sera declarado nulo, se da nulidade nao resultar prejuizo para a acusacao ou para a defesa . Assim, esta Corte Superior ja entendeu que: nao e de presumir-se o prejuizo para o reu, pois a inquiricao - se essencial para a busca da verdade real - podera ser realizada, de oficio, nos termos do artigo 156 do CPP, restando, ainda, a possibilidade de aportarem-se aos autos tais fontes de prova sob a forma documental, posto que atipica (HC 202.928/PR, Rel. Ministro Sebastiao Reis Junior, Rel. p/ Acordao Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/05/2014, DJe de 08/09/2014). (Informativo n. 738) PROCESSO AgRg no HC 734.423-GO, Rel. Min. Joao Otavio de Noronha, Quinta Turma, por unanimidade, julgado em 24/05/2022, DJe 26/05/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Violacao de domicilio. Presenca de justa causa para o ingresso forcado de policiais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há falar em manifesto prejuízo para a defesa do réu em razão do indeferimento da apresentação do rol de testemunhas em momento posterior. 2. Não obstante a defesa do acusado seja exercida pela Defensoria Pública, houve pedido generico para apresentação do rol de testemunhas de forma extemporânea, sem levar em consideração que a audiência de instrução foi designada para data distante. 3. Nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa. 4. Não é de presumir o prejuízo para o réu, pois a inquirição poderá ser realizada, de ofício, nos termos do artigo 156 do CPP.

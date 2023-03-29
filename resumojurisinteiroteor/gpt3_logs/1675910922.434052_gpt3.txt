@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se recurso de apelao interposto pelo Estado de Minas Gerais contra a sentena proferida pelo Juzo da Quinta Auditoria Judiciria do Estado de Minas Gerais - 5a AJME que acolheu o pedido do nmero 163.078-9 Soldado PM Saulo Gomes Martins e anulou a sano aplicada nos autos do Processo de Comunicao Disciplinar (PCD) de Portaria 115.983/2019 - 41 BPM (Evento 29 - SENT1). Extrai-se dos autos que o militar foi punido suspenso de 4 (quatro) dias de suspenso e decote de 24 (vinte e quatro) pontos em seu conceito funcional, por ter, no dia 18 de junho de 2019, estando escalado para o servio no horrio das 7 s 17 horas e 30 minutos, faltado  chamada, bem como a todo o servio, sendo enquadrado na transgresso disciplinar prevista no inciso XX (faltar ao servio) do art. 13 do Cdigo de tica e Disciplina dos Militares do Estado de Minas Gerais - CEDM (Lei 14.310, de 19 de junho de 2002). Em sua petio inicial, o autor informou que foi instaurado em seu desfavor um Processo de Comunicao Disciplinar (PCD), por ter, em tese, praticado transgresso disciplinar de natureza grave (art. 13, XX, do CEDM); e, que, contudo, apresentou atestado mdico em que comprova que ficou afastado, no podendo trabalhar do dia 18 ao dia 19 de junho de 2019. Informou, ainda, que o atestado foi expedido pela mdica Luane Aparecida Dantas de Oliveira e que a referida mdica confirmou em depoimento que o atestado  verdadeiro. Disse que o encarregado do processo de comunicao disciplinar concluiu pelo seu enquadramento disciplinar na transgresso do art. 13, inciso XX, da Lei n. 14.310, de 19 de junho de 2002 (CEDM), apesar de o militar responsvel pelo NAIS do 41 BPM informar que ele apresentou o atestado mdico fora do prazo regulamentar. Aduziu que  natural de Braslia e que fez concurso em Minas Gerais e passou a integrar os quadros da PMMG, razo pela qual permanece longe de sua famlia. Por esse motivo, contava apenas com um colega de profisso, o tambm Sd Serafim, para que pudesse levar seu atestado ao NAIS. Contudo, o Sd Serafim no pode lev-lo, conforme depoimento prestado no PCD. Alegou a existncia de provas de que o fato no ocorreu, considerando que ele havia comprovado junto ao NAIS, por meio do atestado, a sua incapacidade para o trabalho. Alegou, ainda, que no se pode deixar de conhecer da licena mdica ou do atendimento mdico lanados em atestado que goza de presuno de veracidade e que a mera ausncia de homologao junto ao NAIS/SAS da unidade atrairia a incidncia da transgresso prevista no art. 14, II, do CEDM, consistente em falta de natureza Mdia, consoante jurisprudncia pacfica deste Tribunal de Justia Militar. Invocou a aplicao do art. 7, I, do MAPPA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais interpôs recurso de apelação contra a sentença proferida pelo Juízo da Quinta Auditoria Judiciária do Estado de Minas Gerais que anulou a sanção aplicada ao Soldado PM Saulo Gomes Martins, punido por faltar ao serviço no dia 18 de junho de 2019. O autor alegou que apresentou atestado médico comprovando incapacidade para o trabalho e invocou a aplicação do art. 7, I, do MAPPA.

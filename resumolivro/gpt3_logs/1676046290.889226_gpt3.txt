@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como exemplos, pode-se citar o caso da exigncia da ocorrncia de motivo ftil, no homicdio qualificado previsto no artigo 121, pargrafo 2, II, do CP; de estar sob a influncia do estado puerperal, no crime de infanticdio do artigo 123 do CP; de ser portador de molstia venrea, no crime de perigo de contgio venreo do artigo 130 do CP; de ser pai ou me da vtima, no crime de abandono material do artigo 244 do CP; de ser funcionrio pblico, nos crimes praticados por funcionrio pblico contra a administrao em geral, previstos nos artigos 312 a 326 do CP; de ser testemunha ou perito, no crime de falso testemunho ou falsa percia previsto no artigo 342 do CP; de ser juiz, no crime de abuso de autoridade previsto no artigo 4, d, da Lei 4.898/65, entre muitos outros casos. Nesses casos, para reconhecer o concurso de pessoas que responsabiliza a todos os participantes por crime nico,  necessrio considerar que todas as pessoas que concorrem para a realizao do fato atendem a especial exigncia tpica. Seja para caracterizar coautoria ou participao,  necessrio comunicar a todos os participantes a caracterstica pessoal que, sendo elementar do tipo, possibilita a incriminao. Assim, o portador de molstia venrea pode ser auxiliado por quem no o seja e ambos respondero pelo crime previsto no artigo 130 do CP; o funcionrio pblico pode ser ajudado por pessoa que no seja funcionria e ambas responderem por crime funcional, e assim por diante. O crime que permite a comunicabilidade de seus dados elementares pode ser definido tanto por tipos simples, qualificados ou privilegiados. Em qualquer caso, ser sempre possvel a comunicabilidade. O tipo simples, tambm denominado de bsico ou fundamental,  aquele que rene as caractersticas essenciais que distinguem a figura criminosa. Como exemplo, tem-se o homicdio simples, previsto no caput do artigo 121 do CP, que descreve a conduta de matar algum, cuja pena cominada  de 6 (seis) a 20 (vinte) anos de recluso. Nesse caso, a figura simples no  constituda por qualquer elementar que se refira a caractersticas pessoais. Como figuras derivadas do homicdio simples, encontramos o homicdio qualificado e o privilegiado. O homicdio qualificado encontra previso nos incisos do pargrafo 2 do artigo 121, que, considerando os dados da figura fundamental (matar algum), agrega dados que agravam a natureza do crime e justificam o estabelecimento de uma cominao de pena que lhe seja prpria.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+É necessário considerar a característica pessoal que, sendo elementar do tipo, possibilita a incriminação para reconhecer o concurso de pessoas responsabilizadas por um crime único. O crime que permite a comunicabilidade de seus dados elementares pode ser definido por tipos simples, qualificados ou privilegiados. Exemplo disso é o homicídio simples, previsto no artigo 121 do CP, cuja pena é de 6 a 20 anos de reclusão. O homicídio qualificado encontra previsão nos incisos do parágrafo 2 do artigo 121, agregando dados que agravam a natureza do crime e justificam o estabelecimento de uma pena própria.

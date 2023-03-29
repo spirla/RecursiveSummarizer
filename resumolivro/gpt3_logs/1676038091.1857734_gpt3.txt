@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Conforme os termos do sistema vicariante, acolhido no artigo 110 do Cdigo Penal militar631, a possibilidade de reiterao da conduta ofensiva que caracteriza a periculosidade somente deve ser considerada em relao aos inimputveis e fundamenta a aplicao de medida de segurana. Nos termos da legislao repressiva nacional, a periculosidade no constitui tema afeto ao juzo de tipicidade. A ideia de que a realizao do crime constitui um perigo para a sociedade pode ser encontrada em Feuerbach632 e Romagnosi633, que, procurando identificar o critrio adequado para estabelecer a medida da reprovao penal, sustentaram que a intensidade da pena deve ser proporcional ao impulso criminoso do condenado, porque a maior intensidade do impulso revela um maior perigo para a sociedade. A noo foi posteriormente desenvolvida pela Escola Positiva, que, no final do sculo XIX, defendeu a necessidade de se estudar diretamente a pessoa do criminoso. Acompanhando os desenvolvimentos da medicina cientfica, que passou a ter por objeto de estudos os doentes e a classificar as doenas conforme as suas causas, os positivistas, com base nos dados obtidos pela antropologia, passaram a concentrar atenes sobre a pessoa dos criminosos635, e no sobre os seus crimes. Rafael Garofalo sustentou que a reao ao crime deve levar em conta o perigo que o criminoso representa e, como meio preventivo adequado a remover o perigo, ser idnea em razo do grau de temibilidade. Nestes termos, Garofalo substitui o critrio da proporcionalidade da pena pelo da idoneidade de sua atuao preventiva. A noo de temibilidade, no entanto, no expressa adequadamente uma caracterstica do homem criminoso. O sentimento de temor pela prtica de novos crimes no se encontra no criminoso, mas em suas potenciais vtimas. Por isso, a doutrina posteriormente substituiu a referncia  temibilidade por periculosidade, visando expressar mais corretamente o aspecto objetivo da maior possibilidade da ocorrncia de outras violaes s proibies jurdicas. Coube a Henrique Ferri, professor da Universidade de Roma, estabelecer a distino entre a periculosidade social e a periculosidade criminal para os fins de defesa social. A periculosidade social, que interessa  defesa social preventiva e demanda medidas de polcia de segurana, pode ser entendida como sendo a probabilidade de uma pessoa tornar-se autora de crime.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema vicariante, previsto no artigo 110 do Código Penal Militar, permite a aplicação de medidas de segurança quando o agente é inimputável. A ideia de que a realização do crime representa um perigo para a sociedade foi defendida por Feuerbach e Romagnosi. A Escola Positiva, baseada nos dados da antropologia, passou a focar na pessoa do criminoso. Rafael Garofalo substituiu o critério da proporcionalidade da pena pelo da idoneidade da atuação preventiva. Henrique Ferri distinguiu entre periculosidade social e periculosidade criminal para fins de defesa social.

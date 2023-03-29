@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Nesse sentido: PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PBLICO ESTADUAL. REINTEGRAO. ANTECIPAO DE TUTELA. POSSIBILIDADE. PRECEDENTES DO STJ. REVISO DOS REQUISITOS AUTORIZADORES. SMULA 7/STJ. 1. No se conhece da violao ao art. 535 do CPC quando as alegaes que fundamentaram a pretensa ofensa so genricas, sem discriminao dos pontos efetivamente omissos, contraditrios ou obscuros no acrdo proferido pela Corte a quo, como verificado no caso em apreo, o que atrai a incidncia da Smula n. 284/STF: " inadmissvel o recurso extraordinrio, quando a deficincia na sua fundamentao no permitir a exata compreenso da controvrsia". 2. No merece amparo a alegao descabimento da concesso de antecipao de tutela, vez que o presente casu no se enquadra entre aqueles em que  vedada a concesso de antecipao de tutela contra a Fazenda Pblica pela Lei 9.494/1997, j que se trata de reintegrao de servidor pblico (v.g: REsp 688.780/RS, Rel. Ministro FELIX FISCHER, DJ 14/03/2005). 3. Esta Corte firmou entendimento no sentido de que, analisar os requisitos necessrios para a concesso de tutela antecipada - os quais foram reconhecidos pelas instncias ordinrias -, com a consequente reverso do entendimento exposto pelo Tribunal de origem, exige, necessariamente, o reexame de matria ftico- probatria dos autos, o que  invivel em sede de recurso especial, ante o bice contido na Smula 7/STJ (v.g: AgRg no AREsp 140.076/GO, Rel. Ministro BENEDITO GONALVES, DJe 22/11/2012). 4. Quanto  alegada violao ao art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso extraordinrio foi inadmissvel por deficincia na fundamentao, no permitindo a exata compreenso da controvrsia. No houve vedao concesso de antecipao de tutela para reintegrao de servidor pblico. O reexame de matria ftico-probatria dos autos foi invivel em sede de recurso especial, diante da Smula 7/STJ. Alegao de violao ao art. 535 do CPC foi rejeitada.

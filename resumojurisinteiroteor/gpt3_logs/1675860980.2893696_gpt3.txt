@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Aduziu que apesar do registro fotogrfico de "f. 30 no identificar a pessoa ferida, as leses retratadas na imagem so compatveis com as agresses relatadas pela vtima Kelson e por seu colega Felipe. No mesmo sentido, salientou que as leses foram confirmadas pelo Sgt PM Carlos Roberto Evangelista Vargas, que declarou ter visto os ferimentos logo aps os fatos, destacando ainda que, eles aparentavam terem sido provocados por um coturno. Ademais, asseverou que o entendimento pacificado nos tribunais ptrios  no sentido que a palavra da vtima tem especial importncia nos casos de crimes cometidos na clandestinidade. Segundo o Ministrio Pblico a clandestinidade, no caso dos autos, foi agravada pelo abuso de poder dos apelantes que se valeram de ameaas mediante emprego de arma de fogo para afastar testemunhas que pudessem incrimin-los, tendo, ainda, ameaado as vtimas a mentirem perante o primeiro mdico que as atendeu. Disse que as vtimas no possuam nenhuma razo para inventar os fatos, tendo uma delas, inclusive, relatado ter bom relacionamento com um dos apelantes, o que foi confirmado pelo miliciano. Mencionou que a divergncia existente entre os dois boletins mdicos ocorreu porque no momento do atendimento das vtimas no SUS elas relataram ausncia de leses para o mdico que fez o atendimento, pois, foram ameaas pelos apelantes. Alm disso, disse que os apelantes acompanharam o exame clnico, o que embora no seja vedado e constitua uma praxe, constrangeu as vtimas a no indicarem ao mdico as leses sofridas por elas. Afirmou que vrias testemunhas observaram que o nariz de Kelson sangrava aps a abordagem policial, situao que no poderia ter passado despercebido em um exame mdico criterioso. Relatou que o primeiro mdico justificou sua conduta afirmando que fazia exames clnicos simples, que consistia em perguntas para o paciente e caso ele relatasse alguma dor ou leso elas deveriam ser mostradas para o mdico. Acrescentou que ele afirmou no se recordar das vtimas e, ainda que, pelo volume de atendimento seria impossvel afirmar se ele fez um exame clnico criterioso e/ou se apurou a existncia de leses. Alegou que as provas coligidas aos autos revelam que o mdico Pedro Coutinho Comello, no obedeceu ao procedimento padro, ou seja, ele fez somente um exame clnico simples mediante perguntas s vtimas que em razo da presena dos apelantes relataram ausncia de leses. Afirmou que o mdico legista esclareceu tambm que em alguns casos as leses so visveis apenas um tempo depois, o que poderia explicar uma eventual falha no reconhecimento visual do mdico do SUS, cujo volume de servio, assinalado por ele, no permitiria um exame clnico mais demorado e detalhado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público alegou que as lesões relatadas pela vítima foram confirmadas por testemunhas, e que a divergência entre os boletins médicos se deu por ameaças dos acusados. O primeiro médico justificou sua conduta alegando que não havia lesões visíveis, e o médico legista explicou que algumas lesões são visíveis apenas algum tempo depois.

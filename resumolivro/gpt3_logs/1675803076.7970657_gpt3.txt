@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Ressalta-se que, no que tange a decisao da autoridade superior - a autoridade recorrida -, chama-se a discussao a incidncia do principio da proibicao da reformatio in pejus, que se traduz na proibicao de decisao em sede de recurso, de modo a reformar a decisao recorrida e agravar a situacao do recorrente. Conforme se verifica no presente artigo, o CEDM nao previu expressamente a possibilidade reforma da decisao recorrida de modo a agravar a situacao do militar recorrente, como, por exemplo, o fez a Lei 9.784/1999243, que trata do processo administrativo no mbito da Administracao Publica Federal. Nesse caso, aplica-se, de forma suplementar, as disposicoes relativas ao Processo Civil, por forca do artigo 15 do CPC. Assim, conforme esclarece Gediel Claudino de Araujo Junior, ao tratar da incidncia do aludido principio no Processo Civil:
+Outra conclusao que advem do efeito devolutivo e a proibicao da reformatio in pejus. Com efeito, se a parte contraria se conformou com os limites da sentenca, nao pode o recorrente que, no exercicio de um direito, busca a revisao da decisao judicial ter sua situacao alterada para pior. Nesse caminhar, preleciona Humberto Theodoro Junior:
+Ensina Barbosa Moreira que ocorre a reformatio in pejus quando o orgao ad quem, no julgamento de um recurso, profere decisao mais desfavoravel ao recorrente sob o ponto de vista pratico, do que aquela contra a qual se interps o recurso. Nosso sistema processual repele tal pratica, visto que, quando uma so parte recorre, entende-se que tudo que a beneficia no decisorio e, consequentemente, prejudica a parte nao recorrente, tenha transitado em julgado. O tribunal ad quem, portanto, somente podera alterar a decisao impugnada dentro do que lhe pede o recurso. O recurso funciona, assim, como causa e limite de qualquer inovacao que o tribunal entenda de fazer no decisorio. Nao se admite em outras palavras, que o julgamento recursal venha a piorar a situacao do recorrente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da proibição da reformatio in pejus impede que a decisão recorrida seja reformada de modo a agravar a situação do recorrente. O CEDM não prevê expressamente essa possibilidade, mas aplica-se, de forma suplementar, as disposições relativas ao Processo Civil. O tribunal ad quem não pode alterar a decisão impugnada de forma a piorar a situação do recorrente.

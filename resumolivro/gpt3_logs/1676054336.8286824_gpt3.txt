@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No entanto, a competncia ser da Justia comum federal quando o crime for cometido a bordo de navios ou aeronaves brasileiras, tambm ressalvada a competncia da Justia Militar (inciso IX, do artigo 109 da CF), quando o acusado ou a vitima forem funcionrios pblicos federais e o crime for cometido em razo de suas funes (inciso IV, do artigo 109 da CF e Smula 147 do STJ), ou se houver concurso com um crime da competncia da Justia Federal (Smula 122 do STJ). Considerando que a pena mnima cominada ao crime de seqestro e crcere privado, em sua forma simples  igual a 1 ano de privao da liberdade, ser possvel a suspenso condicional do processo, desde que atendidos os demais requisitos estabelecidos no artigo 89 da Lei n 9.099/95. As figuras qualificadas de seqestro e crcere privado no admitem a suspenso condicional do processo, tendo em vista possurem pena mnima cominada superior a 1 ano de privao da liberdade. 6.6.11. Conflito aparente de normas. Privao da liberdade e crime contra o patrimnio. O crime de seqestro e crcere privado se apresenta subsidirio em relao ao crime patrimonial de extorso mediante seqestro (seqestro para fins de extorso), previsto no artigo 159 do CP, em relao ao qual constitui meio de sua execuo. No crime de seqestro e crcere privado o sujeito ativo orienta a sua conduta unicamente pela inteno de privar a liberdade da vitima, enquanto que no crime patrimonial o sujeito ativo possui a finalidade especfica de obter, para si ou para outrem, qualquer vantagem como condio ou preo pelo resgate da vitima. Quando a privao da liberdade se apresenta como meio de execuo de um crime de roubo constitui causa de aumento do crime patrimonial, nos termos do pargrafo 2, inciso V, do artigo 157 do Cdigo Penal. Privao da liberdade de criana ou adolescente. A privao da liberdade ambulatria que  exercida contra criana ou adolescente pode caracterizar o crime previsto no artigo 230 da Lei 8.069/90 - Estatuto da Criana e do Adolescente, se realizada no contexto de uma apreenso que se relacione  prtica de um ato infracional. O referido dispositivo legal incrimina a conduta de privar a criana ou o adolescente de sua liberdade, procedendo  sua apreenso sem estar em flagrante de ato infracional ou inexistindo ordem escrita da autoridade judiciria competente, cominando pena de deteno de seis meses a dois anos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A competência para julgar o crime de seqüestro e cárcere privado é da Justiça Comum Federal, exceto quando o acusado ou a vítima forem servidores públicos federais ou houver concurso com um crime da competência da Justiça Federal. O seqüestro e cárcere privado simples admite suspensão condicional do processo, desde que atendidos os requisitos legais. As figuras qualificadas não admitem a suspensão condicional do processo, pois possuem pena mínima cominada superior a 1 ano de privação da liberdade. A privação da liberdade de criança ou adolescente pode caracterizar o crime previsto no artigo 230 da Lei 8.069/90.

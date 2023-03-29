@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Vencidos, parcialmente, os ministros Alexandre de Moraes e Ricardo Lewandowski, que entendiam ser competente a Justica Federal de Sao Paulo, e, integralmente, os ministros Nunes Marques, Marco Aurelio e Luiz Fux (Presidente), que davam provimento ao recurso. HC 193726 AgR-AgR/PR, relator Min. Edson Fachin, julgamento em 14.4.2021 (INF 1014) HC 193726 AgR/PR, relator Min. Edson Fachin, julgamento em 22.4.2021 (INF 1014) 16.9 PENA DE MULTA Recurso exclusivo da defesa e vedacao ao reformatio in pejus - RHC 194952 AgR/SP Resumo: Caracteriza manifesta ilegalidade, por violacao ao principio da non reformatio in pejus , a majoracao da pena de multa por tribunal, na hipotese de recurso exclusivo da defesa. Isso porque, na apreciacao de recurso exclusivo da defesa, o tribunal nao pode inovar na fundamentacao da dosimetria da pena, contra o condenado, ainda que a inovacao nao resulte em aumento da pena final. Com base nesse entendimento, a Segunda Turma deu provimento a agravo regimental para, mantendo o nao conhecimento do recurso ordinario em habeas corpus, conceder a ordem, de oficio, e restabelecer a pena de multa imposta pelo juizo de primeiro grau, mantidos os demais termos do acordao de segunda instancia, tudo nos termos do voto do relator, que reajustou seu voto. RHC 194952 AgR/SP, relator Min. Ricardo Lewandowski, julgamento em 13.4.2021 (INF 1013) 16.10 PROVAS Atuacao do juiz e ordem de inquiricao de testemunhas - HC 187035/SP Resumo: Nao cabe ao juiz, na audiencia de instrucao e julgamento de processo penal, iniciar a inquiricao de testemunha, cabendo-lhe, apenas, complementar a inquiricao sobre os pontos nao esclarecidos. Assim dispoe o art. 212 do CPP (CPP) o qual preve a possibilidade de o proprio juiz veicular perguntas apenas se verificados, ante o questionamento das partes, pontos nao esclarecidos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É manifesta ilegalidade a majoração da pena de multa por tribunal, na hipótese de recurso exclusivo da defesa, pois na apreciação de recurso exclusivo da defesa, o tribunal não pode inovar na fundamentação da dosimetria da pena, contra o condenado, ainda que a inovação não resulte em aumento da pena final. 2. Não cabe ao juiz, na audiência de instrução e julgamento de processo penal, iniciar a inquirição de testemunha, cabendo-lhe, apenas, complementar a inquirição sobre os pontos não esclarecidos.

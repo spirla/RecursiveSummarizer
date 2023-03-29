@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No exemplo, a finalidade que determina a conduta de avanar o automvel na contramo direcional (descuidada) deve ser objeto de valorao no juzo de tipicidade. A finalidade que determina a conduta de avanar o automvel na contramo direcional em determinado contexto do ambiente de trnsito, considerando a previso quanto a possibilidade da ocorrncia de leso ao bem jurdico, deve constituir objeto para o juzo de reprovao da culpabilidade. Certamente, quando se tratar de culpa consciente, a finalidade de contrariar o dever objetivo de cuidado deve receber reprovao mais severa do que quando a pessoa no previu a possibilidade de ocorrncia do resultado, pois ao orientar sua conduta, a pessoa tambm considerou essa possibilidade e, mesmo assim, praticou-a. No caso de crimes culposos o objeto de valorao da reprovao deve ser a finalidade da pessoa em violar o dever objetivo de cuidado. A simples violao do dever possibilita o exame positivo da tipicidade. As peculiares ponderaes realizadas pela pessoa para fazer atuar essa finalidade servem ao juzo de reprovao da culpabilidade, o qual h de considerar a racionalidade substancial do homem e a racionalidade comunicativa da reprovao social. Ressalte-se que, no se podendo exigir do homem mdio o reconhecimento do dever de cuidado necessrio para a proteo do bem jurdico, no se caracterizar o injusto jurdico-penal, sob pena de promover-se responsabilidade objetiva. A ocorrncia de processos causais inadequados ou anormais faz excluir j do tipo de injusto a exigncia do cuidado, tido como excepcional. No caso, no se encontra satisfeita a exigncia da previsibilidade objetiva da produo do resultado ilcito e a tipicidade no se verifica. Mas ao exame da culpabilidade somente importa discutir a previsibilidade do homem concretamente envolvido no crime, ou seja, a previsibilidade subjetiva. Essa previsibilidade, entretanto, no se vincula  produo do resultado lesivo (como acontece na tipicidade), mas ao carter ilcito da conduta que produziu o resultado lesivo. O juzo de reprovao  satisfeito apenas com a potencialidade de conscincia da ilicitude do fato, mas se a culpabilidade importa juzo de reprovao pessoal, a potencialidade de reconhecimento da ilicitude do fato  aferida em relao  pessoa concreta que realizou o injusto penal, e no em relao ao homem mdio. O exame relativo ao potencial conhecimento da ilicitude do fato apresenta distines, conforme se trate de injusto doloso ou culposo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A finalidade da conduta de avanar o automóvel na contramão direcional deve ser objeto de valoração no juízo de tipicidade. A previsibilidade do resultado lesivo é aferida em relação à pessoa concreta que realizou o injusto penal, e não em relação ao homem médio. O exame relativo à potencial consciência da ilicitude do fato apresenta distinções entre injustos dolosos e culposos.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em suas razes recursais, a defesa do embargante alegou que o acrdo embargado padece de omisses, contradies e erros, sobretudo no que tange ao reconhecimento de que a absolvio criminal faz coisa julgada na esfera cvel, a teor da moderna interpretao do Supremo Tribunal Federal, bem como em relao s alegaes de cerceamento de defesa. Para fundamentar a alegao de ofensa ao art. 5, inciso LV, da Constituio Federal, transcreveu diversos trechos do acrdo do recurso de apelao que foi citado no acrdo da ao rescisria, concernente s provas requeridas e produzidas pela defesa, e afirmou que o embargante foi excludo das fileiras da Corporao, por ato "ex officio, "sem um processo disciplinar que pudesse acompanhar as audies das testemunhas, sem um defensor, mesmo militar, pois, a indicao de um defensor foi apenas para apresentar as alegaes finais [...]. Aduziu que,  exceo do depoimento do ora embargante, todas as testemunhas foram inquiridas sem a presena de um defensor e alegou que tal fato foi omitido pelos julgadores. Elencou questionamentos a fim de reiterar a alegao de ofensa aos princpios do contraditrio e da ampla defesa no processo administrativo a que foi submetido o ora embargante. Afirmou que "a simples abertura de vista ao indiciado, para oferecimento de razes finais, aps a montagem unilateral de todo o procedimento anterior, ou a audincia esparsa e posterior de eventuais testemunhas de defesa, no supre ou convalida o vcio ora alegado. Disse tambm que, apesar de a excluso do embargante ter sido fundamentada no artigo 146, inciso IV, do Estatuto dos Militares do Estado de Minas Gerais e no artigo 31, inciso II do Decreto n. 20.085 (RDPM), esta no poderia ser aplicada aps a vigncia da Constituio Federal de 1998. Alegou que o acrdo embargado se equivocou ao fundamentar que os argumentos trazidos pelo autor no poderiam subsidiar a rescisria nos termos do art. 966, V, do Cdigo de Processo Civil (CPC), pois bastaria compulsarem-se os autos para verificarem-se as diversas infringncias cometidas pelo comandante da Unidade, e ratificadas pela Cmara Julgadora no acrdo rescindendo. Em relao ao fundamento que refutou a tese defensiva de ilegalidade na aplicao da sano disciplinar em face da absolvio do embargante ocorrida na esfera criminal, disse que a absolvio se deu em face da ausncia de prova inequvoca de sua participao e, portanto, questionou o fato de a Administrao ter concludo que ele praticou ato que afetou a honra e o pundonor militar. Aduziu que, para que houvesse o entendimento de que o embargante cometeu transgresso de natureza grave devido ao cometimento de crime, deveria ter sido ele condenado, o que no ocorreu.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa do embargante alegou que o acrdo embargado padece de omisses, contradies e erros, supostamente violando o art. 5, inciso LV, da Constituição Federal, ao não reconhecer a absolvição criminal como coisa julgada na esfera cível, bem como em relação às alegações de cerceamento de defesa. Alegou ainda que a exclusão do embargante foi fundamentada em leis que não se aplicam à Constituição Federal de 1998, e que o acórdão embargado se equivocou ao fundamentar que os argumentos trazidos pelo autor não poderiam subsidiar a rescisória. Por fim, alegou que para que houvesse entendimento de que o embargante cometeu transgresso de natureza grave devido ao cometimento de crime, deveria ter sido ele condenado, o que não ocorreu.

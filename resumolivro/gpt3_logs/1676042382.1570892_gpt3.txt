@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A previso do Cdigo permite perceber que a vigncia da lei excepcional est vinculada  persistncia das circunstncias tambm excepcionais que determinara a sua edio. A lei excepcional no tem prazo certo de vigncia, mas expressa vinculao s circunstncias que justificam a sua edio. No mais existindo as circunstncias que autorizaram a edio da lei excepcional, com a retomada da situao de normalidade, deve ela ser revogada. Da mesma forma, pode-se perceber do artigo 3 do CP que a lei temporria possui um perodo definido para sua vigncia. Decorrido o perodo de sua durao, a lei temporria  automaticamente revogada. A edio de uma lei temporria tambm est vinculada  existncia de situaes especiais que a justifiquem. No se trata de identificar uma conduta socialmente inadequada e que passar a integrar o rol de condutas proibidas, mas sim de conduta cuja considerao de inadequao  provisria. O perodo de vigncia da lei temporria  estimado pelo legislador como o suficiente para que sejam superadas as dificuldades estabelecidas pelas circunstncias especiais. Findo o perodo estipulado, ainda que as circunstncias especiais persistam, a lei perde a sua vigncia. Se for o caso, o legislador pode editar outra lei especialmente para enfrentar as situaes especiais, podendo optar por conceb-la como excepcional ou temporria. A fora coercitiva, tanto da lei penal excepcional como da temporria, depende da certeza de que seus dispositivos sero aplicados quando do julgamento dos fatos praticados durante a sua vigncia. A ultratividade significa que, na data do julgamento, mesmo que a lei excepcional ou a temporria no estejam mais em vigor, seus dispositivos produziro efeitos. A previso legal da ultratividade parece violar a garantia constitucional da retroatividade benfica prevista no inciso XL do artigo 5, contudo no  correta a interpretao. Frederico Marques, tratando das leis excepcionais ou temporrias, corretamente percebeu que:
+Nessas leis, o tempo integra a norma punitiva, ou como condio de maior punibilidade, exterior ao tipo, ou como elemento a este inerente. A pena cominada liga-se ao fato descrito no preceito primrio, porque este foi cometido em determinada poca, ou durante o desenrolar de algum acontecimento excepcional. O crime ento consiste na prtica de certo fato em determinado tempo, ou enquanto perduram ou se desenvolvem certos acontecimentos. A provisoriedade das circunstncias e o elemento temporal integram a descrio tpica e condicionam a interveno punitiva.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A lei excepcional não tem prazo certo de vigência, mas está vinculada às circunstâncias que a justificam. A lei temporária, por sua vez, possui um período definido para sua vigência. Findo esse período, a lei perde sua vigência. A ultratividade significa que, mesmo que a lei já não esteja mais em vigor, seus dispositivos produzirão efeitos na data do julgamento.

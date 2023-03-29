@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Na ocasiao, a Terceira Turma tambem se manifestou no sentido de que o seguro D&O nao pode cobrir atos dolosos cometidos para favorecer a propria pessoa do administrador, uma vez que incentivaria a reducao do grau de diligencia do gestor e a assuncao de riscos excessivos, comprometendo as atividades de compliance e as boas praticas de governanca corporativa da sociedade. Trata-se cobertura securitaria com vistas ao custeio de valores a serem despendidos com a defesa do administrador em processos criminais e administrativos, em razao de condutas praticadas na administracao do Banco Santos, que sofreu intervencao do Banco Central e, em seguida, teve a falencia decretada. Por sua vez, o acordao recorrido concluiu pela nulidade do contrato de seguro, em razao de ter sido a seguradora induzida a erro na avaliacao do risco contratado com a prestacao de informacoes inexatas e da omissao de informacoes acerca da situacao da sociedade pela tomadora do seguro. Verifica-se, portanto, que os fatos relevantes que levaram a intervencao do Banco Central e posterior falencia do Banco Santos ocorreram antes da contratacao do seguro, de modo que, nos termos do art. 769 do CC, deveriam ter sido comunicados por ocasiao da contratacao ou, ao menos, quando da assinatura do contrato suplementar, sob pena de perda da garantia securitaria, o que nao ocorreu na hipotese. Nesse contexto, tanto a omissao dolosa concernente aos eventos sob investigacao do Banco Central quanto a pratica dolosa de atos de favorecimento pessoal e lesivos a companhia e aos investidores dao respaldo a sancao de perda do direito a indenizacao securitaria, de modo que nao merece reparo o acordao recorrido. (Informativo  Ed. Especial n. 9) CC, arts. 765, 766 e 769. 42 Processo AgInt no REsp 1.567.833-MG, Rel. Ministro Marco Buzzi, Quarta Turma, por unanimidade, julgado em 3/10/2022, DJe 6/10/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O seguro D&O não pode cobrir atos dolosos cometidos para favorecer a própria pessoa do administrador, pois incentivaria a redução do grau de diligência do gestor e a assunção de riscos excessivos. 2. O seguro D&O tem como objetivo o custeio de valores a serem despendidos com a defesa do administrador em processos criminais e administrativos. 3. O seguro D&O é nulo quando a seguradora é induzida a erro na avaliação do risco contratado com a prestação de informações inexatas e da omissão de informações acerca da situação da sociedade pela tomadora do seguro. 4. A omissão dolosa concernente aos eventos sob investigação do Banco Central e a prática dolosa de atos de favorecimento pessoal e lesivos à companhia e aos investidores dão respaldo à sanção de perda do direito à indenização securitária.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Considerando a identidade de causa de pedir entre a acao indenizatoria proposta e a acao civil publica por danos ambientais ajuizada pelo Parquet, o reconhecimento de que a citacao valida do demandado na acao coletiva interrompe o prazo de prescricao para ajuizamento da acao individual esta em consonancia com a jurisprudencia desta Corte. (Informativo  Ed. Especial n. 9) 26 DIREITO CIVIL 27 CORTE ESPECIAL Voltar ao Sumario. Processo EREsp 1.734.930-MG, Rel. Ministra Laurita Vaz, Corte Especial, por unanimidade, julgado em 21/9/2022, DJe 29/9/2022. Ramo do Direito DIREITO CIVIL Tema Execucao fiscal. Conta corrente conjunta. Acao ajuizada em face de apenas um dos titulares. Penhora da totalidade. Presuncao relativa de rateio em partes iguais. Demonstracao dos valores que integram o patrimonio de cada um. DESTAQUE Na conta corrente conjunta solidaria presume-se a divisao do saldo em partes iguais, ficando eventual penhora limitada a metade do numerario do total encontrado, na hipotese de execucao movida por pessoa distinta da instituicao financeira mantenedora.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A identidade de causa de pedir entre a ação indenizatória proposta e a ação civil pública por danos ambientais ajuizada pelo Ministério Público interrompe o prazo de prescrição para ajuizamento da ação individual. 2. Na conta corrente conjunta solidária presume-se a divisão do saldo em partes iguais, ficando eventual penhora limitada a metade do numerário do total encontrado, na hipótese de execução movida por pessoa distinta da instituição financeira mantenedora.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Certamente, est soluo no  compatvel com o sistema do nosso ordenamento jurdico-penal. A conduta do mdico que, neste exemplo, preserva melhores condies de sade do paciente  socialmente adequada e no seria vivel a imputao objetiva. Os casos em que a vitima, seus familiares ou representantes legais se manifestam contrariamente  interveno mdica ou cirrgica, por outro lado, desafiam a sensibilidade do operador do Direito. Se a interveno mdica ou cirrgica se apresentar necessria para a preservao da vida do paciente no haver dvidas de que restar impossvel a imputao objetiva do crime de constrangimento ilegal. Se o mdico, contrariando a manifestao expressa dos familiares do paciente, por exemplo, realizar uma transfuso de sangue recusada por motivos religiosos, no ser possvel imputar-lhe a violao da norma incriminadora do constrangimento ilegal. No entanto, nos casos em que a interveno mdica ou cirrgica for necessria para preservar as melhores condies de sade do paciente sua negativa, ou de seus familiares, em receber o tratamento o operador do Direito dever realizar uma ponderao sobre os bens jurdicos em conflito para decidir em favor do que apresentar o maior valor. Se o agravo  sade que pode ser evitado pela interveno for de tal gravidade que o sacrifcio momentneo da liberdade individual se apresente como mal menor, deve-se reconhecer a impossibilidade da imputao objetiva do crime de constrangimento ilegal. Novamente refletindo com o exemplo anterior, se a interveno puder evitar uma sequela neurolgica capaz de impedir a conscincia ou os movimentos ambulatrios do paciente, o desrespeito  recusa do paciente ou seus familiares no poder constituir crime. Os casos em que h manifestaes contrrias entre o paciente e seus familiares tambm podem apresentar certa dificuldade. Contudo, deve-se entender prevalente a manifestao que visa a proteo da vida e da sade do paciente. Se a recusa em receber a interveno mdica  feita por paciente incapaz, a autorizao dos pais ou responsveis torna a conduta socialmente adequada e invivel a imputao objetiva, seja nos casos em que o tratamento se torna necessrio diante do risco para a vida ou para a sade. Veja-se o exemplo da criana que no quer tomar uma vacina veiculada por uma seringa de injeo e os pais a levam ao posto de sade para receber o medicamento contra a sua vontade. Certamente, no se poder falar em constrangimento ilegal praticado pelos pais contra a criana.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O direito penal não é aplicável quando o médico realiza uma intervenção necessária para preservar a vida ou saúde do paciente, mesmo contrariando a manifestação expressa dos familiares. Quando a recusa da intervenção é feita por um paciente incapaz, a autorização dos pais ou responsáveis torna a conduta socialmente adequada e inviável a imputação objetiva.

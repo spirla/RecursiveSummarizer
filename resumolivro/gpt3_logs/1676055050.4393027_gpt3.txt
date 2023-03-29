@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No entanto, o crime em exame tambm pode ser cometido por quem esteja na posio de garantidor, conforme os termos do artigo 13, pargrafo 2, do Cdigo Penal. Como exemplo, pode-se considerar o caso do supervisor de empresa privada contratada para a manuteno do banco de dados que no impede o empregado que lhe  subordinado de divulgar o contedo de informaes sigilosas que esto sob sua responsabilidade. 6.12.7. Elemento subjetivo do tipo. O crime de divulgao de segredo, em sua figura fundamental e em sua figura qualificada, s possui previso legal para realizao em sua forma dolosa. Desse modo, no primeiro caso  necessrio que o sujeito oriente sua conduta diretamente pela inteno de divulgar, sem justa causa, contedo de documento particular ou de correspondncia confidencial, de que  destinatrio ou detentor, e cuja divulgao possa produzir dano a outrem. Para satisfazer a exigncia subjetiva do crime qualificado, que se apresenta como especial forma de divulgao de segredo,  necessrio que o sujeito oriente sua conduta diretamente pela inteno de divulgar, sem justa causa, informaes sigilosas ou reservadas, assim definidas em lei, contidas ou no nos sistemas de informaes ou banco de dados da Administrao Pblica.  possvel a caracterizao do tipo subjetivo de ambos os crimes com o dolo eventual. Nesse caso, o sujeito assume o risco de que sua conduta no esteja amparada em justa causa ou que, no caso do crime qualificado, que a informao divulgada seja sigilosa ou reservada. 6.12.8. Consumao e tentativa. O crime de divulgao de segredo  formal em sua figura fundamental, de modo que a descrio tpica impe que sua consumao ocorra no instante em que o sujeito ativo faz a comunicao pblica, dirigida a um nmero indeterminado de pessoas, sobre o contedo do documento particular ou da correspondncia confidencial. Como deixa claro o tipo incriminador previsto no caput do artigo 153 do CP, a conduta deve ser potencialmente danosa a outrem, de modo que a divulgao deve estabelecer situao de perigo concreto que possibilita a ocorrncia de danos a terceira pessoa. Os danos a que se refere o tipo podem ser materiais ou morais, mas em qualquer caso devem ser relevantes. No entanto, no  necessrio que o dano ocorra. Basta que ocorra a divulgao da informao e que essa divulgao concretamente possa produzir danos a terceiros. Para a consumao do crime  irrelevante a ocorrncia de qualquer dano, mas tratando-se de crime exaurido a reprovao ao condenado deve ser mais intensa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de divulgação de segredo, previsto no artigo 153 do Código Penal, é formal e somente pode ser cometido dolosamente. É necessário que o sujeito oriente sua conduta diretamente pela intenção de divulgar informações sigilosas ou reservadas sem justa causa, com a possibilidade de causar dano a terceiros. A consumação do crime ocorre no momento da comunicação pública da informação.

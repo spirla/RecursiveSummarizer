@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ausencia de prova do uso da pessoa juridica para a pratica delitiva. DESTAQUE Para o bloqueio de ativos financeiros de sociedades empresarias e necessario a existencia de indicios veementes de que elas tenham sido usadas na conduta criminosa. O CPP preve que cabera o seqestro dos bens imoveis, adquiridos pelo indiciado com os proventos da infracao, ainda que ja tenham sido transferidos a terceiro (art. 125); que para a decretacao do seqestro, bastara a existencia de indicios veementes da proveniencia ilicita dos bens (art. 126); e que se procedera ao seqestro dos bens moveis se, verificadas as condicoes previstas no art. 126, nao for cabivel a medida regulada no Capitulo XI do Titulo VII deste Livro, que se trata da busca e apreensao (art. 132). Por sua vez, o Decreto-Lei n. 3.240/1941 estabelece que o sequestro pode recair sobre todos os bens do indiciado, e compreender os bens em poder de terceiros desde que estes os tenham adquirido dolosamente, ou com culpa grave (art. 4). Sao necessarios, portanto, indicios veementes de que os bens sequestrados sejam produtos do crime, ou, sendo bens em poder de terceiros, que tenham sido adquiridos dolosamente, ou com culpa grave. 1266 Nao e diferente a previsao do art. 4 da Lei n. 9.613/1998, de que o juiz podera decretar medidas assecuratorias de bens, direitos ou valores do investigado ou acusado, ou existentes em nome de interpostas pessoas, que sejam instrumento, produto ou proveito dos crimes previstos nesta Lei ou das infracoes penais antecedentes .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário a existência de indicios veementes de que as sociedades empresarias tenham sido usadas na conduta criminosa para o bloqueio de ativos financeiros. 2. O Código de Processo Penal prevê que caberá o seqestro dos bens imóveis adquiridos pelo indiciado com os proventos da infração, ainda que já tenham sido transferidos a terceiro. 3. O Decreto-Lei n. 3.240/1941 estabelece que o sequestro pode recair sobre todos os bens do indiciado, e compreender os bens em poder de terceiros desde que estes os tenham adquirido dolosamente, ou com culpa grave. 4. O juiz pode decretar medidas assecuratorias de bens, direitos ou valores do investigado ou acusado, ou existentes em nome de interpostas pessoas, que sejam instrumento, produto ou proveito dos crimes previstos na Lei n. 9.613/1998 ou das infrações penais antecedentes.

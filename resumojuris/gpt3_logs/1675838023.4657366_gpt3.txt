@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+107, paragrafo unico, e 147, II, da Lei estadual n. 6.174/1970 - encontra, no peculiar caso dos autos, o seu sentido concreto: a parte recorrida tambem assumiu o cargo com garantia de vitaliciedade, de modo que, conforme as normas constitucionais de regencia, nao e possivel que venha a perder o cargo, senao - tal como se esta ora assegurando a parte recorrente - mediante acao propria. Dessa forma, considerando que o inciso II do art. 147 da referida Lei estadual confere ao servidor reintegrado, quando impossivel a sua reconducao ao cargo, o direito de permanecer em disponibilidade deve ser aplicado, no caso, em favor da parte recorrente, porquanto nao e possivel destituir a parte recorrida do cargo que ocupa, tambem com vitaliciedade, ha mais de 11 (onze) anos, sendo, atualmente, Vice-presidente da Corte de Contas. (Informativo n. 757) 506 PROCESSO RMS 69.727-RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, por unanimidade, julgado em 18/10/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL CIVIL TEMA Recurso ordinario em Mandado de Seguranca. Exclusao de multa coercitiva. Decisao nao denegatoria. Descabimento. Art. 105, inciso II, alinea b , da CF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O inciso II do art. 147 da Lei Estadual n. 6.174/1970 confere ao servidor reintegrado, quando impossível a sua recondução ao cargo, o direito de permanecer em disponibilidade. 2. Não é possível destituir a parte recorrida do cargo que ocupa, também com vitaliciedade, há mais de 11 (onze) anos, sendo, atualmente, Vice-presidente da Corte de Contas. 3. O art. 105, inciso II, alínea b, da Constituição Federal descarta a aplicação de multa coercitiva em decisão não denegatória.

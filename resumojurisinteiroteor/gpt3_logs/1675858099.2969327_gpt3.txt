@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+125,  4, da Carta Magna, portanto, afastou a incidncia do artigo 102 do CPM em relao aos policiais militares, pois definiu a competncia do Poder Judicirio Estadual, especificamente, para decidir sobre a perda do posto e da patente dos oficiais e da graduao das praas no campo judicial, no alterando ou substituindo as demais competncias administrativas. Nesse mesmo sentido, portanto, confira-se: Ementa: EMBARGOS DE DIVERGNCIA. JURISPRUDNCIA PACIFICADA NO SENTIDO DO ACRDO PARADIGMA. PRAA DA POLCIA MILITAR. PERDA DA GRADUAO. SANO ADMINISTRATIVA. AUSNCIA DE COMPETNCIA DA JUSTIA MILITAR ESTADUAL. ART. 125,  4, DA CONSTITUIO. EMBARGOS DE DIVERGNCIA CONHECIDOS E PROVIDOS PARA NEGAR PROVIMENTO AO RECURSO EXTRAORDINRIO. I - A jurisprudncia deste Tribunal acerca da interpretao do art. 125,  4, da Constituio pacificou-se no sentido do aresto paradigma indicado pelo embargante - RE 197.649/SP, Plenrio -, segundo o qual o aludido dispositivo constitucional no restringiu a tarefa da Administrao Pblica de gerir o seu prprio corpo de funcionrios; desse modo, no afastou a competncia administrativa do Comandante da Polcia Militar para repreender, advertir ou expulsar os policiais militares incursos em falta grave. II - A Justia Militar estadual tem competncia para decidir a respeito da perda da graduao das praas apenas como pena acessria de crime de sua respectiva competncia, sendo-lhe estranha a aplicao de sano disciplinar administrativa. III - Embargos de divergncia conhecidos e providos para negar provimento ao recurso extraordinrio. (RE 140.466 ED-EDv, Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJ de 25/11/2015) Na mesma linha de argumentao e deciso: RE 990.890 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJ de 29/3/2017; ARE 750.106 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJ de 13/9/2013; RE 283.393, Rel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal Constitucional afastou a incidência do artigo 102 do CPM em relação aos policiais militares, pois definiu a competência do Poder Judiciário Estadual para decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças no campo judicial, não alterando ou substituindo as demais competências administrativas. A Justiça Militar Estadual tem competência para decidir a respeito da perda da graduação das praças apenas como pena acessória de crime de sua respectiva competência.

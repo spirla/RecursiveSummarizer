@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Autuacao: Portaria autuada na reuniao de instalacao - data: ___/___/___ - mesma data da reuniao de instalacao (fl. _____) - artigo 68, I, do CEDM. Publicacao: Boletim n.____ - Data: ___/___/___ (fl. _ - essa informacao geralmente vira carimbada na Portaria. 2. NOTIFICACAO DO ACUSADO PARA REUNIAO INSTALACAO - artigo 68, III e paragrafo 3, do CEDM (Obs. : a notificacao do defensor, nesse momento, nao e peca essencial, ja que nao houve, ainda, a sua apresentacao formal nos autos, por meio da juntada da procuracao). Data: ___/___/___(fl. _____). 3. PROCURACAO DO DEFENSOR - artigo 68, IV, do CEDM. Fls. ____ .
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Portaria foi autuada na reunião de instalação, publicada no Boletim n.____ e o acusado foi notificado para a reunião. Além disso, foi juntada a procuração do defensor nos autos.

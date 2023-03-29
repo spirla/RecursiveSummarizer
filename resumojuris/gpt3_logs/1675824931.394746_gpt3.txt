@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, na forma do que se decidiu no julgamento da ADI 2.575/PR, a faculdade de desenhar institucionalmente os orgaos de policia cientifica foi garantida aos estados. A existencia, nos quadros da Administracao Publica estadual, de orgao administrativo de pericias nao gera obrigacao de subordina-lo a policia civil. Dada a dimensao de autonomia sobre os orgaos de policia cientifica, assim como a teleologia imanente a Lei 13.675/2018, nao ha razoes para supor que a CF haveria determinado a subordinacao de agentes de necrotomia, papiloscopistas e peritos oficiais a Policia Civil. Com base nesse entendimento, o Plenario, julgou improcedente o pedido formulado na acao direta para declarar a constitucionalidade dos arts. 3, I, d, 7 e 119, do Decreto 5.979/2019; dos arts. 2, IV a VI, e 3, caput, da Lei 3.461/2019; e do art. 2 da Lei 3.608/2019, todos do estado do Tocantins. ADI 6621/TO, relator Min. Edson Fachin, julgamento virtual finalizado em 7.6.2021 (segunda-feira), as 23:59 (INF 1020) 4.29 SEPARACAO DE PODERES Controle de eficiencia dos servicos publicos prestados pelo Poder Judiciario - ADI 1905/RS Resumo: E inadmissivel a previsao de controle de qualidade  a cargo do Poder Executivo  de servicos publicos prestados por orgaos do Poder Judiciario. A possibilidade de um orgao externo exercer atividade de fiscalizacao das atividades do Poder Judiciario, sob pena de sancoes pecuniarias e controle orcamentario, ofende a independencia e a autonomia financeira, orcamentaria e administrativa do Poder Judiciario, consagradas nos arts. 2 e 99 da CF/88 (CF). Ademais, conforme jurisprudencia do Supremo Tribunal Federal, sao vedadas as ingerencias, que nao derivem explicita ou implicitamente de regra ou principio da CF, de um Poder na orbita de outro.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A faculdade de desenhar institucionalmente os órgãos de polícia científica foi garantida aos estados. 2. A existência, nos quadros da Administração Pública estadual, de órgão administrativo de perícias não gera obrigação de subordiná-lo a polícia civil. 3. É inadmissível a previsão de controle de qualidade a cargo do Poder Executivo de serviços públicos prestados por órgãos do Poder Judiciário. 4. É vedada a ingêrencia, que não derivem explicita ou implicitamente de regra ou princípio da Constituição Federal, de um Poder na órbita de outro.

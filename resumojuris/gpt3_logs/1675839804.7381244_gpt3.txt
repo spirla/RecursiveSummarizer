@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alegado excesso de prazo no julgamento de IRDR pelo Tribunal de Justica. Inexistencia. Nao ultrapassado o prazo do art. 980 do CPC. DESTAQUE Nao ha como se reconhecer excesso de prazo no julgamento do Incidente de Resolucao de Demandas Repetitivas 0008770-65.2021.8.17.9000 instaurado pelo Tribunal de Justica de Pernambuco, quando nao extrapolado o prazo estipulado no art. 980 do CPC, assim como nao ha ilegalidade na suspensao dos recursos que versam sobre o computo em dobro de pena dos presos no Complexo do Curado ate a resolucao do Incidente. Cinge-se a controversia a existencia de excesso de prazo para o julgamento do Incidente de Resolucao de Demandas Repetitivas pelo Tribunal de Justica de Pernambuco, assim como a suspensao dos recursos que versam sobre o computo em dobro de pena dos presos no Complexo do Curado ate a resolucao do referido Incidente. Contudo, nao ha como se reconhecer excesso de prazo no julgamento de Incidente de Resolucao de Demandas Repetitivas quando nao extrapolado o prazo estipulado no art. 980 do CPC. 683 Ademais, a jurisprudencia desta Corte e assente no sentido de que a afericao do excesso de prazo reclama a observancia da garantia da duracao razoavel do processo, prevista no art. 5, LXXVIII, da CF/88. Tal verificacao, contudo, nao se realiza de forma puramente matematica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há como se reconhecer excesso de prazo no julgamento do Incidente de Resolução de Demandas Repetitivas instaurado pelo Tribunal de Justiça de Pernambuco quando não extrapolado o prazo estipulado no art. 980 do CPC. 2. Não há ilegalidade na suspensão dos recursos que versam sobre o computo em dobro de pena dos presos no Complexo do Curado até a resolução do Incidente. 3. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5, LXXVIII, da CF/88. 4. A verificação do excesso de prazo não se realiza de forma puramente matemática.

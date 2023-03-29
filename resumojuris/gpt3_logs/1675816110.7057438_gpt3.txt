@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao e possivel inferir ou extrair do texto da CF/88 qualquer limitacao ao exercicio des-se direito, de modo que a legislacao infraconstitucional nao pode faze-lo. Portanto, embora a autonomia municipal tambem seja protegida por disposicao constitucional expres-sa (CF/88, arts. 18 e 30), o municipio nao pode, mesmo sob o pretexto de disciplinar o regime juridico de seus servidores, tornar irrealizavel direito fundamental a eles conferido. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 221 da repercussao geral, negou provimento ao recurso extraordinario. RE 593448/MG, relator Ministro Edson Fachin, julgamento virtual finalizado em 2.12.2022 (sexta-feira), as 23:59 Servidor publico: jornada de trabalho reduzida e remuneracao inferior ao salario minimo - RE 964659/RS (Tema 900 RG) ODS: 8, 10 e 16 Tese fixada: E defeso o pagamento de remuneracao em valor inferior ao salario minimo ao servidor publico, ainda que labore em jornada reduzida de trabalho. Resumo: E inconstitucional remunerar servidor publico, mesmo que exerca jornada de trabalho reduzida, em patamar inferior a um salario minimo. O direito fundamental ao salario minimo e previsto constitucionalmente para garantir a dignidade da pessoa humana por meio da melhoria de suas condicoes de vida (CF/88, art. 7, IV), garantia que foi estendi-da aos servidores publicos sem qualquer sinalizacao no sentido da possibilidade de flexibiliza-la no caso de jornada reduzida ou previsao em legislacao infraconstitucional (CF/88, art. 39,  3).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedado o pagamento de remuneração em valor inferior ao salário mínimo ao servidor público, mesmo que exerça jornada de trabalho reduzida. 2. É inconstitucional remunerar servidor público, mesmo que exerça jornada de trabalho reduzida, em patamar inferior a um salário mínimo. 3. O direito fundamental ao salário mínimo é previsto constitucionalmente para garantir a dignidade da pessoa humana por meio da melhoria de suas condições de vida. 4. A garantia do salário mínimo foi estendida aos servidores públicos sem qualquer sinalização no sentido da possibilidade de flexibilização no caso de jornada reduzida ou previsão em legislação infraconstitucional.

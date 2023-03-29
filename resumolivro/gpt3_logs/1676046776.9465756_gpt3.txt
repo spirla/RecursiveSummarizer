@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No entanto, se a desistncia acontecer antes do incio do crime, a situao fica mais complexa. O primeiro ato da conduta praticada por B caracteriza, para ele, o incio da execuo de um crime de leso corporal. A conduta do executor B  orientada pela inteno de lesionar e, portanto, no se pode caracterizar incio de execuo de homicdio. Mas resta uma dificuldade a ser enfrentada: e para A, caracteriza-se incio da execuo de crime de homicdio ou de leso corporal?. A soluo do problema no  simples e parece colocar em conflito as normas dos artigos 29, pargrafo 2, e 31, ambos do CP. Contudo, o conflito de norma  apenas aparente. Muito embora a inteno de A seja compatvel com o dolo caracterizador do crime de homicdio, esse crime no teve incio. O ajuste havido entre A e B para a produo da morte de C no caracteriza crime e, consequentemente, no  punvel, por expressa disposio do artigo 31 do CP. Mesmo considerando que o resultado produzido pela conduta de B seja compatvel com a inteno de A, satisfazendo objetivamente as exigncias do tipo de homicdio, no se pode responsabilizar distintamente cada um dos concorrentes. Essa soluo confrontaria diretamente com a norma do artigo 31 do CP, que manda desconsiderar o ajuste para o crime que no foi tentado. Cabe, ainda, observar que no  possvel conceber uma tipicidade condicional (se a vtima morrer, caracterizar-se-ia homicdio; caso contrrio, crime de leso). Portanto, a nica resposta possvel  a caracterizao do crime de leso corporal. Havendo a produo culposa da morte por B, deve-se responsabilizar ambos os concorrentes por crime de leso corporal seguida de morte. 9.8. Concurso de pessoas no contexto societrio. A complexidade cada vez maior das relaes sociais, em especial nos casos em que ocorre a interveno penalmente relevante de pessoas fsicas inseridas no contexto organizacional de pessoas jurdicas, tem gerado muitas dificuldades para identificar-se o autor da violao  norma jurdica. Ao mesmo tempo que a potencialidade ofensiva dos crimes  aumentada na perspectiva da pessoa jurdica, os crimes restam impunes pela dificuldade de se identificar a pessoa fsica que, dominando a organizao, efetivamente viola a norma jurdica. Visando a dar combate a essa situao preocupante, os tribunais vm admitindo que a denncia seja oferecida contra os scios da empresa, sem a indicao da conduta com que cada um satisfez as exigncias de adequao tpica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conflito entre os artigos 29, pargrafo 2, e 31 do CP pode ser aparente quando uma desistncia acontece antes do incio de um crime. A inteno de A pode ser compatvel com o dolo caracterizador do crime de homicdio, mas esse crime no teve incio. Para lidar com a complexidade das relaes sociais, os tribunais esto admitindo que a denncia seja oferecida contra os scios da empresa, sem a indicao da conduta com que cada um satisfez as exigncias de adequao tpica.

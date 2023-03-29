@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+296 do CPPM. Alega que a falsidade ideolgica do REDS 2016-005571105-001 no foi comprovada, devendo ser adotada a verso mais favorvel ao apelante que  a da absolvio ou, eventualmente, a aplicao do excesso escusvel prevista no art. 45, pargrafo nico, do CPM. De acordo com a defesa, as repercusses diminutivas previstas nos  3 e 4, do art. 209, do CPM so perfeitamente amoldveis ao contexto ftico-jurdico, haja vista que a vtima Kaio confessou ter resistido  abordagem policial. Disse que a sentena no fundamentou o dolo na conduta do apelante, admitindo, desta forma, a desclassificao do crime previsto no art. 209, 1, do CPM para o previsto no art. 210 do CpM. Disse, ainda, que, a r. sentena no justificou de forma idnea a fixao da pena acima do mnimo legal, ofendendo, assim, o disposto no art. 93, inciso IX, da CR/88. Alega que a testemunha Maria das Graas Rodrigues Silva, av da vtima, no poderia ter sido ouvida sob o compromisso legal de dizer a verdade, o que significa que o seu depoimento no deveria ter sido utilizado para convencimento do julgador. Declara que a retromencionada testemunha relatou, em sede de IPM, no ter visto os militares agredindo Kaio; que ningum presenciou o apelante agredindo as supostas vtimas; e que as vtimas esto envolvidas com a criminalidade, conforme os documentos (REDs) coligidos aos autos. Alega que a prpria vtima Thaylon afirmou no ter presenciado as agresses perpetradas contra o ofendido Kaio, corroborando a tese de que o ora apelante no foi o autor dos fatos narrados na exordial acusatria. Afirma que a testemunha Regina Adriana Rodrigues da Silva, me do Thaylon, tambm no poderia ter sido inquirida sob compromisso de dizer a verdade. Segundo a defesa, em juzo, a testemunha confirmou as informaes prestadas na fase inquisitorial, na qual mencionou que as agresses contra as vtimas cessaram assim que elas foram dominadas, o que implica dizer que houve apenas o uso necessrio da fora. Ressalta que as testemunhas Maria e Regina se restringiram a confirmar os relatos prestados  autoridade policial, o que  defeso no processo penal militar, implicando os contedos de seus respectivos depoimentos em nulidade, nos termos do art. 352 do CPPM. Declara que a vtima Kaio imputou a prtica das agresses ao Sgt Blaiton e ao Cb Alex, o que coincide com o narrado na denncia, de que somente dois policiais militares agiram na suposta empreitada lesiva a Kaio. Disse que o exame de corpo de delito em que se baseou a denncia se encontra irregular, pois no foi elaborado por dois peritos, conforme preconiza o art. 318 do CPPM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O apelante alega que a falsidade ideolgica do REDS 2016-005571105-001 no foi comprovada, e que as repercusses diminutivas previstas nos 3 e 4 do art. 209 do CPM so amoldveis ao contexto ftico-jurdico. A defesa alega que a sentena no fundamentou o dolo na conduta do apelante, e que a fixao da pena acima do mnimo legal ofendeu o art. 93, inciso IX, da CR/88. Alega-se ainda que as testemunhas no poderiam ter sido inquiridas sob compromisso de dizer a verdade, e que o exame de corpo de delito est irregular.

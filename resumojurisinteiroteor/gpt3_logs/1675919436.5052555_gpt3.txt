@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1.015 do Cdigo de Processo Civil (CPC), contra deciso proferida pelo juiz de primeiro grau que indeferiu o pedido de tutela de urgncia. Aduz o agravante que [...] foi transferido arbitrariamente para Espinosa e aps intervenes foi transferido para a cidade de Manga-MG, l permanecendo por cerca de 6 meses, sofrendo presses veladas de que no deveria ter havido interferncias externas contra sua movimentao e que seria transferido sim para Espinosa. Devido a presso e desiderato de movimentao para Espinosa, socorreu-se  uma irmandade, optando pela localidade de Belo Horizonte, prejudicando toda a famlia, que deixou casa prpria, investimentos, amigos e razes, sem quaisquer motivaes vencveis ao princpio constitucional da hierarquia e disciplina e da mxima impessoalidade inerente s instituies militares. Alega o recorrente que possui relevante histrico profissional e que faltou ao servio em duas oportunidades. Disse que Na esfera judicial o autor foi acusado e absolvido pelo mesmo fatos trazidos no PAD n. 118616/2017- 1 RPM(sic). Entretanto, no esclareceu quais fatos seriam. Informa que, aps o Processo Administrativo-Disciplinar (PAD), foi demitido por deciso do Sr. comandante-geral da PMMG. Argumenta o agravante que ajuizou ao contra o ato administrativo demissionrio, com pedido de tutela de urgncia. Entretanto o juiz de primeiro grau indeferiu tal pretenso. Diz que a no reforma da deciso que indeferiu a liminar poder resultar em ineficcia da medida sendo ainda verossmil a alegao do agravante, conforme bem menciona o art.300 do Cdigo de Processo Civil e que caso no seja concedida a antecipao da tutela recursal, [...] o agravante sofrer dano irreparvel ou de difcil reparao (periculum in mora), uma vez que este ficar prejudicado, uma vez que no poder prover o alimento e garantias bsicas para sua famlia a subsistncia. Aduz que [...] tem sido privado tambm de continuam com seu tratamento mdico (sic) e que o agravante carrega em seu histrico mdico vrias doenas que justificam seu estado psicolgico no momento dos fatos, tanto que em processo prprio o mesmo foi absolvido.. Por fim, argumenta que foi absolvido nos Processos 00014979220189130003 e 00014311520189130003, sem esclarecer quais foram os objetos destas aes, e que o comandante-geral da PMMG "[...] ignorou as provas juntadas nos autos, at mesmo indo contra decises dos membros do PAD e do CEDMU, a penalidade imposta ao autor e desproporcional e injusta, to deciso demonstra um possvel interesse na causa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recorrente ajuizou ao contra ato administrativo demissionrio, com pedido de tutela de urgncia, que foi indeferido pelo juiz de primeiro grau. O recorrente alega que foi transferido arbitrariamente para Espinosa e aps intervenes foi transferido para a cidade de Manga-MG, sofrendo presses veladas. O recorrente tambm alega que possui relevante histrico profissional e que foi absolvido nos Processos 00014979220189130003 e 00014311520189130003. O recorrente argumenta que a no reforma da deciso que indeferiu a liminar poder resultar em ineficcia da medida e que caso no seja concedida a antecipao da tutela recursal, sofreria dano irreparvel ou de difcil reparao.

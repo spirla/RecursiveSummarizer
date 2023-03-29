@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Tais assertivas, ao meu ver, apenas reforam a existncia de fundamentao idnea e lastreada em situaes concretas que demonstram a necessidade da priso cautelar diante da convenincia da instruo criminal, para a garantia da ordem pblica e para a manuteno das normas ou princpios de hierarquia e disciplina militares. Destaco que as condies pessoais do paciente no so suficientes para que seja revogada a deciso que decretou a priso preventiva, na hiptese de restar presente qualquer das hipteses que autorizam a priso cautelar prevista no art. 255 do Cdigo de Processo Penal Militar (CPPM). Registra-se que o paciente  ru na ao penal que atribui ao mesmo a participao em organizao criminosa voltada para o trfico ilcito de entorpecentes, e a deciso vergastada demonstra que h elementos de informao que indicam que o paciente recebeu dinheiro para repassar informaes para a organizao criminosa visando a colaborar com o trfico ilcito de drogas e que resta conveniente a sua segregao cautelar para impedir que sejam praticados atos tendentes a eliminar provas da prtica dos crimes. Ao remeter as informaes, a autoridade apontada como coatora reavaliou a deciso que decretou a priso preventiva e a manteve, indicando, ainda, que o paciente teria ameaado o delegado da Polcia Civil Dr. Glaydson de Souza Ferreira (Evento 8, arquivo ataaud2). Sobre a possibilidade de manuteno da priso preventiva, colaciono o recente julgado do egrgio Superior Tribunal de Justia sobre o tema: AGRAVO REGIMENTAL NO RECURSO ORDINRIO EM HABEAS CORPUS. PROCESSUAL PENAL. ASSOCIAO PARA O TRFICO ILCITO DE ENTORPECENTES E FINANCIAMENTO DA PRTICA DO CRIME DE TRFICO DE DROGAS. PRISO PREVENTIVA MANTIDA NA SENTENA. POSSIBILIDADE CONCRETA DE REITERAO DELITIVA. GARANTIA DA ORDEM PBLICA. FUNDAMENTAO IDNEA. ALEGAO DE ACRSCIMO DE FUNDAMENTOS PELO TRIBUNAL DE ORIGEM. NO OCORRNCIA. SUPOSTOS PREDICADOS PESSOAIS FAVORVEIS QUE NO IMPEDEM A SEGREGAO. MEDIDAS CAUTELARES DIVERSAS DA PRISO. INSUFICINCIA, NA HIPTESE. AGRAVO DESPROVIDO. 1.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A deciso judicial manteve a priso preventiva do paciente, pois h elementos de informao que indicam que o mesmo recebeu dinheiro para repassar informaes para uma organizao criminosa visando a colaborar com o trfico ilcito de drogas, e que h possibilidade concreta de reiterao delitiva. A fundamentao idnea e a garantia da ordem pblica justificam a segregao cautelar, mesmo diante dos supostos predicados pessoais favorveis.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A Ordem dos Advogados do Brasil - OAB esta submetida ao disposto no art. 8 da Lei n. 12.514/2011, legislacao que rege todos os conselhos profissionais, sem distincao. Apesar de a OAB possuir natureza sui generis, conforme, inclusive, decidido pelo Excelso Pretorio no julgamento da ADI n. 3026/DF, sujeita-se ao disposto na referida legislacao. 2. Conforme decidido pela Corte Especial do STJ, apesar de suas peculiaridades, a OAB nao deixa de ser um Conselho de Classe (AgRg no AgRg na PET nos EREsp 1.226.946/PR, Rel. Ministra Eliana Calmon, Corte Especial, DJe 10/10/2013). 3. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.685.160/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 30/08/2021, DJe de 02/09/2021) . (Informativo n. 756) 191 PROCESSO AREsp 1.640.785-MS, Rel. Min. Francisco Falcao, Segunda Turma, por unanimidade, julgado em 25/10/2022, DJe 27/10/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Ordem dos Advogados do Brasil - OAB está sujeita ao disposto no art. 8 da Lei n. 12.514/2011. 2. A OAB possui natureza sui generis, conforme decidido pelo Excelso Pretório no julgamento da ADI n. 3026/DF. 3. Conforme decidido pela Corte Especial do STJ, a OAB não deixa de ser um Conselho de Classe.

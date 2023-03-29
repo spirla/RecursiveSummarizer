@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A necessidade (exigibilidade) de acordo com Gomes Canotilho pressupe que o cidado tem direito a menor desvantagem possvel, devendo-se evitar a limitao desnecessria de direitos fundamentais. Ensina Virglio Afonso da Silva que a necessidade no equivale a uma situao de urgncia ou de que algo precisa necessariamente ser feito, mas sim que um ato estatal que limita um direito fundamental  somente necessrio caso a realizao do objetivo perseguido no possa ser promovida, com a mesma intensidade, por meio de outro ato que limite, em menor medida, o direito fundamental. Por ltimo, a proporcionalidade em sentido estrito (ou proibio do excesso). Depois de se chegar  concluso de que a medida coativa  necessria e adequada para alcanar determinado fim, deve-se perguntar se o resultado obtido com a interveno  proporcional  carga coativa dela. Esse juzo de ponderao tem o objetivo de avaliar se o meio utilizado  ou no desproporcionado em relao ao fim, vale dizer,  pesar as desvantagens dos meios em relao s vantagens do fim. Apesar de a controvrsia sobre sua aplicao e a insuficiente elaborao terica, a proporcionalidade tem sido manejada. Edilson Mougenot Bonfim exemplifica a priso preventiva como meio adequado para impedir o ru de turbe a instruo criminal e que a necessidade (exigibilidade) impe que a priso preventiva (medida) seja adotada por no se ter um meio menos gravoso para atingir determinado aquele fim (impedir que o ru turbe a instruo criminal) e, por fim, faz-se um balano (ponderao) entre os bens ou valores em conflito de modo a justificar a adoo da medida (priso preventiva). Nas duas fases da persecuo penal militar so adotadas medidas restritivas de direitos fundamentais, por exemplo , priso preventiva, quebra de sigilo telefnico, fiscal e bancrio, com o fim legtimo de apurar o crime e a sua autoria. A adequao exige que essas medidas interventivas se mostrem aptas a atingir os objetivos pretendidos e a necessidade significa que nenhum meio menos gravoso para o indivduo revelar-se-ia igualmente eficaz na consecuo dos objetivos pretendidos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A necessidade de acordo com Gomes Canotilho pressupõe que o cidadão tem direito a menor desvantagem possível, devendo-se evitar a limitação desnecessária de direitos fundamentais. A proporcionalidade em sentido estrito (ou proibição do excesso) avalia se o meio utilizado é ou não desproporcional em relação ao fim. Nas duas fases da persecução penal militar são adotadas medidas restritivas de direitos fundamentais, com o fim legítimo de apurar o crime e a sua autoria. A adequação exige que essas medidas interventivas sejam aptas a atingir os objetivos pretendidos e a necessidade significa que nenhum meio menos gravoso para o indivíduo seja igualmente eficaz na consecução dos objetivos pretendidos.

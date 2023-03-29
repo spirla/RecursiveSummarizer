@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Os ministros Alexandre de Moraes, Edson Fachin, Luiz Fux, Rosa Weber e Gilmar Mendes acompanharam o relator com ressalvas. ADI 5289/SP, relator Min. Marco Aurelio, julgamento virtual finalizado em 7.6.2021 (segunda-feira), as 23:59 (INF 1020) Reducao obrigatoria de mensalidade na rede privada de ensino durante a pandemia da COVID-19 e competencia legislativa - ADI 6575/BA Resumo: E inconstitucional a legislacao estadual que estabelece a reducao obrigatoria das mensalidades da rede privada de ensino durante a vigencia das medidas restritivas para o enfrentamento da emergencia de saude publica decorrente do novo Coronavirus. A Lei 14.279/2020 do estado da Bahia, ao estabelecer desconto obrigatorio nas mensalidades da rede particular de ensino em razao da pandemia causada pela Covid-19, tratou de tema afeto ao Direito Civil e Contratual, usurpando, assim, a competencia legislativa atribuida a Uniao pelo art. 22, I, da CF/88. Ademais, os efeitos juridicos da pandemia da COVID-19 sobre os negocios juridicos privados, inclusive decorrentes de relacoes de consumo, foram tratados pela Lei federal 14.010/2020, que estabeleceu o Regime Juridico Emergencial e Transitorio das relacoes juridicas de Direito Privado (RJET) no periodo da pandemia do novo Coronavirus, reduzindo o espaco de competencia complementar dos estados, visto que na referida lei nao ha previsao geral de modificacao dos contratos de prestacao de servicos educacionais. Com esse entendimento, o Plenario, por maioria, declarou a inconstitucionalidade da Lei 14.279/2020 do estado da Bahia. ADI 6575/BA, relator Min. Edson Fachin, redator do acordao Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a legislação estadual que estabelece a redução obrigatória das mensalidades da rede privada de ensino durante a vigência das medidas restritivas para o enfrentamento da emergência de saúde pública decorrente do novo Coronavírus. 2. A Lei 14.279/2020 do estado da Bahia, ao estabelecer desconto obrigatório nas mensalidades da rede particular de ensino em razão da pandemia causada pela Covid-19, trata de tema afeto ao Direito Civil e Contratual, usurpando, assim, a competência legislativa atribuída à União pelo art. 22, I, da CF/88. 3. Os efeitos jurídicos da pandemia da COVID-19 sobre os negócios jurídicos privados, inclusive decorrentes de relações de consumo, foram tratados pela Lei federal 14.010/2020, que estabeleceu o Regime Jurídico Emergencial e Transitorio das relações jurídicas de Direito Privado (RJET) no período da pandemia do novo Coronavírus, reduzindo o espaço de competência complementar dos estados. 4. O Plenário, por maioria, declarou a inconstitucionalidade da Lei 14.279/2020 do estado da Bahia.

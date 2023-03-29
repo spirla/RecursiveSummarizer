@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se de embargos de declarao, opostos por Roberty Pereira de Sousa, em face da deciso exarada pela Segunda Cmara deste Tribunal que denegou o habeas corpus impetrado com a finalidade de trancar a Ao Penal n. 2000667-93.2021.9.13.0001, que tramita perante a 1a Auditoria Judiciria Militar Estadual (AJME). O recorrente asseverou que a deciso objurgada foi omissa, quando no demonstrou, de maneira implcita ou explcita, se um "Decreto Estadual pode ser considerado como norma a ser infringida para configurao do crime previsto no art. 324 do Cdigo Penal Militar - CPM. Disse que, para se configurar o tipo penal contido no mencionado artigo, exige-se obrigatoriamente a complementao do tipo principal, por norma derivada. Disse, ainda, que, de forma taxativa, o legislador elencou como sendo "norma secundria complementadora apenas uma lei, um regulamento ou uma instruo. Desta forma, asseverou que o "termo Decreto no foi recepcionado como norma a ser infringida para a efetiva prtica do crime previsto no art. 324 do CPM. Ressaltou que, no direito penal, a interpretao da norma deve ser a restritiva, sob pena de se lesar o direito. Ressaltou, ainda, que, por estar ausente a norma complementadora, necessria para se configurar o crime em destaque, resta patente a atipicidade da conduta, no presente caso. Asseverou que o acrdo vergastado foi omisso, pois no se pronunciou sobre o argumento defensivo de que ele, ora embargante, estava de folga quando supostamente praticou o fato delituoso e que, portanto, no restou satisfeito o elemento objetivo do tipo penal, j que no estava no "exerccio de sua funo. Destacou que sequer foi demonstrado, na SAD, no IPM e na denncia feita pelo Ministrio Pblico, qual foi o ato prejudicial  administrao militar proveniente da conduta, em tese, por ele praticada. Ao final, requereu o recebimento dos presentes embargos de declarao com efeitos infringentes, para que seja concedida a ordem em Habeas Corpus de trancamento da Ao Penal n. 200066793.2021.9.13.0001.  o relatrio. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Recebo o presente recurso, uma vez que  tempestivo e preenche os requisitos objetivos e subjetivos de sua admissibilidade, nos termos da legislao vigente. Em que pese a alegao da defesa de que a deciso embargada foi omissa, "quando no demonstrou de maneira implcita ou explcita se um Decreto Estadual pode ser considerado como norma a ser infringida para configurao do crime previsto no art. 324 do Cdigo Penal Militar - CPM, razo no lhe assiste. Nesse sentido, entendo que no cabe a este juzo e, sobretudo, por meio da estreita via eleita, a anlise do alcance e da interpretao da norma em destaque.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A deciso rejeita os embargos de declarao opostos por Roberty Pereira de Sousa, pois no cabe ao juzo a anlise do alcance e da interpretao da norma prevista no art. 324 do Cdigo Penal Militar.

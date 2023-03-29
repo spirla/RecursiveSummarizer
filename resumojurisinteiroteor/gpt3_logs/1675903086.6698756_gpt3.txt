@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+4. No h previso legal de recurso para o SUPREMO TRIBUNAL FEDERAL contra a parte da deciso do Juzo de origem que aplicou a sistemtica da repercusso geral (Pleno, AG.REG. NO RECURSO EXTRAORDINRIO COM AGRAVO 994.469, Relatora: Min. CRMEN LCIA (Presidente), DJe de 14/3/2017). 5. Embora cabvel quanto ao outro bice aplicado na origem, o Agravo no merece prosperar. O Tribunal de origem decidiu em conformidade com o entendimento jurisprudencial de ambas as Turmas desta CORTE no sentido de no caber recurso extraordinrio para rever a correo da deciso do Superior Tribunal de Justia de conhecer ou no do recurso especial. 6. Agravo Interno a que se nega provimento. (ARE 986555 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 04/06/2018, PROCESSO ELETRNICO DJe-116 DIVULG 12-062018 PUBLIC 13-06-2018) (Destaca-se) Na hiptese dos autos, o agravante, apesar de tambm ter interposto agravo em recurso extraordinrio, busca atacar, por meio do presente agravo interno, tanto o fundamento lastreado na aplicao do Tema n. 660 (ARE n. 748.371/MT) quanto aqueles respaldados na incidncia das Smulas n. 282 e 356, ambas do STF, o que no se mostra vivel. Entretanto, no ponto em que se questiona a inaplicabilidade das Smulas n. 282 e 356, incabvel  o conhecimento do presente recurso, salientando-se que a matria ser apreciada quando do exame do agravo em recurso extraordinrio, previsto no art. 1.042 do CPC, tambm interposto pelo agravante. Quanto  parte em que se questiona a aplicao da sistemtica da repercusso geral (ARE n. 748.371/MT - Tema n. 660), conheo do recurso de agravo interno, uma vez que adequado. Contudo, em que pesem as alegaes do agravante, o presente recurso no merece prosperar. Conforme demonstrado na deciso agravada, verifica-se que a Primeira Cmara deste Tribunal, durante o julgamento do acrdo combatido no recurso extraordinrio, por unanimidade, decidiu julgar improcedente a ao rescisria. Como se pode extrair da deciso agravada, a eventual ofensa aos princpios da ampla defesa, do contraditrio e dos limites da coisa julgada no se deu de forma direta, mas, sim, por via reflexa  CF, uma vez que a controvrsia foi dirimida por este Tribunal, com supedneo na legislao infraconstitucional, isto , com base no artigo 1.030,  4, do Cdigo de Processo Civil. Ao contrrio do que foi sustentado pelo agravante, no seria possvel apreciar a afronta aos referidos dispositivos constitucionais sem examinar a legislao infraconstitucional supramencionada, o que no  possvel pela via do apelo extremo. A propsito, colaciona-se o seguinte precedente: EMENTA: DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINRIO COM AGRAVO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Agravo Interno foi negado por não ser cabível conhecimento do recurso, uma vez que a matéria será apreciada quando do exame do Agravo em Recurso Extraordinário. Além disso, não houve prosperidade do recurso, pois a eventual ofensa aos princípios da ampla defesa, do contraditório e dos limites da coisa julgada não ocorreu de forma direta, mas sim por via reflexa, sendo impossível apreciar a afronta aos referidos dispositivos constitucionais pela via do apelo extremo.

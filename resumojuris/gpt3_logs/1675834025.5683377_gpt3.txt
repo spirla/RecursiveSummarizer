@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Cuida-se de agravo interno, interposto contra a decisao que deferiu o pedido de suspensao dos efeitos do decisum do Desembargador do Tribunal Regional Federal da 1 Regiao, para suspender medida liminar que determinou a Camara Comercializadora de Energia Eletrica (CCEE) que limitasse a aplicacao do Fator GSF - Generation Scaling Factor - sobre as AHE exploradas pelas autoras, considerando a reducao maxima das respectivas garantias fisicas em 5% (cinco por cento), nos termos dos  4 e 5 do art. 21 do Decreto n 2.655/1998, ate o pronunciamento definitivo da Turma julgadora . O tema em questao esta sujeito a tutela do Poder Judiciario, mas a cautela recomenda que eventual afastamento dos atos de agencias reguladoras se de por motivo de ilegalidade e apos instrucao completa do feito, sob pena de ofensa a separacao de Poderes. Nao se trata da aplicacao generica do principio da presuncao de legitimidade dos atos administrativos, mas do entendimento de que o setor em questao e disciplinado por regras de elevada especificidade tecnica e de enorme impacto financeiro, ja previamente definidas em atos da agencia reguladora, de modo que a interferencia na aplicacao de tais regras pelo Poder Judiciario por meio de liminar configura grave lesao a ordem e a economia publica. Quanto as alegacoes de a) fatores politicos externos a influenciar o generation scale factor (GSF), b) posicionamento do TCU no sentido de que as causas da crise no setor eletrico estao relacionadas principalmente a decisoes politicas e a falhas de planejamento e c) reconhecimento pelo Poder Publico, por meio da exposicao de motivos da MP n. 688/2015 e da Lei n. 13.203/2015, de que outros fatores, alem da hidrologia adversa, afetaram a producao hidreletrica, constata-se que a agravante suscita questoes relacionadas ao fundo da controversia, que devem ser discutidas nas instancias ordinarias e em vias processuais proprias.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O tema em questão está sujeito à tutela do Poder Judiciário, mas a cautela recomenda que eventual afastamento dos atos de agências reguladoras se dê por motivo de ilegalidade e após instrução completa do feito, sob pena de ofensa à separação de Poderes. 2. Não se trata da aplicação genérica do princípio da presunção de legitimidade dos atos administrativos, mas do entendimento de que o setor em questão é disciplinado por regras de elevada especificidade técnica e de enorme impacto financeiro, já previamente definidas em atos da agência reguladora, de modo que a interferência na aplicação de tais regras pelo Poder Judiciário por meio de liminar configura grave lesão à ordem e à economia pública. 3. As questões relacionadas ao fundo da controvérsia devem ser discutidas nas instâncias ordinárias e em vias processuais próprias.

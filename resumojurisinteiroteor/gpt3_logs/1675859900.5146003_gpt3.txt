@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No mesmo sentido, citou a smula 19 do STF, que dispe ser "inadmissvel segunda punio de servidor pblico, baseada no mesmo processo em que se fundou a primeira e, ainda, o artigo 2 da Lei n. 9.784/99, o artigo 5 da Lei estadual n.14.184/2002 e o artigo 558 do Manual de Processo e Procedimentos Administrativos da Instituies Militares do Estado de Minas Gerais (MAPPA). IV - "A teratologia do aventado grave escndalo Disse que os argumentos utilizados no RIP elevaram arbitrariamente a gravidade do feito, omitiram o flagrante preparado e disse tambm que 0 autor estava de folga,  paisana e em local no sujeito  administrao militar, bem como tambm que houve confuso proposital da redao do inciso III do art. 13 com a do inciso III, pargrafo nico, do artigo 64, ambos do CEDM. Segundo a defesa, estar fardado  condio sine qua nom para a configurao do inciso III do art. 64 do CEDM e que a falta pblica pressupe a exposio da imagem e da honra institucional ao pblico externo, o que, ao seu entendimento, no ocorreu. Disse que apenas a guarnio que fez a apreenso indevida da moto tomou conhecimento dos fatos. V - "Dos rigores decisrios e omisses decorrentes (irrazoabilidade e desproporcionalidade) Alegou que as decises da CPAD, do CEDMU, do CPE e do comandante-geral so extremamente rigorosas e restritivas, contrariando diversas disposies constitucionais, legais, jurisprudenciais, doutrinrias e tambm consuetudinrias. Segundo a defesa, o rigor implicaria demisso de grande massa da Corporao, pois, nos tempos atuais, dificilmente um cidado habilitado e com veculo no possui uma multa de trnsito, ou deixou de contrair uma 22 dvida, ou no possui uma certido ou protesto de dbito. Disse que tais aspectos demonstram a realidade da vida civil e no especfica de militares. VI - "Do vcio preliminar de omisso de recurso ao CPE Alegou que a deciso do CPE foi publicada no BI-AR 11 do dia 03/03/2020, tendo a defesa peticionado, no dia 11/03/2020, requerendo esclarecimentos preliminares  autoridade julgadora. Todavia alegou que a autoridade julgadora, "estranhamente, no respondeu, no encaminhou cpia dos autos aos advogados, no cientificou de sua soluo para fins de recurso, prejudicando, portanto, a oportuna defesa e em inobservncia ao disposto no artigo 74 do CEDM e nos artigos 545, 547 e 558, todos do MAPPA. Acrescentou que os atos sucessivos, a partir do ofcio de remessa ao comandante-geral da PMMG, so nulos de pleno direito, por infringncia aos artigos 59, 60, 61, 69 e 74 do CEDM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa alegou que a deciso da CPAD, do CEDMU, do CPE e do comandante-geral da PMMG foi extremamente rigorosa e restritiva, contrariando diversas disposies constitucionais, legais, jurisprudenciais, doutrinrias e consuetudinrias. Além disso, alegou que a autoridade julgadora não respondeu ao requerimento de esclarecimentos preliminares, prejudicando a oportuna defesa e inobservando as disposições do CEDM e do MAPPA.

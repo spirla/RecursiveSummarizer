@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Ento, em razo da semelhana entre os dois casos e a lacuna da lei em solucionar o caso B, aplica-se, por analogia, a lei que disciplina o caso A ao caso B.
+Quanto  fonte, h duas espcies de analogia:
+analogia legis, que  a integrao de uma norma com outra norma e a analogia juris, compreendida como a integrao da norma ou integrao do ordenamento com os princpios gerais de direito. Quanto ao resultado obtido com a aplicao da analogia temos:
+analogia in bonam partem, benfica ao ru, e in malam partem, prejudicial ao ru. No processo penal militar  aceita, sem discusso, a analogia in bonam partem. H omisso no CPPM para solucionar o caso concreto 1, mas se esse caso concreto 1 guardar semelhana real (no aparente) com o caso 2, disciplinado na legislao do processo penal comum pela norma A,  possvel solucionar o caso 1 por analogia (analogia legis) mediante aplicao da norma A, uma vez que o resultado  benfico para o ru (analogia in bonam partem). 1.3. Prevalncia das Convenes e Tratados. O artigo 1, pargrafo 1, do CPPM, estabelece que nos casos concretos, se houver divergncia entre normas do processo penal militar e as de conveno ou tratado de que o Brasil seja signatrio, prevalecero as ltimas, que so acordos de vontades soberanas dos Estados. O tratado bilateral (entre dois Estados) ou multilateral (entre mais de dois Estados) cria obrigaes legais para os Estados signatrios. A definio de tratado  encontrada no artigo 2, a, da Conveno de Viena sobre Direito dos Tratados. Os tratados e convenes devem ser celebrados em consonncia com o procedimento formal descrito na Constituio. Cabe ao presidente da Repblica celebrar tratados, convenes e atos internacionais, sujeitos ao referendo do Congresso Nacional (artigo 84, VIII, CF/88).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A analogia legis e juris é usada para solucionar casos omissos na legislação do processo penal militar, sendo aplicada a analogia in bonam partem, que é benéfica ao réu. Além disso, nos casos em que houver divergência entre normas do processo penal militar e tratados ou convenções de que o Brasil seja signatário, prevalecerão as últimas. O presidente da República é responsável por celebrar tratados, convenções e atos internacionais, sujeitos ao referendo do Congresso Nacional.

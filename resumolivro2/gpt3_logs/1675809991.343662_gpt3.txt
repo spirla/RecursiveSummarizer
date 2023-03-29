@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+As falsas memrias so lembranas de algo que no aconteceu ou o reconhecimento de uma pessoa que no estava envolvida. As falsas memrias podem surgir de forma espontnea (genericamente recorda-se um homem jovem e claro) ou so sugeridas, isto , provocada por meio de perguntas. Preciso ver que as falsas memrias no so mentiras. As falsas memrias se diferenciam da mentira, essencialmente, porque, nas primeiras, o agente cr honestamente no que est relatando, pois, a sugesto  externa (ou interna, mas inconsciente), chegando a sofrer com isso. J a mentira  um ato consciente, em que a pessoa tem noo de seu espao de criao e manipulao. Quanto  declarao do conhecimento, a testemunha no pode trazer o depoimento por escrito para l-lo em audincia, porque faltaria a espontaneidade necessria revelada em depoimento oral. As perguntas  testemunha atendem ao princpio do contraditrio. Pequenas contradies no depoimento da testemunha decorrem das prprias imperfeies do psiquismo humano, agravadas, em geral, pelas condies em que o fato ocorreu.  de se desconfiar do testemunho demasiado perfeito, sendo assim, importa verificar se, embora discrepante em detalhes mnimos, concorda com os demais depoimentos nos pontos essenciais, quanto s circunstncias mais decisivas do fato. Normal, pois, aceitvel, a toda evidncia, leves diferenas de depoimentos. Absoluta coincidncia entre todos os depoimentos gera suspeita de ajuste prvio. Logo, pequenas discrepncias nos depoimentos das testemunhas no desmerecem a prova, longe de infirm-los apenas mostram que no houve prvio concerto entre as pessoas ouvidas na instruo criminal. No existe frmula ou regra para valorar a prova testemunhal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+As falsas memórias são lembranças de algo que não aconteceu ou o reconhecimento de alguém que não esteve envolvido. Elas podem ser espontâneas ou sugeridas e diferem da mentira, pois o agente acredita honestamente no que está relatando. O testemunho não pode ser escrito para preservar a espontaneidade. Pequenas discrepâncias nos depoimentos das testemunhas não desmerecem a prova, mas mostram que não houve ajuste prévio entre elas. Não existe uma regra para valorar a prova testemunhal.

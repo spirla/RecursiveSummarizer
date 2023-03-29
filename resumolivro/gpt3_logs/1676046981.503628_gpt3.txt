@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No entanto, o pargrafo 4 do artigo 52 da LEP determina que o RDD poder ser prorrogado sucessivamente, por perodos de 1 (um) ano, se houver indcios de que o preso: I - continua apresentando alto risco para a ordem e a segurana do estabelecimento penal de origem ou da sociedade; e II - mantm os vnculos com organizao criminosa, associao criminosa ou milcia privada, considerado tambm o perfil criminal e a funo desempenhada por ele no grupo criminoso, a operao duradoura do grupo, a supervenincia de novos processos criminais e os resultados do tratamento penitencirio. Esta previso indica que no  possvel ao juiz da execuo determinar que o preso cumpra todo o perodo da priso (cautelar ou definitiva) submetido ao RDD.  necessrio reavaliar a situao concreta do preso periodicamente para observar a necessidade da medida extrema. Nesse contexto, o juiz da execuo deve determinar o perodo inicial para o cumprimento do RDD e, se for o caso, determinar a prorrogao. Embora para estes casos o artigo 52 no deixe claro, deve-se aplicar a regra de que o perodo inicial no pode ser superior a dois anos definida para os casos de cometimento de falta disciplinar grave. 10.1.1.7. Progresso de regime. O sistema progressivo de cumprimento da pena privativa de liberdade  previsto no artigo 112 da Lei 7.210/84 - LEP. O referido dispositivo legal foi alterado pela Lei 13.964/2019, conhecida como a Lei do Pacote Anticrime, de modo que passou a apresentar a seguinte redao:
+Art. 112. A pena privativa de liberdade ser executada em forma progressiva com a transferncia para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+- 16% (dezesseis por cento) da pena, se o apenado for primrio e o crime tiver sido cometido sem violncia  pessoa ou grave ameaa;
+- 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violncia  pessoa ou grave ameaa;
+- 25% (vinte e cinco por cento) da pena, se o apenado for primrio e o crime tiver sido cometido com violncia  pessoa ou grave ameaa;
+- 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violncia  pessoa ou grave ameaa;
+- 40% (quarenta por cento) da pena, se o apenado for condenado pela prtica de crime hediondo ou equiparado, se for primrio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 52 da LEP prevê a possibilidade de prorrogação do Regime Disciplinar Diferenciado (RDD) por períodos de 1 ano, desde que haja indícios de que o preso continua apresentando alto risco para a ordem e a segurança do estabelecimento penal ou da sociedade. O cumprimento da pena privativa de liberdade é executada em forma progressiva, com transferencia para regime menos rigoroso a partir de 16% (primário, sem violência ou grave ameaça) a 40% (condenado por crime hediondo ou equiparado, primário).

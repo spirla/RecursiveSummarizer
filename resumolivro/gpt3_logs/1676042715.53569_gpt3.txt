@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A doutrina majoritria entende que a infrao penal , antes de tudo, um fato pessoal de sujeito determinado e que a noo de crime no se confunde com a noo de injusto. A concepo bipartite defendida por tais autores leva a concluir que o menor e o louco cometem crimes, embora no sejam punidos por ausncia de culpabilidade. Tal entendimento no parece ser o mais adequado e a Lei 8.069/90 esclarece, em seus artigos 103 e 104, que os adolescentes praticam atos infracionais. Como tal deve-se entender a conduta descrita como crime ou contraveno. Desse modo, a conduta praticada por sujeito imputvel recebe a qualificao de crime e a conduta praticada por inimputvel, devido  menoridade, recebe a qualificao de ato infracional. A prtica de ato infracional no acarreta a propositura de ao penal, pois o fato manifestamente no constitui crime, e, caso seja oferecida denncia, esta deve ser rejeitada nos termos do artigo 395, I, do Cdigo de Processo Penal. Outra posio original  defendida por Claus Roxin. Considerando que a poltica criminal deva definir o mbito da incriminao, bem como os postulados da dogmtica jurdico-penal, Roxin sustenta que a responsabilidade do sujeito tambm deve ser elemento do conceito analtico do crime. A punibilidade do indivduo concreto  considerada por Roxin exigncia fundamental da estrutura jurdica do crime, e quando, por motivos ligados  preveno especial, no for necessrio punir o sujeito do fato concreto, no se ter caracterizado o crime. Dessa forma, sustenta Roxin que, apurada a tipicidade e a ilicitude da conduta, bem como a culpabilidade de seu autor, deve-se, ainda, indagar se o sujeito tem de ser castigado pelo injusto praticado. Entretanto, o exame sobre a reprovabilidade de quem pratica o injusto realiza-se no juzo de culpabilidade e no parece haver razes lgicas para desmembrar tal exame. Maurach tambm defendeu a existncia de categoria autnoma para a responsabilidade pelo fato na concepo analtica do crime. Considerando que a responsabilidade pelo fato constitui a base para o exame individualizador da culpabilidade, o professor da Universidade de Mnchen pretendeu estabelecer uma categoria intermediria entre o injusto e a culpabilidade. Para Maurach, o exame quanto  possibilidade de atribuir-se o injusto a determinada pessoa divide-se em duas etapas, que estabelecem uma anlise geral e particular do sujeito ativo do crime. Ter-se-ia, ento, que considerar a responsabilidade pelo fato (geral) e a culpabilidade (individual).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina majoritria entende que a infrao penal é um fato pessoal de um sujeito determinado e a Lei 8.069/90 esclarece que os adolescentes praticam atos infracionais, que não acarretam a propositura de ação penal. Claus Roxin defende que a responsabilidade do sujeito também deve ser elemento do conceito analítico do crime, enquanto Maurach defende a existência de uma categoria autônoma para a responsabilidade pelo fato.

@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O resultado na interpretao extensiva  mais amplo porque a expresso da lei  mais estrita. A interpretao extensiva no amplia o contedo da norma;
+somente reconhece que determinada hiptese  por ela regida, ainda que a sua expresso verbal no seja perfeita. Resulta restritiva a interpretao que limita o sentido da norma. Recomenda-se que toda norma que restrinja os direitos e garantias individuais fundamentais reconhecidos e estabelecidos constitucionalmente deva ser interpretada restritivamente. Afirma-se, tambm, que nas normas excepcionais (normas que estabelecem excees a uma regra geral), a exceo  interpretada restritivamente. O pargrafo 2 do artigo 2 do CPPM estabelece no ser admissvel qualquer dessas intepretaes, referindo  literal,  extensiva e  restritiva, que possam:
+a) cercear a defesa pessoal do acusado;
+b) prejudicar ou alterar o curso normal do processo, ou lhe desvirtuar a natureza;
+c) desfigurar de plano os fundamentos da acusao que deram origem ao processo. A inteno do legislador com essa obrigatoriedade foi impor ao intrprete limites, por exemplo , interpreta-se literalmente que o ru, seu procurador ou seu defensor podem recorrer (artigo 511, CPPM), e no apenas um deles, devido a disjuntiva ou da orao, para no cercear a defesa do acusado. 2.1.3. Interpretao lgica ou teleolgica. Quanto ao meio empregado, a interpretao  lgica ou teleolgica, em que se busca compreender o esprito da lei e a inteno do legislador. Parte-se na interpretao lgica do pressuposto de que a conexo de uma expresso normativa com as demais do contexto  importante para obteno do significado correto. Na interpretao lgica, o intrprete se serve de regras do raciocnio, da lgica formal, enquanto na teleolgica, o exegeta busca interpretar a lei a partir da finalidade para qual foi criada. 2.1.4. Outras espcies de interpretao da lei processual penal militar. Na interpretao analgica, a norma processual permite a aplicao em caso por ela no regido, desde que haja semelhana.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interpretação extensiva da lei não amplia o conteúdo da norma, mas reconhece que determinada hipótese está por ela regida. A interpretação restritiva limita o sentido da norma e deve ser aplicada em normas que restringem direitos e garantias individuais fundamentais. O CPPM estabelece que nenhuma interpretação literal, extensiva ou restritiva pode cercear a defesa do acusado, prejudicar ou alterar o curso normal do processo ou desfigurar os fundamentos da acusação. A interpretação lógica ou teleológica busca compreender o espírito da lei e a intenção do legislador. A interpretação analógica permite a aplicação da norma processual em casos não previstos, desde que haja semelhança.

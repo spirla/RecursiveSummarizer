@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Antonio Carlos Ferreira, Segunda Secao, por unanimidade, julgado em 9/11/2022, DJe 14/11/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL, DIREITO MARCARIO Tema Acao rescisoria. Acao de nulidade de registro de marca e acao indenizatoria. Ofensa a coisa julgada. Inexistencia. Falta de identidade de causa de pedir e pedido. DESTAQUE Nao ha coisa julgada envolvendo acao cominatoria e indenizatoria por uso indevido de marca proposta contra empresa que utiliza marca semelhante a da autora, que tramitou na Justica Comum estadual, e acao de nulidade de registro de marca, proposta pela mesma autora contra identica empresa e contra o INPI, decidida na Justica Federal. De inicio, ressalta-se que a garantia constitucional da coisa julgada (art. 5, XXXVI, da CF/88) possui conceito e limites previstos, essencialmente, no CPC/2015, que em seu art. 503 estabelece o limite objetivo da coisa julgada afirmando incidir tao somente no que se refere a questao principal expressamente decidida . No caso, na primeira acao ajuizada, entendeu-se pela ilegalidade no uso das marcas pela empresa re, em demanda indenizatoria e cominatoria. Na segunda, acao de anulacao de registro, cuja sentenca foi objeto de acao rescisoria, concluiu-se pela legalidade do ato administrativo do INPI, que concedeu o registro a empresa re .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A garantia constitucional da coisa julgada (art. 5, XXXVI, da CF/88) possui conceito e limites previstos, essencialmente, no CPC/2015, que em seu art. 503 estabelece o limite objetivo da coisa julgada afirmando incidir tão somente no que se refere a questão principal expressamente decidida. 2. Na primeira ação ajuizada, entendeu-se pela ilegalidade no uso das marcas pela empresa ré, em demanda indenizatória e cominatoria. 3. Na segunda, ação de anulação de registro, cuja sentença foi objeto de ação rescisória, concluiu-se pela legalidade do ato administrativo do INPI, que concedeu o registro à empresa ré.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 740) PROCESSO RHC 161.251-PR, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 10/05/2022, DJe 16/05/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Acordo de nao persecucao penal - ANPP. Pleito de realizacao do acordo. Nao cabimento apos o recebimento da denuncia. Faculdade do Parquet. Recusa devidamente fundamentada. DESTAQUE A possibilidade de oferecimento do acordo de nao persecucao penal e conferida exclusivamente ao Ministerio Publico, nao cabendo ao Poder Judiciario determinar ao Parquet que o oferte. 1209 O acordo de nao persecucao penal, previsto no art. 28-A do CP, implementado pela Lei n. 13.964/2019, indica a possibilidade de realizacao de negocio juridico pre-processual entre a acusacao e o investigado. Trata-se de fase previa e alternativa a propositura de acao penal, que exige, dentre outros requisitos, aqueles previstos no caput do artigo: 1) delito sem violencia ou grave ameaca com pena minima inferior a 4 anos; 2) ter o investigado confessado formal e circunstancialmente a infracao; e 3) suficiencia e necessidade da medida para reprovacao e prevencao do crime.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É conferida exclusivamente ao Ministério Público a possibilidade de oferecer acordo de não persecução penal. 2. O acordo de não persecução penal previsto no art. 28-A do Código Penal, implementado pela Lei n. 13.964/2019, indica a possibilidade de realização de negócio jurídico pré-processual entre a acusação e o investigado. 3. Para a realização do acordo de não persecução penal são necessários alguns requisitos, previstos no caput do artigo 28-A do Código Penal, tais como: delito sem violência ou grave ameaça com pena mínima inferior a 4 anos; ter o investigado confessado formal e circunstancialmente a infração; e suficiência e necessidade da medida para reprovação e prevenção do crime.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+85 Lei n. 11.101/2005, art. 24 92 QUARTA TURMA Voltar ao Sumario. Processo REsp 1.703.571-DF, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, por maioria, julgado em 22/11/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL Tema Decisao de saneamento do processo. Pedido de esclarecimentos ou solicitacao de ajustes. Pedido de reconsideracao. Distincao. Agravo de instrumento. Prazo recursal. Termo inicial. Publicacao da decisao de pedido de esclarecimento e/ou ajuste.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A decisão de saneamento do processo não pode ser objeto de pedido de reconsideração. 2. O prazo recursal para agravo de instrumento tem início com a publicação da decisão de pedido de esclarecimento e/ou ajuste.

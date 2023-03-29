@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Na lio de Vicente Ro, a analogia consiste na aplicao dos princpios extrados da norma existente a casos outros que no os expressamente contemplados, mas cuja diferena em relao a estes no seja essencial.117 Ora, se a fonte de produo do Direito Penal  somente a lei, inexistindo lei que defina o comportamento como criminoso e imponha-lhe pena, no  possvel haver responsabilidade criminal. No se pode aplicar pena para comportamento no previsto como criminoso, mesmo que seja muito semelhante a outro, cuja previso legal autorize a interveno punitiva. Da mesma forma, s a lei pode estabelecer as hipteses de agravamento da punio. No havendo previso para agravante ou causa de aumento de pena, no poder o magistrado fazer repercutirem esses efeitos na reprimenda estatal devida pela prtica do crime. Tambm no  possvel estabelecer por analogia causas interruptivas ou suspensivas da prescrio, pois o instituto da prescrio confere garantia fundamental ao acusado ou condenado e somente a lei pode impedir a produo de seus efeitos. No se pode confundir, entretanto, o emprego da analogia com a integrao analgica, o que  lcito at mesmo para estabelecer responsabilidade criminal. A analogia importa em aplicar, para um caso no previsto em lei, a soluo prevista para um caso semelhante. A integrao significa que a lei ser completada (integrada) por elementos no descritos especificamente, mas que se enquadram na frmula geral expressamente descrita. A integrao analgica acontece quando o legislador emprega na descrio tpica uma frmula genrica que se presta a identificar vrias situaes especficas. Um exemplo de integrao analgica encontra-se na descrio do homicdio qualificado por ter sido praticado com emprego de veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel, ou de que possa resultar perigo comum. Nesse caso, pode-se perceber que o legislador utilizou exemplos casusticos (emprego de veneno e tortura) para a melhor compreenso das frmulas genricas (meio insidioso e cruel) mencionadas a seguir, possibilitando a tipificao em face de outros casos que se enquadrem nas frmulas gerais. Mesmo utilizando frmulas genricas, a proibio  clara, sendo, inclusive, utilizados exemplos para sua melhor compreenso. 4) A proibio de estabelecer incriminaes vagas e imprecisas. A lei penal incriminadora deve ser certa, isto , deve determinar com preciso o comportamento considerado criminoso e a pena que ser atribuda como resposta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A analogia e a integrao analógica são formas de aplicar princípios extrados da norma existente a casos não expressamente contemplados, mas cuja diferença em relação a estes não seja essencial. A lei penal incriminadora deve ser certa, determinando com precisão o comportamento considerado criminoso e a pena que será atribuída como resposta.

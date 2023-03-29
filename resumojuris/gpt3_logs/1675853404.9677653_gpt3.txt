@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+112, III, da Lei de Execucao Penal, o qual exige o cumprimento tao somente de 25% da pena para que se perquira a progressao a regime menos gravoso. (Informativo  Ed. Especial n. 10) Lei n. 13.964/2019 Lei de Execucao Penal, art. 112, III e VII Lei n. 8.072/1990 77 DIREITO PROCESSUAL CIVIL 78 CORTE ESPECIAL Voltar ao Sumario. Processo AgInt nos EAREsp 1.935.286-RJ, Rel. Ministro Joao Otavio de Noronha, Corte Especial, por unanimidade, julgado em 11/10/2022, DJe 21/10/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL Tema Embargos de divergencia. Acordao paradigma. Juntada do Inteiro teor. Ausencia. Mera indicacao do diario da justica em que publicado. Insuficiencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 112, III, da Lei de Execução Penal exige o cumprimento de 25% da pena para que se perquira a progressão a regime menos gravoso. 2. A Lei n. 13.964/2019 é a Lei de Execução Penal. 3. A Lei n. 8.072/1990 trata do Direito Processual Civil. 4. O acórdão paradigma do Processo AgInt nos EAREsp 1.935.286-RJ, Rel. Ministro João Otavio de Noronha, Corte Especial, julgado em 11/10/2022, trata do ramo do Direito Processual Civil. 5. A juntada do inteiro teor do acórdão paradigma é necessária, sendo insuficiente a mera indicação do diário da justiça em que foi publicado.

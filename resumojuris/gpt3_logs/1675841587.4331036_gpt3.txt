@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+744 Assim, o entendimento de que nao ha ato de oficio a ser praticado por policiais quando abordam sujeito na posse de drogas esta em dissonancia com as disposicoes legais e a jurisprudencia desta Corte. O artigo 28 da Lei de Drogas, ainda que nao preveja pena privativa de liberdade, permanece como crime. Nao houve descriminalizacao da conduta, mas tao somente sua despenalizacao, vez que a norma especial conferiu tratamento penal mais brando aos usuarios de drogas. Com efeito, este Superior Tribunal de Justica, alinhando-se ao entendimento firmado pela Corte Suprema no julgamento do RE 430.150/RJ, sedimentou orientacao de que a Lei n. 11.343/2006 nao descriminalizou a conduta que tipificou no art. 28, que, portanto, continua a configurar crime. Ocorreu mera despenalizacao, assim entendida como a ausencia de previsao, para o tipo, de pena privativa de liberdade como sancao (HC 406.905/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 7/11/2017, DJe 13/11/2017) (AgRg no HC 623.436/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/12/2021). Em casos dessa natureza, muito embora nao se imponha a prisao em flagrante, e obrigacao do policial conduzir o autor do fato diretamente ao juizo competente ou, na falta deste, a delegacia, lavrando-se, neste caso, o respectivo termo circunstanciado e providenciando-se as requisicoes dos exames e pericias necessarios, nos termos do artigo 48,  2 e 3, da Lei n. 11.343/2006. Cumpre ressaltar, ainda, que para a configuracao do delito de corrupcao ativa, a norma penal sequer exige que o ato de oficio tenha sido efetivamente praticado, ate porque, em se constatando que o funcionario retardou ou omitiu ato de oficio, ou o praticou infringindo dever funcional, incidira a causa de aumento de pena prevista no paragrafo unico do artigo 333 do CP. (Informativo n. 735) PROCESSO REsp 1.985.297-SP, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não houve descriminalização da conduta prevista no artigo 28 da Lei de Drogas, mas tão somente sua despenalização. 2. É obrigação do policial conduzir o autor do fato diretamente ao juízo competente ou, na falta deste, a delegacia, lavrando-se, neste caso, o respectivo termo circunstanciado e providenciando-se as requisições dos exames e perícias necessários. 3. Para a configuração do delito de corrupção ativa, a norma penal sequer exige que o ato de ofício tenha sido efetivamente praticado.

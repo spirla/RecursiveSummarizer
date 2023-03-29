@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alem de violar prerrogativas da advocacia, a deflagracao de amplas, inespecificas e desarrazoadas medidas de busca e apreensao em desfavor de advogados pode evidenciar a pratica de fishing expedition . A jurisprudencia do STF confere interpretacao estrita e rigida as normas que possibilitam a realizacao de busca e apreensao, em especial quando direcionadas a advogados no exercicio de sua profissao. Na situacao em apreco, nao foram observados os requisitos legais nem as prerrogativas da advocacia, com ampla deflagracao de medidas que objetivaram pescar provas contra os advogados denunciados e possiveis novos investigados. Ressalta-se que, ao deferir a busca e apreensao, a autoridade reclamada nao demonstrou a imprescindibilidade em concreto da medida para o processamento dos fatos. Extrai-se do art. 394 e seguintes do CPP que a producao probatoria apos o oferecimento da denuncia deve ocorrer em juizo, com as garantias do contraditorio e da ampla defesa. Na especie, a medida de investigacao previa foi executada depois de ser formalizada a denuncia contra os advogados, em evidente inversao processual. Com efeito, a ampla realizacao de medidas de busca e apreensao depois da formalizacao da denuncia, que pressupoe a colheita de um lastro probatorio minimo e o encerramento da fase investigatoria, indica o objetivo de expandir a acusacao, em indevida pratica de fishing probatorio. Com base nesses e em outros entendimentos, a Segunda Turma, por maioria, conheceu da reclamacao e, no merito, por unanimidade, julgou-a improcedente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A jurisprudência do STF confere interpretação estrita e rigorosa às normas que possibilitam a realização de busca e apreensão, em especial quando direcionadas a advogados no exercício de sua profissão. 2. A produção probatória após o oferecimento da denúncia deve ocorrer em juízo, com as garantias do contraditório e da ampla defesa. 3. A ampla realização de medidas de busca e apreensão depois da formalização da denúncia indica o objetivo de expandir a acusação, em indevida prática de fishing probatório.

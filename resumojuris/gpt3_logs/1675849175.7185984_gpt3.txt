@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 749) 1255 PROCESSO RHC 139.465-PA, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 23/08/2022, DJe 31/08/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Crimes ambientais. Associacao criminosa (art. 288 do CP). Descricao insuficiente dos fatos e nexo de causalidade. Multiplos atores no cargo de administrador. Alta rotatividade. Ausencia de precisa individualizacao da conduta de cada um dos acusados na denuncia. Vinculo associativo permanente nao demonstrado. Inepcia reconhecida.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 288 do Código Penal prevê a responsabilização por associacao criminosa. 2. É necessário que a descrição dos fatos seja suficiente para estabelecer o nexo de causalidade. 3. A presença de multiplos atores no cargo de administrador não é suficiente para caracterizar a associação criminosa. 4. A alta rotatividade dos atores não é suficiente para caracterizar a associação criminosa. 5. É necessário que a denúncia individualize a conduta de cada um dos acusados para caracterizar a associação criminosa. 6. A ausência de um vínculo associativo permanente é suficiente para afastar a caracterização da associação criminosa.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A omissao do Estado no presente feito revela-se especifica e contribuiu decisivamente para a morte da vitima, pois o hospital publico nao ofereceu nenhuma ou sequer a minima garantia de integridade aos que se utilizam do servico e pela qual, em razao do risco da atividade prestada, tem o dever de zelo e protecao. Ocorre que a responsabilidade civil do Estado, todavia - seja de ordem subjetiva, seja objetiva - depende, para a configuracao da ocorrencia de seus pressupostos, do ato ilicito, do dano sofrido e do nexo de causalidade entre o evento danoso e a acao ou omissao do agente publico. 210 Estao descritos na sentenca e no acordao, a saber: (a) o hospital nao possui nenhum servico de vigilancia; e (b) o evento morte decorreu de um disparo com arma de fogo contra a vitima dentro do hospital. O Tribunal regional - a despeito de a vitima ter sido baleada e o obito ter ocorrido no interior do hospital -, nao considerou o fato de nao existir servico de vigilancia; ao contrario, a Corte local afirma, categoricamente, que o servico do hospital e somente o atendimento medico, razao pela qual estaria desobrigado de prestar seguranca aos pacientes. Concluiu-se, assim, que a morte da vitima deu-se por fato de terceiro. Como observa-se, a Corte regional - embora tenha considerado nao existir equipe responsavel pela integridade fisica dos pacientes e transeuntes no local - afastou a responsabilidade civil, consignando, com base na teoria da causalidade adequada, que a acao de alguem mal intencionado, dentro do hospital publico, teria o condao de romper o nexo de causalidade entre a conduta do hospital e o evento danoso. Acaso se estivesse diante de um atentado de grandes proporcoes, nao seria dificil concluir que, nao obstante todo o empenho, o ente publico nao pudesse, de fato, impedir o resultado. Esta, entretanto, nao e a situacao narrada no acordao, que traz, ao contrario, contexto e narrativa simples e bem menos eloquente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(1) Omissão do Estado revela-se específica e contribuiu decisivamente para a morte da vítima, pois o hospital público não ofereceu nenhuma ou sequer a mínima garantia de integridade aos que se utilizam do serviço. (2) Responsabilidade civil do Estado depende, para a configuração da ocorrência de seus pressupostos, do ato ilícito, do dano sofrido e do nexo de causalidade entre o evento danoso e a ação ou omissão do agente público. (3) O hospital não possui nenhum serviço de vigilância. (4) A morte da vítima deu-se por fato de terceiro. (5) A Corte regional afastou a responsabilidade civil, consignando, com base na teoria da causalidade adequada, que a ação de alguém mal intencionado, dentro do hospital público, teria o condão de romper o nexo de causalidade entre a conduta do hospital e o evento danoso.

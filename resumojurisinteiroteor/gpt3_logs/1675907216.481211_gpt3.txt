@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ALEGAO DE OFENSA AO ART. 4,  16, II, DA LEI 12.850, DE 2013, NA REDAO DADA PELA LEI 13.954, DE 2019. IMPROCEDNCIA. 1. "A contradio que autoriza a interposio de embargos declaratrios  a que se aninha na estrutura da prpria deciso embargada, entre a fundamentao e o dispositivo". (STF, AR 1535- ED/SP). Hiptese em que inexiste contradio "entre [as] proposies do prprio julgado" (STJ, EDcl no REsp 1602681/ES) ou entre "a fundamentao e o dispositivo da prpria deciso embargada". (STJ, EDcl no AgInt no AREsp 1114315/SP). 2. Alegao de ofensa ao art. 4,  16, II, da Lei 12.850, de 2013, na redao dada pela Lei 13.954, de 2019 (o chamado "Pacote Anticrime"). Caso em que ficou demonstrado, no acrdo em que recebida denncia e no acrdo ora embargado, que "a denncia lastreou-se, para alm do contedo das colaboraes premiadas [...], em numerosos outros elementos de corroborao, colhidos na execuo de diversas medidas cautelares, como busca e apreenso e quebras de sigilo bancrio, telemtico e telefnico." Consequente improcedncia da alegao de ofensa ao art. 4,  16, II, da Lei 12.850, na redao dada pela Lei 13.954. 3. Embargos de declarao em embargos de declarao rejeitados. (EDcl nos EDcl no AgRg na APn n. 897/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 18/5/2022, DJe de 1/6/2022.) No meu modesto entendimento, o embargante se insurge quanto s razes de convencimento expressas no r. acrdo desta Cmara. Como  sabido, convencido, o julgador dever fundamentar a sua deciso, seguimento suficiente para elidir as razes ento apresentadas pelas partes.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Embargos de declarao rejeitados. Não houve contradio entre a fundamentação e o dispositivo da decisão embargada. Alegação de ofensa ao art. 4, 16, II, da Lei 12.850, de 2013, na redação dada pela Lei 13.954, de 2019 (o chamado "Pacote Anticrime") improcedente, pois ficou demonstrado que a denúncia foi lastreada em elementos de corroboração colhidos na execução de diversas medidas cautelares.

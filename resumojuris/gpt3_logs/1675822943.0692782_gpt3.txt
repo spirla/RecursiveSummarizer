@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Essa gradacao hierarquica tem por pressuposto a ampliacao dos poderes dos magistrados a medida que se afastam da base dessa estrutura organico-funcional em direcao a seu topo. Admitir que um juiz integrante de tribunal nao possa ao menos conceder efeito suspensivo a recurso dirigido contra decisao de juiz de primeiro grau e subverter a logica hierarquica estabelecida pela Constituicao, pois e o mesmo que atribuir ao juizo de primeira instancia mais poderes que ao magistrado de segundo grau de jurisdicao. Ademais, o poder geral de cautela, assim compreendido como a capacidade conferida ao magistrado de determinar a realizacao de medidas de carater provisorio, ainda que inominadas no CPC (CPC), e insito ao exercicio da jurisdicao e uma forma de garantir a efetividade do processo judicial. No caso, o poder geral de cautela se faz essencial porque o direito de resposta e, por natureza, satisfativo, de modo que, uma vez exercido, nao ha como ser revertido. Desse modo, a interpretacao literal do art. 10 da Lei 13.188/2015, atribuindo exclusivamente a colegiado de tribunal o poder de deliberar sobre a concessao de efeito suspensivo a recurso em face de decisao que tenha assegurado o direito de resposta, dificultaria sensivelmente a reversao liminar de decisao concessiva do direito de resposta, com risco, inclusive, de tornar ineficaz a apreciacao do recurso pelo tribunal. A retratacao ou a retificacao espontanea, ainda que a elas sejam conferidos os mesmos destaque, publicidade, periodicidade e dimensao do agravo, nao impedem o exercicio do direito de resposta pelo ofendido nem prejudicam a acao de reparacao por dano moral. O art. 5, V, da CF assegura, como direito fundamental, o direito de resposta, o qual nao se confunde com a retratacao ou a retificacao espontanea de informacoes publicadas de forma equivocada.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É pressuposto da gradação hierárquica a ampliação dos poderes dos magistrados a medida que se afastam da base da estrutura organico-funcional em direção ao seu topo. 2. O poder geral de cautela é insito ao exercício da jurisdição e uma forma de garantir a efetividade do processo judicial. 3. A interpretação literal do art. 10 da Lei 13.188/2015, atribuindo exclusivamente ao colegiado de tribunal o poder de deliberar sobre a concessão de efeito suspensivo a recurso em face de decisão que tenha assegurado o direito de resposta, dificultaria sensivelmente a reversão liminar de decisão concessiva do direito de resposta. 4. A retratacão ou a retificação espontânea, ainda que a elas sejam conferidos os mesmos destaque, publicidade, periodicidade e dimensão do agravo, não impedem o exercício do direito de resposta pelo ofendido nem prejudicam a ação de reparação por dano moral. 5. O art. 5, V, da CF assegura, como direito fundamental, o direito de resposta, o qual não se confunde com a retratacão ou a retificação espontânea de informações publicadas de forma equivocada.

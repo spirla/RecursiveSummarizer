@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Declarou que o ofendido teria sofrido agresses, tendo ouvido ele gritar em certo momento que seu brao teria sido quebrado. Afirmou que os rus deram ordem para todas as pessoas ali presentes irem embora,  exceo do ofendido. Disse que a polcia foi acionada via atendimento 190, e, a partir disso, um outro policial militar conduziu o ofendido ao hospital. A testemunha 1 Ten PM Cid Machado dos Santos declarou, em sntese, que chamou as vtimas at a Companhia para tentar um reconhecimento dos supostos autores daquela agresso. Relatou ter chamado uma das guarnies com semelhanas fsicas ao que foi relatado pelas vtimas do episdio, tendo os rus se negado a participarem do reconhecimento. Disse, ainda, que conduziu as vtimas at o hospital e que tomou as providncias de praxe. Afirmou que as vtimas lhe relataram que as agresses consistiram em socos, chutes e uso do basto de madeira. O juiz de primeiro grau designou para o dia 25/11/2019, s 14h15min, nova audincia para a inquirio da testemunha Larissa Marcelle da Silva. Foi realizada audincia na data designada, sendo inquirida a aludida testemunha, menor de idade. A testemunha Larissa Marcelle da Silva relatou, em resumo, que, no local dos fatos, havia 4 pessoas: ela, seu namorado, Luiz Paulo dos Santos Bragana e Paulo Srgio Alves Duarte, quando a viatura chegou e os abordou. Disse que os militares mandaram que ela fosse embora, juntamente com uma criana que estava no local; que desceu a rua e, quando voltou, visualizou os militares agredindo Luiz Paulo dos Santos Bragana e Paulo Srgio Alves Duarte, mas que o primeiro apanhou mais. Larissa afirmou que Luiz Paulo dos Santos Bragana estava com o brao visivelmente machucado. Declarou que, posteriormente, chegou outra viatura, a qual foi acionada pela esposa do Luiz Paulo dos Santos Bragana, e o encaminhou ao hospital. Informou que Luiz Paulo dos Santos Bragana perdeu o movimento do brao naquele momento e que quem o agrediu foi um policial moreno. A defesa de Flvio Moreira de Paula apresentou rol de testemunhas, sendo inquiridas as testemunhas arroladas pela defesa: 1 Ten PM Cid Machado dos Santos, Cb PM Welisson Rodrigo Santos Gonalves e Cb PM Paulo Gonalves Ferreira. A testemunha de defesa Cesalpino Vieira do Nascimento foi dispensada pela defesa. A testemunha 1 Ten PM Cid Machado dos Santos voltou a prestar esclarecimentos, no mesmo sentido daqueles prestados anteriormente. Disse, em resposta a perguntas da defesa, que no se recorda de estarem presentes testemunhas quando os rus estiveram presentes na Companhia. A testemunha Cb PM Paulo Gonalves Ferreira afirmou que estava escalado no interior da Companhia e que se recordou de trs pessoas chegarem  unidade alegando ter havido agresso de policiais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A testemunha 1 Ten PM Cid Machado dos Santos declarou que chamou as vítimas para tentar um reconhecimento dos supostos autores da agressão, tendo os réus se negado a participar. A testemunha Larissa Marcelle da Silva relatou que os militares agrediram Luiz Paulo dos Santos Bragana e Paulo Srgio Alves Duarte, sendo que o primeiro apanhou mais. As testemunhas de defesa afirmaram que não se recordavam de estarem presentes testemunhas quando os réus estiveram na Companhia.

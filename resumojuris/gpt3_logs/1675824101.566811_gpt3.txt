@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+81,  1, da Constituicao, cuja reproducao, contudo, nao e obrigatoria. Os estados-membros nao estao sujeitos ao modelo consubstanciado no art. 81 da CF/88 (CF), abrindo-se, desse modo, a possibilidade de disporem normativamente, com fundamento em seu poder de autonoma deliberacao, de maneira diversa. No caso de dupla vacancia, faculta-se aos estados-membros, ao Distrito Federal e aos municipios a definicao legislativa do procedimento de escolha do mandatario politico. Isso porque essa prerrogativa nao se confunde com a competencia privativa da Uniao para legislar sobre direito eleitoral [art. 22, I, da CF ], apesar da indiscutivel natureza eleitoral do procedimento de escolha do mandatario politico, cujos procedimentos devem observar, tanto quanto possivel, os requisitos de elegibilidade e as causas de inelegibilidade em relacao aos candidatos, dentre outras regras previstas na legislacao eleitoral. No caso de realizacao de eleicao indireta, a previsao normativa estadual de votacao nominal e aberta e compativel com a CF. Por tratarem-se de votacoes ocorridas no ambito de orgaos legislativos, o dever de transparencia se sobrepoe ao sigilo do ato deliberativo. A publicidade e a regra, sendo colocada como direito e ferramenta de controle social do Poder Publico. Com base nesses entendimentos, o Plenario julgou improcedente o pedido formulado em acao direta de inconstitucionalidade. ADI 1057/BA, relator Min. Dias Toffoli, julgamento virtual finalizado em 16.8.2021 (segunda-feira), as 23:59.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os estados-membros não estão sujeitos ao modelo consubstanciado no art. 81 da CF/88 (CF). 2. É facultado aos estados-membros, ao Distrito Federal e aos municípios a definição legislativa do procedimento de escolha do mandatário político. 3. A previsão normativa estadual de votação nominal e aberta é compatível com a CF. 4. O dever de transparência se sobrepõe ao sigilo do ato deliberativo. 5. A publicidade é a regra, sendo colocada como direito e ferramenta de controle social do Poder Público.

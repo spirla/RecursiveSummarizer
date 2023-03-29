@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A legislao extravagante prev, em alguns casos, que a contribuio de um dos participantes do crime para a elucidao dos fatos e a responsabilizao criminal dos demais possa constituir uma causa extintiva da responsabilidade. A hiptese  conhecida na doutrina e jurisprudncia como de delao premiada ou colaborao premiada e exige cuidado do operador do direito, em razo da diversidade de leis que tratam da matria. A colaborao premiada foi inicialmente prevista como causa de reduo de pena no artigo 6 da Lei 9.034/95. Posteriormente, com a edio da Lei 9.807/99, a colaborao premiada passou a constituir causa extintiva de responsabilidade. Conforme o artigo 13 da referida lei:
+Art. 13. Poder o juiz, de ofcio ou a requerimento das partes, conceder o perdo judicial e a consequente extino da punibilidade ao acusado que, sendo primrio, tenha colaborado efetiva e voluntariamente com a investigao e o processo criminal, desde que dessa colaborao tenha resultado:
+- a identificao dos demais coautores ou partcipes da ao criminosa;
+- a localizao da vtima com a sua integridade fsica preservada;
+- a recuperao total ou parcial do produto do crime. Pargrafo nico. A concesso do perdo judicial levar em conta a personalidade do beneficiado e a natureza, circunstncias, gravidade e repercusso social do fato criminoso. Nesses casos, o legislador acolheu opo poltico-criminal de renunciar  punio para obter resultados de maior proveito social. Os incisos do artigo 13 da Lei 9.807/99 condicionam a possibilidade jurdica do perdo judicial aos casos em que a contribuio do participante do crime produza a identificao dos demais coautores ou partcipes da ao criminosa; a localizao da vtima com a sua integridade fsica preservada; ou a recuperao total ou parcial do produto do crime. Tais incisos estabelecem requisitos alternativos, de modo que basta a produo de qualquer dos resultados neles previstos para que o magistrado possa conceder o perdo judicial. No entanto, nos termos do pargrafo nico do referido dispositivo legal, mesmo que se verifique os resultados previstos em seus incisos, o perdo judicial no constitui um direito subjetivo do acusado. Para a concesso do benefcio o juiz dever levar em conta a personalidade54 do beneficiado e a natureza, circunstncias, gravidade e repercusso social do fato criminoso.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A colaboração premiada, prevista na Lei 9.034/95 e Lei 9.807/99, pode constituir causa extintiva da responsabilidade criminal, desde que o participante do crime contribua para a identificação dos demais coautores ou partícipes, localização da vítima com sua integridade preservada ou recuperação total ou parcial do produto do crime. A concessão do perdão judicial depende da análise da personalidade do beneficiado e da natureza, circunstâncias, gravidade e repercussão social do fato criminoso.

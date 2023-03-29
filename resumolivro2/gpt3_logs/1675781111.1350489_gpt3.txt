@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A doutrina nacional considera que nem todos os fatos precisam ser provados no processo penal. No precisam ser provados:
+os fatos intuitivos ou evidentes, as presunes legais, os fatos inteis e os fatos notrios (Camargo Aranha). No precisam ser provados os fatos axiomticos, os notrios e os presumidos (Mirabete). A esse rol de fatos que no precisam ser provados acrescenta Hlio Tornaghi o clamor pblico, o direito nacional e escrito e as regras de experincia. Leciona Hlio Tornaghi que as regras de experincia podem provir da observao e da vivncia cotidianas comuns aos homens mdios, ou decorrer do conhecimento de uma cincia arte ou tcnica. No primeiro caso no so objeto de prova pois no  preciso demonstrar o que todos sabem;
+no segundo caso  necessrio o pronunciamento de entendidos, o que no  propriamente meio de prova, mas orientao para o entendimento dos fatos e de suas relaes. No processo penal, comum e militar, no fica excludo da ponderao do juiz o fato incontroverso, admitido pelas partes, que pode investig-lo na busca da verdade. As fontes de prova so as pessoas ou as coisas das quais se pode conseguir a prova. A definio de elementos de prova  controversa. Para Tourinho Filho, que segue a lio de Manzini, elementos de prova so todos os fatos ou circunstncias em que repousa convico do juiz. Assiste razo a Gomes Filho em dizer que os elementos de prova no so os fatos ou as circunstncias, mas os dados objetivos que confirmam ou negam uma assero a respeito de um fato que interessa  deciso da causa. Constituem elementos de prova, por exemplo, a declarao de uma testemunha sobre determinado acontecimento, a opinio de um perito sobre a matria de sua especialidade, o contedo de um documento etc. A expresso elemento de prova revela, por sinal, uma caracterstica fundamental da atividade probatria, qual seja, a de que o convencimento judicial resulta (ou deve resultar) de uma pluralidade de informaes (provas), a partir das quais so realizados procedimentos inferenciais para que se chegue a uma concluso sobre o fato. 14.1.3. O nus da prova no processo penal militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina nacional considera que alguns fatos não precisam ser provados no processo penal, como fatos intuitivos, presunções legais, fatos notórios, axiomáticos, clamor público, direito nacional e escrito e regras de experiência. As fontes de prova são pessoas ou coisas, e os elementos de prova são dados objetivos que confirmam ou negam uma asserção. No processo penal militar, o nus da prova é fundamental para o convencimento judicial.

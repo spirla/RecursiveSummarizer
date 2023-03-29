@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O crime em exame classifica-se como comum, de forma livre, comissivo ou omissivo (na modalidade de omisso imprpria), instantneo, monossubjetivo e doloso. Em sua figura fundamental o crime  formal, sendo que nas figuras qualificadas  crime material. 1.3.2. Objetividade jurdica. O primeiro bem jurdico tutelado pelo crime descrito no artigo 122 do CP  a vida humana independente (item 2 supra). Contudo, o crime ora em exame apresenta a peculiaridade de tutelar igualmente o interesse social de preservar a vida de pessoa que no mais deseja viver. A incriminao em exame evidencia a tomada de posio do legislador frente ao conflito que se estabelece entre a vontade do titular do direito  vida e o interesse social de preserv-la. Muito embora o titular do direito a vida pretenda encerrar o seu ciclo vital, a sociedade estabelece proteo jurdica em favor de sua vida. O crime em exame, aps a entrada em vigor da Lei 13.968/2019, tambm passou a tutelar a integridade fsica da pessoa que deseja se automutilar. A tomada de posio do legislador frente s situaes conflitivas preserva, ao mesmo tempo, o direito de liberdade individual e o interesse social. Neste sentido, vale notar que a proteo jurdico-penal estabelecida  limitada. S h incriminao para a conduta do terceiro que realiza o induzimento, a instigao ou o auxlio a suicdio ou a automutilao. No h proibio legal para o suicdio ou para a automutilao que no conte com a participao de terceiros. O sujeito ativo do suicdio ou da automutilao no  sujeito ativo de crime, mas somente aquele que o induz, o instiga ou lhe presta auxlio para os atos extremos. A vida  direito humano fundamental reconhecido pelos ordenamentos jurdicos do mundo tendo em vista constituir premissa ontolgica necessria para o exerccio de todos os demais direitos. Mas, cabe observar que se a ordem jurdica assegura o direito  vida no estabelece o dever de viver. O Tribunal Constitucional espanhol, neste sentido, j reconheceu que a vida constitui um bem jurdico que se insere no crculo de liberdade individual e a disposio ftica sobre a prpria morte  manifestao de agir lcita. Na oportunidade, porm, o Tribunal esclareceu que o reconhecimento da licitude do suicdio no importava no reconhecimento da existncia de um direito sobre a prpria morte. Reconhecer a existncia de tal direito traria consequncias importantes para os poderes pblicos, que deveriam oferecer o suporte material para seu exerccio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime descrito no artigo 122 do CP tutela a vida humana independente e o interesse social de preserv-la. A Lei 13.968/2019 passou a tutelar também a integridade fsica da pessoa que deseja se automutilar. O sujeito ativo do suicídio ou da automutilão não é sujeito ativo de crime, mas somente aquele que o induz, instiga ou lhe presta auxílio para os atos extremos. O Tribunal Constitucional espanhol reconheceu que a vida constitui um bem jurdico que se insere no círculo de liberdade individual, mas não estabeleceu um direito sobre a própria morte.

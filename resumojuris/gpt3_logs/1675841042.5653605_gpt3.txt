@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 06/09/2022. RAMO DO DIREITO DIREITO PENAL TEMA Modus operandi do crime. Emboscada. Quesitacao acerca da ciencia dos mandantes. Ausencia. Nulidade. Qualificadoras objetivas. Comunicacao aos coautores. Ingresso na esfera de conhecimento. Necessidade. DESTAQUE Ha nulidade no quesito que nao questiona os jurados sobre a ciencia dos mandantes do crime em relacao ao modus operandi pelos executores diretos - emboscada -, ja que as qualificadoras objetivas do homicidio so se comunicam entre os coautores desde que tenham ciencia do fato que qualifica o crime.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há nulidade no quesito que não questiona os jurados sobre a ciência dos mandantes do crime em relação ao modus operandi pelos executores diretos. 2. As qualificadoras objetivas do homicídio só se comunicam entre os coautores desde que tenham ciência do fato que qualifica o crime.

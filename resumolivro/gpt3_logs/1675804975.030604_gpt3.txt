@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+(...)
+77 Portaria disponivel no site da Anvisa: <http://www.anvisa.gov.br>. O seu Anexo I recebe constante atualizacao, a medida que novas substncias sao encontradas. 78 Artigo 202. Embriagar-se o militar, quando em servico, ou apresentar-se embriagado para presta-lo: Pena - detencao, de seis meses a dois anos. 79 Nesse sentido: (...) Configura-se o delito de embriaguez em servico quando o militar se embriaga em servico ou apresenta-se ja embriagado para presta-lo (artigo 202, do CPM). - Diante da inexistncia de exame de dosagem alcoolica ou exame clinico, o estado de ebriedade podera ser comprovado mediante depoimento de testemunhas. - A simples alegacao de constatacao de um possivel halito etilico do agente, sem a certeza de que os demais sintomas decorrem de ingestao de bebidas alcoolica, visto que o militar alega ter ingerido uma dose excessiva de medicacao utilizada em tratamento psiquiatrico, nao podera sustentar uma condenacao do militar pelo delito de embriaguez em servico. - (...). (TJM-MG: AC n. 0011757-78.2011.9.13.0003, Rel. Juiz Jadir Silva, publicado em 19/12/13)
+80 Nesse sentido: Apelacao Civel - Embriaguez Alcoolica - Falta Disciplinar - Artigo 13, VI, do CEDM - Cerceamento de Defesa - Nao Ocorrncia - Recurso Nao Provido - Sentenca Mantida.- A embriaguez alcoolica e punivel, nos termos do artigo 13, VI, do CEDM, mas nao apenas se o militar estiver em servico, ja que essa falta transgressora pode ocorrer em outras situacoes cotidianas militares. (...). (TJM-MG: AC n. 764, Rel. Juiz Cel PM James Ferreira Santos, publicado em 05/11/2010).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Anvisa mantém um Anexo I atualizado com novas substâncias. O artigo 202 do CPM prevê pena de detenção de seis meses a dois anos para militares que se embriaguem em serviço ou se apresentem embriagados para prestar serviço. O estado de ebriedade pode ser comprovado por testemunhas, mas não pela alegação de halito etílico. O artigo 13, VI, do CEDM prevê punição para embriaguez alcoólica, mesmo fora do serviço.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Manuel da Costa Andrade assinala ser consensual a proibio de valorao do silncio do arguido e deve ser tomado como ausncia pura e simples de resposta, no podendo, enquanto tal, ser levado  livre apreciao da prova. Assinale-se que o acusado ao responder s perguntas no est obrigado a colaborar com a descoberta da verdade, pois, no processo penal o acusado no  destinatrio prprio do respectivo dever de colaborao, na administrao da justia penal. Especialistas em processo penal militar consideram que se o ru tem o direito de permanecer em silncio e essa atitude no poder ser usada contra ele, pois o interrogatrio  um meio de defesa. Do silncio do acusado nada pode ser inferido de concreto. O juiz no pode considerar o silncio do ru para formar sua convico. O livre convencimento deve ser motivado e o juiz no pode fundamentar a deciso condenatria exclusivamente no silncio do acusado, do qual no se pode dessumir nenhum elemento desfavorvel no plano probatrio. Apesar dessas asseres tericas, o acusado considera a possibilidade de seu silncio ser interpretado pelo juiz, e acaba respondendo s perguntas. O seu silncio diante do juiz  um fato excepcional. As inferncias andinas seguem no sentido de que se o acusado calou  porque no tem prova em seu favor. O inocente ante a injustia da acusao exerce a sua autodefesa. Relevante  traar a diferena entre o silncio e a mentira do acusado. O acusado no tem obrigao de fornecer elementos de prova que o prejudiquem. Pode calar-se ou at mentir.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O silêncio do acusado no processo penal não pode ser usado contra ele, pois não é obrigado a colaborar com a descoberta da verdade. O juiz não pode fundamentar a decisão condenatória exclusivamente no silêncio do acusado, pois não se pode inferir nenhum elemento desfavorável. O acusado pode calar-se ou mentir, pois não tem obrigação de fornecer elementos de prova que o prejudiquem.

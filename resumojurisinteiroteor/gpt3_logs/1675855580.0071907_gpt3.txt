@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+POLICIAL. CONDENAO. PERDA DO CARGO DECRETADA EM SEDE DE PROCEDIMENTO ESPECFICO. OBSERVNCIA DO DEVIDO PROCESSO LEGAL. ART. 125,  4, DA CONSTITUIO FEDERAL. CONSTRANGIMENTO ILEGAL NO CONFIGURADO. DENEGAO DA ORDEM. 1. Ao interpretar o artigo 125, 4, da Constituio Federal, especialmente aps as alteraes promovidas pela Emenda Constitucional 19/1998, o Supremo Tribunal Federal posicionou- se no sentido da necessidade de processo especfico para a perda de graduao de praas da Polcia Militar, entendimento seguido pelo Superior Tribunal de Justia. 2. In casu, a perda da graduao decorreu de processo especfico, nos termos do art. 125, 4, da Constituio Federal e no como efeito secundrio da condenao por crime militar, observados, portanto, os princpios do devido processo legal, do contraditrio e da ampla defesa. 3. Ordem denegada. (...omissis...). (STJ, HC 185112/RS, relator Ministro Jorge Mussi, Quinta Turma, julgamento realizado em 18/08/2011, acrdo publicado no DJe 29/08/2011). - grifei. J se encontra firmado o entendimento de que o art. 102 do Cdigo Penal Militar foi derrogado pela parte final do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal Superior de Justiça negou a ordem de habeas corpus, pois a perda da graduação de praça da Polícia Militar decorreu de processo específico, observando os princípios do devido processo legal, do contraditório e da ampla defesa, de acordo com o artigo 125, 4, da Constituição Federal.

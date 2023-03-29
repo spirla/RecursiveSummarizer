@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR RBIO PAULINO COELHO, RELATOR O autor ajuizou a Ao Cvel eproc n. 2000001-80.2021.9.13.0005 em 10/01/2021, com pedido de tutela de urgncia, em face do Estado de Minas Gerais. Contra a deciso do magistrado a quo que indeferiu o pedido de tutela de urgncia, o autor interps o Agravo de Instrumento eproc n. 2000009-72.2021.9.13.0000, cujo provimento foi negado. Em acrdo publicado em 21/09/2021, decidiram os desembargadores da Primeira Cmara, por unanimidade, em negar provimento ao recurso de apelao desta ao cvel, mantendo inclume a sentena de primeiro grau, que rejeitou os pedidos do autor, com base no artigo 485, inciso V, do CPC, extinguindo o processo sem resoluo de mrito. Sesso de julgamento realizada em 29/09/2021. No satisfeito com a deciso colegiada, o autor ops embargos de declarao com pedido de efeitos infringentes, prequestionando toda a matria ventilada, sendo acordado pelos desembargadores da Primeira Cmara pela rejeio dos embargos de declarao. Sesso de julgamento do dia 17/11/2021. Em 17/03/2021, o autor ajuizou a Ao Cvel eproc n. 200002426.2021.9.13.0005, objeto de anlise e apreciao neste feito, cuja sentena proferida pelo juiz de direito titular da 5a AJME teve como supedneo o inciso VI,  1,  2 e  3, do artigo 337 do CPC, ficando caracterizada a litispendncia entre a presente ao, distribuda em 17/02/2021 e a Ao Cvel de n. 2000001-80.2021.9.13.0005, anteriormente distribuda, em 10/01/2021, uma vez que ambas se encontram em curso e possuem as mesmas partes, causa de pedir e pedidos. Com isso, o magistrado a quo, em sentena proferida, com base no artigo 485, inciso V, do CPC, rejeitou os pedidos do autor e extinguiu o processo sem resoluo de mrito. Sesso de julgamento realizada no dia 09/08/2021. Alega o apelante, em suas razes recursais, que no existe litispendncia no presente feito. Esta ao traz em seu bojo ilegalidades encontradas no PAD instaurado em desfavor do apelante, que diferem da primeira ao. Em ambas as aes, o fato apurado refere-se  conduta antitica residual praticada pelo ora apelante, incompatvel com os valores e princpios tico-militares consubstanciados no CEDM, no perodo de 16/09/2015 a 26/10/2015, quando o recorrente ter-se-ia apropriado de um carto do Banco Bradesco, retirado da residncia de uma idosa, quando a sua esposa Veralcia Cardoso dos Reis ali trabalhava como enfermeira, bem como  realizao de compras em vrias lojas no comrcio, no valor aproximado de R$75.000,00 (setenta e cinco mil reais). O artigo 337 do CPC estabelece que: Art. 337 - Incumbe ao ru, antes de discutir o mrito alegar: [...] VI - litispendncia; [...]  1 - Verifica-se a litispendncia ou a coisa julgada quando se reproduz ao anteriormente ajuizada.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Primeira Cmara Cvel do Tribunal de Justia de Minas Gerais, por unanimidade, negou provimento ao recurso de apelao de uma ao cvel, mantendo a sentena de primeiro grau que rejeitou os pedidos do autor, com base no artigo 485, inciso V, do CPC, extinguindo o processo sem resoluo de mrito. Posteriormente, os desembargadores rejeitaram os embargos de declarao do autor. O magistrado a quo, em sentena proferida, rejeitou os pedidos do autor e extinguiu o processo sem resoluo de mrito, com base no artigo 485, inciso V, do CPC, devido ao reconhecimento da litispendncia entre a ao em questo e outra anteriormente ajuizada.

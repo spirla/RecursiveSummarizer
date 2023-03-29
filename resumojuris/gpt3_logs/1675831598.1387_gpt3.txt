@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Cadastro no CNPJ. Exigibilidade. Presuncao relativa. DESTAQUE O produtor rural, pessoa fisica inscrito no CNPJ e devedor da contribuicao ao salario-educacao, ja o produtor rural, pessoa fisica nao inscrito no CNPJ nao e contribuinte, salvo se tratar de produtor que desenvolve atividade empresarial. A definicao do sujeito passivo da obrigacao tributaria referente a contribuicao ao salario-educacao foi realizada pelo art. 1,  3, da Lei n. 9.766/1998, pelo art. 2,  1, do Decreto n. 3.142/1999 e, posteriormente, pelo art. 2, do Decreto n. 6.003/2006. Sendo assim, em havendo lei especifica e regulamento especifico, nao se aplica a contribuicao ao salario-educacao o disposto no paragrafo unico, do art. 15, da Lei n. 8.212/1991, que estabelece a equiparacao de contribuintes individuais e pessoas fisicas as empresas no que diz respeito as contribuicoes previdenciarias. O produtor-empregador rural, pessoa fisica, somente sera devedor da contribuicao ao salario-educacao se restar factualmente caracterizado como empresa, nos termos do art. 1,  3, da Lei n. 9.766/1998, sendo ilicito o item do Anexo IV, da Instrucao Normativa RFB n. 971/2009, ao estabelecer que o produtor rural, pessoa fisica, esta sujeito ao recolhimento da contribuicao devida ao FNDE, incidente sobre a folha de salarios.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O produtor rural, pessoa fisica, inscrito no CNPJ é devedor da contribuição ao salário-educação. 2. O produtor rural, pessoa fisica, não inscrito no CNPJ não é contribuinte, salvo se tratar de produtor que desenvolve atividade empresarial. 3. O sujeito passivo da obrigação tributária referente à contribuição ao salário-educação foi definido pelo art. 1, § 3, da Lei n. 9.766/1998, pelo art. 2, § 1, do Decreto n. 3.142/1999 e, posteriormente, pelo art. 2, do Decreto n. 6.003/2006. 4. O produtor-empregador rural, pessoa fisica, somente será devedor da contribuição ao salário-educação se restar factualmente caracterizado como empresa, nos termos do art. 1, § 3, da Lei n. 9.766/1998. 5. É ilícito o item do Anexo IV, da Instrução Normativa RFB n. 971/2009, ao estabelecer que o produtor rural, pessoa física, está sujeito ao recolhimento da contribuição devida ao FNDE, incidente sobre a folha de salários.

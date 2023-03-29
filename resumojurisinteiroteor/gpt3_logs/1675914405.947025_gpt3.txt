@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Preliminar - Prescrio da pretenso punitiva estatal - artigo 123, IV c/c o artigo 125, VII do CPM Em relao  preliminar, o apelante narra que: [...] Pela pena fixada em sentena, qual seja, 04 (quatro) meses de deteno em regime aberto verifica-se a prescrio retroativa da pretenso punitiva estatal, j que transcorrido mais de 02 (dois) anos entre a data dos fatos em o prximo marco interruptivo que  o recebimento da denncia. Segundo consta da pea inicial acusatria os fatos ocorreram em 28 de setembro de 2016 - vide Evento 1 - DENUNCIA1. A exordial acusatria foi recebida em 13 de janeiro de 2020, conforme se verifica no Evento1 - RECE_DENUN2. Em sentena o Juzo da 4a Auditoria desta Justia Castrense fixou uma pena ao ora apelante no patamar de 04 (quatro) meses - Evento 160 - SENT1. Pois bem, conforme previso legal do artigo 125, VII do CPM as penas fixadas em patamar inferior a um ano prescrevem em dois anos. No presente feito, da data dos fatos at o recebimento da denncia transcorreram mais que os dois anos previstos no diploma legal. [.] Com efeito, a prescrio invocada pelo apelante no merece prosperar, tendo em vista que a arguio baseia-se na viso pessoal do mesmo acerca do instituto, diga-se, de forma absolutamente equivocada. A prescrio do art. 123, IV, c/c o art. 125, VII, do CPM refere-se  prescrio pela pena em abstrato, ou seja, pelo mximo da pena objetivamente estabelecida no preceito secundrio do tipo penal incriminador, que, no caso, possui pena mxima de 01 (um) ano, e, portanto, o prazo prescricional  de 04 (quatro) anos. Sabendo que o fato  de 28 de setembro de 2016, e que a denncia foi recebida no dia 13 de janeiro de 2020, resta bvio que no transcorreu o prazo prescricional de 04 anos entre a data do fato e a data do recebimento da denncia. Da mesma forma, e para que no se alegue outra espcie de prescrio, destaco que tambm no ocorreu a prescrio pela pena em concreto, ou seja, considerando a pena fixada de 04 (quatro) meses de deteno, apesar de haver sentena condenatria de que somente o ru tenha recorrido. No caso do art. 125,  1, do CPM, tambm no transcorreu o prazo prescricional de 02 (dois) anos entre a data do recebimento da denncia e a data da sentena, esta ltima lanada em 28 de outubro de 2021. Portanto, passo pela preliminar, rejeitando-a. No mrito da ao penal, melhor sorte no socorre o apelante quanto  prtica do crime de leso corporal leve. A prova dos autos, tanto a testemunhal quanto a documental, corrobora as alegaes da vtima Walterson Cardoso Duarte, demonstrando que os fatos ocorreram tal como narrados na denncia.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A preliminar de prescrio da pretenso punitiva estatal foi rejeitada, pois o prazo prescricional não havia transcorrido. No mérito, a prova dos autos corroborou as alegações da vítima, demonstrando que os fatos ocorreram tal como narrados na denúncia.

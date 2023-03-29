@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Segundo a legislacao do Estado de Santa Catarina (LC n. 501/2010), todas as atribuicoes dos oficiais da infancia e juventude estao associadas a atuacao nessa especifica competencia. Nao ha margem de discricionariedade para que o administrador, no particular, inclua os oficiais de infancia e juventude no plantao geral, por mais razoavel que pareca a ideia, sendo certo que se trata, aqui, de controle de legalidade do ato, o qual acabou contrariando a lei. 180 No caso, nao e possivel extrair da fonte normativa nenhum comando que permita que os recorrentes desempenhem as funcoes dos oficiais gerais, por mais que as incumbencias sejam semelhantes, nao havendo margem de discricionariedade para que o administrador inclua os oficiais de infancia e juventude no plantao geral, ainda que seja oportuno e conveniente. (Informativo n. 730) PROCESSO RMS 64.121-GO, Rel. Min. Sergio Kukina, Primeira Turma, por unanimidade, julgado em 22/03/2022, DJe 25/03/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Lei. n. 19.569/2016 do Estado de Goias. Servidores inativos. Reposicionamento. Nao exercicio do direito de opcao. Permanencia no regime revogado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedado ao administrador incluir os oficiais de infância e juventude no plantão geral, mesmo que seja oportuno e conveniente, pois não há margem de discricionariedade para tal. 2. Não é possível extrair da fonte normativa nenhum comando que permita que os recorrentes desempenhem as funções dos oficiais gerais, mesmo que as incumbências sejam semelhantes. 3. É vedado o reposicionamento dos servidores inativos no regime revogado, caso não seja exercido o direito de opção.

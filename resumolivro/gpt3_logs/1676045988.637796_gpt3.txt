@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos termos do artigo 98 do CP, caso o semi-imputvel necessite de especial tratamento curativo, a pena privativa de liberdade poder ser substituda por medida de segurana, seja na modalidade de internao em manicmio, seja de tratamento ambulatorial. A alternativa, entretanto, no constitui faculdade do magistrado. Embora o dispositivo legal mencione que a substituio da pena pela medida de segurana pode ser determinada pelo juiz, a substituio dever ser deferida sempre que o condenado necessitar do tratamento e existir procedimento teraputico adequado ao caso. Certamente, atende melhor aos interesses da sociedade que o condenado seja tratado e as causas da incompreenso quanto ao carter ilcito do fato no mais persistam. No entanto, pode-se reconhecer que o condenado tem direito ao tratamento que  disponvel. No caso de estar o condenado acometido de doena mental ou de apresentar desenvolvimento mental incompleto ou retardado, havendo a possibilidade de melhora de seu quadro clnico, o tratamento humanitrio que lhe deve ser dirigido  teraputico, e no repressivo. As discusses relativas  reduo de pena e  opo pela imposio de medida de segurana sero mais bem estudadas no Captulo 16, item 16.5. 8.9.2. Inexigibilidade por incompreenso da ilicitude do fato. Imputabilidade  qualidade da conduta que a relaciona a sujeito com capacidade psquica mnima para ser responsabilizado pelo cometimento do crime. Constitui o primeiro elemento do juzo de reprovao penal e fundamenta-se na normalidade do poder de discernimento e autoconduo do sujeito. Essa capacidade de culpa deve existir genericamente em relao s situaes concretas da vida dos indivduos, independente do atuar do sujeito. Superado o exame de seu primeiro elemento, o juzo de reprovao impe apurar se, no momento da prtica criminosa, em relao ao fato concreto, o sujeito poderia compreender a ilicitude de seus atos. O potencial conhecimento da ilicitude do fato significa a capacidade do sujeito para concretamente apreender a ilicitude de sua conduta. Trata-se do segundo momento do exame da culpabilidade e, da mesma forma que o primeiro, fundamenta a censura penal na possibilidade de exigir-se do indivduo comportamento diverso do que manifestou. No sendo possvel ao sujeito perceber a ilicitude de sua conduta, no  possvel censurar-lhe a finalidade manifestada na conduta socialmente inadequada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 98 do CP prevê a substituição da pena privativa de liberdade por medida de segurança para condenados semi-imputáveis que necessitem de tratamento, desde que exista um procedimento terapêutico adequado. O tratamento deve ser humanitário e terapêutico, não repressivo, e a inexigibilidade da ilicitude do fato deve ser apurada para verificar se o sujeito tinha capacidade para compreender a ilicitude de sua conduta.

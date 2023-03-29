@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A teoria da actio libera in causa confere tratamento distinto s diversas formas pelas quais o sujeito pode alcanar o estado de embriaguez ou entorpecimento, de modo a responsabilizar o sujeito que se embriaga voluntria ou culposamente. Considerando a maneira como o sujeito embriaga-se, pode-se ter a seguinte classificao:
+a) embriaguez voluntria: verifica-se quando o sujeito consome bebidas alcolicas agindo livre, voluntria e conscientemente. Se a deciso de beber estiver relacionada com o plano criminoso do sujeito, a embriaguez  dita preordenada. Nesse caso, existe inteno de embriagar-se e, posteriormente, produzir o resultado ilcito. No entanto, a embriaguez pode ser desejada pelo sujeito, mas no em situao instrumentalmente vinculada a qualquer plano delitivo; agora, tem-se a embriaguez no preordenada. No havendo inteno de produzir o resultado tpico, a responsabilizao do sujeito pela realizao da conduta quando embriagado depende da satisfao dos requisitos do fato culposo, em especial da previsibilidade quanto  produo do resultado e da tipificao do fato a ttulo de culpa;
+b) embriaguez culposa: ocorre quando o sujeito no quer embriagar-se, mas tal fato acaba acontecendo, devido a seu comportamento descuidado. A embriaguez proveniente de culpa pode acontecer com previso subjetiva, ou seja, quando o sujeito previu que poderia embriagar-se; ou sem previso subjetiva, quando o sujeito no previu que seu comportamento descuidado poderia lev-lo a embriagar-se. A embriaguez dita culposa reconhece apenas que o descuido do sujeito produziu o estado de inimputabilidade, no que o crime cometido em estado de ebriez seja culposo: culpa na embriaguez no significa comportamento tpico culposo;
+c) embriaguez fortuita: verifica-se quando o sujeito no quer embriagar-se, mas, por acidente atribuvel ao acaso, ocorre a embriaguez. Conforme o artigo 28 do Cdigo Penal, nesse caso, a embriaguez produz a irresponsabilidade do sujeito. Certamente, a exculpao somente se justifica na hiptese de embriaguez completa. Havendo capacidade de entendimento e autodeterminao, ainda que mnima, o sujeito  imputvel;
+d) embriaguez por motivo de fora maior: decorre da situao de fato que obriga, em razo da superioridade de foras, que o sujeito embriague-se. Pode-se exemplificar a hiptese com a ingesto de bebidas alcolicas forada por terceira pessoa. Da mesma forma que a embriaguez fortuita, acarreta irresponsabilidade do sujeito, se completa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria da actio libera in causa distingue quatro formas de embriaguez: voluntria (preordenada ou no preordenada), culposa, fortuita e forada. A responsabilidade do sujeito depende da forma de embriaguez e da satisfao dos requisitos do fato culposo. Em casos de embriaguez completa, o sujeito irresponsável.

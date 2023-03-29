@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...] (Evento 6 - PEAS IPM2 - p. 24/26 - Processo Originrio) (Destaca-se). Em juzo, Rosemary Lopes da Silva Souza falou que, no dia dos fatos, um rapaz foi-lhe avisar que o seu filho estaria sendo agredido por policiais e, em seguida, uma amiga sua foi-lhe contar a mesma coisa. Disse que ficou sabendo que o seu filho foi agredido, inicialmente, dentro da residncia da Kelly e, em sequncia, em um lote vago. Relatou que os policiais no a deixaram chegar perto do ofendido, para saber se ele estava bem. Afirmou que viu seu filho apenas na delegacia, salientando que havia uma marca de bota na blusa que ele vestia e que o seu short estava molhado, pois havia urinado, em razo das agresses sofridas. Disse que Kelly lhe contou que os policiais bateram no seu filho dentro da residncia dela, destacando que os militares pularam em cima do trax dele. Relatou que foi o delegado quem reparou que o ofendido estava muito machucado e que guardou a roupa utilizada por ele, para, posteriormente, entregar  polcia. Asseverou que o delegado lhe contou que os rus j haviam agredido outra pessoa dias antes do fato e a encaminhou para um promotor de justia. Disse que, no dia dos fatos, a vtima estava muito machucada e com muita dor, alm de ter ficado com as mos inchadas, em virtude das algemas. Relatou que o Sgt PM David foi-lhe procurar no dia dos fatos, pedindo para cuidar do ofendido e lev-lo ao hospital, todavia falou que no permitiu, pois, posteriormente, ela mesma iria lev-lo ao mdico. Afirmou que o ofendido no tinha envolvimento com crime na poca dos fatos e que, atualmente, ele se encontra preso por homicdio, apesar de no ter praticado este delito. Alegou que os policiais a perseguiram aps os fatos e, inclusive, deram tapas no rosto do seu filho na rua, destacando, ainda, que o Sgt PM David apontava para o ofendido quando estava em companhia de outros policiais. Confirmou os depoimentos prestados na fase extrajudicial e no quis informar se o seu filho teve envolvimento em outros delitos aps os fatos em exame. Afirmou que entregou as roupas do seu filho  polcia no dia seguinte aos fatos, destacando que o short estava com urina e a blusa com marca de bota (Evento 56 - UDIO/VDEO2; UDIO/VDEO3 - Processo Originrio). A testemunha Dbora Kelly Aguiar da Silva, ouvida apenas na fase extrajudicial, afirmou que estava em sua casa apenas com seu filho de dois anos de idade, quando os policiais pularam dentro do seu lote correndo atrs do ofendido, que havia pulado o muro, dirigindo-se para a casa de outro vizinho. Disse que os policiais tambm pularam o muro, seguindo o ofendido e o levaram para uma casa abandonada. Ao contrrio do que foi sustentado pelo ofendido, afirmou que no presenciou os policiais agredirem-no.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A testemunha Rosemary Lopes da Silva Souza afirmou ter sido informada por um rapaz e uma amiga de que seu filho estava sendo agredido por policiais, tendo visto marcas de bota na blusa e o short molhado do ofendido na delegacia. A testemunha Dbora Kelly Aguiar da Silva, ouvida apenas na fase extrajudicial, afirmou ter visto os policiais perseguindo o ofendido até uma casa abandonada, mas negou ter presenciado as agressões.

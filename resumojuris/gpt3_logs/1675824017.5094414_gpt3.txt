@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ante a ausencia de norma constitucional autorizadora, o Congresso Nacional ou suas comissoes parlamentares nao podem impor aos chefes do Poder Executivo estadual o dever de prestar esclarecimentos e oferecer explicacoes, mediante convocacao de natureza compulsoria, com possivel transgressao a autonomia assegurada constitucionalmente aos entes politicos estaduais e desrespeito ao equilibrio e harmonia que devem reger as relacoes federativas. Caracteriza excesso de poder a ampliacao do poder investigativo das CPIs para atingir a esfera de competencia dos estados federados ou as atribuicoes exclusivas  competencias autonomas  do Tribunal de Contas da Uniao (TCU). Os governadores prestam contas perante a Assembleia Legislativa regional (contas de governo ou de gestao estadual) ou perante o TCU (recursos federais), mas jamais perante o Congresso Nacional. A amplitude do poder investigativo das CPIs do Senado Federal e da Camara dos Deputados coincide com a extensao das atribuicoes do Congresso Nacional. Com base nesses entendimentos, o Plenario referendou decisao em que deferido o pedido de medida cautelar em arguicao de descumprimento de preceito fundamental, suspendendo as convocacoes dos governadores realizadas pela CPI da Pandemia, sem prejuizo da possibilidade de o orgao parlamentar convidar essas mesmas autoridades estatais para comparecerem, voluntariamente, a reuniao da comissao a ser agendada de comum acordo. Os ministros Alexandre de Moraes, Gilmar Mendes, Marco Aurelio, Roberto Barroso e Nunes Marques acompanharam com ressalvas a ministra Rosa Weber (relatora). ADPF 848 MC-Ref/DF, relatora Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há norma constitucional autorizadora que permita ao Congresso Nacional ou às suas comissões parlamentares impor aos chefes do Poder Executivo estadual o dever de prestar esclarecimentos e oferecer explicações, mediante convocação de natureza compulsória. 2. Caracteriza excesso de poder a ampliação do poder investigativo das Comissões Parlamentares de Inquérito (CPIs) para atingir a esfera de competência dos Estados federados ou as atribuições exclusivas das competências autonomas do Tribunal de Contas da União (TCU). 3. Os governadores prestam contas perante a Assembleia Legislativa regional (contas de governo ou de gestão estadual) ou perante o TCU (recursos federais), mas jamais perante o Congresso Nacional. 4. A amplitude do poder investigativo das CPIs do Senado Federal e da Câmara dos Deputados coincide com a extensão das atribuições do Congresso Nacional. 5. Foi deferido o pedido de medida cautelar em arguição de descumprimento de preceito fundamental, suspendendo as convocações dos governadores realizadas pela CPI da Pandemia, sem prejuízo da possibilidade de o órgão parlamentar convidar essas mesmas autoridades estatais para comparecerem, voluntariamente, a reunião da comissão a ser agendada de comum acordo.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+464 do Cdigo de Processo Civil (CPC) permite ao juiz indeferir a percia quando: I - a prova do fato no depender de conhecimento especial de tcnico; II - for desnecessria em vista de outras provas produzidas; III - a verificao for impraticvel. De acordo com o CPC, no mesmo artigo acima identificado, o juiz pode, em tais casos, at substituir a percia pela produo de prova tcnica simplificada, mas deve demonstrar que o ponto controvertido  de menor complexidade. No caso em estudo, parece-me que o ponto sobre o qual repousa toda a controvrsia apresenta grau significativo de complexidade. E nem podemos alegar que, se o militar for portador de sofrimento mental, deve ser interditado. Nada disso. De acordo com o Cdigo Civil (CC), em seu artigo 3, so absolutamente incapazes apenas os menores de dezesseis anos, excluindo-se as pessoas com enfermidade ou deficincia mental e qualificando-se como relativamente incapazes os que, por causa transitria, no puderem exprimir sua vontade (na redao originria, eram absolutamente incapazes). Portanto, o militar pode apresentar enfermidade mental e ser capaz para os atos da vida civil, preservando os direitos de famlia (inclusive de se casar, de ter filhos e exercer os direitos da parentalidade), do trabalho, eleitoral (de votar e ser votado), de ser testemunha e de obter documentos oficiais de interesse da pessoa com deficincia. Bom. Fiz todas essas consideraes para mostrar que existe uma enfermidade mental e psquica que acomete o militar, que essa enfermidade  grave, que existem as transgresses praticadas em tempo no qual j havia a doena e seus efeitos, que o militar aponta que as transgresses decorrem de seu problema psquico, que no houve incidente de insanidade nos procedimentos administrativos (apesar de sugerido pela prpria administrao), e que no houve percia nos autos do processo judicial. Se o juiz disse em sua sentena que, [...] se demonstrado, fartamente, que o militar  recorrente nas especialidades mdicas de psiquiatria e psicanlise, a concluso pela ilegalidade praticada pela Administrao Militar em no observar o seu estado de sade,  inevitvel. Ademais, a ausncia de relato mdico que comprove a incapacidade do militar em responder pelos seus atos no momento da prtica transgressional,  conduta falha da prpria corporao, que sequer analisou o seu pedido de realizao de percia psicolgica., como pode indeferir a pleito da mesma prova, ainda inexistente, nos autos dessa ao? Vimos que a percia, na forma da lei, se impe em casos como este, quando sequer existe uma percia psicopatolgica realizada pela administrao militar. De que outra forma um autor pode provar que transgrediu em razo de problemas decorrentes da enfermidade mental e psquica que o acomete?
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O juiz indeferiu o pedido de percia ao militar, pois o mesmo apresenta enfermidade mental e psquica, e a verificao do ponto controvertido apresenta grau significativo de complexidade. O Cdigo Civil (CC) exclui as pessoas com enfermidade ou deficincia mental da condio de absolutamente incapazes, e o juiz considerou que a ausncia de relato mdico que comprove a incapacidade do militar em responder pelos seus atos no momento da prtica transgressional conduta falha da prpria corporao, que sequer analisou o seu pedido de realizao de percia psicolgica. Assim, a percia, na forma da lei, se impe para que o autor possa provar que transgrediu em razo de problemas decorrentes da enfermidade mental e psquica que o acomete.

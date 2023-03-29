@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, a Primeira Turma, por maioria, negou provimento a agravo regimental em habeas corpus. Vencido, em parte, o ministro Roberto Barroso. RHC 123891 AgR/DF, relatora Min. Rosa Weber, julgamento finalizado em 23.2.2021 (INF 1007) Fornecimento de dados a Agencia Brasileira de Inteligencia (ABIN) e controle judicial de legalidade - ADI 6529/DF Resumo: Os orgaos componentes do Sistema Brasileiro de Inteligencia somente podem fornecer dados e conhecimentos especificos a ABIN quando comprovado o interesse publico da medida. Os mecanismos legais de compartilhamento de dados e informacoes previstos no paragrafo unico do art. 4 da Lei 9.883/1999 sao previstos para abrigar o interesse publico. O compartilhamento de dados e de conhecimentos especificos que visem ao interesse privado do orgao ou de agente publico nao e juridicamente admitido, caracterizando-se desvio de finalidade e abuso de direito. O fornecimento de informacoes entre orgaos publicos para a defesa das instituicoes e dos interesses nacionais e ato legitimo. E proibido, no entanto, que essas finalidades se tornem subterfugios para atendimento ou beneficio de interesses particulares ou pessoais. Toda e qualquer decisao de fornecimento desses dados devera ser devida e formalmente motivada para eventual controle de legalidade pelo Poder Judiciario. Cabe destacar que a natureza da atividade de inteligencia, que eventualmente se desenvolve em regime de sigilo ou de restricao de publicidade, nao afasta a obrigacao de motivacao dos atos administrativos. A motivacao dessas solicitacoes mostra-se indispensavel para que o Poder Judiciario, se provocado, realize o controle de legalidade, examinando sua conformidade aos principios da proporcionalidade e da razoabilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os órgãos componentes do Sistema Brasileiro de Inteligência somente podem fornecer dados e conhecimentos específicos à ABIN quando comprovado o interesse público da medida. 2. O compartilhamento de dados e de conhecimentos específicos que visem ao interesse privado do órgão ou de agente público não é juridicamente admitido, caracterizando-se desvio de finalidade e abuso de direito. 3. O fornecimento de informações entre órgãos públicos para a defesa das instituições e dos interesses nacionais é um ato legítimo. 4. É proibido que essas finalidades se tornem subterfúgios para atendimento ou benefício de interesses particulares ou pessoais. 5. Toda e qualquer decisão de fornecimento desses dados deverá ser devidamente motivada para eventual controle de legalidade pelo Poder Judiciário. 6. A motivação dessas solicitações é indispensável para que o Poder Judiciário, se provocado, realize o controle de legalidade, examinando sua conformidade aos princípios da proporcionalidade e da razoabilidade.

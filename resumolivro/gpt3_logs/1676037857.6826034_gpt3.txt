@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A tarefa da dogmtica consiste em responsabilizar indivduos pela produo de resultados que violem a finalidade protetiva da norma jurdica e, portanto, o resultado naturalstico produzido sem violao dessa norma no deve ser considerado, para o Direito Penal, obra de determinada pessoa, mas de um acidente. Por isso,  certo que uma teoria da imputao objetiva considera a intencionalidade, mas somente como atributo inerente a toda conduta em sentido naturalstico. A imputao objetiva resulta da seleo, dentre as condutas naturais, daquela que  de interesse do Direito Penal, ou seja, aquela que possa ser reprovada como obra de seu autor. Para a imputao objetiva, importa saber que as expectativas sociais foram frustradas com o comportamento do sujeito, mesmo antes de considerar o contedo especfico de sua subjetividade. Exemplificando: para a imputao objetiva, no importa se o mdico era Pedro ou Jos, mas examina-se, no caso concreto, a conduta esperada de um mdico. Nesse aspecto, Jakobs ressalta que a violao da norma decorre da frustrao das expectativas sociais que se baseam no papel social exercidio pelo sujeito. Tal exame considera que a conduta seja intencional, como manifestao natural de um querer, que se refere a algum que exerce determinado papel social. No plano da imputao objetiva, o exame do elemento intencional vai at o ponto de valorizar a conduta intencional de um mdico, no exemplo. Somente na imputao subjetiva examina-se o aspecto individual da inteno do sujeito, no qual no interessa a condio genrica de mdico, mas sim a subjetividade de Pedro ou Jos no caso concreto; vale dizer, se podia prever ou no o resultado, se diretamente quis a produo do resultado ou se assumiu o risco de produzi-lo. Nesse sentido, leciona Marcelo Sancinetti que. la idea de que la teora de la imputacin objetiva es incompatible con una concepcin subjetiva del ilcito no es correcta. La misin de establecer los principios complementarios para la interpretacin del tipo (objetivo) que le cabe a la imputacin objetiva no dice nada acerca de si el ilcito est constituido por el dolo, la imprudencia, o, por ellos, ms la realizacin del tipo objetivo en el mundo exterior. Na verdade,  justamente a percepo de que a conduta deve ser finalisticamente orientada que permite reconhecer a impossibilidade de imputar-se um resultado produzido em ato reflexo (tambm denominado curto-circuito). 3.3. mbito de aplicao da imputao objetiva.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A dogmtica responsabiliza indivíduos pelos resultados que violem a finalidade protetiva da norma jurdica. A imputao objetiva seleciona, entre as condutas naturais, aquela que possa ser reprovada como obra do autor. Nesse sentido, a teoria da imputao objetiva considera a intencionalidade como atributo inerente a toda conduta em sentido naturalístico. A imputao objetiva também examina a frustração das expectativas sociais, baseadas no papel social exercido pelo sujeito.

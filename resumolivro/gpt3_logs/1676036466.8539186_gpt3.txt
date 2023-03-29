@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+As formulaes tericas que buscaram conceituar o crime por meio de uma estratificao analtica receberam grande influncia do pensamento alemo, sendo trabalhadas por Feuerbach em 1801 antes mesmo da Escola Positiva italiana, que percebia o delito como ao antijurdica e culpvel,171 bem como por Stbel, contemporneo de Carrara, que realou a distino entre injusto e imputao do fato. O conceito analtico do crime foi posteriormente enriquecido por noo formal que destaca a contradio da conduta humana com a norma penal e noo substancial, a qual, perquirindo os valores tico-sociais que inspiraram o legislador penal, percebe a ofensa a esses valores na ao do homem que delinque. Nesse sentido, Bettiol assinala que a noo substancial do delito importa a considerao dos valores tico-sociais que formam o conectivo da vida de relaes. A lei penal retrata o grau de moralidade de um povo e os critrios ticos que orientam a sua dinmica social. O contedo da noo substancial somente pode ser apurado por meio de indagaes que percorram caminho inverso ao traado pelos positivistas e analisem a conduta delitiva, a fim de que esta encontre seu verdadeiro relevo social. Essa noo pressupe a clara distino entre o homem que delinque e sua ao delituosa. A inicial estruturao analtica bipartida pelo critrio objetivo-subjetivo sofreu constantes revises. Com Beling, tomou a forma tripartida, por meio da introduo do conceito de tipo;174 com Carnelutti, foi vislumbrada sob a forma pentapartida;175 e com Jimnez de Asa, alcanou o pluridimensionalismo. A doutrina penal moderna, embora reconhecendo que o delito possui natureza conceitual complexa, consolidou a perspectiva tripartite segundo a qual o crime  um fato tpico, ilcito e culpvel. Vale registrar a posio de alguns professores brasileiros, que sustenta ser o crime um fato tpico e ilcito, sendo a culpabilidade apenas um pressuposto da aplicao da pena. No entanto, a aplicao da pena no pressupe unicamente a culpabilidade, mas tambm a realizao de fato tpico e ilcito. A doutrina majoritria entende que a infrao penal , antes de tudo, um fato pessoal de sujeito determinado e que a noo de crime no se confunde com a noo de injusto. A concepo bipartite defendida por tais autores leva a concluir que o menor e o louco cometem crimes, embora no sejam punidos por ausncia de culpabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria do crime foi influenciada pelo pensamento alemão e trabalhada por Feuerbach e Stbel. Posteriormente, foi enriquecida com a noção formal que destaca a contradição da conduta humana com a norma penal e noção substancial que considera os valores éticos-sociais que inspiraram o legislador penal. A doutrina penal moderna tem uma perspectiva tripartite segundo a qual o crime é um fato típico, ilícito e culpável. Alguns professores brasileiros defendem que o crime é um fato típico e ilícito, sendo a culpabilidade apenas um pressuposto da aplicação da pena.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Segundo os doutrinadores mais autorizados, o Direito Penal brasileiro adotou o princpio da culpabilidade como fundamento essencial e como limite para a aplicao da pena. Conforme leciona Francisco de Assis Toledo,9 com as mudanas introduzidas pela reforma de 1984, nosso ordenamento repressivo passou  modernidade sob a gide de um Direito Penal da culpabilidade, o que significa dizer que o indivduo somente deve receber a censura penal em virtude dos atos que praticou. Essa consagrao do princpio da culpabilidade reconhece ao indivduo sua qualidade de pessoa capaz de conduzir-se racionalmente no ambiente social. Estabelecendo ntida distino de tratamento entre a culpabilidade e a periculosidade, a nova parte geral do Cdigo Penal vincula a pena  culpabilidade do sujeito, reservando a medida de segurana apenas ao sujeito tido como perigoso. A adoo do princpio da culpabilidade como fundamento e limite para a aplicao da pena possui como vantagens a ocorrncia de maior despenalizao, com a excluso da punibilidade de comportamentos tpicos, quando no for possvel censurar-lhe o autor, e o estabelecimento de uma dosimetria mxima pela culpabilidade. O primeiro contato com o tema evidencia que o Cdigo Penal brasileiro no determina um conceito para a culpabilidade, mas indica, no artigo 59, que a culpabilidade  um dos critrios orientadores da tarefa de individualizao da pena. Analisando o artigo 29, percebe-se que a culpabilidade estabelece o limite mximo da pena, bem como que  um juzo de valor que admite graduao. Havendo concurso de pessoas no crime, cada uma delas dever receber reprovao distinta, tendo em vista a medida de sua culpabilidade. O exame da culpabilidade , por excelncia, um juzo de valor que comporta graduao, ao contrrio do que acontece com os exames relativos  tipicidade e  ilicitude do fato. J se afirmou que, caso o princpio da individualizao da pena fosse fielmente observado, no seria possvel que dois indivduos acusados pela prtica de um mesmo crime recebessem penas idnticas. Expressamente, a imputabilidade e a conscincia da ilicitude do fato, momentos do juzo de reprovao da culpabilidade, admitem graduao. Nesse sentido,  possvel reconhecer-se culpabilidade diminuda tanto nos casos de semi-imputabilidade, do artigo 26, pargrafo nico, quanto no de erro de proibio evitvel, previsto no artigo 21, ambos do Cdigo Penal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Direito Penal brasileiro adotou o princípio da culpabilidade como fundamento essencial e limite para a aplicação da pena, vinculando-a às ações do sujeito. O princípio da individualização da pena prevê que dois indivíduos acusados pelo mesmo crime não recebam penas idênticas, podendo haver graduação de culpabilidade em casos de semi-imputabilidade ou erro de proibição evitável.

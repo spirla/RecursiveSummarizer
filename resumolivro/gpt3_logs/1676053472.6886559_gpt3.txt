@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Por parte deve-se entender qualquer dos sujeitos da relao processual, como o autor, o ru, aquele que  chamado  autoria, o assistente, o opoente, o terceiro prejudicado que interpe recurso e os beneficiados com a partilha no inventrio. O procurador da parte  aquele que detm procurao para defender o interesse da parte perante o rgo jurisdicional. A opinio desfavorvel emitida por funcionrios pblicos, como os policiais ou funcionrios do juzo, bem como de pessoas que prestam servios ao juzo, como os peritos e os intrpretes judiciais, em apreciao ou informao que preste no cumprimento de dever do ofcio, no caracteriza injria ou difamao tendo em vista o disposto no inciso III do artigo 142 do CP. As testemunhas que, cumprindo com o dever de relatar a verdade dos fatos, prestarem informaes ofensivas  honra de outras pessoas no respondem por qualquer crime. O dever de prestar o testemunho com base na verdade torna a conduta socialmente adequada e impede a imputao objetiva de qualquer crime contra a honra. Se, no entanto, a testemunha livre e conscientemente prestar informaes falsas deve-se caracterizar o crime especfico do falso testemunho (artigo 342 do CP). Ofensa ao juiz ou aos servidores judiciais. A doutrina tradicional consagrou o entendimento de que a imunidade judiciria no impede a caracterizao da injria ou da difamao quando a ofensa  dirigida pela parte ou seu procurador contra o juiz da causa (nas razes de recurso, por exemplo) ou contra outros funcionrios pblicos que venham a intervir na causa exercendo funes pblicas.  certo que o juiz no participa da discusso da causa. O magistrado julga a causa que lhe  apresentada pelas partes e no discute a causa com elas. O mesmo se pode dizer dos servidores pblicos que intervm no processo judicial. Contudo, a imunidade estabelecida no estatuto repressivo e na legislao especial no se restringe s afirmaes irrogadas em juzo por uma parte ou seu procurador contra a outra parte ou seu procurador, podendo tambm ser aplicada em relao s afirmaes que envolvem terceiros, mesmo que no sejam participantes da relao processual, como  o caso da vitima em processo criminal de ao pblica. Os argumentos defensivos potencialmente ofensivos quando dirigidas contra a vitima, os policiais que efetuaram a priso e at mesmo os servidores judiciais que trabalham no processo costumam ser admitidos sem maiores problemas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O procurador da parte aquele que detm procurao para defender o interesse da parte perante o órgão jurisdicional. A opinião desfavorável emitida por funcionários públicos, como os policiais ou funcionários do juízo, não caracteriza injúria ou difamação. As testemunhas que prestem informações ofensivas à honra de outras pessoas não respondem por qualquer crime, mas se prestar informações falsas deve-se caracterizar o crime de falso testemunho. A imunidade judiciária não impede a caracterização da injúria ou da difamação quando a ofensa é dirigida ao juiz da causa ou a outros funcionários públicos que intervêm na causa.

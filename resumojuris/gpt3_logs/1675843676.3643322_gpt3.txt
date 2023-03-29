@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Embora a viabilidade desse meio de comunicacao, para fins de citacao, seja objeto de polemica, fato e que a jurisprudencia desta Corte so tem declarado a nulidade quando verificado prejuizo concreto ao denunciado. Verifica-se, no entanto, que, no caso sob exame, a diligencia foi efetivada sem nenhuma cautela apta a atestar, de forma cabal, a identidade do citando, nem mesmo subsequentemente - o serventuario (Oficial de Justica) nao circunstanciou qual procedimento foi adotado para verificar a identidade do citando, aludindo a simples captura de telas -, sendo que, em decorrencia da diligencia e da ausencia de procuracao subscrita pelo denunciado nos autos, sobreveio a nomeacao de Defensor Publico, que passou a atuar no processo em favor do paciente, inclusive arguindo a nulidade do ato, rechacada pelo Juizo processante. Cumpre destacar, ainda, que as informacoes obtidas em consulta ao portal eletronico do Tribunal de origem indicam que ainda nao foi designada audiencia de instrucao em julgamento, ou seja, o reu ainda nao compareceu pessoalmente ao Juizo, circunstancia que afasta a aplicacao da regra prevista no art. 563 do CPP. (Informativo  Ed. Especial n. 4) 784 LEGISLACAO CPP, arts. 351, 357 e 563. Processo HC 660.332-RJ, Rel. Min. Sebastiao Reis Junior, Sexta Turma, julgado em 24/08/2021, DJe 16/09/2021. Ramo do Direito DIREITO CONSTITUCIONAL, DIREITO PENAL Tema Instituto Penal Placido de Sa Carvalho - IPPSC. Resolucao editada em 22/11/2018 pela Corte Interamericana de Direitos Humanos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A jurisprudência desta Corte só tem declarado a nulidade da citação quando verificado prejuízo concreto ao denunciado. 2. Não foi adotado nenhum procedimento para verificar a identidade do citando. 3. A regra prevista no art. 563 do CPP não se aplica no caso em questão, pois ainda não foi designada audiência de instrução em julgamento.

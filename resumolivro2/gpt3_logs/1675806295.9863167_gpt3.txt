@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O Cdigo Penal Militar  especial em relao ao Cdigo Penal. Em caso de conflito, aplica-se a norma penal do CPM (por exemplo , aplica-se a norma do artigo 209 do CPM e no a do artigo 129 do CP). A legislao penal extravagante  especial em relao ao Cdigo Penal Militar (por exemplo , aplica-se a norma do artigo 303 da Lei 9.503/1997 e no a do artigo 209 do CPM em caso de leso culposa em acidente de trnsito). As modificaes provocaram reflexes e debates, pois, crimes previstos no Cdigo Penal e na legislao penal, que eram da competncia da justia comum, agora so da jurisdio castrense, sobretudo, quando praticados em razo de emprego de tropas federais em operao da lei e da ordem (LGO) e da submisso, em alguns desses novos crimes, do civil ao foro militar;
+e por conta dos chamados crimes de policiamento na situao prevista no CPM, artigo 9, II, alnea c, em que o militar em servio o pratica contra civil. O STJ concluiu pela aplicao imediata da Lei n. 13.491/2017 por fora do princpio tempus regit actum e declarou competente o Juzo Auditor da 4. Auditoria da 1. Circunscrio Judiciria Militar do Estado do Rio de Janeiro. A controvrsia cingia-se em definir o juzo competente para processar e julgar crime praticado, em tese, por militar em situao de atividade contra patrimnio sob a administrao militar antes do advento da Lei n. 13.491/2017:
+(...)2. A Lei n. 13.491/2017 promoveu alterao na prpria definio de crime militar, o que permite identificar a natureza material do regramento, mas tambm ampliou, por via reflexa, de modo substancial, a competncia da Justia Militar, o que constitui matria de natureza processual.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei n. 13.491/2017 alterou a definição de crime militar, ampliando a competência da Justiça Militar. O Código Penal Militar é especial em relação ao Código Penal e, em caso de conflito, aplica-se a norma penal do CPM. A legislação penal extravagante também é especial em relação ao CPM. Esta alteração provocou reflexões e debates, pois crimes previstos no Código Penal e na legislação penal passaram a ser da competência da justiça castrense.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O Pacote Anticrime implementou um cenario de maior complexidade quanto a recidiva do reeducando, visto que, agora, nao se trata apenas do simples exame da natureza do delito (se comum ou hediondo) e da existencia de registros aptos a caracterizar a reincidencia (generica) do apenado, mas, sim, de uma incursao mais apurada no exame dos antecedentes criminais do individuo encarcerado, passando a ganhar ampla relevancia se se trata de crime cometido com ou sem violencia a pessoa ou grave ameaca, crime hediondo ou equiparado ou, ainda, crime hediondo ou equiparado com resultado morte. Na hipotese, o apenado cumpre pena por roubo circunstanciado e outros dois delitos de trafico de drogas, ou seja, resgata a pena relativa a um delito cometido mediante violencia a pessoa ou grave ameaca e outros dois, hediondos ou equiparados. Dessa forma, percebe-se que o reeducando e, entao, reincidente especifico na pratica de crime hediondo ou equiparado, porem, reincidente generico quanto a delitos cometidos mediante violencia a pessoa ou grave ameaca. E equivocada a aplicacao da fracao de 3/5 quanto a totalidade das penas pelas quais foi condenado o paciente. Trata-se de apenado reincidente especifico em crime hediondo, conforme preve o art. 112, VII, da Lei de Execucao Penal, o qual estabelece o cumprimento de 60% da reprimenda para alcance do requisito objetivo necessario a progressao. Por consequencia, quanto aos crimes de trafico de drogas, considerado o carater pessoal da reincidencia, e cogente, de fato, o cumprimento de 60% de ambas as penas impostas, visto que se trata de reincidencia de mesma natureza - a saber, reincidencia em crime hediondo ou equiparado. Todavia, tal logica nao se aplica ao crime comum, visto que o sentenciado e primario na pratica de crime com violencia a pessoa ou grave ameaca, de modo que incide na especie o lapso previsto no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Pacote Anticrime implementou um cenário de maior complexidade quanto à recidiva do reeducando. 2. O exame dos antecedentes criminais do indivíduo encarcerado ganha ampla relevância se se trata de crime cometido com ou sem violência a pessoa ou grave ameaça, crime hediondo ou equiparado ou, ainda, crime hediondo ou equiparado com resultado morte. 3. É equivocada a aplicação da fração de 3/5 quanto à totalidade das penas pelas quais foi condenado o paciente. 4. Trata-se de apenado reincidente específico em crime hediondo, conforme prevê o art. 112, VII, da Lei de Execução Penal, o qual estabelece o cumprimento de 60% da reprimenda para alcance do requisito objetivo necessário à progressão. 5. Considerado o caráter pessoal da reincidência, é cogente, de fato, o cumprimento de 60% de ambas as penas impostas, visto que se trata de reincidência de mesma natureza. 6. Tal lógica não se aplica ao crime comum, visto que o sentenciado é primário na prática de crime com violência a pessoa ou grave ameaça, de modo que incide na espécie o lapso previsto no art.

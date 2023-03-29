@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Manoel Erhardt (Desembargador convocado do TRF da 5 Regiao), Primeira Turma, por unanimidade, julgado em 20/06/2022, DJe 23/06/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Ato administrativo. Revisao. Prazo decadencial quinquenal previsto no art. 54 da Lei n. 9.784/1999. Termo a quo. Ato nao submetido a controle de legalidade de Tribunal de Contas. Data da edicao do ato pela Administracao. DESTAQUE Nas hipoteses em que nao haja exercicio do controle de legalidade por Tribunal de Contas, o prazo decadencial quinquenal previsto no art. 54 da Lei n. 9.784/1999 transcorre a partir da edicao do ato pela Administracao. 165 No caso, a parte recebia a parcela de horas extras incorporadas calculadas de forma parametrizada sobre todas as parcelas remuneratorias, com base em decisao judicial anterior e mediante aplicacao de criterios decorrentes de determinada interpretacao da Administracao acerca da questao, desde antes da vigencia da Lei n. 9.784/1999.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O prazo decadencial quinquenal previsto no art. 54 da Lei n. 9.784/1999 transcorre a partir da edição do ato pela Administração, nas hipóteses em que não há exercício de controle de legalidade por Tribunal de Contas. 2. A parcela de horas extras incorporadas calculadas de forma parametrizada sobre todas as parcelas remuneratórias, com base em decisão judicial anterior e mediante aplicação de critérios decorrentes de determinada interpretação da Administração acerca da questão, desde antes da vigência da Lei n. 9.784/1999.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+As condies da ao, portanto, so verdadeiramente restries ao exerccio do direito de ao, as quais, ausentes, impedem o pronunciamento jurisdicional sobre o mrito da pretenso deduzida em juzo. Dessa forma, antes de examinar o mrito da causa, deve o magistrado constatar a satisfao desses requisitos de natureza processual. As exigncias relacionadas com a existncia da ao e com a validade da relao processual so alinhadas pela doutrina como pressupostos processuais. Conforme os termos do artigo 17 do CPC, aplicvel ao processo penal por fora do artigo 3 do CPP, as condies genericamente estabelecidas para o exerccio do direito de ao so: o interesse (de agir) e a legitimidade (da parte). Com base em disposio constante do Cdigo de Processo Civil revogado (artigo 267, VI), a doutrina processual penal concebeu como condies genricas da ao penal a possibilidade jurdica do pedido, a legitimidade da parte, o interesse de agir e a justa causa. O novo CPC alterou a previso anterior para referir-se apenas ao interesse e  legitimidade, mas na doutrina ainda predomina o entendimento de que so quatro as condies da ao penal. A doutrina relevante critica, com razo, a apressada aplicao dos conceitos elaborados para o processo civil no mbito do processo penal. Tomando como ponto de partida da reflexo as causas de rejeio da acusao previstas no artigo 395 e as hipteses de absolvio sumria previstas no artigo 397, ambos do CPP, a crtica identifica como condies da ao penal: a) a prtica de conduta aparentemente criminosa; b) a punibilidade concreta; c) a legitimidade de parte; e d) a justa causa. .
+Certamente, as condies da ao penal devem ser compreendidas segundo as categorias prprias do processual penal e as disposies de seu especfico estatuto. O exame que ora se realiza tem como ponto de referncia o entendimento predominante sobre as condies genricas da ao penal, destacando os seus aspectos mais relevantes. No h a pretenso de examinar as condies da ao com a mesma profundidade dos estudos especficos que enfrentam as sutilezas tericas do processo penal. Em determinados casos, a lei exige, ainda, a satisfao de condies especiais. Como a exigncia de atendimento a tais condies no ocorre em todas as aes, a doutrina as denomina condies especficas da ao penal ou condies de procedibilidade. So exemplos de condies especficas a representao e a requisio do Ministro da Justia nos crimes de ao pblica condicionada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+As condições da ação penal são: interesse e legitimidade da parte, possibilidade jurdica do pedido, justa causa e, em alguns casos, condições especiais como a representação e a requisição do Ministério da Justiça.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+492 do CPP, alias, e objeto de repercussao geral no STF, Tema n. 1.068 (RE 1.235.340/SC), ja tendo o Ministro Gilmar Mendes votado no sentido da inconstitucionalidade do dispositivo legal. De fato, no sistema constitucional brasileiro, em harmonia como a jurisprudencia dos tribunais superiores, nao ha espaco para execucao provisoria da pena. Assim, estando pendente de julgamento no STF o Tema n. 1.068, em que se discute a constitucionalidade do art. 492, I, do CPP, deve ser reafirmado o entendimento do STJ de impossibilidade de execucao provisoria da pena mesmo em caso de condenacao pelo tribunal do juri com reprimenda igual ou superior a 15 anos de reclusao. (Informativo n. 730) 1222 PROCESSO AREsp 1.883.043-DF, Rel. Min. Joel Ilan Paciornik, Rel. Acd. Min. Joao Otavio de Noronha, Quinta Turma, por maioria, julgado em 15/03/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Tribunal do juri. Quesitacao deficiente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a execução provisória da pena no sistema constitucional brasileiro, de acordo com a jurisprudência dos tribunais superiores. 2. É impossível a execução provisória da pena mesmo em caso de condenação pelo tribunal do júri com reprimenda igual ou superior a 15 anos de reclusão.

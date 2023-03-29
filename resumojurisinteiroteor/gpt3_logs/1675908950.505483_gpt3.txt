@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+70, inciso II, alneas "d e "e, ambos do Cdigo Penal Militar (CPM), com fundamento no art. 439, alnea "e, do Cdigo de Processo Penal Militar (CPPM). O Ministrio Pblico ofereceu denncia contra o apelado, Evento 03, aduzindo o seguinte: [...] No dia 6 de agosto de 2O17, por volta de 19 horas, na rua Wilson Freitas, n 111, bairro Cristo Rei, em Boa Esperana/MG, o denunciado matou Flavio Henrique Rosa, por Culpa, na modalidade impercia. Noticiam os autos que, na data citada, foi realizada operao batida policial na cidade de Boa Esperana, ocasio em que diversas viaturas policiais dirigiram-se ao bairro Cristo Rei. Os policiais militares deslocaram-se para um bar de propriedade do ofendido, onde fizeram a abordagem a alguns indivduos que estavam prximo ao local. Em seguida, os policiais militares entraram no estabelecimento comercial e fizeram a abordagem ao ofendido, que estava atrs do balco do bar. Enquanto faziam a busca pessoal no ofendido, alguns policiais militares aproximaram-se do porto que d acesso  residncia de Flvio, nos fundos do estabelecimento. Neste momento, o ofendido questionou a ao policial, pois eles estavam sem mandado. Na sequncia, alguns policiais militares tentaram imobilizar e algemar Flvio, momento em que o denunciado segurou o ofendido por trs com um golpe de chave de brao, envolvendo o pescoo do ofendido com um brao. O denunciado continuou a apertar o pescoo do ofendido com o brao at que Flvio parou de se mexer. Quando o denunciado afrouxou o golpe no pescoo do ofendido, constatou que Flavio havia perdido os sentidos, estava com a respirao baixa e em convulso. O ofendido foi colocado dentro de uma viatura e socorrido para atendimento mdico no Pronto Socorro Municipal de Boa Esperana, aonde j chegou em bito. Conforme laudo de necropsia (fls. 51/55 do Inqurito Policial em apenso), a causa da morte foi por asfixia mecnica. De acordo com o Manual T6cnico Profissional nO3.O4.13/2O13 - CG, caderno doutrinrio 13 (fls. 158/189), a chave de brao, tambm chamada de mata-leo ou Hadaka-jime,  uma tcnica de controle de contato prevista no Treinamento Policial Bsico da Policia Militar para quebrar a resistncia ativa oferecida pelo conduzido. No entanto, o denunciado utilizou inadequadamente a tcnica, pois apertou o pescoo do ofendido de forma incorreta e muito alm do tempo necessrio, provocando a asfixia de Flvio, o que caracteriza a impercia na conduta do militar. No entanto, o denunciado utilizou inadequadamente a tcnica, pois apertou o pescoo do ofendido de forma incorreta e muito alm do tempo necessrio, provocando a asfixia de Flavio, o que caracteriza a impercia na conduta do militar. Alm disso, Flvio estava impossibilitado de se defender, uma vez o denunciado continuou a estrangular o ofendido mesmo depois de ele ter sido algemado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O denunciado foi acusado de matar o ofendido, Flvio Henrique Rosa, por impercia, ao utilizar inadequadamente uma tcnica de controle de contato prevista no Treinamento Policial Bsico da Policia Militar, apertando o pescoo do ofendido de forma incorreta e muito além do tempo necessário, provocando a asfixia de Flvio.

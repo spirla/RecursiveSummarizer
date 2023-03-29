@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os Conselhos de Justica serao compostos por quatro oficiais da ativa e um juiz de direito do juizo militar que o presidira e se dividem em Conselho Permanente de Justica, competente para o julgamento de pracas, e Conselho Especial de Justica, competente para o julgamento de oficiais. 19 Perda de posto e patente
+Artigo 99. A perda de posto e patente resulta da condenacao a pena privativa de liberdade por tempo superior a dois anos, e importa a perda das condecoracoes. Indignidade para o oficialato
+Artigo 100. Fica sujeito a declaracao de indignidade para o oficialato o militar condenado, qualquer que seja a pena, nos crimes de traicao, espionagem ou cobardia, ou em qualquer dos definidos nos artigos 161, 235, 240, 242, 243, 244, 245, 251, 252, 303, 304, 311 e 312. Incompatibilidade com o oficialato
+Artigo 101. Fica sujeito a declaracao de incompatibilidade com o oficialato o militar condenado nos crimes dos artigos 141 e 142.
+20 Dispoe sobre a sobre a transferncia de militar para a reserva nao remunerada e da outras providncias. 21 Artigo 3 - No decorrer de sua carreira pode o militar encontrar-se na ativa, na reserva ou na situacao de reformado. paragrafo 1 - Militar da ativa e o que, ingressando na carreira policial-militar, faz dela profissao, ate ser transferido para a reserva, reformado ou excluido. paragrafo 2 - Militar da reserva e o que, tendo prestado servico na ativa, passa a situacao de inatividade. paragrafo 3 - Reformado e o militar desobrigado definitivamente do servico.
+22 Aplica-se, subsidiariamente, o disposto no artigo 50 da Lei 14.184, de 31/01/2002: Artigo 50 - A Administracao pode declarar extinto o processo quando exaurida sua finalidade ou quando o objeto da decisao se tornar impossivel, inutil ou prejudicado por fato superveniente. 23 Artigo 5 Considera-se praticado o crime no momento da acao ou omissao, ainda que outro seja o do resultado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os Conselhos de Justiça são compostos por quatro oficiais da ativa e um juiz de direito do juízo militar. A perda de posto e patente resulta da condenação a pena privativa de liberdade por tempo superior a dois anos. O militar condenado nos crimes de traição, espionagem ou cobardia, ou em qualquer dos definidos nos artigos 161, 235, 240, 242, 243, 244, 245, 251, 252, 303, 304, 311 e 312, fica sujeito a declaração de indignidade para o oficialato. O militar condenado nos crimes dos artigos 141 e 142 fica sujeito a declaração de incompatibilidade com o oficialato. O militar pode encontrar-se na ativa, na reserva ou na situação de reformado. A Administração pode declarar extinto o processo quando exaurida sua finalidade ou quando o objeto da decisão se tornar impossível, inútil ou prejudicado por fato superveniente. O crime é considerado praticado no momento da ação ou omissão, ainda que outro seja o do resultado.

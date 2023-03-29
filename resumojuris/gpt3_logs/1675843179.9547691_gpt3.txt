@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E preciso que, na hipotese dos bens e instalacoes municipais, o crime do qual se suspeita atente contra a sua integridade fisica; no caso dos servicos, por sua vez, e necessario que a conduta possa obstar a sua adequada execucao. E o caso, por exemplo, de alguem que seja visto tentando pular o muro para fora de uma escola municipal em situacao que indique ser provavel haver furtado um bem pertencente a instituicao e ter consigo a res furtiva; ou, ainda, a hipotese de existir fundada suspeita de que um individuo esteja vendendo drogas dentro da sala de aula de uma escola municipal, o que, por certo, deve ser coibido pelos agentes incumbidos de resguardar a adequada execucao do servico publico municipal de educacao no local. Nessas situacoes extraordinarias, os guardas municipais estarao autorizados a revistar o suspeito para confirmar a existencia do crime e efetuar a prisao em flagrante delito, se for o caso. No caso, os guardas municipais estavam em patrulhamento quando depararam com o recorrente sentado na calcada, o qual, ao avistar a viatura, levantou-se e colocou uma sacola plastica na cintura. Por desconfiar de tal conduta, decidiram aborda-lo e, depois de revista pessoal, encontraram no referido recipiente certa quantidade de drogas que ensejou a prisao em flagrante delito. Ainda que eventualmente se considerasse provavel que a sacola ocultada pelo reu contivesse objetos ilicitos, nao estavam os guardas municipais autorizados, naquela situacao, a avaliar a presenca da fundada suspeita e efetuar a busca pessoal no acusado. Caberia aos agentes municipais, apenas, naquele contexto totalmente alheio as suas atribuicoes, acionar os orgaos policiais para que realizassem a abordagem e revista do suspeito, o que, por nao haver sido feito, macula a validade da diligencia por violacao do art. 244 do CPP e, por conseguinte, das provas colhidas em decorrencia dela, nos termos do art. 157 do CPP, tambem contrariado na hipotese.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário que, na hipótese de bens e instalações municipais, o crime suspeito atente contra a sua integridade física; no caso de serviços, é necessário que a conduta possa obstar a sua adequada execução. 2. Os guardas municipais estão autorizados a revistar o suspeito para confirmar a existência do crime e efetuar a prisão em flagrante delito, se for o caso. 3. Caberia aos agentes municipais, apenas, naquele contexto totalmente alheio às suas atribuições, acionar os órgãos policiais para que realizassem a abordagem e revista do suspeito. 4. A violação do art. 244 do CPP macula a validade da diligência e das provas colhidas em decorrência dela, nos termos do art. 157 do CPP.

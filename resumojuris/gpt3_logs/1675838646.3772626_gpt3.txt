@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao observancia. DESTAQUE Nao e possivel a quebra de sigilo de dados informaticos estaticos (registros de geolocalizacao) nos casos em que haja a possibilidade de violacao da intimidade e vida privada de pessoas nao diretamente relacionadas a investigacao criminal. Na hipotese vertente, discute-se a possibilidade de decretacao de determinacao judicial de quebra de sigilo de dados estaticos antes coletados (registros de geolocalizacao), relacionados a identificacao de usuarios que operaram em area delimitada e por intervalo de tempo indicado, estando devidamente fundamentada, apos pedido expresso da autoridade competente, no seio de investigacao formal, tendo, como referencia, fatos concretos relacionados ao suposto cometimento de crime grave. Vale destacar que tal situacao configura apenas quebra de sigilo de dados informaticos estaticos e se distingue das interceptacoes das comunicacoes dinamicas em si, as quais dariam acesso ao fluxo de comunicacoes de dados, isto e, ao conhecimento do conteudo da comunicacao travada com o seu destinatario. O tema ja foi enfrentado por esta Corte Superior, vejamos: Na especie, a ordem judicial direcionou-se a dados estaticos (registros), relacionados a identificacao de usuarios em determinada localizacao geografica que, de alguma forma, possam ter algum ponto em comum com os fatos objeto de investigacao por crimes de homicidio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a quebra de sigilo de dados informáticos estáticos nos casos em que haja a possibilidade de violação da intimidade e vida privada de pessoas não diretamente relacionadas à investigação criminal. 2. É possível a decretação de determinação judicial de quebra de sigilo de dados estáticos antes coletados (registros de geolocalização), relacionados à identificação de usuários que operaram em área delimitada e por intervalo de tempo indicado, desde que devidamente fundamentada, após pedido expresso da autoridade competente, no seio de investigação formal, tendo, como referência, fatos concretos relacionados ao suposto cometimento de crime grave. 3. A quebra de sigilo de dados informáticos estáticos se distingue das interceptações das comunicações dinâmicas em si, as quais dariam acesso ao fluxo de comunicações de dados, isto é, ao conhecimento do conteúdo da comunicação travada com o seu destinatário.

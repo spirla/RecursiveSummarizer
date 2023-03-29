@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+... H tambm princpios fundamentais de direito que so mais fortes do que todo e qualquer preceito jurdico positivo, de tal modo que toda a lei que os contrarie no poder deixar de ser privada de validade. A experincia dramtica do nacional-socialismo levou Radbruch a sustentar que a concepo positivista de que a lei deve valer pelo simples fato de ser lei, por isso dispondo da fora para se fazer impor, deixou sem defesa o povo e os juristas alemes contra as leis mais arbitrrias, mais cruis e mais criminosas. Tentando superar essa concepo limitada do Direito, Radbruch afirmou que o conflito que se estabelece entre a justia e a segurana jurdica que  oferecida pela lei pode ser resolvido da seguinte maneira: o direito positivo deve ser observado ainda quando, do ponto de vista de seu contedo, for injusto e no atender a uma finalidade, salvo se a contradio entre a lei positiva e a justia atingir um grau to insustentvel que a lei, como expresso de um direito incorreto, deva ceder lugar  justia. A frmula proposta por Radbruch acabou por constituir o mais influente argumento jusnaturalista do sculo XX, sendo posteriormente sintetizada por Robert Alexy como a extrema injustia no  direito. Muito embora seja impossvel estabelecer uma tica universal, todo sistema jurdico pressupe uma determinada tica sem a qual, com o tempo, perderia a sua efetividade. Nesse sentido, a Constituio da Repblica deixa claro, no inciso I de seu artigo 3, que constitui objetivo fundamental da Repblica Federativa do Brasil construir uma sociedade livre, justa e solidria. Em consonncia com tal objetivo, o plano de gesto estratgica aprovado no Encontro Nacional do Judicirio, realizado no dia 25 de agosto de 2008, em Braslia, define como misso institucional do Poder Judicirio realizar Justia. Com base em tal misso, o Judicirio pretende fortalecer o Estado Democrtico e fomentar a construo de uma sociedade livre, justa e solidria, por meio de uma efetiva prestao jurisdicional. A evoluo do Direito Penal e, em especial, da teoria do crime, que se verificou desde a sua inicial compreenso abstrata como mera violao da lei penal at o ponto em que se vislumbraram as dimenses de sua repercusso social, evidenciou a necessidade de comprometer a construo dogmtica penal com a realizao da Justia.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Radbruch defendeu que o conflito entre a justiça e a segurança jurídica oferecida pela lei deve ser resolvido com a lei cedendo lugar à justiça. A Constituição da República estabelece como objetivo fundamental construir uma sociedade livre, justa e solidária. O Poder Judiciário tem como missão realizar Justiça, fortalecer o Estado Democrático e fomentar a construção de uma sociedade livre, justa e solidária. A evolução do Direito Penal e da teoria do crime evidenciou a necessidade de comprometer a construção dogmática penal com a realização da Justiça.

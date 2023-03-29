@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A interceptao das comunicaes telefnicas no se confunde com o registro dos dados telefnicos, porque a interceptao  feita durante a comunicao telefnica protegida constitucionalmente e a conversa obtida  meio de prova e os dados da ligao telefnica (data, horrio e o tempo das ligaes, os nmeros das linhas telefnicas chamadas e recebidas) ficam armazenados na companhia telefnica e servem para identificar quem so os interlocutores. Nas investigaes tem sido frequente determinar  operadora de telefonia monitorar as estaes radiobase (ERBs), antenas de telefonia utilizadas nas chamadas realizadas e recebidas. O monitoramento do movimento do investigado a partir de ERBs busca descobrir o local em que foi mantida a conversao pelo celular. O acompanhamento do alvo pode ser realizado simultaneamente ao uso da linha e a triangulao dos sinais permite apontar o local onde est ou estava o aparelho celular. O GPS (sistema de geoposicionamento global) instalado no veculo utilizado pelo alvo permite o acompanhamento do investigado. Solicitar  operadora os nmeros das linhas telefnicas que utilizaram a estao de radiobase na regio no perodo dos crimes investigados no carece de autorizao judicial. A obteno direta pela autoridade policial de dados relativos  hora, ao local e  durao das chamadas realizadas mediante a utilizao da Estao Radiobase no viola o artigo 5, XII, da CF/88. Implica distinguir interceptao telefnica, escuta telefnica, gravao clandestina, gravao ambiental e escuta ambiental diante da dico do artigo 1 da Lei 9.296/96 de ser possvel a interceptao de comunicaes telefnicas, de qualquer natureza para se compreender o alcance da lei. Na interceptao telefnica (interceptao telefnica em sentido estrito) h dois interlocutores e o terceiro que capta a conversao sem o conhecimento dos interlocutores. A escuta telefnica por definio  a captao da comunicao telefnica por terceiro, com o conhecimento de um dos comunicadores e desconhecimento do outro. Na escuta, como se v, um dos comunicadores tem cincia da intromisso alheia na comunicao. H diferena entre interceptao telefnica e escuta telefnica.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interceptação de comunicações telefônicas é diferente do registro de dados telefônicos, pois a interceptação é protegida pela Constituição e a conversa obtida pode ser usada como prova. O monitoramento do movimento do investigado pode ser realizado por meio de Estações Radiobase e GPS. A obtenção direta de dados relativos às chamadas realizadas não viola a Constituição. A interceptação telefônica é diferente da escuta telefônica, pois na interceptação os interlocutores não têm conhecimento da intromissão alheia, enquanto na escuta um dos comunicadores tem ciência da intromissão.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Trago duas ementas de casos anlogos que bem elucidam o acerto do acrdo impugnado: HABEAS CORPUS - PROCESSUAL PENAL - PERSECUO PENAL NA JUSTIA MILITAR POR FATO JULGADO NO JUIZADO ESPECIAL CRIMINAL, COM EXTINO DE PUNIBILIDADE E TRNSITO EM JULGADO - IMPOSSIBILIDADE - CONSTRANGIMENTO ILEGAL CARACTERIZADO - ORDEM CONCEDIDA PARA TRANCAR A AO PENAL EM CURSO NO JUIZADO DA AUDITORIA MILITAR DA COMARCA DE CAMPO GRANDE/MS. 1 - Ainda que a sentena que declarou extinta a punibilidade tenha sido proferida por juiz incompetente, o trnsito em julgado da primeira ao penal impede o reexame dos mesmos fatos pelo juzo competente, sob pena de incorrer em bis in idem e atentar contra o princpio da segurana jurdica. Precedentes do STJ. 2 - Ordem concedida para, confirmando a liminar, determinar o trancamento da Ao Penal n. 0032673-82.2013.8.13.0001, em curso no Juzo da Auditoria Militar da Comarca de Campo Grande/MS. (Habeas Corpus n. 286.593-MS, Rel. Min. Antnio Saldanha Palheiro. Julgamento em 12/11/2019 - STJ). HABEAS CORPUS - SUBSTITUTIVO DE RECURSO ORDINRIO - LESES CORPORAIS -PACIENTE J PROCESSADO PERANTE O JUIZADO ESPECIAL CRIMINAL - SENTENA QUE DECLAROU EXTINTA A PUNIBILIDADE, ANTE A DECADNCIA DO DIREITO DE AO DA VTIMA - COISA JULGADA MATERIAL - NOVA AO AJUIZADA PERANTE A JUSTIA MILITAR - ORDEM DENEGADA PELA CORTE DE ORIGEM EM FACE DA INCOMPETNCIA DA JUSTIA COMUM - IMPOSSIBILIDADE - PRINCPIO DO NE BIS IN IDEM - EXTINO DA AO PENAL EM TRMITE NA JUSTIA CASTRENSE - HABEAS CORPUS NO CONHECIDO - ORDEM CONCEDIDA DE OFCIO. 1 - O Superior Tribunal de Justia, alinhando-se  nova jurisprudncia da Corte Suprema, tambm passou a restringir as hipteses de cabimento de habeas corpus, no admitindo que o remdio constitucional seja utilizado em substituio ao recurso ou ao cabvel, ressalvadas as situaes em que,  vista da flagrante ilegalidade do ato apontado como coator, em prejuzo da liberdade do (a) paciente, seja cogente a concesso, de ofcio, da ordem de habeas corpus. 2 - Na hiptese dos autos, o paciente j respondeu pelos mesmos fatos, praticados contra as mesmas vtimas (delito de leses corporais), perante o Juizado Especial Adjunto Criminal da Comarca de Ponta Por/MS, o que torna invivel o prosseguimento da ao penal instaurada perante a Justia Militar da Comarca de Campo Grande/MS. 3 - Ainda que proferida por juiz alegadamente incompetente, a sentena que declarou extinta a punibilidade em decorrncia da decadncia do direito de ao da vtima faz coisa julgada material, obstaculizando a instaurao de nova ao penal, pelo mesmo fato e com as mesmas vtimas, perante a Justia castrense. 4 - A ao penal em trmite perante a Justia Militar deve ser extinta, sob pena de violao ao princpio do ne bis in idem. Precedentes. 5 - Habeas corpus no conhecido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ concedeu ordem de habeas corpus para trancar a ao penal em curso na Justia Militar da Comarca de Campo Grande/MS, pois a sentena que declarou extinta a punibilidade em decorrncia da decadência do direito de ação da vítima faz coisa julgada material, impossibilitando a instauração de nova ação penal pelo mesmo fato e com as mesmas vítimas, violando o princípio do ne bis in idem.

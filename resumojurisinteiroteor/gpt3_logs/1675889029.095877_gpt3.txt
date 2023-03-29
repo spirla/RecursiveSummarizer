@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PM Slvio Alves Simplcio (Evento 27, ATA 1 e Eventos 37 e 48). Posteriormente, foram inquiridas as testemunhas de acusao - 2 Sgt. PM Valdemar Nogueira Alves, Cb. PM Gilson Antnio de Oliveira Jnior e 3 Sgt. PM Rodrigo Rocha Bellico (Eventos 49 e 54) -, e as testemunhas de defesa - 3 Sgt. PM Erlan Lima da Silva, 1 Sgt. QPR PM Cludio Vitor da Costa, Eliza Froes Azevedo, Sd PM Joison Malta Abreu - tambm foram inquiridas por meio de recurso udio visual (Evento 89). Na fase do artigo 427 do Cdigo de Processo Penal Militar (CPPM), as partes nada requereram (Eventos 106 e 113). J na fase do artigo 428 do mesmo diploma legal, as partes pugnaram pela apresentao de alegaes orais em plenrio de julgamento (Eventos 113 e 117). Concluda a instruo criminal, em 15/06/2021, reuniu-se o douto Conselho Permanente de Justia da 3a AJME para a sesso de julgamento. Dada a palavra ao Ministrio Pblico Estadual, esse requereu a condenao do acusado, nos exatos termos da denncia. Pelo princpio da eventualidade, requereu a desclassificao do crime previsto no artigo 205 c/c o art. 30, II, ambos do Cdigo Penal Militar, para o previsto no artigo 15 do Estatuto do Desarmamento - Lei n. 10.826/03. A defesa requereu a improcedncia da acusao e, em relao ao crime previsto no artigo 177 do Cdigo Penal Militar, a absolvio do acusado, nos termos do artigo 439, alnea "b, do CPPM. Quanto ao crime previsto no artigo 205 c/c o art.30, II, ambos do Cdigo Penal Militar, requereu a absolvio com fulcro no artigo 439, alnea "e, do CPPM. Findos os debates, o Conselho Permanente de Justia decidiu consoante evento 136: [...] O Conselho Permanente de Justia, por maioria de quatro votos a um, julgou parcialmente procedente a denncia para: a) em relao ao crime previsto no art.177, do CPM, condenar o acusado, aplicando-lhe a pena definitiva de 08 (oito) meses de deteno, a ser cumprida em regime aberto - aplicada a pena acima do mnimo legal devido s circunstncias judiciais dotadas de especial gravidade. [...] b) desclassificar o crime previsto no art.205 c.c. o art.30, II, ambos do CPM para o crime previsto no art. 15, do Estatuto do Desarmamento, aplicando-lhe a pena definitiva de 02 (dois) anos de recluso, a serem cumpridos em regime aberto.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia decidiu condenar o acusado a 08 meses de deteno em regime aberto, por crime previsto no artigo 177 do Cdigo Penal Militar, e desclassificar o crime previsto no artigo 205 c/c o art.30, II, ambos do CPM para o crime previsto no art. 15, do Estatuto do Desarmamento, aplicando-lhe a pena definitiva de 02 (dois) anos de recluso, a serem cumpridos em regime aberto.

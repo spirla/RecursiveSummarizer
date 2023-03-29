@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+ hiptese de atuao de um Direito Penal de representao. O genocdio  um crime contra a humanidade e o Brasil  solidrio para a cooperao internacional no combate a esse crime to grave. A extraterritorialidade condicionada da lei penal, por sua vez, no se opera automaticamente e depende do implemento de determinadas condies. Suas hipteses esto previstas no inciso II do artigo 7 do CP. Segundo tal dispositivo:
+Art. 7 Ficam sujeitos  lei brasileira, embora cometidos no estrangeiro:
+(...). - os crimes:
+a) que, por tratado ou conveno, o Brasil se obrigou a reprimir;
+b) praticados por brasileiro;
+c) praticados em aeronaves ou embarcaes brasileiras, mercantes ou de propriedade privada, quando em territrio estrangeiro e a no sejam julgados. Na hiptese de extraterritorialidade prevista na alnea a do inciso II do artigo 7, o fundamento da extraterritorialidade assenta-se no princpio da universalidade. A cooperao internacional para o combate aos crimes de repercusso mundial se materializa formalmente por meio dos tratados ou convenes internacionais. Se o Brasil ratificar e promulgar o texto de um tratado ou conveno internacional, ele passa a fazer parte da ordem jurdica interna e  considerado como lei brasileira. A hiptese traduz, em ltima anlise, a aplicao de lei brasileira. As condies impostas para a sua aplicao, veremos a seguir, justificam-se pelas dificuldades de ordem prtica para o implemento da obrigao. A extraterritorialidade da lei penal para punir o crime praticado por brasileiro no estrangeiro, prevista na alnea b do dispositivo legal em exame, fundamenta-se no princpio da personalidade ativa ou da nacionalidade. Segundo tal princpio, que se contrape ao da territorialidade, o indivduo est sempre subordinado s leis de seu pas e, por isso, o Estado deve punir o seu nacional onde quer que se encontre. Sem dvidas, esse  um princpio que desafia, de modo invencvel, as foras do Estado nacional, se levado s ltimas consequncias. Ao Brasil seria concretamente impossvel processar e julgar todos os brasileiros que cometessem crimes no exterior. Considerando as dificuldades prticas da pretenso, sabiamente, o legislador incluiu a hiptese entre as de extraterritorialidade condicionada. A hiptese prevista na alnea c j explicita uma primeira condio para a aplicao da lei brasileira: que o crime praticado no territrio estrangeiro no seja julgado conforme suas leis. Quem realiza o crime est, na verdade, sujeito s leis do pas em que o mesmo ocorrer.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Brasil é solidário à cooperação internacional no combate ao genocídio, que é considerado crime contra a humanidade. A extraterritorialidade da lei penal brasileira é condicionada e prevê três hipóteses: tratados ou convenções que o Brasil se obrigou a reprimir, crimes praticados por brasileiros e crimes praticados em aeronaves ou embarcações brasileiras, mercantes ou de propriedade privada, quando em território estrangeiro e não julgados.

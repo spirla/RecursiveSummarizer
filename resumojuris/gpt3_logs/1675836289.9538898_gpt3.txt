@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nancy Andrighi, Rel. Acd. Min. Marco Aurelio Bellizze, Terceira Turma, por maioria, julgado em 03/05/2022, DJe 20/05/2022. Ramo do Direito DIREITO ADMINISTRATIVO, DIREITO DO CONSUMIDOR Tema Operadoras de telefonia. Area de cobertura. Dever de informacao previo a contratacao. Art. 6, III, CDC/1990. Indisponibilidade de sinal de telefonia movel ( zona de sombra ). Regulamentacao expressa por autarquia (Resolucao ANATEL n. 575/2011). Principio da deferencia administrativa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O dever de informação prévio à contratação previsto no art. 6, III, do CDC/1990 se aplica às operadoras de telefonia. 2. A indisponibilidade de sinal de telefonia móvel em determinada área de cobertura é regulamentada expressamente por autarquia, nos termos da Resolução ANATEL n. 575/2011. 3. O princípio da deferencia administrativa deve ser observado na interpretação da regulamentação expressa por autarquia.

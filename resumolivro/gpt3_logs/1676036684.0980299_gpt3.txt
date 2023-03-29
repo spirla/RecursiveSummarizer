@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Direito expressa um sistema de valores257 que  concebido para regular a vida em sociedade e, dada a relatividade valorativa258, apresenta fundamentos absolutamente incompatveis com a pretenso de neutralidade metodolgica que se funda exclusivamente em princpios ontolgicos universais e imutveis. Desempenhando essencialmente a tarefa de escolher (politicamente) condutas s quais ir relacionar a pena, o conceito analtico do crime no pode basear-se em conceito de ao que se pretende isento de valorao e ontologicamente predeterminado. A ideia de que a natureza da ao humana determina o conceito jurdico penal de ao desconsidera que a realidade  multifacetria e que sobre ela incidem muitas e distintas formas vlidas de interpretao. Por isso, muitos doutrinadores contemporneos concordam que a construo do sistema jurdico penal no pode vincular-se a dados ontolgicos das estruturas lgico-reais ou da causalidade natural. A crtica aos sistemas naturalistas retoma o neokantismo para construir de maneira teleolgica os conceitos da teoria do crime, de modo a conferir contedo material a todas as suas categorias, orientando os seus juzos valorativos conforme a misso atribuda ao Direito Penal. Os conceitos jurdicos so concebidos sob o prisma de sua funcionalidade para desempenhar um papel determinado no sistema, tendo em vista a produo de consequncias consideradas justas e adequadas. Lus Greco260 bem sintetiza as crticas que a perspectiva funcional faz  concepo do sistema finalista (ontolgico):
+(...) o finalista pensa que a realidade  unvoca (primeiro engano), e que basta conhec-la para resolver os problemas jurdicos (segundo engano - falcia naturalista); o funcionalista admite serem vrias as interpretaes possveis da realidade, do modo que o problema jurdico s pode ser resolvido atravs de consideraes axiolgicas - isto , que digam respeito  eficcia e  legitimidade da atuao do direito penal. No sistema funcionalista os fins da pena adquirem valor fundamental, pois, se a teoria do crime rene os pressupostos para a interveno punitiva, seus elementos devem ser concebidos em razo das consequncias sociais da punio. A finalidade retributiva da pena  abandonada em favor dos fins preventivos, que passam a ser reorientados com base na distino entre seus aspectos de integrao e excluso do condenado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Direito expressa um sistema de valores que regula a vida em sociedade, mas é incompatível com a neutralidade metodológica. O conceito analítico do crime não pode basear-se em conceitos isentos de valoração. A crítica aos sistemas naturalistas retoma o neokantismo para construir de maneira teleológica os conceitos da teoria do crime, orientando os seus juízos valorativos conforme a misso atribuída ao Direito Penal. A finalidade retributiva da pena é abandonada em favor dos fins preventivos.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+383 do CPP, atribuir aos fatos descritos na peca acusatoria definicao juridica diversa daquela proposta pelo orgao da acusacao. (Informativo n. 761) PROCESSO AgRg no AgRg no RHC 161.096-SC, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, por unanimidade, julgado em 4/10/2022, DJe 17/10/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Crimes no mesmo contexto fatico. Mera descoberta fortuita. Ausencia de conexao intersubjetiva. Identidade de modus operandi. Insuficiencia para o reconhecimento da conexao nos termos do art. 76 do CPP. DESTAQUE A verificacao dos crimes no mesmo contexto fatico configura mera descoberta fortuita e nao implica, necessariamente, conexao probatoria ou teleologica entre eles. 1157 A orientacao do Supremo Tribunal Federal e no sentido de que a competencia nao pode ser definida a partir de um criterio tematico, que destoa das leis processuais; e que a descoberta fortuita de crimes, no bojo de operacoes investigatorias complexas, nao pode ter como desdobramento a criacao de juizo universal, definido de forma anomala, em violacao ao principio do juiz natural. De outro modo: a prevencao nao e criterio primario de determinacao da competencia, mas, sim, de sua concentracao, tratando-se de regra de aplicacao residual o fato de a policia judiciaria ou o Ministerio Publico Federal denominarem determinadas apuracoes como fases da Operacao Lava Jato, a partir de uma sequencia de investigacoes sobre crimes diversos, nao se sobrepoe as normas disciplinadoras de competencia .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A verificação dos crimes no mesmo contexto fático configura mera descoberta fortuita e não implica, necessariamente, conexão probatória ou teleológica entre eles. 2. A competência não pode ser definida a partir de um critério temático, que destoa das leis processuais. 3. A descoberta fortuita de crimes, no bojo de operações investigatórias complexas, não pode ter como desdobramento a criação de juízo universal, definido de forma anômala, em violação ao princípio do juiz natural. 4. A prevenção não é critério primário de determinação da competência, mas, sim, de sua concentração, tratando-se de regra de aplicação residual. 5. O fato de a Polícia Judiciária ou o Ministério Público Federal denominarem determinadas apurações como fases da Operação Lava Jato, a partir de uma sequência de investigações sobre crimes diversos, não se sobrepõe às normas disciplinadoras de competência.

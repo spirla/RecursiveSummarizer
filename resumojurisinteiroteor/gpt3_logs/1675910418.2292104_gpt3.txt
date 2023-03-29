@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No Evento 8, o autor promoveu a emenda  inicial e trouxe as justificativas para o pedido de gratuidade de justia. O meritssimo juiz titular da 5a AJME-Cvel concedeu o benefcio da gratuidade de justia (Evento 10 - DESP1). O Estado de Minas Gerais apresentou contestao (Evento 19 - CONT1). O autor impugnou a contestao (Evento 24 - MANI1). O autor e o Estado de Minas Gerais informaram no terem mais provas a serem produzidas e pediu o julgamento antecipado da lide, conforme art. 355, inciso I, do Cdigo de Processo Civil (Eventos 34 e 29). O meritssimo juiz de direito titular na 5a AJME- Cvel, de ofcio, corrigiu o valor dado  causa para R$ 2.000,00 (dois mil reais). No mrito, rejeitou o pedido do autor. Condenou o autor ao pagamento de despesas processuais e de honorrios advocatcios, os quais foram arbitrados em 20% (vinte por cento) do valor atualizado da causa, observados os requisitos dos incisos I a IV do  2 e inciso I do  3 do artigo 85 do Cdigo de Processo Civil. Suspendeu a condenao de honorrios, porque o autor encontra-se sob o plio da justia gratuita, ressalvado o disposto no 3 do artigo 98 do CPC (Evento 36 - SENT 1). O autor interps recurso de apelao (Evento 40 - APELAO1), reiterando as razes contidas na petio inicial. Requereu a reforma integral da sentena, para julgarem-se procedentes os pedidos contidos na exordial. O Estado de Minas Gerais apresentou contrarrazes ao recurso de apelao (Evento 47 - CONTRAZAP1). Arguiu que o apelante no apresentou causa de justificao e/ou absolvio previstas nos artigos 6 e 7 do MAPPA e nem no art. 19 do CEDM e, ainda, que no h nos autos prova de que o acusado teria relatado ao oficial mdico sua impossibilidade de deslocar-se aps tomar conhecimento da percia. Cita os  3, 4, 5 e 6 do artigo 32 da Resoluo-Conjunta n. 4.278, de 10 de outubro de 2013, e os artigos 11 a 15 da Instruo Conjunta de Corregedorias n. 01, de 3 de fevereiro de 2014 (ICCPM/Bm n. 01/2014), e aduz que o atestado mdico dissociado do ato administrativo homologatrio da autoridade competente no possui o condo de, por si s, afastar a ilegitimidade da falta. Afirma que, para afastar a incidncia do art. 13, XX, do CEDM, deve o militar desincumbir-se do nus de comprovar fato impeditivo  homologao do atestado mdico e, por conseguinte, afastar o seu carter meramente informativo. E, se o militar assim no diligencia, assume o risco da configurao da lei quanto  falta ao servio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz titular da 5a AJME-Cvel rejeitou o pedido do autor, condenando-o ao pagamento de despesas processuais e de honorrios advocatcios, os quais foram arbitrados em 20% (vinte por cento) do valor atualizado da causa. O Estado de Minas Gerais, ao apresentar contrarrazes ao recurso de apelao, afirmou que o acusado no comprovou fato impeditivo para afastar a ilegitimidade da falta.

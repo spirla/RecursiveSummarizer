@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O art. 152 do CC, ao disciplinar a coacao como um dos vicios do consentimento nos negocios juridicos, dispoe que: No apreciar a coacao, ter-se-ao em conta o sexo, a idade, a condicao, a saude, o temperamento do paciente e todas as demais circunstancias que possam influir na gravidade dela . De acordo com a doutrina, a declaracao de vontade diz respeito a existencia do negocio, mas so se podera considerar valida tal declaracao (plano da validade) se assegurada a sua total lisura. Se, no Direito Civil, que envolve, em regra, direitos patrimoniais disponiveis, em uma relacao equilibrada entre particulares, todas as circunstancias que possam influir na liberdade da manifestacao de vontade devem ser consideradas, com muito mais razao isso deve ocorrer no Direito Penal (lato sensu), que trata de direitos indisponiveis de um individuo diante do poderio do Estado, em relacao manifestamente desigual. E justamente essa disparidade de forcas, alias, somada a ausencia de liberdade negocial concreta, que leva ao frequente reconhecimento da invalidade da manifestacao de vontade da parte hipossuficiente no ambito do Direito do Consumidor, mesmo quando externada por escrito e relativa a direitos disponiveis, em virtude da abusividade de clausulas impostas pelo lado mais forte, nos termos, por exemplo, do art. 51, IV do Codigo de Defesa do Consumidor. 1236 Nao se pretende, em absoluto, relacionar a invalidade da manifestacao de vontade do reu, necessariamente, a constatacao de violencia policial explicita e dolosa, vale dizer, a existencia de coacao direta. Conforme se demonstrou acima, com base na jurisprudencia da Suprema Corte dos EUA, muitas vezes o constrangimento pode ser causado implicitamente pelo aparato policial ao individuo em virtude de circunstancias objetivas da abordagem em cotejo com as condicoes pessoais do sujeito interpelado. A coacao e circunstancial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 152 do Código Civil disciplina a coação como um dos vícios do consentimento nos negócios jurídicos. 2. A declaração de vontade diz respeito à existência do negócio, mas só se poderá considerar válida tal declaração se assegurada a sua total lisura. 3. No Direito Penal, que trata de direitos indisponíveis de um indivíduo diante do poderio do Estado, em relação manifestamente desigual, todas as circunstâncias que possam influir na liberdade da manifestação de vontade devem ser consideradas. 4. No Direito do Consumidor, mesmo quando externada por escrito e relativa a direitos disponíveis, a manifestação de vontade da parte hipossuficiente pode ser considerada inválida em virtude da abusividade de cláusulas impostas pelo lado mais forte. 5. Não se pretende, em absoluto, relacionar a invalidade da manifestação de vontade do réu, necessariamente, à constatação de violência policial explicita e dolosa. 6. O constrangimento pode ser causado implicitamente pelo aparato policial ao indivíduo em virtude de circunstâncias objetivas da abordagem em cotejo com as condições pessoais do sujeito interpelado.

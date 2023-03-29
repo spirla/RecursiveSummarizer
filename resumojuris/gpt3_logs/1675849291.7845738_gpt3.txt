@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Reconhecimento em juizo. Enviesamento cognitivo. Convalidacao. Inviabilidade. Nulidade. Configuracao. DESTAQUE E nula a condenacao fundamentada em reconhecimento fotografico que, alem de ter sido realizado com grande lapso temporal dos fatos, encontra-se em contradicao com os depoimentos prestados pela vitima, nao sendo possivel a sua convalidacao em juizo. No caso, a vitima foi assaltada por tres agentes em janeiro de 2018. Na delegacia nao reconheceu nenhuma das fotos que lhe foram apresentadas e afirmou categoricamente nao ser capaz de realizar retrato falado e que os tres assaltantes aparentavam ser menores de idade. Ja em abril do mesmo ano, quase tres meses apos o fato, a vitima alega ter reconhecido um dos assaltantes em uma maca em um hospital, momento em que se deslocou a delegacia para denunciar o fato, o que ensejou nova apresentacao de fotografias e, assim, o reu foi entao efetivamente reconhecido em solo policial, bem como pessoalmente em juizo. Todavia, tal narrativa nao se mostra suficiente para atribuir a autoria ao paciente. Isso porque a vitima afirmou categoricamente nao ser capaz de realizar retrato falado no dia dos fatos e alegou aparentarem ser os assaltantes menores de idade, mas, tres meses apos o evento, afirmou com conviccao ter reconhecido o agente que, a epoca do delito, ja contava com 27 anos de idade e o reconhecimento foi reforcado pela apresentacao das fotografias do suspeito na delegacia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Nulidade da condenação fundamentada em reconhecimento fotográfico realizado com grande lapso temporal dos fatos; 2. Inviabilidade de convalidação em juízo do reconhecimento fotográfico; 3. Enviesamento cognitivo da vitima com relação ao reconhecimento do suspeito.

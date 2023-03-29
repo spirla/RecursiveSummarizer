@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+14, XIII, CEDM), 28 29 todavia, ao realizar a abertura de vistas para alegaes finais de defesa, a Comisso de Processo Administrativo-Disciplinar (CPAD) aditou a acusao, e o autor foi instado a apresentar defesa sobre outro fato, qual seja: "... usado um recibo de compra e venda falso - cuja falsidade foi comprovada atravs de exame grafotcnico, expedido pelo instituto de criminalstica da Polcia Civil de Minas Gerais..., que, em tese, caracterizaria a transgresso disciplinar prevista no artigo 13, NI2, do CEDM. Nessa esteira, aduziu que no h dvida de que se trata de outra acusao, por fato totalmente diverso, sobre o qual a defesa no pde se manifestar por terem sido as diligncias pleiteadas indeferidas. Destacou trecho do acrdo rescindendo que refutou a tese defensiva de cerceamento de defesa pelo indeferimento de percia no documento do veculo para afirmar que houve o reconhecimento, no referido julgado, de que "o apelante no foi submetido ao PAD em razo da falsificao de documento, mas em razo de ter sido encontrado com ele veculo que havia sido apropriado indevidamente por terceiro, conforme anunciado.... 2 - Violao ao inciso VI do artigo 966 do CPC - for fundada em prova cuja falsidade tenha sido apurada em processo criminal ou venha a ser demonstrada na prpria ao rescisria. Segundo a defesa, o autor foi punido com a sano de demisso por ter, em tese, ... usado um recibo de compra e venda falso.... Entretanto, alegou que no houve falsidade documental, assim como no era falso o recibo do veculo usado na negociao, at mesmo porque o veculo no estava registrado em nome da Sra. Silvana, mas, sim, em nome do seu esposo, o Sr. Leo Magnussen, consoante documento coligido aos autos. Alegou que, como no houve investigao criminal para comprovar a falsidade documental, restou ao julgador se ater aos documentos existentes nos autos, inexistindo, portanto, prova da falsidade do documento. Dessa forma, salientou que o fato de o exame grafotcnico do Instituto de Criminalstica da Polcia Civil de Minas Gerais atestar que " falso o espcie da assinatura atribudo a Silvana Rodrigues Leite no implica dizer que o autor tenha feito uso de "um recibo de compra e venda falso. Ressaltou que o autor era o maior interessado em no ser lesado, pois foi ele quem comprou o veculo. Concluiu que a alegada falsidade documental que subsidiou a condenao do autor no PAD no restou comprovada em ao penal, bem como restou inexistente na presente ao. 3 - Violao ao inciso VII - obtiver o autor, posteriormente ao trnsito em julgado, prova nova cuja existncia ignorava ou de que no pde fazer uso, capaz, por si s, de lhe assegurar pronunciamento favorvel - e ainda ao inciso VIII, ambos do artigo 966 do CPC - for fundada em erro de fato verificvel do exame dos autos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O autor alegou que foi punido com a sano de demisso por ter usado um recibo de compra e venda falso, mas não houve investigação criminal para comprovar a falsidade documental. Por isso, não houve violação ao inciso VI do artigo 966 do CPC, pois não houve prova da falsidade do documento, e também não houve violação ao inciso VII e VIII do artigo 966 do CPC, pois não houve erro de fato verificável no exame dos autos.

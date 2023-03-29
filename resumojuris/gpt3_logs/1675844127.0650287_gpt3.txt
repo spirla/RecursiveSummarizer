@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Olindo Menezes (Desembargador convocado do TRF1 Regiao), Sexta Turma, por maioria, julgado em 03/05/2022. RAMO DO DIREITO DIREITO PENAL TEMA Fixacao do regime prisional. Circunstancia judicial desfavoravel. Pena-base acima do minimo legal. Condenacao a pena igual ou inferior a 4 anos de reclusao. Regime inicial aberto. Possibilidade. DESTAQUE Dadas as peculiaridades do caso concreto, admite-se que ao reu primario, condenado a pena igual ou inferior a 4 (quatro) anos de reclusao, seja fixado o regime inicial aberto, ainda que negativada circunstancia judicial. A despeito de o  3 do art. 33 do CP dispor que para a escolha do modo inicial de cumprimento da pena deverao ser observados os criterios do art. 59, nao fica o julgador compelido a fixar regime mais gravoso do que o cabivel em razao do quantitativo da sancao imposta, ainda que presente circunstancia judicial desfavoravel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível fixar o regime inicial aberto para o réu primário condenado a pena igual ou inferior a 4 anos de reclusão, mesmo que haja circunstância judicial desfavorável. 2. O julgador não está compelido a fixar regime mais gravoso do que o cabível em razão do quantitativo da sanção imposta, ainda que presente circunstância judicial desfavorável.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+317 do RISTF faca alusao as partes, a interpretacao restritiva nao encontra amparo em inumeros precedentes do Corte, nos quais, em sede de habeas corpus, o Ministerio Publico foi considerado parte legitima a interposicao de agravo regimental contra decisoes monocraticas. No ambito da Operacao Lava Jato , a competencia da 13 Vara Federal da Subsecao Judiciaria de Curitiba e restrita aos crimes praticados de forma direta em detrimento apenas da Petrobras S/A. Nesse sentido tem se firmado a jurisprudencia do STF. Na hipotese, restou demonstrado que as condutas atribuidas ao paciente nao foram diretamente direcionadas a contratos especificos celebrados entre o Grupo OAS e a Petrobras S/A, constatacao que, em cotejo com precedentes do Plenario e da Segunda Turma do STF, permite a conclusao pela nao configuracao da conexao que autorizaria, no caso concreto, a modificacao da competencia jurisdicional. O caso, portanto, nao se amolda ao que se tem decidido, majoritariamente, no ambito do Plenario e da Segunda Turma, a partir de 2015, a respeito da competencia da 13 Vara Federal de Curitiba, delimitada exclusivamente aos ilicitos praticados em detrimento da Petrobras S/A. As mesmas circunstancias faticas, ou seja, a ausencia de condutas praticadas de forma direta em detrimento da Petrobras S/A, sao encontradas nas demais acoes penais deflagradas em desfavor do paciente perante a 13 Vara Federal da Subsecao Judiciaria de Curitiba, tornando-se imperiosa a extensao da ordem concedida, nos termos do art. 654,  2, do CPP. A superveniencia de circunstancias faticas aptas a alterar a competencia da autoridade judicial, ate entao desconhecidas, autoriza a preservacao dos atos praticados por juizo aparentemente competente em razao do quadro fatico subjacente no momento em que requerida a prestacao jurisdicional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Ministério Público é parte legítima para interpor agravo regimental contra decisões monocráticas. 2. A competência da 13ª Vara Federal da Subseção Judiciária de Curitiba é restrita aos crimes praticados de forma direta em detrimento apenas da Petrobras S/A. 3. A ausência de condutas praticadas de forma direta em detrimento da Petrobras S/A não configura a conexão que autorizaria a modificação da competência jurisdicional. 4. A superveniência de circunstâncias fáticas aptas a alterar a competência da autoridade judicial autoriza a preservação dos atos praticados por juízo aparentemente competente.

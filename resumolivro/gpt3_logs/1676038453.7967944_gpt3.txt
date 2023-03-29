@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Embora seja amplamente admitido que o reconhecimento do vnculo entre a criao do risco e a realizao deste deva dar-se no plano normativo (valorativo), existe discordncia quanto ao lugar que deva ocupar a referida anlise no sistema penal, bem como quanto aos critrios utilizados. Apesar das discusses, a realizao do risco desaprovado  exigncia da imputao objetiva, que  matria afeta ao juzo de tipicidade. No que diz respeito aos critrios utilizados para a identificao do resultado realizado pela situao de risco, cabe, inicialmente, notar que, se a considerao sobre a criao de um risco desaprovado realizar-se ex ante, pois, de antemo, deve-se saber qual a conduta compatvel com as expectativas sociais, a anlise da realizao do risco desenvolver-se- por meio de valorao ex post. Assim como a apurao da relao de causalidade natural verifica-se aps a ocorrncia do resultado, a constatao da vinculao entre a situao de risco e a ocorrncia do resultado penalmente relevante somente se d aps a produo deste. Apurar a imputao objetiva, no exemplo bastante conhecido da vtima que morre em acidente com a ambulncia que a levava para o hospital, aps ser atingida por disparos de arma de fogo produzidos por terceiros,  fcil. A previso do pargrafo 1 do artigo 29 do Cdigo Penal Militar resolve o problema, de modo que a causa superveniente, relativamente independente, excluiu a imputao que, por si s, produziu o resultado. Assim, o causador das leses no responde pelo resultado morte, que foi produzido unicamente pela coliso que envolveu a ambulncia. Mas, no caso do condutor de caminho que ultrapassou, com infrao regulamentria, o ciclista embriagado, caindo este sob as rodas traseiras do caminho, a situao  mais difcil. Em caso concreto, a Suprema Corte alem absolveu o condutor, entendendo que, embora a morte do ciclista tenha sido produzida pelo atropelamento, no havia certeza se o resultado decorria da imprudente manobra de ultrapassagem ou do estado de embriaguez da vtima. Em outras palavras, no foi possvel apurar se o resultado material consistiu na realizao do risco criado pelo motorista. Esse exemplo bem demonstra a necessidade de estabelecerem-se critrios para identificar quando ocorre a realizao do risco proibido. Jakobs leciona que a regra bsica para verificar se houve a realizao do risco  reconhecer que um risco realiza-se quando, para explicar o dano, so necessrios todos aqueles dados do movimento causal que derivam do no permitido do risco.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existe discordância quanto ao lugar que a análise do risco desaprovado deve ocupar no sistema penal e aos critérios utilizados para identificar a realização deste. O reconhecimento do vínculo entre a criação do risco e a realização deste deve ser feito ex ante e ex post. Jakobs leciona que a regra básica para verificar se houve a realização do risco é reconhecer que um risco realiza-se quando, para explicar o dano, são necessários todos aqueles dados do movimento causal derivados do não permitido do risco.

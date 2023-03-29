@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No processo penal militar deve-se observar a mxima efetividade dos princpios do contraditrio e da ampla defesa. Com esse sentido, concede-se ao acusado o direito de resposta no procedimento ordinrio, nos moldes do artigo 396 e 396-A do CPP, e concentra-se os atos processuais em nica audincia de acordo com o artigo 400 do CPP e, passando, desde logo, nos termos do artigo 403, caput e pargrafo 3, do CPP, para:
+alegaes finais orais por 20 (vinte) minutos, respectivamente, pela acusao e pela defesa, prorrogveis por mais 10 (dez), proferindo o juiz, a seguir, sentena ou considerada a complexidade do caso ou o nmero de acusados, conceder s partes o prazo de 5 (cinco) dias sucessivamente para a apresentao de memoriais. Nesse caso, ter o prazo de 10 (dez) dias para proferir a sentena. Tanto a primeira hiptese em que juiz profere a sentena em audincia, aps o interrogatrio seguido de sustentao oral (artigo 403 do CPP) ou a segunda hiptese, em que a profere depois da apresentao de memoriais (pargrafo 3 do artigo 403 do CPP), podem ser aplicadas em busca da celeridade e da economia processual. Em resumo, no procedimento ordinrio perante o juiz de direito (a) recebida a denncia o juiz ordenar citao do acusado para responder  acusao no prazo de 10 dias (artigo 396, CPP);
+(b) com a resposta do acusado o juiz poder absolv-lo sumariamente se verificar uma das hipteses do artigo 397, I a IV, do CPP;
+(c) no ocorrendo absolvio sumria, o juiz designa audincia de instruo e julgamento, conforme o artigo 400 do CPP.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No processo penal militar, deve-se observar os princípios do contraditório e da ampla defesa. O acusado tem direito de resposta e os atos processuais são concentrados em uma única audiência. O juiz pode absolver sumariamente o acusado se verificar uma das hipóteses do artigo 397 do CPP. Caso contrário, o juiz designa uma audiência de instrução e julgamento.

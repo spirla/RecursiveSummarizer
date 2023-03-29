@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Eventualmente, requereu a absolvio, por insuficincia ou ausncia de provas de que os fatos aconteceram. Subsidiariamente, pugnou pelo reconhecimento da excludente de ilicitude do estrito cumprimento do dever legal, nos termos do art. 439, "d, do CPPM, c/c o art. 42, inciso III, do CPM. Eventualmente, na hiptese de condenao, requereu a desclassificao para o delito de leso corporal de natureza levssima (Evento 53 - Processo Originrio). Em seguida, o juiz de direito julgou improcedente a denncia e absolveu o acusado, 3 Sgt PM Washington Domenciano Ferreira, do delito de leso corporal leve, previsto no art. 209, caput, do CPM, com fundamento no art. 439, "e", do CPPM (Evento 56 - Processo Originrio). Irresignado, o Ministrio Pblico interps o presente recurso de apelao. Nas razes recursais, o parquet sustentou que as declaraes da vtima, o depoimento da testemunha Adriana Aparecida Rezende e o exame de corpo de delito comprovam a prtica do delito de leso corporal leve, e requereu a condenao do acusado nos termos da exordial acusatria (Evento 66 - Processo Originrio). Em contrarrazes, a defesa do ru pugnou pelo no provimento do recurso ministerial, salientando que no restou comprovado nos autos que as leses causadas na vtima foram provocadas durante a abordagem policial. Asseverou que a palavra da vtima deve ser vista com ressalva, ressaltando que ela no apontou, especificamente, em qual lugar do corpo sofreu as agresses. Salientou que Adriana Aparecida Rezende no pode ser considerada testemunha probante, pois ela era amiga ntima ou companheira da vtima  poca dos fatos, alm de no ter sido ouvida perante esta Justia Militar. Destacou que a negativa de autoria dos fatos, pelo acusado, encontra-se corroborada pelos depoimentos dos policiais militares Renato Henrique Santos e Juliano Vinicius de Oliveira. Afirmou que no h provas da prtica do delito, ressaltando que a abordagem policial foi legtima e ocorreu dentro dos limites do estrito cumprimento do dever legal. Sustentou que h incongruncias no exame de corpo de delito e que no  possvel afirmar que as leses foram ocasionadas pelo acusado. Por fim, pleiteou a manuteno da sentena absolutria (Evento 71 - Processo Originrio). Em parecer, o eminente procurador de justia manifestou-se pelo conhecimento e pelo provimento do recurso ministerial (Evento 6).  o relatrio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito julgou improcedente a denúncia e absolveu o acusado do delito de lesão corporal leve, previsto no art. 209, caput, do CPM, com fundamento no art. 439, "e", do CPPM. O Ministério Público recorreu da decisão, alegando que as declarações da vítima, o depoimento da testemunha e o exame de corpo de delito comprovam a prática do delito. A defesa do acusado sustentou que não há provas da prática do delito e que a abordagem policial foi legítima. O Procurador de Justiça manifestou-se pelo conhecimento e pelo provimento do recurso ministerial.

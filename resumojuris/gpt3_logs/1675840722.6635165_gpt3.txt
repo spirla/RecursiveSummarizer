@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+22 da Lei n. 11.340/2006, remetem ao paralelismo existente entre estas e as medidas alternativas a prisao dos incisos II e III do art. 319 do CPP. Dessa forma, tanto a proibicao de acessar ou frequentar determinados lugares para evitar a pratica de novas infracoes penais, quanto a proibicao de manter contato com pessoa determinada tem grande semelhanca com as medidas de proibicao de aproximar-se da vitima e de com ela manter contato, previstas na lei protetiva a mulher. D'outro vertice, particularmente no que tange a disciplina das medidas protetivas, denota-se nao haver previsao de procedimento especifico para concessao da tutela cautelar, restringindo-se a lei a determinar, em seu art. 18, que cabera ao juiz, a requerimento do Ministerio Publico ou da ofendida, no prazo de 48 horas, decidir sobre as medidas protetivas, entre outras providencias. Dessa feita, nao cabe a instauracao de um processo, com citacao do requerido para ciencia e contestacao, sob pena de decretacao de sua revelia, nos moldes do estabelecido na lei processual civil. Aplicavel, sim, o regramento do Codigo Processual Penal que, em caso de risco a efetividade da medida, determina a intimacao do suposto agressor apos a decretacao da cautelar, facultando-lhe a possibilidade de manifestar-se nos autos a qualquer tempo, sem a aplicacao dos efeitos da revelia. O paragrafo unico do art. 21 tambem reforca a nao adocao do regramento previsto no CPC, porquanto determina que a ofendida nao podera entregar intimacao ou notificacao ao agressor , nada mencionando sobre citacao. Reconhecer a natureza penal das medidas cautelares dos incisos I, II e III do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Existe paralelismo entre as medidas protetivas previstas na Lei n. 11.340/2006 e as medidas alternativas à prisão dos incisos II e III do art. 319 do CPP. 2. Não há previsão de procedimento específico para concessão da tutela cautelar prevista na Lei n. 11.340/2006. 3. O regramento do Código Processual Penal deve ser aplicado para decretação da cautelar, facultando ao suposto agressor a possibilidade de manifestar-se nos autos a qualquer tempo, sem a aplicação dos efeitos da revelia. 4. O parágrafo único do art. 21 da Lei n. 11.340/2006 reforça a não adoção do regramento previsto no CPC, pois determina que a ofendida não poderá entregar intimação ou notificação ao agressor, nada mencionando sobre citação. 5. As medidas cautelares dos incisos I, II e III do art. 22 da Lei n. 11.340/2006 possuem natureza penal.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Aduziu que a matria embargada no abrange essa parte no unnime do acrdo, tendo em vista que o embargante no formulou nenhum pedido relacionado  divergncia verificada entre os votos vencedores e vencido, restringindo-se a requerer a reforma da "sentena proferida pela 4a Auditoria da Justia Militar do Estado de Minas Gerais (evento 1 - INIC1 - fls. 10). Nesse aspecto, razo assiste  eminente Procuradora de Justia porquanto o embargante reproduziu as alegaes e os fundamentos apresentados em seu recurso de apelao, desconsiderando, desse modo, o acolhimento parcial de seu apelo pela colenda Primeira Cmara, que decidiu pela reforma parcial da sentena penal condenatria ao desclassificar o delito de furto qualificado pelo abuso de confiana (art. 240, 6, inciso II, do Cdigo Penal Militar) para furto simples (art. 240 do Cdigo Penal Militar), reduzindo, dessa forma, a pena aplicada. A divergncia existente no julgamento foi relativa ao quantum da pena aplicada. Os votos vencedores fixaram a pena definitiva em 3 (trs) anos e 4 (quatro) meses de recluso, a ser cumprida em regime inicial aberto, vedando o sursis. O voto vencido fixou a pena definitiva em 1 (um) ano para cada crime praticado, perfazendo um total de 2 (dois) anos de recluso, a serem cumpridos em regime aberto, sem o benefcio da suspenso condicional da pena. Apesar de o embargante haver reproduzido argumentos do recurso de apelao, entendo que se deve conhecer dos embargos infringentes, porquanto o embargante deixa claro o motivo de sua insurgncia em suas razes recursais, fazendo constar a sua pretenso de fazer prevalecer o voto vencido, da lavra do eminente Desembargador Fernando Galvo da Rocha, no tpico "Da espcie dos autos, ao aduzir, em sntese: Inconformado, Lucas Reis da Silva, com fincas na deciso divergente do Desembargador Fernando Galvo da Rocha, que lhe foi inteiramente favorvel, ope os presentes embargos infringentes, cujos fundamentos passa a articular. Tem-se que, ao explanar as razes para a reforma da deciso, o embargante trouxe, no item 2 (Da conduta que tem como vtima o cadete Joo Carlos), o requerimento expresso de "que seja reformada a pena aplicada para o mnimo legal, considerando que a interpretao esposada pelo douto Magistrado, das circunstncias judiciais estabelecidas pelo art. 69 do CPM, se afastou do costumeiro acerto demonstrado por ele nos casos em trmite nesta auditoria. Verifica-se que ele discorreu sobre uma a uma das circunstncias judiciais, apontando os motivos de no serem negativadas na dosimetria da pena. E, ao final, salientou que a pena deveria ser aplicada no mnimo legal (Evento 1 - INIC1, pginas 6 e 7). Sendo assim, no meu modesto entendimento, deve-se conhecer parcialmente dos embargos para anlise do ponto relativo  insurgncia do embargante sobre a dosimetria da pena.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A Procuradora de Justia entende que deve ser conhecido parcialmente dos embargos infringentes para análise da insurgência do embargante sobre a dosimetria da pena, tendo em vista que o embargante fez constar a sua pretenso de fazer prevalecer o voto vencido, que fixou a pena definitiva em 1 (um) ano para cada crime praticado, perfazendo um total de 2 (dois) anos de recluso, a serem cumpridos em regime aberto, sem o benefício da suspenso condicional da pena.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+439, ALNEA E DO CDIGO DE PROCESSO PENAL MILITAR - RECURSO DE APELAO MINISTERIAL IMPROVIDO - SENTENA ABSOLUTRIA DE PRIMEIRO GRAU MANTIDA. 1. Em que pese os fortes indcios de cometimento das condutas imputadas ao acusado, o Ministrio Pblico no logrou convert- los em provas robustas e suficientes para sustentarem o decreto condenatrio. 2. Prevalecendo a dvida quanto  autoria delitiva e sua materialidade, a medida impositiva passa a ser a absolvio. ACRDO Vistos, relatados e discutidos os presentes autos, sendo apelante o Ministrio Pblico do Estado de Minas Gerais e apelado Srgio Henrique Soares, acordam os desembargadores da Segunda Cmara, por unanimidade, em negar provimento ao recurso de apelao interposto pelo Ministrio Pblico, mantendo inclume a sentena de primeiro grau que absolveu o acusado Cb PM Srgio Henrique Soares de todas as acusaes que lhe foram imputadas na denncia. RELATRIO O Ministrio Pblico do Estado de Minas Gerais, pelos ilustres promotores de justia que atuam junto ao Grupo de Atuao Especializada em Combate ao Crime Organizado (GAECO) e  9a Promotoria de Justia, que tem atuao junto s Auditorias de Justia Militar, no uso de suas atribuies legais, ofereceu, no dia 25/11/2020, denncia em desfavor do Sd Pm Srgio Henrique Soares e de outros policiais militares, pelo cometimento dos crimes capitulados no artigo 2, caput, com as causas de aumento de pena previstas nos  2 e 4, inciso II, da Lei n. 12.850, de 2013 (organizao criminosa); no artigo 308, 1, do Cdigo Penal Militar (CPM) e no art. 50 do Decreto-Lei n. 3.688 de 1941 (contravenes penais), todos na forma do art. 79 do CPM. Segundo restou apurado, os denunciados se associaram informalmente, sob a liderana e a coordenao de Jonathan Magnum Peres, vulgo Danone, com o emprego de armas de fogo e o concurso de funcionrios pblicos, de maneira estruturalmente ordenada e mediante diviso de tarefas, com o objetivo de obterem, direta e indiretamente, vantagem indevida, consistente na prtica continuada e reiterada dos crimes de corrupo passiva e ativa majorados, visando  livre explorao das mquinas caa-nquel na cidade de Nova Lima e em diversos outros locais da Regio Metropolitana de Belo Horizonte.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelação interposto pelo Ministério Público foi negado por unanimidade, mantendo-se a sentença de primeiro grau que absolveu o acusado de todas as acusações imputadas, uma vez que o Ministério Público não logrou converter os fortes indícios de cometimento das condutas em provas robustas e suficientes para sustentarem o decreto condenatório.

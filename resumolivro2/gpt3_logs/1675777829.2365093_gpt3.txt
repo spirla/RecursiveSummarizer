@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ atribuio do Procurador-Geral da Repblica, enquanto Chefe do Ministrio Pblico da Unio, dirimir conflitos de atribuio entre integrantes de ramos diferentes do Ministrio Pblico da Unio (artigo 26, VII, da Lei Complementar 75, de 20.05.1993). Se houver conflito de atribuies entre o membro do Ministrio Pblico Militar e o membro do Ministrio Pblico da Unio cabe ao Procurador-Geral da Repblica dirimir. O Procurador-Geral da Justia Militar, que  o Chefe do Ministrio Pblico Militar, tem atribuio de decidir, em grau de recurso, os conflitos de atribuies entre os rgos do Ministrio Pblico Militar (artigo 124, VI, LC 75/1993). Em linha de simetria, nos Estados cabe ao chefe da instituio resolver o conflito. O artigo 115 da Lei Orgnica do Ministrio Pblico do Estado de So Paulo (Lei Complementar 734, de 26.11.1996), por exemplo, estabelece que os conflitos de atribuio so decididos pelo Procurador-Geral de Justia. Nos julgamentos das ACOs 924 e 1.394 o STF julgou-se incompetente para conhecer de conflito de atribuies entre membros do Ministrio Pblico Militar da Unio e dos Estados, posto ser sua competncia originria excepcional e no passvel de ser ampliada. Os autos foram remetidos ao procurador-geral da Repblica. A partir dessa recente orientao do STF a soluo do conflito de atribuio passou a ser atribuio do PGR. 9.5. Assistente de acusao. O ofendido, seu representante legal e seu sucessor podem habilitar-se a intervir no processo como assistentes do Ministrio Pblico (artigo 60, CPPM). O ofendido  a pessoa fsica que sofre a ao delituosa perpetrada pelo indiciado ou acusado, ainda que o sujeito passivo primrio seja o Estado ou Administrao Militar, por exemplo, no crime de concusso. Se houver mais de um ofendido na mesma ao penal  possvel que cada um deles se habilite. Ofendido, se acusado no mesmo processo, no poder intervir como assistente, salvo se absolvido por sentena passada em julgado (artigo 64, CPPM). So representantes do ofendido o ascendente ou descendente, tutor ou curador do ofendido, se menor de dezoito anos ou incapaz e sucessor, em caso de morte, seu ascendente, descendente ou irmo (artigo 60, pargrafo nico, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Procurador-Geral da República é responsável por dirimir conflitos de atribuições entre integrantes do Ministério Público da União. O Procurador-Geral da Justiça Militar é responsável por decidir conflitos de atribuições entre os órgãos do Ministério Público Militar. Nos Estados, o chefe da instituição resolve os conflitos. O ofendido, seu representante legal e sucessor podem se habilitar a intervir no processo como assistentes do Ministério Público.

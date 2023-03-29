@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Frisa-se, na mesma linha, a manifestacao da Procuradoria-Geral da Republica, para quem nao houve nova valoracao das circunstancias judiciais na primeira fase da dosimetria da pena, mas apenas o apontamento de elementos concretos para fundamentar o patamar aplicado em razao da continuidade delitiva, nos exatos termos do art. 71, paragrafo unico, do Estatuto Repressivo, nao havendo cogitar-se de reformatio in pejus . (Informativo n. 734) PROCESSO HC 718.525-PR, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, por unanimidade, julgado em 26/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Julgamento da apelacao criminal. Pronunciamento oral do relator para o acordao. Manifestacao desrespeitosa, pejorativa e ofensiva ao acusado. Excesso verbal que exorbita da mera falta de urbanidade. Maltrato ao devido processo legal. Sistema acusatorio. Falta de imparcialidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não houve nova valoração das circunstâncias judiciais na primeira fase da dosimetria da pena, mas apenas o apontamento de elementos concretos para fundamentar o patamar aplicado em razão da continuidade delitiva, nos exatos termos do art. 71, parágrafo único, do Estatuto Repressivo. 2. Manifestação desrespeitosa, pejorativa e ofensiva ao acusado é excesso verbal que exorbita da mera falta de urbanidade. 3. Maltrato ao devido processo legal e falta de imparcialidade.

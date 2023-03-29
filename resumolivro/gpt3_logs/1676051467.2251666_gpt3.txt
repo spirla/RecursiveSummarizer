@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Dessa forma, a tipicidade objetiva no se apresentar quando o furto tiver por alvo pequenssimos objetos, quando a leso corporal no adquirir proporo significativa, quando a ofensa  honra for de pequenssima monta, quando a leso ou o perigo de leso ao meio ambiente for insignificante, quando o indivduo estiver na posse de quantidade nfima de droga etc. Mais recentemente, a doutrina e a jurisprudncia tm feito distino entre a infrao bagatelar prpria da infrao bagatelar imprpria. A infrao de bagatela prpria no apresenta qualquer relevncia penal, seja porque no h o desvalor da conduta ou porque no h o desvalor do resultado naturalstico. Tais casos podem ser exemplificados com a conduta daquele que atira uma bola de papel em direo a um veculo automotor (sem desvalor da conduta) e a conduta de quem subtrai uma borracha escolar (sem desvalor do resultado naturalstico). A atipicidade da conduta decorre da aplicao do princpio da insignificncia. Na infrao bagatelar imprpria a conduta tem relevncia para o direito penal, mas a pena se mostra desnecessria diante da irrelevncia penal do fato. No Cdigo Penal  possvel encontrar exemplos de infrao de bagatela imprpria no homicdio culposo (artigo 121, pargrafo 5) e nas leses corporais culposas (artigo 129, pargrafo 8), em que as consequncias atinjam o condenado de maneira grave; no peculato culposo, em que a reparao dos danos antes da sentena irrecorrvel extingue a punibilidade (artigo 312, pargrafo 3); e no falso testemunho, j que sua retratao antes de proferida a sentena no processo em que o mesmo se verificou tambm dispensa da pena (artigo 342, pargrafo 2 ). Nesses casos, muito embora se possa constatar desvalor para a conduta ou para o resultado naturalstico, o legislador reconheceu que a pena se tornou desnecessria. 23.5.5. Aplicao prtica. A classificao que tem por base o resultado naturalstico possui especial aplicao na compreenso do elemento subjetivo exigido pelo tipo, j que este deve ser sempre relacionado s exigncias de ordem objetiva. Nos crimes dolosos de dano, a inteno que orienta a conduta do sujeito ativo do crime deve querer ou aceitar que o dano seja produzido. Nos crimes de perigo concreto, a inteno dirige-se somente at a produo da situao de perigo. Nos crimes de perigo abstrato, o elemento subjetivo exigido pelo tipo se limita  realizao da conduta considerada perigosa pelo legislador.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A tipicidade objetiva no se aplica a casos de pequena monta, como furto de pequenos objetos, leses corporais insignificantes, ofensas honra de monta pequena, quantidade nfima de droga etc. A doutrina e a jurisprudncia distinguem entre infrao bagatelar prpria e imprpria. Esta ltima tem relevncia penal, mas a pena se mostra desnecessria. Exemplos de infrao bagatelar imprpria: homicdio culposo, leses corporais culposas, peculato culposo e falso testemunho. O elemento subjetivo exigido pelo tipo deve estar relacionado s exigncias objetivas.

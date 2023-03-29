@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ribeiro Dantas, Rel. Acd. Min. Joel Ilan Paciornik, Quinta Turma, por maioria, julgado em 08/11/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL CIVIL, DIREITO PROCESSUAL PENAL TEMA Lei Maria da Penha (Lei n. 11.340/06). Medidas protetivas de urgencia. Art. 22, inc. I, II e III, da Lei n. 11.340/06. Natureza de tutela provisoria cautelar. Carater eminentemente penal. Citacao do requerido para oferecimento de contestacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei Maria da Penha (Lei n. 11.340/06) prevê medidas protetivas de urgencia nos artigos 22, incisos I, II e III. 2. As medidas protetivas de urgencia previstas na Lei Maria da Penha possuem natureza de tutela provisória cautelar. 3. As medidas protetivas de urgencia previstas na Lei Maria da Penha possuem caráter eminentemente penal. 4. O requerido deve ser citado para oferecimento de contestação.

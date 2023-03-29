@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inviabilidade. DESTAQUE Quando a acusacao nao produzir todas as provas possiveis e essenciais para a elucidacao dos fatos, capazes de, em tese, levar a absolvicao do reu ou confirmar a narrativa acusatoria caso produzidas, a condenacao sera inviavel, nao podendo o magistrado condenar com fundamento nas provas remanescentes. Originaria do direito frances, a teoria da perda de uma chance (perte d'une chance) foi concebida no ambito da responsabilidade civil para considerar indenizavel a perda da oportunidade de se alcancar um resultado favoravel, de ocorrencia futura, incerta e dependente de fatores nao submetidos ao controle total das partes envolvidas. Segundo a teoria, a vitima de um ilicito civil tem direito a reparacao quando esse ato lhe subtrair a chance de, exercendo suas competencias, chegar a determinada situacao que lhe seria vantajosa, mesmo na impossibilidade de garantir que tal situacao se implementaria no futuro nao fosse a pratica do ato ilicito. A transposicao da perte d'une chance do direito civil para o processo penal e uma ideia original de ALEXANDRE MORAIS DA ROSA e FERNANDA MAMBRINI RUDOLFO. Inconformados com a baixa qualidade de investigacoes policiais, os juristas argumentam que quando o Ministerio Publico se satisfaz em produzir o minimo de prova possivel - por exemplo, arrolando como testemunhas somente os policiais que prenderam o reu em flagrante -, e na pratica tirada da defesa a possibilidade de questionar a denuncia. Por isso, a acusacao nao pode deixar de realmente investigar o caso, transferindo a defesa o onus de faze-lo. Ao contrario, a policia e o Ministerio Publico devem buscar o que os autores chamam de comprovacao externa do delito: a prova que, sem guardar relacao de dependencia com a narrativa montada pela instituicao estatal, seja capaz de corrobora-la.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A condenação será inviável quando a acusação não produzir todas as provas possíveis e essenciais para a elucidação dos fatos. 2. A teoria da perda de uma chance foi concebida no âmbito da responsabilidade civil para considerar indenizável a perda da oportunidade de se alcançar um resultado favorável. 3. O Ministério Público não pode deixar de realmente investigar o caso, transferindo à defesa o ônus de fazê-lo. 4. A polícia e o Ministério Público devem buscar a comprovação externa do delito.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Existindo divergencia entre as Varas de Execucoes Penais de Pernambuco sobre a aplicacao da medida provisoria emanada da Corte Interamericana de Direitos Humanos - CIDH em relacao a temas relacionados a aspectos praticos da forma computo do prazo em dobro, a futura deliberacao a ser exarada no IRDR garantira tratamento isonomico aos presos no Complexo do Curado, assim como seguranca juridica que deflui da prolacao de decisoes harmonicas sobre o tema. 1219 O fato de os presos, no Complexo do Curado/PE, ainda nao terem recebido o beneficio, por si so, nao implica tratamento desigual em comparacao com a situacao de presos no Instituto Penal Placido de Sa Carvalho/RJ que, eventualmente, ja o tenham recebido. A desigualdade, se viesse a existir, defluiria de discrepancia entre as regras para contagem e recebimento do beneficio estabelecidas nos dois Tribunais de Justica estaduais para situacoes equivalentes, o que nao se pode nem mesmo aferir antes do julgamento do IRDR em Pernambuco. Ressalte-se que o direito do cidadao a prestacao jurisdicional nao corresponde ao direito de subverter toda a ordem da organizacao judiciaria posta em normas de competencia (tanto constitucionais quanto infraconstitucionais) e em normas que estabelecem regras de funcionamento de recursos, de acoes constitucionais autonomas e de sucedaneos recursais. Por esse motivo, nao pode o jurisdicionado pretender que as Cortes Superiores se manifestem sobre tema sobre o qual ainda nao se pronunciaram as instancias ordinarias, ainda que se trate de materia de ordem publica conhecivel de oficio pelo julgador. Se isso fosse possivel, alem de perder a utilidade a manutencao de tribunais de segundo grau, seria o mesmo que admitir que cabe ao jurisdicionado o direito de escolher a qual tribunal se dirigir com o pedido de reexame de materia decidida no 1 grau, o que corresponderia ao reino da inseguranca juridica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A deliberação a ser exarada no IRDR garantirá tratamento isonômico aos presos no Complexo do Curado, assim como segurança jurídica que deflui da prolacão de decisões harmônicas sobre o tema. 2. O fato de os presos, no Complexo do Curado/PE, ainda não terem recebido o benefício, por si só, não implica tratamento desigual em comparação com a situação de presos no Instituto Penal Placido de Sa Carvalho/RJ que, eventualmente, já o tenham recebido. 3. O direito do cidadão à prestação jurisdicional não corresponde ao direito de subverter toda a ordem da organização judiciária posta em normas de competência (tanto constitucionais quanto infraconstitucionais) e em normas que estabelecem regras de funcionamento de recursos, de ações constitucionais autonomas e de sucedâneos recursais. 4. Não pode o jurisdicionado pretender que as Cortes Superiores se manifestem sobre tema sobre o qual ainda não se pronunciaram as instâncias ordinárias, ainda que se trate de matéria de ordem pública conhecível de ofício pelo julgador.

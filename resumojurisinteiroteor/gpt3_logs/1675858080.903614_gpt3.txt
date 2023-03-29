@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+303, 3, do Cdigo Penal Militar (peculato culposo), em concurso material de infraes penais, tendo sido declarada a extino da punibilidade do ento ru quanto ao segundo crime, por conta da havida reparao espontnea do dano causado  vtima. Foi o ora representado simultaneamente condenado  perda do cargo de policial militar, a ele tambm tendo sido imposta uma pena em espcie a ser revertida em favor da vtima. (14) Aviada, a tempo e modo adequados, apelao criminal, o eg. TRIBUNAL DE JUSTIA MILITAR, por meio de sua colenda Primeira Cmara, absolveu, por maioria de votos, o ora representado, diante de interpretado quadro de insuficincia do panorama probatrio disponvel nos autos. Foi relator, por sinal vencido, porquanto condenava o ora representado na forma do pleito ministerial estampado na exordial acusatria, o eminente desembargador doutor FERNANDO GALVO DA ROCHA, figurando como revisor (e relator para o v. acrdo) V. Exa, eminente desembargador doutor RBIO PAULINO COELHO, e, como segundo vogal, o eminente desembargador doutor OSMAR DUARTE MARCELINO. (15) O MPMG, na pessoa da ilustrada procuradora de justia doutora ELBA RONDINO, via de oportunos embargos infringentes e de nulidade, forte no art. 538 do CPPM, propugnou pela manuteno da condenao do representado pelo crime de tortura e o parcial provimento do seu recurso, apenas para reduzir a reprimenda que lhe foi imposta, a fim de que seja estabelecida em 2 (dois) anos, 4 (quatro) meses e 15 (quinze) dias de recluso, por sinal na esteira exata do magnfico voto proferido pelo preclaro desembargador doutor FERNANDO GALVO DA ROCHA. (16) O resultado foi o perseguido pelo Parquet mineiro, com o advento da v. deciso colegiada de provimento dos aludidos embargos, por maioria de votos, tendo ficado vencidos os eminentes desembargadores doutores RBIO PAULINO COELHO, JAMES FERREIRA SANTOS e OSMAR DUARTE MARCELINO, enquanto vencedores os eminentes desembargadores doutores FERNANDO GALVO DA ROCHA, FERNANDO ARMANDO RIBEIRO, JADIR SILVA e SCRATES EDGARD DOS ANJOS. (17) Alm da condenao do aludido policial militar a uma pena superior a dois anos de privao de liberdade, a perda da graduao se justifica, no caso concreto, pela especial gravidade, pelas terrveis circunstncias e pela forte repercusso do crime na sociedade local, crime cometido com requintes de crueldade que, sem sombra de dvida, tornam absolutamente inapropriada a permanncia do representado nas nobres fileiras da gloriosa POLCIA MILITAR DO ESTADO DE MINAS GERAIS. Caso claro e evidente, pois, de incompatibilidade plena do ora representado com o desempenho das graves e importantes funes de policial militar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de Justia Militar absolveu, por maioria de votos, o representado, diante de interpretado quadro de insuficincia do panorama probatrio disponvel nos autos. O Ministério Público, por meio de embargos infringentes e de nulidade, propugnou pela manutenção da condenação do representado pelo crime de tortura. O resultado foi o perseguido pelo Parquet mineiro, com o advento da decisão colegiada de provimento dos aludidos embargos, por maioria de votos, condenando o representado a uma pena superior a dois anos de privação de liberdade, além da perda da graduação, devido à gravidade, às circunstâncias e à forte repercussão do crime na sociedade local.

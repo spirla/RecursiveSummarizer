@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A racionalidade trazida pela recomendacao e evidente: essas instituicoes agem como in loco parentis, ou seja, no lugar dos pais. Nao existe nesses locais a possibilidade de os pais ou os responsaveis pelas criancas desligarem a televisao ou o radio. Os pais nao estao presentes fisicamente. Por isso, como afirma a recomendacao, dentro da escola, o bem-estar nutricional das criancas deve ser a pedra angular . Com base nesse entendimento, o Plenario julgou improcedente o pedido de declaracao de inconstitucionalidade da Lei 13.582/2016 do estado da Bahia, com as alteracoes implementadas pela Lei 14.045/2018. ADI 5631/BA, relator Min. Edson Fachin, julgamento em 25.3.2021 (INF 1011) 4.5 CONFLITO FEDERATIVO Censo Demografico do IBGE: corte de verbas e conflito federativo - ACO 3508 TA-Ref/MA Resumo: Compete ao Supremo Tribunal Federal (STF), processar e julgar, com base no art. 102, I, f , da CF/88 (CF), acao civel originaria que questiona a inercia da Administracao Publica federal relativamente a organizacao, ao planejamento e a execucao do Censo Demografico do Instituto Brasileiro de Geografia e Estatistica (IBGE). A controversia deduzida no caso  relativa ao nao implemento dos atos administrativos e da alocacao de recursos destinados a realizacao do censo demografico no ano de 2021  apresenta fator de potencial desestabilizacao do pacto federativo, de maneira a atrair a competencia originaria do STF e a legitimidade de cada uma das unidades federativas afetadas para desafiar a higidez da decisao politica tomada pela Uniao. Configura-se ilegitima a escolha politica que, esvaziando as dotacoes orcamentarias vocacionadas as pesquisas censitarias do IBGE, inibe a producao de dados demograficos essenciais ao acompanhamento dos resultados das politicas sociais do Estado brasileiro.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As instituições agem como in loco parentis, ou seja, no lugar dos pais. 2. O bem-estar nutricional das crianças deve ser a pedra angular dentro da escola. 3. O Plenário julgou improcedente o pedido de declaração de inconstitucionalidade da Lei 13.582/2016 do Estado da Bahia, com as alterações implementadas pela Lei 14.045/2018. 4. Compete ao Supremo Tribunal Federal (STF) processar e julgar, com base no art. 102, I, f, da CF/88 (CF), ação civil originária que questiona a inércia da Administração Pública federal relativamente à organização, ao planejamento e à execução do Censo Demográfico do Instituto Brasileiro de Geografia e Estatística (IBGE). 5. Configura-se ilegítima a escolha política que, esvaziando as dotações orçamentárias vocacionadas às pesquisas censitárias do IBGE, inibe a produção de dados demográficos essenciais ao acompanhamento dos resultados das políticas sociais do Estado brasileiro.

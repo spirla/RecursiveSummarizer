@@ -1,0 +1,27 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+9 Consideram-se crimes militares, em tempo de paz:
+- os crimes de que trata este Cdigo, quando definidos de modo diverso na lei penal comum, ou nela no previstos, qualquer que seja o agente, salvo disposio especial;
+- os crimes previstos neste Cdigo e os previstos na legislao penal, quando praticados:
+a) por militar em situao de atividade ou assemelhado, contra militar na mesma situao ou assemelhado;
+b) por militar em situao de atividade ou assemelhado, em lugar sujeito  administrao militar, contra militar da reserva, ou reformado, ou assemelhado, ou civil;
+c) por militar em servio ou atuando em razo da funo, em comisso de natureza militar, ou em formatura, ainda que fora do lugar sujeito  administrao militar contra militar da reserva, ou reformado, ou civil;
+d) por militar durante o perodo de manobras ou exerccio, contra militar da reserva, ou reformado, ou assemelhado, ou civil;
+e) por militar em situao de atividade, ou assemelhado, contra o patrimnio sob a administrao militar, ou a ordem administrativa militar;
+f) revogada. - os crimes praticados por militar da reserva, ou reformado, ou por civil, contra as instituies militares, considerando-se como tais no s os compreendidos no inciso I, como os do inciso II, nos seguintes casos:
+a) contra o patrimnio sob a administrao militar, ou contra a ordem administrativa militar;
+b) em lugar sujeito  administrao militar contra militar em situao de atividade ou assemelhado, ou contra funcionrio de Ministrio militar ou da Justia Militar, no exerccio de funo inerente ao seu cargo;
+c) contra militar em formatura, ou durante o perodo de prontido, vigilncia, observao, explorao, exerccio, acampamento, acantonamento ou manobras;
+d) ainda que fora do lugar sujeito  administrao militar, contra militar em funo de natureza militar, ou no desempenho de servio de vigilncia, garantia e preservao da ordem pblica, administrativa ou judiciria, quando legalmente requisitado para aquele fim, ou em obedincia a determinao legal superior. Pargrafo 1 Os crimes de que trata este artigo, quando dolosos contra a vida e cometidos por militares contra civil, sero da competncia do Tribunal do Jri.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Consideram-se crimes militares em tempo de paz os previstos no Código e na legislação penal, praticados por militares em atividade ou assemelhados, contra militares da reserva, reformados, assemelhados ou civis, em lugar sujeito à administração militar. Quando dolosos contra a vida e cometidos por militares contra civis, serão da competência do Tribunal do Júri.

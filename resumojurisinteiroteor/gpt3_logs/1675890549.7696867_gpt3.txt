@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Precedentes: STF e STJ. Preliminar rejeitada. [..] III - Apelao desprovida por unanimidade. No mesmo sentido, est a jurisprudncia de nossos Tribunais superiores: STM - HABEAS CORPUS HC 1070320137000000 AM 000010703.2013.7.00.0000 (STM) Data de publicao: 08/11/2013 Ementa: HABEAS CORPUS. ESTELIONATO. LIMINAR DE SUSPENSO DO PROCESSO NEGADA. PEDIDO DE NULIDADE DOS ATOS A PARTIR DA NOMEAO DO DEFENSOR DATIVO EM AUDINCIA DE OITIVA DE TESTEMUNHA DA DEFESA SEM A PRESENA DO DEFENSOR PBLICO E DE TODOS OS ATOS SUBSEQUENTES. NOMEAO DE DEFENSOR DATIVO. AUSNCIA DE PREJUZO  DEFESA. Defensor Pblico, apesar de intimado com quatro meses de antecedncia para a sesso de oitiva da testemunha, requereu seu adiamento, mas no comprovou a impossibilidade de comparecer, tendo o Juiz mantido a data designada para a oitiva e nomeado Defensor Dativo para o ato. Oportunidade em que foi ouvida apenas uma das quatro testemunhas arroladas. Desta feita, no h que falar, in casu, em prejuzo  Defesa. No se acolhe o pedido de nulidade do ato. Ordem de Habeas Corpus denegada por falta de amparo legal. Deciso Unnime. STJ - HABEAS CORPUS HC 22336 CE 2002/0057615-1 (STJ) Data de publicao: 22/09/2003 Ementa: CRIMINAL. HC. ESTELIONATO. TENTATIVA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Apelao foi desprovida por unanimidade. A jurisprudncia dos Tribunais Superiores (STM e STJ) foi aplicada, negando o pedido de nulidade dos atos a partir da nomeao do Defensor Dativo em audincia de oitiva de testemunha da Defesa sem a presena do Defensor Pblico e de todos os atos subsequentes, pois no houve prejuzo Defesa.

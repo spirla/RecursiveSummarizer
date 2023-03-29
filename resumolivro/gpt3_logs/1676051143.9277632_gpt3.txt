@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A interrupo da contagem da prescrio acontece no dia em que a deciso proferida em audincia de instruo e julgamento,46 ou, quando no for tomada em audincia,47 no dia em que o magistrado entrega a deciso ao escrivo. Sendo a deciso condenatria passvel de recurso, em qualquer grau de jurisdio, ainda no se pode falar em pretenso executria. A deciso condenatria recorrvel  sempre causa interruptiva da contagem do prazo da prescrio da pretenso punitiva. Caso a sentena venha a ser anulada, no poder produzir qualquer efeito e, assim, no ser considerada interruptiva da prescrio. Como existe polmica envolvendo a natureza jurdica da sentena que concede o perdo judicial, o efeito interruptivo da prescrio depender da orientao que se adote. Considerando que a sentena  condenatria, dever ocorrer a interrupo da prescrio. Caso entenda-se que a sentena  declaratria, no se poder interromper a contagem do prazo prescricional. A deciso que aplica imediatamente pena em decorrncia de transao penal, prevista no artigo 76 da Lei 9.099/95,  condenatria. No entanto, tratando-se de deciso judicial decorrente da livre vontade das partes, no  recorrvel e no interrompe a contagem da prescrio. Nesse caso, com o trnsito em julgado da deciso, tem incio a pretenso executria e uma nova contagem de prazo prescricional (artigo 112, I, do CP). Publicao do acrdo condenatrio recorrvel. O inciso IV do artigo 117 do Cdigo Penal ainda prev que  causa interruptiva da prescrio a publicao do acrdo condenatrio recorrvel. O dispositivo legal registra expressamente que  causa interruptiva da prescrio a publicao da sentena e a publicao do acrdo condenatrio recorrvel. Uma causa interruptiva independe da outra, de modo que  possvel que no ocorra interrupo da prescrio em primeiro grau, por ter sido proferida deciso absolutria e ocorra em segundo, com a reforma da referida deciso. Nesse caso, se o acrdo que impuser primeiramente a condenao for atacado por embargos infringentes, com efeito suspensivo, a interrupo da prescrio tambm ficar suspensa. Julgados os embargos improcedentes, na data do julgamento, ocorrer a interrupo da prescrio. Tambm cabe observar que no se poder mais considerar a condenao imposta em grau de recurso, por reforma de deciso absolutria de primeiro grau, ou mesmo a deciso condenatria proferida em processo de competncia originria do tribunal como sentena condenatria recorrvel.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interrupo da prescrio acontece no dia em que a deciso condenatria proferida em audincia de instrução e julgamento ou entregue ao escrivão. Se houver recurso, a prescrição é interrompida. A decisão condenatória decorrente de transação penal não é recorrível e não interrompe a contagem do prazo prescricional. A publicação do acórdão condenatório recorrível também causa interrupção da prescrição.

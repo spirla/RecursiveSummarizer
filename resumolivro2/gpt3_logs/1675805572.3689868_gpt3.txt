@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Entre esses crimes da legislao penal, alguns so de ao penal condicionada  representao, de modo que para instaurar IPM deve ser observado o artigo 5, pargrafo 4, do CPP:
+O inqurito, nos crimes em que a ao pblica depender de representao, no poder sem ela ser iniciado. O direito de representao  exercido pelo ofendido ou por seu representante legal (artigo 24, CPP). O artigo 34 do CPP dispe que Se o ofendido for menor de 21 e maior de 18 anos, o direito de queixa poder ser exercido por ele ou por seu representante legal foi revogado pelo artigo 5 do Cdigo Civil, que considera o maior de 18 anos plenamente capaz. O direito de representao poder ser exercido, pessoalmente ou por procurador com poderes especiais, mediante declarao, escrita ou oral, feita ao juiz, ao rgo do Ministrio Pblico, ou  autoridade policial (artigo 39, CPP). Em resumo, exercem o direito de representao (a) o ofendido maior de 18 anos e mentalmente capaz;
+(b) o representante legal do ofendido menor de 18 ou do mentalmente incapaz. O CPP no exige frmula legal da representao. No  necessrio que a representao seja instruda com prova plena da autoria e da materialidade, mas que sejam apresentadas informaes suficientes para convencer que h um crime a apurar. Se feita oralmente, a representao  reduzida a termo. Importa dizer que a representao conter todas as informaes que possam servir  apurao do fato e da autoria (artigo 39, pargrafo 2, CPP). O ofendido ou seu representante legal decaem do direito de representao se no o exercer no prazo de 6 (seis) meses, contado do dia em que vier a saber quem  o autor do crime (artigo 38, CPP). O prazo de decadncia  nico:
+para o menor de 18 anos comea ao completar a maioridade, enquanto para o representante legal do menor do dia em que vier a saber quem  o autor do crime. A decadncia  causa de extino da punibilidade (artigo 107, IV, CP). 6.3.3.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ação penal condicionada à representação pode ser exercida pelo ofendido maior de 18 anos e mentalmente capaz, ou por seu representante legal. O direito de representação deve conter informações suficientes para convencer que há um crime a ser apurado. O direito de representação decai se não for exercido no prazo de 6 meses, contados do dia em que o ofendido ou seu representante legal souber quem é o autor do crime, o que pode resultar na extinção da punibilidade.

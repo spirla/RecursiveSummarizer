@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(AgRg no AREsp 1403409/RS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/03/2019, DJe 04/04/2019). No caso, os policiais visualizaram o delito de roubo sendo praticado por diversos individuos em via publica e perseguiram os assaltantes, que empreenderam fuga. Apos continua perseguicao, o paciente foi alcancado. Assim, nao ha se falar em nulidade da busca pessoal quando o acusado e preso em flagrante improprio, pois indubitavelmente ha fundada suspeita do cometimento do delito na hipotese. Verifique-se que, durante a fuga, o acusado dispensou um simulacro de arma de fogo, um aparelho celular e um chip de operadora de telefonia, objetos esses encontrados em via publica. Conforme vivencia pratica, relataram os policias militares que e muito comum a retirada do chip dos celulares roubados, para dificultar a identificacao dos proprietarios. Assim sendo, apreendido o chip descartado pelo acusado, houve a insercao em outro aparelho telefonico pela policia para fins de possivel identificacao da vitima lesada, o que de fato ocorreu. Ocorre que a vitima nao era proprietaria do celular descartado, mas somente do chip. A defesa sustenta que o aparelho pertencia ao proprio acusado. Atente-se, porem, que o aparelho telefonico nao foi examinado. Assim, ainda que o celular seja de propriedade do acusado, saliente-se que nao houve extracao de nenhum dado do aparelho, pois o alvo de analise foi apenas o chip telefonico descartado, que de fato era de uma das vitimas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há nulidade da busca pessoal quando o acusado é preso em flagrante impróprio, pois indubitavelmente há fundada suspeita do cometimento do delito na hipótese. 2. É muito comum a retirada do chip dos celulares roubados para dificultar a identificação dos proprietários. 3. Ainda que o celular seja de propriedade do acusado, não houve extração de nenhum dado do aparelho, pois o alvo de análise foi apenas o chip telefonico descartado.

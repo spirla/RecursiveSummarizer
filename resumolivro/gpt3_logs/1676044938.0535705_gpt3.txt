@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como ensina Jescheck, o desvalor do resultado reside na leso ou colocao em perigo do bem jurdico, enquanto o desvalor da conduta manifesta-se na forma como este fato se realiza. A considerao sobre o desvalor do resultado surge na concepo causal-naturalista de Liszt e Beling. Como o sistema causalista baseou-se no critrio objetivo-subjetivo, o qual identifica, no injusto, todos os aspectos objetivos da conduta punvel e, na culpabilidade, os de natureza subjetiva, a valorao da ilicitude ficou restrita ao enfoque do resultado naturalstico produzido pelo sujeito. A tipicidade no permitia qualquer considerao valorativa, e a relevncia do fato somente se caracterizava no exame da ilicitude. Contudo, a valorao do injusto com base apenas na leso ao bem jurdico mostrou-se inadequada. Em especial, quando se tratasse de crimes sem resultado naturalstico ou de crimes tentados, o injusto deveria comportar outro tipo de valorao. Sem dvida, na maior parte dos casos, o crime apresenta um resultado naturalstico, mas nem sempre isso acontece. Pode-se perceber que a produo de determinado resultado naturalstico  apenas um aspecto do comportamento socialmente proibido, que no  capaz de, por si s, caracterizar suficientemente a relevncia jurdica do injusto penal. Pode-se constatar facilmente que, em muitas situaes, o resultado apresenta-se aqum da inteno do sujeito e, em outras, no guarda relao com a finalidade do sujeito no momento de sua empreitada criminosa. O sistema finalista da ao, ao ressaltar os elementos subjetivos do injusto, evidenciou o fato de que a qualidade de ilcito est intimamente relacionada com a forma como a conduta humana realiza o fato. Percebeu-se, ento, o desvalor da conduta. Certamente, a valorao que se refere  conduta do indivduo mostra-se mais abrangente do que a que se realiza sobre o resultado naturalstico por ele obtido. Com o sistema finalista de Welzel,22 passou-se a entender que a leso ao bem jurdico (desvalor do resultado) somente tem relevncia no Direito Penal, no contexto de uma ao pessoalmente ilcita (inserida no desvalor da conduta). O desvalor pessoal da ao  o desvalor geral que se apresenta em todos os crimes do Direito Penal. J o desvalor do resultado  um elemento carente de independncia em muitos crimes. O desvalor do resultado pode faltar no caso concreto sem que desaparea o desvalor da conduta, como acontece, por exemplo, na tentativa idnea. Tais consideraes valorativas ainda eram desenvolvidas somente no exame da ilicitude.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema causalista baseou-se no critério objetivo-subjetivo, que identifica, no injusto, os aspectos objetivos da conduta punível e, na culpabilidade, os de natureza subjetiva. O desvalor do resultado reside na lesão ou colocação em perigo do bem jurídico, enquanto o desvalor da conduta manifesta-se na forma como este fato se realiza. O desvalor pessoal da ação é o desvalor geral que se apresenta em todos os crimes do Direito Penal e o desvalor do resultado é um elemento carente de independência em muitos crimes.

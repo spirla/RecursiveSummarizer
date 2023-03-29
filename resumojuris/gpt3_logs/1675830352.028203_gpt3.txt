@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE E inepta a peticao inicial da rescisoria fundada no inciso V do art. 966 do CPC/2015 que nao indica a norma juridica manifestamente violada pela decisao rescindenda. Nos termos da jurisprudencia do Superior Tribunal de Justica, e inepta a peticao inicial da acao rescisoria fundada no art. 966, V e VIII, do CPC de 2015 (art. 485, V e IX, do CPC/1973) que nao indica nenhum dispositivo legal que teria sido literalmente violado pela decisao rescindenda, tampouco o erro de fato no qual a referida decisao estaria fundada. Na hipotese, verifica-se que, malgrado indicada a causa de rescindibilidade prevista no inciso V do artigo 966 do CPC/2015, o autor nao apontou a norma juridica que teria sido manifestamente violada pela decisao monocratica que, com base em acordo apresentado pelas partes de acao anulatoria (devidamente representadas), homologou o pedido de desistencia do Recurso Especial interposto pelo primeiro reu, bem como reconheceu a renuncia ao direito em que fundada a demanda proposta pelo segundo reu. A narracao dos fatos nao conduz a ocorrencia dos vicios rescisorios porque nao indica - precisamente - como os dispositivos legais indicados foram violados e nem como a decisao rescindenda foi consubstanciada em erro de fato. Tendo em vista a inepcia da acao rescisoria, impoe-se a sua extincao sem resolucao de merito (AgRg na AR 5.604/MS, Rel. Ministro Moura Ribeiro, Segunda Secao, julgado em 9/9/2015, DJe 16/9/2015). (Informativo  Ed. Especial n. 9) CPC de 2015, art. 485, V e IX CPC de 2015, art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inepta a petição inicial da ação rescisória fundada no inciso V do artigo 966 do CPC/2015 que não indica a norma jurídica manifestamente violada pela decisão rescindenda. 2. De acordo com a jurisprudência do Superior Tribunal de Justiça, é inepta a petição inicial da ação rescisória fundada nos artigos 966, V e VIII, do CPC de 2015 (art. 485, V e IX, do CPC/1973) que não indica nenhum dispositivo legal que teria sido literalmente violado pela decisão rescindenda, tampouco o erro de fato no qual a referida decisão estaria fundada. 3. Na hipótese, verifica-se que, malgrado indicada a causa de rescindibilidade prevista no inciso V do artigo 966 do CPC/2015, o autor não apontou a norma jurídica que teria sido manifestamente violada pela decisão monocrática. 4. A narrativa dos fatos não conduz à ocorrência dos vícios rescisórios porque não indica precisamente como os dispositivos legais indicados foram violados e nem como a decisão rescindenda foi consubstanciada em erro de fato. 5. Tendo em vista a inepcia da ação rescisória, impõe-se a sua extinção sem resolução de mérito.

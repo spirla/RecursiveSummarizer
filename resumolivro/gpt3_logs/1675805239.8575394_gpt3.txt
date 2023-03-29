@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+216  III - o militar da ativa que, de acordo com a lei, tomar posse em cargo, emprego ou funcao publica civil temporaria, nao eletiva, ainda que da administracao indireta, ressalvada a hipotese prevista no artigo 37, inciso XVI, alinea c, ficara agregado ao respectivo quadro e somente podera, enquanto permanecer nessa situacao, ser promovido por antiguidade, contando-se-lhe o tempo de servico apenas para aquela promocao e transferncia para a reserva, sendo depois de dois anos de afastamento, continuos ou nao, transferido para a reserva, nos termos da lei. 217 Sumula 5 - STF: A prescricao do fundo de direito contra a administracao militar e de cinco anos. Referncia legislativa: artigo 1 do Decreto n. 20.910/32. Precedente: Embargos Infringentes n. 06. 218 Sobre nulidade absoluta e relativa, vide comentarios ao artigo 69 deste Codigo. 219 Sobre o principio da proibicao da reformatio in pejus, vide comentarios ao artigo 62 deste Codigo. 220 Ainda sobre este tema, vide comentarios ao artigo 19, III, a, deste Codigo. 221 Artigo 223 - E assegurado ao servidor da Policia Militar o direito de requerer, representar ou recorrer, na forma da legislacao vigente. Paragrafo 1 - O direito a que se refere o artigo decai, na esfera administrativa, no prazo de 60 (sessenta) dias, contado da publicacao do ato ou do conhecimento do fato. Paragrafo 2 - O recurso so tera efeito devolutivo. Paragrafo 3 - E vedado o reexame de recurso que ja tenha sido solucionado pela administracao. Paragrafo 4 Das decisoes do Comandante-Geral cabera recurso ao Governador do Estado, cuja decisao podera ser precedida de parecer da Advocacia-Geral do Estado.
+222 Regulamenta o Governo Digital Estadual, no mbito da Administracao Publica direta, autarquica e fundacional do Poder Executivo. 223 Sobre precedncia hierarquica e o principio da subordinacao, vide comentarios ao artigo 7 deste Codigo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O militar da ativa que tomar posse em cargo, emprego ou função pública civil temporária, não eletiva, ficará agregado ao respectivo quadro e somente poderá ser promovido por antiguidade. A prescrição do fundo de direito contra a administração militar é de cinco anos. O servidor da Polícia Militar tem o direito de requerer, representar ou recorrer, com prazo de 60 dias para decair na esfera administrativa. Regulamenta o Governo Digital Estadual, no âmbito da Administração Pública direta, autárquica e fundacional do Poder Executivo.

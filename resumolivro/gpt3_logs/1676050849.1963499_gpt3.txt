@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O juiz poder, a requerimento das partes, conceder o perdo judicial, reduzir em at 2/3 (dois teros) a pena privativa de liberdade ou substitu-la por restritiva de direitos daquele que tenha colaborado efetiva e voluntariamente com a investigao e com o processo criminal, desde que dessa colaborao advenha um ou mais dos seguintes resultados:
+- a identificao dos demais coautores e partcipes da organizao criminosa e das infraes penais por eles praticadas;
+- a revelao da estrutura hierrquica e da diviso de tarefas da organizao criminosa;
+- a preveno de infraes penais decorrentes das atividades da organizao criminosa;
+- a recuperao total ou parcial do produto ou do proveito das infraes penais praticadas pela organizao criminosa;
+- a localizao de eventual vtima com a sua integridade fsica preservada. A previso da colaborao premiada nos casos de crimes cometidos por organizao criminosa deve ser bem compreendida no que diz respeito a possibilitar a aplicao do benefcio quando no produzir efetivamente todos os resultados possveis e que esto previstos nos incisos do referido dispositivo legal. No  admissvel que o colaborador escolha facilitar a recuperao parcial do produto ou do proveito das infraes penais praticadas pela organizao criminosa, quando lhe for possvel facilitar a recuperao total. Da mesma forma, no se pode admitir a pertinncia do benefcio quando o colaborador possa escolher devolver o dinheiro obtido como preo para o resgate da vitima sequestrada e no indique a localizao de eventual vtima com a sua integridade fsica preservada, quando possvel faz-lo. O instituto somente deve ser admitido quando o colaborador prestar colaborao plena e, nos limites de seus conhecimentos e foras possibilite a produo de todos os efeitos possveis dentre os que encontram previso nos incisos do artigo 4. Neste sentido, se a colaborao no for plena o juiz pode negar aplicao do benefcio ao colaborador parcial. Nos termos do pargrafo 1 do referido artigo, em qualquer caso, a concesso do benefcio dever levar em conta a personalidade do colaborador, a natureza, as circunstncias, a gravidade e a repercusso social do crime e a eficcia da colaborao. Se a colaborao no obtiver maior eficcia por obstruo do colaborador, no deve ser concedido o benefcio ou, ao menos, concedido conforme os seus parmetros mnimos, com a reduo proporcional de pena. 21.12. Outras causas extintivas da responsabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz pode, a requerimento das partes, conceder o perdo judicial, reduzir em até 2/3 a pena privativa de liberdade ou substituí-la por restritiva de direitos daquele que colaborou efetiva e voluntariamente com a investigação e processo criminal, desde que obtenha resultados como identificação dos coautores, revelação da estrutura hierárquica, prevenção de infrações penais, recuperação total ou parcial do produto e localização de vítimas. O benefício só será concedido se a colaboração for plena, levando em conta a personalidade do colaborador, natureza, circunstâncias, gravidade e repercussão social do crime e eficácia da colaboração.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Exceo de litispendncia. Litispendncia significa lide pendente, o litgio pende de julgamento. Se proposta no mesmo juzo ou em juzo diverso a mesma causa pode-se arguir, por escrito, litispendncia, vale dizer, que a causa j pende de julgamento, no devendo ser objeto de dois processos (ne bis in idem). Como bem ensina Tourinho Filho, ofertada e recebida a denncia, citado o ru, validamente, diz-se que h uma lide pendendo de julgamento:
+litispendncia. Entretanto, se outra ao, contra o mesmo ru e pelo mesmo fato, vier a ser intentada, poder-se- opor a exceo de litispendncia neste segundo feito. A exceo de litispendncia tem como efeito impedir a duplicao de aes, isto , enquanto houver lide pendendo de julgamento no poder ser instaurado outro processo contra mesma pessoa pelo mesmo fato. A exceo de litispendncia consiste em defesa indireta para o fim de ser declarada a segunda ao penal. Trata-se de uma exceo de natureza peremptria, que se acolhida extingue o processo. De acordo com o artigo 148 do CPPM:
+Cada feito somente pode ser objeto de um processo. Se o auditor ou o Conselho de Justia reconhecer que o litgio proposto a seu julgamento j pende de deciso em outro processo, na mesma Auditoria, mandar juntar os novos autos aos anteriores. Se o primeiro processo correr em outra Auditoria, para ela sero remetidos os novos autos, tendo-se, porm, em vista, a especializao da Auditoria e a categoria do Conselho de Justia. Da regra acima se extrai haver litispendncia se depois de instaurada ao penal militar verificar-se existir outro processo, ainda pendente de deciso e que, em ambos, so idnticos os pedidos, as partes e a causa de pedir. O pedido na ao penal de natureza condenatria  a condenao, as mesmas partes so o Ministrio Pblico e o ru e a causa de pedir (causa petendi)  o fato criminoso, no a classificao do crime. Para que haja identidade de aes basta que ambas imputem o mesmo fato ao mesmo acusado. Se pelo mesmo fato o mesmo ru responde por processo na Justia Militar e na Justia Comum h litispendncia, pois, o ru no pode, neste caso, responder aos dois processos simultaneamente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Litispendência significa lide pendente, ou seja, um litígio que está aguardando julgamento. Se uma ação penal for proposta contra o mesmo réu e pelo mesmo fato, pode-se opor a exceção de litispendência para impedir a duplicação de ações. Esta exceção tem como efeito extinguir o processo. Se o réu responde por processo na Justiça Militar e na Justiça Comum, há litispendência, pois o réu não pode responder aos dois processos simultaneamente.

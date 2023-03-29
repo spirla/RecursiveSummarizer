@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O entendimento consolidado nesta Corte e no Supremo Tribunal Federal e de que os servidores publicos ja estao, por lei, obrigados na posse e depois, anualmente, a disponibilizar informacoes sobre seus bens e evolucao patrimonial, razao pela qual conclui-se que o Decreto Estadual n. 46.933/2016 nao extrapolou o poder regulamentar, estando em sintonia com os principios que regem a Administracao Publica, previstos no art. 37 da CF/88. A tese de que inexiste previsao legal em sentido estrito criando a obrigacao (ou autorizando sua criacao) de os servidores estaduais terem de apresentar anualmente declaracao de bens e valores, so seria acolhivel se o art. 13 da Lei de Improbidade fosse limitado ao ambito federal. Em ADPF (n. 411, rel. Ministro Edson Fachin) promovida com a intencao de questionar a constitucionalidade do Decreto em questao, o Supremo entendeu que a abrangencia do art. 13 da Lei n. 8.429/1992 a todos os entes deriva do sistema de tutela da probidade na Administracao Publica com genese, fundamento e estatura constitucional, pelo que afastar aquela norma geral e equivocado. 501 Alem disso, conforme consta na norma supracitada, a protecao ali garantida e tutelada na forma da lei , a qual nao impede, mas assegura, o dever de os servidores, anualmente, disponibilizarem informacoes sobre seus bens e evolucao patrimonial (art. 13, 1, da Lei n. 8.429/1992). A entrega dos dados a Administracao nao implica dizer que eles deverao ser expostos ao publico em geral, cabendo aquela, ja com as informacoes em maos, adotar as cautelas necessarias para dar concretude ao art. 5, LXXIX, da CF/88, e a Lei Geral de Protecao de Dados Pessoais (LGPD), ou seja, tais normas nao proibem a coleta dos dados, mas, antes, asseguram que os entes politicos-administrativos deverao respeitar o tratamento nelas conferido. (Informativo n. 747) PROCESSO AREsp 1.369.724-AL, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os servidores públicos estão, por lei, obrigados na posse e anualmente, a disponibilizar informações sobre seus bens e evolução patrimonial. 2. O Decreto Estadual n. 46.933/2016 não extrapolou o poder regulamentar, estando em sintonia com os princípios que regem a Administração Pública. 3. O art. 13 da Lei de Improbidade tem abrangência a todos os entes, derivando do sistema de tutela da probidade na Administração Pública com genese, fundamento e estatura constitucional. 4. A entrega dos dados à Administração não implica que eles deverão ser expostos ao público em geral, cabendo à Administração adotar as cautelas necessárias para dar concretude ao art. 5, LXXIX, da CF/88, e à Lei Geral de Proteção de Dados Pessoais (LGPD).

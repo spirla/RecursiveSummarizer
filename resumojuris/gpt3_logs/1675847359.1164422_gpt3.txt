@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Trata-se de hipotese em que o Ministerio Publico estadual deflagrou investigacao para apuracao de suposta realizacao de escuta ambiental indevida, realizada por advogado, delito tipificado no art. 10 da Lei n. 9.296/96. Primeiramente, acerca da inviolabilidade (art. 133 da CF; artigo 2,  3, da Lei n. 8.906/94), esta e limitada quando o proprio advogado e o investigado porque, naturalmente, o sigilo profissional se presta a assegurar o exercicio do direito de defesa, nao tendo como vocacao a protecao da pratica de ilicitos. Contudo, a realizacao da gravacao, nas circunstancias em que levada a efeito - em oitiva formal de assistido seu, oficial e notoriamente registrada em sistema audiovisual pela autoridade administrativa responsavel pelo ato - nao se confunde com a escuta ambiental indevida e e legalmente permitida, independentemente de previa autorizacao da autoridade incumbida da presidencia do ato, nos explicitos termos do art. 387,  6, do CPC, diploma juridico de aplicacao supletiva aos procedimentos administrativos em geral. Na hipotese, trata-se de uma gravacao ambiental em que as advogadas participaram do ato, na presenca do inquirido e dos representantes do Ministerio Publico, inclusive se manifestando oralmente durante a sua realizacao, sendo certo que a gravacao, ainda que clandestina ou inadvertida, realizada por um dos interlocutores, nao configura crime, escuta ambiental, muito menos interceptacao telefonica, mas apenas gravacao ambiental. Com efeito, a adequacao tipica alvitrada pelo Ministerio Publico como justificativa para a instauracao do procedimento investigativo e carente de minima plausibilidade, afigurando-se insuficiencia de justa causa a persecucao. Em razao disso, a decisao judicial de busca e apreensao e fulminada pela nulidade por desdobramento (fruits of the poisonous tree).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A inviolabilidade do advogado é limitada quando este é o investigado. 2. A realização de gravação em oitiva formal de assistido é permitida independentemente de autorização da autoridade responsável. 3. A gravação ambiental realizada por um dos interlocutores não configura crime de escuta ambiental ou interceptação telefônica. 4. A decisão judicial de busca e apreensão é fulminada pela nulidade por desdobramento.

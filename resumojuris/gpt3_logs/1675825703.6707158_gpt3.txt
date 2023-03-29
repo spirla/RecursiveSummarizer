@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: E inconstitucional a cominacao da pena em abstrato atualmente prevista no art. 273 do CP (CP)  reclusao, de dez a quinze anos, e multa  para a importacao de medicamentos sem registro no orgao de vigilancia sanitaria competente, conduta tipificada no art. 273,  1-B, I, do CP. O vicio decorre da ofensa a vedacao de penas crueis e da afronta a principios constitucionais, como o da proporcionalidade e o da individualizacao da pena. Presente contexto de clamor publico, houve a modificacao do art. 273 do CP pela Lei 9.677/1998 (Lei dos Remedios), inclusive com a criacao de figuras delitivas. Atualmente, o CP equipara situacoes de fato bastante distintas quanto a conduta e as consequencias potenciais. Nesse sentido, pune-se a mera importacao e comercializacao de medicamento sem registro sanitario com as mesmas penas da falsificacao ou da adulteracao de medicamentos. Ocorre que, se a norma trata com identica gravidade situacoes de reprovabilidade diversas, nao ha individualizacao da pena. Impende registrar que o principio da proporcionalidade proibe a protecao deficiente e tambem o excesso. A respeito do comportamento em debate, a pena minima e maior do que aquela prevista para o estupro de vulneravel, a extorsao mediante sequestro e a tortura seguida de morte. Em materia penal, a proporcionalidade deve levar em conta a importancia do bem juridico tutelado, o grau de afetacao do bem juridico, o elemento subjetivo e a forma de participacao do agente no delito.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a cominação da pena em abstrato prevista no art. 273 do CP (CP) de reclusão, de dez a quinze anos, e multa para a importação de medicamentos sem registro no órgão de vigilância sanitária competente. 2. O vicio decorre da ofensa a vedação de penas crueis e da afronta a princípios constitucionais, como o da proporcionalidade e o da individualização da pena. 3. O CP equipara situações de fato bastante distintas quanto à conduta e às consequências potenciais. 4. O princípio da proporcionalidade proíbe a proteção deficiente e também o excesso. 5. A proporcionalidade deve levar em conta a importância do bem jurídico tutelado, o grau de afetação do bem jurídico, o elemento subjetivo e a forma de participação do agente no delito.

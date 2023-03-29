@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+- ter o agente confessado espontaneamente a autoria da transgressao, quando esta for ignorada ou imputada a outrem
+Segundo Fernando Capez, a confissao espontnea e considerada um servico a justica, uma vez que simplifica a instrucao criminal e confere ao julgador a certeza moral de uma condenacao justa. Assim se o militar vier a confessar espontaneamente a pratica de transgressao disciplinar, dispensa-se a producao de outras provas, sendo esta bastante para motivar a decisao pelo seu enquadramento disciplinar. Ressalta-se que o processo administrativo nao tem o mesmo rigor do processo penal, que nao se contenta com a confissao do acusado, ja que a assuncao de um crime pode se dar com o intuito de acobertar a verdadeira autoria, fato este que nao tem razao de ocorrer na apuracao de transgressoes disciplinares. Do seu texto legal, e possivel extrair os seguintes requisitos para aplicacao dessa circunstncia atenuante:
+ confissao espontnea: e admitir, de livre vontade e independentemente da sua motivacao particular, contra si a pratica de transgressao disciplinar;
+ autoria ignorada ou imputada a outrem: sera considerada irrelevante a confissao, mesmo que espontnea, do cometimento de transgressao, quando esta ja tiver sido devidamente comprovada no curso do processo disciplinar. Ora, a confissao como circunstncia atenuante se justifica na medida em que acarreta na simplificacao da instrucao processual, o que redunda em economia de esforcos administrativos. Se a confissao nao cumpriu esse papel, nao ha que ser considerada como circunstncia atenuante. Ressalta-se, ainda, que a confissao espontnea e aquela que se da perante a autoridade competente pele apuracao do fato ou sua instauracao, nao se referindo, por exemplo, a confissao que o militar faz perante um colega de servico durante uma conversa informal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A confissão espontânea é considerada um serviço à justiça, pois simplifica a instrução criminal e confere ao julgador a certeza moral de uma condenação justa. Para que seja considerada uma circunstância atenuante, é necessário que o militar admita, de livre vontade e independentemente da sua motivação particular, contra si a prática de transgressão disciplinar, além de que a autoria da transgressão não tenha sido comprovada no curso do processo disciplinar. A confissão deve ser feita perante a autoridade competente para a apuração do fato.

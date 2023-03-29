@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+105, I, d, da CF  pressupoe estejam submetidos os atos, em sede recursal, a diferentes tribunais. O exercicio da competencia federal delegada pela Justica comum pressupoe inexistencia, na comarca do domicilio do segurado ou beneficiario da previdencia social, de vara federal. Interpreta-se a excecao prevista no  3 do art. 109 da CF de forma estrita. Ademais, deve-se distinguir os conceitos de comarca e municipio. Pouco importa que o local de domicilio do segurado ou beneficiario nao conte com vara federal. Cumpre saber se existe vara federal na comarca do domicilio em que esta compreendido o distrito. Agrega-se a isso que, na situacao dos autos, a distancia entre o distrito de Itatinga, domicilio da segurada recorrida, e o municipio de Botucatu, no qual existe juizado especial federal, e quase a metade do limite previsto no art. 15, III, da Lei 5.010/1966, com a redacao dada pela Lei 13.876/2019. Na especie, trata-se de recurso extraordinario em face de acordao do Tribunal Regional Federal da 3 Regiao, que concluiu competir a Justica comum  Vara Unica do Foro Distrital de Itatinga, comarca de Botucatu  apreciar acao formalizada contra o Instituto Nacional do Seguro Social, visando o beneficio de aposentadoria por invalidez ou auxilio-doenca. Ao apreciar o Tema 820 da repercussao geral, o Plenario, em conclusao de julgamento e por maioria, deu provimento a recurso extraordinario a fim de, reformado o acordao recorrido, declarar competente, para julgar acao movida por segurado, o juizado especial federal de Botucatu, da 31 subsecao da secao judiciario do estado de Sao Paulo. Vencido, parcialmente, o ministro Alexandre de Moraes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O exercício da competência federal delegada pela Justiça comum pressupõe inexistência, na comarca do domicílio do segurado ou beneficiário da Previdência Social, de vara federal. 2. A exceção prevista no art. 109, § 3º, da Constituição Federal deve ser interpretada de forma estrita. 3. É necessário distinguir os conceitos de comarca e município. 4. O Plenário do Supremo Tribunal Federal, por maioria, deu provimento a recurso extraordinário a fim de, reformado o acórdão recorrido, declarar competente, para julgar ação movida por segurado, o juizado especial federal de Botucatu, da 31ª subseção da Seção Judiciária do Estado de São Paulo.

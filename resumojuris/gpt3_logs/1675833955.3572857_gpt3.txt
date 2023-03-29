@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Diante de tais circunstancias, revela-se razoavel dar provimento ao agravo para acolher o pedido subsidiario ate o transito em julgado da acao principal. (Informativo n. 748) PROCESSO CC 179.846-DF, Rel. Min. Benedito Goncalves, Corte Especial, por unanimidade, julgado em 03/08/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Conflito negativo de competencia. Primeira e Terceira Turmas do STJ. Concessionaria de servico de TV por assinatura. Normas previstas no Decreto Federal n. 6.523/2008 e na Portaria n. 2.014/2008. Adequada prestacao de Servico de Atendimento ao Consumidor - SAC. Descumprimento. Servico de telecomunicacoes. Relacao juridica de direito publico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É razoável dar provimento ao agravo para acolher o pedido subsidiário até o trânsito em julgado da ação principal. 2. O conflito negativo de competência diz respeito à Primeira e Terceira Turmas do STJ. 3. A concessionária de serviço de TV por assinatura deve seguir as normas previstas no Decreto Federal n. 6.523/2008 e na Portaria n. 2.014/2008. 4. É necessário o adequado cumprimento da prestação de serviço de atendimento ao consumidor - SAC. 5. A relação jurídica de direito público diz respeito ao serviço de telecomunicações.

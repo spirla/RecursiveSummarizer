@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Citado, o Estado de Minas Gerais ofertou contestao (evento 18) alegando que, da anlise detida dos autos do processo administrativo instaurado no mbito da Administrao Militar, que culminou na punio disciplinar do autor, infere-se que foram observadas todas as garantias cabveis, bem como os princpios constitucionais aplicveis, mormente o do contraditrio e da ampla defesa. Sustenta, ainda, que, no havendo ilegalidade a ser sanada, no h que se falar em controle jurisdicional, em respeito ao princpio constitucional da separao dos Poderes (art. 2 da Constituio Federal de 1998). O autor apresentou impugnao  contestao (evento 24), sustentando as teses contidas na inicial. A sentena de improcedncia foi proferida no evento 31. Em razo da interposio do recurso de apelao pelo autor (evento 34), o qual foi contrarrazoado pelo Estado de Minas Gerais (evento 36), o egrgio TJMMG anulou a sentena proferida, retornando os autos  5a AJME, para que fosse prolatada nova sentena, conforme se verifica do evento 42. Em nova sentena (evento 44), o MM. juiz de direito substituto da 5a Auditoria de Justia Militar Estadual (AJME) abordou todas as questes suscitadas e, ao final, entendeu que: [...] Decido. Inicialmente o Autor alegou um vcio de origem do PCD, sugerindo que estaria havendo uma perseguio contra ele. De acordo com a Portaria, o Comandante da 19a Cia PM Ind instaurou o PCD para apurar a notcia de que o ora Autor, na cidade de Igaratinga-MG, em atendimento  ocorrncia policial, adotou procedimento contrrio s normas legais, regulamentares e a documentos normativos, administrativos ou operacionais, caracterizado por no ter conduzido o autor de leso corporal perante a autoridade de polcia judiciria para prestar declaraes". A notcia chegou ao Comando daquela unidade pelo Comunicante, 2 Ten PM Luiz Fernando de Souza Campos, que tomou conhecimento dos fatos pela Seo de Inteligncia da 19a Cia PM Ind, conforme aduziu no relatrio de evento 7, COP2, Pginas 05 e 07. Destarte, diferente do que alegou o autor, no se trata efetivamente de denncia annima, mas sim de uma fiscalizao da prpria Administrao para com os seus administrados, sendo certo que a notcia de irregularidade partiu da Seo de Inteligncia. Nada obstante, mesmo que a notcia de procedimento irregular tenha apontado na Seo de Inteligncia por meio annimo, o que se admite somente a ttulo de hiptese, a Administrao Pblica tem o dever de verificar a procedncia do fato irregular que chegar ao seu conhecimento, uma vez que, pelos postulados da legalidade, impessoalidade e da moralidade administrativa, possui o dever de verificar se a denncia procede ou no", conforme dispe o art. 97 do MAPPA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia de Minas Gerais anulou a sentena proferida e retornou os autos para que fosse prolatada nova sentena. Nesta, o juiz de direito entendeu que, mesmo que a notcia de procedimento irregular tenha partido de uma fonte annima, a Administrao Pblica tem o dever de verificar a procedncia do fato irregular que chegou ao seu conhecimento, uma vez que possui o dever de verificar se a denncia procede ou no.

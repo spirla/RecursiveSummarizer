@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com efeito, deve-se avaliar a presenca de elementos concretos, previstos no art. 312 do CPP, como o risco de reiteracao delituosa ou indicios de que o grupo criminoso continua em atividade, colocando em risco a ordem publica. Assim, diante das peculiaridades de cada caso caso, pode ficar esvaziada a necessidade da custodia cautelar, sendo possivel e suficiente a substituicao da custodia prisional por outras medidas cautelares para garantia da ordem publica. (Informativo n. 732) 1218 PROCESSO AgRg no HC 708.653-PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 15/03/2022, DJe 18/03/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL, EXECUCAO PENAL, DIREITOS HUMANOS TEMA Computo em dobro de pena de presos no complexo do Curado/PE. Resolucao da CIDH de 28/11/2018. Alegado excesso de prazo no julgamento de IRDR pelo Tribunal de Justica. Inexistencia. Nao ultrapassado o prazo do art. 980 do CPC.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 312 do Código de Processo Penal prevê elementos concretos para avaliação da necessidade de custodia cautelar. 2. É possível e suficiente a substituição da custodia prisional por outras medidas cautelares para garantia da ordem pública. 3. O art. 980 do Código de Processo Civil não foi ultrapassado no julgamento de IRDR pelo Tribunal de Justiça.

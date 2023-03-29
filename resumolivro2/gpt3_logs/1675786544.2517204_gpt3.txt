@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+64 Para o STJ (HC 449.296/AL), da mesma forma, no h nulidade no julgamento do habeas corpus , sem prvia intimao do impetrante, quando inexiste pedido da defesa de intimao para sustentao oral. No procedimento sumrio de habeas corpus, no h instruo probatria. Trata-se uma ao de procedimento sumrio, pois a cognio  limitada. 65 No habeas corpus, a cognio  entendida como o conjunto de operaes intelectuais realizadas pelo juiz, cuja extenso e profundidade podem ser limitadas pelo legislador   ampla quanto  sua extenso porque o juiz ou o tribunal podem conceder a ordem de ofcio no estando impedidos de apreciar, inclusive, matrias no trazidas pelos interessados, mas quanto  profundidade , o exame exauriente do mrito depende da clara demonstrao da ilegalidade da coao ou da ameaa. 66
+O mbito de cognio restrita do habeas corpus dificulta o exame de provas. O nus da prova  do impetrante, pois predomina o entendimento de que havendo controvrsia a ordem  denegada. 67 Ensinam os doutrinadores que a ao sumarssima do habeas corpus exige prova pr-constituda, o que impede a sua utilizao para superar situao de fato controvertida ou que demande dilao probatria. 68 A jurisprudncia dos nossos tribunais superiores  pacfica, como mostram os julgados que se seguem. O STF, nessa mesma linha, decidiu que o exame de provas  inadmissvel no espectro processual da habeas corpus , ao constitucional que pressupe para seu manejo uma ilegalidade ou abuso de poder to flagrante que pode ser demonstrada de plano. 69 O trancamento da ao penal, em habeas corpus , constitui medida excepcional que s deve ser aplicada quando indiscutvel a ausncia de justa causa ou quando h flagrante ilegalidade demonstrada em inequvoca prova pr-constituda. 70
+Para o STJ, tambm, o conhecimento do habeas corpus exige-se prova pr-constituda na impetrao, uma vez que no h dilao probatria. 71 O remdio constitucional do habeas corpus reveste-se de especialidade, de modo a exigir da parte a demonstrao de plano ou pr-constituio de seu direito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ entende que o julgamento de habeas corpus não é nulo sem a prévia intimação do impetrante. O conhecimento do habeas corpus exige prova pré-constituída, pois não há dilatação probatória. O trancamento da ação penal, em habeas corpus, é uma medida excepcional que só deve ser aplicada quando houver flagrante ilegalidade demonstrada em inequívoca prova pré-constituída.

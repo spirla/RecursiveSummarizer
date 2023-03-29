@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Argumentou que, abstraindo-se o ilcito penal, a cargo das autoridades competentes, infere-se que, ante a conduta adotada, imperioso concluir que o acusado no mais rene condies de permanecer nas fileiras da PMMG; que, diversamente do afirmado na inicial, a sano demissionria aplicada revelou-se proporcional e adequada, considerando notadamente a gravidade do crime imputado, que,  poca dos fatos, foi amplamente conhecido pela populao de Ub, bem como pela tropa militar, de modo a comprometer a credibilidade da classe e, igualmente, da prpria honra pessoal do autor. Quanto  alegao de que a demisso no poderia ter ocorrido ao argumento de que, quando da prtica do homicdio estava acometido por doena mental, alegou no assistir razo ao autor. Asseverou que, conforme laudo constante s fls. 247 e seguintes, ao ser submetido  percia psicopatolgica realizada pela Junta Central de Sade - JCS da PMMG, o acusado foi considerado imputvel, visto no se constatar transtorno mental alienante, tampouco invalidante; e que, por ter sido o autor devidamente avaliado por rgo legal e tecnicamente competente para tanto, as concluses referentes a seu quadro de sade no demandam novas discusses. Ressaltou que, ao final das apuraes, o ento Comandante-Geral da PMMG, bem como o Governador do Estado, autoridades competentes para a apreciao dos recursos disciplinares aviados pelo autor, entenderam pela procedncia das acusaes e confirmaram a imposio da sano demissionria, considerando que a conduta do acusado se revelou incompatvel com aquela esperada dos integrantes da Corporao, tendo em vista, notadamente, a funo precpua de mantenedores da segurana pblica por eles exercida. Acrescentou que o processo demissionrio transcorreu em absoluta observncia s garantias constitucionais asseguradas ao acusado, mormente, a do contraditrio e a da ampla defesa, com a indicao precisa dos fatos atribudos ao autor, com sua devida notificao para conhecimento da apurao, oportunizao de apresentao de defesa, bem como produo de provas para demonstrar o alegado; contudo o acusado no logrou xito em afastar as condutas transgressivas a ele impingidas. Salientou ainda que o ato administrativo sancionatrio em anlise foi acertadamente motivado, haja vista ter indicado, de forma precisa, como j pontuado, os fatos imputados ao acusado, a tipificao legal da conduta perpetrada por ele, bem como por conter detalhada explanao da anlise dos fatos e respectivos elementos probatrios.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O acusado foi considerado imputável, não sendo constatado transtorno mental alienante ou invalidante. A demissão foi considerada proporcional e adequada, considerando a gravidade do crime imputado. O processo demissionário transcorreu em absoluta observância às garantias constitucionais, contudo o acusado não conseguiu afastar as condutas transgressivas imputadas. O ato administrativo sancionatório foi acertadamente motivado, indicando os fatos imputados ao acusado e a tipificação legal da conduta perpetrada.

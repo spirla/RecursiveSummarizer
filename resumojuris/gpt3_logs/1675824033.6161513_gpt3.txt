@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Rosa Weber, julgamento virtual finalizado em 25.6.2021 (sexta-feira), as 23:59 (INF 1023) Leis estaduais: criacao, incorporacao, fusao e desmembramento de municipios e EC 15/1996 - ADI 4711/RS Tese fixada: E inconstitucional lei estadual que permita a criacao, incorporacao, fusao e desmembramento de municipios sem a edicao previa das leis federais previstas no art. 18,  4, da CF/88, com redacao dada pela Emenda Constitucional n 15/1996. Resumo: Pendente a legislacao federal prevista na redacao atual do art. 18,  4, da CF/88 (CF), sao inadmissiveis os regramentos estaduais que possibilitem o surgimento de novos municipios e que invadam a competencia da Uniao para disciplinar o tema. A diccao do aludido dispositivo constitucional  na redacao dada pela EC 15/1996  impoe a aprovacao previa de leis federais para que os estados-membros da Federacao sejam autorizados a iniciar novos processos de emancipacao municipal. Ate que isso ocorra, leis estaduais que versem sobre o tema sao inconstitucionais. Com esses entendimentos, o Plenario julgou procedente pedido formulado em acao direta e declarou: (i) a inconstitucionalidade da Lei Complementar (LC) 13.587/2010; e (ii) a nao recepcao das LCs 10.790/1996, 9.089/1990 e 9.070/1990, todas do Estado do Rio Grande do Sul. ADI 4711/RS, relator Min. Roberto Barroso, julgamento virtual finalizado em 3.9.2021 (sexta-feira), as 23:59 (INF 1028) 4.21 ORGANIZACAO DOS PODERES Lei estadual: Poder executivo e prazo para regulamentacao  ADI 4728/DF Resumo: Ofende os arts. 2 e 84, II, da CF/88 (CF) norma de legislacao estadual que estabelece prazo para o chefe do Poder Executivo apresentar a regulamentacao de disposicoes legais. Compete, com exclusividade, ao chefe do Poder Executivo examinar a conveniencia e a oportunidade para desempenho das atividades legislativas e regulamentares que lhe sao inerentes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional lei estadual que permita a criação, incorporação, fusão e desmembramento de municípios sem a edição previa das leis federais previstas no art. 18, § 4, da CF/88, com redação dada pela Emenda Constitucional nº 15/1996. 2. É inadmissível o regramento estadual que possibilite o surgimento de novos municípios e que invada a competência da União para disciplinar o tema. 3. É necessária a aprovação previa de leis federais para que os estados-membros da Federação sejam autorizados a iniciar novos processos de emancipação municipal. 4. Ofende os arts. 2 e 84, II, da CF/88 norma de legislação estadual que estabelece prazo para o chefe do Poder Executivo apresentar a regulamentação de disposições legais.

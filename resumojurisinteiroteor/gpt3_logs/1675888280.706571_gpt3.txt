@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+J quanto a uma possvel contradio do laudo da JCS com o apresentado no mbito do processo de interdio judicial, esclareo que a finalidade do processo cvel diverge dos autos de processo criminal ou mesmo do Processo Administrativo-Disciplinar (PAD). A cada esfera compete avaliar aspectos diferenciados sobre a condio de sade do militar. No cvel, avalia-se a capacidade de praticar atos na vida civil, exerccio pleno de direitos e deveres. O mbito administrativo se restringe  capacidade laboral, relativas a higidez fsica ou mental e sua compatibilidade/incompatibilidade com as funes do militar. No criminal e no administrativo-disciplinar verifica-se a capacidade de entendimento do carter ilcito do fato ou de determinao de acordo com esse entendimento na possvel prtica de delitos. Poder-se-o coincidir a incapacidade civil, a invalidez e a inimputabilidade de um determinado militar, mas a certeza de uma dessas condies no conduz a certeza de outra. Nesse sentido, j se decidiu: EMENTA: HABEAS CORPUS. CONSTITUCIONAL. PENAL. ALEGAO DE INTERDIO DO PACIENTE NO JUZO CVEL. PEDIDO DE TRANCAMENTO OU DE SUSPENSO DE AO PENAL. INDEPENDNCIA ENTRE A INCAPACIDADE CIVIL E A INIMPUTABILIDADE PENAL. 1. O Cdigo Penal Militar, da mesma forma que o Cdigo Penal, adotou o critrio biopsicolgico para a anlise da inimputabilidade do acusado. 2. A circunstncia de o agente apresentar doena mental ou desenvolvimento mental incompleto ou retardado (critrio biolgico) pode at justificar a incapacidade civil, mas no  suficiente para que ele seja considerado penalmente inimputvel.  indispensvel que seja verificar se o ru, ao tempo da ao ou da omisso, era inteiramente incapaz de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento (critrio psicolgico). 3. A incapacidade civil no autoriza o trancamento ou a suspenso da ao penal.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A incapacidade civil não é suficiente para considerar o agente penalmente inimputável, pois é necessário verificar se o ru, ao tempo da ação ou da omissão, era inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento. A incapacidade civil não autoriza o trancamento ou a suspenso da ação penal.

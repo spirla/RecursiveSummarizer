@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Termo inicial dos juros e da multa moratoria. Art. 4,  1, Lei n. 9.847/1999. (Tema IAC 11/STJ). DESTAQUE Interposto recurso contra a decisao de primeiro grau administrativo que confirma a pena de multa imposta pela Agencia Nacional do Petroleo, Gas Natural e Biocombustiveis - ANP, os juros e a multa moratorios fluirao a partir do fim do prazo de trinta dias para o pagamento do debito, contados da decisao administrativa definitiva, nos termos da Lei n. 9.847/1999. A Lei n. 9.847/1999, que cuida da fiscalizacao das atividades relativas ao abastecimento nacional de combustiveis, estabelece, de forma expressa, que os juros e a multa moratoria eventualmente incidentes sobre as multas impostas pela Agencia Nacional do Petroleo, Gas Natural e Biocombustiveis - ANP devem fluir apos o termino do prazo de trinta dias de que dispoe o autuado para efetuar o pagamento, contados da decisao administrativa definitiva (art. 4,  1). Por outro lado, a Lei n. 10.522/2001, que disciplina o Cadastro Informativo dos creditos nao quitados de orgaos e entidades federais - CADIN, adota, como dies a quo, por remissao a Lei n. 9.430/1996, o dia seguinte ao vencimento da obrigacao, no caso da multa, e o primeiro dia do mes subsequente ao vencimento, no caso dos juros (art. 37-A), traduzindo, no ponto, antinomia aparente entre as normas. Isso porque, enquanto o diploma de 1999 prescreve que o valor originario da multa sofrera a incidencia dos encargos somente apos ultimada a instancia administrativa, o diploma de 2001 permite a sua fluencia em momento anterior, quando esgotado o trintidio para pagamento fixado na decisao de primeira instancia confirmatoria da autuacao, vale dizer, quando ainda nao finalizado o procedimento administrativo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os juros e a multa moratória incidentes sobre as multas impostas pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP devem fluir após o término do prazo de trinta dias de que dispõe o autuado para efetuar o pagamento, contados da decisão administrativa definitiva, nos termos da Lei n. 9.847/1999. 2. A Lei n. 10.522/2001, que disciplina o Cadastro Informativo dos Créditos Não Quitados de Órgãos e Entidades Federais - CADIN, adota, como dies a quo, por remissão a Lei n. 9.430/1996, o dia seguinte ao vencimento da obrigação, no caso da multa, e o primeiro dia do mês subsequente ao vencimento, no caso dos juros.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Num contexto em que a fidelidade partidaria e um principio fundamental da dinamica dos partidos politicos, especialmente no que diz respeito aos titulares de cargos eletivos obtidos pelo sistema proporcional, cabe ao candidato submeter-se a vontade coletiva do partido, e nao o contrario. A candidatura nata contrasta profundamente com esse postulado e, por esse aspecto, esvazia toda a ideia de fidelidade partidaria em favor de um suposto direito adquirido a candidatura dos detentores de mandato eletivo pelo sistema proporcional. Com base nesse entendimento, o Plenario julgou procedente o pedido formulado para declarar a inconstitucionalidade do  1 do art. 8 da Lei 9.504/1997, com modulacao dos efeitos da declaracao de inconstitucionalidade. ADI 2530/DF, relator Min. Nunes Marques, julgamento em 18.8.2021. (INF 1026) 8.3 PARTIDOS POLITICOS Limitacoes a autonomia partidaria - ADI 6044/DF Resumo: E vedada a fusao ou incorporacao de partidos politicos que tenham obtido o registro definitivo do Tribunal Superior Eleitoral ha menos de 5 anos. A CF/88 (CF) garante a liberdade para a criacao, fusao, incorporacao e extincao de partidos politicos, a eles assegurando a autonomia. Mas nao ha liberdade absoluta, tampouco autonomia sem limitacao. A norma legal impugnada nao afeta, reduz ou condiciona a autonomia partidaria, porque o espaco de atuacao livre dos partidos politicos conforma-se a normas juridicas postas para a definicao das condicoes pelas quais se pode dar a criacao, ou recriacao por fusao ou incorporacao, de partido sem intervir no seu funcionamento interno.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O candidato deve submeter-se à vontade coletiva do partido, e não o contrário. 2. É vedada a fusão ou incorporação de partidos políticos que tenham obtido o registro definitivo do Tribunal Superior Eleitoral há menos de 5 anos. 3. A Constituição Federal garante a liberdade para a criação, fusão, incorporação e extinção de partidos políticos, a eles assegurando a autonomia. 4. Não há liberdade absoluta, tampouco autonomia sem limitação. 5. A norma legal impugnada não afeta, reduz ou condiciona a autonomia partidária.

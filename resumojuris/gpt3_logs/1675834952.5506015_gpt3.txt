@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO DA SAUDE TEMA Plano de saude de autogestao. Servidores publicos. Divorcio. Acordo. Manutencao de ex-conjuge como dependente. Possibilidade. 164 DESTAQUE E possivel, em acordo celebrado em acao de divorcio, dispor sobre a manutencao do ex-conjuge como dependente em plano de saude fechado, restrito a servidores publicos. Na especie, fora impetrado mandado de seguranca contra ato praticado pelo Secretario de Administracao estadual que retirou o direito a assistencia medica proveniente do plano de saude de autogestao de ex-conjuge, por considerar que, ao se divorciar, a parte impetrante teria automaticamente perdido a condicao de dependencia. O Tribunal de origem considerou que, tratando-se de plano de saude fechado, acessivel apenas a uma categoria especifica, qual seja, a dos servidores publicos estaduais em atividade e, consequentemente, seus dependentes, inexistiria direito liquido e certo a reintegracao. Asseverou ainda que o fato de existir acordo em acao de divorcio colocando ex-conjuge como dependente em plano de saude do servidor publico estadual em nada obriga o Estado, porquanto nao participou, tampouco anuiu com tal transacao. Todavia, a jurisprudencia do STJ e firme no sentido de que nao ha nenhuma ilegalidade no processo de divorcio que preve a manutencao de ex-conjuge no plano de saude do outro, ante o carater alimentar da prestacao. (Informativo n. 750) PROCESSO AgInt no AREsp 1.761.417-RS, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível, em acordo celebrado em ação de divórcio, dispor sobre a manutenção do ex-cônjuge como dependente em plano de saúde fechado, restrito a servidores públicos. 2. Não há nenhuma ilegalidade no processo de divórcio que prevê a manutenção de ex-cônjuge no plano de saúde do outro, ante o caráter alimentar da prestação.

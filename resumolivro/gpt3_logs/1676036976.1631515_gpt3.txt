@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A tarefa de identificao do crime se desenvolve a partir de um modelo nico. No Brasil, a reforma penal de 1984 (Lei 7.209/84, que alterou a parte geral do Cdigo Penal) decorreu de exigncias histricas e pretendeu enfrentar as questes prticas que no comportavam adequada soluo no sistema terico clssico, ou causal-naturalista, adotado pela legislao repressiva de 1940. Na ocasio, a doutrina penal brasileira logrou xito em substituir na legislao repressiva comum os postulados do sistema clssico por outro mais enriquecido, que acolheu as orientaes apresentadas pelo sistema finalista de Hans Welzel. Inegavelmente, tal sistema acabou por constituir a inspirao maior que orientou a reforma brasileira e promoveu mudanas no modelo terico que define o crime. Tal modelo terico deve ser utilizado para definir o crime que encontra previso tanto na legislao comum como na militar. Como examinado no item 1 da introduo, no  concebvel que a legislao repressiva militar estabelea modelo terico diverso do que  utilizado para a identificao do crime comum. No entanto, no se pode esquecer que o sistema finalista tambm  de ndole naturalista e a reforma acabou por tambm possibilitar a sua superao.  verdade que ao tipo incriminador foi agregado um plano de exigncias subjetivo, de modo que o dolo e a culpa passaram a pertencer ao exame da tipicidade (artigo 20 do CP), como  caracterstica do sistema finalista. Mas o tratamento que j era conferido  causalidade omissiva, e que foi preservado na reforma, evidencia a inequvoca possibilidade de superao dos sistemas de ndole naturalista. A legislao penal brasileira (artigo 13 do CP e 29 do CPM) deixa claro que no plano da tipicidade o resultado de que depende a existncia do crime  normativo (violao da norma) e no naturalstico. Ao mencionar que a omisso pode ser causa do resultado, a legislao deixa clara a superao do paradigma naturalista. No plano naturalstico, a omisso no pode ser causa de qualquer modificao da realidade ftica. Com isso, a imputao objetiva amplia as suas possibilidades interpretativas. A culpabilidade, por sua vez, consagrou-se como um juzo de reprovao normativo puro sobre quem realiza a conduta tpica e ilcita, segundo o princpio geral de inexigibilidade de conduta diversa. Neste sentido, cabe destacar, no foram acolhidas as pretenses do finalismo de vincular a reprovao pessoal ao plano abstrato da formao da vontade criminosa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A reforma penal brasileira de 1984 (Lei 7.209/84) substituiu o sistema clssico de legislao repressiva por um mais enriquecido, baseado nas orientaes do sistema finalista de Hans Welzel, que inclui o dolo e a culpa como características da tipicidade. A legislação também superou o paradigma naturalista, pois a omissão pode ser causa do resultado. A culpabilidade foi consagrada como um juízo de reprovabilidade normativo, mas não foi vinculada à formação da vontade criminosa.

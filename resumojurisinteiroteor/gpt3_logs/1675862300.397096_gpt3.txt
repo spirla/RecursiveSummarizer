@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ou seja, no momento em que o CPU compareceu at o local dos fatos no havia motivo para que os acusados 3 Sgt PM ngelo Mrcio Abanca e 1 Sgt PM Rubens Dantas Silva o ludibriasse. A acusao ministerial possui substrato precpuo nos depoimentos prestados pela testemunha Denise Santos Lage, ex-companheira do informante Everaldo Viana Gorgulho. Nesse ponto, analisando o procedimento investigatrio criminal que originou a presente ao penal (autos relacionados n. 2000714 35.2019.9.13.2) , nota-se que praticamente todos os indcios probatrios foram fornecidos por ela, com o aparente propsito de prejudicar seu ex-companheiro a todo custo. Pelo termo de declarao de evento 1, NF/PIC2, Pginas 18/20, dos autos relacionados n. 2000714-35.2019.9.13.0002, tomado dentro do 57 BPM, a testemunha Denise Santos Lage relatou que no dia 31/01/2019, por volta das 21h12min, realizou ligao ao atendimento de emergncia (190) solicitando orientaes referentes a quais procedimentos seriam necessrias para pegar em flagrante uma pessoa que estaria bebendo e com seu veculo estacionado em frente a um bar. Como o fato de uma pessoa estar bebendo e com seu veculo estacionado no  tipificado como crime, foi ento informada que a viatura somente poderia comparecer at o local se o indivduo estivesse dirigindo o veculo automotor aps a ingesto de bebida alcolica. Logo em seguida ela retorna  ligao, informando que seu ex-companheiro estaria dirigindo o veculo com ntidos sinais de embriaguez, razo pela qual uma viatura foi empenhada para atender a ocorrncia. Aps a abordagem policial, ela retornou, mais uma vez a ligao ao 190, solicitando explicaes do que teria acontecido, tendo em vista que Everaldo Viana Gorgulho foi liberado, tendo sido informada que ele no havia ingerido lcool e que o veculo se encontrava regular e foi liberado, porm no citou nada da presena do CAP BRENO no local. Ainda em anlise ao depoimento prestado pela testemunha Denise Santos Lage (evento 1, NF/PIC2, Pginas 18/20, dos autos relacionados n. 2000714-35.2019.9.13.0002), verifica-se que ele foi tomado no dia seguinte aos fatos (01/02/2019), ainda na parte da manh, s 10h20min. Destaca-se que a testemunha Denise Santos Lage teria, ento, aguardado seu ex-companheiro sair do suposto bar, perseguido ele at a abordagem policial, a qual ela acompanhou atentamente de um ponto mais afastado. No obstante, no dia 28/02/2019 a testemunha Denise Santos Lage prestou novo depoimento (evento 1, NF/PIC2, Pginas 01/03, dos autos relacionados n. 2000714-35.2019.9.13.0002), desta vez na promotoria de justia de So Loureno/MG, oportunidade em que ratificou o depoimento anteriormente no quartel do 57 BPM, acrescentando, em suma, que no dia 14/02/2019 compareceu naquela promotoria de justia, tendo sido informada que os fatos por ela relatados precisariam de indcios probatrios para serem apurados.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A acusao ministerial baseia-se nos depoimentos prestados pela testemunha Denise Santos Lage, ex-companheira do informante Everaldo Viana Gorgulho. Os indícios probatórios fornecidos por ela têm o objetivo de prejudicar seu ex-companheiro. O depoimento foi tomado no dia seguinte aos fatos e ratificado em 28/02/2019, quando a testemunha foi informada que os fatos relatados precisariam de indícios probatórios para serem apurados.

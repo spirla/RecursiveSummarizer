@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Se, no momento do oferecimento da denuncia, o acusado nao exercer funcao/cargo publico, torna-se dispensavel a defesa previa prevista no art. 2, I, do Decreto Presidencial n. 201/1967. O processo penal e regido pelo principio do tempus regit actum, assim, se no momento do oferecimento da denuncia os acusados nao exerciam funcao/cargo publico, torna-se dispensavel a defesa previa prevista no art. 2, I, do Decreto Presidencial n. 201/1967, que tem por escopo a protecao do interesse publico e da atividade exercida pelo servidor publico, motivo da real preocupacao do legislador. No caso, nao tendo a defesa demonstrado em que medida a ausencia de notificacao anterior ao recebimento da denuncia poderia gerar prejuizo a sua ampla defesa na acao penal, nao ha se falar em nulidade, uma vez que, nos termos do art. 563 do CPP, nenhum ato sera declarado nulo, se da nulidade nao resultar prejuizo para a acusacao ou para a defesa . Ademais, a defesa preliminar nos crimes de responsabilidade de prefeitos e suprida pela resposta a acusacao do rito ordinario, em que e permitida nao apenas a formal rejeicao da denuncia como, inclusive, mais ampla e beneficamente ao acusado, o juizo de sua sumaria inocencia (AgRg no RHC n. 88.026/PE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 13/8/2019, DJe de 22/8/2019). (Informativo n. 746) PROCESSO AgRg no HC 754.506-MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 16/08/2022, DJe 22/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Prisao em flagrante. Requerimento do Ministerio Publico para aplicacao de medidas cautelares mais brandas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O processo penal é regido pelo princípio do tempus regit actum, sendo dispensável a defesa prévia prevista no art. 2, I, do Decreto Presidencial n. 201/1967, no caso de não exercício de função/cargo público no momento do oferecimento da denúncia. 2. Não havendo demonstrado em que medida a ausência de notificação anterior ao recebimento da denúncia poderia gerar prejuízo à ampla defesa na ação penal, não há se falar em nulidade, uma vez que, nos termos do art. 563 do CPP, nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa. 3. A defesa preliminar nos crimes de responsabilidade de prefeitos é suprida pela resposta à acusação do rito ordinário, em que é permitida não apenas a formal rejeição da denúncia como, inclusive, mais ampla e beneficamente ao acusado, o juízo de sua sumária inocência.

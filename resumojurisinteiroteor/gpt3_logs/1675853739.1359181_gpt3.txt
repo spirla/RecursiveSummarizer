@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1,  4, que a quebra de sigilo poder ser decretada, quando necessria para apurao de ocorrncia de qualquer ilcito, em qualquer fase do inqurito ou do processo judicial. Quanto  alegao da defesa de que as diligncias complementares e o pedido da quebra de sigilo de dados bancrios do ru deveriam ter sido submetidos  apreciao do CEJ, razo no assiste ao recorrente. Explico. A uma, porque, caso se tratasse de pedido de quebra de sigilo ou de diligncias anteriormente ao recebimento da denncia - como de fato o foi -, o CEJ sequer teria sido sorteado, porquanto apenas a magistrada decidiria quanto aos requerimentos em anlise,  luz do art. 399 do CPPM. A duas, porque, ainda que se tratasse de crime que a lei imputa ser da competncia concorrente do CEJ decidir, caberia suscitar o poder de cautela geral do magistrado, que o confere a possibilidade de determinar medidas cautelares de ofcio, conforme bem ressaltou o douto representante do parquet em contrarrazes de recurso. No obstante as infundadas alegaes da defesa, infere-se que o CEJ, diante do deferimento das diligncias complementares decorrentes da quebra de sigilo do ru, as avalizou. Por outro lado, a defesa, mesmo tendo amplo acesso aos autos da Medida Cautelar n. 2331-66, manteve- se inerte, o que incide, a meu ver, na precluso da matria em anlise. No que tange ao argumento exposto pelo apelante de que o magistrado no teria dado vista  defesa, causando-lhe prejuzo, no me parece razovel. A questo  simples, pois, ao magistrado, cabe a anlise dos pedidos das partes e, estando estes revestidos de legalidade,  permitido ao juiz que atue de ofcio, quando da anlise de um requerimento. Ademais, no considero que foi negado  defesa o acesso ao documento juntado aos autos, tanto  que ela se manifestou a respeito. Ressalte-se, por oportuno, que todos os pedidos de vista requeridos pelas partes, bem como todos os pedidos de acesso aos documentos juntados aos autos foram prontamente deferidos pela magistrada sentenciante. Verifica-se, ainda, que a defesa aduziu que houve a extrapolao do perodo da quebra do sigilo bancrio do apelante, haja vista que o recorrente foi transferido para a 131a Qia pm Esp - 18 BPM, no dia 8 de julho 2014, conforme fl. 1000 do IPM, porm a quebra do sigilo retroagiu  data de 1 de julho de 2014, ou seja, sete dias antes do apelante estar lotado naquela unidade. Na esteira do douto promotor de justia, em suas contrarrazes, entendo que, no caso dos autos e em situaes anlogas,  plenamente admissvel que no seja possvel inferir, pelos indcios anexados nos autos quando da fase inquisitorial, os marcos temporais incontestveis do cometimento do crime. Quanto ao perodo dito extrapolado (sete dias), no entendo como excessivo, uma vez que os prazos estabelecidos ainda em sede de IPM so indicativos e dotados de fluidez.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O pedido de quebra de sigilo bancrio do ru foi deferido pela magistrada sentenciante, não sendo cabível alegação de prejuízo à defesa, pois o magistrado tem o poder de cautela geral para decidir medidas cautelares de ofício. O período da quebra de sigilo retroagiu a sete dias antes do apelante estar lotado na unidade, não sendo considerado excessivo.

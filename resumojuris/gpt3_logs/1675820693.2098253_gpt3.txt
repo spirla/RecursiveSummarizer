@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+125,  1, da CF, incumbe a lei de organizacao judiciaria, cuja iniciativa pertence ao respectivo tribunal de justica, especializar varas em razao da materia, de modo a tornar mais eficiente a prestacao do servico jurisdicional na esfera do ente federativo. Nao ofende a CF a legislacao estadual que atribui competencia aos juizes agrarios, ambientais e minerarios para a apreciacao de causas penais, cujos delitos tenham sido cometidos em razao de motivacao predominantemente agraria, mineraria, fundiaria e ambiental. A CF/88 (art. 126) adotou as expressoes genericas conflitos fundiarios e questoes agrarias , nao restringindo a competencia das varas especializadas a questoes somente de natureza civel. Assim, diante da complexidade dos conflitos agrarios, a legislacao de organizacao judiciaria estadual pode criar varas especializadas, com competencia definida em lei, para dirimir conflitos agrarios tanto de natureza civil quanto penal. E inconstitucional dispositivo de lei estadual que atribui competencia a juizes estaduais para julgar materias de competencia da justica federal. E atribuicao do Congresso Nacional a edicao da lei que autorize que causas de competencia da justica federal tambem possam ser processadas e julgadas pela justica estadual (CF, art. 109,  3). Sobre o tema, ha regulamentacao especifica no ambito infraconstitucional, consagrada no art. 15 da Lei 5.010/1966, recepcionada pela ordem constitucional vigente. Com base nesse entendimento, o Plenario, por unanimidade, julgou parcialmente procedente o pedido formulado na acao direta para declarar a inconstitucionalidade dos  1 e 2 do art. 3 da Lei Complementar (LC) 14/1993 do Estado do Para; incidentalmente, declarou tambem a inconstitucionalidade do  2 do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Incumbe à lei de organização judiciária especializar varas em razão da matéria, de modo a tornar mais eficiente a prestação do serviço jurisdicional na esfera do ente federativo. 2. Não ofende à CF a legislação estadual que atribui competência aos juízes agrários, ambientais e minerários para a apreciação de causas penais, cujos delitos tenham sido cometidos em razão de motivação predominantemente agrária, minerária, fundiária e ambiental. 3. A CF/88 adotou as expressões genéricas conflitos fundiários e questões agrárias, não restringindo a competência das varas especializadas a questões somente de natureza civil. 4. É inconstitucional dispositivo de lei estadual que atribui competência a juízes estaduais para julgar matérias de competência da Justiça Federal. 5. É atribuição do Congresso Nacional a edição da lei que autorize que causas de competência da Justiça Federal também possam ser processadas e julgadas pela Justiça Estadual (CF, art. 109, § 3). 6. O Plenário, por unanimidade, julgou parcialmente procedente o pedido formulado na ação direta para declarar a inconstitucionalidade dos §§ 1 e 2 do art. 3 da Lei Complementar (LC) 14/1993 do Estado do Pará; incidentalmente, declarou também a inconstitucionalidade do § 2 do art.

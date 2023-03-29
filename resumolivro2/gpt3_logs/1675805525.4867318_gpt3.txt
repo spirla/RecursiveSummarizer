@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A orientao jurisprudencial da Suprema Corte passou a ser de que a apurao da notitia criminis no constitui constrangimento ilegal a ser corrigido pela via do habeas corpus, e havendo fundada suspeita de crime e elementos idneos de informao  legtima a instaurao de inqurito policial. Informa Eugnio Pacelli que a jurisprudncia do STF deu contornos finais ao tema aceitando a validade da delao premiada para fins de justificao da adoo de providncias preliminares, a fim de se comprovar a idoneidade da informao, bem como a viabilidade de se obter elementos informativos suficientes para persecuo penal. A jurisprudncia do STJ segue por essa linha:
+no h ilegalidade na instaurao de inqurito com base em investigaes deflagradas por denncia annima, eis que a autoridade policial tem o dever de apurar a veracidade dos fatos alegados, desde que se proceda com a devida cautela para evitar situaes que possam ferir, injustamente, direitos de terceiros. A doutrina tambm recomenda que, nos casos de delao annima, a autoridade proceda com cautela e de maneira discreta, a averiguao preliminar em torno da verossimilhana. Na valiosa lio de Rogrio Lauria Tucci constitui dever funcional da autoridade pblica destinatria da notcia do crime, especialmente a policial, proceder, com mxima cautela e discrio, a uma investigao preambular no sentido de apurar a verossimilhana da informao, instaurando o inqurito somente em caso de verificao positiva. Em eptome, a delao annima no deve ser repelida de plano, entretanto, requer cautela. A autoridade militar deve investigar se h verossimilhana nas informaes. O escrito annimo no justifica, por si s, desde que isoladamente considerado, a imediata instaurao da persecutio criminis.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência da Suprema Corte e do STJ aceita a validade da delação premiada para fins de justificação da adoo de providências preliminares. A doutrina recomenda que, nos casos de delação anônima, a autoridade proceda com cautela e discrição para averiguar a verossimilhança da informação. A autoridade militar deve investigar se há verossimilhança nas informações, mas o escrito anônimo não justifica, por si só, a imediata instauração da persecução criminis.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por maioria, julgou procedente acao direta e declarou a inconstitucionalidade do art. 1, paragrafo unico, e, da Lei 7.077/2015, do Estado do Rio de Janeiro. Vencidos os ministros Rosa Weber (relatora), Edson Fachin e Alexandre de Moraes. ADI 6614/RJ, relatora Min. Rosa Weber, redator do acordao Min. Roberto Barroso, julgamento virtual finalizado em 12.11.2021 (sexta-feira), as 23:59 (INF 1037) Governador e normas sobre crimes de responsabilidade  ADI 4811/MG Resumo: E inconstitucional norma de constituicao estadual que disponha sobre o processamento e julgamento de governador e vice-governador nos casos de crime de responsabilidade. Isso porque a tipificacao dos crimes de responsabilidade e o estabelecimento de normas relativas ao processamento e julgamento desses delitos sao de competencia privativa da Uniao. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado na acao direta para declarar inconstitucionais os arts. 62, XIII e XIV; 91,  3; e 92,  1, II, da Constituicao do Estado de Minas Gerais. ADI 4811/MG, relator Min. Gilmar Mendes, julgamento virtual finalizado em 13.12.2021 (segunda-feira), as 23:59 (INF 1041) Interrupcao de fornecimento de energia eletrica e competencia privativa da Uniao - ADI 5798/TO Resumo: Compete a Uniao definir regras de suspensao e interrupcao do fornecimento dos servicos de energia eletrica. Cabe a Uniao, de forma privativa, legislar sobre energia, bem como dispor acerca do regime de exploracao do servico de energia eletrica, ai incluidas as medidas de suspensao ou interrupcao de seu fornecimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma de Constituição Estadual que disponha sobre o processamento e julgamento de governador e vice-governador nos casos de crime de responsabilidade, pois a tipificação dos crimes de responsabilidade e o estabelecimento de normas relativas ao processamento e julgamento desses delitos são de competência privativa da União. 2. É inconstitucional os artigos 62, XIII e XIV; 91, 3; e 92, 1, II, da Constituição do Estado de Minas Gerais. 3. Compete à União definir regras de suspensão e interrupção do fornecimento dos serviços de energia elétrica, bem como dispor acerca do regime de exploração do serviço de energia elétrica, incluindo as medidas de suspensão ou interrupção de seu fornecimento.

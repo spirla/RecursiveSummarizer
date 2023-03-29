@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 5119/DF, relatora Ministra Rosa Weber, julgamento virtual finalizado em 20.6.2022 (segunda-feira), as 23:59 (INF 1059) Custas e emolumentos judiciais: majoracao e criacao de sancoes processuais por ente es-tadual - ADI 7063/RJ ODS: 8 Resumo: E inconstitucional norma estadual que institui sancoes processuais diversas da legislacao federal para litigantes que abusem do seu direito a prestacao jurisdicional e um procedimento mais restritivo para requerer o beneficio da gratuidade de justica. Isso porque compete a Uniao legislar sobre direito processual (CF/88, art. 22, I) e ja existe, no Co-digo de Processo Civil, expressao legislativa exaustiva sobre a materia. Alem disso, as custas e os emolumentos classificam-se como tributo da especie taxa, cuja aplicacao e direcionada ao sistema de justica e, por essa razao, nao podem ter como fato gerador principal um ato ilicito. E constitucional norma estadual que fixa custas processuais mais elevadas para causas conside-radas de alto valor ou alta complexidade. Com efeito, ha pertinencia entre o valor das custas e o custo do servico judicial prestado, o que se re-vela como efetiva progressividade tributaria. No entanto, a determinacao de dobra de custas sem a necessaria correlacao entre o valor da taxa e o custo dos servicos prestados constitui afronta ao texto constitucional (CF/88, art. 145, II). Portanto, se o criterio adotado e a qualidade do usuario do servico, resta evidente a falta dessa referibilidade. Com base nesses e em outros entendimentos, o Plenario, por unanimidade, julgou parcialmente proce-dente a acao para declarar a inconstitucionalidade dos arts. 15-A; 15-B, caput; e 15-F a 15-I da Lei 3.350/1999, e arts. 135-D a 135-H do Decreto-Lei 5/1975, acrescidos respectivamente pelos arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma estadual que institui sanções processuais diversas da legislação federal para litigantes que abusem do seu direito à prestação jurisdicional e um procedimento mais restrito para requerer o benefício da gratuidade de justiça. 2. É constitucional norma estadual que fixa custas processuais mais elevadas para causas consideradas de alto valor ou alta complexidade. 3. A determinação de dobra de custas sem a necessária correlação entre o valor da taxa e o custo dos serviços prestados constitui afronta ao texto constitucional.

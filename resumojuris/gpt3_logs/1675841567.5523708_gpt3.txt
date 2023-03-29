@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 736) PROCESSO AREsp 2.007.599-RJ, Rel. Min. Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, por unanimidade, julgado em 03/05/2022. RAMO DO DIREITO DIREITO PENAL TEMA Oferecimento de vantagem indevida para evitar a atuacao policial. Agente abordado com drogas para uso proprio. Ato de oficio. Corrupcao ativa. Ocorrencia. Disposicoes do art. 48,  2 e 3 da Lei de Drogas. DESTAQUE Configura o crime de corrupcao ativa o oferecimento de vantagem indevida a funcionario publico para determina-lo a omitir ou retardar ato de oficio relacionado com o cometimento do crime de posse de drogas para uso proprio. Consoante previsao do artigo 333 do CP, o delito de corrupcao ativa ocorre com a conduta de oferecer ou prometer vantagem indevida a funcionario publico, para determina-lo a praticar, omitir ou retardar ato de oficio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Configura o crime de corrupção ativa o oferecimento de vantagem indevida a funcionário público para determiná-lo a omitir ou retardar ato de ofício relacionado com o cometimento do crime de posse de drogas para uso próprio. 2. Conforme previsão do artigo 333 do CP, o delito de corrupção ativa ocorre com a conduta de oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício.

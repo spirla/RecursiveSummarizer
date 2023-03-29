@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O requerimento do Ministrio Pblico ou a representao da autoridade de polcia judiciria militar para a infiltrao de agentes  devidamente circunstanciado, conforme o caput artigo 11 determina, o requerimento do Ministrio Pblico ou a representao do delegado de polcia [leia-se autoridade de polcia judiciria militar] para a infiltrao de agentes contero a demonstrao da necessidade da medida, alm disso, o alcance das tarefas dos agentes e, quando possvel, os nomes ou apelidos das pessoas investigadas e o local da infiltrao. Os agentes infiltrados recebem, basicamente, tarefas de descobrir crimes e seus autores mediante a colheita de provas. Os requisitos para a infiltrao so (a) o fumus comissi delicti, os indcios de infrao penal de que trata o artigo 1 da Lei (artigo 10, pargrafo 2) e dos crimes conexos;
+(b) se a prova no puder ser produzida por outros meios disponveis. (artigo 10, pargrafo 2), vale dizer, em razo dos riscos para o agente infiltrado  prefervel outro meio de prova;
+(c) a concordncia do agente infiltrado (artigo 14, inciso I). O conhecimento da operao fica restrito ao juiz,  autoridade de polcia judiciria militar e ao Ministrio Pblico at a denncia, pois os autos contendo as informaes da operao de infiltrao acompanharo a denncia do Ministrio Pblico, quando sero disponibilizados  defesa, assegurando-se a preservao da identidade do agente (artigo 12, pargrafo 2). Instaurada a ao penal em face dos integrantes da organizao criminosa,  direito da defesa conhecer por qual meio foi obtida a prova, sempre preservada a identidade do agente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O requerimento do Ministério Público ou da autoridade de polícia judiciária militar para a infiltração de agentes deve conter a demonstração da necessidade da medida, além do alcance das tarefas dos agentes e, quando possível, os nomes ou apelidos das pessoas investigadas. Os requisitos para a infiltração são o fumus comissi delicti, os indícios de infração penal e a concordância do agente infiltrado. O conhecimento da operação fica restrito ao juiz, autoridade de polícia judiciária militar e ao Ministério Público até a denúncia. Quando instaurada a ação penal, a defesa tem direito de conhecer por qual meio foi obtida a prova, preservada a identidade do agente.

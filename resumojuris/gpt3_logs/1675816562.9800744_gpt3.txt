@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 4118/RJ, relatora Ministra Rosa Weber, julgamento virtual finalizado em 25.2.2022 (sexta-feira), as 23:59 (INF 1045) Militares estaduais grevistas e anistia das infracoes disciplinares - ADI 4869/DF ODS: 16 Resumo: E formalmente inconstitucional norma federal que concede anistia a policiais e bombeiros mili-tares estaduais por infracoes disciplinares decorrentes da participacao em movimentos reivindicatorios por melhorias de vencimentos e de condicoes de trabalho. A anistia de competencia da Uniao ha de recair sobre crimes. Em materia de infracoes disciplinares, cabe aos entes estaduais concede-la a seus respectivos servidores, em face da autonomia que caracteriza a Federacao brasileira. Quanto aos bombeiros e policiais militares, a competencia estadual e realcada nos arts. 42 e 144,  6, da CF/88. Ademais, embora ocorridas situacoes similares em mais de um estado, a irresignacao dos grevistas permaneceu direcionada as condicoes especificas de cada corporacao, de modo que, nao afastado o interesse regional, compete ao chefe do Poder Executivo correspondente, por imposicao do principio da simetria, a ini-ciativa de lei para tratar do tema. Com base nesse entendimento, o Plenario, por unanimidade, conheceu parcialmente da acao e, na par-te conhecida, a julgou procedente para declarar a inconstitucionalidade da expressao e as infracoes disciplina-res conexas , constante na lei impugnada. Por maioria, a Corte atribuiu a decisao eficacia ex nunc a contar da data de publicacao da ata de julgamento. ADI 4869/DF, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 27.5.2022 (sexta-feira), as 23:59 (INF 1056) Norma estadual e emenda parlamentar impositiva em lei orcamentaria - ADI 6308/RR Resumo: Sao inconstitucionais emendas parlamentares estaduais de carater impositivo em lei orcamenta-ria anteriores a vigencia das ECs 86/2015 e 100/2019.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente inconstitucional norma federal que concede anistia a policiais e bombeiros militares estaduais por infrações disciplinares decorrentes da participação em movimentos reivindicatórios por melhorias de vencimentos e de condições de trabalho. 2. A anistia de competência da União deve recair sobre crimes. 3. Em matéria de infrações disciplinares, cabe aos entes estaduais conceder anistia a seus respectivos servidores, em face da autonomia que caracteriza a Federação brasileira. 4. São inconstitucionais emendas parlamentares estaduais de caráter impositivo em lei orçamentária anteriores à vigência das ECs 86/2015 e 100/2019.

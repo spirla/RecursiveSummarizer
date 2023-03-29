@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao ha duvidas de que o proposito do legislador foi resolver as assimetrias regulatorias nacionais. Mesmo apos a edicao da Lei 13.116/2015, a atuacao descoordenada dos entes subnacionais tem gerado graves problemas de seguranca juridica que, ao fim e ao cabo, minam os incentivos de investimento em infraestrutura de telecomunicacoes no Pais. E evidente que a materia disposta na legislacao federal se reveste de inequivoco interesse publico geral. Alem disso, o preceito questionado nao extravasou a dimensao geral do jogo de competencias legislativas em materia de contratos administrativos. A previsao normativa da gratuidade do aludido direito visou claramente o estabelecimento de regra geral para o tema. Salienta-se que a interpretacao sistematica da Lei 13.116/2015, sobretudo naquilo que complementada pelo seu regulamento (Decreto 10.480/2020), revela zelo do legislador de, ao mesmo tempo, uniformizar a gratuidade e respeitar o exercicio das competencias administrativas dos poderes concedentes locais. O dispositivo questionado tem aplicacao restrita aos contratos licitados apos a sua edicao e preserva a atuacao dos entes subnacionais como poder concedente dos servicos de sua competencia. O art. 12 da Lei Geral das Antenas respeita os principios constitucionais da eficiencia e da moralidade administrativa. Ao renunciar a qualquer pretensao de retroatividade  ainda que minima , a norma extraida do art. 12 prestigia a garantia constitucional do direito adquirido e do ato juridico perfeito. Igualmente, observa o dever de impessoalidade e tece homenagem ao principio da moralidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O propósito do legislador foi resolver as assimetrias regulatorias nacionais. 2. A atuação descoordenada dos entes subnacionais tem gerado graves problemas de segurança jurídica. 3. A previsão normativa da gratuidade do aludido direito visou claramente o estabelecimento de regra geral para o tema. 4. O dispositivo questionado tem aplicação restrita aos contratos licitados após a sua edição e preserva a atuação dos entes subnacionais como poder concedente dos serviços de sua competência. 5. O artigo 12 da Lei Geral das Antenas respeita os princípios constitucionais da eficiência e da moralidade administrativa. 6. Ao renunciar a qualquer pretensão de retroatividade, ainda que mínima, a norma extraída do artigo 12 prestigia a garantia constitucional do direito adquirido e do ato jurídico perfeito. 7. Observa o dever de impessoalidade e tece homenagem ao princípio da moralidade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Aplicada concretamente a pena, em deciso condenatria definitiva, surge para o Estado o interesse de executar a condenao. A pretenso executria nasce com a deciso condenatria definitiva e perdura enquanto for possvel o exerccio do poder-dever de punir do Estado. A prescrio da pretenso executria, portanto, incide aps o trnsito em julgado da deciso condenatria para extinguir o poder-dever estatal de executar a pena. Essa segunda espcie de prescrio  regulada pelo artigo 110 do CP. Os prazos prescricionais tm como referncia a pena efetivamente aplicada, e no o limite mximo da pena cominada, pois, com a condenao, j se definiram os limites da reprovao.  competente para apreciar a ocorrncia da prescrio da pretenso executria o juzo das execues, posto que a pretenso executria somente surge aps vindo o processo de conhecimento (STJ - RHC 5.295). 22.5. Efeitos. O efeito fundamental da prescrio  a extino da responsabilidade. No entanto, as espcies de prescrio produzem efeitos secundrios diversos que devem ser analisados. A prescrio da pretenso punitiva  causa extintiva da responsabilidade que ocorre antes do trnsito em julgado de deciso condenatria, o que deixa pendente a questo de mrito sobre a pretenso deduzida em juzo. Nesses casos, no chegou a consolidar-se um juzo positivo de reprovao. Por isso, para o caso especfico, a prescrio da pretenso punitiva no admite reconhecimento de culpabilidade e no gera futura reincidncia. Com base no princpio da no culpabilidade, Zaffaroni e Pierangeli sustentam at ser impossvel reconhecer, no fato, maus antecedentes. A jurisprudncia nacional tem se manifestado no sentido de no reconhecer como maus antecedentes os anteriores inquritos ou processos criminais do acusado que no resultem em condenao. Essa posio, no entanto, merece um reparo. Com efeito, a considerao sobre os antecedentes no pode influir de maneira a agravar a pena do condenado, transpondo os limites estipulados pela culpabilidade verificada no caso concreto que se analisa. Sustentar o contrrio significa estabelecer dupla punio para o sujeito, quando se analisa um s fato. O reconhecimento dos maus antecedentes, no entanto, pode compensar os efeitos da verificao de outra circunstncia judicial que se apresente favorvel ao ru, mas nunca majorar a pena, de forma que o limite mximo estabelecido pela culpabilidade seja transposto.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prescrição da pretenção punitiva é uma causa extintiva da responsabilidade que ocorre antes do trânsito em julgado de decisão condenatória. O reconhecimento dos maus antecedentes não pode influir na pena aplicada, não permitindo a dupla punição. Competente para apreciar a prescrição da pretenção executória é o juízo das execuções.

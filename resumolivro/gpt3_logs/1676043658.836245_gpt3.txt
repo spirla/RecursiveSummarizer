@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Para compreender a essncia do tipo culposo (negligente),  necessrio ter em mira seus aspectos fundamentais de omisso a um dever objetivo de cuidado e de previsibilidade que confere capacidade ao sujeito para evitar a leso ao bem jurdico. Com muita propriedade, o legislador tratou da culpa no Cdigo Penal Militar. Nos termos do inciso II de seu artigo 33, o crime  culposo quando:
+Art. 33. (...). - O agente, deixando de empregar a cautela, ateno ou diligncia ordinria, ou especial, a que estava obrigado em face das circunstncias, no prev o resultado que podia prever ou, prevendo-o, supe levianamente que no se realizaria ou que poderia evit-lo. O componente subjetivo foi adequadamente ressaltado, de modo a constituir-se verdadeira alternativa, no plano subjetivo, ao comportamento doloso. Fica claro no referido dispositivo legal que o sujeito inobserva o seu dever objetivo de cuidado por no prever o resultado que poderia prever ou pela crena, leviana, de que o resultado previsto no se realizaria ou que poderia ser evitado. Ao contrrio da conduta dolosa, em que o sujeito prev e persegue o resultado ilcito, o crime culposo caracteriza-se pelo fato de que o resultado ilcito no decorre da vontade do sujeito. A definio legal ainda alerta para o fato de que a responsabilidade a ttulo de culpa no somente decorre da impreviso do resultado previsvel, mas tambm da efetiva previso do resultado, desde que esta se apresente desvinculada da vontade de produzir esse resultado. Desse aspecto surgem as distines entre a culpa consciente e a inconsciente. Na culpa inconsciente, o resultado lesivo no  previsto pelo sujeito do fato punvel, embora lhe fosse possvel essa previso (previsibilidade). Na culpa consciente, por sua vez, o resultado  previsto pelo sujeito do fato, mas este espera levianamente que o resultado no ocorra, ou que poder evit-lo. A utilizao da expresso levianamente no dispositivo do Cdigo Penal Militar  muito apropriada. Tal expresso se presta a esclarecer que a postura psicolgica de no aceitao do resultado ilcito, ainda que leviana, no caracteriza o dolo que conduz a uma reprovao mais grave. A culpa traduz postura subjetiva que possibilita a reprovao penal, mas a leviandade do sujeito no autoriza, por si s, a reprovao mais grave que caracteriza o crime doloso. O comportamento culposo, em casos de maior repercusso social, pode induzir a interpretaes equivocadas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tipo culposo (negligente) caracteriza-se pela omisso a um dever objetivo de cuidado e previsibilidade, previsto no Código Penal Militar. O agente deixa de empregar a cautela, atenção ou diligência ordinária ou especial necessárias para prever ou evitar o resultado ilícito. A culpa consciente é caracterizada pela previsão do resultado lesivo, mas com a esperança leviana de que não ocorra.

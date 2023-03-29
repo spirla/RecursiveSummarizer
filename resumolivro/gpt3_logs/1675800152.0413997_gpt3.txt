@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+APELACAO - RECURSO VOLUNTARIO NAO CONHECIDO - (...) INDEPENDNCIA DAS ESFERAS ADMINISTRATIVA E CRIMINAL - A ABSOLVICAO DO MILITAR POR ATIPICIDADE DE CONDUTA NA ESFERA CRIMINAL NAO PRODUZ EFEITOS NA ESFERA ADMINISTRATIVA - (...) - REFORMA DA SENTENCA A QUO - MANUTENCAO DO ATO ADMINISTRATIVO DISCIPLINAR. (TJM-MG: Apelacao - Processo eproc n. 2001357-87.2019.9.13.0003; Relator: Desembargador Socrates Edgard dos Anjos; Julgamento unnime: 05/11/2020. EPROC: 12/11/2020). Buscando dirimir qualquer duvida da aplicacao dos institutos aqui mencionados, a Instrucao Conjunta de Corregedorias 01, de 03/02/2014 (ICCPM/BM 01/14), assim disps:
+Artigo 22. Mesmo ocorrendo a identidade entre transgressao disciplinar e o crime militar, seja ele proprio ou nao, em face da independncia e da concomitncia das esferas, nao configura bis in idem a punicao na seara administrativa pelas transgressoes residuais que aflorarem no mesmo fato. Paragrafo 1 Toda vez que um militar praticar conduta descrita como crime militar, restara o poder/dever da Administracao Militar exercer sua acao disciplinar sobre esse acusado, por meio de processo disciplinar especifico. Deve a Administracao Militar procurar amoldar o fato ao tipo transgressivo infringido, utilizando, inclusive, redacao semelhante a descrita em um ou mais dos incisos dos artigos 13, 14 ou 15 do CEDM. Paragrafo 2 Alerta-se que a sancao devera ser aplicada pela transgressao que, em regra, ocorra concomitantemente ao delito, como e o caso, por exemplo, das seguintes transgressoes: apresentar-se com sinais de embriaguez alcoolica (artigo 13, VI do CEDM) - no caso da pratica do crime militar de embriaguez em servico (artigo 202 do com); dormir em servico (artigo 13, XV do CEDM) - quando da pratica do crime militar de dormir em servico (artigo 203 do CPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Instrução Conjunta de Corregedorias 01, de 03/02/2014 (ICCPM/BM 01/14) estabelece que, mesmo que haja identidade entre transgressão disciplinar e crime militar, a punição na esfera administrativa não configura bis in idem. A Administração Militar deve procurar amoldar o fato ao tipo transgressivo infringido, aplicando a sanção pela transgressão concomitante ao delito. Exemplos: embriaguez alcoólica (artigo 13, VI do CEDM) e dormir em serviço (artigo 13, XV do CEDM).

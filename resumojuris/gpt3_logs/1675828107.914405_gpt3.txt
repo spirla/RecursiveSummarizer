@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+34,  3, do ADCT nao autorizam a acao dos estados em qualquer caso de inexistencia da lei nacional. Assim, a competencia dos estados e do Distrito Federal a que alude o art. 24,  3, da CF nao se estende ao tratamento de materia de direito tributario que, inevitavelmente, se imiscua em outras unidades federadas ou envolva conflito federativo. No campo dos limites da competencia concorrente, a regulamentacao da materia diretamente pelos estados teria consequencias que excederiam os limites dos poderes tributantes e constituiria campo fertil ao surgimento de conflito horizontal de competencias. No caso do ITCMD, o inciso III do  1 do art. 155 da CF e excecao as hipoteses previstas nos incisos I e II do mesmo paragrafo. A excecao confirma a regra. Prescinde de lei complementar a instituicao do imposto sobre transmissao causa mortis e doacao de bens imoveis  e respectivos direitos  moveis, titulos e creditos no contexto nacional. Ja as alineas a e b do inciso III do  1 do art. 155 da CF especificam a necessidade de regulacao por lei complementar para as hipoteses de transmissao de bens imoveis ou moveis, corporeos ou incorporeos localizados no exterior, bem como de doador ou de de cujus domiciliados ou residente fora do pais, no caso de inventario processado no exterior. Devido ao elemento da extraterritorialidade, o Constituinte ordenou ao Congresso Nacional que procedesse a um maior debate politico sobre os criterios de fixacao de normas gerais de competencia tributaria, com o intuito de evitar conflitos de competencias geradores de bitributacao entre os estados da Federacao e entre paises com os quais o Brasil possui acordos comerciais, mantendo uniforme o sistema de tributos. Com base nesse entendimento, o Plenario, por maioria, apreciando o Tema 825 da repercussao geral, negou provimento ao recurso extraordinario.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 34, § 3º, do ADCT não autoriza a ação dos estados em caso de inexistência de lei nacional. 2. A competência dos estados e do Distrito Federal não se estende ao tratamento de matéria de direito tributário que envolva conflito federativo. 3. O inciso III do § 1º do artigo 155 da CF é exceção às hipóteses previstas nos incisos I e II do mesmo parágrafo. 4. É necessária regulamentação por lei complementar para as hipóteses de transmissão de bens imóveis ou móveis, corpóreos ou incorpóreos localizados no exterior, bem como de doador ou de de cujus domiciliados ou residente fora do país, no caso de inventário processado no exterior. 5. O Constituinte ordenou ao Congresso Nacional que procedesse a um maior debate político sobre os critérios de fixação de normas gerais de competência tributária, com o intuito de evitar conflitos de competências geradores de bitributação entre os estados da Federação e entre países com os quais o Brasil possui acordos comerciais.

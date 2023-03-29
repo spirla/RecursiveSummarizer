@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao ru o direito de aguardar no regime aberto o julgamento do recurso de apelao. (HC 653.515/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/11/2021, DJe 01/02/2022) (Destaca-se) Ainda que se entendesse de modo diverso, saliento que a concluso da percia realizada nas roupas do ofendido no afasta as diversas incongruncias encontradas no feito, pois nota-se que a verso de que o ofendido estaria muito machucado foi apresentada apenas por ele prprio e por sua genitora, no sendo ratificada pelas testemunhas Ana Lcia Rodrigues Ferreira e Dbora Kelly Aguiar da Silva. A testemunha Janana Roberta dos Santos Costa, que trabalha como enfermeira no IML, disse que o ofendido lhe relatou que estava com dificuldade de respirar e que sentia dor, mas, em virtude de no possuir condies de avali-lo, orientou que ele fosse ao pronto-atendimento. Contudo, embora o ofendido tenha afirmado que estava sentindo muita dor, estranhamente no foi levado ao hospital e aguardou para ser examinado pelo perito, que no constatou qualquer leso grave. A testemunha tambm afirmou que o ofendido apresentava leso aparente apenas no trax, a qual no  compatvel com as vrias agresses relatadas por ele. As agresses descritas pelo ofendido no encontram lastro na prova pericial, pois, no laudo do Exame de Corpo de Delito, realizado no dia 13 de outubro de 2008, consta que ele apresentava apenas uma escoriao medindo 7,0 cm x 2,0 cm localizado na regio anterior do trax (Evento 6 - PEAS IPM2 - p. 54). A fotografia tirada do ofendido no dia dos fatos pela testemunha Janana Roberta dos Santos Costa tambm no demonstra que este tenha recebido socos e tapas ou que tenha tido o seu rosto esfolado no cho (Evento 101 - ESPECIFICAO PROVA3). Logo, a nica leso apresentada pelo ofendido  uma escoriao no trax. Todavia no  possvel afirmar que essa escoriao tenha sido causada pelos acusados, pois  plausvel que o ofendido tenha-se machucado quando pulava o muro, ao fugir dos policiais, o que foi corroborado pelo depoimento da testemunha Kelly. Ademais, caso os policiais tivessem desferido vrios socos na face e no estmago do ofendido, esfolado o seu rosto no cho, dado pontaps nas suas costas e nos seus glteos, batido uma janela quebrada em seu corpo e pisado no seu trax, conforme relatado pela prpria vtima, certamente ficariam, no mnimo, hematomas e equimoses das agresses, os quais no foram constatados na percia. Isso se tais agresses no ocasionassem leses ainda mais graves ou at mesmo o bito da vtima, tendo em vista que esta possua 16 (dezesseis) anos  poca dos fatos e foi descrita como franzina pelas testemunhas.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A concluso da percia realizada nas roupas do ofendido no afastou as diversas incongruncias encontradas no feito, pois a verso de que o ofendido estaria muito machucado foi apresentada apenas por ele prprio e por sua genitora, no sendo ratificada pelas testemunhas. O laudo do Exame de Corpo de Delito constatou apenas uma escoriao medindo 7,0 cm x 2,0 cm localizado na regio anterior do trax. A fotografia tirada do ofendido no dia dos fatos tambm no demonstra que ele tenha recebido agresses. Logo, no h lastro na prova pericial para as agresses descritas pelo ofendido.

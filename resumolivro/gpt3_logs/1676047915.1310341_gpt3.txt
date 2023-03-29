@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+At o fechamento da presente edio, no havia definio na legislao brasileira para o que se possa entender por crime de terrorismo, muito embora j tenha sido remetido  sano presidencial o PL 2016/2015. 12.1.8. Limite para a execuo das penas. Na legislao repressiva nacional, no h qualquer limitao para o nmero de condenaes ou para a quantidade de pena que possa ser imposta a uma pessoa. Caso ocorram muitas condenaes, em princpio, as penas devero ser somadas para efeito de execuo. Sendo o caso de condenaes a penas privativas de liberdade, as penas devero ser somadas e executa-se em primeiro lugar a pena mais grave (artigo 76 do CP). Entretanto, visando a preservar a possibilidade de retorno do condenado ao convvio social (que  premissa inafastvel da perspectiva utilitria da pena), o Cdigo Penal prev um mecanismo de limitao para a execuo da pena privativa de liberdade. Dispe o artigo 75 que o tempo de cumprimento das penas privativas de liberdade no pode ser superior a 40 (quarenta) anos. A opo poltica  compatvel com a disposio constitucional do inciso XLVII, b, do artigo 5, no sentido de que no haver pena de carter perptuo. Com efeito, se o condenado tivesse que cumprir uma pena de duzentos anos de privao da liberdade, de fato, a privao da liberdade seria perptua. A impossibilidade de cumprimento de pena de carter perptuo  corolrio do princpio fundamental da dignidade da pessoa humana (artigo 1, III, da CR). At a entrada em vigor da Lei 13.964/19, que ocorreu em 23 de janeiro de 2020, o artigo 75 do Cdigo Penal estabeleceu o limite de 30 (trinta) anos para o cumprimento da pena privativa de liberdade. A alterao do limite para 40 (quarenta) anos  mais gravosa para os condenados cujas penas j tenham sido unificadas, de modo que no ser possvel a produo de efeitos retroativos para prejudicar quem, antes da entrada em vigor da Lei 13.964/19, j tinha adquirido o direito a cumprir 30 (trinta) anos. Na verdade, a pena privativa de liberdade de longa durao estabelece contradio lgica com o princpio da preveno especial. Se a ideia  intimidar o condenado para que ele no volte a cometer crimes, a quantidade de pena tida como necessria e suficiente deve ser proporcional s peculiaridades do condenado no momento da condenao. Ficar 40 (quarenta) anos encarcerado significa amadurecer na cadeia.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O PL 2016/2015 propõe a definição de crime de terrorismo, mas, na legislação brasileira, não há limite para o número de condenações ou quantidade de pena que possa ser imposta. O Código Penal prevê um mecanismo de limite para a execução da pena privativa de liberdade, limitando-a a 40 anos. A Lei 13.964/19 alterou esse limite para 40 anos, não sendo possível produzir efeitos retroativos.

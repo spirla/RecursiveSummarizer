@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O tipo que descreve o crime de condicionamento de atendimento mdico-hospitalar emergencial apresenta muitos elementos normativos, que dificultam a compreenso da conduta proibida e possibilitam a ocorrncia de inadequao tpica por erro de tipo (artigo 20 do CP). Vejamos o significado de tais elementos. Cheque-cauo. O cheque  um ttulo de crdito de natureza mercantil que constitui uma espcie de ordem de pagamento  vista de determinada soma em dinheiro, especificado em sua crtula, que deve ser cumprida pela instituio bancria contra a qual  expedido. O artigo 32 da Lei Geral do Cheque - Lei 7.357/85 - dispe que o cheque constitui uma ordem de pagamento a vista e, por isso, no  instrumento adequado para representar uma dvida ou garantir um negcio estabelecido para pagamento a prazo. A Lei Geral do Cheque no prev a espcie cheque-cauo, que caracteriza verdadeiro desvio de finalidade para o ttulo. Nos termos da lei, no existe o cheque-cauo. No entanto, como o cheque constitui um documento que, por sua formalidade, literalidade e autonomia, pressupe uma dvida cuja cobrana dispensa discusses prvias e pode ser objeto de uma execuo judicial direta (artigo 585, inciso I, do CPC), sem necessidade de discusso da origem da dvida, tem sido costumeiramente utilizado para assegurar o posterior pagamento da referida dvida. No contexto da incriminao, portanto, deve-se entender por cheque-cauo o cheque que  indevidamente exigido para assegurar o pagamento por servios mdico-hospitalares a serem prestados posteriormente  sua emisso. Nota promissria. A nota promissria  um ttulo de crdito no qual uma pessoa (sacador, emitente ou subscritor) firma, por escrito, uma promessa de pagamento para outra (beneficirio ou sacado) de quantia em dinheiro especificada no ttulo. A nota promissria deve sempre ter registrado quem  o beneficirio, no se admitindo que seja um ttulo ao portador. Ao contrrio do cheque, que constitui uma ordem de pagamento  vista, a nota promissria  uma promessa de pagamento futuro. A nota promissria foi instituda pelo Decreto 57.663/66 que promulgou as Convenes de Genebra para a adoo de uma lei uniforme relativa s letras de cmbio e notas promissrias. Garantia. No contexto da incriminao, deve-se entender garantia o instrumento capaz de assegurar o direito de receber os valores devidos pela prestao do atendimento mdico-hospitalar contra a leso decorrente do eventual no pagamento.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tipo de crime de condicionamento de atendimento mdico-hospitalar emergencial tem elementos normativos que dificultam a compreenso da conduta proibida. Cheque-cauo, nota promissria e garantia so instrumentos utilizados para garantir o pagamento dos servios mdico-hospitalares.

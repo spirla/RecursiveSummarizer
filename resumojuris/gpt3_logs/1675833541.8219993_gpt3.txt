@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Regina Helena Costa, Primeira Secao, por unanimidade, julgado em 08/06/2022. (Tema IAC 9) RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Transito. Motoristas autonomos de transporte coletivo escolar. Obtencao e renovacao da Carteira Nacional de Habilitacao - CNH. Exame toxicologico de larga janela de deteccao. Art. 148-A do CTB. Resultado negativo. Requisito obrigatorio. (Tema IAC 9/STJ). DESTAQUE A apresentacao de resultado negativo em exame toxicologico de larga janela de deteccao e obrigatoria para a habilitacao e a renovacao da Carteira Nacional de Habilitacao do motorista autonomo de transporte coletivo escolar, nos termos do art. 148-A da Lei n. 9.503/1997 (Codigo de Transito Brasileiro).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O resultado negativo em exame toxicológico de larga janela de detecção é obrigatório para a habilitação e a renovação da Carteira Nacional de Habilitação do motorista autônomo de transporte coletivo escolar, nos termos do art. 148-A da Lei n. 9.503/1997 (Código de Trânsito Brasileiro).

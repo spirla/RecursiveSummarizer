@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Francisco Falcao, Segunda Turma, por unanimidade, julgado em 16/8/2022, DJe 22/8/2022. Ramo do Direito DIREITO TRIBUTARIO Tema Tarifa de esgotamento sanitario. Cumprimento de todas as etapas do servico. Desnecessidade. Cobranca. Possibilidade. DESTAQUE E possivel a cobranca da tarifa de esgotamento sanitario ainda que nao haja o cumprimento de todas as etapas do servico. A questao posta nos autos diz respeito ao pagamento de tarifa de esgoto mesmo quando nao prestado o servico de forma integral. A sentenca condenou a concessionaria a devolucao do valor pago a titulo de tarifa de esgoto. O Tribunal de origem manteve a condenacao da devolucao dos valores, concluindo que nao restou demonstrado que a re nao presta servico de esgoto e nem possui estacao de tratamento. A Primeira Secao, no REsp 1.339.313/RJ, julgado sob o rito dos recursos repetitivos, firmou em 2013 o entendimento de que a legislacao atinente a materia enseja a possibilidade de cobranca da tarifa de esgotamento sanitario, ainda que nao haja o cumprimento de todas as etapas do servico. Naquela ocasiao constou, ainda, a inviabilidade de reducao proporcional da tarifa de acordo com as etapas do servico efetivamente prestadas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a cobrança da tarifa de esgotamento sanitário mesmo que não haja o cumprimento de todas as etapas do serviço. 2. A legislação atinente à matéria enseja a possibilidade de cobrança da tarifa de esgotamento sanitário, ainda que não haja o cumprimento de todas as etapas do serviço. 3. É inviável a redução proporcional da tarifa de acordo com as etapas do serviço efetivamente prestadas.

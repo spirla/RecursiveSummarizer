@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Secao deste Superior Tribunal de Justica, diante da utilizacao crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passivel de impugnacao pela via recursal propria, sem olvidar a possibilidade de concessao da ordem, de oficio, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficacia do mandamus, que e o instrumento constitucional mais importante de protecao a liberdade individual do cidadao ameacada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer. 2. Independncias das instncias: a absolvicao criminal so afasta a responsabilidade administrativa e/ou civil quando restar proclamada a inexistncia do fato ou de autoria, considerando a independncia das trs esferas de jurisdicao. 3. No caso concreto, o paciente foi absolvido por ausncia de dolo, que nao exclui a culpa administrativa e/ou civil, devendo o agente ser responsabilizado pela sua conduta ilicita. 4. A independncia mitigada das jurisdicoes permite o apenamento como infracao disciplinar de fato objeto de absolvicao penal, ressalvadas as hipoteses de negativa do fato ou da autoria. (MS 13.134/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SECAO, julgado em 23/09/2015, DJe 02/10/2015). 5. Alem do mais, a anotacao administrativa tambem decorreu do fato de que o paciente tentou fugir do estabelecimento prisional, o que caracteriza, por si so, falta grave, nos termos do artigo 50, II, da Lei de Execucao Penal. Falta grave reconhecida em regular sindicncia administrativa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF e o STJ restringiram a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação por via recursal. A absolvição criminal não afasta a responsabilidade administrativa e/ou civil, pois há independência mitigada das jurisdições. No caso concreto, o paciente foi absolvido por ausência de dolo, mas foi punido com anotação administrativa por tentar fugir do estabelecimento prisional.

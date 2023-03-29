@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nota-se que os referidos precedentes nao fizeram distincao, para fins de constricao judicial, entre o contrato de fianca atrelado a locacao residencial ou nao residencial, surgindo a duvida sobre a incidencia de tal posicionamento nos locaticios comerciais. Nesse passo, em 2018, sobreveio o julgamento, pela Primeira Turma do STF, do RE 605.709/SP que, ao apreciar a alegacao de impenhorabilidade do bem de familia do fiador de contrato de locacao comercial , visualizou distinguishing apto a afastar a incidencia da solidificada jurisprudencia das Cortes Superiores. Naquela oportunidade, a maioria dos Ministros da Primeira Turma do STF decidiu que o bem de familia do fiador, destinado a sua moradia, nao poderia ser sacrificado a pretexto de satisfazer o credito de locador de imovel comercial ou de estimular a livre iniciativa. 84 Conforme se depreende do voto condutor, a adocao de exegese contraria ofenderia o principio da isonomia, pois o fato de eventual bem de familia do locatario/afiancado (na locacao comercial) nao se submeter a penhora configuraria situacao mais gravosa ao fiador (garante), ja que nao haveria a justificativa de promocao do direito fundamental a moradia (do locatario). Destacou-se, ainda, a existencia de instrumentos outros suscetiveis de viabilizar a garantia da satisfacao do credito do locador de imovel comercial, a exemplo da caucao, seguro de fianca locaticia e cessao fiduciaria de quotas de fundos de investimento (art. 37 da Lei n. 8.245/1991). Em conclusao, afirmou-se que admitir a penhora de bem de familia para satisfazer debito decorrente de locacao comercial, em nome da promocao da livre iniciativa, redundaria, no limite, em solapar todo o arcabouco erigido para preservar a dignidade humana em face de dividas .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há distinção, para fins de constrição judicial, entre o contrato de fiança atrelado a locação residencial ou não residencial. 2. O bem de família do fiador, destinado à sua moradia, não pode ser sacrificado para satisfazer o crédito do locador de imóvel comercial. 3. A adoção de exegese contrária ofenderia o princípio da isonomia, pois o fato de eventual bem de família do locatário/afiancado (na locação comercial) não se submeter a penhora configuraria situação mais gravosa ao fiador (garante). 4. Existem instrumentos outros suscetíveis de viabilizar a garantia da satisfação do crédito do locador de imóvel comercial, a exemplo da caução, seguro de fiança locatícia e cessão fiduciária de quotas de fundos de investimento. 5. Admitir a penhora de bem de família para satisfazer dívida decorrente de locação comercial, em nome da promoção da livre iniciativa, redundaria, no limite, em solapar todo o arcabouco erigido para preservar a dignidade humana em face de dívidas.

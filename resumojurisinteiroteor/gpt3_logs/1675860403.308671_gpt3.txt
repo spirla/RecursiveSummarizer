@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Pontuou que, em atendimento ao pedido do Ministrio Pblico, o GAECO constatou divergncias extremamente significativas sobre o lanamento nos autos de informaes erradas quanto aos perfis de WhatsApp dos celulares de Danone, o que, de pronto, j demonstra "a no confiabilidade no precrio trabalho destinado  garantia de validade, influenciando negativamente na possibilidade de comprovao da autoria delitiva, autenticidade e integridade das informaes extradas dos aparelhos celulares e, por conseguinte, na preservao da cadeia de custdia. Falou da falta de percia nos aparelhos celulares, da falta de recibos dos equipamentos, da falta do cdigo de rastreabilidade, da falta da identificao dos recebedores e da falta dos nomes das pessoas que tiveram acesso a eles, sendo certo que os prints" de WhatsApp de uma conversa facilmente editvel no podem constituir prova, sob pena de se desrespeitarem as normas, a doutrina e a jurisprudncia ptrias firmadas nesse sentido. Lembrou que o nome do acusado no consta de qualquer lista de propina das pessoas que recebiam vantagens indevidas da organizao criminosa. Assim, requereu sua absolvio e, subsidiariamente, a aplicao da causa especial de diminuio de pena prevista no 2 do artigo 308 do CPM, em razo de ter agido cedendo a pedido ou por influncia de outrem. Contrarrazes Ministeriais ao apelo defensivo O ilustre promotor de justia, Eneia Xavier Gomes, que atuou no processo junto  4a AJME, enfrentou e rechaou todas as alegaes defensivas, aduzindo, quanto s preliminares, respaldado por consolidados entendimentos jurisprudenciais a respeito das matrias, que no h qualquer nulidade a ser sanada, sobretudo, em razo de ter ocorrido a precluso temporal e consumativa de todos os requerimentos defensivos. Disse que somente seriam cabveis tais postulaes na fase do art. 427 do CPPM ou, ainda, em sede das alegaes finais. Por outro lado, entendeu que no houve prejuzo  defesa, porquanto, nos autos da Medida Cautelar n. 2000404-86.2020.9.13.0004, consta, expressamente, a autorizao para a busca e apreenso na residncia do ru Alexandre, e, no dia 27/05/2021, data em que a defesa requereu acesso ao celular apreendido, a extrao dos dados do aparelho ainda no estava concluda, motivo pelo qual no havia documento juntado aos autos acerca do contedo do equipamento em questo. Lembrou que, aps a extrao dos dados, o celular foi restitudo e foi oportunizada impugnao  defesa; falou que a primeira abertura de vistas ao Ministrio Pblico, na fase do art. 427 do CPPM, ocorreu no feito principal e, nesse sentido, a segunda abertura de vista, decorrente da necessidade de se abordar, individualmente, os fatos relacionados ao ru, no representou qualquer vantagem a mais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público pediu a condenação do acusado, alegando divergências significativas no lançamento de informações erradas nos autos, a falta de perícia nos aparelhos celulares, a falta de recibos dos equipamentos, a falta do código de rastreabilidade, a falta da identificação dos recebedores e a falta dos nomes das pessoas que tiveram acesso a eles. O promotor de Justiça rejeitou as alegações defensivas, afirmando que não houve prejuízo à defesa e que o celular foi devolvido e a impugnação foi oportunizada.

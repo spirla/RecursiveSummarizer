@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1296 Sobre a gravacao audiovisual, alias, e pertinente destacar o recente julgamento pelo Supremo Tribunal Federal dos Embargos de Declaracao na Medida Cautelar da ADPF 635 ( ADPF das Favelas , finalizado em 3/2/2022), oportunidade na qual o Pretorio Excelso - em sua composicao plena e em consonancia com o decidido por este Superior Tribunal no ja citado HC 598.051/SP - reconheceu a imprescindibilidade de tal forma de monitoracao da atividade policial e determinou, entre outros, que o Estado do Rio de Janeiro, no prazo maximo de 180 (cento e oitenta) dias, instale equipamentos de GPS e sistemas de gravacao de audio e video nas viaturas policiais e nas fardas dos agentes de seguranca, com o posterior armazenamento digital dos respectivos arquivos . Dessa forma, em atencao a basilar licao de hermeneutica constitucional segundo a qual excecoes a direitos fundamentais devem ser interpretadas restritivamente, prevalece, quanto ao consentimento, na ausencia de prova adequada em sentido diverso, a versao apresentada pelo morador de que apenas abriu o portao para os policiais perseguirem um suposto autor de crime de roubo. Partindo dessa premissa, isto e, de que a autorizacao foi obtida mediante inducao do acusado a erro pelos policiais militares, nao pode ser considerada valida a apreensao das drogas, porquanto viciada a manifestacao volitiva do paciente. Se, no Direito Civil, que envolve direitos patrimoniais disponiveis, em uma relacao equilibrada entre particulares, a inducao da parte adversa a erro acarreta a invalidade da sua manifestacao por vicio de vontade (art. 145, CC), com muito mais razao deve faze-lo no Direito Penal (lato sensu), que trata de direitos indisponiveis do individuo diante do poderio do Estado, em relacao manifestamente desigual.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Supremo Tribunal Federal reconheceu a imprescindibilidade da gravação audiovisual para monitorar a atividade policial. 2. O Estado do Rio de Janeiro deve instalar equipamentos de GPS e sistemas de gravação de áudio e vídeo nas viaturas policiais e nas fardas dos agentes de segurança, com o posterior armazenamento digital dos respectivos arquivos. 3. Exceções a direitos fundamentais devem ser interpretadas restritivamente. 4. Na ausência de prova adequada em sentido diverso, prevalece a versão apresentada pelo morador de que apenas abriu o portão para os policiais perseguirem um suposto autor de crime de roubo. 5. Se a autorização foi obtida mediante inducao do acusado a erro pelos policiais militares, não pode ser considerada válida a apreensão das drogas, porquanto viciada a manifestação volitiva do paciente. 6. No Direito Penal, a inducao da parte adversa a erro acarreta a invalidade da sua manifestação por vicio de vontade.

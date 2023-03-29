@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A confisso no tem valor de prova plena. O juiz tem o dever de verificar a sua veracidade diante da possibilidade de autoacusao ser falsa. A falsa confisso pode ser motivada por taras mentais, por lucro, por afeto, pelo propsito de livrar-se de outras responsabilidades maiores. Pondera Asencio Melado que a confisso  um meio de prova submetido, como todos os demais,  livre apreciao, segundo as regras da crtica. Ter na confisso uma declarao ou reconhecimento da verdade significaria dar-lhe presuno de verdade. A confisso deve ser corroborada por outros elementos probatrios. Isto porque a experincia ensinou que, em alguns casos, a confisso do acusado pode dever-se a diversas causas, tais como transtornos psquicos, fanatismos, esprito de sacrifcio, lucro, inteno de provocar o desconcerto na investigao processual, como objetivo de dar tempo ao delinquente de se pr a salvo, preparao de libi, desejo de libertar-se de interrogatrio, e tantas causas, que podem significar obstculos para o descobrimento da verdade material. O acusado tem interesse na causa penal. Em rarssimos casos ocorrem confisses. Outro ponto a destacar  a consequncia de a confisso ser retratvel e divisvel, sem prejuzo do livre convencimento do juiz, fundado no exame das provas em conjunto (artigo 309, CPPM). A retratao no anula a confisso, cabendo ao juiz atribuir a ambas o valor que merecerem em face das demais provas. Espnola Filho assinala que  retratao da confisso no plano criminal no se lhe d o carter absoluto que tem na esfera civil e Hlio Tornaghi observa, com toda a sua autoridade, que o juiz forma livremente seu convencimento:
+se a confisso lhe parece eloquente e a retratao no convincente, ele d crdito quela e no a esta;
+se, ao contrrio, a retratao  que o leva  certeza e a confisso se lhe afigura falaz, ele d f  primeira e despreza a outra.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A confisso no tem valor de prova plena e o juiz tem o dever de verificar a sua veracidade. A confisso deve ser corroborada por outros elementos probatrios, pois pode ser motivada por diversas causas. A retratao da confisso no tem o mesmo carter absoluto que tem na esfera civil e o juiz forma livremente seu convencimento.

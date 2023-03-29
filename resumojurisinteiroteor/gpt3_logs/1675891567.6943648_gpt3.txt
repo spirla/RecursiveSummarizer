@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+juiz de Direito da 1a AJME, no mbito de sua competncia, decidiu, in verbis: [.] Em razo do exposto, julgando singularmente o feito quanto s imputaes constantes dos autos, absolvo o 3 denunciado Vanderson Leal, nos termos do artigo 439, alnea e do CPPM. Com relao aos dois primeiros denunciados Evandro Carlos de Matos e Milton Sergio de Oliveira, desclassifico a infrao capitulada no artigo 1 inciso I, alnea c e II da lei 9.455/97, para o delito de leso corporal previsto no artigo 209, do CPM. Fixao da Pena do Evandro Carlos de Matos [.] Considerando as circunstncias judiciais para fixao da pena privativa de liberdade previstas no artigo 69 do CPM, bem como o disposto no artigo 209, do CPM a pena base em 10 (dez) meses de deteno. Na segunda fase de aplicao da pena a pena-base imposta anteriormente fica mantida por no existirem circunstncias agravantes ou atenuantes. Considerando no haver causas especiais de aumento de pena, fica mantida como definitiva a pena fixada anteriormente de 10 (dez) meses de deteno. A pena ser cumprida em regime aberto. Fixao da Pena de Milton Sergio de Oliveira [.] Considerando as circunstncias judiciais para fixao da pena privativa de liberdade previstas no artigo 69 do CPM, bem como o disposto no artigo 209, do CPM a pena base em 10 (dez) meses de deteno. Na segunda fase de aplicao da pena a pena-base imposta anteriormente fica mantida por no existirem circunstncias agravantes ou atenuantes. Considerando no haver causas especiais de aumento de pena, fica mantida como definitiva a pena fixada anteriormente de 10 (dez) meses de deteno. A pena ser cumprida em regime aberto. A audincia para leitura da sentena condenatria acostada ao evento 77 ocorreu no dia 17/12/2021 (evento 86). A defesa do 3 Sargento PM Evandro Carlos de Matos e do Cabo PM Milton Srgio de Oliveira interps recurso de apelao conjuntamente, consoante se depreende no evento 80. Em suas razes recursais, alegou inicialmente que restou caracterizado o instituto abolitio criminis no caso em tela, uma vez que o crime previsto na Lei n. 4.898/65, pelo qual os apelantes foram condenados, foi revogado pela Lei n. 13.869. Disse que o juzo a quo se equivocou ao reconhecer a autoria delitiva, com errnea valorao da prova e, ainda, se omitiu em analisar e reconhecer as excludentes de ilicitude que amparam os apelantes. Relatou que os fatos tiveram incio quando os apelantes constataram a infrao de trnsito cometida pela vtima, tendo essa desobedecido a ordem legal, tentado engarajar e esconder a chave do veculo apreendido, no restando outra alternativa a no ser a sua conduo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito da 1a AJME decidiu absolver o 3 denunciado e desclassificar a infração para o delito de lesão corporal previsto no artigo 209 do CPM. Em relação aos dois primeiros denunciados, foi fixada a pena base de 10 meses de detenção, em regime aberto, sem circunstâncias agravantes ou atenuantes. O recurso interposto pela defesa dos denunciados alegou abolitio criminis e excludentes de ilicitude.

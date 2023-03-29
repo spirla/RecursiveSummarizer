@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 732) PROCESSO REsp 1.961.459-SP, Rel. Min. Laurita Vaz, Sexta Turma, por unanimidade, julgado em 05/04/2022, DJe de 08/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Busca pessoal. Nervosismo do averiguado. Percepcao por parte de agentes publicos. Excesso de subjetivismo. Fundada suspeita. Insuficiencia. DESTAQUE A percepcao de nervosismo do averiguado por parte de agentes publicos e dotada de excesso de subjetivismo e, por isso, nao e suficiente para caracterizar a fundada suspeita para fins de busca pessoal. 1284 O art. 244 do CPP dispoe que [a] busca pessoal independera de mandado, no caso de prisao ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A percepção de nervosismo do averiguado por parte de agentes públicos não é suficiente para caracterizar a fundada suspeita para fins de busca pessoal. 2. O artigo 244 do CPP dispõe que a busca pessoal independe de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.

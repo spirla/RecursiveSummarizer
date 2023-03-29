@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O que significa que aos Estados-membros coube a regulamentao das particularidades locais, ou seja, a disposio dos pormenores que atendem s peculiaridades regionais. Expressamente, a Constituio da Repplica esclarece que a competncia da Unio para legislar sobre normas gerais no exclui a competncia suplementar dos Estados. Nem mesmo a inexistncia de norma geral, de competncia da Unio, impede que o Estado-membro disponha sobre Direito Penitencirio. Novamente, a Constituio  expressa em afirmar que, inexistindo lei federal sobre normas gerais, os Estados exercero a competncia legislativa plena para atender a suas peculiaridades. Nesse caso, a supervenincia de lei federal sobre normas gerais suspende a eficcia da lei estadual, apenas no que lhe for contrria. No caso, no se pode interpretar que a Lei Complementar 79/94 discipline a destinao das multas aplicadas no mbito da Justia Estadual. Em primeiro lugar, porque ela no se refere s condenaes proferidas na Justia Estadual. Depois, porque a interpretao de que a lei complementar refere-se indistintamente s multas aplicadas na Justia Estadual e Federal impe forma centralizada de controle que desrespeita a competncia legislativa concorrente dos Estados-membros para disporem sobre os interesses locais.  o Estado-membro que deve disciplinar como aplicar os recursos provenientes das multas aplicadas em condenaes criminais proferidas no mbito de sua justia. A disciplina estadual deve atender aos princpios gerais estabelecidos na norma federal, mas a competncia legislativa da Unio  restrita  edio de normas gerais. Certamente, determinar a arrecadao dos valores provenientes de multas aplicadas na Justia Estadual e disciplinar sua aplicao no  cabvel no mbito restritivo das normas gerais. Ocorre evidente invaso na esfera da competncia legislativa estadual. Portanto, a nica interpretao constitucionalmente vlida  no sentido de que a multa aplicada no mbito da Justia Federal deva ser destinada ao Fundo Penitencirio Nacional e que as multas aplicadas no mbito da Justia Estadual sejam destinadas ao Fundo Penitencirio Estadual. No havendo Fundo Penitencirio Estadual para receber o valor da multa aplicada na Justia Estadual, em ateno ao disposto no artigo 49 do CP, esse valor no poder ser destinado ao caixa geral do Estado-membro. Nesse caso, subsidiariamente, dever ser destinado ao Fundo Penitencirio Nacional. Uma tal interpretao  perfeitamente compatvel com os termos da LC 79/94.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituição da República estabelece que a competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados. A Lei Complementar 79/94 não se refere à destinação das multas aplicadas na Justiça Estadual, cabendo ao Estado-membro disciplinar como aplicar os recursos provenientes das multas. Se não houver Fundo Penitenciário Estadual, o valor da multa deve ser destinado ao Fundo Penitenciário Nacional.

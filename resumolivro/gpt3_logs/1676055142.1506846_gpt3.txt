@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos termos do artigo 10 da Lei Complementar 105/01, a quebra de sigilo, fora das hipteses autorizadas nesta Lei Complementar, constitui crime e sujeita os responsveis  pena de recluso, de um a quatro anos, e multa. A incriminao para a quebra de sigilo bancrio tambm exige que a informao secreta seja conhecida por, ao menos, a uma pessoa no autorizada a conhec-la. Nesse caso, a incriminao especfica afasta a incidncia da previso incriminadora genrica. Crime comum e crime militar. A violao de segredo profissional ser considerada um crime impropriamente militar quando praticado nas condies previstas no artigo 9 e 10 do Cdigo Penal Militar111. Neste caso, considerando a redao conferida pela Lei 13.491/17 ao inciso II do artigo 9, do CPM, a previso incriminadora do artigo 154 do CP revogou, em razo da sucesso de leis penais no tempo, a previso constante do artigo 229 do CPM. Desta forma, o crime militar de violao de segredo profissional agora encontra previso no artigo 154 do CP, combinado com o inciso II do artigo 9 do CPM. 6.14. Invaso de dispositivo informtico. O crime de invaso de dispositivo informtico foi introduzido no Cdigo Penal por meio da Lei 12.737, de 30 de novembro de 2012, que logo foi apelidada de Lei Carolina Dieckmann em aluso  grande repercusso do vazamento nas redes sociais de fotos ntimas da atriz, obtidas aps o acesso ao contedo de arquivos armazenados em seu computador. O fato pode at ter estimulado a aprovao do Projeto de Lei da Cmara 2.793-C/2011, mas o tema j estava sendo discutido no Congresso Nacional h mais de uma dcada. A previso legal para o crime de invaso de dispositivo informtico encontra-se no artigo 154-A do CP, cuja descrio tpica apresenta a seguinte redao:
+Art. 154-A. Invadir dispositivo informtico alheio, conectado ou no  rede de computadores, mediante violao indevida de mecanismo de segurana e com o fim de obter, adulterar ou destruir dados ou informaes sem autorizao expressa ou tcita do titular do dispositivo ou instalar vulnerabilidades para obter vantagem ilcita:
+- deteno, de 3 (trs) meses a 1 (um)ano, e multa. Pargrafo 1 Na mesma pena incorre quem produz, oferece, distribui, vende ou difunde dispositivo ou programa de computador com o intuito de permitir a prtica da conduta definida no caput. Pargrafo 2 Aumenta-se a pena de um sexto a um tero se da invaso resulta prejuzo econmico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A quebra de sigilo bancário, fora das hipteses autorizadas pela Lei Complementar 105/01, constitui crime e sujeita os responsáveis à pena de reclusão, de um a quatro anos, e multa. O crime de invaso de dispositivo informático foi introduzido no Código Penal por meio da Lei 12.737/2012 e prevê detenção de 3 meses a 1 ano, além de multa. A pena pode ser aumentada se houver prejuízo econômico.

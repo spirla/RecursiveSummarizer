@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Elba Rondino, que, de forma clara, precisa e irretocvel, enfrentou a demanda apresentada pela defesa, como se pode ver a seguir: [...] Em relao ao mrito, a defesa restringiu o seu inconformismo  desclassificao do crime de organizao criminosa para o delito previsto no artigo 288 do Cdigo Penal e, caso mantida a condenao pelo artigo 2, caput,  2 e 4, inciso II, da Lei n. 12.850/2013,  aplicao do princpio da consuno para que este ltimo delito absorva o de corrupo passiva, no contestando as condenaes em si decretadas, uma vez que em nenhum momento pleiteou a absolvio. Sendo, pois, a parte quem delimita o objeto de apreciao recursal, apenas o que foi alegado nas razes  o que dever ser analisado. Contudo, melhor sorte no logra o apelante em sua tese desclassificatria (evento 98 - fls. 07/08), tratando-se de pedido absolutamente aventureiro, haja vista que, de acordo com as provas minuciosamente apresentadas na sentena (evento 61) e nas contrarrazes (evento 104 - fls. 08/15), restou inquestionvel que ele atuou como um dos braos fardados da organizao criminosa denominada Hexagrama, acobertando as atividades ilcitas perpetradas pelo grupo e, mais do que isto, participando ativamente da empreitada criminosa em fomento  explorao de jogos de azar, em troca do recebimento de vantagem econmica indevida, depositada diretamente em sua conta bancria, agindo, portanto, de maneira totalmente contrria  que dele se esperava enquanto policial militar. Por mais que a defesa haja se esforado para afastar os elementos tpicos do crime de organizao criminosa, os quais se encontram taxativamente descritos no artigo 1,  1, da Lei n. 12.850/2013, estes ficaram plenamente caracterizados, primeiro porque diversos crimes, inclusive homicdios, eram praticados pela organizao criminosa, no apenas a contraveno de jogos de azar. Segundo porque, ao integrar o grupo criminoso em questo, alm de incentivar e proteger as atividades de explorao de jogos de azar, o ru Eliezer tambm praticou onze delitos de corrupo passiva, cuja pena mxima cominada  de 8 anos, o que afasta a alegao defensiva de que no foi atendida a exigncia plural do crime de organizao criminosa, que consiste na prtica de delitos cujas penas mximas superem 4 anos de priso (evento 98 - fls. 07). Portanto, ao contrrio do que sustentou a defesa, no se pode afirmar que os policiais militares decidiram integrar a organizao criminosa para praticarem, to somente, a contraveno penal de explorao de jogos de azar, j que, apesar de ser este o objetivo principal da Hexagrama, a contribuio dos agentes pblicos era voltada  proteo de tais atividades, alm de outras de natureza ilcita, e, principalmente,  obteno de vantagem econmica indevida em troca dos servios prestados.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa do ru Eliezer Rondino restringiu seu inconformismo desclassificao do crime de organizao criminosa para o delito previsto no artigo 288 do Cdigo Penal. Entretanto, a parte não conseguiu lograr melhor sorte em sua tese desclassificatria, pois, de acordo com as provas apresentadas, restou inquestionvel que ele atuou como um dos braços fardados da organizao criminosa denominada Hexagrama, acobertando as atividades ilícitas perpetradas pelo grupo e, mais do que isto, participando ativamente da empreitada criminosa em troca do recebimento de vantagem econômica indevida.

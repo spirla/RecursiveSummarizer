@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+113/114, pg. 121 e PEASDIGITALIZADAS15, pg. 1). As partes apresentaram suas alegaes finais escritas. O Ministrio Pblico do Estado de Minas Gerais pugnou pela condenao dos rus nos termos da denncia (Evento 10, PEASDIGITALIZADAS15, pgs. 20/26). A defesa do Cb PM Gensio Machado Alves pugnou pela absolvio do militar com fulcro no art. 439, alnea c, do Cdigo de Processo Penal Militar (CPPM). Subsidiariamente, pugnou pelo reconhecimento da excludente de antijuridicidade prevista no art. 42, III, do CPM (Evento 10 - PEASDIGITALIZADAS15, pgs. 88/111). A defesa de Alex Dayrell Braga Mattar Handan pugnou pela absolvio com fulcro no art. 439, alneas b ou "d, do CPPM, por ter o denunciado agido em estrito cumprimento do dever legal (Evento 10, PEASDIGITALIZADAS15, pgs. 113/118). O meritssimo juiz de direito da 1a Auditoria Judiciria Militar Estadual (AJME), no mbito de sua competncia, decidiu: [...] Aps a anlise da prova dos autos e as alegaes orais das partes, condeno o acusado Cb PM Gensio Machado Alves, pela prtica do delito capitulado no artigo 209, pargrafo 1 do CPM, delito de leso corporal grave e condeno o acusado ex-PM Alex Dayrell Braga Mattar Handan, pela prtica do delito capitulado no artigo 209, do CPM, delito de leso corporal leve. Fixao da pena para o ru Sd PM Gensio Machado Alves. Fixao da pena para o ru Sd PM Gensio Machado Alves [.] Considerando as circunstncias judiciais para fixao da pena privativa de liberdade previstas no artigo 69 do CRM, fixo a pena base em 01 (um) ano e 10 (dez) meses de recluso. Na segunda fase de aplicao da pena a pena-base imposta anteriormente e aumentada de 1/5 em razo da circunstncia agravante contida no artigo 70, inciso II alnea g, notadamente porque o sentenciado agiu com abuso de poder ou violao de dever inerente a cargo, oficio ministrio ou profisso. Considerando no haver causas especiais de aumento ou diminuio de pena, fica mantida como definitiva a pena fixada anteriormente e aumentada de 1/5, perfazendo um total de 02 (dois) anos, 2 (dois) meses e 14 (quatorze) dias de recluso.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público do Estado de Minas Gerais requereu a condenação dos réus de acordo com a denúncia. A defesa do réu Cb PM Gensio Machado Alves requereu a absolvição com base no artigo 439, alínea c, do Código de Processo Penal Militar. A defesa do réu Alex Dayrell Braga Mattar Handan requereu a absolvição com base no artigo 439, alíneas b ou d, do Código de Processo Penal Militar. O juiz de direito da 1ª Auditoria Judiciria Militar Estadual condenou os réus pela prática dos delitos capitulados nos artigos 209, parágrafo 1, do Código Penal Militar. A pena base para o réu Cb PM Gensio Machado Alves foi fixada em 01 ano e 10 meses de reclusão, aumentada de 1/5 em razão da circunstância agravante contida no artigo 70, inciso II alínea g, perfazendo um total de 02 anos, 2 meses e 14 dias de reclusão.

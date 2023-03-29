@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A irresponsabilidade penal tem causa na fora incapacitante de uma doena mental, nunca na de um estado fisiolgico normal. No h como excluir a responsabilidade penal diante de meros distrbios do humor, do comportamento, da funo sensitiva ou da funo autonmica, os quais podem at ser produtos de patologias neurolgicas, se no influrem na conscincia valorativa do indivduo, impedindo seu entendimento sobre a ilicitude do fato, ou a determinao de seus movimentos. Doena  toda alterao do estado de sade produzida por uma causa, externa ou interna, conhecida. O Dicionrio mdico Andrei registra que:
+uma distino ntida entre doena, afeco e entidade mrbida nem sempre est claramente estabelecida e emprega-se com frequncia esses termos como sinnimos. Entretanto, o critrio mais frequentemente invocado para doena  sua causa bem definida, conhecida, nica e sempre a mesma. As doenas mentais conhecidas so muito numerosas, sendo certo que no h concordncia na doutrina para uma classificao. De forma genrica, pode-se considerar doenas mentais as psicoses, neuroses, epilepsias, esquizofrenias e oligofrenias. Para estas ltimas patologias, o Cdigo Penal fez referncia especial: desenvolvimento mental incompleto ou retardado. Quando a doena mental impede o indivduo de alcanar a correta compreenso do significado social da conduta realizada, no se aperfeioa o juzo de reprovao que fundamenta a responsabilidade. A finalidade que orientou a conduta criminosa no se manifestou apesar de o sujeito no possuir a conscincia de que a ordem social considerava a conduta ilcita. Ao contrrio, o doente atuou sem a possibilidade de atingir essa conscincia. Portanto, nesse caso, no pode haver exigibilidade social de conduta diversa. Para o Direito Penal, tambm  importante o efeito incapacitante que a doena mental possa produzir sobre o poder individual de dirigir suas prprias condutas, conforme o entendimento que nelas reconhece a ilicitude. Embora de ocorrncia reconhecidamente extraordinria,  possvel que o indivduo realize determinadas condutas inconscientes e at mesmo contrrias  conscincia. Seja por determinao de instintos ancestrais ou de automatismos adquiridos, se for impossvel ao indivduo determinar seu comportamento conforme a conscincia da ilicitude, no haver reprovao. Note-se que, nos casos em que o indivduo no controla suas aes, no se poder sequer reconhecer a existncia de uma finalidade socialmente reprovvel. 8.9.1.3. Desenvolvimento mental incompleto ou retardado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A irresponsabilidade penal decorre de uma doença mental incapacitante e não de um estado fisiológico normal. Doenças mentais como psicoses, neuroses, epilepsias, esquizofrenias e oligofrenias podem ser consideradas como causa da incapacidade de entender a ilicitude do fato. Quando o indivíduo não possui a consciência da ilicitude da conduta, não há exigibilidade social de conduta diversa.

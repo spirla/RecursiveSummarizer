@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Alegou que o Sargento PM Roberto Evangelista Vargas se tornou inimigo dos apelantes por ter sido punido na esfera administrativa em razo de denncia feita por este e, por essa razo, o depoimento prestado por aquele graduado, em fase inquisitorial, se apresentou inconsistente e tendencioso. Ademais, disse que, no h provas nos autos - fotos, exames mdicos e periciais, acerca das gravssimas leses provocadas pelas agresses perpetradas pelos apelantes (chutes na regio lombar e socos no rosto da vtima Kelson) apontadas na sentena primeva. Nesse sentido, alegou que a doutrina e a jurisprudncia j pacificaram o entendimento de que, a condenao deve ter supedneo em provas concludentes e inequvocas, no sendo possvel condenar algum por presuno. Concluiu que as provas dos autos no caso em tela so frgeis, insubsistentes, contraditrias e obscuras, devendo ser aplicado o princpio do in dbio pro reo. Outrossim, alegou que restou demonstrado que no houve a prtica do crime de tortura, uma vez que os apelantes, alm de no terem cometido qualquer agresso, agiram dentro do estrito cumprimento do dever legal, atuando regularmente no policiamento ostensivo aps receberem informaes da suposta prtica de trfico de drogas por indivduos que tambm dirigiam se habilitao. Enfatizou que por ocasio da priso das supostas vtimas, os apelantes as levaram para exame de corpo de delito no Hospital de Cataguases, tendo sido atendidos pelo mdico plantonista, Dr. Pedro Coutinho Comello, que atestou que os pacientes no apresentaram alterao fsica ao exame clnico. Aduziu que o prprio mdico confirmou, em juzo, o declarado naquele documento. Mencionou que a suposta vtima Felipe Moraes Alves informou que joga bola com um dos policiais envolvido na lide - apelante Renato - h quase um ano, e tambm afirmou que no foi ameaado pelos policias Victor e Renato. Segundo a defesa a fotograma apresentada  fl.30 que segundo a defesa foi tirada no dia seguinte dos fatos,  produto de sua ardil e mentirosa simulao, uma vez que no foi identificado o indivduo ali apresentado e tambm porque a leso ali apresentada se mostra compatvel com a que seria provocada por uma queda de motocicleta aps a fuga empreendida pelas supostas vtimas na data dos fatos. Alegou que os acusados negaram veementemente a denncia, o que foi corroborado pelo depoimento do mdico Pedro Coutinho e tambm pelo exame mdico por ele subscrito. Na hiptese de condenao dos acusados, pugnou a defesa pela desclassificao do delito de tortura para o crime de maus tratos, previsto no art. 136 do Cdigo Penal ou para o de leso corporal simples.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa alegou que não houve provas concludentes e inequívocas nos autos para a condenação dos acusados, bem como que o depoimento prestado pelo Sargento PM se apresentou inconsistente e tendencioso. Além disso, alegou que os acusados negaram veementemente a denúncia, o que foi corroborado pelo depoimento do médico e pelo exame médico por ele subscrito. Por fim, pugnou pela desclassificação do delito de tortura para o crime de maus tratos ou lesão corporal simples.

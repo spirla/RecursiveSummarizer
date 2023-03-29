@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, por unanimidade, julgado em 24/05/2022, DJe 30/05/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL 1206 TEMA Pedido de reconhecimento de nulidade. Oitiva de testemunha sem a presenca do paciente. Nulidade relativa. Ausencia de demonstracao do prejuizo. Preclusao. Vicio so alegado em revisao criminal. Nulidade de algibeira. Impossibilidade. DESTAQUE E inadmissivel a chamada nulidade de algibeira - aquela que, podendo ser sanada pela insurgencia imediata da defesa apos ciencia do vicio, nao e alegada, como estrategia, numa perspectiva de melhor conveniencia futura. Trata-se de discussao em que a defesa tecnica compareceu ao ato de oitiva de testemunha e nao alegou nulidade. Tampouco suscitou a suposta nulidade em fase anterior ao ajuizamento da revisao criminal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inadmissível a chamada nulidade de algibeira, aquela que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada como estratégia, numa perspectiva de melhor conveniência futura. 2. Não é possível alegar nulidade relativa de oitiva de testemunha sem a presença do paciente, sem demonstrar o prejuízo. 3. É precluso o direito de alegar nulidade de oitiva de testemunha sem a presença do paciente, quando não suscitada em fase anterior ao ajuizamento da revisão criminal.

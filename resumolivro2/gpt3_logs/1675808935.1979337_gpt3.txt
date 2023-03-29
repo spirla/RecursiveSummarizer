@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Adverte que as verdades humanas so necessariamente relativas em sentido geral, porque podemos perceber somente mediante os nossos sentidos, os quais tm poder limitado e falvel. Mas isto no impede que, para os fins processuais, deve valer a verdade que resulta acertada mediante os meios dos quais dispomos, porque com o processo se persegue um fim essencialmente prtico e social, e no metafsico. A certeza, assim, se contrape  dvida. Ensina Camargo Aranha que podemos ter como resultado da avaliao das provas o estado de certeza, que acarreta sentena condenatria (certeza da existncia da infrao penal e da autoria) e a sentena absolutria (certeza da inocncia);
+o estado de dvida, que acarreta sentena absolutria (artigo 439, e, CPPM), e subdivide-se em credibilidade (certamente  culpado, mas ainda resta uma dvida crucial, as provas so mais desfavorveis ao ru do que a favor) e probabilidade (tanto pode ser culpado como no, as provas pesam para os dois lados) e improbabilidade (quase tudo indica que no foi ele, mas resta uma pequena dvida de que foi);
+e, por fim, o estado de ignorncia de que surge a sentena absolutria. Quanto aos juzos de possibilidade e de probabilidade, temos a possibilidade no lugar da probabilidade, quando as razes favorveis e contrrias da hiptese so equivalentes. No juzo de possibilidade no h predominncia de qualquer das razes positivas sobre as negativas, ou vice-versa. (...) no juzo de probabilidade h um predomnio das razes positivas sobre as negativas, ou vice-versa. E mais:
+na medida em que o predomnio aumenta, maior a probabilidade. Quando o predomnio das razes positivas vai decrescendo, tendendo a se igualar s razes negativas, a probabilidade diminui. Isso at o ponto em que os juzos entre razes positivas e negativas se igualam, pois a se retorna ao campo da possibilidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O texto aborda a necessidade de se considerar a verdade relativa para fins processuais, pois o objetivo é prático e social. O estado de certeza, dúvida e ignorância são considerados para a sentença condenatória ou absolutória. Os juízos de possibilidade e probabilidade são determinados pela predominância das razões positivas ou negativas.

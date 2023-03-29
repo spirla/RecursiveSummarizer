@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Direito de manutencao do ex-empregado demitido. Plano coletivo patrocinado pela ex-empregadora. Equiparacao a plano empresarial. Modalidade mais favoravel ao consumidor. Aplicabilidade do CDC a especie. Sumula n. 608/STJ. DESTAQUE Assegura-se ao usuario, ex-empregado, o direito de manutencao previsto no art. 30 da Lei n. 9.656/1998, na hipotese de plano coletivo contratado por uma associacao, em beneficio de seus associados, mas custeado parcialmente pela empregadora. A exegese do art. 30 da Lei n. 9.656/1998 nao deixa duvidas acerca da inaplicabilidade do direito de manutencao aos contratos coletivos por adesao, pois o exercicio do referido direito pressupoe um anterior vinculo empregaticio/estatutario, o que nao se confunde com o vinculo associativo, tipico dos planos coletivos por adesao . A moldura fatica da presente controversia apresenta uma forma peculiar de contratacao de plano de saude, em que o plano e contratado por uma associacao de empregados/servidores, mas o orgao empregador, sem se vincular com a operadora, patrocina o plano de saude, subsidiando, por forca de lei municipal, parte da mensalidade devida por seus servidores e empregados. Essa forma peculiar de contratacao de plano de saude nao se enquadra perfeitamente na definicao normativa de plano coletivo por adesao, pois impede que o plano de saude seja classificado como plano coletivo por adesao, nao obstante a formalizacao do contrato nesses termos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Assegura-se ao usuário, ex-empregado, o direito de manutenção previsto no art. 30 da Lei n. 9.656/1998, na hipótese de plano coletivo contratado por uma associação, em benefício de seus associados, mas custeado parcialmente pela empregadora. 2. O exercício do direito de manutenção pressupõe um anterior vínculo empregatício/estatutário, o que não se confunde com o vínculo associativo, típico dos planos coletivos por adesão. 3. A forma peculiar de contratação de plano de saúde não se enquadra na definição normativa de plano coletivo por adesão, pois impede que o plano de saúde seja classificado como plano coletivo por adesão, não obstante a formalização do contrato nesses termos.

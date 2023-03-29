@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Quando o sujeito realiza, objetiva e subjetivamente, a conduta descrita no tipo penal incriminador, viola a norma jurdica que lhe  subjacente. Pode-se dizer que atua de forma antinormativa. No entanto, em situaes excepcionais, a leso ao bem jurdico pode ser justificada e a conduta violadora da norma no adquire a qualidade de ilcita. Antijuridicidade e ilicitude so expresses utilizadas como sinnimas para identificar o elemento do conceito analtico de crime que representa a contrariedade de determinada conduta com o ordenamento jurdico em vigor. Esse elemento foi tradicionalmente identificado sob a denominao antijuridicidade. Contudo, pode-se perceber que essa denominao no  a mais adequada. O crime  um fato jurdico e seria contraditrio reconhecer nele uma antijuridicidade. A impropriedade da expresso mostra-se ainda mais evidente quando percebemos que as causas de justificao para a violao da norma jurdica caracterizariam uma anti-antijuridicidade. Sem dvidas, sendo o crime pertencente ao gnero dos fatos jurdicos,  melhor perceb-lo como um comportamento ilcito. A expresso ilicitude apresenta-se como mais apropriada para identificar a qualidade da conduta punvel, a qual passaremos a analisar. Vale observar que tal expresso foi acolhida pela reforma do Cdigo Penal comum de 1984, que, nas indicaes aos artigos 21 e 23, registram, respectivamente, erro sobre a ilicitude do fato e excluso da ilicitude. No entanto, muitos autores preferem utilizar a expresso antijuridicidade, que se tornou tradicional. Nas palavras de Welzel, a antijuridicidade  a contradio existente entre a realizao do tipo de uma norma proibitiva e o ordenamento jurdico como um todo. Nesse sentido, cabe observar que ilicitude  uma caracterstica da conduta punvel, que consiste em sua contradio com a totalidade da ordem jurdica. A tipicidade significa somente a contrariedade da conduta com a norma proibitiva, que  subjacente ao tipo. A ilicitude, por sua vez, significa a contrariedade da conduta com a ordem jurdica total, na qual se harmonizam normas proibitivas e preceitos permissivos. A atividade valorativa que se realiza sobre o injusto penal no se esgota na verificao da tipicidade do fato. Como leciona Wessels,. o juzo de desvalor definitivo da ordem jurdica sobre o fato concreto no se pronuncia assim imediatamente com a determinao da tipicidade, mas to s com a afirmao da antijuridicidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conceito analítico de crime é composto por elementos, sendo um deles a ilicitude, que significa a contrariedade da conduta com a ordem jurdica total. O juízo de desvalor definitivo da ordem jurdica sobre o fato concreto sé pronuncia com a afirmação da ilicitude.

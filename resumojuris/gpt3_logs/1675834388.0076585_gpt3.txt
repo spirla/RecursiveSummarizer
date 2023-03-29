@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por outro lado, descabe falar em exigencia desmotivada, pois, de acordo com a Uniao, a restricao a habilitacao de empreendimentos termeletricos cujo custo variavel unitario (CVU) seja superior a R$ 600,00/MWh atende a compromissos ambientais internacionais assumidos pelo Pais e busca garantir a confiabilidade do suprimento de energia eletrica a minimo custo, incorporando ainda limites para emissoes de gases de efeito estufa e novas tecnologias , conforme a Politica Nacional sobre Mudanca do Clima (PNMC), instituida pela Lei n. 12.187/2009 e regulamentada pelo Decreto n. 9.578/2018, no escopo de substituir combustiveis com maiores fatores de emissao por outros com menor emissao, o que resulta em aumento da eficiencia energetica e em crescente insercao de fontes renovaveis. Vale ressaltar que a exigencia em questao acha-se fundada no art. 1 da Lei n. 9.478/1997, que estabelece, entre os objetivos da politica energetica nacional, a protecao dos interesses do consumidor e a protecao do meio ambiente, bem como nas disposicoes da Lei n. 12.187/2009, que instituiu a Politica Nacional sobre Mudanca do Clima (PNMC), na busca por garantir que o desenvolvimento economico e social contribua para a protecao do sistema climatico global. O Decreto n. 9.578/2018, que atualmente regulamenta a PNMC, definiu os Planos Decenais de Expansao de Energia (PDEs) como um dos planos setoriais de mitigacao e de adaptacao as mudancas climaticas (art. 17, III), cuja efetivacao ocorre por meio da expansao da oferta hidreletrica, da oferta de fontes alternativas renovaveis, da oferta de biocombustiveis e do incremento da eficiencia energetica (art. 19, III).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A restrição à habilitação de empreendimentos termelétricos cujo custo variável unitário (CVU) seja superior a R$ 600,00/MWh atende a compromissos ambientais internacionais assumidos pelo País e busca garantir a confiabilidade do suprimento de energia elétrica a mínimo custo. 2. A exigência em questão está fundada no art. 1 da Lei n. 9.478/1997, que estabelece, entre os objetivos da política energética nacional, a proteção dos interesses do consumidor e a proteção do meio ambiente. 3. A Lei n. 12.187/2009 instituiu a Política Nacional sobre Mudança do Clima (PNMC), na busca por garantir que o desenvolvimento econômico e social contribua para a proteção do sistema climático global. 4. O Decreto n. 9.578/2018, que regulamenta a PNMC, definiu os Planos Decenais de Expansão de Energia (PDEs) como um dos planos setoriais de mitigação e de adaptação às mudanças climáticas.

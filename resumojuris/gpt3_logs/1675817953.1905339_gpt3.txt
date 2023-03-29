@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+148 da CF/88; bem como cria endividamento fora das hipoteses de divida publica permitidas pela Constituicao. Com base nesses entendimentos, o Plenario, por unanimidade, julgou procedente a acao para declarar a inconstitucionalidade da Lei 12.305/2002 do Estado de Pernambuco, alterada pela Lei estadual 12.337/2003, atribuindo a decisao efeitos ex nunc a contar da data da publicacao da ata do julgamento. ADI 6660/PE, relatora Ministra Rosa Weber, julgamento virtual finalizado em 20.6.2022 (segunda-feira), as 23:59 (INF 1060) Lei federal e reajuste da previdencia social nos estados e no Distrito Federal de forma si-multanea com o regime geral - ADI 4582/DF Resumo: E formalmente inconstitucional lei federal que determina a todos os entes federados mantenedo-res de regimes proprios da previdencia social a realizacao de reajustes, na mesma data e indice em que se der o reacerto dos beneficios do regime geral, excetuados os beneficiados pela garantia da paridade. Com efeito, o art. 15 da Lei 10.887/2004 fere a autonomia administrativa e financeira dos entes fede-rados, que se caracteriza pela denominada triplice capacidade de auto-organizacao e normatizacao propria, autogoverno e autoadministracao. De fato, nos termos da CF/88, art. 24, XII e  1, a regencia federal deve ficar restrita ao estabeleci-mento de normas gerais, que nao alcancam a revisao dos proventos. Entretanto, nao ha inconstitucionalidade no objeto, caso se considere a lei dirigida unicamente a Uni-ao, havendo, assim, uma vinculacao entre o RGPS e o regime proprio de previdencia social em nivel federal. Com base nesse entendimento, o Plenario, por unanimidade, conheceu da acao direta de inconstitucio-nalidade e, no merito, julgou-a procedente para fins de conferir interpretacao conforme a Constituicao ao art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente inconstitucional lei federal que determina a todos os entes federados mantenedores de regimes próprios da previdência social a realização de reajustes, na mesma data e índice em que se der o reajuste dos benefícios do regime geral, excetuados os beneficiados pela garantia da paridade. 2. O artigo 15 da Lei 10.887/2004 fere a autonomia administrativa e financeira dos entes federados, que se caracteriza pela denominada triplice capacidade de auto-organização e normatização própria, autogoverno e autoadministração. 3. Não há inconstitucionalidade no objeto, caso se considere a lei dirigida unicamente à União, havendo, assim, uma vinculação entre o RGPS e o regime próprio de previdência social em nível federal.

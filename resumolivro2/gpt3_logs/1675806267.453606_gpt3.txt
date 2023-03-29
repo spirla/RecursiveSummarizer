@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A ttulo de exemplo, o STF firmou que em crimes de roubo e extorso mediante sequestro, praticados por militar estadual contra civil (artigos 242, pargrafo 2, II, e 244, pargrafo 1, CPM), a competncia passou a ser do juiz singular. Essa competncia constitucional no pode ser modificada. J anotamos que em caso de denncia que imputa crimes conexos de competncia do juiz de direito e do Conselho Permanente de Justia, deve haver separao dos processos (artigo 106, c, do CPPM). Compete ao jri processar e julgar o militar do Estado acusado de crime doloso contra a vida de civil, mas na hiptese de desclassificao do crime doloso contra a vida para leso corporal pelo prprio tribunal do jri, ao invs de o juiz-presidente proferir a sentena (CPP, artigo 74, pargrafo 3 e artigo 492, pargrafo 2), dever encaminhar os autos  Justia Militar. 8.3.4. Competncia dos Conselhos de Justia. A competncia dos Conselhos de Justia  prevista em lei de organizao judiciria militar dos entes federativos. Compete ao Conselho Permanente de Justia processar e julgar crime militar em que so acusadas praas - de soldado a subtenente - da Polcia Militar e do Corpo de Bombeiros. Os oficiais do Conselho Permanente de Justia so convocados para funcionar por trs meses consecutivos, em processos ainda em andamento e ou prontos para julgamento. O Conselho Especial de Justia tem competncia para processar e julgar crime militar em que so acusados oficiais, cujos postos vo de segundo-tenente a coronel, e praas acusadas de coautoria ou participao ou nos crimes conexos. A reunio do processo em caso de conexo ou continncia determina a competncia do Conselho Especial de Justia em razo do princpio da hierarquia militar. O oficial integrante do Conselho de Justia deve ser de posto e patente superior ao posto do ru que julga ou, no caso de ser do mesmo posto, mais antigo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF decidiu que em crimes de roubo e extorso mediante sequestro cometidos por militares estaduais contra civis, a competência é do juiz singular. O Conselho Permanente de Justia tem competência para processar e julgar crimes militares cometidos por praças de soldado a subtenente e o Conselho Especial de Justia para oficiais de segundo-tenente a coronel e praças acusadas de coautoria ou participação. O oficial do Conselho de Justia deve ser de posto e patente superior ao do réu.

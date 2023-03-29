@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Todavia, h precedente em sentido contrrio a esse entendimento doutrinrio. O STJ negou a ordem de habeas corpus impetrado com alegao de suspeio do magistrado, que autorizou cautelares de busca e apreenso no curso das investigaes:
+1. O simples fato de o magistrado haver autorizado medidas cautelares anteriormente  instaurao da ao penal no caracteriza interesse na questo discutida no feito, a ensejar o reconhecimento de suspeio.. O prprio Cdigo de Processo Penal, no artigo 83, estabelece a preveno do juzo que houver praticado alguma medida relativa ao processo, ainda que anterior  propositura da ao penal.. Assim, no h que se falar em suspeio da autoridade judiciria no feito em questo, pois a autorizao de medidas cautelares de busca e apreenso no curso das investigaes no implica atuao de modo parcial, tampouco prejulgamento da causa. Despachos e atos no decisrios no so causas de impedimento, que por no ingressarem no mrito da causa no comprometem a imparcialidade do juiz. O juiz que recebeu a denncia no fica impedido de julgar o processo em segundo grau. Discordando desse entendimento doutrinrio, Gustavo Badar sustenta que o juiz perde a imparcialidade posto que o recebimento da denncia  deciso, em que se analisa a viabilidade da ao penal, visando s condies da ao e os pressupostos processuais. O recebimento da denncia, embora tenha carga decisria, no adentra o mrito da procedncia ou improcedncia da imputao verificvel ao fim da instruo criminal, o que no compromete a imparcialidade do julgador. A quarta causa de impedimento do juiz de exercer jurisdio no processo ocorre quando ele prprio ou seu cnjuge, ou parente consanguneo ou afim, at o terceiro grau inclusive, for parte ou diretamente interessado (alnea d). O juiz fica impedido de julgar a causa quando houver seu interesse no resultado da causa criminal. No  possvel exigir imparcialidade do juiz se sua deciso vai influir nos seus interesses, do seu cnjuge ou parente prximo..
+9.2.5. Causas de suspeio. A suspeio deriva de causa de natureza pessoal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ negou a ordem de habeas corpus impetrado com alegação de suspeita do magistrado que autorizou medidas cautelares de busca e apreensão no curso das investigações. O Código de Processo Penal prevê a prevenção do juízo que praticou alguma medida relativa ao processo, ainda que anterior à propositura da ação penal. O recebimento da denúncia, embora tenha carga decisória, não adentra o mérito da procedência ou improcedência da imputação. O juiz fica impedido de julgar a causa quando houver seu interesse no resultado da causa criminal. A suspeita deriva de causa de natureza pessoal.

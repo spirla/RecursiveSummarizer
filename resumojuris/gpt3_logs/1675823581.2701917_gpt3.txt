@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Uma vez atendidos os requisitos previstos no art. 36-A, paragrafo unico, da Lei 6.766/1979, com a redacao dada pela Lei 13.465/2017, os atos constitutivos da administradora de imoveis vinculam tanto os ja titulares de direitos sobre lotes que anuiram com a sua constituicao quanto os novos adquirentes de imoveis em loteamentos como decorrencia da publicidade conferida a obrigacao averbada no registro do imovel. Cabe ressaltar que a Lei 13.465/2017 representa marco temporal em ambito nacional para a definicao da responsabilidade de cotizacao pelos titulares de direitos sobre lotes. Todavia, importa considerar a possibilidade de que eventuais leis locais ja definissem obrigacao semelhante, dentro da normatizacao nelas tracadas, uma vez que os municipios possuem competencia concorrente para legislar sobre uso, parcelamento e ocupacao do solo urbano. Desse modo, a par de se atender ao principio da legalidade, ja que a obrigacao de contribuicao encontrara embasamento na lei, se atende, em maxima amplitude, ao proposito de valorizacao dos esforcos comuns para a promocao dos interesses da coletividade existente no loteamento regular. Com esses fundamentos, o Plenario, por maioria, apreciando o Tema 492 da repercussao geral, deu provimento ao recurso extraordinario. Vencidos os Ministros Edson Fachin, Ricardo Lewandowski, Rosa Weber, Roberto Barroso e Gilmar Mendes, que negavam provimento ao recurso. O Ministro Marco Aurelio deu provimento ao recurso e fixou tese nos termos de seu voto. RE 695911/SP, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os atos constitutivos da administradora de imóveis vinculam tanto os já titulares de direitos sobre lotes que anuíram com a sua constituição quanto os novos adquirentes de imóveis em loteamentos como decorrência da publicidade conferida a obrigação averbada no registro do imóvel. 2. A Lei 13.465/2017 representa marco temporal em âmbito nacional para a definição da responsabilidade de cotização pelos titulares de direitos sobre lotes. 3. Os municípios possuem competência concorrente para legislar sobre uso, parcelamento e ocupação do solo urbano. 4. A obrigação de contribuição encontrará embasamento na lei, atendendo ao princípio da legalidade e ao propósito de valorização dos esforços comuns para a promoção dos interesses da coletividade existente no loteamento regular. 5. O Plenário, por maioria, deu provimento ao recurso extraordinário.

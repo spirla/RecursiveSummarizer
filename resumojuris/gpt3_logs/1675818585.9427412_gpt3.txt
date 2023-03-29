@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Essa circunstancia e capaz de minar a democracia interna, pois apta a acarretar a falta de autenticidade dos partidos politicos, culminando em serios reflexos na legitimidade do sistema politico. Ademais, o Supremo Tribunal Federal nao pode, sob pena de atuar como legislador positivo, estabele-cer um unico prazo, aplicavel indistintamente a todas as agremiacoes e em todos os cenarios. Cabe a Justica Eleitoral analisar, na apreciacao do registro dos estatutos ou quando trazida a questao em casos concretos, a constitucionalidade e legalidade do prazo de vigencia dos orgaos provisorios dos partidos politicos. Nesse contexto, o Tribunal, especificamente quanto a essa parte na qual reconhece a inconstitucionali-dade da norma, modulou os seus efeitos exclusivamente a partir de janeiro de 2023, prazo posterior ao encer-ramento do presente ciclo eleitoral, apos o qual o TSE podera analisar a compatibilidade dos estatutos com o que ora decidido. E constitucional a previsao de concessao de anistia as cobrancas, devolucoes ou transferencias ao Tesouro Nacional que tenham como causa as doacoes ou contribuicoes feitas em anos anteriores por ser-vidores publicos que exercam funcao ou cargo publico de livre nomeacao e exoneracao, desde que filiados a partido politico. A pecunia a ser anistiada (Lei 9.096/1995, art. 55-D) e de cunho eleitoral e nao ostenta carater de tri-buto, razao pela qual nao compoe o orcamento publico, afastando-se do campo de abrangencia do art. 113 do ADCT  cujo objeto de protecao e a receita de carater fiscal. Assim, e desnecessaria a previa estimativa acerca de impacto financeiro e orcamentario por parte das proposicoes legislativas que prevejam a renuncia de seus recursos financeiros. Com base nesses entendimentos, o Plenario, por unanimidade, julgou parcialmente procedente a acao e modulou os efeitos da decisao no trecho em que reconhece a inconstitucionalidade da norma.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional estabelecer um único prazo aplicável indistintamente a todas as agremiações e em todos os cenários. 2. Cabe à Justiça Eleitoral analisar a constitucionalidade e legalidade do prazo de vigência dos órgãos provisórios dos partidos políticos. 3. É constitucional a previsão de concessão de anistia às cobranças, devoluções ou transferências ao Tesouro Nacional que tenham como causa as doações ou contribuições feitas em anos anteriores por servidores públicos que exerçam função ou cargo público de livre nomeação e exoneração, desde que filiados a partido político. 4. Não é necessária a previa estimativa acerca de impacto financeiro e orçamentário por parte das proposições legislativas que prevejam a renúncia de seus recursos financeiros.

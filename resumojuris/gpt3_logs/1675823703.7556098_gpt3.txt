@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade do art. 101, IX, da Lei Complementar 291/2014 do Estado do Acre. ADI 6845/AC, relatora Min. Carmen Lucia, julgamento virtual finalizado em 22.10.2021 (sexta-feira), as 23:59 (INF 1035) Ministerio Publico junto ao Tribunal de Contas e iniciativa legislativa  ADI 3804/AL Resumo: O Ministerio Publico junto ao Tribunal de Contas encontra-se estritamente vinculado a estrutura da Corte de Contas e nao detem autonomia juridica e iniciativa legislativa para as leis que definem sua estrutura organizacional. Por integrar a organizacao administrativa do Tribunal de Contas, a CF/88 (CF) nao concedeu ao orgao Ministerio Publico especial as garantias institucionais de autonomia administrativa e orcamentaria, nem a iniciativa legislativa para as regras concernentes a criacao e a extincao de seus cargos e servicos auxiliares, a politica remuneratoria de seus membros, aos seus planos de carreira e, especialmente, a sua organizacao e ao seu funcionamento. E inconstitucional a exigencia de lei complementar para regular a organizacao do Ministerio Publico especial. O dominio normativo da lei complementar somente e exigido para determinadas materias que a CF, expressamente, determina. Desse modo, a lei complementar nao e instrumento normativo adequado para a fixacao de regras concernentes a organizacao do Ministerio Publico especial junto ao Tribunal de Contas da Uniao. A Constituicao nao autoriza a equiparacao de vencimentos e vantagens entre membros do Ministerio Publico especial e membros do Ministerio Publico comum. As unicas prescricoes do Ministerio Publico comum aplicaveis ao Parquet que atua junto ao Tribunal de Contas sao aquelas que concernem, estritamente, aos direitos (art. 128,  5, I, da CF), as vedacoes (art. 128,  5, II, da CF) e a forma de investidura na carreira (art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Ministério Público junto ao Tribunal de Contas não detém autonomia jurídica e iniciativa legislativa para as leis que definem sua estrutura organizacional. 2. É inconstitucional a exigência de lei complementar para regular a organização do Ministério Público especial junto ao Tribunal de Contas da União. 3. A Constituição não autoriza a equiparação de vencimentos e vantagens entre membros do Ministério Público especial e membros do Ministério Público comum.

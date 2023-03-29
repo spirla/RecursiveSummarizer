@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Considerando a inexistncia de causas de aumento, bem como considerando a inexistncia de causas de diminuio, o Juzo Singular torna a pena-definitiva em 01 (um) ano e 07 (sete) meses de deteno, a ser cumprida em regime aberto [...] DOSIMETRIA DA PENA CORRESPONDENTE  VIOLNCIA - ART.209, do Cdigo Penal Militar. O Juzo Singular aplica ao acusado a pena-base acima do mnimo legal em 08 (oito) meses de deteno. Considerando a inexistncia de atenuantes, mas considerando a agravante do art. 70, II, "g", com violao de dever de zelar pelo cumprimento da lei e de atender s formalidades legais, "l, estando de servio, ambos do CPM, o Juzo Singular agrava a pena em 01 (um) ms, aplicando ao acusado a pena-provisria de 09 (nove) meses de deteno. Considerando a inexistncia de causas de aumento, bem como considerando a inexistncia de causas de diminuio, o Juzo Singular torna a pena-definitiva em 09 (nove) meses de deteno, a ser cumprida em regime aberto, [...] Por no atender s condies objetivas e subjetivas relativas  suspenso condicional da execuo da pena, ante a soma das penas, no concedo ao sentenciado o referido benefcio. Terceira Dosimetria da Pena referente ao policial militar, Jos Ribeiro Neto DOSIMETRIA DA PENA DO CRIME PREVISTO NO ART. 222,  1 e 2, do Cdigo Penal Militar. [...] O Juzo Singular aplica ao acusado a pena-base acima do mnimo legal em 01 (um) ano e 08 (oito) meses de deteno. Considerando a inexistncia de atenuantes, mas considerando a agravante do art. 70, II, "g", com violao de dever de zelar pelo cumprimento da lei e de atender s formalidades legais, l, estando de servio, ambos do CPM, o Juzo Singular agrava a pena em 01 (um) ms, aplicando ao acusado a pena-provisria de 01 (um) ano e 09 (nove) meses de deteno. Considerando a inexistncia de causas de aumento, bem como considerando a inexistncia de causas de diminuio, o Juzo Singular torna a pena-definitiva em 01 (um) ano e 09 (nove) meses de deteno, a ser cumprida em regime aberto, [...] DOSIMETRIA DA PENA CORRESPONDENTE  VIOLNCIA - ART.209, do Cdigo Penal Militar O Juzo Singular aplica ao acusado a pena-base acima do mnimo legal em 08 (oito) meses de deteno. Considerando a inexistncia de atenuantes, mas considerando a agravante do art. 70, II, "g", com violao de dever de zelar pelo cumprimento da lei e de atender s formalidades legais, l, estando de servio, ambos do CPM, o Juzo Singular agrava a pena em 01 (um) ms, aplicando ao acusado a pena-provisria de 09 (nove) meses de deteno.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juzo Singular aplicou ao acusado uma pena-base acima do mínimo legal de 01 (um) ano e 09 (nove) meses de detenção, a ser cumprida em regime aberto, considerando a inexistência de atenuantes e a agravante do art. 70, II, "g" do Código Penal Militar.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A pergunta que se faz e: o principio do in dubio pro reo impoe o arquivamento da comunicacao disciplinar quando se tem apenas a versao do comunicante se contrapondo a negativa de autoria do comunicado? A situacao acima narrada, por si so, nao impoe o arquivamento do processo. Veja bem, se de um lado a vedacao a utilizacao da verdade sabida impede a aplicacao de sancao disciplinar ao militar sob o argumento de que, como ele nao provou sua inocncia, presume-se como verdade o fato noticiado na comunicacao disciplinar, de outro lado, tem-se que existem meios de prova passiveis de producao e que podem conduzir a uma decisao sancionatoria devidamente motivada. Primeiramente, alerta-se que o envolvimento do militar comunicante nos fatos e na condicao de testemunha compromissada nos termos da lei e que pode, perfeitamente, ser inquirida nos autos do processo disciplinar para melhor esclarecer como se deram os fatos por ela noticiados. Nesse sentido ja decidiu o TJM-MG:
+APELACAO CIVEL - PUNICAO POR REFERIR-SE DE MODO DEPRECIATIVO A OUTRO MILITAR, A AUTORIDADE E A ATO DA ADMINISTRACAO PUBLICA - O MILITAR QUE COMUNICA A INFRACAO DISCIPLINAR PARA A ADMINISTRACAO MILITAR NAO E IMPEDIDO DE SER OUVIDO NA CONDICAO DE TESTEMUNHA - ALEGACAO DE ATIVACAO ILEGAL DA PUNICAO - APENAS O PRIMEIRO RECURSO ADMINISTRATIVO POSSUI EFEITO SUSPENSIVO - COMPROVACAO DA PRATICA DA TRANSGRESSAO DISCIPLINAR - RECURSO DESPROVIDO. (TJM-MG: Apelacao Civel - Processo eproc n. 2000005-54.2020.9.13.0005; Relator: Desembargador Fernando Galvao da Rocha; Julgamento - unnime: 04/05/2021. EPROC: 03/06/2021). Trata-se, sobretudo, de um testemunho com presuncao de idoneidade moral e aqui fazemos um paralelo com o processo penal, para o qual o militar que atuou na ocorrncia policial e confeccionou o boletim de ocorrncia (que e noticia de crime para o processo penal da mesma forma que a comunicacao disciplinar e noticia de transgressao para o processo administrativo), sera ouvido nessa condicao, conforme se extrai da jurisprudncia do TJMG:
+APELACAO CRIMINAL - TRAFICO DE DROGAS ILICITAS - AUTORIA E MATERIALIDADE COMPROVADAS - DEPOIMENTO DE AGENTES POLICIAIS - CREDIBILIDADE - CONDENACAO QUE SE IMPOE. (...). 03.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio do in dubio pro reo não impede a aplicação de sanção disciplinar ao militar, pois existem meios de prova que podem conduzir a uma decisão sancionatória. O militar comunicante pode ser ouvido como testemunha compromissada nos autos do processo disciplinar. A jurisprudência do TJMG também aponta que o depoimento de agentes policiais é credível e a condenação se impõe.

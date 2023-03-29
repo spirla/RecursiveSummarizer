@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A queixa dever ser oferecida em juzo no prazo estabelecido pela lei. Se o ofendido desejar apurar os fatos mediante a instaurao de inqurito policial, poder solicitar sua abertura perante a autoridade policial. Contudo, tal requerimento no interrompe o curso do prazo decadencial. Encerradas ou no as investigaes, ter que ingressar em juzo com sua queixa, sob pena de decadncia. A iniciativa privada tambm  admissvel quando o representante do Ministrio Pblico deixa de oferecer a denncia no prazo legal. A Constituio Federal, no artigo 5, LIX, expressamente dispe que ser admitida ao privada nos crimes de ao pblica, se esta no for intentada no prazo legal. Na legislao infraconstitucional, o artigo 29 do CPP dispe que:
+Art. 29. Ser admitida ao privada nos crimes de ao pblica, se esta no for intentada no prazo legal, cabendo ao Ministrio Pblico aditar a queixa, repudi-la e oferecer denncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligncia do querelante, retomar a ao como parte principal. No mesmo sentido dispe o pargrafo 3 do artigo 100 do CP. Trata-se da ao privada subsidiria da pblica, que se fundamenta no interesse pblico de que o fato seja submetido  apreciao do Poder Judicirio. O exerccio do direito de ao, em sede penal, constitui funo institucional do Ministrio Pblico. Se o Ministrio Pblico, encarregado de promover a ao penal, descuidar do interesse pblico, o particular poder submeter o caso ao Poder Judicirio, pedindo a condenao do responsvel. O prazo para o oferecimento da denncia, estando o ru preso,  de 5 (cinco) dias, contado da data em que o rgo do Ministrio Pblico receber os autos do inqurito policial, e de 15 (quinze) dias, se o ru estiver solto. No ltimo caso, se houver devoluo do inqurito  autoridade policial, contar-se- o prazo da data em que o rgo do Ministrio Pblico receber novamente os autos (artigo 46 do CPP). No caso de arquivamento do inqurito, no  admissvel a ao privada subsidiria (STF - Inq 2242 AgR).  que, se o Ministrio Pblico requereu o arquivamento do inqurito policial no prazo legal, no houve inrcia processual do rgo acusador que justifique a interveno do particular. Se o pedido de arquivamento for rejeitado, no entanto, admite-se a iniciativa da parte ofendida quanto  propositura da ao penal privada subsidiria.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O ofendido pode oferecer queixa em juízo no prazo estabelecido pela lei ou requerer a abertura de inquérito policial. Se o Ministério Público não oferecer a denúncia no prazo legal, é admitida ação privada subsidiária. O prazo para o oferecimento da denúncia é de 5 dias, se o réu estiver preso, e 15 dias, se estiver solto. Se o Ministério Público requerer o arquivamento do inquérito no prazo legal, não há inércia processual para justificar a intervenção do particular.

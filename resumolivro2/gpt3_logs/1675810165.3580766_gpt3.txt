@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O e-mail  um documento eletrnico pblico ou particular? Depende da origem, conforme sustenta Gustavo Badar, ser pblico se emitido por funcionrio pblico no exerccio de suas funes. Entre os documentos eletrnicos, assume importncia o e-mail, dada a sua utilizao na comunicao pela internet e o meio de realizao ou de prova de crimes militares (por exemplo, crime de ameaa). A autenticidade de quem envia ou armazena a mensagem  fundamental. O documento certificado pelo ICP-Brasil presume-se autntico. O documento certificado por outro meio de comprovao de autoria e integridade ser considerado autntico e ntegro desde que admitido pelas partes como vlido ou aceito pela pessoa a que for oposto os documentos, isto , os documentos eletrnicos certificados por outro rgo que no seja o ICP-Brasil seguem o mesmo regime do CPP para os documentos particulares. A base fsica eletrnica permite o documento eletrnico ser alterado. Se na instruo criminal houver impugnaes,  indispensvel a realizao de percia tcnica a fim de comprovar a autenticidade e veracidade ou autoria e destinatrio. Quanto  autenticidade explica Augusto Tavares Rosa Marcacini que o documento eletrnico  a sequncia de bits e, onde quer que esteja gravado, em qualquer quantidade de cpias, mas desde que seja reproduzida exatamente a mesma sequncia, teremos sempre o mesmo documento. Dado o fato de que o documento eletrnico pode ser copiado infinitas vezes, mantendo-se exatamente igual  matriz,  impossvel falar-se em original, em cpia, ou em nmero de vias do documento eletrnico. Toda cpia do documento eletrnico ter sempre as mesmas caractersticas do original e, por isso, deve ser assim considerada.  o caso at de dizermos que no existe um original e no existem cpias nem vias do documento eletrnico, enquanto ele for mantido nesta forma.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O e-mail pode ser considerado um documento eletrônico público ou particular, dependendo da origem. Sua autenticidade é fundamental para a realização ou prova de crimes militares. O documento certificado pelo ICP-Brasil é considerado autêntico, assim como os certificados por outros meios de comprovação. A base eletrônica permite a alteração do documento, sendo necessária a realização de perícia técnica para comprovar a autenticidade e veracidade. Toda cópia do documento eletrônico terá as mesmas características do original, não existindo original ou cópias.

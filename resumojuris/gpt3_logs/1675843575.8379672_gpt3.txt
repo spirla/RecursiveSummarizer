@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por sua vez, no paragrafo 2, tambem da Lei n. 8.313/1991, equipara-se a conduta prevista no caput do art. 40 aquela de que quem se beneficia com os recursos oriundos da reducao de imposto de renda (por meio da renuncia fiscal) e deixa de promover, sem justa causa, a atividade cultural objeto do incentivo. Sob essa otica, o tipo penal previsto no art. 40 da Lei n. 8.313/1991 deve ser considerado especial em relacao ao estelionato porque tem elementos da descricao geral com alguns outros elementos especializantes (especificos). A relacao de especialidade ocorre quando um preceito penal reune todos os elementos de outro e so se diferencia dele por conter, ao menos, um elemento adicional que permita antever a previsao fatica de um ponto de vista especifico. Assim, uma vez aparentemente aplicaveis ao mesmo fato uma norma geral (genero) e outra norma especial (especie), deve prevalecer a que contenha esses elementos especializantes, que melhor identificam o caso concreto. Na hipotese, por mais que se afirme que os atos se amoldam ao crime de estelionato majorado porque praticados contra a Uniao, toda a descricao fatica retrata que as fraudes foram cometidas por beneficiarios da Lei Rouanet com a reducao do imposto de renda, situacao que acaba por se adequar perfeitamente ao tipo especial previsto no art. 40 da Lei n. 8.313/1991. A despeito da complexidade e da elaborada forma com que eram usados fraudulentamente os recursos publicos captados por meio de renuncia fiscal que deveriam ser destinados para a cultura, nao ha como deixar de reconhecer que o objeto central de todo o esquema engendrado e descortinado pela Operacao Boca Livre era obter vantagem ilicita consistente em valores auferidos por meio da Lei Rouanet, os quais nao eram aplicados em atividade cultural, objeto do incentivo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O tipo penal previsto no art. 40 da Lei n. 8.313/1991 deve ser considerado especial em relação ao estelionato por conter elementos da descrição geral com alguns outros elementos especializantes. 2. Quando um preceito penal reune todos os elementos de outro e se diferencia dele por conter, ao menos, um elemento adicional, deve prevalecer a que contenha esses elementos especializantes. 3. O objeto central de todo o esquema engendrado e descortinado pela Operação Boca Livre era obter vantagem ilícita consistente em valores auferidos por meio da Lei Rouanet, os quais não eram aplicados em atividade cultural, objeto do incentivo.

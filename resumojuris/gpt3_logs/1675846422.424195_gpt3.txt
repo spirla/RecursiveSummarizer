@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, todos os elementos de informacao que ja foram formalizados em documentos em virtude do encerramento de investigacoes e que importam para o pleno exercicio do direito de defesa do recorrente podem ser acessados sem nenhum embaraco, circunstancia juridico-processual esta que, na diccao da Sumula Vinculante n. 14, constitui justamente a hipotese de manutencao da reserva de publicidade dos autos de inquerito policial ou outro procedimento investigativo criminal. Entretanto, nao ofende o principio da ampla defesa a negativa de acesso ao conteudo de medidas investigativas em curso que ainda nao foram documentadas e cujo sigilo, no momento, e imprescindivel a sua efetividade, especialmente na hipotese em que a autoridade ja declarou que, encerradas as investigacoes e documentados os seus resultados, sera franqueado ao recorrente e a sua defesa tecnica o integral acesso aos elementos de informacao necessarios para o exercicio do direito de defesa. Ademais, o conteudo das midias eletronicas arrecadadas por meio de mandados de busca e apreensao nao foram acessados nem mesmo pelo Ministerio Publico Federal, em virtude de criptografia intransponivel, de modo que nao foram usados para subsidiar o oferecimento da denuncia. Logo, seu acesso nao so e impossivel, dada a criptografia que os reveste, como nao interessa ao exercicio do direito de defesa. SUMULAS Sumula vinculante n. 14: E direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, ja documentados em procedimento investigatorio realizado por orgao com competencia de policia judiciaria, digam respeito ao exercicio do direito de defesa . (Informativo  Ed. Especial n. 4) 1190 1191 Processo HC 574.573-RJ, Rel. Min. Joao Otavio de Noronha, Quinta Turma, por unanimidade, julgado em 22/06/2021, DJe 28/06/2021. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Prisao preventiva. Crimes ciberneticos. Modus operandi e periculosidade do agente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa, conforme prevê a Sumula Vinculante n. 14. 2. Não ofende o princípio da ampla defesa a negativa de acesso ao conteúdo de medidas investigativas em curso que ainda não foram documentadas e cujo sigilo, no momento, é imprescindível a sua efetividade. 3. O acesso ao conteúdo das mídias eletrônicas arrecadadas por meio de mandados de busca e apreensão é impossível, dada a criptografia que os reveste, e não interessa ao exercício do direito de defesa.

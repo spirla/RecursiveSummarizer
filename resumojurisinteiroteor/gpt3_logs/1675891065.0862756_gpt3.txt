@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+11/19 do documento "Portjnst3 (Evento 1), os militares embargados, acusados na presente ao criminal, estavam conduzindo motocicletas, sem quaisquer provas em sentido contrrio. Ento, a exemplo do que decidiu o relator do apelo de origem - desembargador Fernando Galvo da Rocha -, "constata-se a inconsistncia da prova oral. Quanto s demais provas, o vdeo colacionado no Evento 7 dos autos da ao criminal em primeira instncia, relacionado aos presentes autos, no prova o alegado excesso na abordagem policial, nem mesmo a autoria das leses corporais. No referido vdeo,  possvel visualizar que a motocicleta conduzida por uma das vtimas, segundo eles, Marcos Paulo, passou em alta velocidade e, depois, encostou na lateral da via quando o condutor percebeu que seria alcanado pelos militares. No se v em tal vdeo a ocorrncia de excesso ou agresses. Portanto, para mim,  acertada a concluso lanada no voto condutor no apelo de origem quando se refere  inexistncia de prova apta a demonstrar a autoria das leses corporais, e, por isso, no  possvel impor a condenao dos militares pela prtica do crime de leso corporal. Da mesma forma, e pelas citadas razes, no  possvel afirmar que o Boletim de Ocorrncia n. 2019-028184029-001 contenha informaes falsas, afinal as supostas vtimas atestam que estavam, sim, em fuga, e dizem tambm que foram alcanadas aps 3 (trs) minutos de perseguio, e, ainda, que ofertaram resistncia, fugindo da abordagem policial, porque o condutor era inabilitado. Assim, tambm entendo que no h provas que sustentem a condenao dos militares quanto  prtica do crime de falsidade ideolgica. Para finalizar, quero ressaltar que realmente faltam provas aptas para sustentar o decreto condenatrio buscado pelo Ministrio Pblico do Estado de Minas Gerais, sendo que as provas dos autos tambm no do sustentao aos fatos narrados na denncia. Ante o exposto, nego provimento aos embargos infringentes, para manter inclume o acrdo recorrido, prevalecendo como condutor o voto do eminente desembargador Fernando Galvo da Rocha na apelao criminal de origem.  como voto. DESEMBARGADOR FERNANDO ARMANDO RIBEIRO Srs. desembargadores. Ratifico o entendimento por mim adotado quando do julgamento da Apelao Criminal, para acompanhar integralmente o substancioso voto proferido pelo e. relator, Des. Jadir Silva. DESEMBARGADOR JAMES FERREIRA SANTOS, VENCIDO Senhor presidente, eminentes pares. Na oportunidade, acompanho a divergncia inaugurada pelo eminente desembargador Osmar Duarte Marcelino, negando, de igual forma, provimento a estes Embargos Infringente e mantendo, por conseguinte, inclume a deciso de primeiro grau e o acrdo hostilizado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O acrdo de primeiro grau foi mantido, pois a prova oral foi inconsistente e o vdeo colacionado no processo no comprovou o excesso na abordagem policial nem a autoria das leses corporais. O Boletim de Ocorrncia tambm no foi considerado pois as supostas vtimas atestaram que estavam em fuga e ofereceram resistncia. Assim, no houve provas aptas para sustentar a condenao dos militares.

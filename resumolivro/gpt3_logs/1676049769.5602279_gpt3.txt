@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Entretanto, segundo o referido pargrafo 2, (...) a perda do mandato ser decidida pela Cmara dos Deputados ou pelo Senado Federal, por voto secreto e maioria absoluta, mediante provocao da respectiva Mesa ou de partido poltico representado no Congresso Nacional, assegurada ampla defesa. Quanto aos parlamentares, a suspenso dos direitos polticos em decorrncia da condenao criminal no  automtica, sendo, ainda, necessria uma deciso poltica da Casa Legislativa nesse sentido. A dependncia de um juzo poltico, de oportunidade e convenincia, para a perda do mandato constitui exceo  regra da suspenso dos direitos polticos, estabelecida pelo artigo 15 da CF/88. A aparente contradio entre as normas constitucionais deve ser resolvida por interpretao que preserve sua unidade e a efetividade de suas previses. No entanto, uma opo poltica dessa natureza  passvel de fundadas crticas. Se a finalidade do artigo 15, III, da CR  impedir a participao no poder poltico dos cidados de conduta reconhecidamente reprovvel, preservando a dignidade da representao democrtica, como admitir que os mais relevantes cargos polticos do pas sejam ocupados por condenados? A suspenso dos direitos polticos dos parlamentares estaduais e distritais, por fora dos artigos 27, pargrafo 1, e 32, pargrafo 3, tambm depende do julgamento poltico de suas respectivas casas legislativas. A questo merece maior ateno dos parlamentares que pretendem resgatar a legitimidade e credibilidade do Poder Legislativo. No se pode confundir a suspenso dos direitos polticos, determinada pelo artigo 15 da Constituio da Repblica, com a inelegibilidade determinada pelo artigo 1, inciso I, e, da Lei Complementar 64/90. No primeiro caso, a condenao criminal, relativa a qualquer crime, produz a suspenso dos direitos polticos do condenado enquanto durarem os efeitos da condenao. No segundo, a inelegibilidade tem fundamento na incompatibilidade que a prtica de determinados crimes25 apresenta com o exerccio de funes pblicas. A inelegibilidade perdura por 8 (oito) anos, aps o cumprimento da pena, e no impede o exerccio dos demais direitos inerentes  cidadania poltica ativa. Cabe registrar, por fim, que no h qualquer razo que justifique a suspenso do direito de o condenado votar.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A perda do mandato de parlamentar depende de uma decisão política da Casa Legislativa, exceção à regra da suspenso dos direitos políticos estabelecida pela Constituição Federal. A suspenso dos direitos políticos e a inelegibilidade têm fundamentos diferentes, sendo a primeira determinada pela condenação criminal e a segunda pela incompatibilidade entre o crime e o exercício de funções públicas. O direito de votar não é suspenso.

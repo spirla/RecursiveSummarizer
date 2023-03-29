@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se o Tribunal julgar que o crime praticado pelo representado o incompatibiliza com o exercicio das funcoes nas instituicoes militares estaduais, decretara a perda do posto e da patente do oficial ou a perda da graduacao da praca, com a consequente demissao ou exclusao da Policia Militar ou do Corpo de Bombeiros Militar. 314 Aprovado pela Resolucao n 167, de 5/05/2016. 315 O artigo 2, VI, da Lei n. 6624/75 estabelece que compete a PMMG: exercer a policia judiciaria militar, relativamente aos crimes militares praticados por seus integrantes ou contra a instituicao policial-militar(...). Ja A Lei Complementar n. 54, de 13 de dezembro, de 1999, em seu artigo 3, IV, estabelece que compete ao CBMMG: exercer a policia judiciaria militar, relativamente aos crimes militares praticados por seus integrantes ou contra a instituicao (...). 316 Sobre o principio da oficialidade, nas precisas licoes de Maria Sylvia Zanella Di Pietro, em seu artigo Limites da utilizacao de principios do processo judicial no processo administrativo, Muito antes de serem promulgadas a Lei de Processo Administrativo na esfera federal e algumas leis estaduais e municipais sobre essa materia, o principio da oficialidade ja estava consagrado pela doutrina do direito administrativo, como prerrogativa da Administracao Publica para, de oficio, instaurar o processo, fazer a sua instrucao, sua impulsao, sua revisao. (...) O principio da oficialidade autoriza a Administracao a requerer diligncias, investigar fatos de que toma conhecimento no curso do processo, solicitar pareceres, laudos e informacoes, bem como rever os proprios atos e praticar tudo o que for necessario a apuracao dos fatos e a correta aplicacao da lei. A oficialidade esta presente: (1) no poder de iniciativa para instaurar o processo; (II) na instrucao do processo; e (III) na revisao de suas decisoes. Decorrente do principio da oficialidade, o principio da verdade material ou da verdade real exprime que a Administracao deve tomar decisoes com base nos fatos tais como se apresentam na realidade, nao se satisfazendo com a versao oferecida pelos sujeitos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal pode decretar a perda do posto e da patente do oficial ou a perda da graduacao da praca, com a consequente demissao ou exclusao da Policia Militar ou do Corpo de Bombeiros Militar, caso julgue o crime praticado pelo representado incompatível com o exercício das funções nas instituições militares estaduais. A Lei n. 6624/75 e a Lei Complementar n. 54, de 13 de dezembro, de 1999, estabelecem que compete à PMMG e ao CBMMG exercer a policia judiciária militar relativamente aos crimes militares praticados por seus integrantes ou contra a instituição. O principio da oficialidade autoriza a Administração a requerer diligências, investigar fatos, solicitar pareceres, laudos e informações, bem como rever os próprios atos e praticar tudo o que for necessário para a apuração dos fatos e a correta aplicação da lei.

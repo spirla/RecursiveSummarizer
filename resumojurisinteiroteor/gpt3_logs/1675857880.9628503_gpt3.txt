@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+II - Em razo do descrito acima, o militar encontra-se incurso no inciso III do pargrafo nico do art. 64 do CEDM, (...) faltar publicamente, fardado, de folga ou em servio, com o decoro pessoal, dando causa a grave escndalo que comprometa a honra pessoal e o decoro da classe. (Evento 1 - COP3, pgs. 2/3). O conjunto probatrio demonstra o regular processamento do processo administrativo-disciplinar em tela, com observncia aos princpios constitucionais do contraditrio e da ampla defesa. O acusado e/ou seus defensores foram notificados para acompanhar a reunio de instalao do PAD, para apresentar defesa prvia, rol de testemunhas e provas que julgassem necessrias (evento 1 - COP3, pg. 16/18 e pgs. 33/34). As inquiries das testemunhas de acusao e de defesa - Flvio Henrique Moreira, Cb BM Adriana Pinto dos Santos, 2 Ten BM Pablo Barbosa Fernandes, 2 Ten BM Marcelo Teixeira Santos, 2 Sgt BM Alexandre de Paulo Zacarias, 3 Sgt BM Renan Denis Guimares Costa, Cb BM Joo Antnio de Carvalho Resende, 2 Tenente BM Maurcio Gariglio Dias e 3 Sgt Miguel Lucas Souza Miranda - foram realizadas com a presena do ora apelado e do seu advogado (evento 1 - COP3, pgs. 46/48, pgs. 56/59, pgs. 61/64, pgs. 66/68 - COP4, pgs. 3/6, pgs. 8/10, pgs. 12/14, pgs. 18/20, pgs. 22/24). O apelado apresentou, por meio de seu advogado, suas razes escritas de defesa final (evento 1 - COP5, pgs. 18/19, pgs.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O processo administrativo-disciplinar foi regularmente processado, observando-se os princípios constitucionais do contraditório e da ampla defesa. O acusado e/ou seus defensores foram notificados para acompanhar a reunião de instalação do PAD, para apresentar defesa prévia, rol de testemunhas e provas necessárias. As inquiries das testemunhas de acusação e defesa foram realizadas com a presença do acusado e de seu advogado, e o acusado apresentou suas razões escritas de defesa final.

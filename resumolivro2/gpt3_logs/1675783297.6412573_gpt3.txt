@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Basta ver a recente modificao do procedimento ordinrio previsto no CPP operada pela Lei 11.689, de 2008, com a redao dada ao artigo 411, pargrafo 4, determinando que as alegaes sejam orais. Assim, julgamos que a apresentao das alegaes finais escritas  facultativa. Desde que intimadas nos termos do artigo 428 do CPPM,  legtimo s partes preferirem apresent-las oralmente em plenrio. Por outro lado, se o Ministrio Pblico preferir apresentar oralmente as alegaes finais ficar, por seu rgo, vinculado  denncia. Vale dizer, no poder modificar a acusao da denncia em razo do disposto no artigo 437, a, do CPPM. 15.2.9. Sesso de julgamento. A sesso de julgamento est disciplinada nos artigos 431 e seguintes do CPPM. Antes de designar dia e hora da sesso de julgamento, o juiz pode ordenar, por meio de despacho saneador, diligncia para sanar nulidade ou suprir falta prejudicial ao esclarecimento da verdade (artigo 430 do CPPM). Outra medida que pode ser adotada  a separao de julgamento, possvel nas situaes das alneas a e b do artigo 105 do CPPM. Separa-se o julgamento se, de vrios acusados, algum estiver foragido e no puder ser julgado  revelia (alnea a). A finalidade  evitar delonga do processo. A segunda situao em que pode haver ciso de julgamento se d se os defensores de dois ou mais acusados no acordarem na suspeio de juiz de Conselho de Justia, superveniente para comp-lo, por ocasio do julgamento (alnea b). A suspeio do juiz deve ser superveniente  posse e  instalao do Conselho de Justia. O defensor deve ter procurao com poderes especiais para opor a suspeio (artigo 131, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 11.689/2008 modificou o procedimento ordinário previsto no CPP, determinando que as alegações finais sejam orais. O Ministério Público pode optar por apresentar as alegações finais oralmente, mas ficará vinculado à denúncia. A sessão de julgamento está disciplinada nos artigos 431 e seguintes do CPPM, e o juiz pode ordenar medidas como diligências para sanar nulidades ou separação de julgamento.

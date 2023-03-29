@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Aps a caracterizao do crime, por meio de seus elementos fundamentais, Vives Antn trabalha com a pretenso de necessidade da pena, na qual rene todos os institutos que podem afastar a punio no caso concreto. Pretenso de relevncia (Tipo de ao). Desconstruindo as bases objetivas (causalismo) e subjetivas (finalismo) dos sistemas ontolgicos concebidos conforme as premissas da racionalidade cognitiva, Vives Antn elabora a sua teoria do crime a partir da noo de tipo de ao. O tipo de ao, como primeira referncia conceitual da teoria do crime, expressa a pretenso de relevncia da norma penal que identifica o comportamento como de interesse do Direito Penal. Para definir o contedo do tipo de ao, Vives retoma criticamente os conceitos de Tatbestand e Leitbild formulados por Beling, bem como os desenvolvimentos dogmticos posteriores do tipo para, distinguindo o tipo de ao da figura reitora, reconstruir o conceito de tipo de ao como uma regulao de sentido da prpria ao, que a identifica como pertencente  classe das aes que, por sua vez, so identificadas como relevantes para o Direito Penal. Nesse sentido, sua construo para o tipo de ao se aproxima do sentido prprio do tatbestand, que expressa um pensamento tipolgico, e no um conceito classificatrio fechado. No sistema de Vives Antn, a ao (e tambm a omisso), o nexo de causalidade e o resultado (leso ao bem jurdico) integram o contedo de sentido do tipo de ao. O tipo de ao pressupe a existncia de uma conduta natural  qual ser atribudo o sentido que a qualifica como relevante. Em outras palavras, somente a partir de uma ao humana (considerada como comportamento comissivo ou omissivo) se apresenta o problema de se verificar at que ponto ser possvel imputar-lhe o sentido de uma conduta proibida. A pretenso de relevncia se configura apartir da adequada compreenso lingustica da formulao expressa no tipo incriminador, que exerce o papel limitador da interveno punitiva exigido pelo princpio da legalidade, e da caracterstica de ofensividade da conduta ao bem jurdico, que expressa uma pretenso substantiva de incorreo prpria  antijuridicidade material.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Vives Antn trabalha com a pretenso de necessidade da pena, na qual rene todos os institutos que podem afastar a punio no caso concreto. Ele elabora a sua teoria do crime a partir da noo de tipo de ao, que expressa a pretenso de relevncia da norma penal. O tipo de ao pressupe a existncia de uma conduta natural qual ser atribudo o sentido que a qualifica como relevante para o Direito Penal. A pretenso de relevncia se configura apartir da adequada compreenso lingustica da formulao expressa no tipo incriminador e da caracterstica de ofensividade da conduta ao bem jurdico.

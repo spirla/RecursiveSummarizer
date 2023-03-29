@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Os rus apresentaram as suas defesas em conjunto, "deixando para apresentar as suas teses defensivas em sede de alegaes finais., bem como arrolaram quatro testemunhas (evento 06). As trs testemunhas arroladas na denncia foram ouvidas em sesso realizada na data de 02/07/2020, conforme ata e vdeos constantes no evento 58, enquanto a vtima foi ouvida em audincia ocorrida em 23/09/2020, cujo vdeo encontra-se no evento 72. As testemunhas arroladas pelos rus foram ouvidas, conforme documentos constantes no evento 110. Os rus foram interrogados, conforme vdeos constantes no evento 128. Na fase do art. 427 do Cdigo de Processo Penal Militar (CPPM), as partes nada requereram. J na fase do art. 428 do mesmo Cdigo, o Ministrio Pblico requereu que fossem as alegaes finais apresentadas oralmente em sesso de julgamento, enquanto a defesa dos acusados requereu apresentao de alegaes finais por escrito, aps a apresentao de alegaes finais do Ministrio Pblico. O juiz de direito indeferiu o pedido dos acusados e concedeu novo prazo para apresentao das alegaes finais, tendo em vista que "o Ministrio Pblico no est obrigado a apresentar alegaes finais escritas, podendo faz-la oralmente perante o Conselho. (evento 175). A defesa dos acusados, ento, requereu a apresentao de alegaes finais orais durante a sesso de julgamento. Em alegaes finais orais, o Ministrio Pblico requereu que fosse o acusado Lcio Fernandes dos Santos condenado, bem como que fossem absolvidos os demais acusados, por insuficincia de provas. J a defesa dos acusados requereu a absolvio dos mesmos, com fundamento no art. 439, alnea "a", ou, eventualmente, nos moldes do disposto na alnea "c", do mesmo artigo do CPPM. O Conselho Permanente de Justia, por unanimidade de votos, absolveu todos os acusados, nos termos do art. 439, alnea "c", do CPPM, vencido o juiz de direito, que tambm absolveu os acusados, porm nos termos da alnea "e do art. 439 do CPPM. Inconformado, o Ministrio Pblico interps o presente recurso, pretendendo que sejam todos os denunciados condenados pela prtica do crime de concusso. Em pedido subsidirio, o apelante requer caso mantida a absolvio dos outros 02 (dois) militares, seja alterada a fundamentao utilizada para, no mnimo, a hiptese do art. 439, alnea e do CPPM, j que no restou devidamente comprovado que os dois militares no participaram dos fatos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público interpôs recurso, requerendo a condenação dos acusados por concussão, após o Conselho Permanente de Justiça absolver os mesmos nos termos do artigo 439, alínea "c" do Código de Processo Penal Militar. O juiz de direito também absolveu os acusados, mas nos termos da alínea "e" do mesmo artigo.

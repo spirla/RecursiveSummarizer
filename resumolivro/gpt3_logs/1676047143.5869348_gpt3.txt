@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Veja-se o exemplo do homicdio e da ocultao de cadver. O condenado  preso cautelarmente em face da acusao de homicdio e, posteriormente, absolvido dessa imputao, mas condenado pela ocultao de cadver. Pode o condenado detrair o tempo em que ficou preso pela imputao de homicdio da execuo da pena aplicada pela ocultao de cadver? No exemplo, h uma relao entre os crimes imputados ao condenado e a detrao  mais facilmente admitida. Pode, ento, o condenado por ocultao de cadver, descontar da execuo de sua pena o tempo em que ficou preso provisoriamente por causa da acusao de homicdio. Todavia, quando os crimes no se relacionam, no se tem admitido o desconto da detrao.  o caso em que o ru foi preso em processo instaurado em uma comarca e condenado em processo instaurado em outra. Luiz Vicente Cernicchiaro, contudo, adverte que, em Direito Penal, a detrao estabelece regra de compensao que trabalha com a liberdade. Havendo erro judicirio que leve  privao da liberdade do indivduo, a forma de compensao estabelecida impe devolver-lhe a liberdade. Com efeito, se o ru foi preso indevidamente em um processo no qual foi reconhecido inocente, o Estado deve recompens-lo pelo tempo de privao de liberdade. A Constituio define a obrigao do Estado em indenizar o erro judicirio e o tempo que o condenado ficar preso alm do fixado na sentena (artigo 5, LXXV). Se a indenizao  tema a ser tratado no juzo cvel, no criminal, h que se reconhecer a possibilidade da compensao que a detrao proporciona. Mas, para que o ru no passe a ter uma espcie de conta corrente com a sociedade, a melhor interpretao desse princpio de compensao restringe sua aplicao aos fatos praticados antes da priso que se quer considerar como tempo de cumprimento de pena. Assim, se o condenado ficar preso provisoriamente, em relao a fatos anteriores, apurados ou no no mesmo processo, dever-se- aplicar a detrao para diminuir o tempo de cumprimento das penas aplicadas em condenao. No entanto, a priso cautelar em processo no qual o ru venha a ser absolvido no poder ser utilizada para detrair tempo de pena imposta por fato posterior  constrio cautelar. Nessa linha de raciocnio, pode-se enfrentar outra questo prtica relevante. Se o ru for preso em processo no qual se reconhea a extino da punibilidade, poder-se- aproveitar o tempo de priso provisria para abater o cumprimento da pena aplicada em outro processo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O condenado pode detrair o tempo em que ficou preso pela imputação de homicídio da execução da pena aplicada pela ocultação de cadáver, desde que os crimes se relacionem. Contudo, quando os crimes não se relacionam, a detração não é admitida. A Constituição estabelece a obrigação do Estado em indenizar o erro judiciário e o tempo que o condenado ficou preso além do fixado na sentença. Se o ru for preso em processo no qual se reconheça a extinção da punibilidade, pode-se aproveitar o tempo de prisão provisória para abater o cumprimento da pena aplicada em outro processo.

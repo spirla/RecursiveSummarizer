@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo  Ed. Especial n. 9) CPC de 2015, arts. 932 e 1.043,  4. Regimento Interno do Superior Tribunal de Justica, art. 266,  4. 79 SEGUNDA SECAO Voltar ao Sumario. Processo AgInt na AR 5.811-MG, Rel. Ministro Luis Felipe Salomao, Segunda Secao, por unanimidade, julgado em 24/8/2022, DJe 30/8/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL Tema Acao rescisoria. Violacao da literalidade de dispositivo legal. Ausencia de indicacao precisa da norma juridica violada. Inepcia da inicial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A ação rescisória deve indicar de forma precisa a norma jurídica violada. 2. O Código de Processo Civil de 2015, nos artigos 932 e 1.043, prevê a inépcia da inicial quando não houver a indicação precisa da norma jurídica violada. 3. O Regimento Interno do Superior Tribunal de Justiça, no artigo 266, estabelece a necessidade de indicação precisa da norma jurídica violada para a propositura da ação rescisória.

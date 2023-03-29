@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em suas razes recursais (Evento 115 - APELAO1 - AJME), a defesa arguiu, preliminarmente, o cerceamento de defesa em razo de prejuzo quanto  contagem do prazo recursal. Considerou que, em tese, o seu prazo seria decorrente da soma dos prazos do art. 529 e 531 do Cdigo de Processo Penal Militar (CPPM), portanto teria os exatos 15 (quinze) dias para trabalhar as razes, contados da data da intimao da sentena ou de sua leitura. A apelao seria interposta dentro do prazo de 5 (cinco) dias, e o juiz no poderia suprimir o prazo do art. 529 CPPM e, na prpria data da leitura, determinar os 10 (dez) dias para apresentao das razes (art. 531 do CPPM), sem deixar escoar o prazo do artigo 529 do CPPM. No mrito, alegou que as provas apresentadas pelo recorrente no foram devidamente analisadas, citando para tanto os depoimentos das testemunhas Nicolas Leonardo de Lima, lcio Eremita de Oliveira, Cristiano Alves Infante e Ademar Pereira de Freitas. Citou que, no VDEO 13 do Processo de n. 200002174.2021.9.13.0004, Evento 1, o veculo da marca Chevrolet Tracker, cor branca, de propriedade do acusado, estava estacionado em frente  frao pelo menos at as 22h30 do dia 21/08/2020. Disse que, conforme declaraes das testemunhas, a frao de Tocos de Mogi/MG tinha dificuldade de comunicao com outras unidades militares, sendo vs as tentativas de contato com Ouro Fino, Pouso Alegre, Inconfidentes e Borda da Mata, conforme ficou evidenciado no Vdeo 14 do Processo de n. 2000021-74.2021.9.13.0004, Evento 1. Sustentou existirem evidncias de que o apelante se fazia presente no quartel, conforme depoimentos das testemunhas Cristiano Alves Infante e Ademar Pereira De Freitas, bem como pelo Vdeo 13, o qual no foi periciado e nem contestado durante a instruo processual, pela acusao, portanto no pode o representante do Parquet alegar defeito no vdeo, se teve oportunidade de requerer a percia, e no fez o pedido. Requereu o provimento do recurso interposto, para a decretao da absolvio do apelante, com fulcro no artigo 439, letras "e (no existir prova suficiente para a condenao) ou "a, segunda parte (no haver prova da sua existncia), do CPPM. Em suas contrarrazes recursais (Evento 121 - CONTRAZ1 - AJME), o Ministrio Pblico pleiteou o no acolhimento da preliminar, considerando que as disposies do art. 529 do CPPM estabelecem o prazo de 5 dias para a interposio do recuso (contados a partir da leitura da sentena em audincia) e o art. 531 do mesmo Cdigo estabelece 10 (dez) dias para as razes serem apresentadas, no havendo que se falar em soma de prazos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa arguiu preliminarmente o cerceamento de defesa em razo da contagem do prazo recursal, alegando que o seu prazo seria decorrente da soma dos prazos do art. 529 e 531 do Código de Processo Penal Militar (CPPM). No mérito, alegou que as provas apresentadas pelo recorrente não foram devidamente analisadas. O Ministério Público pleiteou o não acolhimento da preliminar, considerando que as disposições do art. 529 do CPPM estabelecem o prazo de 5 dias para a interposição do recurso.

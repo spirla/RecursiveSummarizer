@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Desnecessidade. DESTAQUE Sao licitas as provas obtidas com a apreensao de bens nao discriminados expressamente em mandado ou na decisao judicial correspondente, mas vinculados ao objeto da investigacao. Cinge-se a controversia em determinar a licitude das provas obtidas com a apreensao de bens nao discriminados expressamente em mandado ou decisao judicial correspondente, mas vinculados ao objeto da investigacao. 1174 Na hipotese, o impetrante sustenta a ilicitude das provas obtidas na busca e apreensao realizada, uma vez que foram apreendidos objetos nao constantes do mandado. De acordo com o Tribunal de origem, o mandado expedido fazia mencao a alguns objetos que poderiam ter interesse para a elucidacao dos fatos, mas nao se trataria de listagem exaustiva, porque o magistrado que decretara a busca e apreensao nao teria como saber de antemao quais objetos poderiam ser encontrados no local da diligencia probatoria que poderiam ter algum interesse para a apuracao dos fatos. Mais especificamente, o mandado fez mencao a aparelhos celulares, equipamentos eletronicos como tablets e notebooks, alem de busca pessoal e apreensao de arma de fogo, mas teriam sido apreendidos papeis e agendas. Relevante destacar que nao ha no ordenamento juridico patrio qualquer exigencia de que a manifestacao judicial que defere a cautelar de busca e apreensao esmiuce quais documentos ou objetos devam ser coletados, ate mesmo porque tal pormenorizacao so e possivel de ser implementada apos a verificacao do que foi encontrado no local em que cumprida a medida . (AgRg nos EDcl no RHC 145.665/RO, relator Ministro Jesuino Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 28/9/2021, DJe de 05/10/2021).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É licita a obtenção de provas com a apreensão de bens não discriminados expressamente em mandado ou na decisão judicial correspondente, mas vinculados ao objeto da investigação. 2. Não há exigência de que a manifestação judicial que defere a cautelar de busca e apreensão esmiuce quais documentos ou objetos devam ser coletados.

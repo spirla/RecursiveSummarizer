@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Autenticidade e integridade so, portanto, os requisitos bsicos que deve conter um documento para servir como prova. A autoria do documento  normalmente identificvel por meio da assinatura.  assinatura eletrnica  possvel dar o mesmo significado e eficcia jurdica da assinatura manual. Somente quem estiver de posse da chave privada tem condies tcnicas de gerar a assinatura eletrnica. O documento eletrnico, para ter fora probante, no pode ser passvel de adulterao. A maneira reconhecidamente segura, diante do atual estgio da tecnologia, para assinar documentos eletrnicos e mant-los inalterados  por meio de processos criptogrficos de chave pblica. O sistema utiliza duas chaves, uma chave pblica e outra privada. Assinado um documento eletrnico - o que  feito com o uso da chave privada -,  possvel conferir a assinatura mediante o uso da chave pblica. E, alm disso, ao efetuar a assinatura, o programa, utilizando frmulas matemticas sofisticadas, vincula a assinatura digital ao documento assinado, de tal sorte que a assinatura digital s seja vlida para aquele documento. Qualquer alterao, por menor que seja, na sequncia de bits que forma o documento eletrnico, invalida a assinatura. A simples insero de mais um espao entre duas palavras, no obstante o sentido do texto no ter sido modificado, j  bastante para que seja perdido o vnculo com a assinatura digital. Com o uso da criptografia assimtrica para gerar assinaturas eletrnicas, v-se que  possvel criar um vnculo entre a assinatura e o corpo do documento, impedindo a sua alterao posterior. Entretanto, o documento, em si, continua podendo ser alterado, sem deixar vestgios no meio fsico;
+mas se isto for feito, ele perder o vnculo que mantm com a assinatura, tornando-se apcrifo e, com isso, perdendo todo o seu valor probante.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A autenticidade e integridade são requisitos básicos para um documento servir como prova. A assinatura eletrônica é equivalente à assinatura manual e só quem possui a chave privada pode gerar a assinatura. A criptografia assimétrica garante o vínculo entre a assinatura e o documento, impedindo sua alteração posterior. Qualquer alteração, mesmo que pequena, invalida a assinatura e o documento perde o seu valor probante.

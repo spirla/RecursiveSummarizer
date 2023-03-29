@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A ao penal  pblica incondicionada. Ordinariamente, a competncia para processar e julgar o crime de maus-tratos  da Justia comum estadual. No entanto, a competncia ser da Justia comum federal quando o crime for cometido a bordo de navios ou aeronaves brasileiras, quando o sujeito ativo for funcionrio pblico federal no exerccio de suas funes (inciso IV, do artigo 109 da CF - Smula 147 do STJ) ou se houver concurso com um crime da competncia da Justia Federal (Smula 122 do STJ). Considerando a pena mnima cominada, ser possvel nos casos de maus-tratos simples e em sua figura qualificada pela leso corporal grave a suspenso condicional do processo, desde que atendidos os demais requisitos estabelecidos no artigo 89 da Lei n 9.099/95. No crime de maus-tratos qualificado pela leso corporal, se a vitima for menor de 14 anos, o aumento obrigatrio de pena previsto no pargrafo 3 do artigo 136 do CP eleva a pena mnima cominada e impede a suspenso condicional do processo. 3.10.12. Conflito aparente de normas. Maus tratos e perigo para a vida e a sade de outrem. O crime de maus tratos exige que exista uma especial relao de subordinao entre o sujeito ativo e o passivo, sendo que o primeiro tem o segundo sob sua autoridade, guarda ou vigilncia. Justamente por existir esta especial relao, o sujeito ativo possui o direito/dever de educar, ensinar, tratar ou custodiar o sujeito passivo. No existindo esta relao especial a conduta deve caracterizar o crime previsto no artigo 132 do Cdigo Penal, que  previso genrica para a exposio da vida e da sade a perigo. Maus tratos ao idoso. A Lei 10.741/2003 - Estatuto do Idoso - prev, em seu artigo 99, figura especial de maus tratos praticada contra idoso. Nos termos do referido dispositivo, constitui crime expor a perigo a integridade e a sade, fsica ou psquica, do idoso, submetendo-o a condies desumanas ou degradantes ou privando-o de alimentos e cuidados indispensveis, quando obrigado a faz-lo, ou sujeitando-o a trabalho excessivo ou inadequado. H previso de qualificadoras para os casos em que do fato resulta leso corporal de natureza grave ou morte. Crime comum e crime militar. O crime de maus-tratos ser considerado um crime propriamente militar quando praticado nas condies previstas no artigo 9 e 10 do Cdigo Penal Militar.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de maus-tratos é de competência da Justiça Comum Estadual, exceto em casos específicos previstos na Constituição Federal, como quando o sujeito ativo for funcionário público federal ou se houver concurso com um crime da competência da Justiça Federal. A suspenção condicional do processo é possível para maus-tratos simples e qualificados, exceto quando a vítima for menor de 14 anos. A Lei 10.741/2003 prevê uma figura especial de maus-tratos praticada contra idosos. O crime de maus-tratos é considerado um crime propriamente militar quando praticado nas condições previstas no Código Penal Militar.

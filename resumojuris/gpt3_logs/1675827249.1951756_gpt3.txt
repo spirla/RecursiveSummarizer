@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ressalvou da modulacao, porem, as seguintes situacoes: a) as acoes judiciais ja ajuizadas e ainda em curso em 2.3.2021; b) as hipoteses de bitributacao relativas a fatos geradores ocorridos ate 2.3.2021, nas quais sera devida a restituicao do ICMS recolhido, respeitado o prazo prescricional, independentemente da propositura de acao judicial ate aquela data; e c) as hipoteses relativas a fatos geradores ocorridos ate 2.3.2021 em que nao houve o recolhimento do ISS ou do ICMS, nas quais sera devido o pagamento do imposto municipal, respeitados os prazos decadencial e prescricional. Vencido o ministro Marco Aurelio, quanto a modulacao. ADI 5576/SP, relator Min. Roberto Barroso, julgamento virtual finalizado em 2.8.2021 (segunda-feira), as 23:59. (INF 1024) ICMS: Difal, consumidor final nao contribuinte do imposto e Convenio ICMS 93/2015-Confaz - ADI 5469/DF e RE 1287019/DF (Tema 1093 RG) Parte 1: Parte 2: Tese Fixada: A cobranca do diferencial de aliquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional n 87/2015, pressupoe edicao de lei complementar veiculando normas gerais . Resumo: E necessaria a edicao de lei complementar, disciplinando a EC 87/2015, para que os estados-membros e o Distrito Federal (DF), na qualidade de destinatarios de bens ou servicos, possam cobrar Diferencial de Aliquota do ICMS (Difal) na hipotese de operacoes e prestacoes interestaduais com consumidor final nao contribuinte do Imposto. Observadas as tendencias decorrentes do incremento no comercio eletronico, o constituinte derivado estabeleceu a cobranca de Difal, prestigiando a unidade federada de destino, a fim de atualizar a sistematica do tributo envolvendo consumidor final nao contribuinte situado em outro estado-membro. Os estados e o Distrito Federal (DF) buscaram dar concretude ao regime fiscal mediante o Convenio ICMS 93/2015, editado pelo Conselho Nacional de Politica Fazendaria (Confaz).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais. 2. É necessária a edição de lei complementar, disciplinando a EC 87/2015, para que os estados-membros e o Distrito Federal (DF), na qualidade de destinatários de bens ou serviços, possam cobrar Diferencial de Alíquota do ICMS (Difal) na hipótese de operações e prestações interestaduais com consumidor final não contribuinte do Imposto. 3. Observadas as tendências decorrentes do incremento no comércio eletrônico, o constituinte derivado estabeleceu a cobrança de Difal, prestigiando a unidade federada de destino, a fim de atualizar a sistemática do tributo envolvendo consumidor final não contribuinte situado em outro estado-membro. 4. Os estados e o Distrito Federal (DF) buscaram dar concretude ao regime fiscal mediante o Convenio ICMS 93/2015, editado pelo Conselho Nacional de Política Fazendária (Confaz).

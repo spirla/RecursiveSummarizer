@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Violacao ao dever de sigilo profissional. Ilicitude das provas obtidas. DESTAQUE Sao ilicitas as provas obtidas em acordo de delacao premiada firmado com advogado que, sem justa causa, entrega as autoridades investigativas documentos e gravacoes obtidas em virtude de mandato que lhe fora outorgado, violando o dever de sigilo profissional. A questao posta e se e licito que advogado, sem justa causa, ofereca delatio criminis contra cliente com base em fatos de que teve conhecimento no exercicio do mandato. No caso, o advogado espontaneamente apresentou noticia criminis ao Ministerio Publico, informando ter provas, mas condicionando sua apresentacao a exclusao de eventual denuncia e isencao das demais consequencias nao criminais. O advogado nao estava sendo investigado ou acusado de pratica delitiva, nem estava se defendendo de acusacao por seu cliente da pratica delitiva. Embora o acordo de colaboracao premiada tenha representado uma inovacao no sistema de Justica criminal, o Supremo Tribunal Federal, no HC n. 142.205/PR, assentou a possibilidade de anulacao e declaracao de ineficacia probatoria de acordos de colaboracao premiada firmados em desrespeito as normas legais e constitucionais (HC n. 142.205/PR, relator Ministro Gilmar Mendes, Segunda Turma, DJe de 1/10/2020.) Na ocasiao, consignou o relator que [p]ara punir adequadamente fatos lesivos a sociedade (e e obvio que isso deve ser feito), e necessario o respeito irrestrito aos ditames legais, constitucionais e convencionais . O dever de sigilo profissional imposto ao advogado e as prerrogativas profissionais a ele asseguradas nao tem em vista assegurar privilegios pessoais, mas sim os direitos dos cidadaos. Nessa direcao, a doutrina afirma que a inviolabilidade da atividade do advogado, na verdade, e uma protecao ao cliente que confia a ele documentos e confissoes da esfera intima, de natureza conflitiva e nao raro objeto de reivindicacao .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilícita a obtenção de provas em acordo de delação premiada firmado com advogado que, sem justa causa, entrega as autoridades investigativas documentos e gravações obtidas em virtude de mandato que lhe foi outorgado, violando o dever de sigilo profissional. 2. É possível a anulação e declaração de ineficácia probatória de acordos de colaboração premiada firmados em desrespeito às normas legais e constitucionais. 3. O dever de sigilo profissional imposto ao advogado e as prerrogativas profissionais a ele asseguradas não têm em vista assegurar privilégios pessoais, mas sim os direitos dos cidadãos.

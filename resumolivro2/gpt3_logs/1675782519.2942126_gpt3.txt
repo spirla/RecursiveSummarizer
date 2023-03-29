@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O tema foi objeto de estudo de Trcio Sampaio Ferraz:
+Se algum elabora para si um cadastro sobre certas pessoas, com informaes marcadas por avaliaes negativas, e o torna pblico, poder estar cometendo difamao, mas no quebra sigilo de dados. Se estes dados, armazenados eletronicamente, so transmitidos, privadamente, a um parceiro, em relaes mercadolgicas, para defesa do mercado, tambm no est havendo quebra de sigilo. Mas, se algum entra nesta transmisso como um terceiro que nada tem a ver com a relao comunicativa, ou por ato prprio ou porque uma das partes lhe cede o acesso indevidamente, estar violado o sigilo de dados. A distino  decisiva:
+o objeto protegido no direito  inviolabilidade do sigilo no so os dados em si, mas a sua comunicao restringida (liberdade de negao). A troca de informaes (comunicao) privativa  que no pode ser violada por sujeito estranho  comunicao. Consta do pargrafo nico do artigo 1 da Lei 9.296/96:
+O disposto nesta Lei aplica-se  interceptao do fluxo de comunicaes em sistemas de informtica e telemtica. O sistema de informtica (computadores, perifricos, softwares e sistemas de redes) possibilita o processamento, a compresso, o armazenamento e a comunicao de grandes quantidades de dados (nos formatos texto, imagem e som), em curto prazo de tempo, entre usurios. A telemtica  o conjunto de tecnologias da informao e da comunicao resultante da juno entre os recursos das telecomunicaes (telefonia, satlite, cabo, fibras pticas etc.). A discusso sobre a constitucionalidade do pargrafo nico do artigo 1 da Lei 9.296/96 gerou duas interpretaes. Pela primeira corrente respeitados doutrinadores ponderam que em sentido tcnico, s pela telemtica pode haver a comunicao do fluxo de dados via telefone, donde j se v a impropriedade da referncia da lei  informtica. Mas, mesmo com relao  telemtica, deve-se dizer que o texto constitucional s parece permitir a interceptao de comunicao telefnica stricto sensu (ou seja, da voz), e no da comunicao via telefone (compreendendo a telemtica).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Trcio Sampaio Ferraz estudou o tema de quebra de sigilo de dados. Se alguém torna público um cadastro com informações negativas sobre pessoas, pode estar cometendo difamação, mas não há quebra de sigilo. Se os dados são transmitidos privadamente a um parceiro, também não há quebra de sigilo. Porém, se um terceiro entra na comunicação sem ter relação com ela, ou se uma das partes lhe cede o acesso indevidamente, há violação do sigilo de dados. A Lei 9.296/96 protege a inviolabilidade da comunicação restringida, não os dados em si. Esta lei gerou duas interpretações: a primeira diz que só pela telemática pode haver comunicação do fluxo de dados via telefone, e a segunda diz que o texto constitucional só permite a interceptação da comunicação telefônica stricto sensu.

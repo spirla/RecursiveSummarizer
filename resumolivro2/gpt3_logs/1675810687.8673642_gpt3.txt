@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+So ouvidas, em primeiro lugar, as testemunhas arroladas na denncia e as referidas por estas, alm das que forem substitudas ou includas posteriormente pelo Ministrio Pblico. Aps, so ouvidas as testemunhas indicadas pela defesa. Tem a testemunha o dever de se identificar ao ser qualificada:
+deve declarar seu nome, idade, estado civil, residncia, profisso e lugar onde exerce atividade, se  parente, e em que grau, do acusado e do ofendido, quais as suas relaes com qualquer deles (...) (primeira parte do artigo 352 do CPPM). A qualificao  importante para fins de identificao, para que o juiz tenha certeza de que a pessoa ouvida  realmente a que foi arrolada. Se ocorrer dvida sobre a identidade da testemunha, o juiz proceder  verificao pelos meios ao seu alcance, podendo, entretanto, tomar-lhe o depoimento desde logo (artigo 352, pargrafo 1, CPPM). A testemunha presta o compromisso de dizer a verdade sobre o que souber e lhe for perguntado (parte final do artigo 346 do CPPM). O artigo 352, pargrafo 2, CPPM, determina que no se defere o compromisso de dizer a verdade aos doentes e deficientes mentais, aos menores e s pessoas a que se refere o artigo 354. As pessoas a que se refere o artigo 354 so o ascendente, o descendente, o afim em linha reta, o cnjuge, ainda que separado, e o irmo do acusado e a pessoa que com o acusado tenha vnculo de adoo. O compromisso da testemunha de dizer a verdade do que souber e lhe for perguntado  formalidade exigida por lei em que o juiz, antes do depoimento, exorta a testemunha, advertindo-a, inclusive, das penas cominadas ao falso testemunho (artigo 352, parte final, CPPM). Tourinho Filho ensina que O compromisso que a testemunha assume de dizer a verdade do que souber e lhe for perguntado representa, apenas, um estmulo moral, pois, se ela afirmar uma falsidade, negar a verdade ou calar o que souber, responder pelo crime de falso testemunho, pouco importando haja ou no prestado compromisso.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A qualificação da testemunha é importante para fins de identificação. Ela deve declarar seu nome, idade, estado civil, residência, profissão e lugar onde exerce atividade, se parente, e em que grau, do acusado e do ofendido. A testemunha deve prestar o compromisso de dizer a verdade sobre o que souber e lhe for perguntado. No entanto, o compromisso não é exigido para doentes, deficientes mentais, menores e pessoas relacionadas ao acusado. Se a testemunha afirmar uma falsidade, negar a verdade ou calar o que souber, responderá pelo crime de falso testemunho.

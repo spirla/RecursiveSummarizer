@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em data de 18 de abril de 2018, o Ministrio Pblico denunciou o ora apelante como incursos nas sanes do art. 326 (violao de sigilo funcional) do CPM (fls. 01 e 02 do Evento 3). Narra a denncia: Em data pretrita ao dia 22 de junho de 2017, o denunciado revelou fato de que tinha cincia em razo do cargo e que deveria permanecer em segredo, em prejuzo da Administrao Militar. Consta dos autos que no dia 22 de junho de 2017, por volta das 06h05min, foi dado cumprimento a um Mandado de Busca e Apreenso na residncia do civil Rui da Conceio Macieira Figueiredo. Durante a interveno feita na casa do civil foi encontrado no guarda-roupas um documento de acesso restrito a militantes, denominado Painel Administrativa - PA. Tal documento fora enviado pela P/3 da 24a Cia PM Ind aos integrantes da administrao, dos Pelotes e ao sargenteante da 24a Cia PM Ind, que, na poca, se tratava do 3 SGT PM CLOVES BONFIM DE MORAIS. No referido Painel Administrativo havia informaes de um memorando que versava sobre opera$6es de cumprimento de Mandado de Busca e Apreenso, oriundo da 15a RPM. No documento havia partes do texto grifado com caneta marca texto na cor verde, sendo destacada a data de remessa do documento (24 de junho de 2016) e os dizeres: Operao Mandado de Busca e Apreenso e cumprimento de mandado de busca Ao ser indagado sobre a origem do documento, o Sr. RUI respondeu que quem havia entregado e marcado a folha foi o denunciado, acima identificado como 3 SGT MORAIS. Frente ao exposto, o denunciado encontra-se incurso no art. 326 (violao de sigilo ficcional) do Cdigo Penal Militar [..] A denncia foi recebida em 08/06/2018 (doc 4 do Evento 3). A instruo criminal transcorreu regularmente na ia AJME, conforme se v nos documentos contidos nos autos. O denunciado foi devidamente citado. Foram ouvidas as testemunhas arroladas na denncia, posteriormente foram inquiridas as testemunhas arroladas pela defesa do ru. Ao final da instruo processual, foi realizado o interrogatrio do ru. Na fase prevista no art. 427 do Cdigo de Processo Penal Militar (CPPM), o Ministrio Pblico requereu a atualizao da Folha de Antecedentes Criminais (FAC), da Certido de Antecedentes Criminais (CAC) e do Extrato de Registros Funcionais (ERF) do ru. A defesa nada requereu. Na fase prevista no artigo 428 do CPPM, o Ministrio Pblico pugnou pela apresentao de alegaes finais oralmente em plenrio. A defesa do ru se manifestou no mesmo sentido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público denunciou o apelante pelo cometimento de violação de sigilo funcional previsto no art. 326 do Código Penal Militar. O denunciado foi citado e ouvidas as testemunhas e o interrogatório do ru. O Ministério Público requereu a atualização da Folha de Antecedentes Criminais, da Certidão de Antecedentes Criminais e do Extrato de Registros Funcionais do ru. A defesa e o Ministério Público pugnaram pela apresentação de alegações finais oralmente em plenário.

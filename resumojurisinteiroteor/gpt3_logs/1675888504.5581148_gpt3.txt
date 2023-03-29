@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR FERNANDO ARMANDO RIBEIRO, RELATOR O autor ajuizou a presente ao com fundamento no disposto no inciso VIII (for fundada em erro de fato verificvel do exame dos autos) do art. 966 do Cdigo de Processo Civil (CPC). Com efeito, a ao rescisria fundada no erro de fato, nos termos do art. 966, VIII e  1, do CPC, pressupe que o acrdo rescindendo tenha admitido um fato inexistente, ou considerado inexistente um fato efetivamente ocorrido, que seja relevante e capaz de conduzir  modificao do resultado do julgamento, sendo indispensvel, em ambos os casos, no ter havido controvrsia nem pronunciamento judicial a respeito. Sobre o tema, confira-se a precisa lio do professor e doutrinador Humberto Theodoro Jnior: A admisso da rescisria no caso de erro de fato cometido pelo julgador vinha merecendo, desde o Cdigo anterior, censura da doutrina por desnaturar o instituto da coisa julgada. Deve-se, por isso, interpretar restritivamente a permisso de rescindir a deciso por erro de fato e sempre tendo em vista que a rescisria no  remdio prprio para verificao do acerto ou da injustia da deciso judicial, nem tampouco meio de reconstituio de fatos ou provas deficientemente expostos e apreciados em processo findo. Segundo definio do prprio Cdigo, s haver erro autorizativo da rescisria "quando a deciso rescindenda admitir fato inexistente ou quando considerar inexistente fato efetivamente ocorrido, sendo indispensvel, em ambos os casos, que o fato no represente ponto controvertido sobre o qual o juiz deveria ter se pronunciado" (NCPC, art. 966,  1). So os seguintes os requisitos para que o erro de fato d lugar  rescindibilidade da deciso: o erro deve ser a causa da concluso a que chegou a deciso; o erro h de ser apurvel mediante simples exame das peas do processo, "no se admitindo, de modo algum, na rescisria, a produo de quaisquer outras provas tendentes a demonstrar que no existia o fato admitido pelo juiz ou que ocorrera o fato por ele considerado inexistente"; no pode ter havido controvrsia entre as partes, nem pronunciamento judicial no processo anterior sobre o fato. (Curso de Direito Processual Civil, vol. 3. 50. Ed, Rio de Janeiro: Forense, 2017, pp. 1.055/1.056 - destaquei). Conforme se extrai da doutrina e da jurisprudncia do colendo Superior Tribunal de Justia, "o cabimento da ao rescisria fundamentada na existncia de erro de fato depende da adequada demonstrao dos seguintes requisitos: a) que o erro seja relevante para o julgamento da questo; b) que seja apurvel mediante simples exame das provas j constantes dos autos da ao originria, sendo inadmissvel a produo, na rescisria, de novas provas para demonstr-lo; e c) que no tenha havido controvrsia nem pronunciamento judicial sobre o fato" (AR 5.601/MA, Rel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ação rescisória fundamentada no erro de fato, nos termos do art. 966, VIII e 1 do Código de Processo Civil, pressupõe que o acórdão rescindendo tenha admitido um fato inexistente ou considerado inexistente um fato efetivamente ocorrido, que seja relevante e capaz de conduzir à modificação do resultado do julgamento. Para que o erro de fato dê lugar à rescindibilidade da decisão, são necessários os seguintes requisitos: o erro deve ser a causa da conclusão a que chegou a decisão, o erro deve ser apurável mediante simples exame das peças do processo, não pode ter havido controvérsia entre as partes, nem pronunciamento judicial no processo anterior sobre o fato.

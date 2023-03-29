@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+40 da LPI, ao tempo em que nao contribui para a solucao do atraso cronico dos processos submetidos ao INPI, acaba por induzir o descumprimento dos prazos previstos no caput do dispositivo. A norma ameniza as consequencias da mora administrativa e prolonga o periodo de privilegio usufruido pelos depositantes, em prejuizo dos demais atores do mercado, alem da Administracao Publica, incorrendo, assim, em direta afronta aos principios da razoavel duracao do processo e da eficiencia administrativa. Por fim, digno de atencao e o impacto da extensao do prazo de vigencia de patentes no Sistema Unico de Saude (SUS), pois, sendo ele um dos maiores sistemas de saude publica do mundo e contando com uma rede de atendimento que visa universalizar o acesso a saude gratuita, demanda recursos publicos compativeis com sua amplitude e complexidade, os quais, todavia, esbarram em problemas financeiros e orcamentarios tipicos de um pais em desenvolvimento como o Brasil. O dominio comercial proporcionado pela patente por periodos muito longos tem impacto no acesso da populacao a servicos publicos de saude, uma vez que onera o sistema ao eliminar a concorrencia e impor a aquisicao de itens farmaceuticos por preco estipulado unilateralmente pelo titular do direito, acrescido do pagamento de royalties sobre os itens patenteados que o Poder Publico adquire e distribui. Consequentemente, a extensao do prazo de vigencia das patentes afeta diretamente as politicas publicas de saude do Pais e obsta o acesso dos cidadaos a medicamentos, acoes e servicos de saude, dando concretude aos prejuizos causados nao apenas a concorrentes e consumidores, mas principalmente aqueles que dependem do SUS para garantir sua integridade fisica e sua sobrevivencia. Com base nesse entendimento, o Plenario, por maioria, conheceu da acao direta e julgou procedente o pedido para declarar a inconstitucionalidade do paragrafo unico do art. 40 da Lei 9.279/1996.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A norma prevista no art. 40 da Lei 9.279/1996 não contribui para a solução do atraso cronico dos processos submetidos ao INPI, amenizando as consequências da mora administrativa e prolongando o período de privilégio usufruído pelos depositantes, em prejuízo dos demais atores do mercado. 2. A extensão do prazo de vigência das patentes afeta diretamente as políticas públicas de saúde do País e obsta o acesso dos cidadãos a medicamentos, ações e serviços de saúde, dando concretude aos prejuízos causados não apenas a concorrentes e consumidores, mas principalmente aqueles que dependem do SUS para garantir sua integridade física e sua sobrevivência. 3. O Plenário, por maioria, conheceu da ação direta e julgou procedente o pedido para declarar a inconstitucionalidade do parágrafo único do art. 40 da Lei 9.279/1996.

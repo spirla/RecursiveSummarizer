@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(Destaca-se) AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. VIOLAO AO PRINCPIO DA COLEGIALIDADE. NO OCORRNCIA. PLEITO DE EXPEDIO DE GUIA DE RECOLHIMENTO DEFINITIVA. IMPOSSIBILIDADE. MANDADO DE PRISO NO CUMPRIDO. EXCEPCIONALIDADE NO DEMONSTRADA. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. A prolao de deciso monocrtica pelo Ministro Relator calcada em jurisprudncia dominante no viola o princpio da colegialidade, em razo da possibilidade de interposio de agravo regimental para o exame da matria pelo rgo Colegiado. 2. A jurisprudncia desta Corte Superior de Justia  no sentido de que, conforme previsto no art. 674 do Cdigo de Processo Penal e no art. 105 da Lei de Execues Penais, a expedio de carta de guia definitiva s  possvel quando o Ru for efetivamente recolhido ao crcere. Apenas excepcionalmente, quando demonstrado que o crcere causar situao excessivamente gravosa ao Condenado, no inerente ao prprio cumprimento da pena imposta, caber expedir a referida guia antes do encarceramento. 3. No caso, o Agravante no demonstrou a presena de circunstncias excessivamente onerosas, tendo apenas sustentado a possibilidade de expedio da guia de recolhimento definitiva.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prolao de deciso monocrtica pelo Ministro Relator no viola o princpio da colegialidade, em razo da possibilidade de interposio de agravo regimental para o exame da matria pelo rgo Colegiado. A expedio de carta de guia definitiva s possvel quando o Ru for efetivamente recolhido ao crcere, excepcionalmente quando demonstrado que o crcere causar situao excessivamente gravosa ao Condenado. No caso, o Agravante no demonstrou a presena de circunstncias excessivamente onerosas, tendo apenas sustentado a possibilidade de expedio da guia de recolhimento definitiva. Ordem de habeas corpus denegada. Agravo regimental desprovido.

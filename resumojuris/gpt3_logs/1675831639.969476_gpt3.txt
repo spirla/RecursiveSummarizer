@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao configuracao. Redirecionamento para os socios. Nao cabimento. DESTAQUE O simples fechamento de filial de pessoa juridica nao basta para fundamentar a inclusao de socio no polo passivo de execucao fiscal. Discute-se nos autos a possibilidade de redirecionamento da execucao fiscal para os socios-gerentes em virtude de suposta dissolucao irregular de estabelecimento filial de matriz ativa em outro Estado . Nao se pode, a rigor, concluir que houve dissolucao irregular da pessoa juridica. Consoante entendimento firmado no julgamento, pela Primeira Secao do STJ, do REsp 1.355.812/RS, submetido ao regime do art. 543-C do CPC/1973, a filial de uma empresa, apesar de possuir CNPJ proprio, nao configura nova pessoa juridica, razao pela qual as dividas oriundas de relacoes juridicas decorrentes de fatos geradores atribuidos a determinado estabelecimento constituem, em verdade, obrigacao tributaria da sociedade empresaria como um todo . 126 Nos termos do voto condutor, as filiais sao uma especie de estabelecimento empresarial, fazendo parte do acervo patrimonial de uma unica pessoa juridica, partilhando dos mesmos socios, contrato social e firma ou denominacao do principal estabelecimento, de modo que podem ser responsabilizadas por dividas da matriz . Assim, firmada a premissa de que a obrigacao tributaria e da sociedade empresaria como um todo, composta por suas matrizes e filiais , a subsistencia da pessoa juridica afasta a caracterizacao de dissolucao irregular pelo simples fechamento de um de seus estabelecimentos. Consequentemente, nao se afigura possivel incluir, no caso concreto, o socio no polo passivo da execucao fiscal. (Informativo  Ed.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O simples fechamento de filial de pessoa juridica não é suficiente para fundamentar a inclusão de sócio no polo passivo de execução fiscal. 2. As filiais são uma espécie de estabelecimento empresarial, fazendo parte do acervo patrimonial de uma única pessoa jurídica, partilhando dos mesmos sócios, contrato social e firma ou denominação do principal estabelecimento. 3. As dívidas oriundas de relações jurídicas decorrentes de fatos geradores atribuídos a determinado estabelecimento constituem, em verdade, obrigação tributária da sociedade empresária como um todo. 4. A subsistência da pessoa jurídica afasta a caracterização de dissolução irregular pelo simples fechamento de um de seus estabelecimentos. 5. Não é possível incluir, no caso concreto, o sócio no polo passivo da execução fiscal.

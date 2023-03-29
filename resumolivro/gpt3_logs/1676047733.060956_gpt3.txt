@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+As agravantes e as causas de aumento importam variao do juzo de censura da culpabilidade, na medida em que se verifique maior ou menor exigibilidade de conduta diversa. A agravante da reincidncia parece no estar vinculada  culpabilidade. No sentido da ilegitimidade dessa hiptese de agravao da responsabilidade penal, alinha-se como principal argumento o entendimento de que a majorao decorrente da reincidncia constituiria dupla punio por crime anteriormente julgado, que significa reprovao baseada na valorao da conduta de vida do acusado. Contudo, sob o ponto de vista adequado, pode-se perceber que, ao indivduo que foi anteriormente advertido sobre seu comportamento antissocial, por meio de condenao judicial, apresenta-se mais exigvel que, no futuro, tenha comportamentos compatveis com a ordem jurdica. Na medida em que a exigibilidade de conduta diversa  um elemento do juzo de culpabilidade, o indivduo no estar sendo novamente punido pelo crime anteriormente praticado, com a agravao da pena, mas recebendo maior reprovao pela prtica do prprio crime posterior. Excees  regra do juzo de reprovao. Somente com o intuito de mitigar a reprovao penal pela prtica de comportamento determinado  que  possvel alterar a definio da pena a ser aplicada em ateno a fatores estranhos  culpabilidade. Tal mitigao no viola o princpio da culpabilidade, pois o seu juzo de reprovao estabelece o mximo de pena a ser aplicada, e esta, por influncia de outros fatores, pode ser aplicada em limite inferior. Na primeira fase da dosimetria da pena, a culpabilidade  uma das circunstncias judiciais previstas no artigo 59 do CP. As demais circunstncias, quando favorveis ao condenado, podem fazer que a pena-base seja aplicada em patamar inferior ao que  indicado pela reprovao da culpabilidade. Na segunda fase, a considerao das circunstncias legais pode fazer a pena variar em decorrncia de aspectos no relacionados com a exigibilidade de conduta diversa que constitui a essncia do juzo de reprovao da culpabilidade.  o que acontece com as atenuantes relacionadas com a idade do condenado (artigo 65, I), a mitigao das consequncias do crime ou a reparao dos danos (artigo 65, III, alnea c) ou da confisso espontnea (artigo 65, III, d). Em todos os casos, a alterao que se apresenta desvinculada da exigibilidade de conduta diversa produz abrandamento da resposta repressiva que  dirigida ao condenado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A agravante da reincidncia pode ser considerada ilegítima, pois significaria uma dupla punição pelo crime julgado anteriormente. No entanto, como a exigibilidade de conduta diversa é um elemento do juzo de culpabilidade, o indivíduo não está sendo novamente punido, mas recebendo maior reprovão pela prática do próprio crime posterior. Durante a dosimetria da pena, a culpabilidade é uma das circunstâncias judiciais previstas no artigo 59 do CP, e as demais circunstâncias, quando favoráveis ao condenado, podem fazer que a pena-base seja aplicada em patamar inferior.

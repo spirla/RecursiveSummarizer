@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+226 do CPP), o reconhecimento pessoal, embora seja valido, nao tem forca probante absoluta, de sorte que nao pode induzir, por si so, a certeza da autoria delitiva, em razao de sua fragilidade epistemica. Todavia, no caso, a condenacao nao foi baseada apenas no reconhecimento realizado pela vitima, mas, tambem, nas demais provas coligidas aos autos, sob o crivo do contraditorio e da ampla defesa. Desse modo, se as demais provas que compuseram o acervo fatico-probatorio amealhado aos autos foram produzidas por fonte independente da que culminou com o elemento informativo obtido por meio do reconhecimento fotografico realizado na fase inquisitiva, de maneira que, ainda que o reconhecimento haja sido feito em desacordo com o modelo legal e, assim, nao possa ser sopesado, nem mesmo de forma suplementar, para fundamentar a condenacao do reu, aquelas provas, independentes e suficientes o bastante, produzidas sob o crivo do contraditorio e da ampla defesa, podem lastrear o decreto condenatorio. (Informativo n. 758) PROCESSO Processo sob segredo judicial, Rel. Min. Laurita Vaz, Sexta Turma, por unanimidade, julgado em 04/10/2022, DJe 10/10/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Acordo de nao persecucao penal. ANPP. Confissao formal e circunstanciada do fato criminoso. Art. 28-A do CPP. Declaracao de inconstitucionalidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O reconhecimento pessoal não tem força probante absoluta, de sorte que não pode induzir, por si só, a certeza da autoria delitiva, em razão de sua fragilidade epistemica. 2. A condenação não foi baseada apenas no reconhecimento realizado pela vítima, mas também nas demais provas coligidas aos autos, sob o crivo do contraditório e da ampla defesa. 3. Se as demais provas que compuseram o acervo fático-probatório amealhado aos autos foram produzidas por fonte independente da que culminou com o elemento informativo obtido por meio do reconhecimento fotográfico realizado na fase inquisitiva, aquelas provas, independentes e suficientes o bastante, podem lastrear o decreto condenatório.

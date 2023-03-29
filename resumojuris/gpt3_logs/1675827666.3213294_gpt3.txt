@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A imunidade dos partidos politicos destina-se a garantir o regime democratico e o livre exercicio dos direitos politicos; a das suas fundacoes, a tutelar a realizacao do seu escopo precipuo de difundir a ideologia partidaria e promover o exercicio da cidadania; a das entidades sindicais dos trabalhadores, a assegurar o pleno exercicio da liberdade de associacao sindical e dos direitos individuais e coletivos dos trabalhadores; a das instituicoes de educacao e de assistencia social, sem fins lucrativos, a proteger direitos sociais, como os direitos a educacao, a saude, ao livre desenvolvimento da personalidade e a assistencia social. Portanto, essas instituicoes desempenham um papel essencial na nossa sociedade, atuando ao lado do Estado na concretizacao dos direitos fundamentais, que o Poder Publico nao logra realizar de forma otima. Sao essas finalidades que devem nortear a definicao do alcance da referida imunidade. Por essa razao, nao se pode conferir aos vocabulos patrimonio e renda , inscritos no art. 150,  4, da CF, interpretacao demasiado restritiva, que exponha a tributacao as movimentacoes patrimoniais (financeiras) e a renda obtida com operacoes financeiras. O chamado IOF e o imposto previsto no art. 153, V, da CF, que incide sobre operacoes de credito, cambio e seguro, ou relativas a titulos ou valores mobiliarios . Embora, juridicamente, a tributacao incida sobre essas operacoes, acaba por, efetivamente, alcancar o patrimonio ou a renda dos respectivos contribuintes. Ademais, o art. 2,  3, do proprio Regulamento do IOF, aprovado pelo Decreto 6.306/2007, estabelece expressamente que o imposto nao incide sobre as operacoes realizadas pelos entes imunes, desde que vinculadas as finalidades essenciais destes. A exigencia de vinculacao do patrimonio, da renda e dos servicos com as finalidades essenciais da entidade imune nao se confunde com afetacao direta e exclusiva a tais finalidades.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A imunidade dos partidos políticos destina-se a garantir o regime democrático e o livre exercício dos direitos políticos; 2. A imunidade das suas fundações tem como objetivo tutelar a realização do seu escopo principal de difundir a ideologia partidária e promover o exercício da cidadania; 3. A imunidade das entidades sindicais dos trabalhadores visa assegurar o pleno exercício da liberdade de associação sindical e dos direitos individuais e coletivos dos trabalhadores; 4. A imunidade das instituições de educação e de assistência social, sem fins lucrativos, tem como objetivo proteger direitos sociais, como os direitos à educação, à saúde, ao livre desenvolvimento da personalidade e à assistência social; 5. A exigência de vinculação do patrimônio, da renda e dos serviços com as finalidades essenciais da entidade imune não se confunde com afeição direta e exclusiva a tais finalidades.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 757) PROCESSO AREsp 1.883.314-DF, Rel. Min. Joel Ilan Paciornik, Quinta Turma, por unanimidade, julgado em 25/10/2022, DJe 18/11/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Tribunal do juri. Homicidio. Tese defensiva. Desclassificacao para lesao corporal seguida de morte. Formulacao de quesitos referentes ao dolo direito e ao dolo eventual. Dolo eventual nao discutido em plenario. Ofensa ao principio da amplitude de defesa. Nao configuracao. Questao abarcada pela tese defensiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Tribunal do Júri é competente para julgar casos de homicídio. 2. É possível a desclassificação de homicídio para lesão corporal seguida de morte. 3. É necessário formular quesitos referentes ao dolo direito e ao dolo eventual. 4. Não configura ofensa ao princípio da amplitude de defesa a não discussão do dolo eventual em plenário, desde que abarcada pela tese defensiva.

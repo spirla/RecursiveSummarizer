@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+2) Da ausncia de interesse recursal Em seu parecer de Evento 33 - TJM, a eminente procuradora de justia disse que no se encontra presente o interesse por parte do apelante, o que torna a forma recursal imprpria e as partes ilegtimas. Aduziu que a defesa restringiu expressamente o seu inconformismo  fundamentao para as absolvies do ru pelos delitos de tentativa de homicdio e violncia contra superior, no contestando a condenao pelo crime de recusa de obedincia, previsto no artigo 163 do CPM. Aduziu, ainda, que limitado, desta maneira, o objeto recursal  parte absolutria da sentena e considerando que a absolvio foi decretada sem qualquer ressalva, essa parte da deciso no gerou ao acusado qualquer sucumbncia, que  exatamente a desconformidade entre o que foi pleiteado e o que foi concedido. Alegou que interesse em recorrer  reconhecido a partir da sucumbncia e que restou ausente um dos pressupostos recursais no tocante  parte absolutria da deciso, o que, tambm preliminarmente, impede o conhecimento do apelo defensivo. Pois bem, segundo entendimento adotado em nossos tribunais, admite-se a interposio de recurso contra deciso absolutria com a finalidade de que o ru seja absolvido por fundamento diverso do exposto na sentena, em considerao aos efeitos extrapenais distintos que podem advir das hipteses da absolvio. EMENTA: APELAO CRIMINAL - INTERESSE RECURSAL CONFIGURADO - CORRUPO PASSIVA - ABSOLVIO POR INSUFICINCIA DE PROVAS - ALTERAO DO FUNDAMENTO DA ABSOLVIO - NO CABIMENTO. Diante de sentena que absolve o ru por insuficincia de provas, e, por isso, incapaz de ilidir a responsabilidade civil, h interesse recursal na busca de fundamento absolutrio mais favorvel ao agente, tal como se sucede na aplicao dos incisos I e IV do artigo 386 do Cdigo de Processo Penal. No caso, no  possvel modificar a capitulao legal que a sentena utilizou para absolver o ru, haja vista que os elementos constantes dos autos no revelam, de forma indubitvel, que ele no concorreu para a prtica delitiva. (TJMG - Apelao Criminal 1.0720.10.003752-5/001, Relator(a): Des.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A absolvio do ru pelos delitos de tentativa de homicdio e violncia contra superior foi decretada sem qualquer ressalva, o que impede o conhecimento do apelo defensivo. Entretanto, admite-se a interposio de recurso contra deciso absolutria com a finalidade de que o ru seja absolvido por fundamento diverso do exposto na sentena, em considerao aos efeitos extrapenais distintos que podem advir das hipteses da absolvio.

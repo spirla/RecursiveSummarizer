@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com a superao da democracia liberal, que estabeleceu a prevalncia dos princpios individualistas, a democracia social desmascarou o dogma de que o pluralismo social  redutvel a uma unidade formal capaz de equilibrar seus antagonismos. A tarefa agora  desvendar a ideologia que est oculta nos postulados jurdicos tradicionais e considerar a existncia de inmeros e distintos grupos sociais que se interpem entre o indivduo e o Estado. Na realidade, toda regra jurdica  resultante de uma escolha entre vrios caminhos, pois no  certo que somente exista uma nica via legtima perante uma mesma exigncia axiolgica. Assim, o jurdico , antes de tudo, poltico, porque  submetido s influncias determinantes prprias da posio social ocupada pelo detentor do poder de escolha. A lei  criao de um processo poltico. O crime e o criminoso so conceitos definidos pela organizao poltica da sociedade. Quem faz a lei, quem persegue o criminoso e quem o condena so agentes do poder poltico. O prprio Marqus de Beccaria j havia percebido que a Justia dos homens, a qual qualificou de Justia Poltica, no passa de uma relao estabelecida entre uma ao e o estado varivel da sociedade. Nos dias atuais, o poder poltico no mais se fundamenta na fora fsica, mas na manipulao ideolgico-simblica que visa a obter a aceitao social para as formas de interveno punitiva. O Estado detm o monoplio da represso fsica organizada e busca sua legitimao ao apresent-lo como decorrente do interesse geral do povo. A doutrina do Estado de Direito presta-se, com eficincia,  funo legitimadora do poder poltico, apresentando-se como justa e colocada  margem das manipulaes particularizadas. Entretanto, uma observao atenta do funcionamento do Estado Democrtico faz perceber que o discurso nem sempre se verifica na prtica. Na verdade, teoria e prtica situam-se em dois planos muito distintos, que tomam direes diversas e descrevem velocidades desiguais. A realidade, constantemente, faz realar o fato de que o exerccio do poder poltico, muitas vezes, conduz o sistema de instituies do Estado a transgredir o ordenamento jurdico que foi por ele mesmo estabelecido. Todo ordenamento jurdico participa de uma dominao, posto que resulta em um conjunto de restries impostas aos indivduos pelo Estado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A democracia social desmascara o dogma de que o pluralismo social pode ser reduzido a uma unidade formal. O julgamento é político, pois é determinado pela posição social do detentor do poder de escolha. O Estado de Direito tem a função de legitimar o poder político, mas, na prática, o exerccio do poder político muitas vezes transgride o ordenamento jurdico estabelecido.

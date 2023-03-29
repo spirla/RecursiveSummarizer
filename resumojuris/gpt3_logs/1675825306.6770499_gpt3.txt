@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+8, caput, I e II)], bem assim, em sua dimensao individual, consagra a liberdade dos interessados em aderirem ou nao ao sindicato ou desfiliar-se conforme sua vontade. A Lei 11.295/2006, ao garantir o direito de sindicalizacao aos empregados de organismos sindicais, nada mais fez do que explicitar uma liberdade conferida aquele grupo de trabalhadores pelo proprio texto constitucional. Cabe destacar que o paragrafo unico do art. 526 da CLT, em sua redacao original, nao foi recepcionado pela CF/88, motivo pelo qual esse dispositivo normativo ja estava tacitamente revogado antes mesmo da edicao da Lei 11.295/2006. Com base nesse entendimento, o Plenario julgou improcedente o pedido de declaracao de inconstitucionalidade da Lei 11.295/2006. ADI 3890/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 7.6.2021 (segunda-feira), as 23:59 (INF 1020) 7.2 CORRECAO MONETARIA Indices de correcao monetaria aplicaveis a debitos trabalhistas e depositos recursais no ambito da Justica do Trabalho - ADC 58/DF, ADC 59/DF, ADI 5867/DF e ADI 6027/DF Resumo: E inadequada a aplicacao da Taxa Referencial (TR) para a correcao monetaria de debitos trabalhistas e de depositos recursais no ambito da Justica do Trabalho. A utilizacao da TR como indice da atualizacao dos debitos trabalhistas e inadequada, pois a composicao do valor dessa taxa nao reflete o poder aquisitivo da moeda e sua aplicacao cria um desequilibrio na relacao obrigacional entre credor e devedor, gerando, de um lado, enriquecimento ilicito e, de outro, ofensa ao direito de propriedade. Com efeito, o indice a ser aplicado deve preservar os valores dos creditos trabalhistas, que tem natureza alimentar, e a previsao legislativa desse indice deve afastar a defasagem entre o valor nominal e o valor real da moeda com o passar do tempo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei 11.295/2006 garante o direito de sindicalização aos empregados de organismos sindicais. 2. O parágrafo único do art. 526 da CLT não foi recepcionado pela CF/88. 3. É inadequada a aplicação da Taxa Referencial (TR) para a correção monetária de débitos trabalhistas e de depósitos recursais no âmbito da Justiça do Trabalho. 4. O índice a ser aplicado deve preservar os valores dos créditos trabalhistas, que têm natureza alimentar. 5. A previsão legislativa desse índice deve afastar a defasagem entre o valor nominal e o valor real da moeda com o passar do tempo.

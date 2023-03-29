@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Conforme relatado, em 28/10/2021 a autoridade tida como coatora decidiu converter a priso preventiva e impor medidas cautelares diversas da priso em favor do paciente, fazendo-o sob os seguintes fundamentos e condies: [...] Considerando que um dos motivos para a decretao da priso cautelar foi a garantia da ordem pblica e a periculosidade do agente face a possibilidade concreta de reiterao de novos delitos por parte do denunciado e que tais motivos ainda persistem, probo o denunciado de frequentar a cidade de conceio de Ipanema/MG, cidade local dos fatos e de residncia das testemunhas, nos termos do art. 319, inciso II, do CPP c/c art. 3o alnea "a" do CPPM. Considerando que as testemunhas arroladas na denncia narraram na sua oitiva em juzo que ainda esto se sentindo amedrontadas pelo denunciado e que a vtima ainda no foi inquirida, entendo que  necessrio que o denunciado se abstenha de manter contato com determinadas pessoas at que seja proferida a sentena no presente feito, a fim de se evitar a prtica de novas infraes penais, pelo que probo o denunciado de manter qualquer tipo de contato, seja ele pessoal, telefnico ou virtual por meio de e-mail ou aplicativos de mensagens com a vtima Estevam Rosa e com as testemunhas Imirene de Oliveira Couto e Taynnara dylla Werly Pereira da Costa, nos termos do art. 319, inciso III, do CPP c/c art. 3o alnea "a" do CPPM. Considerando que a priso preventiva tambm foi decretada para convenincia da instruo criminal, bem como para assegurar a aplicao da lei penal militar, entendo que tais motivos ainda esto presentes no caso concreto, posto que a instruo criminal ainda est em curso e a permanncia do denunciado em cidade distante do local dos fatos  medida conveniente para a continuidade da instruo processual, pelo que probo o denunciado de ausentar-se da Comarca de Joo Monlevade/MG sem autorizao do juzo, nos termos do art. 319, inciso IV, do CPP c/c art. 3o alnea "a" do CPP. Considerando que o denunciado se valeu da sua condio de policial militar para, em tese, praticar as condutas narradas na denncia alm de ter utilizado de arma da carga da PMMG para ameaar as testemunhas do fato efetuando disparos de arma de fogo na parede do seu estabelecimento comercial, considero como necessria a limitao do exerccio da funo pblica, pelo que determino que o denunciado cumpra expediente administrativo e interno, sem o uso de armamento at a prolao da sentena no presente feito, nos termos do art. 319, inciso VI, do CPP c/c 3o alnea "a" do CPPM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A autoridade coatora decidiu converter a priso preventiva do paciente e impor medidas cautelares diversas da priso, como proibio de frequentar a cidade de conceio de Ipanema/MG, absteno de manter contato com determinadas pessoas, absteno de ausentar-se da Comarca de Joo Monlevade/MG e limitao do exerccio da funo pblica.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+EQUVOCO NA INDICAO DO PRAZO LEGAL PARA A INTERPOSIO DAQUELES EMBARGOS PELO INSS. ERRO GROSSEIRO. INAPLICABILIDADE DO ART. 183,  1, DO CPC/1973. 1. Tendo o acrdo recorrido sido publicado na vigncia do CPC/1973, no exame dos pressupostos de admissibilidade do recurso ser observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenrio desta Corte, na Sesso de 9 de maro de 2016. 2. Uma vez que o Tribunal de origem dirimiu, fundamentadamente, as questes que lhe foram submetidas, apreciando integralmente a controvrsia posta nos autos, no h falar em afronta ao art. 535, I e II, do CPC/1973. 3. A jurisprudncia deste Superior Tribunal firmou-se no sentido de que, se ficar evidenciado erro ou omisso nas informaes disponibilizadas no sistema eletrnico, que prejudiquem a parte, caracteriza-se sua boa-f, o que atrai a incidncia do disposto no art. 183,  1 e 2, do CPC/1973. Precedente: REsp 1.324.432/SC, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 17/12/2012, DJe 10/5/2013. 4. No REsp 1.324.432/SC foi julgada hiptese em que a data de intimao constante no sistema de acompanhamento processual fornecido pelo prprio Poder Judicirio, na internet, era equivocada, induzindo a parte ento embargante a contar o prazo legal de 30 (trinta) dias de forma errada, o que culminou com a interposio dos embargos  execuo de modo intempestivo. 5. J no presente caso concreto o erro imputado ao Poder Judicirio foi outro, a saber, a indicao, no sistema de acompanhamento processual, de que o prazo para a interposio dos embargos  execuo seria de 60 (sessenta) dias, ao invs dos 30 (trinta) dias previstos no art. 1-B da Lei 9.494/1997 6.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de origem dirimiu, fundamentadamente, as questes que lhe foram submetidas, apreciando integralmente a controvrsia posta nos autos, no havendo afronta ao art. 535, I e II, do CPC/1973. O erro imputado ao Poder Judicirio foi a indicao, no sistema de acompanhamento processual, de que o prazo para a interposio dos embargos execuo seria de 60 (sessenta) dias, ao invés dos 30 (trinta) dias previstos na Lei 9.494/1997, o que caracteriza a incidência do disposto no art. 183, 1 e 2, do CPC/1973.

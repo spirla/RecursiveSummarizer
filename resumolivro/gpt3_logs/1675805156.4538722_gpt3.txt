@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+17 ed. Rio de Janeiro: Impetus, 2015. v. 1. p. 472). 171 BITENCOURT, Cezar Roberto. Tratado de direito penal: parte geral, p. 424. 172 Artigo 47. Deixam de ser elementos constitutivos do crime: I - a qualidade de superior ou a de inferior, quando nao conhecida do agente; II - a qualidade de superior ou a de inferior, a de oficial de dia, de servico ou de quarto, ou a de sentinela, vigia, ou plantao, quando a acao e praticada em repulsa a agressao. 173 Artigo 48. Nao e imputavel quem, no momento da acao ou da omissao, nao possui a capacidade de entender o carater ilicito do fato ou de determinar-se de acordo com esse entendimento, em virtude de doenca mental, de desenvolvimento mental incompleto ou retardado. 174 Artigo 49. Nao e igualmente imputavel o agente que, por embriaguez completa proveniente de caso fortuito ou forca maior, era, ao tempo da acao ou da omissao, inteiramente incapaz de entender o carater criminoso do fato ou de determinar-se de acordo com esse entendimento. 175 Oliveira, Mauricio Jose de. Op. cit.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tratado de Direito Penal: Parte Geral (Bitencourt, 2015) estabelece que a qualidade de superior ou inferior não é elemento constitutivo do crime quando não conhecida do agente. Além disso, não é imputável quem não possui a capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento, devido a doença mental, desenvolvimento mental incompleto ou retardado. Por fim, não é imputável o agente que, por embriaguez completa proveniente de caso fortuito ou força maior, era inteiramente incapaz de entender o caráter criminoso do fato ou de determinar-se de acordo com esse entendimento (Oliveira, 2015).

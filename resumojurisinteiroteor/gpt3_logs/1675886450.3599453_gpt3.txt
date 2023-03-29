@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Constata-se, claramente, que no se perfez o prazo prescricional, como supe o autor. Quanto  ativao, nenhuma irregularidade ocorreu. O autor foi notificado em 08/10/2020, o que o prprio autor reconhece (evento 1, DOC12 e DOC13). Indeferido o recurso interposto pelo autor, a administrao militar ativa a sano disciplinar (evento 1, DOC14), observando os artigos 473 e 476 do MAPPA. O indeferimento de oitiva da testemunha de defesa - Cel PM Luprcio Peres Dalva - foi devidamente motivado (evento 1, DOC10). Outrossim, no se demostrou qualquer prejuzo porventura ocorrido, conforme exige o artigo 69 do CEDM. No h nenhuma irregularidade no ato administrativo disciplinar, que foi pautado pela estrita legalidade. Aspectos de mrito no so apreciados pelo Judicirio, pelo que contm o artigo 2 da Constituio Federal. No prospera o pedido do autor. Com tais fundamentos, julgou improcedentes os pedidos do autor, determinando a extino do feito, com resoluo do mrito, nos termos do artigo 487, inciso I, do CPC. Condenou o autor ao pagamento das custas processuais e dos honorrios advocatcios, os quais arbitrou em 10% (dez por cento) do valor dado  causa, suspendendo a exigibilidade da cobrana, nos termos do 3 do art. 98 do CPC (Evento 28, SENT1). Irresignada, a defesa interps recurso de apelao. Em sntese, reiterou os argumentos trazidos em sua pea inicial. Ao final, alegou que a sentena a quo deve ser reformada ou anulada, por ausncia de fundamentao, uma vez que o juiz de direito da 5a AJME exps, de forma insatisfatria, as razes de seu convencimento, em desconformidade com o art. 93, inciso IX, da Constituio Federal (CF) e no art. 489, 1, incisos III e IV, do CPC. Com essas consideraes, requereu, in verbis: 80 devoluo dos 14 (quatorze) pontos descreditados do conceito funcional do Apelante, [...]; 2) Declarar a nulidade do ato administrativo em anlise, conforme fundamentao expendida consistente de 04 (quatro) causas de nulidades, determinando a devoluo dos pontos descreditados do conceito funcional em virtude do Processo ora combatido; 3) Reforma da r. sentena e acolhimento do pedido inicial diante da farta, extensa e reiterada demonstrao de atos atentatrios aos artigos 37, Art. 5, inciso LV, LXXVIII da Carta Magna.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso interposto pelo autor foi indeferido, pois no foi demonstrado qualquer prejuzo ocorrido, e nenhuma irregularidade foi constatada no ato administrativo disciplinar. O pedido do autor foi julgado improcedente, determinando a extino do feito com resoluo do mrito. O recurso de apelao foi rejeitado, pois o juiz de direito da 5a AJME fundamentou de forma satisfatria a sentena.

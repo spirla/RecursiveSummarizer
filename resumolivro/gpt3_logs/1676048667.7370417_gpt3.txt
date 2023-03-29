@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Considerar que inquritos policiais e aes penais em curso so indicativos de maus antecedentes no implica qualquer violao ao princpio da no culpabilidade ou do estado de inocncia. Tambm no se trata de condenao hipottica ou antecipada. O princpio poltico-criminal da culpabilidade, o qual materializa reprovao pelo fato praticado e efetivamente submetido a julgamento pelo Poder Judicirio, estabelece o limite mximo para a aplicao da pena por este fato. Um ordenamento jurdico-penal fundamentado no princpio da culpabilidade  incompatvel com a majorao da pena com base em fatos anteriores ao que se analisa no processo de referncia. No entanto, se o respeito ao princpio poltico-criminal da culpabilidade impede a aplicao de pena acima do indicado pela culpabilidade, no h restries  aplicao de pena aqum do indicado pela culpabilidade do fato submetido a julgamento.  que, expressamente, o artigo 59 vincula a imposio de pena  sua necessidade e suficincia para a reprovao e preveno do crime. Se o condenado possuir timos antecedentes, o julgador poder convencer-se da desnecessidade de aplicao da pena conforme a reprovao da culpabilidade e reduzir a reprimenda. Dessa forma, os maus antecedentes no podem elevar a pena para alm do limite indicado pela culpabilidade, muito embora seja comum verificarem-se, na prtica, cotidianas violaes ao princpio constitucional do nulla poena sine culpa. Na avaliao da necessidade e suficincia da pena indicada pela culpabilidade para a reprovao e preveno do crime, entretanto, a constatao dos maus antecedentes presta-se a confirmar a necessidade de aplicar a pena conforme indicado pela culpabilidade. O envolvimento em nmero significativo de casos de repercusso criminal, mesmo que no haja condenao definitiva, pode ser considerado indcio de que o ru no merea receber pena abaixo do limite estabelecido pela culpabilidade pelo fato concretamente posto a julgamento. Nesse caso, a pena aplicada decorre da reprovao que se faz sobre o fato objeto de acusao, e no sobre fatos anteriores. O reconhecimento dos maus antecedentes tambm pode compensar os efeitos da verificao de outra circunstncia judicial que se apresente favorvel ao ru, mas nunca majorar a pena de forma que o limite mximo estabelecido pela culpabilidade seja transposto. Isso, evidentemente, no significa violar o princpio do nula pena sine culpa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio político-criminal da culpabilidade impede que a pena seja majorada com base em fatos anteriores ao que está sendo julgado, mas não impede que seja reduzida. A constatação de maus antecedentes pode confirmar a necessidade de aplicar a pena indicada pela culpabilidade, mas nunca pode ultrapassar o limite estabelecido por ela.

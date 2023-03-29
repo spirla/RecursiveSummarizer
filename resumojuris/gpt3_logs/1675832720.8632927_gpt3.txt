@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Dessa forma, a pena do crime de furto qualificado, acrescida do quantum relativo a incidencia da majorante, desconsiderando-se a incidencia de quaisquer outras circunstancias agravantes ou causas de aumento, poderia resultar em 10 anos e 8 meses, pena superior a do crime de roubo, tipo penal em que se protegem nao so bens patrimoniais, tal qual no crime de furto, mas tambem a integridade corporal. Sendo assim, nao se mostra razoavel que determinada pena possa ser semelhante para crimes de gravidades diversas, como sao o furto, ainda que em sua forma qualificada, e o roubo. Acrescente-se, tambem sob o enfoque do principio da proporcionalidade, que, sendo a controversia a interpretacao de normas penais que podem ensejar, em um cenario de duvida, a incidencia de penas mais severas, e razoavel que tambem se analise o tema sob a perspectiva das circunstancias a seguir relacionadas, muitas delas relativas a politica criminal, que nao contribuirao para a concretizacao do escopo preventivo, repressivo e reabilitatorio do Direito Penal: a) busca de resolucao de questoes sociais mediante a exagerada edicao da legislacao penal e processual penal mais severa; b) existencia de componentes administrativos na seara criminal que operam com deficiencia, tais como os estabelecimentos prisionais, a sobrecarga dos tribunais, a ineficacia de aplicacao de penas classicas, sobretudo sobre o aspecto da reabilitacao do condenado, o alto custo do sistema penitenciario associado a escassez de recursos publicos para sua manutencao e melhoria, etc. Deve- se registrar tambem que o principio da proporcionalidade destina-se igualmente a evitar a protecao insuficiente ou deficiente dos bens juridicos resguardados pelo Direito Penal. 65 Ora, e evidente que a lesividade advinda do cometimento do furto qualificado durante o repouso noturno e maior que a do furto simples ocorrente no mesmo periodo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A pena do crime de furto qualificado, acrescida do quantum relativo à incidência da majorante, desconsiderando-se a incidência de quaisquer outras circunstâncias agravantes ou causas de aumento, pode resultar em 10 anos e 8 meses, pena superior a do crime de roubo. 2. Não se mostra razoável que determinada pena possa ser semelhante para crimes de gravidades diversas, como são o furto, ainda que em sua forma qualificada, e o roubo. 3. O princípio da proporcionalidade destina-se igualmente a evitar a proteção insuficiente ou deficiente dos bens jurídicos resguardados pelo Direito Penal. 4. A lesividade advinda do cometimento do furto qualificado durante o repouso noturno é maior que a do furto simples ocorrente no mesmo período.

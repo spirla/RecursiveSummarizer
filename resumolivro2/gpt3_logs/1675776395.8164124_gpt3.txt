@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STF concedeu ordem de habeas corpus, pois, sendo o ato de indiciamento de atribuio exclusiva da autoridade policial, no existe fundamento jurdico que autorize o magistrado, aps receber a denncia, requisitar o indiciamento de determinada pessoa. Decidiu o STJ que com o recebimento da denncia, encontra-se encerrada a fase investigatria, e o indiciamento da paciente, neste momento, configura-se coao desnecessria e ilegal. As informaes relativas a inqurito no podem ser excludas do banco de dados do instituto de identificao porque fazem parte da histria de vida do agente, cujo acesso pode contribuir para esclarecimento de crimes. Tanto, pois, o STJ decidiu que devem ser mantidos nos registros criminais sigilosos os dados relativos a inquritos arquivados aplicando por analogia o que dispe o artigo 748 do CPP, que assegura ao reabilitado o sigilo das condenaes criminais, como tambm que o sigilo das informaes  para efeitos civis, porm para efeitos penais devem ser mantidos os registros, que podem ser fornecidos pelo instituto de identificao no caso de requisio judicial. Representao da priso preventiva. Na representao que fizer ao juiz para decretar a priso preventiva do indiciado, o encarregado deve, alm de apontar a prova do fato delituoso e os indcios de autoria, justificar a necessidade da medida cautelar para garantia da ordem pblica (risco de que solto o indiciado pode praticar outros crimes militares), ou para convenincia da instruo criminal (risco de que solto o indiciado pode ameaar vtima ou testemunha, ou fazer desaparecer alguma prova), ou por conta da periculosidade do indiciado, ou para segurana da aplicao da lei penal militar (risco de fuga) ou para manuteno das normas ou princpios da hierarquia e disciplina militar. O segundo aspecto a ser ressaltado  que acolhida pelo juiz, com a concordncia do Ministrio Pblico, a representao de priso preventiva, conta-se o prazo de 20 dias do dia da priso para o encerramento do IPM. O prazo  improrrogvel. Esgotado esse prazo, os autos so encaminhados ao juzo e a denncia oferecida no prazo no prorrogvel de 5 (cinco) dias (artigo 79, pargrafo 1, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF concedeu ordem de habeas corpus pois o indiciamento é de atribuição exclusiva da autoridade policial. O STJ decidiu que os dados relativos a inquéritos arquivados devem ser mantidos nos registros criminais sigilosos. Na representação para decretar a prisão preventiva, o encarregado deve justificar a necessidade da medida cautelar e conta-se com um prazo de 20 dias para o encerramento do IPM, seguido de um prazo não prorrogável de 5 dias para a oferta da denúncia.

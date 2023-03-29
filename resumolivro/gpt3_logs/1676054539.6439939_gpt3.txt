@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A noo de servido tem origem no feudalismo e caracteriza a situao de dominao que uma pessoa exerce sobre outra em razo de dvidas contradas pelo emprstimo da terra por aquele que se torna servo. O escravo, por outro lado,  um objeto que encontra-se sob a propriedade do dono. Importa registrar que, nos termos do artigo 1 da Conveno Suplementar sobre a Abolio da escravatura do Trfico de Escravos e das Instituies e Prticas Anlogas  Escravatura, adotada em Genebra a 7 de setembro de 1956, e inserida na ordem jurdica interna por meio do Decreto 58.563/66, os estados signatrios se comprometem a combater: a) A servido por dividas, isto , o estado ou a condio resultante do fato de que um devedor se haja comprometido a fornecer, em garantia de uma dvida, seus servios pessoais ou os de algum sobre o qual tenha autoridade, se o valor desses servios no for equitativamente avaliado no ato da liquidao de dvida ou se a durao desses servios no for limitada nem sua natureza definida; e b) a servido isto , a condio de qualquer um que seja obrigado pela lei, pelo costume ou por um acordo, a viver e trabalhar numa terra pertencente a outra pessoa e a fornecer a essa outra pessoa, contra remunerao ou gratuitamente, determinados servios, sem poder mudar sua condio. O trfico de pessoas tambm pode se caracterizar quando a conduta do sujeito ativo se orienta pela inteno de promover a adoo ilegal da vitima. Esta hiptese  conhecida pela denominao de trfico de crianas, que envolve o negcio ilcito de venda de crianas para serem adotadas por pessoas que, por qualquer motivo no podem ou no querem gerar os prprios filhos. Em muitos casos o negcio da venda de crianas se ampara na vulnerabilidade econmica e social de seus pais. A adoo de crianas e adolescentes  regulada pelos artigos 39 a 52-D da Lei 8.069/1990 e a adoo ilegal a que se refere o tipo incriminador  a adoo que no observa os termos da referida lei. Para os fins da incriminao, o trfico tanto pode ser realizado com a finalidade de conduo da vitima para fora do Brasil quanto para local inserido no territrio nacional. Por fim, o trfico de pessoas ainda pode se caracterizar quando a conduta do sujeito ativo se orienta pela inteno de promover a explorao sexual da vitima.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A noo de servido tem origem no feudalismo e se caracteriza pela dominao de uma pessoa sobre outra. O escravo, por outro lado, um objeto de propriedade do dono. A Conveno Suplementar sobre a Abolio da Escravatura do Trfico de Escravos e das Instituies e Prticas Anlogas Escravatura proíbe a servido por dívidas e a servido, que se caracteriza pela obrigatoriedade de viver e trabalhar numa terra pertencente a outra pessoa. O tráfico de pessoas também pode se caracterizar quando houver intenção de promover a adoção ilegal ou a exploração sexual da vítima.

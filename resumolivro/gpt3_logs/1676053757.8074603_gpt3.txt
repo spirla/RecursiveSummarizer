@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Veja-se o exemplo em que o sujeito encaminha ao provedor de internet um e-mail em que consta o escrito ofensivo e este  impedido de ser encaminhado aos destinatrios. 5.11.9. Exceo da verdade. No processo judicial que trata de apurar a responsabilidade pela prtica de um crime de difamao o acusado tambm pode pretender provar que o fato ofensivo  reputao que imputou  suposta vitima  verdadeiro. No entanto, tal pretenso somente poder ser admitida em um nico caso que deve ser considerado excepcional. A regra, para o crime de difamao,  a inadmissibilidade da exceo da verdade porque para a caracterizao do crime  indiferente que o fato imputado seja ou no verdadeiro. Cabe observar que o tipo incriminador da difamao no contm entre os seus elementos objetivos a falsidade da imputao, de modo que no  necessrio comprovar a falsidade da imputao para caracterizar o crime. At mesmo a imputao de um fato verdadeiro pode constituir difamao, desde que ofensivo  reputao da vitima. Desta forma, a prova de que o fato imputado  verdadeiro no exclui a tipicidade da conduta. Mas, ento, qual seria a utilidade de provar a veracidade do fato ofensivo ?. Nos termos em que foi concebida a exceo da verdade para o crime de difamao, o problema se resolve com base no princpio do interesse preponderante. O Cdigo Penal manifesta de maneira clara o interesse de conhecer a conduta funcional irregular do funcionrio pblico ao admitir a exceo da verdade apenas nos casos em que o ofendido  funcionrio pblico e a ofensa  relativa ao exerccio de suas funes. Fica claro que o interesse pblico de conhecer, certamente para corrigir, a conduta funcional irregular do funcionrio pblico prepondera sobre o interesse de preservar sua honra objetiva imaculada. E a ponderao que o legislador fez entre bens jurdicos que se apresentam em situao de conflito conduz a questo para o mbito da ilicitude material. Na situao de conflito entre os bens juridicamente tutelados, a proteo de um deles importa a violao do outro. Quando o sacrifcio de um bem jurdico de menor valor  exigido em favor da proteo de outro de maior valor tm-se a excluso da ilicitude da conduta lesiva. Nestes termos, a licitude da conduta ofensiva  reputao da vitima somente poder ser afirmada quando tal leso for absolutamente necessria para proteger o interesse pblico de conhecer a conduta funcional irregular do funcionrio pblico, considerado como bem jurdico mais valioso.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O acusado de difamação pode tentar provar que o fato ofensivo é verdadeiro, mas isso só pode ser admitido em casos excepcionais. O interesse público de conhecer a conduta funcional irregular do funcionário público prevalece sobre o interesse de preservar sua honra objetiva. Assim, a licitude da conduta ofensiva à reputação da vítima só é afirmada quando essa lesão é necessária para proteger o interesse público.

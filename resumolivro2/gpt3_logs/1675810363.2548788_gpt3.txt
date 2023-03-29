@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A ordem de quebra do sigilo das comunicaes telefnicas  clusula de reserva de jurisdio (STF, MS 23.452, rel. Min. Celso de Mello). Clusulasdereserva de jurisdio atribuem  autoridade judiciria o controle de legalidade de determinadas diligncias investigatrias. A interceptao telefnica depende de autorizao judicial do juiz da ao principal (artigo 1, caput, da Lei 9.296/1996), todavia, enquanto no distribudo o inqurito decidiu o STF que outro juzo pode ser competente. Decidiu, tambm, o STJ que a exigncia de que a autorizao seja feita pelo juiz competente da ao principal deve ser entendida e aplicada com temperamento, para evitar eventual obstculo da atuao da Justia. O TJMSP438 na linha do entendimento do Pretrio Excelso e do STJ considerou legal a autorizao de interceptao telefnica do Juiz de Direito Corregedor Permanente da Polcia Judiciria Militar, isto porque normas de organizao judiciria militar no fixam a competncia de outro juzo para decidir sobre pedido de interceptao telefnica na fase de inqurito, assim o juiz competente pode ser outro, no necessariamente o juiz competente da ao principal. A prova obtida com a medida cautelar decretada pelo juiz ou pelo Conselho de Justia que depois foi considerado incompetente  vlida? A prova obtida com a medida cautelar decretada pelo juiz da Justia comum, federal ou estadual, que depois foi considerado incompetente pode ser aproveitada no processo penal militar? No assunto versado invoca-se a aplicao da teoria do juzo aparente:
+se no momento de decidir o juiz, pelos elementos trazidos  sua cognio, se considera competente para deferir a medida cautelar, as provas obtidas devem ser tidas por legtimas e lcitas, mesmo que depois seja reconhecida sua incompetncia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interceptação telefônica depende de autorização judicial do juiz da ação principal, mas outro juízo pode ser competente. O TJMSP considerou legal a autorização de interceptação telefônica do Juiz de Direito Corregedor Permanente da Polícia Judiciária Militar. A prova obtida com a medida cautelar decretada por um juiz que depois foi considerado incompetente pode ser aproveitada no processo penal militar, segundo a teoria do juízo aparente.

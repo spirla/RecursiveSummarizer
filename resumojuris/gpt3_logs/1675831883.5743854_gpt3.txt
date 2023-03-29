@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Previo requerimento administrativo. Prescindibilidade. Comprovacao de necessidade do servico. Dispensavel. Tema 1086. DESTAQUE Presente a redacao original do art. 87,  2, da Lei n. 8.112/1990, bem como a diccao do art. 7 da Lei n. 9.527/1997, o servidor federal inativo, sob pena de enriquecimento ilicito da Administracao e independentemente de previo requerimento administrativo, faz jus a conversao em pecunia de licenca-premio por ele nao fruida durante sua atividade funcional, nem contada em dobro para a aposentadoria, revelando-se prescindivel, a tal desiderato, a comprovacao de que a licenca-premio nao foi gozada por necessidade do servico. A controversia, tal como delimitada na proposta afetada por esta Primeira Secao, consiste em: a) definir se o servidor publico federal possui, ou nao, o direito de obter a conversao em pecunia de licenca-premio por ele nao gozada e nem contada em dobro para fins de aposentadoria; b) em caso afirmativo, definir se a referida conversao em pecunia estara condicionada, ou nao, a comprovacao, pelo servidor, de que a nao fruicao ou contagem da licenca-premio decorreram do interesse da Administracao Publica. A pacifica jurisprudencia do STJ, formada desde a epoca em que a competencia para o exame da materia pertencia a Terceira Secao, firmou-se no sentido de que, embora a legislacao faca referencia a possibilidade de conversao em pecunia apenas no caso de falecimento do servidor, possivel se revela que o proprio servidor inativo postule em juizo indenizacao pecuniaria concernente a periodos adquiridos de licenca-premio, que nao tenham sido por ele fruidos nem contados em dobro para fins de aposentadoria, sob pena de enriquecimento ilicito da Administracao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O servidor federal inativo faz jus à conversão em pecúnia de licença-premio por ele não fruída durante sua atividade funcional, nem contada em dobro para a aposentadoria, independentemente de previo requerimento administrativo. 2. O servidor público federal possui o direito de obter a conversão em pecúnia de licença-premio por ele não gozada e nem contada em dobro para fins de aposentadoria. 3. A referida conversão em pecúnia não está condicionada à comprovação, pelo servidor, de que a não fruição ou contagem da licença-premio decorreram do interesse da Administração Pública. 4. É possível que o próprio servidor inativo postule em juízo indenização pecuniária concernente a períodos adquiridos de licença-premio, que não tenham sido por ele fruídos nem contados em dobro para fins de aposentadoria, sob pena de enriquecimento ilícito da Administração.

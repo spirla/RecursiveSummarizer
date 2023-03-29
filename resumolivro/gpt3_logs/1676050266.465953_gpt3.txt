@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A categoria jurdica das condies objetivas de responsabilidade, designao atribuda a Binding, no chega a formar um grupo perfeitamente delimitado em suas caractersticas, de modo a ser reconhecido por sua estrutura especfica. A ausncia de um denominador comum conduz a perplexidades. A grande insegurana terica reside no fato de inexistir critrio apto a distinguir cada condio objetiva de responsabilidade dos elementos da ao, da autoria ou das autnticas condies de procedibilidade. Como exemplo de circunstncias objetivas de responsabilidade, costuma-se citar o artigo 7, pargrafo 2, do CP, que condiciona a aplicao da lei brasileira, nos crimes que, por tratado ou conveno, o Brasil obrigou-se a reprimir, s seguintes condies:
+a) entrar o sujeito no territrio nacional;
+b) ser o crime punvel tambm no pas em que foi praticado;
+c) estar o crime includo entre aqueles pelos quais a lei brasileira autoriza a extradio;
+d) no ter sido o sujeito absolvido no estrangeiro ou no ter a cumprido a pena;
+e) no ter sido o sujeito perdoado no estrangeiro ou, por outro motivo, no estar extinta a punibilidade, segundo a lei mais favorvel. Outros exemplos citados so a ocorrncia da morte ou leso corporal grave, no induzimento ao suicdio, artigo 122 do CP, e a sentena que anula o casamento no crime de induzimento a erro essencial e ocultao de impedimento ao casamento, previsto no artigo 236 do CP. O pargrafo nico do referido dispositivo estabelece que a ao penal depende de queixa do contraente enganado e no pode ser intentada seno depois de transitar em julgado a sentena que, por motivo de erro ou impedimento, anule o casamento. Certamente, no caso da extraterritorialidade da lei brasileira, da sentena que anula o casamento por erro ou impedimento, bem como da sentena de falncia, pode-se sustentar que o que fica suspenso, na dependncia da supervenincia das condies,  o exerccio do direito de ao. No se consegue distinguir a condio de responsabilidade da condio de procedibilidade. No caso da leso corporal grave ou morte no induzimento ao suicdio, a condio de responsabilidade confunde-se com o resultado que o tipo exige para sua consumao. Ora, se a responsabilidade no  elemento do crime, como pode a condio de responsabilidade integrar o tipo?. As dificuldades do tema somente podero ser superadas com o aprimoramento do sistema terico que trata da operatividade da coero penal. 21.1.4. Escusas absolutrias ou imunidades penais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A categoria jurdica das condies objetivas de responsabilidade, designada como Binding, no forma um grupo perfeitamente delimitado, o que gera perplexidades. Exemplos destas condies so a extraterritorialidade da lei brasileira, a sentena que anula o casamento por erro ou impedimento, bem como a sentena de falncia. As dificuldades do tema somente sero superadas com o aprimoramento do sistema terico da coero penal. As escusas absolutrias ou imunidades penais tambm fazem parte desta categoria.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+15. Em conformidade com a concluso de mrito do Supremo Tribunal Federal nas Aes Declaratrias de Constitucionalidade n. 43, 44 e 54, de relatoria do Exmo. Ministro MARCO AURLIO, no  mais cabvel a execuo provisria das penas aps o esgotamento das instncias ordinrias. 16. Recurso especial parcialmente conhecido e, nessa extenso, desprovido. Habeas corpus concedido, de ofcio, para obstar a execuo da pena imposta ao Recorrente, antes do trnsito em julgado da condenao. (REsp n. 1.881.928/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 16/2/2022.) 2 PENAL E PROCESSO PENAL. TRFICO ENTORPECENTES. INPCIA DA DENNCIA. SUPERVENINCIA DA SENTENA CONDENATRIA. CERCEAMENTO DE DEFESA. NULIDADE. NO OCORRNCIA. INCIDNCIA DO BENEFCIO DO ART. 33, 4, DA LEI N. 11.343/06. ACUSADO REINCIDENTE. INAPLICABILIDADE. REGIME FECHADO JUSTIFICADO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso especial foi parcialmente conhecido e desprovido, e o habeas corpus foi concedido para obstar a execuo da pena imposta ao acusado, antes do trnsito em julgado da condenao. Não houve cerceamento de defesa e a incidência do benefício do artigo 33, 4, da Lei n. 11.343/06 foi justificada. A reincidência não foi aplicada, sendo o regime fechado justificado.

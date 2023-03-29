@@ -1,0 +1,25 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido decidiu o TJM-MG:
+APELACAO CIVEL - PRESCRICAO DA PRETENSAO PUNITIVA - FATO CONSTITUTIVO DO DIREITO - NUS DA PROVA - ART. 333, I, DO CPC - NEGADO PROVIMENTO AO RECURSO. - O apelante nao instruiu o processo com copia do procedimento administrativo e/ou qualquer outro documento comprobatorio dos fatos alegados na inicial. - O nus da prova incumbe ao autor, quanto ao fato constitutivo do seu direito, conforme prev o artigo 333, I, do CPC. - Negado provimento ao recurso. (TJM-MG: Apelacao Civel n. 0006411-18.2012.9.13.0002, Rel. Juiz Fernando Armando Ribeiro, publicado em 28/02/2013)
+Agora, se a defesa se funda na negativa de autoria ou na insuficincia de provas, o nus da prova e todo da CPAD. Ressalta-se, contudo, que ha fatos que independem de prova, conforme estabelece o CPC:
+Artigo 374. Nao dependem de prova os fatos:
+- notorios;
+- afirmados por uma parte e confessados pela parte contraria;
+- admitidos no processo como incontroversos;
+- em cujo favor milita presuncao legal de existncia ou de veracidade. 9 passo - Reuniao de deliberacao e relatorio
+a) Notificacao do acusado e defensor
+Ambos deverao ser notificados no prazo minimo de 48 horas de antecedncia (artigo 70 XVI, do CEDM). Atencao! Aqui nao se admite a notificacao com 24 horas de antecedncia como nas demais reunioes. Trata-se da unica reuniao que dispensa a presenca de defensor, cuja ausncia nao implicara a nomeacao de defensor ad hoc (artigo 70, XVI, do CEDM e artigo 340, paragrafo 2, do MAPPA). b) Execucao da reuniao
+O artigo 356 do MAPPA assim dispoe realizadas todas as diligncias e apreciadas as alegacoes finais de defesa, a CPAD se reunira para deliberar sobre o relatorio produzido pelo vogal-interrogante, emitindo parecer sobre a procedncia total ou parcial da acusacao, ou sua improcedncia, propondo as medidas cabiveis (artigo 70, XV, do CEDM). O relatorio a que alude o artigo 356 do MAPPA se refere ao resumo das provas constantes dos autos e das teses de defesa, o que, inclusive, podera ser dispensado pelos demais membros da CPAD, caso tenham detido conhecimento das provas constantes dos autos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O TJM-MG negou o provimento do recurso do apelante, pois não instruiu o processo com documentos comprobatórios dos fatos alegados. O nus da prova incumbe ao autor, conforme prevê o artigo 333, I, do CPC. Além disso, há fatos que não dependem de prova, como os notorios, afirmados por uma parte e confessados pela parte contrária, admitidos no processo como incontroversos ou em cujo favor milita presunção legal de existência ou de veracidade. A CPAD deverá se reunir para deliberar sobre o relatorio produzido pelo vogal-interrogante, emitindo parecer sobre a procedência total ou parcial da acusação ou sua improcedência, propondo as medidas cabíveis.

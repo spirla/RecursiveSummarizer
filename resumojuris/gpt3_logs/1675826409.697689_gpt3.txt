@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Na sequencia, em votacao majoritaria, o colegiado concedeu ordem de habeas corpus, de oficio, para decretar a incompetencia absoluta da Justica Federal, determinar a nulidade de todos os atos decisorios proferidos pelo juizo da 7 Vara da Secao Judiciaria do Rio de Janeiro e remeter os autos a Justica comum do estado do Rio de Janeiro, a quem competira processar, julgar o feito e aferir eventuais especificidades quanto a remessa de parte da investigacao a Justica Federal do Distrito Federal ou ao Superior Tribunal de Justica, nos termos do voto do ministro Gilmar Mendes (relator). Ficou vencido o ministro Edson Fachin. Rcl 43479/RJ, relator Min. Gilmar Mendes, julgamento em 10.8.2021. (INF 1025) 16.4 COMPETENCIA DO TRIBUNAL DO JURI Tribunal do juri e controle judicial de decisoes absolutorias - RHC 192431 Segundo AgR/SP e RHC 192432 Segundo AgR/SP Resumo: Em face da reforma introduzida no procedimento do Tribunal do Juri (Lei 11.689/2008), e incongruente o controle judicial, em sede recursal [CPP (CPP), art. 593, III, d ], das decisoes absolutorias proferidas com fundamento no art. 483, III e  2, do CPP. Em razao da superveniencia da Lei 11.689/2008, que alterou o CPP no ponto em que incluiu no questionario do procedimento do Tribunal do Juri o quesito generico de absolvicao, os jurados passaram a gozar de ampla e irrestrita autonomia na formulacao de juizos absolutorios, nao se achando adstritos nem vinculados, em seu processo decisorio, seja as teses suscitadas em plenario pela defesa, seja a quaisquer outros fundamentos de indole estritamente juridica, seja, ainda, a razoes fundadas em juizo de equidade ou de clemencia . Nesse contexto, o controle judicial em sede recursal nao e possivel, quer pelo fato de que os fundamentos efetivamente acolhidos pelo Conselho de Sentenca para absolver o reu (CPP, art. 483, III) permanecem desconhecidos (em razao da clausula constitucional do sigilo das votacoes prevista no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O colegiado concedeu ordem de habeas corpus, de oficio, para decretar a incompetência absoluta da Justiça Federal, determinar a nulidade de todos os atos decisorios proferidos pelo juízo da 7ª Vara da Seção Judiciária do Rio de Janeiro e remeter os autos à Justiça comum do Estado do Rio de Janeiro. 2. É incongruente o controle judicial, em sede recursal, das decisões absolutorias proferidas com fundamento no art. 483, III e 2, do CPP. 3. Os jurados gozam de ampla e irrestrita autonomia na formulacão de juízos absolutorios, não se achando adstritos nem vinculados, em seu processo decisório, seja às teses suscitadas em plenário pela defesa, seja a quaisquer outros fundamentos de indole estritamente jurídica, seja, ainda, às razões fundadas em juízo de equidade ou de clemência. 4. O controle judicial em sede recursal não é possível, quer pelo fato de que os fundamentos efetivamente acolhidos pelo Conselho de Sentença para absolver o réu (CPP, art. 483, III) permanecem desconhecidos.

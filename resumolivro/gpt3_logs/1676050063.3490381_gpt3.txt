@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos termos do artigo 97 do CP, o tratamento em manicmio  obrigatrio para aqueles que tenham cometido crime punido com recluso e facultativo para aqueles que tenham cometido crime punido com deteno e contravenes punidas com priso simples. Resta evidenciado que a individualizao da medida de segurana no recebe adequada previso. A individualizao adequada da resposta estatal, que no pode ficar restrita aos casos de aplicao de pena, orienta a escolha da medida de segurana de outra maneira. A medida de segurana no deve guardar proporcionalidade com a pena reservada ao fato praticado, mas com a causa da incapacidade. Se a incapacidade psquica do sujeito indicar como tratamento adequado a internao hospitalar, essa deve ser a medida de segurana a ser imposta. O mesmo se diga em relao ao tratamento ambulatorial. No se pode conceber que, estando diante de um caso de incapacidade, cujo tratamento recomendvel seja o ambulatorial, o magistrado imponha a internao hospitalar s porque o comportamento cometido  previsto como crime punvel com recluso. Tendo sido absolvido o acusado, a medida de segurana deve ser escolhida visando as peculiaridades de sua incapacidade psquica. Aps a edio da Lei 10.216/2001, deve-se entender que a regra de imposio obrigatria de determinada medida de segurana, em conformidade com a pena cominada no tipo incriminador, foi revogada. Agora, nos termos do artigo 4 da referida lei, a internao, inclusive em sua modalidade compulsria, s ser indicada quando os recursos extra-hospitalares se mostrarem insuficientes.  importante lembrar que o manicmio foi concebido para promover a excluso social daqueles indivduos que, em determinados momentos, foram considerados inconvenientes. Loucos, leprosos, prostitutas, desempregados, ladres e at adversrios polticos foram os clientes preferidos dos manicmios do sculo XVII. A referncia inicial para a histria dos manicmios  o decreto de fundao do Hospital Geral de Paris, em 27 de abril de 1656. De incio,  instituio atribuiu-se a tarefa de impedir a mendicncia e a ociosidade, bem como as fontes de todas as desordens. Poucos anos depois, o Hospital Geral j promovia a excluso de cerca de 1% da populao de Paris. Com efeito, antes de ter o sentido mdico que lhe atribumos, ou que pelo menos gostamos de supor que tem, o internamento foi exigido por razes bem diversas da preocupao com a cura.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tratamento em manicmio obrigatrio para aqueles que cometerem crimes punidos com recluso e facultativo para aqueles que cometerem crimes punidos com deteno e contravenes punidas com priso simples. A individualizao da medida de segurana deve ser escolhida visando as peculiaridades da incapacidade psquica do sujeito. A Lei 10.216/2001 revogou a regra de imposio obrigatria de determinada medida de segurana, em conformidade com a pena cominada no tipo incriminador. O manicmio foi concebido para promover a excluso social dos indivduos considerados inconvenientes.

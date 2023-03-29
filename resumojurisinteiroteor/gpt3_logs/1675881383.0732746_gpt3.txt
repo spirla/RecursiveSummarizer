@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...] Inquirida em juzo, Monica Ins Ribeiro, relatou, em suma, que estava desempregada e foi trabalhar no jogo do bicho; que o Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres entraram na loja, pedindo dinheiro, para no a levar presa; que eles faziam a ronda, e que tinha que pagar R$ 100,00 ou R$ 150,00; que no tinha dinheiro para pagar, e que em razo disso iria leva-la  Delegacia de Polcia; que disseram que iria esperar ela ligar para o escritrio e pedir o dinheiro; que no tinha como ligar para o escritrio; que quando retornaram insistiram no dinheiro, mas que ela no tinha condies de pag-los; que no outro dia queria que ela pagasse o almoo deles, e que no pagou; que s foi ameaa por ele nos dias dos fatos; que estava sozinha; que se ela no desse o dinheiro iriam fechar a loja; que anotou a identificao da viatura policial; Considerando que as testemunhas defensivas e os documentos carreados pela Defesa no foram suficientes para afastar a imputao delitiva, o Conselho Permanente de Justia da Polcia Militar, por maioria de votos (quatro a um), entendeu que os acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres praticaram os fatos narrados na exordial acusatria, promovendo a condenao deles nas iras do art. 243, alnea a,  1, c/c o art. 242,  2, inciso II, ambos do Cdigo Penal Militar. Vencida a Juza Militar Cap PM Marieta Apgaua Marques, que julgou improcedente o FATO 4 da denncia, para absolver os acusados com fundamento no art. 439, alnea e, do CPPM, por entender que as provas so precrias para sustentar um decreto condenatrio. FATO 5 O Conselho Permanente de Justia da Polcia Militar, por maioria de votos (quatro a um), julgou procedente o FATO 5 da exordial acusatria, cuja prtica delitiva  imputada aos acusados Ex- PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia da Polcia Militar condenou os acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres pelos fatos narrados na exordial acusatria, com base nos artigos 243, alínea a, 1, c/c o art. 242, 2, inciso II, ambos do Código Penal Militar.

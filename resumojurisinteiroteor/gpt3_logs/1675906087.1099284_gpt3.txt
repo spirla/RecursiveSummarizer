@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PROCESSO ADMINISTRATIVO DISCIPLINAR. POSSIBILIDADE DE DEMORA NA CONCLUSO DO PAD. ADMISSO DE PROVA EMPRESTADA. SANO PELO RESDUO ADMINISTRATIVO. AUSNCIA DE NULIDADES. AGRAVO INTERNO NO PROVIDO. [.] 2. A utilizao de provas emprestadas, desde que regularmente produzida no processo de origem, no acarreta nulidade do processo administrativo disciplinar por violao do direito ao contraditrio e  ampla defesa. 3. Agravo interno no provido. (AgInt no MS 26.852/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEO, julgado em 18/08/2021, DJe 20/08/2021) Assim, entendo que foram cumpridos os requisitos exigidos pela jurisprudncia do STJ, que admite a utilizao no processo administrativo de prova emprestada, devidamente autorizada na esfera criminal, tendo em vista que ao militar foi dado o direito de se manifestar acerca das referidas provas. Observe-se que o processo administrativo, em sua inteireza, analisou no apenas as conversas extradas de aplicativos dos diversos celulares dos investigados, incluindo os udios que envolvem o apelante, mas um arcabouo probatrio consistente em testemunhos, fotografias, vdeos e udios, que foram capazes de sustentar a deciso de demisso do militar (Evento 13, doc 2). Quanto s alegaes da defesa de que o apelante no teve acesso aos autos em sua integralidade, de que a entrega da mdia contendo os supostos udios que envolvem o apelante foi extempornea e de que, por este motivo, teve sua defesa foi prejudicada, razo no assiste o recorrente. Conforme se v dos documentos juntados aos autos, o Processo Administrativo-Disciplinar est perfeito e acabado, no havendo que se falar em nulidades. No mesmo sentido entendeu o magistrado a quo, motivo pelo qual, destaco trecho da sentena, ao qual coaduno: No transcorrer do PAD nenhuma irregularidade ocorreu. De tudo o autor foi intimado. Foi-lhe possibilitado o exerccio pleno dos princpios constitucionais do contraditrio e da ampla defesa, atravs de defensor tcnico por ele constitudo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ admite a utilização de prova emprestada regularmente produzida no processo de origem, desde que o direito ao contraditório e à ampla defesa sejam garantidos. O processo administrativo disciplinar foi concluído sem nulidades, observando-se o princípio do contraditório e da ampla defesa. Agravo interno não provido.

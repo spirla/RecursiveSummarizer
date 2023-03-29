@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se houver a prevalncia do interesse de evitar o crime planejado, a revelao do segredo constituir conduta socialmente adequada, amparada em justa causa, e no ser possvel estabelecer a imputao objetiva do crime de violao de segredo profissional. Revelao sobre o estado de sade do paciente por mdico. A princpio, as informaes relativas ao estado de sade de pacientes atendidos por mdicos em hospitais ou ambulatrios devem ser guardadas em sigilo. O sigilo das informaes visa preservar a intimidade dos pacientes. Nestes casos,  necessrio analisar os limites do sigilo relativo aos pronturios mdicos do paciente. Segundo o artigo 73 do Cdigo de tica Mdica109,  vedado ao mdico revelar fato de que tenha conhecimento em virtude do exerccio de sua profisso, salvo por motivo justo, dever legal ou consentimento, por escrito, do paciente. Cabe ressaltar que, havendo motivo justo - justa causa - a revelao da informao feita pelo mdico no viola a norma incriminadora e tampouco os termos da disposio tica. No entanto, pode ocorrer que para os fins da incriminao em exame o motivo que levou o profissional da medicina a revelar a informao seja considerado justo e para os fins tico-disciplinares no ou vice-versa. Isto ocorre porque as consideraes valorativas so independentes, no interferindo o juzo realizado em uma seara no juzo a ser realizado em outra. Em muitos casos, a informao mdica pode se apresentar necessria para fins de gesto pblica das aes de sade. Os casos de doenas infectocontagiosas, por exemplo, devem ser comunicados aos rgos de sade com atribuies para a implementao e controle das aes pblicas que atendem ao direito  sade da populao. Nesses casos, revelar o fato conhecido no exerccio da atividade mdica constitui conduta adequada e, por outro lado, a omisso em revelar a informao pode caracterizar o crime previsto no artigo 269 do Cdigo Penal. Neste contexto, a conduta de revelar a ocorrncia de doena  socialmente adequada e no se poder imputar objetivamente a violao da norma proibitiva subjacente ao tipo incriminador do artigo 154 do estatuto repressivo. Cabe observar que o mdico pode recusar-se a prestar informaes, como testemunha, sobre fatos que teve conhecimento em razo do exerccio da medicina.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sigilo das informações sobre o estado de saúde dos pacientes atendidos por médicos deve ser preservado. Contudo, se houver um motivo justo, a revelação da informação não viola a norma incriminadora e não é passível de imputação objetiva. O médico também pode recusar-se a prestar informações como testemunha sobre fatos adquiridos durante o exercício da medicina.

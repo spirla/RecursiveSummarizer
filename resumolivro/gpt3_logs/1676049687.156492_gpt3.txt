@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O confisco de que trata o artigo 91-A constitui outro efeito genrico das condenaes por infraes s quais a lei comine pena mxima superior a 6 (seis) anos de recluso, no cabendo ao juiz deixar de decretar o confisco, quando existirem bens do condenado a serem confiscados. A perda dos bens poder, ou no, ser decretada a depender da existncia e da identificao dos mesmos pelo magistrado. Os efeitos previstos no artigo 91-A so automticos em razo da condenao. Nos termos do pargrafo nico do artigo 92, apenas os efeitos previstos em seus incisos no so automticos, cabendo ao julgador decidir por sua aplicao, ou no, em cada caso concreto. O confisco que ora nos ocupa a ateno somente se aplica em relao aos crimes que permitam ao sujeito a obteno de vantagens patrimoniais. O que justifica o confisco , justamente, a obteno pelo condenado de produto ou de proveito do crime que aumente, de forma ilcita, o seu patrimnio. Contudo, cabe observar que o confisco no se aplica unicamente aos casos de condenao por crime contra o patrimnio. A condenao por crimes contra a administrao pblica, como por exemplo o peculato, a concusso e a corrupo passiva, tambm impem o confisco dos bens que so ilicitamente acrescidos ao patrimnio do condenado. O dispositivo legal determina que o confisco se aplica apenas nos casos em que a lei comine pena mxima superior a 6 (seis) anos de recluso. A previso determina a aplicao mesmo nos casos em que a pena mxima a ser aplicada concretamente seja inferior ao patamar institudo, em razo de causa obrigatria de diminuio de pena. A pena mxima a ser aplicada em razo de uma tentativa do crime de concusso (artigo 316 do CP)  inferior a 06 (seis) anos, estabelecendo-se em 05 (cinco) anos e 08 (oito) meses (08 anos - 1/3). Contudo, o dispositivo no se refere  pena mxima que se possa aplicar no caso concreto, mas sim  pena mxima que  cominada por lei ao crime. Pela mesma razo, tambm no se aplica o confisco nos casos em que a pena mxima supere este patamar em razo da incidncia de causa de aumento obrigatria. O confisco deve recair sobre bens que, por sua manifesta incompatibilidade com os rendimentos lcitos do condenado, possam ser considerados como produto ou proveito do crime. Conforme o artigo 91-A do Cdigo Penal, no  necessrio comprovar que a origem dos bens  ilcita e est relacionada diretamente com a prtica do crime que fundamenta a condenao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O confisco de bens é um dos efeitos genéricos das condenações por infrações à lei com pena máxima superior a 6 anos de reclusão, sendo decretado dependendo da existência e identificação dos bens pelo magistrado. Aplica-se a crimes que permitam ao sujeito a obtenção de vantagens patrimoniais ilícitas, como crimes contra o patrimônio ou contra a administração pública. O confisco recai sobre bens incompatíveis com os rendimentos lícitos do condenado.

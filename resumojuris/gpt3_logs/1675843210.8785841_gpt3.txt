@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE No concurso entre agravantes e atenuantes, a atenuante da confissao espontanea deve preponderar sobre a agravante da dissimulacao, nos termos do art. 67 do CP. O art. 67 do CP determina que no concurso de agravante e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstancias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidencia . Esta Corte Superior entende que a confissao espontanea e circunstancia preponderante, e a agravante da dissimulacao nao esta prevista como circunstancia preponderante por nao se encaixar nos quesitos previstos no art. 67 do CP. Assim, a reprimenda deve ser reduzida na segunda fase da dosimetria. No caso, a Corte de origem, a despeito de considerar que nao caberia a preponderancia da agravante da dissimulacao sobre a atenuante da confissao, ainda que qualificada, concluiu que deveriam ser compensadas a agravante da dissimulacao com a atenuante da confissao espontanea. Contudo, tal entendimento destoa do art. 67 do CP. Tendo a pena-base sido fixada e mantida em 14 anos de reclusao, impoe-se a sua reducao em 1/12 (um doze avos), na segunda fase da dosimetria, pela preponderancia da atenuante da confissao espontanea sobre a agravante da dissimulacao, restando a sancao intermediaria em 12 anos e 10 meses de reclusao, a qual, a mingua de outras causas modificativas, torna-se definitiva. (Informativo n. 745) 771 PROCESSO AgRg no REsp 1.986.729-MG, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 67 do CP determina que no concurso de agravante e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstancias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência. 2. Esta Corte Superior entende que a confissão espontânea é circunstância preponderante, e a agravante da dissimulação não está prevista como circunstância preponderante por não se encaixar nos quesitos previstos no art. 67 do CP. 3. No concurso entre agravantes e atenuantes, a atenuante da confissão espontânea deve preponderar sobre a agravante da dissimulação, nos termos do art. 67 do CP. 4. A pena deve ser reduzida na segunda fase da dosimetria pela preponderância da atenuante da confissão espontânea sobre a agravante da dissimulação.

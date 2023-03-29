@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+12 da Lei n. 10.826/2003, o Tribunal a quo concluiu pela aplicacao do principio da insignificancia, pois considerou que, diante da ausencia de parametros para definir o que seria quantidade pequena de municoes desacompanhadas de armas , deparando-se com mais de uma solucao juridica consentanea com o ordenamento juridico patrio, deveria ser adotada a corrente jurisprudencial mais favoravel ao reu. Na hipotese, ainda que as municoes apreendidas estivessem desacompanhadas de armamento capaz de deflagra-las, a quantidade nao e insignificante e a apenada na mesma oportunidade, foi condenada por trafico de entorpecentes, nao sendo caso de aplicacao do principio da insignificancia. (Informativo  Ed. Especial n. 7) Processo AgRg no REsp 1.982.403-MT, Rel. Min. Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, por unanimidade, julgado em 10/05/2022, DJe 19/05/2022. Ramo do Direito DIREITO PENAL Tema Trafico de drogas. Causa de diminuicao da pena. Art. 33,  4, da Lei n. 11.343/2006. Acoes penais em curso sem certificacao de transito. Fundamento invalido para afastar o beneficio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há parametros para definir o que seria quantidade pequena de munições desacompanhadas de armas. 2. O princípio da insignificância não se aplica à hipótese em que há quantidade não insignificante de munições desacompanhadas de armamento e a pessoa foi condenada por trafico de entorpecentes. 3. O artigo 33, 4, da Lei n. 11.343/2006 não permite afastar o benefício de diminuição da pena quando há ações penais em curso sem certificação de trânsito.

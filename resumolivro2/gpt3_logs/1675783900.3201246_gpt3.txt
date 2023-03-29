@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 50, caput, da Lei 11.343/06, determina a comunicao imediata da priso em flagrante ao juiz competente para audincia de custdia (ver 11.2.2.7.). Procedimento especial (artigos 54 a 59):
+a) Oferecimento da denncia. A denncia deve estar acompanhada do laudo de constatao. Esse exame preliminar de constatao da natureza e da quantidade da droga  indispensvel para a prpria deflagrao da ao penal, funcionando como condio especfica de procedibilidade para os processos penais relativos a drogas, sem prejuzo da posterior juntada do exame toxicolgico definitivo. Podem ser arroladas at 5 (cinco) testemunhas (artigo 54, III). b) Notificao do acusado. Para oferecer defesa prvia por escrito no prazo de 10 dias (artigo 55). c) Resposta do acusado. O acusado poder arguir preliminares e invocar todas as razes de defesa, oferecer documentos e justificaes, especificar as provas que pretende produzir e, at o nmero de cinco, arrolar testemunhas (artigo 55, pargrafo 1). Nela pode ser invocado tudo que possa interferir na deciso juiz de receber ou rejeitar a pea acusatria. Se a resposta no for apresentada no prazo, o juiz nomear defensor para oferec-la em 10 (dez) dias, concedendo-lhe vista dos autos no ato de nomeao (artigo 55, pargrafo 3). H doutrinador que entende que a inobservncia da defesa prvia configura nulidade relativa, devendo prevalecer o princpio pas de nullit sans grief;
+no se declara a nulidade se inexiste prejuzo para apurao da verdade substancial. Assim decidiu a 5 Turma do STJ (HC 118.728/SP), a inobservncia do rito procedimental previsto no artigo 55 da Lei 11.343/06, que prev a apresentao de defesa preliminar antes do recebimento da denncia, gera nulidade relativa, que deve ser arguida no momento oportuno, sob pena de precluso.d) Absolvio sumria. A Lei de Drogas no prev a absolvio sumria nos moldes do artigo 397, inciso I, II, III e IV, do CPP. No entanto, o artigo 393, pargrafo 4, do CPP, estabelece que As disposies dos artigos 395 a 398 deste Cdigo aplicam-se a todos os procedimentos penais de primeiro grau, ainda que no regulados neste Cdigo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 11.343/06 determina a comunicação imediata da prisão em flagrante ao juiz competente para audiência de custódia. O oferecimento da denúncia deve estar acompanhado de um laudo de constatação. O acusado deve ser notificado para oferecer defesa prévia por escrito no prazo de 10 dias. Se a resposta não for apresentada, o juiz nomeará um defensor. A Lei de Drogas não prevê a absolvição sumária, mas o artigo 393, pargrafo 4, do CPP estabelece que as disposições dos artigos 395 a 398 se aplicam a todos os procedimentos penais de primeiro grau.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+10 da Lei 10.666/2003 para que norma infralegal fixe a aliquota individual de forma variavel da contribuicao previdenciaria destinada ao custeio do Seguro de Acidente do Trabalho (SAT). Nao ha na norma impugnada delegacao do poder de tributar, pois o ente politico nao atribuiu ao regulamento o poder de disciplinar o tributo em toda sua extensao e profundidade. Pelo contrario, encontram-se previstos em lei em sentido estrito os tracos essenciais da contribuicao, seja em relacao ao antecedente da regra matriz de incidencia tributaria, seja quanto ao aspecto pessoal da contribuicao, seja quanto a base de calculo. Em relacao as aliquotas, elas estao previstas nas suas formas coletivas ou basicas (de 1%, 2% ou 3%) na Lei 8.212/1991, e apenas podem ser reduzidas ou majoradas, dentro de limites prescritos, nos termos do art. 10 da Lei 10.666/2003. Nao ha se falar, ademais, na possibilidade de um ato administrativo realizar imposicao tributaria, nem em violacao ao art. 150, I, da CF/88 (CF), pois a lei deixou somente o tratamento de materias ligadas a estatistica, a atuaria e a pesquisa de campo para o Poder Executivo, pois ele tende a ter maior capacidade para tratar desses assuntos. Assim, apenas ao tratar do mecanismo que proporciona a sintonia fina das aliquotas da contribuicao, verifica-se que a lei acabou realizando dialogo com ato normativo infralegal. Essa flexibilizacao da legalidade tributaria encontra fundamento na otimizacao da funcao extrafiscal da exacao, que esta ligada a delegacao ao regulamento de materias intimamente relacionadas com questoes tecnicas e faticas, delegacao essa que tambem acaba otimizando a equidade. Alem disso, a teleologia da norma e condizente com o sistema juridico de tutela do meio ambiente do trabalho e, em ultima analise, com a protecao do trabalhador contra acidentes de trabalho. Com base nesse entendimento, o Plenario julgou improcedente o pedido formulado na acao direta.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há delegação do poder de tributar na norma impugnada, pois o ente político não atribuiu ao regulamento o poder de disciplinar o tributo em toda sua extensão e profundidade. 2. As alíquotas estão previstas nas suas formas coletivas ou básicas na Lei 8.212/1991, e apenas podem ser reduzidas ou majoradas, dentro de limites prescritos, nos termos do art. 10 da Lei 10.666/2003. 3. Não há possibilidade de um ato administrativo realizar imposição tributária, nem em violação ao art. 150, I, da CF/88. 4. A flexibilização da legalidade tributária encontra fundamento na otimização da função extrafiscal da exação, que está ligada à delegação ao regulamento de matérias intimamente relacionadas com questões técnicas e fáticas. 5. A teleologia da norma é condizente com o sistema jurídico de tutela do meio ambiente do trabalho e, em última análise, com a proteção do trabalhador contra acidentes de trabalho.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com efeito, o poder de emenda e prerrogativa institucional inerente ao exercicio do Poder Legislativo e importante atividade de controle democratico dos atos do Poder Executivo. Alem disso, no caso das medidas provisorias, ha previsao expressa da CF/88 (CF). Entretanto, as emendas parlamentares apresentadas durante a analise de medidas provisorias devem guardar pertinencia tematica com a materia originalmente versada. O objetivo da analise da pertinencia tematica e evitar que materias dissociadas do tema cuidado na medida provisoria, com tramitacao diferenciada, sejam aprovadas sem o debate democratico pertinente. E constitucional o art. 6 da Lei 14.131/2021, que simplificou o processo de concessao de beneficio de auxilio por incapacidade temporaria. A norma impugnada, excepcional e transitoria, concretiza o direito fundamental a previdencia social do segurado incapaz para o trabalho ou para a atividade habitual, contribui para a eficiencia na prestacao do servico publico e reduz o impacto da pandemia decorrente da Covid-19 sobre a renda dos beneficiarios do Regime Geral de Previdencia Social. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente o pedido formulado para reconhecer a constitucionalidade do art. 6 da Lei 14.131/2021. ADI 6928/DF, relatora Min Carmen Lucia, julgamento virtual finalizado em 22.11.2021 (segunda-feira), as 23:59 (INF 1038) Sistema de Deliberacao Remota (SDR) e tramitacao de medidas provisorias durante a pandemia da COVID-19 - ADI 6751/DF, ADPF 661/DF e ADPF 663/DF Resumo: A tramitacao de medidas provisorias pelo Sistema de Deliberacao Remota (SRD)  instituido em razao da pandemia do novo coronavirus e regulado pelo Ato Conjunto das Mesas da Camara dos Deputados e do Senado Federal n. 1/2020  nao viola o devido processo legislativo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O poder de emenda e prerrogativa institucional inerente ao exercício do Poder Legislativo é uma importante atividade de controle democrático dos atos do Poder Executivo. 2. Há previsão expressa da Constituição Federal de 1988 (CF/88) para as medidas provisórias. 3. As emendas parlamentares apresentadas durante a análise de medidas provisórias devem guardar pertinência temática com a matéria originalmente versada. 4. É constitucional o art. 6 da Lei 14.131/2021, que simplificou o processo de concessão de benefício de auxílio por incapacidade temporária. 5. A tramitação de medidas provisórias pelo Sistema de Deliberação Remota (SRD) instituído em razão da pandemia do novo coronavírus não viola o devido processo legislativo.

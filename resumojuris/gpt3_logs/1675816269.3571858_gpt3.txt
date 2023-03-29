@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: Cabe aos municipios promover o licenciamento ambiental das atividades ou empreendimentos que possam causar impacto ambiental de ambito local. Com amparo nas regras de reparticao de competencias, o entendimento desta Corte se firmou no sen-tido de que o municipio e competente para legislar sobre o meio ambiente com a Uniao e o estado no limite do seu interesse local e desde que tal regramento seja harmonico com a disciplina estabelecida pelos demais entes federados (CF/88, art. 24, VI c/c o art. 30, I e II). A Politica Nacional do Meio Ambiente, estabelecida pela Lei 6.938/1981, expressamente preve que dependem de licenciamento ambiental a construcao, a instalacao, a ampliacao e o funcionamento de estabele-cimentos e atividades utilizadores de recursos ambientais, efetiva ou potencialmente poluidores ou capazes de causar degradacao ambiental sob qualquer forma. Nesse contexto, o conjunto normativo e a jurisprudencia acerca do tema reforcam a referida competencia municipal e a sua importancia. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente a acao para conferir in-terpretacao conforme a CF/88 ao art. 264 da Constituicao do Estado do Ceara, no sentido de que a aplicacao do dispositivo deve se limitar a estrutura politico-administrativa do Estado do Ceara, ficando resguardadas as competencias administrativa e legislativa dos municipios relativas ao licenciamento de ativi-dades e empreendimentos de impacto local. ADI 2142/CE, relator Ministro Roberto Barroso, julgamento virtual finalizado em 24.6.2022 (sexta-feira), as 23:59 (INF 1060) 2.5 POLUICAO Resolucao 491/2018-Conama: padroes de qualidade do ar e diretrizes da OMS - ADI 6148/DF ODS: 3 e 11 Resumo: Ainda e constitucional a Resolucao 491/2018 do Conselho Nacional do Meio Ambiente (Conama), que dispoe sobre padroes de qualidade do ar. Entretanto, nova norma deve ser editada.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É competência dos municípios promover o licenciamento ambiental das atividades ou empreendimentos que possam causar impacto ambiental de âmbito local. 2. A Política Nacional do Meio Ambiente, estabelecida pela Lei 6.938/1981, prevê que dependem de licenciamento ambiental a construção, a instalação, a ampliação e o funcionamento de estabelecimentos e atividades utilizadores de recursos ambientais, efetiva ou potencialmente poluidores ou capazes de causar degradação ambiental sob qualquer forma. 3. É constitucional a Resolução 491/2018 do Conselho Nacional do Meio Ambiente (Conama), que dispõe sobre padrões de qualidade do ar, entretanto, deve ser editada nova norma.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, apos converter o julgamento dos referendos das medidas cautelares em acoes diretas em julgamento de merito, o Plenario, por maioria, julgou parcialmente procedentes os pedidos nelas formulados para fixar interpretacao conforme a CF/88 a dispositivos das Constituicoes dos Estados de Alagoas, do Rio de Janeiro e de Rondonia, e, por arrastamento, dos regimentos internos das respectivas assembleias legislativas, no sentido de permitir apenas uma reeleicao dos membros das suas mesas diretoras para os mesmos cargos em mandatos consecutivos. Vencidos, parcialmente, os ministros Ricardo Lewandowski e Carmen Lucia. ADI 6720/AL, relator Min. Roberto Barroso, julgamento virtual finalizado em 24.9.2021 (sexta-feira), as 23:59 (INF 1031) ADI 6721/RJ, relator Min. Roberto Barroso, julgamento virtual finalizado em 24.9.2021 (sexta-feira), as 23:59 (INF 1031) ADI 6722/RO, relator Min. Roberto Barroso, julgamento virtual finalizado em 24.9.2021 (sexta-feira), as 23:59 (INF 1031) Reeleicao dos Presidentes das casas legislativas do Congresso Nacional - ADI 6524/DF Resumo: Nao e possivel a reconducao dos presidentes das casas legislativas para o mesmo cargo na eleicao imediatamente subsequente, dentro da mesma legislatura. Admite-se a possibilidade de reeleicao dos presidentes das casas legislativas em caso de nova legislatura. Com esses entendimentos, o Plenario, por maioria, julgou parcialmente procedente o pedido formulado em acao direta de inconstitucionalidade (ADI) para (i) dar interpretacao conforme a Constituicao ao art. 59 do Regimento Interno do Senado Federal (RISF) e ao art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível converter o julgamento dos referendos das medidas cautelares em ações diretas em julgamento de mérito. 2. É permitido apenas uma reeleição dos membros das mesas diretoras para os mesmos cargos em mandatos consecutivos. 3. Não é possível a recondução dos presidentes das casas legislativas para o mesmo cargo na eleição imediatamente subsequente, dentro da mesma legislatura. 4. É admitida a possibilidade de reeleição dos presidentes das casas legislativas em caso de nova legislatura. 5. É necessário dar interpretação conforme a Constituição ao art. 59 do Regimento Interno do Senado Federal (RISF) e ao art.

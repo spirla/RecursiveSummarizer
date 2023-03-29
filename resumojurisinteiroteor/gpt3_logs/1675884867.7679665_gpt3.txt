@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Atribuiu  causa o valor de R$ 500,00 (quinhentos reais) (Evento 1 - INIC1). A inicial foi instruda com os documentos coligidos no Evento 01. O MM. juzo a quo recebeu a inicial, indeferiu a liminar de tutela de urgncia e concedeu o benefcio da assistncia judiciria gratuita (Evento 4). O Estado de Minas Gerais apresentou contestao (Evento 13 - CONT1). Em sntese, alegou que o procedimento seguiu rigorosamente os ditames normativos de regncia, tanto em sede constitucional quanto de natureza infraconstitucional (EMEMG, CEDM e MAPPA). Disse que o caderno probatrio carreado aos autos demonstra que o autor praticou as transgresses disciplinares capituladas no art. 13, inciso I e III, do CEDM. Alegou que o autor manteve relacionamento amoroso e sexual com uma menor de idade, que engravidou e, na sequncia, sofreu um aborto. Declarou que o laudo psicolgico e o relatrio neurolgico indicaram que Melissa possua dficit de aprendizagem, de ateno e "significativo atraso em relao  idade mental e cronolgica. Imaturidade, com idade mental rebaixada", bem como "notvel dificuldade nas habilidades cognitivas". Afirmou que o Laudo pericial de Sanidade Mental atestou que a adolescente possua "Retardo Mental leve a moderado perceptvel ao leigo, no havendo possibilidade de cura segundo o conhecimento mdico atual". O mesmo documento consignou que a condio retirava da menor a capacidade para se autogerir e no permitia o trabalho regular. Segundo o Estado de Minas Gerais, o PAD foi antecedido por uma sindicncia instaurada para verificar a existncia de ilcitos administrativo- disciplinares por parte do autor. Afirmou que o relacionamento amoroso e sexual no foi negado pelo autor e, ainda, que o amplo acervo probatrio (testemunhal e documental) pautado no respeito ao contraditrio e  ampla defesa, indicou precisamente a prtica das acusaes erigidas. Alegou que, em regra, a absolvio criminal no impacta nas searas cvel e administrativa, salvo quando calcada na inexistncia do fato (art. 386, I, do CPP) ou quando restar provado que o autor no concorreu para a infrao penal (art. 386, IV, do CPP). Disse que a absolvio criminal do autor no repercute na seara administrativa, tendo em vista o primado constitucional da separao e independncia dos Poderes (art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais contestou a ao proposta pelo autor, alegando que o procedimento seguiu rigorosamente os ditames normativos de regência, tanto em sede constitucional quanto de natureza infraconstitucional. Alegou que o autor manteve relacionamento amoroso e sexual com uma menor de idade, que engravidou e, na sequência, sofreu um aborto. O Estado de Minas Gerais ainda afirmou que a absolvição criminal do autor não repercute na seara administrativa, tendo em vista o primado constitucional da separação e independência dos Poderes.

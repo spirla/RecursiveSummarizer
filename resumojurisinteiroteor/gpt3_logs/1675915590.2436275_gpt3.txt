@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Isso veio contra os princpios da proporcionalidade e da razoabilidade. Pede a anulao do PAD supracitado, sua reintegrao nas fileiras da PMMG e a condenao do Estado ao pagamento de danos morais e materiais eventualmente sofridos. Com a inicial, sobreveio aos autos indeferimento ao requerimento de tutela de urgncia (evento 09) formulado na inicial pelo autor, tendo em vista a ausncia dos requisitos legais, pois o caso dos autos exige exame ponderado das provas apresentadas, no havendo que se falar em evidente probabilidade do direito. Por meio da petio de evento 01, o autor interps Agravo de Instrumento contra a deciso proferida em primeiro grau de jurisdio, que, em sede de anlise do pedido liminar na ao de origem, indeferiu o pleito referente  suspenso da punio demissionria do militar, para a imediata reintegrao do agravante aos quadros da Polcia Militar do Estado de Minas Gerais - PMMG e o pagamento de todas as verbas salariais. Aps, sobreveio aos autos acrdo (evento 17) negando provimento ao agravo interposto pelo autor. Citado, o Estado de Minas Gerais ofertou contestao (evento 20), requerendo a improcedncia dos pedidos contidos na inicial, alegando a impossibilidade de anlise do mrito do ato administrativo, em razo de no haver ilegalidade a ser sanada. O autor, no evento 25, apresentou impugnao  contestao, reiterando os pedidos iniciais. Na fase de especificao de provas, o autor (evento 29) informou que as provas a produzir seriam as mesmas j descritas na inicial, pugnando apenas pelo julgamento antecipado da pretenso. Em sentena (evento 37), o MM. juiz de direito substituto da 5a Auditoria de Justia Militar Estadual (AJME) abordou todas as questes suscitadas e, ao final, entendeu que: [...] 2. FUNDAMENTAO Verificou-se, na anlise da documentao colacionada aos autos da presente ao, que a punio decorrente da SAD supracitada foi ativada em 01.10.2013 - Evento 13, DOC11, pg. 27. 1. O requerente, ao ingressar no conceito c, teve a notificao formalizada em 13/05/2015. 2. Em 16/04/2017 cometeu nova falta grave, enquadrando-se no art. 13, II, do CEDM. 3. Foi, ento, instaurado o PAD, conforme Portaria de 22/05/2017, cuja concluso redundou na demisso do requerente, em 24/09/2020.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O autor interps agravo de instrumento contra a deciso proferida em primeiro grau de jurisdio que indeferiu o pedido de suspenso da punio demissionria do militar e reintegrao aos quadros da Polícia Militar do Estado de Minas Gerais. O acórdão negou provimento ao agravo. O autor requereu a anulação do PAD, reintegração aos quadros da PMMG e pagamento de danos morais e materiais. O juíz de direito substituto da 5a Auditoria de Justia Militar Estadual entendeu que a punição decorrente da SAD foi ativada em 01.10.2013 e que o autor cometeu nova falta grave em 16/04/2017, culminando na demissão em 24/09/2020.

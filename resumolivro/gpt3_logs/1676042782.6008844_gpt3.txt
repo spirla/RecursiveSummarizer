@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Antijuridicidade (ilicitude). O exame sobre a antijuridicidade era de natureza objetiva, no exigindo que o sujeito oriente a sua conduta pela finalidade de salvamento de um bem jurdico. Bastava que a ao pudesse ser retratada objetivamente por qualquer das causas de justificao. A noo de antijuridicidade objetiva, desenvolvida para o Direito Civil por Ihering, em 1867, foi introduzida no Direito Penal por Liszt e Beling. Desta forma, a antijuridicidade era afirmada diante da contradio formal e objetiva entre a ao e a norma penal, desde que inexistisse causa de justificao. Von Liszt,63 nesse sentido, sustentou que a doutrina sobre a ilicitude do crime no  mais do que a exposio das causas que, por exceo, tiram do fato tpico o carter da ilegalidade. Assim, somente em situaes especiais, seria lcita a leso de bens juridicamente protegidos. Constituindo elemento que expressa a contrariedade da ao com o ordenamento jurdico, a antijuridicidade comportava toda a perspectiva normativa (valorativa) do sistema. Culpabilidade. A culpabilidade do sistema clssico tem origem na concepo de Adolf Merkel, que primeiro reuniu o dolo e a negligncia sob um conceito superior de determinao da vontade contrariamente ao dever. Tendo em vista a perspectiva naturalista do sistema, o exame da culpabilidade ficou restrito  constatao do nexo subjetivo entre o sujeito e o resultado de sua conduta (conceito psicolgico de culpabilidade). Todos os componentes psicolgicos do sujeito eram analisados na culpabilidade, sendo que o dolo e a culpa constituam o ncleo dessa anlise. Nessa estrutura, a culpabilidade teria a imputabilidade como pressuposto e o dolo e a culpa como suas formas de manifestao. Beling sustentou que o que se reprova no sujeito de fato punvel  a sua atitude interna com respeito  antijuridicidade de sua conduta: na forma dolosa de culpabilidade, reprova-se o sujeito por no se haver detido ante o pensamento de estar obrando ilicitamente; e, na forma culposa de culpabilidade, reprova-se o sujeito por no conhecer a ilicitude de sua conduta, quando deveria conhec-la. O conceito de dolo foi concebido segundo a teoria extremada, de modo que abrangia tanto a vontade de realizar a ao como tambm a concreta conscincia de sua ilicitude. Nesse momento, o pensamento jurdico-penal no fazia distino entre a situao de desconhecimento da ilicitude e a da evitabilidade do fato, nem entre a culpa consciente e a inconsciente.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O exame da antijuridicidade é de natureza objetiva, sendo afirmada diante da contradio formal e objetiva entre a ação e a norma penal. A culpabilidade tem origem na concepção de Adolf Merkel, sendo o seu exame restrito à constatação do nexo subjetivo entre o sujeito e o resultado de sua conduta. O conceito de dolo foi concebido segundo a teoria extremada, abrangendo a vontade de realizar a ação e a consciência de sua ilicitude.

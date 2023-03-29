@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Isso porque a vinculacao e presumida, pois as entidades arroladas no art. 150, VI, c, da CF estao impedidas de distribuir qualquer parcela do seu patrimonio ou de suas rendas, sob pena de suspensao ou cancelamento do direito a imunidade, conforme preceitua o Codigo Tributario Nacional (CTN) [Lei 5.172/1966, art. 14, I e  1]. Com base nessa premissa, o Supremo Tribunal Federal editou a Sumula Vinculante 52. Dessa forma, para o reconhecimento da imunidade basta que nao seja provado desvio de finalidade, onus que incumbe ao sujeito ativo. Com base nesse entendimento, o Plenario, por unanimidade, ao apreciar o Tema 328 da repercussao geral, negou provimento ao recurso extraordinario. O ministro Alexandre de Moraes acompanhou o voto da relatora com ressalvas. RE 611510/SP, relatora Min. Rosa Weber, julgamento virtual finalizado em 12.4.2021 (segunda-feira) as 23:59 (INF 1012) 17.8 IPI Embalagens para acondicionamento de agua mineral e aliquota de IPI - RE 606314/PE (Tema 501 RG) Tese fixada: E constitucional a fixacao de aliquotas de IPI superiores a zero sobre garrafoes, garrafas e tampas plasticas, ainda que utilizados para o acondicionamento de produtos essenciais . Resumo: Em se tratando de embalagens, o que deve ser considerado para fins de seletividade (art. 153,  3, I, da CF/88) e o grau de essencialidade do produto a ser acondicionado e nao da embalagem propriamente considerada. Com efeito, a CF impoe que o Imposto sobre Produtos Industrializados (IPI) seja seletivo em razao da essencialidade do produto, ou seja, a aliquota do imposto levara em consideracao a importancia e necessidade do bem para o consumidor e para a coletividade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É presumida a vinculação das entidades arroladas no art. 150, VI, c, da CF, às quais é imposto o impedimento de distribuir qualquer parcela do seu patrimônio ou de suas rendas, sob pena de suspensão ou cancelamento do direito à imunidade, conforme preceitua o Codigo Tributario Nacional (CTN). 2. É necessário que não seja provado desvio de finalidade para o reconhecimento da imunidade. 3. É constitucional a fixação de alíquotas de IPI superiores a zero sobre garrafões, garrafas e tampas plásticas, ainda que utilizados para o acondicionamento de produtos essenciais. 4. O que deve ser considerado para fins de seletividade (art. 153, 3, I, da CF/88) é o grau de essencialidade do produto a ser acondicionado e não da embalagem propriamente considerada. 5. A CF impõe que o Imposto sobre Produtos Industrializados (IPI) seja seletivo em razão da essencialidade do produto, ou seja, a alíquota do imposto levará em consideração a importância e necessidade do bem para o consumidor e para a coletividade.

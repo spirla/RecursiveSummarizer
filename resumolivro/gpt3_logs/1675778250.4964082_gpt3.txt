@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+____. 12. CERTIFICAR SE AS TESTEMUNHAS ARROLADAS PELA DEFESA FORAM OUVIDAS
+Caso nao tenham sido, justificar e fundamentar no relatorio. Sendo testemunha de defesa, o acusado e seu defensor devem ter sido notificados formalmente no curso da instrucao acerca do seu motivado indeferimento ou impedimento de audicao - indicar folhas dessas notificacoes. 13. NOTIFICACOES DO ACUSADO E DEFENSOR PARA AS REUNIOES DE INSTRUCAO DO PAD - artigo 70, VIII, a, do CEDM. Datas: ___/___/___(fls. _____). Conferir se o acusado e o seu defensor foram notificados, por escrito, com antecedncia minima de 48h, exceto quando ja tiverem sido intimados na reuniao anterior, observado o intersticio minimo de 24h entre o termino de uma reuniao e a abertura de outra. 14. PARECER TECNICO DO MEDICO DO NAIS/SAS QUANTO A NECESSIDADE DE PERICIA PSICOPATOLOGICA - artigo 73 do CEDM e artigo 18 da Resolucao Conjunta 4.278/13-PMMG/CBMMG. Data: ___/___/___(fl. _____). 15. NOTIFICACAO PARA APRESENTAR QUESITOS COMPLEMENTARES AOS OFICIAIS A PERICIA PSICOPATOLOGICA - peca obrigatoria quando o parecer tecnico do medico do NAIS/SAS for favoravel a realizacao da pericia psicopatologica - imposta pelo ao principio do contraditorio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Verificar se as testemunhas arroladas pela defesa foram ouvidas e justificar se não foram. Notificar o acusado e seu defensor para as reuniões de instrução do PAD. Verificar se o acusado e seu defensor foram notificados com antecedência mínima de 48h. Verificar o parecer técnico do médico do NAIS/SAS quanto à necessidade de perícia psicopatológica. Notificar o acusado para apresentar quesitos complementares aos oficiais da perícia psicopatológica.

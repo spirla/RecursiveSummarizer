@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Por meio da vulnerabilidade que pretende instalar (1 estgio), o sujeito pretende obter posteriormente (2 estgio) uma vantagem ilcita. Para a compreenso do comportamento proibido ainda  necessrio analisar os diversos elementos normativos que integram a descrio tpica, o que se far a seguir. 6.14.5. Elementos normativos do tipo. Os tipos que descrevem o crime de invaso de dispositivo informtico, em sua forma simples e em sua forma qualificada, bem como em suas figuras assemelhadas, apresentam muitos elementos normativos que podem dificultar a compreenso da conduta proibida e possibilitar a ocorrncia de inadequao tpica por erro de tipo (artigo 20 do CP). Vejamos o significado desses elementos, a comear pelos que integram a figura fundamental (ou simples) prevista no caput do artigo 154-A do Cdigo Penal. Dispositivo informtico. A palavra informtica deriva da fuso das palavras informao e automtica e serve para designar a cincia que se ocupa do uso da informao, visando torn-la uma informao automtica. Nesse sentido, a informtica confere tratamento racional e automtico  informao, que  considerada como suporte dos conhecimentos e da prpria comunicao que se estabelece, principalmente, por meio dos computadores. Por dispositivo informtico - computing device - deve-se entender qualquer mquina, equipamento ou componente que  utilizado para a produo, o armazenamento, a gesto e a comunicao de informaes. Os dispositivos de informtica podem ser classificados em dispositivos principais, como  o caso dos computadores, dos tablets, dos smartfones e das smart tvs, e em dispositivos perifricos, cujos exemplos so as impressoras, os scaners, os pendrives, os cartes de memria e os hard disk externos. Com o advento da rede mundial de computadores, no  necessrio que o dispositivo esteja instalado no Brasil. Nos casos em que o dispositivo estiver instalado no exterior, para que seja aplicvel a lei brasileira (artigo 6 do CP),  necessrio que a conduta que realiza a invaso seja realizada no Brasil. Rede de computadores. Rede  uma palavra utilizada para indicar a ideia de inter-relao entre unidades autnomas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de invasão de dispositivo informático, seja na forma simples ou qualificada, requer análise dos elementos normativos para compreensão da conduta proibida. Estes elementos incluem dispositivo informático, que é qualquer máquina, equipamento ou componente usado para produção, armazenamento, gestão e comunicação de informações; e rede de computadores, que é a inter-relação entre unidades autônomas. Para aplicação da lei brasileira, é necessário que a conduta seja realizada no Brasil.

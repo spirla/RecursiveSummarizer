@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Paragrafo 1 - A concessao de licenca e dispensa saude se dara por homologacao do atestado medico ou odontologico, que sera apresentado pelo militar no NAIS onde se encontra vinculado, no mesmo dia ou ate o primeiro dia util subsequente ao de sua emissao. Paragrafo 2 - Nao sera homologado o atestado apresentado fora do prazo previsto no paragrafo anterior. Paragrafo 3 - O atestado emitido pelo medico ou cirurgiao dentista assistente, seja da rede contratada ou da rede orgnica, tem valor informativo, nao dispensa a realizacao de pericia medica ou odontologica para fins de homologacao e nao justifica a ausncia do militar no trabalho. Os oficiais medico e cirurgiao dentista podem aceitar ou rejeitar o atestado, no todo ou em parte, tendo total autonomia na formulacao de suas conviccoes e definicao do periodo do afastamento. Paragrafo 4 - E atribuicao exclusiva do oficial medico do NAIS, das JRS e da JCS determinar a capacidade laborativa do militar periciado, tanto apos o termino da licenca saude, quanto apos a concessao ou homologacao de dispensa saude, dentro dos limites de suas atribuicoes. (...)
+Paragrafo 6 - O militar que receber atestado de saude, que sugira afastamento do trabalho ou atividade, comunicara imediatamente ao seu chefe direto a impossibilidade de seu comparecimento ao servico. Paragrafo 7 - O militar comparecera ao NAIS da Unidade em que estiver vinculado no mesmo dia ou no maximo ate o primeiro dia util, apos a emissao de atestado por medico ou cirurgiao dentista assistente, sob pena de preclusao, sem embargo da responsabilizacao administrativa ou penal por venturas cabiveis. Paragrafo 8 - Excepcionalmente, o atestado de saude podera ser apresentado ao oficial medico ou ao oficial cirurgiao dentista, este ultimo na area de competncia da odontologia, por interposta pessoa, observados o prazo previsto no paragrafo anterior e os criterios estabelecidos no artigo 22 desta Resolucao Conjunta.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O militar deve apresentar o atestado médico ou odontológico no NAIS onde está vinculado no mesmo dia ou no primeiro dia útil subsequente à sua emissão. O atestado tem valor informativo e não dispensa a realização de perícia médica ou odontológica para homologação. O oficial médico ou cirurgião dentista tem autonomia para aceitar ou rejeitar o atestado. O militar deve comunicar imediatamente ao seu chefe direto a impossibilidade de comparecimento ao serviço. Excepcionalmente, o atestado pode ser apresentado por interposta pessoa, observando-se o prazo previsto.

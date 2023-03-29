@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Modalidade a distancia. Ausencia de credenciamento no Ministerio da Educacao (MEC). Exigencia da Lei de Diretrizes e Bases da Educacao Nacional. Remicao por estudo. Impossibilidade. DESTAQUE A remicao de pena em virtude de curso profissionalizante, realizado pelo apenado na modalidade a distancia (EaD), exige a apresentacao de certificado emitido por entidade educacional devidamente credenciada perante o Ministerio da Educacao (MEC). O art. 126 da LEP preve, em seu  2, que as atividades de estudo a que se refere o  1 deste artigo poderao ser desenvolvidas de forma presencial ou por metodologia de ensino a distancia e deverao ser certificadas pelas autoridades educacionais competentes dos cursos frequentados . Alem disso, no que se refere a educacao profissionalizante e ao ensino a distancia, dispoem os arts. 39 e 80 da Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educacao Nacional), notadamente no  1 do art. 80, que a educacao a distancia, organizada com abertura e regime especiais, sera oferecida por instituicoes especificamente credenciadas pela Uniao . Como se ve, a Lei de Diretrizes e Bases da Educacao nao dispensa o credenciamento das instituicoes de ensino que ofertem cursos profissionalizantes e, quanto aos cursos a distancia, traz de forma expressa a exigencia de credenciamento junto a Uniao das instituicoes de ensino.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A remição de pena em virtude de curso profissionalizante, realizado pelo apenado na modalidade a distância (EaD), exige a apresentação de certificado emitido por entidade educacional devidamente credenciada perante o Ministério da Educação (MEC). 2. O artigo 126 da Lei de Execução Penal (LEP) prevê, em seu § 2, que as atividades de estudo a que se refere o § 1 deste artigo poderão ser desenvolvidas de forma presencial ou por metodologia de ensino a distância e deverão ser certificadas pelas autoridades educacionais competentes dos cursos frequentados. 3. A Lei de Diretrizes e Bases da Educação Nacional (LDB) não dispensa o credenciamento das instituições de ensino que ofertem cursos profissionalizantes e, quanto aos cursos a distância, traz de forma expressa a exigência de credenciamento junto à União das instituições de ensino.

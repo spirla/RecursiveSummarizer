@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A gravidade abstrata do crime  considerada pelo legislador na cominao da sano penal, na tipologia ou na qualificao do crime (por ex., hediondo), porm no constitui motivo idneo para se decretar a priso preventiva, consoante a doutrina nacional e precedentes do STF firmaram o entendimento de que a gravidade abstrata da infrao no  fundamento idneo para a priso cautelar. No  legtima a motivao da priso preventiva com base no clamor pblico, que significa indignao ou comoo no meio social, com grande repercusso resultante da prtica de crime, porm no  fundamento da priso preventiva, nem cabe canhestra interpretao para inclu-lo no conceito de ordem pblica. A priso preventiva no h de ser decretada em resposta satisfativa  indignao, ao descontentamento popular,  sede de vingana coletiva ou  revolta na comunidade surgida em razo de delitos graves, a beirar justia sumria. Decretar a priso preventiva com a finalidade de tranquilizar ou satisfazer o nimo dos cidados ou a opinio pblica  ilegal. Ao se dar  priso preventiva a ilegtima funo de pronta reao, a de dar satisfao ao pblico, de aplacar o alarme social, h o risco de manipulao dos sentimentos. De quebra, no se pode duvidar da influncia da mdia sobre a deciso do juiz ou do tribunal. O apelo  ordem pblica representa, em ltima anlise, a superao dos limites impostos pelo princpio da legalidade estrita, que se postula fundamental  matria, para propiciar a atribuio de um amplo poder discricionrio ao juiz, que nesse particular no fica sujeito a limitaes seno da prpria sensibilidade. A doutrina  majoritria e o STF tem considerado inadequada a fundamentao da priso preventiva com base no chamado clamor popular provocado pelo fato atribudo ao ru com repercusso nos veculos de comunicao de massa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A gravidade abstrata do crime não é motivo idôneo para decretar a prisão preventiva. O clamor público, o descontentamento popular e a sede de vingança coletiva também não são fundamentos para a prisão preventiva, pois isso representa uma forma de justiça sumária. A doutrina majoritária e o STF consideram inadequada a fundamentação da prisão preventiva com base no clamor popular provocado pelo fato atribuído ao réu.

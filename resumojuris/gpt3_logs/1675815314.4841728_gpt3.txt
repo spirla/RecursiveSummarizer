@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DIREITO CONSTITUCIONAL 3.1 ORCAMENTO Orcamento secreto: uso de emendas do relator para inclusao de novas despesas no projeto de lei orcamentaria anual da Uniao - ADPF 850/DF, ADPF 851/DF, ADPF 854/DF e ADPF 1.014/DF ODS: 16 Resumo: E vedada a utilizacao das emendas do relator-geral do orcamento com a finalidade de cri-ar novas despesas ou de ampliar as programacoes previstas no projeto de lei orcamentaria anual, uma vez que elas se destinam, exclusivamente, a corrigir erros e omissoes (CF/88, art. 166,  3, III, alinea a ). As emendas do relator (classificadas sob o indicador orcamentario RP 9) sao incompativeis com a CF/88 em virtude de seu carater anonimo, sem identificacao do proponente. Isso porque operam com base na logica da ocultacao dos efetivos requerentes, por meio da qual todas as despesas nela previstas sao atribuidas, indiscriminadamente, a pessoa do relator-geral do orcamento, entre parlamentares incognitos e o orcamento publico federal. Assim, a sua utilizacao para a inclusao, na peca orcamentaria, de recursos avulsos indicados por bancadas ou parlamentares individualizados, quando nao limitados a correcoes e ajustes tecnicos, subverte o regramento constitucional para confeccao do orcamento publico (CF/88, arts. 165 e 166). Esta Corte ja se manifestou no sentido de ser condicao de validade dos atos que compoem o ci-clo orcamentario a sua pratica com atencao e fidelidade aos postulados republicanos e com a transpa-rencia necessaria a garantia de acesso de todos as informacoes de interesse publico, desde a elaboracao e o planejamento ate a realizacao das despesas publicas (CF/88, arts. 1, caput e paragrafo unico; 5, XXXIII; 37, caput e  3, II).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedada a utilização das emendas do relator-geral do orçamento com a finalidade de criar novas despesas ou de ampliar as programações previstas no projeto de lei orçamentária anual (CF/88, art. 166, § 3º, inciso III, alínea a). 2. As emendas do relator (classificadas sob o indicador orçamentário RP 9) são incompatíveis com a CF/88 em virtude de seu caráter anônimo, sem identificação do proponente. 3. É condição de validade dos atos que compõem o ciclo orçamentário a sua prática com atenção e fidelidade aos postulados republicanos e com a transparência necessária para garantia de acesso de todos às informações de interesse público (CF/88, arts. 1º, caput e parágrafo único; 5º, XXXIII; 37, caput e § 3º, inciso II).

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O pedido de suspensao destina-se a tutelar tao somente grave lesao a ordem, a saude, a seguranca ou a economia publicas, nao podendo ser utilizado como se sucedaneo recursal fosse. Assim, o incidente da suspensao de liminar e de sentenca e inadequado para a apreciacao do merito da controversia. (Informativo n. 739) 137 PROCESSO IF 113-PR, Rel. Min. Jorge Mussi, Corte Especial, por unanimidade, julgado em 06/04/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL TEMA Ordem judicial de desocupacao. Nao cumprimento. Medidas cabiveis tomadas pelo ente estatal. Reassentamento das familias. Pedido de intervencao federal. Medida excepcional. Nao cabimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O pedido de suspensão não pode ser utilizado como se sucedâneo recursal fosse. 2. O incidente da suspensão de liminar e de sentença é inadequado para a apreciação do mérito da controvérsia. 3. Não cabe ao ente estatal tomar medidas excepcionais para o não cumprimento de ordem judicial de desocupação.

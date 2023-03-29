@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Provedora de aplicacao. Facebook. Recusa de fornecimento de dados armazenados em seus servidores. Utilizacao de cooperacao juridica internacional. Desnecessidade. Crime praticado em territorio nacional mediante servico ofertado a usuarios brasileiros. Opcao por armazenamento em nuvem. Irrelevante. DESTAQUE Empresas que prestam servicos de aplicacao na internet em territorio brasileiro devem necessariamente se submeter ao ordenamento juridico patrio, independentemente da circunstancia de possuirem filiais no Brasil e/ou realizarem armazenamento em nuvem. 1175 O art. 11 da Lei n. 12.965/2014 (Marco Civil da Internet) e claro na determinacao de aplicacao da legislacao brasileira a operacoes de coleta, armazenamento, guarda e tratamento de dados por provedores de aplicacoes, exigindo apenas que um desses atos ocorra em territorio nacional. Acrescenta-se, ainda, que o armazenamento em nuvem, estrategicamente utilizado por diversas empresas nacionais e estrangeiras, possibilita que armazenem dados em todos os cantos do globo, sem que essa faculdade ou estrategia empresarial possa interferir na obrigacao de entrega-los as autoridades judiciais brasileiras quando envolvam a pratica de crime em territorio nacional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Empresas que prestam serviços de aplicação na internet em território brasileiro devem necessariamente se submeter ao ordenamento jurídico patrio, independentemente da circunstância de possuírem filiais no Brasil e/ou realizarem armazenamento em nuvem. 2. O art. 11 da Lei n. 12.965/2014 (Marco Civil da Internet) é claro na determinação de aplicação da legislação brasileira a operações de coleta, armazenamento, guarda e tratamento de dados por provedores de aplicações, exigindo apenas que um desses atos ocorra em território nacional. 3. O armazenamento em nuvem, estrategicamente utilizado por diversas empresas nacionais e estrangeiras, possibilita que armazenem dados em todos os cantos do globo, sem que essa faculdade ou estratégia empresarial possa interferir na obrigação de entrega-los às autoridades judiciais brasileiras quando envolvam a prática de crime em território nacional.

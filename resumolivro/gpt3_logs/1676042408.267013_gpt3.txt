@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a norma bsica  a de que a lei penal possui aplicao quanto aos crimes praticados no Brasil, definir um critrio que reconhea a ocorrncia do crime nos limites do territrio nacional significa autorizar a interveno punitiva. Segundo os termos do artigo 6 do CP, considera-se praticado o crime no lugar em que ocorreu a ao ou omisso, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado. O legislador acolheu a teoria pura da ubiquidade,29 que amplia a noo de lugar do crime para incluir tanto aquele no qual se verifica a conduta como aquele no qual se verifica o resultado. Por resultado deve-se entender o resultado naturalstico, nos crimes em que ele  exigido, pois o resultado jurdico acontecer sempre que a lei penal tiver aplicao. A ampliao pode ocasionar a ocorrncia de duplo julgamento (um no Brasil e outro no pas estrangeiro), mas o inconveniente pode ser resolvido pela regra do artigo 8, que permite a compensao ou detrao de penas. A opo poltica do legislador permite a aplicao da lei penal brasileira aos crimes cometidos a distncia. Nesses casos, o local de execuo da conduta  distinto daquele em que suas consequncias se verificam. Em especial, com o desenvolvimento da tecnologia da comunicao, o aumento da criminalidade a distncia passou a ser significativo. Se, por exemplo, a execuo do crime se der por meio do uso de computador instalado no territrio de pas estrangeiro e as consequncias se verificarem no Brasil, aplicvel ser a lei brasileira. Do mesmo modo, se a conduta for realizada por meio de computador instalado no territrio brasileiro e as consequncias se verificarem no exterior, tambm ser aplicvel a lei brasileira. 3.3.2. Princpio da territorialidade. A noo tradicional de soberania do Estado limita a atuao do poder poltico ao espao fsico do territrio nacional. Partindo dessa concepo, o artigo 5 do CP determina que aplica-se a lei brasileira, sem prejuzo de convenes, tratados e regras de direito internacional, ao crime cometido no territrio nacional. Considerando a regra do artigo 6, aplica-se a lei penal brasileira se a conduta punvel, no todo ou em parte, ou se o resultado produziu ou deveria produzir-se no territrio brasileiro. O conceito jurdico de territrio  mais abrangente do que o geogrfico, j que no  restrito ao solo que se encontra compreendido entre os limites das fronteiras. Juridicamente, o territrio se estende por todo o espao fsico sobre o qual o poder poltico se exerce.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A lei penal brasileira tem aplicação quanto aos crimes praticados no território nacional, segundo o artigo 6 do CP, considerando-se a conduta ou o resultado produzido ou deveria produzir-se no território brasileiro. O conceito jurdico de território abrange todo o espaço fsico sobre o qual o poder político se exerce.

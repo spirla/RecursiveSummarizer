@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, mesmo em se tratando de verba publica  enquanto receita tributaria com destinacao especifica , nao e qualquer ente publico que pode estabelecer obrigacoes ligadas a esse mesmo tributo, mas somente aquele que tem competencia normati-va: a Uniao (CF/88, art. 149). Com base nesses entendimentos, o Plenario, por unanimidade, julgou procedente a acao para declarar a inconstitucionalidade da Lei 5.470/2015 do Distrito Federal. ADI 5349/DF, relatora Ministra Rosa Weber, julgamento virtual finalizado em 19.8.2022 (sexta-feira), as 23:59 (INF 1064) Proibicao de apreensao e retencao de motocicletas, motonetas ou ciclomotores de ate 150 cilindradas por falta de pagamento do IPVA - ADI 6997/RN ODS: 8 Resumo: E inconstitucional  por violar a competencia privativa da Uniao para legislar sobre transito e transporte (CF/88, art. 22, XI) e conferir tratamento diverso do previsto no Codigo de Transito Brasi-leiro  lei estadual que proibe a apreensao e a remocao de motocicletas, motonetas e ciclomotores de ate 150 cilindradas, por autoridade de transito, em razao da falta de pagamento do IPVA. Esta Corte, em varias oportunidades, declarou a inconstitucionalidade de normas estaduais analo-gas, tendo, inclusive, retirado do ordenamento juridico, em recente julgado e pelos mesmos fundamentos ora utilizados, leis fluminenses que permitiam a circulacao de veiculos automotores nas vias publicas sem o regu-lar pagamento do IPVA. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente a acao para declarar a inconstitucionalidade formal da Lei 10.963/2021 do Estado do Rio Grande do Norte.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É somente a Uniao que tem competência normativa para estabelecer obrigações ligadas a receita tributária com destinação específica (CF/88, art. 149). 2. É inconstitucional lei estadual que proíbe a apreensão e a remoção de motocicletas, motonetas e ciclomotores de até 150 cilindradas, por autoridade de trânsito, em razão da falta de pagamento do IPVA, pois viola a competência privativa da Uniao para legislar sobre trânsito e transporte (CF/88, art. 22, XI).

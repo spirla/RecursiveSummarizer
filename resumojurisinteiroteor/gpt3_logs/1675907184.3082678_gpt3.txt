@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1. Nos termos do art. 438,  2, do CPPM, compete ao Juiz Federal da Justia Militar redigir a Sentena, sendo facultado aos juzes militares justificar o seu voto, caso sejam vencidos. Essa mesma previso se encontra no art. 30, inciso VII, da Lei de Organizao Judiciria Militar (Lei n. 8.457/92). Ademais, a jurisprudncia desta Corte possui entendimento consolidado no sentido de no ser necessria a fundamentao dos votos dos juzes militares, eis que, conforme afirmado, a relatoria e a redao das Sentenas compete ao Juiz Federal da Justia Militar. Preliminar rejeitada. Unanimidade. 2. Resta caracterizado o delito do art. 210 do CPM, quando os agentes causam leses no ofendido, ao agir de forma negligente e imprudente, no tocante  inobservncia das regras de emprego de munies reais e de preservao de acidentes durante o exerccio de operaes com armas; e, de forma imperita, no tocante ao manuseio do armamento. 3. Conforme se extrai da leitura do art. 33, inciso II, do CPM, o crime culposo pressupe conduta voluntria que gera fato ilcito que, embora no desejado pelos agentes, era previsvel e podia ser evitado se houvesse a atuao com o devido cuidado. 4. Para a responsabilizao do agente por crime culposo, faz- se necessria a existncia simultnea dos seguintes requisitos: a) conduta humana voluntria, comissiva ou omissiva; b) inobservncia de dever de cuidado objetivo; c) resultado lesivo no querido ou no assumido pelo agente; d) nexo de causalidade entre conduta e resultado; e) previsibilidade; e f) tipicidade, conforme se pode observar da dico do art. 33, inciso II, do CPM. 5. A utilizao de arma de fogo e manuteno, sem o dispndio de ateno plena e sem o rigoroso emprego das cautelas previstas nos regulamentos das Foras Armadas, abre margem para nefastos resultados que, por bvio, devem ser evitados, por parte de todos os militares, sem mensura de esforos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A preliminar foi rejeitada de forma unânime, caracterizando-se o delito previsto no art. 210 do CPM, sendo necessária a existência simultânea dos requisitos previstos no art. 33, inciso II, do CPM para a responsabilização do agente por crime culposo. A utilização de arma de fogo e manutenção devem ser evitadas com o dispêndio de atenção plena e com o emprego das cautelas previstas nos regulamentos das Forças Armadas.

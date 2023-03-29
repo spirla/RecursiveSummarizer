@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1278 Como recentemente concluiu esta Sexta Turma, o fundamento de nao vinculacao do julgador ao pedido formulado pelo orgao ministerial deve prevalecer, sob pena de se transformar o magistrado em mero chancelador de manifestacoes do Parquet ou de transferir a este a escolha do teor de uma decisao judicial, em total desapreco a funcao jurisdicional estatal. (Informativo n. 735) PROCESSO AgRg no HC 301.882-RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 19/04/2022, DJe 26/04/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Homicidio qualificado. Recurso da defesa. Pena-base. Modificacao dos institutos juridicos. Cumulo material para continuidade delitiva. Pena final inalterada. Reformatio in pejus. Nao ocorrencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O fundamento de não vinculação do julgador ao pedido formulado pelo órgão ministerial deve prevalecer. 2. O magistrado não deve ser transformado em mero chancelador de manifestações do Parquet. 3. É vedada a transferência ao Parquet da escolha do teor de uma decisão judicial.

@@ -1,0 +1,17 @@
+PROMPT:
+
+# Encontre as teses jurdicas no texto abaixo e organize-as em tpicos completos.
+
+Informativo
+1082
+1082
+1082
+1081
+
+TESES JURDICAS: 1.
+
+==========
+
+RESPONSE:
+
+O direito à informação é um direito fundamental; 2. O Estado deve garantir o acesso à informação; 3. O Estado deve assegurar a proteção dos direitos fundamentais dos cidadãos; 4. O Estado deve promover a transparência na administração pública.

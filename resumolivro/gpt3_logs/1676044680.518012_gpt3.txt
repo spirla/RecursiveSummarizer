@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com certeza, mesmo o alcoolizado deve ser respeitado quando aponta preferencialmente no cruzamento. Mas a teoria da equivalncia dos antecedentes j excluiria da relao causal a ingesto do lcool, pois, ainda que suprimido no processo hipottico de eliminao, o resultado teria sido do mesmo modo produzido. Ento, no  necessrio discutir a relevncia jurdica da conduta que sequer  considerada causa. A mesma soluo d-se ao caso em que o motorista que conduz com excesso de velocidade  colhido por outro que no respeita a preferncia no cruzamento. A conduo em excesso de velocidade, por si s, j produz risco desaprovado, independentemente da atuao dos demais. Para a imputao objetiva, entretanto, deve-se apurar qual das duas condutas arriscadas realizou o resultado lesivo. No caso, o excesso de velocidade no determinou o resultado, mas o desrespeito  preferncia. A diminuio da velocidade de um dos motoristas evitaria a coliso, da mesma forma que o aumento da velocidade do outro. O que determina a coliso  o desrespeito  preferncia de passagem no cruzamento, e no o excesso de velocidade. Jakobs apresenta problema que envolve importante aspecto da aplicao do princpio da confiana, ao tratar dos danos subsequentes. Tenha-se em mira uma coliso que provoque a parada de dois veculos na rodovia. Apesar de o local permitir ampla visibilidade, um terceiro veculo vem a colidir com o veculo envolvido na primeira coliso e que estava parado. O causador da primeira coliso responde pelas leses causadas pela coliso seguinte ou pode alegar sua confiana na habilidade dos demais condutores em desviarem-se dos veculos abalroados? O professor alemo observa que o fato de os causadores do dano subsequente terem de se comportar de outro modo no quer dizer que em todo caso poder-se-ia confiar tambm em que assim ocorresse. So as peculiaridades do caso concreto que iro determinar a possibilidade de acreditar-se no comportamento adequado dos demais condutores de veculo. Se a coliso ocorrer em uma curva muito fechada, a dificuldade de visualizao da posio dos veculos parados impedir a confiana na possibilidade de os demais condutores evitarem nova coliso. No entanto, diante de boas condies de sinalizao, visibilidade e manobra, pode-se, a princpio, confiar em que os demais condutores evitaro nova coliso. O comportamento absolutamente inadequado do terceiro condutor impe-lhe responsabilidade exclusiva e impede a imputao dos resultados subsequentes aos causadores da primeira coliso.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria da equivalência dos antecedentes exclui a ingestão de álcool como causa da relação. O excesso de velocidade não determinou o resultado, mas o desrespeito à preferência no cruzamento. Jakobs apresenta o problema dos danos subsequentes, onde as peculiaridades do caso concreto determinarão a possibilidade de confiar no comportamento adequado dos condutores. O comportamento inadequado do terceiro condutor impõe responsabilidade exclusiva e impede a imputação dos resultados aos causadores da primeira colisão.

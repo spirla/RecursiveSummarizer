@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No que diz respeito ao resultado qualificador consistente na instituio de controle remoto no autorizado do dispositivo invadido, a qualificadora somente poder ser caracterizada com conduta dolosa do sujeito que realiza a invaso do dispositivo. 6.14.11. Causas de aumento. O Cdigo Penal estabeleceu trs causas de aumento de pena para o crime de invaso de dispositivo informtico a serem aplicadas na terceira fase da dosimetria da pena126 relacionadas  produo de prejuzo econmico;  divulgao, comercializao ou transmisso das informaes obtidas; e ao cometimento do crime em desfavor de determinadas autoridades pblicas. Prejuzo econmico. A primeira das causa de aumento  prevista no pargrafo 2 do artigo 154-A, segundo o qual se deve aumentar a pena de um sexto a um tero nos casos em que da invaso resulta prejuzo econmico. Por prejuzo econmico deve-se entender qualquer dano economicamente mensurvel e relevante sofrido pelo titular do dispositivo informtico ou por terceiros que se apresentam relacionados aos dados ou informaes armazenados no dispositivo ou por ele manipulados. Para que seja possvel a aplicao da causa de aumento  necessrio que o sujeito tenha produzido o prejuzo, ao menos, culposamente (artigo 19 do CP). No caso em que o sujeito invade o dispositivo informtico com o fim de instalar vulnerabilidade para a obteno de vantagem ilcita, a princpio, o prejuzo econmico se apresenta como exaurimento do crime e, mesmo neste caso, dever-se-ia aplicar a causa de aumento em razo da maior reprovabilidade da conduta. No entanto, cabe observar que se a obteno da vantagem constituir um crime autnomo e a invaso do dispositivo constituir meio necessrio para a sua execuo, o crime de invaso dever ser absorvido pelo crime patrimonial. Divulgao, comercializao ou transmisso das informaes obtidas. Conforme o pargrafo 4 do artigo 154-A do Cdigo Penal, nos casos de invaso de dispositivo informtico qualificada (pargrafo 3), em que da invaso resultar a obteno de contedo de comunicaes eletrnicas privadas, segredos comerciais ou industriais, informaes sigilosas, assim definidas em lei, ou o controle remoto no autorizado do dispositivo invadido, a pena deve ser aumentada de um a dois teros se houver divulgao, comercializao ou transmisso a terceiro, a qualquer ttulo, dos dados ou informaes obtidos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal prevê três causas de aumento de pena para o crime de invasão de dispositivo informático: prejuízo econômico; divulgação, comercialização ou transmissão das informações obtidas; e ao cometimento do crime em desfavor de determinadas autoridades públicas. A conduta dolosa do sujeito que realiza a invasão é necessária para caracterizar a qualificadora.

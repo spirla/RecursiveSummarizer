@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na audincia de custdia o juiz dever, fundamentadamente, conforme o inciso I do artigo 310 do CPP, relaxar a priso ilegal. Decorre da garantia constitucional de que a priso ilegal ser imediatamente relaxada pela autoridade judiciria (artigo 5, LXV). O artigo 247, pargrafo 2, do CPPM, prev duas hipteses de relaxamento da priso:
+se manifesta a inexistncia de infrao penal militar ou a no participao da pessoa conduzida. Verifica-se, ainda, ilegalidade se a priso em flagrante estiver fora das situaes de flagrncia do artigo 244 do CPPM e se houve descumprimento de formalidades essenciais. O vcio verificado no APF no impedir a ao penal, nem tornar nulo o processo. A falta de comunicao da priso imediatamente ao juiz competente e  famlia do preso ou  pessoa por ele indicada (artigo 5, LXII, CF) no  causa de nulidade do APF.45 O STF (HC 102.732) entendeu ser suficiente a lembrana, pela autoridade policial, dos direitos constitucionais do preso de ser assistido, comunicando-se com a famlia e com profissional da advocacia, e de permanecer calado.  o entendimento do STJ publicado na edio 120 Jurisprudncia em Teses:
+Eventual nulidade no auto de priso em flagrante devido  ausncia de assistncia por advogado somente se verifica caso no seja oportunizado ao conduzido o direito de ser assistido por defensor tcnico, sendo suficiente a lembrana, pela autoridade policial, dos direitos do preso previstos no artigo 5, LXIII, da Constituio Federal. Por fim, no macula o APF no observar o inciso LXIV do artigo 5 da CF, o preso tem direito  identificao dos responsveis por sua priso ou por seu interrogatrio policial. De acordo com o inciso II do artigo 310 do CPP, se o juiz considerar a priso em flagrante legal, deve converter a priso em flagrante em preventiva, quando presentes os requisitos legais, e se revelarem inadequadas ou insuficientes as medidas cautelares diversas da priso. A priso preventiva  determinada se no for cabvel sua substituio por outra medida cautelar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz dever relaxar a priso ilegal, conforme previsto no artigo 310 do CPP. O artigo 247 do CPPM prev duas hipteses de relaxamento da priso. A falta de comunicao da priso imediatamente ao juiz competente e famlia do preso ou pessoa por ele indicada no causa de nulidade do APF. O STF entendeu ser suficiente a lembrana, pela autoridade policial, dos direitos constitucionais do preso. Se o juiz considerar a priso em flagrante legal, deve converter a priso em flagrante em preventiva, quando presentes os requisitos legais. A priso preventiva determinada se no for cabvel sua substituio por outra medida cautelar.

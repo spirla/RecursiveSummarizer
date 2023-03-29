@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+163 do CPM, sujeitando-o  pena de 1 (um) ano de deteno, a ser cumprida no regime inicial aberto, concedido o sursis da pena (Evento 197 - AjME). A sentena (Evento 204 - AJME) foi lida em audincia realizada no dia 16 de maio de 2022 (Evento 205 - AJME). Irresignada, a defesa interps o presente recurso de apelao (Evento 197 - AJME). Nas razes recursais, a defesa, preliminarmente, suscitou a nulidade do processo, nos termos do art. 500, incisos III, alnea "e, e IV, do CPPM, sob o argumento de que houve violao do devido processo legal, em razo de o CPJ no ter aberto vista ao Ministrio Pblico para se manifestar acerca do cabimento da transao penal ou da suspenso condicional do processo. Alm disso, ressaltou que os benefcios da transao penal e da suspenso condicional do processo so compatveis com o processo penal militar, de modo que o art. 90-A da Lei n. 9.099/95 deve ser declarado incidentalmente inconstitucional. No mrito, alegou que o fundamento utilizado para a absolvio do ru em relao aos crimes de homicdio qualificado tentado e violncia contra superior deve ser alterado para o previsto nas alneas "b ou "d do art. 439 do CPPM. Destacou que, pelas provas colhidas nos autos, o crime de homicdio qualificado tentado no restou configurado, em virtude da atipicidade da conduta, pois comprovada a ausncia de animus necandi por parte do acusado. Asseverou que, ainda que no seja acolhida a tese de atipicidade da conduta, deve ser reconhecida a legtima defesa, salientando que o ofendido, que se encontrava em tratamento psiquitrico, agiu em legtima defesa putativa e que o acusado agiu em legtima defesa prpria, pois aquele tentou tomar-lhe a arma de fogo que empunhava, por ser intendente e, consequentemente, responsvel pela guarda do quartel no dia dos fatos. Sustentou, por fim, que a absolvio do delito de homicdio qualificado tentado, seja por atipicidade ou pelo reconhecimento da legtima defesa, absorve o crime de violncia contra superior, uma vez que calcado na mesma conduta (Evento 219 - AJME). Em contrarrazes, o parquet alegou que a preliminar aventada no deve ser acolhida, salientando que a transao penal  hiptese de conciliao pr-processual, razo pela qual preclui com o oferecimento da denncia ou, pelo menos, com o seu recebimento sem insurgncia. Salientou que, no momento do oferecimento da denncia, no estavam presentes os requisitos para oferecimento da transao penal ou da suspenso condicional do processo, diante do concurso de crimes. Ademais, destacou que as circunstncias do fato revelaram a acentuada culpabilidade do ru ante a futilidade do motivo que deu ensejo ao cometimento dos delitos, o que entende afastar a possibilidade de oferecimento do sursis.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelao interposto pelo acusado foi julgado improcedente, mantendo-se a sentena que o condenou a 1 ano de deteno em regime inicial aberto, com sursis da pena. A defesa alegou nulidade do processo, invocando a violação do devido processo legal, e, no mérito, atipicidade da conduta, legítima defesa putativa e própria. O Ministério Público alegou que não estavam presentes os requisitos para oferecimento da transação penal ou da suspenso condicional do processo.

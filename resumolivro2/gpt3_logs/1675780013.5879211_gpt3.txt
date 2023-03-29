@@ -1,0 +1,26 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+So estabelecidos pelo artigo 278 do CPPM os requisitos intrnsecos do mandado:
+a) o nome da autoridade judiciria que o expedir;
+b) o nome do acusado, seu posto ou graduao, se militar; seu cargo, se for caso, ou, se desconhecido seus sinais caractersticos;
+c) a transcrio da denncia, com o rol das testemunhas;
+d) o lugar, o dia e a hora em que o acusado dever comparecer a juzo;
+e) a assinatura do escrivo e a rubrica da autoridade judiciria. So requisitos extrnsecos do mandado de acordo com o artigo 279 do CPPM:
+(a) a leitura ao citando pelo oficial de justia, e entrega da contraf;
+(b) a declarao do recebimento da contraf pelo citando a qual poder ser feita na primeira via do mandado e (c) declarao do oficial de justia na certido da leitura do mandado.  causa de nulidade no constar da certido a leitura do mandado, a entrega da contraf e aceitao ou recusa por parte do citando. A leitura  formalidade essencial, no bastando que o oficial de justia simplesmente avise o acusado. No  necessrio que o citado escreva estar ciente da citao. A certido do oficial de justia tem f pblica e s pode ser afastada por robusta prova em contrrio. Em caso de recusa do citando em ouvir a leitura do mandado, receber a contraf ou declarar o seu recebimento, o oficial de justia certifica a circunstncia no mandado. Do mesmo modo proceder, se o citando, embora recebendo a contraf, estiver impossibilitado de declar-lo por escrito. O CPPM no restringe a citao a horrios ou dias da semana. 13.3.2.2. Citao por precatria. A citao por precatria, de acordo com o artigo 227, II, do CPPM,  feita quando o acusado estiver servindo ou residindo fora da sede da Auditoria. A carta precatria, conforme dita o artigo 283 do CPPM, conter:
+(a) o juiz deprecado e o juiz deprecante;
+(b) a sede das respectivas jurisdies;
+(c) o fim para que seja feita a citao, com todas as especificaes;
+d) o lugar, dia e hora de comparecimento do acusado. Na alnea a palavra juiz deve ser entendida como juzo, impessoal. As especificaes da alnea c so as qualificaes e o endereo ou endereos do acusado para ser expedido o mandado de citao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O mandado de citação de acordo com o CPPM deve conter os requisitos intrínsecos (nome da autoridade judiciária, nome do acusado, transcrição da denúncia, lugar, dia e hora de comparecimento) e extrínsecos (leitura ao citando, entrega da contraf, declaração do recebimento). A citação por precatria é feita quando o acusado estiver servindo ou residindo fora da sede da Auditoria, contendo o juiz deprecado e deprecante, sede das jurisdições, fim da citação e lugar, dia e hora de comparecimento.

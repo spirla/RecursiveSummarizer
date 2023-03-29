@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Entre os clssicos, Hungria e Anbal Bruno repudiaram a possibilidade da combinao das leis. J Frederico Marques e Basileu Garcia defendiam a possibilidade da combinao com base no princpio da equidade. Muito embora o Cdigo Penal no se refira  possibilidade da combinao, Basileu Garcia observou que a prpria Lei de Introduo ao Cdigo Penal, de maneira implcita, determinava a combinao de leis na hiptese prevista em seu artigo 16. Esclarece o professor do Largo de So Francisco:
+Permite que, por crime praticado na vigncia da Consolidao das Leis Penais, se conceda a suspenso condicional da pena privativa de liberdade (deteno, priso simples), imposta em limite superior a um ano e que no exceda a dois. Permite-o, apesar de que, no regime da Consolidao, o benefcio no fosse cabvel nas condenaes a mais de um ano. Nesse caso, pois, quanto  fixao da quantidade penal, o ru sofre a incidncia da lei contempornea ao fato, e, quanto ao sursis, vale-se da lei subsequente. O precedente criado pela LICP  significativo e demonstra que a combinao de leis no  juridicamente proibida. Ao contrrio, pode-se entender que a possibilidade da combinao das leis  extrada do prprio sistema normativo. Se a finalidade da garantia constitucional que impe retroatividade in mellius  beneficiar o sujeito do fato, impedir a retroatividade da parte benfica da lei nova  impedir a aplicao do benefcio pretendido pela carta constitucional. Portanto, a combinao das leis  soluo acolhida pelo ordenamento jurdico, quando resultar em benefcio para o sujeito. 3.2.6. Ultratividade das leis excepcionais e temporrias. Como exceo  regra da retroatividade benfica, o Cdigo Penal prev expressamente a ultra-atividade das leis excepcionais e temporrias em seu artigo 3: A lei excepcional ou temporria, embora decorrido o perodo de sua durao ou cessadas as circunstncias que a determinaram, aplica-se ao fato praticado durante sua vigncia. O dispositivo legal deixa claro que a ultratividade da lei somente  possvel em relao aos crimes praticados durante a sua vigncia. A finalidade do dispositivo  impedir que a revogao da lei excepcional ou temporria tenha como consequncia a extino da responsabilidade penal do sujeito, pela retroatividade benfica. Nesses casos, fica evidente que, se no fosse a previso para a ultratividade, as leis perderiam toda a sua potencialidade coercitiva. Sabendo que, no futuro, a lei incriminadora perderia vigncia, no haveria quem a obedecesse.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Hungria e Anbal Bruno negaram a combinação de leis, enquanto Frederico Marques e Basileu Garcia a defenderam com base na equidade. O Código Penal não se refere à combinação, mas a Lei de Introdução ao Código Penal permite que a pena privativa de liberdade (detenção, prisão simples) seja suspensa condicionalmente acima de um ano e não exceda dois, apesar de não ser cabível na Consolidação das Leis Penais. O artigo 3 do Código Penal prevê a ultratividade das leis excepcionais e temporárias para impedir a extinção da responsabilidade penal do sujeito pela retroatividade benéfica.

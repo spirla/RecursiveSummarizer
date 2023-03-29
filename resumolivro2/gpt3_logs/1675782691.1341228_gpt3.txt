@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Alm desses dois pontos, deve constar no pedido de interceptao telefnica os indcios razoveis da autoria ou participao de militares em infrao penal [militar] punida com recluso (artigo 2, incisos I e III da Lei 9.296/96). O pedido deve ser escrito, mas em razo da urgncia (periculum in mora) na colheita da prova o artigo 4, pargrafo 1, da Lei 9.296/96, permite que:
+Excepcionalmente, o juiz poder admitir que o pedido seja formulado verbalmente, desde que estejam presentes os pressupostos que autorizem a interceptao, caso em que a concesso ser condicionada  sua reduo a termo e o seu pargrafo 2 determina que o juiz, no prazo mximo de 24 (vinte e quatro) horas, decidir sobre o pedido. A Resoluo 59 do Conselho Nacional de Justia estabelece rotinas de distribuio, registro e processamento das medidas cautelares de carter sigiloso em matria criminal, cujo objeto seja a interceptao de comunicaes telefnicas, de sistemas de informtica e telemtica. Tais pedidos so encaminhados em envelope lacrado contendo o pedido e os documentos necessrios e em cuja parte exterior  colada folha de rosto com as seguintes informaes:
+medida cautelar sigilosa e a origem do pedido (polcia judiciria militar ou rgo do Ministrio Pblico) e, se for caso, o juzo destinatrio.  vedada a indicao do nome do requerido. Outro envelope menor, tambm lacrado, conter o nmero e o ano do procedimento investigatrio ou do inqurito policial.  vedado ao Distribuidor e ao Planto Judicirio receber os envelopes que no estejam devidamente lacrados. Recebidos os envelopes e conferidos os lacres, o responsvel pela Distribuio abrir o envelope menor e efetuar a distribuio, cadastrando no sistema informatizado local apenas o nmero do procedimento investigatrio e o rgo de origem. Distribuio da medida cautelar sigilosa  no juzo competente, onde o serventurio da Justia previamente autorizado pelo magistrado abrir o envelope e far a concluso para apreciao do pedido. Normas de Servios da Corregedoria da Justia Militar do Estado de So Paulo (Provimento 36) regulamentam o procedimento de interceptao telefnica.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.296/96 estabelece os pressupostos para a interceptação telefônica de militares suspeitos de infração penal punida com reclusão. O pedido deve ser escrito, mas excepcionalmente pode ser verbal. A Resolução 59 do Conselho Nacional de Justiça regulamenta a distribuição, registro e processamento das medidas cautelares de caráter sigiloso. O Provimento 36 da Corregedoria da Justiça Militar do Estado de São Paulo regulamenta o procedimento de interceptação telefônica.

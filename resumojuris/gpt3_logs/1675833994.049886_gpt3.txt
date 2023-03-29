@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, evidencia-se que a relacao juridica controvertida entre o Orgao estadual que fiscaliza a implementacao e manutencao adequada do servico gratuito SAC, por telefone, lei do call center , e o prestador de servico regulado pelo Poder Publico federal - servico de televisao por assinatura, que, na sua essencia, e servico de telecomunicacoes, possui contornos eminentemente publicos, quer sob a perspectiva do cumprimento de atos regulamentares especificos a disciplinar o Servico de Atendimento ao Consumidor - SAC, quer sob a otica da regulacao do direito a servico de telecomunicacao (Lei n. 9.472/1997). Em acrescimo, registra-se que a Corte Especial deste Tribunal Superior, na sessao de 16 de junho de 2021, examinou o Conflito de Competencia interna n. 178.687, Relator Ministro Raul Araujo, no qual havia tambem controversia a respeito de ofensa a norma do Decreto n. 6.523/2008, diante do suposto descumprimento do dever de informar o numero do SAC em cartoes de credito, oportunidade em que se fixou a competencia da Primeira Turma, que compoe a Primeira Secao desta Corte, para processar e julgar o feito. Conclui-se, portanto, que a controversia esta contida no inciso XIV do  1 do artigo 9 do Regimento Interno desta Corte Superior. (Informativo n. 743) 136 PROCESSO SLS 2.162-DF, Rel. Min. Humberto Martins, Corte Especial, por unanimidade, julgado em 02/05/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL TEMA Energia eletrica. Interferencia do poder judiciario em regras de elevada especificidade tecnica por meio de liminar. Grave lesao a ordem e a economia publica. Demonstracao. DESTAQUE A interferencia do Poder Judiciario em regras de elevada especificidade tecnica do setor eletrico por meio de liminar configura grave lesao a ordem e a economia publica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A relação jurídica controvertida entre o órgão estadual que fiscaliza a implementação e manutenção adequada do serviço gratuito SAC, por telefone, lei do call center, e o prestador de serviço regulado pelo Poder Público federal - serviço de televisão por assinatura, que, na sua essência, é serviço de telecomunicações, possui contornos eminentemente públicos. 2. A competência para processar e julgar o feito está contida no inciso XIV do 1 do artigo 9 do Regimento Interno desta Corte Superior. 3. A interferência do Poder Judiciário em regras de elevada especificidade técnica do setor elétrico por meio de liminar configura grave lesão à ordem e à economia pública.

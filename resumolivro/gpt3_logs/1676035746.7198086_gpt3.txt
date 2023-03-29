@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Alexy, por sua vez, preocupado especificamente com a racionalidade que orienta a interveno prtica do Direito, desenvolveu sua concepo do Direito com base na pretenso de correo, que  implcita em toda a construo normativa. Na interao ordinria que se verifica entre as pessoas muitas pretenses de validade so aceitas sem qualquer questionamento, at mesmo por no serem bem percebidas ou compreendidas pela audincia. No entanto, quando as pretenses de validade so problematizadas pela crtica, torna-se necessrio ao falante fundamentar sua pretenso em argumentos racionais. A argumentao  o tipo de fala em que os participantes problematizam pretenses de validade, que se encontram sob crticas, e tratam de defend-las ou recus-las por meio de argumentos. Nesse contexto, o discurso  o meio pelo qual so alinhados os argumentos de defesa e crtica das pretenses de validade. O discurso terico  meio pelo qual se desenvolve a argumentao sobre as pretenses de verdade que so subjacentes s aes comunicativas. O discurso prtico, por sua vez,  o meio pelo qual se desenvolve a argumentao sobre as pretenses de correo que so subjacentes s aes teleolgicas (estratgicas). O Direito  concebido como um sistema que organiza aes teleolgicas e, portanto, o discurso jurdico  um discurso prtico. Robert Alexy, que, em sua teoria da argumentao jurdica, sistematiza e reinterpreta a teoria do discurso de Habermas especificamente para sua aplicao no mbito do Direito, sustenta que o discurso jurdico  uma forma especial do discurso prtico geral (tese do caso especial). A ideia de desempenho discursivo (terico e prtico) ocupa um posto central na teoria da ao comunicativa de Habermas24, sendo que para Alexy o discurso jurdico expressa o esforo de justificao da pretenso de correo existente nas decises jurdicas. Quanto ao paradigma da racionalidade das cincias sociais, Habermas denunciou a morte da racionalidade livre devido  grande limitao imposta pelas sociedades modernas aos espaos comunicativos, tendo em vista a primazia das aes estratgicas, determinadas pela racionalidade instrumental, que reduziu significativamente o ambiente de comunicao dialgico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Robert Alexy desenvolveu sua concepção do Direito com base na pretenção de correção implícita em toda a construção normativa. O discurso jurdico é uma forma especial do discurso prático geral, expressando o esforço de justificação da pretenção de correção existente nas decisões jurdicas. Habermas denunciou a morte da racionalidade livre devido à grande limitação imposta pelas sociedades modernas aos espaços comunicativos.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Pode-se encontrar, j em Aristteles, a ideia de que as leis podem tornar os homens bons. No Digesto, ao jurisconsulto Paulo atribui-se a mxima: poena constituitur in emendationem hominum (a pena se instaura para a emenda dos homens). Na Idade Mdia, o Direito Penal cannico foi marcantemente influenciado pela finalidade corretiva da pena. Mas foi na Espanha que a pretenso correcionalista alcanou seu ponto de expresso mxima, na obra de Pedro Dorado Montero, O direito protetor dos criminosos, editada em 1915. Partindo do pressuposto de que o crime  criao humana, posto que  o Estado que valora as aes humanas e as considera adequadas, ou no, ao convvio social, Dorado Montero reconhece que a vontade do indivduo, motivadora do crime,  consequncia de uma srie de circunstncias que fazem que o indivduo ignore as regras de conveno social. Dessa forma, a pena no pode castigar, perseguir ou retribuir a prtica de crime, mas sim reeducar o criminoso para que no cometa novos crimes. A pena deixa de ser entendida como mal, para ser considerada instrumento de realizao de um benefcio, tanto para o indivduo como para a sociedade. Essa argumentao, em especial, pretende enfrentar a objeo kantiana sobre o utilitarismo penal, segundo a qual nenhum homem pode ser instrumentalizado para a realizao de fins que lhe so alheios. A perspectiva da reeducao e recuperao moral do indivduo trabalha com os pressupostos de que o criminoso  um sujeito imoral que pode ser redimido. Alm das crticas formuladas  ideia da preveno especial, que aqui tem toda aplicao, evidencia-se que o fim de reeducar o indivduo no pode ser alcanado com instrumentos aflitivos. Como reeducar o indivduo para a vida livre em sociedade utilizando-se da privao da liberdade? Essa  a pergunta que a ideologia da reeducao no consegue responder. 1.1.2.4. Preveno de penas. O discurso justificador de ndole utilitria tornou-se bastante enriquecido com a contribuio de Luigi Ferrajoli. O professor da Universidade de Camerino, na Itlia, ressaltou que a ateno dos penalistas no pode ocupar-se exclusivamente da ideia de prevenir a prtica de novos crimes. O Direito Penal possui dupla funo preventiva de natureza negativa: a preveno geral dos crimes e a preveno geral das penas arbitrrias ou desproporcionais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ideia de que as leis podem tornar os homens bons remonta a Aristteles. O Direito Penal cannico foi influenciado pela finalidade corretiva da pena. Na obra de Pedro Dorado Montero, O direito protetor dos criminosos, editada em 1915, a pena passou a ser entendida como um instrumento de realização de um benefício. Luigi Ferrajoli ressaltou que o Direito Penal possui uma dupla função preventiva de natureza negativa: prevenir crimes e prevenir penas arbitrárias ou desproporcionais.

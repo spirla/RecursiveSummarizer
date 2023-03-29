@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Dois exemplos bem ilustram a questao. Imagine-se que, no decorrer de uma investigacao pela pratica dos crimes de furto e receptacao, a autoridade policial represente pela concessao de mandado de busca e apreensao, a fim de recuperar um celular subtraido, cujo localizador (GPS) aponte estar em determinada moradia. Deferida a ordem para a procura do aparelho, a policia, por ocasiao do cumprimento da diligencia, aproveita a oportunidade para levar caes farejadores com o objetivo de verificar a possivel existencia de drogas no local, as quais acabam sendo encontradas. Pense-se, ainda, na situacao em que uma motocicleta e roubada e tem inicio perseguicao policial aos assaltantes, os quais se refugiam em casa. Como decorrencia do flagrante delito de roubo, os policiais ingressam no local, efetuam a prisao e apreendem o veiculo subtraido. Na sequencia, decidem aproveitar o fato de ja estarem dentro do imovel para procurar substancias entorpecentes. Em ambas as situacoes hipoteticas trazidas, conquanto seja perfeitamente licito o ingresso em domicilio, e ilegal a apreensao das drogas, por nao haver sido precedida de justa causa quanto a sua existencia e por nao decorrer de mero encontro fortuito - esse admissivel - mas sim de manifesto desvio de finalidade no cumprimento do ato, o qual, no primeiro caso, se limitava a autorizar o ingresso para a recuperacao do celular subtraido; no segundo, apenas para efetuar a prisao do roubador e recuperar a motocicleta subtraida. Desse modo, e ilicita a prova colhida em caso de desvio de finalidade apos o ingresso em domicilio, seja no cumprimento de mandado de prisao ou de busca e apreensao expedido pelo Poder Judiciario, seja na hipotese de ingresso sem previa autorizacao judicial, como ocorre em situacao de flagrante delito.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É licito o ingresso em domicílio, mas ilegal a apreensão de drogas sem justa causa ou mero encontro fortuito. 2. É ilícita a prova colhida em caso de desvio de finalidade após o ingresso em domicílio, seja no cumprimento de mandado de prisão ou de busca e apreensão expedido pelo Poder Judiciário, seja na hipótese de ingresso sem previa autorização judicial, como ocorre em situação de flagrante delito.

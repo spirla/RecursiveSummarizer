@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nos crimes de mltipla atividade, a questo do flagrante preparado merece maiores cuidados. No exemplo do trfico de drogas, a solicitao de venda feita por agente policial no torna impossvel o crime, posto que este j foi anteriormente consumado, no momento em que o traficante adquiriu ou manteve em depsito a droga para realizar sua posterior venda. A doutrina faz distino entre o flagrante preparado e o flagrante esperado. Entretanto, tal distino no repercute qualquer efeito para estabelecer a possibilidade ou impossibilidade concreta de realizao do crime. Em outras palavras, pode ocorrer crime impossvel em flagrante preparado ou esperado, bem como pode ser que o crime seja materialmente possvel em qualquer destes casos. No flagrante preparado, o possvel criminoso  estimulado pela vtima ou por agente da autoridade policial a iniciar a execuo do crime para que possa ocorrer a priso. O estmulo feito pelo agente provocador (vtima ou policial) no torna necessariamente o crime impossvel. O que efetivamente faz com que ocorra a inadequao tpica  a preparao policial que predispe mecanismos ou pessoal de modo a evitar que a conduta do sujeito possa realizar os requisitos objetivos da tipificao. Assim, se o sujeito puder apreender a carteira com dinheiro propositadamente deixada em local acessvel pela vtima, mas no puder retir-la do local, deve-se reconhecer o crime impossvel. Se, por outro lado, puder deixar o local aps a apreenso da res furtiva, haver conduta punvel. No flagrante esperado, no h qualquer atuao de agente provocador, mas apenas a observao prvia para identificar o momento em que o sujeito pretende iniciar a execuo do crime. Constitui exemplo de flagrante esperado a observao feita por meio de cmeras, para ver se o crime ocorre. Se o criminoso  preso logo aps a identificao da ocorrncia do crime, o crime estar consumado e no ser o caso de falar-se em crime impossvel. Por outro lado, se a observao possibilitar aos agentes policiais impedir de maneira absolutamente eficaz a realizao do crime, dever ser reconhecido o crime impossvel.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No flagrante preparado ou esperado, o crime pode ser materialmente possível ou impossível, dependendo da preparação policial para evitar a realização dos requisitos objetivos da tipificação. Se o sujeito for impedido de realizar a conduta punível, isso será considerado crime impossível. Se for preso logo após a identificação da ocorrência do crime, será considerado crime consumado.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 7083/AP, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 13.5.2022 (sexta-feira), as 23:59 (INF 1054) 13.4 INTERCEPTACAO TELEFONICA Interceptacao telefonica e prorrogacoes sucessivas - RE 625263/PR (Tema 661 RG) Tese fixada: Sao licitas as sucessivas renovacoes de interceptacao telefonica, desde que, verificados os requi-sitos do artigo 2 da Lei 9.296/1996 e demonstrada a necessidade da medida diante de elementos concre-tos e a complexidade da investigacao, a decisao judicial inicial e as prorrogacoes sejam devidamente motivadas, com justificativa legitima, ainda que sucinta, a embasar a continuidade das investigacoes. Sao ilegais as motivacoes padronizadas ou reproducoes de modelos genericos sem relacao com o caso concreto. Resumo: A interceptacao telefonica pode ser renovada sucessivamente se a decisao judicial inicial e as prorrogacoes forem fundamentadas, com justificativa legitima, mesmo que sucinta, a embasar a conti-nuidade das investigacoes. Para tanto, devem estar presentes os requisitos do art. 2 da Lei 9.296/1996 e ser demonstrada a ne-cessidade concreta da interceptacao, bem assim a complexidade da investigacao. Em qualquer hipotese  decisao inicial ou de prorrogacao , a motivacao deve ter relacao com o caso concreto. No tocante as prorro-gacoes, nao precisa ser, necessariamente, exauriente e trazer aspectos novos. Cumpre observar que a ausencia de resultado incriminatorio obtido com eventual interceptacao de comunicacoes telefonicas nao impede a continuidade da diligencia. Quanto a duracao total de medida de interceptacao telefonica, atualmente nao se reconhece a existen-cia de um limite maximo de prazo global a ser abstratamente imposto. Por oportuno, o prazo maximo de dura-cao do estado defesa (CF, art. 136,  2) nao e fundamento para limitar a viabilidade de renovacoes sucessi-vas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É lícita a renovação sucessiva de interceptação telefônica desde que verificados os requisitos do artigo 2 da Lei 9.296/1996 e demonstrada a necessidade da medida diante de elementos concretos e a complexidade da investigação. 2. É ilegal a motivação padronizada ou reprodução de modelos genéricos sem relação com o caso concreto. 3. A motivação da decisão judicial inicial e das prorrogações deve ter relação com o caso concreto. 4. Não é necessário que a motivação das prorrogações seja exauriente e traga aspectos novos. 5. A ausência de resultado incriminatório obtido com eventual interceptação de comunicações telefônicas não impede a continuidade da diligência. 6. Não existe limite máximo de prazo global para a duração da interceptação telefônica. 7. O prazo máximo de duração do estado de defesa (CF, art. 136, 2) não é fundamento para limitar a viabilidade de renovações sucessivas.

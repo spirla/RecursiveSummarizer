@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Jurisprudncia do Supremo Tribunal pacfica no sentido de que o inqurito policial  pea meramente informativa e dispensvel e, com efeito, no  vivel a anulao do processo penal em razo das irregularidades detectadas no inqurito, porquanto as nulidades processuais dizem respeito, to somente, aos defeitos de ordem jurdica que afetam os atos praticados durante a ao penal. No STJ esse entendimento jurisprudencial foi assim sumulado na edio 69 da Jurisprudncia em Teses:
+As nulidades surgidas no curso da investigao preliminar no atingem a ao penal dela decorrente. No IPM so colhidas provas irrepetveis, conforme dispe o artigo 9, pargrafo nico, do CPPM, so:
+instrutrios da ao penal os exames, percias e avaliaes realizados regularmente no curso do inqurito, por peritos idneos e com obedincia s formalidades previstas neste Cdigo. Exames, percias e avaliaes so produzidos no IPM para que no desapaream os vestgios, indispensveis enquanto prova do fato delituoso nos crimes materiais. Para a denncia ser apresentada, o Ministrio Pblico Militar deve dispor da prova de fato que, em tese, constitua crime (artigo 30, a, CPPM). Essas provas so classificadas de no renovveis (no repetveis), mas com o contraditrio diferido, posterior. As provas no renovveis produzidas no inqurito se consideradas ilcitas (artigo 5, LVI, CF), por violarem normas constitucionais ou legais, so desentranhadas dos autos e no podem ser valoradas pelo juiz. 6.2.1. CaractersticasO IPM  inquisitivo. Nas investigaes criminais no h contraditrio, nem ampla defesa, o que permite  autoridade agir de forma mais rpida na colheita das provas e dos elementos informativos. O direito do advogado de assistir a seus clientes investigados durante a apurao de infraes (Lei Federal 8.906/94 - EAOAB - artigo 7, inciso XXI), no obriga a autoridade de polcia judiciria militar a intim-lo para acompanhar os atos de investigao.  minoritria a doutrina que sustenta a necessidade de contraditrio e de ampla defesa em inquritos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência do STF é pacífica no sentido de que o inquérito policial é uma peça meramente informativa e dispensável, não sendo possível anular o processo penal em razão de irregularidades detectadas no inquérito. No STJ, esse entendimento foi sumulado na edição 69 da Jurisprudência em Teses. As nulidades surgidas no curso da investigação preliminar não afetam a ação penal dela decorrente. O inquérito policial é inquisitivo, não havendo contraditório e ampla defesa, permitindo à autoridade agir de forma mais rápida na colheita de provas.

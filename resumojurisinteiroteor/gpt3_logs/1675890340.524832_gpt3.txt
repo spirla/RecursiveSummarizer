@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Consta ainda o Laudo de interdio civil lavrado pelo mdico Dr. Carlos Dumas Gomes, em 08/10/2012 (Evento 1 - DOC7), na cidade de Trs Coraes, MG. O Ministrio pblico pediu a complementao deste laudo, o que foi cumprido (Processo n. 0107804-65.2011.8.13.0693). O autor novamente requereu a concesso da tutela provisria de urgncia, a qual foi indeferida. O autor apresentou as suas alegaes finais, reiterando os fundamentos fticos, jurdicos e os pedidos formulados. No Evento 1 - PROMOO49, o Ministrio Pblico apresentou o seu parecer final, opinando pela improcedncia dos pedidos do autor. No Evento 1 - DECL COMPE50, a juza de direito da 2a Vara Cvel da Comarca de Trs Coraes declinou de sua competncia, determinando a remessa dos autos a esta Justia Militar do Estado de Minas Gerais. Em despacho proferido no Evento 5 -DESP1, em razo de diversas folhas de cpias do PAD estarem ilegveis, o magistrado determinou ao autor, no prazo de quinze dias, que juntasse aos autos a cpia integral do PAD de Portaria n.112.677/18a RPM. Determinou, ainda, que fosse esclarecido se houve a interposio de recurso disciplinar em face da deciso do comandante-geral da PMMG, com documentao pertinente  ativao da sano demissionria, uma vez que, nos autos, no consta esta informao. Em despacho proferido no Evento 11 - DESP1, o magistrado a quo manteve os atos processuais e decisrios j praticados, includos o indeferimento da tutela provisria de urgncia e o deferimento da justia gratuita. Tendo em vista a manifestao da parte autora e como forma de garantia do contraditrio, antes de proferir sentena, determinou a intimao do Estado de Minas Gerais, a fim de que tomasse conhecimento da ao aportada nesta Justia Especializada e da juntada de documentao por parte do autor, oportunizando a sua manifestao. No Evento 14 - MANI1, o Estado de Minas Gerais manifestou estar ciente da juntada da documentao e ratificou o inteiro teor de sua defesa nos autos, sobretudo, nos termos da contestao. Pugnou pela improcedncia dos pedidos contidos na inicial. Em sentena proferida, o juiz de direito da 5a Auditoria Judiciria Militar Estadual (AJME) afirmou que em desfavor do autor foi instaurado o PAD de Portaria n. 112.677/18a RPM, pela prtica de conduta antitica gravssima, ofensiva  honra pessoal e ao pundonor militares, atingindo sobremaneira a idoneidade da Instituio Militar estadual, conduta essa que o autor omitiu em sua petio inicial.  dever do comandante-geral jubilar das fileiras da PMMG aqueles que, com suas atitudes antiticas, destoam dos princpios da hierarquia e da disciplina que regem o proceder de seus integrantes.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito da 5a Auditoria Judiciria Militar Estadual (AJME) afirmou que o autor foi instaurado o PAD de Portaria n. 112.677/18a RPM por prtica de conduta antitica gravssima, ofensiva honra pessoal e ao pundonor militares, e que o Estado de Minas Gerais manifestou estar ciente da juntada da documentao e ratificou o inteiro teor de sua defesa nos autos.

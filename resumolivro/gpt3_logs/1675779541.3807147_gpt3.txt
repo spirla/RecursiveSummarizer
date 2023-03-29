@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Paragrafo 1 Referido dispositivo deve ser interpretado com fulcro no artigo 542 do MAPPA, no sentido de que os autos do PCD somente serao encaminhados ao CEDMU quando, apos a realizacao das diligncias pelo Encarregado, for procedida a abertura de vista para apresentacao de RED (final). Paragrafo 2 Na hipotese da alinea c do inciso IV do artigo 37 do MAPPA, nao havera remessa dos autos ao CEDMU, em face da ausncia de RED (finais). (...)
+Artigo 68. Com fulcro no artigo 41, paragrafo unico, do Decreto n. 42.843/026, o artigo 542 do MAPPA estabelece como obrigatoria a remessa do processo disciplinar ao CEDMU, caso exista em seu bojo as razoes escritas de defesa como ultimo documento que antecede o relatorio final. Paragrafo unico. Caso apos a abertura de vista para razoes escritas de defesa sejam realizadas novas diligncias e o processo seja encerrado sem nova abertura de vista, nao havera necessidade de remessa dos autos ao CEDMU, para fins de arquivamento do processo. Artigo 83 - O militar que servir fora do municipio-sede de sua Unidade, ao ser comunicado disciplinarmente, sera notificado por seu chefe direto para a apresentacao da defesa escrita, observando-se o que prescreve o artigo 57. Paragrafo unico - E facultado ao militar comparecer a audincia do CEDMU. O processamento da comunicacao a que alude o caput deste artigo se dara conforme comentarios ao artigo 57 deste Codigo. Ao militar e facultado comparecer a reuniao do CEDMU, devendo, inclusive, ser dispensado da escala de servico caso manifeste interesse. Artigo 84 - Havendo discordncia entre o parecer do CEDMU e a decisao do Comandante da Unidade, toda a documentacao produzida sera encaminhada ao comando hierarquico imediatamente superior, que sera competente para decidir sobre a aplicacao ou nao da sancao disciplinar. Diz-se que o parecer do CEDMU tem carater vinculante, nao porque vincula a autoridade competente para aplicar a sancao a decidir no seu sentido, mas, tendo em vista que ele pode subtrair da autoridade que instaurou o processo disciplinar a capacidade para aplicar a decorrente sancao disciplinar ao militar acusado ou, entao, de conceder recompensa ao militar indicado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 542 do MAPPA estabelece que o processo disciplinar deve ser encaminhado ao CEDMU quando houver razões escritas de defesa como último documento. Se não houver razões escritas de defesa, não haverá necessidade de remessa dos autos ao CEDMU. O militar que servir fora do município-sede de sua Unidade deve ser notificado para a apresentação da defesa escrita. Se houver discordância entre o parecer do CEDMU e a decisão do Comandante da Unidade, toda a documentação produzida será encaminhada ao comando hierarquico imediatamente superior. O parecer do CEDMU tem caráter vinculante, pois pode subtrair da autoridade que instaurou o processo disciplinar a capacidade para aplicar a sancão ou conceder recompensa.

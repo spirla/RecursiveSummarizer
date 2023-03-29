@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Seja nos crimes materiais, formais ou de mera conduta, a consumao do crime depende da violao  norma jurdica. Enquanto houver possibilidade de atender ao comando normativo, no estar consumado o crime. Em princpio, a consumao do crime omissivo imprprio verifica-se com a impossibilidade material de realizao da ao esperada, ou seja, logo aps a ltima chance de atuar. No entanto, tratando-se de crimes materiais,  ainda necessria a produo do resultado naturalstico. Deixando o garantidor de agir e no sobrevindo o resultado naturalstico, somente ser possvel a imputao de tentativa (se o filho no morre, no se pode falar em homicdio consumado), desde que caracterizado o elemento subjetivo do tipo. Nos crimes formais e nos de mera conduta,  necessrio que a omisso permita a realizao (por outrem) de uma conduta proibida, pois a norma mandamental est vinculada a uma outra proibitiva. Enquanto no se verificar em sua plenitude a conduta proibida, no estar consumado o crime omissivo imprprio. 16.1.5. Reduo de pena. Determina o pargrafo nico do artigo 14 do CP que a pena aplicada ao crime tentado deve sofrer uma reduo, em relao  pena cominada ao crime consumado, entre um a dois teros. A punio diminuda da tentativa em relao ao crime consumado  baseada em critrio objetivo,24 o qual foi ardorosamente defendido por Carrara,25 que afirmava no ser a reduo da pena ato de benignidade, mas sim reconhecimento da ocorrncia do menor desvalor jurdico da conduta. A reduo da pena, assim, apresenta-se como consequncia natural desse menor desvalor. O grande sistematizador da Escola Clssica leciona que, para mensurao da quantidade da tentativa, seria necessrio averiguar a sua fora fsica. Dessa forma, a mensurao da pena cresce ou decresce conforme seja mais ou menos prximo do ltimo ato consumativo o momento em que se deteve a ao. Na verdade, o Cdigo no orienta o juiz sobre o procedimento a ser adotado na tarefa de determinao quantitativa da pena da tentativa. O Supremo Tribunal Federal, no entanto, enfrentando a questo da medida da pena na tentativa, deixou claro que a reduo pela tentativa tem como parmetro o iter criminis, de modo que quanto mais prxima a consumao menor  a reduo (HC 85.834). Assim, a maior proximidade para com o momento consumativo do crime indica o caminho da menor reduo. Quanto mais prxima da consumao do crime a tentativa ficar, menor deve ser a reduo da pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A consumação do crime depende da violação da norma jurídica. Para crimes materiais, é necessária a produção do resultado naturalístico. Para crimes formais e de mera conduta, é necessário que a omissão permita a realização (por outrem) de uma conduta proibida. A pena aplicada ao crime tentado sofre redução entre um e dois terços em relação à pena cominada ao crime consumado, sendo esta baseada no menor desvalor járdico da conduta. A medida da pena na tentativa é determinada pelo iter criminis, sendo que quanto mais próxima da consumação do crime, menor será a redução.

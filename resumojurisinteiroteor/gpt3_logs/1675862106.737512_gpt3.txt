@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ministro RICARDO VILLAS BAS CUEVA, TERCEIRA TURMA, DJe de 04/06/2021; AR 5.568/SC, Rel. Ministro BENEDITO GONALVES, PRIMEIRA SEO, DJe de 18/05/2021; AR 5.696/DF, Rel. Ministro JOO OTVIO DE NORONHA, CORTE ESPECIAL, DJe de 07/08/2018. [.] V. Nesse contexto, ressai evidente a utilizao da Ao Rescisria como sucedneo recursal, com rediscusso do entendimento jurdico aplicado pelo acrdo rescindendo, razo pela qual deve ser mantida a negativa de seu seguimento, ainda que por fundamento diverso. VI. Ademais, a alegao da parte autora, no sentido da falsidade da certido de julgamento do REsp 751.145/RS, equivale, ontologicamente,  alegao de que a Primeira Seo, no julgamento do AgInt na AR 5.746/RS, teria incorrido em erro de fato, ao tomar por existente determinado acontecimento que no ocorrera. Ante o quadro,  de se aplicar, por analogia, a regra do  1 do art. 966 do CPC/2015, segundo o qual, para constatar a ocorrncia de erro de fato,  "indispensvel que o fato no represente ponto controvertido sobre o qual o juiz deveria ter se pronunciado", condio que no se verifica, na espcie. VII. Agravo interno improvido. (AgInt na AR n. 6.486/RS, relatora Ministra Assusete Magalhes, Primeira Seo, DJe de 1/10/2021.) Pelo exposto, julgo improcedente a presente ao rescisria e condeno o autor ao pagamento das custas e dos honorrios de sucumbncia, os quais fixo em R$ 750,00 (setecentos e cinquenta reais), suspendendo, todavia, a sua exigibilidade, por se encontrar sob o plio da justia gratuita.  como voto. DESEMBARGADOR FERNANDO ARMANDO RIBEIRO Acompanho, integralmente, o voto do eminente Desembargador relator. DESEMBARGADOR JAMES FERREIRA SANTOS Acompanho o voto do eminente relator. DESEMBARGADOR FERNANDO GALVO DA ROCHA Srs. desembargadores. Na oportunidade, acompanho as razes e o voto do eminente relator, para, igualmente, julgar improcedente o presente recurso. DESEMBARGADOR OSMAR DUARTE MARCELINO Acompanho integralmente as razes e o voto do e. desembargador relator, que julgou improcedente a ao.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A Ao Rescisria foi utilizada como sucedneo recursal, mas foi negado seu seguimento, pois a alegao da parte autora equivale a alegao de erro de fato, que, no caso, no se verifica. Assim, o recurso foi julgado improcedente.

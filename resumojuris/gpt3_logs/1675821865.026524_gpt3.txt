@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A competencia do Ministerio da Saude para coordenar o Programa Nacional de Imunizacoes e definir as vacinas integrantes do calendario nacional de imunizacao nao exclui a dos estados, do Distrito Federal e dos municipios para estabelecer medidas profilaticas e terapeuticas destinadas a enfrentar a pandemia decorrente do novo coronavirus, em ambito regional ou local, no tipico exercicio da competencia comum para cuidar da saude e assistencia publica (CF, art. 23, II). A defesa da saude compete a qualquer das unidades federadas, seja por meio da edicao de normas legais, seja mediante a realizacao de acoes administrativas, sem que, como regra, dependam da autorizacao de outros niveis governamentais para leva-las a efeito, cumprindo-lhes, apenas, consultar o interesse publico que tem o dever de preservar. O federalismo cooperativo, longe de ser mera peca retorica, exige que os entes federativos se apoiem mutuamente, deixando de lado eventuais divergencias ideologicas ou partidarias dos respectivos governantes, sobretudo diante da grave crise sanitaria e economica decorrente da pandemia desencadeada pelo novo coronavirus. Bem por isso, os entes regionais e locais nao podem ser alijados do combate a Covid-19, notadamente porque estao investidos do poder-dever de empreender as medidas necessarias para o enfrentamento da emergencia de saude publica decorrente do alastramento incontido da doenca. Com base nesse entendimento, o Plenario, por maioria, julgou parcialmente procedentes as acoes diretas, para conferir interpretacao conforme a Constituicao ao art. 3, III, d, da Lei 13.979/2020. ADI 6586/DF, relator Min. Ricardo Lewandowski, julgamento em 16 e 17.12.2020 (INF 1003) ADI 6587/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência do Ministério da Saúde para coordenar o Programa Nacional de Imunizações e definir as vacinas integrantes do calendário nacional de imunização não exclui a dos Estados, do Distrito Federal e dos Municípios para estabelecer medidas profiláticas e terapêuticas destinadas a enfrentar a pandemia decorrente do novo coronavírus, em âmbito regional ou local. 2. A defesa da saúde compete a qualquer das unidades federadas, seja por meio da edição de normas legais, seja mediante a realização de ações administrativas, sem que, como regra, dependam da autorização de outros níveis governamentais para levá-las a efeito, cumprindo-lhes, apenas, consultar o interesse público que tem o dever de preservar. 3. O federalismo cooperativo exige que os entes federativos se apoiem mutuamente, deixando de lado eventuais divergências ideológicas ou partidárias dos respectivos governantes, sobretudo diante da grave crise sanitária e econômica decorrente da pandemia desencadeada pelo novo coronavírus. 4. Os entes regionais e locais não podem ser alijados do combate à Covid-19, notadamente porque estão investidos do poder-dever de empreender as medidas necessárias para o enfrentamento da emergência de saúde pública decorrente do alastramento incontido da doença.

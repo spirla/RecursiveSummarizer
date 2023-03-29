@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Quanto  assistncia de advogado, o referido profissional tem prerrogativas previstas no artigo 7 da Lei 8.906/1994 de:
+comunicar-se com seus clientes, pessoal e reservadamente, mesmo sem procurao, quando estes se acharem presos, detidos ou recolhidos em estabelecimentos civis ou militares, ainda que considerados incomunicveis (inciso III), de examinar, em qualquer instituio responsvel por conduzir investigao, mesmo sem procurao, autos de flagrante (inciso XIV) e de assistir a seus clientes investigados durante a apurao de infraes (inciso XXI). Os depoimentos e o interrogatrio so reduzidos a termo pelo escrivo. Onde no houver planto de polcia judiciria militar (PPJM) ou delegacia de polcia judiciria militar, a autoridade militar designar para exercer as funes de escrivo ad hoc, capito, capito-tenente, primeiro ou segundo-tenente, se o indiciado for oficial. Nos demais casos, poder designar subtenente, suboficial ou sargento (artigo 245, pargrafo 4, CPPM). Na falta ou impedimento dessas autoridades militares, a autoridade designar pessoa idnea, que prestar o compromisso legal (artigo 245, pargrafo 5, CPPM). O APF  por todos assinado (parte final do artigo 245, CPPM). Quando a pessoa conduzida se recusar a assinar, no souber ou no puder faz-lo, o auto ser assinado por duas testemunhas, que lhe tenham ouvido a leitura na presena do indiciado, do condutor e das testemunhas do fato delituoso (artigo 245, pargrafo 3, CPPM). Essas so testemunhas de leitura e no do fato. De acordo com parte final do artigo 245 do CPPM, o APF  uma pea nica, inteiria, quando determina que depois das oitivas seja lavrado o auto, que ser por todos assinado. Todos aguardam a lavratura do APF para assin-lo. Deste modo, o condutor, que  primeiro a ser ouvido, as testemunhas e a vtima ficam retidos no aguardo do trmino da inquirio do preso para assinar o APF. Tal procedimento implica demora e reteno de pessoas no local em que  lavrado o APF.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O advogado tem prerrogativas previstas na Lei 8.906/1994 para comunicar-se com seus clientes, examinar autos de flagrante e assistir a seus clientes investigados. O Auto de Prisão em Flagrante (APF) é assinado por todos os envolvidos, incluindo o condutor, as testemunhas e a vítima, e pode ser assinado por duas testemunhas caso o indiciado não possa ou não queira assinar. O procedimento de lavratura do APF pode causar demora e retenção de pessoas no local.

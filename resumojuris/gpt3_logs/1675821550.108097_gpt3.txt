@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, ao impor obrigacoes as operadoras de planos de saude, a Lei 11.716/2020 do estado da Paraiba interfere diretamente nas relacoes contratuais firmadas entre as operadoras e os usuarios contratantes, ocasionando relevante impacto financeiro. Em consequencia, influencia na eficacia do servico prestado pelas operadoras, que se veem obrigadas a alterar substancialmente a atuacao apenas naquela unidade federativa. Com base nesse entendimento, o Plenario, por maioria, julgou procedente pedido formulado em acao direta para declarar a inconstitucionalidade da Lei 11.716/2020 do estado da Paraiba. Vencidos os ministros Edson Fachin, Marco Aurelio e Rosa Weber. ADI 6493/PB, relator Min. Gilmar Mendes, julgamento virtual finalizado em 11.6.2021 (sexta-feira), as 23:59 (INF 1021) Competencia legislativa: plano de saude, exames e procedimentos cirurgicos, prazo para autorizacao ou negativa - ADI 6452/ES Resumo: Por usurpar competencia privativa da Uniao para legislar sobre Direito Civil e politica de seguros, e inconstitucional preceito de lei estadual que estabeleca prazo maximo de 24 horas para as empresas de plano de saude regionais autorizarem ou nao solicitacoes de exames e procedimentos cirurgicos em seus usuarios que tenham mais de sessenta anos. A competencia suplementar dos estados para legislar sobre saude e protecao ao consumidor nao se confunde com o nucleo essencial dos contratos de prestacao de servicos das operadoras de planos de saude, sob pena de invasao da competencia da Uniao estabelecida no art. 22, I e VII, da CF/88 (CF) e. Ademais, cumpre ressaltar que a materia se encontra regulamentada em sentido diverso pela Agencia Nacional de Saude Suplementar, orgao de ambito federal responsavel pela disciplina do tema (Lei 9.961/2000). Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade formal do paragrafo unico do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei 11.716/2020 do estado da Paraiba interfere diretamente nas relações contratuais firmadas entre as operadoras e os usuários contratantes, ocasionando relevante impacto financeiro. 2. A competência suplementar dos estados para legislar sobre saúde e proteção ao consumidor não se confunde com o núcleo essencial dos contratos de prestação de serviços das operadoras de planos de saúde, sob pena de invasão da competência da União estabelecida no art. 22, I e VII, da CF/88. 3. É inconstitucional o preceito de lei estadual que estabeleça prazo máximo de 24 horas para as empresas de plano de saúde regionais autorizarem ou não solicitações de exames e procedimentos cirúrgicos em seus usuários que tenham mais de sessenta anos.

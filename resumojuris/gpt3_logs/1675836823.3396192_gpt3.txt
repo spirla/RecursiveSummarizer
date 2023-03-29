@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Expressa disposicao legal. DESTAQUE O periodo em que o Militar foi aluno em Curso Preparatorio de Oficiais da Reserva e computado em 1 dia de trabalho a cada 8 horas de instrucao. Cinge-se a controversia a definir se a contagem do tempo de servico dos alunos do Centro de Preparacao de Oficiais da Reserva deve ser feita de forma integral (dia-a-dia), ou se deve considerar-se a carga horaria a qual o aluno foi submetido. Segundo entendimento pacifico desta Corte, o art. 63 da Lei n. 4.375/1964 preve, expressamente, que o periodo em que o Militar foi aluno em Curso Preparatorio de Oficiais da Reserva sera computado em 1 dia de trabalho a cada 8 horas de instrucao. Ademais, a mesma previsao esta contida no art. 134 da Lei n. 6.880/1980, que dispoe que o tempo de servico como aluno de orgao de formacao da reserva e computado, apenas, para fins de inatividade na base de 1 dia para cada periodo de 8 horas de instrucao. Nesse sentido: AgInt no AREsp 270.218/RJ, Rel. Ministro Napoleao Nunes Maia Filho, Primeira Turma, DJe 24/10/2016. (Informativo n. 733) PROCESSO AREsp 1.927.324-SP, Rel. Min. Francisco Falcao, Segunda Turma, por unanimidade, julgado em 05/04/2022, DJe 07/04/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 63 da Lei n. 4.375/1964 prevê, expressamente, que o período em que o militar foi aluno em curso preparatório de oficiais da reserva será computado em 1 dia de trabalho a cada 8 horas de instrução. 2. O art. 134 da Lei n. 6.880/1980 dispõe que o tempo de serviço como aluno de órgão de formação da reserva é computado, apenas, para fins de inatividade na base de 1 dia para cada período de 8 horas de instrução.

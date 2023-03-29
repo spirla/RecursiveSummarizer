@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A restrio pode recair sobre a todos ou sobre alguns atos do processo, por exemplo, durante a inquirio da vtima o acesso  sala de audincias fica restrito s partes e aos defensores. A Lei 12.015/09, por exemplo, acrescentou o artigo 234-B ao Cdigo Penal estabelecendo segredo de justia nos crimes contra a dignidade sexual. Em matria de obteno de prova, corre sob segredo de justia (artigo 1 da Lei 9.296/96) a interceptao de comunicaes telefnicas, de qualquer natureza, em investigao criminal e em instruo processual penal. Em caso de organizao criminosa, o sigilo da investigao poder ser decretado pela autoridade judicial competente, para garantia da celeridade e da eficcia das diligncias investigatrias, assegurando-se ao defensor, no interesse do representado, amplo acesso aos elementos de prova que digam respeito ao exerccio do direito de defesa, devidamente precedido de autorizao judicial, ressalvados os referentes s diligncias em andamento (artigo 23, Lei 12.850/2013). A imprensa livre  um dos pilares em que se assenta a democracia. A liberdade de informao jornalstica dos atos processuais (artigo 220, pargrafo 1, CF) encontra seus limites nos direitos individuais. A garantia da publicidade no pode ser confundida com sensacionalismo que afronta a dignidade humana. 3.6. Garantia da motivao das decises. A garantia da motivao das decises judiciais no foi includa no Ttulo II Dos direitos e garantias fundamentais, mas no Captulo III Do Poder Judicirio do Ttulo IV Da organizao dos poderes, especificamente no artigo 93, IX, dispondo que todas as decises do Poder Judicirio sejam fundamentadas, sob pena de nulidade. Define-a Gustavo Badar por garantia de controle democrtico sobre a administrao da justia. O trabalho do juiz, como toda deciso humana, implica uma escolha entre alternativas. No contedo da motivao devem estar claramente expostas as escolhas e selees feitas.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A restrição de acesso a salas de audiências durante inquéritos de crimes contra a dignidade sexual é prevista na Lei 12.015/09. A obtenção de provas também é regida pela Lei 9.296/96. Em caso de organização criminosa, o sigilo da investigação pode ser decretado pela autoridade judicial. A imprensa tem liberdade de informação, mas com limites para preservar a dignidade humana. A garantia da motivação das decisões judiciais está prevista no artigo 93, IX da Constituição Federal.

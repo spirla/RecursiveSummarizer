@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No que diz respeito s agravantes, o legislador foi explcito ao dizer, no artigo 61 do Cdigo Penal, que so circunstncias que sempre agravam a pena, quando no constituem ou qualificam o crime. Os artigos 61 e 62 do Cdigo Penal preveem as circunstncias agravantes que devero ser consideradas na segunda etapa da tarefa de individualizao da pena. A circunstncia da reincidncia, que  estritamente objetiva e totalmente desvinculada do crime que constituiu o objeto do julgamento, sempre poder ser aplicada nas condenaes por crimes dolosos ou culposos. A aplicao das demais circunstncias, porm, desafia a compreenso sobre a sua compatibilidade com os crimes culposos. A princpio, todas as demais circunstncias agravantes so aplicveis nas condenaes por crimes dolosos, posto que a agravao da reprimenda deve ser lastreada pela conscincia e vontade do indivduo que realiza a conduta no contexto descrito pela circunstncia agravante. Mas tal conscincia tambm pode se verificar nos crimes culposos e, em alguns casos, a agravao da reprimenda deve ocorrer como expresso da maior exigibilidade de cuidado para com o bem jurdico. De maneira objetiva, a circunstncia agravante obrigatoriamente implica aumento da pena a ser aplicada ao condenado. A agravao da reprimenda penal sempre resulta das consideraes judiciais sobre o contedo do injusto, traduzido pelo significado do crime para a ordem jurdica violada, e o contedo da culpabilidade  representado pela gravidade da reprovao que  dirigida ao condenado. Cabe observar, no entanto, que esses fatores no so desvinculados entre si, j que a culpabilidade jurdico-penal  sempre referida ao injusto. As variaes do contedo do injusto sempre repercutem no juzo de culpabilidade, na medida em que sua extenso  delimitada pelo comportamento proibido cometido. Estabelecendo o limite mximo para as variaes da apenao, ao juzo de culpabilidade devem estar vinculados quaisquer critrios pelos quais o julgador possa majorar a reprimenda penal. As circunstncias legais agravantes nada mais so que critrios estabelecidos pelo legislador para a apurao da maior ou menor necessidade de reprovao. As hipteses que encontram previso nos artigos 61 e 62 do CP prestam-se a mensurar a culpabilidade do autor, por meio do exame da maior ou menor exigibilidade de conduta diversa. Verificada no caso a ocorrncia da circunstncia agravante, o juzo de reprovao pessoal apresenta-se maior, porque maior  a exigibilidade de absteno da conduta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal prevê circunstâncias agravantes que devem ser consideradas na individualização da pena. A reincidência é sempre aplicável a crimes dolosos ou culposos, enquanto as demais circunstâncias agravantes são aplicáveis apenas a crimes dolosos. A agravação da reprimenda penal é resultado das considerações judiciais sobre a consciência e vontade do indivíduo que realizou a conduta.

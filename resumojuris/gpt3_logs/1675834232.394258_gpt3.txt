@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Artigo 16 da Lei n. 8.216/1991. Artigo 15 da Lei n. 8.270/1991. DESTAQUE A indenizacao, prevista no art. 16 da Lei n. 8.216/1991, deve ser reajustada, pelo Poder Executivo, na mesma data e percentuais de reajustes aplicados as diarias. A controversia objeto do pedido de uniformizacao cinge-se a seguinte questao: a indenizacao prevista no art. 16 da Lei n. 8.216/1991 deve ser reajustada na mesma data e percentuais dos reajustes aplicados as diarias. E, uma vez que, na hipotese, a partir da publicacao do Decreto n. 6.907/2009, houve majoracao do valor das diarias dos servidores federais para R$ 177,00 (cento e setenta e sete reais), esta indenizacao deveria ter sido reajustada na mesma data e percentual de revisao dos valores das diarias, conforme disposto no art. 15 da Lei n. 8.270/1991. Destaca-se que a discussao afasta a aplicacao da Sumula n. 58 da Turma Nacional de Uniformizacao - TNU ( Nao e devido o reajuste na indenizacao de campo por forca da alteracao trazida pelo Decreto n. 5.554/2005 ). O que se discute diz respeito a simples reajuste nominal de diarias, nao se referindo ao debate sobre adicionais variaveis, tema objeto do enunciado jurisprudencial da TNU. Por conseguinte, e possivel avaliar o pedido de uniformizacao. Nos termos do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A indenizacao prevista no art. 16 da Lei n. 8.216/1991 deve ser reajustada na mesma data e percentuais dos reajustes aplicados as diarias. 2. A partir da publicacao do Decreto n. 6.907/2009, houve majoracao do valor das diarias dos servidores federais para R$ 177,00 (cento e setenta e sete reais). 3. A discussao afasta a aplicacao da Sumula n. 58 da Turma Nacional de Uniformizacao - TNU. 4. O que se discute diz respeito a simples reajuste nominal de diarias, nao se referindo ao debate sobre adicionais variaveis, tema objeto do enunciado jurisprudencial da TNU.

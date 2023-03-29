@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Teoria da equivalncia dos antecedentes. A teoria da condio simples, tambm conhecida como teoria da equivalncia dos antecedentes causais ou da conditio sine qua non,  atribuda a Julius Glaser, sendo, posteriormente, desenvolvida por Maximilian Von Buri.  a teoria acolhida pelo Cdigo Penal Militar em vigor588 para estabelecer o critrio identificador da vinculao existente entre conduta e resultado material, como tambm ocorre com o Cdigo Penal comum589. Vale observar, entretanto, que, quanto ao tema da supervenincia de causa relativamente independente, a legislao repressiva brasileira (militar e comum) acolheu concepo de condio qualificada. Nos termos dessa construo, causa  a conduta antecedente que contribuiu para a produo de um resultado naturalstico. Partindo da premissa de que todos os antecedentes do resultado so igualmente necessrios, conclui-se pela equivalncia valorativa de todos os antecedentes causais, no estabelecendo distines entre causas, concausas, condies ou ocasies. No entanto, o fato de cada condio ser igualmente necessria, no complexo das condies, no significa que sejam equivalentes entre si. Como observa Paulo Jos da Costa Jnior, a elaborao terica da equivalncia dos antecedentes apresenta uma contradio lgica, ao destacar a conduta humana no processo naturalstico de causalidade. Afinal, se causa  o conjunto de condies, como poder ser considerada uma condio isolada?. A teoria da equivalncia dos antecedentes  verdadeiro corolrio da sistematizao causal-naturalista de Beling593 e Liszt,594 a qual considera que a relao da causalidade no encerra nenhuma valorao jurdica. De inspirao autoritria, a opo de considerar qualquer contribuio para a produo do resultado como causa amplia o campo de interveno repressiva, na medida em que possibilita aumentar o leque de responsveis. Em suas ltimas consequncias, a teoria da equivalncia dos antecedentes poderia levar aos exageros de uma regresso infinita, capaz de responsabilizar indivduos que prestaram contribuies muito remotas, como nos casos do fabricante e do comerciante da arma de fogo utilizada no homicdio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Teoria da Equivalência dos Antecedentes, também conhecida como Teoria da Condição Simples, é uma teoria atribuída a Julius Glaser e desenvolvida por Maximilian Von Buri. Esta teoria é adotada pelo Código Penal Militar e Comum para estabelecer a vinculação entre conduta e resultado. Apesar de todos os antecedentes do resultado serem necessários, não são considerados equivalentes entre si. Esta teoria pode levar ao exagero de responsabilizar indivíduos que prestaram contribuições muito remotas.

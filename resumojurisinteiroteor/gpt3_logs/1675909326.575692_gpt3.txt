@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+439, "b, do CPPM. O representante do MP apresentou contrarrazes ao recurso de apelao, argumentando que a sentena condenatria considerou todo o conjunto probatrio contido nos autos, havendo acervo probatrio suficiente  condenao. Ao final, pugnou que fosse negado provimento ao recurso do apelante, mantendo-se o decreto condenatrio em seus exatos termos. A sra. Procuradora de Justia manifestou-se pelo conhecimento e total desprovimento do recurso interposto pela defesa, com a consequente manuteno da sentena condenatria de 1 grau.  o relatrio. VOTOS DESEMBARGADOR FERNANDO GALVO DA ROCHA, RELATOR Senhores Desembargadores, aps detida anlise dos autos, entendo que o recurso de apelao interposto por Flvio Moreira de Paula no merece provimento. A tese de que a sentena se valeu de elementos de prova invlidos ou constantes apenas no caderno investigatrio para sustentar condenao no prospera. Ao contrrio disso, o juiz de primeiro grau mostrou, em sua fundamentao, ter-se utilizado no somente de elementos informativos colhidos na investigao para formao de sua convico, mas tambm de provas devidamente produzidas em contraditrio judicial, como as declaraes do ofendido, Luiz Paulo dos Santos Bragana (evento 2, UDIO/VDEO10), e o depoimento das testemunhas Paulo Srgio Alves Duarte (evento 2, UDIO/VDEO12), 1 Ten PM Cid Machado dos Santos (evento 2, UDIO/VDEO18 e 21) e Larissa Marcelle da Silva (evento 2, UDIO/VDEO20). Quanto  tese defensiva que alega ocorrer excludente de ilicitude, importa notar que a justificao de condutas lesivas apresenta requisitos especficos cuja satisfao no encontra amparo nos elementos colhidos nos autos. Ademais, a violncia apurada em questo no  inerente  execuo da interveno praticada pelos militares, hiptese que poderia, em tese, configurar estrito cumprimento de dever legal. Ao revs, eventual emprego de fora em caso de desobedincia ou resistncia no  um dever, seno uma faculdade, conforme deixa claro o art. 234 do CPPM. Assim estabelece a disposio: Art. 234. O emprego de fora s  permitido quando indispensvel, no caso de desobedincia, resistncia ou tentativa de fuga. Se houver resistncia da parte de terceiro, podero ser usados os meios necessrios para venc-la ou para defesa do executor e auxiliares seus, inclusive a priso do ofensor. De tudo se lavrar auto subscrito pelo executor e por duas testemunhas. (Grifos meus) Essa faculdade de defesa, portanto, apresenta potencialidade em abstrato, para configurar-se no como estrito cumprimento de dever legal, mas legtima defesa, hiptese de justificao mais rigorosa em seus requisitos tpicos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelao interposto por Flvio Moreira de Paula foi negado pelo relator, pois a sentena condenatria considerou todo o conjunto probatrio contido nos autos, havendo acervo probatrio suficiente para a condenação. O emprego de força não foi considerado como estrito cumprimento de dever legal, mas sim como legítima defesa, que apresenta requisitos típicos mais rigorosos.

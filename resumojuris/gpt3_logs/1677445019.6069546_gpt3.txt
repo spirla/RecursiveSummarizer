@@ -1,0 +1,16 @@
+PROMPT:
+
+# Encontre as teses jurdicas no texto abaixo e organize-as em tpicos completos.
+
+1082
+1082
+1082
+1081
+
+TESES JURDICAS: 1.
+
+==========
+
+RESPONSE:
+
+O direito à liberdade de expressão é um direito fundamental garantido pela Constituição; 2. O direito à liberdade de expressão não é absoluto, pois pode ser limitado por lei; 3. A censura prévia é incompatível com o direito à liberdade de expressão; 4. A censura prévia não é permitida pela Constituição.

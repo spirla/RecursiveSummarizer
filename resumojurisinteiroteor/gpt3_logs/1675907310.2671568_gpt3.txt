@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+AGRAVO DESPROVIDO. 1. A jurisprudncia deste Tribunal Superior  firme no sentido de que o mero descontentamento da parte com o resultado do julgamento no autoriza a oposio de embargos de declarao, tanto mais por no servirem os declaratrios, em regra, ao propsito de rediscusso de matria j decidida. 2. A falta de impugnao de argumento suficiente para manter, por si s, o acrdo impugnado, a argumentao dissociada, bem como a ausncia de demonstrao da suposta violao  legislao federal, impede o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Smula do Supremo Tribunal Federal. 3. A aplicao da multa prevista no  4 do art. 1.021 do CPC/2015 no  automtica, no se tratando de mera decorrncia lgica do desprovimento do agravo interno em votao unnime. A condenao do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em deciso fundamentada, pressupe que o agravo interno mostre-se manifestamente inadmissvel ou que sua improcedncia seja de tal forma evidente que a simples interposio do recurso possa ser tida, de plano, como abusiva ou protelatria, o que, contudo, no se verifica na hiptese examinada. 4. Agravo interno desprovido. (AgInt no AREsp 1066097/BA, Rel. Ministro MARCO AURLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/11/2017, DJe 21/11/2017) O inconformismo do embargante deve ser dirimido nas vias prprias, no sendo os embargos de declarao o recurso apropriado para este fim. Ante o exposto, rejeito os presentes embargos.  como voto. DESEMBARGADOR OSMAR DUARTE MARCELINO Acompanho integralmente as razes e o voto do e. desembargador relator, para rejeitar os embargos. DESEMBARGADOR FERNANDO GALVO DA ROCHA Srs. desembargadores. Na oportunidade, acompanho as razes e o voto proferido pelo eminente relator, para negar provimento ao presente recurso.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Embargos de declarao rejeitados por não se tratar de recurso apropriado para rediscutir matéria julgada. Inconformismo do embargante deve ser dirimido nas vias próprias.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+De igual modo, nao se depreende do texto constitucional qualquer exigencia relativamente a organizacao. A liberdade de expressao e reuniao pode, com efeito, assumir feicao plural e igualitaria, nao sendo possivel estabelecer, como regra, uma organizacao previa. Assim, nao ha como exigir-se que a notificacao seja pessoal ou de algum modo registrada, porque implica reconhecer como necessaria uma organizacao que a propria Constituicao nao impos. No caso, trata-se de recurso extraordinario em que se discute o alcance da regra prevista no art. 5, XVI, da CF, notadamente da exigencia de aviso previo a autoridade competente como pressuposto para o legitimo exercicio da liberdade de reuniao. Com base nesse entendimento, o Plenario, por maioria, julgando o Tema 855 RG, deu provimento ao recurso extraordinario. RE 806339/SE, relator Min. Marco Aurelio, redator do acordao Min. Edson Fachin, julgamento virtual finalizado em 14.12.2020 (INF 1003) 4.10 DIREITOS E GARANTIAS FUNDAMENTAIS Acesso a jurisdicao e servico municipal de prestacao de assistencia juridica - ADPF 279/SP Resumo: Municipios podem instituir a prestacao de assistencia juridica a populacao de baixa renda. A prestacao desse servico publico para auxilio da populacao economicamente vulneravel nao visa substituir a atividade prestada pela Defensoria Publica. O servico municipal atua de forma simultanea. Trata-se de mais um espaco para garantia de acesso a jurisdicao [CF/88 (CF), art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há exigência de organização prévia para o exercício da liberdade de expressão e reunião. 2. Não é necessário que a notificação seja pessoal ou registrada para o exercício da liberdade de reunião. 3. O Plenário, por maioria, deu provimento ao recurso extraordinário para discutir o alcance da regra prevista no art. 5, XVI, da CF. 4. Os municípios podem instituir a prestação de assistência jurídica à população de baixa renda. 5. O serviço municipal de prestação de assistência jurídica não visa substituir a atividade prestada pela Defensoria Pública.

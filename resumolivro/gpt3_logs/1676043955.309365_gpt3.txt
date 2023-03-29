@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Em alguns casos o objeto jurdico est restrito aos limites fsicos do objeto material do crime, como no caso do homicdio em que o corpo da pessoa humana encerra-lhe a prpria vida ou no caso do furto do nico bem patrimonial que uma pessoa possua. Em outros casos, como quando o patrimnio pessoal no se reduz a um nico bem material, o objeto material representa apenas uma parcela do bem juridicamente protegido. Tambm pode ocorrer que o crime no possua qualquer objeto material, como ocorre nos casos de injria proferida por meio de palavras e gestos (artigo 140 do CP). Do mesmo modo como ocorre com a causa de inadequao tpica anteriormente examinada, no crime impossvel o sujeito acredita que o objeto  idneo  realizao do crime, mas este no o . A impropriedade do objeto que impede a adequao tpica deve ser absoluta de modo a impedir totalmente a realizao objetiva da conduta proibida. Se a impropriedade for relativa, ou seja, se houver alguma possibilidade concreta de realizar a conduta proibida, ainda que tal possibilidade se apresente bastante reduzida, no se poder falar em crime impossvel. O crime, por expressa previso legal, somente dever ser considerado impossvel se no houver nenhuma possibilidade concreta de realizao da conduta proibida. A impropriedade do objeto jurdico que impede a adequao tpica deve ser apurada do modelo constitucionalmente estabelecido para a interveno punitiva. Neste aspecto,  necessrio considerar se a previso legal protetiva do bem jurdico se concilia com as exigncias prprias  possibilidade de interveno punitiva no Estado Democrtico de Direito. Se no houver compatibilidade da norma incriminadora com os princpios fundamentais encartados na Constituio da Repblica, a impossibilidade jurdica da incriminao caracterizar o crime (juridicamente) impossvel. Com base em tais premissas, por exemplo, seria o caso de reconhecer o crime impossvel na previso legal que estabelecesse tipificao para a conduta de no comparecer a um determinado culto religioso. Considerando que a Constituio garante a liberdade de crena religiosa, a incriminao se apresentaria juridicamente impossvel. Nesta linha de raciocnio, alguns autores sustentam haver inconstitucionalidade substancial na previso legal de crimes de perigo abstrato (ou presumido), considerando que h violao ao princpio da ofensividade (ou lesividade).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O objeto jurdico pode ser restrito ao objeto material do crime, como no homicídio, ou representar apenas uma parcela do bem juridicamente protegido, como nos casos de injúria. O crime pode ser considerado impossível se não houver possibilidade concreta de realizá-lo e se a norma incriminadora não estiver de acordo com os princípios fundamentais da Constituição. Alguns autores também defendem que há inconstitucionalidade substancial na previsão legal de crimes de perigo abstrato.

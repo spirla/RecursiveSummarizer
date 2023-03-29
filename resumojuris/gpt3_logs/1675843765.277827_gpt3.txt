@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Condicao de diretor- superintendente. Dolo de apropriacao. Inumeros inadimplementos. Ausencia de tentativa de regularizacao. Presuncao relativa. DESTAQUE Para fins do disposto no art. 2, II, da Lei n. 8.137/1990, a mencao a inumeros inadimplementos (inscritos em divida ativa) gera a presuncao relativa da ausencia de tentativa de regularizacao. Discute-se acerca da inepcia de denuncia que nao descreve especificamente o papel do agente, na qualidade de diretor-superintendente e diretor, descrito no contrato social da empresa. Contudo, nao e inepta a exordial acusatoria que atende aos requisitos do art. 41 do CPP, descrevendo a conduta, especificando os meses em que o denunciado deixou de recolher tributos e detalhando o cargo ocupado pelo agente na empresa, bem como o valor dos prejuizos causados aos cofres publicos. Sobre o tema, o Supremo Tribunal Federal decidiu, no RHC n. 163.334/SC, que a caracterizacao do crime depende da demonstracao do dolo de apropriacao, a ser apurado a partir de circunstancias objetivas factuais, tais como o inadimplemento prolongado sem tentativa de regularizacao dos debitos, a venda de produtos abaixo do preco de custo, a criacao de obstaculos a fiscalizacao, a utilizacao de laranjas no quadro societario, a falta de tentativa de regularizacao dos debitos, o encerramento irregular das suas atividades, a existencia de debitos inscritos em divida ativa em valor superior ao capital social integralizado etc (RHC n. 163.334/SC, relator Roberto Barroso, Tribunal Pleno, julgado em 18/12/2019, processo eletronico DJe-271, divulgado em 12/11/2020, publicado em 13/11/2020). No caso, a denuncia destacou que o agente deixou de recolher 12 (doze) meses de ICMS cobrado dos consumidores e 5 (cinco) meses de ICMS relativo a operacoes tributaveis pelo regime de substituicao tributaria, elementos que, segundo o precedente citado, sao utilizados para caracterizar o dolo de apropriacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A menção a inúmeros inadimplementos gera a presunção relativa da ausência de tentativa de regularização. 2. Não é inepta a exordial acusatória que atende aos requisitos do art. 41 do CPP, descrevendo a conduta, especificando os meses em que o denunciado deixou de recolher tributos e detalhando o cargo ocupado pelo agente na empresa. 3. A caracterização do crime depende da demonstração do dolo de apropriação, a ser apurado a partir de circunstâncias objetivas factuais. 4. O Supremo Tribunal Federal decidiu que elementos como o inadimplemento prolongado sem tentativa de regularização dos débitos, a venda de produtos abaixo do preço de custo, a criação de obstáculos à fiscalização, a utilização de laranjas no quadro societário, a falta de tentativa de regularização dos débitos, o encerramento irregular das suas atividades, a existência de débitos inscritos em dívida ativa em valor superior ao capital social integralizado são utilizados para caracterizar o dolo de apropriação.

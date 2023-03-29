@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+70, II, alnea g, do CPM e considerada desfavorvel a circunstncia prevista no art. 69 do CPM relativa  extenso do dano. Em relao ao apelado Alex Dayrell Braga Mattar Handan, disse que o magistrado fixou a pena-base em 6 (seis) meses de recluso, considerando desfavorveis as seguintes circunstncias: a gravidade do crime praticado, a intensidade do dolo, a circunstncia de tempo e lugar, os motivos determinantes e a atitude do apelado aps o crime. Disse que a pena-base se tornou definitiva, pois no foram consideradas nenhuma agravante ou majorante. Segundo o Ministrio Pblico, a pena fixada em 6 (sei) meses no guarda proporo com as circunstncias judiciais consideradas desfavorveis. Alega que a circunstncia relativa  maior extenso do dano tambm deve ser considerada desfavorvel, haja vista que os fatos ocorreram no interior da residncia do ofendido Thaylon Raphael Rodrigues de Miranda, que foi agredido justamente pelo apelado. Afirma que a conduta do apelado Alex trouxe consequncias para a famlia da vtima, que presenciou parte da ao, provocando grave sofrimento na me do ofendido. Alega que deve ser aplicada a agravante prevista no art. 70, II, g, do CPM, uma vez que o apelado agrediu o ofendido durante uma abordagem policial, extrapolando o mnus de policial militar. Com essas consideraes, requer que seja dado provimento ao recurso de apelao, para aumentar a pena-base do apelado Cb PM Gensio Machado Alves e aplicar a pena mxima ao apelado Alex Dayrell Braga Mattar Handan (Evento 35). A defesa do Cabo PM Gensio Machado Alves interps recurso de apelao (Eventos 16 e 39). Em suas razes recursais, cita o 4, do art. 209, do Cdigo Penal Militar e alega que a pena do apelante deve ser reduzida, pois as aes praticadas pelas vtimas podem ser interpretadas como uma injusta provocao. Alega que, aps a instruo do feito, surgiram vrias incongruncias acerca da narrativa dos fatos, motivo pelo qual deve ser aplicado o princpio do in dubio pro reo, previsto no art. 439, alnea e do CPPM. Segundo a defesa, caso mantida a autoria, milita em favor do apelante as excludentes de ilicitude previstas nos incisos I, II e III do art. 42 do CPM, tendo em vista que a vtima Kaio, alm de fugir, apresentou resistncia fsica, conforme descrito no REDS 2016-005571105-001. Afirma que os dados e fatos constantes no REDS2016-005571105-001 devem ser considerados na sua totalidade, at porque se eles fossem falsos os militares deveriam ter sido processados pelos crimes previstos nos arts. 163 e 169 do CPM, o que no ocorreu. Declara que a acusao deve ser concreta e afervel, tal como preconiza o art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público alegou que a pena fixada de seis meses de reclusão não guarda proporção com as circunstâncias judiciais consideradas desfavoráveis, incluindo a extensão do dano. A defesa do Cabo PM Gensio Machado Alves interpôs recurso de apelação citando o artigo 209 do Código Penal Militar e alegando que a pena deve ser reduzida. O recurso do Ministério Público e da defesa foram considerados.

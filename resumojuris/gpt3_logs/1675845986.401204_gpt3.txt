@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O pedido absolutorio, alias, seria mesmo inviavel, por carecer de base legal. Trata-se de norma legal que, equaliza a soberania constitucional dos vereditos com a possibilidade de seu controle jurisdicional, sem, contudo, permitir a substituicao do juri por juizes togados. (Informativo n. 747) PROCESSO Processo sob segredo de justica, Rel. Min. Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, por unanimidade, julgado em 23/08/2022, DJe 26/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Crimes contra a dignidade sexual. Revaloracao da prova ou de dados suficientes para solucao do caso concreto. Afastamento do obice da Sumula n. 7/STJ. Possibilidade. Vedacao ao reexame do material de conhecimento. Inocorrencia. DESTAQUE 1178 Em crimes contra a dignidade sexual, admite-se, excepcionalmente, o afastamento do obice da Sumula n. 7/STJ estritamente para a revaloracao da prova ou de dados explicitamente admitidos e delineados no decisorio recorrido.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inviável o pedido absolutório por carecer de base legal. 2. A norma legal equilibra a soberania constitucional dos vereditos com a possibilidade de seu controle jurisdicional, sem permitir a substituição do júri por juízes togados. 3. Em crimes contra a dignidade sexual, admite-se excepcionalmente o afastamento do óbice da Súmula n. 7/STJ estritamente para a revalorização da prova ou de dados explicitamente admitidos e delineados no decisório recorrido.

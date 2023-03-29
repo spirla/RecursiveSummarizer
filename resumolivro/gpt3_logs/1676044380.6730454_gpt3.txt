@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O artigo 71 do Cdigo Penal estabelece benefcio em favor do condenado que, mediante mais de uma ao ou omisso, pratica dois ou mais crimes da mesma espcie, e, pelas condies de tempo, lugar, maneira de execuo e outras semelhantes, devem os subsequentes ser havidos como continuao do primeiro. O benefcio que repercute efeitos na oportunidade da aplicao da pena no descaracteriza a ocorrncia ftica e jurdica de vrios crimes. Apenas para fins de aplicao da pena, devem-se considerar os diversos crimes como crime nico. Dessa forma, se cada um dos ataques proferidos contra o bem jurdico for insignificante, deve-se reconhecer a atipicidade material do crime continuado. Cada fato precisa ser considerado isoladamente, de modo que, se um ou alguns dos ataques ao bem jurdico no for insignificante, a violao da norma incriminadora deve ser reconhecida apenas em relao a esse ou a esses ataques. Consideremos alguns exemplos para que a noo fique clara. O sujeito que trabalha no caixa de um estabelecimento comercial e, todos os dias, durante determinado perodo de tempo, apropria-se de pequenssimas quantias em dinheiro deve ter todas as suas condutas consideradas irrelevantes e materialmente atpicas. No se pode reunir as diversas condutas realizados pelo sujeito em um crime nico para prejudic-lo. A previso constante do artigo 71 do CP possui a expressa finalidade de beneficiar o condenado e no prejudic-lo. No se pode fazer nenhuma espcie de analogia entre a soluo proposta em benefcio do condenado e outra que se presta a prejudic-lo. No entanto, se em um dos dias de trabalho o sujeito se apropriar de quantia que possa ser considerada significante, deve-se reconhecer a tipicidade material dessa nica conduta. Se, em um novo exemplo, o sujeito realizar a apropriao de quantias relevantes em diversos dias, deve-se reconhecer o crime continuado apenas em relao a esses comportamentos considerados relevantes. 6.6.1.1.4. Insignificncia nos crimes tributrios. No que diz respeito especificamente  aplicao do princpio da insignificncia para afastar a tipicidade dos crimes contra a ordem tributria, o requisito da inexpressividade da leso jurdica provocada (ou da ofensividade) tem sido verificado em razo do valor do tributo devido. Nesse sentido, o Supremo Tribunal Federal consolidou o entendimento de que o princpio da insignificncia deve ser aplicado aos crimes contra a ordem tributria e ao crime de descaminho quando o valor sonegado for igual ou inferior a R$ 20.000,00 (vinte mil reais).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 71 do Código Penal prevê um benefício para o condenado que praticou dois ou mais crimes da mesma espécie, considerando-os como um só para fins de aplicação da pena. O princípio da insignificância é aplicado para afastar a tipicidade dos crimes contra a ordem tributária quando o valor sonegado for igual ou inferior a R$ 20.000,00 (vinte mil reais).

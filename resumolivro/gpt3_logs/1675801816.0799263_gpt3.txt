@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se o bem juridico em perigo for disponivel, a atuacao em estado de necessidade de terceiros exige a autorizacao previa do titular do bem a ser destruido.  Dever legal de enfrentar o perigo: o estado de necessidade nao podera ser invocado pelo agente que era legalmente obrigado a arrostar o perigo, o que remete a seguinte indagacao: pode o militar estadual, no exercicio de sua atividade de policia ostensiva e de preservacao da ordem publica ou de bombeiro no socorrimento de pessoas e combate ao incndio, invocar o estado de necessidade como causa de exclusao de ilicitude? Tal indagacao deve ser respondida a luz do principio da razoabilidade, uma vez que nem todo o perigo devera ser arrostado por aquelas pessoas que tm o dever legal de enfrenta-lo, a exemplo dos militares estaduais, mas somente aquele perigo normal a sua profissao, uma vez que podera opor-se ao seu enfretamento quando o salvamento for impossivel ou o risco for inutil. Ainda sobre o dever legal de enfrentar o perigo, assim manifestei na obra Crime militar: da prisao em flagrante a audincia de custodia - teoria & pratica:
+Ressalta-se, contudo, que na avaliacao se o perigo e enfrentava diante de um caso concreto, deve-se levar em conta que os militares sao considerados homens (e mulheres) acima da media, o que implica dizer que o perigo nao suportavel para o militar se situa em um nivel superior em relacao aquele que se exige do homem medio. Nesse sentido, por exemplo, se uma equipe de policiais militares estao realizando a incursao em um aglomerado (favela) e se deparam com um cao pit bull em via publica e que, sem qualquer acao humana sobre ele, avanca ferozmente sobre os militares - nesse caso, trata-se de um perigo cujo enfrentamento nao e exigido ate mesmo dos policiais militares, ja que inexiste tecnica Policial de imobilizacao de animais, o que autoriza a utilizacao da arma de fogo em estado de necessidade, de modo a sacrificar o animal em prol da incolumidade fisica dos militares.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A atuação em estado de necessidade de terceiros exige a autorização previa do titular do bem a ser destruído. Militares estaduais, no exercício de suas atividades, podem invocar o estado de necessidade como causa de exclusão de ilicitude, desde que o perigo seja normal à sua profissão. O nível de perigo suportável para o militar é superior ao do homem médio. Por exemplo, se uma equipe de policiais militares se deparar com um cão pit bull avançando ferozmente, eles podem usar arma de fogo em estado de necessidade para sacrificar o animal em prol da incolumidade física dos militares.

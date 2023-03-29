@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+125,  5). 1. A publicao da sentena ocorre quando o escrivo a recebe do juiz (CPP, art. 389; CPPM, art. 125,  5, II), independentemente de qualquer outra formalidade. 2. A publicao da sentena prolatada por rgo colegiado da Justia castrense se d na prpria sesso de julgamento, tal como previsto no art. 389 do CPP, e no se confunde com a intimao das partes, interrompendo a prescrio (CPM, art. 125,  5, II). Precedentes. 3. Habeas corpus deferido. (HC 103686, Relator(a): DIAS TOFFOLI, Primeira Turma, julgado em 07/08/2012, ACRDO ELETRNICO DJe-173 DIVULG 31-08-2012 PUBLIC 03-09-2012) Em vista do entendimento retroapresentado, a condenao prolatada pelo Conselho Permanente de Justia (rgo colegiado), em sesso pblica, na presena das partes, atinge o fim da persecuo penal, sendo estas, as partes presentes, consideradas como intimadas por esse ato processual. O acusado, finda a sesso de julgamento e apregoado seu resultado, tem cincia da condenao e da pena que lhe foi imposta. Essa deciso, aps apregoado o resultado, diga-se, no  passvel de alterao por parte de seus prolatores, salvo para correo de erro material ou em razo da oposio de eventuais embargos de declarao. Ressalte-se que, em se tratando de sentena penal condenatria, um dos efeitos da publicao  a interrupo da prescrio - instituto que tem a natureza jurdica de direito material, de acordo com a doutrina majoritria. Nesse sentido, trago  baila o ensinamento do doutrinador e juiz de direito da Justia Militar do Estado de So Paulo, Dr. Ronaldo Joo Roth, em sua obra "Temas de Direito Militar (Temas de direito militar, editora Suprema Cultura, 1a edio, 2004, So Paulo, pginas 201/205), na qual informa o marco interruptivo da prescrio contida no art. 125, 5, inciso II, do Cdigo Penal Militar, in verbis: Ora, dada a publicidade do procedimento que pode ocorrer no processo penal militar, isto , de haver a proclamao de julgamento com a publicao da sentena na prpria sesso de julgamento, ou s a proclamao de julgamento neste, para depois ocorrer a publicao da sentena, entendo que deve prevalecer neste ltimo caso a interrupo de que o que vale, para fins de interrupo prescricional,  a proclamao do julgamento ou veredicto condenatrio pela Escabinato Julgador. Esse modo de pensar justifica-se pelo fato de que o veredicto condenatrio, que  o ncleo da sentena, j foi proclamado e no poder se alterar na sentena, e esta formalizar aquele, como explicitado anteriormente, interessando s partes para fins recursais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena condenatria prolatada pelo Conselho Permanente de Justia (rgo colegiado), em sesso pblica, na presena das partes, atinge o fim da persecuo penal, sendo estas, as partes presentes, consideradas como intimadas por esse ato processual. O acusado, finda a sesso de julgamento, tem cincia da condenao e da pena que lhe foi imposta. A publicao da sentena interrompe a prescrio, sendo que o veredicto condenatrio, que o ncleo da sentena, j foi proclamado e no poder se alterar na sentena.

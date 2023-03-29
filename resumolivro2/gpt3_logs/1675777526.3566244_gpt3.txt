@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A doutrina divide a independncia judicial em externa, que  a independncia do Poder Judicirio perante os demais poderes (legislativo e executivo) e em independncia interna, que  a independncia que deve gozar cada juiz perante o tribunal ou rgo a que esteja vinculado. Os rgos judicirios de segunda instncia no determinam aos de primeira instncia como decidir a matria jurisdicional, significa que o rgo de primeira instncia  independente para julgar conforme a interpretao que faz da lei. A imparcialidade  a mxima garantia do jurisdicionado. Os casos de impedimento, de incompatibilidade e de suspeio do juiz esto no Captulo X, incidentes processuais.  impossvel pensar em deciso justa se no for proferida por um juiz imparcial. A rigor, no h o devido processo legal se o juiz for parcial. O juiz, ao decidir, no fica imune ao seu histrico de vida, que influencia o modo de interpretar a lei. O juiz no fica dentro de uma redoma, afastado da realidade at ser provocado para dizer o direito. No pluralismo poltico, um dos fundamentos da Repblica (artigo 1, V, CF), coexistem opinies e ideias diferentes a respeito da relao com o governo (poder) e a sociedade, porm  vedado ao juiz participar de atividade poltico-partidria (artigo 95, pargrafo nico, III, CF). Fica a neutralidade do juiz exposta diante do pluralismo ideolgico, que compreende o conjunto de sistemas de valores, crenas e sentimentos que expressam diferentes modos de ver a realidade social. A dificuldade  distinguir se a viso individual do magistrado sobre o que julgar o torna parcial ou no, ou, se  apenas a concepo de mundo que tem todo o juiz. A rigor, a circunstncia de o oficial do Conselho de Justia desempenhar atividade judicante sem gozar das garantias da vitaliciedade, da inamovibilidade e da irredutibilidade de vencimento prprias da magistratura de carreira, no tem o condo de afetar a sua imparcialidade. A independncia dos juzes militares dos Conselho de Justia  pedra fundamental do Estado Democrtico de Direito e garantia do exerccio da atividade judicante.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A independência judicial é dividida em externa (perante os demais poderes) e interna (perante o tribunal ou órgão a que esteja vinculado). A imparcialidade é a máxima garantia do jurisdicionado e é vedado ao juiz participar de atividade político-partidária. A circunstância de o oficial do Conselho de Justiça não gozar das garantias da vitaliciedade, da inamovibilidade e da irredutibilidade de vencimento não afeta sua imparcialidade. A independência dos juízes militares dos Conselhos de Justiça é fundamental para o Estado Democrático de Direito.

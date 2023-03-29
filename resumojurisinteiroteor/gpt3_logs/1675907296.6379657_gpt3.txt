@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...] 3. No presente contexto, verifica-se que o Tribunal de origem j se manifestou sobre a contratao, a irregularidade da licitao e o emprego da verba pblica. A anterior omisso foi devidamente suprida por ocasio da deciso ora recorrida, a qual, analisando a prova pericial constante nos autos, concluiu que no houve qualquer nulidade no ttulo executivo e que a percia no constatou que os servios contratados foram efetivamente prestados. 4. No se configura a ofensa ao art. 1.022 do Cdigo de Processo Civil quando o Tribunal de origem julga integralmente a lide e soluciona a controvrsia. O rgo julgador no  obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questes relevantes e imprescindveis  sua resoluo. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007. 5. O STJ possui o entendimento de que o magistrado, como destinatrio final das provas, pode, com base em seu livre convencimento, indeferir ou deferir aquelas que considere dispensvel ou no  soluo da lide, sendo invivel, em Recurso Especial, rever se determinada prova era de fato necessria, porquanto tal procedimento  vedado pela sua Smula 7 (REsp 1.707.702/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2017). 6. Observa-se que o rgo julgador decidiu a questo aps percuciente anlise dos fatos e das provas relacionados  causa, sendo certo asseverar que, para chegar a concluso diversa, torna-se imprescindvel reexaminar o conjunto ftico-probatrio constante dos autos, o que  vedado em Recurso Especial. Imiscuir-se na presente aferio encontra bice no dito 7/STJ: "A pretenso de simples reexame de prova no enseja recurso especial". 7. Verifica-se que o Tribunal a quo decidiu de acordo com a jurisprudncia do STJ, de modo que se aplica  espcie o enunciado da Smula 83/STJ: "No se conhece do recurso especial pela divergncia, quando a orientao do tribunal se firmou no mesmo sentido da deciso recorrida". 8. Recurso Especial conhecido, somente com relao  preliminar de violao do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de origem julgou integralmente a lide e solucionou a controvrsia, tendo decidido de acordo com a jurisprudncia do STJ. O recurso especial foi conhecido somente com relação à preliminar de violação do art. 1.022 do Código de Processo Civil.

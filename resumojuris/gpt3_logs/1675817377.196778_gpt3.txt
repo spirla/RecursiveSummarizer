@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADPF 528/DF, relator Ministro Alexandre de Moraes, julgamento virtual finalizado em 18.3.2022 (sexta-feira), as 23:59 (INF 1047) Reserva de vagas para irmaos na mesma escola - ADI 7149/RJ ODS: 4 Resumo: E constitucional lei estadual, de iniciativa parlamentar, que determina a reserva de vagas, no mesmo estabelecimento de ensino, para irmaos que frequentem a mesma etapa ou ciclo escolar, pois disciplina medida que visa consolidar politicas publicas de acesso ao sistema educacional e do maior convivio familiar possivel. De acordo com a jurisprudencia desta Corte, nao viola a competencia reservada ao chefe do Poder Executivo lei de iniciativa parlamentar que reafirma ou densifica o conteudo de direitos fundamentais previs-tos na propria CF/88 e cujo conteudo e de observancia obrigatoria pelos estados-membros (CF/88, art. 61,  1, II, e; e art. 84, VI, a). Na especie, a norma impugnada nao cria despesa para a Administracao Publica estadual, bem como nao trata da sua estrutura ou da atribuicao ou funcionamento de seus orgaos, tampouco do regime juridico de servidores publicos, razao pela qual nao ha vicio de inconstitucionalidade formal. Alem de facilitar o acesso ao sistema de ensino, a medida diminui a evasao escolar, fortalece a convivencia familiar e facilita o transporte de alunos, de modo a consolidar o direito fundamental a educacao e a protecao aos interesses das criancas e dos adolescentes, em reforco ao que ja dispoe o Estatuto da Crianca e do Adolescente. Com base nesse entendimento, o Tribunal, por unanimidade, julgou improcedente a acao para assentar a constitucionalidade da Lei 9.385/2021 do Estado do Rio de Janeiro.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional lei estadual de iniciativa parlamentar que determina a reserva de vagas, no mesmo estabelecimento de ensino, para irmãos que frequentem a mesma etapa ou ciclo escolar. 2. Não viola a competência reservada ao chefe do Poder Executivo lei de iniciativa parlamentar que reafirma ou densifica o conteúdo de direitos fundamentais previstos na própria Constituição Federal/88 e cujo conteúdo é de observância obrigatória pelos Estados-membros. 3. A norma impugnada não cria despesa para a Administração Pública estadual, bem como não trata da sua estrutura ou da atribuição ou funcionamento de seus órgãos, tampouco do regime jurídico de servidores públicos, razão pela qual não há vício de inconstitucionalidade formal. 4. A medida diminui a evasão escolar, fortalece a convivência familiar e facilita o transporte de alunos, de modo a consolidar o direito fundamental à educação e a proteção aos interesses das crianças e dos adolescentes, em reforço ao que já dispõe o Estatuto da Criança e do Adolescente. 5. O Tribunal julgou improcedente a ação para assentar a constitucionalidade da Lei 9.385/2021 do Estado do Rio de Janeiro.

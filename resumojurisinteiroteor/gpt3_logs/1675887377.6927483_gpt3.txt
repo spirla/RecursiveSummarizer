@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Relatou que o magistrado considerou desfavorveis a gravidade do crime, por ter o apelante agredido quem estava sob sua custdia; o tempo do crime, por estar o apelante fora de seu horrio de trabalho, revelando a intensidade do dolo; e o lugar do crime, pois esse foi cometido no interior de uma Delegacia de Polcia. Por essa razo, a pena-base se distanciou do patamar de piso. J na segunda fase, a pena foi agravada em 1/3, por motivo torpe e abjeto, com fundamento no art. 70, II, "a, do Cdigo Penal Militar (CPM). Assim, em atendimento ao critrio trifsico, a pena foi concretizada em 06 (seis) meses e 20 (vinte) dias de deteno, em regime inicial aberto. J em relao  suspenso condicional da pena, entendeu ser cabvel a sua concesso, j que os requisitos previstos nos artigos 84 do CPM e 606 do CPPM foram devidamente preenchidos. Com essas consideraes, requereu que seja conhecido e provido parcialmente o recurso de apelao interposto pela defesa, para que, mantidas a sentena condenatria e a pena aplicada, seja deferido ao apelante o benefcio da suspenso condicional da pena (Evento 163). A eminente procuradora de justia Dra. Elba Rondino apresentou abalizado parecer alegando que as provas coligidas aos autos demonstram que a vtima Fabiano Azevedo Batista estava algemada e no oferecia risco  integridade fsica de ningum, mas, mesmo assim, o apelante desferiu um tapa no seu rosto e bateu a sua cabea contra a parede, provocando-lhe os ferimentos destacados no Laudo de Exame de Corpo de Delito, constante no Evento 1 - OUT4, pg. 51, e OUT 5 dos Autos n. 2001306-79.2019.9.13. 0002. Disse que os fundamentos da sentena condenatria aliados  anlise do conjunto probatrio, com a descrio da dinmica dos fatos nas contrarrazes, so suficientes para comprovar o que se encontra narrado na pea exordial acusatria e formar com segurana a convico no sentido condenatrio, no havendo que se falar na incidncia das excludentes de ilicitude do estrito cumprimento do dever legal ou da legtima defesa. Refutou o pedido de desclassificao para aplicao do artigo 209,  6, do CPM) sob o argumento que a descrio dos ferimentos inserida no Laudo do Exame de Corpo de Delito permite concluir que eles no foram to leves como pretende a defesa e, ademais, foram compatveis com as agresses relatadas pelo ofendido. Em relao  fixao da pena-base no mnimo legal, salientou que, ao julgador,  conferida, pela lei, uma margem de discricionariedade juridicamente vinculada, tanto em relao  variao quantitativa quanto  motivao da fixao de determinada quantidade.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O magistrado considerou desfavorveis a gravidade do crime, o tempo do crime e o lugar do crime, o que levou a pena-base a se distanciar do patamar de piso. A pena foi agravada em 1/3, com fundamento no art. 70, II, "a, do Código Penal Militar (CPM). O benefício da suspenso condicional da pena foi concedido, já que os requisitos previstos nos artigos 84 do CPM e 606 do CPPM foram preenchidos.

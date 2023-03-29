@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+439, b, do CPPM e, em decorrncia dessa absolvio, no pode o processo administrativo-disciplinar subsistir;  ilegal a imputao que lhe foi feita em razo da alterao legislativa, que incluiu a elementar fardado e as condicionantes de folga ou de servio, para que atos sejam considerados afrontosos  honra pessoal ou ao decoro da classe. Pleiteou, ao final da exordial, a concesso de medida liminar inaudita altera parte, determinando a suspenso dos efeitos da deciso do PAD de Portaria n. 118317/15 - CPM, para evitar a efetivao da demisso; a procedncia do pedido para confirmar a liminar e invalidar o ato de demisso; o benefcio da justia gratuita; e a condenao do ru ao pagamento dos honorrios de sucumbncia. Foi atribudo  causa o valor de R$ 2.000,00 (dois mil reais). [...] VOTOS JUIZ FERNANDO ARMANDO RIBEIRO, RELATOR Trata-se de reexame necessrio da r. sentena que julgou procedente o pedido formulado pela parte autora e decretou a nulidade do ato administrativo-disciplinar demissional decorrente do PAD de Portaria n. 118.317/2015 - CPM. [...] A absolvio do militar, parte autora, no se deu em quaisquer das duas hipteses acima citadas. Entretanto, por ser a definio da desero prevista no art. 240-A da Lei n. 5.301/69, nos termos do disposto no art. 240-C da Lei n. 5.301/69, a mesma contida no tipo penal previsto no art. 187 do Cdigo Penal Militar, a absolvio na esfera penal, pela atipicidade da conduta, neste caso especfico, gera repercusso na esfera administrativa. [...] Feitas estas consideraes, em reexame necessrio, mantenho in totum a sentena primeva. Resta prejudicada a anlise do recurso voluntrio.  como voto. JUIZ OSMAR DUARTE MARCELINO Acompanho o voto do eminente juiz relator. JUIZ RBIO PAULINO COELHO Acompanho o voto do eminente juiz relator. Belo Horizonte, sala das sesses do Tribunal de Justia Militar do Estado de Minas Gerais, aos 11 de dezembro de 2018. (Apelao Cvel PJe n. 1000065-58.2.2017.9.13.0002, Primeira Cmara, relatoria do Des. Fernando Armando Ribeiro, acrdo publicado em 17/12/2018). Saliente-se que o colendo Superior Tribunal de Justia assentou entendimento de que a pena de demisso deve se respaldar em prova convincente, para que no se comprometa a razoabilidade e a proporcionalidade da sano administrativa. Trago  colao os seguintes precedentes: ADMINISTRATIVO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar do Estado de Minas Gerais confirmou a sentena primeva que julgou procedente o pedido da parte autora e decretou a nulidade do ato administrativo-disciplinar demissional decorrente do PAD de Portaria n. 118.317/2015 - CPM, considerando que a absolvio do militar na esfera penal, pela atipicidade da conduta, gera repercussão na esfera administrativa, bem como que a pena de demissão deve se respaldar em prova convincente.

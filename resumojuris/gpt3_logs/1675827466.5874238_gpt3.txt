@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No ponto referente ao ICMS excluido da base de calculo das contribuicoes PIS-Cofins, prevaleceu o entendimento de que se trata do ICMS destacado nas notas fiscais, vencidos os ministros Nunes Marques, Roberto Barroso e Gilmar Mendes. RE 574706 ED/PR, relatora Min. Carmen Lucia, julgamento em 13.5.2021 (INF 1017) Lei Kandir: ICMS, fato gerador e transferencia interestadual de mercadorias - ADC 49/RN Resumo: Sao inconstitucionais o art. 11,  3, II; o trecho ainda que para outro estabelecimento do mesmo titular do art. 12, I; e o art. 13,  4, da Lei Kandir, uma vez que nao configura fato gerador da incidencia de ICMS o mero deslocamento de mercadorias entre estabelecimentos do mesmo titular, independentemente de estarem localizados na mesma unidade federativa ou em estados-membros diferentes. Acentua-se a demonstracao da existencia de controversia judicial relevante (Lei 9.868/1999, art. 14, III). Na presente acao declaratoria de constitucionalidade, a controversia verificada esta na divergencia entre o Poder Judiciario e o Poder Legislativo. Diversas sao as decisoes proferidas, em tribunais superiores e em tribunais de justica, contrarias ao estipulado na Lei Complementar (LC) 87/1996 (Lei Kandir), que preconiza a tributacao na saida de mercadoria para outro estabelecimento, localizado em estado-membro distinto e pertencente ao mesmo titular. No merito, nao prospera o pedido da declaracao de constitucionalidade dos aludidos preceitos da LC 87/1996. O principio da supremacia da Constituicao nao se concilia com a ideia de supremacia da lei e do Parlamento que, sobrevalorizados, debilitam o valor efetivo da Constituicao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional o art. 11, 3, II; o trecho ainda que para outro estabelecimento do mesmo titular do art. 12, I; e o art. 13, 4, da Lei Kandir, uma vez que não configura fato gerador da incidência de ICMS o mero deslocamento de mercadorias entre estabelecimentos do mesmo titular, independentemente de estarem localizados na mesma unidade federativa ou em estados-membros diferentes. 2. O princípio da supremacia da Constituição não se concilia com a ideia de supremacia da lei e do Parlamento que, sobrevalorizados, debilitam o valor efetivo da Constituição.

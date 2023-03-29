@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+256 do CPP, o magistrado deve declinar precisamente o porque de enxergar, na conduta do excipiente, a criacao dolosa de uma hipotese de suspeicao. No caso, o unico fato efetivamente imputado pelo Tribunal ao defensor foi sua suposta habilitacao tardia na causa, como se esse fato tivesse alguma relacao com o art. 256 do CPP. Ora, a lei nao estabelece nenhum marco temporal final para o ingresso de representantes processuais, que podem se habilitar no processo a qualquer tempo, inclusive nas instancias superiores. No presente caso, o que o aresto impugnado narra e simplesmente o acrescimo de um advogado a defesa do reu, quando o feito ainda tramitava em primeiro grau de jurisdicao, em seus estagios iniciais. Se a simples habilitacao do advogado nos autos fosse suficiente para atrair a aplicacao do art. 256 do CPP, ate mesmo seu direito fundamental a liberdade profissional (art. 5, XIII, da CR/88) ficaria prejudicado, porque somente poderia exercer sua atividade advocaticia em processos fora da competencia territorial do juizo excepto. Isso ofende, igualmente, a prerrogativa fundamental da advocacia contida no art. 7, I, da Lei n. 8.906/1994, que assegura ao advogado o direito de exercer, com liberdade, a profissao em todo o territorio nacional . O que a legislacao determina e o completo oposto: com o reconhecimento da suspeicao, e o juiz quem se remove da causa, nos termos do art. 99 do CPP, nao cabendo atribuir ao advogado - sem lei autorizadora - a obrigacao de afastar-se preventivamente dos processos conduzidos pelo magistrado suspeito, que seria o resultado pratico decorrente da interpretacao conferida pelo Tribunal de origem ao art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 256 do Código de Processo Penal não estabelece nenhum marco temporal final para o ingresso de representantes processuais. 2. A simples habilitação de um advogado nos autos não é suficiente para atrair a aplicação do art. 256 do CPP. 3. O direito fundamental à liberdade profissional (art. 5, XIII, da CR/88) e a prerrogativa fundamental da advocacia contida no art. 7, I, da Lei n. 8.906/1994, asseguram ao advogado o direito de exercer, com liberdade, a profissão em todo o território nacional. 4. Com o reconhecimento da suspeição, é o juiz quem se remove da causa, nos termos do art. 99 do CPP.

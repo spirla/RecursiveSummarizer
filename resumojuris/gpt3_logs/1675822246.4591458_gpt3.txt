@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Rosa Weber, julgamento virtual finalizado em 10.11.2021 (quarta-feira), as 23:59 (INF 1037) ACO 3475/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 10.11.2021 (quarta-feira), as 23:59 (INF 1037) ACO 3478/PI, relatora Min. Rosa Weber, julgamento virtual finalizado em 10.11.2021 (quarta-feira), as 23:59 (INF 1037) ACO 3483/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 10.11.2021 (quarta-feira), as 23:59 (INF 1037) Invasao de Terras Indigenas: intervencao da Uniao e Covid-19 - ADPF 709 TPI-Ref/DF Resumo: Cabivel o deferimento de tutela provisoria incidental em arguicao de descumprimento de preceito fundamental para adocao de todas as providencias indispensaveis para assegurar a vida, a saude e a seguranca de povos indigenas vitimas de ilicitos e problemas de saude decorrentes da presenca de invasores de suas terras, em situacao agravada pelo curso da pandemia ocasionada pelo novo coronavirus (Covid-19). No caso concreto, a verossimilhanca do direito alegado e o perigo na demora estao configurados, devendo incidir os principios da precaucao e da prevencao, conforme jurisprudencia consolidada do Supremo Tribunal Federal. Isso porque suficientemente demonstrados indicios de conflitos violentos e ameacas por invasores das Terras Indigenas (TIs) Yanomami e Munduruku, os quais, ali presentes para praticar atividades ilegais de mineracao e extracao de madeira, promovem desmatamento e contribuem com problemas de saude dessas comunidades que, ja debilitadas por quadros de desnutricao e anemia, sao contaminadas pelo mercurio usado no garimpo, e, no curso da pandemia, ficam, ainda, sujeitas ao contagio pelo Covid-19 e por outras doencas levadas pelos invasores.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É cabível o deferimento de tutela provisória incidental em alegação de descumprimento de preceito fundamental para adoção de todas as providências indispensáveis para assegurar a vida, a saúde e a segurança de povos indígenas vítimas de ilícitos e problemas de saúde decorrentes da presença de invasores de suas terras, em situação agravada pelo curso da pandemia ocasionada pelo novo coronavírus (Covid-19). 2. Estão configurados a verossimilhança do direito alegado e o perigo na demora, devendo incidir os princípios da precaução e da prevenção, conforme jurisprudência consolidada do Supremo Tribunal Federal. 3. É suficientemente demonstrado o indicio de conflitos violentos e ameaças por invasores das Terras Indígenas (TIs) Yanomami e Munduruku, os quais, ali presentes para praticar atividades ilegais de mineração e extração de madeira, promovem desmatamento e contribuem com problemas de saúde dessas comunidades que, já debilitadas por quadros de desnutrição e anemia, são contaminadas pelo mercúrio usado no garimpo, e, no curso da pandemia, ficam, ainda, sujeitas ao contágio pelo Covid-19 e por outras doenças levadas pelos invasores.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Muito embora sua construo terica da causalidade se fundamente na perspectiva prtica de Wittgenstein, sua crtica possibilita avanar na construo de uma noo de causalidade conforme a norma - uma causalidade normativa. Vives Antn reconhece que a doutrina da imputao objetiva, majoritariamente, a concebe como um exame que se desdobra em dois graus, sendo que o primeiro  constitudo pela causalidade - determinada pela teoria da condio, e o segundo por critrios valorativos de imputao. No entanto, denunciando as iluses que levam a aceitar tanto um conceito universal de causalidade natural quanto a possibilidade de reduo dos momentos valorativos que condicionam a atribuio do resultado a categorias homogneas, Vives Antn sustenta que a imputao objetiva se desenvolve por meio da concreta interpretao do significado conduta, com base no significado dos diferentes tipos de ao previstos na lei (Cdigo Penal ou legislao extravagante). Assim, sustenta que a imputao objetiva no se orienta por critrios gerais, mas, sim, por meio de prticas, interpretaes e novas prticas. A relevncia jurdico-penal da conduta, neste sistema terico, decorre da interpretao que reconhece na conduta o mesmo sentido (significado) que fundamenta a instituio do tipo de ao dos diferentes crimes previstos na legislao repressiva. Pretenso de ilicitude (antijuridicidade ou ilicitude). Na perspectiva da pretenso de ilicitude Vives considera apenas o aspecto da antijuridicidade formal da conduta, que pode ser excluda por dispositivos permissivos. Se a conduta foi realizada com dolo ou culpa, nos casos previstos em lei, a princpio deve ser considerada ilcita. A ilicitude da conduta relevante, contudo, pode ser excluda em face da concorrncia de dispositivos que outorguem um direito ou permisses fortes (causas de justificao) ou se limitem a tolerar a conduta por meio de uma permisso fraca (excusas ou causas de excluso da responsabilidade pelo fato). No exame da pretenso de ilicitude Vives Antn prope seja considerada a inteno de violao da norma, que se expressa por meio da realizao de uma conduta ofensiva ao bem jurdico no suportvel pelas exigncias do ordenamento jurdico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Vives Antn propõe uma causalidade normativa para a imputação objetiva, baseada na interpretação da conduta e no significado dos tipos de ação previstos na lei. A relevância jurdico-penal da conduta depende da intenção de violação da norma, que se expressa por meio de uma conduta ofensiva ao bem jurdico.

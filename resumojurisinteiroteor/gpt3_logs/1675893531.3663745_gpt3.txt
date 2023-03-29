@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+142 - As Foras Armadas, constitudas pela Marinha, pelo Exrcito e pela Aeronutica, so instituies nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da Repblica, e destinam-se  defesa da Ptria,  garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem. [.] VI - O oficial s perder o posto e a patente se for julgado indigno do oficialato ou com ele incompatvel, por deciso de tribunal militar de carter permanente, em tempo de paz, ou de tribunal especial, em tempo de guerra: (includo pela EC n. 18, de 1998). VII - O oficial condenado na justia comum ou militar a pena privativa de liberdade superior a dois anos, por sentena transitada em julgado, ser submetido ao julgamento previsto no inciso anterior; 2 - Sobre a aplicao aos policiais e bombeiros militares Art. 42 - Os membros das Polcias Militares e Corpos de Bombeiros Militares, instituies organizadas com base na hierarquia e disciplina, so militares dos Estados, do Distrito Federal e dos Territrios.  1 - Aplicam-se aos militares dos Estados, do Distrito Federal e dos Territrios, alm do que vier a ser fixado em lei, as disposies do art. 14,  8, do art. 40,  9, e do art. 142,  2 e 3, cabendo  lei estadual especfica dispor sobre as matrias do art. 142,  3, inciso X, sendo as patentes dos oficiais conferidas pelos respectivos governadores. (Redao dada pela EC n. 20, de 15/12/98). 3 - Sobre a previso especfica das Justias Militares Art. 125 - Os Estados organizaro sua Justia, observados os princpios estabelecidos nesta Constituio.  4 - Compete  Justia Militar estadual processar e julgar os militares dos Estados, nos crimes militares definidos em lei e as aes judiciais contra atos disciplinares militares, ressalvada a competncia do jri quando a vtima for civil, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduao das praas. No mbito estadual, a CONSTITUIO DO ESTADO DE MINAS GERAIS estabelece que: Art. 39 - So militares do Estado os integrantes da Polcia Militar e do Corpo de Bombeiros Militar, que sero regidos por estatuto prprio estabelecido em lei complementar.  7 - O Oficial somente perder o posto e a patente se for julgado indigno do oficialato ou com ele incompatvel, por deciso do Tribunal de Justia Militar, ou de tribunal especial, em tempo de guerra, e a lei especificar os casos de submisso a processo e o rito dele.  8 - O militar condenado na Justia, comum ou militar, a pena privativa de liberdade superior a dois anos, por sentena transitada em julgado, ser submetido ao julgamento previsto no pargrafo anterior. Art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+As Foras Armadas, Polcias Militares e Corpos de Bombeiros Militares constituem instituies nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, e destinam-se defesa da Ptria, garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem. O oficial s perder o posto e a patente se for julgado indigno do oficialato ou com ele incompatvel, por deciso de tribunal militar de carter permanente, em tempo de paz, ou de tribunal especial, em tempo de guerra. O militar condenado na Justia comum ou militar a pena privativa de liberdade superior a dois anos, por sentena transitada em julgado, ser submetido ao julgamento previsto.

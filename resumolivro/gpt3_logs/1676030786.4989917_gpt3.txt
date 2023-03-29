@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Percebendo que com a retrica clssica se tentava persuadir os interlocutores atravs da argumentao, Viehweg conferiu nova perspectiva para a tpica visando que, por meio dela, fosse possvel obter um entendimento. A concepo tpica do raciocnio jurdico obteve grande prestgio na Europa, mas tambm foi objeto de muitas crticas. Trcio Sampaio Ferraz reconheceu que a tpica no  propriamente um mtodo que apresenta um conjunto de princpios de avaliao das evidncias, cnones para julgar a adequao de explicaes propostas, critrios para selecionar hipteses, mas um modo de pensar por problemas, a partir deles e em direo a eles. Manuel Atienza, por sua vez, sustenta que a tpica de Viehweg e seus seguidores, por si s, no pde dar um explicao satisfatria sobre a argumentao jurdica, impedindo perceber a influncia que a lei, a dogmtica e os precedentes judiciais exercem no raciocnio jurdico. A tpica se limita a ponderar com um inventrio de tpicos (premissas) utilizveis na argumentao, mas no oferece critrios para solucionar as situaes em que se verifica o conflito entre os tpicos e no oferece uma resposta para a questo fundamental da metodologia jurdica, que diz respeito  racionalidade da deciso judicial. 2.2. A nova retrica. Outra importante reconstruo da retrica clssica foi realizada por Cham Perelman, que inicialmente se props a fazer um estudo sobre a racionalidade prtica e acabou por resgatar e reformular a antiga disciplina. Perelman escreveu vrios livros sobre a teoria da argumentao, mas sua teoria tomou forma definitiva no livro Tratado da argumentao - a nova retrica, publicado pela primeira vez em 1958 e que contou com a colaborao de Lucie Olbrechts Tyteca. O Tratado  dividido em trs partes, nas quais Perelman desenvolve o estudo sobre o mbito da argumentao, em que so estabelecidos os pressupostos e limites da argumentao; o ponto de partida da argumentao, que pressupe sempre um acordo do auditrio, e das tcnicas de argumentao, em que so alinhados os argumentos em sentido estrito. A argumentao, por sua vez, comporta trs elementos distintos: o discurso, o orador e o auditrio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Viehweg conferiu nova perspectiva à retórica clássica para obter um entendimento. Trcio Sampaio Ferraz reconheceu que a tpica não é um mtodo de avaliação de evidências, mas um modo de pensar por problemas. Manuel Atienza sustenta que a tpica não explica a argumentação jurídica. Cham Perelman reformulou a antiga disciplina da retórica, dividindo-a em três partes: mbito da argumentação, ponto de partida e técnicas de argumentação. A argumentação comporta três elementos: discurso, orador e auditório.

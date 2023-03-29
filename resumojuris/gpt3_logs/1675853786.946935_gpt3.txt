@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+5, LIV Processo REsp 2.000.959-SP, Rel. Ministra Nancy Andrighi, Rel. para acordao Ministro Ricardo Villas Boas Cueva, Terceira Turma, por maioria, julgado em 4/10/2022, DJe 13/10/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL Tema Execucao de titulo extrajudicial. Penhora e arrematacao. Usufrutuario. Necessidade de intimacao. Nulidade de algibeira. Dever de lealdade e boa-fe. DESTAQUE A nulidade de algibeira nao e aceita no processo civil. Em regra, e necessaria a intimacao do terceiro titular de direito real (v.g. usufrutuario) acerca da penhora e da alienacao judicial do bem gravado com tal direito, na forma dos arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é aceita a nulidade de algibeira no processo civil. 2. É necessária a intimação do terceiro titular de direito real acerca da penhora e da alienação judicial do bem gravado com tal direito, na forma dos arts.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No exame da culpabilidade, a valorao jurdica tem como enfoque a caracterstica da conduta de vincular-se a um sujeito determinado em um contexto de interao social tambm determinado. A finalidade, como objeto de valorao da reprovao prpria ao juzo de culpabilidade, h de propiciar anlise mais ampla do que a que se realiza no exame da tipicidade, justamente porque implicar a graduao da censura, com significativa repercusso na aplicao da pena. O conceito material de culpabilidade deve estar vinculado aos fins de determinao da pena justa, a qual somente ser identificada mediante a considerao de todos os fatores sociais que contriburam para o desencadeamento da conduta penalmente relevante. A perspectiva discursiva do Direito Penal exige que o juzo de reprovao da culpabilidade considere o contraste entre a finalidade que orientou conduta concreta e as expectativas sociais que contrariou. A finalidade da conduta, considerada como manifestao da racionalidade substancial, representa o resultado da deciso do indivduo sobre seu atuar social, sendo certo que, conscientemente, considerou os dados de sua experincia individual. Tanto os dados empricos da vivncia social como o peso desses fatores na consciente deciso do indivduo, no sentido de violar as expectativas sociais, podem ser verificados no caso concreto e servir para a graduao da reprovao que  dirigida a quem realiza o crime. Assim, a finalidade social pode fundamentar juzo de valorao concreto, que trabalha com o homem real diante de um fato socialmente determinado. No entanto, a atividade repressiva do Estado possui finalidades especficas e no se pode olvidar a questo relativa  necessidade da aplicao da pena para a realizao dessas finalidades. A reao social ao crime indica com que intensidade verifica-se a necessidade da resposta estatal e, at mesmo, se h necessidade da punio. Por isso, a concreta reao social ao crime constitui fator de anlise imprescindvel ao juzo de reprovao. Nesse aspecto, cabe observar que as necessidades de preveno geral encontram limites na culpa individual. Pretender-se que o condenado expie as tendncias criminosas dos demais membros da sociedade significa verdadeiro atentado  dignidade da pessoa humana. Desta forma, a valorao da culpabilidade realiza-se por meio da comparao entre a finalidade do acusado, agora em perspectiva que considere os dados de sua particular experincia e ambincia social, e a finalidade protetiva que a sociedade espera da norma jurdica violada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A valorao da culpabilidade é realizada por meio da comparação entre a finalidade do acusado e a finalidade protetiva esperada pela sociedade da norma jurdica violada, considerando-se os dados de sua experiência individual e ambiente social. A reação social ao crime indica a necessidade da resposta estatal e se há necessidade da punição.

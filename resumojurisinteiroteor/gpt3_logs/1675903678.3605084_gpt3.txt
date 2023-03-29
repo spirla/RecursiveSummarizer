@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+MRITO - AUTORIA E MATERIALIDADE COMPROVADAS - PROVAS APTAS A EMBASAR UM DECRETO CONDENATRIO - PENA CORRETAMENTE ESTABELECIDA, OBSERVADOS OS DITAMES LEGAIS - RECURSO IMPROVIDO - SENTENA MANTIDA. ACRDO Vistos, relatados e discutidos os presentes autos, sendo apelante Daniel Josias Ribeiro Camelo e apelado o Ministrio Pblico do Estado de Minas Gerais, acordam os desembargadores da Primeira Cmara, por maioria, em passar pela preliminar levantada pela defesa de ausncia de congruncia entre a acusao e a sentena, sendo vencido o desembargador Fernando Galvo da Rocha, que ficou na preliminar. Por unanimidade, acordam os desembargadores em passar pela segunda preliminar levantada pela defesa em plenrio. E, no mrito, por maioria, acordam em negar provimento ao recurso de apelao do ru Daniel Josias Ribeiro Camelo, mantendo intocada a sentena de primeiro grau de jurisdio. Ficou vencido o desembargador Fernando Galvo a Rocha, que deu provimento ao recurso, para absolver o apelante por insuficincia de provas, nos termos da alnea "e do artigo 439 do CPPM. RELATRIO Cuida-se de apelao criminal interposta por Daniel Josias Ribeiro Camelo contra a sentena que o condenou pela prtica do crime previsto no art. 312 (falsidade ideolgica) do Cdigo Penal Militar (CPM), impondo-lhe a pena total de 01 (um) ano e 06 (seis) meses de recluso, a ser cumprida em regime aberto, com a concesso do sursis penal pelo prazo de 02 (dois) anos. O Ministrio Pblico ofereceu denncia contra o apelante, Evento 02, aduzindo o seguinte: [...] Extrai-se do caderno investigatrio que, na data acima mencionada, o denunciado, Cap. BM Daniel, fez o denunciado, Cb. BM Helbert, inserir no REDS n 2014-021881620-001, declarao falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigao ou alterar a verdade sobre fato juridicamente relevante. Consta, ainda, que, no dia 01 de setembro de 2020, os denunciados, Cb. BM Helbert e Cap. BM Ricardo, quando de suas oitivas, negaram e/ou calaram a verdade sobre terem redigido e recebido o citado REDS, sendo que nele constam os dados dos referidos denunciados. Consta do caderno investigatrio que, na fatdica data, o Cap. BM Daniel, fez o denunciado, Cb. BM Helber, inserir no REDS n 2014. 021881620- 001, cuja descrio  evento de defesa social (fls.145/147 - Peas IMP 6), que os militares se deslocaram at a Igreja Congregao Crist no Brasil, no Bairro Esperana, Governador Valadares/MG, com a finalidade de obter a ata de reunio realizada em agosto de 2013, na qual participaram os presbteros Antnio de Paula e Joo Batista Lisboa, o denunciado, Cap. BM Daniel e as irms Fabiana Teixeira Lisboa e Tatiana Teixeira da Silva, sendo esta ltima, ex esposa do Cap. BM Daniel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Acrdo da Primeira Cmara julgou improvido o recurso de apelao interposto por Daniel Josias Ribeiro Camelo, mantendo a sentena de primeiro grau de jurisdio que o condenou pela prtica do crime previsto no art. 312 (falsidade ideolgica) do Cdigo Penal Militar (CPM), impondo-lhe a pena total de 01 (um) ano e 06 (seis) meses de recluso, a ser cumprida em regime aberto, com a concesso do sursis penal pelo prazo de 02 (dois) anos.

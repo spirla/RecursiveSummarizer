@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Entretanto, na fase de instruo, o acusado ficou 1 (um) ano e 2 (dois) meses preso preventivamente. Aplicada uma pena de 5 (cinco) anos, a prescrio da pretenso executria deve ser calculada com base no restante de pena a ser cumprida, ou seja, 3 (trs) anos e 10 (dez) meses. A prescrio da pretenso executria ocorreria em 8 (oito) anos, e no em 12 (doze) anos. Quando se tratar de pretenso punitiva, no entanto, no se poder descontar da pena mxima o tempo de privao da liberdade cautelar, para apurar-se o prazo prescricional.  que, antes de transitar em julgado, o Estado no pretende executar a pena, mas to somente constituir um ttulo executivo judicial. O prazo prescricional  proporcional  pena aplicada, e no  pena a ser executada. Nesse sentido, tambm por atingir a pretenso punitiva do Estado, no se pode pensar em detrao quando se tratar de prescrio retroativa ou intercorrente. Importa notar, ainda, que, durante o tempo de privao da liberdade cautelar, no ocorre suspenso da contagem do prazo prescricional. Nos termos do artigo 116 do CP, a suspenso da contagem ocorre quando se tratar de priso em decorrncia de cumprimento de pena no estrangeiro. O cumprimento de pena no Brasil no suspende a contagem do prazo prescricional relativo  pretenso punitiva, mas unicamente da pretenso executria (artigo 112, I, do CP). A mesma situao verifica-se quando a privao da liberdade no  pena, mas sim medida de carter processual. A prescrio correr normalmente enquanto o acusado estiver submetido  priso cautelar. Introduo ao estudo dos crimes em espcie. Classificao doutrinria. O estudo da parte especial do Cdigo Penal trata dos diversos tipos de crimes especificamente previstos para a proteo de determinados bens jurdicos. Os tipos de crimes so sistematizados no Cdigo de acordo com o critrio objetivo do bem jurdico protegido. A classificao dos crimes que leva em conta o bem jurdico ameaado ou lesionado  considerada a mais adequada pela grande maioria dos autores e  adotada pelos Cdigos Penais da atualidade, dentre os quais se inclui o brasileiro. Por isto, a correta identificao do bem jurdico que  protegido pelo tipo deve ser o primeiro passo para interpret-los. O grau de importncia conferido ao bem jurdico pelo legislador orientou a definio da ordem de apresentao dos tipos penais. O texto normativo inicia a parte especial com a definio dos crimes contra a vida humana e deixa perceber que este foi considerado como o bem jurdico de maior valor.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O acusado foi preso preventivamente por 1 ano e 2 meses, sendo aplicada uma pena de 5 anos. A prescrição da pretenso executória ocorreria em 8 anos, e não em 12 anos. Durante o tempo de privação da liberdade cautelar, não ocorre suspenso da contagem do prazo prescricional. O bem júridico mais importante é a vida humana.

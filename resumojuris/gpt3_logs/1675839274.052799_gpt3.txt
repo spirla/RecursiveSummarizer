@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, se, de um lado, deve-se, como regra, presumir a veracidade das declaracoes de qualquer servidor publico, nao se ha de ignorar, por outro lado, que a notoriedade de frequentes eventos de abusos e desvios na conducao de diligencias policiais permite inferir como pouco crivel a versao oficial apresentada no inquerito policial, maxime quando interfere em direitos fundamentais do individuo e quando se nota indisfarcavel desejo de se criar narrativa que confira plena legalidade a acao estatal. Essa relevante duvida nao pode, dadas as circunstancias concretas - avaliadas por qualquer pessoa isenta e com base na experiencia quotidiana do que ocorre nos centros urbanos - ser dirimida a favor do Estado, mas a favor do titular do direito atingido (in dubio pro libertas). Em verdade, caberia aos agentes que atuam em nome do Estado demonstrar, de modo inequivoco, que o consentimento do morador foi livremente prestado, ou que, na especie, havia em curso na residencia uma clara situacao de comercio espurio de droga, a autorizar, pois, o ingresso domiciliar mesmo sem consentimento valido do morador. Entretanto, nao se demonstrou preocupacao em documentar esse consentimento, quer por escrito, quer por testemunhas, quer, ainda e especialmente, por registro de audio-video.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Deve-se presumir a veracidade das declarações de qualquer servidor público, mas a notoriedade de frequentes eventos de abusos e desvios na condução de diligências policiais permite inferir como pouco crível a versão oficial apresentada no inquérito policial. 2. Em caso de dúvida, deve-se decidir a favor do titular do direito atingido (in dubio pro libertas). 3. É necessário que os agentes que atuam em nome do Estado demonstrem, de modo inequívoco, que o consentimento do morador foi livremente prestado. 4. É necessário documentar o consentimento, quer por escrito, quer por testemunhas, quer, ainda e especialmente, por registro de áudio-vídeo.

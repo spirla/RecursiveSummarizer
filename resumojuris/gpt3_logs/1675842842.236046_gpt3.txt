@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por isso, mostra-se indevida a condenacao pelo crime de associacao para o trafico de drogas, no qual o sistema acusatorio impoe o onus de que seja declinada a configuracao do elemento subjetivo do tipo, com a demonstracao concreta da estabilidade e da permanencia da associacao criminosa (HC 462.888/RJ, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 05/11/2018). (Informativo n. 753) PROCESSO Processo sob segredo de justica, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por maioria, julgado em 20/09/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Violencia domestica. Medidas protetivas de urgencia. Conclusao do inquerito policial sem indiciamento do recorrente. Revogacao. DESTAQUE E indevida a manutencao de medidas protetivas na hipotese de conclusao do inquerito policial sem indiciamento do acusado. 762 O STJ possui o entendimento segundo o qual as medidas de urgencia, protetivas da mulher, do patrimonio e da relacao familiar, somente podem ser entendidas por seu carater de cautelaridade - vigentes de imediato, mas apenas enquanto necessarias ao processo e a seus fins (AgRg no REsp 1.769.759/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 07/05/2019, DJe de 14/05/2019). No caso, foram deferidas medidas protetivas pelo prazo de seis meses.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É indevida a condenação pelo crime de associação para o tráfico de drogas, no qual o sistema acusatório impõe o ônus de que seja declinada a configuração do elemento subjetivo do tipo, com a demonstração concreta da estabilidade e da permanência da associação criminosa. 2. É indevida a manutenção de medidas protetivas na hipótese de conclusão do inquérito policial sem indiciamento do acusado. 3. As medidas de urgência, protetivas da mulher, do patrimônio e da relação familiar, somente podem ser entendidas por seu caráter de cautelaridade, vigentes de imediato, mas apenas enquanto necessárias ao processo e a seus fins.

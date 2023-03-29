@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Mais recentemente, a doutrina tem se inclinado por aceitar a concepo mista, segundo a qual a prescrio , ao mesmo tempo, um instituto de natureza material e processual. Os fundamentos atribudos  prescrio guardam estreita relao com a natureza reconhecida ao instituto. Em apertada sntese, as concepes substanciais encontram seus melhores argumentos na teoria do esquecimento e na teoria psicolgica. Segundo a teoria do esquecimento, a sociedade, com o passar do tempo, esquece o fato criminoso e qualquer alarme social quanto  prtica do crime deixa de existir. A pena no demonstra sua vinculao com a prtica criminosa e a sociedade tende a ter piedade do criminoso punido. Certamente, na perspectiva da preveno geral, a punio no produz os efeitos que dela se esperam. Muito ao contrrio, se vem a atingir pessoa socialmente integrada, a pena constitui motivo de insegurana e de medo. Sob a tica da preveno especial, a pena tardiamente executada tambm enfrenta dificuldades em ser aceita pelo condenado, que, ao contrrio de intimidar-se ou reeducar-se, tende a insurgir-se contra a punio. A crtica que se pode fazer  teoria do esquecimento  que, segundo o raciocnio que desenvolve, no  o crime que impe a execuo da pena, mas a recordao social do crime. Acontece, porm, que, se a pena  instrumento socialmente construtivo, fica evidente a sua inutilidade quando j no se puder fazer a vinculao de sua execuo com o crime. Somente na perspectiva absolutista-retributiva (hoje insustentvel) pode-se imaginar a imposio de pena socialmente desnecessria. Nos termos da legislao repressiva em vigor (artigo 59 do CP), a pena dever ser aplicada (e tambm executada) conforme seja necessrio e suficiente para a preveno e reprovao do crime. Sendo a pena desnecessria, a prescrio impede a concretizao do poder-dever de punir do Estado e pode-se admitir a teoria do esquecimento como fundamento vlido para o instituto. O argumento apresentado pela teoria psicolgica ressalta as alteraes psquicas ocorridas com o infrator no longo perodo de tempo transcorrido entre o crime e a incidncia da prescrio. Afirma-se ser outro o indivduo que seria julgado e/ou sofreria a pena. Com o passar do tempo, o infrator muda e j seria uma pessoa diferente quando do julgamento e da execuo da pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina tem se inclinado por aceitar a concepção mista de prescrição, segundo a qual é um instituto de natureza material e processual. As teorias do esquecimento e da psicologia são os fundamentos para a prescrição, pois a pena não produz os efeitos esperados com o passar do tempo e o infrator muda com o tempo.

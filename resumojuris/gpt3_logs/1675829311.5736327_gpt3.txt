@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+608 do CC de 2002 busca combater praticas desleais entre agentes economicos, conduta apta a demonstrar uma vontade manifesta de aliciar. Assim, a oferta de proposta mais vantajosa a artista contratado por emissora concorrente nao configura automaticamente pratica de aliciamento de prestador de servico, haja vista a ausencia de qualquer conduta voltada a concorrencia desleal ou a violacao dos deveres anexos a boa-fe objetiva, sem que se esteja com isso a desconsiderar a funcao social externa do contrato. Nao se pode afirmar que a conduta da recorrente seria parasitaria ou que teria se utilizado do investimento da concorrente no profissional pelo fato de a proposta ter sido apresentada na vigencia do contrato exatamente porque parece ser da natureza da concorrencia no mercado de entretenimento o interesse por artistas que estejam em voga, o que inevitavelmente pode decorrer da circunstancia de sua atuacao em outra emissora. (Informativo  Ed. Especial n. 9) CC, art. 608 Processo REsp 1.944.228-SP, Rel. Ministro Ricardo Villas Boas Cueva, Rel. Acd. Ministro Marco Aurelio Bellizze, Terceira Turma, por maioria, julgado em 18/10/2022, DJe 7/11/2022. Ramo do Direito DIREITO CIVIL Tema Uniao estavel. Pretensao de custeio das despesas com animais de estimacao. Fim do estado de mancomunhao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 608 do Código Civil de 2002 busca combater práticas desleais entre agentes econômicos. 2. A oferta de proposta mais vantajosa a artista contratado por emissora concorrente não configura automaticamente prática de aliciamento de prestador de serviço. 3. A conduta da recorrente não pode ser considerada parasitária ou que teria se utilizado do investimento da concorrente no profissional.

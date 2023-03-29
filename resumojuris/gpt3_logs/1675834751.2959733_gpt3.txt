@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No ambito da administracao tributaria de todos os entes federados, o art. 198 do CTN, ao mesmo tempo que veda a divulgacao de informacao obtida em razao do oficio (sobre a situacao economica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negocios ou atividade), poe em evidencia que o acesso a dados sigilosos integra o feixe de atribuicao funcional inerente ao cargo exercido pelo servidor vinculado a propria administracao tributaria. 158 Ainda vale reforcar que a publicidade e a regra nos processos judiciais e administrativos (CF art. 93, IX, e art. 37, caput), salvo as excecoes elencadas na lei por expressa determinacao constitucional, ao passo que, para os dados e registros fiscais, a regra e a do sigilo em seu acesso. Ademais, o art. 7, XIII e XV, da Lei n. 8.906/1994 (Estatuto da OAB), ao fazer referencia a processos judiciais ou administrativos em tramite ou concluidos, nao contem comando normativo apto a afastar, ou mesmo mitigar, o sigilo imposto aos dados fiscais contidos no sistema COINDICE-ICMS. Portanto, em face da protecao do sigilo fiscal, o alcance interpretativo a ser dado ao art. 3,  5, da LC n. 63/1990 nao permite franquear ao advogado contratado pelo Municipio ou pela associacao de Municipios o acesso direto aos dados relativos ao IPM-ICMS em posse da administracao tributaria. (Informativo n. 757) 159 PROCESSO AREsp 1.574.873-RJ, Rel. Min. Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 18/10/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 198 do CTN veda a divulgação de informações obtidas em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividade. 2. A regra nos processos judiciais e administrativos é a publicidade, salvo as exceções elencadas na lei por expressa determinação constitucional. 3. A regra para os dados e registros fiscais é o sigilo em seu acesso. 4. O art. 3, § 5, da LC n. 63/1990 não permite franquear ao advogado contratado pelo Município ou pela associação de Municípios o acesso direto aos dados relativos ao IPM-ICMS em posse da administração tributária.

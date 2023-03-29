@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Jescheck informa que, na Alemanha, a doutrina e a jurisprudncia dominantes admitem, com base no direito consuetudinrio, o direito de o professor impor castigos corporais ao aluno, desde que concorra um motivo suficiente, a finalidade educativa e o exerccio moderado. Lamentavelmente, em um passado recente da experincia brasileira, tambm foi considerado tradicional o ensino rgido que poderia chegar aos castigos corporais. No entanto, contrariando a posio dominante em seu pas, o penalista alemo sustenta que tal entendimento deve ser rejeitado. Com certeza, o direito de correo do professor ope-se ao direito fundamental de integridade fsica, e a correta soluo para o conflito indica a prevalncia do direito  integridade fsica. O tema do direito correcional alerta para o fato de que a regularidade do exerccio do direito deve ser apurada a partir da conciliao entre os diversos direitos que regulam a vida em sociedade. Todo direito tem limite no respeito ao direito alheio. Regularidade do exerccio. Por referncia expressa, a justificao pelo exerccio do direito exige observar a regularidade de seu exerccio. A regularidade do exerccio do direito  um requisito objetivo a ser satisfeito para o reconhecimento da licitude da conduta. Nesse aspecto, qualquer inobservncia das formalidades necessrias para o exerccio do direito transforma essa conduta em um ato abusivo e ilcito. S diante das peculiaridades do caso concreto poder-se- constatar a regularidade ou irregularidade do exerccio do direito que pode dar suporte  conduta que se pretenda justificar. Elemento subjetivo. Tambm a justificao pelo exerccio regular do direito exige que a conduta lesiva tenha sido orientada por vontade compatvel com a satisfao dos requisitos objetivos que se pode extrair do tipo permissivo. Portanto, o sujeito deve conhecer a existncia do direito e motivar sua conduta para exerc-lo, fielmente e sem abusos. 4.9.5. Uso legitimo da fora para compelir subalternos. O pargrafo nico do artigo 42 do Cdigo Penal Militar prev uma causa de excluso de ilicitude que  especfica para a atuao de comandantes militares. Segundo o referido dispositivo, no h crime quando o comandante de navio, aeronave ou praa de guerra, na iminncia de perigo ou grave calamidade, compele os subalternos, por meios violentos, a executar servios e manobras urgentes, para salvar a unidade ou vidas, ou evitar o desnimo, o terror, a desordem, a rendio, a revolta ou o saque.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Na Alemanha, a doutrina e a jurisprudência admitem o direito do professor de impor castigos corporais ao aluno, desde que haja motivo suficiente e exerccio moderado. No Brasil, foi considerado tradicional o ensino rgido com castigos corporais. O penalista alemo rejeita tal entendimento, pois o direito de correção do professor se opõe ao direito fundamental de integridade física. O uso legítimo da força para compelir subalternos é previsto no Código Penal Militar.

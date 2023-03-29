@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido:
+ACAO CAUTELAR INOMINADA - PEDIDO LIMINAR - AGRAVO DE INSTRUMENTO - ANTECIPACAO DOS EFEITOS DA TUTELA - IMPOSSIBILIDADE - LAUDO DE JCS NAO REFUTADO - PROCESSO ADMINISTRATIVO APLICADO SOB A EGIDE DO CONTRADITORIO - AUSNCIA DE PROVA INEQUIVOCA - Inexistindo prova inequivoca das alegacoes, nao deve ser anulado, em sede de Acao Cautelar Inominada, ato de demissao praticado por autoridade competente, com observacao da legislacao que rege a materia, por meio de Processo Administrativo que observou os principios constitucionais do contraditorio e da ampla defesa.- A Junta Central de Saude da Policia Militar atua de forma imparcial perante a Administracao Militar e os pareceres dela emanados gozam de presuncao de validade, principio segundo o qual, ate que provado o contrario, os atos administrativos foram legalmente praticados. (TJM-MG: Agravo de Instrumento 052 - Proc. 705/07 - AC - 3 AJME, Rel. Juiz Cel BM Osmar Duarte Marcelino, publicado em 11/03/2008)
+b) Resultados que podem advir da pericia psicopatologica e sua consequncia processual
+ Constatacao de inimputabilidade: o PAD sera arquivado, sem resolucao de merito, e o laudo pericial sera enviado a DRH para fins de avaliacao quanto a reforma do militar por incapacidade fisica ou mental (artigo 73, paragrafo unico, do CEDM e artigos 248, paragrafo 3, e 350, paragrafo 4, do MAPPA).  Confirmacao da imputabilidade: o PAD sera dessobrestado pelo Presidente da Comissao e os trabalhos terao seguimento nos demais atos de instrucao.  Confirmacao da semi-imputabilidade: o PAD sera dessobrestado pelo Presidente da Comissao e os trabalhos terao seguimento, ja que o CEDM determina o arquivamento somente no caso de inimputabilidade caracterizada pela insanidade mental.  Laudo inconclusivo: refere-se aquela situacao em que a JCS nao tem elementos para afirmar se, ao tempo do fato, o acusado tinha capacidade ou nao de entender o carater ilicito do fato.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Acao Cautelar Inominada não pode ser anulada em sede de Processo Administrativo, pois não há prova inequívoca das alegações. A Junta Central de Saúde da Polícia Militar atua de forma imparcial e os pareceres dela emanados gozam de presunção de validade. Os resultados da perícia psicopatológica podem resultar na constatação de inimputabilidade, confirmação da imputabilidade ou semi-imputabilidade, ou laudo inconclusivo.

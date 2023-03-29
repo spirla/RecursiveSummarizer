@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Consoante recente entendimento desta Corte, a protecao de dados pessoais e a autodeterminacao in-formacional sao direitos fundamentais autonomos, dos quais decorrem tutela juridica especifica e dimensao normativa propria. Assim, e necessaria a instituicao de controle efetivo e transparente da coleta, armazenamen-to, aproveitamento, transferencia e compartilhamento desses dados, bem como o controle de politicas publicas que possam afetar substancialmente o direito fundamental a protecao de dados. Na especie, o Decreto 10.046/2019, da Presidencia da Republica, dispoe sobre a governanca no com-partilhamento de dados no ambito da Administracao Publica federal e institui o Cadastro Base do Cidadao e o Comite Central de Governanca de Dados. Para a sua plena validade, e necessario que seu conteudo seja interpretado em conformidade com a CF/88, subtraindo do campo semantico da norma eventuais aplicacoes ou interpretacoes que conflitem com o direito fundamental a protecao de dados pessoais. Com base nesse entendimento, o Tribunal, por maioria, julgou parcialmente procedentes as acoes, pa-ra conferir interpretacao conforme a CF/88 ao Decreto 10.046/2019, nos seguintes termos: 1. O compartilhamento de dados pessoais entre orgaos e entidades da Administracao Publica, pressupoe: a) eleicao de propositos legitimos, especificos e explicitos para o tratamento de dados (art. 6, inciso I, da Lei 13.709/2018); b) compatibilidade do tratamento com as finali-dades informadas (art. 6, inciso II); c) limitacao do compartilhamento ao minimo necessario pa-ra o atendimento da finalidade informada (art. 6, inciso III); bem como o cumprimento integral dos requisitos, garantias e procedimentos estabelecidos na Lei Geral de Protecao de Dados, no que for compativel com o setor publico. 2. O compartilhamento de dados pessoais entre orgaos publicos pressupoe rigorosa ob-servancia do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A proteção de dados pessoais e a autodeterminação informacional são direitos fundamentais autonomos, dos quais decorrem tutela jurídica específica e dimensão normativa própria. 2. É necessária a instituição de controle efetivo e transparente da coleta, armazenamento, aproveitamento, transferência e compartilhamento desses dados, bem como o controle de políticas públicas que possam afetar substancialmente o direito fundamental à proteção de dados. 3. O compartilhamento de dados pessoais entre órgãos e entidades da Administração Pública pressupõe: a) eleição de propósitos legítimos, específicos e explícitos para o tratamento de dados; b) compatibilidade do tratamento com as finalidades informadas; c) limitação do compartilhamento ao mínimo necessário para o atendimento da finalidade informada; bem como o cumprimento integral dos requisitos, garantias e procedimentos estabelecidos na Lei Geral de Proteção de Dados, no que for compatível com o setor público.

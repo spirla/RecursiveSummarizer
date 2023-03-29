@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, a atuacao do Ministerio Publico Estadual decorreu da provocacao realizada pelo Conselho Administrativo de Defesa Economica (CADE), que, durante a apuracao de infracoes administrativas, identificou a possivel pratica de infracoes aos consumidores locais, inclusive de ordem criminal, as quais ensejariam apuracoes e diligencias mais especificas a serem promovidas pelo orgao ministerial. Essa investigacao foi recebida pelas promotorias competentes que solicitaram apoio do GAECO para a producao de relatorios complexos. Conclui-se, portanto, que o GAECO atuou em conjunto com as promotorias criminais e de defesa do consumidor, mediante previa solicitacao, nao havendo falar em nulidade ou em violacao do principio do promotor natural. Em vista disso, a atuacao do GACEO neste caso nao configurou violacao do principio do promotor natural. (Informativo n. 751) PROCESSO Processo sob segredo de justica, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 02/08/2022, DJe 08/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Acordo de nao persecucao penal - ANPP. Ausencia dos requisitos subjetivos legais. Recusa no oferecimento do acordo por parte do Ministerio Publico. Fundamentacao idonea. Legalidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A atuação do Ministério Público Estadual decorreu da provocação realizada pelo Conselho Administrativo de Defesa Econômica (CADE). 2. O GAECO atuou em conjunto com as promotorias criminais e de defesa do consumidor, mediante previa solicitação. 3. A atuação do GACEO neste caso não configurou violação do princípio do promotor natural. 4. Ausência dos requisitos subjetivos legais para o oferecimento do acordo de não persecução penal. 5. Fundamentação idônea para a recusa no oferecimento do acordo por parte do Ministério Público. 6. Legalidade da recusa no oferecimento do acordo.

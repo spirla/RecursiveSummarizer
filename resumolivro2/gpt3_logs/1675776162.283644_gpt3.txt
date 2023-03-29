@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No regime de sigilo, a autoridade de polcia judiciria militar pode negar ao advogado acesso aos elementos de prova ainda no documentados, mesmo porque algumas diligncias policiais, embora finalizadas, no podem ser documentadas (introduzidas nos autos), eis que acarretam descontinuidade s investigaes. O STF firmou o entendimento que o regime de sigilo da Lei de Organizaes Criminosas, que exige autorizao judicial,  ainda mais rigoroso e guarda perfeita compatibilidade com a Smula Vinculante 14. O artigo 23 da Lei 12.850/2013 dispe:
+para garantia da celeridade e da eficcia das diligncias investigatrias, assegurando-se ao defensor, no interesse do representado, amplo acesso aos elementos de prova que digam respeito ao exerccio do direito de defesa, devidamente precedido de autorizao judicial, ressalvados os referentes s diligncias em andamento. A oficialidade  uma caracterstica do IPM vinda do fato de a investigao ser realizada pelas autoridades de polcia judiciria militar, sendo proibida a participao de agentes estranhos (ex. agente da ABIN). O IPM  um procedimento dispensvel, sem prejuzo de diligncia requisitada pelo Ministrio Pblico, em trs hipteses do artigo 28 do CPPM:
+a) quando o fato e sua autoria j estiverem esclarecidos por documentos ou outras provas materiais;
+b) nos crimes contra a honra, quando decorrerem de escrito ou publicao, cujo autor esteja identificado;
+e c) nos crimes previstos nos artigos 341 e 349 do Cdigo Penal Militar. 6.2.2. Suficincia do APF. Reza o artigo 27 do CPPM:
+Se, por si s, for suficiente para a elucidao do fato e sua autoria, o auto de priso em flagrante constituir o inqurito, dispensando outras diligncias, salvo o exame de corpo de delito no crime que deixe vestgios, a identificao da coisa e a sua avaliao, quando o seu valor influir na aplicao da pena. A remessa dos autos, com breve relatrio da autoridade de polcia judiciria militar, far-se- sem demora ao juiz competente, nos termos do artigo 20. O APF no  forma de iniciar o IPM, ao contrrio, o constitui quando suficiente para elucidao do fato e de sua autoria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O regime de sigilo da Lei de Organizações Criminosas exige autorização judicial para acesso aos elementos de prova. O IPM é realizado por autoridades de polícia judiciária militar e o Auto de Prisão em Flagrante (APF) pode constituir o inquérito policial militar quando suficiente para elucidao do fato e de sua autoria.

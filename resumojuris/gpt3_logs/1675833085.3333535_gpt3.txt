@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, verifica-se que remanesce a premissa dos antigos precedentes que reconheceram a constitucionalidade e a legalidade da penhora do bem de familia do fiador de contrato de locacao residencial, por haver prevalencia ao principio da autonomia de vontade e ao direito de propriedade, atraindo, assim, a incidencia do velho brocardo latino: ubi eadem ratio, ibi eadem legis dispositio, ou em vernaculo: onde existe a mesma razao fundamental, prevalece a mesma regra de Direito. Deveras, o fiador, no pleno exercicio de seu direito de propriedade de usar, gozar e dispor da coisa (CC, art. 1.228), pode afiancar, por escrito (CC, art. 819), o contrato de locacao (residencial ou comercial), abrindo mao da impenhorabilidade do seu bem de familia, por sua livre e espontanea vontade, no ambito de sua autonomia privada, de sua autodeterminacao. Alias, admitir o contrario se constituiria, a um so tempo, clara violacao do principio da boa-fe objetiva (RE 1.303.711, Rel. Min. Nunes Marques, Dje de 19/3/2021). 85 Nao se pode olvidar que entender de forma diversa (reconhecendo a impenhorabilidade do imovel do fiador) acabaria por ensejar grave impacto na liberdade de empreender do locatario e no direito de propriedade do fiador, notadamente porque a fianca e sabidamente a garantia menos custosa e a mais aceita pelos locadores. Afastar a protecao do bem de familia foi o instrumento juridico de politicas publicas que o Estado se valeu para enfrentar o problema publico da ausencia de moradia e de fomento da atividade empresarial decorrente das dificuldades impostas aos contratos de locacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Prevalece o princípio da autonomia de vontade e o direito de propriedade para a penhora do bem de família do fiador de contrato de locação residencial. 2. O fiador, no pleno exercício de seu direito de propriedade, pode afiançar, por escrito, o contrato de locação (residencial ou comercial), abrindo mão da impenhorabilidade do seu bem de família, por sua livre e espontânea vontade. 3. Reconhecer a impenhorabilidade do imóvel do fiador acarretaria grave impacto na liberdade de empreender do locatário e no direito de propriedade do fiador. 4. Afastar a proteção do bem de família foi o instrumento jurídico de políticas públicas que o Estado se valeu para enfrentar o problema público da ausência de moradia e de fomento da atividade empresarial decorrente das dificuldades impostas aos contratos de locação.

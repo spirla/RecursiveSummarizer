@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Sempre dependente da interveno de pessoa fsica, que responde criminalmente de maneira subjetiva, a pessoa jurdica no apresenta elemento subjetivo ou conscincia da ilicitude que viabilize comparao com as construes da teoria do crime. A responsabilidade da pessoa fsica  subjetiva, pois se deve aplicar a teoria do crime com suas exigncias de natureza subjetiva. A responsabilidade da pessoa jurdica, no entanto, decorre da relao objetiva que a relaciona ao autor do crime. Considerando a pessoa jurdica isoladamente, os critrios para sua responsabilidade so objetivos. No entanto, a pessoa jurdica s pode ser responsabilizada quando houver interveno de pessoa fsica, e a anlise da conduta desta sempre possui aspectos de natureza subjetiva. H que se ressaltar, contudo, que, para a responsabilizao da pessoa jurdica, no  necessria a responsabilidade da pessoa fsica que concretamente viola a norma jurdica, posto que esta pode no ter cometido um fato tpico (diante da ausncia de elemento subjetivo, como no caso de erro) ou pode ter agido sem culpabilidade (sob coao moral irresistvel, por exemplo, como no caso de ameaa de perder o emprego). 9.5.4. Autoria colateral. Quando diversas pessoas atuam como autores, visando a alcanar o mesmo resultado punvel, mas sem vnculo psicolgico entre si, no se pode falar em coautoria. A convergncia do elemento subjetivo  requisito fundamental do concurso de pessoas. Portanto, ausente a vinculao subjetiva entre os autores, no se pode reconhecer a ocorrncia de qualquer das formas de concurso de pessoas. Essa situao retrata o que a doutrina denomina autoria colateral. A autoria colateral proporciona dificuldades prticas na apurao da responsabilidade penal dos autores, no que diz respeito  identificao daquele que realmente tenha produzido o resultado pretendido por todos. Como cada autor atua sem vinculao ou conhecimento da interveno do outro, o resultado alcanado por um no pode ser atribudo ao outro. Nesses casos, apesar de os meios utilizados pelos autores serem objetivamente idneos  produo do resultado, o alcance deste por um dos autores inviabiliza a possibilidade de alcance pelo outro. Identificado o autor que produziu o resultado, a responsabilizao deste deve dar-se por crime consumado, enquanto a dos outros, por crime tentado. No sendo possvel estabelecer qual dos autores produziu o resultado, devido a deficincias da prova, no se pode imputar o resultado a qualquer dos autores.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A responsabilidade penal da pessoa jurdica depende da interveno de uma pessoa fsica, cuja conduta deve ser analisada de forma subjetiva. Quando diversas pessoas atuam para alcanar o mesmo resultado punvel, mas sem vnculo psicolgico entre si, a responsabilizao dos autores difcil. O autor que produzir o resultado ser responsabilizado por crime consumado, enquanto os outros sero responsabilizados por crime tentado. Se no for possvel estabelecer qual dos autores produziu o resultado, nenhum deles ser responsabilizado.

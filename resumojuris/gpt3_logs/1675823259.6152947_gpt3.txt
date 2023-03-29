@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Contudo, nao se considera que decorra omissao inconstitucional para as demais hipoteses previstas na lei nao importando sua condicao socioeconomica [art. 1, caput ]. O Estado nao pode ser segurador universal e distribuir renda a todos os brasileiros, independentemente de criterio socioeconomico. Na CF, nao ha qualquer determinacao de atuacao estatal nesse sentido. Constata-se existir protecao insuficiente de combate a pobreza, a recomendar a correcao de rumos. Nao se desconhece que a Lei 10.836/2004 estabeleceu o Programa Bolsa Familia como um conjunto de acoes de transferencia de renda com condicionalidade e que, dentre seus objetivos basicos, esta o de combater a pobreza (Decreto 5.209/2004, art. 5, IV). Entretanto, ha tutela insuficiente quanto ao combate a pobreza e a extrema pobreza. A respeito, registra-se que os direitos fundamentais tambem podem ser traduzidos como proibicoes de protecao insuficiente ou imperativos de tutela. Conforme o Decreto 5.209/2004, caracteriza-se renda familiar mensal em situacao de pobreza e de extrema pobreza o valor per capita de ate R$ 178,00 (cento e setenta e oito reais) e de ate R$ 89,00 (oitenta e nove reais), respectivamente (Decreto 5.209/2004). Nas atualizacoes ao longo do tempo, houve indiretamente diminuicao real do valor limite para fins de enquadramento na linha de corte. Milhoes de pessoas foram excluidas dele, embora estivessem abaixo da linha da pobreza, segundo criterios socioeconomicos mundiais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Estado não pode ser segurador universal e distribuir renda a todos os brasileiros, independentemente de critério socioeconômico. 2. O Programa Bolsa Família tem como objetivo básico o combate à pobreza. 3. Os direitos fundamentais também podem ser traduzidos como proibições de proteção insuficiente ou imperativos de tutela. 4. O valor per capita para caracterizar renda familiar mensal em situação de pobreza é de até R$ 178,00 e de extrema pobreza é de até R$ 89,00. 5. A atualização ao longo do tempo resultou na diminuição real do valor limite para fins de enquadramento na linha de corte, excluindo milhões de pessoas abaixo da linha da pobreza.

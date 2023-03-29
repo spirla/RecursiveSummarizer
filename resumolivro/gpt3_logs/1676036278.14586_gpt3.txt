@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O pargrafo 1 do artigo 291 da Lei 9.503, de 23 de setembro de 1997 - Cdigo de Trnsito Brasileiro, determina que aplica-se aos crimes de trnsito de leso corporal culposa o disposto nos artigos 74, 76 e 88 da Lei 9.099, de 26 de setembro de 1995, exceto se o agente estiver: I - sob a influncia de lcool ou qualquer outra substncia psicoativa que determine dependncia; II - participando, em via pblica, de corrida, disputa ou competio automobilstica, de exibio ou demonstrao de percia em manobra de veculo automotor, no autorizada pela autoridade competente; III - transitando em velocidade superior  mxima permitida para a via em 50 km/h (cinquenta quilmetros por hora). O dispositivo no excepciona a aplicao dos institutos da Lei 9.099/95 no mbito da Justia Militar (o que ocorre com o artigo 90-A da referida Lei) e no parece justificvel e constitucional que a ao penal seja pblica condicionada para o caso de crimes praticados por policial civil e pblica incondicionada para o caso de crimes praticados por policial militar. Por isso, deve-se concluir que foram incorporados ao Direito Penal Militar crimes perseguidos por ao pblica condicionada  representao. Em todos os casos em que for necessrio examinar se a caracterizao retroativa da natureza militar ao crime  mais benfica ao indiciado/ru deve-se considerar as peculiaridades do caso concreto. 5.3.2.2. Encaminhamento  polcia judiciaria militar/Justia Militar. Reconhecida a retroatividade da norma que caracteriza a conduta como crime militar, o caminho natural  encaminhar o inqurito policial  instituio militar a que pertena o indiciado para prosseguir a investigao dos fatos por meio de inqurito policial militar ou o processo criminal  justia Militar para a sua continuidade e julgamento. Por expressa determinao constitucional, cabe  justia Militar processar e julgar os crimes militares definidos em lei (artigo 124 e 125, pargrafo 4) e, conciliando-se com tal determinao,  atribuio da Polcia Judiciria Militar a apurao dos crimes militares (artigo 8 do CPPM). No entanto, h que se considerar o entendimento consolidado nos Tribunais Superiores (STF - HC 78.320-SP e STJ - HC 228856-SP) no sentido de que se j houver deciso de primeiro grau a competncia firma-se no segmento do Poder Judicirio em que foi proferida a deciso para fins de exame do recurso eventualmente interposto.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 291 da Lei 9.503/97 determina que aplica-se aos crimes de leso corporal culposa o disposto nos artigos 74, 76 e 88 da Lei 9.099/95, exceto se o agente estiver sob a influncia de lcool ou substncia psicoativa, participando de corrida, disputa ou competio automobilstica não autorizada, ou transitando em velocidade superior mxima permitida. A Justia Militar tem competência para processar e julgar os crimes militares definidos em lei, sendo atribuição da Polícia Judiciária Militar a apuração dos mesmos.

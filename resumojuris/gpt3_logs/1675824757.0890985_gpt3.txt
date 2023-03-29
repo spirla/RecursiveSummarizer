@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Normas estaduais, legais ou constitucionais, que disponham sobre o ingresso na carreira da magistratura violam o art. 93, caput, da CF/88 (CF), por usurpar iniciativa legislativa privativa do Supremo Tribunal Federal (STF). Com base nesse entendimento o Plenario, por unanimidade, julgou procedentes os pedidos formulados em acoes diretas para declarar a inconstitucionalidade do art. 141, VI, da Lei 12.342/1994 do Estado do Ceara; do art. 195,  5, da Lei 1.511/1994 do Estado do Mato Grosso do Sul; e do art. 50,  4, da Lei Complementar 94/1993 do Estado de Rondonia. ADI 6794/CE, relator Min. Gilmar Mendes, julgamento virtual finalizado em 24.9.2021 (sexta-feira), as 23:59 (INF 1031) ADI 6795/MS, relator Min. Gilmar Mendes, julgamento virtual finalizado em 24.9.2021 (sexta-feira), as 23:59 (INF 1031) ADI 6796/RO, relator Min. Gilmar Mendes, julgamento virtual finalizado em 24.9.2021 (sexta-feira), as 23:59 (INF 1031) Projeto de conversao de medida provisoria e emenda parlamentar  ADI 6928/DF Resumo: O Poder Legislativo pode emendar projeto de lei de conversao de medida provisoria quando a emenda estiver associada ao tema e a finalidade original da medida provisoria. A exigencia de correlacao de conteudos entre a medida provisoria e o projeto de lei de sua conversao nao tem forca para afastar a atribuicao de, no curso do processo legislativo, propor emendas as medidas provisorias. Essa faculdade do legislador e inerente ao controle democratico dos atos do Poder Executivo e pode eventualmente resultar em acrescimos ou modificacoes em seu texto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Normas estaduais, legais ou constitucionais, que disponham sobre o ingresso na carreira da magistratura violam o art. 93, caput, da CF/88. 2. O Plenario julgou procedentes os pedidos formulados em acoes diretas para declarar a inconstitucionalidade do art. 141, VI, da Lei 12.342/1994 do Estado do Ceara; do art. 195, 5, da Lei 1.511/1994 do Estado do Mato Grosso do Sul; e do art. 50, 4, da Lei Complementar 94/1993 do Estado de Rondonia. 3. O Poder Legislativo pode emendar projeto de lei de conversao de medida provisoria quando a emenda estiver associada ao tema e a finalidade original da medida provisoria. 4. A exigencia de correlacao de conteudos entre a medida provisoria e o projeto de lei de sua conversao nao tem forca para afastar a atribuicao de, no curso do processo legislativo, propor emendas as medidas provisorias.

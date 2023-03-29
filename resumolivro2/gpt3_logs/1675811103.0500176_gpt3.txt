@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Lei 11.719/2008 estabeleceu, no artigo 395 do Cdigo de Processo Penal, que a denncia ou a queixa ser rejeitada quando:
+I - for manifestamente inepta;
+II - faltar pressuposto processual ou condio para o exerccio da ao penal;
+ou III - faltar justa causa para o exerccio da ao penal. 15.6.2.1. Rejeio por inpcia da denncia ou queixa. A denncia ou a queixa so rejeitadas se manifestamente ineptas por faltar individualizao da conduta nos crimes coletivos. Adverte Aury Lopes Jnior que se deve individualizar as condutas de modo que a denncia seja determinada e certa, no sentido da individualizao das responsabilidades penais a serem apuradas no processo. Contudo, salienta o ilustre autor que a jurisprudncia brasileira tem oscilado muito, predominando o entendimento de que, em situaes excepcionais, diante da gravidade e complexidade objetiva (situao ftica) e subjetiva (nmero de agentes) do fato, deve-se admitir a denncia genrica, que no individualiza plenamente a conduta de cada agente, desde que no inviabilize o direito de defesa (eis aqui o problema...). Pondera Denlson Feitoza que a conduta de cada autor ou partcipe deve ser individualizada. Todavia, a jurisprudncia tem admitido que, nos crimes de autoria coletiva ou conjunta, a denncia possa narrar genericamente a participao de cada agente, cuja conduta especfica ser apurada no curso do processo, desde que se permita o direito de defesa. Tambm por esse prisma entende Jlio Fabbrini Mirabete que no se pode exigir que a denncia discrimine os atos especficos de cada um. Havendo a descrio nica, mas homognea, da conduta dos agentes que no tenham praticado atos isolados e distintos,  de ser recebida. Com efeito, precedentes do STF firmaram o entendimento de que, em se tratando de crimes de autoria coletiva,  suficiente, na denncia, a descrio genrica dos fatos, reservando-se  instruo processual a individualizao da conduta de cada acusado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 11.719/2008 estabelece que a denncia ou queixa ser rejeitada quando for manifestamente inepta, faltar pressuposto processual ou condição para o exerccio da ação penal ou faltar justa causa para o exerccio da ação penal. A jurisprudência brasileira admite que, nos crimes de autoria coletiva ou conjunta, a denncia possa narrar genericamente a participação de cada agente, desde que se permita o direito de defesa.

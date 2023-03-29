@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, ao apreciar o Tema 818 da repercussao geral, o Plenario, por maioria, deu parcial provimento ao recurso extraordinario. Vencidos o ministro Marco Aurelio (relator), que deu provimento ao recurso, e o ministro Alexandre de Moraes, que lhe negou provimento. RE 858075/RJ, relator Min. Marco Aurelio, redator do acordao Min. Roberto Barroso, julgamento virtual finalizado em 14.5.2021 (sexta-feira), as 23:59 (INF 1017) Lei Geral de Antenas e direito de passagem - ADI 6482/DF ODS 9 e 17 Resumo: O legislador federal, para garantir a universalizacao e a prestacao eficiente dos servicos de telecomunicacoes, pode  por excecao normativa explicita  impedir a cobranca de preco publico pelo uso das faixas de dominio. O regramento do direito de passagem previsto na Lei Geral das Antenas [Lei 13.116/2015, art. 12, caput ] se insere no ambito da competencia privativa da Uniao para legislar sobre telecomunicacoes [CF/88 (CF), art. 22, IV ] e sobre normas gerais de licitacao e contratacao administrativa [CF, art. 22, XXVII ]. A edicao da Lei Geral das Antenas recai no ambito da competencia privativa da Uniao para legislar sobre telecomunicacoes e materializa decisao evidente de afastar a possibilidade de os estados-membros e municipios legislarem sobre o tema. A disciplina regulamentada no art. 12 da aludida legislacao, impugnado nesta acao, divisou necessaria uniformizacao nacional do assunto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O legislador federal pode, por exceção normativa explicita, impedir a cobrança de preço público pelo uso das faixas de domínio. 2. O regramento do direito de passagem previsto na Lei Geral das Antenas se insere no âmbito da competência privativa da União para legislar sobre telecomunicações. 3. A edição da Lei Geral das Antenas recai no âmbito da competência privativa da União para legislar sobre telecomunicações e materializa decisão evidente de afastar a possibilidade de os estados-membros e municípios legislarem sobre o tema. 4. A disciplina regulamentada no art. 12 da aludida legislação divisou necessária uniformização nacional do assunto.

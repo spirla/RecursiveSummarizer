@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Segundo tal disposio, no caso de concurso de crimes, a extino da punibilidade incidir sobre a pena de cada um, isoladamente. Isso significa que a contagem do prazo ter incio em relao a cada crime inserido no contexto da continuidade criminosa, considerando-se suas peculiaridades (consumao, tentativa e permanncia), e no no dia em que vier a cessar a continuidade. Considerando cada crime isoladamente, a prescrio poder alcanar apenas parte das condutas criminosas, descaracterizando-se ou no o crime continuado. Tambm no h previso legal para a contagem do prazo no crime habitual. Como se sabe, o crime habitual  aquele em que  necessria a reiterao da conduta para a sua caracterizao. O crime habitual no se confunde com o crime continuado. Enquanto no crime continuado cada fato isoladamente considerado constitui crime (concurso de crimes), no crime habitual, a reiterao da conduta  necessria para caracterizar um s crime. O crime habitual tambm no se identifica com o crime permanente. No crime permanente, no se exige a reiterao de qualquer conduta. Por isso, no  correto conferir ao crime habitual a mesma soluo dada ao crime continuado ou ao permanente. Tal analogia  manifestamente prejudicial aos interesses do ru. No havendo regra especfica para o crime habitual, deve-se aplicar a regra de que o prazo tem incio no dia em que o crime estiver consumado. Tratando-se de crimes habituais, a contagem do prazo prescricional tem incio quando a reiterao for suficiente para produzir a consumao do crime. A contagem do prazo nos crimes de bigamia e nos de falsificao ou alterao de assentamento do registro civil, nos termos do inciso IV do artigo 111 do CP, ter incio na data em que o fato tornou-se conhecido. Vale observar que o casamento que caracteriza a bigamia e o assentamento falsificado ou alterado do registro civil so atos pblicos, isto , so atos expostos ao conhecimento pblico, no momento de sua prtica. Por isso, no se pode entender que a contagem do prazo prescricional tenha incio no dia em que ocorreu o segundo casamento ou a falsificao do registro civil. Se essa fosse a finalidade da lei, no haveria necessidade da disposio especfica do inciso IV, pois seria o caso de aplicar-se a regra do inciso I.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A extinção da punibilidade em casos de concurso de crimes incide sobre a pena de cada um isoladamente, considerando suas peculiaridades (consumado, tentativa e permanência). No crime habitual, a contagem do prazo prescricional tem incio quando a reiteração for suficiente para produzir a consumação do crime. No caso de bigamia e falsificação ou alteração de assentamento do registro civil, a contagem do prazo tem incio na data em que o fato tornou-se conhecido.

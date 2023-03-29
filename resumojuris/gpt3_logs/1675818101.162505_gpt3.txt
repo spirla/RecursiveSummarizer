@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: Os municipios  no limite de seu interesse local e desde que em harmonia com a disciplina esta-belecida pelos demais entes federados  possuem competencia para legislar sobre meio ambiente, e, caso sua regulamentacao seja mais protetiva, pode ter prevalencia sobre a legislacao federal ou estadual. A protecao ao meio ambiente e, concomitantemente, competencia administrativa comum a todos os entes federativos (CF/88, art. 23, VI) e competencia legislativa concorrente da Uniao, dos estados e do Dis-trito Federal (CF/88, art. 24, VI). Alem disso, quando o assunto e de interesse predominantemente local e demanda acao urgente, o ente municipal pode legislar suplementarmente (CF/88, art. 30, I e II), estabelecen-do normas especificas e, em sendo o caso, tambem normas gerais, sempre que necessario ao exercicio de com-petencias materiais, comuns ou privativas. Nesse contexto, a restricao da circulacao de sacolas plasticas se amolda aos requisitos para a compe-tencia supletiva dos municipios, dada a gravidade dos impactos ambientais e a maior facilidade em reunir os agentes da cadeia produtiva do plastico. Ademais, o orgao legislador municipal privilegiou o principio da protecao ao meio ambiente equili-brado (CF/88, art. 225), em regulamentacao da maxima fruicao da liberdade juridica dos particulares e da livre exploracao de atividades economicas (CF/88, art. 1, IV, art. 5, I, e art. 170).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os municípios possuem competência para legislar sobre meio ambiente, desde que em harmonia com a disciplina estabelecida pelos demais entes federados. 2. A proteção ao meio ambiente é competência administrativa comum a todos os entes federativos. 3. A proteção ao meio ambiente é competência legislativa concorrente da União, dos estados e do Distrito Federal. 4. Quando o assunto é de interesse predominantemente local e demanda ação urgente, o ente municipal pode legislar suplementarmente. 5. A restrição da circulação de sacolas plásticas se amolda aos requisitos para a competência supletiva dos municípios. 6. O princípio da proteção ao meio ambiente equilibrado deve ser privilegiado em regulamentação da máxima fruição da liberdade jurídica dos particulares e da livre exploração de atividades econômicas.

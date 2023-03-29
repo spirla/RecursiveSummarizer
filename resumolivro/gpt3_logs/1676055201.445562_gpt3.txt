@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A qualificao de indevida que  atribuda  violao se presta a permitir a realizao de um juzo de valor sobre a adequao da conduta que ultrapassa o obstculo oposto pelo mecanismo de segurana. Nesse sentido, o elemento normativo ressalta a capacidade de rendimento aplicativo da teoria da imputao objetiva. Violar o mecanismo de segurana somente permite a imputao objetiva para o crime em exame quando a conduta for considerada indevida, ou seja,  socialmente inadequada. Em muitos casos a superao do mecanismo de segurana deve ser considerada adequada e no se poder falar em violao indevida. Nos casos em que o titular do dispositivo de informtica autorizar terceira pessoa a utilizar sua senha para acessar informaes contidas no computador do trabalho, por exemplo, no ser indevida a violao do mecanismo. Nos casos em que o dispositivo informtico  apreendido em operao policial e o acesso aos dados que nele esto armazenados  autorizada judicialmente, certamente, a violao dos mecanismos de segurana do dispositivo deve ser considerada devida. Do mesmo modo, a superao do mecanismo de proteo no poder ser considerada indevida quando realizada pelo prprio titular do dispositivo, com a ajuda de um tcnico em informtica, no caso do mesmo esquecer a senha e por isso ficar impossibilitado de acessar o contedo de seu computador de trabalho. Mecanismo de segurana. Por mecanismo de segurana deve-se entender qualquer obstculo predisposto para impedir o acesso no autorizado ao contedo do dispositivo informtico, seja para conhecimento, alterao ou destruio de dados e informaes, ou para impedir danos ao sistema informtico.  indiferente que o mecanismo de segurana seja instalado no prprio dispositivo informtico ou que o dispositivo seja protegido por mecanismos externos. Constituem exemplos de mecanismo de segurana instalados no prprio dispositivo informtico a instituio de senhas que se prestam a restringir o acesso aos dados, informaes e aplicativos constantes no dispositivo informtico; a instalao de antivrus, que so programas de computador concebidos para prevenir, detectar e eliminar os vrus de computador; e a ativao de um firewall, que  um mecanismo que estabelece uma barreira fsica para o acesso no autorizado ao dispositivo informtico, por meio do isolamento (parede corta fogo) de suas partes. Como exemplo de mecanismo externo pode-se citar a sala de acesso restrito, fechada a chave, na qual se encontram provedores de rede de uma grande empresa. Dados.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A qualificação da violação de um mecanismo de segurança como indevida depende da adequação social da conduta. É considerada adequada quando autorizada judicialmente, pelo titular do dispositivo ou por terceiros com autorização do titular. Os mecanismos de segurança podem ser internos ou externos ao dispositivo informático e incluem senhas, antivírus e firewalls.

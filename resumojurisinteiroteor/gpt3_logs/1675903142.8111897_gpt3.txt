@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A Lei Federal n. 12.694/2012 autorizou, nos processos ou procedimentos que tenham por objeto crimes praticados por organizaes criminosas, a criao de rgo colegiado no mbito do Juzo criminal de primeiro grau, que ser formado por trs Juzes de Direito. Conforme referido dispositivo legal, a instaurao do colegiado est atrelada  deciso fundamentada do Juiz natural da causa, que dever indicar os motivos e a circunstncia que acarretam risco  sua integridade fsica. 2. Na hiptese, no se verifica ilegalidade na deciso que requisitou a instaurao do colegiado para atuar no feito, visto que o Magistrado instaurador justificou, de forma fundamentada, a temerria conduo de forma singular do processo em exame, a fim de assegurar sua segurana e conservar a atividade judicante. Trata-se de ao penal na qual so denunciadas 213 (duzentos e treze) pessoas - dentre elas, algumas com elevado grau de periculosidade -, a fim de apurar crimes que possuem correlao com as principais faces criminosas existentes em nosso pas, quais sejam, Famlia do Norte, Comando Vermelho e Primeiro Comando da Capital. 3. Considerando que o art. 1, caput, da Lei n. 12.694/2012 faz expressa referncia  instaurao do colegiado de primeiro grau ao processo e procedimento, indicando a sua formao para a prtica de qualquer ato processual, inexiste ilegalidade na formao do colegiado depois de instaurado o processo criminal, quando do oferecimento da denncia, assim como no caso dos autos, havendo divergncia doutrinria, apenas, quanto  instaurao do colegiado durante a fase investigativa. 4. Esta Corte Superior possui pacfico entendimento no sentido de que o reconhecimento de eventual nulidade, relativa ou absoluta, exige a comprovao de efetivo prejuzo suportado pela parte, vigorando o princpio pas de nulit sans grief, previsto no art. 563 do Cdigo de Processo Penal. 5. No caso, no se comprovou o efetivo prejuzo suportado pela defesa em razo da no realizao do sorteio eletrnico para escolha de dois Juzes para formao do colegiado, nos moldes do art. 1,  2, da Lei n. 12.694/2012, que foi frustrado por conta de falhas tecnolgicas e de insuficincia oramentria  poca. Constatou-se que foram escolhidos Magistrados que possuem competncia criminal em exerccio no primeiro grau de jurisdio, em obedincia ao princpio do juiz natural. Alm disso, no se comprovou o comprometimento da lisura do processo, tampouco eventual parcialidade dos Juzes que atuaram no feito. 6. Recurso ordinrio em habeas corpus improvido. (RHC 129.615/AM, Rel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei Federal n. 12.694/2012 autorizou a criao de rgo colegiado no mbito do Juzo criminal de primeiro grau, formado por três Juzes de Direito. A instaurao do colegiado foi justificada de forma fundamentada pelo Juiz natural da causa. Não se verificou ilegalidade na decisão, visto que se trata de ação penal na qual são denunciadas 213 pessoas. Não houve prejuízo à defesa em razão da não realização do sorteio eletrônico para escolha dos Juzes para formação do colegiado. Recurso ordinário em habeas corpus improvido.

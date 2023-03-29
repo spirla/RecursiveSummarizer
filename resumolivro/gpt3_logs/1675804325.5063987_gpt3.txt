@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os processos de justificacao, de representacao para declaracao de indignidade/incompatibilidade para o oficialato e de representacao para perda da graduacao serao processados perante o Tribunal Pleno, mediante distribuicao e conforme o disposto neste Regimento. Artigo 199. O processo administrativo disciplinar (PAD) cuja conclusao indique a incapacidade do Oficial para manter-se nas fileiras das instituicoes militares estaduais sera recebido, autuado como conselho de justificacao e distribuido ao Relator. Paragrafo 1 A Secretaria Judiciaria imediatamente intimara pessoalmente o Advogado-Geral do Estado de que os autos estao disponiveis para retirada, em carga, para manifestacao no prazo de dez dias. Paragrafo 2 Em seguida, os autos serao encaminhados ao Relator, que determinara a citacao do justificante para que, no prazo de dez dias, apresente defesa escrita, por advogado regularmente inscrito na Ordem dos Advogados do Brasil (OAB). Paragrafo 3 Nao sendo apresentada a defesa, o Relator solicitara a designacao de um defensor publico para que a apresente, no prazo de dez dias. Paragrafo 4 Apos a manifestacao da defesa, os autos serao encaminhados ao Procurador de Justica, para manifestacao na condicao de fiscal da lei. Paragrafo 5 Em seguida, relatados, os autos irao a julgamento. (...)
+Artigo 202. Decidindo o Tribunal que o justificante e, nos termos da lei, incapaz de permanecer na ativa ou na inatividade, devera, conforme o caso:
+- declara-lo indigno do oficialato ou com ele incompativel, determinando a perda do posto e da patente; ou
+- determinar a sua reforma. Questao interessante que chamamos a atencao e sobre as sancoes que poderao ser impostas ao oficial ao final do Processo de Justificacao, entre elas, a de reforma, que se apresenta como uma excecao ao artigo 32 do CEDM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Processo de Justificação, para declarar a indignidade/incompatibilidade do oficialato e para perda da graduação, será processado perante o Tribunal Pleno. O Oficial será intimado para apresentar defesa escrita, por advogado regularmente inscrito na OAB, e, após manifestação da defesa, os autos serão encaminhados ao Procurador de Justiça. Se o Tribunal decidir que o Oficial é incapaz de permanecer na ativa ou na inatividade, poderá ser declarado indigno do oficialato ou com ele incompatível, determinando a perda do posto e da patente, ou determinar a sua reforma.

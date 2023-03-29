@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos dias atuais, o tipo penal  figura conceitual que descreve formas possveis de violao ao bem jurdico e que define a matria de proibio. O tipo penal  conceito classificatrio, do ponto de vista tcnico-jurdico, o qual colhe o que  comum ou repetitivo nos fenmenos de comportamento humano, de modo a estabelecer um padro para o que seja proibido.  conceito abstrato e generalizante que se presta a determinar a espcie de proibio, especificamente direcionada para o concreto das relaes humanas, limitando a possibilidade de interveno estatal na esfera de liberdade individual. O tipo penal, de maneira formal, descreve o comportamento humano que se pretende evitar. Materialmente, o tipo representa uma valorao tico-social que se evidencia tanto na escolha dos bens a serem juridicamente tutelados como nas condutas a serem rotuladas de proibidas. Sendo o tipo penal um modelo abstrato de comportamento humano proibido, tipicidade  a qualidade conferida  conduta que encontra precisa descrio no modelo abstrato. Segundo o modelo interpretativo da realidade, proposto pela teoria do crime em seu conceito analtico, a tipicidade  a primeira caracterstica a ser reconhecida na conduta punvel. Para que uma conduta humana seja tpica,  necessrio que, alm de ajustar-se de maneira formal a um tipo legal de crime, represente, de forma material, leso relevante ao bem juridicamente protegido, o que caracteriza a conduta como socialmente reprovvel. Para a compreenso do fato tpico,  necessrio que se perceba qual o bem jurdico que a lei quer proteger, qual o verbo que representa o ncleo do comportamento proibido, quais os acessrios que lhe indicam o sentido do comportamento, bem como quais so os elementos normativos e subjetivos que se encontram inseridos na descrio hipottica da lei. O tipo legal ainda faz perceber o sujeito ativo, o sujeito passivo e a relao de causalidade que deve existir entre a conduta do primeiro e o resultado penalmente indesejado. Tipo incriminador e norma proibitiva. A responsabilidade penal pressupe sempre a violao da norma protetivo-afirmativa do bem jurdico, que  subjacente a um tipo penal incriminador. O tipo incriminador descreve a conduta criminosa e no se confunde com a norma jurdica. A norma jurdica fundamenta a elaborao do preceito incriminador-descritivo e coloca-se em sentido contrrio ao comportamento descrito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tipo penal um conceito classificatrio que descreve formas de violação aos bens jurdicos e define a matéria de proibição. É um modelo abstrato que representa uma valoração tico-social, sendo a tipicidade a qualidade conferida à conduta que encontra descrição no modelo. Além do formal, é necessário que se perceba o bem jurdico protegido, o verbo, os acessórios e os elementos normativos e subjetivos para compreender o fato típico. A responsabilidade penal pressupõe sempre a violação da norma protetivo-afirmativa do bem jurdico, descrito no tipo incriminador.

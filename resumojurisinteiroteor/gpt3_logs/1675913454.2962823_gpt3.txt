@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O reclamante deixou claro, na sua pea de acesso, que no tem a pretenso de debater nesta reclamao o mrito da ao original, porquanto sua pretenso se resuma na busca pela segurana jurdica e pela prevalncia da jurisprudncia pacificada neste egrgio Tribunal em relao  matria guerreada. De fato, no vejo como debater o mrito neste caso. Mas julgo fundamental esclarecer a tentativa autoral de comparar o que no pode ser comparado. O mrito nas aes atravs das quais se pacificou a jurisprudncia aventada em nada se assemelha ao mrito da ao que deu origem a esta reclamao. Em todos aqueles casos trazidos aos autos pelo reclamante, como supedneo ao seu pedido, restou reconhecido pela Corte que a falta ao servio pelos militares estava amparada pela causa de justificao - motivo de fora maior - do art. 19 da Lei n. 14.310, de 2002. Por tais razes, entendeu-se que, dispondo o militar de um atestado mdico que goza da presuno de verdade e que no teve sua autenticidade contestada, a homologao a destempo e at mesmo sua falta, antes de constituir a transgresso grave do art. 13, inciso XX, h de ser enquadrada como a transgresso mdia do inciso II do art. 14. Neste caso que estamos examinando, ao contrrio, o reclamante no faltou  chamada e ao servio para o qual estava escalado, devido  enfermidade que o acometia. Faltou por sua desdia confessada de no ter conferido, como  do seu dever, sua escala diria de servio. O atestado mdico que recomendava o afastamento de suas atividades naquele dia deixou de ser homologado porque o reclamante sequer imaginava que seria necessria sua homologao, o que difere por inteiro das premissas que inspiraram as decises colegiadas. Quanto s hipteses previstas nos incisos I e II, relacionadas  usurpao de competncia e  desobedincia, em homenagem  hierarquia jurisdicional, respectivamente, o trecho extrado da bem arrazoada contestao servir, por si s, como fundamento para o no acolhimento do pleito arguido. Veja-se: [..] O inciso I do art. 988 do CPC trata de uma das foras motriz da reclamao que  a tribulao relacionada  usurpao de competncia.  dizer que, nessa hiptese visa citado instituto processual a preservao da competncia de determinado tribunal hierarquicamente superior ao rgo jurisdicional que invadiu sua esfera de atuao. Trata-se de ao norteada na sua essncia pelo princpio do juiz natural, como meio que visa a cassao da deciso usurpadora, com avocao dos autos. O fato narrado na exordial em nada se aproxima do fundamento legal (art. 988, I) invocado pelo autor, devendo o processo ser extinto sem julgamento do mrito por ausncia de interesse de agir, no seu aspecto da adequao da via eleita.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O reclamante busca a segurana jurdica e a prevalncia da jurisprudncia pacificada do Tribunal. A ao original nada se assemelha ao mrito da ao que deu origem a esta reclamao. O atestado mdico não foi homologado porque o reclamante não imaginava que seria necessário. As hipteses previstas nos incisos I e II do art. 988 do CPC não se aplicam ao caso, devendo o processo ser extinto sem julgamento do mrito por ausência de interesse de agir.

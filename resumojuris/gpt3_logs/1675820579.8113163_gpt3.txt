@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por maioria, indeferiu medida liminar em arguicao de descumprimento de preceito fundamental ajuizada contra atos de nomeacao ja realizados e por realizar pelo Presidente da Republica, para o cargo de Reitor e Vice-Reitor de universidades mantidas pela Uniao, de candidatos que nao figuram em primeiro lugar na lista triplice formada pelos colegiados das respectivas universidades. Vencidos os ministros Edson Fachin (relator) e Carmen Lucia que referendaram a concessao parcial da medida liminar. ADPF 759 MC-Ref/DF, relator Min. Edson Fachin, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 6.2.2021 (INF 1004) 4.2 COMPETENCIA JURISDICIONAL Crime conexo: prescricao do crime eleitoral e competencia da Justica Eleitoral para julgar crime comum - HC 177243/MG Resumo: A Justica Eleitoral e competente para processar e julgar crime comum conexo com crime eleitoral, ainda que haja o reconhecimento da prescricao da pretensao punitiva do delito eleitoral. Isso porque, fixada a competencia da Justica Eleitoral por conexao ou continencia, essa permanece para os demais feitos  mesmo quando nao mais subsistirem processos de sua competencia propria em razao de sentenca absolutoria ou de desclassificacao da infracao. Com base nesse entendimento, a Segunda Turma, por maioria, deu provimento ao recurso ordinario para declarar a incompetencia da Justica comum estadual e determinar a remessa dos autos a Justica Eleitoral. Vencidos o ministro Edson Fachin, que negou provimento ao recurso e, parcialmente, o ministro Nunes Marques que dele nao conheceu. RHC 177243/MG, relator Min. Gilmar Mendes, julgamento em 29.6.2021. (INF 1024) Crime de remocao ilegal de orgaos com resultado morte e competencia - RE 1313494/MG Resumo: E do juizo criminal singular a competencia para julgar o crime de remocao ilegal de orgaos, praticado em pessoa viva e que resulta morte, previsto no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Plenário indeferiu medida liminar em arguição de descumprimento de preceito fundamental ajuizada contra atos de nomeação já realizados e por realizar pelo Presidente da República, para o cargo de Reitor e Vice-Reitor de universidades mantidas pela União, de candidatos que não figuram em primeiro lugar na lista triplice formada pelos colegiados das respectivas universidades. 2. A Justiça Eleitoral é competente para processar e julgar crime comum conexo com crime eleitoral, ainda que haja o reconhecimento da prescrição da pretensão punitiva do delito eleitoral. 3. É do juízo criminal singular a competência para julgar o crime de remoção ilegal de órgãos, praticado em pessoa viva e que resulta morte, previsto no art.

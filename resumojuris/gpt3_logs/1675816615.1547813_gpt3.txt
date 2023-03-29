@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6308/RR, relator Ministro Roberto Barroso, julgamento virtual finalizado em 3.6.2022 (sexta-feira), as 23:59 (INF 1057) Obrigacoes impostas aos planos de saude e competencia legislativa privativa da Uniao - ADI 7029/PB ODS: 3 Resumo: E formalmente inconstitucional lei estadual que estabelece obrigacoes referentes a servico de as-sistencia medico-hospitalar que interferem nas relacoes contratuais estabelecidas entre as operadoras de planos de saude e seus usuarios. Esses temas sao relativos a direito civil e concernem a politica de seguros, materias conferidas consti-tucionalmente a competencia legislativa privativa da Uniao, nos termos do art. 22, I e VII, da CF. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade formal da Lei 11.782/2020 do Estado da Paraiba. ADI 7029/PB, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 6.5.2022 (sexta-feira), as 23:59 (INF 1053) Pessoas desaparecidas e divulgacao de fotos em noticiarios de TV e em jornais - ADI 5292/SC Resumo: E inconstitucional lei estadual que fixe a obrigatoriedade de divulgacao diaria de fotos de crian-cas desaparecidas em noticiarios de TV e em jornais de estado-membro. Na hipotese, a lei estadual invade a competencia legislativa da Uniao para dispor privativamente sobre radiodifusao de sons e imagens, em afronta ao previsto no art. 22, IV, da CF e. Alem disso, cria obrigacao a margem dos contratos de concessao dessas pessoas juridicas com a Uniao (poder concedente), em contrarie-dade ao art. 21, XII, da CF e. A lei estadual incide tambem em inconstitucionalidade material. Em primeiro lugar, porque estabele-ce indevida interferencia na liberdade de agentes economicos privados ao obrigar a veiculacao de conteudo nos jornais sediados no estado-membro, violando o principio da livre iniciativa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente inconstitucional lei estadual que estabelece obrigações referentes a serviço de assistência médico-hospitalar que interferem nas relações contratuais estabelecidas entre as operadoras de planos de saúde e seus usuários. 2. É inconstitucional lei estadual que fixe a obrigatoriedade de divulgação diária de fotos de crianças desaparecidas em noticiários de TV e em jornais de estado-membro. 3. A lei estadual invade a competência legislativa da União para dispor privativamente sobre radiodifusão de sons e imagens, em afronta ao previsto no art. 22, IV, da CF. 4. A lei estadual cria obrigação a margem dos contratos de concessão dessas pessoas jurídicas com a União (poder concedente), em contrariedade ao art. 21, XII, da CF. 5. A lei estadual estabelece indevida interferencia na liberdade de agentes econômicos privados ao obrigar a veiculação de conteúdo nos jornais sediados no estado-membro, violando o princípio da livre iniciativa.

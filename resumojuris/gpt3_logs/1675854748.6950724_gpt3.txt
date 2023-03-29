@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ocorre que no acordao recorrido constou que, a despeito de nao haver o servico de tratamento de esgoto, ha a coleta de dejetos, servico esse parte integrante do complexo servico de tratamento de agua e esgoto. (Informativo  Ed. Especial n. 8) PRECEDENTES QUALIFICADOS REsp repetitivo 1.339.313/RJ 123 Processo AgInt nos EDcl no REsp 1.825.186-RS, Rel. Ministro Herman Benjamin, Segunda Turma, por unanimidade, julgado em 4/8/2022, DJe 1/12/2022. Ramo do Direito DIREITO TRIBUTARIO Tema Importacao fraudulenta de mercadoria. Subfaturamento. Multa de lancamento de oficio. Multa pelo consumo. Cumulacao. Impossibilidade. Mero exaurimento da conduta fraudulenta. DESTAQUE Nao cabe aplicacao cumulativa de multa de lancamento de oficio com a de consumo de mercadoria importada de forma fraudulenta.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O serviço de coleta de dejetos é parte integrante do complexo serviço de tratamento de água e esgoto. 2. Não cabe aplicação cumulativa de multa de lançamento de ofício com a de consumo de mercadoria importada de forma fraudulenta.

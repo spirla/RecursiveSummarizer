@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O meritssimo juiz de direito da 5a AJME julgou improcedentes os pedidos do autor, determinando a extino do feito, sem resoluo do mrito, nos termos do art. 485, inciso V, do CPC, com a rejeio da arguio da ocorrncia da prescrio punitiva e com o reconhecimento da coisa julgada em relao aos autos da Ao Anulatria n. 1000100 83.2015.9.13.3 (Evento 22 - SENT1). O autor interps recurso de apelao (Evento 27). Enfatizou que a coisa julgada  a reproduo de ao anteriormente ajuizada e definitivamente julgada, razo pela qual, para sua caracterizao,  necessria a identidade dos elementos da ao (partes, pedido e causa de pedir), o que no ocorreu no presente caso. Nesse aspecto, afirmou que, na Ao Anulatria n. 1000100-83.2015.9.13.0003, foi alegado que o crime de desero no restou configurado, tampouco houve tipificao no art. 13, inciso III, do Cdigo de tica e Disciplina dos Militares de Minas Gerais (CEDM); e que no houve a sua notificao pessoal acerca da revogao da licena outrora concedida, alm de ter havido ofensa ao princpio da proporcionalidade e da razoabilidade, e, por fim, requereu a anulao da deciso do PAD. E disse que, nesta ao, o pedido  de nulidade da portaria que ensejou o PAD, por ter sido alcanada a prescrio punitiva do apelante. Sobre a ocorrncia da prescrio punitiva disciplinar, o apelante suscitou que o termo "a quo para a contagem do prazo prescricional deve ser contado a partir da data em que foi praticada a transgresso disciplinar, ou seja, 20 de abril de 1995. E, o prazo prescricional  de 4 (quatro) anos (enunciado da smula 1 - TJMMG), o que, ao seu ver, teria findando em 20 de abril de 1999. Sustentou que a Lei Estadual mineira n. 14.310, de 18 de junho de 2002, que estabelece o CEDM, ao contrrio da Lei Federal n. 8.112, de 11 de dezembro de 1990 (regime jurdico dos servidores civis da Unio, das autarquias e das fundaes pblicas federais), no estabeleceu causas interruptivas ou suspensivas da contagem dos prazos prescricionais. Aduziu que o PAD em comento teve sua Portaria n. 102.251 publicada em 17 de fevereiro de 2014; logo, o Estado de Minas Gerais permaneceu inerte por 19 (dezenove) anos da suposta transgresso. Concluiu que, ao instaurar o PAD somente em fevereiro de 2014, a Administrao Militar agiu quando a pretenso punitiva disciplinar j havia sido alcanada pela prescrio, que se deu em 1999, sendo totalmente nula a portaria de abertura de n. 102.251/2014, consequentemente, todos os demais atos, em particular, a publicao havida no DOE em 09 de outubro de 2015. Ao final, requereu que seja conhecido e provido o recurso de apelao, para reformar integralmente a sentena de primeiro grau, julgando-se procedente o pedido formulado na inicial.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz julgou improcedentes os pedidos do autor, determinando a extino do feito, sem resoluo do mrito, nos termos do art. 485, inciso V, do CPC, com a rejeio da arguio da ocorrncia da prescrio punitiva e com o reconhecimento da coisa julgada. O autor interps recurso de apelao, alegando que a coisa julgada a reproduo de ao anteriormente ajuizada e definitivamente julgada, e que houve a ocorrncia da prescrio punitiva disciplinar.

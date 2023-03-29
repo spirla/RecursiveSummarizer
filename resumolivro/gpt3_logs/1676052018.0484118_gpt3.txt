@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Um policial pode mandar um condutor de veculo parar para examinar seus documentos ou averiguar se h transporte de drogas ou armas, sem que possua qualquer informao prvia sobre a ocorrncia concreta de crimes. Neste caso, a desobedincia  ordem proferida (artigo 330 do Cdigo Penal) no justifica a morte do desobediente. Certamente, o interesse de fazer as referidas averiguaes possui valor menor do que o interesse de preservar a vida do desobediente. Tambm pode acontecer de o policial mandar o condutor do veculo parar porque possui a informao de que este possui drogas ou armas. Neste caso, mesmo em se tratando da ocorrncia de crime, a desobedincia  ordem de parar no justifica matar o desobediente. O interesse de evitar os crimes de uso ou trfico de drogas, bem como o de porte ilegal de armas, possui valor inferior ao da vida humana de que os realiza. A interveno policial que mata aquele que porta a arma s poderia ser justificada se houvesse a iminncia de seu uso para produzir a morte de terceiro. Se aquele que porta a arma no estiver na iminncia de us-la para matar terceiro, no haver justificativa para sua morte. Tambm  possvel que o policial tenha informaes no sentido de que o condutor de veculo mantm uma vtima como refm e, agora, a ordem visa possibilitar a libertao do refm. Nesta situao, o perigo existente para a vida do refm  capaz de justificar a morte daquele que desobedece  ordem de parar e empreende fuga. Contudo, cabe fazer mais uma distino: se a informao sobre o refm for verdadeira, a interveno policial estar amparada pela excludente de ilicitude da legitima defesa de terceiro. Mas, se a informao no for verdadeira e houver erro plenamente justificado pelas circunstncias quanto  situao ftica, deve-se reconhecer a atipicidade da conduta por legitima defesa putativa (erro de tipo permissivo).49Se as circunstncias no justificarem plenamente o erro, a morte deve ser responsabilizada a ttulo de culpa. 1.2.13.3. Morte de quem j praticou um crime. Como regra, deve-se entender que no h justificativa (excluso de ilicitude) para quem mata pessoa que acaba de cometer um crime e resiste  interveno que visa realizar sua priso em flagrante. Mesmo que o desobediente tenha anteriormente praticado um crime de homicdio, o interesse a ser preservado no momento posterior  consumao do crime possui menor valor do que o interesse de preservar a vida do desobediente.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Um policial pode ordenar a parada de um veículo para averiguar documentos ou drogas/armas, mas a desobediência não justifica a morte do desobediente, pois o interesse de preservar a vida humana é maior que o de prevenir crimes. Se houver informações de que o condutor mantém uma vítima como refém, a morte pode ser justificada para libertar o refém, desde que as circunstâncias permitam. No entanto, se o desobediente j tiver praticado um crime, não há justificativa para matá-lo.

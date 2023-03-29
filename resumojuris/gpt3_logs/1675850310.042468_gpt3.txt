@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+226 do CPP. 1282 Para a jurisprudencia desta Corte Superior, o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquerito policial, apenas e apto para identificar o reu e fixar a autoria delitiva quando observadas as formalidades previstas no art. 226 do CPP e corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditorio e da ampla defesa (HC 598.886/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020). O art. 226 do CPP, antes de descrever o procedimento de reconhecimento de pessoa, diz em seu caput que o rito tera lugar quando houver necessidade , ou seja, o reconhecimento de pessoas deve seguir o procedimento previsto quando ha duvida sobre a identificacao do suposto autor. A prova de autoria nao e tarifada pelo CPP. Antes, esta Corte dizia que o procedimento nao era vinculante; agora, evoluiu no sentido de exigir sua observancia, o que nao significa que a prova de autoria devera sempre observar o procedimento do art. 226 do CPP. O reconhecimento de pessoa continua tendo espaco quando ha necessidade, ou seja, duvida quanto a individualizacao do suposto autor do fato. Trata-se do metodo legalmente previsto para, juridicamente, sanar duvida quanto a autoria. Se a vitima e capaz de individualizar o agente, nao e necessario instaurar a metodologia legal. O que a nova orientacao buscou afastar a pratica recorrente dos agentes de seguranca publica de apresentar fotografias as vitimas antes da realizacao do procedimento de reconhecimento de pessoas, induzindo determinada conclusao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, é apto para identificar o réu e fixar a autoria delitiva desde que observadas as formalidades previstas no art. 226 do CPP e corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa. 2. O procedimento de reconhecimento de pessoa deve seguir o procedimento previsto quando houver dúvida sobre a identificação do suposto autor. 3. A prova de autoria não é tarifada pelo CPP. 4. O reconhecimento de pessoa continua tendo espaço quando houver necessidade, ou seja, dúvida quanto a individualização do suposto autor do fato. 5. Se a vítima for capaz de individualizar o agente, não é necessário instaurar a metodologia legal. 6. É proibido o uso de fotografias para induzir determinada conclusão antes da realização do procedimento de reconhecimento de pessoas.

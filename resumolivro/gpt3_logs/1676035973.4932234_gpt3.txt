@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No livro Justia como equidade - uma reformulao, Rawls consolida sua concepo de Justia como uma concepo poltica, que necessita estabelecer um consenso sobreposto sobre as teorias religiosas, filosficas e morais abrangentes para, no contexto de uma sociedade plural, estabelecer com base em fundamentos pblicos de justificao e de razo pblica a estrutura bsica de sua organizao. Nesse sentido, Rawls afirma que uma sociedade poltica  bem organizada quando (1) cada cidado aceita e sabe que os demais tambm aceitam os mesmos princpios de Justia poltica, (2) todos sabem ou podem acreditar que as instituies que compem a estrutura bsica da sociedade respeitam os mesmos princpios de Justia poltica e (3) todos possuem um senso de Justia que lhes permite entender e aplicar os princpios de Justia publicamente reconhecidos e, de maneira geral, agir de acordo com o que sua posio social, com seus deveres e obrigaes, o exige. Dessa forma, em uma sociedade bem organizada a concepo pblica de Justia constitui um ponto de vista que  aceito por todos e permite aos cidados formular suas expectativas de Justia poltica, tanto em relao s instituies da estrutura bsica quanto em relao aos demais cidados. 3.5. Justia constitucional. Na segunda metade do sculo XX, a experincia traumtica do holocausto colocou o Direito e seu raciocnio jurdico positivista em franca crise, na medida em que se percebeu que o positivismo jurdico possibilitou a atuao dos projetos autoritrios do nacional-socialismo e do fascismo. Nesse sentido, o testemunho de Radbruch foi dos mais eloquentes. Dentre os muitos aspectos dessa crise destacaram-se a crise de legalidade, a crise no atendimento da funo social do Direito e a crise do tradicional conceito de soberania. O paradigma positivista do Estado de Direito legal, que tem como objetivo fundamental vincular o poder do juiz aos termos da lei se revelou insuficiente. A reconstruo da Alemanha e da Itlia, na Europa do ps-guerra, bem como, tardiamente entre ns, a redemocratizao operada pela Constituio de 1988, contriburam para determinar a passagem do Estado de Direito Legal para o Estado de Direito Constitucional. O julgamento proferido pelo Tribunal de Nuremberg constituiu o marco inicial dessa passagem da cultura da lei (Estado de Direito Legal) para a cultura do Direito (Estado de Direito Constitucional), pois os militares nazistas foram condenados por violarem o Direito, muito embora tenham cumprido a lei vigente em seu pas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Rawls defende a necessidade de estabelecer um consenso sobreposto sobre teorias religiosas, filosficas e morais para estabelecer princípios de Justiça Política em sociedades pluralistas. O Estado de Direito Legal foi insuficiente para atender às necessidades da sociedade, sendo substituído pelo Estado de Direito Constitucional, que foi marcado pelo julgamento proferido pelo Tribunal de Nuremberg.

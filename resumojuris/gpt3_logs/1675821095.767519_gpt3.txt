@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A lei deve estabelecer uma finalidade claramente delimitada para acesso aos dados, com hipoteses legais especificas e a possibilidade de controle posterior que devem ser interpretadas de acordo com os dispositivos constitucionais indicados, de modo a se manter higida a norma e o objetivo previsto pelo legislador estadual. Com base nesse entendimento, o Plenario, por unanimidade, conheceu em parte da acao direta e, na parte conhecida, julgou improcedente o pedido formulado para declarar a constitucionalidade do art. 2, caput e  1, da Lei 17.107/2012 do Estado do Parana. ADI 4924/DF, relator Min. Gilmar Mendes, julgamento em 4.11.2021 (INF 1036) Venda e consumo de bebidas alcoolicas em eventos esportivos - ADI 5112/BA Resumo: Nao invade a competencia da Uniao para o estabelecimento de normas gerais sobre consumo e desporto a autorizacao e regulamentacao, por estado-membro, da venda e do consumo de bebidas alcoolicas em eventos esportivos. Ante a ausencia de nitidez do art. 13-A, II, da Lei 10.671/2003 (Estatuto do Torcedor), ha espaco de conformacao normativa aos demais entes da Federacao para, em nome da garantia da integridade fisica, regulamentar da maneira mais eficiente possivel as medidas para evitar atos de violencia. Essa interpretacao decorre da teleologia da norma, que objetiva a reducao da violencia nas arenas esportivas. Ademais, alem de as disposicoes normativas nao atentarem contra a proporcionalidade, no caso analisado, a norma impugnada atende ao disposto no Decreto 6.117/2007, alinhando-se as campanhas para o consumo consciente e responsavel e a outras medidas que devem ser tomadas pelos demais entes federados e pelas entidades responsaveis pela organizacao dos eventos. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente o pedido formulado em acao direta de inconstitucionalidade ajuizada contra a Lei 12.959/2014 do Estado da Bahia. ADI 5112/BA, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A lei deve estabelecer uma finalidade claramente delimitada para acesso aos dados, com hipóteses legais específicas e a possibilidade de controle posterior que devem ser interpretadas de acordo com os dispositivos constitucionais indicados, de modo a se manter rigida a norma e o objetivo previsto pelo legislador estadual. 2. Não invade a competência da União para o estabelecimento de normas gerais sobre consumo e desporto a autorização e regulamentação, por estado-membro, da venda e do consumo de bebidas alcoólicas em eventos esportivos. 3. Há espaço de conformação normativa aos demais entes da Federação para, em nome da garantia da integridade física, regulamentar da maneira mais eficiente possível as medidas para evitar atos de violência. 4. A norma impugnada atende ao disposto no Decreto 6.117/2007, alinhando-se as campanhas para o consumo consciente e responsável e a outras medidas que devem ser tomadas pelos demais entes federados e pelas entidades responsáveis pela organização dos eventos.

@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido:
+APELACAO CIVEL - PUNICAO DISCIPLINAR - SINDICNCIA - DEPOIMENTO TESTEMUNHAL - AUSNCIA DE NOTIFICACAO - NAO COMPROVACAO - INERCIA DEFENSIVA DO ACUSADO - AUSNCIA DE PREJUIZOS - LEGALIDADE DA PUNICAO DISCIPLINAR - A sindicncia caracteriza-se como meio de apuracao disciplinar e nao um fim em si mesmo. Por esta razao, qualquer irregularidade advinda deste procedimento administrativo, so tem o condao gerar nulidade no ato punitivo, se restar demonstrado qualquer prejuizo para a defesa do acusado. (TJM-MG: Apelacao Civel n. 386 - Proc. 709/07 - AC - 1 AJME, Rel. Juiz Cel BM Osmar Duarte Marcelino, publicado em 22/11/2008)
+Assim, se de um lado a aplicacao de uma sancao disciplinar exige o seu processamento na forma prescrita em lei, ja que o devido processo legal e garantia de defesa, de outro, tem-se que no processo administrativo, que nao tem o mesmo rigor do penal, nas palavras de Maria Sylvia Zanella Di Pietro: o formalismo somente deve existir quando seja necessario para atender ao interesse publico e proteger os direitos dos particulares (...). Trata-se de aplicar o principio da razoabilidade ou da proporcionalidade em relacao as formas. Ja o principio do prejuizo - pas de nullite sans grief - do qual decorre que nao ha nulidade sem prejuizo, conforme ressai do Manual do Processo Administrativo Disciplinar, editado pela Controladoria-Geral da Uniao (CGU):
+16.2. Principio do Prejuizo
+Literalmente, o principio dispoe que nao ha nulidade sem prejuizo. Isto e, nenhum ato sera declarado nulo sem que seja comprovado efetivo prejuizo ao acusado, influncia concreta na decisao desfavoravel ou obstrucao na apuracao da verdade real dos fatos. Analogamente ao processo penal, extrai-se que:
+Artigo 563. Nenhum ato sera declarado nulo, se da nulidade nao resultar prejuizo para a acusacao ou para a defesa. Artigo 566. Nao sera declarada a nulidade de ato processual que nao houver influido na apuracao da verdade substancial ou na decisao da causa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sindicância é um meio de apuração disciplinar e não um fim em si mesmo. Qualquer irregularidade advinda deste procedimento administrativo só tem o condão de gerar nulidade no ato punitivo se restar demonstrado prejuízo para a defesa do acusado. O formalismo somente deve existir quando necessário para atender ao interesse público e proteger os direitos dos particulares. O princípio do prejuízo diz que nenhum ato será declarado nulo sem que seja comprovado prejuízo ao acusado.

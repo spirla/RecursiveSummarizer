@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A ausencia de pericia oficial, contudo, ultrapassou a esfera do cerceamento de defesa e da ofensa ao contraditorio. Na verdade, a falta do exame, o qual nao foi realizado sequer na fase investigatoria, afastou a comprovacao da propria materialidade delitiva, ofendendo o art. 386, inciso II, do CPP, impondo-se a absolvicao. O fundamento de que a imputacao dizia respeito somente ao fato de que os cheques eram descontados na boca do caixa , nao guarda realidade com a totalidade da imputacao da denuncia. A ocorrencia do desvio do dinheiro publico ocorria porque os cheques seriam descontados sem contabilizar os valores na movimentacao da tesouraria, bem assim pela manipulacao das receitas municipais. Alem disso, os supostos desvios teriam sido descobertos por meio de auditoria particular contratada pelo municipio, ou seja, prova tecnica produzida unilateralmente. Destarte, tendo a suposta pratica dos peculatos ocorrido por meio que deixou vestigios, qual seja, a fraude na escrituracao contabil da municipalidade, mostra-se indispensavel a prova pericial, nos termos do art. 158 do CPP. Sem ela, e sem a demonstracao da impossibilidade da sua realizacao, esta ausente a comprovacao da materialidade delitiva. O onus da producao da prova pericial, indispensavel para a comprovacao da materialidade delitiva, era da acusacao, que nao se desincumbiu de seu mister, mas optou por oferecer a denuncia apenas com base em auditoria unilateral, contratada pelo municipio e feita por empresa privada, a qual, de forma alguma, pode ser comparada a uma pericia oficial, nos termos do art. 159 do CPP. (Informativo  Ed.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A ausência de perícia oficial ultrapassou a esfera do cerceamento de defesa e da ofensa ao contraditório, afastando a comprovação da materialidade delitiva, ofendendo o art. 386, inciso II, do CPP. 2. O fundamento de que a imputação dizia respeito somente ao fato de que os cheques eram descontados na boca do caixa não guarda realidade com a totalidade da imputação da denúncia. 3. A ocorrência do desvio do dinheiro público ocorria por meio da fraude na escrituração contábil da municipalidade. 4. É indispensável a prova pericial, nos termos do art. 158 do CPP, para comprovar a materialidade delitiva. 5. O ônus da produção da prova pericial é da acusação, que não se desincumbiu de seu mister, mas optou por oferecer a denúncia apenas com base em auditoria unilateral.

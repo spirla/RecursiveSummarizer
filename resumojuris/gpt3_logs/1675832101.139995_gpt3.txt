@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+110, caput e  1, da Lei n. 6.880/1980, quando configurada alguma das hipoteses descritas nos itens III, IV e V, do art. 108, o militar tera direito a reforma com base no soldo do grau hierarquico imediato se verificada a invalidez, ou seja, a incapacidade definitiva para qualquer trabalho, militar ou civil. No caso dos autos, ainda que seja reconhecida a ocorrencia da neoplasia maligna - cancer de prostata -, as instancias ordinarias negaram a existencia de invalidez. Desse modo, inviavel o reconhecimento do alegado direito a remuneracao superior, porquanto ausente um dos requisitos estabelecidos na legislacao (STJ, REsp 1.843.913/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 04/08/2020). De igual modo, em sintonia com a jurisprudencia do STJ apenas os militares da ativa ou da reserva remunerada, julgados incapazes definitivamente para o servico por forca de doenca constante do inciso V do art. 108 da Lei n. 6.880/1980 (e for considerado invalido total e permanentemente para qualquer trabalho), fazem jus a reforma com a remuneracao calculada com base no soldo correspondente ao grau hierarquico imediatamente superior ao que possuia na ativa (STJ, AgRg no REsp 1.577.792/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 16/03/2016). Alem de a Terceira Secao nao mais ser competente para o exame da materia, o precedente dos EREsp 677.740/RJ (Rel. Ministro Arnaldo Esteves Lima, Terceira Secao, DJU de 21/05/2007), inumeras vezes invocado em julgados posteriores do STJ, apesar de conferir ao militar, portador assintomatico do virus HIV, o direito a reforma por incapacidade definitiva para o servico ativo das Forcas Armadas, nao examinou o assunto, de maneira suficiente e a luz do art. 110,  1, da Lei n. 6.880/1980, ao conceder a remuneracao com base no soldo correspondente ao grau hierarquico imediato ao ocupado pelo militar na ativa, hipotese na qual o referido art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O militar terá direito a reforma com base no soldo do grau hierarquico imediato se verificada a invalidez, ou seja, a incapacidade definitiva para qualquer trabalho, militar ou civil. 2. Somente os militares da ativa ou da reserva remunerada, julgados incapazes definitivamente para o serviço por força de doença constante do inciso V do art. 108 da Lei n. 6.880/1980 (e for considerado inválido total e permanentemente para qualquer trabalho), fazem jus a reforma com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediatamente superior ao que possuía na ativa. 3. O precedente dos EREsp 677.740/RJ, apesar de conferir ao militar, portador assintomático do vírus HIV, o direito a reforma por incapacidade definitiva para o serviço ativo das Forças Armadas, não examinou o assunto, de maneira suficiente e a luz do art. 110, 1, da Lei n. 6.880/1980, ao conceder a remuneração com base no soldo correspondente ao grau hierárquico imediato ao ocupado pelo militar na ativa, hipótese na qual o referido art.

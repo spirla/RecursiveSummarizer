@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao ha que se falar na figura do terceiro interessado , pois o inconformismo veiculado pelos peticionantes nao se refere a conversas privadas, mas a dialogos travados por membros do MPF entre si e com magistrado acerca de investigacoes e acoes penais, em pleno exercicio das respectivas atribuicoes e em razao delas. Ademais, a questao relativa a autenticidade ou ao valor probatorio de elementos colhidos pela defesa e tema a ser resolvido no bojo dos processos nos quais venham a ser juntados, mas nao na reclamacao, sabidamente de estreitos limites. Fundado no direito a ampla defesa e ao contraditorio, foi concedido ao reclamante o acesso a elementos probatorios coligidos, em poder do Estado, pertinentes a sua defesa. O acesso a tais elementos, aparentemente, teria sido sonegado ao reclamante e a sua defesa ha anos, contrariando determinacoes expressas do colegiado e do ministro Ricardo Lewandowski, relator, proferidas em tres reclamacoes. Na especie, trata-se de peticao deduzida por procuradores da Republica, mediante a qual requeriam, em nome proprio e de terceiros, a reconsideracao de decisoes que autorizaram o compartilhamento  com o reclamante  de provas obtidas em operacao policial deflagrada para investigar os supostos delitos praticados por hackers que acessaram suas comunicacoes. Alternativamente, houve pedido de processamento da peticao como agravo regimental. A Segunda Turma, por maioria, nao conheceu de agravo regimental em reclamacao, ante a manifesta ilegitimidade recursal dos peticionantes, nos termos do voto do relator. Vencido o ministro Edson Fachin. Rcl 43007 AgR/DF, relator Min. Ricardo Lewandowski, julgamento em 9.2.2021 (INF 1005) 17.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há figura do terceiro interessado no caso em questão, pois o inconformismo não se refere a conversas privadas. 2. A questão relativa à autenticidade ou ao valor probatório de elementos colhidos pela defesa deve ser resolvida no bojo dos processos nos quais venham a ser juntados, mas não na reclamação. 3. Fundado no direito à ampla defesa e ao contraditório, foi concedido ao reclamante o acesso a elementos probatórios coligidos, em poder do Estado, pertinentes à sua defesa. 4. A Segunda Turma, por maioria, não conheceu de agravo regimental em reclamação, ante a manifesta ilegitimidade recursal dos peticionantes.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 851421/DF, relator Ministro Roberto Barroso, julgamento virtual finalizado em 17.12.2021 (sexta-feira), as 23:59 (INF 1042) 14.4 IPVA IPVA: contagem de prazos para atendimento dos principios da anterioridade anual e no-nagesimal - ADI 5282/PR Tese fixada: I - No caso de um tributo sujeito duplamente a anterioridade de exercicio e a noventena, a lei que institui ou majora a imposicao somente sera eficaz, de um lado, no exercicio financeiro seguinte ao de sua publicacao e, de outro, apos decorridos noventa dias da data de sua divulgacao em meio oficial. Logo, a contar da publicacao da lei, os prazos transcorrem simultaneamente, e nao sucessivamente. II - Nao ha desvio de finalidade no caso de lei ordinaria alterar o aspecto temporal do IPVA para viabilizar, a um so tempo, o respeito a garantia da anterioridade, inclusive nonagesimal, e viabilizar a tributacao dos veiculos automotores pela aliquota majorada no exercicio financeiro seguinte ao da publicacao desse diploma legal. Afinal, a finalidade da legislacao e licita e explicita. III - O principio da igualdade tributa-ria nao resta ofendido na hipotese de um veiculo automotor novo submeter-se a aliquota distinta de IPVA em comparacao a outro automovel adquirido em anos anteriores no lapso referente aos 90 (noventa) dias da noventena, em certo exercicio financeiro. Sendo assim, pela propria sistematica de tributacao do IPVA posta na legislacao infraconstitucional, nao se cuida de tratamento desigual entre contribuintes que se encontrem em situacao equivalente. Resumo: E simultanea a contagem dos prazos das garantias fundamentais a que se referem os principios da anterioridade anual e nonagesimal tributarias, a partir da data da publicacao da lei que institui ou majora o tributo. Com efeito, ambas as anterioridades se caracterizam como uma unica norma-regra, de modo que a respectiva incidencia se opera sempre por completo: tudo ou nada.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I - A lei que institui ou majora a imposição tributária somente será eficaz no exercício financeiro seguinte ao de sua publicação e após decorridos noventa dias da data de sua divulgação em meio oficial. II - Não há desvio de finalidade no caso de lei ordinária alterar o aspecto temporal do IPVA para viabilizar o respeito à garantia da anterioridade, inclusive nonagesimal. III - O princípio da igualdade tributária não resta ofendido na hipótese de um veículo automotor novo submeter-se a aliquota distinta de IPVA em comparação a outro automóvel adquirido em anos anteriores no lapso referente aos 90 (noventa) dias da noventena, em certo exercício financeiro.

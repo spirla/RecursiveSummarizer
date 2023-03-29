@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A alterao de perspectiva que aqui se leva a cabo, da causalidade para a imputao, faz com que o centro de gravidade se desloque, j em sede de teoria da ao, da esfera ontolgica para a normativa: segundo esta, a questo de saber se  possvel imputar a um homem um resultado como obra sua, depende, desde o incio, dos critrios de avaliao a que submetemos os dados empricos. A imputao de resultado jurdico-penal relevante impe investigao que se subdivide em duas etapas. Em princpio, se for o caso de crimes materiais, verifica-se a relao causal no plano emprico. Confirmada a causalidade, segue-se a atribuio normativa do resultado ao seu autor. Assim, pode-se distinguir causalidade, sob o prisma naturalista, e imputao objetiva. A relao de causalidade material relaciona uma conduta a determinado resultado no plano naturalstico e constitui pressuposto para a imputao objetiva nos crimes materiais. A definio do critrio a ser utilizado para estabelecer a vinculao material resulta das opes poltico-criminais, que acolhem qualquer das diversas teorias elaboradas para a determinao da causalidade. A imputao objetiva, por sua vez,  a atribuio normativa da produo de determinado resultado a um indivduo, de modo a viabilizar sua responsabilizao. Para realizar tal atribuio no basta constatar a causalidade naturalista, sendo tambm necessrio examinar a relevncia jurdica da conduta. Nestes termos, a imputao objetiva se opera por meio da constatao de uma causalidade prpria ao Direito Penal: a causalidade normativa. Nos crimes materiais, a imputao objetiva pressupe a verificao do nexo de causalidade material entre a ao individual e o resultado. Contudo, em alguns casos, a imputao objetiva afirma-se mesmo diante da ausncia da relao fsica de causalidade.  o que acontece com os crimes omissivos prprios, qualificados pelo resultado, e os imprprios. Nessas hipteses, no existindo relao de causalidade fsica,  a norma jurdica que estabelece a vinculao entre a inatividade e o resultado material indesejado. Da falar-se em causalidade normativa, criao especulativa exclusiva do Direito Penal. Na verdade, o resultado naturalista  produzido pelas foras que o determinam, e no pela ausncia de impedimento. A omisso no contribui para a produo do resultado naturalstico e o processo causal que o produz  estranho ao omitente. A omisso apenas no interrompe o desenvolvimento das foras que causam o resultado com a ao esperada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imputação objetiva de resultado jurdico-penal relevante exige investigação que se subdivide em duas etapas: verificação da relação causal no plano empírico e atribuição normativa do resultado ao seu autor. Nos crimes materiais, a imputação objetiva pressupõe a verificação do nexo de causalidade material entre a ação individual e o resultado. No entanto, em alguns casos, a imputação objetiva afirma-se mesmo diante da ausência da relação física de causalidade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao incidencia. DESTAQUE A mera afirmacao de que o denunciado ocupa o cargo de desembargador e insuficiente para a incidencia da causa de aumento de pena prevista no art. 327,  2, do CP. Nos termos do art. 327,  2, do CP, [a] pena sera aumentada da terca parte quando os autores dos crimes previstos neste Capitulo forem ocupantes de cargos em comissao ou de funcao de direcao ou assessoramento de orgao da administracao direta, sociedade de economia mista, empresa publica ou fundacao instituida pelo poder publico. Na especie, o MPF deixou de demonstrar que o denunciado ocupava, em tese, a epoca da perpetracao do crime de corrupcao passiva, cargo em comissao ou de funcao de direcao ou assessoramento de orgao da administracao direta . CP, art. 327,  2. Por outro lado, a mera afirmacao de que o denunciado ocupava o cargo de desembargador, assim como o cargo de parlamentar federal, e insuficiente para a incidencia da aludida causa de aumento de pena. Nesse sentido, [&hellip;] essa causa de aumento, consoante remansosa jurisprudencia [no STF] e inaplicavel pelo mero exercicio do mandato popular: a circunstancia de imposicao hierarquica deve estar descrita e nao e presumivel apenas pelo exercicio destes cargos. Esse entendimento prevaleceu em recentes julgados [do] Supremo Tribunal Federal em casos analogos (Inq 3.983 Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não incide a causa de aumento de pena prevista no art. 327, 2º, do Código Penal, quando o denunciado ocupa o cargo de desembargador. 2. A mera afirmação de que o denunciado ocupa o cargo de desembargador não é suficiente para a incidência da causa de aumento de pena prevista no art. 327, 2º, do Código Penal. 3. A circunstância de imposição hierárquica deve estar descrita e não é presumível apenas pelo exercício de cargos como o de desembargador ou parlamentar federal. 4. O entendimento de que a causa de aumento de pena não é aplicável pelo mero exercício do mandato popular prevaleceu em julgados do Supremo Tribunal Federal.

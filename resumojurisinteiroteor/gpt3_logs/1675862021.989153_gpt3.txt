@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+966, V, do Cdigo de Processo Civil de 2015 ("violar manifestamente norma jurdica"). [...] (AgInt na AR 4.820/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEO, julgado em 17/03/2020, DJe 23/03/2020) [...] 6. A rescisria fundada no art. 485, V, do CPC/73, pressupe a demonstrao clara e inequvoca de que a deciso de mrito impugnada Art. 282. Na portaria, devero ser observados os seguintes aspectos, conforme modelo referencial: I - constar o nome e nmero de polcia do(s) sindicado(s), por tratar-se de um processo acusatrio; II - procurar relatar o fato de maneira clara, objetiva e precisa, adequando a redao da falta o mais prximo possvel do texto especfico das transgresses disciplinares contidas no CEDM, tipificando a(s) transgresso(es), que ser(o) apurada(s) no processo; III - aflorando outras transgresses disciplinares conexas no decorrer da apurao, no tipificadas na portaria da sindicncia, elas devero ser, tambm, apuradas e aprofundadas pelo sindicante, que as especificar na notificao para a defesa prvia e/ou no Termo de Abertura de Vista (TAV) para a apresentao de defesa final; IV - a data do recibo da portaria pelo sindicante  o marco inicial da contagem dos prazos para a concluso da SAD. contrariou a literalidade do dispositivo legal suscitado, atribuindo-lhe interpretao jurdica absurda, teratolgica ou insustentvel, no alcanando a reapreciao de provas ou a anlise da correo da interpretao de matria probatria. 7. A indicao do dispositivo de lei violado  nus do requerente, haja vista constituir a causa de pedir da ao rescisria, vinculando, assim, o exerccio da jurisdio pelo rgo competente para sua apreciao. [...] (REsp 1663326/RN, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/02/2020, DJe 13/02/2020) Na hiptese dos autos, observa-se que o acrdo rescindendo no violou de maneira frontal e evidente quaisquer normas jurdicas, mas to somente deu a interpretao que julgou mais adequada, diante do quadro ftico apresentado naqueles autos, refutando a tese defensiva de cerceamento de defesa com base nos seguintes fundamentos: Em primeiro lugar, o apelante sustenta que ocorreu cerceamento de defesa, sob a alegao de que teria ocorrido aditamento da acusao no processo administrativo-disciplinar. Considero, porm, que tal vcio no encontra nos autos elementos para embas-lo. O Termo de Abertura de Vista para apresentao de defesa prvia (fls. 13/15 do ID 103507) apresenta as seguintes imputaes, quanto aos fatos que ensejaram a excluso do apelante: [.] Por haver adquirido do Sr Gilson Gomes de Melo,  base de troca por uma Pick Up Fiat/Strada, o veculo VW/Crossfox, cor prata, placa HET 2424, veculo este, que teria sido apropriado indevidamente, pelo Sr. Marcos Antnio Rodrigues de Aguiar, o qual deixou de devolv-lo  sua proprietria Sra Silvana Rodrigues Leite, conforme REDS n. 2011 - 001778992.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Em um caso de rescisão de decisão judicial, foi constatado que não houve violação de norma jurídica, uma vez que a interpretação dada aos fatos apresentados foi considerada adequada. Além disso, foi verificado que o nus da indicação de dispositivo legal violado é do requerente, vinculando, assim, o exerccio da jurisdição pelo órgão competente para sua apreciação.

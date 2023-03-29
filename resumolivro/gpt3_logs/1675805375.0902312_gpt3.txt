@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+289 Esta obrigatoriedade esta estampada na Resolucao n. 4.787/2019, que assim estabelece: Artigo 6 - As mensagens enviadas para caixas individuais sao de leitura obrigatoria para seus destinatarios e as mensagens enviadas para caixas administrativas sao de leitura obrigatoria para usuarios designados como administradores ou para quem for delegado por eles, observando o seguinte: I - usuarios que cumprem jornadas de trabalho administrativas deverao efetuar o acesso e leitura pelo menos 02 (duas) vezes por dia, preferencialmente no inicio e antes do termino do expediente; II - usuarios que cumprem jornadas de trabalho operacionais deverao efetuar o acesso e leitura pelo menos 01 (uma) vez no dia em que estiver de servico, preferencialmente no final do dia; III - ficam obrigados a leitura das mensagens os usuarios que nao se enquadrem nos incisos I e II, no dia de seu servico, desde que nao estejam impedidos para tal, em razao da atividade executada.
+290 Regulamenta o Governo Digital Estadual, no mbito da Administracao Publica direta, autarquica e fundacional do Poder Executivo. 291 Disponivel em: <http://www.cnj.jus.br/noticias/cnj/85009-whatsapp-pode-ser-usado-para-intimacoes-judiciais>
+292 Manual do Processo Administrativo Disciplinar, editado pela Controladoria-Geral da Uniao (p. 210). 293 TAVORA, Nestor; ALENCAR, Rosmar Rodrigues. Curso de direito processual penal. p. 369. 294 Nesse sentido tem posicionado o STJ em decisoes acerca de fatos semelhantes em processos penais, cujo entendimento se aplica perfeitamente ao processo administrativo: (...)Se a expedicao de carta precatoria nao suspende o curso do processo e, consequentemente, a instrucao criminal ( CPP , artigo 222 , paragrafo 1 ), a designacao de audincia para inquiricao das testemunhas arroladas pela Defesa, antes do retorno da deprecata, nao implica em nulidade, tanto mais se nao demonstrado qualquer prejuizo resultante do ato (...) (RHC 24.914/GO, Rel. Ministro Napoleao Nunes Maia Filho, Rel.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Resolução n. 4.787/2019 estabelece a obrigatoriedade de leitura de mensagens enviadas para caixas individuais e administrativas para usuários designados como administradores ou delegados por eles. Usuários com jornadas de trabalho administrativas devem ler pelo menos duas vezes por dia, enquanto aqueles com jornadas operacionais devem ler pelo menos uma vez por dia. O STJ tem posicionado que a designação de audiência para inquirição de testemunhas antes do retorno da carta precatória não implica em nulidade.

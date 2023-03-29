@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A conduta, em tese, caracteriza um crime militar, previsto no artigo 299 do CPM, e a Justia Militar Federal tem competncia para julgar o civil. Por outro lado, se um civil desacatar um policial militar, durante uma operao de policiamento ostensivo, dever ser julgado na justia comum estadual, por crime comum. No se aplica ao exemplo o artigo 9, III, d, do CPM porque a Constituio da Repblica no permite que a Justia Militar Estadual julgue civis e tampouco que a justia comum julgue crimes militares. O tratamento constitucional diferenciado ainda produz repercusses no que diz respeito  aplicao da regra da comunicabilidade das caractersticas pessoais elementares do tipo, prevista no pargrafo 1 do artigo 53 do CPM. Como a Justia Militar da Unio  competente para o julgamento de crimes militares praticados por militares e civis, pode caracterizar-se o concurso de pessoas entre um militar da Unio e um civil para a prtica de um crime militar. A caracterstica pessoal exigida pelo tipo, que apenas um dos participantes ostenta (ser militar), se comunica ao outro para que, nos termos da teoria monista ou unitria, ambos respondam pelo mesmo crime. Na Justia Militar Estadual, entretanto, a questo no apresenta a mesma soluo. Como a Justia Militar Estadual no julga civis, a regra do pargrafo 1 do artigo 53 do CPM no tem aplicao para fazer comunicar a condio de militar de um dos participantes aos demais. Dessa forma, no  possvel caracterizar juridicamente um concurso de pessoas. Havendo concorrncia entre um militar estadual e um civil para a realizao de um fato considerado como crime militar imprprio, dever haver separao dos processos, de modo que o militar seja julgado na justia militar, por crime militar, e o civil, na justia comum, por crime previsto na legislao comum. Na hiptese em que se verificar concorrncia entre um militar estadual e um civil para a realizao de um fato previsto como crime propriamente militar, o raciocnio desenvolvido leva a concluir que a conduta do civil ser atpica, por no haver correspondente incriminao na legislao repressiva comum e ele no poder responder a processo na justia comum pela prtica de crime militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar Federal tem competência para julgar civis que cometem crimes militares previstos no artigo 299 do CPM, enquanto civis que desacatam policiais militares durante uma operação de policiamento ostensivo devem ser julgados na Justiça Comum Estadual. No entanto, se houver concorrência entre um militar estadual e um civil para a realização de um crime militar impróprio, os processos devem ser separados, sendo o militar julgado na Justiça Militar e o civil na Justiça Comum.

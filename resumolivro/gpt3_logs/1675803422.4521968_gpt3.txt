@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Ja as causas de suspeicao geram nulidade relativa, que podera ser convalidada por um ato positivo da defesa (manifesta expressamente a inexistncia de suspeicao) ou pela sua omissao, ou seja, nao a argui no primeiro instante em que tem a oportunidade de se pronunciar nos autos, momento esse que, em regra, dar-se-a na reuniao de instalacao (primeira reuniao), quando estara precluso o seu direito de peticionar a esse respeito nas reunioes vindouras. Nesse sentido:
+EMBARGOS DE DECLARACAO (...) COMPROMISSO POR INTEGRANTE DA COMISSAO - IRRELEVNCIA - IRREGULARIDADES NO PROCESSO ADMINISTRATIVO DISCIPLINAR (PAD) INSUFICIENTES PARA OS EFEITOS MODIFICATIVOS DA DECISAO. - Nao implica nulidade a ausncia de termo de compromisso do secretario da comissao do Processo Administrativo Disciplinar, porquanto tal designacao recai, necessariamente, em servidor publico, cujos atos funcionais gozam de presuncao de legitimidade e veracidade (Mandado de Seguranca n. 14.797 - DF 2009/0221635-7). - Nao pode prevalecer a alegacao de inimizade entre o justificante e o escrivao nomeado para integrar a Comissao do PAD, se o relatorio reportando a ocorrncia de trnsito na qual estiveram envolvidos no passado, trazido aos autos pelo proprio embargante, assinala que, no curso da mencionada ocorrncia e com a chegada dos Policiais Militares de servico, os envolvidos tomaram cincia de suas condicoes de policiais militares, ficaram tranquilos, entraram em acordo e dispensaram o registro de ocorrncia policial. - Ainda, se o impedimento desse membro da Comissao do PAD deixou de ser alegado na fase do PAD, e ofertadas as Razoes Finais de Defesa, tem-se por configurada a preclusao consumativa, nao podendo mais tal impedimento ser invocado. (TJM-MG: Embargos de Declaracao - Processo eproc n. 2000641-69.2019.9.13.0000; Relator: Desembargador James Ferreira Santos; Julgamento (unnime): 17/06/2020. EPROC: 25/06/2020). Os paragrafos 1 e 2 deste artigo excepcionam a regra acima mencionada.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ausência de termo de compromisso do secretário da comissão do Processo Administrativo Disciplinar não implica nulidade, pois os atos funcionais desse servidor gozam de presunção de legitimidade e veracidade. Além disso, não pode prevalecer a alegação de inimizade entre o justificante e o escrivão nomeado para integrar a Comissão do PAD. Se o impedimento desse membro da Comissão do PAD não foi alegado na fase do PAD, há preclusão consumativa, não podendo mais ser invocado.

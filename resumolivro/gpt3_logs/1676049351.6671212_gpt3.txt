@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A tarefa de apurao da quantidade de reduo deve levar em conta aspectos prprios  situao fundamentadora dessa reduo. Assim, a graduao que se puder estabelecer quanto ao nvel de compreenso ou de autodeterminao do condenado  apropriada para medir a quantidade da reduo. Quanto maior for a capacidade de compreenso do carter ilcito do fato ou de autoconduo conforme esse entendimento, menor dever ser a reduo de pena. A constatao concreta dessa capacidade, no entanto, no  tarefa fcil, e o magistrado, ordinariamente, dever socorrer-se de um minucioso exame pericial. O artigo 98 do Cdigo Penal dispe que, na hiptese de semi-imputabilidade prevista no pargrafo nico do artigo 26, necessitando o condenado de especial tratamento curativo, a pena privativa de liberdade poder ser substituda pela internao ou por tratamento ambulatorial. Ressalte-se que, ao contrrio do que acontece quando do reconhecimento da inimputabilidade, a aplicao de medida de segurana ao semi-imputvel pressupe sentena penal condenatria. Se o dispositivo legal determinar que a pena seja substituda, impe ao juiz estabelecer determinada pena para que, posteriormente, venha a ser substituda. Com a adoo do sistema vicariante, a constatao da culpabilidade diminuda possibilita ao juiz escolher entre a aplicao de pena reduzida ou medida de segurana. Visando a orientar o julgador no exerccio da referida opo, o item 22 da exposio de motivos da Lei 7.209/84 esclarece que (...) nos casos fronteirios em que predominar o quadro mrbido, optar o juiz pela medida de segurana. Na hiptese oposta, pela pena reduzida (...). A substituio da pena reduzida pela medida de segurana est vinculada  especial condio de estar o condenado necessitando de tratamento curativo, e o referido dispositivo legal acolhe o princpio de que deva ser aplicada a sano mais conveniente  recuperao do condenado. Verificada a necessidade de tratamento, muito embora o artigo 98 disponha que o juiz pode determinar a substituio, a aplicao de medida de segurana apresenta-se obrigatria, diante da especial necessidade de tratamento do condenado, salvo quando inexistir tratamento apto a recuper-lo. Existindo tratamento, no se pode negar ao indivduo o procedimento curativo. Do mesmo modo, deve-se aplicar a medida de segurana no caso de no existir tratamento curativo, sendo possvel estabelecer controle para a enfermidade e o comportamento socialmente inadequado do semi-imputvel. 16.6. Embriaguez incompleta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 98 do Código Penal prevê que, em casos de semi-imputabilidade, a pena privativa de liberdade pode ser substituída por medida de segurança ou tratamento ambulatorial. O juiz deve optar pela medida de segurança se predominar o quadro mórbido e pela pena reduzida se predominar a capacidade de compreensão do condenado. A aplicação da medida de segurança está vinculada à necessidade de tratamento do condenado e ao princípio da aplicação da sanção mais conveniente para a sua recuperação.

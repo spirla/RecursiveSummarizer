@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6543/DF, relatora Min. Carmen Lucia, julgamento virtual finalizado em 26.3.2021 (sexta-feira), as 23:59 (INF 1011) 1.3 BENS PUBLICOS Concessionarias de energia eletrica e utilizacao onerosa de faixas de dominio publico estadual - ADI 3763/RS Resumo: E inconstitucional norma estadual que onere contrato de concessao de energia eletrica pela utilizacao de faixas de dominio publico adjacentes a rodovias estaduais ou federais. Isso porque a Uniao, por ser titular da prestacao do servico publico de energia eletrica [arts. 21, XII, b, e 22, IV, da CF/88 (CF) ], detem a prerrogativa constitucional de estabelecer o regime e as condicoes da prestacao desse servico por concessionarias, o qual nao pode sofrer ingerencia normativa dos demais entes politicos. Ademais, na linha da jurisprudencia do Supremo Tribunal Federal, nao ha possibilidade de interferencia do estado-membro nas relacoes juridico-contratuais entre Poder concedente federal e as empresas concessionarias, especificamente no que tange a alteracoes das condicoes estipuladas em contrato de concessao de servicos publicos, sob regime federal, mediante edicao de leis estaduais. No caso, trata-se de acao direta de inconstitucionalidade em face de normas do estado do Rio Grande do Sul que autorizam a cobranca de preco publico pelo uso de bens publicos para a implantacao de infraestrutura necessaria a distribuicao de energia eletrica. Com base nesse entendimento, o Plenario, por maioria, julgou parcialmente procedente o pedido formulado na acao direta para: a) atribuir interpretacao conforme a Constituicao a Lei 12.238/2005 e ao Decreto regulamentar 43.787/2005 do estado do Rio Grande do Sul, excluindo da incidencia de ambos os diplomas as concessionarias de servico publico de energia eletrica; e b) declarar a inconstitucionalidade da expressao de energia , contida no inciso IV do art. 6, e da Tarifa Basica prevista no Tipo II do Item 1 do Anexo I do mencionado Decreto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma estadual que onere contrato de concessão de energia elétrica pela utilização de faixas de domínio público adjacentes a rodovias estaduais ou federais. 2. A União detém a prerrogativa constitucional de estabelecer o regime e as condições da prestação do serviço público de energia elétrica. 3. Não há possibilidade de interferência do Estado-membro nas relações jurídico-contratuais entre Poder concedente federal e as empresas concessionárias. 4. É atribuída interpretação conforme a Constituição à Lei 12.238/2005 e ao Decreto regulamentar 43.787/2005 do Estado do Rio Grande do Sul, excluindo da incidência de ambos os diplomas as concessionárias de serviço público de energia elétrica. 5. É declarada a inconstitucionalidade da expressão de energia, contida no inciso IV do art. 6, e da Tarifa Básica prevista no Tipo II do Item 1 do Anexo I do mencionado Decreto.

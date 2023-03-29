@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Para haver responsabilidade, e necessario haver clara negligencia na apuracao do fato ou dolo na difusao da falsidade. Nao ha, portanto, a presenca de dolo especifico por parte do paciente/agravante no sentido de caluniar, injuriar ou difamar o querelado. Ha, sim, criticas duras, grosseiras, certamente inapropriadas ou mesmo injustas, mas nao a presenca de animus injuriandi. (Informativo n. 738) PROCESSO AgRg no HC 728.750-DF, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, Julgado em 17/05/2022, DJe de 19/05/2022. RAMO DO DIREITO DIREITO PENAL TEMA Trafico de drogas. Proximidades ou nas imediacoes de estabelecimento de ensino. Covid-19. Situacao excepcional. Majorante prevista no art. 40, inciso III, da Lei n. 11.343/2006.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Para haver responsabilidade, é necessário haver clara negligência na apuração do fato ou dolo na difusão da falsidade. 2. Não há presença de dolo específico por parte do paciente/agravante no sentido de caluniar, injuriar ou difamar o querelado. 3. Há, sim, críticas duras, grosseiras, certamente inapropriadas ou mesmo injustas, mas não a presença de animus injuriandi. 4. A majorante prevista no art. 40, inciso III, da Lei n. 11.343/2006 é aplicável à situação excepcional decorrente da pandemia de Covid-19.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao ha falar, pois, em suposta ilegalidade dos prazos fixados para a reabilitacao da falta grave na Resolucao SAP n. 144/2010 do Regimento Interno Padrao do Estado de Sao Paulo. Embora, de fato, a Sexta Turma desta Corte tenha esposado o entendimento de que as reabilitacoes das faltas graves cometidas no mesmo dia e que ocorrem em periodos sucessivos e nao concomitantes conferem ao apenado tratamento mais rigoroso (HC 652.190/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 27/8/2021), o precedente tratava de faltas cometidas ha cerca de 4 (quatro) anos e em crime de trafico de drogas. No caso vertente, a simples constatacao de eventual reabilitacao das faltas nao altera a situacao prisional do paciente, ja que nao se mostram tao antigas e o crime praticado se deu sob violencia ou grave ameaca. (Informativo n. 735) PROCESSO AgRg no HC 708.653-PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 15/03/2022, DJe 18/03/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL, EXECUCAO PENAL, DIREITOS HUMANOS TEMA Computo em dobro de pena de presos no complexo do Curado/PE. Resolucao da CIDH de 28/11/2018. Alegado excesso de prazo no julgamento de IRDR pelo Tribunal de Justica. Inexistencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há falar em suposta ilegalidade dos prazos fixados para a reabilitação da falta grave na Resolução SAP n. 144/2010 do Regimento Interno Padrão do Estado de São Paulo. 2. A Sexta Turma desta Corte tem esposado o entendimento de que as reabilitações das faltas graves cometidas no mesmo dia e que ocorrem em períodos sucessivos e não concomitantes conferem ao apenado tratamento mais rigoroso. 3. A simples constatação de eventual reabilitação das faltas não altera a situação prisional do paciente, já que não se mostram tão antigas e o crime praticado se deu sob violência ou grave ameaça. 4. Não há alegado excesso de prazo no julgamento de IRDR pelo Tribunal de Justiça.

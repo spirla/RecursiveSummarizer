@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nada obstante o Fundo de Parcerias Publico-Privadas ser garantidor do contrato, segundo consignado na argumentacao do municipio, referido fundo, como coobrigado e devedor solidario, na verdade, estava suportando a contraprestacao devida a contratada. Dai o municipio defender a tese de reparticao dos riscos, ja que as receitas advindas da arrecadacao dos royalties do petroleo diminuiram. O Fundo de Parceria-Publico Privada foi estabelecido como garantia contratual, o que pressupoe a inexistencia de vinculacao direta entre o fundo e a contraprestacao devida a concessionaria. Ademais, e evidente que, analisando as clausulas contratuais, acrescida da reducao do percentual de contraprestacao a concessionaria, houve o comprometimento do equilibrio economico-financeiro do ajuste. Portanto, a substituicao da contraprestacao inicialmente ajustada, sem alteracao dos demais encargos e das obrigacoes previstas entre as partes, principalmente aquelas de responsabilidade da concessionaria, ofende a ordem publica administrativa, pois compromete o equilibrio economico-financeiro do contrato. Alem disso, a decisao que se pretende suspender, se, de um lado, implica diminuicao de despesas em favor do municipio, de outro, impoe a concessionaria custos nao previstos inicialmente e riscos para a populacao em relacao a continuidade da prestacao de servicos publicos. Em tais hipoteses de evidencia de desequilibrio economico-financeiro, o Superior Tribunal de Justica ja se posicionou em favor da suspensao. Contudo, no caso analisado, ha um pedido subsidiario formulado pela agravante que deve ser ponderado. Tal pedido pugna pela adocao do criterio de remuneracao mensal com base no valor originariamente contratado. Acrescente-se a isso a situacao desfavoravel das contas publicas indicadas pelo municipio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Fundo de Parcerias Publico-Privadas foi estabelecido como garantia contratual, o que pressupoe a inexistencia de vinculacao direta entre o fundo e a contraprestacao devida a concessionaria. 2. A substituicao da contraprestacao inicialmente ajustada, sem alteracao dos demais encargos e das obrigacoes previstas entre as partes, ofende a ordem publica administrativa, pois compromete o equilibrio economico-financeiro do contrato. 3. O Superior Tribunal de Justica ja se posicionou em favor da suspensao em hipoteses de evidencia de desequilibrio economico-financeiro. 4. O pedido subsidiario formulado pela agravante pugna pela adocao do criterio de remuneracao mensal com base no valor originariamente contratado.

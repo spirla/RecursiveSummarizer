@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+[...] Os castigos tm por finalidade nica obstar o culpado de tornar-se futuramente prejudicial  sociedade e afastar os seus patrcios do caminho do crime. Essa concepo propiciou a elaborao das doutrinas denominadas relativas, de ndole utilitria, nas quais a interpretao a respeito do modo de atuao da pena reala a pretenso de realizar determinada finalidade protetiva. O pensamento utilitrio, em sua primeira concepo, atendeu aos interesses do prncipe, quando a razo do Estado sobrepujava a moral e o prprio Direito. Na esfera penal, o utilitarismo assim concebido manifestou-se nas raras ocasies de um Direito Penal de exceo, pois as prticas autoritrias no costumam ser explicitamente teorizadas. Os tericos preferem encobrir a atuao perversa da razo do Estado com argumentos de racionalidade jurdica, fundamentada no legalismo tico e nas concepes formalistas da retribuio jurdica. O utilitarismo de cunho societrio, no entanto, sustenta uma perspectiva para a pena que exclui as sanes socialmente inteis. Essa outra posio revela-se produto da ideologia liberal, que impe limites  interveno repressiva estatal. Nesse sentido, o utilitarismo penal tem como premissa que a incriminao no se vincula  imoralidade da conduta humana, mas  sua danosidade social. O fato punvel mostra-se incompatvel com as expectativas de harmnica convivncia social, e a pena visa a proteger determinados bens e interesses relevantes. A pena no  manifestao de vingana, mas, com olhos voltados ao futuro, pretende realizar o bem social. Nesse sentido, Jakobs afirma que a pena possui funo preventiva, pois visa a proteger as condies da harmnica interao social. As doutrinas utilitrias procuram justificar a pena, considerando-a meio apto a realizar os escopos de correo do condenado, sua neutralizao (impedimento de que se causem prejuzos), a dissuaso dos demais membros da sociedade da inclinao para imitar o condenado, pelo exemplo do castigo, e a integrao de todos, no contexto de reafirmao penal dos valores jurdicos lesionados. Vale notar que a finalidade de se obter o mximo de resultados preventivos com a aplicao da pena sujeita-se  finalidade, mais importante no Estado de Direito, de causar o mnimo sofrimento possvel aos infratores da norma e  sociedade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O utilitarismo penal tem como premissa que a incriminação se vincula à danosidade social e não à imoralidade da conduta humana. A pena visa proteger bens e interesses relevantes, além de prevenir a harmônica interação social. O objetivo é obter o máximo de resultados preventivos com o mínimo de sofrimento possível para infratores e sociedade.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Todavia, nos crimes dolosos, a criao da situao de risco desaprovado  to evidente que os esforos doutrinrios concentraram-se nas dificuldades apresentadas para a determinao da situao de risco no intencional. No se pode esquecer de que efetuar disparo de arma de fogo contra determinada pessoa  to desaprovado como dirigir veculo com excesso de velocidade nas rodovias. Portanto, a imputao objetiva  questo que se relaciona com crimes dolosos ou culposos. Com acerto, Reyes Alvarado conclui que:
+(...) en un sistema unitario como el aqu defendido, la teora de la imputacin objetiva, como determinadora del injusto del comportamiento, es aplicable a todos os tipos de la parte especial, esto es tanto a los crimes de resultado como a los que encierran peligro, por igual a los ilcitos dolosos y culposos. Nos crimes culposos, a relevncia jurdica do fato evidencia-se diante da inobservncia do dever objetivo de cuidado. Leciona Juarez Tavares:
+A leso ao dever de cuidado resulta da omisso da ao cuidadosa, imposta pela norma, no sentido de atender s funes de delimitao da atividade proibida. (...) Tendo em vista a estrutura da norma proibitiva, nos crimes culposos, o contedo do dever de cuidado  integrado, primeiramente, pelo dever de reconhecimento do perigo para o bem jurdico, resultante da ao a ser realizada (cuidado interno), e depois pelo dever de se abster dessa ao perigosa ou somente efetu-la sob cautela (cuidado externo). A importncia dos critrios de imputao objetiva para os crimes culposos pode ser evidenciada na distino entre a causao e a determinao do resultado. A imputao objetiva de um resultado culposo exige que a contribuio do sujeito determine o resultado, e no apenas que lhe d causa. Veja-se o exemplo do pedestre que atravessa inesperadamente a rodovia e  atropelado por automvel conduzido em excesso de velocidade. Se for constatado que a conduo do veculo na velocidade permitida no teria evitado o resultado, pode-se concluir que a conduo do veculo foi causa do resultado, mas no o determinou. No caso, no se pode imputar o resultado ao condutor do veculo que no incrementou o risco da ocorrncia do resultado. Tambm em relao aos crimes omissivos, as exigncias para a imputao objetiva tm inteira aplicao. Contudo, vale lembrar que somente se poder considerar que a omisso  relevante quando objetivamente existir ao de salvamento e o omitente tiver a possibilidade concreta de atuar para evitar o resultado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imputao objetiva aplicvel a todos os tipos de crimes, tanto dolosos quanto culposos. No caso dos culposos, a leso ao dever de cuidado resulta da omisso da ao cuidadosa exigida pela norma. Para os crimes omissivos, somente pode-se considerar a omisso relevante quando existir uma ao de salvamento e o omitente tiver a possibilidade de atuar para evitar o resultado.

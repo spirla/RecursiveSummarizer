@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+3 - Ao receber o PCD no estado finalizado conforme indicacao 3 do fluxograma:
+ Determinar diligncias complementares, se entender que ha outras provas a serem produzidas (artigo 38, caput, MAPPA);
+ Encaminhar ao CEDMU, independentemente se restou comprovada alguma causa de justificacao/absolvicao, tendo em vista a existncia de RED como ultimo ato que antecede o relatorio final (artigo 38, II, MAPPA);
+ Instaurar processo (PAD/PADS/PAE) ou procedimento administrativo (IPM), sem necessidade de remessa previa ao CEDMU. CAPITULO II
+Queixa Disciplinar
+Artigo 58 - Queixa e a comunicacao interposta pelo militar diretamente atingido por ato pessoal que repute irregular ou injusto. Paragrafo 1 - A apresentacao da queixa sera feita no prazo maximo de cinco dias uteis, a contar da data do fato, e encaminhada por intermedio da autoridade a quem o querelante estiver diretamente subordinado. Paragrafo 2 - A autoridade de que trata o paragrafo 1 tera prazo de trs dias para encaminhar a queixa, sob pena de incorrer no disposto no inciso XVI do artigo 13 desta lei. Paragrafo 3 - Por decisao da autoridade superior e desde que haja solicitacao do querelante, este podera ser afastado da subordinacao direta da autoridade contra quem formulou a queixa, ate que esta seja decidida. Paragrafo 4 - Na formulacao da queixa, sera observado o disposto no artigo 56. A queixa disciplinar, ao contrario da comunicacao disciplinar, nao e um ato de oficio, ou seja, nao decorre do dever juridico de agir do querelante (militar que produz a queixa). E, conforme diccao do caput, um ato de disponibilidade ja que depende de o militar haver se sentido atingido por um ato pessoal, que ele repute irregular ou injusto.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Queixa Disciplinar é um ato de disponibilidade, pois depende do militar sentir-se atingido por um ato pessoal que ele considere irregular ou injusto. O militar deve apresentar a queixa no prazo de cinco dias úteis, encaminhada por intermédio da autoridade a quem está subordinado. A autoridade tem três dias para encaminhar a queixa, sob pena de incorrer em sanções. Por decisão da autoridade superior, o militar pode ser afastado da subordinação direta da autoridade contra quem formulou a queixa.

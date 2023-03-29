@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 129, 3, C/C O ART. 61, II, A E C, AMBOS DO CDIGO PENAL. ALEGAO DE OFENSA AO ART. 422 DO CPP. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDNCIA DA SMULA N. 7/STJ. DOSIMETRIA. SMULA N. 284/STF. AGRAVO DESPROVIDO. 1. "[...] tendo o Tribunal de origem sido categrico em afirmar que houve a devida intimao da defesa para o julgamento da apelao, rever esse posicionamento demandaria a inevitvel incurso no acervo ftico-probatrio dos autos, hiptese vedada pelo Verbete n. 7 da Smula do STJ" (AgRg no AREsp n. 1.101.023/SC, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/10/2017, DJe 8/11/2017). 2. De acordo com a orientao jurisprudencial desta Corte, o clculo da pena  questo afeta  discricionariedade motivada do magistrado, passvel de reviso no mbito desta angusta via apenas quando ficar evidenciada notria ilegalidade, sem a necessidade de maior aprofundamento no acervo ftico-probatrio. 3. Na hiptese, ao que se dessume das razes do apelo nobre, verifica-se que "o recorrente no explicitou de maneira precisa como se deu a suscitada afronta ao art. 59 do Estatuto Repressivo, limitando-se  alegao genrica de que a pena-base foi fixada acima do mnimo legal sem a imprescindvel fundamentao, o que atrai a incidncia do bice previsto na Smula 284/STF" (AgRg no AREsp n. 237.445/RS, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/11/2017, DJe 29/11/2017).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de origem afirmou que houve a devida intimao da defesa para o julgamento da apelao, o que não pode ser revisto no âmbito do recurso especial, de acordo com a Smula n. 7/STJ. A dosimetria da pena é questão afeta à discricionariedade motivada do magistrado, passível de revisão somente quando houver notória ilegalidade, sem a necessidade de maior aprofundamento no acervo fático-probatório, conforme orientação jurisprudencial desta Corte.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Assim, a cientificacao formal do militar somente produzira seus efeitos administrativos esperados quando se der apos a ativacao de uma sancao disciplinar no sistema informatizado da IME (SIRH ou SIGP), que ocasionar o efetivo ingresso do militar no conceito C. Por essa razao, deve a Administracao Militar atentar para o fato de que, toda vez que for ativar uma sancao disciplinar no Sistema Informatizado, devera checar qual o conceito que o militar passou ostentar - sendo o conceito C, esse sera o momento adequado para a cientificacao formal do militar sancionado, com o respectivo arquivamento do documento na sua pasta funcional para futuros efeitos. Outro alerta e que essa notificacao deve se replicar toda vez que houver nova ativacao de sancao, mesmo que o militar ja esteja no conceito C. Trata-se de procedimento que visa resguardar a Administracao Militar, caso a notificacao anterior esteja, eventualmente, irregular. Artigo 44 - O cumprimento da sancao disciplinar por militar afastado do servico ocorrera apos sua apresentacao, pronto, na unidade. O disposto no presente artigo, por questao de logica e a nosso sentir, refere-se aquelas sancoes disciplinares cujo cumprimento demanda a permanncia do militar no servico ativo, ou seja, as sancoes de advertncia, repreensao, prestacao de servicos e suspensao. Ja as sancoes de reforma disciplinar compulsoria e demissao independem do retorno do militar sancionado afastado do servico para o seu cumprimento, ja que a sua efetivacao nao alterara o status quo do militar, ou seja, o cumprimento da sancao e incompativel com a sua permanncia no servico ativo. Ressalta-se, ainda, que, se o presente dispositivo estivesse se referindo a todas as sancoes disciplinares elencadas no CEDM, estaria rechacando a possibilidade de imposicao da sancao disciplinar de perda do posto, patente ou graduacao do militar da reserva, posto que se trata de uma sancao a ser aplicada justamente a um militar afastado do servico que, salvo situacoes excepcionais, esta desobrigado ad aeternum de se apresentar pronto para o servico.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A cientificação formal do militar sancionado só acontecerá quando for ativada uma sancao disciplinar no Sistema Informatizado da IME. O cumprimento da sancao disciplinar por militar afastado do serviço ocorrerá após sua apresentação, pronto, na unidade, exceto para as sanções de reforma disciplinar compulsória e demissão, que não dependem do retorno do militar sancionado afastado do serviço.

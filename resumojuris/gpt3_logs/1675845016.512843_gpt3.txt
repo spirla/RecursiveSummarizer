@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+171 do Decreto-Lei n. 2.848, de 7 de dezembro de 1940 (CP), quando praticados mediante deposito, mediante emissao de cheques sem suficiente provisao de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferencia de valores, a competencia sera definida pelo local do domicilio da vitima, e, em caso de pluralidade de vitimas, a competencia firmar-se-a pela prevencao . Todavia, a inovacao legislativa disciplinou a competencia do delito de estelionato em situacoes especificas descritas pelo legislador, as quais nao ocorrem no caso concreto, porquanto os autos nao noticiam a ocorrencia transferencias bancarias ou depositos efetuados pela empresa vitima e tampouco de cheque emitido sem suficiente provisao de fundos. No contexto dos autos, nao identificadas as hipoteses descritas no  4 do art. 70 do CPP deve incidir o teor do caput do mesmo dispositivo legal, segundo o qual a competencia sera, de regra, determinada pelo lugar em que se consumar a infracao, ou, no caso de tentativa, pelo lugar em que for praticado o ultimo ato de execucao . Sobre o tema a Terceira Secao desta Corte Superior, recentemente, pronunciou-se no sentido de que nas situacoes nao contempladas pela novatio legis, aplica-se o entendimento pela competencia do Juizo do local do eventual prejuizo. (Informativo n. 736) PROCESSO RHC 145.931-MG, Rel. Min. Sebastiao Reis Junior, Terceira Secao, por unanimidade, julgado em 09/03/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Execucao definitiva de pena em regime inicial fechado. Concessao de prisao domiciliar. Possibilidade. Protecao integral a crianca.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência para o delito de estelionato será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, pela prevenção. 2. Nas situações não contempladas pela novatio legis, aplica-se o entendimento pela competência do Juízo do local do eventual prejuízo. 3. É possível a concessão de prisão domiciliar para execução definitiva de pena em regime inicial fechado, desde que garantida a proteção integral à criança.

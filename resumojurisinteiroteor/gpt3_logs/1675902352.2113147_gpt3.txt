@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No podemos simplesmente aceitar, por aceitar, um recurso que sequer preenche os requisitos de sua admissibilidade. Lado outro, a Lei n. 9.174/98, que trouxe para a legislao penal ordinria as penas restritivas de direito, no  aplicvel nos processos de competncia da Justia Militar, notadamente porque no se estende  legislao penal e processual penal militares. Neste sentido, o Supremo Tribunal Federal decidiu: RE 273900/ SC - SANTA CATARINA RECURSO EXTRAORDINRIO Relator (a): Min. Seplveda Pertence Julgamento: 08/09/2000 rgo Julgador: Primeira Turma Publicao: DJ 08-09-2000 PP-00023 EMENT VOL-02003-10 PP- 02185 Parte(s): Recte: Jose Mrcio Ribeiro de Carvalho Recdo: Ministrio Pblico Estadual Ementa: I - RE: norma constitucional de direito intertemporal e interpretao das normas infraconstitucionais em alegado conflito. Para solver a questo de direito intertemporal relativa  incidncia do art. 5, XL, da Constituio,  necessrio - e, por isso, admissvel, mesmo em recurso extraordinrio - interpretar as normas infraconstitucionais de modo a aferir da existncia do conflito no tempo entre elas. II. Direito Penal Militar: penas restritivas de direito: a L. 9174, limitada  alterao do art. 44 C. Pen. comum, no se aplica aos crimes militares, objeto de lei especial diversa no ponto. HC 86079 / SP - SO PAULO Relator (a): Min. JOAQUIM BARBOSA Julgamento: 26/09/2006 rgo Julgador: Segunda Turma Publicao: DJ 06-11-2006 PP-00050 EMENT VOL-02254-03 PP- 00432 Parte(s): Pacte: Fause Luiz Lomonaco Impte: Fause Luiz Lomonaco Adv: Luiz Henrique Marques e outro (a/s) Coator: (a/s) (ES): Superior Tribunal Militar EMENTA: HABEAS CORPUS - CONDENAO PELA JUSTIA MILITAR. CONVERSO DE PENA PRIVATIVA DE LIBERDADE EM RESTRITIVA DE DIREITOS. MILITAR DA RESERVA. NO APLICAO DO REGIME ABERTO. CONHECIMENTO PARCIAL. ORDEM DENEGADA. O Supremo Tribunal Federal no  competente para julgar habeas corpus em que se impugne ato de juiz-auditor da Justia Militar. No reconhecimento da impetrao no ponto.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Supremo Tribunal Federal decidiu que a Lei n. 9.174/98, que trouxe para a legislao penal ordinria as penas restritivas de direito, no aplicvel nos processos de competncia da Justia Militar, pois no se estende legislao penal e processual penal militares. Além disso, o STF não é competente para julgar habeas corpus em que se impugne ato de juiz-auditor da Justia Militar.

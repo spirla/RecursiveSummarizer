@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+105, I, c, da CF/88, compete ao Superior Tribunal de Justica processar e julgar, originariamente, os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alinea 'a', ou quando o coator for tribunal sujeito a sua jurisdicao, Ministro de Estado ou Comandante da Marinha, do Exercito ou da Aeronautica, ressalvada a competencia da Justica Eleitoral . No caso, o Habeas Corpus foi impetrado com objetivo de desconstituir a Portaria n. 1.118, de 26 de novembro de 2019, editada pelo Coordenador de Processos Migratorios do Ministerio da Justica, que decretara a expulsao de estrangeiro que respondeu a processo por trafico privilegiado do pais. Com efeito, conforme ressaltado no parecer do Ministerio Publico Federal, quando da prolacao do ato impugnado, ja estava em vigor a Portaria n. 432, de 17 de junho de 2019, da Secretaria Nacional de Justica, que subdelegou ao Coordenador de Processos Migratorios a pratica do ato. Nesse contexto, aplicavel ao caso, por analogia, o disposto na Sumula n. 510/STF, segundo a qual praticado o ato por autoridade, no exercicio de competencia delegada, contra ela cabe o mandado de seguranca ou a medida judicial . Assim, reconhecida a ilegitimidade passiva da autoridade impetrada, o Superior Tribunal de Justica nao possui competencia para processar e julgar o presente Habeas Corpus, conforme previsto no art. 105, I, c, da CF/88. (Informativo  Ed. Especial n. 5) 491 CF/88 de 88, art. 105, I, c; Coordenadoria de Processos Migratorios do Ministerio da Justica, Portaria n. 1.118, de 26 de novembro de 2019; e Secretaria Nacional de Justica, Portaria n. 432, de 17 de junho de 2019. SUMULAS Sumula n. 510/STF. PROCESSO CC 174.764-MA, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Compete ao Superior Tribunal de Justiça processar e julgar originariamente os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas no art. 105, I, c, da Constituição Federal de 1988. 2. É aplicável, por analogia, o disposto na Sumula n. 510/STF, segundo a qual praticado o ato por autoridade, no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial. 3. O Superior Tribunal de Justiça não possui competência para processar e julgar o presente Habeas Corpus, conforme previsto no art. 105, I, c, da Constituição Federal de 1988.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Como  cedio, os embargos de declarao apenas podem ser manejados com a finalidade de completar a deciso omissa, ou aclar-la, afastando eventuais obscuridades ou contradies e, ainda, corrigir eventual erro material, conforme dispe o art. 1.022 do Cdigo de Processo Civil (CPC) - in verbis: Art. 1.022. Cabem embargos de declarao contra qualquer deciso judicial para: I - esclarecer obscuridade ou eliminar contradio; II - suprir omisso de ponto ou questo sobre o qual devia se pronunciar o juiz de ofcio ou a requerimento; III - corrigir erro material. Pargrafo nico. Considera-se omissa a deciso que: I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assuno de competncia aplicvel ao caso sob julgamento; II - incorra em qualquer das condutas descritas no art. 489,  1. Na hiptese concreta dos autos, no vislumbro qualquer contradio e/ou omisso a ensejar o manejo dos embargos declaratrios. A Primeira Cmara deste Tribunal, aps analisar todas as questes discutidas no processo, negou provimento ao recurso de apelao interposto pelo ora embargante, para manter a r. sentena monocrtica que julgou improcedente o pedido de anulao do ato administrativo- disciplinar que ensejou a sua excluso das fileiras da PMMG. Conforme se verifica no voto condutor, as matrias suscitadas pelo embargante foram expressamente apreciadas e decididas no acrdo embargado. O no acolhimento da pretenso do apelante, ora embargante, acerca das matrias apresentadas nos presentes embargos, se deu nos seguintes termos: [...] Inicialmente  imperioso destacarmos que as decises proferidas em outros processos em que os fatos objeto do PAD tambm sejam objeto de anlise no vinculam a deciso final do referido processo administrativo em razo da independncia das esferas administrativa, penal e civil. Excepcionalmente, quando houver a absolvio, por inexistncia do fato ou negativa de autoria, a deciso na esfera criminal vincula a deciso na esfera administrativa. Nesse sentido,  firme o entendimento jurisprudencial. Confira-se: ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAL MILITAR. DEMISSO. INDEPENDNCIA ENTRE AS ESFERAS ADMINISTRAVA E PENAL. ABSOLVIO DO SERVIDOR, NO PROCESSO CRIMINAL, POR AUSNCIA DE PROVAS.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal negou provimento aos embargos de declarao interpostos pelo embargante, pois no vislumbrou qualquer contradio ou omisso na deciso embargada. A deciso foi fundamentada na independência entre as esferas administrativa, penal e civil, excepcionalmente, quando houver absolvição, por inexistência do fato ou negativa de autoria, a decisão na esfera criminal vincula a decisão na esfera administrativa.

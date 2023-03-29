@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Constitui fundamentacao idonea para o nao oferecimento de Acordo de Nao Persecucao Penal (ANPP) a existencia de varios registros policiais e infracionais, embora o reu seja tecnicamente primario, bem como a utilizacao de posicao de lideranca religiosa para a pratica de delito de violacao sexual mediante fraude. Inicialmente, o art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, autoriza a realizacao de negocio juridico entre a acusacao e o investigado, antes do recebimento da denuncia, desde que preenchidos os requisitos legais. Sao requisitos: 1) confissao formal e circunstancial; 2) infracao penal sem violencia ou grave ameaca e com pena minima inferior a 4 (quatro) anos; e 3) que a medida seja necessaria e suficiente para reprovacao e prevencao do crime. Ademais, extrai-se do 2, inciso II, que a reincidencia ou a conduta criminal habitual, reiterada ou profissional afasta a possibilidade da proposta (RHC n. 161.251/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/5/2022, DJe de 16/5/2022). 1173 No caso, o Tribunal de origem destacou que o recorrente nao preencheu os requisitos do art. 28-A do CPP, uma vez que nao confessou a pratica delitiva em fase policial, fato que impede o preenchimento dos requisitos da propositura do ANPP, conforme bem observado pelo Ministerio Publico . Destacou ainda que, a despeito do recorrente ser tecnicamente primario, apresenta varios registros policiais e infracionais, bem como teria supostamente cometido o delito de violacao sexual mediante fraude se aproveitando de sua posicao como lider religioso com mais de uma vitima, o que demonstraria possuir uma vida voltada para a criminalidade. Nesse contexto, encontrando-se concretamente fundamentada a negativa do beneficio processual, em observancia ao regramento legal vigente, nao ha se falar em constrangimento ilegal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) O art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, autoriza a realização de negócio jurídico entre a acusação e o investigado, antes do recebimento da denúncia, desde que preenchidos os requisitos legais. 2) Os requisitos para a propositura do Acordo de Não Persecução Penal são: confissão formal e circunstancial, infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, e que a medida seja necessária e suficiente para reprovacão e prevenção do crime. 3) A reincidência ou a conduta criminal habitual, reiterada ou profissional afasta a possibilidade da proposta. 4) A existência de vários registros policiais e infracionais, bem como a utilização de posição de liderança religiosa para a prática de delito de violação sexual mediante fraude, constituem fundamentação idônea para o não oferecimento de Acordo de Não Persecução Penal.

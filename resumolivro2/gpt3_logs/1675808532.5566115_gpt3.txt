@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A atividade probatria  o conjunto de atos praticados pelas partes e por terceiros (testemunhas, peritos etc.) para averiguar a verdade e formar a convico do julgador. Com esse significado, prova  somente aquilo que serve para proporcionar a convico da realidade e certeza do fato. O processo penal  destinado a instruir o julgador, a proporcionar o conhecimento do juiz por meio da reconstruo histrica de um fato. Nesse contexto, as provas so os meios atravs dos quais se far essa reconstruo do fato passado (crime). O esclio de Magalhes Filho chama ateno sobre a diferena entre a atividade do juiz e a do historiador na reconstruo dos fatos, pois ambos esto empenhados na reconstruo de acontecimentos passados:
+para este ltimo, o resultado das investigaes pode constituir xito meramente pessoal, ou apenas compartilhado no mbito restrito de uma comunidade cientfica, ao passo que o magistrado atua em funo e no interesse de toda a sociedade a quem deve prestar contas, para que sejam reconhecidas como vlidas as concluses do procedimento probatrio. 14.1.2. Finalidade, objeto, fontes e elementos de prova. A finalidade (ou objetivo) da prova  o convencimento do juiz sobre a existncia ou no de um fato, isto , formar a convico do Juiz sobre os elementos necessrios para deciso da causa. A doutrina brasileira majoritariamente assegura que o objeto da prova so os fatos que precisam ser provados. Tambm  o sentir de Greco Filho que define que so objeto da prova os fatos pertinentes, relevantes. Observa, nesse compasso, Fernando da Costa Tourinho Filho que somente os fatos que possam dar lugar a dvida exigem comprovao e constituem o objeto da prova. Divergem do entendimento majoritrio de que o objeto da prova so os fatos que precisam ser provados, entre ns, Gustavo Badar e Gomes Filho.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A atividade probatria o conjunto de atos praticados para averiguar a verdade e formar a convico do julgador. O objetivo da prova o convencimento do juiz sobre a existncia ou no de um fato, isto , formar a convico do Juiz sobre os elementos necessrios para deciso da causa. A doutrina brasileira majoritariamente assegura que o objeto da prova so os fatos que precisam ser provados.

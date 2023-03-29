@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+121, 2, I, do CP) nao e aplicavel aos mandantes do homicidio, porque o pagamento e, para eles, a conduta que os integra no concurso de pessoas, mas nao o motivo do crime. 731 Inicialmente, segundo a jurisprudencia desta Quinta Turma, os motivos do homicidio tem carater eminentemente subjetivo e, dessa forma, nao se comunicam necessariamente entre os coautores. Especificamente sobre a qualificadora da paga, este colegiado sedimentou a compreensao de que tal circunstancia se aplica somente aos executores diretos do homicidio, porque sao eles que, propriamente, cometem o crime mediante paga ou promessa de recompensa . Como consequencia, o mandante do delito nao incorre na referida qualificadora, ja que sua contribuicao para o cometimento do homicidio em concurso de pessoas, na forma de autoria mediata, e a propria contratacao e pagamento do assassinato. Existem precedentes mais antigos desta Turma em sentido contrario, permitindo a aplicacao da qualificadora tambem ao mandante do homicidio. Nem se ignora que, na Sexta Turma, ja se afirmou que e possivel a aplicacao da qualificadora descrita no inciso I do  2 do artigo 121 do CP ao mandante do crime de homicidio (HC n. 447.390/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/4/2019, DJe de 30/4/2019). No entanto, como destaca a doutrina, os motivos do mandante - pelo menos em tese - podem ate ser nobres ou mesmo se enquadrar no privilegio do  1 do art. 121, ja que o autor intelectual nao age motivado pela recompensa; somente o executor direto e quem, recebendo o pagamento ou a promessa, a tem como um dos motivos determinantes de sua conduta.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O pagamento não é o motivo do crime para os mandantes do homicídio, pois é a conduta que os integra no concurso de pessoas. 2. Os motivos do homicídio têm caráter eminentemente subjetivo e, portanto, não se comunicam necessariamente entre os coautores. 3. A qualificadora da paga se aplica somente aos executores diretos do homicídio, pois são eles que cometem o crime mediante paga ou promessa de recompensa. 4. O mandante do delito não incorre na qualificadora da paga, pois sua contribuição para o cometimento do homicídio é a própria contratação e pagamento do assassinato. 5. É possível a aplicação da qualificadora descrita no inciso I do artigo 121 do Código Penal ao mandante do crime de homicídio. 6. Os motivos do mandante podem ser nobres ou se enquadrar no privilégio do artigo 121, pois o autor intelectual não age motivado pela recompensa.

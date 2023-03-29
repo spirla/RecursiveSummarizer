@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+256 do CPP. 1208 Como se sabe, o art. 266 do CPP permite a constituicao de defensor pelo reu em audiencia, mesmo sem a apresentacao de instrumento da mandato. Trata-se da conhecida designacao apud acta, peculiaridade do processo penal que privilegia a instrumentalidade das formas e a ampla defesa, facilitando o exercicio da atividade advocaticia pela remocao de entraves burocraticos, diante da inequivoca manifestacao de vontade da parte em constituir seu representante. O art. 266 do CPP excepciona, assim, a regra geral de outorga de poderes ao advogado por escrito. Este STJ tambem ja validou, por diversas vezes, a aplicabilidade atual do art. 266 do CPP, que resistiu ao teste do tempo e passou incolume pelas diversas reformas do CPP, sem revogacao tacita ou expressa de seu teor. Finalmente, o fato de o advogado nao ter suscitado a suspeicao do magistrado em outros processos tambem nao e fundamento bastante para, por si so, permitir que o Judiciario feche os olhos a tao grave vicio de parcialidade. Fora das estritas hipoteses legais de superacao da suspeicao - excepcionalissimas por natureza, como disse ha pouco -, nao e dado ao julgador criar formas de convalidacao dessa deficiencia na validade processual. Se ha alguma contradicao na atuacao do advogado ao nao suscitar a suspeicao enquanto representava outros clientes em outros processos, essa e uma questao a ser dirimida entre o causidico e seus representados, ou entre ele e a OAB, do ponto da eficiencia de seu desempenho profissional. Por isso, seria possivel pensar, em tese, numa eventual responsabilidade civil ou disciplinar do advogado por alguma deficiencia no trabalho que prestou em outros processos, caso algum de seus clientes tenha sofrido prejuizo por um suposto lapso profissional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 266 do CPP permite a constituíção de defensor pelo réu em audiência, mesmo sem a apresentação de instrumento de mandato. 2. O STJ já validou diversas vezes a aplicabilidade atual do art. 266 do CPP, que resistiu ao teste do tempo e passou incolume pelas diversas reformas do CPP, sem revogação tacita ou expressa de seu teor. 3. O fato de o advogado não ter suscitado a suspeição do magistrado em outros processos não é fundamento bastante para, por si só, permitir que o Judiciário feche os olhos a tão grave vício de parcialidade. 4. Seria possível pensar, em tese, numa eventual responsabilidade civil ou disciplinar do advogado por alguma deficiência no trabalho que prestou em outros processos, caso algum de seus clientes tenha sofrido prejuízo por um suposto lapso profissional.

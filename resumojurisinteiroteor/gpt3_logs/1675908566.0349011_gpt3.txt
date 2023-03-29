@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(AgInt no AREsp 1889061/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/04/2022, DJe 22/04/2022) PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AO DE RESPONSABILIDADE OBRIGACIONAL SECURITRIA. RECURSO ESPECIAL INTERPOSTO NO BOJO DE AGRAVO DE INSTRUMENTO. SUPERVENINCIA DE SENTENA DE MRITO. PERDA DO OBJETO. 1. Consoante o entendimento pacfico desta Corte, resta prejudicado, pela perda de objeto, o recurso especial interposto contra acrdo que julgou agravo de instrumento, quando se verifica superveniente prolao de sentena de mrito, tendo em vista ser esta de cognio exauriente. 2. Agravo interno no provido. (AgInt no AREsp 1986651/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022) PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO EM FACE DE DECISO INDEFERITRIA DE PROVA. SUPERVENINCIA DA SENTENA. PERDA DO OBJETO DO RECURSO. AGRAVO NO PROVIDO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Agravo interno não provido em face da superveniência de sentença de mérito, ocasionando perda do objeto do recurso.

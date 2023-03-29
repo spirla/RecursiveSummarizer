@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A remisso feita pelo magistrado - referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte  anterior deciso (ou, ento, a pareceres do Ministrio Pblico ou, ainda, a informaes prestadas por rgo apontado como coator) - constitui meio apto a promover a formal incorporao, ao ato decisrio, da motivao a que o juiz se reportou como razo de decidir. Esse tambm  o entendimento jurisprudencial do STJ sumulado na edio 69 da Jurisprudncia em Teses:
+A utilizao da tcnica de motivao per relationem no enseja a nulidade do ato decisrio, desde que o julgador se reporte a outra deciso ou manifestao dos autos e as adote como razo de decidir. O Cdigo de Processo Penal Militar estabelece no artigo 438 os requisitos na fundamentao da sentena, a indicao dos motivos de fato e de direito em que se fundar a deciso (alnea c) e a indicao, de modo expresso, do artigo ou artigos de lei em que se acha incurso o acusado (alnea d). Alm do disposto no artigo 438, so requisitos da sentena condenatria a imposio da pena privativa de liberdade, quanto  quantidade e espcie, ou das medidas de segurana (artigo 440, alneas a a d). Ademais,  de rigor justificar o regime prisional, a imposio de medida cautelar pessoal ou patrimonial ou a negao de sursis. O Conselho de Justia absolve o acusado, mencionando os motivos na parte expositiva da sentena, de acordo com o artigo 439 do CPPM, reconhecendo a) estar provada a inexistncia do fato, ou no haver prova da sua existncia;
+b) no constituir o fato infrao penal;
+c) no existir prova de ter o acusado concorrido para a infrao penal;
+d) existir circunstncia que exclua a ilicitude do fato ou a culpabilidade ou imputabilidade do agente;
+ou e) no existir prova suficiente para a condenao;
+e de f) estar extinta a punibilidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O magistrado pode utilizar a tcnica de motivao per relationem para incorporar a motivao ao ato decisrio, desde que se reporte a outra deciso ou manifestao dos autos. O Código de Processo Penal Militar estabelece os requisitos para a fundamentação da sentença, como a indicação dos motivos de fato e de direito e a indicação do artigo ou artigos de lei em que se acha incurso o acusado. O Conselho de Justiça absolve o acusado, mencionando os motivos na parte expositiva da sentença, de acordo com o artigo 439 do CPPM, reconhecendo a inexistência do fato, a não constituição do fato como infração penal, a ausência de concorrência do acusado para a infração, a existência de circunstâncias que excluam a ilicitude do fato ou a culpabilidade ou imputabilidade do agente, a ausência de prova suficiente para a condenação ou a extinção da punibilidade.

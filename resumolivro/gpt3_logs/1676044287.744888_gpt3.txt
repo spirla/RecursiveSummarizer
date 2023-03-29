@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Afinal, a incriminao, tendo em conta o alto custo social que a pena representa, s ser socialmente adequada quando estiver em jogo um bem ou um valor social relevante, no podendo alcanar condutas que repercutem efeitos exclusivamente na ordem moral nem situaes que, apesar de ilcitas, no atinjam significativamente a ordem social ao ponto de autorizar a interveno punitiva do Direito Penal. Assim, a tipicidade objetiva no se apresentar quando o furto tiver por alvo objetos de pequenssimo valor, quando a leso corporal no adquirir proporo significativa, quando a ofensa  honra for de pequenssima monta, quando a leso ou o perigo de leso ao meio ambiente tiver sido insignificante etc. A insignificncia, no entanto, no pode ser entendida Levando-se em conta apenas o paradigma da produo de resultados materiais. A essncia do critrio normativo est na violao da norma, e no na produo de resultados materiais. O que importa apurar para caracterizar a tipicidade material  o significado relevante da conduta (sua significncia) que permita identificar a violao da norma incriminadora.  possvel reconhecer violao importante da norma jurdica at mesmo quando, aparentemente, no houver tipicidade formal. Veja-se o exemplo do empreendedor que obtm licena ambiental para seu empreendimento por meio fraudulento. Formalmente, sua atividade parece estar acobertada por uma licena ambiental. No entanto, a norma jurdica que  subjacente ao tipo previsto no artigo 60 da Lei 9.605/98, que impe a observncia do controle prvio da Administrao Pblica para o incio da atividade, no foi atendida. No houve licena que considerasse a situao de fato real, mas a considerao da situao irreal apresentada pelo meio fraudulento. Nesse caso, haveria violao (at mais reprovvel) da norma proibitiva subjacente ao tipo penal incriminador a ensejar a imputao objetiva. Na legislao,  possvel encontrar vrias indicaes de que o princpio da insignificncia orienta a interveno punitiva. Veja-se o caso do artigo 54 da Lei 9.605/98 - Lei de Crimes Ambientais -, que dispe ser tpica a conduta de causar poluio de qualquer natureza em nveis tais que resultem ou possam resultar em danos  sade humana, ou que provoquem a mortandade de animais ou a destruio significativa da flora. Em todas as suas hipteses de incriminao o tipo penal ressalta que  necessrio verificar a relevncia da ofensa ao bem jurdico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A incriminação só é adequada quando houver um bem ou valor social relevante em jogo. O critério normativo da tipicidade objetiva é a violação da norma incriminadora, não a produção de resultados materiais. A legislação prevê o princípio da insignificância para orientar a intervenção punitiva, considerando a relevância da ofensa ao bem jurídico.

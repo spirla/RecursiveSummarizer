@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A medida cautelar instrumental visa garantir a ordem pblica, ou seja, evitar a prtica de novos crimes face  periculosidade do agente comprovada em laudo de insanidade mental. A medida cautelar  diferente da medida de segurana provisria (artigo 272, a, do CPPM), esta sem especificar o tipo de crime, nem exigir o risco de reiterao,  aplicvel aos que sofrem de doena mental, de desenvolvimento mental incompleto ou retardado, ou de grave perturbao de conscincia, que nem sempre tm periculosidade,  de duvidosa constitucionalidade. A fiana, nas infraes que a admitem para assegurar o comparecimento a atos do processo, evitar a obstruo do seu andamento ou em caso de resistncia injustificada  ordem judicial (inciso VIII) no  da tradio do processo penal militar e no vejo necessidade de sua aplicao diante de outras medidas cautelares, que atendem os requisitos da necessidade e adequao. Alm disso, o fim da fiana  a permanncia no distrito da culpa. Os militares da ativa tm domiclio e residncia certa. A fiana  uma garantia real, que consiste em depsito de dinheiro, pedras, objetos ou metais preciosos, ttulos da dvida pblica, federal, estadual ou municipal, ou em hipoteca inscrita em primeiro lugar (artigo 330, CPP) para assegurar o comparecimento a atos do processo, evitar a obstruo do seu andamento ou em caso de resistncia injustificada  ordem judicial. So inafianveis os crimes de racismo, tortura, trfico de drogas e os hediondos (artigo 5, XLII, XLIII e XLV, CF). Ver mais comentrios no tema liberdade provisria com fiana. A monitorao eletrnica (inciso IX), conhecida por tornozeleira eletrnica,  adequada se houver receio de fuga, mas depende de aparato tecnolgico, de elevado custo e reduzido nmero de delitos militares no justifica sua adoo, ademais, o juiz dispe de outras medidas cautelares diversas da priso to ou mais eficientes. A proibio de se ausentar do Pas visa evitar a fuga, portanto,  medida cautelar instrumental, pois, tem o fim de assegurar o comparecimento aos atos do processo ou do inqurito, e medida cautelar final para aplicao da lei penal militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A medida cautelar instrumental visa garantir a ordem pública e evitar a prática de novos crimes, aplicável aos que sofrem de doença mental, desenvolvimento mental incompleto ou retardado ou grave perturbação de consciência. A fiana é uma garantia real para assegurar o comparecimento aos atos do processo ou em caso de resistência injustificada à ordem judicial. A monitoração eletrônica é adequada se houver receio de fuga, mas tem custo elevado. A proibição de se ausentar do país visa evitar a fuga e é uma medida cautelar instrumental e final para aplicação da lei penal militar.

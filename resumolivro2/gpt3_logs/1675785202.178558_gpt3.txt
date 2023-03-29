@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Permitir ao tribunal dar nova definio jurdica ao fato delituoso em razo de exclusivo recurso da defesa prejudicando o ru destoa do enunciado da Smula 453 do STF:
+No se aplicam  segunda instncia o artigo 384 e pargrafo nico do Cdigo de Processo Penal, que possibilitam dar nova definio jurdica ao fato delituoso, em virtude de circunstncia elementar no contida, explcita ou implicitamente, na denncia ou queixa. O STF reconheceu que a deciso do STM violou a proibio da reformatio in pejus e concedeu ordem de habeas corpus, posto que:
+No tendo o Ministrio Pblico Militar, em apelao, atacado o regime prisional imposto pela sentena condenatria, ocorreu precluso dessa matria para a acusao, motivo pelo qual no poderia o Tribunal a quo ter piorado a situao do paciente, em flagrante violao do princpio que veda a reforma para pior. O recurso do ru no pode levar ao reconhecimento de nulidade que o prejudique. A propsito disso, a Smula 160 do STF estabelece que:
+ nula a deciso do Tribunal que acolhe, contra o ru, nulidade no arguida no recurso da acusao, ressalvados os casos de recurso de ofcio. A reformatio in pejus indireta - que tambm  proibida - ocorre com a anulao de deciso anterior. A nova deciso no pode agravar mais a situao do ru do que a deciso anterior anulada. Seria ilgico permitir que a anulao da deciso, por efeito de recurso exclusivo da defesa, agrave a situao do recorrente. Em outras palavras, houve recurso exclusivo da defesa e a deciso de primeiro grau foi anulada. Em novo julgamento o primeiro grau no pode tornar a situao do ru mais gravosa do que a tomada antes do recurso exclusivo da defesa ser interposto. Por exemplo, se s a defesa do acusado recorreu da deciso que aplicou pena de dois anos de recluso e, por qualquer razo, o tribunal anulou a deciso condenatria, em novo julgamento se o rgo judicial decidir condenar novamente o acusado no pode impor pena superior a dois anos de recluso. A primeira deciso, que foi anulada, imps pena mnima. Os autos voltam para segundo julgamento.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF proíbe a reformatio in pejus, ou seja, a decisão de segunda instância não pode prejudicar o réu, mesmo que a defesa recorra exclusivamente. A Smula 160 do STF estabelece que a decisão do tribunal que acolhe nulidade contra o réu, não arguida no recurso da acusação, é nula. Em caso de recurso exclusivo da defesa, a decisão de primeiro grau não pode tornar a situação do réu mais gravosa do que a tomada antes do recurso.

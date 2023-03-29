@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STJ (REsp 1.067.748/GO) no reconheceu vcio na falta de razes de apelao do defensor intimado especificamente para esse fim, ou seja, a no apresentao de razes da apelao configura apelao genrica e que o recurso recebido pode ser regulamente processado e julgado. Ainda sobre o tema versado, e muito discutido, o STJ (HC 102.307-SP) compreendeu que:
+1. O fato de o advogado no ter oposto embargos de declarao no implica ausncia de defesa, pois, se a prpria interposio do recurso voluntrio representa faculdade relacionada a um juzo discricionrio seu, no h por que lhe condicionar o contedo, mxime tratando-se de instrumento imprprio para a inovao de teses ainda no enfrentadas pelo juzo. 2. No se verifica deficincia na defesa tcnica quando h defensor constitudo, que corretamente representa o ru durante toda a fase de instruo (Smula 523 do STF). Para a Corte Superior, a ausncia de recurso no constitui falta de defesa, posto que o recurso  voluntrio, podendo ou no os rus ou o seu defensor interp-lo (RHC 21.148-SC), como tambm a ausncia de interposio de embargos infringentes pelo advogado constitudo pelo ru no implica deficincia ou ausncia de defesa (HC 59.078-SP). A falta de notificao do defensor do local, data e hora da audincia para inquirio de testemunha  causa de nulidade. No entanto, se regularmente notificado no comparecer, deve o juiz nomear um defensor ad hoc para o ato. Alnea j:
+nulidade por preterio da notificao do ru ou seu defensor para a sesso de julgamento. A disjuntiva ou sugere que apenas um deles deve ser notificado para sesso de julgamento. Entendo que ambos devem ser notificados sob pena de nulidade. Em primeiro grau de jurisdio, o defensor deve ser notificado do dia e hora designados para a sesso de julgamento (artigo 430, CPPM), sob pena de ocorrer nulidade absoluta, dispensvel a demonstrao do prejuzo, pois a defesa tcnica  indeclinvel. A sesso de julgamento  adiada se regularmente notificado no comparecer (CPPM, artigo 431, pargrafo 5). O acusado, por sua vez, goza do direito de presena, de estar presente  sesso de julgamento.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ reconheceu que a falta de razes de apelao do defensor intimado configura apelao genrica e que o recurso recebido pode ser regulamente processado e julgado. A ausncia de recurso ou embargos de declarao não implica ausência de defesa. A falta de notificação do defensor para a sessão de julgamento é causa de nulidade. Ambos, o ru e seu defensor, devem ser notificados para a sessão de julgamento, sob pena de nulidade absoluta.

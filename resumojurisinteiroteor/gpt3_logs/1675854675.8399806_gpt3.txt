@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(Evento 10, VDEO7) Em consonncia, temos a testemunha Berlinque Monteiro Cantelmo, que assistiu a parte da ao policial na data dos fatos e informou que: estava saindo de casa, que mora no Santa Efigncia, [...] que escutou barulho de sirene; que viu o veculo prata passando em alta velocidade; que o veculo passou na contramo de direo; na frente do colgio; [...] que quando chegou antes do cruzamento, do sinal da Mem de S com NIquelina; que na Mem de S tinham diversos veculos parados porque o sinal estava fechado; ento eles pararam na fila de veculos; viu a porta do motorista abrindo e a porta do passageiro da frente abrindo, do Fox; um correu para esquerda e o outro para a direita; os militares pararam a viatura logo atrs, mais ou menos na perpendicular; uns militares correram para um lado e outros correram para o outro; enquanto os militares estavam fazendo a abordagem eu vi um indivduo descendo da porta de trs, desceu deitado, colocou a mo no cho, abaixado, e veio na direo contrria, na minha direo; eu estava parado com o carro atrs; j veio bem rpido; ento eu desci do carro instantaneamente; desci, ele veio passando; eu atravessei a parte da frente do carro e j joguei o corpo nele, dei um ombrada nele; ele caiu no cho e bateu a cabea; eu j fui em cima, coloquei o joelho nas costas dele, virei o brao para trs, enfiei a mo no bolso, tinha documento, tirei, joguei o documento no cho e falei: meu filho polcia, perdeu, usei esses termos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Testemunha presenciou a ao policial e relatou que viu um veículo passar em alta velocidade e que dois indivíduos saíram do carro. Um dos indivíduos foi abordado pelos militares enquanto o outro correu na direção contrária. Testemunha abordou o indivíduo e encontrou documentos em seu bolso.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+529 do CPPM, no mbito do processo judicial eletrnico, considerando que, em circunstncia anloga, foi garantido ao rgo acusatrio a interpretao da referida norma consoante as normas que regem o processo judicial eletrnico (Lei n. 11.419/06), determinando como marco inicial da contagem do prazo recursal a intimao via comunicao no sistema e- proc, razo no lhe assiste. A "circunstncia anloga, mencionada pelo embargante, que, na verdade, no possui qualquer semelhana com o presente caso, foi tratada nos autos do Processo n. 2000841-05.2021.9.13.0001. Isso porque, no processo em destaque (n. 2000841-05.2021.9.13.0001), de relatoria do desembargador Scrates Edgard dos Anjos, figurou como recorrente o Ministrio Pblico, que, a toda evidncia, possui rito e prerrogativa diferente, inclusive, por fora de lei. Ademais, a matria trazida pela defesa do ora embargante, tratada nos mencionados autos, foi objeto de anlise em sede de recursos repetitivos, pelo Superior Tribunal de Justia (STJ) sendo firmada a seguinte tese (Tema n. 959): O termo inicial da contagem do prazo para impugnar deciso judicial , para o Ministrio Pblico, a data da entrega dos autos na repartio administrativa do rgo, sendo irrelevante que a intimao pessoal tenha se dado em audincia, em cartrio ou por mandado. Assim,  evidente que o argumento lanado pela defesa no merece prosperar, uma vez que a circunstncia narrada pela defesa do embargante, na verdade, representa uma prerrogativa dos membros do Ministrio Pblico e da Defensoria Pblica (art. 74 da Lei Complementar n. 65/2003). Desse modo, as intimaes do Ministrio Pblico e da Defensoria Pblica se diferem das intimaes dos Defensores constitudos e dativos. De volta  anlise do presente caso, entendo que no h qualquer contradio na deciso embargada. No h dvidas de que o embargante foi devidamente intimado na forma da lei e de que tais fatos foram sobejamente abordados na deciso guerreada, conforme se pode verificar no trecho abaixo transcrito. Observe-se: Da ata da audincia de leitura de sentena (Evento n. 102 dos autos originrios), verifica-se que o causdico que atuou na defesa do 3 Sgt PM Vilson Carlos dos Santos, ora recorrente, registrou cincia e concordncia especificamente aos 04min52s do vdeo, no havendo que se falar em ausncia de intimao. Desse modo,  inconteste que a defesa foi intimada durante a audincia de leitura da sentena, que se realizou no dia 18/12/2020, razo pela qual refuto a tese defensiva de inobservncia do princpio da instrumentalidade das formas (Evento 102 - ATA1 e Evento 122 - APELAO2 dos autos n. 0001402-68.2018.9.13.0001 de 1a Instncia) Nesse sentido, por oportuno, novamente volto a colacionar trecho do acrdo objurgado, relacionado  suposta violao dos arts. 5,  1 e 9, da Lei n. 11.419/06.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia do Estado de Minas Gerais negou o recurso interposto pelo embargante, pois a circunstncia narrada não possui qualquer semelhana com o caso em questão. A matéria foi objeto de análise em sede de recursos repetitivos pelo Superior Tribunal de Justia, sendo firmada a tese de que o termo inicial da contagem do prazo para impugnar decisão judicial, para o Ministério Público, é a data da entrega dos autos na repartição administrativa do órgão, sendo irrelevante que a intimação pessoal tenha se dado em audiência, em cartório ou por mandado. A defesa do embargante foi devidamente intimada na forma da lei, razão pela qual o recurso foi negado.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Entretanto, a estipulacao do piso salarial com referencia a multiplos do salario-minimo nao pode dar ense-jo a reajustamentos automaticos futuros voltados a adequacao do salario inicialmente contratado aos novos valores vigentes para o salario-minimo nacional. Evita-se, com isso, a indesejavel espiral inflacionaria resul-tante do reajuste automatico de verbas salarias e parcelas remuneratorias no ambito do servico publico e da atividade privada, assim como a elevacao concomitante de precos de produtos e servicos nos diversos setores da economia nacional. No caso, especificamente com relacao a aplicacao da norma inscrita no art. 5 da Lei 4.950-A/66, en-tendeu-se que o congelamento da base de calculo do piso salarial serve como criterio de desindexacao do valor do salario-minimo e deve ter, como marco temporal, a data da publicacao da ata do julgamento que reconhecer a incompatibilidade da norma com a CF. Com base nesse entendimento, o Plenario converteu o referendo de medida cautelar em julgamento de merito, conheceu em parte de arguicoes de descumprimento de preceito fundamental e, por maioria, julgou parcialmente procedentes os pedidos nelas formulados.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é permitido reajustes automáticos de verbas salariais e parcelas remuneratórias no âmbito do serviço público e da atividade privada, pois isso pode gerar uma espiral inflacionária. 2. O congelamento da base de cálculo do piso salarial serve como critério de desindexação do valor do salário mínimo e deve ter como marco temporal a data da publicação da ata do julgamento que reconhece a incompatibilidade da norma com a Constituição Federal.

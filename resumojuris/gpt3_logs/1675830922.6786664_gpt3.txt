@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Processo AgRg no HC 673.891-SP, Rel. Ministro Joel Ilan Paciornik, Rel. Acd. Ministro Joao Otavio de Noronha, Quinta Turma, por maioria, julgado em 23/8/2022, DJe 26/8/2022. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Inadmissibilidade da pronuncia. Configuracao de excesso de linguagem. Possivel influencia sobre o animo dos jurados. Ilegalidade manifesta. DESTAQUE A sentenca de pronuncia deve limitar-se a um juizo de duvida a respeito da acusacao, evitando consideracoes incisivas ou valoracoes sobre as teses em confronto nos autos. Na primeira fase do procedimento especial do tribunal do juri, procede-se apenas a um juizo de admissibilidade da acusacao, ou seja, avalia-se, em principio, se a conduta do agente pode enquadrar-se na descricao de crime doloso, tentado ou consumado, contra a vida. Isso porque o juizo de certeza acerca da autoria e a deliberacao acerca de duvidas so podem provir do conselho de sentenca, que e o juiz natural da causa. Ressalte-se que a jurisprudencia do Superior Tribunal de Justica e pacifica no sentido de que a sentenca de pronuncia deve limitar-se a um juizo de duvida a respeito da acusacao, evitando consideracoes incisivas ou valoracoes sobre as teses em confronto nos autos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A sentença de pronúncia deve limitar-se a um juízo de dúvida a respeito da acusação, evitando considerações incisivas ou valorações sobre as teses em confronto nos autos. 2. Na primeira fase do procedimento especial do tribunal do júri, procede-se apenas a um juízo de admissibilidade da acusação, ou seja, avalia-se, em princípio, se a conduta do agente pode enquadrar-se na descrição de crime doloso, tentado ou consumado, contra a vida. 3. O juízo de certeza acerca da autoria e a deliberação acerca de dúvidas só podem provir do conselho de sentença, que é o juiz natural da causa. 4. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a sentença de pronúncia deve limitar-se a um juízo de dúvida a respeito da acusação, evitando considerações incisivas ou valorações sobre as teses em confronto nos autos.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Segundo Perelman, sejam quais forem as diferenas entre as concepes da justia concreta, todas admitem a mesma definio da justia formal, que exigem sejam tratados da mesma forma os seres que fazem parte da mesma categoria essencial. Dessa forma, com base nas expresses de Tourtoulon, Perelman concebeu uma noo de Justia formal segundo as manifestaes concretas da igualdade: a) a igualdade perfeita (a cada qual a mesma coisa); b) igualdade distributiva (a cada qual segundo seus mritos); c) igualdade comutativa (a cada qual segundo suas obras); d) igualdade de caridade (a cada qual segundo suas necessidades); e) igualdade aristocrtica (a cada qual segundo sua posio); e f) igualdade formal (a cada qual segundo o que a lei lhe atribui). Muito embora Perelman perceba que esses critrios no so autoexcludentes, mas complementares entre si, a igualdade imposta pela lei constitui critrio que deve preponderar sobre os demais para distribuio material de Justia, posto que o aplicador do Direito no pode sobrepor sua convico de Justia  que foi acolhida pela lei. Nesse aspecto, a concepo de Justia de Perelman revela sua essencial proximidade com a concepo de Kelsen. Segundo Perelman, o exame dessas frmulas de igualdade permite concluir que a primeira delas exprime o ideal de uma Justia perfeita, baseada na igualdade completa entre todos os homens. No entanto, tal igualdade se mostra irrealizvel e s pode constituir um ideal em relao ao qual se pode tentar, na medida do possvel, realizar uma aproximao. A igualdade perfeita (completa)  apenas uma ideia limite, sem qualquer possibilidade de efetiva realizao. Todas as demais concepes de Justia concreta, por sua vez, seriam apenas tentativas de realizar parcialmente a igualdade perfeita descrita na primeira concepo. Perelman percebeu ainda que, como toda viso da realidade  em certa medida subjetiva, at mesmo o juiz ntegro ser levado a fazer coincidir, em sua apreciao dos fatos, o Direito e seu sentimento ntimo de Justia. Para que no haja disparidade de tratamento, a Justia formal (abstrata) seria um princpio de ao segundo o qual os seres de uma mesma categoria essencial devem ser tratados da mesma forma. Contudo, como os homens so realmente desiguais,  o ordenamento social que define quais so as diferenas que sero levadas em considerao para a concesso de direitos e a imposio de deveres.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Perelman defende que todas as concepções da Justiça concreta admitem a mesma definição da Justiça formal, que exige o tratamento igual de seres da mesma categoria essencial. A igualdade perfeita é um ideal irrealizável, e as demais concepções de Justiça concreta seriam tentativas de aproximá-lo. O juiz ntegro deve fazer coincidir o Direito e o sentimento de Justiça, e o ordenamento social define quais diferenças serão consideradas na concessão de direitos e imposição de deveres.

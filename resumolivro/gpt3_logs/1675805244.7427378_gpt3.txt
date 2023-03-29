@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+224 CARVALHO FILHO, Jose dos Santos. Manual de direito administrativo, 27 ed. p..
+225 DI PIETRO, Maria Sylvia Zanella. Direito Administrativo, 30 ed. p. 238. 226 DI PIETRO, Maria Sylvia Zanella. Direito Administrativo, 30 ed. p. 813. 227 DI PIETRO, Maria Sylvia Zanella. Op. cit. p. 239. 228 Conforme esclarece Daniel Amorim Assumpcao Neves, em Limitacoes Procedimentais a Busca da Verdade: O que se deve buscar e a melhor verdade possivel dentro do processo, dentro das limitacoes que serao objeto de nossa analise e com a conscincia de que a busca da verdade nao e um fim em si mesma, apenas funcionando como um dos fatores para a efetiva realizacao da justica, por meio de uma prestacao jurisdicional de boa qualidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Jose dos Santos Carvalho Filho e Maria Sylvia Zanella Di Pietro publicaram respectivamente as obras "Manual de Direito Administrativo" (27ª edição) e "Direito Administrativo" (30ª edição). Daniel Amorim Assumpção Neves afirma que a busca da verdade não é um fim em si mesmo, mas sim um dos fatores para a realização da justiça por meio de uma boa prestação jurisdicional.

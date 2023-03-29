@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ANAC. Recuperacao judicial. Slots e Hotrans (horarios de transporte). Realocacao. Incorporacao de ativos de empresa aerea. Analise da materia pelo Poder Judiciario. Excepcionalidade. Vicios objetivos na decisao administrativa. DESTAQUE Ao Poder Judiciario nao cabe se imiscuir na decisao administrativa da ANAC acerca da realocacao de slots e hotrans (horarios de transporte), servico prestado por empresa aerea em recuperacao judicial, a ponto de impor a observacao absoluta do principio da preservacao da empresa, quando inexistirem vicios objetivos na decisao, mesmo em prejuizos a concorrencia do setor e aos usuarios do servico publico concedido. Trata-se de analise de decisao administrativa da ANAC acerca da realocacao de slots e hotrans (horarios de transporte) de sociedade empresaria em recuperacao judicial. Inicialmente, consigna-se que nao se pode submeter a logica economica e administrativa unicamente aos interesses da sociedade empresaria em recuperacao judicial. No caso, trata-se de slots notoriamente disputadissimos, no sobrecarregado aeroporto de Congonhas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Ao Poder Judiciário não cabe se imiscuir na decisão administrativa da ANAC acerca da realocação de slots e hotrans (horários de transporte), serviço prestado por empresa aérea em recuperação judicial, a ponto de impor a observação absoluta do princípio da preservação da empresa, quando inexistirem vícios objetivos na decisão, mesmo em prejuízos à concorrência do setor e aos usuários do serviço público concedido. 2. Não se pode submeter a lógica econômica e administrativa unicamente aos interesses da sociedade empresária em recuperação judicial.

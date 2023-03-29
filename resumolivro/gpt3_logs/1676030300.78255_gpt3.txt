@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nos termos da legislao brasileira, a omisso no  considerada causa do resultado, pois este no seria evitado com a desinfeco. Contudo, o fornecimento do pelo de cabra caracteriza crime comissivo, o que implicaria o reconhecimento de homicdio consumado. A meno ao exemplo de Roxin para fato doloso visa a ressaltar que, embora o princpio do incremento do risco tenha aplicao preponderante nos crimes negligentes, as regras para a imputao tambm se aplicam aos crimes dolosos. O incremento do risco somente poder ser avaliado ex post, ou seja, observando-se o fato j ocorrido. Nessa avaliao do aumento da situao de risco, sempre ser necessria a considerao de todas as circunstncias do fato que se tornem conhecidas. No exemplo dado, a embriaguez do ciclista, a distncia exata deste em relao ao veculo e a velocidade do caminho. Considerando essas informaes, o julgador deve avaliar se a observncia s normas regulamentares teria diminudo o perigo para o ciclista, ou seja, se aumentariam as chances de evitar o resultado lesivo. Segundo Roxin, essa avaliao deve se dar com a utilizao de critrios normativos, isto , devese. examinar se a norma formulada ex ante, operando tambm sobre a base ftica do conhecimento ex post, pode seguir sendo reconhecida como uma proibio com sentido e que reduz o risco da ocorrncia do resultado (e nesse caso, imputao do resultado), ou se, partindo do novo estado dos conhecimentos, a mesma parece in concreto inidnea ou ao menos impraticvel (e em tal caso no haver imputao do resultado). O exame das questes prticas no  nada fcil e tambm implica a utilizao de critrios estatsticos de comparao entre a conduta real e a hipottica. Polmica  a questo sobre qual deva ser a deciso quando no for possvel comprovar se a conduta proibida criou um perigo que extrapola os limites do risco permitido. A maioria dos autores sustenta que, nesses casos, o princpio do in dubio pro reo exclui a imputao. A soluo  por demais simplista. Nesse sentido, Roxin lembra o caso do mdico que institui tratamento completamente alheio s normas da medicina tradicional e produz a morte do paciente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A legislação brasileira não considera a omissão como causa do resultado, mas o fornecimento de pelo de cabra caracteriza crime comissivo. O princípio do incremento do risco tem aplicação preponderante nos crimes negligentes, mas também se aplica aos crimes dolosos. O julgador deve avaliar se a observância às normas regulamentares teria diminuído o perigo. Quando não for possível comprovar se a conduta proibida criou um perigo que extrapola os limites do risco permitido, o princípio do in dubio pro reo exclui a imputação.

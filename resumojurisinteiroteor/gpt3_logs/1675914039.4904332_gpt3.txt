@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+SMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSDIO JURISPRUDENCIAL. COTEJO ANALTICO E SIMILITUDE FTICA. AUSNCIA. [.] 3. A jurisprudncia do STJ  pacfica no sentido de que a presuno do estado de necessidade tem natureza relativa. Assim sendo, o magistrado est autorizado a indeferir o pedido do benefcio da justia gratuita se no encontrar elementos que comprovem a hipossuficincia da parte requerente. Precedentes. [.] (AgInt no AREsp n. 2.006.172/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.) AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIA GRATUITA. PESSOA FSICA. FALTA DE COMPROVAO DA NECESSIDADE DO BENEFCIO. REVISO DA CONCLUSO ALCANADA NA ORIGEM. IMPOSSIBILIDADE.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ pacfico no sentido de que a presuno do estado de necessidade tem natureza relativa, sendo o magistrado autorizado a indeferir o pedido de justia gratuita se no encontrar elementos que comprovem a hipossuficincia da parte requerente. Reviso da concluso alcanada na origem impossvel.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO AMBIENTAL TEMA Licitacao. Leilao de reserva de capacidade de energia eletrica. Habilitacao tecnica. Custo variavel unitario (CVU). Limite fixado em Portaria. Vicio formal. Inexistencia. Competitividade. Restricao. Demonstracao. Ausencia. Compromissos ambientais e modicidade tarifaria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível realizar leilão de reserva de capacidade de energia elétrica. 2. É necessário que o licitante possua habilitação técnica para participar do leilão. 3. O custo variável unitário (CVU) deve estar de acordo com o limite fixado em portaria. 4. Não há vício formal na licitação, desde que haja competitividade e não haja restrição. 5. É necessário que o licitante demonstre a ausência de compromissos ambientais e modicidade tarifária.

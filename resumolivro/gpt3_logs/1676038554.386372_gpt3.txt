@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Na omisso, a conduta do omitente inobserva o mandamento legal de agir para a proteo do bem jurdico. Voltando ao exemplo do homem que caiu da embarcao, a interrupo do salvamento caracteriza crime omissivo, prprio ou imprprio. O terceiro vincula-se  norma mandamental que impe agir para evitar o afogamento da vtima. Dessa forma, no caso de existir ao esperada de salvamento, a soluo apresentada por Juarez Tavares716 no merece reparos. Se o mdico desligar os aparelhos quando o paciente ainda possuir chances de salvamento, dever ser-lhe imputado o resultado. Como o mdico que desliga os aparelhos que artificialmente prolongam a vida do paciente est vinculado a um preceito mandamental, que se traduz na obrigao de manter os aparelhos ligados, e no a uma norma proibitiva de no deslig-los, sua conduta caracteriza omisso. Todavia, se os aparelhos fossem desligados por um terceiro, que se encontraria vinculado  norma proibitiva, ter-se-ia caracterizada uma ao. No havendo ao capaz de salvar o paciente, o desligamento dos aparelhos pelo mdico no caracteriza omisso penalmente relevante e o fato  atpico. A soluo, entretanto, no  tranquila. Como saber, com certeza, se existem chances de sobrevida para o paciente? Como observa Alvarado,717 o avano da Medicina frequentemente altera as probabilidades de salvamento. Com a utilizao dos respiradores artificiais superou-se o mito de que a vida do paciente no poderia ser preservada diante da incapacidade respiratria. Nesse sentido, deve-se concluir que a anlise das chances de salvamento deve se dar em face das possibilidades da Medicina no momento do fato. No entanto, sabe-se ainda que a constituio particular de cada paciente tambm  determinante de suas chances de salvamento. Vale observar ainda que  direito do paciente recusar-se ao tratamento mdico. Em momento recente de nossa histria, tivemos a oportunidade de lamentar a morte de um poeta da msica popular brasileira que decidiu no receber qualquer tratamento contra a infeco do vrus da Aids, vindo a falecer em sua prpria casa. No repercutindo da maneira nociva  organizao das relaes sociais, deve-se respeitar a vontade do paciente. Se o paciente no pode manifestar sua vontade, pode-se presumir sua concordncia com os esforos do mdico. Caso possa manifestar-se e expresse discordncia com o tratamento recomendado, deve-se respeitar sua vontade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Omisso é a conduta de não agir de acordo com o mandamento legal para proteger um bem jurdico. Se um terceiro não realizar o salvamento de um homem que caiu de uma embarcação, isso caracteriza um crime omissivo. O médico que desliga os aparelhos que mantêm a vida do paciente está vinculado a uma obrigação legal, mas se o paciente recusar o tratamento, deve-se respeitar sua vontade.

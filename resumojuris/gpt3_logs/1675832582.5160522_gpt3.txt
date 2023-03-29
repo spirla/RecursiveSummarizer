@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+215-A do CP (crime de importunacao sexual) trouxe novamente a discussao a tona, mas o conflito aparente de normas e resolvido pelo principio da especialidade do art. 217-A do CP, que possui o elemento especializante menor de 14 anos , e tambem pelo principio da subsidiariedade expressa do art. 215- A do CP, conforme se verifica de seu preceito secundario in fine. Estudando a nova figura tipica, e cotejando com as outras entao existentes, a doutrina observa que, na importunacao sexual, a falta de anuencia da vitima nao pode consistir em nenhuma forma de constrangimento. Se houver constrangimento no sentido de obrigar alguem a pratica de ato de libidinagem, estara configurado o crime de estupro, ante a presenca do verbo nuclear do tipo do art. 213 do CP. Nos casos de estupro de vulneravel, por outro lado, foi necessario advertir que nao ha propriamente um constrangimento a pratica de atos sexuais. Nao existe sequer presuncao de constrangimento ou de violencia. Na figura tipica do art. 217-A do CP, pune-se simplesmente a pratica de atos de libidinagem com alguem menor de catorze anos ou com alguem que, por enfermidade ou deficiencia mental, nao tem o necessario discernimento para a pratica do ato, ou que, por qualquer outra causa, nao pode oferecer resistencia. Por isso, ao contrario do que ocorre no cotejo entre os arts. 213 e 215-A, ambos do CP, o constrangimento nao e elemento especializante do estupro de vulneravel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O conflito aparente de normas entre o art. 215-A do CP (crime de importunação sexual) e o art. 217-A do CP (estupro de vulnerável) é resolvido pelo princípio da especialidade do art. 217-A do CP, que possui o elemento especializante menor de 14 anos, e também pelo princípio da subsidiariedade expressa do art. 215-A do CP. 2. Na importunação sexual, a falta de anuência da vítima não pode consistir em nenhuma forma de constrangimento. 3. Se houver constrangimento no sentido de obrigar alguém a pratica de ato de libidinagem, estará configurado o crime de estupro, ante a presença do verbo nuclear do tipo do art. 213 do CP. 4. Nos casos de estupro de vulnerável, não há propriamente um constrangimento a pratica de atos sexuais. 5. Na figura tipica do art. 217-A do CP, pune-se simplesmente a pratica de atos de libidinagem com alguém menor de catorze anos ou com alguém que, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência.

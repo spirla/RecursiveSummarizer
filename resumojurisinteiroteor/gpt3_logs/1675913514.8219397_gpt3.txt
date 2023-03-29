@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Certificada a ocorrncia do trnsito em julgado em 29/05/2021 pelo Supremo Tribunal Federal, este relator determinou nova intimao da defesa do representado, para apresentar suas razes defensivas (Eventos 37 e 39). Intimada, a defesa ratificou integralmente os termos "da medida cautelar incidental com pedido de efeito suspensivo aposta no Evento 25, sob o argumento que o referido se encontrava pendente de apreciao (Evento 42). Este relator, aps esclarecer, por duas vezes, o equvoco da defesa quanto  pendncia de anlise do seu pedido, determinou, em observncia aos princpios constitucionais da ampla defesa e do contraditrio, a reiterao da intimao para apresentao das razes de defesa, inclusive, com a advertncia da possibilidade de designao de um defensor pblico para faz-lo (Eventos 42, 44, 47 e 49). Sobreveio, ento, renncia ao mandato de procurao outorgado pelo advogado aos advogados Jorge Vieira Rocha, OAB/mG 145.316, e Jorge Vieira da Rocha Jnior (Evento 56, RENMADA1). Este relator homologou a renncia e determinou a intimao do representado, para que, nos termos do artigo 204,  2, da Resoluo n. 167/2016 (RITJMMG), nomeasse o sucessor para apresentao de sua defesa escrita (Evento 58). Diante da ausncia de manifestao do representado, este relator solicitou a designao de defensor pblico para apresentao da defesa, na forma regimental (Eventos 59, 68 e 71). As razes escritas de defesa do representado foram, ento, oferecidas pela douta defensora pblica Dra. Maria Cristina Ferreira de Carvalho, sob os fundamentos a seguir elencados (Evento 74 - DEFESAESCRITA1). Em sede preliminar, alegou a perda do objeto da presente representao, tendo em vista que o representado j foi excludo da Corporao, conforme informado no extrato de registros funcionais. Citou jurisprudncia deste TJMMG, a fim de respaldar o alegado. No mrito, inicialmente, salientou que o Processo de Perda da Graduao no tem por finalidade reexaminar as provas do processo penal, com o intuito de absolver o representado ou diminuir a pena que lhe foi imposta. Ao contrrio,  a oportunidade de demonstrar que, apesar da aplicao da pena criminal superior a dois anos, o representado possui condies ticas, morais, disciplinares e hierrquicas de permanecer na Corporao. Nesse sentido, aduziu que a verdade jurdica imposta pela deciso condenatria transitada em julgado, no caso em tela,  a de que o representado delinquiu, pois foi condenado  pena de 04 (quatro) anos e 04 (quatro) meses de deteno, em regime semiaberto, incurso nas sanes dos artigos 303, 2, e 342, ambos do Cdigo Penal Militar (CPM).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O relator certificou a ocorrncia de trnsito em julgado e determinou a reiterao da intimao para apresentao das razes de defesa. Após a renncia ao mandato de procurao outorgado pelo advogado, foi solicitada a designação de defensor público para apresentação da defesa. A defensora pública apresentou a defesa com alegação de perda do objeto da representação, tendo em vista a exclusão do representado da Corporação. No mérito, argumentou que o Processo de Perda da Graduação não tem por finalidade reexaminar as provas do processo penal.

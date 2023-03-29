@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Em um estado de direito nao e possivel se admitir que orgaos de investigacao, em procedimentos informais e nao urgentes, solicitem informacoes detalhadas sobre individuos ou empresas, informacoes essas constitucionalmente protegidas, salvo autorizacao judicial. Uma coisa e orgao de fiscalizacao financeira, dentro de suas atribuicoes, identificar indicios de crime e comunicar suas suspeitas aos orgaos de investigacao para que, dentro da legalidade e de suas atribuicoes, investiguem a procedencia de tais suspeitas. Outra, e o orgao de investigacao, a policia ou o Ministerio Publico, sem qualquer tipo de controle, alegando a possibilidade de ocorrencia de algum crime, solicitar ao COAF ou a Receita Federal informacoes financeiras sigilosas detalhadas sobre determinada pessoa, fisica ou juridica, sem a previa autorizacao judicial. Assim, e ilegal a requisicao, sem autorizacao judicial, de dados fiscais pelo Ministerio Publico. (Informativo n. 724) 1155 QUINTA TURMA Voltar ao Sumario. PROCESSO AgRg no REsp 2.006.523-CE, Rel. Ministro Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado em 23/8/2022, DJe 26/8/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Acordo de nao persecucao penal. Denuncia recebida. Aplicacao retroativa. Inviabilidade. DESTAQUE O Acordo de Nao Persecucao Penal (ANPP), inserido pela Lei n. 13.924/2019, aplica-se retroativamente desde que nao tenha havido o recebimento da denuncia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilegal a requisição, sem autorização judicial, de dados fiscais pelo Ministério Público. 2. O Acordo de Não Persecução Penal (ANPP), inserido pela Lei n. 13.924/2019, aplica-se retroativamente desde que não tenha havido o recebimento da denúncia.

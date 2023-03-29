@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ESTUPRO DE VULNERVEL. APELO NOBRE INTERPOSTO APS O LAPSO LEGAL. INTEMPESTIVIDADE. SUSPENSO DO EXPEDIENTE FORENSE. MOMENTO DE COMPROVAO. ATO DE INTERPOSIO DO RECURSO. CONTAGEM DO PRAZO RECURSAL. NUS DA PARTE. AGRAVO REGIMENTAL DESPROVIDO. 1. A contagem correta dos prazos recursais, nos termos definidos pela legislao processual,  nus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrnico no o exime de interpor o recurso no prazo previsto em lei. 2. O termo final do prazo recursal no est vinculado  data apresentada pelo sistema de peticionamento, competindo exclusivamente ao recorrente verificar se a referida data  adequada ou no  espcie processual por ele pretendida. (STJ - AgRg no AREsp n. 1.825.919/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 1/6/2021, DJe de 16/6/2021.) (Destaca-se) Assim sendo, entendo que o fato de constar que o testemunhante teria 5 (cinco) dias para recorrer no configurou equvoco, pois o sistema no teria sequer como vislumbrar qual o tipo de recurso a parte pretendia interpor, o que  incumbncia exclusiva da defesa. De igual modo, no merece prosperar a alegao de que o testemunhante e seus advogados confiaram plenamente na integridade e na oficialidade do sistema eletrnico do Tribunal de Justia Militar de Minas Gerais (TJMMG), de modo que eventual erro na contagem de prazo no poderia prejudic-lo no exerccio da defesa, ante a ausncia de indcios de m-f de sua parte. Ora,  nus do testemunhante zelar pela apresentao do recurso no prazo legalmente previsto e de sua defesa espera-se o conhecimento de que o recurso em sentido estrito deve ser interposto no prazo de 3 (trs) dias, nos termos do art. 518 do CPPM. Desse modo, reitero que, embora o sistema tenha informado que o testemunhante teria 5 (cinco) dias para recorrer, era nus exclusivo da defesa verificar se o prazo apresentado era adequado ou no para o recurso que ela pretendia interpor, notadamente considerando-se que a lei processual penal prev mais de um recurso, com prazos diferentes.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A contagem correta dos prazos recursais nus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrnico no o exime de interpor o recurso no prazo previsto em lei. O nus do recorrente zelar pela apresentao do recurso no prazo legalmente previsto e de sua defesa espera-se o conhecimento de que o recurso em sentido estrito deve ser interposto no prazo de 3 (três) dias.

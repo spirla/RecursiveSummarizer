@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ pessoal a intimao do Ministrio Pblico (LONMP - Lei 8.625/93, artigo 41, IV, e artigo 18, II, h, LC 75/1993), da Defensoria Pblica da Unio, do Distrito Federal e dos Territrios (artigo 44 da LC 80/1994). O CPPM no tem regra semelhante  do artigo 370, pargrafo 4, do CPP, que determina a intimao pessoal do defensor nomeado ao acusado que no o tiver. No entanto, em procedimento estatal, o juzo militar deve intim-lo pessoalmente ou, em caso de aceitao por meio de dirio oficial eletrnico, garantindo a ampla defesa e a paridade de armas entre o defensor nomeado (dativo) e o Ministrio Pblico dentro do devido processo legal. Devem ser esgotadas todas as possibilidades de localizao do ru solto para que seja efetivada a intimao da sentena condenatria. A doutrina compreende que a intimao da sentena condenatria se completa nas pessoas do acusado e do seu defensor em respeito  garantia constitucional da ampla defesa. Outro motivo que impe a intimao de ambos, acusado e defensor,  que o defensor tem legitimidade para recorrer da sentena condenatria e o acusado tem capacidade postulatria especial, decorrente de sua legitimidade, podendo apelar sem a assistncia de seu defensor. A exigncia feita no artigo 446 do CPPM de recolhimento  priso para intimao de sentena condenatria a ru solto ou revel no foi recepcionada pela Constituio Federal. Toda priso antes do trnsito em julgado de sentena condenatria tem natureza cautelar, vale dizer, o recolhimento  priso antes do trnsito em julgado s em caso de priso preventiva. A revelia no impede recebimento da apelao interposta pelo defensor em razo da regra do duplo grau de jurisdio. O CPPM no exige a dupla intimao - do ru e de seu defensor - da sentena absolutria. 16.5. Coisa julgada 16.5.1. Noes gerais. A Constituio Federal garante que a lei no prejudicar a coisa julgada (artigo 5, XXXVI). Chama-se coisa julgada ou caso julgado a deciso judicial de que j no caiba recurso (LINDB, artigo 6, pargrafo 3).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 8.625/93 e a Lei Complementar 80/1994 determinam a intimação pessoal do Ministério Público, da Defensoria Pública da União, do Distrito Federal e dos Territórios. O Código de Processo Penal Militar não tem regra semelhante, mas o juízo militar deve garantir a ampla defesa e a paridade de armas entre o defensor nomeado e o Ministério Público. A Constituição Federal garante a coisa julgada e a regra do duplo grau de jurisdição impede a revelia. O CPPM não exige a dupla intimação da sentença absolutória.

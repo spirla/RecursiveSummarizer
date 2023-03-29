@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Por outro lado, a teoria da ponderao de bens encontra suporte no princpio de que no atua ilicitamente aquele que lesiona ou pe em perigo um bem jurdico de inferior valor, se somente deste modo puder salvar um bem jurdico de valor superior. Na legislao repressiva nacional, as teorias do fim e da ponderao de bens expressam-se nos requisitos especficos para o reconhecimento do estado de necessidade. Nesse sentido, so requisitos legais do estado de necessidade:
+ existncia de um perigo atual;
+ que o perigo dirija-se a um bem juridicamente protegido;
+ involuntariedade do sujeito na produo do perigo;
+ inevitabilidade do comportamento lesivo;
+ inexistncia do dever de enfrentar o perigo; e.
+ inteno de agir em conformidade com a permisso legal. Fica tambm evidenciado que a conduta justificante do estado de necessidade pressupe um duplo juzo de valor, sendo o primeiro correspondente  comparao dos bens jurdicos envolvidos, e o segundo,  adequao tico-social dos meios utilizados pelo sujeito que realiza o fato necessrio para salvaguardar o bem protegido. 7.9.1.1. Teoria diferenciadora. Os requisitos estabelecidos pela lei para o reconhecimento do estado de necessidade como causa justificante levaram a doutrina alem a perceber que, em alguns casos, a situao de necessidade poderia levar ao reconhecimento da excluso da ilicitude e, em outros,  excluso da culpabilidade, com base na inexigibilidade de conduta diversa. Surge, ento, a teoria diferenciadora, que reala a distino existente entre o estado de necessidade justificante, que exclui a ilicitude do fato, e o estado de necessidade exculpante, que exclui a culpabilidade. A teoria diferenciadora contrape-se  ideia de que o estado de necessidade  sempre uma causa de justificao, que  concebida pela teoria unitria. Muito embora alguns autores entendam que o nosso Cdigo Penal tenha acolhido a teoria unitria,42 o pargrafo 2 do artigo 24, ao estabelecer causa de diminuio de pena para o caso em que o sacrifcio do bem jurdico no  tido por razovel, deixa mais do que evidente a adoo da teoria diferenciadora. Se o sacrifcio no razovel do bem jurdico pode conduzir  diminuio de pena, pode-se concluir que o comportamento  ilcito e a diminuio de pena decorre de uma culpabilidade diminuda. A culpabilidade  diminuda em funo da menor exigibilidade de conduta diversa. Se a menor exigibilidade implica culpabilidade diminuda, da inexigibilidade resulta a ausncia de culpabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Teoria da Ponderao de Bens encontra suporte no princípio de que aquele que lesiona ou coloca em perigo um bem jurídico de menor valor para salvar um bem jurídico de maior valor não age ilicitamente. A legislação repressiva nacional estabelece requisitos específicos para o reconhecimento do estado de necessidade, como a existência de um perigo atual, involuntariedade, inevitabilidade, inexistência do dever de enfrentar o perigo e intenção de agir conforme a permissão legal. A Teoria Diferenciadora distingue entre estado de necessidade justificante (excluindo a ilicitude) e estado de necessidade exculpante (excluindo a culpabilidade).

@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O segundo fundamento  a inconformidade, pois  absolutamente natural o inconformismo da parte diante de uma deciso que seja desfavorvel..
+18.1.2. Classificao. Faz-se a classificao dos recursos quanto ao objeto,  extenso, ao grau de jurisdio e a obrigatoriedade. Quanto ao objeto os recursos so classificados em ordinrios e extraordinrios:
+a) Os recursos ordinrios tm por objeto provocar um novo exame (total ou parcial) do caso penal j decidido em primeira instncia, por um rgo superior (ad quem), alcanando tanto matrias de direito como tambm fticas, com a possibilidade de deciso sobre a determinao dos fatos, sua tipicidade, a prova, dosimetria da pena etc..4 Os recursos ordinrios no exigem requisitos especiais para o rgo superior (ad quem) examinar a deciso proferida pelo rgo de jurisdio inferior (a quo). Neste sentido, a apelao (artigo 526, CPPM) e o recurso em sentido estrito (artigo 516, CPPM) so ordinrios;
+eb) Os recursosextraordinrios so limitados quanto ao objeto porque examinam questes de direito e tm por caracterstica os requisitos especiais de admissibilidade. Pertencem  essa categoria o recurso especial (artigo 105, III, CF) e o extraordinrio (artigo 102, III, CF) em que, respectivamente, o STJ e o STF s examinam a deciso do rgo de jurisdio inferior se preenchidos requisitos especiais. Conforme a extenso da matria impugnada, os recursos so classificados em totais ou parciais:
+a) Os recursos totais visam impugnar toda a matria ftica e jurdica, por exemplo , a apelao (artigo 526, CPPM), que pode impugnar os fatos, a tipicidade, a prova e a dosimetria da pena;
+eb) Os recursos parciais visam impugnar parte da deciso, por exemplo, o Ministrio Pblico recorre para que seja cassado o sursis indevidamente concedido pelo Conselho de Justia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os recursos são classificados quanto ao objeto em ordinários e extraordinários, e quanto à extensão da matéria impugnada em totais ou parciais. Os recursos ordinários permitem um novo exame do caso penal julgado em primeira instância, enquanto os extraordinários são limitados quanto ao objeto e exigem requisitos especiais para serem admitidos. Os recursos totais visam impugnar toda a matéria, enquanto os parciais visam impugnar parte da decisão.

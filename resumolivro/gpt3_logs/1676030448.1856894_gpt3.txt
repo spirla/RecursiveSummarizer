@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A diminuio da velocidade de um dos motoristas evitaria a coliso, da mesma forma que o aumento da velocidade do outro. O que determina a coliso  o desrespeito  preferncia de passagem no cruzamento, e no o excesso de velocidade. Jakobs apresenta problema que envolve importante aspecto da aplicao do princpio da confiana, ao tratar dos danos subsequentes. Tenha-se em mira uma coliso que provoque a parada de dois veculos na rodovia. Apesar de o local permitir ampla visibilidade, um terceiro veculo vem a colidir com o veculo envolvido na primeira coliso e que estava parado. O causador da primeira coliso responde pelas leses causadas pela coliso seguinte ou pode alegar sua confiana na habilidade dos demais condutores em desviarem-se dos veculos abalroados? O professor alemo observa que o fato de os causadores do dano subsequente terem de se comportar de outro modo no quer dizer que em todo caso poder-se-ia confiar tambm em que assim ocorresse. So as peculiaridades do caso concreto que iro determinar a possibilidade de acreditar-se no comportamento adequado dos demais condutores de veculo. Se a coliso ocorrer em uma curva muito fechada, a dificuldade de visualizao da posio dos veculos parados impedir a confiana na possibilidade de os demais condutores evitarem nova coliso. No entanto, diante de boas condies de sinalizao, visibilidade e manobra, pode-se, a princpio, confiar em que os demais condutores evitaro nova coliso. O comportamento absolutamente inadequado do terceiro condutor impe-lhe responsabilidade exclusiva e impede a imputao dos resultados subsequentes aos causadores da primeira coliso. Vale observar ainda que a aplicao do princpio da confiana na circulao de veculos depender da maneira como esto regulamentadas as expectativas sociais para o desenvolvimento da atividade. O Cdigo Brasileiro de Trnsito, ao estabelecer os deveres dos intervenientes em cada situao de trfego, declara o que se pode esperar no mbito das relaes de trnsito. No se pode admitir a confiana, mesmo que sincera, na realizao do que no  devido, ou seja, do que  improvvel. - Atuao em diviso do trabalho.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O professor Jakobs discute a responsabilidade dos motoristas envolvidos em uma colisão, bem como a aplicação do princípio da confiança. A colisão pode ser evitada se um dos motoristas diminuir a velocidade e se o outro aumentar. No entanto, a responsabilidade pelos danos subsequentes depende das peculiaridades do caso concreto e da maneira como estão regulamentadas as expectativas sociais para o desenvolvimento da atividade. O Código Brasileiro de Trânsito estabelece os deveres dos intervenientes, impedindo a confiança na realização de algo que não é devido.

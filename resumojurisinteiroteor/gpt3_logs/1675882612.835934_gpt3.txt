@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1, inciso I, alnea "a, c/c o 4, inciso I, da Lei n. 9.455/97 para a prevista no art. 222, 1 e 2, do Cdigo Penal Militar (CpM), em concurso eventual de pessoas, condenando Walysson Thiago Costa Braz, Alexssandro Rodrigues do Nascimento e Jos Ribeiro Neto pela prtica do aludido crime. As penas foram fixadas nos seguintes termos, verbis: Primeira Dosimetria da Pena referente ao policial militar, Walysson Thiago Costa Braz DOSIMETRIA DA PENA DO CRIME PREVISTO NO ART. 222,  1 e 2, do Cdigo Penal Militar [...] O Juzo Singular aplica ao acusado a pena-base acima do mnimo legal em 01 (um) ano e 06 (seis) meses de deteno. Considerando a inexistncia de atenuantes, mas considerando a agravante do art. 70, II, "g", com violao de dever de zelar pelo cumprimento da lei e de atender s formalidades legais, "l, estando de servio, ambos do CPM, o Juzo Singular agrava a pena em 01 (um) ms, aplicando ao acusado a pena-provisria de 01 (um) ano e 07 (sete) meses de deteno. Considerando a inexistncia de causas de aumento, bem como considerando a inexistncia de causas de diminuio, o Juzo Singular torna a pena-definitiva em 01 (um) ano e 07 (sete) meses de deteno, a ser cumprida em regime aberto [...] DOSIMETRIA DA PENA CORRESPONDENTE  VIOLNCIA - ART.209, do Cdigo Penal Militar. [...] O Juzo Singular aplica ao acusado a pena-base acima do mnimo legal em 08 (oito) meses de deteno. Considerando a inexistncia de atenuantes, mas considerando a agravante do art. 70, II, "g", com violao de dever de zelar pelo cumprimento da lei e de atender s formalidades legais, "l, estando de servio, ambos do CPM, o Juzo Singular agrava a pena em 01 (um) ms, aplicando ao acusado a pena-provisria de 09 (nove) meses de deteno. Considerando a inexistncia de causas de aumento, bem como considerando a inexistncia de causas de diminuio, o Juzo Singular torna a pena-definitiva em 09 (nove) meses de deteno, a ser cumprida em regime aberto, [...] Por no atender s condies objetivas e subjetivas relativas  suspenso condicional da execuo da pena, ante a soma das penas, no concedo ao sentenciado o referido benefcio. Segunda Dosimetria da Pena referente ao policial militar, Alexssandro Rodrigues Do Nascimento DOSIMETRIA DA PENA DO CRIME PREVISTO NO ART. 222,  1 e 2, do Cdigo Penal Militar. [...] O Juzo Singular aplica ao acusado a pena-base acima do mnimo legal em 01 (um) ano e 06 (seis) meses de deteno. Considerando a inexistncia de atenuantes, mas considerando a agravante do art. 70, II, "g", com violao de dever de zelar pelo cumprimento da lei e de atender s formalidades legais, "l, estando de servio, ambos do CPM, o Juzo Singular agrava a pena em 01 (um) ms, aplicando ao acusado a pena-provisria de 01 (um) ano e 07 (sete) meses de deteno.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juzo singular condenou Walysson Thiago Costa Braz, Alexssandro Rodrigues do Nascimento e Jos Ribeiro Neto pela prtica do crime previsto no art. 222, 1 e 2, do Cdigo Penal Militar, em concurso eventual de pessoas, fixando a pena-base acima do mnimo legal em 01 (um) ano e 06 (seis) meses de deteno para cada acusado, agravada em 01 (um) ms, aplicando a pena-provisria de 01 (um) ano e 07 (sete) meses de deteno, tornando a pena-definitiva em 01 (um) ano e 07 (sete) meses de deteno, a ser cumprida em regime aberto, sem conceder o benefício da suspenso condicional da execução da pena.

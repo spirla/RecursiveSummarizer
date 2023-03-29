@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Considerando as dificuldades relativas ao tema, a doutrina consagrou o entendimento de que no  possvel a exculpao, pela falta de conhecimento da ilicitude, quando ao sujeito teria sido fcil, nas circunstncias, com algum esforo de inteligncia e com os conhecimentos adquiridos em seu prprio meio ambiente, adquirir essa conscincia; quando o sujeito, propositadamente, recusa-se a se informar para evitar obedincia ao dever jurdico; ou quando o sujeito deixa de informar-se, mesmo sem m-f, sobre o exerccio de atividades regulamentadas (como  o caso das atividades militares). Em todas essas hipteses, seria manifestamente possvel ao sujeito evitar o erro. No sendo o erro concretamente evitado, deve o sujeito ser responsabilizado pela conduta que realizou. Sua culpabilidade poder ser diminuda em relao  hiptese de ter agido com plena conscincia da ilicitude. Ao juzo de reprovao interessa mensurar a possibilidade concreta de o sujeito evitar o erro para relacion-la ao critrio valorativo da exigibilidade da conduta diversa. Se tal possibilidade for maior, a exigibilidade de conduta diversa igualmente o ser. O inverso tambm  verdadeiro, de modo que, se a possibilidade de evitar o erro for menor, a exigibilidade que se dirige ao sujeito para que pratique conduta diversa tambm o ser. 5.9.2.4. Desconhecimento da lei. O artigo 35 do Cdigo Penal Militar admite que a ignorncia da lei seja escusvel. Contudo, o artigo 21 do Cdigo Penal comum, expressamente dispes que o desconhecimento da lei  inescusvel, o que significa que o sujeito no ser isento da responsabilidade penal pelo simples fato de desconhecer a lei. Vale observar, entretanto, que para fins do juzo de reprovao da culpabilidade o desconhecimento da lei  irrelevante. O que interessa ao juzo de reprovao  o erro sobre a ilicitude da conduta realizada, e o desconhecimento da lei no se confunde com o erro sobre a ilicitude da conduta. A compreenso sobre a ilicitude, muitas vezes, no exige que o indivduo conhea o texto escrito da lei. Quanto aos aspectos mais cotidianos da vida social, a ilicitude de determinadas condutas pode ser identificada pelo senso comum, pela experincia ordinria das relaes que se desenvolvem no ambiente social. No ambiente militar, pode-se dizer o mesmo. A ilicitude de determinadas condutas pode ser identificada facilmente, mesmo que no se possa identificar o dispositivo legal que as probe.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina consagrou o entendimento de que não é possível a exculpabilidade, pela falta de conhecimento da ilicitude, quando há possibilidade de obter essa consciência com esforço e conhecimento adquirido. O desconhecimento da lei é inescusável, mas não influencia no juízo de reprovação da culpabilidade, pois o que interessa é o erro sobre a ilicitude da conduta realizada. A ilicitude das condutas pode ser identificada pelo senso comum ou pela experiência ordinária das relações sociais.

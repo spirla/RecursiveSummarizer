@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nos termos do voto do Ministro Edson Fachin, redator para o acordao, vencidos parcialmente os Ministros Marco Aurelio (relator) e Nunes Marques. ADPF 742/DF, relator Min. Marco Aurelio, redator do acordao Min. Edson Fachin, julgamento virtual finalizado em 24.2.2021 (INF 1006) COVID-19 e vacinacao compulsoria - ADI 6586/DF e ADI 6587/DF ODS 3 Tese fixada: (A) A vacinacao compulsoria nao significa vacinacao forcada, por exigir sempre o consentimento do usuario, podendo, contudo, ser implementada por meio de medidas indiretas, as quais compreendem, dentre outras, a restricao ao exercicio de certas atividades ou a frequencia de determinados lugares, desde que previstas em lei, ou dela decorrentes, e (i) tenham como base evidencias cientificas e analises estrategicas pertinentes, (ii) venham acompanhadas de ampla informacao sobre a eficacia, seguranca e contraindicacoes dos imunizantes, (iii) respeitem a dignidade humana e os direitos fundamentais das pessoas; (iv) atendam aos criterios de razoabilidade e proporcionalidade, e (v) sejam as vacinas distribuidas universal e gratuitamente; e (B) tais medidas, com as limitacoes acima expostas, podem ser implementadas tanto pela Uniao como pelos Estados, Distrito Federal e Municipios, respeitadas as respectivas esferas de competencia . Resumo: A obrigatoriedade da vacinacao nao contempla a imunizacao forcada, porquanto e levada a efeito por meio de medidas indiretas. A obrigatoriedade da vacinacao a que se refere a legislacao sanitaria brasileira nao pode contemplar quaisquer medidas invasivas, aflitivas ou coativas, em decorrencia direta do direito a intangibilidade, inviolabilidade e integridade do corpo humano, afigurando-se flagrantemente inconstitucional toda determinacao legal, regulamentar ou administrativa no sentido de implementar a vacinacao sem o expresso consentimento informado das pessoas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(A) A vacinação compulsória não significa vacinação forçada, pois exige sempre o consentimento do usuário, podendo ser implementada por meio de medidas indiretas previstas em lei, desde que baseadas em evidências científicas, acompanhadas de ampla informação sobre a eficácia, segurança e contraindicações dos imunizantes, respeitando a dignidade humana e os direitos fundamentais das pessoas, atendendo aos critérios de razoabilidade e proporcionalidade, e as vacinas sejam distribuídas universal e gratuitamente. (B) Tais medidas podem ser implementadas tanto pela União como pelos Estados, Distrito Federal e Municípios, respeitadas as respectivas esferas de competência. (C) A obrigatoriedade da vacinação não pode contemplar medidas invasivas, aflitivas ou coercitivas, em decorrência direta do direito à intangibilidade, inviolabilidade e integridade do corpo humano.

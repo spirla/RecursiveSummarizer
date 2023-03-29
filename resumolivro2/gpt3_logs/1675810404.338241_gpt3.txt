@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A deciso  fundamentada, sob pena de nulidade (artigo 5 da Lei 9.296/96). A exigncia da fundamentao da deciso judicial decorre da Lei Maior, que determina que as decises do Poder Judicirio devem ser motivadas (artigo 93, IX) e que garante que o sigilo das comunicaes telefnicas s que pode ser quebrado na forma da lei (CF, artigo 5, XII). A doutrina observa que a deciso judicial no pode ser uma repetio de palavras da lei, tampouco a motivao ser genrica, com expresses vagas e pouco significativas para o caso concreto. Aluso na deciso apenas ao requerimento do MPM ou aos termos da representao da autoridade de polcia judiciria militar no  suficiente para motivar a quebra de sigilo telefnico, que deve ficar assentada na necessidade da tomada de deciso. A 6 Turma do STJ no RHC 61069/RJ, rel. Min. Maria Thereza de Assis Moura, j. 28/06/2016, decidiu:
+(....)2. So nulas as interceptaes telefnicas deferidas em decises carentes de fundamentao concreta, que no apontam a imprescindibilidade da medida. Hiptese em que a autoridade policial requereu a quebra de sigilo amparada apenas no tipo de crime supostamente cometido (trfico de drogas), sem qualquer demonstrao da inexistncia de outros meios investigativos. E o magistrado a quo limitou-se a acolher o pedido policial e o parecer ministerial, que tambm no estava motivado, sem tecer qualquer mnima considerao, em violao  Lei 9.296/1996. No tocante  deciso de prorrogao, porm, decidiu o STF (HC 92.020/DF) que as decises que autorizam a prorrogao de interceptao telefnica sem acrescentar novos motivos evidenciam que essa prorrogao foi autorizada com base na mesma fundamentao exposta na primeira deciso que deferiu o monitoramento. No RHC 120.551/MT, rel.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A decisão judicial deve ser fundamentada de acordo com a Lei Maior, que determina que as decisões do Poder Judicirio devem ser motivadas. A quebra de sigilo telefônico deve ser assentada na necessidade da tomada de decisão. O STJ decidiu que as interceptações telefônicas são nulas quando carentes de fundamentação concreta. O STF decidiu que as decisões que autorizam a prorrogação de interceptação telefônica devem ser baseadas na mesma fundamentação da primeira decisão.

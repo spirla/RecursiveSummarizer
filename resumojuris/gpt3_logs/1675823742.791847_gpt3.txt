@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Enquanto as emendas individuais e de bancada vinculam o autor da emenda ao beneficiario das despesas, tornando claras e verificaveis a origem e a destinacao do dinheiro gasto, as emendas do relator operam com base na logica da ocultacao dos congressistas requerentes da despesa por meio do estratagema da rubrica RP 9. Alem disso, diferentemente do sistema existente para as emendas individuais e de bancada, a definicao de onde serao aplicados os recursos ocorre internamente, sem possibilidade de controle por meio das plataformas e sistemas de transparencia da Uniao na internet. Essa dinamica desrespeita os postulados da execucao equitativa, da igualdade entre os parlamentares, da observancia de criterios objetivos e imparciais na elaboracao orcamentaria e, acima de tudo, o primado do ideal republicano e o postulado da transparencia no gasto de recursos publicos. Com base nesses fundamentos, o Plenario, por maioria, referendou decisao monocratica da ministra relatora, que conheceu em parte da arguicao de descumprimento e, nessa extensao, deferiu o pedido de medida cautelar requerido. Vencidos, parcialmente, os ministros Gilmar Mendes e Nunes Marques. ADPF 854 MC-Ref/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 10.11.2021 (quarta-feira), as 23:59 (INF 1037) ADPF 850 MC-Ref/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 10.11.2021 (quarta-feira), as 23:59 (INF 1037) ADPF 851 MC-Ref/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 10.11.2021 (quarta-feira), as 23:59 (INF 1037) Emendas impositivas e modelo federal - ADI 6670 MC/DF Resumo: Presentes os requisitos do fumus boni iuris e do periculum in mora , cabivel a concessao de medida cautelar para afastar a aplicacao de norma estadual que estabeleca limites para aprovacao de emendas parlamentares impositivas em patamar diferente do imposto pelo art. 166 da CF/88 (CF).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As emendas individuais e de bancada vinculam o autor da emenda ao beneficiário das despesas, tornando claras e verificáveis a origem e a destinação do dinheiro gasto. 2. As emendas do relator operam com base na lógica da ocultação dos congressistas requerentes da despesa por meio do estratagema da rubrica RP 9. 3. A definição de onde serão aplicados os recursos ocorre internamente, sem possibilidade de controle por meio das plataformas e sistemas de transparência da União na internet. 4. A dinâmica desrespeita os postulados da execução equitativa, da igualdade entre os parlamentares, da observância de critérios objetivos e imparciais na elaboração orçamentária e, acima de tudo, o primado do ideal republicano e o postulado da transparência no gasto de recursos públicos. 5. É cabível a concessão de medida cautelar para afastar a aplicação de norma estadual que estabeleça limites para aprovação de emendas parlamentares impositivas em patamar diferente do imposto pelo art. 166 da CF/88.

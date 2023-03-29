@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. NULIDADE. INOCORRNCIA. LEGALIDADE. CONTRADITRIO E AMPLA DEFESA. FUNDAMENTO AUTNOMO NO IMPUGNADO. INCIDNCIA DA SMULA 283/STF. PENA DE DEMISSO. PROPORCIONALIDADE DA SANO RECONHECIDA PELA CORTE DE ORIGEM. ALTERAO DO JULGADO QUE DEMANDA ANLISE DO CONJUNTO FTICO PROBATRIO. SMULA 7/STJ. CONTROLE JURISDICIONAL DO PROCESSO ADMINISTRATIVO DISCIPLINAR. EXAME DA REGULARIDADE DO PROCEDIMENTO E DA LEGALIDADE DO ATO. IMPOSSIBILIDADE DE INCURSO NO MRITO DO ATO ADMINISTRATIVO. [..] 3. Havendo sido observado o contraditrio e a ampla defesa e o devido processo legal no h que se falar em reviso da deciso administrativa pelo Poder Judicirio, pois importaria adentrar ao mrito administrativo, o que  vedado no controle jurisdicional das decises proferidas em sede de Processo Administrativo Disciplinar. Precedentes: AgInt no RMS 48.885/MG, Relator Ministro Srgio Kukina, Primeira Turma, DJe 12/12/2019 e AgInt no RMS 62.796/PA, Relator Ministro Francisco Falco, Segunda Turma, DJe 30/9/2020.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal negou o recurso especial interposto por servidor público federal, pois não houve nulidade no processo administrativo disciplinar, observado o contraditório e a ampla defesa, e não é possível revisar a decisão administrativa pelo Poder Judiciário, pois isso implicaria adentrar ao mérito administrativo, o que é vedado.

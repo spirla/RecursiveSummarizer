@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em 29 de outubro de 2018, o juzo da 2a Vara Criminal e Execues Penais de Ibirit/MG acolheu a preliminar arguida pelo Ministrio Pblico e defesa de Douglas Macarlos dos Santos de incompetncia absoluta do juzo e determinou a remessa dos autos  Justia Militar Estadual (Evento 4, OUT18, pgs. 48/52 - autos de 1a Instncia). Distribudo o feito nesta Justia Militar, o juzo da 1a Auditoria Judiciria Militar Estadual convalidou os atos decisrios, determinando abertura de vista s partes para os fins do artigo 427 do CPPM (Evento 4, OUT 18, pg. 72 - autos de 1 a Instncia). O Ministrio Pblico pugnou pela juntada das certides de antecedentes criminais dos acusados, oriundas da Justia Militar e da 3 Justia comum, e tambm da folha de antecedentes criminais. Por sua vez, as defesas dos acusados nada requereram (Evento 4, OUT18, pgs.73 e 75 - autos de 1a Instncia). Na fase do art. 428 do CPPM, as partes ratificaram as alegaes finais anteriormente apresentadas (Evento 4, OUT18, pgs. 73 e 75 - autos de 1a Instncia). Concluda a instruo processual, reuniu-se o douto Conselho Permanente de Justia, em 04 de fevereiro de 2020, para a sesso de julgamento. Na oportunidade, aps a leitura das peas principais do processo, foi dada a palavra ao Parquet, que requereu a condenao dos acusados nos exatos termos da denncia. Em seguida, o CPJ decidiu baixar o feito em diligncia com o objetivo de analisar elementos de prova mencionados ao longo da instruo e que no constam nos autos, tais como as imagens feitas no local do fato relativas a um disparo de arma de fogo que teria sido realizado por um dos rus (Evento, OUT 18, pg. 125 - autos de 1a Instncia). Procedeu-se  migrao dos autos do meio fsico para o eletrnico (Evento 4, OUT18, pg. 162, eventos 6 e 12 - autos de 1a Instncia). O juzo da 1a AJME determinou a abertura de vista  defesa da cpia das mdias juntadas aos autos que foram extradas do processo n. 0006810-44.2012.9.13.0003 e designou data para sesso de julgamento. (Evento, OUT 18, pg, 169 - autos de 1a Instncia). Em 26 de outubro de 2020, novamente reuniu-se o douto Conselho Permanente de Justia para a sesso de julgamento. Na oportunidade, aps a leitura das peas principais do processo, foi dada a palavra  ilustre Representante do Ministrio Pblico, que requereu a condenao dos acusados nos exatos termos da denncia.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juzo da 1a Auditoria Judiciria Militar Estadual convalidou os atos decisrios, determinando abertura de vista s partes para os fins do artigo 427 do CPPM. O Conselho Permanente de Justia decidiu baixar o feito em diligncia para analisar elementos de prova mencionados ao longo da instruo e que no constam nos autos. O Juzo designou data para sesso de julgamento e, em 26 de outubro de 2020, o Conselho Permanente de Justia reuniu-se para julgamento, requerendo a condenao dos acusados nos exatos termos da denncia.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Reconhecimento fotografico. Procedimento previsto no art. 226 do CPP. Obrigatoriedade. Nova orientacao jurisprudencial do STJ (HC 598.886/SC). Ausencia de riscos de um reconhecimento falho. Distinguishing. DESTAQUE 1274 No caso em que o reconhecimento fotografico na fase inquisitorial nao tenha observado o procedimento legal, mas a vitima relata o delito de forma que nao denota riscos de um reconhecimento falho, da-se ensejo a distinguishing quanto ao acordao do HC 598.886/SC, que invalida qualquer reconhecimento formal - pessoal ou fotografico - que nao siga estritamente o que determina o art. 226 do CPP. No julgamento do HC 598.886/SC, da relatoria do Min. Rogerio Schietti Cruz, decidiu a Sexta Turma, revendo anterior interpretacao, no sentido de que se determine, doravante, a invalidade de qualquer reconhecimento formal - pessoal ou fotografico - que nao siga estritamente o que determina o art. 226 do CPP, sob pena de continuar-se a gerar uma instabilidade e inseguranca de sentencas judiciais que, sob o pretexto de que outras provas produzidas em apoio a tal ato - todas, porem, derivadas de um reconhecimento desconforme ao modelo normativo - autorizariam a condenacao, potencializando, assim, o concreto risco de graves erros judiciarios .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O reconhecimento fotográfico previsto no art. 226 do Código de Processo Penal é obrigatório. 2. O Superior Tribunal de Justiça, em julgamento do HC 598.886/SC, decidiu que qualquer reconhecimento formal - pessoal ou fotográfico - que não siga estritamente o que determina o art. 226 do CPP é inválido. 3. A ausência de riscos de um reconhecimento falho autoriza a aplicação da técnica de distinguishing quanto ao acórdão do HC 598.886/SC.

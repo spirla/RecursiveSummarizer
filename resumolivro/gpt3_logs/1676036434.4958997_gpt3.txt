@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A Escola Positiva volta suas atenes para o homem como sujeito ativo de crime e percebe o delito no mais como ente jurdico, e sim como fato humano, decorrente de fatores antropolgicos, fsicos e sociais. Augusto Thompson observa que o discurso filosfico do Iluminismo, na realidade, acabou por se tornar incompatvel com os fins pragmticos a serem extrados da mquina judicial e o atuar discriminatrio da Justia fez-se realar. Essa situao gerou a necessidade da formulao de nova teoria, capaz de compatibilizar as sanes a cada conduta proibida e a Escola Positiva, para realizar tal mister, deslocou o foco de ateno do crime para o criminoso. Na Itlia, os estudos de Csar Lombroso153 deram incio a esse movimento cientfico, que considera o criminoso um ser humano atvico, e a Antropologia criminal foi responsvel pela mudana de referencial quando da anlise do crime. Posteriormente, a Sociologia criminal, de Enrico Ferri, e a Criminologia, de Garofalo, prosseguiram nos passos iniciais de Lombroso e estabeleceram como fundamento da responsabilizao penal o fato de que o delinquente vive em sociedade. A razo e o fundamento da pena apresentam-se agora na defesa social, e, sendo o crime resultante de uma personalidade anmala, a concepo do livre-arbtrio deve ceder lugar ao determinismo, e a pena no pode mais ser um castigo. Considerando que o homem no possui verdadeira liberdade de deciso, o positivismo ressaltou a influncia das circunstncias internas e externas na determinao da vontade humana. Assim, a vontade sempre ser determinada pela direo imposta pelas razes mais poderosas. A estruturao positiva baseava-se no mtodo de observao e experimentao de Galileu. Ferri, percebendo o sucesso da aplicao desse mtodo a outros ramos do conhecimento cientfico, por exemplo, na Medicina, que, ento, voltava suas atenes para o enfermo e no somente para a enfermidade, introduziu-o na anlise do crime. Os estudos do crime, como abstrao independente da pessoa do criminoso, no entender de Ferri, mostraram-se insuficientes para a melhor adequao do Direito Penal  realidade ftica, e a evoluo da cincia penal apontava para o caminho da considerao simultnea do criminoso, utilizando o mtodo positivo. Nesse sentido,  necessrio salientar que o sucesso do mtodo positivo depende da neutralidade e do desinteresse do observador, quando da captao dos elementos relacionados com seu objeto de estudo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Escola Positiva foca no homem como sujeito ativo de crime, e não como ente jurdico. Lombroso iniciou o movimento científico que considera o criminoso um ser humano ativo, e a Sociologia e Criminologia prosseguiram esse estudo. O positivismo enfatiza a influência das circunstâncias internas e externas na determinação da vontade humana, e o sucesso do mtodo positivo depende da neutralidade do observador.

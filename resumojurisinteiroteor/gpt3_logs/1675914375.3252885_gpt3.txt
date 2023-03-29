@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O Ministrio Pblico ofereceu denncia contra o apelante, Evento 02, aduzindo o seguinte: [...] No dia 28 de setembro de 2016, por volta de 24 hs (meia noite), no posto policial do Terminal Rodovirio da cidade de Uberlndia, o denunciado ofendeu a integridade corporal da vtima Walterson Cardoso Duarte, provocando-lhe leses corporais de natureza leve, conforme ACD de fls.14/15 do IP 0361727-65.2017 e fls. 80/81 do PIC MPMG 0702.17.002400-5, consistente em desferir um golpe contra o pescoo do ofendido (tipo mata-leo), jogando-o no solo. Segundo consta dos autos, que no dia 28 de setembro de 2016, por volta de 22 horas, em patrulhamento na Avenida Vasconcelos Costa, em frente  Faculdade Esamc, nesta cidade, o denunciado abordou o veculo ocupado pela vtima e constatou que o condutor no estava com os documentos de porte obrigatrio, bem como o farol do lado direito estava queimado, razo pela qual foi feita a remoo do 1 veculo ao ptio, conforme REDS 2016-021232554-001 (fls. 06/09 do IP e fls. 15v/17 do PIC). Insatisfeito com os procedimentos adotados pela guarnio policial, a vtima Walterson Cardoso Duarte se dirigiu at o posto policial do Terminal Rodovirio da cidade de Uberlndia e fez uma reclamao quanto  conduta do policial militar Robson Tavares, ora denunciado. Ato contnuo, passado certo tempo, o denunciado compareceu ao posto policial  paisana, em um veculo Renault, modelo Duster e disse ao ofendido: o que voc vai reclamar contra mim seu vagabundo", desferindo-lhe, em seguida, um golpe em seu pescoo, tipo mata-leo, jogando-o no cho, causando-lhe leses. Ante o exposto, denuncio ROBSON TAVARES CARDOSO, como incurso nas sanes do artigo 129, caput, do Cdigo Penal, requerendo que, recebida e autuada esta, seja instaurado o devido processo penal, nos termos do artigo 396 e seguintes do Cdigo de Processo Penal, devendo o denunciado ser citado para apresentao de resposta  acusao, instruindo-se o feito com a oitiva da vtima e das testemunhas do rol abaixo, e com interrogatrio do ru, prosseguindo-se at final condenao do denunciado. A denncia foi recebida no dia 13 de janeiro de 2020 (Evento 01). Na fase instrutria, foram ouvidas as testemunhas de acusao (Evento 77) e de defesa (Evento 113), bem como o acusado (Evento 149) e a vtima (Evento 77), por meio de recurso audiovisual. Em alegaes finais escritas (Evento 152), o Ministrio Pblico pugnou pela procedncia da denncia, para condenar o ru pela prtica do crime previsto no art. 209 do CPM, em razo de estarem presentes a materialidade delitiva (atravs do exame de corpo de delito juntado aos autos), bem como a autoria.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministrio Pblico ofereceu denncia contra o apelante, alegando que o denunciado desferiu um golpe em seu pescoo, tipo mata-leo, jogando-o no cho, causando-lhe leses leves, no dia 28 de setembro de 2016, por volta de 24 hs (meia noite). A denncia foi recebida no dia 13 de janeiro de 2020 e, na fase instrutria, foram ouvidas as testemunhas de acusação e de defesa, bem como o acusado e a vítima. O Ministério Público pugnou pela procedência da denncia para condenar o réu pela prática do crime previsto no art. 209 do Código Penal.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Obrigacao solidaria dos entes da federacao. Impetracao direcionada apenas contra secretario estadual de saude. Competencia da justica Estadual. DESTAQUE 216 Em acao que pretende o fornecimento de medicamento registrado na ANVISA, ainda que nao incorporado em atos normativos do SUS, e prescindivel a inclusao da Uniao no polo passivo da demanda. O Supremo Tribunal Federal, ao apreciar o Tema 793 da Repercussao Geral, fixou tese no sentido de que os entes da federacao, em decorrencia da competencia comum, sao solidariamente responsaveis nas demandas prestacionais na area da saude, e diante dos criterios constitucionais de descentralizacao e hierarquizacao, compete a autoridade judicial direcionar o cumprimento conforme as regras de reparticao de competencias e determinar o ressarcimento a quem suportou o onus financeiro (STF, EDcl no RE 855.178/SE, Rel. p/ acordao Ministro Edson Fachin, Pleno, DJe 16/04/2020). Igual entendimento e adotado pela jurisprudencia do Superior Tribunal de Justica, que se orienta no sentido de que o funcionamento do Sistema Unico de Saude e de responsabilidade solidaria da Uniao, dos Estados e dos Municipios, de modo que qualquer um destes entes possui legitimidade para figurar no polo passivo da demanda, cabendo a parte autora escolher contra quem deseja litigar. A Primeira Secao do STJ, ao examinar questao analoga, firmou entendimento no sentido de que, ao julgar o RE 855.178 ED/SE (Tema 793/STF), o Supremo Tribunal Federal foi bastante claro ao estabelecer na ementa do acordao que 'E da jurisprudencia do Supremo Tribunal Federal que o tratamento medico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidaria dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.'
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os entes da federação são solidariamente responsáveis nas demandas prestacionais na área da saúde. 2. É competência da Justiça Estadual julgar ações que pretendem o fornecimento de medicamento registrado na ANVISA. 3. É possível direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro. 4. O funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, dos Estados e dos Municípios. 5. O polo passivo da demanda pode ser composto por qualquer um dos entes federados, isoladamente ou conjuntamente.

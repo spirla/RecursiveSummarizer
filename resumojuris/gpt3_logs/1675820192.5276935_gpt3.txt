@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Gilmar Mendes, julgamento virtual finalizado em 21.5.2021 (sexta-feira), as 23:59 (INF 1018) Servidor publico estadual e vinculacao de reajuste de vencimentos a indice federal  ADI 5584/MT Resumo: E inconstitucional a vinculacao de reajuste de vencimentos de servidores publicos estaduais ou municipais a indices federais de correcao monetaria. Para evitar aumentos em cascata, a CF/88 veda a vinculacao ou a equiparacao de quaisquer especies remuneratorias para o efeito de remuneracao de pessoal no servico publico. Alem disso, a vinculacao do reajuste de vencimentos de servidores estaduais ou municipais a indices federais de correcao monetaria afronta a autonomia dos entes subnacionais para concederem reajustes a seus servidores, bem como desrespeita o Enunciado 42 da Sumula Vinculante. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado para declarar a inconstitucionalidade da Lei 8.278/2004, do Estado de Mato Grosso. Vencidos os ministros Edson Fachin e Rosa Weber. ADI 5584/MT, relator Min. Ricardo Lewandowski, julgamento virtual finalizado em 3.12.2021 (sexta-feira), as 23:59 (INF 1040) 1.13 RESPONSABILIDADE CIVIL DO ESTADO Responsabilidade objetiva do Estado e profissional da imprensa ferido durante manifestacao tumultuosa - RE 1209429/SP (Tema 1.055 RG) Tese fixada: E objetiva a Responsabilidade Civil do Estado em relacao a profissional da imprensa ferido por agentes policiais durante cobertura jornalistica, em manifestacoes em que haja tumulto ou conflitos entre policiais e manifestantes. Cabe a excludente da responsabilidade da culpa exclusiva da vitima, nas hipoteses em que o profissional de imprensa descumprir ostensiva e clara advertencia sobre acesso a areas delimitadas, em que haja grave risco a sua integridade fisica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a vinculação de reajuste de vencimentos de servidores públicos estaduais ou municipais a índices federais de correção monetária. 2. É objetiva a Responsabilidade Civil do Estado em relação a profissional da imprensa ferido por agentes policiais durante cobertura jornalística, em manifestações em que haja tumulto ou conflitos entre policiais e manifestantes.

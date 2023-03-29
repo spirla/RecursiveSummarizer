@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STF ja se manifestou pela constitucionalidade da cassacao da aposentadoria, a despeito do carater contributivo de que se reveste o beneficio previdenciario (MS 21.948/RJ, Rel. Min. Neri da Silveira; MS 23.219-AgR/R, Rel. Min. Eros Grau; STA n. 729 AgR, Rel. Min. Ricardo Lewandowski), assim como esta Corte de Justica: MS 20.926/DF, Rel. Min. Mauro Campbell Marques, Primeira Secao, DJe 14/9/2015; MS 20.444/DF, Rel. Min. Herman Benjamin, Primeira Secao, DJe 11/3/2014. 2. A ausncia de impugnacao especifica ao fundamento da decisao que inadmitiu o recurso especial obsta ao conhecimento do agravo, nos termos dos artigos 932, III, do CPC e 253, paragrafo unico, I, do RISTJ e da Sumula 182 do STJ, aplicavel por analogia. 3. Agravo regimental improvido.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF e a Corte de Justiça já se manifestaram pela constitucionalidade da cassação da aposentadoria, mesmo que se trate de um benefício previdenciário. A ausência de impugnação específica ao fundamento da decisão que inadmitiu o recurso especial impede o conhecimento do agravo. Agravo regimental improvido.

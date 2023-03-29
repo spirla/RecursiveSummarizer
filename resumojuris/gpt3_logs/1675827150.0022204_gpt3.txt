@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Edson Fachin, julgamento virtual finalizado em 11.5.2021 (terca-feira), as 23:59 (INF 1017) Fixacao de aliquota do ICMS sobre operacoes interestaduais com bens e mercadorias importados - ADI 4858/DF Resumo: E constitucional resolucao do Senado Federal que fixa aliquota do Imposto sobre Circulacao de Mercadorias e Servicos (ICMS) aplicavel as operacoes interestaduais com bens e mercadorias importados do exterior. No inciso II do art. 155 da CF/88 (CF), que guia toda a disciplina que se segue em materia de ICMS, ha respaldo a cobranca do referido imposto nas operacoes interestaduais com bens e mercadorias importados. No texto constitucional, afirma-se expressamente que o ICMS pode ser cobrado ainda que as operacoes e as prestacoes se iniciem no exterior . Alem disso, de acordo com art. 155,  2, IV, da CF, compete ao Senado Federal, por meio de resolucao, o estabelecimento das aliquotas de ICMS aplicaveis as operacoes e prestacoes interestaduais. Com base nesse entendimento, o Plenario, por maioria, julgou improcedente a acao direta, para reconhecer a constitucionalidade da Resolucao 13/2012 do Senado Federal. Vencidos o ministro Edson Fachin (relator) e o ministro Marco Aurelio. ADI 4858/DF, relator Min. Edson Fachin, redator do acordao Min. Gilmar Mendes, julgamento virtual finalizado em 16.8.2021 (segunda-feira), as 23:59. (INF 1025) ICMS-comunicacao e inadimplencia do consumidor final - RE 1003758/RO (Tema 705 da RG) Tese fixada: A inadimplencia do usuario nao afasta a incidencia ou a exigibilidade do ICMS sobre servicos de telecomunicacoes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a resolução do Senado Federal que fixa alíquota do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) aplicável às operações interestaduais com bens e mercadorias importados do exterior. 2. O ICMS pode ser cobrado ainda que as operações e as prestações se iniciem no exterior. 3. Compete ao Senado Federal, por meio de resolução, o estabelecimento das alíquotas de ICMS aplicáveis às operações e prestações interestaduais. 4. A inadimplência do usuário não afasta a incidência ou a exigibilidade do ICMS sobre serviços de telecomunicações.

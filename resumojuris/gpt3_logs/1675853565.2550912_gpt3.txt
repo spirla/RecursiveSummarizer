@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministra Regina Helena Costa, Primeira Turma, por unanimidade, julgado em 18/10/2022, DJe 25/10/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL Tema Agravo interno. Negativa de provimento. Votacao unanime. Multa prevista no art. 1.021,  4, do CPC/2015. Inaplicabilidade. Fundamentacao insuficiente. Manifesta inadmissibilidade ou improcedencia do recurso. Imprescindibilidade. DESTAQUE O mero nao provimento de agravo interno por votacao unanime nao basta para fundamentar a aplicacao da multa prevista no art. 1.021,  4, do CPC de 2015, sendo necessaria a configuracao da manifesta inadmissibilidade ou improcedencia do recurso.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A aplicação da multa prevista no art. 1.021, 4, do CPC de 2015 exige a configuração da manifesta inadmissibilidade ou improcedência do recurso. 2. O mero não provimento de agravo interno por votação unânime não é suficiente para fundamentar a aplicação da multa prevista no art. 1.021, 4, do CPC de 2015.

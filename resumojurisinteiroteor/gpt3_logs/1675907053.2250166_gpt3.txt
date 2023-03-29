@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em grau de recurso, realizada sesso de julgamento, a C. Segunda Cmara, negou provimento ao recurso de apelao interposto pelo embargante, bem como deu provimento ao apelo do Ministrio Pblico para manter condenao do Cb PM Tiago Amorim Russo quanto ao crime previsto no art. 326 do CPM, por trs vezes, e reformar parcialmente a sentena condenatria, a fim de que fosse aplicada a regra do art. 79 do CPM, condenando, assim, o militar a uma pena de 3 (anos) de deteno, a ser cumprida em regime aberto. Inconformado, o militar ops os presentes embargos, por meio dos quais apontou, inclusive para fins de prequestionamento, a omisso de quatro apontamentos, em tese, constantes do acrdo verbejado, conforme relatrio. Pois bem. Pela leitura do art. 542 do CPPM, observo que os embargos de declarao apenas so cabveis se a deciso recorrida contiver obscuridade, contradio ou se for omissa ou ambgua, voltando-se os aclaratrios, desta feita, para o aperfeioamento da prestao jurisdicional. Vejamos: Art. 542. Nos embargos de declarao indicar a parte os pontos em que entender ser o acrdo ambguo, obscuro, contraditrio ou omisso. No presente caso, no verifico quaisquer dessas hipteses, o que afasta, desde logo, a pretenso do recorrente de modificar o acrdo embargado. Nota-se que na deciso ora embargada todos os pontos suscitados foram prontamente esclarecidos, no havendo, portanto, que se falar em omisso. Quanto ao primeiro apontamento suscitado pelo embargante de que houve o cerceamento de sua defesa diante do indeferimento da juntada das contrarrazes do recurso de apelo, interposto pelo Ministrio Pblico, razo no assiste ao recorrente. Verifica-se dos autos que a defesa do militar foi intimada duas vezes para que apresentasse contrarrazes ao recurso de apelao interposto pela acusao, ou seja, houve a garantia do exerccio da ampla defesa e do contraditrio do embargante, contudo a parte permaneceu inerte. Nesse contexto, verifica-se que no Evento n. 19 foi evidenciado por este magistrado a ausncia da manifestao da defesa do embargante diante das mencionadas intimaes. O Juzo primevo, manifestou-se no mesmo sentido, conforme se nota no evento n. 79. Veja-se: Vistos etc, O Ministrio Pblico interps recurso de apelao, tendo sido apresentadas razes de recurso no evento n. 48. Intimada a defesa, por duas vezes, para apresentar contrarrazes de apelao, a mesma no compareceu. A prpria defesa do militar, ora embargante, quando no Evento n. 18, requereu a juntada das contrarrazes, o fez ressaltando sua extemporaneidade.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A C. Segunda Cmara negou provimento ao recurso de apelao interposto pelo embargante e deu provimento ao apelo do Ministrio Pblico para manter a condenação do embargante quanto ao crime previsto no art. 326 do CPM, aplicando a regra do art. 79 do CPM, condenando-o a uma pena de 3 (anos) de detenção, a ser cumprida em regime aberto. Os embargos de declaração foram afastados pois não houve obscuridade, contradição ou omissão na decisão recorrida.

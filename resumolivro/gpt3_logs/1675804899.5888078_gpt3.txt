@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Paragrafo unico. Nos casos de nomeacao coletiva mediante concurso, de declaracao de Aspirante-a-Oficial e de promocao a 3-Sargento e a Cabo, prevalecera, para efeito de antiguidade, a ordem de classificacao obtida no concurso ou curso. 33 Autoridade de linha e posicionamento superior do orgao que lhe confere o poder de mando em relacao aos que estao em posicao inferior, dentro do organograma da IME - e a autoridade vertical. Assim, o organograma operacional das IMEs segue a seguinte linha de subordinacao: (1) Comandante-Geral > (2) Subcomandante-Geral (Chefe do Estado-Maior) > (3) Comandos Regionais > (4) Comandos de Unidades de Execucao Operacional. 34 Conforme ressai da pesquisa intitulada Codigos de deontologia policial no Brasil e no Canada: analise dos documentos e das representacoes sociais: Os codigos de deontologia estabelecem as regras e as obrigacoes essenciais que se colocam aos policiais, inscrevendo-se num quadro juridico de referncia, que define com precisao a natureza das modalidades da acao policial e determina os principios e valores que devem nortear as atitudes e comportamentos dos policiais, dentro da corporacao e em sua relacao com o publico. A deontologia e, etimologicamente, a cincia dos deveres e objetiva, no presente contexto, fazer com que os policiais predisponham-se a aderir a um sistema de valores que associe eficacia e respeito pelas pessoas e pelas liberdades fundamentais, dentro e fora do exercicio de sua profissao. (...) Os codigos de deontologia estabelecem principios e valores que devem nortear as atividades profissionais.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os codigos de deontologia estabelecem regras e obrigações para os policiais, definindo a natureza da ação policial e os princípios e valores que devem orientar suas atitudes e comportamentos. Estes codigos também estabelecem princípios e valores que devem nortear as atividades profissionais. Nos casos de nomeação coletiva, declaração de aspirante-a-oficial e promoção a 3-sargento e cabo, a ordem de classificação obtida no concurso ou curso prevalece para efeito de antiguidade.

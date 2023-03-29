@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por essa razao, a Terceira Secao do Superior Tribunal de Justica, no caso especifico de estelionato praticado por meio de deposito em dinheiro ou transferencia de valores, firmara a compreensao de que a competencia seria do Juizo onde se auferiu a vantagem ilicita em prejuizo da vitima, ou seja, o local onde se situava a conta que recebeu os valores depositados. Sobreveio a Lei n. 14.155/2021, que incluiu o  4. no art. 70 do CPP e criou hipotese especifica de competencia no caso de crime de estelionato praticado mediante deposito, transferencia de valores ou cheque sem provisao de fundos em poder do sacado ou com o pagamento frustrado. Diante da modificacao legislativa, nao mais subsiste o entendimento firmado por esta Corte Superior, devendo ser reconhecida a competencia do Juizo do domicilio da vitima. Contudo, a hipotese em analise nao foi expressamente prevista na nova legislacao, visto que nao se trata de cheque emitido sem provisao de fundos ou com pagamento frustrado, mas de tentativa de saque de cartula falsa, em prejuizo de correntista. Sobre o tema, destaque-se que 3. Ha que se diferenciar a situacao em que o estelionato ocorre por meio do saque (ou compensacao) de cheque clonado, adulterado ou falsificado, da hipotese em que a propria vitima, iludida por um ardil, voluntariamente, efetua depositos e/ou transferencias de valores para a conta corrente de estelionatario. Quando se esta diante de estelionato cometido por meio de cheques adulterados ou falsificados, a obtencao da vantagem ilicita ocorre no momento em que o cheque e sacado, pois e nesse momento que o dinheiro sai efetivamente da disponibilidade da entidade financeira sacada para, em seguida, entrar na esfera de disposicao do estelionatario. Em tais casos, entende-se que o local da obtencao da vantagem ilicita e aquele em que se situa a agencia bancaria onde foi sacado o cheque adulterado, seja dizer, onde a vitima possui conta bancaria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência para o julgamento de estelionato praticado por meio de depósito em dinheiro ou transferência de valores é do juízo onde se auferiu a vantagem ilícita em prejuízo da vítima. 2. A Lei n. 14.155/2021 criou hipótese específica de competência no caso de crime de estelionato praticado mediante depósito, transferência de valores ou cheque sem provisão de fundos em poder do sacado ou com o pagamento frustrado. 3. Quando se trata de estelionato cometido por meio de cheques adulterados ou falsificados, a obtenção da vantagem ilícita ocorre no momento em que o cheque é sacado, pois é nesse momento que o dinheiro sai efetivamente da disponibilidade da entidade financeira sacada para, em seguida, entrar na esfera de disposição do estelionatário.

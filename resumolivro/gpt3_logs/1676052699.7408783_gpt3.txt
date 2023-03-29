@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Por isso, a princpio, no constituem leses corporais as cirurgias mdicas ou odontolgicas curativas, a extrao de dentes doentes, a extrao de sangue para diagnstico ou transfuso, bem como a retirada de partes do corpo para a realizao de exames (bipsias). As leses corporais produzidas em decorrncia de intervenes mdicas ou odontolgicas que visam fins meramente estticos, desde que obedecidas as regras da arte, tambm devem ser consideradas atpicas. A rigor, a distino entre interveno curativa e esttica desconsidera que o paciente que busca reparao corporal para o que julga ser um problema esttico suporta sofrimento psquico (as vezes at a depresso) e a tentativa de superao para o problema que a interveno materializa produz reflexos diretos em sua sade. De qualquer forma, mesmo nos casos em que a interveno buscar realizar fins estticos a autorizao e fiscalizao do poder pblico para a atividade impedem a imputao objetiva para o crime de leso corporal. A atipicidade da conduta ofensiva decorre da incidncia de valorao que reconhece sua adequao social. Em alguns destes casos, no entanto, a valorao jurdica sobre o comportamento apresenta dificuldades. A extrao de dentes de pessoa pobre e que no pode pagar por um tratamento odontolgico adequado  um exemplo de dificuldade que se apresenta ao operador do direito. Havendo tratamento odontolgico que preserve o dente, no se pode considerar socialmente adequado extra-lo. Por outro lado, havendo custo relevante e no podendo o paciente arcar com tal despesa a permanncia do dente pode constituir causa de agravo  sua sade. Desta forma, nestes casos deve-se reconhecer a impossibilidade da imputao objetiva para o crime de leso corporal. Perfurao de partes do corpo para a utilizao de brincos ou piercing. Faz parte da cultura tradicional brasileira que os pais identifiquem as crianas recm-nascidas do sexo feminino com brincos nas orelhas. O costume de usar adornos (um ou mais) nas orelhas tambm se verifica nas crianas, adolescentes e mulheres, que o pode manter por toda a vida. Nos ltimos anos, alguns meninos tambm passaram a usar brincos, alterando o costume antigo de que s as meninas usam adornos nas orelhas. O furo das orelhas que permite a colocao dos brincos importa em ofensa  integridade corporal, que em alguns casos tambm pode repercutir em ofensas  sade por trazer infeces. Mas tal ofensa, ainda que produza alguma dor ou infeco, deve ser considerada socialmente adequada e o fato materialmente atpico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+As cirurgias curativas, extrao de dentes doentes, extrao de sangue para diagnstico ou transfuso, bem como a retirada de partes do corpo para exames (bipsias) não constituem lesões corporais. As lesões produzidas por fins estéticos também são consideradas atípicas, desde que obedecidas as regras da arte. A extração de dentes de pessoas pobres e sem condições de arcar com um tratamento adequado também não é considerada lesão corporal. O furo para brincos nas orelhas também não é considerado lesão corporal, mesmo que possa trazer infecções.

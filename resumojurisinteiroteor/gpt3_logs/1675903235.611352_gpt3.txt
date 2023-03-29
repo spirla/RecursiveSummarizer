@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ministro BENEDITO GONALVES, PRIMEIRA TURMA, julgado em 08/06/2020, DJe 10/06/2020) (Destaca-se) A propsito, no diverge a jurisprudncia do Tribunal de Justia de Minas Gerais. Veja-se: EMENTA: RECURSO ESPECIAL - JUZO DE ADMISSIBILIDADE NEGATIVO - RECURSO CABVEL - AGRAVO DO ART. 1.042 DO CPC/2015 - INTERPOSIO DE AGRAVO INTERNO - ERRO GROSSEIRO - IMPOSSIBILIDADE DE APLICAO DO PRINCPIO DA FUNGIBILIDADE - AGRAVO NO PROVIDO. O agravo previsto no art. 1.042 do CPC/2015  o nico recurso cabvel contra deciso de negativa de seguimento a recurso especial proferida em sede de juzo de admissibilidade. A interposio de agravo interno somente  admitida nos casos em que a deciso agravada se funda na aplicao de entendimento firmado em julgamento de recursos repetitivos, revelando erro grosseiro a utilizao de uma modalidade de agravo por outra, o que obsta a aplicao do princpio da fungibilidade recursal, conforme firme entendimento jurisprudencial do Superior Tribunal de Justia. (TJMG - Agravo Interno Cv 1.0390.13.005851-9/004, Relator(a): Des. (a) Afrnio Vilela, RGO ESPECIAL, julgamento em 23/01/2019, publicao da smula em 01/02/2019) (Destaca-se) EMENTA: AGRAVO INTERNO. DECISO DE ADMISSIBILIDADE DO RECURSO ESPECIAL SEM APLICAO DA SISTEMTICA DOS RECURSOS REPETITIVOS. CABIMENTO DO AGRAVO PREVISTO NO ART. 1.042 DO CPC. INTERPOSIO DO AGRAVO FUNDADO NO ART. 1.021 DO CPC. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. ALEGAO DE OMISSO NO ACRDO. DESCABIMENTO NO RECURSO DE AGRAVO INTERNO. Constitui erro grosseiro a interposio equivocada de agravo interno no lugar do agravo previsto no art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Decisão do Tribunal de Justia de Minas Gerais firmou entendimento de que o agravo previsto no art. 1.042 do CPC/2015 é o nico recurso cabível contra decisão de negativa de seguimento a recurso especial proferida em sede de juízo de admissibilidade. A interposição de agravo interno somente é admitida nos casos em que a decisão agravada se funda na aplicação de entendimento firmado em julgamento de recursos repetitivos, revelando erro grosseiro a utilização de uma modalidade de agravo por outra, o que obsta a aplicação do princípio da fungibilidade recursal.

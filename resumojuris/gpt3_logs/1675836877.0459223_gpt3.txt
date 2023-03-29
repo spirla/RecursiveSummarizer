@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Assusete Magalhaes, Segunda Turma, por unanimidade, julgado em 22/03/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Fundacao Nacional de Saude - FUNASA. Servidor publico federal. Indenizacao de campo. Reajuste. Art. 15 da Lei n. 8.270/1991. Incidencia. DESTAQUE A indenizacao de campo, prevista no art. 16 da Lei n. 8.216/1991, deve ser reajustada pelo Poder Executivo na mesma data e nos mesmos percentuais de reajustes aplicados as diarias, conforme determina o art. 15 da Lei n. 8.270/1991.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A indenizacao de campo prevista no art. 16 da Lei n. 8.216/1991 deve ser reajustada pelo Poder Executivo. 2. O reajuste deve ocorrer na mesma data e nos mesmos percentuais de reajustes aplicados às diárias, conforme determina o art. 15 da Lei n. 8.270/1991.

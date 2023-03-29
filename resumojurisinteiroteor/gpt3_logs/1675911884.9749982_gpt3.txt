@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+- So Paulo: Editora Revista dos Tribunais, 2011. p. 907) No mesmo sentido,  sedimentado o entendimento do Supremo Tribunal Federal no sentido de que so incabveis os embargos de declarao quando ausentes as hipteses de embargabilidade e visando a rediscusso do julgado. Nesse sentido: EMENTA: EMBARGOS DE DECLARAO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINRIO COM AGRAVO. PENAL. FURTO QUALIFICADO. INEXISTNCIA DE OMISSO, OBSCURIDADE, CONTRADIO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSO DA MATRIA. EMBARGOS DE DECLARAO REJEITADOS. (ARE 1227836 AgR-EDv-AgR- ED, Relator(a): CRMEN LCIA, Tribunal Pleno, julgado em 11/05/2020, PROCESSO ELETRNICO DJe-135 DIVULG 2905-2020 PUBLIC 01-06-2020) Ementa: EMBARGOS DE DECLARAO NO AGRAVO REGIMENTAL EM REVISO CRIMINAL. PROCESSO PENAL. PRESSUPOSTOS DE EMBARGABILIDADE. AUSNCIA. REJEIO. 1. Os embargos de declarao no constituem meio hbil para a reforma do julgado, sendo cabveis somente quando houver no acrdo ambiguidade, obscuridade, contradio ou omisso, nos termos do art. 619 do Cdigo de Processo Penal. 2. Ausentes tais vcios, no  possvel o reexame do acrdo impugnado para simples rediscusso do decidido. 3. Embargos de declarao rejeitados.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal Pleno rejeitou os embargos de declaração pois não havia vícios de ambiguidade, obscuridade, contradição ou omissão no acórdão impugnado, não sendo possível o reexame para simples rediscussão do decidido.

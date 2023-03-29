@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O Fundo de Fiscalizacao das Telecomunicacoes (FISTEL), criado pela Lei 5.070/1966, e composto, de forma nao exclusiva, por diversas fontes, dentre as quais as relativas ao poder de outorga do direito uso de radiofrequencia para qualquer fim, inclusive multas e indenizacoes, e pelos recursos das Taxas de Fiscalizacao de Instalacao e de Fiscalizacao de Funcionamento. A totalidade do montante e aplicada pela Agencia Nacional de Telecomunicacoes (ANATEL) nas atividades prescritas legalmente, merecendo relevo a fiscalizacao dos servicos de radiodifusao (art. 211 da Lei 9.472/1997). Nesse contexto, nao cabe a ANATEL a outorga dos mencionados servicos  que permanece no ambi-to do Poder Executivo , incumbindo-lhe tao somente a realizacao da fiscalizacao dos aspectos tecnicos de suas estacoes, que e inerente ao poder de policia que lhe foi atribuido e, consequentemente, legitima a imposi-cao das referidas taxas. Ademais, os recursos do FISTEL sao empregados pela agencia reguladora em acoes que abrangem to-da a area de telecomunicacoes, incluindo os servicos de radiodifusao, de modo que nao se pode falar em viola-cao ao principio da isonomia. Com base nesses entendimentos, o Plenario, por unanimidade, julgou improcedente a acao. ADI 4039/DF, relatora Ministra Rosa Weber, julgamento virtual finalizado em 24.6.2022 (sexta-feira), as 23:59 (INF 1060) Instituicao de taxas de fiscalizacao em atividades inerentes ao setor de telecomunicacoes - RE 776594/SP (Tema 919 RG) Tese fixada: A instituicao de taxa de fiscalizacao do funcionamento de torres e antenas de transmissao e re-cepcao de dados e voz e de competencia privativa da Uniao, nos termos do art. 22, IV, da CF/88, nao competindo aos Municipios instituir referida taxa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei 5.070/1966 cria o Fundo de Fiscalização das Telecomunicações (FISTEL) composto por diversas fontes, entre elas as relativas ao poder de outorga do direito de uso de radiofrequência. 2. A totalidade do montante do FISTEL é aplicada pela Agência Nacional de Telecomunicações (ANATEL) nas atividades prescritas legalmente. 3. A ANATEL tem o poder de polícia para realizar a fiscalização dos aspectos técnicos das estações. 4. Os recursos do FISTEL são empregados pela agência reguladora em ações que abrangem toda a área de telecomunicações, incluindo os serviços de radiodifusão. 5. A instituição de taxa de fiscalização do funcionamento de torres e antenas de transmissão e recepção de dados e voz é de competência privativa da União, nos termos do art. 22, IV, da CF/88, não competindo aos Municípios instituir referida taxa.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No ambiente corporativo, denomina-se por programa de integridade (ou programa de compliance) o conjunto de regras e regulamentos impostos por uma empresa a todos os seus colaboradores, incluindo-se os diretores e gerentes, que visam preservar o cumprimento rigoroso das leis e regulamentos que incidem sobre o desenvolvimento de suas atividades, de modo a evitar, detectar e corrigir qualquer desvio ou inconformidade que possa afetar a sua imagem, credibilidade e reputao perante os seus clientes e a sociedade. O programa constitui um importante instrumento para a mitigao dos riscos, conservao dos valores ticos e sustentabilidade empresarial, de modo a assegurar a continuidade do negcio e a proteo dos interesses dos stakeholders. Em sua projeo para o Direito Penal (o criminal compliance), os programas de integridade visam observar as regras e as proibies do Direito Penal. A implantao de um programa de integridade criminal atende a duas finalidades bsicas. Por um lado, o programa pretende evitar a prtica de crimes no desenvolvimento das atividades empresariais, por meio do controle dos riscos que lhe so inerentes, de modo a satisfazer sua funo preventiva. Por outro, o programa deve oferecer resposta adequada aos problemas que foram identificados por seus mecanismos de controle nas atividades empresariais. Neste sentido,  necessrio instituir procedimentos para corrigir os problemas encontrados e comunicar s autoridades competentes a notcia da ocorrncia de eventuais crimes. Por meio de tais providncias, o programa de integridade criminal atende  sua funo de confirmao do Direito. Com a instituio do acordo de no persecuo penal no ordenamento jurdico brasileiro, o Ministrio Pblico tambm poder ajustar com investigados dirigentes de pessoas jurdicas ou com pessoas jurdicas responsveis por crimes ambientais o cumprimento das medidas que se apresentam mais efetivas para a preveno de crimes no ambiente corporativo. 12.5.7. Procedimento do acordo de no persecuo penal. Por suas peculiaridades, o negcio jurdico do acordo de no persecuo penal pressupe a possibilidade de promover a atitude colaborativa entre os interessados, apesar da desconfiana reciproca quanto s estratgias dos demais participantes, em cada uma das etapas da negociao. 12.5.7.1. Negociao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O programa de integridade (ou compliance) é um conjunto de regras e regulamentos impostos por uma empresa para preservar o cumprimento rigoroso das leis e regulamentos e evitar, detectar e corrigir desvios. O programa tem como objetivo a prevenção e a resposta adequada aos problemas identificados. O Acordo de Não Persecução Penal permite ajustar com investigados dirigentes de pessoas jurídicas o cumprimento de medidas para prevenir crimes no ambiente corporativo, por meio de negociações entre os interessados.

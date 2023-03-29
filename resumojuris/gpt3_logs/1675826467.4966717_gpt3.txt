@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, para alem da ilegalidade das diligencias investigativas encomendadas, a ausencia de supervisao judicial das investigacoes deflagradas pelo Parquet contra autoridade com foro por prerrogativa de funcao em tribunal de justica justifica que seja declarada a nulidade dos Relatorios de Inteligencia Financeira (RIFs) por intercambio e das provas deles decorrentes, bem assim a imprestabilidade de elementos probatorios assim colhidos em procedimento de investigacao criminal. Com esse entendimento, a Segunda Turma, por maioria, concedeu parcialmente a ordem de habeas corpus nos termos do voto do ministro Gilmar Mendes (relator). Vencido o ministro Edson Fachin. HC 201965/RJ, relator Min. Gilmar Mendes, julgamento em 30.11.2021 (INF 1040) 16.7 EXECUCAO PENAL Lacuna legal apos alteracao dos criterios para a concessao de progressao de regime - ARE 1327963/SP (Tema 1169 da RG) Tese fixada: Tendo em vista a legalidade e a taxatividade da norma penal (art. 5, XXXIX, CF), a alteracao promovida pela Lei 13.964/2019 no art. 112 da LEP nao autoriza a incidencia do percentual de 60% (inc. VII) aos condenados reincidentes nao especificos para o fim de progressao de regime. Diante da omissao legislativa, impoe-se a analogia in bonam partem, para aplicacao, inclusive retroativa, do inciso V do artigo 112 da LEP (lapso temporal de 40%) ao condenado por crime hediondo ou equiparado sem resultado morte reincidente nao especifico. Resumo: Ao reincidente nao especifico em crime hediondo, aplica-se, inclusive retroativamente, o inciso V do artigo 112 da LEP para fins de progressao de regime. A reforma da sistematica da progressao de regime de condenados promovida pela Lei 13.964/2019 (Pacote Anticrime) nao disciplinou, de forma expressa, a circunstancia para progressao de pessoa condenada anteriormente por crime nao hediondo e, em seguida, por crime hediondo, ou seja, reincidente nao especifico em crime hediondo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A ausência de supervisão judicial das investigações deflagradas pelo Parquet contra autoridade com foro por prerrogativa de função em tribunal de justiça justifica a declaração de nulidade dos Relatórios de Inteligência Financeira (RIFs) e das provas deles decorrentes. 2. A alteração promovida pela Lei 13.964/2019 no art. 112 da Lei de Execução Penal não autoriza a incidência do percentual de 60% (inc. VII) aos condenados reincidentes não específicos para o fim de progressão de regime. 3. Diante da omissão legislativa, impõe-se a analogia in bonam partem, para aplicação, inclusive retroativa, do inciso V do artigo 112 da LEP (lapso temporal de 40%) ao condenado por crime hediondo ou equiparado sem resultado morte reincidente não específico.

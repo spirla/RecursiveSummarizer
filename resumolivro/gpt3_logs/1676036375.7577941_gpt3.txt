@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Mais racional seria preservar a unidade dos processos para que o civil fosse julgado juntamente com o militar, na justia especializada estadual, como acontece nos crimes da competncia da Justia Militar da Unio. A obrigatoriedade da separao dos processos e a incompetncia da Justia Comum para o julgamento de crimes militares indicam que o civil envolvido em fatos considerados com crime militar estadual somente pode ser julgado na justia comum, conforme o disposto na legislao repressiva comum. Dessa forma, caso um civil desacate um militar do Exrcito, durante uma operao militar para a manuteno da ordem pblica, dever ser julgado perante a Justia Militar Federal. A conduta, em tese, caracteriza um crime militar, previsto no artigo 299 do CPM, e a Justia Militar Federal tem competncia para julgar o civil. Por outro lado, se um civil desacatar um policial militar, durante uma operao de policiamento ostensivo, dever ser julgado na justia comum estadual, por crime comum. No se aplica ao exemplo o artigo 9, III, d, do CPM porque a Constituio da Repblica no permite que a Justia Militar Estadual julgue civis e tampouco que a justia comum julgue crimes militares. O tratamento constitucional diferenciado ainda produz repercusses no que diz respeito  aplicao da regra da comunicabilidade das caractersticas pessoais elementares do tipo, prevista no pargrafo 1 do artigo 53 do CPM. Como a Justia Militar da Unio  competente para o julgamento de crimes militares praticados por militares e civis, pode caracterizar-se o concurso de pessoas entre um militar da Unio e um civil para a prtica de um crime militar. A caracterstica pessoal exigida pelo tipo, que apenas um dos participantes ostenta (ser militar), se comunica ao outro para que, nos termos da teoria monista ou unitria, ambos respondam pelo mesmo crime. Na Justia Militar Estadual, entretanto, a questo no apresenta a mesma soluo. Como a Justia Militar Estadual no julga civis, a regra do pargrafo 1 do artigo 53 do CPM no tem aplicao para fazer comunicar a condio de militar de um dos participantes aos demais. Dessa forma, no  possvel caracterizar juridicamente um concurso de pessoas. Havendo concorrncia entre um militar estadual e um civil para a realizao de um fato considerado como crime militar imprprio, dever haver separao dos processos, de modo que o militar seja julgado na justia militar, por crime militar, e o civil, na justia comum, por crime previsto na legislao comum.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar Federal tem competência para julgar civis envolvidos em crimes militares estaduais, enquanto o civil deverá ser julgado na Justia Comum Estadual por crime comum. A regra da comunicabilidade das características pessoais elementares do tipo, prevista no artigo 53 do CPM, só se aplica à Justia Militar Federal, pois a Justia Militar Estadual não julga civis. Assim, havendo concorrência entre um militar estadual e um civil para a realização de um fato considerado como crime militar impróprio, deverá haver separação dos processos.

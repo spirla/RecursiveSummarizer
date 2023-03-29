@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O tema da obedincia hierrquica comporta algumas dificuldades e a primeira diz respeito  natureza da relao de subordinao. A utilizao de frmula genrica no texto legal possibilita discutir a reprovao criminal nos fatos cometidos em cumprimento s ordens emanadas de qualquer relao de subordinao, seja domstica, laboral, pblica, seja religiosa. A demasiada amplitude na interpretao da exculpante importa desproteo aos interesses sociais, pois aumenta as hipteses de irresponsabilidade. Visando conter os perigos resultantes da maior possibilidade de exculpao, a doutrina e a jurisprudncia identificam a inexigibilidade de conduta diversa apenas diante da relao pblica de subordinao. Dessa forma, a obedincia hierrquica que interessa ao exame da culpabilidade  de natureza pblica, no sendo possvel isentar de pena o sujeito que atue em cumprimento de ordem emanada de qualquer das formas privadas de subordinao. No entanto,  possvel ocorrer caso concreto de relao obrigacional privada de obedincia que apresente peculiaridades indicativas da inexigibilidade de conduta diversa, seja por coao moral, seja erro de proibio. A inexigibilidade de comportamento diverso no se apresenta apenas diante da relao pblica de subordinao, e, no sendo possvel exigir-se outro comportamento, no se aperfeioa o juzo de reprovao penal. A obedincia  ordem de superior hierrquico pressupe sua referncia ao dever jurdico de praticar a conduta ordenada. No havendo concreto dever legal que sustente a conduta do executor da ordem, a iseno de sua culpa somente poder ocorrer quando ele pensar que est atuando justificado pela excludente de ilicitude do estrito cumprimento do dever legal ou quando no puder opor-se  ordem do superior, embora reconhea sua ilegalidade. Na primeira hiptese, verifica-se que o erro quanto  qualidade de ilcita da conduta d-se por via indireta, j que ocorre errnea crena de estar-se agindo licitamente. O erro incide sobre a excludente de ilicitude do cumprimento do dever legal e, segundo os termos da teoria limitada da culpabilidade, quando se relacionar  existncia ou aos limites da norma justificante que ampara a ordem, constituir erro de proibio indireto. Na segunda, a impossibilidade do indivduo de opor-se  ordem caracteriza coao moral irresistvel. Em ambos os casos, a exculpao do executor da ordem decorre da inexigibilidade de conduta diversa que impossibilita a reprovao de sua finalidade criminosa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A obedincia hierárquica pode ser de natureza pública ou privada. No entanto, a inexigibilidade de conduta diversa só é possível diante da relação pública de subordinação. O erro de proibição indireto ou a coação moral irresistível são fatores que caracterizam a inexigibilidade de conduta diversa e, consequentemente, a exculpação do executor da ordem.

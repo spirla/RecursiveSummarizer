@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, o art. 167, X, da CF nao proibe a concessao de emprestimos para pagamento de pessoal. O dispositivo veda, contudo, que os emprestimos realizados junto a instituicoes financeiras dos governos federal e estaduais sejam utilizados para aquele fim. Impede-se, portanto, a alocacao das receitas obtidas com institui-coes financeiras estatais para o custeio de pessoal ativo e inativo. Por oportuno, nada impede a realizacao de emprestimos com instituicoes financeiras privadas para pagamento de despesas com pessoal, porquanto a proi-bicao nao as alcanca. Por fim, sob o aspecto formal, em especial sobre eventual desrespeito ao devido processo legislativo, a norma estadual impugnada nao possui qualquer vicio a comprometer sua constitucionalidade. No caso, o Estado do Rio de Janeiro aprovou lei ordinaria que autoriza o Poder Executivo a alienar acoes representativas do capital social da Companhia Estadual de Aguas e Esgotos  CEDAE, como meio de garantia para obtencao de emprestimo para o pagamento da folha dos servidores ativos, inativos e pensionistas. Com esses entendimentos, o Plenario, por maioria, confirmando a medida cautelar concedida, julgou parcialmente procedente pedido formulado em acao direta de inconstitucionalidade para dar interpretacao conforme a CF/88 ao art. 2,  2, da Lei 7.529/2017 do Estado do Rio de Janeiro. Vencido o ministro Andre Mendonca. ADI 5683/RJ, relator Ministra Roberto Barroso, julgamento virtual finalizado em 20.4.2022 (quarta-feira), as 23:59 (INF 1051) Proposicoes legislativas e adocao do rito de urgencia - ADI 6968/DF Resumo: E constitucional a previsao regimental de rito de urgencia para proposicoes que tramitam na Camara dos Deputados e no Senado Federal, descabendo ao Poder Judiciario examinar concretamente as razoes que justificam sua adocao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 167, X, da CF não proíbe a concessão de empréstimos para pagamento de pessoal, mas impede que os empréstimos realizados junto a instituições financeiras dos governos federal e estaduais sejam utilizados para esse fim. 2. Não há impedimento para a realização de empréstimos com instituições financeiras privadas para pagamento de despesas com pessoal. 3. É constitucional a previsão regimental de rito de urgência para proposições que tramitam na Câmara dos Deputados e no Senado Federal, descabendo ao Poder Judiciário examinar concretamente as razões que justificam sua adoção.

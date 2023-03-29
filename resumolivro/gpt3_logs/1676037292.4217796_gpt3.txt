@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Veja o exemplo do homicdio: a figura fundamental est prevista no caput do artigo 205 do CPM, que assim dispe: matar algum: pena - recluso, de seis a vinte anos. A conduta objetiva de matar se orienta pela vontade de matar ou pela assuno do risco de vir a matar. O homicdio culposo, por sua vez,  previsto no artigo 206, que dispe: se o homicdio  culposo: pena - deteno, de um a quatro anos. No entanto, nem sempre o tipo culposo  ressaltado de forma to clara. Em alguns tipos penais, o legislador pode deixar de referir-se expressamente ao fato culposo, mas a natureza de tal crime deve ser percebida pela redao tpica.  o caso dos tipos em que o legislador utiliza a expresso sabe ou deve saber, quando restam dvidas quanto  previso de um crime culposo. Isso acontece com o artigo 332 do CPM, que prev o crime de abuso de confiana ou boa-f e est expresso da seguinte maneira:
+Art. 332. Abusar da confiana ou boa-f de militar, assemelhado ou funcionrio, em servio ou em razo dste, apresentando-lhe ou remetendo-lhe, para aprovao, recebimento, anuncia ou aposio de visto, relao, nota, empenho de despesa, ordem ou flha de pagamento, comunicao, ofcio ou qualquer outro documento, que sabe, ou deve saber, serem inexatos ou irregulares, desde que o fato atente contra a administrao ou o servio militar:
+- deteno, de seis meses a dois anos, se o fato no constitui crime mais grave. A expresso sabe ou deve saber, utilizada na descrio tpica, tem provocado muitas dvidas nos operadores do direito. No artigo 332 do CPM, o requisito de que o sujeito saiba que o documento seja inexato ou irregular indica a prtica da conduta por dolo direto. O sujeito sabe sobre a inexatido ou irregularidade e, mesmo assim, realiza a conduta. A violao da norma se d de maneira direta, com o sujeito tendo pleno conhecimento de que sua conduta  inadequada. J no caso em que o sujeito no sabe sobre a inexatido ou irregularidade do documento, duas situaes podem ocorrer: a) ele aceita a possibilidade de que o documento seja inexato ou irregular e pratica a conduta; e b) ele no aceita a possibilidade de que o documento seja inexato ou irregular e pratica a conduta, acreditando sinceramente que o documento seja exata e regular. No primeiro caso, pode-se pensar em dolo eventual. Mas, se o tipo exige que o sujeito saiba ser o documento inexato ou irregular, no  possvel caracterizar o tipo quando ele no sabe. Aceitar que seja inexato ou irregular no  a mesma coisa que saber ser inexato ou irregular.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 205 do CPM prevê o homicídio com pena de reclusão de 6 a 20 anos. O homicídio culposo está previsto no artigo 206, com pena de detenção de 1 a 4 anos. O artigo 332 do CPM prevê o crime de abuso de confiança ou boa-fé, com pena de detenção de 6 meses a 2 anos, e exige que o sujeito saiba que o documento seja inexato ou irregular para caracterizar o tipo penal.

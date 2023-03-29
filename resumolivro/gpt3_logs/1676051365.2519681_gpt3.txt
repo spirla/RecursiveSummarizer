@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos crimes de perigo abstrato, no entanto, o perigo no  verdadeiramente um elemento do tipo, mas o motivo para que o legislador proba a conduta que presume seja perigosa. Os crimes materiais podem se caracterizar com a produo de um nico e determinado resultado naturalstico de dano, como  o caso do homicdio (artigo 121) e do infanticdio (artigo 123), para os quais  sempre necessrio que ocorra a morte da vtima. Entretanto, tambm  possvel que o crime material permita a violao da norma com a produo de um entre dois resultados naturalsticos alternativos previstos no tipo. O induzimento, a instigao ou o auxlio a suicdio (artigo 122) constituem exemplo para a hiptese, pois permitem a consumao do crime com a ocorrncia da morte ou a produo de leses corporais de natureza grave na pessoa que atenta contra a prpria vida. Como exemplos de crimes materiais de perigo concreto, podem-se citar os crimes de incndio (artigo 250), de exploso (artigo 251), e de inundao (artigo 254). Em todos esses crimes, para caracterizar a consumao  necessrio comprovar a ocorrncia de situao ftica que efetivamente exponha a vida, a integridade fsica ou o patrimnio de outrem a perigo. A noo de que a consumao do crime material exige a produo de um resultado naturalstico pode adquirir certa complexidade quando a descrio tpica trabalha com a ocorrncia de dois ou mais resultados naturais. Nesses casos,  possvel constatar certa discordncia classificatria na doutrina para casos especficos. Veja-se o caso do crime de furto (artigo 155), que  um exemplo clssico de crime material. A redao tpica estabelece como proibida a conduta de subtrair, para si ou para outrem, coisa alheia mvel. Pode-se perceber na descrio a previso de dois resultados naturalsticos. O primeiro consiste na diminuio patrimonial suportada pela vtima, que  decorrente da subtrao da coisa. O segundo no acrscimo patrimonial conseguido pelo sujeito ativo do crime ou por outrem, j que a conduta proibida exige que a subtrao seja orientada pela inteno de ter a coisa para si ou para outrem. Embora seja possvel identificar estas duas mudanas no mundo natural, a correta interpretao do preceito incriminador indica apenas a necessidade da produo do primeiro resultado natural para a consumao do crime. A interpretao da conduta punvel sempre deve ter como foco o verbo ncleo do tipo e, assim, deve-se concluir que o crime estar consumado com a subtrao da coisa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os crimes materiais podem se caracterizar pela produção de um resultado naturalístico, como o homicídio ou o infanticídio, ou por dois resultados alternativos, como o induzimento ao suicídio. Exemplos de crimes materiais de perigo concreto são incêndio, explosão e inundação. O furto é um exemplo clássico de crime material, com a previsão de dois resultados naturalísticos: diminuição patrimonial da vítima e acréscimo patrimonial do sujeito ativo. A interpretação da conduta punível sempre deve focar no verbo núcleo do tipo, indicando que o crime estará consumado com a subtração da coisa.

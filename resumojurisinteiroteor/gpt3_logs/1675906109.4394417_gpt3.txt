@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se de apelao, interposta pelo Estado de Minas Gerais, contra sentena de Primeiro Grau de jurisdio que julgou procedente o pedido do autor, ora apelado, em ao de anulao de ato administrativo. Extrai-se dos autos que o autor foi submetido ao Processo Administrativo-Disciplinar (pAd) n. 115932/17 PAD/CPM, por ter, em tese, cometido transgresso disciplinar prevista no inciso III do art. 13 da Lei Estadual n. 14.310/2002 - Cdigo de tica e Disciplina dos Militares de Minas Gerais (CEDM). Ao final, foi punido com a sano disciplinar de demisso. Inicialmente, afirmou a defesa do militar que o processo administrativo em epigrafe, est eivado de nulidades e, portanto, deve ser anulado. Afirmou, ainda, que foi negada  prpria defesa o acesso aos autos do processo, uma vez que a ela somente teria sido fornecido um CD contendo a cpia dos autos, o que prejudicou o exerccio da ampla defesa e do contraditrio. Asseverou que a negativa do fornecimento dos autos originais  defesa do militar contrariou o inciso XX do art. 7 da Lei Federal n. 8.906/94, o 1 do art. 8 do MAPPA e o art. 107 do CPC. Disse que o MAPPA, como norma regulamentadora do Processo Administrativo das Instituies Militares de Minas Gerais, no se presta a regulamentar lei de processo administrativo militar, mesmo porque tal no existe no ordenamento jurdico. Nesse sentido, afirmou que as portarias, decretos, resolues, memorandos e outros atos normativos baixados pela Administrao Pblica servem somente para regulamentar as leis e no podem criar direitos e obrigaes aos militares, pois, caso contrrio, caracterizaria violao ao princpio da legalidade (art. 5, inciso II, da CR/88). Afirmou que o MAPPA  norma manifestamente ilegal, por criar obrigaes processuais administrativas no previstas em lei prpria aplicvel ao processo disciplinar militar, frustrando os limites da legalidade e constitucionalidade, por exorbitar o poder regulamentar conferido ao Executivo e  Administrao Pblica. Salientou que inexiste apurao (inqurito policial) de crime em andamento, ao contrrio, consta nos autos do presente processo a informao registrada pela prpria Administrao Militar que o Delegado de Polcia Civil no vislumbrou aquisio de peas de procedncia ilcita por parte do Autor, inexistindo, portanto, indcios de crime para que fosse lavrado o APFD e, consecutivamente, inqurito policial, conforme narrado no pargrafo anterior. Desse modo, arguiu, preliminarmente, a ausncia de tipicidade disciplinar da conduta imputada ao Autor, pugnando pela declarao de nulidade da Portaria do PAD e dos atos subsequentes, com fundamento no art. 69,  2, do CEDM, por caracterizar manifesto prejuzo  defesa e ao acusado, alm de desvio da finalidade do processo administrativo disciplinar..
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais interps apelao contra sentena de Primeiro Grau de jurisdio que julgou procedente o pedido do autor em ao de anulao de ato administrativo. O autor foi submetido ao Processo Administrativo-Disciplinar (pAd) n. 115932/17 PAD/CPM, por ter, em tese, cometido transgresso disciplinar prevista na Lei Estadual n. 14.310/2002 - Cdigo de tica e Disciplina dos Militares de Minas Gerais (CEDM). A defesa do militar alegou nulidades no processo, pois foi negada o acesso aos autos originais, contrariando a Lei Federal n. 8.906/94, o 1 do art. 8 do MAPPA e o art. 107 do CPC. A defesa alegou ainda a ausncia de tipicidade disciplinar da conduta imputada ao Autor, pugnando pela declarao de nulidade da Portaria do PAD e dos atos subsequentes.

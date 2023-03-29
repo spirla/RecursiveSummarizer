@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Compreende-se a objeo em relao aos Conselhos de Justia de conhecer do pedido de habeas corpus , pois haveria quebra da hierarquia, isto , com o oficial do Conselho de Justia, inferior ou mais moderno do que a autoridade coatora, reconhecendo a ilegalidade do ato praticado pelo superior hierrquico e concedendo a ordem de habeas corpus . O Provimento n. 003, de 27.11.2006, da Corregedoria da Justia Militar do Estado de So Paulo, em razo do acrscimo do  5 ao art. 125 da CF feito pela Emenda Constitucional n. 45/04 , que atribuiu competncia aos Juzes de Direito do Juzo Militar para processar e julgar, singularmente, os crimes militares cometidos contra civis, cabendo-lhes, ainda, a presidncia do Conselho de Justia, quando do julgamento dos demais crimes militares e, ainda, que no mbito da Justia Militar estadual, decidiu distribuir os pedidos de habeas corpus e as impetraes de mandados de segurana em que figurarem como coatora autoridade policial militar, com exceo do Chefe da Casa Militar e do Comandante Geral da Polcia Militar, aos Juzes de Direito do Juzo Militar. Quando a autoridade coatora for o Chefe da Casa Militar ou o Comandante Geral da Polcia Militar e a matria inserir-se na esfera penal militar, a competncia permanece com o TJMSP. Conforme o art. 41, II , da Lei n. 11.697, de 13.06.2008 , de organizao judiciria do Distrito Federal e dos Territrios,  o juiz de direito do juzo militar que concede  habeas corpus, quando a coao partir de autoridade administrativa ou judiciria militar, ressalvada a competncia do Tribunal de Justia . A Lei Estadual n. 3.293, de 12.11.99, que criou cargos de juiz-auditor e de serventurios vinculados  Auditoria Militar do Rio de Janeiro, disps, igualmente, e com acerto, que compete ao juiz-auditor, alm da competncia prevista na legislao particularmente aplicvel decidir habeas-corpus , quando for coatora autoridade sujeito  sua jurisdio. Se a autoridade coatora for membro do Ministrio Pblico, compete julgar o habeas corpus o tribunal ao qual est submetido a julgamento por eventual crime praticado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A competência para julgar habeas corpus, quando a coação partir de autoridade administrativa ou judiciária militar, é do Juiz de Direito do Juízo Militar, salvo se a autoridade coatora for o Chefe da Casa Militar ou o Comandante Geral da Polícia Militar, caso em que a competência é do Tribunal de Justiça. Se a autoridade coatora for membro do Ministério Público, compete ao tribunal ao qual está submetido a julgamento por eventual crime praticado.

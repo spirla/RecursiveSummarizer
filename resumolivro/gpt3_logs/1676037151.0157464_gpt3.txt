@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No interessa ao Direito Penal a integralidade da manifestao psquica de quem realiza a conduta, mas apenas o fragmento que se relacione ao tipo objetivo. Na realidade prtica da verificao da conduta criminosa, inicia-se a anlise pela constatao dos efeitos externos da conduta, para, em seguida, indagar se tais efeitos constituem a realizao de uma conduta determinada subjetivamente. Tem-se, assim, que o tipo subjetivo est sempre relacionado ao tipo objetivo. 2.4.1. Elementos estruturais. Podem ser considerados elementos estruturais do tipo penal incriminador aqueles indispensveis para a perfeita compreenso da matria de proibio. Tais elementos informam quanto  manifestao especfica de comportamento que  proibida, consistindo o ncleo do tipo, quem so os sujeitos do crime, bem como seus objetos. 2.4.1.1. Ncleo do tipo. Conforme a melhor tcnica para a elaborao do tipo penal incriminador, o ncleo do tipo consiste no verbo que descreve com exatido o comportamento proibido. O verbo restringe a matria de proibio para determinada forma de manifestao do comportamento humano, impedindo que outras formas sejam consideradas proibidas. O que  proibido est descrito no verbo do tipo. Existem tipos penais que apresentam um nico ncleo, materializados em um s verbo. So denominados tipos uninucleares.  o caso do crime de homicdio previsto no artigo 205 do CPM, cujo verbo-ncleo do tipo  matar. Outros, porm, apresentam vrios ncleos, cada qual representado pelo respectivo verbo. Tais tipos so denominados de plurinucleares e caracterizam os chamados crimes de ao mltipla ou de contedo variado.  exemplo de crime de ao mltipla o previsto no artigo 290 do CPM, que possui 11 ncleos alternativos. Contudo, vale ressaltar que nem todos os verbos constantes da descrio tpica constituem ncleo do comportamento proibido. Alguns verbos descrevem os meios de execuo do comportamento proibido e retratam apenas um fragmento da matria de proibio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Direito Penal se preocupa apenas com o fragmento da manifestação psicológica relacionado ao tipo objetivo. O núcleo do tipo é o verbo que descreve o comportamento proibido, podendo ser uni ou plurinuclear. Alguns verbos descrevem os meios de execução do comportamento proibido e retratam apenas um fragmento da matéria de proibição.

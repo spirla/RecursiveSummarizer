@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+471 do CPPM estabelece que so requisitos da petio de habeas corpus : a) o nome da pessoa que sofre ou est ameaada de sofrer violncia ou coao e o de quem  responsvel pelo exerccio da violncia, coao ou ameaa; b) a declarao da espcie de constrangimento ou, em caso de ameaa de coao, as razes em que o impetrante funda o seu temor; c) a assinatura do impetrante, ou de algum a seu rogo, quando no souber ou no puder escrever, e a designao das respectivas residncias. 57
+So elementos identificadores da ao de habeas corpus as partes, o pedido e a causa de pedir, includa a identificao do impetrante, do paciente e da autoridade coatora, o pedido em si, a declarao da espcie de constrangimento e, tambm, as razes em que se funda o seu temor ( causa petendi ). Dessa forma, a apresentao dos fatos jurdicos que amparam a pretenso deduzida em juzo (a razo do pedido) deve vir expressa na petio inicial. Alerta a doutrina ser conveniente que a petio de habeas corpus seja instruda por documentos aptos a demonstrar a ilegalidade da situao de constrangimento ou ameaa trazidos a conhecimento do rgo judicirio: embora a omisso possa vir a ser suprida pelas informaes do impetrado ou por outra diligncia, determinada de ofcio pelo juiz ou tribunal,  do interesse do impetrante e do paciente que desde logo fique positivada a ilegalidade. 58 Passo seguinte  a distribuio da petio, em segundo grau, ao relator e no primeiro ao juiz togado. A concesso de liminar , que no  prevista na legislao, 59  admitida pela pacfica jurisprudncia do STF 60 em carter excepcional:  a concesso de liminar em habeas corpus  medida de carter excepcional, cabvel apenas se a deciso impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situao apresentada nos autos representar manifesto constrangimento ilegal . 61
+Concede-se liminar se atendidos os pressupostos, fumus boni iuris e periculum in mora , um juzo de probabilidade ou de verossimilhana e urgncia, para coibir de imediato ameaa de leso ou a leso ao direito de locomoo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Habeas Corpus é uma ação judicial que visa a proteger a liberdade de locomoção de uma pessoa. Para isso, é necessário que a petição seja instruída com elementos identificadores, como nomes das partes, pedido, causa de pedir e declaração da espécie de constrangimento. A concessão de liminar é admitida em caráter excepcional, desde que sejam atendidos os pressupostos de fumus boni iuris e periculum in mora.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, com o Decreto 5.554/2002, o menor valor da diaria, do nivel D, passou a corresponder a parcela fixa (R$ 57,28), acrescida sempre do percentual minimo de 50%, pago aos servidores em quaisquer deslocamentos nao contemplados com percentuais maiores (acrescimos de 70%, 80% e 90% do valor basico da diaria, a depender da capital do Estado), o que corresponde a R$ 85,92 (R$ 57,28 + 50% de R$ 57,28 = R$ 85,92). Assim, a indenizacao de campo deve corresponder a R$ 40,27 (quarenta reais e vinte e sete centavos), ou seja, a 46,87% de R$ 85,92 (oitenta e cinco reais e noventa e dois centavos). Portanto, o Decreto n. 5.554/2005 ofende o art. 15 da Lei n. 8.270/1991, seja sob a otica do valor da indenizacao de campo, por ele fixada em R$ 17,46 - inferior, pois aquele valor anteriormente estabelecido em R$ 26,85, pela Portaria n. 402/2002, com efeitos a contar de 01/08/2002 -, seja quanto ao valor minimo de diaria, do nivel D, acrescido de parcela variavel minima de 50%, paga sempre aos servidores em quaisquer deslocamentos nao contemplados com percentuais maiores. Nesse sentido: AgRg no AREsp 466.093/PE, Rel. Ministro Herman Herman Benjamin, Segunda Turma, DJe de 22/05/2014. Ao apreciar especie analoga, inclusive a luz do Decreto n. 5.554/2005, a Primeira Turma do STJ concluiu que, ao estender o adicional de 50% aos deslocamentos para todas as cidades com menos de 200.000 habitantes, excluindo a restricao anteriormente prevista no Decreto n. 3643/2000, o Decreto n. 5.554/2005, ainda que indiretamente, majorou o valor das diarias, nao observando, contudo, a equivalencia de 46,87% entre elas e a indenizacao de campo, conforme previsto no art. 15 da Lei n. 8.270/1991.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Decreto n. 5.554/2005 ofende o art. 15 da Lei n. 8.270/1991, seja sob a ótica do valor da indenizacao de campo, por ele fixada em R$ 17,46, seja quanto ao valor mínimo de diária, do nível D, acrescido de parcela variável mínima de 50%, paga sempre aos servidores em quaisquer deslocamentos não contemplados com percentuais maiores. 2. Ao estender o adicional de 50% aos deslocamentos para todas as cidades com menos de 200.000 habitantes, excluindo a restrição anteriormente prevista no Decreto n. 3643/2000, o Decreto n. 5.554/2005, ainda que indiretamente, majorou o valor das diárias, não observando, contudo, a equivalência de 46,87% entre elas e a indenização de campo, conforme previsto no art. 15 da Lei n. 8.270/1991.

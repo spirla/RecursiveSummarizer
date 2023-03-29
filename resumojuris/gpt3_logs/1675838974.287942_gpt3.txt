@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, a infracao praticada nao deixa vestigios, tampouco a autoridade policial noticiou de que forma a providencia restritiva traria utilidade as investigacoes, e nao ha denuncia contra o investigado, quanto mais sentenca condenatoria. Nao se olvida que ha precedentes desta Corte Superior, no sentido de que a extracao de saliva nao representa metodo invasivo da intimidade. Sem embargo, sao hipoteses em que o referido material genetico se achava em objetos descartados - vale dizer, o exame do elemento organico nao envolveu violacao ao corpo do individuo (ilustrativamente, o suspeito fumou e desprezou cigarros, ou a saliva foi recolhida de copos ou talheres de plastico utilizados e eliminados) - ou se a arrecadacao do material biologico e consentida (RHC 104.516/RN, Ministro Sebastiao Reis Junior, DJe 07/02/2020; HC 495.694/SP, Ministra Laurita Vaz, DJe 07/03/2019). A proposito, ha dezenas de precedentes desta Casa que nao confrontam com o caso em comento, porquanto aludem a coleta de elementos organicos de sentenciados e sujeitos a execucao - como o HC 536.114/MG, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 10/2/2020, e o HC 476.341/SP, Rel. Ministro Sebastiao Reis Junior, Sexta Turma, DJe 9/9/2019 - ou remetem a circunstancias em que ha consentimento do acusado com o recolhimento do material biologico ou fornecimento voluntario do dado perquerido - como o HC 651.424/BA, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022, e o AgRg no REsp 1.979.815/PE, Rel. Ministro Jesuino Rissato, Quinta Turma, DJe 16/3/2022. Com efeito, o Pacto de San Jose da Costa Rica (aderido a legislacao patria pelo Decreto n. 678/1992) preve, como garantia de toda pessoa acusada, que ninguem e obrigado a se autoincriminar e assegura ao acusado/reu o direito a nao depor contra si mesmo, nem a declarar-se culpado (art. 8, item 2 , alinea g ). O direito a nao se inculpar tambem esta previsto na Constituicao da Republica, em seu art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A extracao de saliva não representa um método invasivo da intimidade. 2. Há precedentes da Corte Superior que não confrontam com o caso em comento, pois aludem à coleta de elementos orgânicos de sentenciados e sujeitos à execução. 3. O Pacto de San Jose da Costa Rica prevê, como garantia de toda pessoa acusada, que ninguém é obrigado a se autoincriminar. 4. O direito a não se inculpar também está previsto na Constituição da República, em seu artigo.

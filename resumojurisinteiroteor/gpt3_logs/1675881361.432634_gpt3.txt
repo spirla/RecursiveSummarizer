@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+FATO 2 O Conselho Permanente de Justia da Polcia Militar, por maioria de votos (quatro a um), julgou procedente o FATO 2 da exordial acusatria, cuja prtica delitiva  imputada aos acusados Ex- PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres. [...] Inquirido em juzo, Jos Roberto Kirchmaier, relatou, em suma, que os acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres chegaram no comrcio dele na parte da manh, questionando se tinha dinheiro na gaveta; que eles abriram a gaveta e pegaram o dinheiro que tinha l; que o Ex-PM Mauro pegou uma quantidade de dinheiro que estava com ele, proveniente da aposentadoria; que o Ex-PM Pablo achou que a quantia era pouca, e pegou mais dinheiro; que os acusados levaram ele at a casa dele; que no meio do caminho ele disse que tinha um filho policial; que eles levaram R$ 200,00 (duzentos reais) da gaveta e R$ 50,00 (cinquenta reais) dele; A testemunha Sgt PM Rgis Krichmaier, em juzo, afirmou, em suma, que seu pai, Jos Roberto Kirchmaier, relatou a ele que os militares, fardados e na viatura, pegaram dinheiro do jogo do bicho e dele tambm; que colocou ele na viatura, levando-o para casa e o liberando em seguida; que os autores so os acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres, o quais pediram seu pai para no lhe contar nada; A testemunha Rafael de Oliveira Rios relatou, em suma, que passava nas lojas de moto para recolher o dinheiro; que por diversas vezes recolhia menos dinheiro do que era devido; que os responsveis pela loja diziam que policiais militares teriam passado l e pegado o dinheiro; Considerando que as testemunhas defensivas e os documentos carreados pela Defesa no foram suficientes para afastar a imputao delitiva, o Conselho Permanente de Justia da Polcia Militar, por maioria de votos (quatro a um), entendeu que os acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres praticaram os fatos narrados na exordial acusatria, promovendo a condenao deles nas iras do art. 243, alnea a,  1, c/c o art. 242,  2, inciso II, ambos do Cdigo Penal Militar. Vencida a Juza Militar Cap PM Marieta Apgaua Marques, que julgou improcedente o FATO 2 da denncia, para absolver os acusados com fundamento no art. 439, alnea e, do CPPM, por entender que as provas so precrias para sustentar um decreto condenatrio. FATO 3 O Conselho Permanente de Justia da Polcia Militar, por maioria de votos (quatro a um), julgou procedente o FATO 3 da exordial acusatria, cuja prtica delitiva  imputada aos acusados Ex- PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia da Polcia Militar julgou procedente os FATOS 2 e 3 da exordial acusatria, imputada aos acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres, condenando-os pelos crimes previstos nos artigos 243, alínea a, 1, c/c o art. 242, 2, inciso II, do Código Penal Militar.

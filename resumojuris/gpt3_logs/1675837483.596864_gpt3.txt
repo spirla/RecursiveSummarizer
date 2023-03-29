@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Se houver manifestacao de interesse juridico por ente federal que justifique a presenca no processo, (v.g. Uniao ou Ministerio Publico Federal) regularmente reconhecido pelo Juizo Federal nos termos da Sumula 150/STJ, a competencia para processar e julgar a acao civil de improbidade administrativa sera da Justica Federal. Em sintese, e possivel afirmar que a competencia civel da Justica Federal e definida em razao da presenca das pessoas juridicas de direito publico previstas no art. 109, I, da CF na relacao processual, seja como autora, re, assistente ou oponente e nao em razao da natureza da verba federal sujeita a fiscalizacao da Corte de Contas da Uniao. 493 No caso, nao figura em nenhum dos polos da relacao processual ente federal indicado no art. 109, I, da CF/88, o que afasta a competencia da Justica Federal para processar e julgar a referida acao. Ademais, nao existe nenhuma manifestacao de interesse em integrar o processo por parte de ente federal e o Juizo Federal consignou que o interesse que prevalece restringe-se a orbita do Municipio autor, o que atrai a competencia da Justica Estadual para processar e julgar a demanda. (Informativo n. 724) SEGUNDA SECAO Voltar ao Sumario. PROCESSO EREsp 1.886.929-SP, Rel. Min. Luis Felipe Salomao, Segunda Secao, por maioria, julgado em 08/06/2022. RAMO DO DIREITO DIREITO CIVIL, DIREITO CONSTITUCIONAL, DIREITO DO CONSUMIDOR TEMA Agencia Nacional de Saude Suplementar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência para processar e julgar a ação civil de improbidade administrativa é da Justiça Federal quando houver manifestação de interesse jurídico por ente federal reconhecido pelo Juízo Federal nos termos da Sumula 150/STJ. 2. A competência cível da Justiça Federal é definida em razão da presença das pessoas jurídicas de direito público previstas no art. 109, I, da CF na relação processual, seja como autora, ré, assistente ou oponente e não em razão da natureza da verba federal sujeita a fiscalização da Corte de Contas da União. 3. Não existe manifestação de interesse em integrar o processo por parte de ente federal, o que atrai a competência da Justiça Estadual para processar e julgar a demanda.

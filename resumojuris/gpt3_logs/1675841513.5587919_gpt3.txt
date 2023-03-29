@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Responsabilidade criminal tao somente pelo estado de filiacao. Impossibilidade. Peculato-desvio. Mero proveito economico. Nao tipificacao. DESTAQUE O mero proveito economico nao e suficiente para tipificar o crime de peculato-desvio, e necessario que o agente pratique alguma conduta voltada ao desvio de verbas publicas. Da peca acusatoria, extrai-se que a mae da recorrente, entao ocupante do cargo de Diretora do Museu Imperial, e acusada de varias irregularidades envolvendo a Sociedade de Amigos do Museu Imperial - SAMI, inclusive desvio de recursos publicos. Atraves da sociedade apontada e de contratos supostamente fraudulentos, sem previa licitacao, a ex-diretora remetia valores diretamente a entidade privada em vez de promover o devido recolhimento aos cofres da Uniao. Dentre as irregularidades, a denuncia aponta a contratacao da empresa da filha da gestora publica, tambem sem licitacao, e, nesse ensejo, imputa a extranea a conduta de peculato-desvio. 741 Nao obstante a gravidade da conduta da agente publica, mae da recorrente, nao se encontra, na denuncia, nenhuma conduta criminosa imputada a ora recorrente. Vale lembrar que o mero proveito economico nao e suficiente para tipificar o crime de peculato-desvio, e necessario que o agente pratique alguma conduta voltada ao desvio de verbas publicas. No caso, a codenunciada nao deu destinacao diversa a verba publica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Responsabilidade criminal tão somente pelo estado de filiação é impossível. 2. O mero proveito econômico não é suficiente para tipificar o crime de peculato-desvio, sendo necessário que o agente pratique alguma conduta voltada ao desvio de verbas públicas.

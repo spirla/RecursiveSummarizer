@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Extrai-se do histrico do referido boletim de ocorrncia os seguintes termos: A GUARNIO DO COMANDO DE OPERAES (COMPOSTA PELOS MILITARES TEN GUSTAVO, SGT FERNANDES E CB LUIZ ANTNIO) TIVERAM AS ATENES VOLTADAS PARA UMA MOTOCICLETA HONDA/FAN, COR PRETA E PLACA QQA 8899/ PASSOS/MG, COM 02 (DOIS) INDIVDUOS EM ATITUDE SUPEITA, AO APROXIMAREM E DAREM ORDEM DE PARADA PARA O CONDUTOR DA MOTOCICLETA ESTE NO ACATOU AS ORDENS, EVADINDO-SE PELAS SEGUINTES VIAS: JUCA STCKLER, BRANDES, SANTOS DUMONT, PRAA FRANCISCO SALES, AURORA (CONTRA MO E AMEAANDO OUTRO VECULO), JERONIMO NETO (PARADA OBRIGATRIA), BARO RIO BRANCO (ULTRAPASSAGEM FAIXA DUPLA CONTNUA), BARO DO RIO BRANCO/EXPEDIONRIOS (CONVERSO PROIBIDA A ESQUERDA), JOO PINHEIRO E TRS DE MAIO (LOCAL DA ABORDAGEM), SENDO ACOMPANHADO PELA GUARNIO DO COMANDO DE OPERAES E GEPMOR (COMPOSTA PELO SGT APRELINI E CB HRCULES), PORM QUANDO A MOTOCICLETA QUE TRANSITAVA PELA RUA JOO PINHEIRO ENTROU NA RUA TRES DE MAIO, SEU CONDUTOR AO PERCEBER QUE IRIA SER ABORDADO PELA MOTOCICLETA POLICIAL DO GEPMOR (CB HRCULES), VEIO A PERDER O CONTROLE DIRECIONAL, VINDO A CAIR AO SOLO. MOMENTO EM QUE OS OCUPANTES DA MOTOCICLETA RECEBERAM ORDEM DE POSICIONAREM EM POSIO DE BUSCA PESSOAL, NO ACATANDO AS ORDENS, EM SEGUIDA TENTANDO EMPREENDER FUGA A P, PASSANDO A RESISTIR A ABORDAGEM, SENDO NECESSRIO O EMPREGO DE TCNICAS DE IMOBILIZAO COM MOS LIVRES E USO DE ALGEMAS PARA CONTER E DOMINAR OS AUTORES (QUE SE DEBATIAM PARA NO SEREM ALGEMADOS), QUE FORAM DOMINADOS E RECEBERAM VOZ DE PRISO. O CONDUTOR E O PASSAGEIRO FORAM ENCAMINHADOS AO UPA (UNIDADE DE PRONTO ATENDIMENTO) PELA GUARNIO ONDE FORAM ATENDIDOS PELO MDICO DE PLANTO E LIBERADOS CONFORME FICHAS DE ATENDIMENTO N 7194106 (MARCOS PAULO) E N 7194109 (HUGO); A MOTOCICLETA FOI REMOVIDA AO PTIO CREDENCIADO "G3 PELO SERVIO DE GUINCHO. FORAM LAVRADOS OS AUTOS DE INFRAO RELACIONADOS EM CAMPO ESPECFICO. DIANTE DO EXPOSTO, FOI DADO VOZ DE PRISO EM FLAGRANTE DELITO AO AUTOR E VOZ DE APREENSO POR ATO INFRACIONAL AO MENOR, SENDO AMBOS INFORMADOS DE SEUS DIREITOS CONSTITUCIONAIS E CONDUZIDOS A DEPOL, ONDE ENCONTRAM-SE A VOSSA DISPOSIO. [...] Grifei Insta consignar que o Sgt PM Luiz Alberto de Jesus, responsvel pela confeco do boletim de ocorrncia, confirmou em juzo que as informaes lanadas no histrico do referido documento foram repassadas pelos acusados (Evento 104 - VDEO 2). Entretanto verifica-se que o trecho do histrico do boletim de ocorrncia ora destacado no condiz com as imagens do vdeo gravado pela cmera de segurana existente no local (Evento 4 - VDEO8 dos Autos n. 2001431-44.2019.9.13.0003).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Uma guarnio composta por militares foi alertada para uma motocicleta em atitude suspeita. Ao tentar abordar o condutor, este evadiu-se, sendo acompanhado pela guarnio e outra motocicleta policial. Ao entrar na rua Três de Maio, o condutor perdeu o controle direcional, caindo ao solo. Os ocupantes da motocicleta receberam ordem de posicionar em posição de busca pessoal, mas não acataram, tentando empreender fuga. Para conter e dominar os autores, foi necessário o emprego de técnicas de imobilização e uso de algemas. O condutor e o passageiro foram encaminhados ao UPA, liberados com fichas de atendimento e a motocicleta foi removida. Os autores receberam voz de prisão em flagrante delito e voz de apreensão por ato infracional, sendo informados de seus direitos constitucionais. Entretanto, o trecho do histórico do boletim de ocorrência não condiz com as imagens do vídeo gravado.

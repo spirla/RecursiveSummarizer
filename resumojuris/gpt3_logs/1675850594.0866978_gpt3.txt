@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O maior problema dessa dinamica adotada pela autoridade policial esta no seu efeito indutor, porquanto se estabelece uma percepcao precedente, ou seja, um pre-juizo acerca de quem seria o autor do crime, que acaba por contaminar e comprometer a memoria. Ademais, uma vez que a testemunha ou a vitima reconhece alguem como o autor do delito, ha tendencia, por um vies de confirmacao, a repetir a mesma resposta em reconhecimentos futuros, pois sua memoria estara mais ativa e predisposta a tanto. Sob um processo penal de cariz garantista (e dizer, conforme aos parametros e diretrizes constitucionais e legais), busca-se uma verdade processualmente valida, em que a reconstrucao historica dos fatos objeto do juizo se vincula a regras precisas, que assegurem as partes maior controle sobre a atividade jurisdicional. Adotada, assim, a premissa de que a busca da verdade, no processo penal, se sujeita a balizas epistemologicas e tambem eticas, que assegurem um minimo de idoneidade as provas e nao exponham pessoas em geral ao risco de virem a ser injustamente presas e condenadas, e de se refutar que essa prova tao importante seja produzida de forma totalmente viciada. Se outros fins, que nao a simples apuracao da verdade, sao tambem importantes na atividade investigatoria e persecutoria do Estado, algum sacrificio epistemico, como alerta Jordi Ferrer-Beltran, pode ocorrer, especialmente quando o processo penal busca, tambem, a protecao a direitos fundamentais e o desestimulo a praticas autoritarias. 1290 Impoe compreender que a atuacao dos agentes publicos responsaveis pela preservacao da ordem e pela apuracao de crimes deve dar-se em respeito as instituicoes, as leis e aos direitos fundamentais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A dinâmica adotada pela autoridade policial tem um efeito indutor que compromete a memória da testemunha ou vítima. 2. O processo penal de caráter garantista busca uma verdade processualmente válida, sujeita a balizas epistemológicas e éticas. 3. A busca da verdade no processo penal deve ser realizada de forma que não exponha pessoas ao risco de serem injustamente presas e condenadas. 4. A atuação dos agentes públicos responsáveis pela preservação da ordem e pela apuração de crimes deve ser feita em respeito às instituições, às leis e aos direitos fundamentais.

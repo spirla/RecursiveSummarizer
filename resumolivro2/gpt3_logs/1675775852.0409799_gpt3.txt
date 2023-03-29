@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os princpios so normas dotadas de alto grau de generalidade, ao passo que as regras, sendo tambm, normas, tm, contudo, grau relativamente baixo de generalidade. Para Ronald Dworkin, os princpios, que no determinam a deciso, mas apontam para determinada direo, possuem uma dimenso de peso (dimension of weight). Na hiptese de coliso entre os princpios, o princpio com peso relativo maior se sobrepe ao outro sem perder a validade. No pensamento de Dworkin, quem houver de tomar a deciso levar em conta todos os princpios envolvidos, elegendo um deles. As regras so aplicadas pelo tudo ou nada (all-or-nothing). A regra  vlida e deve ser aceita, ou no  vlida. No caso de coliso, uma das regras deve ser considerada invlida. No dizer de Gomes Canotilho os princpios so normas jurdicas impositivas de uma optimizao, compatveis com vrios graus de concretizao, consoante os condicionalismos fcticos e jurdicos;
+as regras so normas jurdicas que prescrevem imperativamente uma exigncia (impem, permitem ou probem) que  ou no  cumprida (nos termos de Dworkin:
+applicable in all-or-nothing fashion). Consequentemente, os princpios, ao constiturem exigncias de optimizao, permitem o balanceamento de valores e interesses (no obedecem, como as regras,  lgica do tudo ou nada), consoante o seu peso e a ponderao de outros princpios eventualmente conflituantes;
+as regras no deixam espao para qualquer outra soluo, pois se uma vale (tem validade) deve cumprir-se na exata medida das suas prescries, nem mais nem menos. Na teoria dos direitos fundamentais de Robert Alexy, os princpios so identificados com mandados de otimizao. Se uma regra vale, ento, deve se fazer exatamente aquilo que ela exige;
+nem mais, nem menos. Regras contm, portanto, determinaes no sentido daquilo que  ftica e juridicamente possvel. Isso significa que a distino entre regras e princpios  uma distino qualitativa, e no uma distino de grau. As regras exigem que seja feito exatamente aquilo que ordenam.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os princípios são normas gerais que apontam para uma determinada direção, enquanto as regras são normas específicas que exigem que sejam cumpridas exatamente como prescrito. Segundo Ronald Dworkin, os princípios possuem uma dimensão de peso, e quando há colisão entre eles, o princípio com maior peso se sobrepõe ao outro. As regras, por sua vez, são aplicadas de forma "tudo ou nada", ou seja, são válidas ou não são válidas. Segundo Gomes Canotilho, os princípios são normas impositivas de otimização, enquanto as regras são normas que impõem, permitem ou proíbem. Na teoria dos direitos fundamentais de Robert Alexy, os princípios são identificados com mandados de otimização. A distinção entre regras e princípios é qualitativa e não de grau.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Mas a evoluo da teoria do crime mostrou que a assertiva somente  vlida se considerarmos o resultado jurdico que consiste na violao da norma incriminadora. Para compreender a questo,  necessrio perceber a distino entre os significados naturalstico e jurdico atribudos ao resultado. No sentido naturalstico, o resultado  a mudana ocorrida na realidade material, no mundo fenomnico, produzida pela conduta humana. Na perspectiva jurdica, por sua vez, o resultado  a violao aos bens e interesses protegidos pela norma jurdico-penal.  a inobservncia da norma de conduta que viola os valores sociais maiores. Os dois significados atribudos  ideia de resultado no so conflitantes, muito pelo contrrio, completam-se mutuamente. Com propriedade, Paulo Jos da Costa Jnior esclarece que. se  verdade que todo crime abarca em seu bojo estrutural um evento jurdico, no  menos verdade que o evento naturalstico no existe indefectivelmente em toda espcie de delito (...) Prescindem algumas espcies delituosas de evento naturalstico, sendo providas, contudo, de evento jurdico, que se consubstancia na ofensa ao patrimnio jurdico-penal (...) O evento naturalstico (material, fsico)  elemento acidental do delito. Sua presena no pode ser divisada em todas as figuras delituosas. O evento jurdico (formal), pelo contrrio, constitui integrante necessria e essencial da morfologia do delito. Sua ausncia na estrutura do crime implica sua desapario. Desse modo, somente em ateno ao sentido jurdico do resultado pode-se dizer que no h crime sem resultado, pois a legitimidade da represso penal reside precisamente na violao  proteo aos valores socialmente relevantes.  possvel que, para a caracterizao de determinadas figuras criminosas, no seja necessria a produo de qualquer resultado naturalstico. Nem sempre o tipo prev a realizao de um evento naturalstico.  o que ocorre nos crimes omissivos puros e de mera conduta.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria do crime mostra que a assertiva de que não há crime sem resultado só é válida se considerarmos o resultado jurdico, que é a violação da norma incriminadora. O resultado naturalstico é a mudança na realidade material produzida pela conduta humana, enquanto o resultado jurdico é a violação dos bens e interesses protegidos pela norma jurdico-penal. Algumas figuras delituosas não necessitam de evento naturalstico para serem caracterizadas, como nos crimes omissivos puros e de mera conduta.

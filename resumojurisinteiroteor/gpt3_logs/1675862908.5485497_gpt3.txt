@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+439, "a, do CPPM. A defesa do Cb PM Marcelo Alves Pereira requereu, em relao ao crime capitulado no art. 196 do CPM, a absolvio do acusado nos termos do art. 439, "b, do CPPM. A defesa do 2 SGT PM QPR Roberto Soares Silviano requereu a absolvio do acusado nos termos do art. 439, "a, do CPPM. Por fim, a defesa do Cb PM Gleison Eugnio de Oliveira requereu a absolvio do acusado nos termos do art. 439 ,"c ou "e, do CPPM. Aps os debates em rplica e trplica, decidiu o douto Conselho, in verbis: 36 PM Eli Cassio Teixeira Santana, Cb PM Elton Costa De Souza, nos termos da denncia. O juiz militar 1 Ten PM Robson de Oliveira, condenou o ru a pena base de 01 ano e 03 meses de recluso e reconheceu a agravante do art. 70 inciso II, do CPM, com acrscimo de 1/3 a pena base, em regime aberto e concedendo o SURSIS. O Juiz Militar CAP PM Rodrigo Parreira Martins, condenou o ru a pena base de 01 ano de recluso e reconheceu a agravante do art. 70 inciso II, do CPM, com acrscimo de 1/3 a pena base, em regime aberto e concedendo o SURSIS. Os Juzes Militares, Maj PM Mauro Cesar de Souza e 1 Ten PM Alexandre de Oliveira Melgao condenaram o ru a pena base de 01 ano de recluso, em regime aberto e concedendo o SURSIS. Em havendo divergncia na fixao da pena, prevalece o voto imediatamente mais favorvel ao ru, prevalecendo a pena de 01 ano de recluso, em regime aberto e concedendo o SURSIS. 4- Em relao ao art. 195 do CPM, o CPJ por maioria de votos (quatro votos a um), vencido o Juiz Presidente, condenou os rus Sd PM Eli Cssio Teixeira Santana e Cb PM Elton Costa De Souza, nos termos da denncia. Os juzes militares condenaram os rus a pena base de 03 meses de deteno, em regime aberto e concedendo o SURSIS. 5- Em relao ao art. 319 do CPM, o CPJ por unanimidade de votos, condenou o Cb PM Erlon Goncalves De Carvalho.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Conselho de Justia Militar condenou os réus, Sd PM Eli Cssio Teixeira Santana, Cb PM Elton Costa De Souza, Cb PM Gleison Eugnio de Oliveira, 2 SGT PM QPR Roberto Soares Silviano e Cb PM Erlon Goncalves De Carvalho, nos crimes capitulados nos artigos 196, 195 e 319 do CPM, a pena base de 01 ano de recluso, 03 meses de detenção e 01 ano e 03 meses de recluso, respectivamente, em regime aberto e concedendo o SURSIS.

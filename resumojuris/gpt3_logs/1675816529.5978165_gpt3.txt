@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6595/DF, relator Ministro Ricardo Lewandowski, julgamento virtual finalizado em 20.5.2022 (sexta-feira), as 23:59 (INF 1055) Lei estadual e vedacao a inscricao em cadastro de protecao ao credito - ADI 6668/MG Resumo: E inconstitucional lei estadual que vede a inscricao em cadastro de protecao ao credito de usua-rio inadimplente dos servicos de abastecimento de agua e esgotamento sanitario. Nao compete aos estados legislar sobre normas gerais de protecao ao consumidor ou concessao de servico publico [CF/88 (CF), art. 175, paragrafo unico, II], (2). A competencia para elaborar a lei de delegacao do servico publico que tratara dos direitos dos usua-rios pertence ao ente federado dele titular. No entanto, essa lei cobrira apenas os aspectos especificos da dele-gacao, pois cabe a lei nacional fixar as normas gerais de concessao e permissao de servicos publicos (CF, art. 22, XXVII, e art. 175, caput). Ademais, as normas gerais sobre consumo, editadas pela Uniao, nao preveem qualquer restricao quan-to aos tipos de debitos que possam ser inscritos nos bancos de dados e cadastros de consumidores [Codigo de Defesa do Consumidor (CDC), arts. 43 e 44]. Assim, nao e razoavel conceber que uma lei estadual possa esta-belecer restricoes quanto aos debitos que nao podem ser inscritos em banco de dados ou cadastro de consumi-dores, criando situacoes nao isonomicas em determinada regiao. O poder suplementar dos demais entes da federacao apenas pormenorizam a questao, complementando-a, mas jamais alterando-a em sua essencia ou mesmo estabelecendo regras incompativeis com a norma. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado na acao direta, para declarar a inconstitucionalidade do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional lei estadual que vede a inscrição em cadastro de proteção ao crédito de usuário inadimplente dos serviços de abastecimento de água e esgotamento sanitário. 2. Não compete aos estados legislar sobre normas gerais de proteção ao consumidor ou concessão de serviço público. 3. A competência para elaborar a lei de delegação do serviço público que tratará dos direitos dos usuários pertence ao ente federado dele titular. 4. Cabe à lei nacional fixar as normas gerais de concessão e permissão de serviços públicos. 5. As normas gerais sobre consumo, editadas pela União, não preveem qualquer restrição quanto aos tipos de dívidas que possam ser inscritos nos bancos de dados e cadastros de consumidores. 6. Não é razoável conceber que uma lei estadual possa estabelecer restrições quanto aos débitos que não podem ser inscritos em banco de dados ou cadastro de consumidores, criando situações não isonômicas em determinada região. 7. O poder suplementar dos demais entes da federação apenas pormenorizam a questão, complementando-a, mas jamais alterando-a em sua essência ou mesmo estabelecendo regras incompatíveis com a norma.

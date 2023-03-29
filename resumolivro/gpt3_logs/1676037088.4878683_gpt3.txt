@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Aps a obra clssica de Binding sobre a teoria das normas, foi possvel perceber que  a norma, como proposio jurdica, que expressa um valor sobre a conduta humana. O preceito incriminador apenas descreve a conduta proibida, mas  a norma que indica a contrariedade do comportamento com a ordem jurdica. No exemplo do homicdio, o tipo descreve a conduta proibida de matar algum, e a norma jurdico-penal que lhe  subjacente impe a todos os indivduos o dever de no matar algum.  a violao da norma, por meio da realizao da conduta descrita no preceito, que autoriza a realizao do jus puniendi. Na verificao da tipicidade da conduta, o intrprete dever identificar a norma jurdica que visa a proteger o bem jurdico. Contudo, o operador do direito no encontrar a norma proibitiva expressa de maneira formal na lei, portanto, ser necessrio extra-la do sistema normativo. Pode-se at dizer que as normas mais importantes para a construo da noo de crime no se encontram inseridas de maneira expressa no direito escrito. Mas a tarefa no  difcil. A norma jurdico-proibitiva se deixa conhecer plenamente por meio da descrio formulada pelo tipo incriminador. A descrio legal do comportamento proibido permite verificar na realidade social a ocorrncia da violao  norma jurdica. Se o comportamento que concretamente se examina for descrito de maneira fiel pelo tipo incriminador, ocorrer a violao da norma que lhe  subjacente. Pressuposto: conduta humana voluntria. A conduta humana desempenha papel conceitual de extremada importncia na formulao analtica do crime, posto que  o referencial sobre o qual se agregam os atributos da tipicidade, ilicitude e culpabilidade. Verdadeiramente, a conduta marca o ponto de apoio de toda a construo analtica, pois o indivduo somente deve receber a censura penal em virtude dos atos efetivamente praticados. Por isso, ausente a conduta, inviabilizado est o prprio exame analtico do crime. No incio da elaborao analtica do crime, a ao delitiva foi considerada estritamente em seus aspectos objetivos, quando se compreendeu a ao como movimento fsico que produz resultado naturalstico relevante e a omisso como decorrente das atividades neuromusculares que o indivduo desenvolve para evitar a movimentao corprea. Vencida essa fase de inicial mecanicismo, o Direito Penal percebeu a omisso como um dos aspectos volitivos da atividade humana que viola o dever legal de agir.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A norma jurdica, como proposio, expressa um valor sobre a conduta humana e o preceito incriminador descreve a conduta proibida. A conduta humana voluntria tem papel conceitual importante na formulao analtica do crime, pois o indivduo somente deve receber a censura penal em virtude dos atos efetivamente praticados. A omisso considerada como um dos aspectos volitivos da atividade humana que viola o dever legal de agir.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Trata-se de representao para fins de perda da graduao, oferecida em desfavor de Cludio Gonalves Diniz, em face da sua condenao  pena de 6 (seis) anos e 8 (oito) meses de recluso, como incurso nas sanes do artigo 157,  2, incisos I, II e V, do Cdigo Penal. PRELIMINAR I - PRESCRIO Em sede preliminar, alegou a defesa do representado a incidncia da prescrio da pretenso punitiva estatal, considerando, para tanto, o transcurso de lapso temporal de quase 4 (quatro) anos entre a data do trnsito em julgado da deciso condenatria (04/04/2018) e a data do oferecimento da representao pelo rgo ministerial (19/01/2022). Todavia, razo no lhe assiste. No caso em tela, o representado foi condenado perante o juzo da Comarca de Igarap  pena de 8 (oito) anos e 3 (trs) meses de recluso, em regime fechado, e 135 dias-multa, como incurso nas sanes do artigo 157,  2, incisos I, II e V, do Cdigo Penal e, em 2a instncia, a pena foi reduzida ao patamar de 06 (seis) anos e oito (08) meses de recluso e 40 dias-multa, conforme acrdo acostado ao Evento 1, OUT4, que transitou em julgado em 04/04/2018 (Evento1, OUT5). Cumpre asseverar a ausncia de lei especfica que regule a prescrio em processos para Perda de Graduao. Entretanto, ainda que se houvesse de reconhecer a existncia de prazo prescricional a sujeitar o referido processo, a contagem do lapso temporal deveria partir da concretizao da condio de procedibilidade, qual seja, o trnsito em julgado da condenao penal, e no do momento da prtica delituosa. Nessa esteira, ressalta-se que a representao para perda de graduao somente pode ser julgada aps a deciso condenatria se tornar definitiva, sendo certo que, por depender do trnsito em julgado, o eventual reconhecimento de um prazo prescricional teria incio com a prpria certido de trnsito. Ademais podemos nos amparar nas disposies prescricionais do Cdigo Penal Militar e, nesse diapaso, considerando que o representado foi condenado  pena de 06 (seis) anos e oito (08) meses de recluso, o lapso para que seja atingido o limite para a proposio da representao pelo Ministrio Pblico  fixado em 12 (doze) anos, nos termos do art. 125, inciso IV, da mesma lei. Nesse sentido, considerando que o trnsito em julgado da condenao se deu em 04/04/2018 e a douta Procuradora de Justia ofereceu sua representao 19/01/2022, no h que se falar em prescrio. Por tais razes, rejeito a preliminar de prescrio arguida pela defesa do representado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Foi rejeitada a preliminar de prescrição arguida pela defesa do representado, pois, considerando que o trânsito em julgado da condenação se deu em 04/04/2018 e a representação foi oferecida em 19/01/2022, o lapso temporal de quase 4 (quatro) anos entre as datas no atingiu o limite prescricional de 12 (doze) anos, nos termos do art. 125, inciso IV, do Código Penal Militar.

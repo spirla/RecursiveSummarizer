@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O Judiciario brasileiro, como um todo, vem sendo afetado pela crise sanitaria mundial, e muitos servicos estao suspensos ou sao realizados num ritmo mais demorado do que se deseja, ate diante da insuficiencia de quadros tecnicos aptos a sua execucao. Assim, embora a Camara Julgadora tenha sublinhado a insuficiencia de quadros tecnicos aptos a sua execucao, e o Juizo das Execucoes Criminais ja tenha encaminhado, recentemente, oficios a SEAP e a direcao da unidade prisional, e possivel determinar que se promova gestoes junto aos orgaos responsaveis pela elaboracao da prova tecnica, visando sua celere producao, e, em ultimo caso, recorrendo, para tanto, ao Sistema Unico de Saude - SUS. (Informativo  Ed. Especial n. 4) PROCESSO RHC 147.307-PE, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, por unanimidade, julgado em 29/03/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Compartilhamento de dados de movimentacoes financeiras da propria instituicao bancaria ao Ministerio Publico. Violacao ao sigilo de dados bancarios. Inocorrencia. DESTAQUE Nao ha ilicitude das provas por violacao ao sigilo de dados bancarios, em razao do compartilhamento de dados de movimentacoes financeiras da propria instituicao bancaria ao Ministerio Publico. 536 Nao ha falar-se em ilicitude das provas por violacao ao sigilo de dados bancarios, em razao do compartilhamento de dados pela instituicao bancaria ao Ministerio Publico, por nao se tratar de informacoes bancarias sigilosas relativas a pessoa do investigado, senao de movimentacoes financeiras da propria instituicao, sem falar que, apos o recebimento da noticia-crime, o Ministerio Publico requereu ao juizo de primeiro grau a quebra do sigilo bancario e o compartilhamento pelo Banco de todos os documentos relativos a apuracao relacionada aos autos do ora recorrente, o que foi deferido, havendo, portanto, autorizacao judicial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há ilicitude das provas por violação ao sigilo de dados bancários, em razão do compartilhamento de dados pela instituição bancária ao Ministério Público. 2. Não se trata de informações bancárias sigilosas relativas à pessoa do investigado, mas de movimentações financeiras da própria instituição. 3. Após o recebimento da notícia-crime, o Ministério Público requereu ao juízo de primeiro grau a quebra do sigilo bancário e o compartilhamento pelo Banco de todos os documentos relativos à apuração relacionada aos autos do ora recorrente, o que foi deferido.

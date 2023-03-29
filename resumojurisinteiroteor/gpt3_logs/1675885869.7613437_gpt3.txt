@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Isto porque, da leitura dos autos do processo eletrnico, no meu modesto entendimento, percebo que no se formaram provas suficientes para a concluso sobre a realizao dos elementos do tipo penal descrito na denncia. Vejamos. Insurge-se o CB PM Hlio Guimares da Silva Jnior em virtude de ter sido condenado pela prtica do delito de porte ilegal de arma de fogo de uso permitido (art. 14 da Lei n. 10.826/03) a uma pena de 3 (trs) anos de recluso. No caso, houve a desclassificao do delito imputado na denncia de comercializao para o de porte ilegal de arma de fogo. Sobre as razes de convencimento para a condenao do Cb PM Hlio Guimares da Silva, o respeitvel juzo "a quo fez constar os fundamentos seguintes: O contato do Cb PM Hlio com o civil transcendia a relao profissional, tendo este, em outra oportunidade, contribudo para efetuar a priso de um traficante, com notcias, inclusive, que frequentam lugares em comum. O depoimento prestado pelo civil Eduardo evidenciou, ainda mais, a relao prxima entre eles, pois em um primeiro momento aduziu, de forma clara, que teria adquirido a arma diretamente do Cb PM Hlio, cujo apelido era Juninho e trabalha na 8a Cia do 34 BPM, mas, em um segundo momento, afirmou que adquiriu a arma de outro indivduo na Praa Sete de Setembro, nesta capital. Assim, por maioria de votos (quatro a um), o Conselho Permanente de Justia condenou o Cb PM Hlio como incurso no art. 14 da Lei n. 10.826/03. Vencido o Juiz de Direito, que entendeu pela absolvio com fundamento no art. 439, alnea e, do CPPM, reconhecendo a fragilidade de provas aptas a sustentar um decreto condenatrio, especialmente quando se leva em conta o depoimento contraditrio do civil Eduardo, o que teria fragilizado, sobremaneira, a acusao, porque ele era a principal fonte para a materialidade e autoria. J o Sd PM Valter de Sousa Filho insurge-se contra a condenao pela prtica do delito de falsidade ideolgica (art. 312 do CPM) a uma pena de 1 (um) ano, 1 (um) ms, e 3 (trs) dias de recluso, a ser cumprida em regime aberto. Sobre os elementos de convico sobre a condenao do Sd PM Valter de Sousa Filho, o respeitvel juzo a quo fez constar os fundamentos seguintes: O ru Sd PM Valter de Sousa Filho foi absolvido do crime previsto no art. 14 da Lei n. 10.826/03, por maioria de votos, e condenado como incurso no art. 312 (falsidade ideolgica) do Cdigo Penal Militar, tambm por maioria de votos. Foi evidenciado que os rus so amigos de infncia, sendo certo que o furto da arma na residncia do Sd PM Valter possui ligao o com civil Eduardo, por intermdio do Cb PM Hlio, inexistindo uma mera coincidncia. Importante observar que, na poca dos fatos, o Sd PM Valter tinha acabado de ingressar na Polcia Militar, sendo amigo de infncia do j experiente Cb PM Hlio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia condenou o Cb PM Hlio Guimares da Silva Jnior como incurso no art. 14 da Lei n. 10.826/03 e o Sd PM Valter de Sousa Filho como incurso no art. 312 do Cdigo Penal Militar, ambos por maioria de votos, devido ao depoimento contraditrio do civil Eduardo e evidncias de relao prxima entre os rus.

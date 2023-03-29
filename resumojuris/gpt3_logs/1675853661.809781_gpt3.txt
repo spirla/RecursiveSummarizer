@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Nao constitui condicao da acao o previo requerimento administrativo para ajuizar acao requerendo anulacao de debito fiscal fundamentada na ocorrencia de erro material no preenchimento da Declaracao de Credito Tributario Federal - DCTF. Cinge-se a controversia a determinar se ha ou nao interesse de agir no ajuizamento de acao para anular credito tributario constituido em virtude de erro em Declaracao de Credito Tributario Federal, quando nao comprovado o previo requerimento administrativo pela parte autora a Administracao Publica. Tratando-se apenas do direito potestativo de retificar a declaracao, seria questionavel a necessidade de acao judicial, notadamente por restar duvida sobre a existencia de lesao ou ameaca de lesao a direito da parte autora. Bastaria ao demandante, por conta propria, promover a correcao. No caso, porem, o contribuinte nao corrigiu a declaracao e o tributo foi lancado e passou a ser exigido. A pretensao, entao, nao era de retificar declaracao, mas de anular o credito tributario exigivel. Evidencia-se, portanto, que, no ultimo caso, no minimo, havia ameaca a direito (patrimonial) em face da possibilidade de cobranca do tributo, sendo plenamente aplicavel o direito fundamental previsto no art. 5, XXXV, da Constituicao, presente, portanto, o interesse de agir, sendo descabida a extincao do feito sem exame de merito. (Informativo  Ed. Especial n. 8) CF/88, art. 5, XXXV 86 SEGUNDA TURMA Voltar ao Sumario. Processo AgInt no AREsp 2.118.653-SP, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é necessário o prévio requerimento administrativo para ajuizar ação requerendo anulação de débito fiscal fundamentada na ocorrência de erro material no preenchimento da Declaração de Crédito Tributário Federal - DCTF. 2. É questionável a necessidade de ação judicial quando se trata do direito potestativo de retificar a declaração. 3. Evidencia-se que, no último caso, há ameaça a direito (patrimonial) em face da possibilidade de cobrança do tributo, sendo plenamente aplicável o direito fundamental previsto no art. 5, XXXV, da Constituição, presente, portanto, o interesse de agir.

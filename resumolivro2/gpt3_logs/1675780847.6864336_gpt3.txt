@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Vejamos a ementa do HC 115.698/AM:
+A mxima efetividade das garantias constitucionais do contraditrio e da ampla defesa (CRFB, artigo 5, LV), dimenses elementares do devido processo legal (CRFB, artigo 5, LIV) e cnones essenciais do Estado Democrtico de Direito (CRFB, artigo 1, caput) impem a incidncia da regra geral do CPP tambm no processo penal militar, em detrimento do previsto no artigo 302 do Decreto-Lei 1.002/69. Precedente do Supremo Tribunal Federal (Ao Penal 528 AgR, rel. Min. Ricardo Lewandowski, Tribunal Pleno, j. em 24/03/2011, DJe 07-06-2011). Por fim, e definitivamente, o Pleno do STF no HC 127.900, rel. Min. Dias Toffoli, seguiu o que fora decidido na AP 528 AgR, rel. Min. Ricardo Lewandowski e nos HC 115.698/AM e 115530/PR da relatoria do ministro Luiz Fux, que determinaram a aplicao do disposto no artigo 400 do CPP ao processo penal militar, passando a ser o interrogatrio o ltimo ato da instruo criminal. No resta dvida que, se as decises da Suprema Corte tiveram esteio nos princpios da ampla defesa e do contraditrio, o interrogatrio inegavelmente  tambm meio de defesa no processo penal militar. 14.2.1.2. Caractersticas. As caractersticas do interrogatrio no diferem muito das demais provas,  um ato processual cuja produo  pblica, exceo nos processos sigilosos. Nele predomina a oralidade das respostas, que podero ser dadas por escrito se o declarante estiver impedido de enunci-las. Ao surdo as perguntas so apresentadas por escrito e ele as responde oralmente;
+ao mudo as perguntas so feitas oralmente e ele as responde por escrito e ao surdo-mudo as perguntas so feitas por escrito e ele as responde por escrito (artigo 299, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF decidiu que a regra geral do CPP deve ser aplicada ao processo penal militar, com o interrogatório sendo o último ato da instrução criminal. O interrogatório é um ato processual público, com predominância da oralidade das respostas, exceto nos processos sigilosos. Para surdos, as perguntas são apresentadas por escrito e respondidas oralmente; para mudos, as perguntas são feitas oralmente e respondidas por escrito; e para surdos-mudos, as perguntas são feitas por escrito e respondidas por escrito.

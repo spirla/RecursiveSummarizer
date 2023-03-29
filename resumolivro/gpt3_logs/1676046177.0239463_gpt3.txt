@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Considerando a obedincia hierrquica como erro de proibio indireto, importa distinguir a ocorrncia do erro quanto  ilegalidade da ordem do erro em relao  situao ftica sobre a qual tem aplicao a ordem. Quando o sujeito erra sobre a ilegalidade da ordem, trata-se de erro de proibio. J quando o sujeito erra sobre pressuposto ftico de aplicabilidade da ordem, verifica-se erro de tipo permissivo. No primeiro caso, o erro constitui excludente de culpabilidade; no segundo, de tipicidade. A distino no  meramente acadmica, pois dela decorrem importantes efeitos prticos. Se obedincia hierrquica constituir causa de exculpao, trar como consequncia a possibilidade da defesa legtima contra aquele que cumprir a ordem no manifestamente ilegal, j que sua conduta ser ilcita, embora no culpvel. Se a obedincia hierrquica, ao contrrio, caracterizar erro de tipo permissivo, a conduta do executor da ordem no adquirir a qualidade de ilcita e no ser possvel a legtima defesa contra seus atos. Nesse caso, a legtima defesa somente poderia ser exercida contra quem proferiu a ordem, a no ser que este tambm esteja em erro de tipo, quando somente poderia desenvolver-se o argumento da inexigibilidade de conduta diversa. A oportunidade de realizao do juzo criminal de reprovao indica a anterior constatao do injusto penal, sem o qual no se pode examinar a culpabilidade. Se o sujeito atua amparado pela legalidade, no h ilicitude em sua conduta e no se pode examinar a culpabilidade. Por isso, somente importa discutir a inexigibilidade de conduta diversa quando a conduta realizada violar injustificadamente a norma jurdico-penal. A exculpante prevista no artigo 22 do Cdigo Penal visa a proteger o sujeito que no percebeu a ilegalidade da ordem que recebeu ou no podia evitar seu cumprimento. Na primeira hiptese, o sujeito atua influenciado pela aparente legalidade da ordem, e a finalidade que orienta seu comportamento, embora socialmente inadequada, no decorre da postura de enfrentamento  finalidade protetiva da norma jurdico-penal. O juzo de reprovao no se aperfeioa devido ao fato de a finalidade ofensiva ao bem jurdico ter se constitudo em erro. Referindo-se  ordem no manifestamente ilegal, o Cdigo Penal considera que o executor no pode evitar o erro. No entanto, se a ordem  manifestamente ilegal, a obrigao que se apresenta  no sentido de seu descumprimento. Reconhecendo a ilegalidade da ordem, o sujeito est obrigado a preservar a legalidade, por isso, no deve cumprir a ordem.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A obedincia hierárquica pode ser considerada como erro de proibição indireta. Se o sujeito erra sobre a ilegalidade da ordem, trata-se de erro de proibição e, se o sujeito erra sobre o pressuposto fático de aplicabilidade da ordem, é um erro de tipo permissivo. O Código Penal prevê uma exculpante para proteger o sujeito que não percebeu a ilegalidade da ordem que recebeu ou não podia evitar seu cumprimento. Se a ordem for manifestamente ilegal, o sujeito está obrigado a preservar a legalidade, portanto, não deve cumpri-la.

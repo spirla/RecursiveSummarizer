@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, inexiste inconstitucionalidade na decisao estatal de instituir um orgao composto por agentes que satisfacam determinados requisitos de capacidade tecnica e institucional, com respeito aos principios da razoabilidade e da obrigatoriedade de concurso publico. No caso, as atribuicoes que a lei conferiu aos seus membros estao em consonancia com as que a Constituicao previu para a criacao de cargos em comissao. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente o pedido formulado. ADI 4608/DF, relator Ministro Gilmar Mendes, julgamento virtual finalizado em 13.5.2022 (sexta-feira), as 23:59 (INF 1054) Recriacao de Assistencia Juridica da Justica Militar - ADI 3152/CE Resumo: E inconstitucional norma estadual que restabeleca, no ambito do Poder Judiciario local, cargos de Advogado da Justica Militar vocacionados a patrocinar a defesa gratuita de pracas da Policia Militar. Esse modelo nao se coaduna com aquele implementado pela ordem constitucional inaugurada em 88, o qual dispoe que a funcao de defesa dos necessitados, quando desempenhada pelo Estado, e propria a Defensoria Publica (CF, art. 134; LC 80/1994). Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade do art. 5 da Lei 12.832/1998 do Estado do Ceara. ADI 3152/CE, relatora Ministra Rosa Weber, julgamento virtual finalizado em 26.4.2022 (terca-feira), as 23:59 (INF 1052) 4.4 DIREITOS E GARANTIAS FUNDAMENTAIS CNJ e transferencia do sigilo de dados fiscais e bancarios - ADI 4709/DF Resumo: E constitucional a requisicao, sem previa autorizacao judicial, de dados bancarios e fiscais consi-derados imprescindiveis pelo Corregedor Nacional de Justica para apurar infracao de sujeito determina-do, desde que em processo regularmente instaurado mediante decisao fundamentada e baseada em indi-cios concretos da pratica do ato.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Inexiste inconstitucionalidade na decisão estatal de instituir um órgão composto por agentes que satisfaçam determinados requisitos de capacidade técnica e institucional, com respeito aos princípios da razoabilidade e da obrigatoriedade de concurso público. 2. É inconstitucional norma estadual que restabeleça, no âmbito do Poder Judiciário local, cargos de Advogado da Justiça Militar vocacionados a patrocinar a defesa gratuita de praças da Polícia Militar. 3. É constitucional a requisição, sem prévia autorização judicial, de dados bancários e fiscais considerados imprescindíveis pelo Corregedor Nacional de Justiça para apurar infração de sujeito determinado, desde que em processo regularmente instaurado mediante decisão fundamentada e baseada em indícios concretos da prática do ato.

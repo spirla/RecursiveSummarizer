@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Antes de adentrar no mrito da ao, analiso a preliminar aventada pela defesa, de nulidade das provas: A defesa suscitou, preliminarmente, a nulidade das provas que deram suporte ao decreto condenatrio, argumentando, para tanto: (I) a quebra da cadeia de custdia, devido  forma como foram coletados e armazenados os dados e materiais apreendidos durante a operao de busca e apreenso e (II) o fato de no terem sido periciadas as provas derivadas dos dados extrados dos telefones celulares de Danone por profissional competente. No  novidade para ningum a necessidade inafastvel de se isolar e preservar o local de crime, para possibilitar a busca pelos vestgios que serviro ou podero servir como provas do processo a ser instaurado, do mesmo modo que no se pode descartar a importncia dos tratos com a coleta, com o acondicionamento, com o transporte, com o manuseio, com o registro e com o prprio armazenamento desses vestgios ou dessas provas, enquanto importarem ao processo. A defesa alega quebra na cadeia de custdia das provas, mas no demonstra nos autos, concretamente, quais falhas procedimentais poderiam ter sido cometidas pelos policiais militares e que teriam ensejado a quebra nem aponta, efetivamente, quais os prejuzos que tais atos que pretende anular teriam causado  defesa. A simples afirmao de que os policiais militares no tm competncia tcnica para extrarem dos aparelhos de telefone celular as mensagens trocadas entre o apelante e Danone no pode ser tomado como motivao para se decretar a nulidade das provas carreadas aos autos. At porque esses dados foram extrados com o emprego da Soluo Cellebrite UFED Touch 2d, uma ferramenta prpria ao fim a que se destina e utilizada, universalmente, dispensando, por conseguinte, maiores conhecimentos tcnicos da parte de quem vai oper-la para desincumbir-se da tarefa. Nesse ponto, valho-me da posio manifestada pelos ilustres promotores de Justia, que se apoiaram, ainda, em adequado assentamento doutrinrio, representado nos autos pelo pargrafo extrado das razes ministeriais e que transcrevo a seguir: [...] Com efeito, a extrao de dados de aparelho celular  uma atividade de mero espelhamento da informao ali existente, sem alterao de dados e para a qual no se exige formao especfica, uma vez que as tarefas so executadas pelo equipamento de extrao forense utilizado ao redor do mundo. Percia  o exame feito por pessoas com conhecimentos tcnicos, artsticos, cientficos ou prticos em relao aos fatos, circunstncias ou mesmo condies pessoais apuradas no processo, tudo com o fito de servir de prova para embasar a deciso judicial. Assim, consoante Camargo Aranha, a natureza jurdica da percia  de ser um meio instrumental, tcnico- opinativo e alicerado da sentena.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa alegou nulidade das provas devido a quebra na cadeia de custdia, mas no demonstrou falhas procedimentais ou prejuzos causados. A extrao de dados do aparelho celular não exige formação específica, pois é executada por equipamento de extração forense. A perícia é um meio instrumental, técnico-opinativo, para servir de prova para embasar a decisão judicial.

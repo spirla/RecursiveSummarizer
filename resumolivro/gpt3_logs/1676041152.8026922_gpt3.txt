@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Ainda cabe notar que, alm das limitaes prprias ao discurso prtico geral, o discurso jurdico ainda apresenta outras limitaes importantes, decorrentes de sua vinculao ao direito positivo e ao processo judicial. No processo legislativo, a argumentao jurdica no pode determinar para cada caso uma nica soluo correta. A soluo acolhida pela lei retrata o ponto de vista valorativo que conseguiu se impor no momento histrico e social. Na aplicao da lei ao caso concreto, a teoria do discurso tambm no oferece explicao satisfatria para os casos em que a ordem jurdica tiver reservado a aplicao de uma lei injusta ou irracional, bem como para os casos em que no houver uma nica resposta legislativa, sendo necessrio decidir sobre qual, entre as diversas respostas discursivamente possveis, ser a resposta acolhida. Por fim, como a argumentao jurdica que viabiliza a aplicao das normas de Direito Penal se desenvolve necessariamente por meio do processo judicial, ainda  necessrio considerar as limitaes relativas  distribuio assimtrica de papis no processo penal, as limitaes de tempo e de forma para a comprovao dos argumentos empricos, bem como que as partes envolvidas na relao processual esto mais interessadas em obter um provimento judicial que lhe seja vantajoso e no apenas um provimento correto e justo. Por todas essas limitaes, a teoria do discurso  capaz de fornecer apenas um critrio para que a argumentao jurdica se desenvolva de maneira racional e que suas premissas sejam extradas do direito positivo. 2.5. Perspectiva discursiva do Direito Penal. A evoluo crtica das teorias sociais e, consequentemente, das teorias do Direito e da Justia indicaram a necessidade de mudar o paradigma tradicional da racionalidade prtica (cognitiva instrumental) que influenciou as elaboraes dogmticas tradicionais do Direito Penal. A racionalidade prtica se desenvolve por um sujeito que pensa o mundo a partir de si mesmo e, com base em sua prpria conscincia sobre os fatos sociais, produz a norma jurdica. Essa racionalidade permite o estabelecimento de um Direito Penal de ndole antidemocrtica que deve ser superado. A racionalidade comunicativa, por outro lado, promove uma interveno menos utilitarista e mais procedimental do Direito, na medida em que a ordem normativa se orienta menos pelo conhecimento ou sua aquisio e mais pela forma com que os sujeitos capazes de linguagem e ao fazem uso do conhecimento.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A argumentação jurídica é limitada pelo direito positivo e pelo processo judicial, pois a solução acolhida pela lei reflete o ponto de vista valorativo do momento histórico e social. A teoria do discurso não oferece explicação satisfatória para casos em que a ordem jurdica reserva a aplicação de uma lei injusta ou irracional. A racionalidade comunicativa promove uma intervenção menos utilitarista e mais procedimental do Direito, pois a ordem normativa se orienta menos pelo conhecimento e mais pela forma com que os sujeitos capazes de linguagem fazem uso do conhecimento.

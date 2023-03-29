@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Aqui reiteramos os argumentos que sublinhamos no item 11.2.2.7. O juiz no deve converter, de ofcio, a priso em flagrante em preventiva na audincia de custdia. No sistema acusatrio, por serem separadas as funes de julgar, de acusar e de investigar no se deve admitir que o juiz tenha poderes de decretar medidas cautelares ex officio, principalmente no curso da investigao, quando sequer h imputao formulada pelo Ministrio Pblico ou querelante. Se o juiz, em tal contexto, decretasse uma priso, comprometeria, inevitavelmente, sua imparcialidade. A Lei 13.964/2019 (Lei Anticrime) retirou a expresso de ofcio na redao do artigo 311 do CPP:
+Em qualquer fase da investigao policial ou do processo penal, caber a priso preventiva decretada pelo juiz, a requerimento do Ministrio Pblico, do querelante ou do assistente, ou por representao da autoridade policial. Em sntese, por violar o sistema acusatrio e tirar a imparcialidade o juiz togado, que depois, na ao penal, integrar o Conselho de Justia, descabe decretar priso preventiva de ofcio na fase de inqurito. O Conselho de Justia decreta a priso preventiva na ao penal a requerimento do Ministrio Pblico. Em resumo:
+no processo penal militar, a priso preventiva pode ser decreta:
+(1) Na fase de IPM pelo juiz federal da JMU e pelo juiz de direito da JME no mbito de suas competncias, em face de representao da autoridade de polcia judiciria militar ou de requerimento do Ministrio Pblico;
+(2) Durante o processo pelos referidos juiz federal da JMU e pelo juiz de direito da JME e o Conselho de Justia, dentro de suas competncias, a requerimento do Ministrio Pblico;
+(3) Na audincia de custdia o juiz federal da JMU e o juiz de direito da JME no convertem, de ofcio, a priso em flagrante em preventiva;
+(4) Em razo de descumprimento de medida cautelar diversa da priso anteriormente imposta  cabvel a priso preventiva (artigo 282, pargrafo 4, CPP). Nos processos de competncia originria, durante a instruo, compete ao relator decretar priso preventiva (CPPM, artigo 254, pargrafo nico). 11.2.3.2. Requisitos da priso preventiva.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No processo penal militar, a priso preventiva pode ser decretada: (1) na fase de IPM pelo juiz federal da JMU ou pelo juiz de direito da JME, a requerimento do Ministrio Público ou da autoridade policial; (2) durante o processo pelos referidos juízes e pelo Conselho de Justiça, a requerimento do Ministério Público; (3) na audiência de custódia, o juiz não converte de ofício a prisão em flagrante em preventiva; (4) em caso de descumprimento de medida cautelar, cabível a prisão preventiva. Os requisitos para a prisão preventiva estão previstos no CPP e no CPPM.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A relevncia jurdica que legitima a pretenso de validade (correo) da norma jurdica incriminadora se expressa por meio do significado de inadequao social da conduta criminosa121. A irrelevncia jurdica  capaz de excluir a tipicidade material da conduta formalmente tpica e, em alguns casos, a conduta formalmente tpica pode ser considerada socialmente adequada. Examinemos, ento, algumas situaes em que pode ocorrer dvida sobre a possibilidade da imputao objetiva. Adequao social. O princpio da adequao social  o que de maneira fundamental orienta a atividade valorativa da imputao objetiva. Todos os demais princpios so, na verdade, desdobramentos da noo de adequao social. No tipo incriminador da invaso de dispositivo informtico a avaliao sobre a adequao social da conduta se evidencia no exame da elementar violao indevida de mecanismo de segurana que foi examinada no item 12. supra. O reconhecimento de que a superao do mecanismo de segurana possui justa causa indica a adequao social da conduta e, assim, a impossibilidade jurdica da imputao objetiva para o crime em exame. A rigor, nos casos em que h justa causa para a superao do mecanismo de segurana que protege o dispositivo informtico do acesso indevido no se pode dizer que a conduta constitua uma invaso. A invaso que constitui o crime em exame, certamente, s pode ser um comportamento socialmente inadequado por violar de maneira indevida o mecanismo de segurana. Nesse sentido, alguns casos desafiam a sensibilidade do operador do direito quanto  possibilidade de estabelecer a imputao objetiva. Acesso ao dispositivo informtico no curso de investigao criminal. O acesso ao contedo de dispositivos informticos, em muitos casos, pode se apresentar necessrio para o desenvolvimento de investigaes criminais. Nesse contexto, importa saber se a violao do mecanismo de segurana que restringe o acesso aos dados ou informaes armazenados em dispositivo apreendido pode ser considerada devida. Em termos prticos, interessa saber se o juiz criminal pode determinar a violao do mecanismo de segurana para possibilitar o acesso aos dados ou informaes armazenados no dispositivo ou se o delegado de polcia pode violar o mecanismo, sem autorizao judicial. Muito embora a Constituio da Repblica assegure a inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas (artigo 5, X), no h a previso de que os dados ou informaes constantes em dispositivos informticos devam ser considerados inviolveis.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da adequação social é o que fundamenta a avaliação da imputação objetiva. O reconhecimento de uma justa causa para a superação do mecanismo de segurança indica a adequação social da conduta e, portanto, a impossibilidade de imputação objetiva. Em alguns casos, o acesso ao dispositivo informático pode ser necessário para o desenvolvimento de investigações criminais, mas não h previsão de que os dados ou informações armazenados sejam invioláveis.

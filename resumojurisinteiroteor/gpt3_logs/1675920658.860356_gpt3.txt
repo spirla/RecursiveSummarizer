@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ou seja, no houve uma "viso pessoal, mas sim uma interpretao jurisprudencial, conforme se ver a seguir. Como se no bastasse, os nobres julgadores fundamentaram no sentido de que "a prescrio do art. 123, IV, c/c o art. 125, VII, do Cdigo Penal Militar refere-se  prescrio da pena em abstrato, ou seja, pelo mximo da pena objetivamente estabelecida no preceito secundrio do tipo penal incriminador. Ocorre que, os fundamentos suscitados pela defesa referem-se  parte omissa do Cdigo Penal Militar, j que no 1 do artigo 125 do referido diploma legal o texto trata da prescrio entre a data do recebimento da denncia e a sentena, mas se apresenta em omisso quanto  prescrio retroativa, tal como havia no Cdigo Penal Brasileiro, qual seja, da data dos fatos at o primeiro marco interruptivo que  o recebimento da denncia. [...] Pugna, ao final, pelo conhecimento e provimento dos embargos de declarao, para sanar a contradio apontada e para fins de prequestionamento.  o relatrio. VOTOS DESEMBARGADOR OSMAR DUARTE MARCELINO, RELATOR Recebo o recurso, visto que  tempestivo e preenche os requisitos objetivos e subjetivos de admissibilidade, nos termos da legislao afim. No entanto, diferentemente do recebimento, o acolhimento das razes dos embargos no se mostra possvel por qualquer tica. Li e analisei, com cautela, os presentes embargos e, feito isso, tenho absoluta segurana em afirmar que o embargante no demonstra a mnima contradio no acrdo, e as razes do seu recurso, ditas por ele na forma de dvidas, revelam apenas o inconformismo com o resultado do julgamento, que contrariou a sua pretenso material. Com efeito, o voto deste Desembargador Relator, acompanhado  unanimidade pelos eminentes Desembargadores da colenda Primeira Cmara, traz, com exatido, os fundamentos pelos quais no se reconheceu a ocorrncia da prescrio da pretenso punitiva estatal, seja pela pena em abstrato, seja pela pena em concreto, j que o voto trata das duas hipteses, e basta a leitura do acrdo lanado no evento 20 para chegar a tal concluso. Em relao  aplicao da pena em concreto para a configurao da prescrio da pretenso punitiva a partir da data do fato at o recebimento da denncia, o voto considera haver a hiptese de tal prescrio a partir do recebimento da denncia, que  o incio da ao penal militar, conforme fundamento ao final da deciso acerca da preliminar. Ento, existe o entendimento esposado pelo Relator em seu voto, com o qual o embargante pode no concordar, mas jamais afirmar que seja contraditrio. A pea recursal mostra que o embargante quer apenas adequar o voto deste Relator e os votos dos eminentes Desembargadores ao seu ponto de vista, mesmo citando jurisprudncia de tribunal diverso, quanto  matria, o que no  possvel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso foi recebido, mas o acolhimento das razes dos embargos foi negado, pois no houve contradio no acrdo, apenas inconformismo com o resultado do julgamento. O voto deste Desembargador Relator, acompanhado unanimidade pelos Desembargadores da Primeira Cmara, fundamentou que a prescrio da pretenso punitiva estatal no foi reconhecida, seja pela pena em abstrato, seja pela pena em concreto.

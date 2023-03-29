@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A deciso de mrito, transitada em julgado, pode ser rescindida quando: [..] - violar manifestamente norma jurdica; VI - for fundada em prova cuja falsidade tenha sido apurada em processo criminal ou venha a ser demonstrada na prpria ao rescisria; VII - obtiver o autor, posteriormente ao trnsito em julgado, prova nova cuja existncia ignorava ou de que no pde fazer uso, capaz, por si s, de lhe assegurar pronunciamento favorvel; VIII - for fundada em erro de fato verificvel do exame dos autos. No caso dos autos, a primeira demanda rescisria tem como fundamento a existncia de ofensa a literal disposio de lei (inciso V do art. 966 do CPC). Segundo o autor, houve cerceamento de defesa e ofensa ao artigo 5, inciso LV32, da Constituio Federal, ao artigo 38433, do Cdigo de Processo Penal e ao artigo 282 do Manual de Processos e Procedimentos Administrativos das Instituies Militares do Estado de Minas Gerais (MAPPA) nos autos do Processo Administrativo-Disciplinar de Portaria n. 100.52/2016 - 11a RPM, que ensejou a sua demisso da PMMG. Para tanto, argumentou que s acusaes das quais o autor se defendeu durante a instruo probatria do PAD foram acrescidas outras na abertura de vistas para alegaes finais de defesa, no tendo, todavia, oportunidade de se defender dessas, uma vez que teve o seu pedido de diligncias indeferido. Todavia, ao contrrio do alegado, observa-se que o acrdo que se pretende rescindir no violou as normas jurdicas supramencionadas. A violao de norma jurdica (inciso V do art. 966 do CPC/2015) que autoriza o ajuizamento da ao rescisria  somente aquela tida como aberrante e flagrante, sendo certo que a no se enquadram aquelas decises proferidas com base em interpretao amparada no contexto ftico-probatrio do caso concreto levado a julgamento. A violao manifesta de norma jurdica h que ser considerada presente quando pelo simples confronto da questo posta na rescisria e do dispositivo legal tido como infringido for possvel a constatao da afronta, ou seja, quando a deciso est em sentido diretamente oposto  norma legal aplicada  espcie. Nesse sentido,  sedimentado o entendimento do Superior Tribunal de Justia: [...] II - No que se refere  alegada violao literal a dispositivo de lei, a orientao desta Corte  no sentido de que tal ofensa deve ser "direta, evidente, que ressai da anlise do aresto rescindendo" e "se, ao contrrio, o acrdo rescindendo elege uma dentre as interpretaes cabveis, ainda que no seja a melhor, a ao rescisria no merece vingar, sob pena de tornar-se um mero 'recurso' com prazo de 'interposio' de dois anos". [...] IV - A mera interpretao de lei conferida  poca do julgamento, mesmo que posteriormente modificada jurisprudencialmente, mas juridicamente aceitvel, no caracteriza violao a literal dispositivo de lei, nos termos do art. 485, V, do Cdigo de Processo Civil de 1973, reproduzido no art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A ao rescisria somente procedente quando houver violao manifesta de norma jurdica, ou seja, quando a deciso estiver em sentido diretamente oposto ao dispositivo legal aplicado. No caso dos autos, a deciso não violou as normas jurdicas alegadas, sendo que a violação manifesta de norma jurdica deve ser considerada presente quando for possível a constatação da afronta pela simples análise da questão posta na rescisória e do dispositivo legal tido como infringido.

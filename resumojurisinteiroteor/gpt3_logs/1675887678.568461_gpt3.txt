@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ assente na jurisprudncia desta Corte Superior o entendimento de que, em razo do efeito devolutivo amplo da Apelao, o Tribunal a quo pode apresentar novos fundamentos para justificar o aumento na pena, desde que esta no ultrapasse aquela fixada anteriormente pelo magistrado singular, mesmo em se tratando de recurso exclusivo do ru. 3. Agravo Regimental improvido. E mais. O Supremo Tribunal Federal (STF) j decidiu que: "A apelao da defesa devolve integralmente o conhecimento da causa ao Tribunal, que a julga de novo, reafirmando, infirmando ou alterando os motivos da sentena apelada, com as nicas limitaes de adstringir-se  imputao que tenha sido objeto dela (cf. Smula 453) e de no agravar a pena aplicada em primeiro grau ou, segundo a jurisprudncia consolidada, piorar de qualquer modo a situao do ru apelante. Insurgindo-se a apelao do ru contra a individualizao da pena, no est, pois, o Tribunal circunscrito ao reexame dos motivos da sentena: reexamina a causa,  luz do art. 59 e seguintes do Cdigo, e pode, para manter a mesma pena, substituir por outras as circunstncias judiciais ou legais de exasperao a que a deciso de primeiro grau haja dado relevo. Quanto  extenso, o conhecimento do tribunal  limitado pela matria impugnada pelo recorrente. Mas, como ponderam Ada Pellegrini Grinover, Antnio Magalhes Gomes Filho e Antnio Scarance Fernandes, (...) dentro desses limites, a profundidade do conhecimento do tribunal  a maior possvel: pode levar em considerao tudo o que for relevante para a nova deciso. Por isso  que o brocardo latino tantum devolutum quantum appellatum (relativo  extenso do conhecimento) completa-se pelo acrscimo vel appellari debebat (relativo  profundidade) (Recursos no processo penal. 7. ed. So Paulo: Revista dos Tribunais, 2011, p. 47-48, grifo nosso). Referidos doutrinadores, aps anotarem que "a restrio existente na apelao parcial  relativa  extenso do conhecimento e no  sua profundidade, podendo o tribunal examinar, nos limites da impugnao, aspectos no suscitados pelas partes ou tpicos no apreciados pelo juiz inferior (...) - op. cit., p. 123. Como j decidido pelo Supremo Tribunal Federal, "A apelao da defesa devolve integralmente o conhecimento da causa ao Tribunal, que a julga de novo, reafirmando, infirmando ou alterando os motivos da sentena apelada, com as nicas limitaes de adstringir-se  imputao que tenha sido objeto dela (cf. Smula 453) e de no agravar a pena aplicada em primeiro grau ou, segundo a jurisprudncia consolidada, piorar de qualquer modo a situao do ru apelante. Insurgindo-se a apelao do ru contra a individualizao da pena, no est, pois, o Tribunal circunscrito ao reexame dos motivos da sentena: reexamina a causa,  luz do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Apelao da defesa devolve integralmente o conhecimento da causa ao Tribunal, que a julga de novo, reafirmando, infirmando ou alterando os motivos da sentena apelada, com as nicas limitaes de adstringir-se imputao que tenha sido objeto dela e de no agravar a pena aplicada em primeiro grau.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, a norma impugnada nao se restringiu a protecao do consumidor, pois, ao estipular regras pertinentes a suspensao do fornecimento dos servicos de energia eletrica, interferiu efetivamente no conteudo dos contratos administrativos firmados entre a Uniao e as respectivas empresas concessionarias. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade da expressao de energia eletrica constante do art. 1 da Lei 3.244/2017 do Estado do Tocantins. Vencido o ministro Edson Fachin. ADI 5798/TO, relatora Min. Rosa Weber, julgamento virtual finalizado em 3.11.2021 (quarta-feira), as 23:59 (INF 1036) Lei estadual: anistia administrativa e policiais civis, militares e bombeiros - ADI 4928/AL Resumo: E inconstitucional lei estadual de iniciativa parlamentar que disponha sobre a concessao de anistia a infracoes administrativas praticadas por policiais civis, militares e bombeiros. A CF/88 (CF) reserva ao chefe do Poder Executivo a iniciativa de leis que tratem do regime juridico de servidores desse Poder ou que modifiquem a competencia e o funcionamento de orgaos administrativos [art. 61,  1, II, c e e ], no que se enquadra a legislacao que concede anistia a infracoes administrativas praticadas por servidores civis e militares de orgaos de seguranca publica. Ademais, sob o angulo material, a norma invade materia reservada a orgaos administrativos, em contrariedade ao principio da separacao dos Poderes. Com esses entendimentos, o Plenario, por maioria e em conclusao de julgamento, julgou procedente pedido formulado em acao direta para declarar a inconstitucionalidade da Lei 7.428/2012 do Estado de Alagoas. Vencido o ministro Marco Aurelio (relator). ADI 4928/AL, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a lei estadual de iniciativa parlamentar que disponha sobre a concessão de anistia a infrações administrativas praticadas por policiais civis, militares e bombeiros. 2. A Constituição Federal reserva ao chefe do Poder Executivo a iniciativa de leis que tratem do regime jurídico de servidores desse Poder ou que modifiquem a competência e o funcionamento de órgãos administrativos. 3. A norma invade matéria reservada a órgãos administrativos, em contrariedade ao princípio da separação dos Poderes.

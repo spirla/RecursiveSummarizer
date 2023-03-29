@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+317 do CP preveja a possibilidade do recebimento da vantagem indevida de forma indireta, quando o agente pratica conduta dissimulada que lhe permita nao apenas a posse do recurso ilicito, mas tambem sirva para conferir-lhe aura de legalidade, imprimindo-lhe feicao de licitude, deve responder pelo crime de lavagem de dinheiro. Embora a tipificacao da lavagem de capitais dependa da existencia de um crime antecedente, e possivel a autolavagem, isto e, a imputacao simultanea, ao mesmo reu, do delito antecedente e do crime de lavagem, desde que sejam demonstrados atos diversos e autonomos daquele que compoe a realizacao do primeiro crime, circunstancia em que nao ocorrera o fenomeno da consuncao. Com efeito, a autolavagem (self laundering/autolavado) merece reprimenda estatal, na medida em que o autor do crime antecedente, ja com a posse do proveito do crime, poderia simplesmente utilizar-se dos bens e valores a sua disposicao, mas reinicia a pratica de uma serie de condutas tipicas, a imprimir a aparencia de licitude do recurso obtido com a pratica da infracao penal anterior. Dessa forma, se for confirmado, a partir do devido processo legal e da consequente disposicao de todos os meios de prova ao alvitre das partes, notoriamente o contraditorio e a ampla defesa, que o denunciado enfunou ares de legalidade ao dinheiro recebido e transferido, estara configurado o crime de lavagem de capitais. (Informativo n. 726) TERCEIRA SECAO Voltar ao Sumario. PROCESSO AgRg no REsp 1.983.259-PR, Rel. Min. Sebastiao Reis Junior, Terceira Secao, por maioria, julgado 26/10/2022, DJe 03/11/2022. RAMO DO DIREITO DIREITO PENAL, EXECUCAO PENAL TEMA Prescricao da pretensao executoria. Art. 112, I, do CP. Termo inicial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 317 do Código Penal prevê a possibilidade de recebimento de vantagem indevida de forma indireta. 2. O crime de lavagem de dinheiro depende da existência de um crime antecedente. 3. É possível a autolavagem, ou seja, a imputação simultânea do delito antecedente e do crime de lavagem, desde que sejam demonstrados atos diversos e autonomos daquele que compõe a realização do primeiro crime. 4. A autolavagem merece reprimenda estatal, pois o autor do crime antecedente poderia simplesmente utilizar-se dos bens e valores a sua disposição, mas reinicia a prática de uma série de condutas tipicas para imprimir a aparência de licitude do recurso obtido com a prática da infração penal anterior. 5. Se for confirmado, a partir do devido processo legal, que o denunciado enfunou ares de legalidade ao dinheiro recebido e transferido, estará configurado o crime de lavagem de capitais.

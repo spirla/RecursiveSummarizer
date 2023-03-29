@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+I - Preliminar de inpcia da denncia Em sede preliminar, as defesas de Givaldo de Santana Lima, Stefan Ramon Tavares e Fladimir Marcus de Queiros alegaram a inpcia da denncia, sob o argumento de que a denncia no determinou circunstancialmente a participao de cada acusado nos fatos escritos, o que caracterizou ofensa  garantia constitucional da plenitude de defesa, nos moldes do artigo 395, I, do Cdigo de Processo Penal. Pois bem. Perfazendo uma leitura da exordial acusatria acostada ao Evento 9, DENNCIA2 dos autos de origem, entendo que razo no lhes assiste. A inpcia da denncia caracteriza-se pela inobservncia dos requisitos estabelecidos no art. 77 do CPPM. Nesse sentido, ao contrrio do que afirmaram os defensores, verifica- se que a denncia foi apresentada em atendimento aos requisitos legais, consistente na acusao de que o Tenente PM Mauro Lcio da Silva, o Sargento PM Givaldo de Santana Lima, o Sargento PM Stefan Ramon Tavares, o Cabo PM Paulo Henrique Crispim, o Soldado PM Harley de Jesus Almeida e o Soldado PM Fladimir Marcus de Queirz teriam, em tese, apreendido trs adolescentes sem a observncia das formalidades legais, encaminhando-os para a 127a Qia de Polcia Militar e ainda os submetido, com emprego de violncia, a intenso sofrimento fsico, como forma de aplicar-lhes castigo pessoal. Sabe-se que a denncia, por se tratar de mera notcia apresentada em juzo acerca da ocorrncia, em tese, de fato tpico e antijurdico, no se reveste dos mesmos elementos de convico exigidos quando da prolao de uma sentena condenatria. Assim, o rgo acusador deve oferecer elementos probatrios mnimos que assegurem a viabilidade da narrativa apresentada e permitam, de plano, identificar a ocorrncia de fato tpico, assim como apresentar indcios que autorizem associar o fato aos denunciados, como ocorreu no caso em tela. Ademais, consoante o entendimento jurisprudencial do Superior Tribunal de Justia (STJ), a supervenincia da sentena penal condenatria torna superada a anlise da alegao de inpcia da denncia: [...] 1. Nos termos da orientao jurisprudencial desta Corte, a supervenincia da sentena penal condenatria esvai a anlise de inpcia da denncia, porque viabilizado o exerccio do contraditrio e da ampla defesa durante a instruo criminal, no mais existindo mera acusao em face do acusado, mas a definio de sua culpa, em sentena, que passa a ser passvel de enfrentamento recursal. [...] (AgRg no AREsp 1626777/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/09/2020, DJe 23/09/2020) Por tais razes, rejeito a preliminar de inpcia da denncia.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A preliminar de inpcia da denncia foi rejeitada, pois a denncia foi apresentada em atendimento aos requisitos legais e a supervenincia da sentena penal condenatria torna superada a anlise da alegao de inpcia da denncia.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O contexto de anormalidade das circunstncias que envolveu a prtica criminosa importa em menor exigibilidade de conduta diversa em relao ao sujeito que atua sob ordens. Pode-se sintetizar os aspectos importantes da obedincia hierrquica da seguinte forma:
+(1) o executor supe a licitude da ordem no manifestamente ilegal.  uma modalidade especial de erro determinado por terceiro, que decorre da relao de subordinao hierrquica. O executor, em erro de proibio escusvel, no pode ser punido pelo resultado, que somente  atribuvel ao mandante. Note-se que, se o erro quanto  ilegalidade da ordem puder ser evitado pelo subordinado, h responsabilidade, na perspectiva de menor exigibilidade;
+(2) o executor conhece a ilegalidade da ordem, mas a ela no pode se opor, em consequncia do rigoroso sistema disciplinar. Em tal situao, ocorre o domnio da vontade em virtude de um aparato organizado de poder. Como exemplo, temos as organizaes militares da Alemanha nazista, nas quais a figura do executor  fungvel e deve ser considerado autor mediato do crime o mandante. Os executores so apenas instrumentos submissos ao domnio da vontade do mandante. Sendo a ordem manifestamente ilegal, e no podendo o sujeito opor-se a ela, ocorre uma verdadeira coao moral irresistvel.  hiptese de inexigibilidade de conduta diversa que exclui a culpabilidade;
+(3) o executor conhece a ilegalidade da ordem e a ela pode opor-se. Nesse caso, o mandante no estabelece domnio sobre a vontade do executor. Este, ciente da ilegalidade da ordem, ao execut-la, responde por autoria direta, no podendo conceber-se um instrumento cmplice doloso. No entanto, a responsabilidade do executor ocorre na forma de uma culpabilidade diminuda, conforme a atenuante prevista em lei. 8.9.6. Inexigibilidade por estado de necessidade. A hiptese exculpante supralegal mais acatada pela doutrina diz respeito  inexigibilidade de conduta diversa no estado de necessidade. Geralmente, os ordenamentos jurdicos no lhe fazem expressa meno, embora, no caso do atual Cdigo Penal alemo, faa-se ntida distino entre as figuras do estado de necessidade justificante e exculpante.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A obedincia hierárquica pode resultar em erro de proibição escusável, domínio da vontade ou responsabilidade diminuída. O estado de necessidade é uma hiptese exculpante supralegal que pode ser considerada pelo ordenamento jurídico.

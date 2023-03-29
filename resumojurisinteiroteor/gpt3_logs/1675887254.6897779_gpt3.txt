@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+THALES: ah, aquele outro negcio. Pra mim voc tava falando "daquela lanchonete que eu tenho l no final daquela rua da bola sete l... aquele menino teve l de novo. ELlAS: qual? THALES: o ROGRlO. Aquela que eu tenho l no final que at voc foi l comigo uma vez. Voc sabe onde  que ? ELlAS: na THALES: sabe a rua da bola sete ali? ELlAS: ham. THALES: l no final dela, "aquela lanchonete que eu tenho l.. ELlAS: sei. THALES: ento, aquele menino teve l de novo. ELIAS: ele foi l? THALES: foi. ELIAS: o qu  isso? Eu encontrei com ele esses dias aqui e ele falou que no iria no que t tranquilo. Eu falei ... THALES: ele conversou com voc, voc virou as costas e ele foi l ento. ELIAS: eu vou conversar com ele ento. THALES: tinha duas l. ELIAS: eu vou bater um papo com ele. THALES: aqui.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Thales informou a Elias que o Rogrio tinha ido à lanchonete que Thales possuía na rua da bola sete. Elias disse que tinha conversado com Rogrio recentemente e que ele havia dito que não iria. Thales disse que haviam duas lanchonetes. Elias disse que iria conversar com Rogrio.

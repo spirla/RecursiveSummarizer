@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+10/11) [...] que esclarece que os policiais entraram na casa procurando por Thais; que Thais e todos que estavam na casa mexem com drogas; que os policiais alm de terem ido direto na Thais mandaram todos os outros para o quarto e eles ficaram na sala com a Thais; que at ento os acusados no tinham visto o depoente que estavam em um outro quartinho e quando o viu lhe agrediu com um cabo de vassoura e determinou que se ajuntasse aos outros; que foi agredido por um policial magro, moreno e que usava aparelho nos dentes e era mais magro que o outro policial; que quanto ao nome Alex ouviu falar pelas outras pessoas; que um policial ficou na frente da porta do quarto onde estavam todos e o outro ficou na sala com a Thais; que do quarto em que estava ouvia-se estalos da mquina de choque, tapas e gritos dela pedindo socorro e para parar; que as agresses duraram cerca de 20 minutos e Diego, namorado de Thais, no suportando aquilo, saiu do quarto, foi at a sala e tirou as drogas que estavam no soutien de Thais e as entregou para os policiais; que seriam 18 pedras de crack; que depois Thais foi liberada e rastejando foi at o quarto e deitou-se na cama e os policiais passaram a questionar o depoente dizendo que seria a sua vez; que o depoente foi colocado de costas na parede e o policial moreno de aparelho nos dentes pegou uma enxada com meio cabo e agrediu o depoente com o olho da enxada nas costas; que tal policial era mais violento e ria muito da situao; que no sabe precisar qual dos acusados teria cometido o estupro; que no pedia nada ao depoente enquanto o agredia; que depois de agredido retornou ao quarto onde tomou alguns choque e pauladas na cabea, isso por cerca de 20 minutos; que depois menor ou Michel e Talita foram separados para outro quarto onde Michel apanhou um pouco (bem pouco), que em seguida Talita foi separada de Michel e levada para um outro quarto de onde se ouvia ela chorando e pedindo no faz isso pelo amor de Deus; que ouvia-se tambm o ranger da cama e um outro barulho que lhe chamou ateno foi o de uma fivela batendo e ela sempre pedindo para parar e chorando; que escutou barulho de uso de droga (crack) por parte de Michel na presena de um policial; que o depoente, foi preso, algemado, e depois de aterrorizado foi solto na praa da Cemig; que voltou para o local dos fatos quando Talita j estava ligando para a polcia denunciando os fatos; que no tinha visto os policiais antes, mas j ouviu falar deles atravs de Diego que eles faziam patrulhamento no local; que a fama dos policiais era de que seriam muito agressivos; que Diego tinha medo deles. Nada mais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Os policiais entraram na casa procurando por Thais, que mexia com drogas. Eles mandaram todos para o quarto, exceto Thais, que ficou na sala. Um dos policiais agrediu o depoente com um cabo de vassoura e o mandou se juntar aos outros. O depoente ouviu gritos de Thais e barulhos de uso de droga na presena de um policial. Os acusados foram presos e algemados e depois soltos na praa da Cemig.

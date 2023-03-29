@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Razes de apelao defensiva Preliminarmente a defesa arguiu: (I) a nulidade do feito em virtude da ilegalidade da busca e apreenso realizada no domiclio do ru; (II) a nulidade do feito devido ao indeferimento do pleito defensivo de acesso ao aparelho celular apreendido; (III) a nulidade do feito em razo da indevida abertura de nova vista ao Ministrio Pblico, para fins de manifestao na fase do artigo 427 do CPPM; (IV) a nulidade do feito devido ao cerceamento de defesa ante o indeferimento do pedido de requisio  Caixa Econmica Federal de apresentao dos extratos bancrios do apelante, uma vez que este se encontrava preso e, portanto, impossibilitado de comparecer  agncia; (V) a nulidade do feito, pela inadequao da fundamentao utilizada pelo Conselho Especial de Justia para absolver o acusado do crime de organizao criminosa. No mrito, manifestou sua irresignao em face da condenao pelo crime de corrupo passiva, com a causa especial de aumento de pena, argumentando, para tanto, a inexistncia, nos autos, de qualquer prova de que o recorrente tenha solicitado ou recebido o pagamento de vantagem indevida. Alegou que a testemunha de acusao, Ten Cel PM Adriano Nepomuceno de Carvalho, durante sua oitiva, limitou-se a mencionar a "Operao Caa-Nqueis como um todo, sem mencionar que tenha havido pedido ou recebimento de vantagem indevida por parte do ru. Informou que o acusado sequer tinha conhecimento do depsito de R$ 200,00 realizado em sua conta bancria no dia 15/04/2019, porquanto no extrato no constou a identificao do depositante; que o depsito representou pagamento por uma venda de perfume feita pelo ru ao corru 3 Sgt Luciano Rodrigues, assumida por ele durante seu depoimento perante o CEJ, quando somente no confirmou a forma de pagamento, para no se comprometer, uma vez que a operao feita por Tais, companheira de Danone, evidenciava seu envolvimento com a organizao criminosa. Disse que constam dos autos diversas fotos que comprovam sua atividade comercial relacionada  venda de produtos importados dos Estados Unidos. Falou que a defesa pediu o envio da cpia do Boletim de Ocorrncia referente  "abordagem ao bar mencionada na denncia, mas que a PMMG, em resposta, disse que nenhuma abordagem teria ocorrido no local, implicando dizer que no se tem como imputar ao ru qualquer repasse de informaes de policiais militares a esse respeito. Apontou que o Ministrio Pblico deveria ter ouvido, a esse respeito, o proprietrio do estabelecimento e o policial militar responsvel pela abordagem, que foi indicado na denncia, mas no o fez. Que nesse dia o 6 acusado se encontrava viajando ao Rio de Janeiro, em gozo de folga/frias, conforme escala de servio colacionada nos autos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa arguiu preliminarmente nulidade do feito em virtude de ilegalidade da busca e apreenso realizada, indeferimento do pleito defensivo de acesso ao aparelho celular apreendido, indevida abertura de nova vista ao Ministério Público, cerceamento de defesa e inadequação da fundamentação utilizada pelo Conselho Especial de Justiça para absolver o acusado do crime de organização criminosa. No mérito, alegou a inexistência de provas de que o recorrente tenha solicitado ou recebido vantagem indevida.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os atos necessrios  realizao do crime foram todos praticados quando o sujeito tinha a plena conscincia do que fazia. Vale ressaltar que, conforme o artigo 4 do Cdigo Penal brasileiro, considera-se praticado o crime no momento da ao ou omisso, ainda que outro seja o momento do resultado. Assim, no exemplo de Manzini, o crime certamente foi praticado por sujeito imputvel. Nas hipteses em que o movimento corpreo (ao ou omisso) for totalmente destitudo de conscincia, contudo, no se poder aplicar a mesma soluo. Com a introduo do sistema finalista de Welzel, a finalidade que orienta a conduta humana passou a ser elemento integrante do tipo50 e no havendo vontade, livre e consciente, restar inviabilizado o juzo de tipicidade. A inexistncia da ao impede tanto a caracterizao do tipo doloso como do culposo. Assim, pode-se perceber que a soluo encontrada por Cuello Calon tambm no  apropriada. Na embriaguez preordenada, o sujeito possui inteno de praticar a conduta criminosa quando ingere bebida alcolica. No momento da realizao da conduta criminosa,  possvel que o sujeito embriagado oriente sua conduta, sua inteno inicial ou no. Nesse momento,  necessrio considerar se a capacidade de entendimento ou autoconduo foi total ou parcialmente excluda pela embriaguez, distinguindo a embriaguez preordenada completa da incompleta. Se a embriaguez for incompleta e o sujeito possui capacidade de entendimento ou autogoverno, embora reduzida, o crime praticado poder ser considerado doloso. Ser necessrio constatar que o dolo orientou a execuo do crime. Na embriaguez completa, por outro lado, a capacidade de entendimento ou autoconduo ter sido totalmente excluda pela embriaguez e, por isso, no ser possvel reconhecer a existncia de dolo ou mesmo culpa. Vale observar que a embriaguez, mesmo preordenada, no  causa do resultado. A ocorrncia do resultado lesivo ao bem jurdico sempre depender de um complexo de condies, e os movimentos corpreos que no contenham elemento subjetivo no so capazes de responsabilizar o embriagado. No entanto, Manzini53 faz feliz observao no sentido de que, se o sujeito predispuser seu prprio corpo como instrumento necessrio para a realizao do crime, previamente considerando sua normal movimentao quando em estado de embriaguez, dever responder a ttulo de dolo. Nessa hiptese, a embriaguez deixa de ser ato preparatrio para caracterizar a prpria execuo criminosa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime foi praticado pelo sujeito imputável, conforme o artigo 4 do Código Penal brasileiro. O sistema finalista de Welzel considera a finalidade que orienta a conduta humana como elemento integrante do tipo, sendo necessário considerar se a capacidade de entendimento ou autoconduta foi total ou parcialmente excluída pela embriaguez para caracterizar o crime como doloso. Manzini observou que, se o sujeito predispuser seu próprio corpo como instrumento necessário para a realização do crime, previamente considerando sua normal movimentação quando em estado de embriaguez, deverá responder a título de dolo.

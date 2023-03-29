@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alem disso, extrai-se do 2, inciso II, que a reincidencia ou a conduta criminal habitual, reiterada ou profissional afasta a possibilidade da proposta. No caso concreto, o acordo pretendido deixou de ser ofertado em razao de o Ministerio Publico ter considerado que a celebracao do acordo nao seria suficiente para a reprovacao e prevencao do crime, pois violaria o postulado da proporcionalidade em sua vertente de proibicao de protecao deficiente, destacando que a conduta criminosa foi praticada no contexto de uma rede criminosa envolvendo varios empresarios do ramo alimenticio e servidores do Ministerio da Agricultura. Esta Corte Superior entende que nao ha ilegalidade na recusa do oferecimento de proposta de acordo de nao persecucao penal quando o representante do Ministerio Publico, de forma fundamentada, constata a ausencia dos requisitos subjetivos legais necessarios a elaboracao do acordo, de modo que este nao atenderia aos criterios de necessidade e suficiencia em face do caso concreto. De acordo com entendimento ja esposado pela Primeira Turma do Supremo Tribunal Federal, a possibilidade de oferecimento do acordo de nao persecucao penal e conferida exclusivamente ao Ministerio Publico, nao constituindo direito subjetivo do investigado. Em arremate, cuidando-se de faculdade do Parquet, a partir da ponderacao da discricionariedade da propositura do acordo, mitigada pela devida observancia do cumprimento dos requisitos legais, nao cabe ao Poder Judiciario determinar ao Ministerio Publico que oferte o acordo de nao persecucao penal. (Informativo n. 739) PROCESSO AgRg no RHC 161.330-RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 05/04/2022, DJe 08/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Rol de testemunhas. Art. 396-A do CPP. Apresentacao extemporanea pela defesa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A reincidência ou a conduta criminal habitual, reiterada ou profissional afasta a possibilidade da proposta de acordo de não persecução penal. 2. Não há ilegalidade na recusa do oferecimento de proposta de acordo de não persecução penal quando o representante do Ministério Público, de forma fundamentada, constata a ausência dos requisitos subjetivos legais necessários à elaboração do acordo. 3. A possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado. 4. Não cabe ao Poder Judiciário determinar ao Ministério Público que oferte o acordo de não persecução penal.

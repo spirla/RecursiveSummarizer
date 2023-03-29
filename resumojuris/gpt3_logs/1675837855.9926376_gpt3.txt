@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O Supremo Tribunal Federal, ao julgar a ADPF n. 528, vedou o pagamento de honorarios advocaticios contratuais com recursos alocados no FUNDEF/FUNDEB, embora tenha ressalvado o pagamento de honorarios advocaticios contratuais valendo-se da verba correspondente aos juros de mora incidentes sobre o valor do precatorio devido pela Uniao em acoes propostas em favor dos Estados e dos Municipios. Isso porque a vinculacao constitucional em questao nao se aplica aos encargos moratorios que podem servir ao pagamento de honorarios advocaticios contratuais devidamente ajustados, pois conforme decidido por essa Corte, 'os juros de mora legais tem natureza juridica autonoma em relacao a natureza juridica da verba em atraso' (RE n. 855.091 - Repercussao Geral, Rel. Min. Dias Toffoli, Tribunal Pleno, julgado em 15/03/2021, DJe de 08/04/2021). 502 Nesse passo, evidencia-se que o STF superou parcialmente o entendimento pacificado no ambito das duas Turmas que compoem a Primeira Secao, notadamente na possibilidade de utilizacao dos juros moratorios dos precatorios para pagamento dos honorarios contratuais, a vista da natureza autonoma dos juros em relacao a verba principal. (Informativo n. 743) PROCESSO REsp 1.623.873-SE, Rel. Min. Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 26/04/2022, DJe 28/04/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL TEMA Aquisicao e demarcacao de terras indigenas. Legitimidade passiva da uniao. Fundamento constitucional. Conflito entre as etnias.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O STF vedou o pagamento de honorários advocatícios contratuais com recursos alocados no FUNDEF/FUNDEB. 2. Foi ressalvado o pagamento de honorários advocatícios contratuais valendo-se da verba correspondente aos juros de mora incidentes sobre o valor do precatório devido pela União em ações propostas em favor dos Estados e dos Municípios. 3. Os juros de mora legais têm natureza jurídica autônoma em relação à natureza jurídica da verba em atraso. 4. É possível a utilização dos juros moratórios dos precatórios para pagamento dos honorários contratuais.

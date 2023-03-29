@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+p. 1069): Ha varios criterios de classificacao dos requisitos de admissibilidade dos recursos. Parece-nos que o mais completo e aquele sugerido por Barbosa Moreira, que os divide em duas grandes categorias: os intrinsecos e os extrinsecos, sendo os primeiros aqueles que dizem respeito a relacao entre a natureza e o conteudo da decisao recorrida e o recurso interposto, e os segundos, os que levam em conta fatores que nao dizem respeito a decisao impugnada, mas que sao externos a ela. De acordo com essa classificacao, os requisitos intrinsecos sao o cabimento, a legitimidade para recorrer e o interesse recursal; e os extrinsecos sao a tempestividade, o preparo, a regularidade formal e a inexistncia de fato extintivo ou impeditivo do direito de recorrer. 237 Op cit. p. 1070. 238 Artigo 223 - E assegurado ao servidor da Policia Militar o direito de requerer, representar ou recorrer, na forma da legislacao vigente. Paragrafo 1 - O direito a que se refere o artigo decai, na esfera administrativa, no prazo de 60 (sessenta) dias, contado da publicacao do ato ou do conhecimento do fato. (...)
+239 Op cit. p. 1072. 240 Processo de Justificacao e aquele instaurado originariamente pelo tribunal militar competente, no caso o TJM-MG, por forca do artigo 42, paragrafo 1, c/c o artigo 142, paragrafo 3, VI da CRFB/88, destinado a avaliar a convenincia da decretacao da perda do posto e patente do oficial, pelo cometimento de transgressao disciplinar previamente apurada por meio de PAD pela IME do oficial acusado. 241 Inadmitira novo recurso. 242 MAPPA: Artigo 403. O acusado podera interpor recurso, sem efeito suspensivo, nos casos de exoneracao, a autoridade superior a que a proferiu, no prazo de 05 (cinco) dias uteis, contados a partir da respectiva notificacao. paragrafo 1. Da decisao que avaliar o recurso interposto, cabera novo recurso, em segunda e ultima instncia, em regra, ao Comandante-Geral, no prazo de 05 (cinco) dias uteis, sem efeito suspensivo.
+243 Assim prev a Lei n. 9.784/99: Artigo 64.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existem vários critérios para classificar os requisitos de admissibilidade de recursos, sendo o mais completo aquele sugerido por Barbosa Moreira, que divide os requisitos em intrínsecos e extrinsecos. Os requisitos intrínsecos são o cabimento, a legitimidade para recorrer e o interesse recursal; e os extrinsecos são a tempestividade, o preparo, a regularidade formal e a inexistência de fato extintivo ou impeditivo do direito de recorrer. O direito de recorrer decai na esfera administrativa em 60 dias. O processo de justificação é instaurado para avaliar a conveniência da decretação da perda do posto e patente do oficial. A Lei nº 9.784/99 prevê que o acusado pode interpor recurso, sem efeito suspensivo, no prazo de 5 dias úteis, contados a partir da notificação, e da decisão que avaliar o recurso caberá novo recurso, em segunda e última instância, ao Comandante-Geral, no prazo de 5 dias úteis, sem efeito suspensivo.

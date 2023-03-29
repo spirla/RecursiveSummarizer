@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+As reflexes que Habermas fez sobre as condies de validade do discurso permitem concluir que a comunicao somente ser vlida quando puder satisfazer a pretenso de inteligibilidade, na medida em que o sujeito que argumenta e o que escuta devem compreender os conceitos utilizados no discurso de forma nica; a pretenso de verdade, que exige a adequao entre o contedo do que se diz e o mundo real sobre o qual se formula uma proposio; a pretenso de correo, que implica ser a proposio correta em relao ao tema que  reconhecido na discusso; e a pretenso de veracidade, que identifica no ato de fala a verdadeira inteno subjetiva. Com a satisfao de tais condies espera-se que o processo discursivo permita que o entendimento se estabelea no apenas entre os sujeitos, mas sobre os mesmos objetos que constituem o referencial semntico da interao. Satisfeitas as condies ideais de comunicao, o acordo obtido pela fora dos melhores argumentos obedece a um critrio de validade objetivo e, por isso, deve ser considerado vlido no somente para os que de fato participaram da comunicao (porque na prtica no  possvel a participao e o acordo de todos os cidados), mas para todos os participantes em potencial, porque so sujeitos racionais. O consenso fundamentado sobre uma norma de ao estratgica que  obtido entre os interessados  capaz de merecer um reconhecimento geral. As regras e formas do discurso prtico geral estabelecem o critrio hipottico de correo dos enunciados normativos. As regras e formas do discurso jurdico, por sua vez, estabelecem o critrio hipottico de correo das proposies jurdicas, inclusive das decises judiciais. Dessa forma, atendidas as regras e formas do discurso pode-se chegar a um consenso, que tambm  hipottico. No entanto,  necessrio perceber que a legitimidade do consenso depende sempre das condies reais e concretas da comunidade de comunicao. As crticas que Karl-otto Apel57 fez s reflexes de Habermas so absolutamente pertinentes. Apel percebe a existncia de duas instncias discursivas distintas: a instncia real de comunicao e a instncia ideal, que  sempre pressuposta pelos participantes do discurso. A validade do consenso exige que o processo argumentativo seja capaz de estabelecer a maior proximidade possvel entre a instncia real e a ideal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Habermas estabeleceu quatro condições de validade do discurso: inteligibilidade, verdade, correção e veracidade. Apel argumenta que há duas instâncias discursivas distintas: a instância real e a ideal. Para que o consenso seja válido, é necessário que haja proximidade entre as duas instâncias.

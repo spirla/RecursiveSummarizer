@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 731) PROCESSO AgRg no RHC 155.813-PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 15/02/2022, DJe 21/02/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Conteudo das interceptacoes telefonicas. Formato escolhido pela defesa. Onus atribuido ao Estado. Inocorrencia. Ilegalidade. Ausencia. DESTAQUE A conversao do conteudo das interceptacoes telefonicas em formato escolhido pela defesa nao e onus atribuido ao Estado. O art. 5, inciso XII, da CF/88 assegura a inviolabilidade das comunicacoes, ressalvando a possibilidade de quebra de sigilo telefonico, por ordem judicial, nas hipoteses e na forma estabelecida pela Lei n. 9.296/1996, para fins de investigacao criminal ou instrucao processual penal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A conversação do conteúdo das interceptações telefônicas em formato escolhido pela defesa não é onus atribuído ao Estado. 2. O art. 5, inciso XII, da CF/88 assegura a inviolabilidade das comunicações, ressalvando a possibilidade de quebra de sigilo telefônico, por ordem judicial, nas hipóteses e na forma estabelecida pela Lei n. 9.296/1996, para fins de investigação criminal ou instrução processual penal.

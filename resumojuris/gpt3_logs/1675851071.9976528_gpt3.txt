@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Marco Aurelio, DJe de 28/06/21) (ARE 1.301.223 AgR-ED, Relato Min. Dias Toffoli, Primeira Turma, DJe 29/04/2022). Conforme orientacao da Sexta Turma do STJ, nao ha que se falar em prescricao da pretensao executoria, porque, ainda que haja, no STF, reconhecimento de repercussao geral - ARE 848.107/DF (Tema n. 788) -, pendente de julgamento, [o] Plenario do Supremo Tribunal Federal, no julgamento do AI 794.971-AgR/RJ (Rel. para acordao Ministro Marco Aurelio, DJe 25/06/2021), definiu que o dies a quo para a contagem da prescricao da pretensao executoria e o transito em julgado para ambas as partes. Assim, por ja ter havido manifestacao do Plenario da Suprema Corte sobre a controversia e em razao desse entendimento estar sendo adotado pelos Ministros de ambas as Turmas do STF, essa orientacao deve passar a ser aplicada nos julgamentos do Superior Tribunal de Justica, uma vez que nao ha mais divergencia interna naquela Corte sobre o assunto (AgRg no RHC 163.758/SC, rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27/06/2022), (AgRg no REsp 2.000.360/PR, rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, DJe de 15/08/2022). (Informativo n. 755) 1377 PROCESSO CC 190.601-PA, Rel. Min. Sebastiao Reis Junior, Terceira Secao, por unanimidade, julgado em 28/09/2022, DJe 30/09/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL, EXECUCAO PENAL TEMA Transferencia de preso para Sistema Penitenciario Federal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O dies a quo para a contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes, conforme manifestação do Plenário do Supremo Tribunal Federal. 2. A orientação do Plenário do STF deve ser aplicada nos julgamentos do Superior Tribunal de Justiça, uma vez que não há mais divergência interna naquela Corte sobre o assunto. 3. A transferência de preso para o Sistema Penitenciário Federal é permitida.

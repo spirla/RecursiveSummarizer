@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No artigo que publicou os resultados de pesquisa, os autores observam que a barganha judicial foi declarada constitucional em 1970 pela Suprema Corte americana, no caso Brady vs Estados Unidos - 397 US 742 - em razo da necessidade de evitar o colapso dos sistemas judiciais, mas tambm observou a necessidade de instituir garantias para que o instituto no seja usado para induzir rus inocentes a admitir falsamente culpa. A Corte entendeu que os acordos somente seriam validos se a admisso da imputao fosse livre, consciente e voluntria, o que significa dizer que a aceitao da imputao no poderia ser induzida por dano fsico real ou ameaado ou, ainda, por coao mental que domine a vontade do acusado. Na Justia Criminal Norte-Americana, contudo, tambm  possvel identificar casos em que responsabilidades penais foram expressivamente atenuadas em prejuzo do que se pode considerar uma resposta justa aos crimes cometidos. Um exemplo marcante de acordo que impediu oferecer uma resposta justa aos crimes cometidos  o acordo que beneficiou Jeffrey Edward Epstein, acusado por pedofilia e trfico de menores para fins explorao sexual. Posteriormente ao acordo e  reao publica, o Departamento de Justia Americano retomou as acusaes contra Jeffrey127 que no chegaram a ser julgadas em razo de sua morte em agosto de 2019128. No que diz respeito s pessoas jurdicas, caso bastante representativo de punies brandas  o acordo que, em 2012129, beneficiou o Banco HSBC em caso de lavagem de dinheiro de organizaes criminosas ligadas ao trfico de drogas e ao terrorismo. A instituio financeira seguiu cometendo crimes e fazendo acordos com o Departamento de Justia Americano. Em dezembro de 2019, o Banco admitiu ajudar os contribuintes americanos a ocultar rendimentos e ativos, pelo que aceitou pagar US $ 192,35 milhes em multas. Os institutos negociais podem ser mal utilizados, tanto para ferir direitos individuais quanto para afastar a devida responsabilidade dos autores de crime. Mas, o desvio de finalidade no  um problema que atinge unicamente os institutos negociais ou uma caracterstica que lhe seja inerente. Lamentavelmente, desvios de finalidade tambm ocorrem nos casos de investigaes e processos criminais que so levados  deciso judicial de mrito. A ocorrncia de eventuais desvios, por si s, no invalida os benefcios produzidos para a administrao da justia criminal pelos institutos negociais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A barganha judicial foi declarada constitucional em 1970, mas deve ser usada com cautela para evitar que se induza a culpa a pessoas inocentes. Exemplos de acordos que impuseram punies brandas a autores de crimes foram o caso Jeffrey Edward Epstein e o Banco HSBC. Os desvios de finalidade também ocorrem nos casos de investigações e processos criminais, mas isso não invalida os benefícios dos institutos negociais para a administração da justiça criminal.

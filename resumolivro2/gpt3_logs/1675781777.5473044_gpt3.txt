@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Embora dotado de conhecimento tcnico, cientfico ou artstico, que traz ao processo informaes especializadas e relacionadas ao objeto da percia, o assistente tcnico no se confunde com o perito,  de confiana da parte e no est sujeito a impedimento e suspeio, enquanto o perito  de confiana do juiz, imparcial, sujeito a suspeio, alm de incorrer em crime de falsa percia (artigo 342 do CP ou 346 do CPM). O assistente tcnico tem atuao parcial, contratado e remunerado pela parte, com o fim de trazer dados tcnicos e cientficos que interessam para convencer o juiz togado ou o Conselho de Justia no sentido de levar  absolvio ou  condenao. As afirmaes do assistente tcnico so avaliadas com as provas judiciais colhidas em contraditrio. Para melhor esclarecer aspectos cientficos de maior profundidade, o assistente tcnico pode fazer uso de meios audiovisuais, de croquis, grficos ou imagens. A omisso legislativa em decorrncia da desatualizao do CPPM, que no prev atuao de assistente tcnico, deve de ser suprida pela legislao do processo penal comum nos termos do artigo 3, a, do CPPM. Percia particular  feita por profissionais especializados, mas que no so nomeados pelo juiz,  diferente do parecer elaborado pelo assistente tcnico sobre a percia oficial. A percia particular  um parecer tcnico. Sustenta Aury Lopes Jnior que esse parecer tcnico deve ser juntado ao processo como um documento a ser avaliado pelo juiz. Para Antonio Scarance Fernandes o parecer tcnico (percia particular) integra as razes da defesa e por isso o juiz deve confront-lo com a percia oficial. 14.2.4.3. Apreciao e valorao do laudo. O sistema do livre convencimento motivado ou da persuaso racional adotado pelo Cdigo Processual Penal Militar confere ao juiz liberdade de apreciao do laudo no artigo 326 O juiz no ficar adstrito ao laudo, podendo aceit-lo ou rejeit-lo, no todo ou em parte. Assim o juiz tem inteira liberdade de apreciao em aceitar ou rejeitar o laudo. O magistrado pode afastar, fundamentadamente, as concluses de laudo pericial, com base nos demais elementos probatrios constantes dos autos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O assistente tcnico é contratado e remunerado pela parte para trazer informações especializadas relacionadas ao objeto da perícia. Ele não é imparcial como o perito, e suas afirmações são avaliadas com as provas judiciais colhidas. O juiz tem liberdade de aceitar ou rejeitar o laudo, podendo afastar as conclusões com base nos demais elementos probatórios.

@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+H diferena de grau e intensidade entre a coisa julgada formal, que ocorre se no houver mais recurso para ser interposto contra a deciso proferida, e a precluso que  a perda de um direito no exercido em tempo oportuno. Tem trs espcies de precluso:
+a) temporal, quando oriunda do no exerccio da faculdade, poder ou direito processual no prazo temporal, por exemplo, a defesa tem prazo de cinco depois de ouvida a ltima testemunha da acusao para indicar suas testemunhas (artigo 417, pargrafo 2, CPPM);
+b) lgica, quando decorrente da incompatibilidade da prtica de um ato processual com relao a outro j praticado;
+c) consumativa, quando a faculdade j foi validamente exercida. A coisa julgada material  a qualidade dos efeitos imutveis da sentena irrecorrvel, que se irradiam para fora do processo, proibindo outra deciso sobre a mesma causa. No primeiro momento, a sentena tem que se tornar imutvel dentro processo (coisa julgada formal), para que os efeitos que a sentena tenha produzido tambm se tornam imutveis (coisa julgada material). Leciona Rogerio Schietti Machado Cruz que:
+Com o trnsito em julgado da sentena condenatria, o ato adquire a autoridade de coisa julgada, tornando-se imutvel tanto no processo em que veio a ser proferida a deciso (coisa julgada formal) quanto em qualquer outro processo onde se pretenda discutir o mesmo fato criminoso objeto da deciso original (coisa julgada material). No direito brasileiro, a sentena condenatria evita que se instaure novo processo contra o ru condenado, em razo do mesmo fato, quer para impingir ao sentenciado acusao mais gravosa, quer para aplicar-lhe pena mais elevada. A coisa julgada penal est diretamente ligada  garantia de que ningum poder ser processado duas vezes pelo mesmo fato:
+ne bis in idem. A exceo da coisa julgada somente cabe em relao  coisa julgada material.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A coisa julgada formal é a decisão proferida que não pode mais ser recorrida, enquanto a preclusão é a perda de um direito não exercido em tempo oportuno. Existem três tipos de preclusão: temporal, lógica e consumativa. A coisa julgada material é a qualidade dos efeitos imutáveis da sentença irrecorrível, que se aplica a outros processos. No direito brasileiro, a sentença condenatória impede que se instaure um novo processo contra o réu pelo mesmo fato, com exceção da coisa julgada material.

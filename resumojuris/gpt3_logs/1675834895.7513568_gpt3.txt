@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A partir do panorama jurisprudencial delineado, nota-se que as regras de prescricao estabelecidas no CC nao tem incidencia quando a demanda envolver empresa estatal prestadora de servicos publicos essenciais, nao dedicada a exploracao de atividade economica com finalidade lucrativa e natureza concorrencial. Com efeito, em tais casos, aplica-se a prescricao quinquenal do Decreto n. 20.910/1932, por se tratar de entidade que, conquanto dotada de personalidade juridica de direito privado, faz as vezes do proprio ente politico ao qual se vincula e, com isso, pode, em certa medida, receber tratamento assemelhado ao de Fazenda Publica. (Informativo n. 753) 162 PROCESSO AREsp 1.325.652-RJ, Rel. Min. Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 4/10/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO PREVIDENCIARIO, DIREITO PROCESSUAL CIVIL TEMA Acao civil publica. Ministerio Publico Federal. Ingerencia judicial no liame entre assistidos e entidade de previdencia complementar. Proibicao de concessao de novos beneficios e cancelamento de beneficios complementares. Direitos individuais homogeneos. Relevancia social. Inexistencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As regras de prescrição estabelecidas no Código Civil não têm incidência quando a demanda envolver empresa estatal prestadora de serviços públicos essenciais, não dedicada à exploração de atividade econômica com finalidade lucrativa e natureza concorrencial. 2. Em tais casos, aplica-se a prescrição quinquenal do Decreto n. 20.910/1932, por se tratar de entidade que, conquanto dotada de personalidade jurídica de direito privado, faz as vezes do próprio ente político ao qual se vincula e, com isso, pode, em certa medida, receber tratamento assemelhado ao de Fazenda Pública.

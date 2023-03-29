@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A doutrina identifica como exemplos de escusa absolutria a imunidade penal absoluta, prevista para os crimes patrimoniais, artigos 181, I e II, e 183 do CP, bem como a iseno de pena no favorecimento pessoal, artigo 348, pargrafo 2, do CP. A imunidade penal concedida em favor dos filhos, quando praticam crimes patrimoniais sem violncia ou grave ameaa contra os pais, no impede o juzo de reprovabilidade da culpabilidade. Subtrair o automvel do prprio pai  reprovvel (pode-se dizer at mais que reprovvel), entretanto, com a finalidade de preservar a instituio familiar, o legislador estabeleceu a imunidade do artigo 181 do CP. Ao empregar a expresso  isento de pena no artigo 181, o legislador no se referiu  culpabilidade, mas  coero penal. A iseno de pena prevista no artigo 348, pargrafo 2, por sua vez, est ligada  culpabilidade. No se pode exigir conduta diversa do pai que auxilia o filho a subtrair-se  ao da autoridade pblica que o persegue por ser autor de crime ao qual  cominada pena de recluso. Nesse caso, a iseno de pena decorre da exculpao. Os exemplos bem demonstram que a exculpao  causa de inoperatividade da coero penal, mas no a nica. No artigo 107, o Cdigo Penal descreve as causas gerais de extino da responsabilidade que expressamente impedem a operatividade da coero penal. Passemos, ento, em revista cada uma delas. 21.2. Morte do sujeito. A primeira das causas excludentes da responsabilidade previstas no Cdigo Penal  a morte do sujeito. A morte do sujeito  a nica causa natural de extino da responsabilidade, sendo todas as demais causas jurdicas. Um exame precipitado poderia levar  concluso de que o legislador teria se preocupado com o bvio. Mas no  bem isso que acontece.  possvel que determinado ordenamento jurdico-repressivo imponha penas que atinjam diretamente outras pessoas que no o condenado. As penas infamantes de que foram vtimas os filhos e netos do Alferes Tiradentes  exemplo marcante dessa possibilidade. Nos dias atuais, a legislao repressiva brasileira no permite a aplicao de pena em relao a pessoas que no foram condenadas.  a consagrao do princpio da personalidade das penas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina identifica como exemplos de escusa absolutria a imunidade penal absoluta prevista para crimes patrimoniais, bem como a iseno de pena no favorecimento pessoal. A morte do sujeito é a única causa natural de extinção da responsabilidade, sendo todas as demais causas jurdicas. A legislação repressiva brasileira não permite a aplicação de pena em relação a pessoas que não foram condenadas, consagrando o princípio da personalidade das penas.

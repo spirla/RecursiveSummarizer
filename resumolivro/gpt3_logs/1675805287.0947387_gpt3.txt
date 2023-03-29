@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+244 ARAUJO JUNIOR, Gediel Claudino de. Pratica no processo civil: cabimento / acoes diversas, competncia, procedimentos, peticoes, modelos. p. 720. 245 THEODORO JUNIOR, Humberto. Curso de Direito Processual Civil - vol. III. p. 1189. 246 O principio da proibicao da reformatio in pejus incidira, tambem, no instituto da anulacao de punicao, conforme comentarios ao artigo 48 deste Codigo. 247 O mesmo se aplica ao artigo 34, I, do CEDM. 248 Conforme veremos nos comentarios ao artigo 90, ao final de um PAD, havendo a aplicacao de sancao diversa da demissao, a prescricao da pretensao punitiva sera de 2 anos. 249 TJM-MG: Apelacao - Proc. 1000057-55.2015.9.13.0001, Rel. Juiz Cel PM James Ferreira Santos, julgamento 26/10/2017.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da proibição da reformatio in pejus incide tanto no instituto da anulação de punição quanto no artigo 34, I, do CEDM. Após o PAD, a prescrição da pretensão punitiva é de 2 anos. TJM-MG: Apelação - Proc. 1000057-55.2015.9.13.0001, Rel. Juiz Cel PM James Ferreira Santos, julgamento 26/10/2017.

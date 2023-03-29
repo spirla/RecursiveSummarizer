@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 860508/SP, relator Min. Marco Aurelio, julgamento virtual finalizado em 6.3.2021 (INF 1008) 14.3 EXECUCAO Legitimidade para executar multa por danos causados a erario municipal - RE 1003433/RJ (Tema 642 RG) Tese fixada: O Municipio prejudicado e o legitimado para a execucao de credito decorrente de multa aplicada por Tribunal de Contas estadual a agente publico municipal, em razao de danos causados ao erario municipal. Resumo: Os estados nao tem legitimidade ativa para a execucao de multas aplicadas, por Tribunais de Contas estaduais, em face de agentes publicos municipais, que, por seus atos, tenham causado prejuizos a municipios. Se a multa aplicada pelo Tribunal de Contas decorre da pratica de atos que causaram prejuizo ao erario municipal, o legitimado ativo para a execucao do credito fiscal e o municipio lesado, e nao o estado. Entendimento diverso caracterizaria hipotese de enriquecimento sem causa. Com base nesse entendimento, o Plenario, por maioria, ao julgar o Tema 642 da RG, negou provimento a recurso extraordinario. Vencidos os ministros Marco Aurelio (relator) e Edson Fachin. RE 1003433/RJ, relator Min. Marco Aurelio, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 14.9.2021 (terca-feira), as 23:59 (INF 1029) 14.4 EXECUCAO CONTRA A FAZENDA PUBLICA Requisicao de pequeno valor e prazo para pagamento - ADI 5534/DF Resumo: Os Estados e o Distrito Federal devem observar o prazo de dois meses, previsto no art. 535,  3, II, do CPC (CPC), para pagamento de obrigacoes de pequeno valor. Isso porque a autonomia expressamente reconhecida na CF/88 (CF) e na jurisprudencia do Supremo Tribunal Federal aos Estados-membros em materia de RPV restringe-se a fixacao do valor-teto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Município prejudicado é o legitimado para a execução de crédito decorrente de multa aplicada por Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal. 2. Os Estados não têm legitimidade ativa para a execução de multas aplicadas, por Tribunais de Contas estaduais, em face de agentes públicos municipais, que, por seus atos, tenham causado prejuízos aos municípios. 3. Os Estados e o Distrito Federal devem observar o prazo de dois meses, previsto no art. 535, § 3º, II, do CPC, para pagamento de obrigações de pequeno valor.

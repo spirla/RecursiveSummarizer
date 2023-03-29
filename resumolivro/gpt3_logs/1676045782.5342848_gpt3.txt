@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A percepo da ilicitude dos crimes dolosos verifica-se, de maneira direta, pelo juzo de comparao entre a conduta e a norma proibitiva. J a ilicitude dos crimes culposos surge da leso ao cuidado objetivo necessrio ao regular desenvolvimento da conduta. A violao ao dever de cuidado est sempre ligada  possibilidade de leso ao bem jurdico, e o conhecimento da ilicitude do fato, nessas hipteses, significa possibilidade individual de conhecer a relao existente entre a violao ao dever de cuidado e a leso ao bem jurdico. Nesse sentido, Juarez Tavares108 esclarece:
+Nos crimes culposos, o conhecimento do injusto reduz-se  conscincia das exigncias objetivas de cuidado, como verdadeiro dever jurdico. Essa conscincia tanto pode ser atual quanto potencial. Na negligncia consciente vigora normalmente o conhecimento atual desse dever jurdico. Na negligncia inconsciente, porm, basta que o sujeito tenha podido reconhec-lo como dever jurdico. Nos crimes de resultado  de se exigir, ainda, que o sujeito tenha podido saber que o resultado que causaria ou causou era reprovado pela ordem jurdica. Considerando a finalidade criminosa como objeto de valorao da culpabilidade, pode-se concluir que se a pessoa decidiu violar a norma de cuidado, estando consciente de que havia a possibilidade da produo de um resultado ilcito, a exigibilidade social de absteno da conduta perigosa  maior do que na situao em que a pessoa fez atuar sua finalidade sem atingir tal conscincia, quando lhe era possvel atingi-la. Dito de outro modo,  finalidade consciente do carter ilcito do fato corresponde maior exigibilidade social de comportamento diverso e, portanto, reprovao mais severa. 8.9. Exculpao. Estando a reprovao da pessoa fsica intimamente relacionada com o critrio da exigibilidade de conduta diversa, sempre que for inexigvel do indivduo outro comportamento, restar excluda a reprovao jurdica e, consequentemente, a responsabilidade criminal. No estgio atual, a doutrina reconhece ser possvel a excluso da responsabilidade, pela inexigibilidade de outro comportamento, nos casos de incapacidade psquica; incompreenso da ilicitude do fato; coliso de deveres; coao irresistvel; obedincia  ordem de superior hierrquico e estado de necessidade. Vale observar, no entanto, que, sendo a inexigibilidade um princpio geral de Direito, outras hipteses podem ser acrescidas a essas para excluir a responsabilidade. 8.9.1. Inexigibilidade por incapacidade psquica: inimputabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ilicitude dos crimes dolosos verifica-se pelo juízo de comparação entre a conduta e a norma proibitiva, enquanto a ilicitude dos crimes culposos surge da lesão ao cuidado objetivo necessário ao regular desenvolvimento da conduta. A inexigibilidade da responsabilidade criminal é reconhecida nos casos de incapacidade psquica, incompreensão da ilicitude do fato, colisão de deveres, coação irresistível, obediência à ordem de superior hierárquico e estado de necessidade.

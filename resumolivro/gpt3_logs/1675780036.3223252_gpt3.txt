@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+72 Situacao semelhante e que serve de parmetro de tratamento ofensivo, que e o tratamento judicial conferido ao ato ilicito, se extrai da publicacao, em 21/08/17, no portal Ultimo Segundo - iG, da seguinte noticia: O governo de Goias foi condenado a pagar R$ 10 mil de indenizacao por danos morais a uma mulher que, apos tentativa de suicidio, teve o boletim de ocorrncia divulgado por integrantes do Corpo de Bombeiros em grupos no aplicativo WhatsApp. A decisao foi tomada pelo juiz Rodrigo Foureaux, (...). Segundo os autos, a mulher recebeu atendimento do Corpo de Bombeiros depois de uma tentativa de suicidio (...). Alguns dias apos o fato, verificou a existncia de diversas mensagens no WhatsApp com uma imagem do resumo da ocorrncia. A cidada, entao, entrou com um processo reivindicando reparacao por danos morais, alegando que a divulgacao do boletim de ocorrncia gerou danos a sua imagem, tendo sofrido constrangimentos, adquirindo imagem de suicida perante a sociedade. (...) De acordo com o magistrado, no caso em questao ha a colisao entre dois direitos fundamentais contrapostos, o direito a intimidade, a vida privada, a honra e a imagem do individuo e a liberdade de expressao e de informacao. (...). Afirmou que nao houve nenhum fundamento relevante que autorizasse a divulgacao das imagens. (em: <http://ultimosegundo.ig.com.br/brasil/2017-08-21/whatsapp.html>)
+73 Ressalta-se que a ocorrncia da transgressao do artigo 13, V, afasta a incidncia da transgressao do artigo 15, III. Nesse sentido, vide comentarios ao artigo 21, II, do presente Codigo. 74 Sobre a causa supralegal de exclusao de culpabilidade, caracterizada pela inexigibilidade de conduta diversa, vide os comentarios ao artigo 19 deste Codigo. 75 Retorsao imediata e uma resposta incontinenti a uma ofensa e com o mesmo grau de ofensividade. Nessa mesma linha, conforme veremos nos comentarios ao artigo 15, III, a falta de educacao tambem admite a retorsao imediata, por inexigibilidade de conduta diversa. 76 Artigo 140 (...)
+Paragrafo 1 - O juiz pode deixar de aplicar a pena:
+- quando o ofendido, de forma reprovavel, provocou diretamente a injuria;
+- no caso de retorsao imediata, que consista em outra injuria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O governo de Goiás foi condenado a pagar R$ 10 mil de indenizacão por danos morais a uma mulher que teve o boletim de ocorrência divulgado por integrantes do Corpo de Bombeiros em grupos no aplicativo WhatsApp. O juiz afirmou que houve colisão entre dois direitos fundamentais contrapostos e que não houve nenhum fundamento relevante que autorizasse a divulgação das imagens. O artigo 140 do Código Penal prevê que o juiz pode deixar de aplicar a pena quando o ofendido, de forma reprovavel, provocou diretamente a injúria ou no caso de retorsão imediata.

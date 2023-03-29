@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, o acusado, na condicao de proprietario e administrador da empresa, deixou de efetuar, no prazo legal, o recolhimento de Imposto sobre Circulacao de Mercadorias e Servicos - ICMS cobrado de consumidores, locupletando-se ilicitamente mediante este tipo de apropriacao de valores e em prejuizo do Estado, conforme declarado pelo sujeito passivo da obrigacao nas DIMEs (Declaracoes do ICMS e do Movimento Economico) dos meses de marco, maio, julho, outubro e dezembro de 2012 e dezembro de 2013. A conduta acima descrita seria tipica pelo seu aspecto formal. Contudo, o Superior Tribunal de Justica firmou o entendimento de ser necessario, para a condenacao, a demonstracao da contumacia e do dolo de apropriacao, circunstancias nao identificaveis na especie. Ha de se levar em consideracao o dolo com a imprescindivel consideracao do elemento subjetivo especial de sonegar, qual seja, a vontade de se apropriar dos valores retidos, omitindo o cumprimento do dever tributario com a intencao de nao os recolher. 760 O dolo de nao recolher o tributo, de maneira generica, nao seria suficiente para preencher o tipo subjetivo do art. 2, II, da Lei n. 8.137/1990. E necessaria a presenca de uma vontade de apropriacao fraudulenta dos valores do Fisco para materializar o elemento subjetivo especial do tipo em comento. Esse animo manifesta-se pelo ardil de omitir e/ou alterar os valores devidos e se exclui com a devida declaracao da especie tributaria junto aos orgaos de administracao fiscal. Na situacao em exame, inexiste imputacao de fraude. Dessa forma, no caso em analise, o nao pagamento do tributo por seis meses aleatorios nao e circunstancia suficiente para demonstrar a contumacia nem o dolo de apropriacao. Ou seja, nao se identifica, em tais condutas, haver sido a sonegacao fiscal o recurso usado pelo empresario para financiar a continuidade da atividade em beneficio proprio, em detrimento da arrecadacao tributaria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário demonstrar a contumácia e o dolo de apropriação para a condenação do acusado. 2. O dolo de não recolher o tributo, de maneira genérica, não é suficiente para preencher o tipo subjetivo do art. 2, II, da Lei n. 8.137/1990. 3. É necessário a presença de uma vontade de apropriação fraudulenta dos valores do Fisco para materializar o elemento subjetivo especial do tipo. 4. Não se identifica, em tais condutas, haver sido a sonegação fiscal o recurso usado pelo empresário para financiar a continuidade da atividade em benefício próprio, em detrimento da arrecadação tributária.

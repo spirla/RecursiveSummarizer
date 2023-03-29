@@ -1,0 +1,27 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Justia Militar da Unio. 8.2.1. Organizao da Justia Militar da Unio. So rgos da Justia Militar o Superior Tribunal Militar e os Tribunais e Juzes Militares institudos por lei (artigo 122, I e II, CF). O STM, conforme estatui o artigo 123 e o pargrafo nico da CF, tem composio mista de dez ministros militares, trs da Marinha, quatro do Exrcito e trs da Aeronutica, oficiais-generais da ativa e do posto mais elevado da carreira, e de cinco ministros civis, brasileiros maiores de trinta e cinco anos, sendo trs dentre os advogados de notrio saber jurdico e conduta ilibada, com mais de dez anos de efetiva atividade profissional e dois, por escolha paritria, dentre os juzes federais e membros do Ministrio Pblico Militar. Os ministros militares e civis so nomeados pelo Presidente da Repblica, depois de aprovada a indicao pelo Senado Federal. Determina a Constituio que a lei dispor sobre a organizao, o funcionamento e a competncia da Justia Militar (artigo 124, pargrafo nico). A Justia Militar da Unio  organizada pela Lei 8.457/92, denominada de Lei de Organizao da Justia Militar da Unio (LOJMU). A primeira instncia  dividida em 12 (doze) Circunscries Judicirias compostas por Auditorias Militares. As doze Circunscries Judicirias Militares esto assim divididas:
+a) a 1 - estados do Rio de Janeiro e Esprito Santo;
+b) a 2 - estado de So Paulo;
+c) a 3 - estado do Rio Grande do Sul;
+d) a 4 - estado de Minas Gerais;
+e) a 5 - estados do Paran e Santa Catarina;
+f) a 6 - estados da Bahia e Sergipe;
+g) a 7 - estados de Pernambuco, Rio Grande do Norte, Paraba e Alagoas;
+h) a 8 - estados do Par, Amap e Maranho;
+i) a 9 - estados do Mato Grosso do Sul e Mato Grosso;
+j) a 10 - estados do Cear e Piau;
+l) a 11 - Distrito Federal e estados de Gois e Tocantins;
+m) a 12 - estados do Amazonas, Acre, Roraima e Rondnia. O artigo 11 da Lei 8.452/92 prev que cada Circunscrio Judiciria Militar (CJM) corresponde a 1 (uma) Auditoria, excetuadas a 1 CJM que ter 4 (quatro) Auditorias, a 3 CJM 3 (trs) Auditorias e a 2 e a 11 CJM 2 (duas) Auditorias.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar da Unio organizada pela Lei 8.457/92 e composta pelo Superior Tribunal Militar e Tribunais e Juzes Militares. O STM tem composio mista de dez ministros militares e cinco ministros civis, nomeados pelo Presidente da República. A Justia Militar da Unio dividida em 12 Circunscrições Judicirias, cada uma com uma Auditoria, exceto a 1ª, 3ª, 2ª e 11ª Circunscrição, que têm 4, 3, 2 e 2 Auditorias, respectivamente.

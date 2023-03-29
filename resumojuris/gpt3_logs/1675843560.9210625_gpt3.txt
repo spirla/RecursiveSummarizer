@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Impossibilidade. Principio da especialidade. DESTAQUE A fraude praticada por beneficiario da Lei Rouanet, com reducao de imposto de renda, configura o crime previsto no art. 40 da Lei n. 8.313/1991, nao sendo possivel desclassificacao para o delito de estelionato majorado (art. 171, 3, CP), ante o principio da especialidade. 780 Na denominada Operacao Boca Livre foram investigadas praticas de ilicitos penais na contratacao e execucao de projetos culturais aprovados pelo Ministerio da Cultura, com base na Lei Rouanet, as quais se caracterizariam por desvios de recursos publicos, com a inexecucao (total ou parcial) desses projetos, por meio de organizacao criminosa, com a participacao de diversos colaboradores e de empresas patrocinadoras, tudo em troca da obtencao de vantagens indevidas. A controversia cinge-se a definir a correta capitulacao juridica dada aos fatos. Para tanto, distingue-se, inicialmente, os delitos previstos nos arts. 171,  3, do CP e 40, caput e  2, da Lei n. 8.313/1991. No estelionato, a vantagem obtida por meio de fraude em prejuizo alheio pode ser qualquer uma que tenha conteudo patrimonial. Ja no crime previsto no art. 40 da Lei Rouanet, a vantagem obtida com a fraude e previamente estabelecida (reducao do imposto de renda) e o autor somente pode ser a pessoa que se beneficiou com o incentivo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O crime previsto no art. 40 da Lei n. 8.313/1991 configura a fraude praticada por beneficiário da Lei Rouanet, com redução de imposto de renda. 2. Não é possível desclassificação para o delito de estelionato majorado (art. 171, 3, CP), ante o princípio da especialidade. 3. No estelionato, a vantagem obtida por meio de fraude em prejuízo alheio pode ser qualquer uma que tenha conteúdo patrimonial. 4. No crime previsto no art. 40 da Lei Rouanet, a vantagem obtida com a fraude é previamente estabelecida (redução do imposto de renda) e o autor somente pode ser a pessoa que se beneficiou com o incentivo.

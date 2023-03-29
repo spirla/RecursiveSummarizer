@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Substituicao por medidas cautelares alternativas. Possibilidade. Constrangimento ilegal caracterizado. DESTAQUE A mera imputacao da pratica dos crimes previstos na Lei n. 12.850/2013, em decorrencia de operacao envolvendo compra ou venda de criptomoedas, por si so, nao justifica a imposicao automatica da custodia prisional. A hipotese trata de imputacao pela pratica, em tese, das infracoes previstas nos arts. 4, caput, 7, II, III e IV, e 16 da Lei n. 7.492/1986 e 2,  4, III e V, da Lei n. 12.850/2013, em decorrencia da Operacao Kryptos. Narra a denuncia que a empresa administrada pelos reus ofertava contratos de investimento coletivo em criptomoedas sem registro na CVM, mediante a promessa de retorno mensal fixo de 10% bruto sobre o capital em moeda nacional investido, com resgate apos prazo estipulado em contrato. Cumpre destacar que as criptomoedas nao dispoem ainda de regulamentacao propria da Comissao de Valores Mobiliarios (CVM) ou do Banco Central (BACEN), pairando duvidas quanto a natureza das operacoes realizadas pelos denunciados e, por consequencia, quanto a propria tipicidade das condutas em apuracao. Nesse sentido, nao se trata de fraude contra investidores ou de estelionato, mas sim de captacao de recursos para aplicacao em ativos de criptomedas, que ainda nao estao regulamentados no Brasil. Esse entendimento, a proposito, alinha-se a conclusao a que chegou a Terceira Secao do STJ no julgamento do CC n. 161.123/SP (relator Ministro Sebastiao Reis Junior, DJe de 05/12/2018), no sentido de que a operacao envolvendo compra ou venda de criptomoedas nao encontra regulacao no ordenamento juridico patrio, pois as moedas virtuais nao sao tidas pelo Banco Central do Brasil (BCB) como moeda, nem sao consideradas como valor mobiliario pela Comissao de Valores Mobiliarios (CVM), nao caracterizando sua negociacao, por si so, os crimes tipificados nos arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A mera imputação da prática dos crimes previstos na Lei n. 12.850/2013, em decorrência de operação envolvendo compra ou venda de criptomoedas, por si só, não justifica a imposição automática da custódia prisional. 2. As criptomoedas não dispõem ainda de regulamentação própria da Comissão de Valores Mobiliários (CVM) ou do Banco Central (BACEN). 3. Não se trata de fraude contra investidores ou de estelionato, mas sim de captação de recursos para aplicação em ativos de criptomoedas. 4. A operação envolvendo compra ou venda de criptomoedas não encontra regulação no ordenamento jurídico patrio, pois as moedas virtuais não são tidas pelo Banco Central do Brasil (BCB) como moeda, nem são consideradas como valor mobiliário pela Comissão de Valores Mobiliários (CVM).

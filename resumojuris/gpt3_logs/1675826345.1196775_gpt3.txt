@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+28-A,  14, do CPP determina a iniciativa da defesa para requerer a sua aplicacao. Com base nesse entendimento, a Segunda Turma concedeu parcialmente a ordem, para determinar a remessa dos autos a Camara de Revisao do Ministerio Publico Federal, a fim de que seja apreciado o ato que negou a oferta de ANPP. Vencido, parcialmente, o ministro Ricardo Lewandowski, que concedia a ordem em maior extensao. HC 194677/SP, relator Min. Gilmar Mendes, julgamento em 11.5.2021 (INF 1017) 16.2 AUDIENCIA DE CUSTODIA Manifesta e grave ilegalidade na ausencia de realizacao de audiencia de custodia - HC 202579 AgR/ES e HC 202700 AgR/SP Resumo: A superveniencia da realizacao da audiencia de instrucao e julgamento nao torna superada a alegacao de ausencia de audiencia de custodia. A audiencia de custodia tem finalidades sistemicas totalmente distintas daquelas desempenhadas pela audiencia de instrucao e julgamento. A audiencia de custodia possui limitacoes, pois nao se pode antecipar o julgamento de merito do processo com aprofundamento instrutorio. Contudo, tendo-se em vista que no ato ha um contato da defesa com um juiz, deve-se dar primazia ao exercicio do contraditorio de modo oral e com imediacao, para controle da legalidade da prisao e especial atencao a revisao de ilegalidades manifestas. Ainda que eventualmente questoes sobre a prisao ou eventuais abusos possam ser levantadas pelas partes na audiencia de instrucao, deve-se perceber que tais questoes seriam objeto de analise incidental, e nao o tema central da audiencia a ser submetido ao contraditorio. A depender da inercia das partes, esses pontos podem nem mesmo ser abordados. Alem disso, aceitar a superacao da necessidade de realizacao da audiencia de custodia pelo transcurso do prazo e a ocorrencia da audiencia de instrucao findaria por transmitir uma mensagem distorcida aos operadores do sistema criminal, no sentido da desnecessidade da medida.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 28-A, inciso 14, do Código de Processo Penal determina a iniciativa da defesa para requerer a sua aplicação. 2. A Segunda Turma concedeu parcialmente a ordem, para determinar a remessa dos autos a Câmara de Revisão do Ministério Público Federal, a fim de que seja apreciado o ato que negou a oferta de ANPP. 3. A superveniência da realização da audiência de instrução e julgamento não torna superada a alegação de ausência de audiência de custódia. 4. A audiência de custódia possui limitações, pois não se pode antecipar o julgamento de mérito do processo com aprofundamento instrutório. 5. A depender da inércia das partes, questões sobre a prisão ou eventuais abusos podem nem mesmo ser abordados na audiência de instrução. 6. Aceitar a superação da necessidade de realização da audiência de custódia pelo transcurso do prazo e a ocorrência da audiência de instrução findaria por transmitir uma mensagem distorcida aos operadores do sistema criminal, no sentido da desnecessidade da medida.

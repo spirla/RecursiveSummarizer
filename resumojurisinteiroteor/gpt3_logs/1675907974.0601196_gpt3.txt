@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+INEXISTNCIA. ORDEM DE HABEAS CORPUS DENEGADA. 1. Paciente pronunciado como incurso no art. 121, 2, incisos I, III, IV e V, c.c art. 347, ambos do Cdigo Penal, por matar a vtima desarmada com quatro disparos de arma de fogo nas costas, para assegurar a impunidade de crime anterior. 2. O art. 427 do Cdigo de Processo Penal no comporta interpretao ampliativa, de modo que o deslocamento de competncia por desaforamento dar-se- to-somente para julgamento pelo Tribunal Popular, preservada a competncia do Juzo originrio. Assim, insubsistente a tese de ilegitimidade do Ministrio Pblico da Comarca de origem para apelar do veredicto absolutrio, porque no participou do julgamento plenrio. 3 A tempestividade do recurso de apelao acusatrio impugnado foi reconhecida consoante a orientao da Terceira Seo do Superior Tribunal de Justia, firmada sob o rito dos recursos especiais repetitivos, (Tema n. 959/STJ), no sentido que: "O termo inicial da contagem do prazo para impugnar deciso judicial , para o Ministrio Pblico, a data da entrega dos autos na repartio administrativa do rgo, sendo irrelevante que a intimao pessoal tenha se dado em audincia, em cartrio ou por mandado. 4. No mais, controvrsia se resume a possibilidade de o Tribunal de Segundo grau, diante da soberania dos veredictos do Tribunal do Jri, determinar a realizao de novo jri em julgamento de recurso interposto contra absolvio assentada no quesito genrico, ante suposta contrariedade  prova dos autos, questo que  objeto de dissenso jurisprudencial e, inclusive, foi recentemente afetada pelo Supremo Tribunal Federal no rito da repercusso geral (Tema 1087). 5.  certo que o art. 483, inciso III, do Cdigo de Processo Penal, traduz uma liberalidade em favor dos jurados, os quais, soberanamente, podem absolver o acusado mesmo aps terem reconhecido a materialidade e autoria delitivas, e mesmo na hiptese de a nica tese sustentada pela Defesa ser a de negativa de autoria. Contudo, entendo que referido juzo absolutrio no se reveste de carter absoluto, podendo ser afastado, sem ofensa  soberania dos vereditos, quando reste evidenciado que o decisum distancia-se, por completo, dos fatos constantes dos autos, mostrando-se manifestamente contrrio s provas colhidas. 6. Pela leitura do acrdo impugnado, constata-se no haver a indicao de nenhum elemento probatrio que desse suporte  tese defensiva de negativa de autoria ou de legtima defesa, considerando os meios utilizados pelo Ru, autor material do assassinato. Sendo assim, no houve ilegalidade na anulao do julgamento proferido pelo Tribunal do Jri.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ordem de Habeas Corpus foi denegada, pois não houve ilegalidade na anulação do julgamento proferido pelo Tribunal do Júri, uma vez que não havia elementos probatórios que dessem suporte à tese defensiva de negativa de autoria ou de legítima defesa, considerando os meios utilizados pelo Réu, autor material do assassinato.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, as leis estaduais impugnadas  ao presumirem o risco das atividades e a necessidade do por-te de armas de fogo para as pessoas acima referidas  suprimiram requisito estabelecido pela legislacao fede-ral, segundo a qual o exame para a concessao da respectiva autorizacao cabe a Policia Federal. Ademais, inexiste lei complementar da Uniao autorizando os estados-membros a legislarem sobre questoes especificas acerca da materia. Com base nesse entendimento, o Plenario, por unanimidade, em apreciacao conjunta, converteu as medidas cautelares em julgamento de merito e julgou procedentes as acoes para declarar a inconstitucionalida-de da Leis 3.941/2022 e 3.942/2022, ambas do Estado do Acre, e da Lei 5.835/2022 do Estado do Amazo-nas. ADI 7188/AC, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 23.9.2022 (sexta-feira), as 23:59 (INF 1069) ADI 7189/AM, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 23.9.2022 (sexta-feira), as 23:59 (INF 1069) Prestacao e divulgacao de contas de sindicatos: exigencia por lei distrital - ADI 5349/DF Resumo: E inconstitucional, por violar o art. 22, I, da CF/88, norma distrital que obriga os sindicatos a divulgarem na internet a prestacao de contas das verbas recebidas a titulo de contribuicao confederati-va, sindical e de outros recursos recebidos do Distrito Federal. No caso, a lei impugnada, ao impor, de maneira ampla, nova obrigacao aos sindicatos, invade com-petencia legislativa privativa da Uniao, pois guarda pertinencia com o direito coletivo do trabalho, assim como  sob um prisma mais abrangente  o direito civil, enquanto entidades associativas. Nao se admite que ente federativo diverso imponha especie de obrigacao tributaria acessoria a entes destinatarios de exacao. As contribuicoes recebidas pelos sindicatos tem natureza tributaria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a lei estadual que presume o risco das atividades e a necessidade do porte de armas de fogo para as pessoas acima referidas, suprimindo o requisito estabelecido pela legislação federal, segundo a qual o exame para a concessão da respectiva autorização cabe à Polícia Federal. 2. É inconstitucional a norma distrital que obriga os sindicatos a divulgarem na internet a prestação de contas das verbas recebidas a título de contribuição confederativa, sindical e de outros recursos recebidos do Distrito Federal, pois invade competência legislativa privativa da União. 3. Não se admite que ente federativo diverso imponha espécie de obrigação tributária acessória a entes destinatários de exação, pois as contribuições recebidas pelos sindicatos têm natureza tributária.

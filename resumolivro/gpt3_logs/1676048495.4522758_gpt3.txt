@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os desvios devem ser evitados e, uma vez constatada a sua ocorrncia, os responsveis devem ser punidos nos termos da lei. Apesar dos problemas, o sistema penal norte-americano tem influenciado pases europeus e latino-americanos  permitir a participao do acusado na administrao da justia criminal e a adoo de prticas negociais. Cabe observar que o acordo de no persecuo penal materializa opo poltico-criminal de combate rpido e proporcional aos crimes que apresentam mdia gravidade. Tambm no se pode esquecer que, no Brasil, o acordo de no persecuo penal, como todos os demais institutos negociais, est submetido ao controle de legalidade do Poder Judicirio. 12.5.3. Pressupostos do acordo de no persecuo penal. O acordo de no persecuo penal pressupe que o Ministrio Pblico tenha elementos suficientes para a propositura de uma ao penal de conhecimento e que as medidas a serem impostas no acordo constituam respostas necessrias e suficientes  prtica dos crimes. 12.5.3.1. Elementos para a propositura de ao penal. A premissa fundamental para a realizao do acordo de no persecuo penal  que, no caso concreto, exista um lastro probatrio mnimo para o oferecimento de denncia pelo rgo do Ministrio Pblico. Nesse sentido, o artigo 28-A do CPP  expresso ao dispor que o acordo de no persecuo penal somente ter lugar quando no for o caso de arquivamento do procedimento investigatrio. Se for o caso de arquivamento do procedimento investigatrio, por inexistncia de um lastro probatrio mnimo sobre a prtica de um crime ou por ausncia de punibilidade concreta para o investigado e a pessoa jurdica responsvel pelo crime ambiental, se for o caso, o procedimento deve ser arquivado sem a realizao de acordo. O acordo somente poder ser firmado quando o Ministrio Pblico tiver condies concretas para realizar a persecuo penal em juzo. No  possvel admitir que o Ministrio Pblico utilize uma proposta de acordo para conseguir uma confisso de autoria que venha a esclarecer uma investigao que ainda no possui condies de apontar indiciados. 12.5.3.2. No ser o caso de perseguir a aplicao da pena privativa de liberdade. O acordo de no persecuo no permite ajustar que o suposto autor/responsvel pelo crime cumpra pena privativa de liberdade. Nos casos em que o cumprimento da pena privativa de liberdade constituir a resposta adequada ao crime cometido, por consequncia, no ser possvel firmar o acordo de no persecuo penal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema penal norte-americano tem influenciado outros países a permitir a participação do acusado na administração da justiça criminal e a adoção de práticas negociais. No Brasil, o acordo de não persecução penal está sujeito ao controle de legalidade do Poder Judiciário e pressupõe que o Ministério Público tenha elementos suficientes para a propositura de uma ação penal. O acordo não admite ajustes para cumprimento de pena privativa de liberdade.

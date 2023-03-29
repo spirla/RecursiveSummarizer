@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A CPAD deve estabelecer a agenda de audicoes de testemunhas daquelas que ela tem conhecimento de sua existncia e ja foram pre-selecionadas. Agora, pode ocorrer que na oitiva das testemunhas de defesa surja o nome de outra testemunha, ate entao desconhecida, mas, que interessa ao processo. Nesse caso, podera o Presidente da CPAD determinar que seja procedida a sua inquiricao na sequncia, o que nao constituira em nulidade da prova, considerando a ausncia de prejudicialidade para a defesa. c) Contradita da testemunha
+Contradita e uma forma que a defesa tem para apresentar qualquer fato que possa retirar da testemunha sua idoneidade ou demonstrar ser ela indigna de fe. O momento para apresenta-la sera quando da sua qualificacao. Conformem ressai do Manual Pratico de Prevencao e Apuracao de Ilicitos Administrativos, editado pela Controladoria-Geral do Estado de Minas Gerais (CGE-MG):
+Denomina-se contradita de testemunha o ato de impugnar o seu depoimento, com o objetivo de:
+1. impedir a oitiva da testemunha proibida de depor, a exemplo de padre, advogado, psicologo, medico, dentre outros (artigo 207 do Codigo de Processo Penal);
+2. obstar a tomada do compromisso das pessoas indicadas nos artigos 206 e 208 do Codigo de Processo Penal (exemplo: pai, irmao, menor de 14 anos, tio e avo), quando o depoimento for imprescindivel para a elucidacao do fato;
+3. levar aos autos a suspeita de parcialidade, para a devida cognicao da comissao processante e da autoridade julgadora. Em regra, a contradita deve ser apresentada antes do inicio do depoimento, a fim de que sejam observadas as regras e implicacoes acima mencionadas. Ressalta-se que o compromisso legal de dizer a verdade somente nao sera deferido a testemunha contraditada se o motivo apresentado pela defesa se amoldar a algumas das causas legais que o dispense, previstas no CPPM e no MAPPA (70, VIII, e, do CEDM e artigo 139, paragrafo 3, do MAPPA).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A CPAD deve ouvir testemunhas previamente selecionadas. Se durante a oitiva da defesa surgir o nome de outra testemunha, o Presidente da CPAD pode determinar que ela seja inquirida, não constituindo nulidade da prova. A contradita da testemunha é um ato da defesa para impugnar o depoimento, impedindo a oitiva de testemunhas proibidas de depor, obstando a tomada de compromisso de pessoas indicadas no Código de Processo Penal e levantando suspeitas de parcialidade. A contradita deve ser apresentada antes do início do depoimento.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+As decises criminais na Justia Militar tm reflexos administrativos, com a possibilidade de instaurao de procedimentos administrativos disciplinares, de natureza sancionatria (procedimento disciplinar) ou exclusria (processo administrativo disciplinar). O mrito das decises criminais quanto  autoria e  materialidade faz coisa julgada, da o interesse da parte em recorrer para modificar a fundamentao da deciso. H interesse do absolvido por falta de provas em recorrer para reconhecimento, nos termos do artigo 439 do CPPM, da inexistncia do fato (alnea a), ou por no constituir o fato infrao penal (alnea b) ou por existir circunstncia que exclua ilicitude do fato ou a culpabilidade (alnea d). .
+18.1.5.2.2. Legitimidade. Tem legitimidade concorrente e autnoma para recorrer, nos termos do artigo 511, caput, do CPPM, o Ministrio Pblico, o ru, seu procurador ou defensor. O assistente de acusao, embora possa ter interesse, no tem legitimidade para recorrer. Esta legitimao concorrente e autnoma do ru e de seu defensor permite-lhes recorrer sem que haja prejuzo da interposio concomitante de recurso do colegitimado. O ru tem legitimao para recorrer e capacidade postulatria. Tratei no item 16.4. da intimao da sentena, um dos motivos da intimao de ambos, acusado e defensor,  que o defensor tem legitimidade para recorrer da sentena condenatria e o acusado tem capacidade postulatria especial, decorrente de sua legitimidade, podendo apelar sem a assistncia de seu defensor. O defensor dativo tem legitimidade para recorrer, mas no tem obrigao de interpor recurso. O Ministrio Pblico tem legitimidade exclusiva na ao penal pblica (artigo 129, I, CF) e seus integrantes capacidade postulatria (artigo 129, pargrafo 2, CF) nos casos especficos compreendidos em seu cargo ou funo, de acordo coma as leis federais e estaduais que regulam as atribuies dos membros da instituio..
+18.1.6. Juzo de mrito. No juzo de mrito (ou de libao), que pode versar sobre o pedido de condenao ou de absolvio e ocorre depois do juzo de admissibilidade, apura-se a existncia ou inexistncia de fundamento para o que se postula no recurso.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar possui reflexos administrativos, com a possibilidade de instaurar procedimentos disciplinares sancionatórios ou exclusórios. O mérito das decisões criminais quanto à autoria e materialidade faz coisa julgada, motivando o interesse da parte em recorrer. O Ministério Público, o réu, seu procurador ou defensor têm legitimidade concorrente e autônoma para recorrer. O juízo de mérito, que ocorre após o juízo de admissibilidade, apura a existência ou inexistência de fundamento para o que se postula no recurso.

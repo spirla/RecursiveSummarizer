@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+312, 1, c/c art. 327,  2, ambos do CP - CP (peculato-furto majorado) imputado ao paciente. 1176 A leitura das decisoes proferidas pelas instancias ordinarias revela que nao foram imputados crimes eleitorais ao paciente. A mencao, na denuncia, ao proposito eleitoreiro e circunstancia adjeta, caracterizadora de mero proveito da conduta tipica. Elemento subjetivo do tipo penal do peculato-furto e o dolo, que se aperfeicoa independente da finalidade especifica ou do objetivo remoto da conduta. Dessa forma, em analise tipologica, os interesses politico-eleitorais envolvidos no peculato sao irritos para fins de definicao de competencia da Justica Eleitoral. A jurisprudencia do STJ, na linha da orientacao firmada pelo Supremo Tribunal Federal - STF no julgamento do Inquerito 4.435/DF, tem reconhecido a competencia da Justica Eleitoral quando denuncias narram a utilizacao de dinheiro de origem criminosa em campanha, mediante falsidade ideologica eleitoral, conduta tipificada no art. 350 do Codigo Eleitoral. Contudo, na singularidade do caso concreto, nao ha noticias de que o paciente tenha utilizado qualquer numerario oriundo de fontes ilicitas para sua campanha eleitoral, tendo havido, somente, imputacao e condenacao pela pratica de desvio de computadores doados para estudantes carentes, conduta que se amolda ao crime de peculato majorado, mas que nao se encontra descrita como crime eleitoral. Alem disso, nao ha noticias de qualquer delito eleitoral possivelmente conexo, em tese praticado pelo paciente, que pudesse justificar o deslocamento da competencia para a Justica Especializada. (Informativo n. 749) 1177 PROCESSO Processo sob segredo de justica, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O elemento subjetivo do tipo penal do peculato-furto é o dolo, que se aperfeiçoa independente da finalidade específica ou do objetivo remoto da conduta. 2. A jurisprudência do STJ, na linha da orientação firmada pelo STF no julgamento do Inquerito 4.435/DF, tem reconhecido a competência da Justiça Eleitoral quando denúncias narram a utilização de dinheiro de origem criminosa em campanha, mediante falsidade ideológica eleitoral, conduta tipificada no art. 350 do Código Eleitoral. 3. Na singularidade do caso concreto, não há notícias de que o paciente tenha utilizado qualquer numerário oriundo de fontes ilícitas para sua campanha eleitoral, tendo havido, somente, imputação e condenação pela prática de desvio de computadores doados para estudantes carentes, conduta que se amolda ao crime de peculato majorado, mas que não se encontra descrita como crime eleitoral.

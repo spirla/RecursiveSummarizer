@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Quanto  ausncia do nexo de causalidade, Paulo Rangel anota que A lei fala que se no houver um nexo de causalidade entre a prova ilcita e a outra prova obtida, no haver contaminao, ou seja, a relao de causalidade  o liame que deve existir entre uma prova ilcita e a outra (lcita) para que possamos falar em contaminao. No entender de Gustavo Badar no se trata de ressalva  regra principal de inadmissibilidade das provas derivadas da ilcita, mas de sua no incidncia. Se no h nexo entre a prova originria ilcita e a prova dela derivada em si, lcita, no  caso de prova ilcita por derivao. Para Magalhes Gomes Filho era desnecessria a regra que permite provas derivadas das ilcitas quando no evidenciado o nexo de causalidade entre umas e outras, porque o conceito de prova derivada supe, por si s, a existncia de uma relao de causalidade entre a ilicitude da primeira prova e a obteno da segunda. H, ainda, a teoria do nexo causal atenuado (purget taint) ou conexo atenuada, se o ato posterior for totalmente independente retira a ilicitude originria. O nexo causal entre a prova primria e secundria  atenuado no em razo da circunstncia da prova secundria possuir existncia independente daquela, mas sim em virtude do espao temporal decorrido entre uma e outra, bem como as circunstncias intervenientes no conjunto probatrio. A teoria da fonte independente (independent source), originria de um precedente norte-americano, caso BYNUM v. USA (1960), no seria propriamente uma exceo aos efeitos da teoria dos frutos da rvore envenenada e sim uma teoria coexistente, permitindo justamente a devida integrao, partindo-se do pressuposto de que, no havendo vnculo entre as provas, no h que se falar em reflexos irradiando contaminao quelas provas que no derivaram da ilcita. No caso Murray v. United States (1988) policiais suspeitaram de trfico de drogas em uma residncia, entraram ilegalmente na casa e confirmaram a suspeita.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria do nexo causal atenuado (purget taint) ou conexo atenuada afirma que se o ato posterior for totalmente independente, a ilicitude originária será retirada. A teoria da fonte independente (independent source) permite a integração das provas, desde que não haja vínculo entre elas. O caso Murray v. United States (1988) é um exemplo de aplicação desta teoria, onde policiais suspeitaram de tráfico de drogas em uma residência e confirmaram a suspeita após entrarem ilegalmente na casa.

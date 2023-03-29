@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inaplicabilidade. Observancia das exigencias previstas no edital. DESTAQUE A exigencia dos requisitos previstos em edital para nomeacao em cargo publico nao pode ser afastada por legislacao posterior mais benefica ao candidato. Cinge-se a controversia em determinar se os requisitos exigidos no edital de concurso podem ser desconsiderados quando as exigencias previstas em lei para ocupar o respectivo cargo sao alteradas apos a homologacao do edital para beneficiar candidato que nao cumpre as exigencias previstas no edital. No caso, a secretaria estadual lancou edital para a abertura de concurso publico destinado ao provimento de cargo que tinha os seus requisitos disciplinados por lei estadual, exigindo bacharelado superior, em qualquer curso de nivel devidamente complementado com especializacao em administracao ou em gestao publica. Contudo, sobreveio lei estadual que reestruturou a carreira, modificando tanto a nomenclatura deste cargo, quanto os seus requisitos minimos, passando a exigir meramente uma graduacao em geral, suplementada por Curso de Especializacao em Administracao ou Gestao Publica, com duracao minima de 360 horas, realizado por instituicao de educacao superior devidamente credenciada pelo Ministerio da Educacao (MEC). De acordo com a Ministra Assusete Magalhaes (voto-vista), a ratio essendi da Sumula 266/STJ e no sentido de que os requisitos, exigidos no edital do certame para o exercicio de determinado cargo publico, devem ser comprovados no momento da posse. Entretanto, o cerne da controversia e verificar se esses requisitos, exigidos no edital do concurso - e que eram consentaneos com a legislacao vigente a epoca da publicacao do edital -, podem ser alterados posteriormente, mesmo que por lei, seja para prejudicar ou para beneficiar os candidatos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A exigência dos requisitos previstos em edital para nomeação em cargo público não pode ser afastada por legislação posterior mais benefícia ao candidato. 2. Os requisitos exigidos no edital de concurso devem ser comprovados no momento da posse. 3. Os requisitos exigidos no edital do concurso não podem ser alterados posteriormente, mesmo que por lei, seja para prejudicar ou para beneficiar os candidatos.

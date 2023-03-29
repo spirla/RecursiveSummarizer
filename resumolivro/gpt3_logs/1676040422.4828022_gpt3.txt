@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O crime que permite a comunicabilidade de seus dados elementares pode ser definido tanto por tipos simples, qualificados ou privilegiados. Em qualquer caso, ser sempre possvel a comunicabilidade. O tipo simples, tambm denominado de bsico ou fundamental,  aquele que rene as caractersticas essenciais que distinguem a figura criminosa. Como exemplo, tem-se o homicdio simples, previsto no caput do artigo 205 do CPM, que descreve a conduta de matar algum, cuja pena cominada  de seis a vinte anos de recluso. Nesse caso, a figura simples no  constituda por qualquer elementar que se refira a caractersticas pessoais. Como figuras derivadas do homicdio simples, encontramos o homicdio qualificado e o privilegiado. O homicdio qualificado encontra previso nos incisos do pargrafo 2 do artigo 205, que, considerando os dados da figura fundamental (matar algum), agrega dados que agravam a natureza do crime e justificam o estabelecimento de uma cominao de pena que lhe seja prpria. Por exemplo, o homicdio  qualificado quando praticado por motivo ftil. Tal motivao, que pode ter orientado a conduta de apenas um dos participantes da empreitada, pode comunicar-se aos demais para efeito de responsabilizar a todos pelo mesmo crime. Para os casos de homicdio qualificado, o legislador cominou pena de doze a trinta anos de recluso. Tambm constitui figura derivada do homicdio o tipo incriminador do genocdio que, conforme dispe o artigo 208 do CPM, caracteriza-se pela conduta de matar membros de um grupo nacional, tnico, religioso ou pertencente a determinada raa, com o fim de destruio total ou parcial desse grupo. Para tal figura, o legislador cominou a pena de quinze a trinta anos de recluso. O homicdio privilegiado, por sua vez, no encontra previso no estatuto repressivo militar. Da previso constante da legislao comum pode-se perceber, contudo, que segue a mesma lgica da derivao qualificada. S que, agora,  figura fundamental o legislador agrega dados que importam a diminuio da gravidade do crime. A figura derivada privilegiada do homicdio  prevista no artigo 123 do CP comum, que descreve a conduta de matar, sob a influncia do estado puerperal, o prprio filho, durante o parto ou logo aps. Trata-se, aqui tambm, de matar algum, mas em situao peculiar que justifica a cominao de nova pena: de 2 (dois) a 6 (seis) anos de deteno.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de homicídio pode ser simples, qualificado ou privilegiado. O homicídio simples é previsto no artigo 205 do CPM, com pena de 6 a 20 anos de reclusão. O homicídio qualificado tem previsão nos incisos do parágrafo 2 do artigo 205, com pena de 12 a 30 anos de reclusão. O homicídio privilegiado é previsto no artigo 123 do CP comum, com pena de 2 a 6 anos de detenção.

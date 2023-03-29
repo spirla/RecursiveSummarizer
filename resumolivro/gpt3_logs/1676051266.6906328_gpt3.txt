@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como estabelecer a data do crime para compar-la com a data do recebimento da denncia? Duas so as hipteses possveis: ou se reconhece a data do ltimo crime praticado ou a do primeiro. Na ausncia de disposio legal, a posio que mais beneficia o ru  a que dever ser adotada. Considerar a data do primeiro crime produz maior distanciamento temporal em relao  data do recebimento da denncia, permitindo maiores chances de reconhecer a prescrio retroativa. Assim, a prescrio retroativa dever considerar a data do primeiro crime integrante da continuidade criminosa reconhecida para verificar a ocorrncia da prescrio da pretenso punitiva em seus efeitos retro-operantes. No caso de supervenincia de condenaes, o raciocnio dever ser o mesmo: a prescrio correr isoladamente em relao a cada um dos crimes praticados. Veja-se o exemplo: um condenado cumprindo pena vem a ser novamente condenado, em deciso transitada em julgado. O tempo de execuo penal dever ser determinado pela unificao das penas impostas, atendendo-se as regras do artigo 75 do CP. No entanto, se o condenado fugir, a prescrio da pretenso executria comear a correr isoladamente, em relao ao tempo que restar para cumprir da primeira pena e o tempo integral da segunda pena. Considerando isoladamente cada condenao, a contagem do prazo de prescrio da pretenso executria no levar em conta o somatrio das penas aplicadas (unificao), mas cada condenao isoladamente. 22.17. Prescrio nos casos de detrao. Situao que merece especial ateno  a que se estabelece quando o clculo do prazo prescricional deve considerar o tempo em que o acusado/condenado esteve preso cautelarmente, seja por priso preventiva ou provisria. Tratando-se de pretenso executria, a questo no oferece maiores dificuldades. No clculo do prazo prescricional, desconta-se da pena a ser cumprida o tempo de priso cautelar a que esteve submetido o condenado e, com o saldo, apura-se o prazo conforme os parmetros do artigo 109 do CP. Nesse caso, o Estado somente pretende executar o saldo de pena, devendo descontar obrigatoriamente o tempo que permite a detrao penal (artigo 42 c/c o artigo 113 do CP). Veja-se o seguinte exemplo: um indivduo  acusado pela prtica de crime de estelionato consumado (artigo 171), cuja pena mxima  de 5 (cinco) anos de recluso e multa. Nos termos do artigo 109, III, do CP, a prescrio da pretenso punitiva opera-se em 12 (doze) anos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prescrição retroativa deve considerar a data do primeiro crime em uma continuidade criminosa para verificar a ocorrência da prescrição da pretenso punitiva. No caso de superveniência de condenações, a prescrição correrá isoladamente em relação a cada um dos crimes. Quando o cálculo do prazo prescricional deve considerar o tempo em que o acusado/condenado esteve preso cautelarmente, desconta-se da pena a ser cumprida o tempo de priso cautelar.

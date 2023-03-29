@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 748) 729 PROCESSO REsp 1.973.397-MG, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 06/09/2022. RAMO DO DIREITO DIREITO PENAL TEMA Minorante da colaboracao premiada. Reducao inferior ao ajustado com o Ministerio Publico. Legalidade. Declaracoes falsas perante o plenario do juri. Motivacao idonea. DESTAQUE E justificada a reducao da pena do reu colaborador em patamar um pouco inferior ao que havia sido ajustado com o Ministerio Publico, tendo em vista que o acusado prestou declaracoes falsas perante o plenario do juri. Em relacao a minorante da colaboracao premiada, no que diz respeito ao merito da fracao de reducao propriamente dita, o Tribunal de origem entendeu que a minoracao no patamar de 1/2, em vez dos 2/3 pactuados no acordo de colaboracao, foi justificada pelo fato de o colaborador ter prestado declaracoes falsas contra os correus, como reconhecido pelos jurados. Assim, nao ha ilegalidade na diminuicao da reprimenda em fracao um pouco inferior a que havia sido combinada entre o recorrente e o Parquet, porquanto apresentada no acordao recorrido motivacao idonea para este fim. (Informativo n. 748) PROCESSO REsp 1.973.397-MG, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É justificada a redução da pena do réu colaborador em patamar um pouco inferior ao que havia sido ajustado com o Ministério Público, tendo em vista que o acusado prestou declarações falsas perante o plenário do júri. 2. Não há ilegalidade na diminuição da reprimenda em fração um pouco inferior a que havia sido combinada entre o recorrente e o Parquet, porquanto apresentada no acórdão recorrido motivação idônea para este fim.

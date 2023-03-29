@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O recebimento de acusao que vier a ser posteriormente anulada deixa de ser considerado interruptivo da prescrio, na perspectiva de que somente o recebimento vlido interrompe a contagem do prazo prescricional. O prazo prescricional somente ser interrompido quando do novo despacho que determinar o recebimento da acusao. O aditamento  denncia no  causa interruptiva da prescrio, caso venha apenas corrigir irregularidades formais ou alterar a capitulao do fato j descrito (artigo 384, pargrafo nico, do CPP). Se, no entanto, materializar imputao sobre fato diverso daquele j descrito na pea inicial, em relao ao novo fato, interrompe a prescrio. Nessa hiptese, a denncia oferecida no teria produzido a interrupo da prescrio em relao ao fato novo, e o aditamento interrompe a contagem prescricional somente em relao ao fato novo. Se o aditamento prestar-se a incluir novo acusado para fato j descrito, no haver interrupo da prescrio, pois o recebimento da denncia pelo fato produz efeitos em relao a todos os autores do crime (pargrafo 1 do artigo 117 do CP). Deciso de pronncia. A segunda hiptese de causa interruptiva da prescrio da pretenso punitiva  a pronncia. A deciso de pronncia  ato judicial existente unicamente no rito processual, que se desenvolve perante o tribunal do jri. Na lio autorizada de Frederico Marques, a pronncia  sentena processual de contedo declaratrio em que o juiz proclama admissvel a acusao, para que esta seja decidida no plenrio do Jri. Compete ao tribunal do jri o processo e julgamento dos crimes dolosos contra a vida e dos que lhe so conexos. Nos termos do artigo 408 do CPP, se o juiz se convencer da existncia do crime e de indcios de que o ru seja o seu autor, pronunci-lo-, dando os motivos do seu convencimento. A pronncia encerra a primeira fase do rito processual do jri e delimita a acusao que ser submetida a julgamento pelo tribunal popular. Quando a pronncia desclassificar a infrao constante na acusao inicial, admitindo outra que ainda preserve a competncia do tribunal do jri, a deciso interromper a prescrio.  o caso da pronncia que admite a acusao de homicdio simples, quando a imputao inicial era de homicdio qualificado. A interrupo da contagem do prazo de prescrio ocorre quando da publicao da sentena, ou seja, quando o magistrado entrega-a ao cartrio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recebimento da acusao é o único que interrompe a contagem do prazo prescricional. O aditamento da denúncia não causa interrupção da prescrição, exceto se materializar imputação sobre fato diverso. A pronúncia é o ato judicial que encerra a primeira fase do rito processual do júri e delimita a acusão que será submetida a julgamento. A interrupção da contagem do prazo de prescrição ocorre quando da publicação da sentença.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+p. 427. 263 FOUREAUX, Rodrigo. Justica Militar: aspectos gerais e controvertidos, p. 761. 264 Apelacao Civel n. 129 - Processo 174/06 - AC/2 AJME, Rel. Juiz Cel BM Osmar Duarte Marcelino, publicado em 21/03/2007. 265 Artigo 19 - A pericia psicopatologica consistira em: (...) paragrafo 1 - A pericia psicopatologica sera agendada apos apresentacao dos seguintes documentos: portaria do procedimento, parecer tecnico do medico do NAIS, relatorio do medico assistente, copia do prontuario medico do NAIS e quesitos da defesa, quando houver.
+266 TJM-MG: Proc. 0000763-86.2014.9.13.0002, Rel. Juiz Cel PM Rubio Paulino Coelho, julgamento 26/08/2014, publicacao 02/09/2014. 267 Artigo 400. Na audincia de instrucao e julgamento, a ser realizada no prazo maximo de 60 (sessenta) dias, proceder-se-a a tomada de declaracoes do ofendido, a inquiricao das testemunhas arroladas pela acusacao e pela defesa, nesta ordem, ressalvado o disposto no artigo 222 deste Codigo, bem como aos esclarecimentos dos peritos, as acareacoes e ao reconhecimento de pessoas e coisas, interrogando-se, em seguida, o acusado. (Redacao dada pela Lei 11.719, de 2008).
+268 Endossada pelo entendimento esposado pelo STF: Ementa: Processual Penal. Interrogatorio nas acoes penais originarias do STF. Ato que deve passar a ser realizado ao final do processo. Nova redacao do artigo 400 do CPP. (...).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 19 do CPP estabelece que a perícia psicopatológica deve ser agendada após a apresentação de documentos específicos. O artigo 400 do CPP prevê que na audiência de instrução e julgamento devem ser realizadas a tomada de declarações do ofendido, a inquirição das testemunhas, esclarecimentos dos peritos, acareações e reconhecimento de pessoas e coisas, e, por fim, o interrogatório do acusado. O entendimento foi endossado pelo STF.

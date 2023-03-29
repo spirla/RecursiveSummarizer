@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+500 Nesse contexto, se o estatuto da associacao comprova a finalidade de defesa dos direitos humanos, nao ha empecilho legal ao ajuizamento de acao civil publica por associacao cujo estatuto preve como finalidade a defesa de direitos humanos, que atuara como substituta processual, dai porque nao se revela adequada a conclusao de que as pessoas eventualmente lesadas devam ser associadas ou autorizem, por qualquer meio, o ajuizamento da acao. A tese firmada pelo STF no RE 573.232/SC nao se aplica as acoes coletivas ajuizadas por associacoes para a defesa de direitos individuais homogeneos, na hipotese em que ha substituicao processual e, notadamente, quando vinculados a protecao dos direitos humanos e ao proceder administrativo do Estado com relacao aos visitantes das unidades prisionais, de alta relevancia social. (Informativo n. 750) PROCESSO AgInt nos EDcl no RMS 55.819-MG, Rel. Min. Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 08/08/2022, DJe 17/08/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL TEMA Servidor publico estadual. Decreto Estadual. Bens e evolucao patrimonial. Disponibilizacao de informacoes. Obrigatoriedade. Poder regulamentar da Administracao Publica. DESTAQUE Nao extrapola o poder regulamentar da Administracao Publica, ou os principios que a regem, Decreto Estadual que dispoe sobre o dever de agentes pubicos disponibilizarem informacoes sobre seus bens e evolucao patrimonial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há empecilho legal ao ajuizamento de ação civil pública por associação cujo estatuto preve como finalidade a defesa de direitos humanos, que atuará como substituta processual. 2. A tese firmada pelo STF no RE 573.232/SC não se aplica às ações coletivas ajuizadas por associações para a defesa de direitos individuais homogêneos, na hipótese em que há substituição processual e, notadamente, quando vinculados à proteção dos direitos humanos e ao proceder administrativo do Estado com relação aos visitantes das unidades prisionais. 3. Não extrapola o poder regulamentar da Administração Pública, ou os princípios que a regem, Decreto Estadual que dispõe sobre o dever de agentes públicos disponibilizarem informações sobre seus bens e evolução patrimonial.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Vale notar que, se o sujeito no pretende produzir o resultado, mas assumiu o risco de sua produo, certamente no poder ser punido a ttulo de culpa. Nesse aspecto, muito melhor teria sido a redao do artigo 22, pargrafo 1, do Cdigo Penal comum de 1969, ao dispor que. Art. 22. (...). Pargrafo 1 Se, por erro ou outro acidente na execuo,  atingido bem jurdico diverso do visado pelo agente, responde este por dolo, se assumiu o risco de causar este resultado, ou por culpa, se o previu, ou podia prever, e o fato  punvel como crime culposo. Deve-se concluir que, no pargrafo 1 do artigo 37 do Cdigo Penal Militar, o legislador alertou para a necessidade de responsabilizao do sujeito pela produo de resultado no pretendido. A responsabilidade pelo resultado no pretendido exige a constatao dos requisitos gerais dos fatos culposos. Assim, no havendo previsibilidade quanto  ocorrncia do resultado diverso do pretendido, no  possvel a punio. Admitir-se o contrrio significaria responsabilidade objetiva. No estatuto repressivo militar no h previso para a hiptese de tambm ser atingido o bem jurdico que o sujeito visava. A soluo para o caso no necessita de previso expressa, mas pode ser extrada da parte final do artigo 74 do Cdigo Penal comum que expressamente determina que, ocorrendo tambm o resultado pretendido, aplica-se a regra do concurso formal. Tal disposio presta-se a revelar a admisso do concurso formal entre o crime doloso e o crime culposo praticado. No h restries para a responsabilidade pela tentativa de produzir-se o resultado no alcanado. Contudo, deixa entrever a possibilidade da no ocorrncia do duplo resultado. Na lio de Cunha Luna, tal fato s se verifica quando os atos praticados pelo sujeito so inidneos para caracterizar o incio da execuo do crime doloso pretendido. Ilicitude e Causas de Justificao. 4.1. Ilicitude da conduta punvel. Nem toda violao da norma jurdico-penal confere  conduta a qualidade de ilcita, que permite a responsabilizao criminal e, consequentemente, a aplicao da pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 22 do Código Penal comum de 1969 determina que se o agente assume o risco de causar um resultado diferente do pretendido, responde por culpa. O artigo 37 do Código Penal Militar alerta para a responsabilização do sujeito pelo resultado não pretendido, desde que preenchidos os requisitos gerais dos fatos culposos. Se houver o duplo resultado, aplica-se a regra do concurso formal. A conduta só é considerada ilícita quando viola a norma jurdico-penal, permitindo a responsabilização criminal.

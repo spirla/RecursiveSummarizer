@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+242,  2, inciso II, ambos do Cdigo Penal Militar; 4.1.1. Em relao ao acusado Ex-PM Mauro da Costa Pinto, fixar a pena definitiva em 05 (cinco) anos e 04 (quatro) meses de recluso; 4.1.2. Em relao ao acusado Ex-PM Pablo Andrade dos Prazeres, fixar a pena definitiva em 05 (cinco) anos e 04 (quatro) meses de recluso; 4.2. Vencida a Juza Militar Cap PM Marieta Apgaua Marques, que julgou improcedente o FATO 4, para absolver os acusados Ex- PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres, com fundamento no art. 439, alnea e, do CPPM; 5. Por maioria de votos (quatro a um), julgar procedente o FATO 4, para condenar o Ex-PM Mauro da Costa Pinto e o Ex-PM Pablo Andrade dos Prazeres, como incursos no art. 243, alnea a,  1, c/c o art. 242,  2, inciso II, ambos do Cdigo Penal Militar; 5.1.1. Em relao ao acusado Ex-PM Mauro da Costa Pinto, fixar a pena definitiva em 05 (cinco) anos e 04 (quatro) meses de recluso; 5.1.2. Em relao ao acusado Ex-PM Pablo Andrade dos Prazeres, fixar a pena definitiva em 05 (cinco) anos e 04 (quatro) meses de recluso; 5.2. Vencida a Juza Militar Cap PM Marieta Apgaua Marques, que julgou improcedente o FATO 5, para absolver os acusados Ex- PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres, com fundamento no art. 439, alnea e, do CPPM; 6. Por unanimidade de votos, julgar improcedente o FATO 6, para absolver o Ex-PM Mauro da Costa Pinto, com fundamento no art. 439, alnea e, do CPPM; 7. Por unanimidade de votos, julgar improcedente o FATO 7, para absolver o Ex-PM Mauro da Costa Pinto, com fundamento no art. 439, alnea e, do CPPM; 8. Unificar, com fulcro no art. 80 do CPM, as penas privativas de liberdade do Ex-PM Mauro da Costa Pinto em 21 (vinte e um) anos e 4 (quatro) meses de recluso, a ser cumprida inicialmente no regime fechado (art. 33,  2, alnea "a", do CP), vedada a concesso do SURSIS, com direito a recorrer em liberdade; 42 Inconformados, os acusados apresentaram recurso de apelao, conforme peas nos Eventos 250 e 262.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Por maioria de votos, foi julgado procedente o FATO 4 para condenar os acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres, como incursos no art. 243, alnea a, 1, c/c o art. 242, 2, inciso II, ambos do Cdigo Penal Militar, fixando a pena definitiva em 05 (cinco) anos e 04 (quatro) meses de recluso para cada acusado. Por unanimidade de votos, foi julgado improcedente o FATO 6 e 7 para absolver o Ex-PM Mauro da Costa Pinto, com fundamento no art. 439, alnea e, do CPPM. A pena definitiva unificada para o Ex-PM Mauro da Costa Pinto foi de 21 (vinte e um) anos e 4 (quatro) meses de recluso, a ser cumprida inicialmente no regime fechado, vedada a concesso do SURSIS, com direito a recorrer em liberdade.

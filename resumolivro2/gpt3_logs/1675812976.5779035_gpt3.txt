@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O pedido de restituio de coisa apreendida  autuado em apartado, com prazo de cinco dias para fazer prova e findo o qual o juiz decidir. Da deciso que considerar duvidoso o direito do reclamante cabe recurso para o tribunal, de acordo com o artigo 192 do CPPM. Quando a coisa houver sido apreendida em poder de terceiro de boa-f, determina o artigo 193, b, do CPPM, que, se a restituio for pedida pelo acusado ou pelo lesado e, tambm, pelo terceiro, instaura-se incidente;
+os reclamantes tero, em conjunto, o prazo de cinco dias para apresentar provas e o de trs dias para arrazoar, findos os quais o juiz decidir, cabendo da deciso recurso para o tribunal. Tm legitimidade ativa o reclamante, que pode ser o acusado, o lesado ou terceiro de boa-f, enquanto funciona o Ministrio Pblico como custos legis (artigo 194, CPPM). Providos os recursos inominados dos artigos 192 e 193 do CPPM, a coisa apreendida  restituda ao reclamante. A autoridade judiciria militar, de ofcio ou a requerimento do Ministrio Pblico, poder ordenar sequestro, em qualquer fase do processo ou antes da denncia, dos bens adquiridos com os proventos da infrao penal. A medida cautelar pode ser embargada pelo indiciado ou acusado e terceiro. Reza o artigo 203, pargrafo 1, do CPPM, que a prova da alegao deve ser apresentada em dez dias, depois de ouvido o Ministrio Pblico, que atua como custos legis, a autoridade judiciria militar decidir de plano, aceitando ou rejeitando os embargos. Em ambos os casos, indiciado ou acusado e terceiro podem interpor recurso inominado para o tribunal. Provido o recurso inominado,  levantado o sequestro no juzo militar. Por fim, esto sujeitos  hipoteca legal os bens imveis do acusado, para satisfao do dano causado pela infrao penal ao patrimnio sob administrao militar. A inscrio e a especializao da hipoteca legal so requeridas  autoridade judiciria militar pelo Ministrio Pblico.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O pedido de restituio de coisa apreendida pode ser feito pelo acusado, lesado ou terceiro de boa-f, com prazo de cinco dias para apresentar provas e três dias para arrazoar. O Ministério Público atua como custos legis e a decisão pode ser recorrida para o tribunal. O sequestro dos bens adquiridos com os proventos da infração penal pode ser embargado pelo indiciado ou acusado e terceiro, com prazo de dez dias para apresentar a prova. Se o recurso for provido, o sequestro será levantado. Os bens imóveis do acusado estão sujeitos à hipoteca legal para satisfação do dano causado pela infração penal.

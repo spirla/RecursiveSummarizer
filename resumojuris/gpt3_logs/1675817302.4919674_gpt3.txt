@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesses entendimentos, o Plenario, por maioria, julgou parcialmente procedente a acao para dar interpretacao conforme a Constituicao ao art. 4 da Lei 9.527/1997, excluindo de seu alcance os advoga-dos empregados publicos de empresa publica, sociedade de economia mista e suas subsidiarias, nao monopo-listicas, com as ressalvas das compreensoes acima indicadas. ADI 3396/DF, relator Ministro Nunes Marques, julgamento finalizado em 23.6.2022 (INF 1060) Energia eletrica e regulamentacao por medida provisoria com posterior conversao em lei - ADI 3090/DF e ADI 3100/DF Resumo: A Medida Provisoria 144/2003, convertida na Lei 10.848/2004, que dispoe sobre a comercializa-cao de energia eletrica, nao viola o art. 246 da CF/88 e. Em primeiro lugar, porque a Emenda Constitucional (EC) 6/1995 nao promoveu alteracao substancial na disciplina constitucional do setor eletrico, mas, em razao da revogacao do art. 171 da CF, restringiu-se a substituir a expressao empresa brasileira de capital nacional pela expressao empresa constituida sob as leis brasileiras e que tenha sua sede e administracao no pais , incluida no  1 do art. 176 da CF pela EC 6/1995. Com efeito, o setor eletrico ja estava, antes dessa alteracao, aberto ao capital privado. Houve apenas ampliacao colateral em relacao as empresas que poderiam ser destinatarias de autorizacao ou concessao para explorar o servico. Alem disso, a MP nao se destinou a dar eficacia as modificacoes introduzidas pela EC 6/1995, mas a regulamentar o art. 175 da CF, que dispoe sobre o regime de prestacao de servicos publicos no setor eletrico. Com base nesses fundamentos, o Plenario, por unanimidade conheceu em parte das acoes diretas de inconstitucionalidade analisadas em conjunto, e, nas partes conhecidas, julgou improcedentes os pedidos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 4 da Lei 9.527/1997 não se aplica a advogados empregados públicos de empresas públicas, sociedades de economia mista e suas subsidiárias, não monopólisticas. 2. A Medida Provisória 144/2003, convertida na Lei 10.848/2004, não viola o artigo 246 da Constituição Federal de 1988. 3. A Emenda Constitucional 6/1995 não promoveu alteração substancial na disciplina constitucional do setor elétrico. 4. O setor elétrico já estava aberto ao capital privado antes da alteração promovida pela Emenda Constitucional 6/1995. 5. A Medida Provisória 144/2003 não se destinou a dar eficácia às modificações introduzidas pela Emenda Constitucional 6/1995, mas a regulamentar o artigo 175 da Constituição Federal. 6. As Ações Diretas de Inconstitucionalidade analisadas em conjunto foram julgadas improcedentes.

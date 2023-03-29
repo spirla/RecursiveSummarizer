@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+ comum que pessoas prestem informaes falsas para a composio de seu perfil, em alguns casos, inclusive, assumindo a identidade alheia. Os perfis falsos so identificados na rede pela denominao inglesa fake. Estima-se que cerca de 80 % dos brasileiros tenha seu perfil exposto em algum tipo de site de relacionamento. O acesso aos dados e informaes relacionadas a um perfil normalmente  restrito por mecanismos de segurana. As senhas de acesso  rede, as configuraes de privacidade do perfil e, em especial, a necessidade de autorizao para o acesso a determinadas informaes estabelecida pelo mecanismo de aceitao de um perfil alheio como sendo um amigo na rede, determinam os limites de privacidade que o usurio estabelece para os dados e informaes vinculadas a seu perfil. O acesso indevido a dados e informaes restritas  muito comum no contexto das redes de relacionamento, sendo que na maioria das vezes ocorre por meio da utilizao de senhas e perfis alheios. A utilizao de uma senha ou um perfil alheio para a realizao do acesso importa em violao indevida de mecanismo de segurana. O sistema informtico permite o acesso de uma pessoa reconhecendo-a como se fosse outra. Em casos como esse, a violao indevida do mecanismo de segurana permite a imputao objetiva para o crime em exame. Consentimento para que a pessoa tenha acesso ao contedo do dispositivo informtico. Nos casos em que houver consentimento, expresso ou tacito, para que a pessoa diversa do titular tenha acesso ao contedo do dispositivo informtico no se poder reconhecer a ocorrncia de invaso ou mesmo de violao indevida de mecanismo de segurana. A adequao social da conduta revela a impossibilidade de imputar a violao da norma proibitiva subjacente ao tipo incriminador da invaso de dispositivo informtico. Os casos em que a invaso ocorre na oportunidade em que o dispositivo encontra-se em poder do sujeito, por entrega voluntria de seu titular, para a realizao de reparos ou manuteno dos sistemas, por exemplo, podem gerar dvidas em relao ao consentimento para o acesso ao contedo dos arquivos armazenados no dispositivo. No entanto, a possibilidade de incriminao pelo acesso deve ser resolvida em ateno  existncia de mecanismo de segurana ativado para restringir o acesso do tcnico ao contedo dos arquivos ou, ao menos, de alguns dos arquivos armazenados.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Estima-se que 80% dos brasileiros possuam perfis em sites de relacionamento, com acesso restrito por mecanismos de segurança. A violação de tais mecanismos é comum, podendo ser imputada quando não houver consentimento do titular.

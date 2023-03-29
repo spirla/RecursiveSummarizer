@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em despacho constante no Evento 4 - DEC1, o meritssimo juiz titular da 5a AJME - Cvel concedeu ao militar a gratuidade de justia, na forma dos artigos 98 e seguintes do Cdigo de Processo Civil (CPC); indeferiu a concesso da medida liminar; e determinou a citao do Estado de Minas Gerais, o prosseguimento nos demais atos processuais quanto s fases dos artigos 350 e 351 do CPC, e, logo aps, a intimao das partes, para informarem se possuam provas a produzir, pois, caso contrrio, dar-se-ia o julgamento antecipado da lide. O autor comunicou a interposio de agravo de instrumento (Evento 9 - MANI1). O meritssimo juiz de direito manteve a deciso de indeferimento da medida liminar (Evento 11 - DESP1). O Estado de Minas Gerais apresentou sua contestao no Evento 16 - CONT1. Disse que o autor respondeu pelo PCD de Portaria n. 104.153/2019, por ter, em 23/02/2019, na cidade de Sacramento/MG, deixado de confeccionar mensagens de destaque, descumprindo ordens do comandante do turno de servio, conduta que se amolda perfeitamente  transgresso disciplinar prevista no artigo 14, inciso II, da Lei n. 14.310/2002. Disse que restou demonstrado nos autos o cometimento da transgresso disciplinar, principalmente pela prova testemunhal acostada nas pginas 11/19 do Evento 1 - DOC5, em que as testemunhas so unssonas em afirmar que "at o encerramento do turno de servio o autor no havia confeccionado e enviado as mensagens de destaque conforme foi determinado pelo Comandante do turno de servio." Disse que tais testemunhas esclareceram que "as mensagens de destaque s foram enviadas no dia 24/02/2019, por volta das 07hs00min da manh" e, ainda, que elas asseveraram que "as mensagens s foram enviadas porque o Sargento Luciano, analista de IC, havia ligado na Companhia, comunicando que as mensagens de destaque no tinham sido enviadas, momento em que o autor recebeu novamente a ordem para que cumprisse a determinao de enviar as mensagens de destaque. Destacou ser dever de todo militar cumprir ordem de seu superior hierrquico, desde que esta no seja manifestamente ilegal. Concluiu que o autor deixou de cumprir a determinao legal que lhe fora dada pelo comandante do turno de servio, no sentido de remeter as mensagens de destaque na data de 23/02/2019, quando estava de servio na Companhia. Sustentou no ser o caso de desclassificao para o contido no inciso V (retardar injustificadamente o cumprimento de ordem ou o exerccio de atribuio) do artigo 15 do CEDM, porque o autor efetivamente se defende dos fatos que lhe foram imputados e no das tipificaes legais deles decorrentes.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz Titular da 5a AJME - Cvel concedeu ao militar a gratuidade de justia e indeferiu a concesso da medida liminar. O Estado de Minas Gerais apresentou sua contestação, sustentando que o autor deixou de cumprir a determinação legal que lhe fora dada pelo comandante do turno de servio, no sentido de remeter as mensagens de destaque na data de 23/02/2019. O Juiz de Direito manteve a decisão de indeferimento da medida liminar.

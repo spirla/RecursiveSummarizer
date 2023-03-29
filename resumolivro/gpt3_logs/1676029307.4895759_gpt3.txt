@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nos crimes que exigem a ocorrncia de um resultado naturalstico, a caracterizao da tentativa depender da possibilidade de evitar-se a ocorrncia do resultado material exigido pelo tipo. Nesses casos, mesmo que o sujeito no seja interrompido em sua conduta (efetue seis disparos de arma de fogo contra a vtima, por exemplo), se a ocorrncia do resultado naturalstico for impedida, estar caracterizada a tentativa. Crimes unissubsistentes. Considerando que o ato  um fragmento da conduta, em princpio, a possibilidade da tentativa est condicionada  existncia de mais de um ato, para que, entre um e outro, a conduta possa ser interrompida. Nesse sentido, impossvel seria a tentativa nos crimes unissubsistentes, j que tais crimes caracterizam-se pela existncia de ato nico. Somente nos crimes plurissubsistentes (constitudos por vrios atos) seria possvel a tentativa. Como exemplos de crimes unissubsistentes, citam-se o exemplo da injria oral (artigo 216 do CPM) e o uso de documento falso (artigo 315 do CPM). Nesses casos, ou o sujeito executa o ato, e o crime est consumado, ou no o executa, e o crime no teve incio. Contudo, a ideia de que o ato nico no possa ser fracionado  incorreta. No  difcil imaginar um crime unissubsistente que permita o fracionamento da conduta. Veja-se o exemplo do homicdio praticado por asfixia mecnica, produzida por enforcamento manual. A morte no acontece de maneira rpida e  possvel que, iniciada a execuo (sujeito j comprimindo o pescoo da vtima com as mos), ocorra a interrupo da ao criminosa por terceiro. A possibilidade da tentativa no est condicionada  existncia de vrios atos, mas  possibilidade material de interrupo da conduta, seja ela constituda por um ou mais atos. A caracterizao da conduta e de seu fragmento  uma tarefa interpretativa da realidade. O intrprete deve ser capaz de entender a lgica prpria do Direito Penal para reconhecer na realidade, que se encontra em constante movimento, acontecimentos que devam ser especialmente considerados pelo Direito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Nos crimes que exigem um resultado naturalstico, a caracterização da tentativa depende da possibilidade de evitar esse resultado. Em crimes unissubsistentes, como injúria oral e uso de documento falso, é impossível a tentativa. Contudo, em alguns casos de crime unissubsistente é possível o fracionamento da conduta, como no homicídio por asfixia mecânica. A caracterização da conduta e do seu fragmento depende da interpretação da realidade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Investigado solto. Complexidade nao evidenciada. Suposta acusacao ligada ao exercicio profissional. Estigmatizacao decorrente da condicao de suspeito de pratica delitiva. Constrangimento ilegal. Trancamento da investigacao. Razoavel duracao do processo. DESTAQUE Ha excesso de prazo para conclusao de inquerito policial, quando, a despeito do investigado se encontrar solto e de nao sofrer efeitos de qualquer medida restritiva, a investigacao perdura por longo periodo e nao resta demonstrada a complexidade apta a afastar o constrangimento ilegal. O prazo para a conclusao do inquerito policial, em caso de investigado solto e improprio. Assim, pode ser prorrogado a depender da complexidade das investigacoes. Contudo, consoante precedentes desta Corte Superior, e possivel que se realize, por meio de habeas corpus, o controle acerca da razoabilidade da duracao da investigacao, sendo cabivel, ate mesmo, o trancamento do inquerito policial, caso demonstrada a excessiva demora para a sua conclusao. Constata-se, no caso, o alegado constrangimento ilegal decorrente do excesso de prazo para a conclusao do inquerito policial na origem, instaurado em 2013, ou seja, ha mais de 9 (nove) anos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível realizar o controle acerca da razoabilidade da duração da investigação por meio de habeas corpus. 2. É cabível o trancamento do inquérito policial caso seja demonstrada a excessiva demora para a sua conclusão. 3. O prazo para a conclusão do inquérito policial, em caso de investigado solto, pode ser prorrogado a depender da complexidade das investigações.

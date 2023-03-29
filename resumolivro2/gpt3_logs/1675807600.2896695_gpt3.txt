@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A proibio de priso preventiva est estabelecida pelo artigo 258 do CPPM que em nenhum caso ser decretada se o juiz verificar, pelas provas constantes dos autos, ter o agente praticado o fato nas condies dos artigos 35, 38, observado o disposto no artigo 40, e dos artigos 39 e 42, do Cdigo Penal Militar.  proibida a priso preventiva se o juiz verificar ter o agente praticado o fato por erro de direito (artigo 35 do CPM), sob coao irresistvel ou em estrita obedincia a ordem direta de superior hierrquico (artigo 38, CPM), sob coao fsica nos crimes em que h violao ao dever militar (artigo 40, CPM), em estado de necessidade exculpante (artigo 39, CPM) ou amparado nas excludentes de ilicitude previstas no artigo 42 do CPM, ou seja, em estado de necessidade, legtima defesa, estrito cumprimento de dever legal ou no exerccio regular de direito. Em sede de cognio sumria, no exauriente, verificar no  o mesmo que ter certeza, pois, basta que o juiz ou o Conselho de Justia ao examinar as provas dos autos conclua ser muito provvel que o agente praticou o fato sob uma das condies mencionadas no artigo 258 do CPPM. No  necessrio ter certeza porque o juiz ou Conselho de Justia ao decidir no decretar a priso preventiva no absolve o agente. Diante da verificao da existncia de umas das hipteses referidas no artigo 258 do CPPM, fica afastada a probabilidade da ocorrncia do fato delituoso. Se, ainda, no h prova do fato delituoso a priso preventiva no pode ser decretada. Comparando-se os dois Cdigos, como mtodo de estudo, os casos de proibio existentes no artigo 258 do CPPM so diferentes das hipteses de admisso da priso preventiva do CP. O artigo 313 do CPP admite a priso preventiva nos crimes dolosos punidos com pena privativa de liberdade mxima superior a 4 (quatro) anos (inciso I). O CPP tem um patamar, que o CPPM no tem.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 258 do Código Penal Militar proíbe a prisão preventiva se o agente praticou o fato por erro de direito, sob coação irresistível, em estado de necessidade exculpante ou amparado nas excludentes de ilicitude previstas no artigo 42 do CPM. O artigo 313 do CPP admite a prisão preventiva nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 anos.

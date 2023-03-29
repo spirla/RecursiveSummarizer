@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ motivo de fora maior a notificao anterior do advogado para comparecer a outro juzo diverso e distante, o que o impossibilita estar presente aos dois atos processuais, por exemplo. O juiz deve notificar o acusado que em razo de duas faltas injustificadas  sesso de julgamento ser-lhe- nomeado defensor, dando-lhe prazo razovel para constituir, querendo, novo defensor. Alm de nomear novo defensor ao acusado, o juiz deve comunicar  Seo da OAB, pois comete o advogado infrao disciplinar se abandonar a causa sem justo motivo ou antes de decorridos 10 (dez) dias da comunicao da renncia (artigo 34, XI, Lei 8.906/94). Comparecendo o revel a sesso de julgamento, o juiz deve verificar se j foi qualificado e interrogado;
+caso no o tenha sido, deve proceder o interrogatrio na conformidade dos artigos 404/406 do CPPM. Se o acusado declarar no ter advogado, o juiz lhe nomeia um (artigo 431, pargrafo 1, CPPM). O acusado preso  requisitado para se ver julgar, logo, se a autoridade deixar de apresent-lo na sesso de julgamento, nova sesso de julgamento ser designada (artigo 431, pargrafo 3, CPPM). O direito de presena do acusado deve ser garantido pelo juiz. Se o estado de sade no permitir a sua permanncia e se houver recusa do advogado em continuar a sesso de julgamento, o juiz deve interromp-la e marcar nova sesso, notificando o ru e o defensor por ele constitudo. Iniciada a sesso de julgamento, nos termos do artigo 432 do CPPM, o presidente do Conselho de Justia ordenar que o escrivo proceda  leitura a) da denncia e seu aditamento se houver;
+b) do exame de corpo de delito e a concluso de outros exames ou percias fundamentais  configurao ou classificao do crime;
+c) do interrogatrio do acusado;
+d) de qualquer outra pea dos autos, cuja leitura for proposta por algum dos juzes, ou requerida por qualquer das partes, sendo, nesse caso, ordenada pelo presidente do Conselho de Justia, se deferir o pedido.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz deve notificar o acusado para nomeação de um novo defensor, caso o acusado não compareça à sessão de julgamento. O direito de presença do acusado deve ser garantido pelo juiz. Iniciada a sessão de julgamento, o presidente do Conselho de Justiça ordenará a leitura da denúncia, exame de corpo de delito, interrogatório do acusado e de outras peças dos autos.

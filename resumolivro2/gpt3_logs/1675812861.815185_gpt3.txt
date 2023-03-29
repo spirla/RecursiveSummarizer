@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A doutrina sublinha que os embargos de declarao podem ser opostos contra qualquer deciso judicial, porque as decises judicirias devem ser claras e precisas, e s quando o forem surgiro elas ntegras e perfeitas. Se inocorrente omisso, contradio, obscuridade ou omisso no julgado, so inviveis embargos de declarao. De sorte que so inadmissveis embargos de declarao a pretexto de esclarecer uma inexistente situao de obscuridade, omisso ou contradio utilizados com o objetivo de reexaminar a causa. Cabem embargos de declarao se a parte, com o esclarecimento da obscuridade, ambiguidade omisso ou contradio, puder alcanar resultado favorvel. A ambiguidade pode resultar de emprego de termos de acepo dupla ou mltipla, sem que do contexto ressalte o verdadeiro sentido no caso. A obscuridade  a falta de clareza nas ideias ou nas expresses, dificultando seu entendimento. A contradio decorre da existncia de proposies inconciliveis entre si. A contradio pode se dar na fundamentao da sentena ou entre a fundamentao e o dispositivo da sentena. A omisso decorre da ausncia de manifestao sobre questo de fato ou de direito arguida pela parte, ou sobre questo que o julgador deveria conhecer ex officio. H omisso no acrdo no ponto que deveria ter sido decidido e no o foi. O julgado no observou todos os argumentos ou todas as questes deduzidas pelas partes;
+ou, deixou de apreciar questes relevantes suscitadas pelas partes ou cognoscveis de ofcio. Inexiste omisso quando se tratar de matria cuja apreciao dependia de provocao da parte. O cabimento de embargos declaratrios a ttulo de omisso do julgado pressupe a existncia de questo no enfrentada, embora suscitada por ocasio do recurso interposto.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os embargos de declaração podem ser opostos contra qualquer decisão judicial que não seja clara e precisa. Eles são inválidos se houver omissão, contradição, obscuridade ou omissão no julgado. A ambiguidade, obscuridade, contradição e omissão são as principais razões para a interposição de embargos de declaração. A omissão ocorre quando há ausência de manifestação sobre fato ou direito arguido pela parte ou quando o julgador deixa de apreciar questões relevantes.

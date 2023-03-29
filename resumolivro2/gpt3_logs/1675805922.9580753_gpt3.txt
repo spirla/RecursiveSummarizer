@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+7.2.3. Legitimidade para agir. Por legitimao para a causa, ou legitimatio ad causam, entende-se a situao correspondente  titularidade ativa ou passiva da relao jurdica cuja definio ou realizao constitui objeto do processo. Em princpio, o titular da ao penal  o titular do direito subjetivo material. Na ao penal militar de iniciativa pblica o direito de ao  exercido pelo Ministrio Pblico (CPPM, artigo 34). No STM tm legitimidade ativa os subprocuradores-gerais da Justia Militar designados (artigo 140, LC 75/1993) e junto s Auditorias Militares os procuradores e os promotores do Ministrio Pblico Militar (artigos 143 e 145, LC 75/1993). De forma correlata, nos Estados e no Distrito Federal, os procuradores de Justia que oficiam perante o tribunal local e os promotores de Justia junto s Auditorias Militares. Na ao penal militar de iniciativa privada o direito de punir  do Estado, mas tem legitimidade para a causa o ofendido. A denncia no  recebida se manifesta a ilegitimidade do acusador (artigo 78, d, 2 parte, CPPM). A legitimatioad causam  diferente da legitimatio ad processum. O menor de 18 anos vtima de crime de ao penal privada tem legitimatioad causam, mas no tem legitimatio ad processum, que  a capacidade para estar em juzo. A falta de capacidade processual (legitimatio ad processum)  suprida pela representao legal, a quem cabe intentar ao penal privada (artigo 30, CPP). O advogado, por sua vez, tem capacidade postulatria, que  a capacidade para praticar atos processuais em juzo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Legitimidade para agir é a titularidade ativa ou passiva da relação jurídica cuja definição ou realização é objeto do processo. Na ação penal militar de iniciativa pública, o direito de ação é exercido pelo Ministério Público. Na ação penal militar de iniciativa privada, o direito de punir é do Estado, mas a legitimidade para a causa é do ofendido. O menor de 18 anos vítima de crime de ação penal privada tem legitimidade para a causa, mas não tem capacidade para estar em juízo, que é suprida pela representação legal. O advogado tem capacidade postulatória para praticar atos processuais em juízo.

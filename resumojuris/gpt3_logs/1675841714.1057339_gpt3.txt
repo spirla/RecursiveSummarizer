@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com relacao as circunstancias do crime, para fins do art. 59 do CP, tal vetorial deve abordar analise sobre os aspectos objetivos e subjetivos de natureza acidental que envolvem o delito. No caso, a valoracao negativa considerou o fato do crime ter sido praticado no interior de transporte coletivo, local de grande circulacao de pessoas. De fato, a pratica de crimes de roubo dentro de transportes coletivos autoriza, nos termos da abalizada jurisprudencia desta Corte Superior, a elevacao da pena-base por consistir, via de regra, em fundamento idoneo para considerar desfavoravel circunstancia judicial. Isso porque no transporte publico ha comumente grande circulacao de pessoas, o que eleva a periculosidade da acao. Todavia, observa-se que as circunstancias concretas do presente caso demonstram que a acao nao desbordou da periculosidade propria do tipo. Conforme mencionado pela propria vitima, o onibus estava vazio no momento do delito, o qual foi praticado com simulacro de arma de fogo. Tais circunstancias concretas (onibus vazio e uso de simulacro de arma de fogo) evidenciam que o modus operandi do delito foi normal a especie, nao se justificando a elevacao da reprimenda. Portanto, de rigor o afastamento da valoracao negativa das circunstancias judiciais relativas as circunstancias do crime. (Informativo n. 727) 749 PROCESSO RHC 150.707-PE, Rel. Min. Joao Otavio de Noronha, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 59 do CP deve abordar análise sobre os aspectos objetivos e subjetivos de natureza acidental que envolvem o delito. 2. A prática de crimes de roubo dentro de transportes coletivos autoriza a elevação da pena-base. 3. O transporte público possui grande circulação de pessoas, o que eleva a periculosidade da ação. 4. No caso em questão, as circunstâncias concretas evidenciam que o modus operandi do delito foi normal a espécie, não se justificando a elevação da reprimenda. 5. É de rigor o afastamento da valoração negativa das circunstâncias judiciais relativas às circunstâncias do crime.

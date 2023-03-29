@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Apos decretar a prisao a pedido do Ministerio Publico, o magistrado nao e obrigado a revoga-la, quando novamente requerido pelo Parquet. 6. Agravo improvido (HC n. 203.208 AgR, Rel. Ministro Gilmar Mendes, 2 T., DJe 30/8/2021). Saliente-se que esse e igualmente o posicionamento adotado quando o Ministerio Publico pugna pela absolvicao do acusado em alegacoes finais ou memoriais e, mesmo assim, o magistrado nao e obrigado a absolve- lo, podendo agir de acordo com sua discricionariedade. Dessa forma, a determinacao do magistrado, em sentido diverso do requerido pelo Ministerio Publico, pela autoridade policial ou pelo ofendido, nao pode ser considerada como atuacao ex officio, uma vez que lhe e permitido atuar conforme os ditames legais, desde que previamente provocado, no exercicio de sua jurisdicao. (Informativo n. 725) 1294 PROCESSO HC 674.139-SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 15/02/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Busca e apreensao. Domicilio como expressao do direito a intimidade. Asilo inviolavel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O magistrado não é obrigado a revogar a prisão a pedido do Ministério Público, mesmo que novamente requerido. 2. O magistrado não é obrigado a absolver o acusado, mesmo que o Ministério Público pugne pela absolvição. 3. A determinação do magistrado, em sentido diverso do requerido pelo Ministério Público, pela autoridade policial ou pelo ofendido, não pode ser considerada como atuação ex officio. 4. O direito à intimidade é expressão do domicílio, que é asilo inviolável.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A adequada aplicao da teoria da imputao objetiva implica determinar se foi o risco juridicamente proibido derivado da atuao do primeiro sujeito ou o criado por quem interrompeu a ao de salvamento que se realizou nos resultados produzidos, explicando a ocorrncia do dano. Considere-se o seguinte exemplo: um homem  jogado ao mar de uma embarcao durante um combate corporal. Um terceiro pretende lanar um salva-vidas ao homem que est se afogando, mas desiste ao reconhecer nele um inimigo. Como a ao de salvamento no teve incio, no se pode realmente falar em interrupo. Caso esteja na posio de garantidor, o omitente comete crime omissivo imprprio ao permitir que a vtima morra. Se no for garantidor, no comete crime omissivo prprio, pois no h no estatuto repressivo militar previso nesse sentido. No entanto, se a possibilidade concreta de salvamento apresentar-se com o lanamento do salva-vidas e os primeiros movimentos de resgate da vtima, no caso de o salvador desistir de prosseguir com o salvamento, verificando-se o afogamento da vtima, a soluo no  to simples. A hiptese conduz  discusso do importante problema da distino entre ao e omisso. A dificuldade da distino adquire especial importncia na soluo dos casos que envolvem os procedimentos de salvamento no mbito de atuao mdica, quando  necessrio averiguar se a conduta  considerada ao ou omisso e quais os reflexos de tal classificao para a imputao do resultado ao mdico. Vejam-se os seguintes exemplos:713 a) o mdico deixa de conectar o paciente ao respirador artificial porque este se recusa, sobrevindo o resultado morte; b) o mdico retira o respirador artificial que foi conectado ao paciente porque este lhe pede, sobrevindo o resultado morte; c) a enfermeira, quando d banho no paciente invlido, deixa de sustentar-lhe a cabea para fora da gua porque este lhe pede, sobrevindo a morte do paciente por afogamento. Havendo conexo do paciente aos respiradores artificiais, fica evidente que a distino entre ao e omisso possui singular relevncia. Embora o mdico esteja autorizado a empreender todos os procedimentos capazes de prolongar a vida do paciente, no est autorizado a produzir a morte dele para acabar com sua intil agonia. O homicdio eutansico ou por piedade  crime, embora permita a reduo da pena (artigo 205, pargrafo 1, do CPM).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria da imputao objetiva se aplica ao determinar se foi o risco proibido causado pela ao do primeiro sujeito ou pelo criado por quem interrompeu a ao de salvamento que resultou no dano. Exemplos de casos que envolvem procedimentos de salvamento no mbito mdico são apresentados para discutir a distinção entre ação e omissão. Embora o médico esteja autorizado a prolongar a vida do paciente, não está autorizado a produzir sua morte.

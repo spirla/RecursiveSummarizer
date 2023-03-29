@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ART. 1.021,  4, DO CDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. [..] VII - Em processo administrativo disciplinar, quando verificado que a conduta imputada ao investigado configura hiptese na qual a lei impe a pena de demisso, a Administrao Pblica no pode aplicar sano mais branda, porquanto se trata de ato vinculado. LJ (AgInt no RMS n. 49.464/BA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/8/2022, DJe de 12/8/2022.) Grifei ADMINISTRATIVO. MANDADO DE SEGURANA. SERVIDORA PBLICA FEDERAL. IMPROBIDADE. DEMISSO. ATO VINCULADO. PROCESSO ADMINISTRATIVO DISCIPLINAR. VIOLAO DOS PRINCPIOS DA LEGALIDADE, RAZOABILIDADE E PROPORCIONALIDADE. NO OCORRNCIA. SMULA 650/STJ. ORDEM DENEGADA. 1. No viola o princpio da legalidade a responsabilizao administrativa de servidor pblico, ainda quando absolvido por insuficincia de provas em ao penal, a que tenha respondido pelos mesmos fatos. Inteligncia do disposto no art. 126 da Lei n. 8.112/1990.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Desacolhimento do Mandado de Segurana impetrado por servidora pública federal, pois a responsabilização administrativa não viola o princípio da legalidade, mesmo que absolvida por insuficiência de provas na ação penal.

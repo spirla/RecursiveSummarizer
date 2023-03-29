@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Conforme se extrai do regime juridico do art. 175 da CF/88 e da Lei de Concessoes - Lei n. 8.987/1995, o Estado delega a prestacao de alguns servicos publicos, resguardando a si, na qualidade de poder concedente, a prerrogativa de regulamentar, controlar e fiscalizar a atuacao do delegatario. No ambito desse controle e fiscalizacao, a intervencao no contrato de concessao constitui um dever e uma prerrogativa de que dispoe o poder concedente, visando assegurar a adequacao na prestacao do servico publico, bem como o fiel cumprimento das normas contratuais, regulamentares e legais pertinentes, segundo dispoe o art. 32 da Lei n. 8.987/1995. De um lado, o poder concedente deve instaurar procedimento administrativo para comprovar as causas determinantes da medida e apurar responsabilidades, assegurado o direito de ampla defesa (art. 33 da Lei n. 8.987/1995). De outro, nao se pode desconsiderar que eventuais ilegalidades no curso do procedimento devem ser aferidas em consonancia com a regra geral do ordenamento juridico de que a decretacao da nulidade depende de comprovacao de prejuizo. Nos termos do art. 33 da Lei n. 8.987/1995: Declarada a intervencao, o poder concedente devera, no prazo de trinta dias, instaurar procedimento administrativo para comprovar as causas determinantes da medida e apurar responsabilidades, assegurado o direito de ampla defesa. Verifica-se que, em se tratando de intervencao, o direito de defesa do concessionario so e propiciado apos a decretacao da intervencao, a partir do momento em que for instaurado o procedimento administrativo para apuracao das irregularidades. Isso porque a intervencao possui finalidades investigatoria e fiscalizatoria, e nao punitiva. Assim, e dispensavel estabelecer contraditorio previo a decretacao da intervencao, ausente determinacao na Lei n. 8.987/1995.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Estado tem a prerrogativa de regulamentar, controlar e fiscalizar a atuação do delegatário na prestação de serviços públicos. 2. O poder concedente deve instaurar procedimento administrativo para comprovar as causas determinantes da medida e apurar responsabilidades, assegurando o direito de ampla defesa. 3. A decretação da nulidade depende de comprovação de prejuízo. 4. O direito de defesa do concessionário só é propiciado a partir do momento em que for instaurado o procedimento administrativo para apuração das irregularidades. 5. A intervenção possui finalidades investigatórias e fiscalizatórias, não punitivas. 6. Não é necessário estabelecer contraditório prévio à decretação da intervenção.

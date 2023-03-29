@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+2 e 3, III. Processo MS 17.526-DF, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF da 5 Regiao), Primeira Secao, por unanimidade, julgado em 9/11/2022, DJe 16/11/2022. Ramo do Direito DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL Tema Anistia politica. Cabos da Aeronautica. Revisao. Exercicio da autotutela da Administracao Publica. Decadencia. Nao ocorrencia. Tema 839/STF. DESTAQUE O decurso do lapso temporal de 5 (cinco) anos nao e causa impeditiva bastante para inibir a Administracao Publica de revisar os atos de concessao de anistia a cabos da Aeronautica relativos a Portaria 1.104, editada pelo Ministro de Estado da Aeronautica, em 12 de outubro de 1964. 12 O Supremo Tribunal Federal efetuou o julgamento do Tema 839 da pauta de repercussao geral, tendo emitido a tese de que, no exercicio de seu poder de autotutela, podera a Administracao Publica rever os atos de concessao de anistia a cabos da Aeronautica relativos a Portaria n. 1.104, editada pelo Ministro de Estado da Aeronautica, em 12 de outubro de 1964 quando se comprovar a ausencia de ato com motivacao exclusivamente politica, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a nao devolucao das verbas ja recebidas (RE 817.338/DF, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O decurso do lapso temporal de 5 (cinco) anos não é causa impeditiva bastante para inibir a Administração Pública de revisar os atos de concessão de anistia a cabos da Aeronautica relativos a Portaria 1.104, editada pelo Ministro de Estado da Aeronautica, em 12 de outubro de 1964. 2. O Supremo Tribunal Federal efetuou o julgamento do Tema 839 da pauta de repercussão geral, tendo emitido a tese de que, no exercício de seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronautica relativos a Portaria n. 1.104, editada pelo Ministro de Estado da Aeronautica, em 12 de outubro de 1964 quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas.

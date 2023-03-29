@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+60 Ademais, a postulacao da producao probatoria perante a Secretaria de Defesa Economica - SDE, nos termos do art. 37 da Lei n. 8.884/1994 (Lei vigente a epoca), nao e o momento exclusivo para o acusado faze-lo, tanto que ha previsao expressa para que o relator no CADE analise requerimento de prova, constante do citado art. 43 da mesma Lei. Desse modo, nao ha que se falar em preclusao ou em extemporaneidade, quando a propria lei preve expressamente duas oportunidades para o requerimento da producao de prova, uma delas perante o relator no CADE. (Informativo  Ed. Especial n. 8) Lei n. 9.784/1999, arts. 2 e 50, I. Lei n. 8.884/1994, arts. 37 e 43. 61 DIREITO EMPRESARIAL 62 SEGUNDA TURMA Voltar ao Sumario. Processo REsp 1.812.828-SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, por unanimidade, julgado em 16/8/2022, DJe 31/8/2022. Ramo do Direito DIREITO TRIBUTARIO, DIREITO EMPRESARIAL Tema Salario-educacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O requerimento de produção de prova perante a Secretaria de Defesa Econômica - SDE, nos termos do art. 37 da Lei n. 8.884/1994, não é o momento exclusivo para o acusado fazê-lo. 2. Há previsão expressa para que o relator no CADE analise requerimento de prova, constante do citado art. 43 da mesma Lei. 3. Não há que se falar em preclusão ou em extemporaneidade, quando a própria lei prevê expressamente duas oportunidades para o requerimento da produção de prova, uma delas perante o relator no CADE.

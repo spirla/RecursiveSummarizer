@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a Lei 9.714/98 alterou o sistema de penas alternativas, inclusive no que diz respeito  converso dessas em privativa de liberdade, e no ressalvou a converso da prestao pecuniria,  foroso concluir que, havendo o descumprimento injustificado da restrio imposta,  possvel sua converso em privao da liberdade. Havendo a converso da prestao pecuniria em pena privativa de liberdade, em princpio, o condenado deve cumprir toda a pena privativa de liberdade imposta na sentena condenatria. Essa soluo, contudo, somente se apresenta quando o condenado no tiver pago qualquer parte da prestao pecuniria estabelecida. Se a converso acontecer aps o pagamento parcial da prestao pecuniria (no caso de parcelamento mensal), o juiz deve deduzir da pena privativa de liberdade uma parte que possa compensar o pagamento j efetuado pelo condenado.  que o pargrafo 4 do artigo 44 do CP determina que, na converso de penas restritivas de direito em privativas de liberdade, o juiz dever deduzir o tempo de pena restritiva cumprido pelo condenado. A prestao pecuniria  espcie de restrio de direitos que no se vincula a determinado tempo de cumprimento. Mas, se  possvel a detrao do tempo de cumprimento de outras espcies de restrio de direitos, deve-se tambm abater parte da pena privativa de liberdade, no caso de pagamento parcial da prestao pecuniria. Beneficirios. A distino relevante entre a multa e a prestao pecuniria  que o destinatrio dos valores obtidos em decorrncia da multa criminal  o Estado, enquanto, na prestao pecuniria , em regra, a vtima ou seus dependentes. A prestao pecuniria resulta da tendncia de valorizar o papel da vtima no sistema repressivo, a qual decorre do entendimento de que a reparao dos danos impostos pelo crime interessa mais  sociedade do que  vtima imediata da ao criminosa. A perspectiva da reparao dos danos causados pelo crime no est restrita aos danos materiais, sendo possvel que a prestao pecuniria tambm venha a atender aos interesses de reparao dos danos morais sofridos pela vtima. Quando no houver dano a reparar ou se no houver vtima imediata, a prestao pecuniria dever ser destinada  entidade pblica ou privada com destinao social.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.714/98 alterou o sistema de penas alternativas, permitindo a conversão de penas restritivas em privação de liberdade. Em caso de parcelamento da prestação pecuniria, o juiz deverá deduzir da pena privativa de liberdade uma parte que possa compensar o pagamento efetuado pelo condenado. A prestação pecuniria é destinada à reparação dos danos materiais e morais sofridos pela vítima ou, quando não houver vítima imediata, à entidade pública ou privada com destinação social.

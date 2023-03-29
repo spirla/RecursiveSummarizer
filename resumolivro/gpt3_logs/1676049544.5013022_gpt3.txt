@@ -1,0 +1,24 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Pode-se representar graficamente o seguinte exemplo de aberratio ictus com um nico resultado:
+A, agindo com dolo de matar B, erra, atinge e mata C. Considera-se que o resultado morte produzido em C teria ocorrido em B:
+na realidade ocorre. artigo 121 c/c artigo 14, II -> B.
+artigo 121, pargrafo 3 -> C.
+conforme o aberratio ictus. artigo 121, caput -> B.
+na forma do artigo 70:
+mnimo - 2 anos e 4 meses. mximo - 14 anos e 4 meses. mnimo - 6 anos. mximo - 20 anos. O aberratio ictus pode, ainda, produzir mais de um resultado. Estabelece a parte final do artigo 73 que no caso de ser tambm atingida a pessoa que o sujeito pretendia ofender aplica-se a regra do concurso formal, em que a mais grave das penas cabveis ou, no caso de serem iguais, somente uma delas, deve ser aumentada de um sexto at metade. Por disposio legal expressa no pargrafo nico do artigo 70, a pena a ser estabelecida pelas regras do concurso formal no poder exceder a que seria cabvel pela regra do concurso material. A parte final do artigo 73 do CP prev a hiptese em que o aberratio ictus apresenta dois ou mais resultados, sendo que a vtima potencial tambm  atingida. Se o resultado pretendido pelo sujeito, mais grave, no se verifica na pessoa visada, mas em outra no visada, a primeira parte do referido dispositivo legal determina que se considere o resultado mais grave como sendo praticado contra a pessoa visada, e a parte final determina que os demais resultados sejam considerados em concurso formal. Certamente, aps considerar a troca entre a vtima efetiva e a potencial, todos os demais resultados produzidos devem ser computados a ttulo de culpa. Os crimes resultantes do erro somente podem ser atribudos ao sujeito a ttulo de culpa. Admitir o contrrio seria defender a responsabilizao objetiva. Ressalte-se, entretanto, que, havendo previso e concordncia quanto  produo dos mltiplos resultados, no haver desvio do golpe. Tratando-se de um nico contexto comportamental, haver concurso formal imprprio, no qual as penas devero ser cumuladas segundo as regras do concurso material. Pode-se representar graficamente o seguinte exemplo de aberratio ictus com mltiplos resultados:
+A, agindo com dolo de matar B, erra, atinge e lesiona B; atinge e mata C; atinge e lesiona D; atinge e mata E. Troca-se qualquer uma das vtimas efetivas em que ocorreu o resultado pretendido pela vtima potencial e computam-se os demais resultados a ttulo de culpa:
+Teramos, ento, que:
+na realidade ocorre.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Aberratio ictus é um erro de golpe que pode produzir um ou mais resultados, aplicando-se a regra do concurso formal para a vítima pretendida e a culpa para as demais vítimas. Se houver previsão e concordância quanto à produção dos múltiplos resultados, haverá concurso formal impróprio, com as penas sendo cumuladas segundo as regras do concurso material.

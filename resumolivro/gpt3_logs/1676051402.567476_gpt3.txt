@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No tipo misto cumulativo, por sua vez, os verbos inseridos na descrio tpica esto envolvidos em relao de complementariedade.  necessrio que ocorra duas ou mais condutas descritas no tipo para que se caracterize o contexto comportamental necessrio  violao da norma jurdica. O crime de estelionato (artigo 171) constitui bom exemplo de tipo misto cumulativo. O crime possui a seguinte descrio tpica: obter, para si ou para outrem, vantagem ilcita, em prejuzo alheio, induzindo ou mantendo algum em erro, mediante artifcio, ardil, ou qualquer outro meio fraudulento. Nessa construo pode-se constatar a utilizao dos verbos obter, induzir e manter. O primeiro verbo descreve o objetivo fundamental da conduta punvel e permite perceber o contexto em que se realiza o comportamento proibido. Os outros dois verbos so descritivos dos meios de execuo necessrios  incriminao. Para a consumao do crime  necessrio que o autor obtenha vantagem ilcita, induzindo a vtima em erro, ou obtenha vantagem ilcita, mantendo a vtima em erro. Os verbos descritivos dos meios de execuo (induzir e manter) vinculam a conduta punvel e complementam o verbo descritivo da conduta que encerra o contexto comportamental proibido (obter). Assim, pode-se constatar a necessria complementariedade entre os verbos cumulativos que descrevem o meio de execuo do crime e o desfecho do comportamento punvel. No se verificando no caso concreto esta complementariedade entre o meio de execuo e o desfecho, no se caracteriza o tipo de estelionato. Cabe ainda observar que, em alguns dispositivos legais, o legislador verdadeiramente cumulou tipos penais distintos e no se pode aplicar a regra dos tipos mistos cumulativos. Isso acontece, por exemplo, nas figuras especficas de estelionato, previstas nos incisos do pargrafo 2 do artigo 171 do Cdigo Penal, em que a realizao de cada conduta caracteriza um crime de estelionato autnomo. 23.4.5. Crime habitual. O crime habitual possui como peculiaridade a descrio tpica de uma conduta reiterada, sendo que somente esto consumados quando tal reiterao de conduta se verificar. A conduta punvel , na realidade, abrangente de vrias condutas que somente  considerada inadequada devido ao seu conjunto. O significado dos verbos que constituem o ncleo do tipo do crime habitual expressa a necessidade de repetio de determinada conduta, de modo que a violao da norma jurdica que  subjacente ao preceito incriminador depende dessa reiterao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tipo misto cumulativo é caracterizado pela necessidade de ocorrência de duas ou mais condutas descritas para a violação da norma jurdica. O crime de estelionato (artigo 171) é um bom exemplo, onde é necessário obter vantagem ilícita, induzindo ou mantendo alguém em erro. Já o crime habitual possui como peculiaridade a descrição típica de uma conduta reiterada, sendo consumado quando tal reiteração se verificar.

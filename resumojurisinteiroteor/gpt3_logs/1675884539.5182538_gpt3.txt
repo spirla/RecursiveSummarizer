@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Na oportunidade determinou, com fulcro no artigo 357 do Cdigo de Processo Civil (CPC), que as partes apresentassem, de maneira resumida, as alegaes que deveriam ser examinadas na sentena (Evento 14). O Estado de Minas Gerais ratificou o inteiro teor de sua constestao, bem como requereu a improcedncia dos pedidos autorais (Evento 18). J a defesa do autor requereu a produo de prova testemunhal, bem como a realizao de percia psiquitrica (Evento 20). O MM. juzo a quo indeferiu as provas requeridas pelo autor e determinou a juntada, com observncia da ordem lgica e cronolgica dos documentos relativos ao Processo Administrativo-Disciplinar de Portaria n. 109.492/2017/PAD-11 a RPM (Evento 22). A defesa do autor peticionou requerendo a reconsiderao da deciso que indeferiu a percia psiquitrica e a oitiva de testemunhas, alegando serem as provas imprescindveis para o deslinde do caso. No ensejo, juntou cpia do PAD (Evento 25). O juzo a quo manteve a deciso pelos seus prprios fundamentos (Evento 27). O autor manifestou cincia (Evento 30). Intimada, a defesa do autor apresentou suas alegaes finais(Evento 38). O MM. juiz de direito da 5a AJME-Cvel decidiu o feito, in verbis: [...] Analisando-se os autos deste processo verifica-se que as narrativas e alegaes do autor referem-se exclusivamente a mrito do ato administrativo disciplinar, cuja competncia  da autoridade sancionadora, o Comandante-Geral da PMMG, nos termos do art. 74, 1, do CEDM. Neste mister, o juzo no interfere, porque, considerando o art. 6 da Constituio Federal, o Poder Judicirio deve atuar respeitando os atos emanados pelo Poder Executivo. A harmonia e independncia entre os poderes  pressuposto da repblica brasileira. Quanto  forma e  legalidade, cuja observncia na prtica do ato administrativo pode ser analisada pelo Poder Judicirio, nenhuma prova de desvio o autor apresentou. A demisso do ator foi consequncia de correta apurao administrativa, na qual teve a oportunidade de exercitar os princpios constitucionais do contraditrio e da ampla defesa. O ato de demisso est motivado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz de direito da 5a AJME-Cvel decidiu que o Poder Judicirio no interfere na competncia da autoridade sancionadora, pois deve respeitar os atos emanados pelo Poder Executivo. O ato de demisso foi consequncia de correta apurao administrativa, na qual o autor teve a oportunidade de exercitar os princpios constitucionais do contraditrio e da ampla defesa, estando motivado.

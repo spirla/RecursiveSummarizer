@@ -1,0 +1,27 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Classifica Diogo Malan os vcios na fundamentao da sentena:
+(1) inexistncia:
+ausncia do prprio captulo relativo  fundamentao;
+(2) incompletude:
+falta do exame de ponto obrigatrio;
+(3) contradio:
+incompatibilidade entre as premissas e concluses da prpria fundamentao, ou entre a fundamentao e o dispositivo;
+(4) subjacncia:
+rejeio implcita de determinado argumento ou prova, sem explicao das razes especficas para tanto;
+(5) motivao per relationem:
+tomada por emprstimo de fundamentao estranha  prpria sentena;
+(6) polivalncia:
+cariz to genrico que se presta a qualquer sentena semelhante. Ao interpretar o artigo 93, IX, da CF/1988, o STF decidiu que a falta de fundamentao no se confunde com fundamentao sucinta. O STF decidiu revelar-se legtima e plenamente compatvel com a exigncia imposta pelo artigo 93, IX, da Constituio da Repblica a utilizao, por magistrados, da tcnica da motivao per relationem, que se caracteriza pela remisso que o ato judicial expressamente faz a outras manifestaes ou peas processuais existentes nos autos, mesmo as produzidas pelas partes, pelo Ministrio Pblico ou por autoridades pblicas, cujo teor indique os fundamentos de fato e/ou de direito que justifiquem a deciso emanada do Poder Judicirio. O dispositivo  o ltimo captulo da sentena em que o juiz indica os dispositivos legais em que o ru incorreu ou o que o levou absolv-lo. A falta da parte dispositiva  causa de nulidade, pois constitui requisito essencial da sentena. Nem poderia ser diferente:  na parte dispositiva que o juiz aplica o direito ao caso concreto, a exprimindo a vontade imperativa do Estado e fornecendo os limites para a posterior delimitao da coisa julgada. O dispositivo , enfim, a verdadeira sede da deciso. 16.2. Sentena condenatria. 16.2.1. Dosimetria da pena e regime prisional.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF decidiu que a falta de fundamentação na sentença não se confunde com fundamentação sucinta. O dispositivo é o último capítulo da sentença em que o juiz indica os dispositivos legais aplicáveis ao caso, sendo a sua falta causa de nulidade. O STF também decidiu que é legítimo o uso da técnica da motivação per relationem, que se caracteriza pela remissão a outras manifestações ou peças processuais existentes nos autos. Além disso, a sentença condenatória deve conter a dosimetria da pena e o regime prisional.

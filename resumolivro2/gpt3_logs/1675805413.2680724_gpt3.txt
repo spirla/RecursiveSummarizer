@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Lei Federal 8.906/94 - Estatuto da Advocacia e a Ordem dos Advogados do Brasil - no inciso XXI do artigo 7 confere ao advogado o direito de:
+assistir a seus clientes investigados durante a apurao de infraes, sob pena de nulidade absoluta do respectivo interrogatrio ou depoimento e, subsequentemente, de todos os elementos investigatrios e probatrios dele decorrentes ou derivados, direta ou indiretamente, podendo, inclusive, no curso da respectiva apurao. O dispositivo legal garantiu ao advogado o direito de estar presente no interrogatrio do seu cliente e nos demais depoimentos. Decidiu a 2 Turma do STF (AgReg Pet. 7612/DF):
+As alteraes promovidas pela Lei 13.245/2016 no artigo 7, XXI, do Estatuto da Ordem dos Advogados representam reforo das prerrogativas da defesa tcnica no curso do inqurito policial, sem comprometer, de modo algum, o carter inquisitrio da fase investigativa preliminar. Alm de estar presente, o advogado tem direito de apresentar razes (argumentar e defender seu ponto de vista sobre algo que v ser decidido pela autoridade policial ou sobre alguma diligncia que precise ser tomada) e de apresentar quesitos (formular perguntas). As razes e os quesitos podero ser formulados durante o interrogatrio e o depoimento ou, ento, por escrito, durante o curso do procedimento de investigao, como no caso de um requerimento de diligncia ou da formulao de quesitos a serem respondidos pelo perito. O direito de apresentar quesitos a serem respondidos pelos peritos j era previsto no artigo 316 do CPPM. A autoridade de polcia judiciria militar julgando impertinente pode indeferir o requerimento do advogado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei Federal 8.906/94 garante ao advogado o direito de estar presente no interrogatório e nos demais depoimentos de seu cliente, além de apresentar razões e quesitos durante o procedimento de investigação. A autoridade policial pode indeferir o requerimento do advogado se julgar impertinente.

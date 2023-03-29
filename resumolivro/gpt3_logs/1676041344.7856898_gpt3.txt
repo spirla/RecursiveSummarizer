@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Constituio da Repblica consolida a expresso mais completa e atual da vontade popular sobre as questes que regem a sociedade. Por isso, pode-se entender que em seus diversos artigos a Constituio desenha o modelo de sociedade justa que espera se realize na vida associativa. Apesar de no trazer uma definio para a Justia, a Constituio permite entender o que deva ser uma sociedade justa. Pode-se, ento, falar de uma Justia constitucional, que estabelece o padro normativo fundamental para as expectativas sociais, seja nas relaes interindividuais, seja nas relaes entre os indivduos e as instituies da estrutura bsica da sociedade. O modelo constitucional desenhado como justo para a interveno punitiva parte da garantia fundamental da estrita observncia  reserva legal (justia social, de Kelsen), mas somente admite uma interpretao da legislao repressiva que se mostre em conformidade com os valores, princpios e normas constitucionais. Nesse sentido, afirma Barroso que a disciplina jurdica dada a determinada infrao ou a pena aplicvel no deve ir alm nem tampouco ficar aqum do necessrio  proteo dos valores constitucionais em questo. No primeiro caso, haver inconstitucionalidade por falta de razoabilidade ou proporcionalidade. No segundo, por omisso em atuar na forma reclamada pela Constituio. Nesse contexto, o Direito constitucionalizado impe limites  atividade legislativa incriminadora ao caracterizar o crime por seu aspecto material de sua lesividade ao bem jurdico. A ideia de limitar a atividade do legislador penal  anterior ao neoconstitucionalismo, mas com a nova perspectiva os bens jurdicos e suas formas de ataque passaram a ser conformados nos termos constitucionais. A reprovao como justa resposta estatal  prtica da conduta proibida, por sua vez, deve observar os princpios constitucionais fundamentais da razoabilidade e da proporcionalidade, de modo a evitar qualquer forma de arbtrio ou excesso. Dessa forma, na teoria do crime, a imputao objetiva e a culpabilidade normativa ganham especial relevo. A realizao concreta da Justia penal constitucional no pode se basear apenas na ideia extremada da frmula de Radbruch, que reconhece a invalidade da lei ou da deciso judicial apenas diante da injustia extrema. No se pode aplicar uma lei que contenha qualquer grau de injustia e no se pode proferir uma deciso judicial de qualquer forma injusta, pois em tais casos viola-se o disposto no artigo 3, inciso I, de nossa carta constitucional.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituio da Repblica desenha o modelo de sociedade justa, limitando a atividade legislativa incriminadora e garantindo a observncia dos princpios constitucionais fundamentais da razoabilidade e da proporcionalidade. A realizao concreta da Justia penal constitucional no pode se basear na ideia extremada da frmula de Radbruch, pois qualquer forma de injustia viola o artigo 3, inciso I, da Constituio.

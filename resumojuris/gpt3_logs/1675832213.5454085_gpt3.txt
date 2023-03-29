@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A soma das horas de recolhimento domiciliar a que o reu foi submetido devem ser convertidas em dias para contagem da detracao da pena. Se no computo total remanescer periodo menor que vinte e quatro horas, essa fracao de dia devera ser desprezada. A reflexao sobre o abatimento na pena definitiva do tempo de cumprimento da medida cautelar prevista no art. 319, VII, do CPP (recolhimento domiciliar noturno e nos dias de folga), surge da ausencia de previsao legal. Nos termos do art. 42 do CP: Computam-se, na pena privativa de liberdade e na medida de seguranca, o tempo de prisao provisoria, no Brasil ou no estrangeiro, o de prisao administrativa e o de internacao em qualquer dos estabelecimentos referidos no artigo anterior . A cautelar de recolhimento domiciliar noturno e nos dias de folga estabelece que o investigado devera permanecer recolhido em seu domicilio nesses periodos, desde que possua residencia e trabalho fixos. Essa medida nao se confunde com a prisao domiciliar, mas diferencia-se de outras cautelares na limitacao de direitos, pois atinge diretamente a liberdade de locomocao do investigado, ainda que de forma parcial e/ou momentanea, impondo-lhe a permanencia no local em que reside. 53 Nesta Corte, o amadurecimento da questao partiu da interpretacao dada ao art. 42 do CP. Concluiu- se que o dispositivo nao era numerus clausus e, em uma compreensao extensiva in bonam partem, dever-se-ia permitir que o periodo de recolhimento noturno, por comprometer o status libertatis, fosse reconhecido como periodo detraido, em homenagem ao principio da proporcionalidade e em apreco ao principio do non bis in idem. A detracao penal da efetividade ao principio basilar da dignidade da pessoa humana e ao comando maximo do carater ressocializador das penas, que e um dos principais objetivos da execucao da pena no Brasil.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A soma das horas de recolhimento domiciliar a que o reu foi submetido deve ser convertida em dias para contagem da detração da pena. 2. Se no computo total remanescer periodo menor que vinte e quatro horas, essa fração de dia deverá ser desprezada. 3. O tempo de recolhimento domiciliar noturno e nos dias de folga deve ser reconhecido como periodo detraido, em homenagem ao princípio da proporcionalidade e em apreço ao princípio do non bis in idem. 4. A detração penal dá efetividade ao princípio basilar da dignidade da pessoa humana e ao comando máximo do caráter ressocializador das penas.

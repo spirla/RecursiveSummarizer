@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ainda que tenha sido apresentada proposta pelo Ministro Edson Fachin que, na pratica, poderia implicar litisconsorcio passivo da Uniao, tal premissa/conclusao nao integrou o julgamento que a Corte Suprema realizou no Tema 793. o STJ ja se manifestou reiteradas vezes sobre a quaestio iuris, estando pacificado o entendimento de que a ressalva contida na tese firmada nesse julgamento, quando estabelece a necessidade de se identificar o ente responsavel a partir dos criterios constitucionais de descentralizacao e hierarquizacao do SUS, relaciona-se ao cumprimento de sentenca e as regras de ressarcimento aplicaveis ao ente publico que suportou o onus financeiro decorrente do provimento jurisdicional que assegurou o direito a saude. Entender de maneira diversa seria afastar o carater solidario da obrigacao, o qual foi ratificado no precedente qualificado exarado pela Suprema Corte (STJ, RE nos EDcl no AgInt no CC 175.234/PR, Rel. Ministro Herman Benjamin, Primeira Secao, DJe de 15/03/2022). (Informativo n. 734) PROCESSO REsp 1.876.297-SC, Rel. Min. Francisco Falcao, Segunda Turma, por unanimidade, julgado em 05/04/2022, DJe 07/04/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO 217 TEMA Militar. Formacao. Curso Preparatorio de Oficiais da Reserva. Contagem de tempo de servico. Arts. 134, 2, da Lei n. 6.880/1980 e 63 da Lei n. 4.375/1964.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A proposta apresentada pelo Ministro Edson Fachin não integrou o julgamento realizado pela Corte Suprema no Tema 793. 2. O STJ já se manifestou reiteradas vezes sobre a questão iuris, estando pacificado o entendimento de que a ressalva contida na tese firmada nesse julgamento relaciona-se ao cumprimento de sentença e as regras de ressarcimento aplicáveis ao ente público que suportou o ônus financeiro decorrente do provimento jurisdicional. 3. A obrigação tem caráter solidário, o qual foi ratificado no precedente qualificado exarado pela Suprema Corte.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Afirma o professor espanhol que o princpio da culpabilidade no permite que sejam levados em considerao pressupostos distintos da ao culpvel para efeitos de criar ou agravar a responsabilidade penal. Na Alemanha, o Tribunal Supremo Federal consolidou o entendimento, advindo da teoria do mbito de aplicao ou do marco penal, no sentido de que a pena no deva ultrapassar o limite estabelecido pela culpabilidade do sujeito. Tal postura pretende evitar, primordialmente, que elementos vinculados ao modo de ser do sujeito possam agravar a reprimenda penal. Nesse sentido, Claus Roxin, alertando para o fato de que a culpabilidade  inadequada para, unicamente, fundamentar a aplicao da pena, percebe que esta se presta a limitar o poder estatal. O fim da preveno geral da punio apenas se pode conseguir na culpa individual. Se se vai mais alm e, portanto, se pretende que o autor expie as tendncias criminosas de outros, atenta-se realmente contra a dignidade humana. A eficcia protetora deste conceito consiste precisamente em que o particular  para a ordem jurdica a medida de todas as coisas, enquanto tem de responder com a sua pessoa por aquilo em que conceptualmente  culpado. Com o futuro comportamento de terceiros, ele nada tem a ver; se for punido devido a tais comportamentos isso equivaler, por mais dura que a comparao possa parecer,  responsabilidade pelo acaso ou pela estirpe6. Jescheck alerta para o fato de que. do princpio da culpabilidade se depreende, em primeiro lugar, que toda pena supe culpabilidade, de modo que no pode ser castigado quem atue sem culpabilidade (excluso da responsabilidade pelo resultado) e, em segundo lugar, que a pena no pode sobrepassar a medida da culpabilidade (medio da pena dentro do marco mximo da culpabilidade). Assevera Jescheck ainda que o princpio da culpabilidade serve, antes de tudo,  necessria proteo do criminoso, frente a toda extralimitao do Estado que exera uma ao repressiva7 e.
+constitui o ponto de referncia e limite superior da determinao da pena, porque representa o fundamento de toda a pena pblica... Em nenhum caso pode admitir-se, nem por razes ressocializadoras, nem de proteo da sociedade frente ao criminoso perigoso, uma pena superior ao que permite a culpabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da culpabilidade limita a ação repressiva do Estado e impede que elementos externos à ação culpável sejam levados em consideração para agravar a responsabilidade penal. Claus Roxin considera que a culpabilidade inadequada para fundamentar a punição e que o particular é a medida de todas as coisas, enquanto tem de responder com sua pessoa pelo que é culpado. Jescheck afirma que toda pena supõe culpabilidade e que a pena não pode ultrapassar a medida da culpabilidade.

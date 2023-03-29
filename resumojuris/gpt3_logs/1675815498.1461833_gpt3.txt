@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+De fato, a Resolucao Normativa 474/2021, que define a composicao desse orgao, garante a presenca de representantes de entidades de defesa do consumidor, de associacoes de usuarios de planos de saude e de orga-nismos de protecao dos interesses das pessoas com deficiencias e patologias especiais. Ressalte-se que a exigencia de que os membros indicados tenham formacao que lhes permita compre-ender as evidencias cientificas apresentadas, decorre da natureza tecnica do procedimento de atualizacao do rol. Sao constitucionais os criterios a serem considerados no relatorio elaborado pela referida Co-missao (Lei 9.656/1998, art. 10-D,  3), uma vez que nao ha submissao do direito a saude a interesses economicos e financeiros. A avaliacao economica contida no processo de atualizacao do rol pela Agencia Nacional de Saude Su-plementar e a analise do impacto financeiro advindo da incorporacao dos tratamentos demandados sao necessa-rias para garantir a manutencao da sustentabilidade economico-financeira do setor de planos de saude. Outrossim, nao se trata de sujeitar o direito a saude a interesses economicos e financeiros, mas sim de considerar tais aspectos para garantir que os usuarios de planos particulares continuem a ter acesso ao servico e as prestacoes medicas que ele proporciona. Com base nesses entendimentos, o Plenario, por maioria, conheceu parcialmente das acoes diretas, pa-ra julgar improcedentes os pedidos de declaracao de inconstitucionalidade do art. 10,  7 e 8, e do art. 10-D da Lei 9.656/1998, com a redacao dada pela Lei 14.307/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Resolução Normativa 474/2021 garante a presença de representantes de entidades de defesa do consumidor, de associações de usuários de planos de saúde e de organismos de proteção dos interesses das pessoas com deficiências e patologias especiais. 2. Os critérios a serem considerados no relatório elaborado pela referida Comissão são constitucionais (Lei 9.656/1998, art. 10-D, 3). 3. Não há submissão do direito à saúde a interesses econômicos e financeiros. 4. A avaliação econômica contida no processo de atualização do rol pela Agência Nacional de Saúde Suplementar e a análise do impacto financeiro advindo da incorporação dos tratamentos demandados são necessárias para garantir a manutenção da sustentabilidade econômico-financeira do setor de planos de saúde. 5. O Plenário conheceu parcialmente das ações diretas, para julgar improcedentes os pedidos de declaração de inconstitucionalidade do art. 10, 7 e 8, e do art. 10-D da Lei 9.656/1998, com a redação dada pela Lei 14.307/2022.

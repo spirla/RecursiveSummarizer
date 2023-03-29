@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Mantem-se a constitucionalidade da resolucao haja vista o cotejo das teses trazidas na inicial com a jurisprudencia desta Corte. Ademais, quando editada, a regulacao consistiu em avanco, de forma razoavel, no tratamento da materia. A propria Organizacao Mundial da Saude (OMS) reconhece que, embora suas diretrizes sejam pensadas para o uso mundial, os padroes locais podem variar de acordo com abordagens especificas para o equilibrio de riscos a saude, viabilidade tecnologica, consideracoes economicas e outros fatores politicos e sociais. Apesar disso, a resolucao esta em transito para a inconstitucionalidade e precisa ser aperfeicoada. Lo-go, o Conama deve editar norma atualizada tendo em conta os novos parametros de qualidade do ar recomen-dados pela OMS. Com esses entendimentos, o Plenario, por maioria, conheceu de acao direta de inconstitucionalidade e julgou improcedente o pedido nela formulado, para declarar ser ainda constitucional a Resolucao 491/2018-Conama e determinar que, no prazo de 24 meses a contar da publicacao do acordao, o Conama edite nova reso-lucao sobre a materia, a qual devera levar em consideracao: (i) as atuais orientacoes da OMS sobre os padroes adequados da qualidade do ar; (ii) a realidade nacional e as peculiaridades locais; bem como (iii) os primados da livre iniciativa, do desenvolvimento social, da reducao da pobreza e da promocao da saude publica. Decor-rido o prazo de vinte e quatro meses concedido, sem a edicao de novo ato que represente avanco material na politica publica relacionada a qualidade do ar, passarao a vigorar os parametros estabelecidos pela OMS en-quanto perdurar a omissao administrativa na edicao da nova resolucao. Vencidos os ministros Carmen Lucia (relatora), Edson Fachin, Roberto Barroso e Rosa Weber.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A resolução 491/2018-Conama é constitucional; 2. A Organização Mundial da Saúde (OMS) reconhece que os padrões locais podem variar de acordo com abordagens especificas para o equilíbrio de riscos à saúde, viabilidade tecnológica, considerações econômicas e outros fatores políticos e sociais; 3. O Conama deve editar norma atualizada tendo em conta os novos parâmetros de qualidade do ar recomendados pela OMS; 4. O Plenário conheceu de ação direta de inconstitucionalidade e julgou improcedente o pedido nela formulado; 5. O Conama deve editar nova resolução sobre a matéria, a qual deverá levar em consideração as orientações da OMS sobre os padrões adequados da qualidade do ar, a realidade nacional e as peculiaridades locais, bem como os primados da livre iniciativa, do desenvolvimento social, da redução da pobreza e da promoção da saúde pública; 6. Se não houver a edição de novo ato que represente avanço material na política pública relacionada à qualidade do ar, passarão a vigorar os parâmetros estabelecidos pela OMS enquanto perdurar a omissão administrativa na edição da nova resolução.

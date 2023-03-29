@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Disse que a apreciao dos elementos colhidos em inqurito policial no pode figurar como fundamento isolado para o decreto condenatrio, porque se trata de procedimento eminentemente informativo. Falou que a extrao de dados dos aparelhos telefnicos apreendidos foi realizada por agente pblico sem a formao necessria para a preservao, o manuseio e a avaliao dos arquivos digitais, o que viola os preceitos taxativos do art. 500, III, alnea b, do CPPM, que tem por objeto estabelecer os requisitos necessrios  integridade dos elementos probatrios colhidos durante a investigao. Assegurou que esses elementos de informao no tm legitimidade para compor o arcabouo probatrio desta ao penal militar, destacando, nesse sentido, precedente jurisprudencial da 6a Turma do Superior Tribunal de Justia, no Recurso Especial n. 1795341/RS, de Relatoria do eminente Ministro Nefi Cordeiro. No mrito, alegou ausncia de comprovao dos requisitos para configurao do crime de organizao criminosa, porquanto a exordial acusatria tenha imputado ao denunciado condutas ilcitas sem realizar qualquer exame sobre os requisitos necessrios para sua configurao. Disse que, durante a instruo processual, o parquet amparou o pleito condenatrio exclusivamente nas informaes do Ofcio n. 288 - GCOC/GAECO, sem apresentar prova produzida em juzo que corrobore a existncia dos elementos necessrios a configurar a integrao do apelante em organizao criminosa; sem especificar a estruturao ordenada da organizao criminosa; sem identificar a estruturao ordenada do requisito constitutivo referente  diviso de tarefas; sem realizar qualquer diligncia a fim de comprovar a real existncia da conta corrente que  indicada nos recibos de depsitos constantes nos itens 5.4, 5.6, 5.7, 5.9, 5.11, 6.4, 7.1, 8.4 e 8.5 do Ofcio n. 288/2020-GCOC ou se de fato os recibos correspondem a depsitos que foram realizados; sem a presena do affectio criminis societatis, principal requisito constitutivo para a formao de uma organizao criminosa na exordial acusatria, nas alegaes finais do Ministrio Pblico ou na sentena condenatria; sem prova de permanncia ou estabilidade do apelante com a organizao criminosa. Alegou insuficincia de prova em relao aos delitos de corrupo passiva, porquanto os recibos de depsitos inseridos no Ofcio n. 288/2020- GCOC no confirmam a aceitao ou recebimento de valores pelo apelante, nem o efetivo depsito, nem a existncia da conta bancria ou mesmo sua titularidade. Apontou, por outro lado, prova de atuao do ru em desfavor da organizao criminosa, consistente na apreenso de mquinas caa-nqueis, do mesmo modo que no se comprovou a continuidade delitiva.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O decreto condenatório não pode ser fundamentado exclusivamente na apreciação dos elementos colhidos em inquérito policial, pois viola os preceitos taxativos do art. 500, III, alínea b, do CPPM. Além disso, a exordial acusatória não comprovou os requisitos para configuração do crime de organização criminosa, bem como não foi comprovada a existência da conta bancária indicada nos recibos de depósitos e a atuação do réu em desfavor da organização criminosa.

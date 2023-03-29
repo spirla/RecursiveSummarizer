@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No mesmo sentido e o entendimento da Terceira Turma do STJ: o patrimonio gerido pelo Fundo de Investimento em Participacoes (FIP) pertence, em condominio, a todos os investidores (cotistas), a impedir a responsabilizacao do fundo por divida de um unico cotista, de modo que, em tese, nao poderia a constricao judicial recair sobre todo o patrimonio comum do fundo de investimento por dividas de um so cotista, ressalvada a penhora da sua cota-parte . (REsp 1.965.982/SP, relator Ministro Ricardo Villas Boas Cueva, Terceira Turma, julgado em 05/04/2022, DJe de 08/04/2022). (Informativo n. 746) PROCESSO HC 735.519-SP, Rel. Min. Sebastiao Reis Junior, Sexta Turma, por unanimidade, julgado em 16/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Audiencia de instrucao e julgamento. Inquiricao diretamente pelo magistrado. Protagonismo judicial e abstencao do Ministerio Publico. Irregularidade. Questao de ordem suscitada na audiencia pela defesa. Prejuizo evidenciado. Art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O patrimônio gerido pelo Fundo de Investimento em Participações (FIP) pertence, em condomínio, a todos os investidores (cotistas). 2. É inviável a responsabilização do fundo por dívida de um único cotista. 3. É possível a penhora da cota-parte do cotista inadimplente. 4. A inquirição diretamente pelo magistrado é irregular, sendo necessário o protagonismo do Ministério Público. 5. Questões de ordem suscitadas pela defesa na audiência de instrução e julgamento devem ser consideradas, caso evidenciem prejuízo.

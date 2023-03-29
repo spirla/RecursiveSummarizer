@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O valor de cada dia-multa somente dever ser estipulado ao final de todas as operaes mencionadas no artigo 68.  verdade que o valor da multa  dado importante para sua quantificao, mas a variao que se verifica no referido valor no est condicionada a nenhum dos critrios estabelecidos para as trs fases da dosimetria. A flexibilidade conferida ao julgador para estipular o valor do dia-multa visa exclusivamente a ajustar a pena s condies econmicas do condenado, de modo que a reprimenda possa ser retributiva tanto para ricos como para pobres. Segundo o pargrafo 1 do artigo 49 do CP, o valor de cada dia-multa pode variar entre um trigsimo do salrio mnimo e cinco vezes esse salrio. No entanto, o pargrafo 1 do artigo 60 do Cdigo Penal estabelece que a multa pode ser aumentada at o triplo, se o juiz considerar que, em virtude da situao econmica do ru,  ineficaz, embora aplicada no mximo. Da mesma forma, a Lei 7.492/86, que define os crimes contra o Sistema Financeiro Nacional, em seu artigo 33, estabelece a possibilidade de que o limite estabelecido no Cdigo Penal seja elevado at o dcuplo. Tambm a Lei 8.137/90, que define os crimes contra a ordem tributria, em seu artigo 10, prev a possibilidade de sua elevao ao dcuplo. Nesses casos, tm-se causas de aumento que incidem somente sobre o valor do dia-multa, e no sobre a quantidade de dias-multa. Tais causas de aumento no devem operar efeitos na terceira fase da dosimetria, mas ao final, quando j se definiu a quantidade de dias-multa. O aumento da multa em funo da situao econmica do condenado, no entanto, recebe severas crticas de Bettiol,52 por entender que o aumento estabelece distino de tratamento em relao a indivduos que pratiquem uma mesma conduta. Afirma Bettiol que a medida quebra a proporcionalidade que necessariamente deve existir entre a gravidade do crime praticado e a quantidade da pena, ao mesmo tempo em que fere o princpio da igualdade de todos os cidados perante a lei. Com certeza, a crtica de Bettiol no merece acolhida. A peculiaridade do sistema de dias-multa de levar em conta no apenas a culpabilidade do condenado, mas tambm a sua situao econmica, pretende justamente impor uma igualao a condenados desiguais. A pena deve estabelecer proporo entre o crime e o sofrimento que impe. Se os valores da multa fossem igualmente impostos para ricos e pobres, o sofrimento seria maior para o condenado pobre. Essa situao manifestamente fere o princpio da igualdade material.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O valor da multa estipulado ao final da dosimetria, variando entre um trigésimo do salário mínimo e cinco vezes esse salário, podendo, em alguns casos, ser aumentado até o triplo ou dúplice. A flexibilidade visa ajustar a pena às condições econômicas do condenado, de forma a garantir igualdade material.

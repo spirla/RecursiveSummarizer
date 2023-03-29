@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PM Erivelton tentou apaziguar a situao, sendo hostilizado pelo denunciado com as seguintes palavras: cabo de merda, no vou conversar com voc. Nesse momento, considerando a agressividade apresentada pelo denunciado, foi necessria a interveno dos outros militares, que realizaram a conteno do denunciado, que resistiu  priso. Frente ao exposto, o denunciado encontra-se incurso no art. 160 (desrespeito a superior) e art. 299 (desacato a militar), todos do Cdigo Penal Militar, pelo que o Ministrio Pblico requer seja o mesmo citado para interrogatrio e defesa que quiser produzir, ouvidas as pessoas abaixo arroladas, cumpridas as demais formalidades da lei, para ao final, ser condenado nas sanes que lhe couberem. [...] (Evento 1 - DENUNCIA1 - Processo Originrio) A denncia foi recebida no dia 13 de julho de 2020 (Evento 1 - RECE_ DENUN2 - Processo Originrio). Em audincia presencial remota realizada em 31 de agosto de 2020, foram ouvidas 4 (quatro) testemunhas arroladas pela acusao (2 Sgt PM Ricardo de Melo Ferreira, 2 Sgt PM Plnio Leonardo Diniz, Cb PM Thamuza Kathleen Lopes Lima de Castro e Cb PM Daniel Souza Silva) e uma das vtimas (Cb PM Erivelton Gomes Pereira) (Evento 27 - Processo Originrio). Foi realizada a oitiva da vtima remanescente (1 Sgt PM QPR Jos Eustquio Barcelos) em audincia presencial remota ocorrida em 28 de setembro de (Evento 39 - Processo Originrio). Em 22 de janeiro de 2021, foram ouvidas, em audincia presencial remota, 2 (duas) testemunhas arroladas pela defesa (Andra da Silva Meira Batista e Wellington da Silva Meira) (Evento 65 - Processo Originrio). Em audincia presencial remota datada de 21 de maio de 2021, ocorreu o interrogatrio do ru (Evento 96 - Processo Originrio). Na fase do art. 427 do Cdigo de Processo Penal Militar (CPPM), o Ministrio Pblico requereu a juntada da Folha de Antecedentes Criminais (FAC) e das Certides de Antecedentes Criminais (CACs) do ru provenientes desta Justia especializada e da Justia comum estadual (Evento 100- Processo Originrio). A defesa, por sua vez, requereu a expedio de ofcio ao Instituto Mdico Legal (IML), requisitando os laudos de Exame de Corpo de Delito do ru, de Andra da Silva Meira e do Cb PM Daniel Souza Silva. Requereu, tambm, a juntada de FAC e CAC do acusado e eventual anlise de oferecimento da suspenso condicional do processo (Evento 102 - Processo Originrio). O primeiro pedido formulado pela defesa foi indeferido pelo magistrado a quo, em deciso devidamente fundamentada (Evento 105 - Processo Originrio). Aps exame das CACs e da FAC do ru, o Ministrio Publico informou que o recorrente no faz jus ao benefcio da suspenso condicional do processo (Evento 115 - Processo Originrio). Determinada a abertura de vista dos autos para os fins do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público requereu a citação do denunciado para interrogatório e defesa, ouvidas as testemunhas e vítimas arroladas. Em audiência presencial remota, foram ouvidas testemunhas da acusação e da defesa, além do interrogatório do réu. O Ministério Público requereu a juntada da Folha de Antecedentes Criminais (FAC) e das Certides de Antecedentes Criminais (CACs) do réu, além da informação de que o réu não faz jus à suspenção condicional do processo.

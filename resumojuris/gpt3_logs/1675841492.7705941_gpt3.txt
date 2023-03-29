@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+35, caput, da Lei n. 11.343/2006, pune a seguinte conduta: associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou nao, qualquer dos crimes previstos nos arts. 33, caput e  1, e 34 desta Lei. Desse modo, a condenacao pelo crime de associacao nao impede, por si so, a concessao do beneficio da progressao especial da pena (fracao de 1/8), ja que o art. 112,  3, inciso V, da Lei de Execucao Penal faz referencia a organizacao criminosa. De outro lado, a diretriz contida nos dois precedentes invocados pelo Ministerio Publico Federal nao tem sido confirmada pela Suprema Corte de Justica Nacional. Recentemente, em longa e alentada decisao, o eminente Ministro EDSON FACHIN, apos historiar a jurisprudencia do Excelso Pretorio no sentido de que o crime de organizacao criminosa tem definicao autonoma e limites proprios, nao sendo intercambiavel com o delito de quadrilha (atual associacao criminosa) ou mesmo associacao para o trafico, reafirmou a interpretacao nao ampliativa quanto ao termo organizacao criminosa ( HC 200630 MC/SP, DJe de 02/07/2021), proclamando, em seguida, a Segunda Turma do Excelso Pretorio, em definitivo, a tese juridica de que, em prol da legalidade, da taxatividade e do favor rei, a interpretacao do art. 112, 3,V da LEP deve se dar de modo restritivo. Nessa trilha, organizacao criminosa e somente a hipotese de condenacao nos termos da Lei n. 12.850/2013, nao abrangendo apenada que tenha participado de associacao criminosa (art. 288 do CP) ou associacao para o trafico (art. 35 da Lei n. 11.343/2006). Se, como pondera o Parquet, houve, por parte do legislador, incoerencia legislativa , ou se o ordenamento juridico brasileiro possui mais de uma definicao para o que vem a ser uma organizacao criminosa , deve-se, de toda sorte, tomar, conforme a orientacao do STF, o termo em sua acepcao mais favoravel a acusada, em atencao ao principio do favor rei.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O crime de associação não impede, por si só, a concessão do benefício da progressão especial da pena (fracção de 1/8). 2. A diretriz contida nos dois precedentes invocados pelo Ministério Público Federal não tem sido confirmada pela Suprema Corte de Justiça Nacional. 3. O crime de organização criminosa tem definição autônoma e limites próprios, não sendo intercambiável com o delito de quadrilha (atual associação criminosa) ou mesmo associação para o tráfico. 4. A interpretação do art. 112, 3, V da LEP deve se dar de modo restritivo. 5. Organização criminosa é somente a hipótese de condenação nos termos da Lei n. 12.850/2013, não abrangendo apenado que tenha participado de associação criminosa (art. 288 do CP) ou associação para o tráfico (art. 35 da Lei n. 11.343/2006). 6. Em atenção ao princípio do favor rei, o termo deve ser tomado em sua acepção mais favorável a acusada.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Anistia. A anistia  instituto pelo qual o Poder Pblico deixa de punir certos crimes, em geral polticos.  manifestao do Congresso Nacional (artigos 21, XVII, e 48, VIII, da CR/88), que se opera por meio de lei, que pode ocorrer antes, durante ou aps o processo penal condenatrio. Diz-se que a anistia  prpria quando concedida antes de a deciso condenatria transitar em julgado, e imprpria, se concedida aps o trnsito em julgado da condenao. A anistia tem por objetivo promover a pacificao dos nimos que foram agitados por acontecimentos socialmente traumticos e que, alimentando paixes coletivas, perturbam a ordem. Normalmente, a anistia aplica-se aos crimes polticos e os que lhes so conexos. Contudo, baseado no mesmo objetivo apaziguador,  possvel que a anistia tambm produza efeitos sobre outros crimes (militares, eleitorais, de imprensa e contra o patrimnio ou a organizao do trabalho, por exemplo). Em nossa histria recente, o instituto da anistia apresentou especial importncia para a redemocratizao do pas aps o fim do regime militar. O rigor do governo militar brasileiro produziu a sada do pas de mais de 9. exilados polticos, o que constituiu o maior contingente de exilados que a histria do Brasil conheceu. No incio da dcada de 70, a populao brasileira comeou a lutar por uma anistia, ampla, geral e irrestrita que pudesse trazer de volta todos os brasileiros exilados. O clamor pblico se intensificou em diversas manifestaes populares durante o governo do General Ernesto Geisel, mas foi apenas no governo do General Joo Baptista Figueiredo que foi editada a Lei 6.683, de 28 de agosto de 1979 - lei de anistia. No entanto, a referida lei no foi ampla como se pretendia, pois no alcanou os que pegaram em armas para combater o regime (artigo 1, pargrafo 2). A Constituio da Repblica de 1988, posteriormente, nos artigos 8 e 9 dos atos das disposies constitucionais transitrias, ampliou os efeitos da anistia para beneficiar os que foram punidos entre 1946 e 1988 por motivos exclusivamente polticos, reconhecendo a eles o direito  reparao econmica dos prejuzos sofridos. A palavra anistia contm em sua etimologia uma clara referncia ao esquecimento. No entanto, a doutrina sempre deixou claro que a anistia no promove o esquecimento da ocorrncia do fato, mas apenas de seu carter criminoso. Conforme a clssica lio de Anbal Bruno, o fato como crime cessa de existir, mas subsiste como acontecer histrico e dele podem resultar efeitos no penais..
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A anistia um instituto de lei pelo qual o Poder Pblico deixa de punir certos crimes, em geral polticos. A anistia tem como objetivo promover a pacificao dos nimos que foram agitados por acontecimentos traumticos e perturbam a ordem. No Brasil, foi editada a Lei 6.683, de 28 de agosto de 1979, que foi ampliada pela Constituio de 1988 para beneficiar aqueles que foram punidos entre 1946 e 1988 por motivos polticos.

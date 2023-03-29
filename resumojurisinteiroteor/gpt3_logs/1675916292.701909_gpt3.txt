@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+TRANCAMENTO DA AO PENAL. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SUPRESSO DE INSTNCIA. INEXISTNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. 1. Inadmissvel, como regra, o emprego do habeas corpus como sucedneo de recurso ou reviso criminal. Precedentes. 2. O trancamento da ao penal pela via do habeas corpus  medida excepcionalssima, admitida apenas nos casos de manifesta inpcia da denncia ou da queixa, falta de pressuposto processual ou condio da ao penal ou flagrante ausncia de justa causa. Precedentes. 3. Invivel verticalizar sobre a alegada inexistncia de dolo na conduta do Paciente, porquanto tema vinculado s mincias fticas da prtica delituosa, tarefa para a qual no se presta a presente via. Precedentes. 4. Para concluir em sentido diverso da instncia antecedente e acolher o pleito de atipicidade material da conduta, imprescindveis o reexame e a valorao de fatos e provas, para o que no se presta a via eleita. 5. Incabvel o exame de teses Tribunal de Justia Militar do Estado de Minas Gerais defensivas no analisadas pela instncia anterior, sob pena de indevida supresso de instncia.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O trancamento da ao penal pela via do habeas corpus medida excepcionalssima, admitida apenas nos casos de manifesta inpcia da denncia ou da queixa, falta de pressuposto processual ou condio da ao penal ou flagrante ausncia de justa causa. Invivel verticalizar sobre a alegada inexistncia de dolo na conduta do Paciente, pois o tema vinculado s mincias fticas da prtica delituosa, tarefa para a qual no se presta a presente via. Incabvel o exame de teses defensivas no analisadas pela instncia anterior, sob pena de indevida supresso de instncia.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 22/11/2022, DJe 30/11/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Busca domiciliar. Consentimento valido do morador. Previa prisao em flagrante. Ausencia de defesa tecnica. Ausencia de esclarecimento sobre seus direitos. Coacao ambiental/circunstancial. Vicio na manifestacao de vontade. DESTAQUE Mesmo se ausente coacao direta e explicita sobre o acusado, as circunstancias de ele ja haver sido preso em flagrante pelo porte da arma de fogo em via publica e estar detido, sozinho - sem a oportunidade de ser assistido por defesa tecnica e sem minimo esclarecimento sobre seus direitos -, diante de dois policiais armados, poderiam macular a validade de eventual consentimento para a realizacao de busca domiciliar, em virtude da existencia de um constrangimento ambiental/circunstancial. 530 Mesmo se ausente coacao direta e explicita sobre o acusado, as circunstancias de ele ja haver sido preso em flagrante pelo porte da arma de fogo em via publica e estar detido, sozinho - sem a oportunidade de ser assistido por defesa tecnica e sem minimo esclarecimento sobre seus direitos -, diante de dois policiais armados, poderiam macular a validade de eventual consentimento (caso provado), em virtude da existencia de um constrangimento ambiental/circunstancial. Isso porque a prova do consentimento do morador para a realizacao de busca domiciliar e um requisito necessario, mas nao suficiente, por si so, para legitima-la, porquanto deve ser assegurado que tal consentimento, alem de existente, seja valido, isto e, livre de vicios aptos a afetar a manifestacao de vontade. Na doutrina e na jurisprudencia norte-americanas, dedicadas ha decadas a analisar o tema do consentimento do morador, a compreensao geral e a de que, para ser valido, ele deve ser inequivoco, especifico e conscientemente dado, nao contaminado por qualquer truculencia ou coercao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O consentimento do morador para a realização de busca domiciliar é um requisito necessário, mas não suficiente, para legitimá-la. 2. Para ser valido, o consentimento do morador deve ser inequivoco, específico e conscientemente dado, não contaminado por qualquer truculência ou coerção. 3. Mesmo ausente coação direta e explícita sobre o acusado, as circunstâncias de ele já ter sido preso em flagrante pelo porte da arma de fogo em via pública e estar detido, sozinho - sem a oportunidade de ser assistido por defesa técnica e sem mínimo esclarecimento sobre seus direitos -, diante de dois policiais armados, poderiam macular a validade de eventual consentimento para a realização de busca domiciliar, em virtude da existência de um constrangimento ambiental/circunstancial.

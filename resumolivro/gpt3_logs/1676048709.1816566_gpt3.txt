@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A considerao dos motivos do crime no permite analisar a intensidade do dolo ou o grau da culpa (que so expresses tecnicamente inadequadas). Dolo e culpa so conceitos jurdicos relacionados com a finalidade, e a finalidade da conduta no se confunde com a razo que a determina. No exame da circunstncia judicial, no se podem considerar os aspectos motivacionais que tenham sido objeto de previso legal especfica, seja para tipos qualificados/privilegiados, causas de aumento/diminuio ou agravantes/atenuantes. Nesse sentido, no homicdio, se o crime for praticado por motivo torpe, ftil, ou para assegurar a execuo, a ocultao, a impunidade ou vantagem de outro crime, caracterizar-se- figura qualificada. Ainda quando se tratar de homicdio, se o sujeito cometer o crime impelido por motivo de relevante valor social ou moral, caracterizar-se- causa especial de diminuio de pena. Em qualquer outro crime, ter o sujeito cometido o crime por motivo ftil ou torpe ou para facilitar ou assegurar a execuo, a ocultao, a impunidade ou a vantagem de outro crime, afigura-se circunstncia agravante prevista no inciso II do artigo 61 do CP. Do mesmo modo, salvo no homicdio, quando o crime for cometido por motivo de relevante valor social ou moral, restar configurada circunstncia atenuante prevista na alnea a do inciso III do artigo 65 do estatuto repressivo. Portanto, a circunstncia judicial relativa  motivao  sempre residual em relao aos dispositivos especficos que digam respeito s outras fases da dosimetria da pena. Na considerao da circunstncia judicial, o exame do aspecto motivacional, tradicionalmente, tem-se restringido  anlise dos aspectos subjetivos mais imediatos que deram causa  deciso de realizar o crime. No entanto,  necessrio perceber que a motivao no se reduz aos aspectos subjetivos mais imediatos e que a anlise da circunstncia motivacional conduz a laborao, obrigatoriamente, ao campo das representaes prprias a cada condenado. Importa perceber o atuar humano como fenmeno social complexo, condicionado e articulado com as relaes de poder da sociedade. Tambm importa notar que aquilo que constitui motivo determinante da prtica ilcita para determinada pessoa pode no o ser para outras que se achem interagindo no mesmo ambiente social. Assim, a considerao pertinente a essa circunstncia judicial deve levar em conta o individualizado sistema de representaes valorativo-sociais do acusado e como este foi influenciado por aquele na direo da realizao do crime.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Dolo e culpa so conceitos jurdicos relacionados com a finalidade da conduta, e a considerao da circunstncia judicial relativa à motivação tem se restringido à análise dos aspectos subjetivos mais imediatos que deram causa à decisão de realizar o crime. A consideração pertinente deve levar em conta o sistema de representações valorativo-sociais do acusado e como ele foi influenciado por este na direção da realização do crime.

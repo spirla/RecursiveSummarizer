@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Transito em julgado para ambas as partes. Entendimento sufragado pelo STF. DESTAQUE O Termo inicial da contagem do prazo da prescricao da pretensao executoria e o transito em julgado para ambas as partes. Necessario o alinhamento dos julgados do Superior Tribunal de Justica com o posicionamento adotado nas recentes decisoes monocraticas proferidas no ambito do Supremo Tribunal Federal, bem como nos seus orgaos colegiados. 708 O Tribunal Pleno fixou a orientacao de que [a] prescricao da pretensao executoria, no que pressupoe quadro a revelar a possibilidade de execucao da pena, tem como marco inicial o transito em julgado, para ambas as partes, da condenacao . Logo, enquanto nao proclamada a inadmissao de recurso de natureza excepcional, tem- se o curso da prescricao da pretensao punitiva, e nao a da pretensao executoria (AI 794.971/RJ-AgR, rel. do ac. Min. Marco Aurelio, DJe de 28/06/21) (ARE 1.301.223 AgR-ED, Relato Min. Dias Toffoli, Primeira Turma, DJe 29/04/2022). Conforme orientacao da Sexta Turma do STJ, nao ha que se falar em prescricao da pretensao executoria, porque, ainda que haja, no STF, reconhecimento de repercussao geral - ARE 848.107/DF (Tema n. 788) -, pendente de julgamento, [o] Plenario do Supremo Tribunal Federal, no julgamento do AI 794.971-AgR/RJ (Rel. para acordao Ministro Marco Aurelio, DJe 25/06/2021), definiu que o dies a quo para a contagem da prescricao da pretensao executoria e o transito em julgado para ambas as partes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O termo inicial da contagem do prazo da prescrição da pretensão executória é o transito em julgado para ambas as partes. 2. O entendimento é sufragado pelo STF. 3. É necessário o alinhamento dos julgados do Superior Tribunal de Justiça com o posicionamento adotado nas recentes decisões monocráticas proferidas no âmbito do Supremo Tribunal Federal, bem como nos seus órgãos colegiados. 4. O Tribunal Pleno fixou a orientação de que a prescrição da pretensão executória, no que pressupõe quadro a revelar a possibilidade de execução da pena, tem como marco inicial o transito em julgado, para ambas as partes, da condenação. 5. Enquanto não proclamada a inadmissão de recurso de natureza excepcional, tem-se o curso da prescrição da pretensão punitiva, e não a da pretensão executória. 6. Conforme orientação da Sexta Turma do STJ, não há que se falar em prescrição da pretensão executória, porque, ainda que haja, no STF, reconhecimento de repercussão geral, pendente de julgamento, o Plenário do Supremo Tribunal Federal definiu que o dies a quo para a contagem da prescrição da pretensão executória é o transito em julgado para ambas as partes.

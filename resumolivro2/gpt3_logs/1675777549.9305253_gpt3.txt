@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STF enfrentou a arguio de inconstitucionalidade da lei de organizao da JMU (Lei 8.457/92) quanto  imparcialidade do julgador:
+1. A Lei 8.457/92, ao organizar a Justia Militar da Unio criando os Conselhos de Justia (artigo 1 c/c artigo 16) e confiando-lhes a misso de prestar jurisdio criminal, no viola a Constituio da Repblica ou a Conveno Americana de Direitos Humanos (Pacto de So Jos da Costa Rica), porquanto assegura a seus respetivos membros garantias funcionais idneas  imparcialidade do ofcio judicante, ainda que distintas daquelas atribudas  magistratura civil. [...]. 9.2.3. Prerrogativas, vedaes, deveres e funes. So prerrogativas do magistrado, conforme o artigo 33 da LOMAN:
+I - ser ouvido como testemunha em dia, hora e local previamente ajustados com a autoridade ou Juiz de instncia igual ou inferior;
+II - no ser preso seno por ordem escrita do Tribunal ou do rgo Especial competente para o julgamento, salvo em flagrante de crime inafianvel, caso em que a autoridade far imediata comunicao e apresentao do magistrado ao Presidente do Tribunal a que esteja vinculado;
+III - ser recolhido a priso especial, ou a sala especial de Estado-Maior, por ordem e  disposio do Tribunal ou do rgo especial competente, quando sujeito a priso antes do julgamento final;
+IV - no estar sujeito a notificao ou a intimao para comparecimento, salvo se expedida por autoridade judicial;
+V - portar arma de defesa pessoal. Quando, no curso de investigao, houver indcio da prtica de crime por parte do magistrado, a autoridade policial, civil ou militar, remeter os respectivos autos ao Tribunal ou rgo especial competente para o julgamento, a fim de que prossiga na investigao (pargrafo nico).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF analisou a Lei 8.457/92, que organiza a Justia Militar da União, e concluiu que ela não viola a Constituição da República ou a Convenção Americana de Direitos Humanos, pois garante aos seus membros prerrogativas e vedações que asseguram a imparcialidade do ofício judicante. Entre as prerrogativas estão o direito de ser ouvido como testemunha, não ser preso sem ordem escrita do Tribunal ou do órgão Especial competente, ser recolhido a prisão especial, não estar sujeito a notificação ou a intimação para comparecimento e portar arma de defesa pessoal.

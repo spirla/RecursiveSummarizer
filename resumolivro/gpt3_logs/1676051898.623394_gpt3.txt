@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O homicdio qualificado pela conexo teleolgica  crime que acontece em contexto de preparao para a realizao de outro crime que lhe  posterior e autnomo. A hiptese de qualificao, portanto, pressupe a distino entre o homicdio e o outro crime a ser realizado posteriormente. Voltando ao ltimo exemplo, se o emprego de violncia est restrito  execuo do crime anterior (homicdio) a subtrao cometida posteriormente caracteriza crime de furto. Nos casos de homicdio praticado para assegurar a execuo de outro crime, a qualificao pela conexo teleolgica subsiste mesmo que o outro crime pretendido no venha a ser praticado. A figura qualificada do homicdio constitui crime autnomo em relao  sua figura simples e no exige a produo deste ltimo resultado (crime pretendido). A qualificao se caracteriza com a mera finalidade de assegurar a execuo de outro crime. A conexo ser consequencial quando o homicdio  praticado para ocultar a ocorrncia de outro crime j cometido, bem como a impunidade em relao a este ou vantagem que dele proveio. Em comum com a situao anteriormente mencionada, a conexo consequencial tambm pressupe a distino entre o homicdio e o outro crime. Contudo, na conexo consequencial o homicdio  praticado aps a realizao do crime conexo. Quando o homicdio  praticado para assegurar a ocultao de outro crime, o sujeito pretende que este crime permanece desconhecido da autoridade pblica.  o exemplo daquele que mata a nica testemunha que o viu praticar o crime anterior e ainda no informou o fato  polcia. Quando o sujeito ativo do homicdio visa assegurar a impunidade do crime anteriormente praticado, este crime no  desconhecido pela autoridade pblica que pode, inclusive, saber quem o realizou. Contudo, o homicida mata para inviabilizar a sua condenao criminal. Seria o caso daquele que mata testemunhas para que no deponham contra ele e a prova criminal seja frgil para uma condenao. Por fim, quando o sujeito ativo do homicdio visa assegurar a vantagem de outro crime o seu propsito  garantir a fruio de qualquer vantagem, patrimonial ou no, direta ou indireta, proveniente do crime anteriormente praticado. Em todos estes casos de conexo consequencial, a qualificao do homicdio subsiste mesmo que o crime anterior j esteja prescrito. O tipo qualificado de homicdio no exige a punibilidade do crime antecedente e a prescrio deste no se confunde com a prescrio daquele (artigo 108 do CP).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O homicídio qualificado pela conexão teleológica é um crime que ocorre em contexto de preparação para a realização de outro crime posterior e autônomo. A qualificação pressupõe a distinção entre o homicídio e o outro crime a ser realizado posteriormente. A qualificação se caracteriza pela mera finalidade de assegurar a execução de outro crime, que pode ser para ocultar a ocorrência do crime anterior, assegurar a impunidade deste ou garantir alguma vantagem proveniente do crime anterior. A qualificação do homicídio subsiste mesmo que o crime anterior já esteja prescrito.

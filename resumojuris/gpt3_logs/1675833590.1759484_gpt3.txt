@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A questao debatida - inedita no ambito desta Corte - esta, portanto, em definir se constitui requisito obrigatorio para a renovacao da Carteira Nacional de Habilitacao (CNH) do motorista autonomo de transporte coletivo escolar, a realizacao do exame toxicologico de larga janela de deteccao, previsto no art. 148-A, do Codigo de Transito Brasileiro, introduzido pela Lei n. 13.103/2015. As dificuldades inerentes ao transporte coletivo escolar acautelaram o legislador para que impusesse ao postulante a prestacao de tal servico a demonstracao de aptidoes fisicas e mentais compativeis com o nivel de exigencia da atividade, materializado na necessidade de habilitacao, ao menos, em categoria D , alem de idade minima de vinte e um anos, historico negativo de infracoes gravissimas e aprovacao em curso especializado. Alem dos requisitos mencionados, a habilitacao, renovacao ou a mudanca para a categoria D somou-se a obrigatoriedade de apresentacao de resultado negativo no denominado exame toxicologico de larga janela de deteccao. Trata-se de procedimento realizado somente por laboratorios credenciados pelo CONTRAN, no qual, mediante analise de material biologico queratinico fornecido pelo doador (cabelos, pelos ou unhas), busca-se detectar o consumo, ativo ou nao, de substancias psicoativas que, comprovadamente, comprometam a capacidade de direcao, com retrospectiva minima de noventa dias, contados da coleta. Das amostras recolhidas e possivel identificar eventual regularidade no consumo de anfetaminas e metanfetaminas, das quais sao exemplos, respectivamente, os chamados rebites e o ecstasy, alem de opiaceos (p. ex. morfina e heroina), cocaina, crack e maconha.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É obrigatório para a renovação da Carteira Nacional de Habilitação (CNH) do motorista autônomo de transporte coletivo escolar a realização do exame toxicológico de larga janela de detecção, previsto no art. 148-A do Código de Trânsito Brasileiro. 2. O legislador impôs ao postulante a prestação de serviço a demonstração de aptidões físicas e mentais compatíveis com o nível de exigência da atividade, materializado na necessidade de habilitação, ao menos, em categoria D, além de idade mínima de vinte e um anos, histórico negativo de infrações gravíssimas e aprovação em curso especializado. 3. A habilitação, renovação ou mudança para a categoria D somou-se à obrigatoriedade de apresentação de resultado negativo no denominado exame toxicológico de larga janela de detecção. 4. O exame toxicológico de larga janela de detecção é realizado somente por laboratórios credenciados pelo CONTRAN, no qual, mediante análise de material biológico queratinico fornecido pelo doador (cabelos, pelos ou unhas), busca-se detectar o consumo, ativo ou não, de substâncias psicoativas que, comprovadamente, comprometam a capacidade de direção, com retrospectiva mínima de noventa dias, contados da coleta.

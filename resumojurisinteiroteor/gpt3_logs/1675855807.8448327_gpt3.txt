@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+COMPETNCIA. PENA ACESSRIA DE PERDA DO CARGO. COMPETNCIA DO TRIBUNAL MILITAR. PEDIDO PARA RECORRER EM LIBERDADE. TRNSITO EM JULGADO DO DECRETO CONDENATRIO. PERDA DO OBJETO. O crime de homicdio, cometido contra civil, ainda que praticado por policial militar, no atrai a competncia da Justia Castrense, nos termos do disposto no pargrafo nico do art. 9 do Cdigo Penal Militar, com as alteraes introduzidas pela Lei n. 9.299/96. S por deciso do tribunal competente  que os praas da polcias militares podero perder sua graduao. (segunda parte do  4 do artigo 125 da CF/88) O trnsito em julgado da deciso condenatria faz perder o objeto da impetrao que busca assegurar ao paciente o direito de recorrer em liberdade. Ordem concedida em parte para declarar a incompetncia do juzo de primeiro grau do Tribunal Estadual para a decretao de perda do cargo ou funo do militar. HABEAS CORPUS N. 34.453 - MG (2004/0040159-1) REL. MINISTRO PAULO MEDINA A deciso acima coligida consignou que, no obstante o crime de homicdio cometido por militar contra civil, por fora da Lei n. 9.299/96, que alterou o art. 9 do Cdigo Penal Militar, tenha perdido a natureza de crime militar, o militar condenado deve ser submetido ao procedimento especfico de perda da graduao no TJM, ainda que condenado pelo Tribunal do Jri. O Ministro Relator, Paulo Medina, na ocasio de seu voto, asseverou, acerca do art. 125,  4, da CF/88, que: O preceito  inequvoco: s por deciso do tribunal competente  que as praas das polcias militares podero perder sua graduao. (segunda parte do  4 do artigo 125 da CF/88). Destaco, por oportuno, que, em Minas Gerais, a Justia Militar foi criada pela Lei n. 226, de 09 de novembro de 1937 (Organiza a Justia Militar do Estado). Pode-se concluir que a expressa imposio de perda do cargo ou da funo pblica, na sentena que condenar militar, pela prtica de crime comum, a pena privativa de liberdade superior a dois anos, no  requisito para o oferecimento da Representao Ministerial para a perda da graduao, nos termos da parte final do art. 125,  4, da CF/88.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal Militar competente para decretar a perda da graduao de praas das polcias militares condenados por crime comum com pena privativa de liberdade superior a dois anos, de acordo com o art. 125, 4, da CF/88. A sentena condenatria não é requisito para o oferecimento da Representação Ministerial para a perda da graduação.

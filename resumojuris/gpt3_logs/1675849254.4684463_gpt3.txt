@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1257 Destaca-se que o Supremo Tribunal Federal, por seu Plenario, em voto da relatoria do Ministro Dias Toffoli, nos autos do HC 127.483/PR, assentou o entendimento de que a colaboracao premiada, para alem de tecnica especial de investigacao, e negocio juridico processual personalissimo, pois, por meio dele, se pretende a cooperacao do imputado para a investigacao e para o processo penal, o qual podera redundar em beneficios de natureza penal premial, sendo necessario que a ele se aquiesca, voluntariamente, que esteja no pleno gozo de sua capacidade civil, e consciente dos efeitos decorrentes de sua realizacao (APn 843/DF, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 06/12/2017, DJe 01/02/2018). Nessa compreensao, rememora-se que acordo de leniencia nao e acordo de colaboracao premiada. Ou se tem uma colaboracao premiada, baseada, por exemplo, na Lei n. 12.850/2013, com todas as suas regras gerais (de matiz voltada para o Direito Penal), ou um acordo de leniencia, seja o da Lei n. 12.846/2013 ou mesmo o da Lei n. 12.529/2011, caso se pretenda a atuacao em ambito civel e administrativo. (Informativo n. 747) 1258 PROCESSO HC 653.299-SC, Rel. Min. Laurita Vaz, Rel. Acd. Min. Sebastiao Reis Junior, Sexta Turma, por maioria, julgado em 16/08/2022, DJe 25/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Excesso de prazo para a conclusao de inquerito policial. Investigacao que perdura por mais de 9 anos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A colaboração premiada é um negócio jurídico processual personalíssimo, que requer a aquiescência do imputado, no pleno gozo de sua capacidade civil e consciente dos efeitos decorrentes de sua realização. 2. Acordo de leniência não é acordo de colaboração premiada. 3. Excesso de prazo para a conclusão de inquérito policial investigação que perdura por mais de 9 anos.

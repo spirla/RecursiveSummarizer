@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Portanto, deve prevalecer a corrente jurisprudencial inaugurada pela Ministra Laurita Vaz, no RHC 140.214/SC, de que o direito a detracao nao pode estar atrelado a condicao de monitoramento eletronico, pois seria impor ao investigado excesso de execucao, com injustificavel aflicao de tratamento nao isonomico aqueles que cumprem a mesma medida de recolhimento noturno e nos dias de folga monitorados. Ainda, a soma das horas de recolhimento domiciliar a que o reu for submetido devem ser convertidas em dias para contagem da detracao da pena. E, se no computo total remanescer periodo menor que vinte e quatro horas, esse tempo devera ser desconsiderado, em atencao a regra do art. 11 do CP, segundo a qual devem ser desprezadas, nas penas privativas de liberdade e nas restritivas de direito, as fracoes de dia (HC n. 455.097/PR). (Informativo n. 758) 54 PROCESSO REsp 1.977.027-PR, Rel. Min. Laurita Vaz, Terceira Secao, por unanimidade, julgado em 10/08/2022 (Tema 1139). RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Trafico de drogas. Requisitos da minorante do art. 33,  4, da Lei n. 11.343/2006 (Lei de Drogas). Emprego de inqueritos e/ou acoes penais em curso. Descabimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O direito à detração não pode estar atrelado a condição de monitoramento eletrônico, pois seria impor ao investigado excesso de execução, com injustificável aflição de tratamento não isonômico aos que cumprem a mesma medida de recolhimento noturno e nos dias de folga monitorados. 2. A soma das horas de recolhimento domiciliar a que o réu for submetido deve ser convertida em dias para contagem da detração da pena. 3. Se no cômputo total remanescer período menor que vinte e quatro horas, esse tempo deverá ser desconsiderado, em atenção à regra do art. 11 do CP, segundo a qual devem ser desprezadas, nas penas privativas de liberdade e nas restritivas de direito, as frações de dia.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Especial n. 4) DOUTRINA Denomina-se pescaria (ou expedicao) probatoria a pratica relativamente comum de se aproveitar dos espacos de exercicio de poder para subverter a logica das garantias constitucionais, vasculhando-se a intimidade, a vida privada, enfim, violando-se direitos fundamentais, para alem dos limites legais. O termo se refere a incerteza propria das expedicoes de pesca, em que nao se sabe, antecipadamente, se havera peixe, nem os especimes que podem ser fisgados, muito menos a quantidade, mas se tem conviccao (o agente nao tem provas, mas tem conviccao). Com o uso de tecnologia (Processo Penal 4.0), cada vez mais se obtem a prova por meios escusos (especialmente em unidades de inteligencia e/ou investigacoes paralelas, todas fora do controle e das regras democraticas), requentando-se os elementos obtidos as escuras por meio de investigacoes de origem duvidosa, encontro fortuito dissimulado ou, ainda, por denuncias anonimas fakes . 524 PROCESSO RMS 68.119-RJ, Rel. Min. Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, por unanimidade, julgado em 15/03/2022, DJe 28/03/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Quebra de sigilo de dados estaticos. Servico de geolocalizacao. Marco Civil da Internet. Nao violacao. Extrapolacao da decisao de quebra de sigilo em face de numero indeterminado de pessoas. Principio da proporcionalidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Denomina-se pescaria (ou expedicao) probatoria a prática relativamente comum de se aproveitar dos espaços de exercício de poder para subverter a lógica das garantias constitucionais, violando-se direitos fundamentais. 2. O uso de tecnologia (Processo Penal 4.0) possibilita a obtenção de provas por meios escusos, requentando-se os elementos obtidos as escuras por meio de investigações de origem duvidosa, encontro fortuito dissimulado ou denúncias anônimas fakes. 3. A quebra de sigilo de dados estáticos por meio de serviço de geolocalização não viola o Marco Civil da Internet. 4. O princípio da proporcionalidade impede a extrapolação da decisão de quebra de sigilo em face de número indeterminado de pessoas.

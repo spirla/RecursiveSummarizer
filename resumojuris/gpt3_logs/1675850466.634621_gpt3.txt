@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O agente responsavel pela diligencia deve sempre se ater aos limites do escopo - vinculado a justa causa - para o qual excepcionalmente se restringiu o direito fundamental a intimidade, ressalvada a possibilidade de encontro fortuito de provas. (Informativo n. 731) 1287 PROCESSO RHC 147.307-PE, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, por unanimidade, julgado em 29/03/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Compartilhamento de dados de movimentacoes financeiras da propria instituicao bancaria ao Ministerio Publico. Violacao ao sigilo de dados bancarios. Inocorrencia. DESTAQUE Nao ha ilicitude das provas por violacao ao sigilo de dados bancarios, em razao do compartilhamento de dados de movimentacoes financeiras da propria instituicao bancaria ao Ministerio Publico. Nao ha falar-se em ilicitude das provas por violacao ao sigilo de dados bancarios, em razao do compartilhamento de dados pela instituicao bancaria ao Ministerio Publico, por nao se tratar de informacoes bancarias sigilosas relativas a pessoa do investigado, senao de movimentacoes financeiras da propria instituicao, sem falar que, apos o recebimento da noticia-crime, o Ministerio Publico requereu ao juizo de primeiro grau a quebra do sigilo bancario e o compartilhamento pelo Banco de todos os documentos relativos a apuracao relacionada aos autos do ora recorrente, o que foi deferido, havendo, portanto, autorizacao judicial. Conforme destacou o Ministerio Publico Federal em seu parecer, as alegadas informacoes sigilosas nao sao os dados bancarios do investigado, e sim, conforme destacou o magistrado de origem em sua decisao e nas informacoes prestadas, as informacoes e registros relacionados a sua atividade laboral como funcionario do Banco , verificou, outrossim, que os recursos liberados terminaram tendo destinacao estranha a sua finalidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O agente responsável pela diligência deve se ater aos limites do escopo vinculado à justa causa para o qual excepcionalmente se restringe o direito fundamental à intimidade. 2. Não há ilicitude das provas por violação ao sigilo de dados bancários, em razão do compartilhamento de dados pela instituição bancária ao Ministério Público. 3. É necessária autorização judicial para o compartilhamento de dados de movimentações financeiras da própria instituição bancária ao Ministério Público.

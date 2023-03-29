@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+NO OCORRNCIA. ORDEM PARCIALMENTE CONCEDIDA. 1. O reconhecimento de pessoa. Presencialmente ou por fotografia, realizado na fase do inqurito policial, apenas  apto, para identificar o ru e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Cdigo de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditrio e da ampla defesa. 2. Segundo estudos da Psicologia moderna, so comuns as falhas e os equvocos que podem advir da memria humana e da capacidade de armazenamento de informaes. Isso porque a memria pode, ao longo do tempo, se fragmentar e, por fim, se tornar inacessvel para a reconstruo do fato. O valor probatrio do reconhecimento, portanto, possui considervel grau de subjetivismo a potencializar falhas e distores do ato e, consequentemente, causar erros judicirios deletrios e muitas vezes irreversveis. 3. O reconhecimento de pessoas deve, portanto, observar o procedimento previsto no art. 226 do Cdigo de Processo Penal, cujas formalidades constituem garantia mnima para quem se v na condio de suspeito da prtica de um crime, no se tratando, como se tem compreendido, de mera recomendao do legislador. Em verdade, a inobservncia de tal procedimento enseja a nulidade da prova e, portanto, no pode servir de lastro para sua condenao, ainda que confirmada, em juzo, o ato realizado na fase inquisitorial, a menos que outras provas, por si mesmas, conduzam o magistrado a convencer-se acerca da autoria delitiva. Nada obsta, ressalve-se, que o juiz realize, em juzo, o ato de reconhecimento formal, desde que observado o devido procedimento probatrio. [...] 5 De todo urgente, portanto, que se adote um novo rumo na compreenso dos Tribunais acerca das consequncias da atipicidade procedimental do ato de reconhecimento formal de pessoas; no se pode mais referendar a jurisprudncia que afirma se tratar de mera recomendao do legislador, o que acaba por permitir a perpetuao desse foco de erros judicirios e, consequentemente, de graves injustias. (Negritei). [.] Superior Tribunal de Justia STJ - HABEAS CORPUS N 598886 SC (2020/0179682-3) RELATOR: MINISTRO ROGRIO SCHIETTI CRUZ.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O reconhecimento de pessoa, realizado na fase do inqurito policial, s apto para identificar o ru e fixar a autoria delitiva, desde que observadas as formalidades previstas no art. 226 do Cdigo de Processo Penal e corroborado por outras provas colhidas na fase judicial. O valor probatrio do reconhecimento possui considervel grau de subjetivismo, podendo causar erros judicirios deletrios e muitas vezes irreversveis. O juiz pode realizar, em juzo, o ato de reconhecimento formal, desde que observado o devido procedimento probatrio.

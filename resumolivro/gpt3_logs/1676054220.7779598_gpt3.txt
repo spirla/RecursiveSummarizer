@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A previso para o cumulo de penas no se encontra na cominao reservada ao crime de perseguio, de modo que a disposio em anlise deve ser entendida como uma exceo  regra da consuno. Em reforo a tal entendimento, cabe notar que a violncia no constitui meio de execuo previsto no tipo incriminador da perseguio. Desta forma, se no contexto da execuo da perseguio o sujeito empregar violncia contra a vitima que resultem em leses corporais ou em morte, deve-se reconhecer o concurso de crimes. Muito embora o crime de perseguio seja habitual e, por fico jurdica, os atos realizados em seu contexto integrem uma s unidade de fato (um s crime), a previso do pargrafo 2 do artigo 147-A determina expressamente que sejam aplicadas as penas que so correspondentes ao emprego da violncia. Para que o comando normativo seja atendido  necessrio impor tais penas em sua integralidade e no apenas um aumento da pena imposta pelo crime de perseguio, nos termos do que seria estabelecido pelo concurso formal prprio. Como a perseguio deve ser considerada em um s contexto ftico, o concurso de crimes  formal, mas a aplicao da pena deve obedecer a regra do concurso formal imprprio que impe o somatrio de penas imposta pelos crimes distintos (parte final do artigo 70 do CP). 6.5.11. Ao penal e suspenso condicional do processo. A ao penal  pblica condicionada  representao e, ordinariamente, a competncia para processar e julgar o crime de perseguio  do Juizado Especial da Justia comum estadual ou da Auditoria da Justia Militar estadual, no caso da perseguio caracterizar um crime militar. No entanto, a competncia ser do Juizado Especial da Justia comum federal quando o crime for cometido a bordo de navios ou aeronaves brasileiras, ressalvada a competncia da Justia Militar da Unio (inciso IX, do artigo 109 da CF), quando o acusado ou a vitima forem funcionrios pblicos federais e o crime for cometido em razo de suas funes (inciso IV, do artigo 109 da CF e Smula 147 do STJ), ou se houver concurso com um crime da competncia da Justia Federal (Smula 122 do STJ). Considerando que a pena mnima cominada ao crime de perseguio  inferior a 1 ano de privao da liberdade, ser possvel a suspenso condicional do processo, desde que atendidos os demais requisitos estabelecidos no artigo 89 da Lei n 9.099/95. 6.5.12. Conflito aparente de normas. Perseguio e constrangimento ilegal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A previso para o cumulo de penas no se encontra na cominao reservada ao crime de perseguio, sendo necessrio impor as penas correspondentes ao emprego da violncia em seu contexto. A competncia para processar e julgar o crime de perseguio do Juizado Especial da Justia comum estadual ou da Auditoria da Justia Militar estadual, salvo nos casos de concurso com um crime da competncia da Justia Federal. A pena mnima cominada ao crime de perseguio inferior a 1 ano de privao da liberdade, permitindo a suspenso condicional do processo.

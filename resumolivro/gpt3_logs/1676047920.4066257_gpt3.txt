@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Um condenado a pena de 40 (quarenta) anos, que conte com 20 (vinte) anos de idade na data de sua condenao, certamente ser uma pessoa muito diferente quando tiver cumprido metade do tempo de condenao. Aos 35 (trinta e cinco) anos de idade, mais maduro e com outra viso sobre as relaes sociais, ter de cumprir uma pena que lhe foi imposta em momento de vida completamente diferente. No haver possibilidade de alterar a condenao, tendo em vista as mudanas pessoais que o condenado vivenciou durante o tempo em que esteve preso. Esclarece o pargrafo 1 do artigo 75 que, quando o sujeito for condenado a penas privativas de liberdade cuja soma seja superior a 40 (quarenta) anos, devem ser elas unificadas para atender ao limite mximo desse artigo. A unificao das penas  procedimento da execuo penal (artigo 66, III, a, da Lei 7.210/84) que no altera o teor das condenaes. A quantidade de pena imposta ao condenado  apurada pelo somatrio das penas impostas e no sofre alteraes com a unificao. A execuo dessas penas, no entanto, sofre a limitao temporal estabelecida pelo artigo 75 do CP. A previso legal da limitao para a execuo da pena no constitui um estmulo irresponsvel  criminalidade. No caso de unificao que limite o cumprimento das penas impostas, o condenado poder conservar a esperana de vir a obter a liberdade na medida em que no cometa novos crimes. A prtica de novos crimes pode ampliar o tempo de cumprimento de pena, conforme prev o pargrafo 2 do artigo 75 do CP. Segundo o referido dispositivo legal, sobrevindo condenao por crime posterior ao incio do cumprimento da pena, far-se- nova unificao, desprezando-se, para esse fim, o perodo de pena j cumprido. Note-se: a segunda unificao decorre de condenao por crime posterior ao incio da execuo, e no somente por condenao posterior ao incio da execuo. Se o crime  anterior, a pena imposta posteriormente deve ser considerada como integrante da unificao j procedida, o que impede que seja procedido a qualquer aumento do tempo a cumprir. Exemplificando a hiptese de nova unificao: se ao condenado foram impostas penas privativas de liberdade cuja soma ultrapasse 40 (quarenta) anos, antes de iniciar-se o cumprimento dessas penas, far-se- a unificao para restringir o tempo de execuo ao limite de 40 (quarenta) anos. Caso venha a cometer novo crime aps 20 (vinte) anos de execuo, far-se- nova unificao. Para tanto, dever ser considerado o tempo que resta a cumprir - 20 (vinte) anos - e a nova pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Um condenado com 20 anos de idade a uma pena de 40 anos não pode alterar a condenao, mas pode ter sua execução limitada a 40 anos. Se o condenado cometer um novo crime após 20 anos de execução, haverá uma nova unificação, considerando o tempo restante e a nova pena.

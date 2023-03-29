@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ importante e necessrio reconhecer que o militar  um cidado, muito embora as peculiaridades das funes militares, que deve ser tratado com a dignidade humana (artigo 1, III, da CR) inerente a qualquer pessoa. A Constituio da Repblica estabelece que os princpios da hierarquia e da disciplina so pilares organizacionais das instituies militares, que constituem apenas meios para a realizao dos fins institucionais. Constituem fins das instituies militares da Unio, conforme o artigo 142, a defesa da ptria, a garantia dos poderes constitucionais, bem como a garantia da lei e da ordem. Por outro lado, constituem fins das instituies militares estaduais, nos termos do artigo 144, a preservao da ordem pblica, da incolumidade e do patrimnio das pessoas, no contexto do direito fundamental  segurana pblica. Portanto, nem mesmo para as instituies militares a hierarquia e a disciplina constituem fins em si mesmos. Constituem apenas meios organizacionais peculiares que podem conferir maior eficincia aos servios pblicos prestados pelas instituies militares para o atendimento de suas misses constitucionais. No podem os juzes da Justia Militar transformar os princpios administrativos organizacionais das instituies militares (meios) na misso institucional do Poder Judicirio (fins). Ao Poder Judicirio cabe a garantia dos direitos fundamentais do cidado, que esto expressos na Constituio e nas leis. Pensar que o Judicirio, no mbito da Justia Militar, trabalha para preservar a hierarquia e a disciplina  transformar seus juzes em assessores dos corregedores das instituies militares. O Cdigo Penal Militar pressupe que as condutas identificadas como criminosas so praticadas no contexto de interesse das instituies militares, mas no se pode entender que todos os crimes afetem a hierarquia e a disciplina militar. O estatuto repressivo, de maneira expressa, classifica os tipos penais incriminadores segundo o bem jurdico que  prevalentemente afetado pela prtica criminosa e no h previso exclusiva para crimes que afetem a hierarquia e a disciplina militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituição da República estabelece que os militares devem ser tratados com dignidade humana e que os princípios da hierarquia e da disciplina são meios organizacionais para a realização dos fins institucionais. O Poder Judiciário tem a responsabilidade de garantir direitos fundamentais, enquanto o Código Penal Militar prevê tipos penais de acordo com o bem jurídico afetado pela prática criminosa, não havendo previsão exclusiva para crimes que afetem a hierarquia e a disciplina militar.

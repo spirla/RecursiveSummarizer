@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O parquet apresentou resposta ao presente recurso, pugnando pelo seu no conhecimento (Evento 59).  o relatrio. VOTOS DESEMBARGADOR FERNANDO ARMANDO RIBEIRO, RELATOR Inicialmente, constato que  o caso de no se conhecer do presente recurso, tendo em vista a sua manifesta inadequao. Verifica-se que a deciso agravada no admitiu o recurso especial, com respaldo na aplicao das Smulas n. 83 e 211, ambas do Superior Tribunal de Justia, e das Smulas n. 282 e n. 356, ambas do Supremo Tribunal Federal. Confiram-se os seguintes trechos da deciso: [...] Trata-se de recurso especial interposto por Kelve Maxwell de Oliveira, com fundamento no artigo 105, III, a, da Constituio da Repblica (CR), contra acrdo proferido por este Tribunal, que, por maioria de votos, rejeitou o recurso de embargos infringentes e manteve a condenao do ora recorrente pela prtica do delito previsto no art. 206 (homicdio culposo) do Cdigo Penal Militar (CPM),  pena de 1 (um) ano, 2 (dois) meses e 12 (doze) dias de deteno, em regime aberto, deferido o benefcio do sursis da pena. O acrdo guerreado foi assim ementado: EMBARGOS INFRINGENTES E DE NULIDADE - PEDIDO DE PREVALNCIA DE VOTO VENCIDO SOBRE PRELIMINAR DE NULIDADE DE PROCESSO-CRIME EM VIRTUDE DE NO OFERECIMENTO DE DENNCIA APS DESCLASSIFICAO DE HOMICDIO DOLOSO PARA CULPOSO POR JUZO DO TRIBUNAL DO JRI E RECONHECIMENTO DE INCOMPETNCIA ABSOLUTA PARA A CAUSA, COM FUNDAMENTO NO ART. 419 DO CDIGO DE PROCESSO PENAL - PROCESSO REMETIDO A ESTA JUSTIA ESPECIALIZADA MILITAR PARA JULGAMENTO DE HOMICDIO CULPOSO - DECISO DE ADEQUAO TPICA PROFERIDA PELO JUZO MILITAR COM FUNDAMENTO NO CDIGO PENAL MILITAR - PERMISSO DE MANIFESTAO DAS PARTES - RATIFICAO DOS ATOS PRATICADOS EM JUZO COMUM - CONCORDNCIA MANIFESTA DAS PARTES - INEXISTNCIA DE PREJUZO  DEFESA DO ACUSADO - PRELIMINAR REJEITADA - PREVALNCIA DE VOTOS VENCEDORES - RECURSO IMPROVIDO. (Evento 36) Em suas razes, a defesa alega que houve ofensa aos artigos 77, e, e 500, inciso III, a, ambos do Cdigo de Processo Penal Militar (CPPM). Alega que, apesar de o recorrente ter sido condenado pelo delito de homicdio culposo, no consta tal narrativa ftica na denncia, pois esta imputou a ele o crime de homicdio doloso, razo pela qual afirma que o ru foi surpreendido e no teve oportunidade de se defender. Sustenta que, no presente feito, a denncia vlida  aquela apresentada na Justia comum, pelo delito de homicdio doloso, tendo em vista que a denncia oferecida inicialmente nesta Justia especializada, pelo crime de homicdio culposo, havia sido anulada por deciso do Superior Tribunal de Justia (STJ), quando reconheceu a competncia daquele juzo para julgamento do feito, o que ensejou o oferecimento de nova exordial acusatria.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O parquet pugnou pelo no conhecimento do recurso interposto em face da decisão agravada, a qual não admitiu o recurso especial, com respaldo nas Smulas n. 83, 211, 282 e 356 do Superior Tribunal de Justia e Supremo Tribunal Federal, respectivamente. A defesa alegou ofensa aos artigos 77, e, e 500, inciso III, a, do Código de Processo Penal Militar, pois a denncia imputou o crime de homicídio doloso, e não culposo.

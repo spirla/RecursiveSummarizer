@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com a edio da Lei 13.709/18, que constitui o marco geral da proteo de dados pessoais no Brasil, o ordenamento jurdico nacional expressamente considera que o acesso e tratamento no autorizado de dados pessoais constitui violao aos direitos fundamentais de liberdade e de privacidade. O acesso e o tratamento aos dados pessoais pode ser autorizado por lei ou pelo consentimento de seu titular. Sem autorizao, o reiterado acesso e/ou o tratamento aos dados pessoais, atendido o requisito subjetivo, constitui forma de execuo da perseguio criminosa. A vinculao estabelecida pelo tipo para as formas de expresso da perseguio (meios de execuo) limita o alcance da incriminao. Se o sujeito perseguir um pessoa sem ameaa-la, sem restringir-lhe a capacidade de locomoo, sem invadir ou perturbar a sua esfera de liberdade ou de privacidade, no ser possvel caracterizar o crime em estudo. 6.5.5. Elementos normativos do tipo. O tipo que descreve o crime de perseguio apresenta dois elementos normativos, que podem dificultar a compreenso da conduta proibida e possibilitar a ocorrncia de inadequao tpica por erro de tipo (artigo 20 do CP). Vejamos o significado destes elementos. Esfera de liberdade. A expresso esfera de liberdade deve ser entendida no contexto de sua insero na parte especial do Cdigo Penal. O crime de perseguio se encontra inserido no Captulo VI, que trata dos crimes contra a liberdade individual, especificamente na Seo I, que trata dos crimes contra a liberdade pessoal. A esfera de liberdade a que se refere o tipo  o amplo espectro de liberdade individual de pessoa determinada. Por liberdade deve-se entender a faculdade natural que uma pessoa tem de fazer o que quiser, nos limites da lei, respeitados os direitos alheios. Tratando-se de elemento normativo de um tipo incriminador, a liberdade que  tutelada penalmente no pode ser limitada por um mandamento de ordem moral. Nos termos da Constituio da Repblica, artigo 5, inciso II, ningum pode ser obrigado a fazer ou deixar de fazer alguma coisa seno em virtude de lei. Esfera de privacidade. A expresso esfera de privacidade tambm deve ser entendida no contexto de sua insero no mesmo captulo da parte especial do Cdigo Penal, sendo um aspecto especfico da esfera de liberdade pessoal. Tambm cabe observar que a Constituio da Repblica, em seu artigo 5, inciso X, dispe que a vida privada das pessoas  inviolvel.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 13.709/18, que constitui o marco geral da proteção de dados pessoais no Brasil, considera que o acesso e tratamento não autorizado de dados pessoais constitui violação aos direitos fundamentais de liberdade e privacidade. O crime de perseguição se encontra inserido no Captulo VI do Código Penal, que trata dos crimes contra a liberdade individual, especificamente na Seção I, que trata dos crimes contra a liberdade pessoal. A esfera de liberdade e privacidade são tuteladas penalmente pela Constituição da República.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Aduziu, por fim, que no merece prosperar o pedido de declarao de nulidade do ato administrativo impugnado, uma vez que a anlise por parte do douto juzo se restringe  sua legalidade, verificando se se revestiu ou no das formalidades legais, no cabendo, portanto, a apreciao de seu mrito; que a caracterizao da infrao disciplinar, ou seja, o enquadramento da conduta  norma compete exclusivamente  Administrao; e que no se pode olvidar que est na esfera exclusiva da Administrao a oportunidade e convenincia na aplicao das punies disciplinares, o que inviabiliza a reapreciao de tais matrias pelo Poder Judicirio. Salientou que a punio do autor foi determinada pela autoridade competente, tendo sido observadas todas as formalidades legais; que, no havendo qualquer vcio de legalidade no processo administrativo em questo,  impossvel submeter ao Poder Judicirio a anlise e discusso acerca do mrito do ato administrativo que determinou a punio dos requerentes, isso porque o rgo Jurisdicional no pode reapreciar o ato administrativo disciplinar, salvo para aferio de legalidade e legitimidade, sob pena de violao do princpio da independncia e harmonia dos Poderes, insculpido no artigo 2 da Constituio da Repblica. Arguiu que, in casu, conforme demonstrado, no caber ao rgo Jurisdicional a reapreciao da punio disciplinar aplicada ao suplicante, visto que os aspectos que em tese poderiam ensejar o reexame se revelam completamente regulares. Ao final, requereu que sejam julgados improcedentes, in totum, os pedidos iniciais, condenando-se o autor ao pagamento dos nus decorrentes da sucumbncia. O autor apresentou impugnao  contestao (Evento 4 - IMPUGNAO1). Intimado para a especificao de provas (Evento 4 - DESP2), o Estado de Minas Gerais manifestou no ter outras provas a produzir (Evento 4 - PET4). O autor requereu a produo de prova pericial mdica (Evento 4 - OUT6), pedido deferido pelo Meritssimo Juiz de Direito Cooperador (Evento 4 - DESP9). Entre nomeaes e renomeaes de peritos, intimao das partes para apresentar quesitos e solicitaes para conduo do militar recluso na Penitenciria Nelson Hungria, apesar de devidamente autorizado pelo Juzo de Execuo da Comarca de Contagem, o autor no compareceu  Junta Central de Sade da Polcia Militar de Minas Gerais, na data designada (Evento 7 - OFIC10). Instado, o advogado informou que a casa de recluso no disponibilizou escolta para acompanhar o reeducando, mesmo tendo sido devidamente oficiada pela Justia Militar (Evento 7 - MANI4). O Meritssimo Juiz solicitou a sentena criminal e o acrdo dos autos do Processo n. 0054359-87.2018.8.13.0079, processo de execuo penal (Evento 7 - OFIC17). Os documentos foram juntados no Evento 7 - OUT19.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juízo negou o pedido de declaração de nulidade do ato administrativo impugnado, pois a análise se restringe à sua legalidade e a caracterização da infração disciplinar compete exclusivamente à Administração. O Juízo salientou ainda que a punição do autor foi determinada pela autoridade competente, observando-se todas as formalidades legais, inviabilizando a reapreciação da matéria pelo Poder Judicirio.

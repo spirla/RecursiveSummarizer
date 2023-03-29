@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Magistrado que determina a decretacao da prisao preventiva. Impossibilidade. Atuacao de oficio. Constrangimento ilegal. 1180 DESTAQUE Se o requerimento do Ministerio Publico limita-se a aplicacao de medidas cautelares ao preso em flagrante, e vedado ao juiz decretar a medida mais gravosa - prisao preventiva -, por configurar uma atuacao de oficio. A reforma introduzida pela Lei n. 13.964/2019 ( Lei Anticrime ), preservando e valorizando as caracteristicas essenciais da estrutura acusatoria do processo penal brasileiro, modificou a disciplina das medidas de natureza cautelar, especialmente as de carater processual, estabelecendo um modelo mais coerente com as caracteristicas do moderno processo penal. Apos o inicio da vigencia da mencionada lei, houve a insercao do art. 3-A ao CPP e a supressao do termo de oficio que constava do art. 282,  2 e 4, e do art. 311, todos do CPP. Assim sendo, o art. 310 e os demais dispositivos do CPP devem ser interpretados privilegiando o regime do sistema acusatorio vigente em nosso pais, nos termos da CF/88, que outorgou ao Parquet a relevante funcao institucional, dentre outras, de promover, privativamente, a acao penal publica, na forma da lei (art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedado ao juiz decretar a medida mais gravosa - prisão preventiva -, por configurar uma atuação de ofício. 2. A Lei n. 13.964/2019 (Lei Anticrime) modificou a disciplina das medidas de natureza cautelar, especialmente as de caráter processual, estabelecendo um modelo mais coerente com as características do moderno processo penal. 3. O art. 310 e os demais dispositivos do CPP devem ser interpretados privilegiando o regime do sistema acusatório vigente em nosso país, nos termos da CF/88, que outorgou ao Parquet a relevante função institucional, dentre outras, de promover, privativamente, a ação penal pública, na forma da lei.

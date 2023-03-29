@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No se vislumbra constrangimento ilegal quando verificado que o Juiz singular indeferiu a realizao de determinadas diligncias de forma devidamente motivada, seja porque seriam meramente procrastinatrias, seja porque no teriam pertinncia com o deslinde da causa. 6. A via estreita do habeas corpus no  instrumento adequado para a anlise da pertinncia ou no das diligncias requeridas pela defesa quando da resposta  acusao, porquanto demanda aprofundado exame do conjunto ftico-probatrio. O TJMSP (HC 2177/10) perfilha desse entendimento do STF e do STJ de no constituir cerceamento de defesa o indeferimento de diligncia que no tem carter relevante ou indispensvel:
+Na fase de diligncias complementares, pode o juiz, motivadamente, indeferir a produo de prova que reputar injustificada e desnecessria ao deslinde do feito. H precluso se as diligncias no forem requeridas antes das alegaes finais. 15.2.8. Alegaes escritas. Superada a fase de diligncias  aberta vista dos autos s partes para as alegaes escritas. De acordo com o artigo 428 do CPPM o representante do Ministrio Pblico e o defensor do acusado tm vista dos autos, sucessivamente, por oito dias. Ao assistente da acusao, constitudo at o encerramento da instruo criminal,  dada vista dos autos por cinco dias para oferecer alegaes escritas, imediatamente aps as alegaes apresentadas pelo representante do Ministrio Pblico. O prazo ser de doze dias, correndo em cartrio e em comum para todos, se ao processo responderem mais de cinco acusados e diferentes forem os advogados. O mesmo prazo de doze dias ter o representante do Ministrio Pblico. Por fim, o moderno processo penal prestigia a oralidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz singular pode indeferir diligncias de forma motivada se forem meramente procrastinatórias ou não tiverem relação com o deslinde da causa. O habeas corpus não é o instrumento adequado para análise da pertinência das diligncias. O TJMSP entende que o indeferimento de diligncias não relevantes ou indispensáveis não configura cerceamento de defesa. Após a fase de diligncias, as partes têm direito a alegações escritas, com prazos diferentes para o Ministério Público e para o acusado. O processo penal moderno privilegia a oralidade.

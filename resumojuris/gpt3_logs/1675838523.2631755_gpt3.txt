@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Diante da omissao estatal em regulamentar o plantio para uso medicinal da maconha, nao e coerente que o mesmo Estado, que preza pela saude da populacao e ja reconhece os beneficios medicinais da cannabis sativa, condicione o uso da terapia canabica aqueles que possuem dinheiro para aquisicao do medicamento, em regra importado, ou a burocracia de se buscar judicialmente seu custeio pela Uniao. Desde 2015, a Agencia Nacional de Vigilancia Sanitaria vem autorizando o uso medicinal de produtos a base de cannabis sativa, havendo, atualmente, autorizacao sanitaria para o uso de 18 farmacos. De fato, a ANVISA classificou a maconha como planta medicinal (RDC n. 130/2016) e incluiu medicamentos a base de canabidiol e THC que contenham ate 30mg/ml de cada uma dessas substancias na lista A3 da Portaria n. 344/1998, de modo que a prescricao passou a ser autorizada por meio de Notificacao de Receita A e de Termo de Consentimento Informado do Paciente. Trazendo o exame da materia mais especificamente para o direito penal, tem-se que o bem juridico tutelado pela Lei de Drogas e a saude publica, a qual nao e prejudicada pelo uso medicinal da cannabis sativa. Dessa forma, ainda que eventualmente presente a tipicidade formal, nao se revelaria presente a tipicidade material ou mesmo a tipicidade conglobante, haja vista ser do interesse do Estado, conforme anteriormente destacado, o cuidado com a saude da populacao. Dessa forma, apesar da ausencia de regulamentacao pela via administrativa, o que tornaria a conduta atipica formalmente - por ausencia de elemento normativo do tipo -, tem-se que a conduta de plantar para fins medicinais nao preenche a tipicidade material, motivo pelo qual se faz mister a expedicao de salvo-conduto, desde que comprovada a necessidade medica do tratamento, evitando-se, assim, criminalizar pessoas que estao em busca do seu direito fundamental a saude.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A omissão estatal em regulamentar o plantio para uso medicinal da maconha não é coerente com o Estado que preza pela saúde da população. 2. A Agência Nacional de Vigilância Sanitária autoriza o uso medicinal de produtos a base de cannabis sativa. 3. O bem jurídico tutelado pela Lei de Drogas é a saúde pública, não sendo prejudicada pelo uso medicinal da cannabis sativa. 4. A conduta de plantar para fins medicinais não preenche a tipicidade material, motivo pelo qual se faz mister a expedição de salvo-conduto, desde que comprovada a necessidade médica do tratamento.

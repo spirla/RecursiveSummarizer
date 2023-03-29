@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Dado, ou Data,  uma palavra utilizada para indicar o registro de um fato isolado que pode constituir um fragmento de informao til para as pessoas. Antes da era digital, os dados somente eram registrados em meio fsico (papel). No contexto da incriminao, deve-se entender por dados os elementos bsicos de informao, constitudos por caracteres ou smbolos que so fornecidos, produzidos e/ou armazenados por um dispositivo informtico. Os dados expressam fatos, conceitos, comandos ou instrues de maneira convencional e apropriada para comunicao, interpretao ou processamento por meios automticos.  qualquer parte de uma informao ou algo com o poder de trazer alguma informao, que deve ser considerada como preparada para ser processada, operada e transmitida por um sistema de computador ou programa de computador.116 A princpio, os dados constituem a matria prima para gerar a informao propriamente dita. Um dado, isoladamente considerado, possui significado bastante restrito para as pessoas. No entanto, associado a outros se converte em informao til. A informao , na verdade, o resultado do processamento de vrios dados, que envolve tcnicas de seleo, relacionamento, interpretao e clculo de dados elementares. No entanto, cabe observar que para o computador todo dado  informao, seja registro ou instruo, expressa por meio de um cdigo digital.. Informaes. O inciso I do artigo 4 da Lei 12.527/12, define informao como sendo dados, processados ou no, que podem ser utilizados para produo e transmisso de conhecimento, contidos em qualquer meio, suporte ou formato. Diante da previso legal, resta claro que a informao pode estar registrada em qualquer meio, suporte ou formato, o que inclui os dados registrados em papel e os armazenados em meio eletrnico. Para os fins da incriminao em exame, no entanto, a informao  sempre digital. Vulnerabilidades. No contexto da incriminao em exame, vulnerabilidade no significa a qualidade do dispositivo informtico de ser vulnervel ao acesso no autorizado. Deve-se entender por vulnerabilidade o mecanismo que o sujeito ativo introduz no dispositivo visando torn-lo mais vulnervel ao acesso no autorizado. Conforme descrito no tipo incriminador, a vulnerabilidade  instalada pelo sujeito ativo do crime e no uma caracterstica do equipamento.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Dados são elementos básicos de informação constituídos por caracteres ou símbolos fornecidos, produzidos e/ou armazenados por um dispositivo informático. A informação é o resultado do processamento de vários dados e pode estar registrada em qualquer meio, suporte ou formato. No contexto da incriminação, vulnerabilidade é o mecanismo que o sujeito ativo introduz no dispositivo visando torná-lo mais vulnerável ao acesso não autorizado.

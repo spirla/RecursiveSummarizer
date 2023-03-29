@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Valor infimo do prejuizo. Afastamento excepcional da Sumula n. 599 do STJ. DESTAQUE Admite-se, excepcionalmente, a aplicacao do principio da insignificancia a crime praticado em prejuizo da administracao publica quando for infima a lesao ao bem juridico tutelado. Hipotese na qual o paciente, apos adquirir, em nome de seus filhos, tres bilhetes estudantis de transporte publico integrado pelo preco unitario de R$ 2,15 (dois reais e quinze centavos) - metade do valor integral (R$ 4,30 - quatro reais e trinta centavos) - utilizou-se deles para vender acesso irregular a Estacao do metro, por R$ 4,00 (quatro reais). Conforme a denuncia, um dos bilhetes foi usado regularmente duas vezes, e os outros dois foram utilizados indevidamente uma vez, cada. Isso resultou em vantagem financeira ao paciente de R$ 3,70 (tres reais e setenta centavos), e prejuizo financeiro a Empresa de Transporte Publico de R$ 4,30 (quatro reais e trinta centavos). 775 As particularidades da especie impoem o reconhecimento do principio da insignificancia. Tanto a vantagem patrimonial obtida, quanto o prejuizo ocasionado a Empresa de Transporte Publico, foram inferiores a 0,5% do salario minimo que vigia no ano de 2019, quando dos fatos. No mais, nao ha a indicacao de circunstancia subjetiva que eventualmente pudesse impedir a aplicacao do principio da bagatela, pois inexistem noticias do envolvimento do paciente em outros delitos, alem de ser relevante seu relato em Delegacia de que passava por dificuldades em sustentar financeiramente sua familia. No Supremo Tribunal Federal nao prevalece a orientacao de que o cometimento de conduta em prejuizo da Administracao Publica impede, aprioristicamente, a incidencia do principio da bagatela - o que deve ser avaliado segundo as peculiaridades do caso concreto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É admissível, excepcionalmente, a aplicação do princípio da insignificância a crimes praticados em prejuízo da Administração Pública quando for infima a lesão ao bem jurídico tutelado. 2. O Supremo Tribunal Federal não prevalece a orientação de que o cometimento de conduta em prejuízo da Administração Pública impede, aprioristicamente, a incidência do princípio da bagatela, devendo ser avaliado segundo as peculiaridades do caso concreto.

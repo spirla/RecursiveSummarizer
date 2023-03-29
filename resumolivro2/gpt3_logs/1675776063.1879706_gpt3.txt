@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O CPPM confere ao indiciado a possibilidade de requerer a produo de provas na fase do IPM, a saber, verificao da sade mental (artigo 156, pargrafo 2) e exame complementar em caso de leses corporais (artigo 331).  facultado ao indiciado formular quesitos a serem respondidos pelo perito (artigo 316). O carter inquisitivo do IPM no obsta o exerccio do direito de defesa ao permitir impugnao por meio de habeas corpus ou mandado de segurana. A unilateralidade nesta fase da persecutio criminis no impede o investigado, o suspeito ou o indiciado de colaborar com as investigaes, de requerer exames e percias necessrias ao esclarecimento da verdade, que se oua determinada testemunha ou que se junte documento indispensveis  elucidao do fato. A Lei Federal 8.906/94 - Estatuto da Advocacia e a Ordem dos Advogados do Brasil - no inciso XXI do artigo 7 confere ao advogado o direito de:
+assistir a seus clientes investigados durante a apurao de infraes, sob pena de nulidade absoluta do respectivo interrogatrio ou depoimento e, subsequentemente, de todos os elementos investigatrios e probatrios dele decorrentes ou derivados, direta ou indiretamente, podendo, inclusive, no curso da respectiva apurao. O dispositivo legal garantiu ao advogado o direito de estar presente no interrogatrio do seu cliente e nos demais depoimentos. Decidiu a 2 Turma do STF (AgReg Pet. 7612/DF):
+As alteraes promovidas pela Lei 13.245/2016 no artigo 7, XXI, do Estatuto da Ordem dos Advogados representam reforo das prerrogativas da defesa tcnica no curso do inqurito policial, sem comprometer, de modo algum, o carter inquisitrio da fase investigativa preliminar. Alm de estar presente, o advogado tem direito de apresentar razes (argumentar e defender seu ponto de vista sobre algo que v ser decidido pela autoridade policial ou sobre alguma diligncia que precise ser tomada) e de apresentar quesitos (formular perguntas). As razes e os quesitos podero ser formulados durante o interrogatrio e o depoimento ou, ento, por escrito, durante o curso do procedimento de investigao, como no caso de um requerimento de diligncia ou da formulao de quesitos a serem respondidos pelo perito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CPPM garante ao indiciado o direito de requerer produção de provas na fase do IPM, como verificação de saúde mental e exame complementar. O Estatuto da Advocacia e a Ordem dos Advogados do Brasil garantem ao advogado o direito de estar presente no interrogatório do seu cliente e nos demais depoimentos, além de apresentar razões e quesitos.

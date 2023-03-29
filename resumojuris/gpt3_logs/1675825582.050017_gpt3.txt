@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O referido dispositivo ja foi objeto de debate neste Supremo Tribunal Federal (STF) no julgamento da ADI 3934, ocasiao em se decidiu por sua constitucionalidade. Assim, sendo a causa de pedir aberta e nao havendo motivos de fato ou de direito que autorizem a superacao do entendimento firmado no julgamento da referida acao direta, ratifica-se a constitucionalidade do artigo 83, I e IV, c, da Lei 11.101/2005. E constitucional a precedencia conferida aos creditos extraconcursais decorrentes de obrigacoes resultantes de atos juridicos validos praticados durante a recuperacao judicial, ou apos a decretacao da falencia, e de tributos relativos a fatos geradores ocorridos apos a decretacao da falencia. A regra tem por objetivo estimular os fornecedores de bens e servicos a negociar com a empresa em recuperacao, a despeito da fragilidade de sua situacao financeira, confessada e divulgada publicamente quando do requerimento de recuperacao. A preservacao da empresa depende da continuidade dos negocios e, para tanto, e necessario que os novos credores tenham garantia de que serao pagos. Caso contrario, nao havera interessados em continuar contratando com a empresa em recuperacao judicial. Ademais, diante da funcao de promover a justica social da tributacao, justifica-se tambem a precedencia em relacao aos tributos cujos fatos geradores tenham ocorrido durante a recuperacao judicial ou apos a decretacao da falencia. E legitima a restituicao em dinheiro de valor adiantado ao devedor-falido, oriundo de adiantamento de contrato de cambio para exportacao. A restituicao de adiantamento de contrato de cambio para a exportacao nao trata de um mero contrato de mutuo, em que a quantia emprestada pelo banco mutuante se incorporaria  imediatamente  ao patrimonio do mutuario no momento da contratacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a precedência conferida aos créditos extraconcursais decorrentes de obrigações resultantes de atos jurídicos válidos praticados durante a recuperação judicial, ou após a decretação da falência. 2. É legítima a restituição em dinheiro de valor adiantado ao devedor-falido, oriundo de adiantamento de contrato de câmbio para exportação.

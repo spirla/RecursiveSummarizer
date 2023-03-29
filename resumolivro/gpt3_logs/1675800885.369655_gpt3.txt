@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+De modo a regulamentar as disposicoes estatutarias, a sistematica de homologacao de atestados medicos na PMMG e CBMMG foi tratada na Resolucao Conjunta 4.278/2013, que assim estabelece:
+Artigo 32 - E prerrogativa exclusiva dos oficiais medico e cirurgiao dentista dos NAIS das Unidades nas IME, este ultimo na area de competncia da odontologia e, exclusivamente dos oficiais medicos das JRS nas RPM e da JCS, a concessao de licenca e dispensa saude, obrigatoriamente, precedida de avaliacao pericial, nos termos do Estatuto do Pessoal da Policia Militar de Minas Gerais (EMEMG) e desta Resolucao Conjunta, determinando o tempo de afastamento do militar periciado. Paragrafo 1 - A concessao de licenca e dispensa saude se dara por homologacao do atestado medico ou odontologico, que sera apresentado pelo militar no NAIS onde se encontra vinculado, no mesmo dia ou ate o primeiro dia util subsequente ao de sua emissao. Paragrafo 2 - Nao sera homologado o atestado apresentado fora do prazo previsto no paragrafo anterior. Paragrafo 3 - O atestado emitido pelo medico ou cirurgiao dentista assistente, seja da rede contratada ou da rede orgnica, tem valor informativo, nao dispensa a realizacao de pericia medica ou odontologica para fins de homologacao e nao justifica a ausncia do militar no trabalho. Os oficiais medico e cirurgiao dentista podem aceitar ou rejeitar o atestado, no todo ou em parte, tendo total autonomia na formulacao de suas conviccoes e definicao do periodo do afastamento. Paragrafo 4 - E atribuicao exclusiva do oficial medico do NAIS, das JRS e da JCS determinar a capacidade laborativa do militar periciado, tanto apos o termino da licenca saude, quanto apos a concessao ou homologacao de dispensa saude, dentro dos limites de suas atribuicoes. (...)
+Paragrafo 6 - O militar que receber atestado de saude, que sugira afastamento do trabalho ou atividade, comunicara imediatamente ao seu chefe direto a impossibilidade de seu comparecimento ao servico.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Resolução Conjunta 4.278/2013 regulamenta a homologação de atestados médicos na PMMG e CBMMG. O oficial médico ou cirurgião dentista das Unidades nas IME, ou exclusivamente dos oficiais médicos das JRS nas RPM e da JCS, tem prerrogativa exclusiva para conceder licença e dispensa de saúde, precedida de avaliação pericial. O atestado emitido pelo médico ou cirurgião dentista assistente tem valor informativo e não dispensa a realização de perícia médica ou odontológica. O militar que receber atestado de saúde deverá comunicar imediatamente ao seu chefe direto a impossibilidade de comparecimento ao serviço.

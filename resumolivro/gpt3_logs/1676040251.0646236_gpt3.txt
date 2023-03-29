@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A obedincia  ordem de superior hierrquico pressupe sua referncia ao dever jurdico de praticar a conduta ordenada. No havendo concreto dever legal que sustente a conduta do executor da ordem, a iseno de sua culpa somente poder ocorrer quando ele pensar que est atuando justificado pela excludente de ilicitude do estrito cumprimento do dever legal ou quando no puder opor-se  ordem do superior, embora reconhea sua ilegalidade. Na primeira hiptese, verifica-se que o erro quanto  qualidade de ilcita da conduta d-se por via indireta, j que ocorre errnea crena de estar-se agindo licitamente. O erro incide sobre a excludente de ilicitude do cumprimento do dever legal e, segundo os termos da teoria limitada da culpabilidade, quando se relacionar  existncia ou aos limites da norma justificante que ampara a ordem, constituir erro de proibio indireto. Na segunda, a impossibilidade do indivduo de opor-se  ordem caracteriza coao moral irresistvel. Em ambos os casos, a exculpao do executor da ordem decorre da inexigibilidade de conduta diversa que impossibilita a reprovao de sua finalidade criminosa. Considerando a obedincia hierrquica como erro de proibio indireto, importa distinguir a ocorrncia do erro quanto  ilegalidade da ordem do erro em relao  situao ftica sobre a qual tem aplicao a ordem. Quando o sujeito erra sobre a ilegalidade da ordem, trata-se de erro de proibio. J quando o sujeito erra sobre pressuposto ftico de aplicabilidade da ordem, verifica-se erro de tipo permissivo. No primeiro caso, o erro constitui excludente de culpabilidade; no segundo, de tipicidade. A distino no  meramente acadmica, pois dela decorrem importantes efeitos prticos. Se obedincia hierrquica constituir causa de exculpao, trar como consequncia a possibilidade da defesa legtima contra aquele que cumprir a ordem no manifestamente ilegal, j que sua conduta ser ilcita, embora no culpvel. Se a obedincia hierrquica, ao contrrio, caracterizar erro de tipo permissivo, a conduta do executor da ordem no adquirir a qualidade de ilcita e no ser possvel a legtima defesa contra seus atos. Nesse caso, a legtima defesa somente poderia ser exercida contra quem proferiu a ordem, a no ser que este tambm esteja em erro de tipo, quando somente poderia desenvolver-se o argumento da inexigibilidade de conduta diversa. A oportunidade de realizao do juzo criminal de reprovao indica a anterior constatao do injusto penal, sem o qual no se pode examinar a culpabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A obedincia hierárquica pressupõe a referência ao dever jurdico de praticar a conduta ordenada. O erro quanto à ilicitude da conduta pode ocorrer por meio de uma errônea crença de estar agindo licitamente ou pela impossibilidade de se opor à ordem do superior. A obedincia hierárquica pode ser considerada como erro de proibição indireta ou erro de tipo permissivo, sendo que os efeitos práticos desta distinção são importantes. A legítima defesa pode ser exercida contra quem proferiu a ordem, desde que este também esteja em erro de tipo.

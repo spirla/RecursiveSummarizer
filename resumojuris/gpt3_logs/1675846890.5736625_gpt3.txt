@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inicialmente cumpre salientar que, o Tribunal de origem deu parcial provimento a apelacao da defesa tao somente para readequar a medida constritiva a titulo de arresto. A proibicao de reforma para pior, disciplinada no art. 617 do CPP, visa impedir que a situacao do reu seja agravada em virtude do julgamento do seu proprio recurso, ainda que para correcao de erro material. 1202 No entanto, in casu, nao se verifica a alegada reformatio in pejus, porquanto nao houve piora da situacao do reu, o que ocorreu foi a readequacao do bloqueio de valores - no limite do requerido pelo orgao ministerial em relacao ao valor a ser bloqueado -, em razao da reconhecida incompatibilidade da medida de sequestro para assegurar o valor da pena de multa imposta ao reu que pode ser constrito a titulo de arresto. (Informativo  Ed. Especial n. 4) CPP, art. 617 Processo AgRg no REsp 1.928.705-RS, Rel. Min. Jesuino Rissato (Desembargador Convocado do Tribunal de Justica do Distrito Federal e Territorios), Quinta Turma, por unanimidade, julgado em 23/11/2021, DJe 03/12/2021 Ramo do Direito DIREITO PROCESSUAL PENAL Tema Mensagens enviadas por meio de aparelhos Blackberry. Coleta de dados telematicos. Licitude. DESTAQUE E licita a coleta de dados telematicos de mensagens enviadas por meio de aparelhos Blackberry.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 617 do Código de Processo Penal visa impedir que a situação do réu seja agravada em virtude do julgamento do seu próprio recurso, ainda que para correção de erro material. 2. Não se verifica a alegada reformatio in pejus, pois não houve piora da situação do réu, o que ocorreu foi a readequação do bloqueio de valores. 3. É licita a coleta de dados telemáticos de mensagens enviadas por meio de aparelhos Blackberry.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nas hipteses de desistncia voluntria e arrependimento eficaz haver a inadequao tpica para o crime de homicdio, considerando a impossibilidade de caracterizar a figura em sua forma tentada. A posterior mudana de orientao subjetiva do sujeito no permite o reconhecimento da desistncia voluntria ou do arrependimento eficaz nos crimes culposos, mesmo que, aps o incio de conduta descuidada, esse passe a orient-la pela inteno de obedecer aos deveres objetivos de cuidado. Se o descuido no produziu um resultado naturalstico proibido, a conduta inicialmente descuidada  indiferente para o Direito Penal. Se, por outro lado, o descuido causou a produo de um resultado naturalstico, como a leso corporal decorrente de acidente de veculos, deve-se observar que, como a conduta inicialmente desenvolvida no visava  produo de qualquer resultado lesivo, no se pode falar em desistncia ou arrependimento. O socorro que eventualmente  prestado a vtima de acidentes de trnsito no caracteriza desistncia de prosseguir na ao criminosa ou arrependimento por parte de seus causadores, posto que no perseguiam os resultados lesivos produzidos ou outros ainda mais graves que a partir destes podem ocorrer. No se pode desistir de produzir o que nunca se teve a inteno de produzir. Da mesma forma, no  juridicamente possvel arrepender-se do que no se pretendeu fazer. Se o causador da leso corporal no pretendeu produzi-la, no pode se arrepender de tal resultado lesivo. Para as leses j produzidas o Cdigo Penal no admite arrependimento. O arrependimento por no ter praticado anteriormente a conduta cuidadosa no produz qualquer efeito se foi ineficaz para evitar a ocorrncia do resultado lesivo. Por outro lado, se o causador das leses nunca pretendeu que estas viessem a produzir a morte da vtima, no pode arrepender-se de tal possibilidade. O socorro mdico que  capaz de evitar que as leses corporais produzidas em acidente de trnsito levem a vtima ao bito, embora produza efeitos diretos na adequao tpica da conduta culposa, no permite a caracterizao do arrependimento eficaz. O arrependimento  causa de inadequao tpica para a tentativa de um crime doloso e nunca de um crime culposo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Nas hipteses de desistncia voluntria ou arrependimento eficaz, não é possível caracterizar a figura do homicídio tentado. O arrependimento eficaz não é admitido para crimes culposos, pois não se pode desistir ou arrepender-se do que nunca foi pretendido. O socorro mdico que evita que as lesões corporais produzidas em acidente de trânsito levem a vítima à morte, não permite a caracterização do arrependimento eficaz.

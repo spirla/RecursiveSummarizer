@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Tem sempre natureza condenatria a deciso que reconhece a ocorrncia de crime e aplica pena ao acusado. Mas tambm tem natureza condenatria a deciso que substitui a pena aplicada por medida de segurana, nas hipteses de semi-imputabilidade, previstas no artigo 26, pargrafo nico, do CP. Nesse caso,  necessrio, primeiro, aplicar uma pena determinada para, depois, substitu-la. Vale observar, entretanto, que  absolutria a deciso que reconhece a inimputabilidade e aplica medida de segurana (artigo 386, V, e pargrafo nico, III, do CPP). A natureza da deciso que concede perdo judicial  motivo de avivada polmica. No obstante a posio do STJ (Smula 18), consoante as ponderaes feitas no item 11. do Captulo 21, o melhor entendimento  no sentido de que o perdo judicial se opera mediante deciso condenatria. A deciso na qual ocorre a aplicao imediata da pena - transao penal -, prevista no artigo 76 da Lei 9.099/95, por previso legal expressa (pargrafo 6), no implica a produo de qualquer efeito civil. Contudo, deve-se reconhecer que a deciso que impe imediatamente pena, na transao penal,  condenatria. 18.1. Efeitos genricos. Os efeitos extrapenais genricos da condenao criminal esto previstos no artigo 91 do CP. Tais efeitos operam-se independentemente de manifestao judicial, por disposio expressa da lei. Nos termos do artigo 91, so efeitos da condenao:
+- tornar certa a obrigao de indenizar o dano causado pelo crime; e.
+- a perda em favor da Unio, ressalvado o direito do lesado ou de terceiro de boa-f:
+a) dos instrumentos do crime, desde que consistam em coisas cujo fabrico, alienao, uso, porte ou deteno constitua fato ilcito;
+b) do produto do crime ou de qualquer bem ou valor que constitua proveito auferido pelo agente com a prtica do fato criminoso. 18.1.1. Reparao civil ex delicto. O estatuto repressivo nacional, ao dispor que a condenao criminal torna certa a obrigao de indenizar o dano, dispensa o interessado/ofendido de ingressar em juzo com um processo de conhecimento, na esfera civil, para ver satisfeita sua pretenso de ressarcimento. A deciso condenatria definitiva consubstancia um ttulo executivo judicial (artigo 584, II, do CPC) que pode fundamentar a execuo forada no juzo cvel. A deciso criminal no impe a reparao, apenas declara a existncia da obrigao, facultando ao interessado/ofendido o ingresso no juzo cvel de ao de execuo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A decisão condenatória, seja ela que aplica pena ou substitui por medida de segurança, torna certa a obrigação de indenizar o dano causado pelo crime. O perdão judicial é condenatório e a transação penal também é condenatória, não implicando qualquer efeito civil. A decisão condenatória gera efeitos genéricos previstos no artigo 91 do CP, tornando certa a obrigação de indenizar o dano, com possibilidade de execução forçada no juízo cível.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Caso contrrio, no haver tipicidade objetiva. Incrementar o risco significa transpor os limites do risco que  socialmente tolerado. A noo de incremento do risco tornou possvel impedir a punio, mesmo que o sujeito no tenha empregado a diligncia devida, quando o resultado decorrer de situao de risco socialmente admitida. Veja-se, nos exemplos, a aplicao do princpio:
+a) no fato culposo: um condutor de caminho ultrapassa ciclista sem guardar a distncia lateral requerida. Durante a ultrapassagem, o ciclista, que segue embriagado, gira a bicicleta para a esquerda, por uma reao provocada pelo lcool, e cai debaixo das rodas traseiras do caminho. Se a realizao da conduta, conforme o Direito, tivesse conduzido ao mesmo resultado, no seria possvel a imputao, pois, embora descuidada a conduta do motorista, no aumentou o risco j existente de produzir-se o resultado. Note-se que o legislador autorizou a realizao de conduta arriscada quando permitiu a ultrapassagem de veculos nas rodovias. Se, ao contrrio, a realizao correta da ultrapassagem pudesse evitar o sinistro, deveria haver imputao. As discusses sobre a teoria da imputao objetiva receberam forte impulso quando a Suprema Corte alem, em 1958, absolveu um condutor de caminho envolvido em idntica situao, entendendo que no se podia descartar a possibilidade da ocorrncia do resultado, mesmo que o condutor tivesse observado a distncia regulamentar;
+b) no fato doloso: o diretor de uma fbrica de pincis fornece a suas trabalhadoras pelos de cabra da China para a confeco dos objetos, sem desinfet-los previamente, como estava prescrito. O diretor pretendia, com a omisso do desinfetante, matar uma de suas trabalhadoras. A trabalhadora efetivamente infecta-se e morre. Uma investigao posterior comprova que o desinfetante prescrito no seria eficaz contra os bacilos da infeco, pois estes no eram conhecidos at aquele momento na Europa. Como a conduta alternativa, conforme o Direito, no poderia evitar o resultado, no se reconhece o incremento da situao de perigo e, portanto, no h a imputao pelo resultado. Roxin entende ser possvel responsabilizar o diretor da fbrica por homicdio tentado. O caso  realmente complexo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria da imputabilidade objetiva permite que o sujeito seja livre de punição, mesmo que não tenha empregado a devida diligência, quando o resultado decorrer de uma situação de risco socialmente tolerada. Em casos de fato culposo, como a ultrapassagem de veículos nas rodovias, a conduta correta não pode evitar o resultado. Em casos de fato doloso, como a omissão do desinfetante para matar uma trabalhadora, se a conduta alternativa não evitaria o resultado, não há imputação.

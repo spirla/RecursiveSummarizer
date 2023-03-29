@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ramo do Direito DIREITO INTERNACIONAL, DIREITO DA CRIANCA E DO ADOLESCENTE, DIREITOS HUMANOS Tema Convencao da Haia sobre os aspectos civis do sequestro internacional de criancas. Decreto n. 3.413/2000. Retencao nova. Interpretacao ampliativa de norma restritiva. Impossibilidade. Melhor interesse da crianca. Definicao dentro dos ditames do tratado. Pericia psicossocial. Desnecessidade. Repatriacao do menor. Ocorrencia. DESTAQUE E desnecessaria a realizacao de estudo psicossocial quando o fato probando, ainda que existente, revela-se incapaz de influir na decisao, ante a correta exegese da Convencao da Haia nas hipoteses de retencao nova.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É desnecessária a realização de estudo psicossocial quando o fato probando, ainda que existente, revela-se incapaz de influir na decisão, ante a correta exegese da Convenção da Haia nas hipóteses de retenção nova. 2. É impossível a interpretação ampliativa de norma restritiva na Convenção da Haia sobre os aspectos civis do sequestro internacional de crianças. 3. O melhor interesse da criança deve ser definido dentro dos ditames do tratado. 4. Ocorre a repatriacão do menor quando há a Convenção da Haia sobre os aspectos civis do sequestro internacional de crianças.

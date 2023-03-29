@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Seria o caso da infeco hospitalar, que somente poderia afetar a vtima se ela j estivesse no hospital. Haveria uma relao de dependncia entre a causa que levou a vtima ao hospital e a causa da infeco. No sendo o caso de insistncia na produo do resultado (concurso entre a pessoa que efetuou o disparo contra a vtima e outra que lhe produz a infeco), a dependncia que se verifica entre as causas  apenas relativa. Nessa hiptese, se qualquer das causas (seja o disparo de arma de fogo ou a infeco), por si s, produzir o resultado, ocorrer a excluso da imputao em relao  outra. Da mesma forma, se as causas forem absolutamente independentes, a excluso da imputao em relao a qualquer delas depende de que outra tenha produzido sozinha o resultado. As causas so absolutamente independentes quando a produo dos efeitos de cada qual se opera sem necessidade da ocorrncia dos efeitos das demais. Um exemplo de causas absolutamente independentes  a ocorrncia de dois atentados contra uma mesma vtima, enquanto esta permanece no mesmo lugar, praticados por pessoas que no agem em concurso. Digamos que dois agentes tentem matar uma mesma vtima por envenenamento, ministrando-lhe determinadas doses de veneno. Se a dose ministrada por um produzir, isoladamente, a morte da vtima, exclui a imputao de homicdio consumado para o outro. Se a morte for produzida pela combinao das duas doses, ambos os agentes respondero pelo crime. Em qualquer hiptese de concurso de causas, o princpio a ser utilizado  o mesmo. A excluso da imputao somente ser possvel se uma das causas produzir sozinha o resultado naturalstico. Se nenhuma das contribuies causais produzir sozinha, todas autorizaro a imputao do resultado. Vejamos como ocorre a aplicao do princpio em exemplo. No conhecido caso da ambulncia: o agente tenta matar seu desafeto com um disparo de arma de fogo. A vtima  atingida no abdome e, posteriormente,  conduzida ao hospital em uma ambulncia. No trajeto, a ambulncia envolve-se em acidente de trnsito, a vtima sofre traumatismo craniano e morre. Se a morte for produzida exclusivamente pelo traumatismo craniano (causa superveniente), o autor do disparo (causa antecedente) no responder por homicdio consumado, mas tentado. Se o traumatismo craniano, por sua vez, no produzir, por si s, a morte, mas contribuir para agravar a sade da vtima, o autor do disparo e o responsvel pelo acidente respondero por homicdio, observando-se o respectivo elemento subjetivo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Se houver uma relação de dependência entre a causa que levou a vítima ao hospital e a causa da infecção, e se nenhuma das causas produzir sozinha o resultado naturalístico, todas autorizarão a imputação do resultado. No exemplo da ambulância, se a morte for produzida exclusivamente pelo traumatismo craniano, o autor do disparo não responderá por homicídio consumado, mas tentado. Se o traumatismo craniano não produzir, por si s, a morte, mas contribuir para agravar a saúde da vítima, o autor do disparo e o responsável pelo acidente responderão por homicídio.

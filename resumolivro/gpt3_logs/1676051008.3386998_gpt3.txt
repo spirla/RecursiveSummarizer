@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Vale notar que nem sempre a consumao do crime est vinculada  produo de um resultado naturalstico. Nos crimes materiais, comissivos ou omissivos imprprios, a consumao do crime ocorre com a produo de um resultado naturalstico. No entanto, nos crimes formais, a consumao d-se independentemente do resultado natural previsto no tipo, e, nos crimes de mera conduta, no h sequer a previso de resultado naturalstico. Com efeito, o resultado de que depende a existncia do crime  sempre a violao da norma jurdico-penal. A segunda regra estabelece que, sendo o crime tentado, o incio da contagem do prazo prescricional tem lugar no dia em que se d o ltimo ato de execuo. Nos casos de tentativa, no se poder ter como marco inicial da contagem a consumao, pois esta no acontece. Assim, o legislador determinou que no se proceda a contagem no dia do primeiro ato de execuo, mas que esta seja postergada at o dia do ltimo ato do processo executivo. Dessa forma, a contagem do prazo tem incio no dia em que os atos executivos da tentativa terminam, muito embora possam perdurar as chances de o crime vir a consumar-se. Na prtica, a contagem do prazo s poder ser feita aps ter-se a certeza de que o crime no chegar  consumao, quando ento se poder adotar como termo inicial o dia em que se deu o ltimo ato de execuo. Todos os prazos estabelecidos pelo artigo 109 do CP permitem ao operador do direito assegurar-se da consumao ou da caracterizao da tentativa. Para os crimes permanentes, o artigo 111 traz regra expressa, no sentido de que a contagem do prazo prescricional tem incio no dia em que cessar a permanncia. Nesses casos, o legislador fez um reparo  regra que estabelece o incio da contagem no dia em que houve a consumao do crime. O crime permanente  aquele em que a consumao se prolonga no tempo,21 e, perdurando a fase de consumao, no se poder iniciar a contagem do prazo prescricional antes do dia em que venha a cessar a permanncia. Em outras palavras, o incio da contagem no poder dar-se no primeiro dia em que acontece a consumao, mas no ltimo. Em ateno a essa regra, se a permanncia persistir, mesmo aps iniciada a persecuo penal, a contagem do prazo prescricional no ter incio. O artigo 111 no mencionou expressamente como se dar a contagem do prazo prescricional no crime continuado. No entanto, tratando-se o crime continuado de fico que trabalha com hiptese de concurso de crimes, tem aplicao a regra do artigo 119 do CP.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No caso de crimes materiais, comissivos ou omissivos imprprios, a consumação do crime ocorre com a produção de um resultado natural previsto no tipo. Nos crimes formais e de mera conduta, a consumação ocorre independentemente do resultado natural previsto. A contagem do prazo prescricional tem início no dia em que os atos executivos da tentativa terminam. Para os crimes permanentes, a contagem do prazo prescricional tem início no dia em que cessar a permanência. No caso de crime continuado, a regra do artigo 119 do CP tem aplicação.

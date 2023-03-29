@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+- g.n. (STF - 1a Turma - ARE n 779938 AgR, Rel. Min Luiz Fux, julg. em 05/08/2014, pub. em 22/08/2014) HABEAS CORPUS. CRIME MILITAR. SUBSTITUIO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. IMPOSSIBILIDADE NA ESPCIE. HABEAS CORPUS DENEGADO. 1.  firme a jurisprudncia deste Supremo Tribunal Federal no sentido de no se admitir a aplicao da Lei n. 9.714/98 para as condenaes por crimes militares, sendo esta de aplicao exclusiva ao Direito Penal Comum. Precedentes. 2. A converso da pena privativa de liberdade aplicada pela Justia Militar por duas restritivas de direito poder ocorrer, pelo menos em tese, desde que o Paciente tenha de cumprir pena em estabelecimento prisional comum e a pena imposta no seja superior a dois anos, nos termos previstos no art. 180 da Lei de Execuo Penal, por fora do que dispe o art. 2, pargrafo nico, daquele mesmo diploma legal. 3. Na espcie, contudo, a pena fixada ao Paciente foi de dois anos, nove meses e dezoito dias de recluso. No h, portanto, como ser reconhecido a ele o direito de substituio da pena privativa de liberdade por restritiva de direito. 4.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A jurisprudência do STF não admite a aplicação da Lei n. 9.714/98 para crimes militares. Contudo, a substituição da pena privativa de liberdade por restritiva de direito só pode ocorrer se a pena imposta for inferior a dois anos. No caso em questão, a pena fixada foi superior a dois anos, não sendo possível a substituição.

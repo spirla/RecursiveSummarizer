@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+300 do CPC, pela concesso da tutela antecipada de urgncia, de forma que seja determinada a manuteno de seus proventos de aposentadoria, considerando a probabilidade de seu direito e o fato de encontrar-se vivendo em estado de miserabilidade, uma vez que no possui qualquer fonte de renda. Ao final, pugna pela procedncia da ao, para que seja rescindido o acrdo hostilizado e seja realizado novo julgamento, com alterao do resultado, para determinar-se a perda do posto e da patente, porm com a manuteno dos proventos de aposentadoria. Os autos do processo foram distribudos a este relator, que, nos termos da deciso constante no "Evento 4, indeferiu o pedido de tutela antecipada formulada pelo autor, deferiu o pedido de justia gratuita e determinou a citao do Estado de Minas Gerais. Citado, o Estado de Minas Gerais apresentou contestao (Evento 12), na qual defendeu a impossibilidade da utilizao do documento apontado como novo (sentena prolatada nos Autos n. 500247381.2020.8.13.0567), para os fins do inciso VII do art. 966 do CPC, em razo de a referida sentena ter sido disponibilizada, em 28/07/2021, data posterior ao trnsito em julgado do acrdo rescindendo, que se deu em 07/06/2021. Sustenta que, alm de o documento apontado como novo no ser contemporneo  deciso rescindenda, o referido documento no  suficiente para assegurar um pronunciamento favorvel. Sustentou, ainda, que a parte autora almeja a rediscusso do processo. Ao final, pugnou pela extino do processo sem resoluo do mrito, pela ausncia de pressupostos de constituio e de desenvolvimento vlido e regular do processo (art. 485, IV, do CPC) e, alternativamente, pela improcedncia da ao. Determinada a abertura de vista s partes, para a especificao de provas, o Estado de Minas Gerais informou que no tinha mais provas a produzir (Evento 19). A parte autora no se manifestou, conforme certido constante no Evento 20. Aberta vista para as partes a fim de apresentao de razes finais, o autor e o Estado de Minas Gerais apresentaram suas alegaes finais (Eventos 26 e 27).  o relatrio. VOTOS DESEMBARGADOR FERNANDO ARMANDO RIBEIRO, RELATOR Por meio da presente ao, a parte autora objetiva rescindir o acrdo proferido pelo Pleno deste Tribunal de Justia Militar nos autos do Processo de Justificao n. 0800108-82.2017.9.13.0000, que o declarou indigno para o oficialato e determinou a sua demisso das fileiras da Polcia Militar do Estado de Minas Gerais. Assevera que o seu pleito encontra amparo no art. 966, inciso VII, do Cdigo de Processo Civil (CPC).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A parte autora requer a rescisão de um acórdão que a declarou indigna para o oficialato e determinou sua demissão da Polícia Militar do Estado de Minas Gerais, alegando que seu pleito encontra amparo no art. 966, inciso VII, do Código de Processo Civil. O Estado de Minas Gerais contestou alegando a impossibilidade da utilização do documento apontado como novo para os fins do inciso VII do art. 966 do CPC. Após a abertura de vista para especificação de provas e alegações finais, o relator indeferiu o pedido de tutela antecipada.

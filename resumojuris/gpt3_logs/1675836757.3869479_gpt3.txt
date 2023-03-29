@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A adocao de entendimento diverso importaria, dessa forma, no desvirtuamento do proprio instituto da antecipacao dos efeitos da tutela, haja vista que um dos requisitos legais para sua concessao reside justamente na inexistencia de perigo de irreversibilidade, a teor do art. 273,  2 e 4, do CPC (STJ, EREsp 1.335.962/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Secao, DJe de 02/08/2013). Tal entendimento vem sendo mantido, inclusive em acordaos recentes do STJ. Nao pode o servidor alegar boa- fe para nao devolver valores recebidos por meio de liminar, em razao da propria precariedade da medida concessiva e, por conseguinte, da impossibilidade de presumir a definitividade do pagamento (STJ, AgInt no AgInt no AREsp 1.609.657/MS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 16/03/2021). (Informativo n. 735) PROCESSO RMS 68.602-GO, Rel. Min. Assusete Magalhaes, Segunda Turma, por unanimidade, julgado em 26/04/2022, DJe 29/04/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Fornecimento de medicamento registrado na ANVISA, mas nao constante dos atos normativos do SUS. Tema 793 da repercussao geral. Inexistencia de litisconsorcio passivo necessario.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O requisito legal para concessão da antecipação dos efeitos da tutela é a inexistência de perigo de irreversibilidade, a teor do art. 273, 2 e 4, do CPC. 2. Não pode o servidor alegar boa-fé para não devolver valores recebidos por meio de liminar, em razão da precariedade da medida concessiva e, por conseguinte, da impossibilidade de presumir a definitividade do pagamento. 3. Inexistência de litisconsórcio passivo necessário para o fornecimento de medicamento registrado na ANVISA, mas não constante dos atos normativos do SUS.

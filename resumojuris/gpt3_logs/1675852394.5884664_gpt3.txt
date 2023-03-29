@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Impossibilidade. DESTAQUE E possivel a utilizacao da taxa Selic, desde que pactuada, como indice de correcao monetaria das parcelas ajustadas em contrato de compra e venda de imovel, caso em que nao havera cumulacao com juros remuneratorios, uma vez que os juros ja estao englobados nesse indice. 38 A controversia consiste em definir se e possivel a utilizacao da taxa Selic como indice de correcao monetaria das parcelas ajustadas em contrato de compra e venda de imovel. A correcao monetaria serve para recompor o poder aquisitivo original da moeda, corroido pelos efeitos da inflacao, nada acrescentando ao seu valor. Por sua vez, os juros tem a natureza de frutos civis e constituem obrigacao acessoria dos contratos onerosos, com fins de recompensar o credor ou de ressarcir a demora no pagamento do debito. Eles se subdividem em duas especies: a) os remuneratorios ou compensatorios, cuja funcao e remunerar o credor pela privacao do seu capital, e b) os moratorios, que tem o papel de indenizar o credor pelo atraso no pagamento da divida. A taxa SELIC abrange juros e correcao monetaria. Em razao disso, nao pode ser cumulada a nenhum outro indice que exprima tais consectarios. Assim, se for pactuada a incidencia da taxa Selic a titulo de correcao monetaria das parcelas contratuais, nao sera possivel cumula-la com juros remuneratorios, uma vez que os juros ja estao englobados nesse indice. Isso nao impedira, contudo, a estipulacao de juros de mora, ja que possuem finalidade distinta dos juros remuneratorios. Na especie, o contrato de compra e venda celebrado entre as partes preve a incidencia da taxa Selic a titulo de correcao monetaria das parcelas do contrato, sem a incidencia cumulativa de juros remuneratorios. A previsao contratual nao e, portanto, abusiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a utilização da taxa Selic como índice de correção monetária das parcelas ajustadas em contrato de compra e venda de imóvel, desde que pactuada, não havendo cumulação com juros remuneratórios, uma vez que os juros já estão englobados nesse índice. 2. A correção monetária tem a função de recompor o poder aquisitivo original da moeda, corroído pelos efeitos da inflação, nada acrescentando ao seu valor. 3. Os juros têm a natureza de frutos civis e constituem obrigação acessória dos contratos onerosos, com fins de recompensar o credor ou de ressarcir a demora no pagamento do débito. 4. A taxa SELIC abrange juros e correção monetária, não podendo ser cumulada a nenhum outro índice que exprima tais consectários. 5. É possível a estipulação de juros de mora, já que possuem finalidade distinta dos juros remuneratórios.

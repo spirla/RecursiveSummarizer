@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Na ocasiao, o STF assentou que viola a CF/88 (CF) a pratica da inclusao de materias de conteudo estranho ao objeto originario de medida provisoria, mediante emenda parlamentar, na sua conversao em lei. Contudo, manteve higidas todas as leis de conversao fruto dessa pratica  contrabando legislativo  promulgadas ate a data daquele julgamento (15.10.2015), em atencao ao principio da seguranca juridica. O art. 67 da Lei 12.249/2010, impugnado, deu nova redacao ao art. 2 da Lei 5.615/1970 (Lei do Serpro). A norma foi editada no exercicio da competencia privativa da Uniao, a teor do art. 22, XXVII, da CF. Afasta-se a alegada ofensa ao art. 246 da CF, pois nao houve, na fracao de interesse, mudanca substancial do conteudo do art. 22, XXVII, pela Emenda Constitucional 19/1998. No que concerne a observancia do postulado da separacao de Poderes e da legalidade, o preceito questionado, lei em sentido formal e material, atende efetivamente a exigencia dos arts. 2; 5, II; e 37, caput e XXI, da CF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Viola a Constituição Federal de 1988 a prática da inclusão de matérias de conteúdo estranho ao objeto originário de medida provisória, mediante emenda parlamentar, na sua conversão em lei. 2. O artigo 67 da Lei 12.249/2010 deu nova redação ao artigo 2 da Lei 5.615/1970 (Lei do Serpro). 3. A norma foi editada no exercício da competência privativa da União, a teor do artigo 22, XXVII, da CF. 4. Não houve, na fração de interesse, mudança substancial do conteúdo do artigo 22, XXVII, pela Emenda Constitucional 19/1998. 5. O preceito questionado, lei em sentido formal e material, atende efetivamente a exigência dos artigos 2; 5, II; e 37, caput e XXI, da CF.

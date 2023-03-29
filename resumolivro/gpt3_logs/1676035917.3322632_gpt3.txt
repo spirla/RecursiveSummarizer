@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A concepo da Justia formal de Perelman no  capaz de oferecer uma resposta absoluta a questo fundamental de saber quais so as distines existentes entre os homens que permitem reuni-los em uma determinada categoria essencial. A pretenso de superar a dificuldade de estabelecer uma noo abstrata e universal para a Justia, com a referncia formal  igualdade, no evitou a armadilha das frmulas vazias. Em seus estudos posteriores, Perelman reconheceu que a noo de Justia deve ser desenvolvida a partir de uma argumentao razovel que se fundamenta no senso comum e no consenso, para concluir que a ideia de que existem princpios de justia anlogos a princpios matemticos que, corretamente aplicados, forneceriam sempre solues justas, sejam quais forem as circunstncias, se mostra contrria  realidade. 3.3. Justia como correo, de Alexy. Para Robert Alexy em toda a produo e aplicao do Direito h uma pretenso implcita de correo. Tal pretenso pressupe a afirmao de que o ato jurdico  material e procedimentalmente correto; que a disposio normativa ou a deciso judicial encontram fundamento racional; e que existe uma expectativa de reconhecimento da correo por todos os destinatrios da norma jurdica ou da deciso. O participante de um discurso jurdico que negue expressamente a pretenso de correo do ato jurdico comete uma contradio performtica, que se estabelece em face do contedo da afirmao implicitamente realizada pela edio do ato. A pretenso de correo vislumbrada por Alexy se manifesta tanto na edio da lei quanto na concretude da deciso judicial, de modo que em ambas as atividades (legislativa e judicial) existe uma conexo necessria e qualificante entre o Direito e a moral correta. Tal relao confere ao Direito um carter ideal que o orienta sempre no sentido de realizar a Justia por meio da deciso juridicamente correta. O carter ideal conferido ao Direito fundamenta um princpio geral de moralidade que deve ser reconhecido como norma jurdica implcita em todas as constituies jurdicas e estabelece o dever de criar e aplicar o Direito corretamente. Conceber um princpio da moralidade como princpio geral de Direito repercute efeitos em todos os ramos do Direito, independentemente de previso expressa. Contudo, a concepo da Justia como correo tambm no consegue escapar da indeterminao das frmulas vazias.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Perelman reconheceu que a noo de Justia deve ser desenvolvida a partir de uma argumentao razovel, mas sua pretenso de estabelecer uma noo abstrata e universal para a Justia não evitou a armadilha das frmulas vazias. Para Alexy, toda produção e aplicação do Direito pressupõe uma pretenso implícita de correção, que se manifesta tanto na edição da lei quanto na concretude da decisão judicial. No entanto, essa concepção da Justiça também não consegue escapar da indeterminação das frmulas vazias.

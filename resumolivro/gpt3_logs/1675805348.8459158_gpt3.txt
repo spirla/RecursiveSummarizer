@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Juiz Cel PM Rubio Paulino Coelho, julgado em 18/06/2013. 277 Em seu fundamentado voto, o Relator do Acordao destaca que A materia tambem esta pacificada nos Tribunais Superiores. Desde 2007, o Supremo Tribunal Federal firmou entendimento no sentido de ser possivel a utilizacao de prova obtida atraves de interceptacao telefnica em processo administrativo, desde que a interceptacao tenha se dado nos moldes estabelecidos na Lei n. 9.296/96. Essa possibilidade tem sido ampliada para tambem autorizar o uso dessas mesmas informacoes, inclusive, contra outros agentes (Inq 2424 QO, Relator(a): Min. Cezar Peluso, Tribunal Pleno, julgado em 25/04/2007; HC 102293, Relator(a): Min. Ayres Britto, Segunda Turma, julgado em 24/05/2011). 278 STJ: HC 234.836/MG, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 23/08/2013. No mesmo sentido, STJ: MS 17.535/DF, Rel. Ministro Benedito Goncalves, Primeira Secao, DJe 15/09/2014. 279 Que admite prova em contrario. 280 STJ: HC 278.794/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/10/2014.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Supremo Tribunal Federal (STF) e o Superior Tribunal de Justiça (STJ) têm entendimento de que é possível a utilização de prova obtida por meio de interceptação telefônica em processos administrativos, desde que sejam seguidas as regras da Lei n. 9.296/96. Além disso, essas informações também podem ser usadas contra outros agentes. Por fim, o STJ admite a prova em contrário.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No mrito, sustentou que, no caso, no existem provas de que os fatos no ocorreram, impedindo, portanto, o reconhecimento da absolvio com base alnea "a do art. 439 do CPPM. Asseverou que, pelas provas angariadas no feito, no restou comprovada a legtima defesa sustentada pela defesa do acusado. Por fim, requereu a rejeio da preliminar e, no mrito, o no provimento do recurso (Evento 222 - AJME). A douta e culta procuradora de justia atuante junto a este Tribunal, doutora Elba Rondino, manifestou-se, preliminarmente, pelo no conhecimento da apelao, em razo de sua intempestividade e da ausncia de interesse recursal. No mrito, opinou pelo total desprovimento do recurso, mantendo-se, na ntegra, a sentena proferida em primeira instncia. Veja-se: [...] Pois bem, como se sabe, so pressupostos gerais de admissibilidade de qualquer recurso a previso legal, legitimidade, tempestividade e o interesse. Inicialmente, verifica-se que o ato recursal est intempestivo. Isso porque, de acordo com o artigo 529 do Cdigo de Processo Penal Militar, o prazo para a interposio de apelao  de cinco (05) dias a partir da cincia da deciso recorrida. Como no caso concreto o ru e seu Defensor no compareceram  audincia de leitura da sentena, determinou o juzo a intimao da defesa acerca da deciso (evento 205 - ATA1 dos autos de 1a instncia), o que se efetivou no dia 26/05/2022 - quinta- feira (evento 211 - ATA1 dos autos de 1a instncia). Contudo, o apelo somente foi interposto na data de 1/06/2026 - quarta-feira (evento 214 - ATA1 dos autos de 1a instncia), ou seja, 6 dias aps o ato de cincia da deciso recorrida, no restando, assim, qualquer dvida acerca da extemporaneidade da apelao. Como se no bastasse, tambm no se encontra presente o interesse por parte do apelante, o que torna a forma recursal imprpria e as partes ilegtimas. Isso porque a defesa restringiu expressamente o seu inconformismo  fundamentao para as absolvies do ru pelos delitos de tentativa de homicdio e violncia contra superior, no contestando a condenao pelo crime de recusa de obedincia, previsto no artigo 163 do CPM. Sendo a parte quem delimita o objeto de apreciao recursal, apenas o que foi alegado nas razes  o que dever ser analisado. Limitado, desta maneira, o objeto recursal  parte absolutria da sentena e considerando que a absolvio foi decretada sem qualquer ressalva, essa parte da deciso no gerou ao acusado nenhuma sucumbncia, que  exatamente a desconformidade entre o que foi pleiteado e o que foi concedido. Reconhecendo-se o interesse em recorrer como decorrente da sucumbncia, restou ausente um dos pressupostos recursais no tocante  parte absolutria da deciso, o que, tambm preliminarmente, impede o conhecimento do apelo defensivo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso foi interposto intempestivamente e sem interesse recursal, pois a defesa restringiu expressamente o seu inconformismo à fundamentação para as absolvições do réu, não contestando a condenação pelo crime de recusa de obediência. Assim, não houve sucumbncia, o que impediu o conhecimento do apelo defensivo.

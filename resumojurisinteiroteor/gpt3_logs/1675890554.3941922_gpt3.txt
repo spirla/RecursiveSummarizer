@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+NULIDADE. AUSNCIA DO DEFENSOR NA AUDINCIA DE OITIVA DE TESTEMUNHAS. DEFESA DA R PATROCINADA POR DOIS CAUSDICOS. INTIMAO DE UM DOS ADVOGADOS. DEFENSOR AD HOC PRESENTE NO ATO. PREJUZO NO-DEMONSTRADO. PRISO PREVENTIVA. PACIENTE QUE NO FOI ENCONTRADA PARA SER INTIMADA. EVASO DO DISTRITO DA CULPA NO PERODO EM QUE SE ENCONTRAVA EM LIBERDADE PROVISRIA. NECESSIDADE DA CUSTDIA EVIDENCIADA. ORDEM DENEGADA. I. Apesar da indicao, pela paciente em seu interrogatrio, apenas do nome da subscritora da inicial do presente writ como sua advogada, a defesa da r foi promovida tambm por outro advogado, o qual apresentou defesa prvia assinada por ambos, bem como outros expedientes nos autos da ao penal. II. No h que se falar em nulidade na ausncia da impetrante na audincia de oitiva de testemunha, se evidenciada a regular intimao do outro advogado da paciente, bem como a assistncia integral de defensor ad hoc. III. S se declara nulidade no processo penal quando restar evidente, de modo objetivo, efetivo prejuzo para o acusado, o que no restou evidenciado in casu. [...] VIII. Ordem denegada.  preciso esclarecer, ainda, que o cerceamento de defesa  um fato, motivo pelo qual no se admite sua presuno, e deve ser demonstrado,  luz do princpio do pas de nulitt sans grief, como j dito.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa da ré foi patrocinada por dois advogados, sendo que um deles foi devidamente intimado. Não houve prejuízo evidenciado para a ré e, portanto, a nulidade não foi declarada. A prisão preventiva foi mantida, pois houve evasão do distrito da culpa enquanto a ré se encontrava em liberdade provisória. Ordem denegada.

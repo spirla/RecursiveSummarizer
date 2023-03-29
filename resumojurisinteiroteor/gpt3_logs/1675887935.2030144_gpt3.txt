@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Habeas corpus impetrado contra ato do Superior Tribunal Militar que, no julgamento de embargos infringentes, manteve a condenao do paciente pela prtica do crime previsto no art. 290, do Cdigo Penal Militar. 2. Tratamento legal acerca da posse e uso de substncia entorpecente no mbito dos crimes militares no se confunde com aquele dado pela Lei n 11.343/06, como j ocorria no perodo anterior, ainda na vigncia da Lei n 6.368/76. 3. Direito Penal Militar pode albergar determinados bens jurdicos que no se confundem com aqueles do Direito Penal Comum. 4. Bem jurdico penal-militar tutelado no art. 290, do CPM, no se restringe  sade do prprio militar, flagrado com determinada quantidade de substncia entorpecente, mas sim a tutela da regularidade das instituies militares. 5. Art. 40, III, da Lei n 11.343/06, no altera a previso contida no art. 290, CPM. 6. Inaplicabilidade do princpio da insignificncia em relao s hipteses amoldadas no art. 290, CPM. 7. Habeas corpus denegado. (HC 98447/CE, Segunda Turma, relatora Ellen Gracie, julgamento realizado em 14/12/2010 e deciso publicada em 08/02/2011).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Habeas Corpus impetrado contra o ato do Superior Tribunal Militar que manteve a condenao do paciente pela prtica do crime previsto no art. 290, do Cdigo Penal Militar foi denegado, pois o Direito Penal Militar pode albergar determinados bens jurdicos que no se confundem com aqueles do Direito Penal Comum, alm de que o princpio da insignificncia no se aplica s hipteses amoldadas no art. 290, CPM.

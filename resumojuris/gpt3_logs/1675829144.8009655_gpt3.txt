@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+34 As construcoes doutrinarias erigidas com base neste ramo especial do Direito nao podem ser livremente importadas, sem maiores reflexoes, por outros ramos do ordenamento juridico, notadamente pelo Direito Civil, sob pena de se instalar indevido sincretismo metodologico que deve ser evitado. Ademais, importa consignar que, por envolver a adocao de um conceito juridico indeterminado sobre o qual ainda nao ha nenhum acordo semantico - a denominada perda do tempo util -, eventual aplicacao da Teoria do Desvio Produtivo do Consumidor exige cautela e parcimonia, sob pena de causar indesejada inseguranca juridica. De fato, deve-se observar que a tutela juridica do tempo, principalmente na via indenizatoria, jamais podera ser subvertida por sua conversao em fonte facil de renda e enriquecimento sem causa . (Informativo  Ed. Especial n. 9) Processo AgInt no REsp 1.911.929-SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, por unanimidade, julgado em 28/11/2022, DJe 13/12/2022. Ramo do Direito DIREITO CIVIL Tema Responsabilidade civil. Sistema Financeiro da Habitacao. Contrato de financiamento para construcao de empreendimento habitacional para populacao de baixa renda. Mora da Caixa Economica Federal. Atraso de repasses das parcelas do financiamento. Ressarcimento da sociedade construtora.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é permitida a livre importação de construções doutrinárias de um ramo especial do Direito para outro, sob pena de instalação de sincretismo metodológico indevido. 2. A aplicação da Teoria do Desvio Produtivo do Consumidor exige cautela e parcimonia, para evitar insegurança jurídica. 3. A tutela jurídica do tempo não pode ser subvertida para fins de enriquecimento sem causa.

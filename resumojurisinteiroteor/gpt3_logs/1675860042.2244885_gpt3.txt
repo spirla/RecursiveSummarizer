@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ademais, observa-se que no procede a alegao de ausncia de proporcionalidade ou razoabilidade no caso em tela. Primeiro, porque o PAD  o meio destinado a dar parecer sobre a capacidade do militar para permanecer na situao de atividade ou inatividade, nas Instituies Militares Estaduais (IMEs), tendo como princpio o contraditrio e a ampla defesa (art. 325, MAPPA). Ao contrrio das penas no demissionrias, a demisso no admite dosimetria, mas somente a deciso quanto  permanncia ou no do militar nas IMEs, em face do cometimento de transgresso disciplinar de natureza grave, comprovada atravs de regular PAD (art. 13, III, e art. 64, II, ambos do CEDM). Na mesma esteira, em conformidade com a jurisprudncia do Superior Tribunal de Justia, verificado, em regular procedimento administrativo, que a conduta praticada pelo servidor se enquadra em hiptese legal de demisso, a imposio dessa sano  ato vinculado, no podendo o administrador ou o Poder Judicirio deixar de aplic-la ou fazer incidir sano mais branda amparando-se em juzos de proporcionalidade e de razoabilidade. Nesse sentido: [.] 2. A demisso  ato administrativo vinculado, por isso que, enquadrada a conduta do servidor dentre aquelas a que a lei comina a penalidade de demisso (art. 132 da Lei n. 8.112/1990), tal como se deu na espcie, no cabe ao gestor pblico aplicar reprimenda diversa, nem mesmo em reverncia aos princpios da razoabilidade e da proporcionalidade. [.] (MS n. 26.557/DF, relator Ministro Srgio Kukina, Primeira Seo, julgado em 25/5/2022, DJe de 30/5/2022.) 6. Cabe destacar que, no obstante os procedimentos administrativos estarem sujeitos a controle judicial amplo quanto  legalidade, uma vez verificado que a conduta praticada pelo servidor se enquadra em hiptese legal de demisso (art. 132 da Lei 8.112/1990), a imposio dessa sano  ato vinculado, no podendo o administrador ou o Poder Judicirio deixar de aplic-la ou fazer incidir sano mais branda amparando-se em juzos de proporcionalidade e de razoabilidade. Na mesma linha: AgInt no RMS 54.617/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 12.3.2018; AgInt nos EDcl no RMS 50.926/BA, Rel. Min.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O PAD o meio destinado a dar parecer sobre a capacidade do militar para permanecer na situao de atividade ou inatividade nas Instituies Militares Estaduais, tendo como princpio o contraditrio e a ampla defesa. Uma vez verificado que a conduta do servidor se enquadra em hiptese legal de demisso, a imposio dessa sano ato vinculado, não sendo cabível ao administrador ou ao Poder Judicirio aplicar reprimenda diversa, nem mesmo em reverncia aos princípios da razoabilidade e da proporcionalidade.

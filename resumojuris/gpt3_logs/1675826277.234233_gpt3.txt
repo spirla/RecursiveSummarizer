@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O juiz tem a faculdade de exigir caucao, fianca ou deposito para o deferimento de medida liminar em mandado de seguranca, quando verificada a real necessidade da garantia em juizo, de acordo com as circunstancias do caso concreto (Lei 12.016/2019, art. 7, III). No exercicio do seu poder geral de cautela, o magistrado pode analisar se determinado caso especifico exige caucao, fianca ou deposito. No art. 7, III, da Lei 12.016/2019 ha previsao de mera faculdade, que pode ser exercida se o magistrado entender ser necessaria para assegurar o ressarcimento a pessoa juridica. Nao se trata de um obstaculo ao poder geral de cautela, mas uma faculdade que vai ao encontro do art. 300,  1, do CPC (CPC). E inconstitucional ato normativo que vede ou condicione a concessao de medida liminar na via mandamental. Impedir ou condicionar a concessao de medida liminar caracteriza verdadeiro obstaculo a efetiva prestacao jurisdicional e a defesa do direito liquido e certo do impetrante. Com base nesse entendimento, o Plenario, por maioria julgou parcialmente procedente acao direta para declarar a inconstitucionalidade do art. 7,  2, e do art. 22,  2, da Lei 12.016/2009, vencidos parcialmente os ministros Marco Aurelio, Nunes Marques, Edson Fachin, Roberto Barroso e Luiz Fux.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O juiz tem a faculdade de exigir caucao, fianca ou deposito para o deferimento de medida liminar em mandado de seguranca, quando verificada a real necessidade da garantia em juízo, de acordo com as circunstâncias do caso concreto (Lei 12.016/2019, art. 7, III). 2. O magistrado pode analisar se determinado caso específico exige caucao, fianca ou deposito. 3. É inconstitucional ato normativo que vede ou condicione a concessão de medida liminar na via mandamental. 4. Impedir ou condicionar a concessão de medida liminar caracteriza verdadeiro obstáculo à efetiva prestação jurisdicional e à defesa do direito líquido e certo do impetrante. 5. O Plenário julgou parcialmente procedente ação direta para declarar a inconstitucionalidade do art. 7, 2, e do art. 22, 2, da Lei 12.016/2009.

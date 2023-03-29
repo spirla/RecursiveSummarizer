@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...] Assim, julgou improcedentes os pedidos da inicial e condenou o autor, Celso Malaquias Nunes, ao pagamento das custas processuais e dos honorrios advocatcios provenientes da sucumbncia, fixados em 10% (dez por cento) do valor dado  causa, ficando suspensa a exigibilidade de cobrana, nos termos do 3 do art. 98 do Cdigo de Processo Civil (CPC). Aps, sobreveio tempestivo recurso de apelao do autor (Evento 77), em cujas razes sustenta, preliminarmente, a no observncia da ampla defesa e do contraditrio, bem como o cerceamento de defesa com o indeferimento das testemunhas e da juntada de documentos. No mrito, reitera a tese desenvolvida em sua inicial, com enfoque nos vcios do PAD, aptos a ensejar a anulao da punio disciplinar imposta. O Estado de Minas Gerais, intimado, ofertou contrarrazes ao apelo (Evento 84), requerendo o improvimento do recurso de apelao apresentado pelo autor. Registro que deixei de abrir "vista dos autos  douta procuradoria de justia, considerando a ausncia das hipteses de sua interveno, bem como a Recomendao n. 01, de 03/09/2001, do Conselho Superior do Ministrio Pblico do Estado de Minas Gerais, publicada no Minas Gerais de 05/09/2001.  o relatrio. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Recebo o recurso, por estarem presentes os pressupostos de sua admissibilidade. No Processo Administrativo-Disciplinar (PAD) de Portaria n. 109.074/2011 - 9a Regio da Polcia Militar (RPM) -, objeto deste processo, foi investigada a prtica, pelo militar, das infraes administrativas previstas no art. 13, incisos III e XIX, da Lei n. 14.310/2002, por faltar, publicamente, com o decoro pessoal, dando causa a grave escndalo que comprometeu a honra pessoal e o decoro da classe, alm de fazer uso do posto para obter vantagem pecuniria indevida. Conforme consta dos autos, o autor, ora apelante, interps a presente ao visando  nulidade das punies aplicadas a ele nos autos do mencionado PAD. Pois bem. Verifica-se, incialmente, que a defesa do recorrente arguiu, preliminarmente, que o juzo a quo no observou os princpios da ampla defesa e do contraditrio, quando indeferiu seu pedido de oitiva de testemunhas e de juntada de documentos, motivo pelo qual alega que restou cerceada a defesa do militar. Conforme se verifica dos autos originrios, a questo aventada pela defesa do militar foi devidamente analisada pelo magistrado atuante na 5a Auditoria Judiciria Militar Estadual (AJME), na medida em que indeferiu o pedido do apelante de forma motivada. Verifica-se da mencionada deciso que no havia qualquer razo para o acatamento do pleito, j que as mesmas testemunhas tinham sido inquiridas durante o procedimento disciplinar. Nesse sentido, trago, por oportuno, trecho da deciso de primeiro grau.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelao do autor foi recebido, pois estavam presentes os pressupostos de sua admissibilidade. O autor alegou a nulidade das punies aplicadas a ele nos autos do Processo Administrativo-Disciplinar (PAD) de Portaria n. 109.074/2011 - 9a Regio da Polcia Militar (RPM). A defesa do recorrente arguiu, preliminarmente, a no observncia dos princpios da ampla defesa e do contraditrio, quando indeferiu seu pedido de oitiva de testemunhas e de juntada de documentos. No entanto, a questo foi devidamente analisada pelo magistrado atuante e o pedido do apelante foi indeferido de forma motivada. Assim, os pedidos da inicial foram julgados improcedentes e o autor foi condenado ao pagamento das custas processuais e dos honorrios advocatcios provenientes da sucumbncia.

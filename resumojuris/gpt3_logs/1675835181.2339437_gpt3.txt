@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Mas custo nao e sinonimo de dano. Mesmo se pudesse falar em dano, prevalece no Brasil, dentre as diversas teorias da causalidade, a da causa direta e imediata (teoria da interrupcao do nexo causal), especialmente em razao do disposto no art. 403 do CC/2002. Nesse cenario, o elemento anterior ao dano deve se apresentar como unico e necessario para provocar direta e imediatamente o resultado. A conduta direta e imediata do demandado apresenta nexo causal apenas com a deflagracao do projeto de lei. O rumo que este (o projeto) tomou depois nao tem mais relacao direta com aquela (a deflagracao). Isto e, a partir da conduta do recorrente, multiplos destinos poderiam ser vividos: rejeicao imediata do projeto; tramitacao mais celere; tramitacao mais vagarosa; envio a distintos orgaos da casa legislativa; participacao ou nao da sociedade etc. Assim, ainda que se falasse em dano quanto a tramitacao do projeto de lei, este nao teria relacao direta e imediata com a conduta do ex-prefeito, mas sim seria decorrente da concomitancia de outras causas e eventos, inclusive oriundos da conduta de terceiros (os membros da casa legislativa municipal). (Informativo n. 745) 172 PROCESSO RMS 54.717-SP, Rel. Min. Sergio Kukina, Primeira Turma, por unanimidade, julgado em 09/08/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Processo administrativo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. No Brasil, prevalece a teoria da causa direta e imediata para a caracterização de dano. 2. O elemento anterior ao dano deve ser único e necessário para provocar direta e imediatamente o resultado. 3. A conduta do demandado apresenta nexo causal apenas com a deflagração do projeto de lei. 4. O rumo que o projeto tomou depois não tem mais relação direta com a conduta do recorrente. 5. Ainda que se falasse em dano quanto à tramitação do projeto de lei, este não teria relação direta e imediata com a conduta do ex-prefeito.

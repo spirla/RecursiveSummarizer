@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Formulacao composta. Vicio de complexidade. Nulidade absoluta do julgamento. DESTAQUE Quesitos complexos, com ma redacao ou com formulacao deficiente, geram a nulidade do julgamento do Tribunal do Juri, por violacao ao art. 482, paragrafo unico, do CPP. Nos termos do art. 482, paragrafo unico, do CPP, os quesitos deverao ser redigidos em proposicoes afirmativas, simples e distintas, de modo que cada um deles possa ser respondido com suficiente clareza e necessaria precisao . A questao, assim, merece ser examinada sob o enfoque metalinguistico e da analise do discurso. Entende-se por simples , o que so se constitui de um componente ; que nao e complicado, que e facil de compreender e, tambem, o que nao apresenta outros sentidos ou conotacoes (Fonte: aulete.com.br/simples). Por obvio, complexo e aquilo que nao e simples, ou seja, o que contem ou e formado por diversos elementos; que apresenta varios aspectos ou e multifacetado; de dificil compreensao (Larousse - Dicionario de Lingua Portuguesa. Sao Paulo: Atica, 2001). Da analise meramente semantica, ja e possivel concluir que a intencao do legislador ao prever o paragrafo unico do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os quesitos deverão ser redigidos em proposições afirmativas, simples e distintas, de modo que cada um deles possa ser respondido com suficiente clareza e necessária precisão; 2. Quesitos complexos, com má redação ou com formulacao deficiente, geram a nulidade do julgamento do Tribunal do Júri, por violação ao art. 482, parágrafo único, do CPP; 3. Simples é aquilo que se constitui de um componente, que não é complicado, que é fácil de compreender e, também, o que não apresenta outros sentidos ou conotações; 4. Complexo é aquilo que não é simples, ou seja, o que contém ou é formado por diversos elementos, que apresenta vários aspectos ou é multifacetado, de difícil compreensão.

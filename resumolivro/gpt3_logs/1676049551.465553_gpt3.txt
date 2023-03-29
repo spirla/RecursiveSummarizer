@@ -1,0 +1,40 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+artigo 121 c/c artigo 14, II -> B.
+artigo 121, pargrafo 3 -> C.
+artigo 129, pargrafo 6 -> D.
+artigo 121, pargrafo 3 -> E.
+conforme o aberratio ictus. artigo 121, caput -> B.
+artigo 129, pargrafo 6 -> C.
+artigo 129, pargrafo 6 -> D.
+artigo 121, pargrafo 3 -> E.
+na forma do artigo 70:
+mnimo - 2 anos e 4 meses. mximo - 11 anos. na forma do artigo 70:
+mnimo - 7 anos. mximo - 25 anos. Pela anlise desenvolvida, percebe-se, claramente, que a regra do aberratio ictus com multiplicidade de resultados tambm se apresenta em desfavor do acusado. A parte final do artigo 73 determina que, sendo tambm atingida a vtima potencial, aplica-se a regra do concurso formal. No entanto, o referido dispositivo legal no previu a hiptese de aberratio ictus com multiplicidade de resultados, em que a vtima potencial no  atingida. Para solucionar essa hiptese, trs so os posicionamentos possveis:
+1) utiliza-se apenas a regra contida na parte inicial do artigo 73 do CP, o que importa em desprezar os demais resultados;
+2) utiliza-se a regra contida na parte final do artigo 73 do CP, desconsiderando-se a exigncia de tambm ser atingida a pessoa visada;
+3) no se utilizam as regras do artigo 73 do CP, o que implica reconhecer a ocorrncia de concurso formal, mas sem considerar alteradas as regras da imputao objetiva que impem que sejam trocados os resultados produzidos nas vtimas efetivas e na potencial, determinando-se a responsabilidade pelo cmputo dos crimes que efetivamente ocorreram. Graficamente, poderamos representar o seguinte exemplo:
+A, agindo com dolo de matar B, erra, no atinge B; atinge e mata C; atinge e lesiona D; atinge e mata E. Troca-se qualquer uma das vtimas efetivas pela vtima potencial e computam-se os demais resultados a ttulo de culpa:
+Teramos, assim, as seguintes possibilidades:
+1 posio. artigo 121 -> B. 2 posio. artigo 121 -> B.
+artigo 129, pargrafo 6 -> D.
+artigo 121, pargrafo 3 -> E.
+3 posio. artigo 121 c/c artigo 14, II -> B.
+artigo 121, pargrafo 3 -> C.
+artigo 129, pargrafo 6 -> D.
+artigo 121, pargrafo 3 -> E.
+crime nico. mnimo - 6 anos. mximo - 20 anos. na forma do artigo 70:
+mnimo - 7 anos. mximo - 24 anos. na forma do artigo 70:
+mnimo - 2 anos e 4 meses. mximo - 20 anos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Aplicação da regra do aberratio ictus com multiplicidade de resultados, prevista na parte inicial do artigo 73 do Código Penal, para solucionar a hiptese de acusado. Possibilidades de 1 posição (artigo 121) ou 2 posições (artigo 121 c/c artigo 14, II) ou 3 posições (artigo 121 c/c artigo 14, II). Pena mínima de 2 anos e 4 meses e máxima de 25 anos.

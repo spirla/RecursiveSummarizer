@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No entanto, com relacao as empresas estatais cuja lei instituidora tenha previsto, expressamente, a necessidade de lei especifica para sua extincao ou privatizacao, e necessario que o administrador publico observe a norma legal. Com base nesse entendimento, o Plenario, por maioria, julgou improcedente o pedido formulado em acao direta para declarar a constitucionalidade dos arts. 2, caput, e 6, I,  1, da Lei 9.491/1997. Vencidos os ministros Edson Fachin e Ricardo Lewandowski. ADI 6241/DF, relatora Min. Carmen Lucia, julgamento virtual finalizado em 6.2.2021 (INF 1004) 1.8 EMPRESAS ESTATAIS SUBSIDIARIAS Desnecessidade de autorizacao legislativa para alienacao de empresas subsidiarias - ADPF 794/DF Resumo: E dispensavel a autorizacao legislativa para a alienacao de controle acionario de empresas subsidiarias. No julgamento da ADI 5624 MC-Ref/DF, prevaleceu o entendimento de que a lei que autoriza a criacao da empresa estatal matriz e suficiente para viabilizar a criacao de empresas controladas e subsidiarias, nao havendo se falar em necessidade de autorizacao legal especifica para essa finalidade. Assim, se e compativel com a CF a possibilidade de criacao de subsidiarias quando houver previsao na lei que cria a respectiva empresa estatal, por paralelismo, nao ha como obstar, por suposta falta de autorizacao legislativa, a alienacao de acoes da empresa subsidiaria, ainda que tal medida envolva a perda do controle acionario do Estado. Com base nesse entendimento, o Plenario, por unanimidade, conheceu em parte da arguicao de descumprimento de preceito fundamental e, na parte conhecida, julgou improcedente o pedido formulado contra o Edital de Leilao 1/2020 da Companhia Energetica de Brasilia (CEB), que se destina a alienacao de cem por cento do controle acionario da CEB-Distribuicao S.A. ADPF 794/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É dispensável a autorização legislativa para a alienação de controle acionário de empresas subsidiárias. 2. É compatível com a Constituição Federal a possibilidade de criação de subsidiárias quando houver previsão na lei que cria a respectiva empresa estatal. 3. Não há como obstar, por suposta falta de autorização legislativa, a alienação de ações da empresa subsidiária, ainda que tal medida envolva a perda do controle acionário do Estado.

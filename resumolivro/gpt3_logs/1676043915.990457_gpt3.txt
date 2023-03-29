@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com o referido dispositivo legal o Cdigo garante a impunidade de uma manifestao concreta da vontade individual de realizar conduta tendente a violar a norma jurdica subjacente ao tipo penal incriminador, mas que, por ineficcia absoluta do meio empregado para tanto ou por absoluta impropriedade do objeto que materializa o bem jurdico,  incapaz de satisfazer tais exigncias. Da mesma forma que afirma a inadequao tpica nos casos de inidoneidade absoluta do meio ou do objeto, o dispositivo legal permite a adequao ao tipo incriminador quando a inidoneidade for relativa. A doutrina clssica reconheceu a inidoneidade absoluta apenas nos casos em que o meio empregado, isolada e abstratamente considerado, no pudesse, em nenhum caso, produzir o resultado lesivo. Considerava, por outro lado, a inidoneidade relativa quando o meio empregado no tivesse produzido o resultado por causa das circunstncias peculiares ao caso concreto. Esta antiga distino entre inidoneidade absoluta (abstrata) e relativa (concreta) encontra-se cientificamente ultrapassada, porque a adequao deve ser examinada sempre diante das caractersticas do caso concreto. O exame sobre a inidoneidade do meio ou do objeto deve ser sempre uma inidoneidade concreta. Por isso,  necessrio averiguar, diante das circunstncias de cada caso concreto, se h ou no a impossibilidade absoluta de satisfazer as exigncias objetivas do tipo penal incriminador. Nos casos em que houver a possibilidade de satisfao de tais requisitos, ainda que remota, a inidoneidade do meio deve ser considerada apenas relativa e o crime possvel. Neste sentido, o enunciado da sumula 567 do Superior Tribunal de Justia afirma que Sistema de vigilncia realizado por monitoramento eletrnico ou por existncia de segurana no interior de estabelecimento comercial, por si s, no torna impossvel a configurao do crime de furto.. Ainda cabe observar que o crime impossvel no possui natureza jurdica de causa extintiva de punibilidade, como a redao do artigo 17 do CP pode sugerir, mas constitui situao ftica ou jurdica que no permite a adequao tpica, tendo em vista a impossibilidade concreta de satisfazer as exigncias de natureza objetiva do tipo incriminador. O crime impossvel constitui, portanto, situao de inadequao tpica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal garante a impunidade de manifestações concretas da vontade individual que visam violar uma norma jurdica, desde que o meio empregado seja absolutamente ineficaz ou inadequado ao objeto que materializa o bem jurdico. A inidoneidade absoluta é avaliada diante das características do caso concreto. O crime impossível não é uma causa extintiva de punibilidade, mas sim uma situação de inadequação típica.

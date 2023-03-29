@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Anote-se ser possivel cumular os danos interinos e os remanescentes; nessa situacao, as parcelas devem ser aferidas separadamente, na medida em que, repita-se, seus fatos ensejadores sao diversos. O simples fato de afirmar que a restauracao sera completa nao e suficiente para afastar a indenizacao. Para isso, a restauracao deve ser completa e imediata. Isso deve ser refletido sobre dois aspectos. Primeiro, para o dano residual, esse termo deve ser aferido em relacao as medidas de restauracao. Isto e: concluida a implementacao das medidas, o dano residual sera indenizavel se a restauracao nao for imediata apos esse marco. Para o dano intercorrente, porem, esse marco nao e o do termino da restauracao, mas sim o da ocorrencia do dano. Portanto, o parametro imediato , neste caso, de dano ambiental intercorrente, e aquele medido entre o evento degradante e o termino das medidas restaurativas. Verificada a lesao ambiental, o dano intercorrente somente pode ser afastado se for temporalmente irrelevante, mediante justificativa expressa do julgador fundada na prova dos autos. A reparabilidade imediata (apos as medidas de recuperacao) e mesmo que completa da lesao nao afasta o dano ja experimentado no periodo entre a degradacao e sua restauracao. (Informativo  Ed. Especial n. 8) Lei n. 7.347/1985, arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível cumular os danos interinos e os remanescentes, devendo ser aferidas separadamente. 2. A simples afirmação de que a restauração será completa não é suficiente para afastar a indenização. 3. Para o dano residual, o termo deve ser aferido em relação às medidas de restauração. 4. Para o dano intercorrente, o parâmetro imediato é o da ocorrência do dano. 5. O dano intercorrente somente pode ser afastado se for temporalmente irrelevante. 6. A reparabilidade imediata e completa da lesão não afasta o dano já experimentado no período entre a degradação e sua restauração.

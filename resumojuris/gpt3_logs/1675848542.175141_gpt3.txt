@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No que tange as medidas em procedimentos criminais, no art. 18, recomenda-se especial atencao as demandas das pessoas em situacao de rua, com vistas a assegurar a inclusao social delas, observando-se a principiologia e as medidas de protecao de direitos previstas na resolucao. Assim, na analise do cabimento da prisao preventiva de pessoas em situacao de rua, alem dos requisitos legais previstos no CPP, o magistrado deve observar as recomendacoes constantes da Resolucao n. 425 do CNJ, e, caso sejam fixadas medidas cautelares alternativas, aquela que melhor se adequa a realidade da pessoa em situacao de rua, em especial quanto a sua hipossuficiencia, hipervulnerabilidade, proporcionalidade da medida diante do contexto e trajetoria de vida, alem das possibilidades de cumprimento. Tal como na prisao, para a fixacao de medidas cautelares diversas, previstas no art. 319 do CPP, e preciso fundamentacao especifica (concreta), a fim de demonstrar a necessidade e a adequacao da medida restritiva da liberdade aos fins a que se destina, consoante previsao do art. 282 do CPP. Nesse sentido, a jurisprudencia desta Corte Superior nao admite restricao a liberdade do agente sem a devida fundamentacao concreta que indique a necessidade da custodia cautelar, sob pena de a medida perder a sua natureza excepcional e se transformar em mera resposta punitiva antecipada. Embora haja afirmado categoricamente a inexistencia de elementos suficientes e plausiveis para a decretacao da custodia cautelar, o Juiz de primeiro grau, na decisao que homologou o flagrante do acusado e concedeu a liberdade provisoria, fixou medidas cautelares de proibicao de se ausentar da Subsecao Judiciaria, por mais de dez dias, ou alteracao de endereco sem comunicacao previa ao Juizo, e recolhimento noturno em albergue municipal ou outro ponto de acolhida, informando o Juizo de seu endereco.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário observar a principiologia e as medidas de proteção de direitos previstas na resolução para assegurar a inclusão social de pessoas em situação de rua. 2. Na análise do cabimento da prisão preventiva de pessoas em situação de rua, além dos requisitos legais previstos no CPP, o magistrado deve observar as recomendações constantes da Resolução n. 425 do CNJ. 3. É preciso fundamentação específica para a fixação de medidas cautelares diversas, previstas no art. 319 do CPP, a fim de demonstrar a necessidade e a adequação da medida restritiva da liberdade. 4. A jurisprudência desta Corte Superior não admite restrição à liberdade do agente sem a devida fundamentação concreta que indique a necessidade da custodia cautelar.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A toda evidncia, nos crimes habituais,  possvel o fracionamento das condutas necessrias para a consumao. Mesmo nos crimes que exigem a reiterao de determinada conduta, a tentativa tem incio com o primeiro ato de execuo. Aps o primeiro ato de execuo, a conduta pode ser interrompida, impedindo-se, assim, a reiterao e a consumao delitiva. Crimes omissivos. A possibilidade da tentativa de crimes omissivos  tema que causa alguma dificuldade para os operadores do Direito, muito embora no envolva maiores problemas.  comum encontrarmos na doutrina a lio de que os crimes omissivos imprprios admitem tentativa e os omissivos prprios no admitem. No entanto, a concluso  equivocada. O fato de o crime ser concebido como omissivo (omisso prpria) ou ser praticado na forma omissiva (omisso imprpria) no impede a ocorrncia da tentativa. Nos crimes omissivos imprprios materiais, como  o caso do homicdio, se apesar da omisso no ocorrer o resultado naturalstico exigido pelo tipo incriminador haver a tentativa. Consideremos o caso do policial militar que deliberadamente se omite em evitar a prtica de homicdio por terceira pessoa. Apesar da omisso do policial, pode ocorrer que a conduta levada a efeito pelo terceiro no consiga produzir a morte da vitima. Neste caso, o policial dever ser responsabilizado por tentativa de homicdio. Nos crimes omissivos imprprios formais e nos crimes de mera conduta, do mesmo modo, poder ocorrer a omisso e a conduta tpica ser interrompida antes de que ocorra a sua consumao. A omisso prpria no exige tratamento diverso. Nos crimes omissivos prprios, como  o caso do descumprimento de misso, previsto no artigo 196 do CPM,  perfeitamente possvel que o omitente no consiga realizar a omisso pretendida por circunstncias alheias  sua vontade. Consideremos o exemplo em que o militar desiste de realizar a misso que lhe foi atribuda e comea a deixar o local em que deveria cumpri-la (artigo 196 do CPM). Se um terceiro impede o omitente de deixar o local e, com emprego de arma de fogo, lhe obriga a realizar a misso, haver tentativa de descumprimento de misso. O exemplo demonstra que  possvel a tentativa de crime omissivo prprio. Considerando a complexidade do tema relativo  tentativa nos crimes omissivos, retornaremos a ele aps examinar as noes de incio e trmino da execuo, no item 2.6.4. 2.6.2.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+É possível o fracionamento das condutas necessárias para a consumação dos crimes habituais e a tentativa tem início com o primeiro ato de execução. É possível a tentativa nos crimes omissivos impróprios materiais, como o caso do homicídio. Nos crimes omissivos impróprios formais e nos crimes de mera conduta, a conduta típica pode ser interrompida antes da consumação. Nos crimes omissivos próprios, como o descumprimento de missão, também é possível a tentativa.

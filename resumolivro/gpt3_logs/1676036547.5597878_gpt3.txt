@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A orientao cognitiva naturalista do sistema clssico pretendeu identificar no nexo causal, objetivo e subjetivo, a explicao do crime como um acontecimento da realidade natural. O mtodo cientfico utilizado descreve o crime como um acontecimento da realidade que se pode apreender cognitivamente por meio da causalidade objetiva (no exame da tipicidade) e subjetiva (no exame da culpabilidade), como se fosse um fenmeno das cincias naturais. Nesse aspecto encontra-se o principal responsvel pelo fracasso do sistema clssico. O conhecimento descritivo dos elementos naturais no  capaz de resolver os problemas jurdicos criados pela regulamentao normativa. O sistema jurdico estabelece sua regulamentao com base na importncia que confere aos fatos da realidade natural e um sistema que concebe a ao de maneira avalorativa no se presta a estabelecer as regras para o dever ser. O critrio objetivo-subjetivo, da mesma forma, demonstrou ser insustentvel, pois, ao afirmar que o injusto  puramente objetivo, concebeu no tipo a conduta humana separada da vontade que lhe orienta. Adotando a imputabilidade como pressuposto da culpabilidade, o sistema permitiu que o seu exame pudesse inviabilizar a anlise do substrato motivador do crime - o dolo. Nesse passo, Hans Welzel202 percebeu que o erro fundamental de toda a sistematizao causal foi realizar anlise fragmentria da ao, j que o exame de seu aspecto externo situa-se no injusto, e o de seu aspecto interno, na culpabilidade. Juarez Tavares,203 por sua vez, com base na avaliao das situaes prticas de aplicao das normas penais, complementa essa observao, esclarecendo que o correto  compor-se o exame da imputabilidade, independente do exame da causalidade e da realizao, dolosa ou culposa, do tipo. Na verdade, a elaborao positivista de Liszt e Beling no foi capaz de superar as diversas dificuldades prticas que se verificam pela adoo de seus fundamentos e fez-se necessria a continuidade dos trabalhos analticos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema clssico, baseado na orientação cognitiva naturalista, tentou explicar o crime como um acontecimento da realidade natural. No entanto, o método científico utilizado não foi suficiente para solucionar os problemas criados pelas normas jurídicas. Hans Welzel e Juarez Tavares observaram que o erro fundamental foi analisar a ação de forma fragmentada, separando o injusto do substrato motivador do crime - o dolo. Por fim, a elaboração positivista de Liszt e Beling não superou as dificuldades práticas e foi necessário continuar os trabalhos analíticos.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Lei n. 13.491/2017 promoveu alterao na prpria definio de crime militar, o que permite identificar a natureza material do regramento, mas tambm ampliou, por via reflexa, de modo substancial, a competncia da Justia Militar, o que constitui matria de natureza processual.  importante registrar que, como a lei pode ter carter hbrido em temas relativos ao aspecto penal, a aplicao para fatos praticados antes de sua vigncia somente ser cabvel em benefcio do ru, conforme o disposto no artigo 2., pargrafo 1., do Cdigo Penal Militar e no artigo 5., inciso XL, da Constituio da Repblica. Por sua vez, no que concerne s questes de ndole puramente processual - hiptese dos autos -, o novo regramento ter aplicao imediata, em observncia ao princpio do tempus regit actum. A despeito dessa deciso do STJ, houve discusso quanto ao carter hbrido da Lei 13.491/2017 a repercutir nos processos que estavam em andamento na Justia comum. A primeira corrente entendeu por aplicar a parte processual de imediato e a parte penal somente aos crimes cometidos aps a entrada da lei em vigor. Nesse caso, haveria a alterao da competncia e, na Justia castrense, seria aplicada a norma penal mais benfica, de acordo com o Cdigo Penal Militar e a legislao penal em geral. A segunda corrente no cindiu a Lei. Aplicou-a por inteiro a todos os casos, anteriores e posteriores. O bice dessa segunda corrente  que a alterao de competncia no foi mais benfica em todos os casos. Por fim, a terceira posio defendeu que a nova lei no podia ser dividida, devendo-se aplicar as normas processuais e as penais, estas inclusive aos casos anteriores desde que no prejudicial ao ru. Adotamos a terceira corrente. Por fim, cumpre ressaltar que a competncia da Justia Militar depender da combinao do injusto culpvel com as circunstncias das alneas a, b, c, d e e do inciso do II o artigo 9 do CPM e da aparente submisso do fato  legislao penal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei n. 13.491/2017 alterou a definição de crime militar e ampliou a competência da Justiça Militar. A aplicação da lei a fatos praticados antes de sua vigência é cabível somente em benefício do réu. Existem três correntes para a aplicação da lei: aplicar somente a parte processual de imediato e a parte penal somente aos crimes cometidos após a entrada da lei em vigor; aplicar a lei por inteiro a todos os casos, anteriores e posteriores; aplicar as normas processuais e as penais, estas inclusive aos casos anteriores desde que não prejudicial ao réu. A competência da Justiça Militar depende da combinação do injusto culpável com as circunstâncias do artigo 9 do CPM.

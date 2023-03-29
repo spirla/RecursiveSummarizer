@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+16.2.4. Efeitos da sentena condenatria. No foi recepcionado pela Constituio Federal o artigo 441 do CPPM, porquanto no se expede mandado de priso antes do trnsito em julgado da condenao. No artigo 449 do CPPM foram previstos dois efeitos da sentena condenatria recorrvel. O efeito da alnea a de ser o ru preso ouconservado na priso por ser automtico fere a garantia constitucional da indispensabilidade da motivao das decises judiciais (artigo 93, IX) e  incompatvel com a garantia do estado de inocncia ningum ser considerado culpado at o trnsito em julgado de sentena condenatria (artigo 5, LVII, CF). A rigor, a sentena condenatria no produz efeitos enquanto estiver sujeita a recursos e a priso antes do trnsito em julgado tem natureza cautelar e no se pode conceber como compatvel com o princpio constitucional da presuno de inocncia qualquer antecipao de cumprimento de pena que no esteja devidamente fundada em legtimas razes jurdicas e fatos concretos individualizveis com relao  pessoa do formalmente acusado. Duas situaes:
+a do condenado que ficou preso provisoriamente durante a instruo criminal e a do condenado que permaneceu solto durante o curso do processo. Na primeira - condenado preso provisoriamente durante a instruo criminal - o STF decidiu que no h sentido lgico permitir que o ru, preso preventivamente durante toda a instruo criminal, possa aguardar o julgamento da apelao em liberdade, posio reiterada de que se o ru permaneceu preso durante toda a instruo criminal, no se afigura plausvel, ao contrrio, se revela um contrassenso jurdico, sobrevindo sua condenao, coloc-lo em liberdade para aguardar o julgamento do apelo. No mesmo sentido decidiu o STJ (RHC 122.037/SC):
+[...] 3.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 441 do CPPM não foi recepcionado pela Constituição Federal, pois não permite a expedição de mandado de prisão antes do trânsito em julgado da condenação. O STF e o STJ decidiram que, se o réu permaneceu preso durante toda a instrução criminal, não se afigura plausível, ao contrário, se revela um contrassenso jurdico, sobrevindo sua condenação, colocá-lo em liberdade para aguardar o julgamento do apelo.

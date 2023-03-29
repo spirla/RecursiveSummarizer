@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+1,  2, I). A intimao ou notificao de militar em situao de atividade  feita por intermdio da autoridade a que estiver subordinado. Estando preso, o oficial dever ser apresentado, atendida a sua hierarquia, sob a guarda de outro oficial, e a praa sob escolta, de acordo com os regulamentos militares (art. 288,  3, CPPM). O juiz poder dispensar a presena do acusado, desde que, sem dependncia dela, possa realizar-se o ato processual (art. 288,  4, CPPM). Na prxis forense militar  corrente a utilizao de dirio oficial para intimao ou notificao de defensor constitudo. Para o STF (HC n 92.498/RJ) intimao dos advogados das decises dos Tribunais Superiores, como regra, se d via imprensa oficial. Precedentes. Inteligncia do art. 288 do Cdigo de Processo Penal Militar. A regra da intimao dos atos processuais pela imprensa oficial visa dar maior celeridade ao processo penal (STJ, RHC 283.363). A Lei n. 11.419/2006, que dispe sobre a informatizao do processo judicial e do uso de meio eletrnico de comunicao de atos processuais aplica-se ao processo penal em qualquer grau de jurisdio (art. 1,  1). No Dirio da Justia Eletrnico, a publicao diria, de segunda a sexta-feira, a partir das 17h, exceto nos feriados nacionais e forenses e nos dias em que, mediante divulgao, no houver expediente, considerando como data da publicao o primeiro dia til seguinte ao da divulgao da informao no Dirio da Justia Eletrnico e os prazos processuais tm incio no primeiro dia til que se seguir ao considerado como data da publicao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A intimao ou notificao de militares em atividade feita pela autoridade a que estão subordinados. O juiz pode dispensar a presença do acusado, desde que o ato processual possa ser realizado sem ela. O STF e o STJ entendem que a regra da intimao dos atos processuais pela imprensa oficial visa dar maior celeridade ao processo penal. A Lei n. 11.419/2006 regulamenta a informatização do processo judicial e o uso de meio eletrônico de comunicação de atos processuais. A publicação diria no Dirio da Justiça Eletrônico ocorre a partir das 17h, exceto nos feriados nacionais e forenses, e os prazos processuais têm início no primeiro dia útil seguinte ao considerado como data da publicação.

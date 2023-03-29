@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Com a leitura da sentena que condenou Claudinei de Castro Rocha, na audincia do dia 20 de agosto de 2021, o Ilustre promotor de justia e a douta defesa manifestaram suas decises de recorrerem. As razes de apelao ministeriais foram lanadas no Evento 62, tendo sido contra-arrazoadas no evento 107. No Evento 70 vieram as razes de apelo defensivas, com suas contrarrazes no Evento 105. Com a leitura da sentena que condenou Dimitri Frederick kicke Basaia, na audincia do dia 09 de setembro de 2021, o Ilustre promotor de justia e a douta defesa manifestaram, igualmente, suas decises de recorrerem. As razes de apelao ministeriais foram lanadas no Evento 92 e contra-arrazoadas no evento 105. As razes de apelao defensiva foram lanadas no Evento 96 e contra-arrazoadas no evento 107.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Na audincia dos dias 20 de agosto e 09 de setembro de 2021, o Ilustre promotor de justia e a douta defesa manifestaram suas decises de recorrerem, tendo sido lanadas razes de apelao ministeriais e defensivas, com suas respectivas contrarrazes.

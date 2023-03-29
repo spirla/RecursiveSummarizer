@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No que diz respeito  denominao a ser utilizada para indicar a relao necessria entre a criao do risco desautorizado e a produo do resultado penalmente relevante, entretanto, no existe acordo na doutrina. A discordncia deve-se  diversidade de critrios utilizados para explicar tal relao. Apenas para ter-se uma ideia da dificuldade terminolgica, a partir da dcada de 1960, quando se consolidou na imputao objetiva a utilizao do princpio da finalidade protetiva da norma, a relao existente entre a criao do risco e a produo do resultado recebeu denominaes como relao do fim de proteo, relao do fim da norma, relao de risco ou, ainda, eficcia da proteo. Mas a dificuldade terminolgica no constitui obstculo para o reconhecimento da necessidade da existncia de relao entre a criao do risco desautorizado e a produo do resultado material. Nos dias atuais,  cada vez mais aceito na doutrina que tal relao seja identificada pela denominao realizao do risco. Embora seja amplamente admitido que o reconhecimento do vnculo entre a criao do risco e a realizao deste deva dar-se no plano normativo (valorativo), existe discordncia quanto ao lugar que deva ocupar a referida anlise no sistema penal, bem como quanto aos critrios utilizados. Apesar das discusses, a realizao do risco desaprovado  exigncia da imputao objetiva, que  matria afeta ao juzo de tipicidade. No que diz respeito aos critrios utilizados para a identificao do resultado realizado pela situao de risco, cabe, inicialmente, notar que, se a considerao sobre a criao de um risco desaprovado realizar-se ex ante, pois, de antemo, deve-se saber qual a conduta compatvel com as expectativas sociais, a anlise da realizao do risco desenvolver-se- por meio de valorao ex post. Assim como a apurao da relao de causalidade natural verifica-se aps a ocorrncia do resultado, a constatao da vinculao entre a situao de risco e a ocorrncia do resultado penalmente relevante somente se d aps a produo deste. Apurar a imputao objetiva, no exemplo bastante conhecido da vtima que morre em acidente com a ambulncia que a levava para o hospital, aps ser atingida por disparos de arma de fogo produzidos por terceiros,  fcil. A previso do pargrafo 1 do artigo 13 do Cdigo Penal resolve o problema, de modo que a causa superveniente, relativamente independente, excluiu a imputao que, por si s, produziu o resultado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existe discordncia na doutrina quanto ao nome para indicar a relao entre a criao de um risco desautorizado e a produção de um resultado penalmente relevante. Atualmente, é amplamente aceito que essa relação seja identificada como realização do risco. A análise da realização do risco é feita por meio de valoração ex post, pois somente após a produção do resultado é possível constatar a vinculação entre a situação de risco e o resultado penalmente relevante.

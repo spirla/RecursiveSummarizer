@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Mera referencia a legalidade da interceptacao telefonica. Validacao pelo Superior Tribunal de Justica. Inocorrencia. DESTAQUE A mera referencia a legalidade da interceptacao telefonica, com exclusiva intencao de justificar a imposicao de outra medida cautelar, nao significa que tenha havido a sua validacao pelo STJ. Na origem, o Tribunal, ao reformar a sentenca que havia extinguido o processo em razao da declaracao de nulidade das decisoes que prorrogaram a medida de interceptacao telefonica, declinou, como unico fundamento, a anterior chancela que o Superior Tribunal de Justica teria conferido aos referidos atos decisorios. A presente acao penal, cuja investigacao se iniciou perante o Tribunal Regional Federal, em determinado momento, foi remetida para esta Corte em razao da existencia de investigado com prerrogativa de foro. Nesta ocasiao, insta consignar, as decisoes impugnadas ja haviam sido proferidas em segundo grau. Ocorre que, ao contrario do que foi decidido, nao houve por parte desta Corte a analise da fundamentacao das decisoes que prorrogaram a medida de interceptacao telefonica. Este Tribunal Superior limitou-se a apontar, de passagem, a medida de interceptacao telefonica como suporte probatorio para a decretacao de outra medida cautelar, a de busca e apreensao. Assim, a toda evidencia, nao houve o exame da fundamentacao das decisoes e, por conseguinte, de sua legitimidade. Em suma, a mera referencia a legalidade da medida, com exclusiva intencao de justificar a imposicao de outra medida cautelar em ambito de competencia originaria nao significa que tenha havido a sua validacao por esta Corte. Do contrario, haveria indevido cerceamento a defesa dos acusados, que, nao obstante tenham suscitado essa questao perante esta Corte, naquele instante, nao tiveram seus argumentos examinados, justamente por ter sido o processo encaminhado para a instancia de origem.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A mera referência a legalidade da interceptação telefônica, com exclusiva intenção de justificar a imposição de outra medida cautelar, não significa que tenha havido a sua validação pelo STJ. 2. Não houve por parte desta Corte a análise da fundamentação das decisões que prorrogaram a medida de interceptação telefônica. 3. A mera referência a legalidade da medida, com exclusiva intenção de justificar a imposição de outra medida cautelar em âmbito de competência originária não significa que tenha havido a sua validação por esta Corte.

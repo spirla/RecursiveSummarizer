@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+So sujeitos ativos do crime o juiz que dolosamente autoriza a interceptao com finalidade diversa da prevista em lei;
+o representante do Ministrio Pblico e a autoridade de polcia judiciria militar que requerem a medida cautelar com objetivos no autorizados em lei e o funcionrio que executa a interceptao das comunicaes telefnicas, de informtica ou telemtica. Por ltimo, Constitui crime [...] quebrar segredo da Justia [..]. A interceptao de comunicao telefnica, de acordo com o artigo 8 da Lei 9.296/96, ocorre em autos apartados preservando-se o sigilo das diligncias, gravaes e transcries respectivas. A violao (quebra) do segredo de justia, no primeiro momento, frustraria a obteno de uma prova;
+no segundo, configura ofensa  liberdade de comunicao alheia. Trata-se de crime prprio, cujo sujeito ativo  aquele que tem conhecimento da interceptao telefnica, das gravaes e transcries;
+o juiz, os servidores da Justia Militar, membro do Conselho de Justia, representante do Ministrio Pblico Militar, perito e autoridade de polcia judiciria militar e seus agentes, que em razo do cargo ou da funo, tiverem conhecimento e devem guardar segredo. O empregado das concessionrias de telefnicas tem o mesmo dever. O crime  formal e o seu momento consumativo ocorre na revelao da gravao ou da transcrio. H crime de abuso de autoridade de Divulgar gravao ou trecho de gravao sem relao com a prova que se pretenda produzir, expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado (artigo 28 da Lei 13.869/2019). 14.2.13.8. Valor probatrio das conversas telefnicas interceptadas. O auto de degravao ou de transcrio das conversas  o meio de prova a ser valorado pelo juiz e sujeito, como todo o meio de prova, a verificao. Elemento importante na identificao do interlocutor e na valorao da prova  a circunstncia da linha telefnica interceptada estar habilitada ou no na operadora em nome do alvo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interceptação de comunicação telefônica é regulamentada pela Lei 9.296/96 e é considerada crime a quebra do segredo de justiça. O sujeito ativo deste crime são o juiz, o Ministério Público, a autoridade de polícia judiciária militar, seus agentes e o empregado das concessionárias de telefonia. O auto de degravação ou transcrição das conversas é o meio de prova a ser avaliado pelo juiz. Divulgar gravações ou trechos de gravações sem relação com a prova também é crime.

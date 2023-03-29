@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A situao pode ser explicada no exemplo daquele que ingressa na dinmica de um crime de roubo, quando uma das vtimas j tenha sido morta (artigo 242, pargrafo 3, do CPM), ou em crime de furto, em cujo processo executivo j tenha ocorrido o rompimento do obstculo ou o emprego de chave falsa (artigo 240, pargrafo 6, I ou III, do CPM). O coautor sucessivo responde pelos atos praticados anteriormente  sua entrada ou somente em relao aos atos praticados aps sua primeira interveno?. Tambm aqui a doutrina oferece solues diversas. Welzel entendeu que, se o fato foi conhecido pelo interveniente, dever responder. Maurach, por sua vez, sustentou que. os acontecimentos realizados de forma prvia  incorporao no podem ser imputados ao segundo sujeito, pois a seu respeito no pode existir domnio objetivo do fato e devido a que sua eventual aprovao do acontecer prvio em nada muda o fato de que as aes previamente realizadas no se encontravam, como a lei o exige, cobertas precisamente pelo dolo do sujeito que se incorpora, nem tampouco por uma suposta conexo de vontades. A razo est com Maurach. O reconhecimento de responsabilidade penal, em situaes de concurso de pessoas, pressupe sempre a tipicidade, ainda que por extenso, da conduta de cada participante. No plano objetivo do tipo, no  possvel reconhecer qualquer nexo de causalidade entre a interveno posterior e os acontecimentos anteriores. No plano subjetivo, no se pode admitir um dolo subsequente. Portanto, na coautoria sucessiva, cada interveniente s responde pelos atos praticados aps seu ingresso na empreitada criminosa. Nos exemplos anteriormente mencionados, temos que: a) o coautor que ingressa posteriormente responde por roubo simples e os que ingressam antes da ocorrncia da morte respondem por latrocnio; b) no crime de furto, o interveniente posterior responde por furto simples, e os anteriores, por furto qualificado. 6.5.3.2. Coautoria nos crimes prprios e de mo prpria. As mesmas questes anteriormente colocadas para a compreenso dos casos de autoria mediata agora se renovam para os casos de coautoria. Pode ocorrer coautoria em crime prprio? Pode ocorrer coautoria em crime de mo prpria?. Os crimes prprios exigem que o autor possua uma determinada qualidade, especificada expressamente no tipo incriminador ou no captulo do Cdigo em que tal tipo se encontre, como no exemplo da exigncia de ser militar da Administrao o autor do peculato (artigo 303 do CPM).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A questão da coautoria nos crimes próprios e de mo própria é debatida, com diferentes pontos de vista sendo apresentados. No entanto, a responsabilidade penal pressupõe sempre a tipicidade da conduta de cada participante, o que significa que cada um responde apenas pelos atos praticados a partir de sua entrada na empreitada criminosa. Por exemplo, no caso do roubo, o coautor que ingressa posteriormente responde por roubo simples e os que ingressam antes da ocorrência da morte respondem por latrocínio.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A jurisprudncia do Superior Tribunal de Justia, em hiptese na qual h seguros indcios de autoria e materialidade, corrobora os fundamentos da deciso que se quer modificar. Confira-se: HABEAS CORPUS N 335.314 - SP (2015/0221128-9) RELATOR : MINISTRO RIBEIRO DANTAS IMPETRANTE : DEFENSORIA PBLICA DA UNIO ADVOGADO : DEFENSORIA PBLICA DA UNIO IMPETRADO : TRIBUNAL REGIONAL FEDERAL DA 3A REGIO PACIENTE : SANDRA DO ROSARIO CAMILO DE OLIVEIRA EMENTA PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINRIO. INADEQUAO. ESTELIONATO CONTRA A PREVIDNCIA. PRISO PREVENTIVA. RESGUARDO DA APLICAO DA LEI PENAL E INSTRUO PROBATRIA. MOTIVAO IDNEA. PACIENTE QUE SE ESQUIVA DA CITAO. CITAO POR EDITAL E POR HORA CERTA. AUSNCIA DE MANIFESTA ILEGALIDADE. WRIT NO CONHECIDO. 1. Esta Corte e o Supremo Tribunal Federal pacificaram orientao no sentido de que no cabe habeas corpus substitutivo do recurso legalmente previsto para a hiptese, impondo-se o no conhecimento da impetrao, salvo quando constatada a existncia de flagrante ilegalidade no ato judicial impugnado. 2. Havendo prova da existncia do crime e indcios suficientes de autoria, a priso preventiva, nos termos do art. 312 do Cdigo de Processo Penal, poder ser decretada para garantia da ordem pblica, da ordem econmica, por convenincia da instruo criminal ou para assegurar a aplicao da lei penal. [..] 7. Habeas corpus no conhecido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Superior Tribunal de Justia confirmou a deciso de priso preventiva para garantia da ordem pública, da ordem econômica, conveniência da instrução criminal ou para assegurar a aplicação da lei penal, tendo em vista a existência de provas do crime e indícios suficientes de autoria. O Habeas Corpus foi negado.

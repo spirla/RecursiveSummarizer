@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Lei n. 14.218/2021. Descabimento. Inexistencia de excepcionalidade. DESTAQUE Nao e cabivel o pedido de suspensao de liminar concedida para determinar a emissao de certificados de conclusao a alunos de curso de medicina com fundamento nas disposicoes da Medida Provisoria n. 934/2020, convertida na Lei n. 14.040/2020, cujos efeitos foram estendidos pela Lei n. 14.218/2021. Cinge-se a controversia a determinar se e cabivel o pedido de suspensao de liminar concedida para determinar a emissao de certificados de conclusao a alunos de curso de medicina com fundamento nas disposicoes da Medida Provisoria n. 934/2020, convertida na Lei n. 14.040/2020, cujos efeitos foram estendidos pela Lei n. 14.218/2021. No caso, o pedido de suspensao de liminar foi formulado em face de decisoes que determinaram a emissao de certificados de conclusao de curso a alunos de curso de medicina, ante a integralizacao de horas de estagio/atividades complementares e, por consequencia, a antecipacao de sua colacao de grau, com fundamento, entre outros, no disposto estabelecido na Medida Provisoria n. 934/2020, convertida na Lei n. 14.040/2020, e, posteriormente, tendo sua extensao de efeitos pela Lei n. 14.218/2021. A legislacao de regencia do tema da suspensao de liminar e de sentenca, assim como da suspensao de seguranca (Leis n. 8.437/1992 e 12.016/2009) preve, como requisito autorizador a concessao da medida de contracautela, que a decisao a quo cause grave lesao a ordem, a saude, a seguranca e a economia publicas. A mens legis do instituto da suspensao de seguranca ou de sentenca e o estabelecimento de prerrogativa justificada pelo exercicio da funcao publica na defesa do interesse do Estado. Sendo assim, busca evitar que decisoes contrarias aos interesses publicos primarios ou secundarios, ou ainda mutaveis em razao da interposicao de recursos, tenham efeitos imediatos e lesivos para o Estado e, em ultima instancia, para a propria coletividade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é cabível o pedido de suspensão de liminar concedida para determinar a emissão de certificados de conclusão a alunos de curso de medicina com fundamento nas disposições da Medida Provisória n. 934/2020, convertida na Lei n. 14.040/2020, cujos efeitos foram estendidos pela Lei n. 14.218/2021. 2. Para a concessão da medida de contracautela da suspensão de segurança ou de sentença é necessário que a decisão a quo cause grave lesão a ordem, a saúde, a segurança e a economia públicas. 3. O instituto da suspensão de segurança ou de sentença busca evitar que decisões contrárias aos interesses públicos primários ou secundários, ou ainda mutáveis em razão da interposição de recursos, tenham efeitos imediatos e lesivos para o Estado e, em última instância, para a própria coletividade.

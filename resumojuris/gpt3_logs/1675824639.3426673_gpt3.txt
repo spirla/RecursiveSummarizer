@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ricardo Lewandowski, redator do acordao Min. Roberto Barroso, julgamento em 26.8.2021 (INF 1027) Covid-19: Republicacao de veto e lei ja publicada - ADPF 714/DF, ADPF 715/DF e ADPF 716/DF Resumo: Nao se admite novo veto em lei ja promulgada e publicada. Manifestada a aquiescencia do Poder Executivo com projeto de lei, pela aposicao de sancao, evidencia-se a ocorrencia de preclusao entre as etapas do processo legislativo, sendo incabivel eventual retratacao. A CF/88 (CF) dedicou razoavel atencao ao modo pelo qual se desenvolvem as relacoes entre Poder Legislativo e Poder Executivo quando da passagem da etapa da deliberacao legislativa para a etapa da deliberacao executiva. O art. 66 da CF enuncia modalidades de sancao e veto, demarca elementos e formalidades essenciais, assinala prazos e estatui consequencias juridicas na hipotese de seu descumprimento. Alem disso, o Presidente da Republica, ao exercer a prerrogativa do veto parcial, encaminha a parte nao vetada a promulgacao, de modo que o projeto se transforma em lei. Ja a parte vetada, por seu turno, segue para o Congresso Nacional, que deliberara, em sessao conjunta, pela manutencao ou derrubada do veto (CF, art. 57,  3, IV). Destaca-se, ainda, que o impasse instalado nas presentes arguicoes de descumprimento de preceito fundamental (ADPF) se refere ao principal diploma com normas gerais para o combate a pandemia da Covid-19, materia da mais absoluta relevancia constitucional. Com base nesses fundamentos, o Plenario conheceu parcialmente das acoes e, na parte conhecida, julgou procedentes os pedidos em relacao aos novos vetos trazidos na republicacao veiculada no Diario Oficial da Uniao de 6 de julho de 2020, a fim de que seja restabelecida a plena vigencia normativa do  5 do art. 3-B e do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não se admite novo veto em lei já promulgada e publicada. 2. Manifestada a aquiescência do Poder Executivo com projeto de lei, pela aposição de sanção, evidencia-se a ocorrência de preclusão entre as etapas do processo legislativo, sendo incabível eventual retratação. 3. O art. 66 da Constituição Federal (CF) enuncia modalidades de sanção e veto, demarca elementos e formalidades essenciais, assinala prazos e estatui consequências jurídicas na hipótese de seu descumprimento. 4. O Presidente da República, ao exercer a prerrogativa do veto parcial, encaminha a parte não vetada à promulgação, de modo que o projeto se transforma em lei. 5. O impasse instalado nas presentes arguições de descumprimento de preceito fundamental se refere ao principal diploma com normas gerais para o combate à pandemia da Covid-19, matéria da mais absoluta relevância constitucional.

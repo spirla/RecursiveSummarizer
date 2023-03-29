@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE A fixacao da multa diaria so tem espaco no plano das obrigacoes de fazer e nao fazer, sendo vedada sua utilizacao no campo das obrigacoes de pagar. No caso, o emprego da tecnica coercitiva da imposicao das astreintes ocorreu no ambito de obrigacao de pagar quantia, ou seja, na mao contraria da jurisprudencia consolidada neste STJ, no sentido de que a fixacao da multa diaria so tem espaco no plano das obrigacoes de fazer e de nao fazer, sendo vedada sua utilizacao no campo das obrigacoes de pagar. A jurisprudencia desta Corte Superior dispoe que, nas obrigacoes de pagar quantia certa, e descabida a fixacao de multa diaria como forma de compelir a parte devedora ao cumprimento da prestacao que lhe foi imposta. (AgInt no AREsp 1.441.336/SP, relator Ministro Marco Aurelio Bellizze, Terceira Turma, julgado em 19/8/2019, DJe 22/8/2019). Bem como que a obrigacao de pagar quantia certa, ainda que objeto de tutela antecipada, nao se sujeita a aplicacao de multa cominatoria com o fim de impor seu cumprimento. (AgRg no AREsp 401.426/RJ, relator Ministro Joao Otavio de Noronha, Terceira Turma, julgado em 15/3/2016, DJe 28/3/2016). Em suma, no ambito de obrigacao de pagar quantia, a luz do entao vigente art. 461 do CPC/1973, nao tinha lugar a imposicao de multa diaria (astreinte) para se compelir o devedor ao seu cumprimento. (Informativo  Ed. Especial n. 8) CPC/1973, art. 461. 83 Processo Processo sob segredo de justica, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedada a utilização da multa diária no campo das obrigações de pagar. 2. Nas obrigações de pagar quantia certa, é descabida a fixação de multa diária como forma de compelir a parte devedora ao cumprimento da prestação que lhe foi imposta. 3. Na obrigação de pagar quantia certa, mesmo objeto de tutela antecipada, não se sujeita a aplicação de multa cominatoria com o fim de impor seu cumprimento. 4. No âmbito de obrigação de pagar quantia, à luz do então vigente art. 461 do CPC/1973, não tinha lugar a imposição de multa diária (astreinte) para se compelir o devedor ao seu cumprimento.

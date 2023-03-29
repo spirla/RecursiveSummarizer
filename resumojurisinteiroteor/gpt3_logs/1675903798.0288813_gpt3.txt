@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A acusao requereu a condenao do ru, enquanto este requereu a sua absolvio nos termos do art. 439, "b, do CPPM. O Conselho Permanente de Justia condenou o apelante pela prtica do crime previsto no art. 214 do cPm, fixando a pena-base em um ano de deteno e, na segunda fase de aplicao da pena, foi reconhecida a agravante prevista na alnea "a do inciso II do art. 70 do CPM (motivo torpe), majorando a pena em 4 meses, alcanando a pena definitiva 1 ano e 4 meses de deteno, em regime aberto, sem a suspenso condicional da pena. Aps ser intimado da deciso condenatria, o apelante apresentou suas razes recursais, argumentando que a sua conduta seria atpica. Disse o apelante que a petio que protocolou teve a finalidade exclusiva de demonstrar a existncia de perseguio no mbito profissional e irregularidades na Sindicncia Administrativo-Disciplinar n. 264/2018-AAS. Informa que, na petio protocolada, mencionou a falta de intervalo para alimentao, de liberdade para hidratao e para ir ao banheiro com "torturas fsico e psicolgico no exerccio do direito de defesa e que, entretanto, no imputou a prtica do crime de tortura previsto na Lei n. 9.455/97. Disse que o texto da petio foi elaborado pelo advogado Edson Rodrigues de Oliveira e que a vtima teria declarado em depoimento judicial que a ofensa partiu do mencionado advogado (Vdeo 2, evento n 21, a partir de 00:40). O apelante argumenta ainda que a prpria vtima teria confirmado em depoimento judicial que o contedo da petio protocolada por ele era de idntico contedo ao apresentado nas alegaes finais subscritas pelo advogado. Aduz o apelante que a deciso recorrida inaugura um precedente perigoso, pois, toda vez que a hiptese de ilegalidade for afastada pelo rgo responsvel pela apurao, dever haver responsabilizao criminal pelo exerccio do direito de petio. Alega que, na prpria petio que conteria as supostas imputaes de crimes, constou a informao de que aquela manifestao estaria sendo apresentada por orientao de seu advogado. Argumenta o apelante que existe precedente oriundo do Superior Tribunal de Justia que considera afastada a inteno do crime de calnia quando as expresses forem proferidas em momento de exaltao, no exerccio do direito de crtica ou de censura profissional. Em pedido sucessivo, argumenta o apelante que, caso seja mantida a sua condenao, seja a pena ajustada, pois teria sido majorada acima do mnimo legal sem supedneo probatrio, com fundamento em impresses subjetivas e levando em considerao circunstancias inerentes ao prprio tipo penal.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A acusao requereu a condenao do ru, que requereu a sua absolvio. O Conselho Permanente de Justia condenou o apelante pela prtica do crime previsto no art. 214 do cPm, fixando a pena-base em um ano de deteno e majorando a pena em 4 meses, alcanando a pena definitiva 1 ano e 4 meses de deteno, em regime aberto, sem a suspenso condicional da pena. O apelante apresentou recurso argumentando que a sua conduta seria atpica e que a petio que protocolou teve a finalidade exclusiva de demonstrar a existncia de perseguio no mbito profissional. O apelante pediu que a pena fosse ajustada, pois teria sido majorada acima do mnimo legal sem supedneo probatrio.

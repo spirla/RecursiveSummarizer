@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+37 da CF as aposentadorias ja concedidas pelo RGPS ate a data de entrada em vigor da Emenda. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 606 da repercussao geral, negou provimento ao recurso extraordinario e reputou licita a reintegracao com a acumulacao de proventos com os salarios, ja que, no caso concreto, a aposentadoria se deu antes da EC 103/2019. Quanto ao merito, ficaram vencidos parcialmente os ministros Edson Fachin, Alexandre de Moraes, Carmen Lucia e Roberto Barroso, que deram parcial provimento ao recurso. Em relacao a tese de repercussao geral, o ministro Marco Aurelio ficou vencido e a ministra Rosa Weber ficou vencida em parte. RE 655283/DF, relator Min. Marco Aurelio, redator do acordao Min. Dias Toffoli, julgamento em 16.6.2021 (INF 1022) 1.7 EMPRESAS ESTATAIS Plano de desestatizacao e necessidade de lei especifica Resumo: E desnecessaria, em regra, lei especifica para inclusao de sociedade de economia mista ou de empresa publica em programa de desestatizacao. Para a desestatizacao e suficiente a autorizacao generica prevista em lei que veicule programa de desestatizacao. A autorizacao legislativa generica nao corresponde a delegacao discricionaria e arbitraria ao Chefe do Poder Executivo. Essa autorizacao e pautada em objetivos e principios que devem ser observados nas diversas fases deliberativas do processo de desestatizacao. A atuacao do chefe do Poder Executivo vincula-se aos limites e condicionantes legais previstos. A retirada do Poder Publico do controle acionario de uma empresa estatal, ou a extincao dessa empresa pelo fim da sua personalidade juridica, e consequencia de politica publica autorizada pelo Congresso Nacional, em previsao legal pela qual se cria o Programa de Desestatizacao, objetivando a reducao da presenca do Estado na economia e fixando-se, objetivamente, os parametros a serem seguidos para a efetivacao de eventual desestatizacao pelo Poder Executivo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É desnecessária, em regra, lei específica para inclusão de sociedade de economia mista ou de empresa pública em programa de desestatização. 2. A autorização legislativa genérica não corresponde a delegação discricionária e arbitrária ao Chefe do Poder Executivo. 3. A retirada do Poder Público do controle acionário de uma empresa estatal, ou a extinção dessa empresa pelo fim da sua personalidade jurídica, é consequência de política pública autorizada pelo Congresso Nacional.

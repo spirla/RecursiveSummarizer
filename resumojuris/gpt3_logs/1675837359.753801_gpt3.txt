@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+109, I, da CF/88, motivo pelo qual devem ser acolhidos os embargos de declaracao opostos pela Uniao para determinar a baixa nao mais ao Tribunal de origem, mas ao Tribunal Regional Federal competente para a analise do feito, para o que desinfluente o fato de que o acordao a ser integrado fora proferido no Juizo estadual, uma vez que se trata de materia atinente a competencia absoluta, nao sujeita a perpetuatio jurisdictionis, consoante expresso no art. 43 do CPC, parte final, tudo nos termos do paradigma. 489 Dessa forma, deve prevalecer o entendimento dado pela Segunda Turma do STJ, reconhecer a competencia da Justica Federal, sendo o Tribunal Regional Federal competente para novo julgamento dos embargos de declaracao. (Informativo n. 731) PRIMEIRA SECAO Voltar ao Sumario. PROCESSO EDv nos EREsp 1.797.663-CE, Rel. Min. Sergio Kukina, Primeira Secao, por unanimidade, julgado em 10/08/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL TEMA Radio comunitaria. Autorizacao de funcionamento. Demora na apreciacao do pedido. Concessao pelo judiciario em carater precario. Impossibilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 109, I, da Constituição Federal/88 deve ser acolhido para determinar a baixa não mais ao Tribunal de origem, mas ao Tribunal Regional Federal competente para a análise do feito. 2. O fato de que o acórdão a ser integrado foi proferido no Juízo estadual é desinfluente, uma vez que se trata de matéria atinente a competência absoluta, não sujeita a perpetuatio jurisdictionis, conforme expresso no artigo 43 do Código de Processo Civil, parte final. 3. Deve prevalecer o entendimento dado pela Segunda Turma do Superior Tribunal de Justiça, reconhecendo a competência da Justiça Federal, sendo o Tribunal Regional Federal competente para novo julgamento dos embargos de declaração. 4. É impossível a concessão pelo judiciário em caráter precário da autorização de funcionamento de rádio comunitária em caso de demora na apreciação do pedido.

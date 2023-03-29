@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Vale observar que tanto nos crimes de perigo concreto (real situao de perigo) como nos de perigo abstrato (situao de risco presumido) tem-se a produo de situao de risco no permitido. Quando a situao de perigo  presumida na tipificao dos crimes de perigo abstrato, a prtica da conduta autoriza reconhecer que estejam satisfeitos os requisitos da imputao objetiva. Havendo presuno de perigo, a mera realizao do comportamento proibido  penalmente relevante. A previso legal de crimes de perigo abstrato recebe crticas consistentes na doutrina. Luigi Ferrajoli assevera que a reduo das proibies penais, com base no princpio da lesividade,  necessria para preservar a legitimidade da interveno repressiva. Se o Direito Penal  um remdio extremo, no pode conferir relevncia jurdica a fatos que materializem mera desobedincia  norma. A responsabilizao pelos fatos que materializam desobedincia  norma sem leso ao bem jurdico deveria ficar restrita ao ordenamento jurdico civil. Desta forma, os crimes de perigo abstrato deveriam ser reestruturados para transformarem-se em crimes de dano ou, ao menos, de perigo concreto. A crtica de Ferrajoli aos crimes de perigo abstrato (bem como todos os termos de sua teoria do garantismo penal) recebem grande aceitao entre os juristas brasileiros. No entanto, a razo de ser da instituio dos crimes de perigo abstrato  a impossibilidade prtica de constituir prova da ocorrncia do perigo concreto. Tal impossibilidade de prova traria como consequncia prtica a impossibilidade de combater condutas lesivas de bens jurdicos abrangentes e complexos como a sade pblica, a f pblica e a moralidade administrativa. Constitui um bom exemplo de crime de perigo abstrato o trfico de drogas (artigo 33 da Lei 11.343/2006), que  um crime contra a sade pblica em que a descrio tpica no exige a ocorrncia de qualquer dano  pessoa que adquire a droga para consumo. Na prtica, no  possvel comprovar que a venda de determinada quantidade de droga afetou o bem jurdico sade pblica e em que medida se operou a leso. Se, nesses casos, com base no princpio da lesividade, for necessrio comprovar a situao de perigo concreto ou o dano ao bem jurdico sade pblica no ser possvel incriminar o trfico de drogas. Certamente, h consenso entre os juristas sobre a existncia de interesse socialmente relevante a justificar a incriminao do trfico de drogas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os crimes de perigo abstrato são criticados pela doutrina, pois violam o princípio da lesividade. No entanto, a impossibilidade de comprovar a ocorrência de perigo concreto ou dano ao bem jurdico justifica a incriminação de condutas como o tráfico de drogas.

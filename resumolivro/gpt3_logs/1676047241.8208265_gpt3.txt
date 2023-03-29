@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Conforme preleciona Luiz Regis Prado,. a aferio desse requisito no supe, necessariamente, a realizao de exame pericial, sendo suficientes para que o magistrado forme sua convico as informaes constantes do processo, em especial o parecer emitido pelo Conselho Penitencirio (artigo 70, I, LEP). Nesse sentido, o STF j decidiu que o artigo 83, pargrafo nico, no exige exame psiquitrico ou percia no liberado. Ao dispensar o exame, entretanto, no o probe, podendo o juiz determin-lo, se o entender necessrio ao seu convencimento. (HC 69.740). A discusso sobre a necessidade ou no da realizao de exame pericial presta-se a desviar a ateno sobre a inconstitucionalidade da exigncia. Nos termos em que o pargrafo nico do artigo 83 do CP est redigido, h a inverso do nus da prova em desfavor do condenado. O dispositivo legal parte da presuno de que o condenado retornar a delinquir e exige comprovao de que tal no ocorrer. Contudo, todos, inclusive o condenado devem ser favorecidos pela presuno de que no voltaro a delinquir. Por isso, a interpretao desse dispositivo que se conforma com a Constituio da Repblica (artigo 5, LVII) e a Conveno Americana sobre Direitos Humanos - Pacto de So Jos da Costa Rica (artigo 8, 2) indica que cabe ao Poder Pblico comprovar a possibilidade concreta de que o condenado venha a praticar crimes. No havendo provas que indiquem a inconvenincia da concesso do livramento (indicativas do envolvimento do condenado em crimes) e satisfeitos os requisitos estabelecidos nos incisos do artigo 83, deve ser concedido o livramento condicional. Desvinculao de organizao criminosa. Nos termos do pargrafo 9 do artigo 2 da Lei 12.850/13, o condenado que integre organizaes criminosas ou que tenha praticado o crime por meio de organizaes criminosas, expressamente reconhecido em sentena, no poder ser beneficiado com o livramento condicional enquanto houver elementos probatrios que indiquem a manuteno do vinculo associativo. A previso legal no se mostra adequada para os casos em que o condenado no integra uma organizao criminosa, mas tenha sido condenado por crime praticado por meio de organizao criminosa. Somente nos casos em que o condenado integre uma organizao criminosa se pode falar em manuteno do vnculo associativo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF decidiu que o artigo 83, pargrafo nico, no exige exame psiquiátrico ou perícia para concessão do livramento condicional. No entanto, o juiz pode determiná-lo se necessário. A lei 12.850/13 impede a concessão do livramento para condenados que integrem organizações criminosas ou tenham praticado crimes por meio de organizações criminosas.

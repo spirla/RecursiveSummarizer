@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No dizer de Julio F. Mirabete o verbo aditar tem o sentido de corrigir, acrescentar, ampliar, complementar, e no de se iniciar nova ao, ainda que em litisconsrcio, de modo que o Ministrio Pblico pode aditar  queixa circunstncias que possam influir na caracterizao do crime e sua classificao, ou na fixao da pena. O Ministrio Pblico no pode incluir na queixa coautor ou partcipe se houve renncia ao exerccio do direito de queixa a um dos autores do crime, porque a renncia em relao a um deles se estender a todos (ar. 49, CPP). Falta ao Ministrio Pblico legitimidade para aditar a queixa incluindo outro ou outros querelados, porque o aditamento  nova imputao. O Ministrio Pblico no pode aditar  queixa novo fato considerado crime de ao penal privada. O Ministrio Pblico deve requerer ao juiz que intime o querelante para aditar a queixa para incluir todos os agentes, caso intimado o querelante no aditar a queixa deve manifestar-se pela renncia tcita ao exerccio do direito de queixa em relao a todos. Captulo VIII. Jurisdio e Competncia. 8.1. Jurisdio e competncia. A etimologia da palavra jurisdio  jurisdicio, formada por juris, jus (direito) e dictio, dictionis (dizer). A jurisdio  a funo desempenhada pelo Poder Judicirio, atravs dos juzes e tribunais, de dizer o direito no caso concreto. A funo de julgar os militares no se esgota na jurisdio militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O verbo aditar tem o sentido de corrigir, acrescentar ou complementar uma queixa. O Ministério Público não pode incluir na queixa coautores ou participantes se houver renúncia ao direito de queixa. A jurisdição é a função do Poder Judiciário de dizer o direito no caso concreto. A função de julgar os militares não se esgota na jurisdição militar.

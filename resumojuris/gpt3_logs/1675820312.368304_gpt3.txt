@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+21 da Lei 11.415/2006. Isso porque o art. 5, XIII, da CF e norma fundamental de eficacia contida e as restricoes estabelecidas pelas normas impugnadas sao expressao dos valores constitucionais da eficiencia, da moralidade e da isonomia no ambito da Administracao Publica. As limitacoes ao exercicio da advocacia sao compativeis com a Constituicao, desde que a restricao profissional satisfaca os criterios de adequacao e razoabilidade e atenda a finalidade de proteger a coletividade contra riscos sociais indesejados ou ao proposito de assegurar a observancia de outros principios constitucionais. Com base nesse entendimento, o Plenario, por unanimidade, julgou improcedente o pedido de declaracao de inconstitucionalidade das normas impugnadas. ADI 5235/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 11.6.2021 (sexta-feira), as 23:59 (INF 1021) Exercicio provisorio no ambito das unidades administrativas do Ministerio das Relacoes Exteriores  ADI 5355/DF Resumo: E inconstitucional a vedacao ao exercicio provisorio, de que trata o  2 do art. 84 da Lei 8.112/1990, nas unidades administrativas do Ministerio das Relacoes Exteriores (MRE) no exterior. A proibicao ao exercicio provisorio em unidades do MRE no exterior, conforme art. 69 da Lei 11.440/2006, nao guarda relacao com as particularidades das funcoes desempenhadas, sendo injustificavel, portanto, o tratamento anti-isonomico conferido pela norma, especialmente, porque nao ha essa limitacao para os servidores que acompanham seus conjuges quando a lotacao se da no Brasil. A isonomia entre servidores publicos federais e servidores do Servico Exterior Brasileiro (SEB) resta assegurada pela ressalva final do artigo 84, 2, da Lei 8.112/1990, que adota como criterio de discriminacao apenas a peculiaridade inerente aos cargos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É compatível com a Constituição a limitação ao exercício da advocacia, desde que a restrição profissional satisfaça os critérios de adequação e razoabilidade e atenda a finalidade de proteger a coletividade contra riscos sociais indesejados ou ao propósito de assegurar a observância de outros princípios constitucionais. 2. É inconstitucional a vedação ao exercício provisório, de que trata o §2 do art. 84 da Lei 8.112/1990, nas unidades administrativas do Ministério das Relações Exteriores (MRE) no exterior. 3. A proibição ao exercício provisório em unidades do MRE no exterior, conforme art. 69 da Lei 11.440/2006, não guarda relação com as particularidades das funções desempenhadas, sendo injustificável, portanto, o tratamento anti-isonômico conferido pela norma. 4. A isonomia entre servidores públicos federais e servidores do Serviço Exterior Brasileiro (SEB) resta assegurada pela ressalva final do artigo 84, §2, da Lei 8.112/1990, que adota como critério de discriminação apenas a peculiaridade inerente aos cargos.

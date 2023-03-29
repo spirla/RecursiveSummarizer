@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A Lei n. 13.964/2019 nao excluiu dos preceitos normativos vigentes o art. 5-A (incluido pela Lei n. 12.654/2012 a norma de 2009, Lei n. 12.037/2009), que trouxe ao ordenamento juridico a viabilidade de coleta de material organico de suspeitos para fins de identificacao criminal. Nada obstante, cumpre consignar que, mesmo no tocante a condenados, definitivamente, por delitos violentos e graves, entendeu o STF, no Recurso Extraordinario 973.837/MG, que ha razao bastante para a discussao acerca dos limites dos poderes do Estado de colher material biologico , de tracar o respectivo perfil genetico, de armazenar os perfis em bancos de dados e de fazer uso dessas informacoes , diante dos relevantes argumentos quanto a eventual violacao a direitos da personalidade e a prerrogativa de nao se autoincriminar . No caso, a infracao praticada nao deixa vestigios, tampouco a autoridade policial noticiou de que forma a providencia restritiva traria utilidade as investigacoes, e nao ha denuncia contra o investigado, quanto mais sentenca condenatoria. 1249 Nao se olvida que ha precedentes desta Corte Superior, no sentido de que a extracao de saliva nao representa metodo invasivo da intimidade. Sem embargo, sao hipoteses em que o referido material genetico se achava em objetos descartados - vale dizer, o exame do elemento organico nao envolveu violacao ao corpo do individuo (ilustrativamente, o suspeito fumou e desprezou cigarros, ou a saliva foi recolhida de copos ou talheres de plastico utilizados e eliminados) - ou se a arrecadacao do material biologico e consentida (RHC 104.516/RN, Ministro Sebastiao Reis Junior, DJe 07/02/2020; HC 495.694/SP, Ministra Laurita Vaz, DJe 07/03/2019). A proposito, ha dezenas de precedentes desta Casa que nao confrontam com o caso em comento, porquanto aludem a coleta de elementos organicos de sentenciados e sujeitos a execucao - como o HC 536.114/MG, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 13.964/2019 não excluiu o art. 5-A (incluido pela Lei n. 12.654/2012) do ordenamento jurídico, que possibilitou a coleta de material orgânico de suspeitos para fins de identificação criminal. 2. O STF entendeu que há razão para a discussão acerca dos limites dos poderes do Estado de coletar material biológico, de tracar o respectivo perfil genético, de armazenar os perfis em bancos de dados e de fazer uso dessas informações, diante dos argumentos de eventual violação a direitos da personalidade e a prerrogativa de não se autoincriminar. 3. A extracão de saliva não representa método invasivo da intimidade, desde que o material genético se encontre em objetos descartados ou seja consentida.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: Nao se admite a concessao do Adicional de Compensacao por Disponibilidade Militar no percen-tual maximo estabelecido pela Lei 13.954/2019 a todos os integrantes das Forcas Armadas, com funda-mento no principio da isonomia. Isso porque nao cabe ao Poder Judiciario, que nao tem funcao legislativa, aumentar vencimentos de servidores publicos sob o fundamento de isonomia (Sumula Vinculante 37). Ademais, a opcao pela adocao de valores variaveis a depender do cargo ocupado representa escolha essencialmente politica, baseada nas caracteristicas proprias da carreira, tarefas desempenhadas, grau de res-ponsabilidade, entre outros, cuja analise compete apenas aos Poderes Executivo (que detem a iniciativa de lei) e Legislativo. Com base nesse entendimento, o Plenario, por maioria, reconheceu a existencia de repercussao geral da questao constitucional suscitada (Tema 1175 RG). Vencido o ministro Ricardo Lewandowski. No merito, por unanimidade, reafirmou a jurisprudencia dominante sobre a materia para conhecer o agravo e desprover o recurso extraordinario. ARE 1341061/SC, relator Ministro Luiz Fux, julgamento finalizado no Plenario Virtual em 15.10.2021 (INF 1043) Pensao mensal vitalicia a viuvas de ex-prefeitos - ADPF 975/CE ODS: 16 Resumo: E inconstitucional, por violacao aos principios republicano, democratico, da moralidade, da im-pessoalidade e da igualdade, lei municipal que concede pensao especial mensal e vitalicia a viuvas de ex-prefeitos. Os cargos politicos de chefia do Poder Executivo sao exercidos por mandatos temporarios e os seus ocupantes sao transitorios, motivo pelo qual a jurisprudencia desta Corte e no sentido da inexistencia de qual-quer direito ao recebimento de pensao vitalicia por seus ex-ocupantes, nas esferas estadual e municipal, e por seus respectivos dependentes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não se admite a concessão do Adicional de Compensação por Disponibilidade Militar no percentual máximo estabelecido pela Lei 13.954/2019 a todos os integrantes das Forças Armadas, com fundamento no princípio da isonomia. 2. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia (Sumula Vinculante 37). 3. É inconstitucional, por violação aos princípios republicano, democrático, da moralidade, da impessoalidade e da igualdade, lei municipal que concede pensão especial mensal e vitalícia a viuvas de ex-prefeitos. 4. Os cargos políticos de chefia do Poder Executivo são exercidos por mandatos temporários e os seus ocupantes são transitorios, motivo pelo qual a jurisprudência desta Corte é no sentido da inexistência de qualquer direito ao recebimento de pensão vitalícia por seus ex-ocupantes, nas esferas estadual e municipal, e por seus respectivos dependentes.

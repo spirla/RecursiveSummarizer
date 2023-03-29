@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+2 - Muito embora inexista uma total identidade entre os trs elementos identificadores das demandas (partes, causa de pedir e pedido), h litispendncia entre o presente mandamus e a ao ordinria em curso perante a 15a Vara Federal do Distrito Federal, pois ocorre justamente o bis in idem que se deve evitar: a existncia de dois processos que visam ao mesmo resultado prtico, qual seja, a posse do impetrante. 3 - O alegado direito lquido e certo  posse na data aprazada ou  reserva de vaga, com apoio em deciso judicial precria, obtida em ao ordinria, no configura direito autnomo do impetrante que merea ser amparado por mandado de segurana, significando, to somente, a extenso do provimento que se busca para acautelar eventual procedncia da ao ordinria, devendo, portanto, ser postulado no juzo competente para conhecer da matria de fundo. 4 - Agravo regimental no provido. (AgReg em Mandado de Segurana 27.750 - Distrito Federal - Relator: Min. Dias Toffoli - Primeira Turma - Julgamento: 12/06/2012). Diante deste quadro ftico, muito embora no exista uma identidade total entre a causa de pedir, os fatos so exatamente os mesmos e, assim, existe a litispendncia entre esta ao ajuizada em 17/03/2021 e a anterior, ajuizada em 10/01/2021, pois ocorre justamente o bis in idem que se deve evitar. Estamos diante de duas aes que se referem ao mesmo fato que foi investigado. As causas de pedir so parecidas, prximas e se entrelaam. Os pedidos so exatamente os mesmos, qual sejam, a nulidade do PAD de Portaria n. 100.405/18-CPM e o desentranhamento de provas emprestadas ilcitas advindas do processo judicial. Neste contexto, acertada foi a deciso de primeiro grau, que, aps analisar a certido e os documentos colacionados no Evento 29, concluiu que h litispendncia entre esta ao e a precedente. Desta forma, com base no inciso VI e  1,  2 e  3 do artigo 337 do CPC, configurada est a litispendncia entre a presente ao, distribuda em 17/03/2021, e a de n. 2000001-80.2021.9.13.0005, anteriormente distribuda, em 10/01/2021, tendo em vista que ambas possuem as mesmas partes, causa de pedir prximas e parecidas, e os pedidos convergem para o mesmo fim. Feitas estas consideraes, ratifico e mantenho a deciso de primeiro grau, para extinguir este processo, sem resoluo de mrito, nos termos do artigo 485, inciso V e  3, do CPC. Nesses termos, nego provimento ao recurso de apelao.  como voto. DESEMBARGADOR FERNANDO GALVO DA ROCHA Srs. desembargadores. Na oportunidade, acompanho as razes e o voto do relator, para igualmente negar provimento ao presente recurso. DESEMBARGADOR OSMAR DUARTE MARCELINO Acompanho integralmente o voto do e. desembargador relator, que negou provimento ao recurso.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A litispendncia foi configurada entre a ao ajuizada em 17/03/2021 e a anterior, ajuizada em 10/01/2021, pois ambas possuem as mesmas partes, causa de pedir prximas e parecidas, e os pedidos convergem para o mesmo fim. Assim, foi mantida a decisão de primeiro grau, para extinguir o processo, sem resolução de mérito.

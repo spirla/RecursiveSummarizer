@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+327,  2, do CP pelo mero exercicio do mandato parlamentar, sem prejuizo da causa de aumento contemplada no art. 317,  1. A jurisprudencia [do STF], conquanto revolvida nos ultimos anos (Inq 2606, Relator(a): Min. Luiz Fux, Tribunal Pleno, julgado em 11/11/2014, DJe-236 02-12-2014), exige uma imposicao hierarquica ou de direcao (Inq 2191, Relator(a): Min. Carlos Britto, Tribunal Pleno, julgado em 08/05/2008, DJe-084 08-05-2009) que nao se acha nem demonstrada nem descrita nos presentes autos. (STF, Inq 3983, Rel. Min. Teori Zavascki, Tribunal Pleno, julgado em 03/03/2016,DJe-095 12/05/2016). No presente caso, o MPF deixou de descrever a presenca da circunstancia de imposicao hierarquica (STF, Inq 3980, supra), donde a impossibilidade de ela ser presumida apenas pelo exercicio d[o] cargo de desembargador. (STF, Inq 3980, supra). (Informativo n. 736) PROCESSO APn 989-DF, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 327, § 2º, do Código Penal não exclui a possibilidade de aumento de pena previsto no art. 317, § 1º, em razão do exercício do mandato parlamentar. 2. A jurisprudência do STF exige a presença de uma imposição hierárquica ou de direção para a configuração do crime previsto no art. 327, § 2º, do Código Penal. 3. O Ministério Público Federal deixou de descrever a presença da circunstância de imposição hierárquica para a configuração do crime previsto no art. 327, § 2º, do Código Penal.

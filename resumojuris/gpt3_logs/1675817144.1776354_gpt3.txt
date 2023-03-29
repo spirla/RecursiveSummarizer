@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+2 e 3 da EC 86/2015 ( Emenda do Orcamento Impositivo ), os quais alteraram a forma de calculo dos recursos minimos apli-cados anualmente, pela Uniao, em Acoes e Servicos Publicos de Saude (ASPS) mediante a instituicao de subpisos anuais progressivos, neles incluida a parcela oriunda das receitas de royalties de petroleo e de gas natural. Nao ha comprovacao de que a mudanca dos parametros para a definicao do patamar minimo referente ao financiamento federal desfigura o nucleo essencial de direito fundamental, notadamente do direito a saude, mesmo sob a otica da vedacao ao retrocesso social, visto ser admitida a regulamentacao desses direitos por criterios escolhidos pelo legislador ordinario. Nesse contexto, inexiste violacao a clausula petrea, pois nao ha como recusar ao legislador constituin-te derivado reformador a possibilidade de inovar na materia se o proprio legislador ordinario tem competencia para regular o financiamento da saude publica, fixando e reavaliando periodicamente os patamares minimos de investimento. Alem disso, a opcao do legislador constituinte ponderou a necessidade de manutencao de politicas es-tatais continuas e abrangentes na area da saude. Tanto e assim que a progressividade dos indices previstos pela EC revela convergencia com o compromisso exigido pela propria CF/88 de maior esforco fiscal do Estado em favor dos servicos publicos de saude. Com base nesse entendimento, o Plenario, por maioria, conheceu integralmente da acao e, no merito, a julgou improcedente, assentando a constitucionalidade dos arts. 2 e 3 da EC 86/2015.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há comprovação de que a mudança dos parâmetros para a definição do patamar mínimo referente ao financiamento federal desfigura o núcleo essencial de direito fundamental, notadamente do direito à saúde. 2. É admitida a regulamentação desses direitos por critérios escolhidos pelo legislador ordinário. 3. Não há violação à cláusula pétrea, pois não há como recusar ao legislador constituinte derivado reformador a possibilidade de inovar na matéria se o próprio legislador ordinário tem competência para regular o financiamento da saúde pública. 4. A opção do legislador constituinte ponderou a necessidade de manutenção de políticas estatais continuas e abrangentes na área da saúde. 5. A progressividade dos índices previstos pela EC revela convergência com o compromisso exigido pela própria CF/88 de maior esforço fiscal do Estado em favor dos serviços públicos de saúde.

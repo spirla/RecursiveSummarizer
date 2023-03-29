@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Existem tipos penais que apresentam um nico ncleo, materializados em um s verbo. So denominados tipos uninucleares.  o caso do crime de homicdio (artigo 121 do CP), cujo verbo-ncleo do tipo  matar. Outros, porm, apresentam vrios ncleos, cada qual representado pelo respectivo verbo. Tais tipos so denominados de plurinucleares e caracterizam os chamados crimes de ao mltipla ou de contedo variado.  exemplo de crime de ao mltipla o previsto no artigo 33 da Lei 11.343/2006, que possui 18 ncleos alternativos. Contudo, vale ressaltar que nem todos os verbos constantes da descrio tpica constituem ncleo do comportamento proibido. Alguns verbos descrevem os meios de execuo do comportamento proibido e retratam apenas um fragmento da matria de proibio. A identificao do ncleo  importante para caracterizar o momento consumativo do crime, posto que o crime s estar consumado quando a conduta criminosa puder ser perfeitamente descrita pelo verbo que constitui ncleo do tipo. Portanto, no se tem o crime por consumado quando o sujeito ativo do crime realiza apenas o comportamento descrito como meio de execuo (fragmento). Para exemplificar a questo, vejamos o crime de estelionato, previsto no artigo 171, caput, do CP. O tipo prev a conduta de obter, para si ou para outrem, vantagem ilcita, em prejuzo alheio, induzindo ou mantendo algum em erro, mediante artifcio, ardil, ou qualquer outro meio fraudulento. A descrio tpica apresenta trs verbos: obter, induzir e manter. A construo da descrio tpica evidencia que o ncleo do tipo  constitudo apenas pelo verbo obter. Somente quando o sujeito realizar a conduta de obter  que o crime estar consumado. Os verbos induzir e manter, tambm utilizados na descrio tpica, indicam meios de execuo do ncleo do tipo. Em outras palavras, induzir ou manter algum em erro so os meios de obter-se a vantagem ilcita. O crime s estar consumado quando o sujeito obtiver a vantagem, e no quando induzir ou mantiver a vtima em erro. 5.4.1.2. Sujeitos do crime.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existem tipos penais que apresentam um s ncleo, materializado em um s verbo (tipos uninucleares) e outros que apresentam vrios ncleos, cada qual representado pelo respectivo verbo (tipos plurinucleares). A identificação do núcleo importante para caracterizar o momento consumativo do crime, pois o crime só estará consumado quando a conduta criminosa puder ser descrita pelo verbo que constitui o núcleo do tipo. Por exemplo, no crime de estelionato, previsto no artigo 171 do CP, o núcleo do tipo é constituído pelo verbo obter e os verbos induzir e manter indicam apenas meios de execução.

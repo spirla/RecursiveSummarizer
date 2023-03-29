@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Que cumulado ao pedido 4.2., em caso de procedncia, que a pontuao do policial seja corrigida. 4.4. Que cumulados aos pedidos 4.2 e 4.3, que em caso de procedncia seja devolvido o errio descontado do Autor em razo da punio, devidamente corrigido e atualizado. 4.5. A intimao da parte contrria para querendo, apresentar defesa sob pena de recair os efeitos da revelia. 4.6. Os benefcios da assistncia judiciria gratuita. 4.7. A condenao da parte contrria ao pagamento dos honorrios de sucumbncia a serem arbitrados por V.Exa. bem como o pagamento das custas processuais. Deu  causa o valor de R$2.000,00 (dois mil reais) para fins de alada. Os benefcios da justia gratuita foram deferidos pelo magistrado primevo. O Estado de Minas Gerais apresentou contestao (Evento n. 9), argumentando que o apelante, de forma contraditria, desenvolveu o raciocnio de sua defesa com base na infrao contida no art. 13, XX, do CEDM, quando sequer foi punido com fundamento em tal artigo. Afirmou que a defesa do militar formulou a exordial, apoiando-se "em fatos acusatrios distintos, j que a imputao consistiu no fato de ele chegar injustificadamente atrasado para qualquer ato de servio de que deva participar e no por ter supostamente faltado ao servio. Disse que, durante todo o PCD, foram respeitados os princpios da ampla defesa e do contraditrio, no havendo que se falar em qualquer nulidade. Disse, ainda, que o autor, ao alegar a inexistncia de fatos no imputados a ele (art. 13, XX, do CEDM), inviabiliza e/ou at mesmo impossibilita o exerccio da defesa do Estado. Asseverou que tanto a autoria quanto a materialidade do ilcito disciplinar restaram devidamente demonstradas, inexistindo qualquer causa que ampare a absolvio pretendida.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O magistrado primevo deferiu os benefícios da justiça gratuita. O Estado de Minas Gerais apresentou contestação alegando que o apelante desenvolveu o raciocínio de sua defesa com base em fatos distintos. O Estado afirmou que durante todo o processo foram respeitados os princípios da ampla defesa e do contraditório, e que a autoria e materialidade do ilícito disciplinar foram devidamente demonstradas. O magistrado determinou a condenação da parte contrária ao pagamento dos honorários de sucumbência e das custas processuais.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No havendo diferena substancial, o e-mail se sujeita ao regime de inviolabilidade absoluta das comunicaes postais (artigo 5, XII), at mesmo porque seus dados permanecero arquivados nos computadores que enviaram e receberam a mensagem, bem como no provedor utilizados, permitindo a sua apreenso, entretanto, a comunicao eletrnica escrita instantnea desses dados via SMS, WhatsApp, MSN Messenger e Skype, pode ser interceptada. O STJ firmou que no h afronta ao artigo 5, XII, da CF, a interceptao do fluxo de comunicaes em sistema de informtica e telemtica realizada em feito criminal e mediante autorizao judicial ex vi do artigo 1, pargrafo nico, da Lei 9.296/96. Esse entendimento do STJ foi ementado na edio 69 da Jurisprudncia em Teses:
+So nulas as provas obtidas por meio da extrao de dados e de conversas privadas registradas em correio eletrnico e redes sociais (por exemplo WhatsApp e Facebook) sem a prvia autorizao judicial. 14.2.13.2. Interceptao das comunicaes telefnicas. A inviolabilidade das comunicaes telefnicas no  absoluta, uma vez que a Carta Magna (artigo 5, XII) diz salvo, no ltimo caso, por ordem judicial, nas hipteses e na forma que a lei estabelecer para fins de investigao criminal ou instruo processual penal. A Constituio Federal protege a intimidade das conversas telefnicas, mas prev que o sigilo das conversas telefnicas constitucionalmente assegurado pode ser quebrado por ordem judicial nos termos da lei. A Lei 9.296/1996, que regulamenta a parte final do inciso XII, do artigo 5, da CF, estabelece o cabimento e o procedimento legal da interceptao de comunicaes telefnicas. Dispe o artigo 1 da Lei 9.296/96:
+Artigo 1. A interceptao de comunicaes telefnicas, de qualquer natureza, para prova em investigao criminal e em instruo processual penal, observar o disposto nesta Lei e depender de ordem do juiz competente da ao principal, sob segredo de justia. Pargrafo nico. O disposto nesta Lei aplica-se  interceptao do fluxo de comunicaes em sistemas de informtica e telemtica.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A inviolabilidade das comunicações eletrônicas, como e-mail, SMS, WhatsApp, MSN Messenger e Skype, não é absoluta, podendo ser interceptada mediante autorização judicial, de acordo com a Lei 9.296/1996. A mesma lei também regulamenta a interceptação de comunicações telefônicas, que também pode ser realizada mediante ordem judicial.

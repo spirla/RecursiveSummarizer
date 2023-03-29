@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+85 Processo REsp 1.753.006-SP, Rel. Ministro Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 15/9/2022, DJe 23/9/2022. Ramo do Direito DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL Tema Condicoes da acao. Interesse de agir. Anulacao de debito. Erro material em declaracao de credito tributario federal - DCTF. Lancamento. Credito tributario constituido. Previo requerimento administrativo. Desnecessidade. Retificacao da declaracao de credito. Pretensao distinta.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário o prévio requerimento administrativo para a anulação de débito tributário federal. 2. É possível a retificação da declaração de crédito tributário federal em caso de erro material. 3. A pretensão de anulação de débito tributário federal é distinta da pretensão de retificação da declaração de crédito tributário federal.

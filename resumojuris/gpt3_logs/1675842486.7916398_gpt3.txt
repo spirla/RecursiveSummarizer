@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+5, XL, da CF/88 e no art. 2 do CP. Assim, nao ha duvida quanto a incidencia das alteracoes promovidas pela Lei n. 14.133/2021 no tocante a supressao do pressuposto de singularidade do servico de advocacia para contratacao direta. Deste modo, para a configuracao do crime previsto no art. 89 da Lei n. 8.666/1993, e indispensavel a comprovacao do dolo especifico de causar danos ao erario. (Informativo n. 723) SEXTA TURMA Voltar ao Sumario. PROCESSO AgRg no REsp 2.010.303-MG, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 14/11/2022, DJe 18/11/2022. RAMO DO DIREITO DIREITO PENAL TEMA Dosimetria da pena. Atenuante. Confissao qualificada. Pluralidade de qualificadoras.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 14.133/2021 promoveu alterações na supressão do pressuposto de singularidade do serviço de advocacia para contratação direta. 2. Para a configuração do crime previsto no art. 89 da Lei n. 8.666/1993, é necessário comprovar o dolo específico de causar danos ao erário. 3. A dosimetria da pena pode ser atenuada pela confissão qualificada e pela pluralidade de qualificadoras.

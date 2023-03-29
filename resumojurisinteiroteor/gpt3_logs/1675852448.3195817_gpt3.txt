@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+157,  2, II, c/c  2-A, I, do CP). Por tais razes, dou provimento ao recurso da acusao que clama pelo reconhecimento das causas de aumento de pena previstas nos pargrafos 2 e 4, inciso II, do artigo 2 da Lei n. 12.850, de 2013, e pela exasperao das penas-base dos crimes de organizao criminosa e corrupo passiva. Requerimento ministerial para a condenao pela contraveno penal do art. 50 da Lei n. 3.688, de 1941 Embora manifestando meu respeito  bem fundamentada posio adotada pelos ilustres promotores de Justia, ouso dela divergir, para manter a sentena de primeiro grau, entendendo, como o CEJ, que a conduta do art. 50 do Decreto-Lei n. 3.688, de 1941, tenha sido, de fato, absorvida pelo crime do art. 308, 1, do CPM. E, nesse sentido, mantenho nesse ponto, a sentena primeva da forma como se encontra. Passo  dosimetria das penas Quanto s penas que foram fixadas aos trs rus no seu mnimo legal, tendo em conta a condenao pelo cometimento dos delitos de organizao criminosa e corrupo passiva, ouso divergir, igualmente, do CEJ para dar provimento ao recurso interposto pelos ilustres promotores de Justia. Verifiquei que o CEJ, ainda que reconhecendo por sentena a existncia nos autos de circunstncias judiciais desfavorveis aos trs apelados, no se afastou do mnimo legal previsto para aplicar as penas pelos dois delitos, conforme lhe autoriza a jurisprudncia do STJ, trazida aos autos pela eminente procuradora de Justia no seu sempre muito bem abalizado parecer, a teor do pargrafo que transcrevo a seguir: [.] A jurisprudncia j se posicionou sobre essa matria, estabelecendo que basta a presena de uma circunstncia judicial desfavorvel para que a pena se distancie do mnimo, o que pode ser conferido no seguinte julgado:  AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAO, NOS EMBARGOS DE DECLARAO, NO RECURSO ESPECIAL. PENAL. CRIME DE PECULATO. ART. 312, CAPUT, DO CDIGO PENAL. FIXAO DA PENA-BASE ACIMA DO MNIMO LEGAL. MOTIVAO IDNEA E SUFICIENTE. 1. O art. 59 do Cdigo Penal elenca 08 (oito) circunstncias, para orientar a atividade do magistrado na primeira fase de dosimetria das penas.  entendimento pacfico tanto na doutrina quanto na jurisprudncia que, inexistindo circunstncias judiciais desfavorveis, a pena-base deve, necessariamente, ser fixada no mnimo legal.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O recurso da acusação foi acolhido para reconhecimento das causas de aumento de pena previstas na Lei n. 12.850, de 2013, e para a exasperação das penas-base dos crimes de organização criminosa e corrupção passiva. A conduta prevista no art. 50 do Decreto-Lei n. 3.688, de 1941, foi absorvida pelo crime do art. 308, 1, do CPM. As penas foram fixadas acima do mínimo legal, tendo em conta a presença de circunstâncias judiciais desfavoráveis.

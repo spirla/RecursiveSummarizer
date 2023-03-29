@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Permite-se apenas a fixacao de um prazo para a conclusao do procedimento, caso haja pedido expresso nesse sentido na inicial (AgRg no REsp 1.090.517/RS, Rel. Ministro Sergio Kukina, Primeira Turma, DJe 14/11/2014). (Informativo n. 748) Processo AgInt no HC 692.415-RJ, Rel. Min. Assusete Magalhaes, Primeira Secao, por unanimidade, julgado em 15/02/2022, DJe 17/02/2022. Ramo do Direito DIREITO CONSTITUCIONAL, DIREITO INTERNACIONAL Tema Expulsao de estrangeiro. Ato praticado pelo Coordenador de Processos Migratorios. Ilegitimidade passiva do Ministro de Estado da Justica e Seguranca Publica. Incompetencia do Superior Tribunal de Justica para processar e julgar o feito. DESTAQUE Reconhecida a ilegitimidade passiva da autoridade impetrada, o Superior Tribunal de Justica nao possui competencia para processar e julgar o habeas corpus, conforme previsto no art. 105, I, c, da CF/88. Nos termos do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É permitida a fixação de um prazo para a conclusão do procedimento, desde que haja pedido expresso na inicial. 2. O ramo do Direito aplicado ao caso é o Direito Constitucional e o Direito Internacional. 3. O ato praticado pelo Coordenador de Processos Migratórios é a expulsão de estrangeiro. 4. É reconhecida a ilegitimidade passiva da autoridade impetrada. 5. O Superior Tribunal de Justiça não possui competência para processar e julgar o habeas corpus, conforme previsto no art. 105, I, c, da CF/88.

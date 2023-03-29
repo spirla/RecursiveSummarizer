@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No se deve confundir o sujeito passivo do crime com a pessoa sobre a qual recai fisicamente a conduta tpica. Nos crimes contra a pessoa, a conduta criminosa recai sobre o sujeito passivo. Nesses casos, sempre haver coincidncia entre o sujeito passivo e a pessoa sobre a qual recai materialmente a prtica criminosa. Entretanto, isso no acontece em todos os crimes. No crime de estelionato, por exemplo, a fraude pode ser dirigida contra uma pessoa que no seja titular do bem jurdico. O sujeito passivo  o titular do patrimnio que foi diminudo pela obteno da vantagem ilcita, e a pessoa sobre a qual incide a conduta criminosa  aquela que foi enganada. Tambm no se pode confundir o sujeito passivo com o prejudicado. A noo de prejudicado  mais ampla e no est restrita ao titular do bem jurdico violado pela conduta criminosa. Prejudicados so aqueles que suportam consequncias prejudiciais com a prtica do crime, em maior ou menor grau. Pode-se dizer que, no homicdio, a vtima  o sujeito passivo, e seus familiares, os prejudicados. 2.4.1.3. Objetos do crime. Toda a elaborao jurdica para estabelecer um crime importa na definio de objetos. No crime, pode-se identificar um objeto material e um objeto jurdico. Por objeto material deve-se entender a pessoa fsica ou coisa sobre a qual recai fisicamente a conduta criminosa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sujeito passivo é a pessoa sobre a qual recai materialmente a conduta criminosa, mas nem sempre há coincidência entre o sujeito passivo e a pessoa prejudicada. O objeto material do crime é a pessoa ou coisa sobre a qual recai fisicamente a conduta criminosa. O objeto jurdico é o bem jurídico violado pela conduta criminosa.

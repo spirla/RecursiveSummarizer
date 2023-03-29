@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Os lancamentos por declaracao ou por homologacao se justificam pelas varias circunstancias que podem interferir no especifico valor de mercado de cada imovel transacionado, circunstancias cujo conhecimento integral somente os negociantes tem ou deveriam ter para melhor avaliar o real valor do bem quando da realizacao do negocio, sendo essa a principal razao da impossibilidade pratica da realizacao do lancamento originario de oficio, ainda que autorizado pelo legislador local, pois o fisco nao tem como possuir, previamente, o conhecimento de todas as variaveis determinantes para a composicao do valor do imovel transmitido. Em face do principio da boa-fe objetiva, o valor da transacao declarado pelo contribuinte presume-se condizente com o valor medio de mercado do bem imovel transacionado, presuncao que somente pode ser afastada pelo fisco se esse valor se mostrar, de pronto, incompativel com a realidade, estando, nessa hipotese, justificada a instauracao do procedimento proprio para o arbitramento da base de calculo, em que deve ser assegurado ao contribuinte o contraditorio necessario para apresentacao das peculiaridades que amparariam o quantum informado (art. 148 do CTN). A previa adocao de um valor de referencia pela Administracao configura indevido lancamento de oficio do ITBI por mera estimativa e subverte o procedimento instituido no art. 148 do CTN, pois representa arbitramento da base de calculo sem previo juizo quanto a fidedignidade da declaracao do sujeito passivo. (Informativo n. 730) 110 EXECUCAO PENAL Voltar ao Sumario. PROCESSO REsp 1.977.135-SC, Rel. Min. Joel Ilan Paciornik, Terceira Secao, por unanimidade, julgado em 23/11/2022, DJe 28/11/2022. (Tema 1155) RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL, EXECUCAO PENAL TEMA Execucao Penal. Medida cautelar de recolhimento noturno e nos dias de folga. Detracao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O lancamento por declaracao ou por homologacao se justifica pelas varias circunstancias que podem interferir no especifico valor de mercado de cada imovel transacionado. 2. O fisco nao tem como possuir, previamente, o conhecimento de todas as variaveis determinantes para a composicao do valor do imovel transmitido. 3. O valor da transacao declarado pelo contribuinte presume-se condizente com o valor medio de mercado do bem imovel transacionado. 4. A previa adocao de um valor de referencia pela Administracao configura indevido lancamento de oficio do ITBI por mera estimativa.

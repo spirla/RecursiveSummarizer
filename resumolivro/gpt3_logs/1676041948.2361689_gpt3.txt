@@ -1,0 +1,25 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os axiomas fundamentais do sistema de garantias so:
+1) nulla poena sine crimine - no h pena sem crime;
+2) nullum crimen sine lege - no h crime sem lei;
+3) nulla lex (poenalis) sine necessitate - no h incriminao legal sem necessidade;
+4) nulla necessitas sine iniuria - no h necessidade sem ofensa ao bem jurdico;
+5) nulla iniuria sine actione - no h ofensa sem conduta;
+6) nulla actio sine culpa - no h conduta sem culpa;
+7) nulla culpa sine judicio - no h culpa sem jurisdio;
+8) nullo iudicio sine accusatione - no h juzo sem acusao (sistema acusatrio);
+9) nulla acusatio sine probatione - no h acusao sem prova;
+10) nulla probatio sine defensione - no h prova sem contraditrio. Esses axiomas pretendem responder s questes fundamentais da atividade repressiva. Os axiomas de 1, 2 e 3 enfrentam os problemas de quando e como castigar (oferecendo garantias contra a utilizao da pena); os de 4, 5 e 6 enfrentam os problemas de quando e como proibir (oferecendo garantias contra a incriminao) e os axiomas de 7, 8, 9 e 10 enfrentam a questo de quando e como julgar (oferecendo garantias que visem a utilizar adequadamente o processo). No que diz respeito  incriminao produzida, a primeira dimenso do Direito Penal (dimenso liberal) se caracteriza pela punio das ofensas aos Direitos Fundamentais de primeira dimenso. Nesse contexto, o Direito Penal concebeu tipos incriminadores que descrevem condutas ofensivas aos bens jurdicos individuais, como a vida, a integridade fsica, a liberdade, a honra, o patrimnio e a dignidade sexual do indivduo. 2.1.2. Dimenso igualitria do Direito Penal. A noo de cidadania liberal, no entanto, passou a ser considerada como individualista e sustentada em um Estado formalista, distante e neutro. Como o liberalismo estabeleceu uma igualdade meramente formal entre os indivduos, a massa trabalhadora, aps conquistar o sufrgio universal, ps sobre a mesa exigncias de ordem social. Com a Declarao Universal dos Direitos do Homem,40 as liberdades pblicas adquirem conotao mais abrangente, de modo a exigir a interveno do Estado na defesa dos trabalhadores contra a agressividade do capital, equacionando a dinmica social de maneira mais justa. A Histria, ento, imps a passagem do Estado liberal ao Estado Social, que deveria promover as transformaes necessrias para a realizao da verdadeira justia. O Estado liberal-burgus transforma-se no Estado da providncia para os mais fracos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os axiomas fundamentais do sistema de garantias visam oferecer garantias contra a utilização da pena, incriminação e julgamento. O Direito Penal é dividido em duas dimensões: liberal e igualitária. A primeira visa punir as ofensas aos direitos fundamentais individuais, enquanto a segunda busca promover a justiça social.

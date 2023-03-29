@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A tese em questo deve ser rejeitada, considerando-se que foi o extrato de registros funcionais foi colacionado aos autos do processo administrativo-disciplinar em data anterior  data da abertura de vista para a apresentao da defesa final, em estrita observncia  norma que rege a matria -  5 do art. 518 da Resoluo Conjunta n. 4.220/2012 (MAPPA): Art. 518. O encaminhamento dos documentos ao CEDMU dar-se- por intermdio de despacho do comandante, diretor, chefe ou outra pessoa por ele delegada. [.]  5. Os processos disciplinares de natureza demissionria, reformatria ou exoneratria sero, obrigatoriamente, instrudos com o ERF (Extrato de Registros Funcionais) do acusado, devendo a pea ser includa nos autos antes da abertura de vista para defesa final. Nos demais processos, a incluso do ERF ficar condicionado a eventual pedido da defesa, por ato discricionrio da autoridade militar ou do encarregado. Ademais, na hiptese concreta dos autos, o fato de o extrato de registros funcionais ter sido juntado aos autos do PAD mais de 6 (seis) meses antes da data da realizao da reunio de deliberao do CEDM no gerou qualquer prejuzo ao apelante, haja vista que ele se encontrava no conceito mximo (A 50) da Instituio. Desta feita, no se mostra possvel ter havido uma mudana sobremaneira do contexto funcional do militar, como alegado pelo apelante, salvo no sentido contrrio. O recorrente defende, ainda, a ilegalidade do processo administrativo-disciplinar (PAD), em razo do depoimento da mdica Juliana Pimenta Ruas El-Auoar, na condio de testemunha, em vista de a referida profissional ter-lhe prestado atendimento clnico. Entretanto, na hiptese envolvida neste processo, no h que se falar em ilegalidade por violao do sigilo profissional. Isso porque, nos depoimentos prestados pela mdica em questo, foi reconhecida, por ela, a emisso de apenas 01 (um) atestado mdico em favor do apelante. Foi negado o conhecimento da existncia de outros atestados mdicos, supostamente emitidos por ela, nos quais foram lanados diversos diagnsticos, inclusive de leses ortopdicas, em receiturios timbrados do hospital Bom Samaritano, o qual no presta servios de atendimento na rea de ortopedia, tampouco possui profissionais de tal especialidade em seu quadro clnico. Denota-se, assim, que a referida profissional prestou depoimento para esclarecer a autoria e a autenticidade dos atestados mdicos apresentados pelo apelante  Administrao Militar, que os tinha como supostamente falsos. Nessa situao, no se impe o sigilo profissional. Transcrevo partes do depoimento prestado no inqurito policial militar (IPM) que ensejou a instaurao do referido processo administrativo (evento 2 - PROCADM18, fl. 4/7): [.] Perguntada, respondeu que atendeu o investigado Cabo Nathan, pela nica vez que compareceu ao seu escritrio, na rea de psiquiatria.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A tese foi rejeitada porque o extrato de registros funcionais foi colacionado aos autos do processo administrativo-disciplinar antes da abertura de vista para a apresentação da defesa final, em conformidade com a norma que rege a matéria. Além disso, o depoimento do médico não violou o sigilo profissional, pois foi para esclarecer a autoria e autenticidade dos atestados mdicos apresentados pelo apelante.

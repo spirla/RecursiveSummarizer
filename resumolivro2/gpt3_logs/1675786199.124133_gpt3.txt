@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Porm, a escolha feita pelo presidente ou vice-presidente do Tribunal de Justia ou do Tribunal Regional Federal no vincular o relator no Tribunal Superior, que poder selecionar outros recursos representativos da controvrsia (artigo 1036, pargrafo 4, CPC). Se o relator, no Tribunal Superior, proferir deciso de afetao identificando a questo a ser submetida a julgamento, determinar a suspenso do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questo e tramitem no territrio nacional. Publicado o acrdo paradigma, os processos suspensos em primeiro e segundo graus de jurisdio retomaro o curso para julgamento e aplicao da tese firmada pelo Tribunal Superior. Captulo XIX. Aes Autnomas de Impugnao
+Os meios de impugnao, entendidos como instrumentos processuais que provocam o pronunciamento do Poder Judicirio, so anteriores ou posteriores ao trnsito em julgado da sentena. Os meios de impugnao das decises recorrveis so os recursos (apelao, recurso em sentido estrito, correio parcial etc.) e, eventualmente, o habeas corpus e o mandado de segurana e so meios especficos de impugnao de sentena com trnsito em julgado o habeas corpus , o mandado de segurana e a reviso criminal. 1
+Existem aes autnomas de impugnao oponveis contra decises no transitadas em julgado, por exemplo, o habeas corpus e o mandado de segurana, que no guardam natureza de recursos e atacam decises sem o trnsito em julgado. O trao diferenciador  que no recurso no se instaura uma nova relao processual (um novo processo), h prosseguimento da relao processual, enquanto o meio de impugnao configura o exerccio de uma nova ao. 2
+Em resumo, os recursos servem  impugnao de decises judiciais, mas se distinguem das aes autnomas de impugnao porque do causa a novo processo, enquanto essas podem ser apresentadas antes do trnsito em julgado da deciso ( habeas corpus e mandado de segurana) e depois do trnsito em julgado (reviso criminal e habeas corpus ).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Existem meios de impugnação das decisões recorríveis, como os recursos, habeas corpus, mandado de segurança e revisão criminal. Os recursos são diferentes das ações autônomas de impugnação, pois estas podem ser apresentadas antes ou depois do trânsito em julgado da decisão. O presidente ou vice-presidente do Tribunal de Justiça ou do Tribunal Regional Federal pode vincular o relator no Tribunal Superior, que pode selecionar outros recursos representativos da controvérsia. Se o relator proferir decisão de afetação, determinará a suspensão de todos os processos pendentes que versem sobre a questão.

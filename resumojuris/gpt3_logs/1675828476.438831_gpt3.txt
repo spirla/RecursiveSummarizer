@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+3 do Decreto-Lei n. 236, de 1967 . Assim, a Administracao Publica, antes de decidir pela revisao das sancoes de multa, anteriormente aplicadas a impetrante, para, agora, revogar a autorizacao outorgada, deveria ter notificado a interessada para que exercesse o seu direito ao contraditorio e a ampla defesa. O fato de a autoridade impetrada, apos a concessao da medida liminar, ter notificado a impetrante - encaminhando copia do parecer que opinou pela revogacao da autorizacao da impetrante nao tem o condao de alterar o entendimento exposto acima, nem de ensejar a perda do objeto da impetracao. (Informativo  Ed. Especial n. 8) Lei n. 9.612/1998, art. 21, paragrafo unico, III. Lei n. 4.177/1967, arts. 66 e 70, paragrafo unico, com redacao dada pelo Decreto-Lei n. 236/1967, art. 3. Decreto n. 2.615/1998, art. 39. Lei n. 9.784/1999, arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Administração Pública deve notificar a interessada para que exerça o seu direito ao contraditório e à ampla defesa antes de decidir pela revisão das sanções de multa. 2. O fato de a autoridade impetrada, após a concessão da medida liminar, ter notificado a impetrante não tem o condão de alterar o entendimento exposto acima, nem de ensejar a perda do objeto da impetração. 3. A Lei n. 9.612/1998, art. 21, parágrafo único, III, a Lei n. 4.177/1967, arts. 66 e 70, parágrafo único, com redação dada pelo Decreto-Lei n. 236/1967, art. 3 e o Decreto n. 2.615/1998, art. 39 são aplicáveis à Lei n. 9.784/1999, arts.

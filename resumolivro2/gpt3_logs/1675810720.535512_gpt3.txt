@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+De acordo como artigo 353, pargrafo 4, CPPM, as partes podero contest-lo, no todo ou em parte, hiptese em que o procedimento do juiz  o de consignar a arguio e a resposta da testemunha, no permitindo, porm, rplica a essa resposta. O objetivo da contestao  o de permitir a reinquirio imediata da testemunha sobre os pontos contestados. Se antes de colher o depoimento verificar que a presena do acusado, pela sua atitude, poder influir no nimo de testemunha, de modo que prejudique a verdade do depoimento, o juiz determinar que seja retirado do recinto, prosseguindo na inquirio com a presena do seu defensor (artigo 358, CPPM). A retirada do ru da sala de audincia visa evitar que a busca da verdade fique prejudicada. O juiz  avisado antes da sesso que a testemunha no quer depor na presena do ru, pois alega, por exemplo, que fora na sala de audincia e o ru a olhou de modo ameaador, manteve ou tentou manter contato com ela;
+ou, ento, o juiz verifica, durante a audincia, que a testemunha, sem razo aparente, muda seu depoimento, ou percebe no modo de agir da testemunha temor de represlia, sobretudo em crimes de acentuada gravidade cometidos com violncia ou grave ameaa, que causam temor  testemunha em depor na presena do acusado. Tambm a condio pessoal da testemunha - pessoa de origem humilde, por exemplo - e a profisso do acusado - militar que trabalha no bairro onde a testemunha mora, por exemplo - so motivos para o juiz determinar a retirada do ru. O STJ no reconheceu nulidade na retirada do ru da sala de audincias a pedido de testemunhas ou vtimas. Devero constar da ata da sesso a ocorrncia e os motivos que a determinaram essa retirada para futuro controle na superior instncia. O juiz deve ter muita cautela ao tomar a deciso, sob pena de violar o princpio constitucional da ampla defesa.  de bom alvitre permitir ao advogado entrevistar-se com o acusado depois de colhido o depoimento para formular as perguntas.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 353, parágrafo 4, do CPPM permite que as partes contestem o depoimento de uma testemunha. O juiz pode determinar a retirada do acusado da sala de audiência se a presença dele prejudicar a verdade do depoimento. O STJ não reconheceu nulidade na retirada do acusado, desde que conste na ata da sessão os motivos para a decisão. O juiz deve ter cautela ao tomar a decisão para não violar o princípio da ampla defesa.

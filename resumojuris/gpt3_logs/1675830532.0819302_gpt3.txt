@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+87 Processo REsp 1.934.881-SP, Rel. Ministra Assusete Magalhaes, Segunda Turma, por unanimidade, julgado em 27/9/2022, DJe 30/9/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL Tema Cumprimento de sentenca. Apresentacao de memoria do calculo. Impugnacao. Contador judicial. Homologacao de calculo em valor superior ao postulado pelo exequente. Decisao ultra petita. Nao configuracao. DESTAQUE Nao configura julgamento ultra petita o acolhimento dos calculos elaborados por contador Judicial em valor superior ao apresentado pelo exequente. Cinge-se a controversia a determinar se extrapola os limites do pedido decisao que homologa os calculos apresentados pela contadoria judicial em valor superior aquele apresentado pela parte exequente em sua memoria de calculo. Conforme a jurisprudencia consolidada no Superior Tribunal de Justica, o acolhimento dos calculos elaborados por Contador Judicial em valor superior ao apresentado pelo exequente nao configura julgamento ultra petita, uma vez que, ao adequar os calculos aos parametros da sentenca exequenda, garante a perfeita execucao do julgado (STJ, AgRg no Ag 1.088.328/SP, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não configura julgamento ultra petita o acolhimento dos cálculos elaborados por contador judicial em valor superior ao apresentado pelo exequente. 2. A controvérsia cinge-se a determinar se extrapola os limites do pedido decisão que homologa os cálculos apresentados pela contadoria judicial em valor superior aquele apresentado pela parte exequente em sua memória de cálculo. 3. Conforme a jurisprudência consolidada no Superior Tribunal de Justiça, o acolhimento dos cálculos elaborados por contador judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado.

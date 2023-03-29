@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+226 do CPP, deve ser mantida a condenacao quando houver outras provas produzidas sob o crivo do contraditorio e da ampla defesa, independentes e suficientes o bastante, para lastrear o decreto condenatorio. 1238 A Sexta Turma do Superior de Justica, por ocasiao do julgamento do HC 598.886/SC, Rel. Ministro Rogerio Schietti, realizado em 27/10/2020, conferiu nova interpretacao ao art. 226 do CPP, a fim de superar o entendimento anterior, de que referido artigo constituiria mera recomendacao e, como tal, nao ensejaria nulidade da prova eventual descumprimento dos requisitos formais ali previstos. Nesse julgado, a Turma decidiu, inter alia, que, a vista dos efeitos e dos riscos de um reconhecimento falho, a inobservancia do procedimento descrito na mencionada norma processual torna invalido o reconhecimento da pessoa suspeita e nao podera servir de lastro a eventual condenacao, mesmo se confirmado o ato em juizo. Vale dizer, entendeu-se, na oportunidade, que o procedimento previsto no art. 226 do CPP nao configura mera recomendacao do legislador, mas rito de observancia necessaria, sob pena de invalidade do ato . Reconheceu-se ali a necessidade de se determinar a invalidade de qualquer reconhecimento formal - pessoal ou fotografico - que nao siga estritamente o que determina o art. 226 do CPP, sob pena de continuar-se a gerar instabilidade e inseguranca em sentencas judiciais que, sob o pretexto de que outras provas produzidas em apoio a tal ato - todas, porem, derivadas de um reconhecimento desconforme ao modelo normativo - autorizariam a condenacao, potencializando, assim, o concreto risco de graves erros judiciarios. Posteriormente, em sessao ocorrida no dia 15/03/2022, esta Sexta Turma, por ocasiao do julgamento do HC 712.781/RJ, Rel. Ministro Rogerio Schietti, avancou em relacao a compreensao anteriormente externada no HC 598.886/SC e decidiu, a unanimidade, que, mesmo se realizado em conformidade com o modelo legal (art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 226 do CPP não configura mera recomendação do legislador, mas rito de observância necessária, sob pena de invalidade do ato. 2. A inobservância do procedimento descrito na mencionada norma processual torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o ato em juízo. 3. A Sexta Turma do Superior Tribunal de Justiça decidiu, a unanimidade, que, mesmo se realizado em conformidade com o modelo legal (art. 226 do CPP), o reconhecimento formal - pessoal ou fotográfico - não poderá servir de lastro a eventual condenação, caso haja outras provas produzidas sob o crivo do contraditório e da ampla defesa, independentes e suficientes o bastante.

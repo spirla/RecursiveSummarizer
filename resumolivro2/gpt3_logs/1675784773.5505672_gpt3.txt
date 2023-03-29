@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No caso de concurso material de crimes (artigo 79 do CPM) poder o acusado ser processado pelos fatos no includos na primeira acusao, na medida em que so fatos completamente distintos. 16.5.4. Limites subjetivos da coisa julgada. Dizem os limites subjetivos da coisa julgada respeito s pessoas atingidas pela imutabilidade dos efeitos da sentena, isto , formada a coisa julgada material, o objeto do processo no poder voltar a ser discutido em outro processo envolvendo as mesmas partes. Os limites subjetivos da coisa julgada impedem que mesma pessoa ou pessoas sejam julgadas novamente pelo mesmo fato com sentena passada em julgado. O CPPM reza que a coisa julgada opera somente em relao s partes, no alcanando quem no foi parte no processo (artigo 155). No processo penal militar, a imutabilidade dos efeitos sentena atinge o acusado, posto que a pena no passa da pessoa do condenado, princpio da personalidade ou da pessoalidade da pena previsto no artigo 5, XLV, CF. O efeito extensivo do artigo 515 do CPPM:
+No caso de concurso de agentes, a deciso do recurso interposto por um dos rus, se fundada em motivos que no sejam de carter exclusivamente pessoal, aproveitar aos outros faz com que a coisa julgada fique suspensa em relao ao corru que no recorreu, desde que o fundamento do recurso do outro acusado seja comum. A deciso absolutria em relao a um dos concorrentes em caso de concurso de pessoas fundada em motivos que no sejam de carter exclusivamente pessoal, aproveitar aos outros concorrentes (artigo 515, CPPM), por exemplo , se um dos concorrentes for definitivamente absolvido por inexistncia do fato (artigo 439, a, primeira parte, do CPPM), a deciso se estende aos demais concorrentes. No primeiro processo, o acusado A foi absolvido e a deciso transitou em julgado, o acusado B pode ser processado no segundo processo como coautor ou partcipe? Para Gustavo Badar, se o fundamento da absolvio aproveitar B (por exemplo, atipicidade da conduta) a ao penal  invivel por falta de justa causa para a ao penal em relao ao corru que no foi parte no primeiro processo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No caso de concurso de crimes, o acusado pode ser processado pelos fatos no includos na primeira acusao, desde que sejam fatos completamente distintos. A coisa julgada opera somente em relao s partes, no alcanando quem no foi parte no processo. Se um dos acusados for absolvido por inexistncia do fato, a deciso se estende aos demais concorrentes. No segundo processo, se o fundamento da absolvio aproveitar ao acusado B, a ao penal invivel por falta de justa causa.

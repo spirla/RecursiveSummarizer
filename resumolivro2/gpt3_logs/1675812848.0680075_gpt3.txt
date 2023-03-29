@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Quanto ao possvel efeito regressivo ou iterativo dos embargos infringentes, a doutrina no  pacfica. Para Gustavo Badar, o efeito regressivo ou iterativo ocorre somente em relao queles julgadores que participaram do julgamento de apelao ou do recurso em sentido estrito, que podero alterar o voto proferido, enquanto Aury Lopes Jnior defende no haver efeito regressivo por ser o julgador rgo distinto daquele que julgou o acrdo embargado e com composio mais ampla. Por serem dirigidos ao tribunal que proferiu a deciso, os embargos infringentes e de nulidade tm carter de retratao, com o pedido de reexame inclusive a juzes que tomaram parte no julgamento de que se recorre. Os embargos infringentes e de nulidade ampliam a composio do rgo julgador para propiciar o reexame da matria que foi objeto de divergncia, mas o STM no  composto em cmaras ou de turmas, de sorte que o pleno do tribunal julga novamente os infringentes. O que no ocorre, por exemplo, com o TJMSP, que tem as cmaras e o pleno. Os embargos de nulidade e infringentes tm efeito extensivo dos recursos em geral (artigo 515, CPPM). 18.6. Embargos de declarao. Os embargos de declarao previstos no artigo 538 do CPPM so opostos aos julgados de segunda instncia. .
+18.6.1. Requisitos de admissibilidade. 18.6.1.1. Cabimento. Cabe opor embargos de declarao s decises de segunda grau obscuras, ambguas, controversas ou omissas.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina não é unânime quanto ao efeito regressivo ou iterativo dos embargos infringentes. Gustavo Badar defende que ocorre somente em relação aos julgadores que participaram do julgamento de apelação ou do recurso em sentido estrito, enquanto Aury Lopes Júnior afirma que não há efeito regressivo por se tratar de um órgão distinto. Os embargos infringentes e de nulidade têm caráter de retratação e ampliam a composição do órgão julgador para propiciar o reexame da matéria. Os embargos de declaração previstos no artigo 538 do CPPM são cabíveis para decisões de segunda grau obscuras, ambíguas, controversas ou omissas.

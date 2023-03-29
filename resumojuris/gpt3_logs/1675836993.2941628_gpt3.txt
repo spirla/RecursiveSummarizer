@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 727) PROCESSO AgInt no AREsp 926.189-MG, Rel. Min. Herman Benjamin, Segunda Turma, por unanimidade, julgado em 15/02/2022. 224 RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL TEMA Danos causados ao erario municipal. Tribunal de Contas do Estado. Multa. Execucao. Municipio. Legitimidade. RE 1.003.433/RJ. Tema 642. Adequacao de entendimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Tribunal de Contas do Estado tem legitimidade para aplicar multas em casos de danos causados ao erário municipal. 2. É possível a execução de multas aplicadas pelo Tribunal de Contas do Estado em casos de danos causados ao erário municipal.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Gilmar Mendes, julgamento virtual finalizado em 18.12.2020 (INF 1003) Contrato de seguro e lei estadual de iniciativa parlamentar  ADI 6132/GO Resumo: E inconstitucional a lei estadual que disciplina, no ambito do ente federado, aspectos das relacoes entre seguradoras e segurados. O art. 22, I, da CF/88 (CF) atribui competencia privativa a Uniao para legislar sobre direito civil, razao pela qual o Supremo Tribunal Federal (STF) reconhece a inconstitucionalidade de leis estaduais, distritais e municipais que dispoem a respeito de relacoes contratuais, notadamente quando altera as obrigacoes anteriormente pactuadas. Ademais, por forca do art. 22, VII, da CF, tambem compete privativamente a Uniao legislar sobre seguros. E inconstitucional lei estadual, de iniciativa parlamentar, que atribua competencias ao Departamento Estadual de Transito (DETRAN). As normas instituidoras de reserva de iniciativa sao de reproducao obrigatoria na Constituicao dos estados, por traduzirem expressao do principio da separacao dos poderes, impondo-se sua observacao compulsoria pelos demais entes da Federacao. Assim, compete ao Governador iniciar o processo legislativo de lei que vise estabelecer atribuicoes e obrigacoes a orgaos componentes da estrutura administrativa do Poder Executivo estadual. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado para declarar a inconstitucionalidade dos arts. 1, 2, 3, 5, 6, 7, 8, 10, 11 e 12 da Lei 20.415/2019 do Estado de Goias.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) É inconstitucional a lei estadual que disciplina, no âmbito do ente federado, aspectos das relações entre seguradoras e segurados, pois o art. 22, I, da CF/88 atribui competência privativa à União para legislar sobre direito civil. 2) É inconstitucional lei estadual, de iniciativa parlamentar, que atribua competências ao Departamento Estadual de Trânsito (DETRAN), pois as normas instituidoras de reserva de iniciativa são de reprodução obrigatória na Constituição dos estados. 3) É competência do Governador iniciar o processo legislativo de lei que vise estabelecer atribuições e obrigações a órgãos componentes da estrutura administrativa do Poder Executivo estadual. 4) É inconstitucional os arts. 1, 2, 3, 5, 6, 7, 8, 10, 11 e 12 da Lei 20.415/2019 do Estado de Goiás.

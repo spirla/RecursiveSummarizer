@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se de agravo de instrumento, com pedido de antecipao da tutela da pretenso recursal, interposto por Maurlio Tadeu Nunes contra deciso exarada nos autos do mandado de segurana em trmite perante a 5a Auditoria da Justia Militar Estadual (AJME), que indeferiu o pedido de liminar formulado. Informa o agravante que impetrou mandado de segurana, com pedido de liminar, contra ato da Corregedora da Polcia Militar do Estado de Minas Gerais. Disse que formulou pedido de realizao de diligncias complementares  Comisso de Processo Administrativo-Disciplinar (CPAD) no Processo Administrativo-Disciplinar (PAD) de Portaria n. 103.054/2021- PAD/COM ao qual se encontra submetido. As diligncias complementares consistiriam na oitiva do civil Maurcio Lopo Belm e na acareao entre o referido civil, o agravante e um terceiro, Jovimar Alves de S, as quais foram indeferidas por serem tidas como procrastinatrias. Em decorrncia do indeferimento do seu pedido, interps recurso junto  Corregedoria da PMMG, que negou provimento ao recurso administrativo, sendo este o ato que ensejou a propositura do writ. Diante da negativa do MM. juiz a quo ao atendimento do pedido de concesso de liminar, interps o presente agravo de instrumento, buscando a reforma da deciso primeva, a fim de que seja, liminarmente, concedida a antecipao da tutela da pretenso recursal para determinar-se a suspenso da instruo do PAD de Portaria n. 103.054/2021, at que seja julgado o presente agravo e, no mrito, seja provido o recurso para reformar-se a deciso objurgada e conceder-se a liminar do mandado de segurana, determinando-se a suspenso da instruo do PAD objeto da ao. Em sua pea recursal, o agravante, em sntese, reproduziu os argumentos apresentados na pea vestibular, na qual sustenta que esto sendo violados os princpios da ampla defesa e do contraditrio. Assevera que foi submetido a PAD por ato da Corregedoria da PMMG, sendo que o fundamento do referido ato administrativo se baseou no fato de que ele, agravante, teria comprado e mantido sob sua guarda um veculo automotor objeto de fraude. Afirma que o civil Maurcio Lopo Belm, quando ouvido em sede de auto de priso em flagrante, relatou  autoridade policial ter recebido ligao do agravante. Todavia negou esse fato quando, posteriormente, foi ouvido pelo oficial PM responsvel pelo Relatrio de Investigao Preliminar (RIP), que antecedeu o PAD. Assevera que o depoimento do referido civil foi utilizado como objeto da acusao na portaria do PAD a que se encontra submetido, todavia os depoimentos foram obtidos em oportunidades em que no fora facultada  defesa a possibilidade de acompanh-los e realizar perguntas, motivo pelo qual o referido civil deve ser ouvido no PAD, em respeito aos princpios do contraditrio e da ampla defesa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O agravante impetrou mandado de segurana com pedido de liminar para realizar diligncias complementares (oitiva do civil Maurcio Lopo Belm e acareao entre o referido civil, o agravante e um terceiro) no Processo Administrativo-Disciplinar (PAD) de Portaria n. 103.054/2021, o qual foi indeferido. O agravante interpôs agravo de instrumento com pedido de antecipação da tutela da pretenção recursal para suspender a instrução do PAD, alegando violação dos princípios da ampla defesa e do contraditório.

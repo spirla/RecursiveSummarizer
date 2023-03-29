@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+326-A do Codigo Eleitoral nao se mostra desproporcional aos bens juridicos tutelados em face das consequencias da conduta. Em seu patamar minimo, a reclusao e de dois anos. Nao ha como equiparar a reprovabilidade do delito em questao com as infracoes contra a honra previstas no CP ou no Codigo Eleitoral. O objeto juridico tutelado pelo  3 do art. 326-A nao se refere apenas a honra subjetiva ou objetiva do acusado, mas abrange, principalmente, a legitimidade do processo eleitoral. Com base nesse entendimento, o Plenario julgou improcedente o pedido formulado em acao direta de inconstitucionalidade. ADI 6225/DF, relatora Min. Carmen Lucia, julgamento virtual finalizado em 20.8.2021 (sexta-feira), as 23:59. (INF 1026) 8.2 ELEICAO Candidatura nata: violacao a autonomia partidaria e a isonomia entre postulantes a cargos eletivos - ADI 2530/DF Resumo: O instituto da candidatura nata e incompativel com a CF/88 de 88 (CF), tanto por violar a isonomia entre os postulantes a cargos eletivos como, sobretudo, por atingir a autonomia partidaria (CF, arts. 5, caput , e 17). A denominada candidatura nata  entendida como um direito potestativo de detentor de mandato eletivo a indicacao pelo partido para as proximas eleicoes, independentemente de aprovacao em convencao partidaria  e absolutamente incompativel com a atual atmosfera de liberdade de acao partidaria. A imunizacao pura e simples do detentor de mandato eletivo contra a vontade colegiada do partido acaba sendo um privilegio completamente injustificado, que contribui tao-so para a perpetuacao de ocupantes de cargos eletivos, em detrimento de outros pre-candidatos, sem qualquer justificativa plausivel para o funcionamento do sistema democratico, e sem que haja meios para que o partido possa fazer imperar os objetivos fundamentais inscritos no seu estatuto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 326-A do Código Eleitoral não se mostra desproporcional aos bens jurídicos tutelados em face das consequências da conduta. 2. O objeto jurídico tutelado pelo art. 326-A não se refere apenas à honra subjetiva ou objetiva do acusado, mas abrange, principalmente, a legitimidade do processo eleitoral. 3. O instituto da candidatura nata é incompatível com a Constituição Federal de 1988, tanto por violar a isonomia entre os postulantes a cargos eletivos como, sobretudo, por atingir a autonomia partidária. 4. A imunização pura e simples do detentor de mandato eletivo contra a vontade colegiada do partido acaba sendo um privilegio completamente injustificado, que contribui para a perpetuação de ocupantes de cargos eletivos, em detrimento de outros pré-candidatos.

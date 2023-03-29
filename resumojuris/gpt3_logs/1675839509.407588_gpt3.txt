@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O provedor de aplicacao que, apos notificado, nega-se a excluir publicacao ofensiva envolvendo menor de idade, deve ser responsabilizado civilmente, cabendo impor-lhe o pagamento de indenizacao pelos danos morais causados a vitima da ofensa. A responsabilidade civil, em tal circunstancia, deve ser analisada sob o enfoque da relevante omissao de sua conduta, pois deixou de adotar providencias que, indubitavelmente sob seu alcance, minimizariam os efeitos do ato danoso praticado por terceiro, o que era seu dever. Assim, apesar do art. 19 da Lei n. 12.965/2014 (Marco Civil da Internet) dispor que o provedor somente sera responsavel civilmente, em razao de publicacao gerada por terceiro, se descumprir ordem judicial determinando as providencias necessarias para cessar a exibicao do conteudo ofensivo, afigura-se insuficiente a sua aplicacao isolada. 674 SEGUNDA TURMA Voltar ao Sumario. PROCESSO REsp 1.785.762-RJ, Rel. Min. Francisco Falcao, Segunda Turma, por unanimidade, julgado em 27/08/2022, DJe 29/09/2022. RAMO DO DIREITO DIREITO TRIBUTARIO, DIREITO FINANCEIRO TEMA Imposto de Renda. Cessao com desagio de precatorio. Preco recebido. Nao configuracao de ganho de capital.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O provedor de aplicacao que, apos notificado, nega-se a excluir publicacao ofensiva envolvendo menor de idade, deve ser responsabilizado civilmente. 2. A responsabilidade civil do provedor de aplicacao deve ser analisada sob o enfoque da relevante omissao de sua conduta. 3. O art. 19 da Lei n. 12.965/2014 (Marco Civil da Internet) nao se aplica isoladamente para responsabilizar civilmente o provedor de aplicacao.

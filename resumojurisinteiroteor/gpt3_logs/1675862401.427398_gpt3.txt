@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+juiz de direito cooperador da 1a AJME deixou de apreciar a mdia, por entender que era nus do autor junt-la no sistema Pje, e manteve o indeferimento da tutela de urgncia e evidncia pleiteada pela parte autora (Evento 3 - DEC25 do processo originrio). Em vista desta deciso, a parte autora impetrou mandando de segurana (Processo n. 0800012-96.2019.9.13.0000), no qual foi concedida liminar determinando a juntada do vdeo/mdia aos autos do processo e a reanlise do pedido de concesso de tutela de urgncia a partir da considerao da prova (Evento 4 - OFIC5 do processo originrio). Concomitantemente, a parte autora peticionou nos autos informando que havia interposto recurso de agravo de instrumento (Evento 4 - OUT1 do processo originrio). O MM. juiz de direito cooperador da 1a AJME reanalisou o pedido de tutela de urgncia e evidncia e manteve o indeferimento (Evento 4 - DEC 6 do processo originrio). Citado, o Estado de Minas Gerais apresentou contestao, na qual, em sntese, refutou as alegaes apresentadas pelo autor, defendeu a legalidade do PAD e, ao final, pugnou pela improcedncia dos pedidos formulados pelo autor (Evento 4 - CONT13 do processo originrio). O autor apresentou impugnao  contestao (Evento 4 - IMPUGNAO16 do processo originrio). O mandado de segurana impetrado pela parte autora, em razo da juntada da mdia aos autos do processo e da realizao da reanlise do pedido da tutela de urgncia e evidncia pelo Juzo da 1a AJME, foi julgado prejudicado (Evento 4 - OUT24). A Primeira Cmara desta Corte castrense,  unanimidade de votos, negou provimento ao recurso de agravo de instrumento (Agravo de Instrumento PJe n. 0800013-81.2019.9.13.0000) aviado pela parte autora (Evento 5 - ACOR8 do processo originrio). Determinada a abertura de vista s partes, para especificao de provas, o autor pugnou pela produo de prova documental, pericial e testemunhal (Evento 5 - OUT2 do processo originrio). O Estado de Minas Gerais no se manifestou. Nos termos da deciso constante no Evento 5 - DESP16 do processo originrio, somente a prova testemunhal de Juliana Pimenta Ruas El-Aour foi deferida. O processo foi redistribudo para a 5a AJME-Cvel, conforme determinado no provimento CJM n.2, de 4/4/2020 (Evento 5 - CERT17). A testemunha arrolada pela parte autora prestou depoimento perante o Juzo da Vara da Infncia e da Juventude e de Cartas Precatrias Cveis da Comarca de Tefilo Otni/MG - Evento 15. Em razo de problemas tcnicos que inviabilizaram a inquirio da testemunha pelo advogado do autor, foi determinada a expedio de nova carta precatria para a reinquirio da testemunha (Evento 30 do processo originrio), cujo depoimento encontra-se no Evento 60 do processo originrio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Juzo da 1a AJME indeferiu o pedido de tutela de urgncia e evidncia pleiteado pela parte autora. Em seguida, foi concedida liminar determinando a juntada de vdeo/mdia aos autos do processo e a reanlise do pedido. Após a reanlise, o Juzo manteve o indeferimento. O mandado de segurana impetrado pela parte autora foi julgado prejudicado e o recurso de agravo de instrumento foi negado. Foi deferida a produo de prova testemunhal, cujo depoimento foi realizado na Comarca de Tefilo Otni/MG.

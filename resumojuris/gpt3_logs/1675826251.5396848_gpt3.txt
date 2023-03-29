@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A legislacao potencializa o acesso a Justica. Em regra, e do credor a iniciativa nas execucoes civis, cabendo-lhe instruir a execucao com os calculos da obrigacao materializada no titulo. Apesar disso, nao ha vedacao legal a que se exija a colaboracao do executado, principalmente quando se trata de ente da Administracao Publica federal. No ambito dos referidos juizados, tudo indica ser possivel a inversao da ordem. A relacao estabelecida entre o particular que procura o juizado e a Uniao e evidentemente assimetrica. Logo, impoe-se potencializar os poderes conferidos pelo CPC (CPC) ao magistrado para restabelecer a efetiva igualdade entre as partes. No mais, a leitura atual do papel exercido pela Administracao Publica da primazia ao interesse publico primario. A propria legislacao dos juizados pressupoe que a Administracao agira no intuito de buscar a efetividade dos direitos dos administrados. Exigir que exista sempre a intervencao de perito designado pelo juizo revela incompatibilidade com os principios da economia processual, da celeridade e da efetividade do processo. A nomeacao de perito representa custo ao Erario com os honorarios correspondentes. Alem disso, os calculos efetuados deverao ser posteriormente revistos pela propria Administracao fazendaria a fim de verificar o acerto do valor apurado. De igual modo, se o exequente apresentar valor excessivo, como devido, pois, cabera a Fazenda declarar de imediato o valor que entenda correto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É do credor a iniciativa nas execuções civis, cabendo-lhe instruir a execução com os cálculos da obrigação materializada no título. 2. É possível a inversão da ordem na relação estabelecida entre o particular que procura o juizado e a União. 3. É necessário potencializar os poderes conferidos pelo CPC ao magistrado para restabelecer a efetiva igualdade entre as partes. 4. A leitura atual do papel exercido pela Administração Pública dá primazia ao interesse público primário. 5. É incompatível com os princípios da economia processual, da celeridade e da efetividade do processo exigir que exista sempre a intervenção de perito designado pelo juízo.

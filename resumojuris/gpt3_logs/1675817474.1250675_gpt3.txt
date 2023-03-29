@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+286, paragrafo unico, do CP, com redacao dada pela Lei 14.197/2021. Com base nesses e em outros fundamentos, o Plenario, por maioria, julgou parcialmente procedente acao penal. AP 1044/DF, relator Ministro Alexandre de Moraes, julgamento em 20.4.2022 (INF 1051) 4.13 ORGANIZACAO POLITICO-ADMINISTRATIVA Desmembramento de municipios sem consulta plebiscitaria e EC 57/2008 - RE 614384/SE (Tema 559 RG) Tese fixada: A EC n 57/08 nao convalidou desmembramento municipal realizado sem consulta plebiscitaria e, nesse contexto, nao retirou o vicio de ilegitimidade ativa existente nas execucoes fiscais que haviam sido propostas por municipio ao qual fora acrescida, sem tal consulta, area de outro para a cobranca do IPTU quanto a imoveis nela localizados. Resumo: A EC 57/2008 nao convalidou a criacao, fusao, incorporacao e desmembramento de municipios realizados sem consulta previa, mediante plebiscito, as populacoes dos municipios envolvidos. Municipio resultante de desmembramento realizado em desacordo com o art. 18,  4, da CF/88 nao detem legitimidade ativa para a cobranca de IPTU de imovel situado em territorio a ele acrescido. Na linha da jurisprudencia da Corte, ao acrescentar o art. 96 ao ADCT, a EC 57/2008 aludiu a inexistencia de lei complementar federal a qual se refere o texto constitucional, sem dispensar, entretanto, a observancia do plebiscito da populacao dos municipios envolvidos. Verifica-se, ademais, que a conclusao adotada pelo Tribunal de origem esta de acordo com a orienta-cao fixada pelo STF no julgamento do RE 1171699 (Tema 400 da repercussao geral). Com esses entendimentos, o Plenario, por unanimidade, ao apreciar o Tema 559 da repercussao geral, negou provimento ao recurso extraordinario.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A EC nº 57/2008 não convalidou desmembramento municipal realizado sem consulta plebiscitaria. 2. O município resultante de desmembramento realizado em desacordo com o art. 18, § 4, da CF/88 não detém legitimidade ativa para a cobrança de IPTU de imóvel situado em território a ele acrescido. 3. A EC nº 57/2008 aludiu à inexistência de lei complementar federal a qual se refere o texto constitucional, sem dispensar, entretanto, a observância do plebiscito da população dos municípios envolvidos.

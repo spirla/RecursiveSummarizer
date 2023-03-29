@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Conforme a literalidade do artigo 97 do CP, a prtica do injusto penal faz presumir a periculosidade do inimputvel e o juiz est obrigado a impor uma medida de segurana. Contudo, tal dispositivo legal no se concilia com as premissas de um Estado Democrtico de Direito no qual o indivduo no pode ser privado de sua liberdade com base em meras presunes. Cabe observar que, aps a Constituio da Repblica de 1988 e a edio da Lei 10.216/2001, os dispositivos do Cdigo Penal devem ser interpretados de maneira diversa. A imposio obrigatria e desnecessria da medida de segurana no foi recepcionada pela nova ordem constitucional e, ainda, contrasta formalmente como disposto na Lei 10.216/2001. Agora, a deciso que a impe deve se fundamentar em aspectos concretos do caso submetido a exame judicial. A imposio obrigatria (ex lege) de medida de segurana afronta a garantia constitucional segundo a qual a lei no excluir da apreciao do Poder Judicirio leso ou ameaa a direito (artigo 5, XXXV, da CR), pois impede que o juiz do caso concreto julgue se  necessria a imposio da medida. Por isso, o magistrado deve avaliar a necessidade concreta de impor uma medida de segurana diante das peculiaridades do caso concreto e fundamentar a deciso que a impe ao inimputvel (artigo 93, IX, CR). Cabe observar que a impossibilidade de conhecer as peculiaridades do estado mental de quem se considera perigoso, por outro lado, no pode inviabilizar a deciso que o submete  medida de segurana. Como observa Frias Caballero, a pretenso de certeza absoluta  infundada. O juzo de imputabilidade tem apenas o carter aproximativo, como ocorre frequentemente com outros aspectos da teoria e prtica do direito. Por isso o reconhecimento da necessidade de impor medida de segurana, no processo penal, deve se basear em uma verdade aproximativa. A medida teraputica de internao em estabelecimento hospitalar, imposta nos casos de comprovada necessidade, somente se aplica aos inimputveis por doena mental, desenvolvimento mental incompleto ou retardado, bem como aos dependentes de substncias alcolicas ou drogas. Certamente, no se justifica a internao de menor de dezoito anos em hospital psiquitrico, pois sua incapacidade psquica, naturalmente, ser superada pelo decurso do tempo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prtica do injusto penal presume a periculosidade do inimputvel, sendo necessrio que o juiz avaliar as peculiaridades do caso concreto para decidir a imposio de medida de segurana. A Constituio da Repblica de 1988 e a Lei 10.216/2001 impedem a imposio obrigatria e desnecessria da medida de segurana. A internao em estabelecimento hospitalar s se aplica aos inimputveis por doena mental, desenvolvimento mental incompleto ou retardado, bem como aos dependentes de substncias alcolicas ou drogas, mas no se justifica para menores de dezoito anos.

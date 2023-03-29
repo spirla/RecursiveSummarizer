@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+35 Artigo 1 A Republica Federativa do Brasil, formada pela uniao indissoluvel dos Estados e Municipios e do Distrito Federal, constitui-se em Estado Democratico de Direito e tem como fundamentos: (...) III - a dignidade da pessoa humana; (...).
+36 Nesse sentido, conforme destacado na Diretriz 3.01.09/2018-CG, que regulamenta a atuacao da PMMG segundo a filosofia de direitos humanos, e que emana diretrizes norteadoras basilares das demais doutrinas de emprego operacional da PMMG: A constante evolucao da Policia Militar de Minas Gerais ao longo de sua historia, reporta a trajetoria de preocupacao, respeito e valorizacao da dignidade da pessoa humana. Este valor pode ser entendido como um valor supremo, intrinseco, conferido ao ser humano pela simples condicao de ser humano, independentemente da raca, cor, sexo, religiao, origem social ou econmica. 37 Artigo 15 - A qualquer hora do dia ou da noite, na sede da Unidade ou onde o servico o exigir, o policial-militar deve estar pronto para cumprir a missao que lhe for confiada pelos seus superiores hierarquicos ou impostos pelas leis e regulamentos. 38 DI PIETRO, Maria Sylvia Zanella. Direito Administrativo, 30 ed. p. 788. 39 Na PMMG, sera registrado no Sistema Informatizado de Recursos Humanos (SIRH). No CBMMG, no Sistema Informatizado de Gestao de Pessoas (SIGP). 40 Na edicao anterior da presente obra, fomos do entendimento, agora revisto nesta edicao, de que a aplicacao da medida disciplinar do artigo 10 do CEDM nao pode servir de fator interruptivo a contagem dos cinco anos para o recebimento da recompensa a que alude o artigo 94 do CEDM - cancelamento de punicoes. O referido artigo e claro ao expressar que o militar sem nenhuma outra punicao nos ultimos cinco anos tera a suas penas disciplinares canceladas. Ora, nao sendo a advertncia ou aconselhamento verbal pessoal penas disciplinares, mas, medidas disciplinares nao sancionatorias, a sua imposicao nao pode obstar o recebimento da referida recompensa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituição Federal do Brasil estabelece a dignidade da pessoa humana como um dos seus fundamentos. A Polícia Militar de Minas Gerais tem como diretriz norteadora a valorização da dignidade da pessoa humana. O policial militar deve estar pronto para cumprir a missão que lhe for confiada a qualquer hora do dia ou da noite. A advertência ou aconselhamento verbal pessoal não impede o recebimento de recompensa ao militar que não tenha nenhuma outra punição nos últimos cinco anos.

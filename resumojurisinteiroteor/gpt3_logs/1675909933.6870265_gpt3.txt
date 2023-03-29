@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A defesa do autor impugnou a contestao, pugnando pela procedncia dos pedidos narrados na inicial e, ainda, pelo julgamento antecipado do mrito, nos termos do artigo 355, inciso I, do Cdigo de Processo Civil (Evento 22). Na fase de especificao de provas, o Estado de Minas Gerais alegou no possuir mais provas a produzir e pugnou pelo prosseguimento e julgamento do feito (Evento 30). A defesa no se manifestou. O MM. Juiz de Direito da 5a AJME-Cvel decidiu o feito conforme se depreende, in verbis: [...] Verifica-se tratar de um procedimento administrativo simples, que no exige muita formalidade. O Processo de Comunicao Disciplinar (PCD) 114.485/2015 - 4 BPM transcorreu sem irregularidades. Qualquer nulidade deveria ser requerida e justificada/provada, no tempo e modo oportunos, conforme o art. 373, do Cdigo de Processo Civil de 2015. O autor no se desincumbiu desse mister. O autor no comprovou qualquer prejuzo, nos termos do artigo 69 do CEDM. O autor foi intimado regularmente e lhe foi oportunizado o exerccio dos princpios constitucionais do contraditrio e da ampla defesa. Questes de mrito inseridas na petio inicial no podem ser apreciadas por este juzo, face ao princpio constitucional da separao e independncia dos poderes. Assim, temos que se verificou a improcedncia da ao. Dessa forma, julgou improcedente os pedidos do autor, determinando a extino do feito, com resoluo do mrito, nos termos do art. 487, inciso I, do Cdigo de Processo Civil. Condenou o autor ao pagamento das custas e dos honorrios advocatcios, os quais arbitrou em 20% (vinte por cento) do valor dado  causa, mas suspendeu a exigibilidade da cobrana, nos termos do 3 do artigo 85 do CPC (Evento 32, SENT1). A defesa interps o recurso de apelao nos moldes da sua pea inicial (Evento 39). O Estado de Minas Gerais apresentou contrarrazes de apelao, conforme se depreende no Evento 46. Em sntese, alegou que o Supremo Tribunal Federal consolidou o entendimento de que a fata de defesa tcnica por advogado no processo administrativo disciplinar no ofende a Constituio, consoante inteligncia da Smula Vinculante n. 05.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O MM. Juiz de Direito da 5a AJME-Cvel julgou improcedente os pedidos do autor, determinando a extino do feito com resoluo do mrito, condenando o autor ao pagamento das custas e dos honorrios advocatcios, os quais foram arbitrados em 20% do valor dado causa, mas suspendendo a exigibilidade da cobrana. O Estado de Minas Gerais alegou que o Supremo Tribunal Federal consolidou o entendimento de que a falta de defesa tcnica por advogado no processo administrativo disciplinar no ofende a Constituio.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Concluda a instruo processual, em 16 de outubro de 2020, reuniu-se o douto Conselho de Justia para a sesso de julgamento. Na oportunidade, aps a leitura das peas principais do processo, foi dada a palavra  ilustre Representante do Ministrio Pblico, que se manifestou pela insuficincia de provas nos termos do art. 439, "e, em relao crime do art. 324 do CPM, e requereu a condenao dos acusados pelos crimes previstos nos arts. 195, 196, 312 e 319, todos do CPM, nos termos da exordial. A defesa do Sd PM David Ferreira Farias e do Sd PM Eli Cssio Teixeira Santana requereu a absolvio dos acusados em relao ao crime capitulado no art. 324 do CPM, nos termos do art. 439, "b, do CPPM. J em relao ao Cb PM Erlon Gonalves de Carvalho, ao Sd PM David Ferreira de Farias e ao Sd PM Eli Cssio Teixeira Santana, requereu a absolvio dos crimes capitulados nos arts. 312, 195, 196 e 396, todos do CPM, nos termos do art. 439, "e, do CPPM. A defesa do Cb PM Elton Costa de Souza requereu a declarao da prescrio do crime capitulado no art. 324 do CPM, com base no art. 125, inciso VII, do CPM, ou a absolvio do acusado nos termos do art. 439, "a do CPPM. No tocante ao crime capitulado no art. 195 do CPM, requereu a absolvio do acusado nos termos do art. 439, "b, do CPPM. Em relao ao crime capitulado no art. 312 do CPM, requereu a absolvio nos termos do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministrio Pblico requereu a condenao dos acusados pelos crimes previstos nos arts. 195, 196, 312 e 319 do CPM, enquanto a defesa requereu a absolvio dos acusados dos crimes previstos nos arts. 312, 195, 196 e 396 do CPM, alm da declarao da prescrio do crime capitulado no art. 324 do CPM.

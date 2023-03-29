@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No Cdigo Penal, o artigo 244, que trata do crime de abandono material, impe a pena de multa vinculada diretamente ao salrio mnimo: de uma a dez vezes o maior salrio mnimo vigente no Pas. A redao do dispositivo foi dada pela Lei 5.478, de 25 de julho de 1968 - Lei de Alimentos. Na legislao extravagante, a Lei 8.666/93, que dispe sobre as licitaes e contratos da Administrao Pblica, em seu artigo 99, prev que a multa a ser aplicada nos crimes que especificamente estabelece no ser definida com base no sistema de dias-multa. A lei das licitaes impe que a multa deva ser calculada em ndices percentuais, cuja base corresponder ao valor da vantagem efetivamente obtida ou potencialmente aufervel pelo condenado. Os ndices para o estabelecimento da multa no podero ser inferiores a 2% (dois por cento) nem superiores a 5% (cinco por cento) do valor do contrato licitado ou celebrado com dispensa ou inexigibilidade de licitao. A flexibilizao que a lei confere ao magistrado para a individualizao da pena reside apenas na variao do percentual, sendo que este incidir sempre sobre o valor do contrato. Portanto, as fases da dosimetria da pena (artigo 68 do CP) somente podero produzir alterao no ndice, entre 2% e 5%, que se aplica sobre o valor do contrato. Entretanto, conforme o pargrafo 1 do artigo 99 da Lei 8.666/93, as causas de aumento no podero fazer que seja estabelecido ndice superior aos 5 % do valor do contrato. 12.2.2. Valor da multa. Para a apurao do quantum da pena de multa, seja quando  a nica aplicada ou nas hipteses em que sua aplicao  cumulativa, duas etapas distintas devem ser percorridas pelo juiz. Na primeira etapa, o juiz deve estabelecer a quantidade de dias-multa; na segunda, o valor de cada dia-multa. Para a apurao da quantidade de dias-multa, deve o magistrado realizar as operaes descritas no artigo 68 do CP, de forma que as circunstncias atenuantes e agravantes, bem como as causas de aumento ou diminuio, possam alterar a pena-base inicialmente fixada. Para a fixao do valor do dia-multa, o juiz deve atentar para as condies econmicas do condenado. Multiplicando-se o nmero de dias-multa pelo seu valor pecunirio obtm-se o valor final da multa a ser paga. Em uma frmula simples, a quantidade de dias-multa expressa a reprovao pelo crime praticado, enquanto o valor do dia-multa expressa a capacidade econmica do condenado. Quantidade de dias-multa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 244 do Código Penal prevê pena de multa vinculada ao salário mínimo, conforme Lei 5.478/68. A Lei 8.666/93, por sua vez, prevê que a multa a ser aplicada nos crimes especificados seja calculada em níveis percentuais, cuja base corresponde ao valor da vantagem obtida ou auferível pelo condenado, entre 2% e 5%. A flexibilização da pena é realizada pela variação do percentual, que incide sobre o valor do contrato. Para apuração do quantum da pena de multa, o juiz deve estabelecer a quantidade de dias-multa e o valor de cada dia-multa, considerando as circunstâncias atenuantes e agravantes.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O crime de roubo  complexo por envolver a proteo do bem jurdico patrimnio (que  prevalente e determina a classificao do tipo no contexto do Cdigo Penal Militar) e tambm da pessoa que  atingida pela ameaa ou emprego da violncia. Se houver relevncia no ataque a qualquer dos bens protegidos pelo tipo penal incriminador no ser possvel reconhecer a insignificncia da conduta. A insignificncia da conduta que pode caracterizar um crime complexo deve se verificar em relao a todos os aspectos essenciais da incriminao. Dessa forma, no crime de roubo, ser possvel reconhecer a atipicidade material da conduta quando o ataque ao patrimnio e  pessoa for insignificante. Nesse sentido, ser penalmente irrelevante a conduta do sujeito que desfere pequeno empurro na vtima para subtrair-lhe uma caneta esferogrfica Bic. 3.6.1.1.3. Insignificncia e crime continuado. O princpio da insignificncia  aplicvel aos casos de crime continuado, no se podendo considerar para impedir sua aplicao o somatrio das leses verificadas nos diversos ataques proferidos contra o bem jurdico. O crime continuado ocorre quano o sujeito, mediante mais de uma ao ou omisso, pratica dois ou mais crimes da mesma espcie, e, pelas condies de tempo, lugar, maneira de execuo e outras semelhantes, devem os subsequentes ser havidos como continuao do primeiro. No estatuto repressivo militar o instituto  previsto no artigo 80, que determina a aplicao da regra estabelecida no artigo anterior, com o somatrio das penas aplicadas em razo de cada crime isoladamente. Na legislao comum, o crime continuado  previsto no artigo 71 do Cdigo Penal e confere tratamento mais benfico ao condenado do que a previso constante na legislao militar. Em observncia ao princpio constitucional da isonomia, a distino de tratamento entre militares e civis deve ser resolvida em favor da adoo de uma nica noo de crime continuado. Como a previso da legislao comum  mais benfica ao condenado, deve prevalecer sobre a regra do Cdigo Penal Militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de roubo complexo por envolver a proteção do patrimônio e da pessoa. É possível reconhecer a atipicidade material da conduta quando o ataque ao patrimônio e à pessoa for insignificante. O princípio da insignificância é aplicável aos casos de crime continuado, não se considerando o somatório das lesões verificadas nos diversos ataques proferidos. Na legislação comum, o crime continuado é previsto no artigo 71 do Código Penal, conferindo tratamento mais benéfico ao condenado. Por isso, deve prevalecer sobre a regra do Código Penal Militar.

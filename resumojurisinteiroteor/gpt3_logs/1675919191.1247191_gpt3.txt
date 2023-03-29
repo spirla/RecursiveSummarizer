@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Pode-se constatar que a sentena condenatria recorrvel foi publicada em 7 de janeiro de 2020 (evento1 - SENT3). O trnsito em julgado da condenao, por sua vez, ocorreu em 13 de maio de 2021 (evento1- CErTtRAN6 - p. 06). Como entre os dois marcos temporais no transcorreu perodo de tempo superior a 2 (dois) anos, no  possvel caracterizar a prescrio da pretenso punitiva. No perodo compreendido entre a sentena condenatria e o trnsito em julgado, no  possvel reconhecer a prescrio da pretenso punitiva, com base no  1 do art. 125 do Cdigo Penal Militar ou mesmo com base no art. 112 do Cdigo Penal comum. Muito embora o recebimento da denncia tenha sido publicado em 18 de maio de 2017 (proc. 0001852-76.2016.9.13.0002, Evento2 - RECE_DENUN4), no  possvel reconhecer a prescrio da pretenso punitiva no perodo compreendido entre este ato processual e a sentena condenatria recorrvel. Como bem registra a r. sentena condenatria, no perodo compreendido entre 6 de setembro de 2017 e 6 de dezembro de 2019, o recorrente foi beneficiado pela suspenso condicional do processo. Nos termos do art. 89,  6, da Lei n. 9.099/95, durante a vigncia da suspenso condicional do processo, no corre o prazo prescricional. Portanto, entre o recebimento da denncia e a sentena condenatria recorrvel, a contagem do prazo prescricional no atingiu o patamar de 2 (dois) anos. Por fim, tambm no se pode reconhecer a ocorrncia da prescrio da pretenso executria. Entre o trnsito em julgado da condenao, ocorrido em 13 de maio de 2021, e a data do presente julgamento, no houve o transcurso de 2 (dois) anos. Por tais razes, nego provimento ao presente recurso. DESEMBARGADOR FERNANDO ARMANDO RIBEIRO Acompanho integralmente o voto do e. desembargador relator. DESEMBARGADOR OSMAR DUARTE MARCELINO Acompanho integralmente o voto do e. desembargador relator que conheceu do recurso e, no mrito, negou-lhe provimento. Belo Horizonte, sesso ordinria presencial de julgamento do Tribunal de Justia Militar do Estado de Minas Gerais, aos 6 de setembro de 2022. Tribunal de Justia Militar do Estado de Minas Gerais Desembargador Fernando Galvo da Rocha Presidente da Primeira Cmara e Relator REMESSA NECESSRIA Processo eproc n. 2000141 -17.2021.9.13.0005 Relator: Desembargador Osmar Duarte Marcelino Julgamento: 24/05/2022 Publicao: 30/05/2022 Deciso: UNNIME EMENTA REMESSA NECESSRIA - PROCESSO ADMINISTRATIVO - ACESSO DO ADVOGADO AOS AUTOS - PRERROGATIVA LEGAL QUE DEVE SER GARANTIDA - MODULAO CONFORME A SMULA VINCULANTE N. 14 DO STF - SENTENA CONFIRMADA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar do Estado de Minas Gerais negou provimento ao recurso interposto, pois no foi possvel reconhecer a prescrio da pretenso punitiva, uma vez que o recorrente foi beneficiado pela suspenso condicional do processo durante o perodo compreendido entre o recebimento da denncia e a sentena condenatria recorrvel, e tambm no foi possvel reconhecer a prescrio da pretenso executria, pois no transcorreu perodo de tempo superior a 2 (dois) anos entre o trnsito em julgado da condenao e a data do julgamento.

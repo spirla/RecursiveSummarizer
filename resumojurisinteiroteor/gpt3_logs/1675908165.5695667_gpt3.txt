@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Segundo a representao ministerial (Evento 1 - INIC1): [...] O representado, denunciado perante o Tribunal do Jri da Comarca de Juiz de Fora, juntamente com o seus filho e cunhado, respectivamente Marcel Mesquita Nogueira e Marcelo Cardoso do Nascimento, pela prtica do crime de homicdio triplamente qualificado, aps regularmente processado e pronunciado nos autos n. 0145.02.029098-0, foi condenado  pena de dezesseis (16) anos de recluso, em regime fechado, como incurso nas sanes do artigo 121,  2, incisos I, III e IV, do Cdigo Penal, de acordo com a r. sentena proferida em 12/02/2009, inteiramente confirmada em 2a instncia, nos termos do v. acrdo datado de 08/06/2010, transitado em julgado em 18/07/2011. Segundo consta dos referidos autos, em virtude de uma dvida de R$ 3.000,00 (trs mil reais) existente entre Jorge Bezerra da Silva e o representado Ethewaldo, no dia 15/09/2002 Jorge foi obrigado a adentrar no veculo de Marcelo Cardoso do Nascimento, dirigindo-se ambos, juntamente com Marcel Mesquita Nogueira e seu irmo menor de idade, ao encontro do representado Ethewaldo, que os aguardava em seu stio localizado no Distrito de Torrees, em Juiz de Fora. L chegando, de imediato, o representado Ethewaldo, munido de um pedao de madeira, j desferiu um violento golpe contra a cabea de Jorge e ordenou que o seu cunhado Marcelo terminasse o servio, oportunidade em que este obedeceu e aplicou inmeros outros golpes no ofendido, tambm fazendo uso de um pedao de madeira, seguidos de chutes desferidos na vtima por Marcel e pelo menor, ambos filhos do representado Ethewaldo. Aps a sesso de espancamento, Jorge recuperou a conscincia quando j estava no porta-malas de um carro, que parou em determinado momento, ocasio em que a vtima foi retirada de seu interior e lanada, ainda com vida, da ponte do Rio do Peixe, medindo 10 metros de altura, at vir a ser encontrada no dia seguinte agonizando e encaminhada ao hospital, onde faleceu no dia 20/09/2002. Alm da condenao do aludido policial militar a pena superior a dois anos, a perda da graduao se justifica no caso concreto pelas gravidade, circunstncias e repercusso do crime na sociedade local, que, sem dvida, tornaram inapropriada a permanncia do representado nas fileiras da Polcia Militar do Estado de Minas Gerais. Diante do exposto, REQUER o Ministrio Pblico, aps sua distribuio e regular processamento, seja a presente representao julgada procedente com a excluso do 2 Sgt PM ETHEWALDO MESQUITA GOMES da Polcia Militar do Estado de Minas Gerais, nos termos do artigo 102 do Cdigo Penal Militar. Com a representao, foram anexados os documentos constantes do Evento 1.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O representado foi condenado pelo crime de homicídio triplamente qualificado, com pena de 16 anos de reclusão em regime fechado, tendo a sentença sido confirmada em segunda instância. O Ministério Público requer a exclusão do representado da Polícia Militar do Estado de Minas Gerais, de acordo com o artigo 102 do Código Penal Militar.

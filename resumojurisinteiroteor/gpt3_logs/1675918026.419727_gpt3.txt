@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O douto Juiz de Direito Titular da 1a AJME, diante da manifestao ministerial retromencionada, suscitou o conflito negativo de competncia e remeteu os autos a este Tribunal de Justia Militar, para o exerccio da competncia prevista no art. 12, IV, do Regimento Interno do TJMMG. Encaminhados os autos a eminente Procuradora de Justia com atuao perante a Segunda Instncia desta Justia especializada, esta entendeu que as "Notcias de fato versam sobre diferentes episdios, por isto se mostra totalmente desnecessria a "reunio dos feitos em questo, uma vez que a prova produzida em um no necessariamente influir na apurao da outra infrao, inexistindo conexo instrumental entre ambos.. Ao final, opinou no sentido de que seja declarada a competncia do juzo da 3a Auditoria da Justia Militar Estadual, ora suscitado, para processar e julgar este feito.  o breve relatrio. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Consta dos presentes autos a Notcia de Fato instaurada pela 9a Promotoria de Justia de Minas Gerais, com atuao perante esta Justia Militar, na qual o reclamante 2 Sgt PM Alysson Felipe Alves Gomes relata ao Parquet a prtica, em tese, do delito de prevaricao pela Cel PM Silma Regina Gomes da Rocha Oliveira, por fato praticado em 09/11/2021, relativo ao RIP N. 116.687/21, conforme registrado na manifestao acostada no Evento n. 1 - Documento n. 1. Do referido documento extrai-se que: no dia 09/11/2021, s 11h34min, na sala da Seo FROTA/CAA-1, atravs do 1 Ten PM Wesley, o denunciante recebeu documentao referente a oitiva em sede de RIP, sendo o Despacho n. 116.687/21- RIP/CPM, assinado pela Senhora Corregedora, Cel PM Silma Regina Gomes da Rocha Oliveira, apenas no dia 28/10/2021 para investigar fato que foi-lhe dado conhecimento no dia 14/06/2021 (4 meses depois), em tese retardou indevidamente, ato de ofcio, para satisfazer interesse pessoal ( art. 319 do CPM ), por ser envolvida diretamente no REDS n. 2022-027552770-001, com natureza "Abuso de Autoridade", sendo que devido existir autoria e materialidade, em tese, praticou ato contra expressa disposio de lei, sendo que abriu um RIP ao invs de uma SAD, conforme art. 3 O feito foi distribudo, por sorteio, ao juzo da 3a Auditoria em 11/01/2022, conforme registro da movimentao do Evento n. 1. Em atendimento ao requerimento do Ministrio Pblico, a certido constante do Evento 9 informa que foram localizados os Autos n. 2000651-42.2021.9.13.0001/1a AJME, que haviam sido arquivados em 21/09/2021, por insuficincia probatria. Em razo dessa certido, o Parquet requereu a declinao da competncia para o juzo da 1a AJME, por entender que tratam os dois processos dos mesmos fatos apurados.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito Titular da 1a AJME suscitou o conflito negativo de competncia e remeteu os autos ao Tribunal de Justia Militar para o exerccio da competncia prevista no art. 12, IV, do Regimento Interno do TJMMG. A Procuradora de Justia da Segunda Instncia entendeu que os "Notcias de fato versam sobre diferentes episdios, por isso se mostra desnecessria a "reunio dos feitos em questo". Assim, opinou no sentido de que seja declarada a competncia do juzo da 3a Auditoria da Justia Militar Estadual para processar e julgar o feito.

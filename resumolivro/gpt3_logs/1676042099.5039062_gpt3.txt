@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Ao lado dos direitos relativos  liberdade individual, cunhados pela doutrina liberal, os humanistas do sculo XX reivindicam reconhecimento para os direitos que o homem possui, na qualidade de membro da sociedade. A crtica ao liberalismo ressaltou a existncia dos direitos sociais, culturais e econmicos, que tem como enfoque fundamental a considerao dos interesses coletivos, e no apenas do indivduo particularizado. O conhecimento e o reconhecimento das novas formas de manifestao da liberdade humana fizeram inserir, na ideia de direitos humanos, os direitos  participao democrtica e ao pluralismo ideolgico, como formas de desenvolvimento das potencialidades humanas em sociedade. A mudana de paradigma produziu repercusses importantes. A antiga concepo de direito fundamental como direito pblico subjetivo, cunhada pela ideologia liberal clssica, foi superada para reconhecer que os direitos fundamentais do homem inserem-se no sistema valorativo que a sociedade visa constitucionalmente a preservar. Agora, sob um prisma objetivo, os direitos fundamentais do homem exigem efetiva proteo contra os atos de arbtrio do Estado. Vale notar que a globalizao econmica que, nos dias atuais, possibilita nova influncia da doutrina liberal no desfez o edifcio humanitrio do pensamento garantista. Com efeito, a ideia da globalizao dos direitos fundamentais do homem induz  globalizao institucional dos mecanismos de sua proteo. Sob o enfoque humanista, a justia criminal no pode ser exageradamente repressiva, devendo preocupar-se mais com as consequncias sociais da incriminao e da punio. Os altos custos do Direito Penal sempre devem ser justificados pela realizao de um projeto socialmente construtivo. As disposies de um Direito Penal de ndole humanitria devem considerar a responsabilidade da sociedade para com o criminoso, de modo a estabelecer a assistncia necessria e suficiente para sua reinsero na sociedade, pois somente desse modo  que se satisfaz o interesse social. O princpio da humanidade nos alerta para o fato de que, se toda sociedade tem os criminosos que merece, os criminosos, ao contrrio, em especial os jovens, muitas vezes no tm a sociedade que merecem. Se a sociedade, de variadas formas, contribui para a formao do criminoso, no deve trabalhar unicamente com a lgica simplista do castigo. A interveno punitiva deve contribuir para a realizao de um projeto socialmente construtivo e para proveito do prprio condenado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os humanistas do século XX reivindicam o reconhecimento dos direitos sociais, culturais e econômicos, além dos direitos individuais liberais. A globalização dos direitos fundamentais do homem exige proteção contra o arbítrio do Estado. O Direito Penal deve ser humanitário e considerar a responsabilidade da sociedade com o criminoso, para sua reinserção na sociedade.

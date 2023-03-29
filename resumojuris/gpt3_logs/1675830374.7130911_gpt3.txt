@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Na segunda, acao de anulacao de registro, cuja sentenca foi objeto de acao rescisoria, concluiu-se pela legalidade do ato administrativo do INPI, que concedeu o registro a empresa re . O reconhecimento da coisa julgada exige que os elementos da primeira demanda (partes, pedido e causa de pedir) se repitam na posterior, conforme expressa o art. 337 do CPC/2015. Analisando os elementos das demandas, percebe-se que nao sao identicos, o que afasta a coisa julgada. Isso porque a primeira tinha como causa de pedir o principio da exclusividade, bem como a pratica de concorrencia desleal. Os pedidos formulados foram para a re se abster definitivamente, de fabricar, comercializar ou utilizar, a qualquer titulo, produtos assinalados pelas marcas, bem como qualquer outra marca ou forma de apresentacao, que se confunda com os produtos das empresas autoras, sob pena de pagamento de multa pecuniaria diaria e ser condenada a compor as perdas e danos patrimoniais, inclusive os lucros cessantes . A segunda demanda foi proposta pela mesma autora contra identica empresa e contra o Instituto Nacional de Propriedade Industrial - INPI. E o pedido consistiu na nulidade do registro e na consequente suspensao dos efeitos de tal registro, e na abstencao de uso da marca pela primeira re, nos termos do art. 173, paragrafo unico, da Lei de Propriedade Industrial (LPI). Nota-se, portanto, que tanto a causa de pedir quanto o pedido formulado em ambas as demandas sao diversos. A relacao juridica controvertida tambem e diferente. 81 Sob esse enfoque, destaca-se que o pedido de abstencao de uso da marca pela empresa re na acao de nulidade constituiu mera decorrencia do suposto vicio do registro.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O reconhecimento da coisa julgada exige que os elementos da primeira demanda (partes, pedido e causa de pedir) se repitam na posterior, conforme expressa o art. 337 do CPC/2015. 2. A causa de pedir e o pedido formulado em ambas as demandas sao diversos. 3. A relacao juridica controvertida tambem e diferente. 4. O pedido de abstencao de uso da marca pela empresa re na acao de nulidade constituiu mera decorrencia do suposto vicio do registro.

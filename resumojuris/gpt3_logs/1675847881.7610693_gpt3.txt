@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+282,  6, do CPP. Entretanto, se o modo de atuacao do agente estiver diretamente relacionado ao exercicio da profissao medica para perpetracao dos crimes de violacao sexual mediante fraude, a imposicao da cautelar de proibicao do exercicio da medicina e de suspensao da inscricao medica, somada a outras medidas cautelares pertinentes, sao suficientes para prevencao da reiteracao criminosa e preservacao da ordem publica. Nesse aspecto, e firme a jurisprudencia do STJ no sentido de que a custodia prisional somente se justifica na hipotese de impossibilidade que, por instrumento menos gravoso, seja alcancado identico resultado acautelatorio (RHC n. 113.671/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/08/2019). Por obvio, nao se esta a minimizar a gravidade das condutas imputadas, porem ha que se reconhecer que, uma vez ausentes os requisitos necessarios para a prisao preventiva, sua manutencao caracteriza verdadeira antecipacao de pena. (Informativo n. 728) 1227 PROCESSO RHC 149.836-RS, Rel. Min. Jesuino Rissato (Desembargador Convocado Do TJDFT), Rel. Acd. Min. Joao Otavio de Noronha, Quinta Turma, julgado em 15/02/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Procedimento em curso no Supremo Tribunal Federal. Peca sigilosa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 282, § 6º, do Código de Processo Penal prevê a imposição de medidas cautelares para prevenção da reiteração criminosa e preservação da ordem pública, quando o modo de atuação do agente estiver diretamente relacionado ao exercício da profissão médica. 2. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que a custódia prisional somente se justifica na hipótese de impossibilidade de alcançar o mesmo resultado acautelatório por meio de medidas menos gravosas. 3. A manutenção da prisão preventiva caracteriza verdadeira antecipação de pena, uma vez ausentes os requisitos necessários para a sua imposição.

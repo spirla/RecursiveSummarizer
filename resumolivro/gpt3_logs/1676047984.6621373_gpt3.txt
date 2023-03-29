@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Segundo a regra geral do artigo 49 do Cdigo Penal, o juiz poder determinar a quantidade de dias-multa nos limites compreendidos entre 10 (dez) e 360 (trezentos e sessenta). Na parte especial do CP, no h cominao diferenciada para os diversos crimes punidos com multa. Todos esto submetidos  regra de cominao prevista na parte geral. No entanto, um tratamento dessa forma, generalizante, fere o princpio constitucional da isonomia. No se pode admitir que todos os crimes apenados com pena de multa tenham o mnimo de 10 (dez) dias-multa. Como o crime de furto (artigo 155) pode ter a mesma pena mnima de multa que o crime de roubo (artigo 157)? Se os crimes no so equivalentes, no se pode pensar em resposta igualitria. A lei deveria estabelecer um limite mnimo de dias-multa para cada tipo legal de crime. Como o CP no o fez, caber ao julgador definir qual a quantidade mnima de dias-multa aplicvel a cada crime, guardando proporcionalidade da pena com a infrao praticada. A legislao extravagante pode alterar os parmetros da cominao estabelecida na parte geral do CP e superar a limitao da referida previso. Veja-se o exemplo da Lei 11.343/2006, que, para o crime de trfico de drogas, estabelece cominao de 500 (quinhentos) a 1500 (mil e quinhentos) dias-multa e, para o porte para uso prprio, estabelece cominao de 40 (quarenta) a 100 (cem) dias-multa. A Lei 8.078/90, que instituiu o Cdigo do Consumidor, tambm imps cominao diferenciada. Em seu artigo 77, o CDC dispe que a quantidade de dias-multa deve ser correspondente ao mnimo e ao mximo de dias de privao de liberdade cominados ao crime. De qualquer forma, identificado o parmetro mnimo de apenao para o crime, a pena-base dever ser definida, considerando-se as circunstncias judiciais do artigo 59 do CP. A pena-base deve ser expressa em determinada quantidade de dias-multa. Posteriormente, sobre a pena-base devero incidir os clculos relativos  considerao das circunstncias atenuantes e agravantes, quando se determinar a pena provisria. A pena provisria poder resultar da diminuio, do aumento ou da manuteno da quantidade de dias-multa estabelecida na fase anterior, respeitando-se os limites mnimo e mximo estabelecidos na cominao. Em relao  pena provisria, agora, devem ser consideradas as causas de aumento ou diminuio. Como acontece com a pena privativa de liberdade, a considerao de uma causa de diminuio ou aumento pode fazer que a quantidade de dias-multa ultrapasse os limites da cominao. Valor do dia-multa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz pode determinar a quantidade de dias-multa entre 10 e 360, de acordo com o artigo 49 do Código Penal. A lei deveria estabelecer um limite mínimo de dias-multa para cada tipo legal de crime, mas, como o CP não o fez, caberá ao julgador definir a quantidade mínima. Algumas leis especiais estabelecem cominações diferenciadas, com limites mínimos e máximos de dias-multa. O valor do dia-multa também deve ser considerado.

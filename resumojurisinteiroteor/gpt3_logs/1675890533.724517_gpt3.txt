@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Esse foi o entendimento do Ministro Sydney Sanches no julgamento do Mandado de Segurana n. 21.360-4/DF, quando afirmou que a "A Constituio no diz em que consiste a ampla defesa. Por isso mesmo refere-se aos meios e recursos a ela inerentes. Quais sero esses meios e quais sero esses recursos? Os que a lei ou o Regimento Interno fixarem, conforme o caso. Neste sentido, o autor apenas tenta insinuar, sem amparo legal, que somente ele ou o defensor por ele constitudo seriam indispensveis  administrao da sua justia, o que no  capaz de revogar as excees existentes nos processos em geral, bem como no prprio MAPPA, sendo esta a inteligncia e o objetivo do art. 354 e pargrafos do referido diploma normativo interno. No processo administrativo, e mesmo em algumas hipteses no processo penal, o princpio da ampla defesa no exige sempre a presena de advogado ou de defensor constitudo pela parte, j que no haveria, em alguns atos, a imprescindibilidade da defesa tcnico-jurdica, notadamente quando a norma competente no a estabelece como necessria, at porque a ampla defesa a que alude a Constituio no  aquela que poderemos ter como ideal, mas aquela que a lei determina, estabelecendo os meios e os recursos a ela inerentes. E, no que pertine ao Direito Administrativo Disciplinar, as normas imprimem  ampla defesa conotao tcnica apenas na elaborao da pea de defesa, sendo prescindvel para as demais etapas processuais em que ao acusado  assegurado o exerccio do direito subjetivo de se defender na verdadeira acepo, como j dito, de "tornar possvel; permitir, com segurana. A ampla defesa e o contraditrio exigem que seja franqueada a participao do servidor em todos os atos do processo administrativo, desde o incio, e que haja a faculdade de escolha, pelo acusado, de defesa tcnica, mas a faculdade de escolher seu defensor no impede o direito- dever da administrao, em determinados atos processuais, ausente o defensor constitudo, de nomear defensor ad hoc para tal ato, sem que isso implique, lado outro, obstculo  participao do defensor constitudo nas fases e atos seguintes. O Poder Judicirio no pode impor, ainda que sob o fundamento da ampla defesa, o dever da administrao de suspender o processo quando o acusado e os defensores constitudos pelo acusado deixam de comparecer a atos de instruo de seu interesse, obstando a marcha processual devida. Ademais, tratando-se de nulidade meramente relativa, uma vez que o autor e seu procurador foram intimados para os atos do processo administrativo, bem como pelo fato de que estava preso o procurador constitudo, sem nova constituio de novo procurador, seu reconhecimento depende da correlata comprovao do efetivo prejuzo, conforme o princpio do pas de nullit sans grief, previsto no art. 563 do Cdigo de Processo Penal (CPP).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituio no estabelece em que consiste a ampla defesa, sendo esta definida pela lei ou Regimento Interno. O direito a ampla defesa e ao contraditrio asseguram ao acusado a participao em todos os atos do processo administrativo desde o incio, permitindo a escolha de defesa tcnica. A administrao pode nomear defensor ad hoc em determinados atos processuais, mesmo ausente o defensor constitudo, sem impedir a participao deste nas fases e atos seguintes. A nulidade resultante da ausncia do acusado e de seu defensor constitudo s ser reconhecida se comprovado o efetivo prejuzo.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Sob a mesma linha de raciocnio, tampouco h de ser acolhida a pretenso dos recorrentes de decote da causa de aumento de pena prevista no artigo 1,  4, inciso I, da Lei n 9.455/97 por, supostamente, confundir-se com a agravante do artigo 70, inciso II, alnea "g, do CPM (evento 218 - fls. 36 e 44), considerando que, conforme j demonstrado anteriormente, esta ltima diz respeito  maneira com que o delito foi cometido pelos acusados e a referida causa de aumento, por sua vez, relaciona-se  qualidade de agente pblico ostentada pelos rus que praticaram o crime de tortura, restando ntida a distino entre ambas. Da mesma forma, no merece guarida o pedido de reconhecimento da atenuante prevista no artigo 72, inciso II, do CPM (fls. 35 e 38), pois segundo entendimento jurisprudencial consolidado pelo Supremo Tribunal Militar, meras referncias elogiosas no se revelam suficientes para a incidncia da circunstncia atenuante do meritrio comportamento anterior do agente, a qual reclama a realizao de condutas excepcionais para a sua aplicao, conforme se extrai do seguinte julgado:  APELAO. DEFESA CONSTITUDA E DEFENSORIA PBLICA DA UNIO. PECULATOFURTO. ART. 303,  2, DO CDIGO PENAL MILITAR. CONDENAO EM PRIMEIRA INSTNCIA. ESTRITO CUMPRIMENTO DO DEVER LEGAL. INEXIGIBILIDADE DE CONDUTA DIVERSA. NUS DA DEFESA. AUSNCIA DE COMPROVAO. NO ACOLHIMENTO. OBEDINCIA HIERRQUICA. MANIFESTA ILEGALIDADE DA SUPOSTA ORDEM RECEBIDA. NO ACOLHIMENTO. ERRO DE DIREITO. CONHECIMENTO DA ILICITUDE DA CONDUTA PELO AGENTE. NO INCIDNCIA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal negou o pedido de decote da pena prevista no artigo 1, 4, inciso I, da Lei n 9.455/97 e o pedido de reconhecimento da atenuante prevista no artigo 72, inciso II, do CPM, pois não houve comprovação de condutas excepcionais para a sua aplicação.

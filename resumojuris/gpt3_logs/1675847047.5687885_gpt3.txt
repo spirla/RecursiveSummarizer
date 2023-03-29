@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Essa restricao ofende tambem os principios da isonomia e da individualizacao da pena, por permitir que reus em situacoes processuais identicas recebam respostas divergentes do Judiciario, caso a sentenca condenatoria de um deles elenque a confissao como um dos pilares da condenacao e a outra nao o faca. Ao contrario da colaboracao e da delacao premiadas, a atenuante da confissao nao se fundamenta nos efeitos ou facilidades que a admissao dos fatos pelo reu eventualmente traga para a apuracao do crime (dimensao pratica), mas sim no senso de responsabilidade pessoal do acusado, que e caracteristica de sua personalidade, na forma do art. 67 do CP (dimensao psiquico-moral). Consequentemente, a existencia de outras provas da culpabilidade do acusado, e mesmo eventual prisao em flagrante, nao autorizam o julgador a recusar a atenuacao da pena, em especial porque a confissao, enquanto especie sui generis de prova, corrobora objetivamente as demais. O sistema juridico precisa proteger a confianca depositada de boa-fe pelo acusado na legislacao penal, tutelando sua expectativa legitima e induzida pela propria lei quanto a atenuacao da pena. A decisao pela confissao, afinal, e ponderada pelo reu considerando o trade-off entre a diminuicao de suas chances de absolvicao e a expectativa de reducao da reprimenda. E contraditoria e viola a boa-fe objetiva a postura do Estado em garantir a atenuacao da pena pela confissao, na via legislativa, a fim de estimular que acusados confessem; para depois desconsidera-la no processo judicial, valendo-se de requisitos nao previstos em lei. Por tudo isso, o reu fara jus a atenuante do art. 65, III, d , do CP quando houver confessado a autoria do crime perante a autoridade, independentemente de a confissao ser utilizada pelo juiz como um dos fundamentos da sentenca condenatoria. (Informativo n. 741) PROCESSO AgRg no HC 732.642-SP, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A restrição à atenuante da confissão ofende os princípios da isonomia e da individualização da pena. 2. A atenuante da confissão não se fundamenta nos efeitos ou facilidades que a admissão dos fatos pelo réu eventualmente traga para a apuração do crime, mas sim no senso de responsabilidade pessoal do acusado. 3. A existência de outras provas da culpabilidade do acusado não autoriza o julgador a recusar a atenuação da pena. 4. O sistema jurídico precisa proteger a confiança depositada de boa-fé pelo acusado na legislação penal, tutelando sua expectativa legítima e induzida pela própria lei quanto à atenuação da pena. 5. O réu fará jus à atenuante do art. 65, III, d, do CP quando houver confessado a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória.

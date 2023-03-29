@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O compartilhamento de informacoes pessoais em atividades de inteligencia observara o disposto em legislacao especifica e os parametros fixados no julgamento da ADI 6.529, Rel. Min. Carmen Lucia, quais sejam: (i) adocao de medidas proporcionais e estritamente necessarias ao atendimento do interesse publico; (ii) instauracao de procedimento administrativo formal, acompanhado de previa e exaustiva motivacao, para permitir o controle de legalidade pelo Poder Judiciario; (iii) utilizacao de sistemas eletronicos de seguranca e de registro de acesso, inclusive para efeito de responsabilizacao em caso de abuso; e (iv) observancia dos principios gerais de protecao e dos direitos do titular previstos na LGPD, no que for compativel com o exercicio des-sa funcao estatal. 5. O tratamento de dados pessoais promovido por orgaos publicos ao arrepio dos para-metros legais e constitucionais importara a responsabilidade civil do Estado pelos danos suporta-dos pelos particulares, na forma dos arts. 42 e seguintes da Lei 13.709/2018, associada ao exerci-cio do direito de regresso contra os servidores e agentes politicos responsaveis pelo ato ilicito, em caso de culpa ou dolo. 6. A transgressao dolosa ao dever de publicidade estabelecido no art. 23, inciso I, da LGPD, fora das hipoteses constitucionais de sigilo, importara a responsabilizacao do agente esta-tal por ato de improbidade administrativa, nos termos do art. 11, inciso IV, da Lei 8.429/1992, sem prejuizo da aplicacao das sancoes disciplinares previstas nos estatutos dos servidores publi-cos federais, municipais e estaduais. Por fim, o Tribunal declarou, com efeito pro futuro, a inconstitucionalidade do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(i) O compartilhamento de informações pessoais em atividades de inteligência deve observar o disposto em legislação específica e os parâmetros fixados no julgamento da ADI 6.529, Rel. Min. Carmen Lucia; (ii) É necessário instaurar um procedimento administrativo formal, acompanhado de motivação prévia e exaustiva, para permitir o controle de legalidade pelo Poder Judiciário; (iii) Devem ser adotadas medidas proporcionais e estritamente necessárias ao atendimento do interesse público; (iv) É necessário utilizar sistemas eletrônicos de segurança e de registro de acesso, inclusive para efeito de responsabilização em caso de abuso; (v) Deve ser observado os princípios gerais de proteção e dos direitos do titular previstos na LGPD; (vi) O tratamento de dados pessoais promovido por órgãos públicos ao arrepio dos parâmetros legais e constitucionais importa a responsabilidade civil do Estado pelos danos suportados pelos particulares; (vii) A transgressão dolosa ao dever de publicidade estabelecido no art. 23, inciso I, da LGPD, fora das hipóteses constitucionais de sigilo, importa a responsabilização do agente estatal por ato de improbidade administrativa; (viii) O Tribunal declarou, com efeito pro futuro, a inconstitucionalidade do art.

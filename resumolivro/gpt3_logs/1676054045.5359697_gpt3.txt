@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A ao penal  pblica incondicionada e, ordinariamente, a competncia para processar e julgar o crime de constrangimento ilegal  do Juizado Especial da Justia comum estadual, salvo no caso em que h concurso de penas em razo da violncia (pargrafo 2) e a pena mxima ultrapassar dois anos de privao da liberdade, quando a competncia ser da Vara Criminal da Justia comum estadual. No entanto, a competncia ser do Juizado Especial da Justia comum federal, com a mesma ressalva aos casos em que a pena ultrapasse dois anos de privao da liberdade, quando o crime for cometido a bordo de navios ou aeronaves brasileiras, tambm ressalvada a competncia da Justia Militar (inciso IX, do artigo 109 da CF), quando o acusado ou a vitima forem funcionrios pblicos federais e o crime for cometido em razo de suas funes (inciso IV, do artigo 109 da CF e Smula 147 do STJ), ou se houver concurso com um crime da competncia da Justia Federal (Smula 122 do STJ). Considerando que a pena mnima cominada ao crime de constrangimento ilegal  inferior a 1 ano de privao da liberdade, salvo no caso em que h concurso de penas em razo da violncia (pargrafo 2) e a soma das penas mnimas cominadas ultrapassar um ano de privao da liberdade, ser possvel a suspenso condicional do processo, desde que atendidos os demais requisitos estabelecidos no artigo 89 da Lei n 9.099/95. 6.3.12. Conflito aparente de normas. Constrangimento ilegal e exerccio arbitrrio das prprias razes. O constrangimento ilegal  um crime que ofende prevalentemente a liberdade pessoal, caracterizando-se essencialmente pela interveno que obriga o sujeito passivo a comportar-se contra a sua vontade. No entanto, quando o sujeito ativo puder utilizar a via judicial (ao) para fazer a exigncia da prestao ou omisso em face do sujeito passivo e, assim, a ilegalidade do constrangimento se restringir ao meio escolhido para fazer a exigncia, o crime a reconhecer ser o de exerccio arbitrrio das prprias razes, previsto no artigo 345 do CP. Neste caso, para fins de incriminao, o ataque dirigido contra a Administrao da Justia prevalece sobre a ofensa  liberdade individual. Constrangimento ilegal e extorso. O constrangimento ilegal  um crime subsidirio, de modo que se constituir meio para a realizao de uma ofensa ao patrimnio deve ser absorvido pelo crime patrimonial, em razo da aplicao do princpio da consuno.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O constrangimento ilegal um crime que ataca a liberdade pessoal, sendo previsto no artigo 345 do CP. Quando houver ofensa ao patrimônio, o crime ser absorvido pelo crime patrimonial. A competência para processar e julgar o crime de constrangimento ilegal do Juizado Especial da Justiça comum estadual, salvo quando houver concurso de penas em razão da violência ou a pena máxima ultrapassar dois anos de privação da liberdade, quando a competência será da Vara Criminal da Justiça comum estadual.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+19 - So causas de justificao: I - motivo de fora maior ou caso fortuito, plenamente comprovado; Ademais, cedio  que o egrgio Tribunal de Justia Militar de Minas Gerais firmou o entendimento de que  irrazovel e desproporcional recusar o atestado mdico como causa de justificao, dada a presuno de veracidade dele, sendo que seus efeitos s podem ser questionados se houver ilegalidade ou irregularidade. Dessa forma, julgou procedentes os pedidos do autor, determinando a extino do feito, com resoluo do mrito, nos termos do art. 487, inciso I, do CPC. Atribuiu custas ao Estado de Minas Gerais, ficando esse isento do pagamento, consoante o disposto no inciso I do art. 10 da Lei n. 14.939/2003, e honorrios advocatcios, os quais fixou em R$ 1.000,00 (mil reais), nos termos dos 2 e 3 do art. 85 do CPC (Evento 32, SENT1 - autos de 1a Instncia). O Estado de Minas Gerais interps recurso de apelao reiterando os argumentos trazidos em sua contestao. Ao final, requereu que seja conhecido e provido o apelo para reformar-se deciso objurgada, a fim de julgarem-se improcedentes os pedidos formulados na pea de ingresso (Evento 37 - autos de 1a Instncia). Em sede de contrarrazes de apelao, a defesa do autor reiterou os termos trazidos em suas manifestaes anteriores (Evento 44 - autos de 1a instncia).  o relatrio. VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Recebo o recurso, porque presentes os pressupostos que regem a sua admissibilidade. Da detida anlise do presente feito, entendo que razo assiste ao apelante, uma vez que a punio imposta ao Cb PM Jorge Henrique Pereira foi precedida de regular Processo de Comunicao Disciplinar (PCD), tendo sido observadas todas as formalidades legais no referido procedimento, no constituindo causa de justificao o relatrio mdico exibido pelo comunicado. Conforme relatado, o apelado foi submetido a PCD de Portaria n.118.395/2017 - 37BPM, por ter, supostamente, cometido a transgresso disciplinar prevista no inciso XX do art. 13 do Cdigo de tica e Disciplina dos Militares do Estado de Minas Gerais (CEDM). Constou no Termo de Abertura de Vistas para a apresentao da defesa prvia do comunicado os seguintes termos: [...] considerando que o militar supracitado cometeu, em tese, atos que configuram transgresso (s) disciplinar (s) especificada (s) no (s) inciso (s) XX do art. 13 transgredindo o ncleo, Faltar ao servio, do Cdigo de tica e Disciplina dos Militares de Minas Gerais c/c art. 58, 1 da Resoluo 4.210/2012 que regula a DEPM Art. 58. O TPB ser aplicado bienalmente e dele devem participar todos os oficiais e praas da Corporao, com menos de 29 anos de efetivo servio, independentemente das atividades que exeram, na forma do Anexo c.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar de Minas Gerais julgou procedente o pedido do autor, determinando a extino do feito com resoluo do mérito. O Estado de Minas Gerais interpôs recurso de apelação, requerendo a reforma da decisão objurgada. O Relator recebeu o recurso e entendeu que razão assistia ao apelante, pois a punição imposta ao comunicado foi precedida de regular Processo de Comunicação Disciplinar, observando-se todas as formalidades legais.

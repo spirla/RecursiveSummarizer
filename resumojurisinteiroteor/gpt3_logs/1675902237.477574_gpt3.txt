@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Segundo o Estado de Minas Gerais, a matria sub judice est na seara da autonomia gerencial da Corporao, no podendo o Poder Judicirio imiscuir-se nela, sob pena de apequenar a capacidade de governo e a direo da PMMG. Disse que o rumo eleito pelo juzo a quo na soluo do litgio coloca a Corporao em uma encruzilhada, pois, se  desarrazoado punir o militar que no homologa em tempo e modo o atestado, no menos ser conduzir a Administrao Militar  inobservncia da regulamentao atinente ao caso - Resoluo Conjunta de Sade n. 4278, de 10/10/2013. Por conseguinte, alegou que o autor no conseguiu comprovar o que lhe impediu de entregar o atestado mdico em tempo e modo. Disse que o tipo descrito no art. 13, XX, do CEDM no pode ser interpretado de forma isolada, ou seja, a falta do militar deve ser afastada se comprovada alguma excludente de ilicitude ou algum fato obstativo/impeditivo da homologao do atestado, o que no ocorreu no caso dos autos. Afirmou que o atestado mdico fornecido pela rede privada e no credenciada no pode ser causa de atipicidade, tampouco de justificao. Salientou que a administrao agiu em conformidade com a norma, no podendo o judicirio realizar o seu controle para alm da legalidade. Disse que o procedimento instaurado pela administrao foi aplicado em conformidade com as determinaes legais pertinentes a matria, notadamente no que diz respeito aos princpios do contraditrio e da ampla defesa. Com esses argumentos, requereu que no sejam acolhidos os pedidos autorais. Na fase de especificao de provas, o Estado de Minas Gerais manifestou no possuir mais provas a produzir (Evento 22). J a defesa reiterou os argumentos outrora apresentados, inclusive, no que se refere  escala de servio (Evento 23). O Estado de Minas Gerais manifestou-se pela imprestabilidade da prova apresentada pela defesa e reiterou o argumento de que a conduta punida decorreu da inobservncia do prazo para apresentao do atestado mdico para homologao (artigo 32, 1 e 2, da Resoluo Conjunta n. 4278/13, conduta esta que consolidou a falta ao servio (Evento 28). O meritssimo juiz de direito da 5a AJME-Cvel decidiu o feito conforme se depreende, in verbis: [...] No caso dos autos, os motivos que levaram  aplicao da penalidade subsistiram pela ausncia de homologao do atestado mdico, que indicou ao autor repouso por 01(um) dia (evento 1- DOC5, pgina 33), exatamente no dia dos fatos. Ora, apesar de no homologado, o atestado mdico que recomendava afastamento do trabalho foi devidamente apresentado, fato que no gerou repulsa por parte da administrao. Diante de tal situao, vislumbro haver a Administrao Militar ultrapassado os limites da discricionariedade, emitindo deciso contrria  prova dos autos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais alegou que a matria sub judice est na seara da autonomia gerencial da Corporao, no podendo o Poder Judicirio imiscuir-se nela. O juiz decidiu que a Administrao Militar ultrapassou os limites da discricionariedade, emitindo deciso contrria prova dos autos.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A ordem de votacao estabelecida no presente artigo visa evitar que o voto do Presidente, que e o mais antigo ou superior hierarquico em relacao aos demais membros, influencie na votacao. O vencido, ou seja, aquele cujo voto for contrario aos outros dois membros, deve justificar sinteticamente a sua discordncia. `
+Nesse sentido, constitui causa de nulidade o fato do CEDMU ja levar para a reuniao a ata pronta, com os votos previamente definidos. Nao estamos dizendo aqui que o voto deve ser formulado apenas no momento da reuniao, ou seja, podem os membros do CEDMU levar os respectivos votos e argumentos ja redigidos, o que nao prev o CEDM e a comunhao previa desses votos. Bem como podera o escrivao levar consigo parte da ata ja previamente adiantada, no que tange aos dados relativos ao militar acusado e ao processo. O prazo (improprio) para que o CEDMU emita seu parecer foi definido no artigo 42 do Decreto 42.843/02, nesses termos: paragrafo 1 - O CEDMU tera prazo de 5(cinco) dias uteis para analisar e emitir parecer em comunicacoes disciplinares, propostas de recompensas e recursos disciplinares e de 10 (dez) dias uteis para procedimentos administrativos regulares, contados a partir do recebimento da documentacao oriunda da Secretaria, nao se contando o dia do recebimento. Artigo 82 - Apos a conclusao e o encaminhamento dos autos de procedimento administrativo a autoridade delegante, e havendo em tese pratica de transgressao disciplinar, serao remetidos os documentos alusivos ao fato para o CEDMU. Antes da remessa dos autos do processo disciplinar ao CEDMU, incumbe a Autoridade que instaurou o processo disciplinar proceder a uma analise previa e sanear eventuais vicios existentes ou determinar as diligncias complementares que vislumbrar necessarias a cabal elucidacao dos fatos. Tal postura visa conferir celeridade e economia processual, na medida em que o CEDMU recebera os autos em condicoes de emissao de parecer acerca do seu merito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O presente artigo estabelece uma ordem de votação para evitar que o voto do Presidente influencie a votação. O vencido deve justificar sinteticamente a discordância. É causa de nulidade o fato do CEDMU levar para a reunião a ata pronta com os votos previamente definidos. O prazo para o CEDMU emitir seu parecer é de 5 dias úteis para comunicações disciplinares e 10 dias úteis para procedimentos administrativos regulares. Antes de enviar os autos do processo disciplinar ao CEDMU, a Autoridade que instaurou o processo deve analisar e sanear eventuais vicios existentes.

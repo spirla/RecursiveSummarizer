@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Mais de uma oportunidade para registrar o novo patrocinio. DESTAQUE E incabivel a alegacao de nulidade por ausencia de intimacao na hipotese em que novo causidico, ainda que sem juntada de mandato, omitiu-se em registrar seu efetivo patrocinio em ata de audiencia e, sucessivamente, em novo prazo para alegacoes finais. O art. 266 do CPP dispoe que a constituicao de defensor independera de instrumento de mandato, se o acusado o indicar por ocasiao do interrogatorio . Isto e, e valida a constituicao de defensor apud acta, independentemente da juntada de mandato, desde que haja o efetivo registro na ata de audiencia. Outrossim, o STJ possui entendimento de que a outorga de poderes a um novo patrono, sem reserva quanto aos do antigo advogado, revoga tacitamente o mandato anterior (HC 441.103/PI, rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/02/2019). Contudo, no caso, o Tribunal de origem afastou a alegacao de nulidade em razao do reu ser patrocinado, efetiva e formalmente, por outro defensor - quando do interrogatorio de uma das res - e o presente advogado, a quem se alega terem sido outorgados poderes com exclusividade, nao demandou registro expresso da alegada nulidade em ata, conforme disposto no art. 266 do CPP. Ademais, aberto novo prazo para a apresentacao de alegacoes finais para o novo causidico, este optou por deixar transcorrer o prazo sem apresentar a peca, preferindo a interposicao de agravo regimental para tentar obstar o prosseguimento do feito. Logo, nao ha de se falar em nulidade, porquanto a Corte de origem atuou dentro da realidade fatico-processual do momento, realizando a intimacao dos efetivos defensores com poderes para tanto, e a atual defesa escolheu estrategia diversa que, a posteriori, nao pode ser considerada prejudicada em razao de nao ter alcancado os efeitos pretendidos. (Informativo n. 749) 1254 PROCESSO HC 742.815-GO, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É cabível a alegação de nulidade por ausência de intimação na hipótese em que o novo causídico, ainda que sem juntada de mandato, omitiu-se em registrar seu efetivo patrocínio em ata de audiência e, sucessivamente, em novo prazo para alegações finais. 2. O art. 266 do CPP dispõe que a constituição de defensor independe de instrumento de mandato, se o acusado o indicar por ocasião do interrogatório. 3. É válida a constituição de defensor apud acta, independentemente da juntada de mandato, desde que haja o efetivo registro na ata de audiência. 4. O STJ possui entendimento de que a outorga de poderes a um novo patrono, sem reserva quanto aos do antigo advogado, revoga tacitamente o mandato anterior. 5. Não há de se falar em nulidade, pois a Corte de origem atuou dentro da realidade fático-processual do momento, realizando a intimação dos efetivos defensores com poderes para tanto, e a atual defesa escolheu estratégia diversa que, a posteriori, não pode ser considerada prejudicada em razão de não ter alcançado os efeitos pretendidos.

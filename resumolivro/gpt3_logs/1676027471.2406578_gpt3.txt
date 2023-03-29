@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O ordenamento jurdico deixa de ser apenas um conjunto sistemtico de normas para reunir os valores e princpios que orientam a identificao das respostas juridicamente justas aos problemas sociais. A tradicional separao entre o Direito e a moral se desfaz, de modo que a Justia passa a desempenhar um importante papel na determinao do que  o Direito. A deciso judicial, nesse contexto, deve superar a considerao dos aspectos estticos de um conhecimento sistematizado para ponderar sobre os argumentos que a justifiquem e lhe confiram validade. Dessa forma, o neoconstitucionalismo reelabora as teorias da norma, da interpretao e das fontes do Direito para integr-las em uma perspectiva democrtica. Com essa nova perspectiva exige-se que os juzes deixem de ser apenas a boca inanimada que pronuncia as palavras da lei, sem qualquer poder para moderar a sua fora ou rigor, como concebeu Montesquieu,102 e passem a dizer para o caso concreto o Direito que se encontra consagrado no texto constitucional. A partir desse referencial o juiz deve exercer o controle de validade da norma infraconstitucional, em razo de seu contedo material ou substancial, para realizar a sua justa aplicao. A jurisprudncia e, em especial a jurisprudncia constitucional,  alada a condio de verdadeira fonte de conhecimento do Direito. A constitucionalizao do Direito se opera gradativamente nos diversos pases, de modo que  possvel verificar sua maior ou menor ocorrncia em uma determinada constituio. Riccardo Guastini identificou a necessidade de satisfazer sete condies para que o processo de constitucionalizao do Direito se opere. Tais condies so:
+(1) Constituio rgida. A Constituio deve ser escrita e protegida contra as interferncias do legislador ordinrio, sendo necessrio um processo mais complexo para promover a sua modificao. A rigidez da Constituio ainda exige que ela esteja hierarquicamente acima da legislao infraconstitucional, no podendo ser derrogada, modificada ou abrogada pela lei. (2) Garantia jurisdicional da Constituio. A rigidez da Constituio deve ser garantida por controle jurisdicional de conformidade da legislao infraconstitucional. (3) Fora vinculante da Constituio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O ordenamento jurdico passa a considerar os valores e princípios que orientam a identificação das respostas juridicamente justas aos problemas sociais. A decisão judicial deve levar em consideração os argumentos que a justifiquem e lhe confiram validade. O neoconstitucionalismo reinterpreta as teorias da norma, da interpretação e das fontes do Direito com uma perspectiva democrática. Para o processo de constitucionalização do Direito, são necessárias sete condições, sendo elas: Constituição rígida, garantia jurisdicional da Constituição, força vinculante da Constituição, entre outras.

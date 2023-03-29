@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Maria Guerra, bairro Jardim Amrica, nesta cidade e comarca, abusou da autoridade decorrente da sua condio de policial militar da ativa, durante o cumprimento de medida privativa da liberdade individual, bem como atentou contra a integridade fsica do conduzido Fabiano Azevedo Batista, causando leses corporais de natureza leve. 2. Segundo se apurou, na oportunidade, a vtima ligou para o nmero 190, por diversas vezes, solicitando e reiterando que os policiais militares comparecessem no estabelecimento comercial denominado Kick Burger, localizado na Av. Rio Branco, esquina com Rua Palmital, em razo de excessivo barulho produzido naquele estabelecimento, sendo que, durante as conversas, insatisfeito com a demora, desentendeu-se com as policiais militares atendentes Paula Cristina Caetano Marques e Gisella Lorene Pinto Rodrigues e fez xingamentos, crticas e reclamaes quanto ao atendimento. 3. Logo depois, policiais militares, acionados pelas referidas atendentes, compareceram no referido local, ao que foram chamados pela vtima, que ainda se encontrava nas proximidades, a qual insistia no atendimento de sua demanda. No obstante, os policiais militares, cientes do desentendimento havido com as milicianas Paula Cristina Caetano Marques e Gisella Lorene Pinto Rodrigues e da verso destas, no sentido de que teriam sido desacatas e perturbadas em seu local de trabalho, deram voz de priso a Fabiano Azevedo Batista, ao que este reagiu e foi contido pelos policiais, que o algemaram e o conduziram para o planto da Delegacia de Polcia Civil. 4. Estando na Delegacia de Polcia, Fabiano Azevedo Batista passou a reclamar com os policiais militares que estavam no local, em razo de a algema estar apertando os seus punhos e causando leses, ao que o denunciado, irritado, sojigou a vtima, bateu com a sua cabea contra a parede e lhe desferiu um tapa no rosto. 5. Em seguida, aps sua solicitao, a vtima foi encaminhada para ao Pronto Atendimento local, onde foi atendida, e posteriormente submetida a exame de corpo de delito, constatando-se as leses descritas no ACD de fls. 52/54. 6. Desta forma, Antnio Marcos de Azevedo, livre e conscientemente, incorreu no delito tipificado no art. 3, i, da Lei 4.898/65 [...] (Evento 1 - DENUNCIAI). Por ocasio do oferecimento da denncia, o representante do Ministrio Pblico requereu a remessa do feito  Justia Militar em virtude do advento da Lei n.13.491/2017 (Evento 1 - PROMOO7 - pg. 02, Autos n. 2001306-79.2019.9.13.0002). A meritssima juza de direito do 1 Juizado Especial Criminal da Comarca de Bom Despacho/MG acolheu o parecer ministerial e determinou a remessa dos autos a esta Justia castrense (Evento 1 - DECL_COMPE8, Autos n. 2001306-79.2019.9.13.0002). Os autos foram encaminhados a essa Justia Militar (Evento 1 - OUT3 - pg.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Maria Guerra abusou da autoridade decorrente da sua condição de policial militar da ativa, causando lesões corporais de natureza leve em Fabiano Azevedo Batista. O Ministério Público requereu a remessa do feito à Justiça Militar, que foi acolhida pela Juíza de Direito do 1º Juizado Especial Criminal da Comarca de Bom Despacho/MG.

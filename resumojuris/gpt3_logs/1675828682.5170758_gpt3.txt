@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Herman Benjamin, Segunda Turma, por unanimidade, julgado em 6/12/2022, DJe 19/12/2022. Ramo do Direito DIREITO ADMINISTRATIVO Tema Imovel publico. Ocupacao por particular. Ausencia de previa formalizacao de ato ou negocio juridico administrativo. Taxa de ocupacao. Cobranca. Cabimento. DESTAQUE E cabivel a cobranca de taxa de ocupacao de imovel publico, ainda que nao haja previa formalizacao de ato ou negocio juridico administrativo. Com relacao a taxa de ocupacao, o art. 24 da Lei n. 4.545/1964 prescreve, tao somente, que a ocupacao de imovel publico por particular tem carater precario e submete-se a conveniencia e a oportunidade da Administracao Publica. Nada mais. Do dispositivo nao se extrai o entendimento de que a taxa de ocupacao so e devida caso exista previa autorizacao formal do Governador do Distrito Federal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É cabível a cobrança de taxa de ocupação de imóvel público, mesmo que não haja prévia formalização de ato ou negócio jurídico administrativo. 2. O art. 24 da Lei n. 4.545/1964 prescreve que a ocupação de imóvel público por particular tem caráter precário e se submete à conveniência e à oportunidade da Administração Pública. 3. Não se extrai do dispositivo que a taxa de ocupação só seja devida caso exista prévia autorização formal do Governador do Distrito Federal.

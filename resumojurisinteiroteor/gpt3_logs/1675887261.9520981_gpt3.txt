@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ELIAS: oi THALES: eu t fora do negcio i por enquanto, mas semana que vem eu j t de volta e vou passar a pra gente ver aquele negcio das camisa. ELIAS: t legal ento. THALES: desse ms a, do time. ELIAS: ham. ham. THALES: qualquer coisa voc me informa a. ELIAS: t. Ento beleza. THALES: t beleza, parceiro. ELIAS:  THALES, beleza ento. Que dia voc vai passar aqui? THALES: semana que vem, que eu no vou voltar... vou voltar, s segunda que eu devo voltar. ELIAS: ah, certo. Ento beleza ento, THALES. THALES: a semana que vem eu te ligo pra gente ver o negcio das camisa, mas olha l com aquele menino do coisa... eu ia te ligar no dia, s que deu esses problema, na rea central l. Voc no viu, no? (...) ELIAS: falou? E pode deixar que eu vou ajeitar os negcio direitinho aqui. THALES: olha com ele a, porque ele foi l de novo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Elias e Thales discutem sobre um negócio relacionado às camisas de um time. Thales informa que voltará na semana seguinte e Elias se compromete a ajeitar os negócios. Thales pede para que Elias fique atento com um menino relacionado ao negócio.

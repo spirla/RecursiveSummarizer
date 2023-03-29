@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em 28/4/2022, a Juza de Direito Titular da 3a Auditoria recebeu a denncia por atender aos requisitos formais e legais necessrios ao seu recebimento, com narrativa, em tese, constitutiva de injusto culpvel, atendo-se s formalidades descritas pela normativa processual - tipicidade objetiva, punibilidade concreta, justa causa e legitimidade ad causam. Foi determinada a citao do denunciado e designada a audincia para inquirio das testemunhas arroladas na denncia para a data de 29/6/2022. Em parecer, a douta procuradora de justia oficiante nesta Corte castrense, Dra. Elba Rondino, manifestou-se nos seguintes termos, verbis, Evento 14: [.] Pois bem, a questo se revela singela, tendo em vista que o impetrante pretende o trancamento da ao penal militar simplesmente porque, segundo a sua prpria percepo, inexiste justa causa para a deflagrao da ao, j que o documento fornecido pela Unidade de Sade de Piquete-SP comprovaria que o paciente foi internado no dia 25/05/2021 s 23:17 horas e teve alta em 26/05/2021 (evento 1 - INIC1 - fls. 05), bem como porque a conduta descrita na denncia seria atpica, uma vez que o documento tido como adulterado ou falsificado no acarretou nenhum dano a terceiro, ao Estado ou  jurisdio (evento 1 - INIC1 - fls. 08). Desta forma, no se verifica qualquer ato da autoridade apontada como coatora que possa configurar ameaa  liberdade de locomoo do paciente, nos termos do que dispe o artigo 467 do CPPM, o que, por si s, inviabiliza o conhecimento da medida processual ora adotada. Ainda que assim no fosse, conforme se extrai da deciso que recebeu a denncia no dia 28/04/2022, a pea exordial encontra-se perfeita de modo a atender aos requisitos formais e legais necessrios ao seu recebimento, com narrativa, em tese, constitutiva de injusto culpvel... tipicidade objetiva, punibilidade concreta, justa causa e legitimidade ad causam (evento 1 - RECE_DENUN2 dos autos n. 2000262-17-2022.9.13.0003), razo pela qual fica evidente que o impetrante se utilizou inadequadamente da via do habeas corpus para tentar provar a inocncia do paciente com base nas provas supostamente obtidas a seu favor (evento 1 - INIC1 - fls. 05), as quais, at o presente momento, sequer foram levadas ao conhecimento do juzo oficiante nos autos originrios, fazendo-se necessrio, no entanto, dar continuidade  instruo criminal, a fim de que, somente ao final, seja possvel decidir sobre a procedncia ou no da ao penal militar. Pelo exposto, mostrando-se evidente que o habeas corpus no se presta  finalidade pretendida pelo impetrante, esta Procuradoria de Justia opina pelo seu no conhecimento.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Juza de Direito Titular da 3a Auditoria recebeu a denncia por atender aos requisitos formais e legais necessrios ao seu recebimento, determinou a citao do denunciado e designou a audincia para inquirio das testemunhas arroladas na denncia. A Procuradoria de Justia manifestou-se pelo no conhecimento do habeas corpus, pois o mesmo no se presta finalidade pretendida pelo impetrante e a instruo criminal deve ser dada continuidade para decidir sobre a procedncia ou no da ao penal militar.

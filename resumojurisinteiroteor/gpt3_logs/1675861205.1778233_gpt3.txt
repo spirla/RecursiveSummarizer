@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O comandante do 61 Batalho da Polcia Militar de Minas Gerais solucionou o feito, acolheu o parecer exarado pelo CEDMU e determinou o enquadramento e a punio do autor na transgresso ora especificada (Evento 1 - DOC4, pgs. 76/77). O ato de sano publicado no BIR n. 36 de 21/06/2018 demonstra que foi imposta ao autor a sano disciplinar de 08 (oito) horas de prestao de servio e o decrscimo de 20 (vinte) pontos de seu conceito funcional (Evento 1, DOC4, pgs. 78/79). O comandante da 3a Regio da Polcia Militar de Minas Gerais conheceu parcialmente o recurso interposto pelo comunicado, anulou o ato de sano e determinou o retorno dos autos ao encarregado, para a realizao de diligncias complementares, que foram devidamente cumpridas (BIR N. 108 de 30/08/2018, Evento 1 - DOC4, pgs. 91/96, pgs. 97/100 e DOC5, pgs. 1/13). O encarregado apresentou, ento, relatrio complementar, concluindo pelo enquadramento do autor na transgresso prevista no artigo 13, inciso XX, do CEDM (Evento 1 - DOC5, pgs. 14/30). No mesmo sentido, opinou o CEDMU (Evento 1 - DOC5, pgs. 34/36). O Comandante do 61 Batalho da Polcia Militar de Minas Gerais solucionou o feito, acolheu o parecer exarado pelo CEDMU e determinou o enquadramento e a punio disciplinar do autor pela falta ao TPB (BIR n. 15 de 28/03/19, Evento 1 - DOC5, pgs. 38/40). Foi imposta ao autor a sano disciplinar de 08 (oito) horas de prestao de servio e o decrscimo de 20 (vinte) pontos de seu conceito funcional (Evento 1, DOC5, pg. 41). O comandante da 3a Regio da Polcia Militar de Minas Gerais conheceu do recurso interposto pelo comunicado, anulou o ato de sano e determinou o retorno dos autos ao 61 BPM, para a realizao de nova reunio do CEDMU (BIR N. 40 de 29/04/19, Evento 1 - DOC5, pgs. 52/54). Em novo parecer, o CEDMU opinou pelo enquadramento do autor na transgresso disciplinar prevista no artigo 13, inciso XX, do CEDM (Evento 1 - DOC5, pgs. 63/65).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Comandante do 61 Batalho da Polcia Militar de Minas Gerais acolheu os pareceres exarados pelo CEDMU, determinou o enquadramento e a punio do autor na transgresso prevista no artigo 13, inciso XX, do CEDM, impondo-lhe a sano disciplinar de 08 (oito) horas de prestao de servio e o decrscimo de 20 (vinte) pontos de seu conceito funcional.

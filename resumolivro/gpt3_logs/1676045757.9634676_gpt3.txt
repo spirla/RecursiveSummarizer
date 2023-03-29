@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+John Searle percebeu a questo ao descrever a seguinte hiptese:
+(...) quando levo a cabo minha inteno de dirigir at o escritrio, haver um grande nmero de atos subsidirios no representados pela inteno prvia, mas apresentados pelas intenes em ao: intencionalmente, dou a partida, engato marchas, ultrapasso veculos mais lentos, paro nos semforos, desvio de ciclistas, mudo de pista, e assim por diante, com dezenas de atos subsidirios executados intencionalmente, mas que no necessariamente foram representados por minha inteno prvia. No exemplo, a finalidade anterior direcionava a conduo de dirigir o veculo at o local em que se situa o escritrio. Tal finalidade no  direcionada  leso ou ao perigo de leso a bens jurdicos, mas, no percurso ao escritrio, vrias condutas foram praticadas intencionalmente e podem, isoladamente, justificar a reprovao penal. Ao contrrio dos crimes dolosos, a finalidade que se expressa na conduta culposa no se dirige  violao do bem jurdico, mas  desateno aos deveres objetivos de cuidado que socialmente foram estabelecidos para a proteo ao bem jurdico. Tambm para a realizao de um juzo de reprovao social sobre crimes culposos, Welzel104 forneceu exemplos adequados. Afirma o professor que um crime culposo de trnsito dever ser mais severamente apenado quando o trfego for mais intenso. Nessa hiptese, verifica-se que a exigibilidade social de ateno ao dever objetivo de cuidado ser maior do que quando ocorrer a circunstncia de trnsito menos intenso. O fundamento dessa maior exigibilidade  que, no momento da violao ao dever objetivo de cuidado, a finalidade da conduta, mais do que relacionar meios a fins, considerando todas as circunstncias peculiares do caso concreto, inobservou os deveres objetivos de cuidado socialmente exigveis. Nos termos de uma racionalidade comunicativa, a reprovao jurdico-penal deve considerar as expectativas sociais dirigidas ao condutor do veculo no ambiente de sua situao concreta. Diante de maior risco ao bem jurdico, maior ser a exigncia social (discursiva) de cuidado. Exemplificando com situao da ambincia verificada no trnsito de veculos: a finalidade que direciona a conduta no sentido de fazer avanar um automvel na contramo direcional  objeto do exame de tipicidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+John Searle descreveu uma hiptese sobre a realização de atos intencionais para atingir uma finalidade, como dirigir até o escritório. Estes atos podem ser passíveis de reprovacão penal, mesmo que não sejam direcionados à violação de um bem jurídico. O professor Welzel forneceu exemplos que mostram que a exigibilidade social de cuidado aumenta quando o trânsito é mais intenso. A reprovacão jurdico-penal deve considerar as expectativas sociais e a racionalidade comunicativa para determinar a exigência de cuidado.

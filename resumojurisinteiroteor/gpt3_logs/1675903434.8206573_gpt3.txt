@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+88, II, "a, do CPM. Ante o exposto, nos termos dos fundamentos deste voto, dou parcial provimento ao recurso de apelao, mantendo a condenao do militar pela prtica dos crimes previstos no art. 299 (desacato a militar) e no art. 177 (resistncia mediante ameaa ou violncia), ambos do CPM, mas reformando a sentena quanto s penas-base fixadas e, por conseguinte, quanto  pena unificada estabelecida, que ora fixo em 1 (um) ano e 3 (trs) meses de deteno, vedado o sursis penal. E na esteira do brilhante voto do eminente Desembargador Fernando Galvo da Rocha, faz-se mister reconhecer a prescrio da pretenso punitiva estatal, nos termos do art. 125, VII, e  3, do Cdigo Penal Militar, consideradas as penas para cada crime de forma isolada.  como voto. DESEMBARGADOR FERNANDO GALVO DA ROCHA, REVISOR Srs. desembargadores. Na oportunidade, acompanho as razes e o voto proferido pelo eminente relator no que diz respeito  necessidade de readequao das penas impostas. No que diz respeito ao crime de desacato a militar, a pena-base foi exasperada pelo relator em 1/2 (metade), o que me parece muito, tendo em vista o reconhecimento de apenas uma circunstncia judicial desfavorvel. De qualquer forma, nos termos da dosimetria fixada no voto proferido pelo eminente relator, deve-se reconhecer a prescrio da pretenso punitiva. Por isso, no se torna necessrio nova readequao. Ocorre que, nos termos do art. 125,  3, do Cdigo Penal Militar, no caso de concurso de crimes ou de crime continuado, a prescrio  referida no  pena unificada, mas  de cada crime considerado isoladamente. O eminente relator manteve a condenao pela prtica dos crimes do art. 299 (desacato a militar) e do art. 177 (resistncia mediante ameaa ou violncia), estabelecendo a pena definitiva em 09 (nove) meses de deteno para o crime de desacato a militar e a pena de 06 (seis) meses de deteno para o crime de resistncia. Cada uma das penas, consideradas isoladamente, foi fixada em patamar inferior a 01 (um) ano de privao de liberdade.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelação foi parcialmente provido, mantendo-se a condenação do militar pelos crimes previstos nos artigos 299 (desacato a militar) e 177 (resistência mediante ameaça ou violência) do Código Penal Militar, mas reformando-se a sentença quanto às penas-base fixadas e, consequentemente, quanto à pena unificada, que foi fixada em 1 (um) ano e 3 (três) meses de detenção, vedado o sursis penal. Além disso, foi reconhecida a prescrição da pretenção punitiva estatal, consideradas as penas para cada crime de forma isolada.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Conforme ja decidiu o STJ: (...) a Lei n. 9.296/96, que disciplina a interceptacao de comunicacoes telefnicas, nada dispoe sobre a necessidade de realizacao de pericia para a identificacao das vozes gravadas. Assim, cabe ao acusado demonstrar que aquela conversacao gravada em seu aparelho telefnico partiu de pessoa diversa, ja que a lei de regncia dispensa pericia de comparacao de voz, havendo, nesse caso, uma presuncao iuris tantum de que as conversas originadas e recebidas no aparelho telefnico do acusado tm ele como interlocutor. Ainda nesse sentido:
+APELACAO CIVEL - MANDADO DE SEGURANCA - SUBMISSAO A PAD - LESAO A DIREITO LIQUIDO E CERTO NAO DEMONSTRADA - CONTRA INDICACAO DE SUBMISSAO DO IMPETRANTE A PERICIA PSICOPATOLOGICA (ART. 17, paragrafos paragrafo 1, 2 E 3, DA RESOLUCAO CONJUNTA N. 4.278/2013) - DESNECESSIDADE DE REALIZACAO DE PERICIA TECNICA NOS AUDIOS DE INTERCEPTACAO TELEFNICA FEITA PELO MINISTERIO PUBLICO, TENDO EM VISTA QUE FORAM FEITAS COM AUTORIZACAO JUDICIAL, SENDO LEGAIS, AUTNTICAS E VERDADEIRAS AS PROVAS PRODUZIDAS PELO GAECO - MEMORIA N. 099.2.2/17 FOI DESCONSIDERADA PELA CPAD, POR ABSOLUTA AUSNCIA DE LASTRO, SENDO UM DOCUMENTO APOCRIFO - MANUTENCAO DA SENTENCA A QUO - RECURSO A QUE SE NEGA PROVIMENTO. - A lesao ao direito liquido e certo do apelante nao ficou demonstrada, de modo a proporcionar a autoridade judicial sua apreciacao e decisao segura amparada dentro dos limites da lei. - O indeferimento da realizacao de pericia psicopatologica do apelante se deu em decorrncia DE ELE nao se enquadrar em nenhuma das situacoes previstas no artigo 17 da Resolucao Conjunta n. 4.278/2013. 2 - Nao ha sentido que se faca diligncia ou que se proceda a realizacao de uma pericia em audios de interceptacao telefnica, em sede de mandado de seguranca, se considerarmos que o mandamus nao admite a dilacao probatoria em relacao a outro processo. - A CPAD desconsiderou a Memoria n. 099.2.2/17 como prova, por absoluta falta de lastro.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ decidiu que a Lei n. 9.296/96 não exige perícia para identificar vozes gravadas em comunicações telefônicas. A CPAD desconsiderou a Memória n. 099.2.2/17 por falta de lastro e não há necessidade de realizar perícia em audios de interceptação telefônica em mandado de segurança.

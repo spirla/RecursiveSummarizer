@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A CF/88 (CF), ao estabelecer inequivoca reserva de lei ao exercicio dos cultos religiosos, permite a restricao ao direito a liberdade religiosa em sua dimensao externa , que compreende a liberdade de crenca, a liberdade de aderir a alguma religiao e a liberdade de exercicio do culto respectivo. A lei deve proteger os templos e nao deve interferir nas liturgias, a nao ser que assim o imponha algum valor constitucional concorrente de maior peso. Sob o prisma da constitucionalidade formal, a imposicao de restricoes a realizacao de cultos religiosos por meio de decretos municipais e estaduais esta em conformidade com decisoes recentes do STF sobre a tematica, dentre as quais destaca-se a ADI 6341, na qual assentou-se que todos os entes federados possuem competencia para legislar e adotar medidas sanitarias voltadas ao enfrentamento da emergencia de saude publica. Nesse sentido, o STF reafirmou o dever que todos os entes politicos tem na promocao da saude publica e, coerente ao federalismo cooperativo adotado na CF, assentou a competencia dos estados e dos municipios, ao lado da Uniao, na adocao de medidas sanitarias direcionadas ao enfrentamento da pandemia. Sob o aspecto material, a medida sanitaria em analise mostra-se adequada, necessaria e proporcional, bem como em consonancia com as diretrizes cientificas propostas pela Organizacao Mundial da Saude. Ademais, e possivel afirmar que ha um razoavel consenso na comunidade cientifica no sentido de que os riscos de contaminacao decorrentes de atividades religiosas coletivas sao superiores aos riscos de outras atividades economicas, mesmo aquelas realizadas em ambientes fechados. Essa nocao geral  sobre o elevado risco de contaminacao das atividades religiosas coletivas presenciais  foi complementada por um exame de fatos e prognoses subjacente a edicao do decreto estadual impugnado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A CF/88 estabelece reserva de lei ao exercício dos cultos religiosos, permitindo a restrição ao direito à liberdade religiosa em sua dimensão externa. 2. A lei deve proteger os templos e não deve interferir nas liturgias, a não ser que assim o imponha algum valor constitucional concorrente de maior peso. 3. O STF reafirmou o dever que todos os entes políticos têm na promoção da saúde pública e, coerente ao federalismo cooperativo adotado na CF, assentou a competência dos estados e dos municípios, ao lado da União, na adoção de medidas sanitárias direcionadas ao enfrentamento da pandemia. 4. A medida sanitária em análise mostra-se adequada, necessária e proporcional, bem como em consonância com as diretrizes científicas propostas pela Organização Mundial da Saúde. 5. Há um razoável consenso na comunidade científica no sentido de que os riscos de contaminação decorrentes de atividades religiosas coletivas são superiores aos riscos de outras atividades econômicas, mesmo aquelas realizadas em ambientes fechados.

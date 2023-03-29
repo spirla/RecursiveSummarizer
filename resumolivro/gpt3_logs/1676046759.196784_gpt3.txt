@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+(matar). (morre). Havendo divergncia do elemento subjetivo, descaracteriza-se o concurso de pessoas e no se pode responsabilizar os concorrentes pelo mesmo crime. Cada participante responde por crime distinto, conforme o elemento subjetivo que orientou sua conduta: A por crime de leso corporal e B por crime de homicdio. Na cooperao dolosamente distinta  possvel aumentar a pena imposta a um dos participantes, em razo da previsibilidade da ocorrncia do resultado lesivo mais grave. Segundo o artigo 29, pargrafo 2, do CP, e considerando que o resultado tenha sido previsvel para o mandante, A responde por leso corporal com pena aumentada at a metade, e B, por homicdio consumado. Exemplo . O mandante A contrata o executor B para lesionar a vtima C. Muito embora o executor pretenda apenas causar leses corporais na vtima, esta, em consequncia das agresses, vem a morrer. O exemplo configura um resultado produzido por culpa, conforme a seguinte representao:
+Resultado Culposo. A. . B. . C.
+mandante. executor. vtima. (lesionar). (lesionar). (morre). Se o executor produz a morte por culpa, como o mandante e o executor no pretendiam a sua morte, havendo convergncia do elemento subjetivo, em ateno  teoria monista, A e B devem responder por leso corporal seguida de morte.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Ao haver divergência no elemento subjetivo, descaracteriza-se o concurso de pessoas e cada participante responde por crime distinto. Se o resultado for previsível para o mandante, este responderá por lesão corporal com pena aumentada até a metade, enquanto o executor responderá por homicídio consumado. Se o executor produzir a morte por culpa, como não havia a intenção de morte, A e B devem responder por lesão corporal seguida de morte.

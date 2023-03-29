@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Este sistema extrai as principais caractersticas acsticas da voz, apresentando-as de forma comparada. O perito avalia as convergncias e divergncias de cada voz. Os exames acsticos podem considerar frases, palavras, unidades silbicas ou segmentos isolados, acautelando-se de que as amostras cotejadas estejam inseridas, preferencialmente, em contextos lingusticos anlogos. Tomo a liberdade de transcrever, o que de mais relevante consta, dos laudos que o Instituto de Criminalstica de So Paulo emite. O Instituto define a percia de comparao de locutores como percia de base lingustica (lingustica  a cincia que estuda a linguagem), que busca determinar a autoria de falas armazenadas em mdia. So realizados cotejos entre as falas tomadas como padro do locutor suspeito e as falas a ele inicialmente atribudas nos denominados udios questionados. Na comparao de locutores  utilizada a conjuno de duas anlises:
+a perceptivo-auditiva e a acstico-instrumental. Pela primeira so avaliados aspectos de caracterizao geral do indivduo, parmetros vocais especficos e o comportamento lingustico manifestado. Pela segunda, verifica-se quantitativa e qualitativamente o material cotejado (trechos de confronto). O acusado no  obrigado a fornecer material para realizao da percia (artigo 5, LXIII, CF, e artigo 296, pargrafo 2, CPPM). Neste caso, a prova da autoria ficar dependente de outras provas de corroborao. 14.2.8. Prova testemunhal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema de comparação de locutores avalia as características acústicas da voz para determinar a autoria de falas armazenadas em mídia. A análise é realizada por meio de duas técnicas: a perceptivo-auditiva e a acústico-instrumental. O acusado não é obrigado a fornecer material para a realização da perícia, sendo necessário outras provas de corroboração para a prova da autoria.

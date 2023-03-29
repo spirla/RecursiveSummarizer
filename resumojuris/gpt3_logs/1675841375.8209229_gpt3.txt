@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Uniformizacao de entendimento. DESTAQUE Nao e possivel a utilizacao de acoes penais em curso para se afastar a causa especial de diminuicao de pena inserta no  4 do art. 33 da Lei n. 11.343/2006. Nao se desconhece que, desde o julgamento do EREsp 1.431.091/SP, proferido pela Terceira Secao deste Tribunal, havia sido pacificado o entendimento no sentido de ser possivel a utilizacao de inqueritos policiais e/ou acoes penais em curso para embasar o afastamento da causa de diminuicao de pena prevista no art. 33,  4, da Lei n. 11.343/2006, por evidenciar a dedicacao do acusado a atividades criminosas. Contudo, o Pretorio Supremo Tribunal Federal ja se manifestou, em diversos julgados, no sentido de que inqueritos ou acoes penais em curso, por si sos, nao podem ser utilizados em desfavor do agente, por ocasiao da dosimetria da pena, na terceira fase, sob pena de violacao ao principio constitucional da nao culpabilidade. Com espeque em tal entendimento, as decisoes recentes no ambito da Excelsa Corte tem sido proferidas no sentido nao ser possivel a utilizacao de acoes penais em curso para se afastar a causa especial de diminuicao de pena inserta no  4 do art. 33 da Lei n. 11.343/2006. 737 Da lavra do e. Ministro Ricardo Lewandowski, proferido nos autos do RE 1.283.996 AgRg, em julgado proferido pela Segunda Turma, DJe de 03/12/2020, colhe-se o entendimento segundo o qual [a] aplicacao da causa de diminuicao pelo trafico privilegiado, nos termos do art. 33,  4, da Lei 11.343/2006, nao pode ter sua aplicacao afastada com fundamento em investigacoes preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violacao do art. 5, LIV, da CF/88 .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é possível a utilização de ações penais em curso para se afastar a causa especial de diminuição de pena inserta no 4º do art. 33 da Lei n. 11.343/2006. 2. Inqueritos ou ações penais em curso, por si sós, não podem ser utilizados em desfavor do agente, por ocasião da dosimetria da pena, na terceira fase, sob pena de violação ao princípio constitucional da não culpabilidade. 3. Não é possível a utilização de acões penais em curso para afastar a causa de diminuição de pena prevista no art. 33, 4º, da Lei n. 11.343/2006. 4. A aplicação da causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, LIV, da CF/88.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Agencia reguladora. Auto de infracao. Processo administrativo. Multa. Aplicacao. Termo inicial. Interposicao de recurso administrativo. Juros de mora. Nao afastamento. DESTAQUE A interposicao de recurso administrativo nao afasta a incidencia dos juros moratorios sobre multa aplicada por agencia reguladora. O art. 37-A da Lei n. 10.522/2002, com redacao alterada pela Lei n. 11.941/2009, que dispoe sobre o Cadastro Informativo dos creditos nao quitados de orgaos e entidades federais e da outras providencia, preve que os creditos das autarquias e fundacoes publicas federais, de qualquer natureza, nao pagos nos prazos previstos na legislacao, serao acrescidos de juros de mora, calculados nos termos e na forma da legislacao aplicavel aos tributos federais .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A interposição de recurso administrativo não afasta a incidência dos juros moratórios sobre multa aplicada por agência reguladora. 2. O art. 37-A da Lei n. 10.522/2002, com redação alterada pela Lei n. 11.941/2009, prevê que os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais.

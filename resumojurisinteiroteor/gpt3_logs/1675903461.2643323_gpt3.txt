@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O ru foi denunciado pelo Ministrio Pblico estadual, pelos fatos abaixo transcritos, nos termos da exordial acusatria: [...] No dia 5 de agosto de 2017, por volta de 18h33, na Delegacia de Polcia de Senador Canedo, em Gois, o denunciado fez inserir em documento pblico declarao falsa com o fim de alterar a verdade sobre fato juridicamente relevante, em ato que atentou contra a administrao militar. Noticiam os autos que, no dia 4 de agosto de 2017, o militar investigado, estando de folga, deslocou-se at a cidade de Caldazinha, estado de Gois, onde reside sua famlia. No dia seguinte, o denunciado constatou que a pistola Imbel calibre.40 n. EQA0872I, arma da carga da Policia Militar com a qual era armado fixo, havia desaparecido. Em razo disso, o denunciado dirigiu-se at a Delegacia de Polcia da cidade de Senador Canedo, onde solicitou o registro do fato, sendo feito o Registro de Atendimento Integrado (RAI) n. 3796963 (fls. 12/14), no qual o denunciado fez inserir a verso inverdica segundo a qual a residncia de seus familiares, na zona rural de Caldazinha, havia sido invadida e o armamento havia sido subtrado do local. No entanto, o civil Maycon Bruno Moreira dos Santos, apontado como autor do furto, relatou que, na verdade, ele e Leonardo Rodrigues Souza, vulgo Bolinho, teriam se deparado com o denunciado dormindo dentro de um carro com a arma de fogo exposta no cap do veculo, momento em que Leonardo teria se apoderado da pistola. O denunciado fez inserir informao falsa no RAI com o fim de omitir sua negligncia na guarda da arma de fogo da carga da Polcia Militar de Minas Gerais. Dessa forma, a insero de informao falsa altera a verdade sobre fato juridicamente relevante em ato que atenta contra a administrao. [...] (Evento 3 - DENUNCIA2 - Processo Originrio) A denncia foi recebida no dia 23 de maio de 2018 (Evento 3 - RECE_ DENUN4 - Processo Originrio). Foram ouvidas 3 (trs) testemunhas arroladas pela acusao (Jnio da Silva Almeida Junior, Everton Fernando Cavalcante de Jesus e Lenidas Ferreira Rocha), por meio de cartas precatrias (Evento 3 - PEAS DIGITALIZADAS7 - p. 72/73; 83/84 - vdeos no Evento 4 - Processo Originrio). Entretanto a testemunha Maycon Bruno Moreira dos Santos no foi ouvida nessa oportunidade. Houve a migrao do processo fsico para o meio eletrnico (Certido - Evento 5 - Processo Originrio). Em audincia presencial remota realizada em 24 de novembro de 2020, foi ouvida uma testemunha arrolada pela defesa (Sub. Ten. PM Valter Ferreira de Souza), bem como foi realizado o interrogatrio do ru (Evento 24 - Processo Originrio). Em audincia presencial remota realizada em 11 de maio de 2021, foi ouvida uma testemunha remanescente arrolada pela acusao (Maycon Bruno Moreira dos Santos) (Evento 48 - Processo Originrio). Na fase do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O ru foi denunciado pelo Ministrio Pblico estadual por inserir em documento público declaração falsa com o intuito de alterar a verdade sobre fato juridicamente relevante, em ato que atentou contra a administração militar. Foram ouvidas três testemunhas arroladas pela acusação, além de uma testemunha arrolada pela defesa e do interrogatório do ru. Por fim, foi ouvida uma testemunha remanescente arrolada pela acusação.

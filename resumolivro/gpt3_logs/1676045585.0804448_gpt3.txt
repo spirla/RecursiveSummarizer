@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Dessa forma, os elementos identificados para o juzo de reprovao pessoal decorrem da premissa fundamental de que a ordem jurdica pode exigir da pessoa comportamento diverso que se compatibilize com as expectativas sociais de boa convivncia. A exculpao penal sempre evidencia a inexigibilidade da prtica de outro comportamento e decorre do fato de que o Direito Penal somente pode exigir do indivduo o que lhe seja faticamente possvel. Vale notar que o juzo de valor da culpabilidade no pode operar com base em noes abstratas e singelas, pois a demasiada simplificao do conceito implica pragmaticamente a utilizao de censura apriorstica a todos os casos, em manifesta violao ao princpio da no culpabilidade. A exigibilidade de conduta diversa no pode ser apenas um conceito jurdico abstrato.  essencialmente importante que a exigibilidade de conduta diversa, como fundamento do juzo de reprovao da culpabilidade, seja critrio de valorao que identifique claramente seu contedo material, de modo a vincular a reprovao e a dosimetria da pena a critrios seguros. A doutrina registra que o princpio da inexigibilidade de conduta diversa, como excludente de culpabilidade, foi primeiramente aplicado pelo Tribunal do Reich, no caso conhecido como da cavalgadura que no obedece s rdeas. Nesse caso, o proprietrio de animal ressabiado e desobediente ordenou ao cocheiro que o utilizasse para realizar determinado servio. O cocheiro, prevendo a possibilidade de problemas na conduo do animal, resistiu  ideia, mas seu patro ameaou despedi-lo, caso no cumprisse a ordem. O cocheiro saiu com o cavalo e este, no lhe obedecendo aos comandos, atropelou e feriu um transeunte. Reconhecido o princpio para o fato culposo, logo foi aplicado tambm aos fatos dolosos. O princpio geral de no exigibilidade para a integrao do ordenamento jurdico constitui salutar vlvula de segurana contra as injustias a que pode conduzir um estreito positivismo legal. O juzo de reprovao pessoal da culpabilidade, para configurar-se, pressupe a normalidade das circunstncias que influenciaram a manifestao pessoal contrria s expectativas sociais. A interferncia de circunstncias excepcionais no caso concreto pode inviabilizar a reprovao pessoal, quando no for possvel a pessoa evitar a realizao da conduta socialmente inadequada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juzo de reprovao pessoal da culpabilidade depende da normalidade das circunstâncias que influenciaram a manifestação contrária às expectativas sociais. O princípio da inexigibilidade de conduta diversa é aplicado como excludente de culpabilidade, servindo como válvula de segurança contra injustiças. Quando a pessoa não pode evitar a realização da conduta inadequada, a reprovão pessoal da culpabilidade é inviabilizada.

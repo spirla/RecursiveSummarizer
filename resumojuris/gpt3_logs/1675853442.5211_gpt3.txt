@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo  Ed. Especial n. 9) CPC de 2015, arts. 932 e 1.043,  4. Regimento Interno do Superior Tribunal de Justica, art. 266,  4. 79 SEGUNDA SECAO Voltar ao Sumario. Processo AgInt na AR 5.811-MG, Rel. Ministro Luis Felipe Salomao, Segunda Secao, por unanimidade, julgado em 24/8/2022, DJe 30/8/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL Tema Acao rescisoria. Violacao da literalidade de dispositivo legal. Ausencia de indicacao precisa da norma juridica violada. Inepcia da inicial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 932 do Código de Processo Civil de 2015 e o artigo 1.043 do mesmo diploma legal são aplicáveis à ação rescisória. 2. O artigo 266 do Regimento Interno do Superior Tribunal de Justiça é aplicável ao processo AgInt na AR 5.811-MG. 3. É necessário indicar de forma precisa a norma jurídica violada para a propositura de ação rescisória. 4. A inicial é inepcia quando não há indicação precisa da norma jurídica violada.

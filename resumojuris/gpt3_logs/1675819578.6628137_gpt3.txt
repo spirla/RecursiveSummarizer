@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 4980/DF, relator Ministro Nunes Marques, julgamento finalizado em 10.3.2022 (INF 1047) 14.11 TAXAS Cobranca de taxa de seguranca para eventos - ADI 2692/DF Resumo: E inconstitucional a cobranca de taxa de seguranca para eventos, visto que a seguranca publica deve ser remunerada por meio de impostos, ja que constitui servico geral e indivisivel, devido a todos os cidadaos, independentemente de contraprestacao. O servico de seguranca publica tem natureza universal e e prestado a toda a coletividade, mesmo na hipotese de o Estado se ver na contingencia de fornecer condicoes especificas de seguranca a certo grupo. Co-mo a sua finalidade e a preservacao da ordem publica e da incolumidade pessoal e patrimonial (CF/88, art. 144), e dever do Estado atuar com os seus proprios recursos, ou seja, sem exigir contraprestacao especifica dos cidadaos. Nesse contexto, e inviavel remunera-lo mediante taxa, sob pena de violar disposicao constitucional expressa que preceitua a possibilidade desse tributo ser cobrado em virtude do exercicio do poder de policia ou da utilizacao, efetiva ou potencial, de servicos publicos especificos e divisiveis, prestados ao contribuinte ou postos a sua disposicao (CF/88, art. 145, II). Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente a acao para declarar a inconstitucionalidade da Lei 1.732/1997 e, por arrastamento, do Decreto 19.972/1998, ambos do Distrito Federal. ADI 2692/DF, relator Ministro Nunes Marques, julgamento virtual finalizado em 30.9.2022 (sexta-feira), as 23:59 (INF 1070) Fundo de Fiscalizacao das Telecomunicacoes e poder de policia - ADI 4039/DF Resumo: E legitimo o poder de policia conferido a ANATEL para fiscalizar as atividades de radiodifusao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a cobrança de taxa de segurança para eventos, pois a segurança pública deve ser remunerada por meio de impostos, já que constitui serviço geral e indivisível, devido a todos os cidadãos, independentemente de contraprestação. 2. É inviável remunerar o serviço de segurança pública mediante taxa, sob pena de violar disposição constitucional expressa que preceitua a possibilidade desse tributo ser cobrado em virtude do exercício do poder de polícia ou da utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição. 3. É legítimo o poder de polícia conferido à ANATEL para fiscalizar as atividades de radiodifusão.

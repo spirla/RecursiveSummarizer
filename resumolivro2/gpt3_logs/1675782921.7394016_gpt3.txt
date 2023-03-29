@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STM, calcado no princpio da especialidade, entendia que a realizao de interrogatrio no incio da instruo criminal, nos moldes do CPPM, no violava a ampla defesa e o contraditrio, mesmo diante da supervenincia da Lei 11.719/2008, e editou a Smula 15. Entretanto, com fundamento nos princpios da ampla defesa e do contraditrio, decidiu o Pleno do STF no HC 127.900, rel. Min. Dias Toffoli, que o interrogatrio deve ser o ltimo ato da instruo criminal do processo penal militar, em conformidade com o artigo 400 do CPP, com a redao dada pela Lei 11.719/2008. O HC 127.900 seguiu o que fora decidido na AP 528 AgR, rel. Min. Ricardo Lewandowski, j. 24.0311 e no HC 115.698/AM e 115.530/PR, da relatoria do ministro Luiz Fux, que aplicaram ao processo penal militar o disposto no artigo 400 do CPP. 15.2.1. Oferecimento da denncia. A legislao do processo penal militar no  rigorosa. Para a denncia ser apresentada bastam a prova de fato que, em tese, constitua crime e indcios de autoria (CPPM, artigo 30). Assim, de laudos, documentos e depoimentos deve exsurgir a prova de que o fato a ser apurado, em tese, constitua crime e indcios de autoria, no exige que sejam veementes, como no caso de decretao do sequestro (artigo 200), nem que sejam suficientes, como requer para decretao da priso preventiva (artigo 254, b). Para a autoria bastam indcios, isto , a possibilidade de que o denunciado seja o autor de crime militar, e quanto ao crime  necessrio prova, ou seja, a probabilidade de que o fato, em tese, constitua crime militar. Nos crimes que deixam vestgios, o exame de corpo de delito  indispensvel para a condenao (artigo 328, CPPM), todavia, a falta momentnea do exame de corpo de delito no impede a instaurao da ao penal se houver prova idnea do fato delituoso.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STM entendia que a realização de interrogatório no início da instrução criminal não violava a ampla defesa e o contraditório, mas o STF decidiu que o interrogatório deve ser o último ato da instrução criminal do processo penal militar. Para a denncia ser apresentada bastam a prova de fato que, em tese, constitua crime e indícios de autoria. Para a autoria bastam indícios e para o crime é necessário prova. Nos crimes que deixam vestígios, o exame de corpo de delito é indispensável para a condenação, mas a falta momentânea do exame de corpo de delito não impede a instauração da ação penal se houver prova idônea do fato delituoso.

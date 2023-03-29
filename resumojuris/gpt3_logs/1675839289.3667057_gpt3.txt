@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+611 Nessa toada, em observancia aos principios previstos no Codigo de Defesa do Consumidor, notadamente a boa-fe objetiva, que, inclusive, deve guiar a elaboracao e a execucao de todos os contratos, e a interpretacao sempre em beneficio do hipossuficiente, nao se afigura razoavel que na hipotese da enfermidade estar coberta pelo plano de saude e de nao ser possivel a utilizacao dos servicos proprios, contratados, credenciados ou referenciados pelas operadoras, seja no limite do municipio ou fora da area de abrangencia municipal, o reembolso das despesas realizadas pelo usuario somente possa se dar em caso de urgencia ou emergencia - em que pese seja essa a hipotese dos autos -, haja vista que se o tratamento da enfermidade e coberto pelo contrato mantido com a operadora, acaso houvessem profissionais e clinicas no limite geografico da municipalidade estaria o plano obrigado a suportar, ao menos, a cobertura consoante contratado. Com base nessa assertiva, de que o tratamento da doenca e coberto, abre-se ao usuario tres possibilidades distintas com consequencias bem definidas: a) fazer uso do SUS, oportunidade na qual o Estado demandara a operadora do reembolso integral, nos limites do contrato; b) deslocar-se para municipio ou area geografica limitrofe e ser atendido por profissional ou clinica conveniada, tendo direito a traslado (ida e volta), nos termos da resolucao de regencia, e, em caso de descumprimento por parte da operadora (de fornecimento do traslado), tera o direito de ser reembolsado integralmente nos termos do artigo 9 da Resolucao n. 268/2011 caso o beneficiario tenha sido obrigado a pagar os custos do atendimento e c) utilizar-se de profissionais/estabelecimentos nao conveniados/referenciados pelo plano, seja no ambito da extensao geografica ou fora dela, ficando o ressarcimento limitado ao valor de tabela do plano contratado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário observar os princípios previstos no Código de Defesa do Consumidor, notadamente a boa-fé objetiva, para a elaboração e execução de contratos. 2. O reembolso das despesas realizadas pelo usuário somente pode se dar em caso de urgência ou emergência. 3. O tratamento da enfermidade está coberto pelo contrato mantido com a operadora. 4. O usuário tem três possibilidades distintas com consequências bem definidas: a) fazer uso do SUS; b) deslocar-se para municipio ou área geográfica limitrofe e ser atendido por profissional ou clínica conveniada; c) utilizar-se de profissionais/estabelecimentos não conveniados/referenciados pelo plano. 5. O ressarcimento está limitado ao valor de tabela do plano contratado.

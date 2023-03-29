@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No voto proferido pelo rel. Min. Gilmar Mendes no HC 96.975, j. 07.06.2011, 2 T, DJe de 08.08.2011, foi destacada a disciplina do artigo 537, pargrafo 1, do CPPM, que exige proceder  dupla intimao, isto , do advogado e do ru em razo de conjuno aditiva e e que a ausncia de intimao pessoal do paciente do acrdo proferido na apelao lhe retirou a oportunidade de deliberar sobre a convenincia ou no da interposio dos pertinentes recursos, em flagrante violao  clusula do devido processo legal, mais especificamente nas vertentes do contraditrio e da ampla defesa. 18.3.4. Efeitos. O artigo 532 do CPPM, que trata dos efeitos da sentena absolutria,  composto de duas partes. A primeira estabelece que a apelao da sentena absolutria no obstar que o ru seja imediatamente posto em liberdade, em absoluta harmonia com o princpio da presuno de inocncia, ou seja, a apelao contra sentena absolutria no tem efeito suspensivo, entretanto, a segunda parte, ao impedir que o ru absolvido seja imediatamente posto em liberdade se a acusao versar sobre crime a que a lei comina pena de recluso, no mximo, por tempo igual ou superior a vinte anos, e no tiver sido unnime a sentena absolutria, colide com aquele princpio e no foi recepcionada pela nova ordem constitucional. A apelao de sentena condenatria, no entanto, tem efeito suspensivo, salvo o disposto nos artigos 272, 527 e 606 do CPPM. Vejamos as excees. A primeira (artigo 272) se refere  aplicao provisria da medida de segurana e no foi recepcionada pela nova ordem constitucional, pois, medida de segurana  sano imposta mediante o devido processo legal, observado o contraditrio e ampla defesa, em deciso em que  devidamente justificada a sua natureza cautelar. A segunda exceo prevista no artigo 527, que condiciona o recolhimento do ru  priso para apelar, como dito, no foi recepcionada pela Constituio Federal, que garante a presuno de inocncia (artigo 5, LVII).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O relator Min. Gilmar Mendes destacou a disciplina do artigo 537 do CPPM, que exige a dupla intimao do advogado e do ru, e que a ausência de intimao pessoal do paciente retira a oportunidade de deliberar sobre a interposição de recursos, violando o devido processo legal. O artigo 532 do CPPM estabelece que a apelão da sentença absolutória não impede a liberdade do ru, mas impede se a acusação for de crime com pena de reclusão superior a 20 anos. A apelação de sentença condenatória tem efeito suspensivo, exceto nos artigos 272, 527 e 606 do CPPM.

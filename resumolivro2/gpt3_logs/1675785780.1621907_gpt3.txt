@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O acrdo confirmador da sentena condenatria ou reformador da deciso absolutria  sujeito a embargos infringentes e de nulidade e a recurso especial ou extraordinrio. Na vigncia da Constituio Federal de 1988, a jurisprudncia do STF admitia a possibilidade da execuo provisria da pena privativa de liberdade. Como exemplo dessa possibilidade, no julgamento que indeferiu o HC 68.726, rel. Min. Nri da Silveira, j. 28.06.1991, a Suprema Corte assentou que a presuno de inocncia no impedia a priso decorrente de acrdo que, em apelao, confirmou a sentena penal condenatria. A deciso de HC 70.662, Rel. Min. Celso de Mello, 1 T., DJ 04.11.1994, reiterava a possibilidade de execuo provisria da pena:
+A jurisprudncia deste Supremo Tribunal Federal  firme no sentido de ser possvel a execuo provisria da pena privativa de liberdade, quando os recursos pendentes de julgamento no tm efeito suspensivo. Em diversos julgados, que se seguiram, as Turmas do STF reafirmaram o entendimento de que o princpio da presuno de inocncia no impedia a execuo provisria da pena, ainda que pendente de julgamento o recurso especial ou extraordinrio. Essa jurisprudncia que firmou a legalidade da execuo provisria da pena modificou-se em 2009, quando o Pleno, no HC 84.078/MG, por sete votos a quatro, asseverou que o princpio da presuno de inocncia se mostrava incompatvel com a execuo da sentena antes do trnsito em julgado da condenao. Houve em 2016 nova mudana de orientao, o STF voltou a aceitar que a execuo provisria da pena no ofendia a presuno de inocncia. Por maioria de votos, no HC 126.292, rel. Min Teori Zavascki, j. 17.02.2016, decidiu que a condenao em segundo grau de jurisdio (Tribunal de Justia ou Tribunal Regional Federal) podia ser executada imediatamente, sem necessidade de aguardar-se o exame de recursos extraordinrio e especial, pois no compromete o princpio constitucional da presuno de inocncia (artigo 5, LVII, CF).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF admitia a execução provisória da pena privativa de liberdade mesmo com recursos pendentes de julgamento. Em 2009, o Pleno decidiu que o princípio da presunção de inocência se mostrava incompatível com a execução da sentença antes do trânsito em julgado da condenação. Em 2016, por maioria de votos, o STF voltou a aceitar a execução provisória da pena, pois não compromete o princípio constitucional da presunção de inocência.

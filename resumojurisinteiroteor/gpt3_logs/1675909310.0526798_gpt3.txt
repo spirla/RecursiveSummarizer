@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+209,  3, do CPM. O juiz de primeiro grau proferiu sentena. Parafraseou as declaraes prestadas pelo ofendido, bem como pelas testemunhas Paulo Srgio Alves Duarte, 1 Ten PM Cid Machado dos Santos e Larissa Marcelle da Silva, bem como apontou a ficha de movimentaes da viatura prefixo 23866, utilizada pela guarnio dos rus na data dos fatos para constatar a autoria. Entendeu evidenciada a materialidade pelos laudos de exame de corpo de delito presentes nos autos. O Magistrado afastou as teses defensivas relativas  excluso de ilicitude, por no identificar no relato das testemunhas quaisquer circunstncias dos fatos que possam sustent-las. O magistrado tambm entendeu impossvel a desclassificao dos crimes imputados para o crime de leso corporal leve ou levssima, pois os laudos de exame de corpo de delito atestam, inequivocamente, que a leso do ofendido resultou incapacidade para as ocupaes habituais por mais de 30 dias. Tambm entendeu impossvel a desclassificao para a hiptese do art. 209,  3, do CPM, por compreender que a conduta foi perpetrada com evidente dolo. Em vista desses fundamentos, o juiz de primeiro grau julgou a ao penal procedente, condenando, pela prtica do crime de leso corporal grave, prevista no art. 209,  1 do CPM, cada um dos rus, Sd PM Flvio Moreira de Paula e Cb PM Fbio Henrique de Souza. Aplicou a cada um a pena de 1 ano de recluso, em regime aberto, com direito de recorrer em liberdade e com direito ao sursis, pelo prazo de 2 anos, com condies a serem estabelecidas pelo Juzo de Execuo Penal. Irresignado, o Sd PM Flvio Moreira de Paula interps recurso de apelao. Alegou abstratamente que a sentena fez uso de elementos constantes apenas do caderno investigatrio ou de elementos de prova invlidos para decretar sua condenao. Reiterou teses apresentadas em suas alegaes finais. Ao final do recurso, requereu absolvio, nos termos do art. 439, "d, do CPPM. Pediu, subsidiariamente, a desclassificao do crime do qual  acusado para o crime de leso corporal levssima, conforme art. 209,  6, do CPM. Ainda nesse sentido, pediu que a leso levssima fosse considerada penalmente atpica, e que, dessa forma, fosse absolvido, nos termos do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz de primeiro grau julgou procedente a ao penal e condenou os rus Sd PM Flvio Moreira de Paula e Cb PM Fbio Henrique de Souza pelo crime de leso corporal grave previsto no art. 209, 1 do CPM, aplicando a cada um a pena de 1 ano de recluso, em regime aberto, com direito ao sursis, pelo prazo de 2 anos. O Sd PM Flvio Moreira de Paula interpôs recurso de apelação alegando abstratamente que a sentença fez uso de elementos inválidos para decretar sua condenação, requerendo absolvição ou desclassificação para o crime de lesão corporal leve.

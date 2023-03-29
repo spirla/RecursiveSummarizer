@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Data: ___/___/___(fl. _____). 19. RAZOES ESCRITAS DE DEFESA - RED - artigo 68, X, do CEDM. Data: ___/___/___(fl. _____). 20. NOTIFICACAO DO ACUSADO E DEFENSOR PARA REUNIAO DE DELIBERACAO DA CPAD - artigo 70, XVI do CEDM. (48h antes da realizacao). Data: ___/___/___(fl. _____). 21. ATA DA REUNIAO DE DELIBERACAO - artigo 68, XI, do CEDM. Data: ___/___/___(fl. _____).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Data: ___/___/___(fl. _____). 19. Apresentação das Razões Escritas de Defesa. Data: ___/___/___(fl. _____). 20. Notificação do Acusado e Defensor para Reunião de Deliberação da CPAD. Data: ___/___/___(fl. _____). 21. Ata da Reunião de Deliberação.

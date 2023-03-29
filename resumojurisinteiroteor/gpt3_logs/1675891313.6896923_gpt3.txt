@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Tais decises comportam duas espcies de recursos: agravo interno quanto s matrias decididas com base em precedente produzido sob o rito da repercusso geral (CPC, art. 1.030,  2); e agravo do art. 1.042 do CPC quanto aos aspectos resolvidos por outros tipos de fundamentos. 4. No h previso legal de recurso para o SUPREMO TRIBUNAL FEDERAL contra a parte da deciso do Juzo de origem que aplicou a sistemtica da repercusso geral (Pleno, AG.REG. NO RECURSO EXTRAORDINRIO COM AGRAVO 994.469, Relatora: Min. CRMEN LCIA (Presidente), DJe de 14/3/2017). 5. Embora cabvel quanto ao outro bice aplicado na origem, o Agravo no merece prosperar. O Tribunal de origem decidiu em conformidade com o entendimento jurisprudencial de ambas as Turmas desta CORTE no sentido de no caber recurso extraordinrio para rever a correo da deciso do Superior Tribunal de Justia de conhecer ou no do recurso especial. 6. Agravo Interno a que se nega provimento. (ARE 986555 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 04/06/2018, PROCESSO ELETRNICO DJe-116 DIVULG 12-06-2018 PUBLIC 13-06-2018) (Destaca-se) Como visto, a deciso que nega seguimento ao recurso extraordinrio com base em precedente de repercusso geral desafia a interposio de agravo interno - previsto no art. 1.030, 2, c/c o art. 1.021, ambos do novo CPC -, perante este Tribunal, uma vez que deve ocorrer o exaurimento da prestao jurisdicional nesta Corte, diante da ausncia de previso legal de recurso dirigido ao STF. Na hiptese dos autos, o agravante, apesar de tambm ter interposto agravo em recurso extraordinrio, busca atacar, por meio do presente agravo interno, tanto o fundamento lastreado na aplicao do Tema n. 660 (ARE n. 748.371 RG/MT) quanto aqueles respaldados na incidncia da Smula n. 279 do STF, o que no se mostra vivel. Entretanto, no ponto em que se questiona a inaplicabilidade da Smula n. 279, incabvel  o conhecimento do presente recurso, salientando-se que a matria ser apreciada quando do exame do agravo em recurso extraordinrio, previsto no art. 1.042 do novo CPC, tambm interposto pelo agravante. Quanto  parte em que se questiona a aplicao da sistemtica da repercusso geral (ARE n. 748.371 RG/MT - Tema n. 660), conheo do recurso de agravo interno, uma vez que adequado; contudo, em que pesem as alegaes do agravante, o presente recurso no merece prosperar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de agravo interno interposto não merece prosperar, pois não há previsão legal de recurso para o STF contra a parte da decisão do Juízo de origem que aplicou a sistemática da repercussão geral. Quanto à parte em que se questiona a aplicação da sistemática da repercussão geral, conhece-se do recurso de agravo interno, mas não merece prosperar.

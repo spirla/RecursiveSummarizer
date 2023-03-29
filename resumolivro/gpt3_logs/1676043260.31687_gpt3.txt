@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Na Frana e na Sucia, o modelo clssico no chega sequer a ser objeto de discusso. Na Itlia e na Grcia, entretanto, a influncia da doutrina alem propicia a discusso sobre o acolhimento de um sistema ps-finalista. Na Amrica Latina, apesar da grande influncia dos escritos de Welzel, ainda  possvel encontrar a defesa das posies clssicas no Mxico, Bolvia e at mesmo entre alguns brasileiros. A teoria do crime que a doutrina deve considerar  a que se compatibiliza com o direito positivo, com o estatuto que define as caractersticas fundamentais para o reconhecimento do crime no pas em que ter aplicao. No Brasil, a reforma penal de 1984 (Lei 7.209/84, que alterou a parte geral do Cdigo Penal) decorreu de exigncias histricas e pretendeu enfrentar as questes prticas que no comportavam adequada soluo no sistema terico clssico, ou causal-naturalista, adotado pela legislao de 1940. Na ocasio, a doutrina penal brasileira logrou xito em substituir na legislao repressiva os postulados do sistema clssico por outro mais enriquecido, que acolheu as orientaes apresentadas pelo sistema finalista de Hans Welzel. Inegavelmente, tal sistema acabou por constituir a inspirao maior que orientou a reforma brasileira e promoveu mudanas no modelo terico que define o crime. No entanto, no se pode esquecer que o sistema finalista tambm  de ndole naturalista e a reforma acabou por tambm possibilitar a sua superao.  verdade que ao tipo incriminador foi agregado um plano de exigncias subjetivo, de modo que o dolo e a culpa passaram a pertencer ao exame da tipicidade (artigo 20), como  caracterstica do sistema finalista. Mas o tratamento que j era conferido  causalidade omissiva, e que foi preservado na reforma, evidencia a inequvoca possibilidade de superao dos sistemas de ndole naturalista. A legislao penal brasileira (artigo 13) deixa claro que no plano da tipicidade o resultado de que depende a existncia do crime  normativo (violao da norma) e no naturalstico. Ao mencionar que a omisso pode ser causa do resultado, a legislao deixa clara a superao do paradigma naturalista. No plano naturalstico, a omisso no pode ser causa de qualquer modificao da realidade ftica. Com isso, a imputao objetiva amplia as suas possibilidades interpretativas. A culpabilidade, por sua vez, consagrou-se como um juzo de reprovao normativo puro sobre quem realiza a conduta tpica e ilcita, segundo o princpio geral de inexigibilidade de conduta diversa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Na Frana, Sucia, Itlia e Grcia, a influncia da doutrina alem propicia a discussão sobre o acolhimento de um sistema ps-finalista. Na América Latina, há defesa das posições clássicas em alguns países. No Brasil, a reforma penal de 1984 (Lei 7.209/84) substituiu os postulados do sistema clássico por outro mais enriquecido, inspirado na teoria finalista de Hans Welzel. O sistema finalista é de ndole naturalista e a reforma permitiu a superação deste paradigma, pois a culpabilidade passou a ser um juízo de reprovacão normativo.

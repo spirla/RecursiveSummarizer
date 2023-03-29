@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os juzos e tribunais de exceo criados para julgar determinados fatos no gozam da condio de imparcialidade. As justias especializadas no constituem tribunais de exceo, porque so criadas antes dos fatos que iro julgar e tm competncia determinada por regras gerais e abstratas, com base em critrios objetivos. Os tribunais e juzes militares so rgos do Poder Judicirio (artigo 92, VI, CF), tm competncia determinada por regras gerais e abstratas (artigo 124, CF) e seus integrantes gozam dos predicamentos da magistratura (artigo 95, I, II e III, CF), logo, no constituem tribunais de exceo. A garantia do juiz natural  determinada pelos critrios constitucionais de fixao de competncia, assim, o julgamento de um crime militar pela Justia estadual viola a garantia do juiz natural, uma vez que a competncia da Justia Militar  fixada na Constituio Federal. Violam a garantia do juiz natural as modificaes de competncia? Predomina o entendimento que as modificaes de competncia no violam a garantia do juiz natural. Provocou, por exemplo, mudana de competncia a Lei 9.299/96, que acrescentou ao artigo 9 do CPM o pargrafo nico transferindo para a justia comum a competncia para julgar os crimes dolosos praticados por militar contra a vida de civil e o pargrafo 2 ao artigo 82 do CPPM determinando a remessa dos autos de IPM  Justia comum. O entendimento do STJ ao dirimir conflito de competncia foi pela imediata aplicabilidade das normas que reduziram a competncia da Justia Militar, sem que tal modificao de competncia tenha ferido a garantia do juiz natural. Recentemente, a Lei 13.491/2017 ampliou a competncia da Justia Militar ao dar nova redao ao artigo 9, II, do CPM, considerando militares os crimes previstos neste Cdigo [Cdigo Penal Militar] e os previstos na legislao penal [Cdigo Penal e legislao especial] [....]. Com essa a modificao de competncia, processos em andamento na Justia Comum foram remetidos  Justia Militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os juízos e tribunais de exceção não são considerados imparciais. As justiças especializadas também não são tribunais de exceção, pois são criadas antes dos fatos e têm competência definida por regras gerais e abstratas. Os tribunais e juízes militares são parte do Poder Judiciário, têm competência definida por regras gerais e abstratas e seus integrantes gozam dos direitos da magistratura. A garantia do juiz natural é determinada por critérios constitucionais de fixação de competência. Modificações de competência não violam a garantia do juiz natural. A Lei 13.491/2017 ampliou a competência da Justiça Militar, transferindo processos em andamento na Justiça Comum para a Justiça Militar.

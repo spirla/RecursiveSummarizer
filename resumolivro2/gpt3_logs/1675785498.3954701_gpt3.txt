@@ -1,0 +1,23 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Tm legitimidade para recorrer em sentido estrito, conforme preceitua o artigo 511 do CPPM, o Ministrio Pblico, o ru ou seu procurador. O assistente de acusao pode arrazoar o recurso em sentido estrito interposto pelo Ministrio Pblico. O interesse em recorrer em sentido estrito decorre do prejuzo sofrido com a deciso e a possibilidade de obter uma situao melhor com o resultado do recurso. 18.2.2. Procedimento em primeira instncia. No primeiro grau de jurisdio:
+1) interposio do recurso;
+2) recebimento pelo juiz federal da JMU ou pelo juiz de direito da JME;
+3) formao do instrumento, nas hipteses em que o recurso sob por traslado;
+4) intimao do recorrente para apresentar razes;
+5) apresentao das razes;
+6) intimao do recorrido para contrarrazes;
+7) apresentao das contrarrazes;
+8) juzo de retratao ou de no retratao pelo Conselho de Justia ou pelo juiz que singularmente tomou a deciso. Se houver a retratao o recurso sobe ao tribunal por simples petio (artigo 520, pargrafo nico, CPPM). De acordo com o artigo 518 do CPPM os recursos em sentido estrito sero interpostos por meio de requerimento em que se especificaro, se for caso, as peas dos autos de que se pretenda traslado para instruir o recurso. O processamento  nos prprios autos, de acordo com o artigo 517 do CPPM, os recursos que se referem as letras a, b, d, e, i, j, m, n e p do artigo 516 do CPPM. O recorrente, por meio de requerimento, especifica as peas dos autos para instruir o recurso. O traslado  extrado, conferido e concertado no prazo de 10 (dez) dias. Do translado devem constar a deciso recorrida e a certido de sua intimao. H intimao do recorrente para apresentar razes e do recorrido para contrarrazes. O prazo para as razes, segundo o artigo 519 do CPPM,  de 5 (cinco) dias contado da vista dos autos ou do dia em que, extrado o traslado dele, o recorrente tiver vista. Oferecidas as razes do recurso pelo recorrente  aberta vista ao recorrido por igual prazo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público, o réu ou seu procurador têm legitimidade para recorrer em sentido estrito, conforme preceitua o artigo 511 do CPPM. O procedimento em primeira instância inclui a interposição do recurso, recebimento pelo juiz federal da JMU ou pelo juiz de direito da JME, formação do instrumento, intimação do recorrente para apresentar razões, apresentação das razões, intimação do recorrido para contrarrazões, apresentação das contrarrazes, juízo de retratação ou de não retratação pelo Conselho de Justiça ou pelo juiz que singularmente tomou a decisão. O recorrente especifica as peças dos autos para instruir o recurso e há intimação do recorrente para apresentar razões e do recorrido para contrarrazões.

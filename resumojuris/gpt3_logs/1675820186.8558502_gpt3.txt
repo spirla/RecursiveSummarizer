@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+20-A da Constituicao do estado de Rondonia, na redacao dada pela Emenda a Constituicao estadual 109/2006. ADI 6746/RO, relatora Min. Rosa Weber, julgamento virtual finalizado em 28.5.2021 (sexta-feira), as 23:59 (INF 1019) Teto de remuneracao a empresas publicas e sociedades de economia mista - ADI 6584/DF Resumo: O teto constitucional remuneratorio nao incide sobre os salarios pagos por empresas publicas e sociedades de economia mista, e suas subsidiarias, que nao recebam recursos da Fazenda Publica. Consoante o disposto no  9 do art. 37 da CF/88 (CF), a regra do teto remuneratorio, previsto no inciso XI do art. 37 da CF, aplica-se as empresas estatais que recebam recursos da Fazenda Publica para pagamento de despesas de pessoal e de custeio em geral. Nesse sentido, porquanto nao se pretenda que a imposicao restritiva  prevista no inciso XI do art. 37 da CF  seja estendida alem da razao juridica de ser da norma e da finalidade da definicao constitucional, a jurisprudencia do Supremo Tribunal Federal firmou-se no sentido de que a limitacao remuneratoria se restringe aos servidores das empresas publicas e as sociedades de economia mista, e suas subsidiarias, que recebam recursos da Fazenda Publica. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade da Emenda a Lei Organica do Distrito Federal (LODF) 99/2017 e dar interpretacao conforme a Constituicao ao artigo 19, X, da LODF, de modo que a expressao empregos publicos se limite as entidades que recebam recursos do Distrito Federal para pagamento de despesas de pessoal ou de custeio em geral. ADI 6584/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O teto constitucional remuneratório não incide sobre os salários pagos por empresas públicas e sociedades de economia mista, e suas subsidiárias, que não recebam recursos da Fazenda Pública. 2. A regra do teto remuneratório prevista no inciso XI do art. 37 da CF se aplica às empresas estatais que recebam recursos da Fazenda Pública para pagamento de despesas de pessoal e de custeio em geral. 3. A limitação remuneratória se restringe aos servidores das empresas públicas e as sociedades de economia mista, e suas subsidiárias, que recebam recursos da Fazenda Pública. 4. A expressão "empregos públicos" se limita às entidades que recebam recursos do Distrito Federal para pagamento de despesas de pessoal ou de custeio em geral.

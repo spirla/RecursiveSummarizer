@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+156 do CPPM, argumentando que "desde o dia 06/10/2017 o apelante vem padecendo de enfermidades de natureza psiquitrica que o impediram de comparecer em juzo para a realizao do seu interrogatrio, tanto o PAD, quanto em juzo, no sendo suficiente a sabatina realizada ao apelante. Infere-se dos autos que o pedido feito pela defesa do ru foi cuidadosamente analisado tanto pelo CEJ quanto pela magistrada sentenciante. Em deciso fundamentada, a qual corroboro, o CEJ entendeu que [...]  data da suposta conduta criminosa ou das supostas condutas criminosas [...] ambos os acusados no demonstravam em seu comportamento o menor indcio de incapacidade ou de sofrimento mental. Ressalte-se que o magistrado no est adstrito a deferir todas as diligncias pleiteadas pela defesa durante a instruo criminal, podendo indeferi-las de modo fundamentado, como no caso dos autos. Quanto ao exame de insanidade mental, o indeferimento do pedido no caracteriza cerceamento de defesa, quando no h dvidas sobre a integridade mental do agente, no bastando o simples requerimento da parte para que o procedimento seja instaurado. Nesse sentido, entendo que faz-se necessrio um suporte probatrio coerente, como aes de interdio, internaes hospitalares, acesso aos pronturios mdicos dos pacientes que demonstrem necessariamente o todo crescente da inimputabilidade e da consequente responsabilidade diminuda ou irresponsabilidade no campo processual penal dos acusados. A jurisprudncia do Superior Tribunal de Justia  firme ao assinalar que, apenas quando evidenciada dvida razovel acerca da sanidade mental do acusado, se torna imperiosa a instaurao do respectivo incidente. Precedentes. (AgInt no AREsp 1142435/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/06/2021, DJe 09/06/2021). Desse modo, caminhou bem a deciso que indeferiu a arguio pretendida, haja vista no haver demonstrao de indcios mnimos acerca da incapacidade do militar de entender o carter ilcito das condutas praticadas. Ainda no esteio da jurisprudncia do STJ, entendo que a realizao do exame de insanidade mental no  automtica ou obrigatria, devendo existir duvida razovel acerca da higidez mental do acusado para o seu deferimento. Precedentes (AgRg no REsp 1799314/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/04/2021, DJe 13/04/2021). Conforme bem pontou a magistrada a quo, [...] as agruras ou sofrimentos decorrentes da vida e da prpria situao dos acusados em processo-crime de cunho grave e infamante no meio militar e no meio comum no constituem, de per si, razo suficiente para a instaurao do incidente de insanidade mental. (fls. 2592/2593).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A deciso negou o pedido de instaurao de incidente de insanidade mental, pois no houve demonstrao de indcios mnimos acerca da incapacidade do acusado de entender o carter ilcito de suas condutas. O exame de insanidade mental no automtico ou obrigatrio, devendo existir dvida razovel acerca da higidez mental do acusado para seu deferimento.

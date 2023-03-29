@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Este Tribunal possui entendimento consolidado no sentido de que a reserva de iniciativa legislativa do chefe do Poder Executivo federal (CF/88, art. 61,  1, II, e), alem de aplicavel aos entes federados pelo prin-cipio da simetria, comporta nao apenas a criacao de orgao administrativo, mas tambem a imposicao de normas que modifiquem o funcionamento daqueles ja existentes. Nesse contexto, esta Corte ja declarou a inconstitucionalidade formal de diversas normas de iniciativa parlamentar que criaram atribuicoes e encargos aos orgaos publicos estaduais, dada a patente violacao da nor-ma constitucional que determina a iniciativa privativa do chefe do Poder Executivo para disciplinar a sua orga-nizacao administrativa. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente a acao para declarar a inconstitucionalidade da Lei 5.047/2021 do Estado de Rondonia. ADI 6937/RO, relator Ministro Gilmar Mendes, julgamento virtual finalizado em 21.11.2022 (segun-da-feira), as 23:59 (INF 1076) Porte de armas de fogo: presuncao do risco da atividade e efetiva necessidade mediante lei estadual - ADI 7188/AC e ADI 7189/AM Resumo: E inconstitucional, por violar competencia da Uniao para legislar sobre materiais belicos, norma estadual que reconhece o risco da atividade e a efetiva necessidade do porte de arma de fogo ao atirador desportivo integrante de entidades de desporto legalmente constituidas e ao vigilante de empresa de se-guranca privada. A jurisprudencia desta Corte consolidou-se no sentido de que, com o objetivo de garantir a uniformi-dade na regulamentacao do tema em todo o territorio nacional, a definicao dos requisitos para a concessao do porte de arma de fogo e dos possiveis titulares desse direito e de competencia da Uniao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A reserva de iniciativa legislativa do chefe do Poder Executivo federal é aplicável aos entes federados pelo princípio da simetria. 2. É inconstitucional a norma estadual que reconhece o risco da atividade e a efetiva necessidade do porte de arma de fogo ao atirador desportivo integrante de entidades de desporto legalmente constituidas e ao vigilante de empresa de segurança privada. 3. É de competência da União a definição dos requisitos para a concessão do porte de arma de fogo e dos possíveis titulares desse direito.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(TJDF, acrdo 1367305, 00000387320198070002, relator: Carlos Pires Soares Neto, 1a Turma Criminal, data de julgamento: 26/8/2021, publicado no PJe: 8/9/2021) PENAL E PROCESSO PENAL - LESES CORPORAIS - APELO CONTRA SENTENA ABSOLUTRIA - ALTERAO DO FUNDAMENTO - CPP 386 VIII PARA III - INTERESSE RECUSAL EVIDENCIADO - RECONHECIMENTO DE ATIPICIDADE DA CONDUTA - INVIABILIDADE. 1. Reconhece-se o interesse recursal da r, na modificao do fundamento da sentena absolutria, de insuficincia de provas para a condenao (CPP 386 VII), para no constituir o fato infrao penal (CPP 386 III), pelo benefcio de excluso dos reflexos do provimento no campo penal (Smula 524 do STF) e extrapenal (moral, diante da sociedade). Precedentes do TJDFT e STJ. 2. Configura caso de absolvio por insuficincia de provas (CPP 386 VII), se as informaes dos autos revelam agresses fsicas recprocas entre a r e a vtima, havendo, contudo, suspeita de pr- existncia da leso corporal da vtima. 3. Negou-se provimento ao apelo da r. (TJDF, acrdo 400319, 20060310270262APR, relator: Srgio Rocha, revisor: Arnoldo Camanho, 2a Turma Criminal, data de julgamento: 3/12/2009, publicado no DJE: 24/2/2010. Pgina 239)  sabido que as esferas civil, penal e administrativa, em regra, so independentes, de maneira que a deciso proferida por uma instncia no vincula a outra. Contudo, para os militares, prevalece a possibilidade de se ver punido por transgresso residual no aspecto administrativo, caso a absolvio no tenha sido por negativa de autoria ou pela inexistncia do fato. Sendo assim, no que tange  alegao de ausncia de interesse recursal suscitada pela eminente procuradora de justia, tem-se que eventual mudana na capitulao legal da absolvio pode trazer reflexos na esfera administrativa, afastando a sujeio do apelante  punio disciplinar. Desta feita, h ntida conjugao do binmio adequao mais necessidade ou utilidade, ou seja, utilidade e necessidade da providncia jurisdicional pleiteada, considerando o prejuzo de efeitos extrapenais e a adequao da via que se escolhe para obter esta providncia. Passo pela segunda preliminar suscitada pela eminente procuradora de justia. Considerando que a matria de fundo das preliminares suscitadas pela defesa do apelante se refere  aplicao da Lei n. 9.099, de 26 de setembro de 1995, fao a anlise conjunta dessas preliminares suscitadas, a saber: 3) Da alegao de nulidade procedimental na forma do artigo 500, inciso III, alnea e, do Cdigo de Processo Penal Militar (CPPM), em virtude de o Conselho Permanente de Justia ter oportunizado a manifestao ministerial sobre o cabimento da transao penal ou da suspenso do condicional do processo, no havendo que se cogitar em encerramento da instncia.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O TJDF reconheceu o interesse recursal da ré na modificação do fundamento da sentença absolutória, de insuficiência de provas para a condenação (CPP 386 VII), para não constituir o fato infração penal (CPP 386 III). Negou-se provimento ao apelo da ré. Considerou-se a possibilidade de punição por transgresso residual no aspecto administrativo, caso a absolvição não tenha sido por negativa de autoria ou pela inexistência do fato. Analisou-se a conjugação do binômio adequação mais necessidade ou utilidade. Negou-se a nulidade procedimental na forma do artigo 500, inciso III, alínea e, do Código de Processo Penal Militar (CPPM).

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Retirada. Ordem judicial. Desnecessidade. Danos morais e a imagem. Omissao relevante. Responsabilidade civil configurada. DESTAQUE Responde civilmente por danos morais o provedor de aplicacao de internet que, apos formalmente comunicado de publicacao ofensiva a imagem de menor, se omite na sua exclusao, independentemente de ordem judicial. O Estatuto da Crianca e do Adolescente (art. 18) e a CF/88 (art. 227) impoem, como dever de toda a sociedade, zelar pela dignidade da crianca e do adolescente, colocando-os a salvo de toda forma de negligencia, discriminacao, exploracao, violencia, crueldade e opressao, com a finalidade, inclusive, de evitar qualquer tipo de tratamento vexatorio ou constrangedor. As leis protetivas do direito da infancia e da adolescencia possuem natureza especialissima, pertencendo a categoria de diploma legal que se propaga por todas as demais normas, com a funcao de proteger sujeitos especificos, ainda que tambem estejam sob a tutela de outras leis especiais. Para atender ao principio da protecao integral consagrado no direito infantojuvenil, e dever do provedor de aplicacao na rede mundial de computadores (Internet) proceder a retirada de conteudo envolvendo menor de idade - relacionado a acusacao de que seu genitor havia praticado crimes de natureza sexual - logo apos ser formalmente comunicado da publicacao ofensiva, independentemente de ordem judicial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É dever da sociedade zelar pela dignidade da criança e do adolescente, colocando-os a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão. 2. O Estatuto da Criança e do Adolescente e a Constituição Federal impõem o princípio da proteção integral consagrado no direito infantojuvenil. 3. É dever do provedor de aplicação na rede mundial de computadores (Internet) proceder à retirada de conteúdo envolvendo menor de idade, logo após ser formalmente comunicado da publicação ofensiva, independentemente de ordem judicial. 4. O provedor de aplicação de internet responde civilmente por danos morais se, após formalmente comunicado de publicação ofensiva a imagem de menor, se omite na sua exclusão.

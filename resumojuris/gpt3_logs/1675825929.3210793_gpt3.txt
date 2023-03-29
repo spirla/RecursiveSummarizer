@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+10 da Lei 10.666/2003 e de sua regulamentacao pelo art. 202-A do Decreto 3.048/1999. O FAP nao integra o conceito de aliquota, que representa a relacao existente entre a expressao quantitativa ou dimensionavel do fato gerador e do tributo correspondente. O FAP, nesses termos, nao e elemento integrante do aspecto quantitativo da hipotese de incidencia ou fato gerador do SAT, mas fator multiplicador aplicavel a esta contribuicao  externo, portanto, a relacao juridica tributaria , razao pela qual a sua forma de valoracao por ato normativo secundario nao viola o principio da legalidade tributaria,. De igual modo, nao caracterizada, no caso, qualquer afronta aos principios da legalidade generica, da irretroatividade tributaria, da transparencia, da moralidade administrativa e da publicidade. Com base nesse entendimento, o Plenario, apreciando o Tema 554 da repercussao geral, negou provimento ao recurso extraordinario. RE 677725/RS, relator Min. Luiz Fux, julgamento virtual finalizado em 10.11.2021 (quarta-feira), as 23:59 (INF 1037) Impossibilidade de extensao do auxilio de grande invalidez a todas as modalidades de aposentadoria - RE 1221446/RJ (Tema 1095 RG) Repercussao geral Amicus Curiae Tese fixada: No ambito do Regime Geral de Previdencia Social (RGPS), somente lei pode criar ou ampliar beneficios e vantagens previdenciarias, nao havendo, por ora, previsao de extensao do auxilio da grande invalidez a todas as especies de aposentadoria. Resumo: Nao e possivel a extensao do auxilio contido no art. 45 da lei 8.213/1991, tambem chamado de auxilio de grande invalidez ou auxilio-acompanhante, para todos os segurados aposentados que necessitem de ajuda permanente para o desempenho de atividades basicas da vida diaria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O FAP não integra o conceito de aliquota, pois não é elemento integrante do aspecto quantitativo da hipótese de incidência ou fato gerador do SAT. 2. A forma de valoração do FAP por ato normativo secundário não viola o princípio da legalidade tributária. 3. Não há afronta aos princípios da legalidade genérica, da irretroatividade tributária, da transparência, da moralidade administrativa e da publicidade. 4. Somente lei pode criar ou ampliar benefícios e vantagens previdenciárias, não havendo, por ora, previsão de extensão do auxílio da grande invalidez a todas as espécies de aposentadoria. 5. Não é possível a extensão do auxílio contido no art. 45 da lei 8.213/1991, também chamado de auxílio de grande invalidez ou auxílio-acompanhante, para todos os segurados aposentados que necessitem de ajuda permanente para o desempenho de atividades básicas da vida diária.

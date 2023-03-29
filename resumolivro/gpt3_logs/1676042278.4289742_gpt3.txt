@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Esclarece o professor da Universidade de So Paulo que o costume se compe de dois elementos essenciais: um externo (ou material), que  o uso, ou a prtica; e outro interno (ou psicolgico), que  a opinio juris et necessitatis, ou a crena de que a regra de conduta deve ser observada. O princpio da reserva legal impede que o costume estabelea novas condutas proibidas ou novas penas. O costume tambm no pode revogar disposies de lei escrita. Segundo o artigo 2, caput, da Lei de Introduo s normas do Direito Brasileiro, uma lei somente poder ser revogada por outra. No entanto, o costume possui especial aplicao na definio do significado de muitos elementos normativos presentes nos diversos tipos penais incriminadores. O aplicador do Direito deve, por exemplo, socorrer-se dos costumes para identificar o real significado de repouso noturno que integra o tipo do furto - artigo 155, pargrafo 1, do CP. O mesmo acontece nos casos de violao de correspondncia - artigo 151 -, pois  necessrio compreender o que  devassar indevidamente o contedo de correspondncia. Na legislao extravagante, pode-se citar o exemplo da gesto temerria de instituio financeira, prevista no pargrafo nico do artigo 4 da Lei 7.492/86. Certamente, a apurao do significado do que seja temerrio depender do costume consolidado para a atuao no mercado financeiro. Princpios gerais de direito. A palavra princpio  utilizada nos mais variados sentidos. Na expresso princpios fundamentais, que identifica o Ttulo I da Constituio da Repblica, a palavra princpio exprime a noo de mandamento nuclear de um sistema. De acordo com a perspectiva da teoria jurdica, pode-se entender por princpios as premissas fundamentais (gerais) que conferem sentido s normas jurdicas que so elaboradas para aplicao nos casos especficos. Nesse sentido, os princpios fundamentais consagrados na Constituio orientam a elaborao e a interpretao de todo o sistema normativo. A aplicabilidade dos princpios tambm  afirmada na Carta Constitucional, que, no pargrafo 2 de seu artigo 5, deixa claro que a previso expressa de um direito no exclui a aplicao dos princpios por ela adotados. A Constituio e a lei reconhecem a existncia de lacunas no sistema normativo e determinam a aplicao dos princpios para resolver o caso concreto.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O costume é composto de dois elementos essenciais: um externo (ou material) e outro interno (ou psicológico). O princípio da reserva legal impede que o costume estabeleça novas condutas proibidas ou novas penas, e também não pode revogar disposições de lei escrita. Os princípios gerais de direito são premissas fundamentais que conferem sentido às normas jurdicas, sendo aplicados para preencher lacunas no sistema normativo.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+CLUDIO: quase eles me bateram aqui. (...), CLUDIO: ento voc no chegou a fechar valor com o LEO no? SARRUFO: no, no, no cheguei a fechar nada com ele. Nada, entendeu? nada, nenhum valor. No falou nada de nenhum real. No falou nada de nada. CLAUDIO: nada de nada. SARRUFO: a, se ele t falando isso a,  mentira dele. Um sete um dele, cara! A  sacanagem dele, entendeu? CLUDIO: ele no falou nada disso no? SARRUFO: nada. Pergunta ao MARCELO. ", MARCELO, voc conversou com o SARRUFO, voc e o LEO. Tocou em dinheiro em algum minuto?". Pergunta a ele pra voc ver. Nenhum minuto ele tocou em nenhum centavo. Em nada de dinheiro, nada.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Sr. Sarrufo afirmou que não houve qualquer conversa com o Sr. Leo sobre pagamento de valores, e que o Sr. Marcelo pode confirmar que não houve qualquer menção a dinheiro.

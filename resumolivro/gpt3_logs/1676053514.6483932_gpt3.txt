@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Muito embora o inciso II do artigo 142 do CP mencione apenas a opinio desfavorvel da crtica literria, artstica ou cientfica, a jurisprudncia tambm reconhece a impossibilidade da imputao objetiva nos casos em que h a crtica jornalstica. Neste sentido, o supremo Tribunal Federal j decidiu que. A crtica jornalstica, desse modo, traduz direito impregnado de qualificao constitucional, plenamente oponvel aos que exercem qualquer atividade de interesse da coletividade em geral, pois o interesse social, que legitima o direito de criticar, sobrepe-se a eventuais suscetibilidades que possam revelar as pessoas pblicas. (...)  importante acentuar, bem por isso, que no caracterizar hiptese de responsabilidade civil a publicao de matria jornalstica cujo contedo divulgar observaes em carter mordaz ou irnico ou, ento, veicular opinies em tom de crtica severa, dura ou, at, impiedosa, ainda mais se a pessoa a quem tais observaes forem dirigidas ostentar a condio de figura pblica, investida, ou no, de autoridade governamental, pois, em tal contexto, a liberdade de crtica qualifica-se como verdadeira excludente anmica, apta a afastar o intuito doloso de ofender. Com efeito, a exposio de fatos e a veiculao de conceitos, utilizadas como elementos materializadores da prtica concreta do direito de crtica, descaracterizam o animus injuriandi vel diffamandi, legitimando, assim, em plenitude, o exerccio dessa particular expresso da liberdade de imprensa. (AI 505.595, Rel. Min. Celso de Mello, deciso monocrtica, julgamento em 11-11-2009, DJE de 23-11-2009.). Muito embora a deciso da Suprema Corte tenha explicitamente mencionado a impossibilidade da crtica jornalstica caracterizar um ataque  honra individual em razo de verdadeira excludente anmica, que descaracteriza o animus injuriandi vel diffamandi, a fundamentao revela a adequao social da conduta. Trata-se, efetivamente, de impossibilidade de imputao objetiva da violao da norma incriminadora. 5.5.3. Conceito desfavorvel emitido por funcionrio pblico. Conforme o inciso III do artigo 142 do CP, no constituem injria ou difamao o conceito desfavorvel emitido por funcionrio pblico, em apreciao ou informao que preste no cumprimento de dever do ofcio. Trata-se de hiptese que se assemelha  imunidade judiciria que garante o pleno exerccio da defesa das causas em juzo e, por isso, pode ser denominada de imunidade funcional.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência reconhece a impossibilidade da imputação objetiva nos casos de crítica jornalística, pois o direito de criticar está qualificado como verdadeira excludente anímica, descaracterizando o animus injuriandi vel diffamandi. Além disso, o inciso III do artigo 142 do CP não considera injúria ou difamação o conceito desfavorável emitido por um funcionário público no cumprimento de seu dever.

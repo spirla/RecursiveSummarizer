@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nesse sentido, ordinariamente, a vantagem indevida possui a natureza econmica.  o caso do fhishing, em que mensagens eletrnicas so utilizadas como isca para pescar senhas e dados financeiros de usurios da internet, e dos exploits, que so ferramentas que permitem o acesso privilegiado ao computador invadido para o conhecimento de informaes que nele esto armazenadas. Conhecido o segredo, o sujeito ativo pretende obter algum proveito econmico com a utilizao da senha ou das informaes obtidas indevidamente. A vantagem ilcita a que se refere o tipo pode ser de qualquer natureza. A aprovao em concurso pblico por meio do conhecimento prvio de questes de prova, por exemplo, pode caracterizar a vantagem ilcita que integra o tipo incriminador da invaso de dispositivo informtico. Ainda cabe observar que, no fazendo o tipo restries, a vantagem ilcita pode prejudicar qualquer pessoa e no somente o titular do dispositivo informtico. Considere-se, agora, o exemplo em que o sujeito, por meio de invaso indevida em dispositivo informtico, consegue obter informaes bancrias de terceiros e as utiliza para realizar saques em suas respectivas contas. A figura qualificada do crime de invaso de dispositivo informtico, prevista no pargrafo 3 do artigo 154-A, utiliza outros elementos normativos que tambm desafiam a compreenso do operador do direito. Vejamos, ento, esses outros elementos:
+Comunicaes eletrnicas privadas. O correio eletrnico, tambm conhecido por e-mail (acrnimo do ingls electronic mail)  o servio que permite a troca de mensagens entre seus usurios por meio de uma rede que lhes seja comum. Muito embora o e-mail seja uma das aplicaes mais populares da internet, no constitui uma exclusividade das redes extranet, podendo tambm ser operado no ambiente interno de uma corporao ou instituio pblica, por meio de redes intranet. A incriminao em exame somente estabeleceu proteo para as comunicaes eletrnicas privadas, devendo entender-se como tais as mensagens de contedo privado que so transmitidas por meio de correio eletrnico. O elemento normativo no se refere s comunicaes eletrnicas cujo contedo seja relacionado ao exerccio de uma atividade pblica, como  o caso dos ofcios interinstitucionais. Desta forma, a comunicao eletrnica privada constitui uma forma de correspondncia particular. Segredos comerciais ou industriais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A vantagem indevida possui natureza econômica e pode prejudicar qualquer pessoa, não somente o titular do dispositivo informático. O crime de invasão de dispositivo informático prevê proteção para as comunicações eletrônicas privadas e segredos comerciais ou industriais.

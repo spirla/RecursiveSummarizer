@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A analise do pedido de intervencao federal perpassa inevitavelmente pela aplicacao das normas constitucionais, encontrando solucao imediata no principio da proporcionalidade, e, em seguida, na tomada de novas medidas administrativas e, se for o caso, judiciais frente a realidade atual da area. 487 Tal conclusao afigura-se ainda mais consentanea a hipotese, ao constatar-se que remanesce aos requerentes o direito a reparacao, que pode ser exercido por meio de acao de indenizacao. (Informativo n. 732) PROCESSO EREsp 1.265.625-SP, Rel. Min. Francisco Falcao, Corte Especial, por maioria, julgado em 30/03/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL CIVIL TEMA Acordao proferido pela Justica Estadual. Habilitacao da Uniao na qualidade de assistente simples. Interesse juridico especifico demonstrado. Intervencao anomala nao configurada. Deslocamento da competencia para a Justica Federal. Perpetuatio jurisdictionis. Nao incidencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A solução para o pedido de intervenção federal deve ser encontrada na aplicação do princípio da proporcionalidade e na tomada de novas medidas administrativas e judiciais. 2. Os requerentes têm direito à reparação, que pode ser exercido por meio de ação de indenização. 3. A habilitação da União na qualidade de assistente simples é possível quando houver interesse jurídico específico demonstrado. 4. Não há configuração de intervenção anômala. 5. Não há deslocamento da competência para a Justiça Federal. 6. Não há incidência de perpetuatio jurisdictionis.

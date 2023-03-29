@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ainda que o estado seja o acionista majoritario das empresas concessionarias dos servicos de sanea-mento basico, nao se admite essa interferencia. Com esses entendimentos, o Plenario, por unanimidade, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade dos arts. 1, 4, paragrafo unico, e 5 da Lei 23.797/2021 do Estado de Minas Gerais que dispoe sobre a concessao, por periodo determinado, de isencao total das tarifas de agua e esgoto e de energia eletrica aos consumidores residenciais, industriais e comerciais atingidos por en-chentes no estado. ADI 6912/MG, relator Ministra Alexandre de Moraes, julgamento virtual finalizado em 15.8.2022 (segunda-feira), as 23:59 (INF 1063) Lei estadual: militares estaduais e instituicao de contribuicao para custear servicos de sa-ude - ADI 5368/TO ODS: 3 Resumo: E inconstitucional preceito de lei estadual que institui contribuicao compulsoria de bombeiros e policiais militares estaduais para compor fundo de assistencia, com o objetivo de custear servicos de saude a eles prestados. Contudo, o legislador estadual pode estabelecer contribuicao facultativa com o aludido fim. O texto constitucional atribui a Uniao a competencia exclusiva para a instituicao de contribuicoes so-ciais, de intervencao no dominio economico e de interesse das categorias profissionais ou economicas (CF/88, art. 149). Vale lembrar que os entes estaduais so podem instituir contribuicao para custear o regime previdenciario tratado no art. 40 da CF/88. Por outro lado, os servicos medicos, hospitalares, odontologicos e farmaceuticos podem ser prestados aos militares estaduais, desde que nao seja de modo impositivo, e sim facultativamente. Nesse contexto, o beneficio seria custeado mediante o pagamento de contribuicao facultativa dos militares que se dispusessem a dele fruir e os servicos de saude consistiriam em autentico plano de saude complementar, distinto do Sistema Unico de Saude.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional o preceito de lei estadual que institui contribuição compulsória de bombeiros e policiais militares estaduais para compor fundo de assistência, com o objetivo de custear serviços de saúde a eles prestados. 2. O legislador estadual pode estabelecer contribuição facultativa com o aludido fim. 3. O texto constitucional atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas. 4. Os entes estaduais só podem instituir contribuição para custear o regime previdenciário tratado no art. 40 da CF/88. 5. Os serviços médicos, hospitalares, odontológicos e farmacêuticos podem ser prestados aos militares estaduais, desde que não seja de modo impositivo, e sim facultativamente.

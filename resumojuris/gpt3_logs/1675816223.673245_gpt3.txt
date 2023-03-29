@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A legislacao estadual exorbitou dos limites expressamente estabelecidos pela legislacao federal para o tratamento da materia, promovendo indevida inovacao ao prever o aumento do minimo de fonte de energia primaria idonea a criar uma presuncao de significativa degradacao ambiental, bem como ao inserir requisito diverso para o licenciamento, consistente na extensao da area inundada. Por outro lado, a atuacao normativa estadual flexibilizadora, ao desconsiderar o patamar minimo esta-belecido para a configuracao de atividade potencialmente poluidora, violou o direito fundamental ao meio ambiente ecologicamente equilibrado e afrontou a obrigatoriedade da intervencao do Poder Publico em materia ambiental. Ademais, como os empreendimentos e atividades economicas apenas sao considerados licitos e constitucionais quando subordinados a regra de protecao ambiental, a norma impugnada, justamente por repre-sentar protecao insuficiente, deixa de observar os principios da proibicao de retrocesso em materia socioambi-ental, da prevencao e da precaucao Com base nesses entendimentos, o Plenario, por maioria, julgou procedente a acao para declarar a in-constitucionalidade material dos artigos 3, XII, e 24, XI, da LC 38/1995 do Estado de Mato Grosso, bem como da expressao contida no artigo 24, VII, da mesma norma, tanto na redacao vigente ( com area de inunda-cao acima de 13 km ) quanto na anterior ( com area de inundacao acima de 300ha ). ADI 4529/MT, relatora Ministra Rosa Weber, julgamento virtual finalizado em 21.11.2022 (segunda-feira), as 23:59 (INF 1076) Concessao automatica de licenca ambiental para empresas com grau de risco medio - ADI 6808/DF ODS: 8 e 11 Resumo: E inconstitucional a concessao automatica de licenca ambiental no sistema responsavel pela inte-gracao (Redesim) para o funcionamento de empresas que exercam atividades de risco medio nos termos da classificacao estabelecida em ato do Poder Publico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a legislação estadual que exorbita dos limites expressamente estabelecidos pela legislação federal para o tratamento da matéria, promovendo indevida inovação. 2. É inconstitucional a atuação normativa estadual flexibilizadora, ao desconsiderar o patamar mínimo estabelecido para a configuração de atividade potencialmente poluidora. 3. É inconstitucional a concessão automática de licença ambiental no sistema responsável pela integração (Redesim) para o funcionamento de empresas que exercam atividades de risco médio.

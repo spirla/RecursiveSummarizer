@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No cenario atual, nao ha sentido logico que justifique um aumento de pena tao expressivo pelo simples fato de ser o crime praticado em transporte regular. Essa posicao tornaria a majorante quase a regra na aplicacao do tipo penal na realidade pratica, o que findaria por desvirtuar a estruturacao normativa da norma incriminadora. Diante disso, a majorante somente pode ser aplicada quando houver uma maior reprovabilidade da conduta, caracterizada pela atuacao do imputado no sentido de dificultar a fiscalizacao estatal, por meio da clandestinidade. Com base nesse entendimento, a Segunda Turma, por empate na votacao, deu provimento ao agravo regimental para determinar ao Juizo de origem que refaca a dosimetria da pena imposta a paciente, com a exclusao da causa de aumento prevista no art. 334,  3, do CP. Os ministros Edson Fachin (relator) e Nunes Marques negaram provimento ao agravo. HC 162553 AgR/CE, relator Min. Edson Fachin, redator do acordao Min. Gilmar Mendes, julgamento em 14.9.2021 (INF 1030) 12.2 CRIMES CONTRA A INCOLUMIDADE PUBLICA Importacao de medicamentos sem registro na Anvisa e sancao - RE 979962/RS (Tema 1003 RG) Tese Fixada: E inconstitucional a aplicacao do preceito secundario do art. 273 do CP, com redacao dada pela Lei 9.677/1998 (reclusao, de 10 a 15 anos, e multa), a hipotese prevista no seu  1-B, I, que versa sobre a importacao de medicamento sem registro no orgao de vigilancia sanitaria. Para esta situacao especifica, fica repristinado o preceito secundario do art. 273, na redacao originaria (reclusao, de 1 a 3 anos, e multa) .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há sentido lógico que justifique um aumento de pena tão expressivo pelo simples fato de ser o crime praticado em transporte regular. 2. A majorante somente pode ser aplicada quando houver uma maior reprovabilidade da conduta, caracterizada pela atuação do imputado no sentido de dificultar a fiscalização estatal, por meio da clandestinidade. 3. É inconstitucional a aplicacao do preceito secundario do art. 273 do CP, com redacao dada pela Lei 9.677/1998 (reclusão, de 10 a 15 anos, e multa), a hipotese prevista no seu 1-B, I, que versa sobre a importacao de medicamento sem registro no orgao de vigilancia sanitaria. 4. Para esta situação específica, fica repristinado o preceito secundario do art. 273, na redação originária (reclusão, de 1 a 3 anos, e multa).

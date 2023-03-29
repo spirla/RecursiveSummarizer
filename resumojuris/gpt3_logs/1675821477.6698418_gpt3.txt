@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Os defensores publicos nao precisam estar inscritos na Ordem dos Advogados do Brasil (OAB) para desempenhar suas funcoes institucionais. A capacidade postulatoria do defensor publico decorre de nomeacao e posse no cargo. Os defensores publicos nao sao advogados publicos, pois possuem regime disciplinar proprio e tem sua capacidade postulatoria decorrente diretamente da Constituicao em secao a parte no texto constitucional. Com base nesses fundamentos, o Plenario, por maioria, julgou improcedente a acao direta e conferiu, ainda, interpretacao conforme a Constituicao ao art. 3,  1, da Lei 8.906/1994, declarando inconstitucional qualquer interpretacao que resulte no condicionamento da capacidade postulatoria dos membros da Defensoria Publica a inscricao dos defensores publicos na OAB. Vencido o ministro Dias Toffoli. ADI 4636/DF, relator Min. Gilmar Mendes, julgamento virtual finalizado em 3.11.2021 (quarta-feira), as 23:59 (INF 1036) Defensores publicos e inscricao na OAB - RE 1240999/SP (Tema 1074 RG) Tese fixada: E inconstitucional a exigencia de inscricao do Defensor Publico nos quadros da Ordem dos Advogados do Brasil. Resumo: Nao se harmoniza com a CF/88 (CF) o art. 3 da Lei 8.906/1994 ao estatuir a dupla sujeicao ao regime juridico da Ordem dos Advogados do Brasil (OAB) e ao da Defensoria Publica, federal ou estadual. O art. 4,  6, da Lei Complementar (LC) 80/1994, na redacao dada pela LC 132/2009, preve que a capacidade postulatoria do defensor publico decorre exclusivamente de sua nomeacao e posse no cargo publico, o que torna irrelevante, sob o prisma juridico-processual, a sua inscricao nos quadros da OAB.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a exigência de inscrição do Defensor Público nos quadros da Ordem dos Advogados do Brasil. 2. Não se harmoniza com a Constituição Federal de 1988 o art. 3 da Lei 8.906/1994 ao estatuir a dupla sujeição ao regime jurídico da Ordem dos Advogados do Brasil e ao da Defensoria Pública, federal ou estadual. 3. A capacidade postulatória do Defensor Público decorre exclusivamente de sua nomeação e posse no cargo público, o que torna irrelevante, sob o prisma jurídico-processual, a sua inscrição nos quadros da OAB.

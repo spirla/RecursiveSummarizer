@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Estatuto que preve como finalidade a defesa dos direitos humanos. Legitimidade ativa. Substituicao processual. Autorizacao de todas as pessoas lesadas. Ausencia de obrigatoriedade. DESTAQUE Em acao civil publica ajuizada por associacao civil, cujo estatuto preve como finalidade a defesa de direitos humanos, em que se postula por indenizacao por danos morais decorrentes da pratica de atos vexatorios em revistas intimas para ingresso em centros de detencao, nao e obrigatoria a juntada de autorizacao individual de cada uma das pessoas interessadas. A legitimidade para as associacoes ajuizarem acoes civis publicas esta disciplinada no inciso V do art. 5 da Lei n. 7.347/1985 e e condicionada, concomitantemente, ao periodo minimo de 1 ano de constituicao e a finalidade institucional relacionada com a protecao ao patrimonio publico e social, ao meio ambiente, ao consumidor, a ordem economica, a livre concorrencia, aos direitos de grupos raciais, etnicos ou religiosos ou ao patrimonio artistico, estetico, historico, turistico e paisagistico . A Lei n. 8.078/1991, ao tratar das acoes coletivas para a defesa de interesses individuais homogeneos, preve a possibilidade de as acoes coletivas serem ajuizadas em nome da propria associacao, mas no interesse das vitimas; e estabelece a possibilidade de sentenca generica, na hipotese de procedencia do pedido, ficando a liquidacao e a execucao respectivas a cargo das vitimas (arts. 81, 82, 91, 95 e 97). As pessoas visitantes de unidades prisionais estao submetidas a diversos procedimentos de identificacao e seguranca e, por obvio, o Estado deve-lhes assegurar, dentre outros, os direitos relacionados com integridade fisica e moral e com tratamento impessoal, digno e respeitoso etc. E, considerado o fato de a pretensao autoral se remeter a direitos das pessoas submetidas ao procedimento de revista intima, deve-se compreender tratar- se de direitos individuais homogeneos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Legitimidade ativa para ajuizar ação civil pública por associação civil cujo estatuto preve como finalidade a defesa de direitos humanos. 2. Não é obrigatória a juntada de autorização individual de cada uma das pessoas interessadas. 3. Legitimidade para as associações ajuizarem ações civis públicas condicionada ao período mínimo de 1 ano de constituição e a finalidade institucional relacionada com a proteção ao patrimônio público e social. 4. Possibilidade de ações coletivas serem ajuizadas em nome da própria associação, mas no interesse das vítimas. 5. Possibilidade de sentença genérica na hipótese de procedência do pedido, ficando a liquidação e a execução respectivas a cargo das vítimas. 6. Estado deve assegurar direitos relacionados com integridade física e moral e com tratamento impessoal, digno e respeitoso às pessoas visitantes de unidades prisionais.

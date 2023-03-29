@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O aspecto relevante da questo diz respeito ao fato de nenhum dos concorrentes ter a inteno de produzir o resultado lesivo e, assim, parecer no ser possvel a cooperao para a realizao de um fato ilcito comum. Nesse sentido, a doutrina alem, em especial por influncia de seu direito positivo, nega a possibilidade da coautoria em crimes culposos. Jescheck sustenta no ser possvel a coautoria em crimes imprudentes, porque faltaria aos concorrentes o acordo comum que visa  produo do resultado. Os doutrinadores nacionais, contudo, no se deixaram influenciar pelos alemes. As resistncias iniciais foram, pouco a pouco, cedendo lugar  compreenso de que a convergncia do elemento subjetivo no poderia ocorrer em relao  produo do resultado naturalstico, porque no crime culposo no se busca realizar tal resultado. Esther de Figueiredo Ferraz, que defendeu ponto de vista contrrio ao reconhecimento do concurso, retificou sua posio reconhecendo expressamente que:
+(...) embora houvssemos durante anos e convictamente negado a possibilidade da participao em crimes culposos, vimo-nos obrigada a abrir mo daquele ponto de vista to ponderveis as razes demonstrativas da procedncia da opinio contrria. E chegamos  concluso de que nossa relutncia inicial em acat-la se explicava por uma certa distoro no sentido de tratar os crimes culposos como se fossem dolosos. Ora, esses dois tipos de infraes ho de se sujeitar, cada qual a seu modo, cada qual dentro da linha imposta pela sua natureza especfica, s normas pertinentes ao concurso de agentes.  evidente que o vnculo de natureza psicolgica que liga as condutas ao resultado comum ser diverso conforme se trate de crimes dolosos ou culposos. Nem por isso, entretanto, deixar de haver nesses ltimos aquela coincidncia ou confluncia de vontades exigida para a caracterizao do concurso. A exposio de motivos da parte geral do Cdigo Penal de 1940, no item 22, expressamente declarava a possibilidade do concurso de pessoas em crime culposo. O fundamento aceito foi o de que (...) tanto  possvel a cooperao material quanto a cooperao psicolgica, isto , no caso de pluralidade de agentes, cada um destes, embora no querendo o evento final, tem conscincia de cooperar na ao. A exposio de motivos da Lei 7.209/85, que alterou a parte geral do Cdigo Penal, silenciou sobre o assunto. Talvez porque a questo tenha sido considerada superada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina alem negava a possibilidade de coautoria em crimes culposos, mas os doutrinadores nacionais passaram a aceitar que a convergência do elemento subjetivo poderia ocorrer. A exposição de motivos do Código Penal de 1940 expressamente declarou a possibilidade de concurso de pessoas em crime culposo. A exposição de motivos da Lei 7.209/85 silenciou sobre o assunto, indicando que a questão já estava superada.

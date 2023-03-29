@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A conduta proibida e sua consequncia devem ser definidas na lei, e no inferidas da lei. Essa ideia garantista  expressa na frmula do nullum crimen nulla poena sine lege certa. O tipo penal, como ponto de referncia para os juzos de ilicitude e culpabilidade, representa importante suporte para a funo de garantia da lei penal, na medida em que define com clareza o comportamento juridicamente proibido. No entanto, nesse aspecto, a garantia oferecida pelo princpio da reserva legal no tem conseguido realizar-se plenamente. A teoria do tipo penal no se mostra plenamente adequada  realizao da garantia individual almejada. Exemplos marcantes dessa assertiva so os crimes culposos e os omissivos imprprios, nos quais o legislador descreve apenas parte do modelo de comportamento proibido, delegando ao juiz a tarefa de complet-lo. Os tipos que necessitam desse complemento so denominados pela doutrina tipos abertos. Nos crimes culposos, os tipos abertos identificam apenas o resultado naturalstico indesejado (leso ou perigo de leso ao bem jurdico), cabendo ao julgador materializar a vontade da norma proibitiva com a identificao da conduta que, concretamente, viola o cuidado objetivo exigvel no mbito das relaes sociais. Nos crimes imprprios de omisso, da mesma forma, pretende-se que o julgador complete a descrio do comportamento tpico, com a utilizao do critrio da posio de garantidor da no ocorrncia do resultado, para relacionar uma inatividade  descrio legal de uma atividade e determinar a tipicidade.  foroso reconhecer que, ao menos na hiptese dos tipos abertos, a teoria da tipicidade no oferece a almejada garantia individual. No se encontra na lei a descrio precisa do comportamento proibido. Tambm com relao  definio de penas, o problema verifica-se. Veja-se o caso da pena restritiva de direitos da prestao pecuniria. O pargrafo 2 do artigo 45 do CP dispe que, se houver aceitao do beneficirio, a prestao pecuniria pode consistir em prestao de outra natureza. Com certeza, a indefinio da pena de outra natureza viola o princpio da reserva legal, por sua manifesta indeterminao. A mesma coisa acontece com a prestao de servios  comunidade. Conforme o pargrafo 1 do artigo 46, a prestao de servios  comunidade ou a entidades pblicas consiste na atribuio de tarefas gratuitas ao condenado. A previso legal, no entanto, no estabelece quais as tarefas que podem ser executadas pelo condenado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da reserva legal não tem conseguido realizar-se plenamente, pois a teoria do tipo penal não é adequada para a garantia individual. Exemplos disso são crimes culposos e omissivos impróprios, nos quais o legislador descreve apenas parte do comportamento proibido, delegando ao juiz a tarefa de completá-lo. Além disso, a definição de penas também viola o princípio da reserva legal por sua manifesta indeterminação.

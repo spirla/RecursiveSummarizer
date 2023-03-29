@@ -1,0 +1,24 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A constituio de advogado  obrigatria, profissional com capacidade postulatria. 9.5.1. Habilitao e admissoA habilitao  vivel na ao penal, depois de recebida denncia e enquanto no passar em julgado a sentena. O juiz ouve o Ministrio Pblico e concede ou nega a admisso do assistente de acusao. O recurso do despacho que indefere a assistncia de acusao no tem efeito suspensivo, processando-se em autos apartados (artigo 65, pargrafo 2, CPPM). No h recurso previsto contra a deciso que defere a assistncia de acusao. Em processo de competncia originria cabe ao relator, em despacho irrecorrvel, aps audincia do Ministrio Pblico, admitir ou no o assistente. O assistente admitido receber a causa no estado em que se achar. 9.5.2. Atuao no processo. O interesse do assistente de acusao  de obter sentena condenatria, ttulo executivo para o fim de propor ao civil ex delicto. A atividade processual do assistente do Ministrio Pblico  limitada ao disposto no artigo 65 do CPPM para os seguintes fins:
+(a) propor meios de prova;
+(b) requerer perguntas s testemunhas, fazendo-o depois do procurador;
+(c) apresentar quesitos em percia determinada pelo juiz ou requerida pelo Ministrio Pblico;
+(d) juntar documentos;
+(e) arrazoar os recursos interpostos pelo Ministrio Pblico;
+(f) participar do debate oral. A atuao do assistente, no entanto, sofre outras restries (artigo 65, pargrafo 1, CPPM), no poder:
+(a) arrolar testemunhas, exceto requerer o depoimento das que forem referidas;
+(b) requerer a expedio de precatria ou rogatria, ou diligncia que retarde o curso do processo, salvo, a critrio do juiz e com audincia do Ministrio Pblico, em se tratando de apurao de fato do qual dependa o esclarecimento do crime;
+(c) impetrar recursos, salvo de despacho que indeferir o pedido de assistncia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituio exige que advogados tenham capacidade postulatria para atuar na ação penal. O juiz ouve o Ministério Público e concede ou nega a admisso do assistente de acusação. O assistente de acusação tem como objetivo obter sentença condenatória e pode propor meios de prova, requerer perguntas às testemunhas, apresentar quesitos em perícia, juntar documentos, arrazoar recursos interpostos pelo Ministério Público e participar do debate oral. No entanto, não pode arrolar testemunhas, requerer expedição de precatória ou rogatória ou impetrar recursos.

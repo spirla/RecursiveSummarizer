@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A possibilidade de retorno da orientao subjetiva e a adequao tpica podem ser representadas da seguinte forma, no exemplo clssico da desistncia de realizar um crime de homicdio que caracteriza o crime de leso corporal consumado e no a tentativa de homicdio:
+A desistncia voluntria e o arrependimento eficaz somente produziro efeitos de inadequao tpica do crime cuja execuo tenha sido iniciada se for capaz de evitar a satisfao plena das exigncias de natureza objetiva (no caso de crimes materiais, a ocorrncia do resultado naturalstico). Se a reorientao subjetiva impedir a ocorrncia do resultado lesivo caracterizador do crime cuja execuo tiver sido iniciada, mas no for capaz de impedir a ocorrncia de outros resultados lesivos subsidirios e penalmente incriminados, dever o sujeito ser responsabilizado por eles. Na representao acima, tem-se que, inicialmente, a conduta era objetivamente idnea para produzir a morte da vtima e foi orientada por esta inteno. Posteriormente, a mudana na orientao subjetiva e conduta do sujeito  capaz de evitar o resultado morte. No entanto, o sujeito deve ser responsabilizado pela produo das leses corporais, pois estas j haviam sido praticadas antes da reorientao do comportamento e no puderam ser evitadas. A responsabilizao pelos atos j praticados, como expressamente prev o artigo 15 do Cdigo Penal, pressupe a existncia de tipicidade para a conduta j realizada. Se no houver tipicidade subsidiria para os atos j realizados, desconsiderando-se a sua vinculao com o fato evitado, no haver responsabilizao. Vejamos agora o exemplo em que o usurio de drogas desiste da compra de certa quantidade da droga, tendo em vista o elevado valor pedido pelo traficante, mesmo possuindo dinheiro suficiente para a aquisio e aps ter feito proposta de aquisio da droga por valor inferior. No exemplo em exame, a conduta proibida pelo artigo 28 da Lei 11.343/2006 diz respeito  aquisio da droga. A execuo do crime tem incio com a solicitao de compra da droga pelo usurio ao traficante. A aquisio da droga consuma o crime de mera conduta. A desistncia do usurio em adquirir a droga, possuindo dinheiro suficiente para realizar a aquisio, porque entendeu que o preo pedido pelo traficante era elevado, caracteriza situao de desistncia voluntria que no permite responsabilizao pela prtica dos atos j realizados.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A desistência voluntária e o arrependimento eficaz são capazes de evitar a satisfação plena das exigências de natureza objetiva (no caso de crimes materiais, a ocorrência do resultado naturalístico). No entanto, o sujeito deve ser responsabilizado pelos atos já praticados, pois estes j haviam sido realizados antes da reorientação do comportamento e não puderam ser evitados. No caso da aquisição de drogas, a desistência voluntária não permite responsabilização pela prática dos atos já realizados.

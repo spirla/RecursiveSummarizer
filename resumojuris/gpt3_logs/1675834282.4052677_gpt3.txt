@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A existencia, em sequencia, das referidas fases, por decorrencia logica, e essencial para a validade da aplicacao da sancao administrativa, ou seja a Administracao so pode impulsionar o feito para a fase seguinte quando concluidos os atos essenciais da etapa anterior. No caso, durante o andamento do PAD impugnado, a autora impetrou mandado de seguranca, em que obteve provimento liminar favoravel para determinar a suspensao da realizacao do ato de interrogatorio que ocorreria na via administrativa, fato que implicou relevante debate sobre os efeitos que aquela decisao operou em relacao ao curso do prazo prescricional. Hipotese em que, embora a decisao prolatada no mandado de seguranca nao tenha expressamente impedido o curso do processo administrativo, mas apenas a realizacao do interrogatorio, ela acabou produzindo, na pratica, o efeito de obstar a marcha processual para a fase adiante. Se, por forca de determinacao judicial, a Administracao nao podia realizar e concluir o interrogatorio do servidor, ela nao podia seguir o curso natural do processo, o qual, por via transversa, estava suspenso, e assim tambem deve se considerar o prazo prescricional. O instituto da prescricao esta atrelado a inercia/inacao, predicado que nao estava presente na conduta da comissao processante quando deixou de impulsionar o feito a fase seguinte porque nao podia realizar o ultimo ato da instrucao. (Informativo  Ed. Especial n. 5) 147 Lei n. 8.112/1990, art. 151; e Lei n. 8.112/1990, arts. 155, 159, 161,  1, e 166. PROCESSO MS 26.863-DF, Rel. Min. Herman Benjamin, Primeira Secao, por unanimidade, julgado em 25/05/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A existência, em sequência, das fases do processo administrativo disciplinar é essencial para a validade da aplicação da sanção administrativa. 2. A decisão judicial que impede a realização de um ato essencial da etapa anterior impede a marcha processual para a fase seguinte. 3. O instituto da prescrição está atrelado à inércia/inação, predicado que não estava presente na conduta da comissão processante quando deixou de impulsionar o feito à fase seguinte por não poder realizar o último ato da instrução.

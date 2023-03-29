@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Em qualquer caso, segundo a regra do artigo 119 do CP, a contagem do prazo de prescrio dever considerar a pena de cada crime isoladamente. Isso significa que, correndo o prazo de prescrio, cada crime ou condenao dever ser considerado distintamente dos demais. Vejamos a aplicao prtica da regra em alguns exemplos. Na hiptese de processo que apure a prtica de vrios crimes de furto em continuidade criminosa (artigo 70), o termo inicial para a contagem do prazo prescricional ser a data da consumao de cada um. Assim,  possvel que, no dia do recebimento da denncia, j tenha ocorrido a prescrio em relao aos crimes mais antigos.  possvel, at, que s o ltimo crime praticado no esteja prescrito, caso em que no se poder mais falar em crime continuado. Durante o curso do processo, a anlise da prescrio da pretenso punitiva dever levar em conta a pena mxima cominada a cada crime isoladamente. No se pode calcular a prescrio com base no somatrio de pena, mesmo sendo caso de concurso material, ou na pena aumentada devido s regras do concurso formal ou crime continuado. Tratando-se de crimes sujeitos a penas diferentes (tentado e consumado), no curso do processo, portanto, poder ocorrer a prescrio em relao a alguns crimes, e no ocorrer em relao a outros. Mas suponhamos que no tenha ocorrido prescrio da pretenso punitiva, no caso inicialmente mencionado, e o juiz, ao condenar o ru, aplica o aumento de pena previsto para o crime continuado. Na avaliao da prescrio da pretenso executria, considerar a prtica isolada de cada crime significa que o prazo para a prescrio no poder ser influenciado pelo aumento de pena decorrente de continuidade. Isto , considerando a contagem simultnea do prazo prescricional, em relao a todos os crimes, quando ocorrer a prescrio do mais grave deles ou de qualquer um deles, se igualmente graves, ocorrer a prescrio de todos os demais. Nesse sentido, a Smula 497 do STF dispe que quando se tratar de crime continuado, a prescrio regula-se pela pena imposta na sentena, no se computando o acrscimo decorrente da continuao. No entanto, vale observar que a prescrio retroativa que incide sobre o crime continuado tambm poder se dar entre a data do crime e a data do recebimento da denncia. Nesses casos, se a pena no for individualizada para cada um dos crimes antes da aplicao do benefcio prprio ao crime continuado, haver dificuldades em caracterizar a prescrio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A regra do artigo 119 do Código Penal prevê que a contagem do prazo de prescrição deve considerar a pena de cada crime isoladamente. Se ocorrer a prescrição do crime mais grave, ou de qualquer um deles, igualmente graves, ocorrerá a prescrição de todos os demais. A Smula 497 do STF estabelece que, quando se trata de crime continuado, a prescrição é regulada pela pena imposta na sentença, não computando o acréscimo decorrente da continuidade.

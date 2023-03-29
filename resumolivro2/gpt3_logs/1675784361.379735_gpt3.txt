@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STF concedeu a ordem de habeas corpus para novo julgamento do paciente que fora denunciado pelo crime de violao de dever funcional com o fim de lucro (artigo 320, CPM) e na apelao o STM deu nova definio jurdica ao fato e o condenou por estelionato (artigo 251, pargrafo 3, CPM) sem conceder ao ru a oportunidade de defesa, o que acarreta violao aos direitos constitucionais do contraditrio e da ampla defesa, bem como ao artigo 437 do Cdigo de Processo Penal Militar. De modo coerente, o STF no anulou o acrdo do STM que confirmou a sentena em que o recorrente fora denunciado por homicdio doloso (dolo eventual), porque em alegaes finais o MPM aditou a denncia para homicdio culposo e o recorrente teve oportunidade de se defender. Na jurisprudncia militar o que se verifica, com o devido respeito,  o desprestgio do sistema acusatrio formulado pelo CPPM e pela Constituio Federal, desateno aos princpios constitucionais da inrcia da jurisdio, do contraditrio e da ampla defesa e o relaxamento do grau de exigncia que o CPPM faz para a mutabilidade do objeto do processo, ou seja, que a mudana da qualificao jurdica dos fatos seja feita pelo Ministrio Pblico. Para o STM existem duas possibilidades de emendatio libelli:
+in mellius, ou seja, em benefcio do ru, ou in pejus, causando-lhe uma situao mais gravosa. A primeira possibilidade - emendatio libelli in mellius - o STM consagrou no enunciado da Smula 5:
+A desclassificao de crime capitulado na denncia pode ser operada pelo Tribunal ou pelos Conselhos de Justia, mesmo sem manifestao, neste sentido, do Ministrio Pblico Militar nas alegaes finais, desde quando importe em benefcio para o ru e conste da matria ftica. A desclassificao pode at ser em favor do ru, no entanto, a inteligncia do artigo 437, a, do CPPM, exige requerimento do MPM, em suas alegaes escritas, para a possibilidade de o Tribunal desclassificar o crime capitulado na denncia. Assim, seguindo esse critrio, o STM desclassificou de delito doloso (furto) para culposo (receptao culposa).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF concedeu a ordem de habeas corpus para novo julgamento de um paciente denunciado por violação de dever funcional com o fim de lucro. O STM, porém, desclassificou o crime para estelionato sem conceder ao ru a oportunidade de defesa, o que viola direitos constitucionais. O STM permite a desclassificação de crime para benefício do ru, desde que o MPM faça o requerimento nas alegações finais. No caso em questão, o STM desclassificou de delito doloso para culposo.

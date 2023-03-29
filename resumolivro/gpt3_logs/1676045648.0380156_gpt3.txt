@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O distanciamento que a dogmtica jurdico-formal proporciona em relao  realidade social concreta faz com que o julgador anule-se, mediante uma aplicao mecnica do entendimento consolidado nos tribunais, o que permite a continuidade de uma injustia sistmica. Toda culpa jurdico-penal possui fundamento na interao social. Por isso, deve ser apurada por meio de critrios que possibilitem o processo discursivo e se encontrem em harmonia com as exigncias normativas que a comunidade, por sua ordem jurdica, pode legitimamente fazer ao indivduo, sem, com isso, afetar sua dignidade pessoal. A insuficincia dogmtica do princpio da culpabilidade faz realar a necessidade de se encontrar nova formulao para os seus elementos constitutivos. No constitui esforo estril a reconstruo da noo de culpabilidade, pois  dogmtica jurdico-penal cabe garantir os direitos fundamentais do homem, em face da interveno repressiva estatal. Sem identificar claramente qual seja o contedo material da culpabilidade, a imposio da pena no encontra fundamento suficiente, e a reprovao penal passa a ser resultado de mero arbtrio. O juzo de reprovao da culpabilidade, fundamentado na exigibilidade jurdica e social (discursiva) de comportamento diverso, deve ponderar com a devida ateno os dados peculiares do acusado em sua relao com o ambiente social no qual se verificou a conduta criminosa.  necessrio que o contedo material da culpabilidade, ou seja, o objeto da valorao, possa reunir em uma s categoria conceitual todo o complexo de circunstncias que justifiquem a reao social  prtica criminosa de modo a estabelecer concretamente quando a conduta mostrar-se- mais ou menos reprovvel. 8.6. Coculpabilidade. A reprovao jurdica da culpabilidade no  um fenmeno individual, isolado, que s afeta o acusado e a eventual vtima do injusto, mas decorre da reao social ao crime e deve ser compreendida no contexto comunicativo da interao social. Nessa linha de raciocnio, Muoz Conde afirma:
+No h culpabilidade em si, mas sim uma culpabilidade com referncia aos demais. A culpabilidade no  um fenmeno individual, mas social. No  uma qualidade da ao, mas uma caracterstica que se lhe atribui para poder imput-la a algum como seu autor e faz-lo responder por ela. , pois, a sociedade, ou melhor, seu Estado representante, produto da correlao de foras sociais existentes em um determinado momento histrico, quem define os limites do culpvel e do inculpvel, da liberdade e da no liberdade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O distanciamento da dogmtica jurdico-formal em relao realidade social exige que se encontre uma nova formulao para os elementos constitutivos da culpabilidade, pois a imposio da pena deve ter fundamento suficiente e o juzo de reprovao deve ponderar os dados peculiares do acusado e o contexto comunicativo da interao social. A culpabilidade no um fenmeno individual, mas sim social, e a sociedade, por meio do Estado, quem define os limites do culpvel e do inculpvel.

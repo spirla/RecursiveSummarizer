@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+319; Requereu, tambm, a concesso da ordem impetrada em favor do paciente Rafael Henrique Ribeiro, com fundamento no artigo 5, inciso LXVIII, considerando a inexistncia dos pressupostos legais necessrios  manuteno da priso processual, bem como pela existncia da possibilidade da substituio da priso por medidas cautelares, adequadas e suficientes para a regularidade da ao penal militar. No mrito, requereram: [...] a concesso da medida liminar pretendida, mantendo-se solto o paciente por entender que no representa mais risco a ordem pblica e nem  hierarquia e disciplina; A aplicao de medidas cautelares diversas da priso, nos termos do art. 319 e seguintes do CPP, tais como o monitoramento eletrnico atravs de tornozeleira; o dever de comunicar a este Douto Juzo, a manuteno do endereo atualizado, no se ausentar da 1a, 2a e 3a RPM; no manter contato com os demais rus deste processo, bem como com os civis tambm processados, seja de maneira fsica, virtual ou por meio de aplicativo de mensagens (WhatsApp); no ter acesso ao sistema informatizado da PMMG, bem como acesso ao REDS e SIRH, dentre outras medidas cautelares necessrias para a concesso da medida liminar. Com a inicial, vieram os documentos contidos no Evento n. 1 (out. 3 a 14). O pedido liminar foi indeferido por este julgador em 29/11/2021. (Evento n.9) As informaes foram prestadas pela autoridade tida como coatora e se encontram no Evento n. 13. Intimada, a douta procuradora de justia atuante nesta Corte se manifestou no Evento n. 16, nos termos que seguem. Observe-se: Em ateno  determinao constante do evento 9, esta Procuradora de Justia se manifesta no sentido da impertinncia da impetrao de novo habeas corpus pelo Cb PM RAFAEL HENRIQUE RIBEIRO. Isso porque, h exatamente um ms foi impetrado o HC n. 200015698.2021.9.13.0000 em favor do mesmo paciente sob os mesmos argumentos deste HC n. 2000174-22.2021.9.13.0000, cuja ordem veio a ser denegada h menos de 15 dias atrs, precisamente na sesso de julgamento realizada em 18/11/2021. Assim, em face da inexistncia de fato novo a subsidiar mais um pedido de concesso de habeas corpus, o que, inclusive, foi reconhecido na deciso constante do evento 9, a medida correta a ser adotada pelo paciente  a interposio de recurso ordinrio da deciso proferida no HC n. 2000156-98.2021.9.13.0000 e no a impetrao de novo HC. Pelo exposto, esta Procuradoria de Justia opina pelo no conhecimento do habeas corpus impetrado nestes autos (evento 1 - INIC1) e, caso conhecido, reitera integralmente o parecer exarado no evento dos autos do HC n. 2000156-98.2021.9.13.0000.  o relatrio. Em mesa para julgamento.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O pedido de habeas corpus impetrado em favor de Rafael Henrique Ribeiro foi indeferido, pois j havia sido impetrado um habeas corpus com os mesmos argumentos h menos de 15 dias, e não havia fatos novos que justificassem a impetração de um novo habeas corpus. A Procuradoria de Justia opinou pelo não conhecimento do habeas corpus impetrado.

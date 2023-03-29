@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+487 do CPC, o eminente magistrado a quo julgou improcedente o pedido do autor, determinando a extino do feito com resoluo de mrito. Condenou o autor ao pagamento de honorrios advocatcios arbitrados em 10% do valor da causa, bem como ao pagamento das custas processuais, todavia suspendeu a cobrana, nos termos do 3 do art. 98 do CPC. Irresignada, a defesa do militar apresentou recurso de apelao, como se nota no Evento n. 34. Os argumentos apresentados pelo apelante foram idnticos aos contidos na inicial, razo pela qual deixo de repris-los, evitando-se, assim, repeties desnecessrias. Ao final, a defesa requereu que o presente recurso de apelao seja conhecido e provido, para anular o processo de comunicao disciplinar instaurado pela Portaria n. 122.289/2016. Requereu, ainda, a anulao da sano disciplinar aplicada, com a retirada, do extrato funcional do recorrente, da punio aplicada, a devoluo da pontuao perdida (15 pontos) e a restituio, em pecnia, da prestao se servios feita, aplicando-se os efeitos retroativos da anulao. Intimado, o Estado de Minas Gerais apresentou contrarrazes ao apelo, sustentando "que o autor no logrou em demonstrar qualquer ilegalidade no procedimento administrativo, sendo vedado ao Judicirio o reexame de provas que o conduzem a invaso do mrito administrativo, bem como refutou todos os argumentos trazidos pelo apelante. Reiterou que, embora o recorrente tenha apresentado o atestado mdico e cientificado o Oficial do Dia (art. 32,  6, da Resoluo 4278/13), deixou de comunicar seu Chefe de Curso acerca de sua licena, motivo pelo qual deve ser mantida a punio aplicada. Ao final, requereu a manuteno da sentena de primeiro grau (Evento n. 42) Registro que deixei de abrir "vista dos autos  douta Procuradoria de Justia, considerando a ausncia das hipteses de sua interveno, previstas na Recomendao n. 01, de 03/09/2001, do Conselho Superior do Ministrio Pblico do Estado de Minas Gerais, publicada no Minas Gerais de 05/09/2001.  o relatrio. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Recebo o recurso, por estarem presentes os pressupostos de sua admissibilidade. No Processo de Comunicao Disciplinar (PCD) de Portaria n. 122.289/2016, objeto deste processo, foi investigada a prtica de infrao administrativa de natureza mdia praticada pelo autor, que, segundo a exordial da pea administrativa, se subsumiu ao tipo transgressivo previsto no art. 14, II, do CEDM. Conforme consta dos documentos juntados no Evento n. 1, dos autos correlatos, o recorrente restou punido com prestao de servio, bem como com o decote de 15 (quinze) pontos em seu conceito funcional. Pois bem.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelao foi recebido pelo relator, pois estavam presentes os pressupostos de sua admissibilidade. O Processo de Comunicao Disciplinar (PCD) de Portaria n. 122.289/2016 investigou a prtica de infrao administrativa de natureza mdia praticada pelo autor, sendo punido com prestao de servio e decote de 15 pontos em seu conceito funcional. O recurso foi negado, mantendo-se a sentena de primeiro grau.

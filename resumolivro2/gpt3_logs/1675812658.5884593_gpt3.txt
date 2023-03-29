@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se no for feita a leitura da sentena em audincia pblica, conforme preconiza o artigo 529 do CPPM, ou seja, na sesso em que proclamar o resultado do julgamento, o juiz dever faz-la dentro de 8 (oito) dias, de acordo com o artigo 443 do CPPM:
+Se a sentena ou deciso no for lida na sesso em que se proclamar o resultado do julgamento, s-lo- pelo auditor em pblica audincia, dentro do prazo de 8 (oito) dias, e dela ficaro, desde logo, intimados o representante do Ministrio Pblico, o ru e seu defensor, se presentes. Considera-se intimado o representante do Ministrio Pblico, o ru e seu defensor, se presentes  pblica audincia. Em caso de ausncia do representante Ministrio Pblico, do ru e de seu defensor  pblica audincia prevista no artigo 443 do CPPM, a intimao do representante do Ministrio Pblico da sentena absolutria ou condenatria  sempre pessoal e dentro do prazo de 3 (trs) dias, aps a leitura da sentena ou deciso, conforme estabelece o artigo 444 do estatuto adjetivo castrense. Sendo condenatria a sentena,  indispensvel a intimao do acusado e de seu defensor, nos termos do artigo 445 do CPPM:
+a) ao defensor de ofcio ou dativo;
+b) ao ru, pessoalmente, se estiver preso;
+c) ao defensor constitudo pelo ru. Se houver dvida quanto  tempestividade da apelao criminal interposta, em homenagem ao princpio constitucional da ampla defesa,  de rigor conhecer a apelao (STJ). 18.3.1.3. Regularidade (observncia das formalidades legais). A apelao  interposta por petio escrita (artigo 529, CPPM). Pondere-se se, depois de proclamado o resultado do julgamento, a parte manifestar o desejo de apelar, por economia processual,  dispensvel a formalidade do artigo 529 do CPPM de interposio do recurso por petio. Registra-se a manifestao da parte em ata de sesso, d-se a apelao por recebida e se oportuniza as razes do recurso.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 529 do CPPM prevê a leitura da sentença em audiencia pública, ou seja, na sessão em que se proclamar o resultado do julgamento. Caso isso não ocorra, o juiz deverá fazê-la dentro de 8 dias. O representante do Ministério Público, o réu e seu defensor devem estar presentes na audiência. Em caso de sentença condenatória, a intimidação deve ser feita pessoalmente ao réu e seu defensor. Se houver dúvida quanto à tempestividade da apelação criminal, ela deve ser interposta por petição escrita, de acordo com o artigo 529 do CPPM.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Somente o cancelamento da naturalizao ou a recusa em cumprir obrigao que a todos  imposta, ou a prestao alternativa, pode produzir a perda da nacionalidade e da cidadania. Portanto, a condenao criminal s poder produzir a suspenso dos direitos polticos enquanto perdurarem os efeitos do decreto condenatrio. A disposio constitucional que trata da suspenso dos direitos polticos no condiciona sua aplicao  existncia de legislao infraconstitucional que a regulamente, e o STF j decidiu que a norma  autoaplicvel. (RE 179.502) Pode-se compreender que no h necessidade de qualquer regulamentao para a suspenso dos direitos polticos do condenado, tendo em vista que a norma constitucional implicitamente determina que tal suspenso subsista enquanto perdurarem os efeitos da condenao. A suspenso dos direitos polticos do condenado  automtica, independentemente de manifestao expressa na sentena, devendo o magistrado comunicar o fato ao cartrio eleitoral para as providncias necessrias  excluso do nome do condenado da listagem de votao e para assinalar sua inelegibilidade. No texto constitucional, a restrio aos direitos polticos do condenado no est vinculada ao cumprimento de pena privativa de liberdade, abrangendo quaisquer crimes, sejam estes dolosos ou culposos. (STF - RE 179.502) O Tribunal Superior Eleitoral j decidiu que a suspenso dos direitos polticos tambm alcana os condenados por contraveno com trnsito em julgado. (RESPE 13.293) A ampliao, no entanto,  inaceitvel. O dispositivo constitucional s autoriza a restrio aos direitos polticos diante de condenao criminal. A deciso condenatria relativa  contraveno tem natureza penal, mas no criminal. No se pode usar de analogia para impor restrio expressamente no autorizada pela Carta Magna. Perduram os efeitos da condenao enquanto o Estado puder executar o ttulo executivo judicial que lhe autoriza impor o cumprimento da pena. Em caso de regime aberto ou priso domiciliar, perdura a restrio poltica, enquanto no for declarada a extino da punibilidade. No caso de condenado foragido, a restrio subsiste enquanto no ocorrer a extino da punibilidade pela prescrio. Nos casos de suspenso condicional da pena ou livramento condicional, a restrio verifica-se enquanto durar o perodo de prova. A suspenso dos direitos polticos est relacionada com os efeitos imediatos da condenao, que se referem  possibilidade de cumprimento da pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituio determina que a suspenso dos direitos polticos do condenado criminal automtica, independentemente de manifestao expressa na sentena. O STF j decidiu que a norma autoaplicvel, e o Tribunal Superior Eleitoral decidiu que tambm alcana os condenados por contraveno com trnsito em julgado. A restrio aos direitos polticos perdura enquanto o Estado puder executar o ttulo executivo judicial, ou enquanto no for declarada a extino da punibilidade.

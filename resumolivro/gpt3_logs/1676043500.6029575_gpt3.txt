@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Diz-se o crime:
+Crime doloso. - doloso, quando o agente quis o resultado ou assumiu o risco de produzi-lo;
+A definio, como todas as simplificaes, apresenta algumas impropriedades. Ao referir o crime doloso a um agente, que quer o resultado ou assume o risco de produzi-lo, parece restringir sua caracterizao apenas aos crimes comissivos. Isso no  verdade. Os tipos omissivos, prprios ou imprprios, tambm apresentam requisitos subjetivos que devem ser satisfeitos sob pena de atipicidade. Em outras palavras, o tipo doloso tanto pode ser comissivo quanto omissivo. Ao referir-se ao resultado, o dispositivo legal tambm dificulta a compreenso dos critrios estabelecidos para a atribuio da conduta dolosa. Se o resultado a que se refere o inciso  o resultado naturalstico, pode parecer que os crimes de mera conduta (cujos tipos no se referem a resultados naturalsticos) no podem ser dolosos. E crimes materiais, formais e de mera conduta podem ser dolosos. Se, por outro lado, o resultado a que se refere o inciso  o resultado jurdico, a vontade de produzir a violao da lei implica em conhecer a ilicitude da conduta realizada. E a questo da conscincia da ilicitude no deve ser analisada no mbito da tipicidade subjetiva, mas sim no mbito da culpabilidade. Por isso,  necessrio interpretar a disposio legal de modo a superar as dificuldades apresentadas por sua redao literal. Considerando que nem todos os crimes possuem resultado naturalstico (alterao da realidade natural), o conceito de dolo encontra-se relacionado com a vontade de realizar a conduta proibida que  descrita no tipo incriminador, ou a aceitao de que tal situao venha a ocorrer, a qual produzir a violao da norma jurdica que lhe  subjacente (resultado jurdico). Quando se tratar de crimes materiais (que exigem a produo de um resultado naturalstico), a caracterizao do dolo exige, ainda, a vontade de produzir o resultado natural ou a aceitao de que tal resultado venha a ocorrer. A definio legal de crime doloso permite visualizar uma noo para o conceito de dolo. Assim, o dolo pode ser entendido como o conceito jurdico que define a inteno que  necessria  adequao tpica. O dolo no  um elemento descritivo de objetos apreensveis da realidade naturalstica. O dolo no existe na realidade natural:  criao abstrata do gnio humano, que s existe no mundo jurdico e visa a instrumentalizar a interpretao da realidade natural.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime doloso, segundo a definição legal, é relacionado à vontade de realizar a conduta proibida descrita no tipo incriminador ou à aceitação de que tal situação venha a ocorrer. Assim, o dolo pode ser entendido como o conceito jurdico que define a intenção necessária para a adequação típica, sendo uma criação abstrata do gnio humano que só existe no mundo jurídico.

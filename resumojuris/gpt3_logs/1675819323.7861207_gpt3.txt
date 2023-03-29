@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 5702/RS, relator Ministro Andre Mendonca, julgamento virtual finalizado em 21.10.2022 (sexta-feira), as 23:59 (INF 1073) Reducao de aliquota do ICMS para cerveja a base de mandioca - ADI 6152/MA Resumo: A reducao de aliquota do ICMS requer a comprovacao do impacto financeiro e orcamentario, alem da celebracao de convenio entre os estados e o Distrito Federal e a demonstracao da essencialidade dos bens e servicos. Com efeito, a lei estadual impugnada e formalmente inconstitucional porque promoveu a reducao da aliquota de ICMS sem que a proposicao fosse instruida com a devida estimativa do seu impacto orcamentario e financeiro (ADCT, art. 113). A concessao de incentivo fiscal  tal qual a reducao de aliquota  e ato complexo que demanda ne-cessariamente a integracao de vontades via celebracao de convenio entre os diferentes entes federativos, dado o seu carater nacional, conforme disciplinado nas Leis Complementares 24/1975 e 160/2017. Ademais, na hipotese, o estabelecimento de renuncia fiscal em razao da materia-prima nao observa qualquer criterio de discrimen, acarretando desigualdade inconstitucional (CF/88, art. 150, II) e desequili-brio concorrencial (CF/88, art. 170, II). Tambem nao houve atendimento ao criterio da essencialidade do bem, que norteia o principio da sele-tividade tributaria, segundo o qual se busca uma justa reparticao do onus tributario entre os individuos, de acordo com sua capacidade economica. Com base nesses entendimentos, o Plenario, por unanimidade, julgou procedente a acao para declarar a inconstitucionalidade formal e material dos artigos 1 e 2 da Lei 11.011/2019 do Estado do Maranhao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A redução de alíquota do ICMS requer a comprovação do impacto financeiro e orçamentário, além da celebração de convênio entre os Estados e o Distrito Federal e a demonstração da essencialidade dos bens e serviços. 2. A lei estadual impugnada é formalmente inconstitucional porque promoveu a redução da alíquota de ICMS sem que a proposição fosse instruída com a devida estimativa do seu impacto orçamentário e financeiro. 3. A concessão de incentivo fiscal, tal qual a redução de alíquota, é ato complexo que demanda necessariamente a integração de vontades via celebração de convênio entre os diferentes entes federativos, dado o seu caráter nacional. 4. A estabelecimento de renúncia fiscal em razão da matéria-prima não observa qualquer critério de discriminação, acarretando desigualdade inconstitucional e desequilíbrio concorrencial. 5. Não houve atendimento ao critério da essencialidade do bem, que norteia o princípio da seletividade tributária, segundo o qual se busca uma justa repartição do ônus tributário entre os indivíduos, de acordo com sua capacidade econômica.

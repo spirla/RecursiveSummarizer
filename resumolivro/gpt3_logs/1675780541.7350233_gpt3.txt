@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+274 Interceptacao telefnica e a captacao da conversa telefnica feita por um terceiro sem o conhecimento dos interlocutores, mediante autorizacao judicial, conforme regulacao constante da Lei 9.296/96. 275 STJ: MS 14.140/DF, Rel. Ministra Laurita Vaz, Terceira Secao, julgado em 26/09/2012, DJe 08/11/2012. 276 TJM-MG: Acao Civel 96/05 - 3 AJME, Rel. Juiz Decio de Carvalho Mitre, publicado em 24/11/2006. Nesse mesmo sentido - TJM-MG: Apelacao - Processo n. 0005488-86.2012.9.13.0003, Rel. Juiz Cel PM Rubio Paulino Coelho, julgado em 18/06/2013. 277 Em seu fundamentado voto, o Relator do Acordao destaca que A materia tambem esta pacificada nos Tribunais Superiores. Desde 2007, o Supremo Tribunal Federal firmou entendimento no sentido de ser possivel a utilizacao de prova obtida atraves de interceptacao telefnica em processo administrativo, desde que a interceptacao tenha se dado nos moldes estabelecidos na Lei n. 9.296/96. Essa possibilidade tem sido ampliada para tambem autorizar o uso dessas mesmas informacoes, inclusive, contra outros agentes (Inq 2424 QO, Relator(a): Min. Cezar Peluso, Tribunal Pleno, julgado em 25/04/2007; HC 102293, Relator(a): Min. Ayres Britto, Segunda Turma, julgado em 24/05/2011). 278 STJ: HC 234.836/MG, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 23/08/2013. No mesmo sentido, STJ: MS 17.535/DF, Rel.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interceptação telefônica é a captação de conversa telefônica feita por um terceiro sem o conhecimento dos interlocutores, mediante autorização judicial, conforme regulamentação da Lei 9.296/96. O STJ e o TJM-MG já firmaram entendimento de que é possível a utilização de prova obtida através de interceptação telefônica em processo administrativo, desde que a interceptação seja feita nos moldes estabelecidos na Lei 9.296/96. O STJ também já ampliou essa possibilidade para autorizar o uso dessas mesmas informações contra outros agentes.

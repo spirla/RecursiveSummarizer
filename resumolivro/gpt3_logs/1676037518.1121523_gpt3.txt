@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Visando auxiliar a interpretao da realidade quanto ao momento consumativo do crime, a doutrina estabeleceu classificao que relaciona a consumao  produo do resultado naturalstico. Se a consumao do crime impe sempre a produo do resultado jurdico (violao da norma), nem sempre exigir a produo de resultado naturalstico. Em ateno  necessidade da produo de um resultado naturalstico, os crimes podem ser classificados em materiais, formais e de mera conduta. Crimes materiais. Os crimes materiais so aqueles em que a descrio tpica evidencia a necessidade da ocorrncia de resultado naturalstico para que ocorra a consumao. No se verificando a mudana exigida pelo tipo na realidade naturalstica, no se poder falar em consumao do crime. O exemplo clssico de crime material  o homicdio, posto que, da descrio tpica matar algum (artigo 205 do CPM), resta evidente a necessidade que ocorra a morte da vtima. Os crimes culposos, em regra, so crimes materiais, pois so concebidos com referncia  produo do resultado naturalstico. No entanto, a Lei de Crimes Ambientais - Lei 9.605/98 - previu modalidade de crime culposo que no exige a produo de qualquer resultado naturalstico (artigo 67, pargrafo nico). Crimes formais. Na descrio tpica dos crimes formais, tambm chamados crimes de consumao antecipada, h previso de um resultado naturalstico. No entanto, a redao do dispositivo deixa claro que a consumao do crime ocorrer com a prtica da conduta descrita no tipo, independentemente da produo do resultado naturalstico. A mudana no mundo exterior no  necessria para a consumao, bastando a realizao da conduta descrita no tipo. Satisfeitas todas as exigncias tpicas para a conduta, o crime estar consumado. A consumao do crime ocorre antecipadamente  produo do resultado naturalstico. Caso o resultado venha a ocorrer, diz-se que houve o exaurimento da conduta. Um exemplo marcante de crime formal  a prevaricao, prevista no artigo 319 do Cdigo Penal Militar. A descrio tpica da prevaricao probe as condutas de retardar ou deixar de praticar, indevidamente, ato de ofcio, ou pratic-lo contra expressa disposio de lei, para satisfazer interesse ou sentimento pessoal. Para a consumao do crime basta que o militar retarde, deixe de praticar ou pratique o ato de oficio contra expressa disposio de lei. A satisfao do interesse ou do sentimento pessoal constituem exaurimentos possveis para a prevaricao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina estabeleceu classificação de crimes com base na necessidade de produção de resultado naturalístico: materiais, formais e de mera conduta. Crimes materiais exigem a produção do resultado naturalístico, enquanto os formais ocorrem com a prática da conduta descrita no tipo, independentemente do resultado. Exemplo de crime material é o homicídio, enquanto a prevaricação é um exemplo de crime formal.

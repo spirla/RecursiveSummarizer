@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ao final, requereram, liminarmente, a concesso da ordem de "Habeas Corpus, para determinar-se o trancamento da Ao Penal (200035495.2022.9.13.0002) em relao aos pacientes e, via de consequncia, o trancamento dos autos relacionados (IPMs distribudos sob os nmeros 2000121-35.2021.9.13.0002 e 2000091-97.2021.9.13.0002), todos em trmite perante o Juzo da 2a AJME, por falta de justa causa da ao penal militar, extino da punibilidade e nulidades nos processos, conforme elencam as letras "c, "h e "i do artigo 467 do CPPM. No mrito, requereram a procedncia da concesso da ordem de habeas corpus nos termos dos pedidos da liminar ora pleiteada. Em cognio sumria, indeferi o pedido de concesso de medida liminar (Evento 6 - DEC1). O meritssimo Juiz de Direito da 2a Auditoria Judiciria Militar Estadual (AJME) prestou as informaes acostadas no Evento 15 - INF_HABEAS_CORP2. A culta e douta procuradora de justia manifestou-se pelo no conhecimento do presente habeas corpus e, caso fosse conhecido, opinou pela denegao da ordem (Evento 20 - PARECER1), nos termos seguintes: Pois bem, os impetrantes pretendem o trancamento da ao penal militar simplesmente porque, segundo as suas prprias percepes, no h "justa causa para a persecuo penal ante a "inexistncia de qualquer crime a punir em relao aos pacientes (evento 1 - INIC1 - fls. 15), decorrente da transao penal antes homologada (evento 1 - INIC1 - fls. 19). Portanto, j de incio se percebe que inexiste ato da autoridade apontada como coatora que possa configurar ameaa  liberdade de locomoo dos pacientes, nos termos do que dispe o artigo 467 do CPPM, o que, por si s, inviabiliza o conhecimento da medida processual ora adotada. Ainda que assim no fosse, conforme se extrai da cota constante do evento 1 (COMP5 - fls. 18, COMP8 e COMP16 - fls. 14), a denncia que deflagrou a ao penal militar n. 2000354-95.2022.9.13.0002 em desfavor dos pacientes foi fruto de investigaes realizadas no bojo dos inquritos policiais militares de Portarias n.s 112708/20 - IPM/31 BPM e 11264/20 - IPM/31 BPM, distribudos  Justia sob os n.s 200012135.2021.9.13.0002 e 2000091-97.2021.9.13.0002, respectivamente, tendo ambos os feitos tratado de fatos idnticos, porm cometidos em datas distintas por cada um dos ento investigados.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito da 2a Auditoria Judiciria Militar Estadual indeferiu o pedido de concesso de medida liminar de Habeas Corpus para trancar a Ao Penal (200035495.2022.9.13.0002) e os processos relacionados (IPMs distribudos sob os nmeros 2000121-35.2021.9.13.0002 e 2000091-97.2021.9.13.0002), pois os impetrantes não apontaram ato da autoridade que ameace a liberdade de locomoo dos pacientes e a denncia foi fruto de investigações realizadas nos inquritos policiais militares de Portarias n.s 112708/20 e 11264/20.

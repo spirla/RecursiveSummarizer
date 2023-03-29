@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O erro de eficcia verifica-se quando o sujeito acredita que determinada norma jurdica no est mais produzindo efeitos, por ter perdido sua eficcia pela entrada em vigor de outra norma de categoria superior ou de uma disposio constitucional. A complexidade do ordenamento jurdico, que impe harmonizar diversos dispositivos legais e constitucionais, pode levar o intrprete a concluir equivocadamente pela ineficcia de algumas normas. Essa modalidade de erro acontece, via de regra, devido ao maior conhecimento que o sujeito tem sobre a existncia dos dispositivos normativos. Erro de punibilidade. No erro de punibilidade, o sujeito percebe que a sua conduta  ilcita, mas acredita no haver previso legal para a aplicao de pena criminal para o caso. Essa modalidade de erro somente tem aplicao para as normas proibitivas e constitui sempre hiptese de erro inescusvel que autoriza a aplicao de pena reduzida. No caso, o sujeito conhece a ilicitude do fato e no se pode admitir a exculpao.  exemplo de erro de punibilidade o indivduo acreditar que a violao de direito autoral materializada em cpia de programa de computador seja ilcito que repercute efeitos apenas no mbito do Direito Civil, sem considerar a previso criminalizadora do artigo 12 da Lei 9.609/98. Erro de subsuno. No erro de subsuno, o sujeito conhece a norma jurdica, mas pensa que a conduta que realiza no coincide com a previso legal.  modalidade que somente tem aplicao s normas proibitivas, posto que  justamente o erro em relao a tais normas que faz o sujeito pensar ser o comportamento permitido. Como exemplo de erro de proibio, na modalidade de erro de subsuno, temos a conduta do sujeito que joga resto de tinta em parede de prdio pblico, sem compreender que realiza a conduta de conspurcar edificao urbana, proibida pelo artigo 65 da Lei 9.605/98. O erro quanto  adequao do fato  previso legal do crime decorre de incompreenso quanto ao sentido proibitivo da norma jurdica que  subjacente ao tipo. Embora conhea o preceito primrio descrito no tipo, o sujeito no compreende a proibio. Quando a descrio da conduta tpica se expressa por verbos que no so reconhecidos na linguagem coloquial, aumentam as chances de o contedo proibitivo da norma ser mal compreendido.  o caso dos crimes descritos pelos verbos escarnecer, profanar e vilipendiar, previstos, respectivamente, nos artigos 208, 210 e 212 do Cdigo Penal, e conspurcar, previsto no artigo 65 da Lei de Crimes Ambientais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O erro de eficcia ocorre quando o sujeito acredita que determinada norma jurdica não produz mais efeitos. O erro de punibilidade ocorre quando o sujeito conhece a ilicitude do fato, mas acredita que não há previsão legal para a aplicação de pena criminal. O erro de subsuno ocorre quando o sujeito conhece a norma jurdica, mas pensa que a conduta não coincide com a previsão legal.

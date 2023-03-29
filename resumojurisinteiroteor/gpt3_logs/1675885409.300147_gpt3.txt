@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ministro Gurgel de Faria, Primeira Seo, DJe 25/10/2018). 4. Agravo interno no provido. (AgInt no RMS n. 65.919/MA, relator Ministro Benedito Gonalves, Primeira Turma, julgado em 4/10/2021, DJe de 6/10/2021.) ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAIS MILITARES. APRECIAO PRELIMINAR DE AGRAVO RETIDO. INDEFERIMENTO DE PRODUO PROBATRIA. CERCEAMENTO DE DEFESA NO CONFIGURADO. LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. PENA DE DEMISSO. PROPORCIONALIDADE DA SANO RECONHECIDA PELA CORTE DE ORIGEM. ALTERAO DO JULGADO QUE DEMANDA ANLISE DO CONJUNTO FTICO PROBATRIO. SMULA 7/STJ. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO. 1. Em mbito judicial vige o princpio do livre convencimento motivado do Juiz, e no o sistema de tarifao legal de provas. Assim, se o Magistrado entendeu no haver necessidade de produo de prova testemunhal para o julgamento da lide ao argumento de que os relatos das testemunhas apontadas j havia sido recolhido no PAD que acompanha dos autos, no h que se falar em cerceamento de defesa na impugnao do pedido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Agravo Interno dos Servidores foi negado, pois o livre convencimento motivado do Juiz não foi cerceado, já que o relato das testemunhas já havia sido recolhido no PAD que acompanha os autos, não sendo necessária a produção de prova testemunhal para o julgamento da lide.

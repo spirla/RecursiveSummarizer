@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em outros termos, se houver uma mudana legal, por exemplo, no "processo" especial de desero (melhor seria procedimento especial da desero), essa nova previso ser aplicada a partir do momento que a lei entrar em vigor, mesmo nos processos ainda em curso, ou seja, no "meio do caminho" [...] Todavia, os atos processuais j praticados naquele processo sero perfeitamente vlidos, no trazendo nulidade ao curso processual. (in Manual de Direito Penal Militar, 2014, pp. 155-156) No mesmo sentido,  assente o entendimento dos Tribunais Superiores: EMENTA: AGRAVO REGIMENTAL NA AO PENAL. DEPUTADO FEDERAL. ALEGADA PRTICA DE CRIMES DE PECULATO E ORGANIZAO CRIMINOSA. RECEBIMENTO PARCIAL DA DENNCIA PELO JUZO DE PRIMEIRO GRAU. VALIDADE DOS ATOS PRATICADOS PELO JUZO ENTO COMPETENTE. DECISO AGRAVADA MANTIDA. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. A modificao superveniente de competncia no importa em nulidade dos atos processuais at ento praticados. Precedentes. 2. Pelo princpio do tempus regit actum, so vlidos os atos processuais praticados ao tempo em que o juzo de primeiro grau era competente, dentre os quais o recebimento da denncia, prosseguindo-se a ao penal a partir da fase processual em que se encontra. 3. Agravo regimental ao qual se nega provimento". (STF - AP 914 AgR, Relatora Ministra CRMEN LCIA, Segunda Turma, julgado em 8/3/2016, DJe- 057, publicado em 30/3/2016, republicado no DJe-091, de 6/5/2016). (Grifos nossos.) CONFLITO NEGATIVO DE COMPETNCIA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A modificao superveniente de competncia no invalida os atos processuais praticados ao tempo em que o juzo de primeiro grau era competente, sendo vlidos os atos processuais, como o recebimento da denncia, prosseguindo-se a ao penal a partir da fase processual em que se encontra.

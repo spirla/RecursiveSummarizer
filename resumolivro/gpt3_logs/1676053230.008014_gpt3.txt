@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A garantia tambm pode ser chamada de cauo e constitui gnero do qual o cheque-cauo e a nota promissria so espcies. Ao referir-se a ou qualquer garantia o tipo incriminador permite que, por meio da integrao analgica, a subsuno tambm possa ocorrer diante da exigncia de outras garantias que no o cheque-cauo e a nota promissria. So exemplos de outra garantia o depsito de dinheiro, o depsito de objetos e a fiana. Formulrios administrativos. Os formulrios so impressos com campos preestabelecidos para a insero de informaes solicitadas por indicaes relacionadas a cada campo. Diz-se que o formulrio  administrativo quando as informaes destinam-se ao controle administrativo da prpria instituio. Quando preenchidos e assinados por quem presta a informao o formulrio passa a constituir um documento. Para os fins de caracterizao do tipo objetivo, deve-se entender por formulrio administrativo o impresso que contm campos preestabelecidos para a insero de informaes que podem estar relacionadas ao paciente a ser admitido no hospital, seu eventual responsvel, suas condies de sade, seus hbitos de vida e vnculos com convnios de sade. Atendimento mdico-hospitalar. Por atendimento mdico-hospitalar deve-se entender toda e qualquer assistncia prestada por mdico que atue em hospital. A expresso mdico-hospitalar, conjugada pelo emprego de hfen, restringe o atendimento que pode caracterizar o tipo incriminador ao atendimento prestado por mdico no ambiente hospitalar. No se trata de atendimento mdico ou hospitalar, mas sim de atendimento mdico-hospitalar. Inicialmente  necessrio observar que o atendimento deve ser prestado por mdico e no por qualquer outro profissional que atua na rea de sade. Portanto, o tipo no se refere ao atendimento prestado por dentista, farmacutico, enfermeiro ou auxiliar de enfermagem que atue desvinculadamente da orientao de um mdico. A exigncia que se realiza diante de atendimento odontolgico emergencial, por exemplo,  penalmente irrelevante. Tambm  necessrio que o atendimento deva ser prestado no ambiente hospitalar. No se presta a caracterizar o tipo o atendimento que  realizado em clinicas, consultrios, postos de sade ou ambulncias. No ambiente do hospital o mdico  o responsvel pelo atendimento prestado ao paciente, ainda que suas prescries sejam levadas a efeito por outros profissionais da rea de sade. O elemento normativo em exame restringe-se ao atendimento que o mdico presta no ambiente hospitalar.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A garantia pode ser chamada de cauo e inclui o cheque-cauo e a nota promissória. Outras garantias incluem depósito de dinheiro, objetos e fiana. Formulários administrativos são impressos com campos pré-estabelecidos para inserção de informações. Atendimento médico-hospitalar é toda assistência prestada por médico em hospital, com prescrições por outros profissionais da área de saúde.

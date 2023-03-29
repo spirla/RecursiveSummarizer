@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Para a caracterizacao do delito de associacao criminosa inserido em contexto societario, e imprescindivel que a denuncia contenha a descricao da predisposicao comum de meios para a pratica de uma serie indeterminada de delitos e uma continua vinculacao entre os associados com essa finalidade, nao bastando a mencao da posicao/cargo ocupado pela pessoa fisica na empresa. A jurisprudencia deste Superior Tribunal e firme na direcao de que nos crimes societarios mostra-se impositivo que a denuncia contenha a descricao minima da conduta de cada acusado e do nexo de causalidade, sob pena de ser considerada inepta. Registre-se que o nexo causal nao pode ser aferido pela simples posicao ocupada pela pessoa fisica na empresa. A imputacao de responsabilidade individual exige como substrato minimo a identificacao de comportamento concreto violador de um determinado tipo penal. Afinal, nao se trata de responsabilizar os sujeitos pelo mero pertencimento a organizacao empresarial, mas pelo suposto cometimento de delitos a partir dela. E insuficiente e equivocado afirmar que um individuo e autor porque detem o dominio do fato se, no plano intermediario ligado aos fatos, nao ha nenhuma circunstancia que estabeleca o nexo entre sua conduta e o resultado lesivo (comprovacao da existencia de plano delituoso comum ou contribuicao relevante para a ocorrencia do fato criminoso). Observa-se que a denuncia explicita a propria dificuldade de se estabelecer a responsabilidade penal diante do frequente remanejamento de profissionais, com a troca constante entre os administradores de uma sociedade e outra, dentro do grupo economico. Tal comportamento tem como objetivo dificultar a afericao da responsabilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É imprescindível que a denúncia contenha a descrição da predisposição comum de meios para a prática de uma série indeterminada de delitos e uma continua vinculação entre os associados com essa finalidade, não bastando a menção da posição/cargo ocupado pela pessoa física na empresa. 2. É firme na jurisprudência deste Superior Tribunal que a denúncia deve conter a descrição mínima da conduta de cada acusado e do nexo de causalidade, sob pena de ser considerada inepta. 3. O nexo causal não pode ser aferido pela simples posição ocupada pela pessoa física na empresa. 4. A imputação de responsabilidade individual exige como substrato mínimo a identificação de comportamento concreto violador de um determinado tipo penal. 5. Não se trata de responsabilizar os sujeitos pelo mero pertencimento a organização empresarial, mas pelo suposto cometimento de delitos a partir dela. 6. É insuficiente e equivocado afirmar que um indivíduo é autor porque detém o domínio do fato se, no plano intermediário ligado aos fatos, não há nenhuma circunstância que estabeleça o nexo entre sua conduta e o resultado lesivo.

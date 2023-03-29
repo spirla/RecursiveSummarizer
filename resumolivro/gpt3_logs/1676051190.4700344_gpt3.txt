@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Tal posicionamento, no entanto, no parece ser o mais adequado. A conexo est prevista no artigo 76 do CPP, que, em seus incisos, estabelece os casos de conexo intersubjetiva (inciso I), objetiva (inciso II) e instrumental (inciso III).  verdade que a conexo instrumental, que se d quando a prova de uma infrao ou de qualquer de suas circunstncias elementares influir na prova de outra infrao, implica o exerccio de um juzo de convenincia e oportunidade. Contudo, o pargrafo 1 do artigo 117 do CP  claro: havendo reunio de processos, a interrupo da prescrio de um dos crimes estender seus efeitos aos demais.  opo poltica do Estado no permitir a continuidade da contagem do prazo dos crimes conexos quando houver a interrupo da contagem em relao a qualquer deles. 22.11. Prescrio intercorrente ou superveniente. Denomina-se prescrio intercorrente ou superveniente a prescrio da pretenso punitiva que se verifica aps a ocorrncia da deciso condenatria recorrvel, e tem como pressuposto o trnsito em julgado da deciso condenatria para a acusao. Como no ocorreu o trnsito em julgado da deciso para ambas as partes e o Estado ainda no pde executar um ttulo executivo judicial, a prescrio intercorrente incidir sobre a pretenso punitiva, e no sobre a pretenso executria. A expresso prescrio intercorrente justifica-se porque a causa extintiva da responsabilidade ocorre aps a deciso condenatria recorrvel e antes da deciso condenatria definitiva, ou seja, ainda no curso da pretenso punitiva. Tambm se utiliza a expresso prescrio superveniente para denominar esses casos, enfocando-se o fato de que a extino da responsabilidade ocorre aps a deciso condenatria recorrvel. Antes da deciso condenatria, no se sabe qual ser a pena aplicada, portanto, a prescrio dever tomar como parmetro a pena mxima possvel. A deciso condenatria fixa a pena cabvel para o caso concreto. No havendo recurso da acusao, o tribunal no poder reformar a deciso para agravar a situao do ru e, assim, a anlise da prescrio j poder tomar como base esse novo parmetro. Do mesmo modo, se o recurso da acusao para agravar a pena for improvido, ainda que no tenha havido o trnsito em julgado da deciso, a prescrio regular-se- pela pena aplicada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CPP prevê três tipos de conexão: intersubjetiva, objetiva e instrumental. A prescrição intercorrente ou superveniente se verifica após a decisão condenatória recorrível e antes da decisão condenatória definitiva, com base na pena máxima possível. O recurso da acusação para agravar a pena pode regular a prescrição pela pena aplicada.

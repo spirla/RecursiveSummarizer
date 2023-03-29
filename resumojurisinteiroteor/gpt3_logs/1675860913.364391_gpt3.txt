@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A defesa do Soldado Renato Cardoso de Moraes pugnou pela sua absolvio, nos termos do artigo 386, inciso VII, do Cdigo de Processo Penal. Subsidiariamente, requereu a desclassificao para o crime de abuso de autoridade (Evento 8 - PEASDIGITALIZADAS 7, pgs. 215/229 - autos de ia Instncia). Concluda a instruo processual, em 23/01/2019 o Meritssimo Juiz de Direito da Comarca de Cataguases/MG prolatou sentena, julgando parcialmente procedente a denncia, para absolver os rus quanto a imputao relacionada a vtima Felipe, o fazendo nos termos do art. 386, II, do Cdigo de Processo Penal e, conden-los pela prtica do crime previsto no art. 1, inciso II, da Lei 9.455/1997 com incidncia da causa de aumento de pena prevista no art. 1, 4, da Lei 9.455/1997 em relao a vtima Kelson Dias da Costa Chiappeta. Ao ru Victor Henriques Fernandes foi fixada a pena definitiva em 02 (dois) anos, 08 (oito) meses e 20 (vinte) dias de recluso, a ser cumprida em regime inicial semiaberto. Ao ru Renato Cardoso De Moraes foi imposta a pena definitiva de 02 (dois) ano e 04 (quatro) meses de recluso, a ser cumprida em regime inicial aberto. Foram negados a ambos os rus os benefcios da substituio da pena privativa de liberdade pela restritiva de direitos e tambm o da suspenso condicional da pena. Por fim, foi concedido a prerrogativa de recorrerem em liberdade e tambm declarada a preda do cargo dos rus, por fora do art. 1, 5 da Lei n. 9.455/1997 (Evento 8 - SENT10 - autos de 1a Instncia). Os rus foram intimados da sentena, oportunidade na qual manifestaram o desejo em recorrer da deciso (Evento 8 - PEASDIGITALIZADAS11, pg. 5 e 7 - autos de 1a Instncia). Por conseguinte, a defesa de Victor Henriques Fernandes e Renato Cardoso de Moraes interps recurso de apelao. Em suas razes, em sede preliminar, requereu: I - A concesso dos benefcios da assistncia judiciria, com fulcro no art. 4 e seguintes da Lei n. 1.060/50. II - A decretao da nulidade da sentena, bem como dos atos praticados no processo e a remessa dos autos  Justia Militar do Estado de Minas Gerais. Para tanto, argumentou que com o advento da Lei n. 13.491/17 que alterou a Decreto-Lei n. 1.001/69 (Cdigo Penal Militar), todos os crimes cometidos por militares em uma das hipteses do inciso II, do art. 9 do Cdigo Penal Militar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa dos rus requereu a absolvio e a desclassificao para o crime de abuso de autoridade. Após a instrução processual, foi julgado parcialmente procedente a denúncia, absolvendo-os quanto a imputação relacionada à vítima Felipe, condenando-os pela prática do crime previsto na Lei 9.455/1997 com incidência da causa de aumento de pena relacionada à vítima Kelson Dias da Costa Chiappeta. Ao ru Victor Henriques Fernandes foi fixada a pena definitiva em 02 (dois) anos, 08 (oito) meses e 20 (vinte) dias de reclusão, a ser cumprida em regime inicial semiaberto. Ao ru Renato Cardoso De Moraes foi imposta a pena definitiva de 02 (dois) ano e 04 (quatro) meses de reclusão, a ser cumprida em regime inicial aberto. Os rus interpuseram recurso de apelação, requerendo a concessão dos benefícios da assistência judiciária, bem como a decretação da nulidade da sentença e a remessa dos autos à Justiça Militar do Estado de Minas Gerais.

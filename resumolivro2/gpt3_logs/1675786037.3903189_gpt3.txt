@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+H casos, porm, em que o CPPM prev o recurso contra a deciso, mas no lhe atribui denominao, por isso  tido por inominado. O Ministrio Pblico, o ru e seu defensor podem interpor recurso inominado contra a deciso que rejeitar exceo de incompetncia, nos termos do artigo 145 do CPPM, que  processado em autos apartados para o Superior Tribunal Militar, que, se lhe der provimento, tornar nulos os atos praticados pelo juiz declarado incompetente, devendo os autos do recurso ser anexados aos do processo principal. O provimento do recurso inominado torna nulos os atos praticados pelo juiz declarado incompetente. Com legitimidade ativa exclusiva, o rgo do Ministrio Pblico pode alegar incompetncia do juzo antes de oferecer denncia nos termos do artigo 146 do CPPM;
+em primeira instncia  apreciada pelo juiz federal ou pelo juiz de direito e em segundo grau pelo relator em se tratando de processo originrio. Em ambos os casos, se rejeitada a arguio, poder o rgo do Ministrio Pblico impetrar o recurso inominado, nos prprios autos, para o tribunal. Com o provimento do recurso inominado, os autos so remetidos ao juiz declarado competente. O pedido de restituio de coisa apreendida  autuado em apartado, com prazo de cinco dias para fazer prova e findo o qual o juiz decidir. Da deciso que considerar duvidoso o direito do reclamante cabe recurso para o tribunal, de acordo com o artigo 192 do CPPM. Quando a coisa houver sido apreendida em poder de terceiro de boa-f, determina o artigo 193, b, do CPPM, que, se a restituio for pedida pelo acusado ou pelo lesado e, tambm, pelo terceiro, instaura-se incidente;
+os reclamantes tero, em conjunto, o prazo de cinco dias para apresentar provas e o de trs dias para arrazoar, findos os quais o juiz decidir, cabendo da deciso recurso para o tribunal. Tm legitimidade ativa o reclamante, que pode ser o acusado, o lesado ou terceiro de boa-f, enquanto funciona o Ministrio Pblico como custos legis (artigo 194, CPPM). Providos os recursos inominados dos artigos 192 e 193 do CPPM, a coisa apreendida  restituda ao reclamante.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CPPM prev recurso inominado contra decisões que rejeitam exceções de incompetência. O Ministério Público, o réu e seu defensor podem interpor tal recurso, cujo provimento torna nulos os atos praticados pelo juiz declarado incompetente. O pedido de restituição de coisa apreendida também pode ser recorrido ao tribunal, com legitimidade ativa exclusiva do Ministério Público. Providos os recursos, a coisa apreendida é restituída ao reclamante.

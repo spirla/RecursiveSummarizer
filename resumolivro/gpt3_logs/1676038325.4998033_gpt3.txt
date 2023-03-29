@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A administrao das situaes de risco serve para estabelecer os marcos segundo os quais tais riscos so tolerados em favor de determinados proveitos sociais. A amplitude do risco permitido no pode ser definida de maneira geral, mas sim considerando-se cada caso concreto. Para a determinao do risco permitido, deve-se considerar a transcendncia social da conduta, de modo que sua maior utilidade social faa aumentar os limites do risco permitido. Todavia, a maior probabilidade de leso aos bens jurdicos e a maior importncia destes so fatores que restringem os limites da tolerncia social s situaes de risco. A princpio, o risco permitido no significa autorizao para leso de bens jurdicos como a vida, a sade ou o meio ambiente, pois no se pode conceber existir utilidade social com o sacrifcio de bens to importantes. Paz Aguado foi muito feliz ao asseverar que a suposta e, inclusive, importantssima utilidade social que pode derivar do desenvolvimento da energia nuclear no pode ampliar o mbito do risco permitido at a colocao em perigo, prevista e calculada, da vida e sade das pessoas. No entanto, a consagrao histrica de diversas atividades perigosas evidencia que os riscos de leso  vida ou  sade do homem tm sido explicitamente tolerados. Vejam-se os casos do transporte virio e areo. Os acidentes de trnsito, no Brasil, produzem mais mortes do que muitas guerras que se verificam mundo afora. Quanto ao problema da imputao objetiva, importa perceber que a distino entre a causao tpica de um resultado e a mera produo de circunstncias concomitantes irrelevantes no se verifica no plano naturalstico do processo causal, mas sim na materializao da vontade protetiva da norma jurdica. Assim, a imputao objetiva de determinado resultado lesivo somente ser legtima quando se fundamentar em contribuio que importe aumento do perigo j existente para a produo do resultado ou substituio das circunstncias de risco existentes por outras. Se o sujeito mantm seu atuar nos limites do risco socialmente tolerado, no se legitima a imputao objetiva do resultado. Vale observar que os limites do risco permitido, que delimitam a possibilidade de legtima responsabilizao criminal, no resultam da constatao dos dados empricos, mas da interpretao dada ao alcance da previso normativa. A permisso para a situao de perigo descaracteriza o injusto, mas no constitui causa de justificao, pois esta implica a ponderao concreta dos bens em conflito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A administração de situações de risco é necessária para estabelecer limites à tolerância social, considerando a transcendência social da conduta e a maior probabilidade de lesão aos bens jurdicos. A imputabilidade objetiva de um resultado lesivo depende da contribuição do sujeito para o aumento do perigo já existente ou para a substituição das circunstâncias de risco. Por fim, os limites do risco permitido não resultam de dados empíricos, mas da interpretação dada à previsão normativa.

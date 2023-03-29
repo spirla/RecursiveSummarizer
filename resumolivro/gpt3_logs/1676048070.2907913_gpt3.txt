@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Vale registrar ainda que o pargrafo nico do artigo 2 da Lei Federal 10.259, de 12 de julho de 2001, que instituiu os Juizados Especiais Criminais na Justia Federal, ampliou a noo de crime de pequeno potencial ofensivo, considerando como tal aqueles cuja pena mxima cominada no seja superior a 2 (dois) anos ou multa. Tal dispositivo produziu repercusses na Justia Estadual, revogando o artigo 61 da Lei 9.099/95, salvo no que diz respeito s contravenes. Como a Constituio expressamente exclui da competncia da Justia Federal o julgamento das contravenes, conforme dispe seu artigo 109, IV, a definio da contraveno como crime de pequeno potencial ofensivo permanece a cargo do artigo 61 da Lei 10.259/2001. Por fim, cabe ressaltar que, se no h previso legal para a converso da pena de multa em privao da liberdade, tambm no h qualquer previso legal para a converso da multa em pena restritiva de direitos. 12.3. Restritiva de direitos. Regra geral da substituio. No Cdigo Penal, no h cominao de penas restritivas de direitos nos tipos penais incriminadores. O artigo 54, nesse sentido, esclarece que as penas restritivas de direitos so aplicveis, independentemente de cominao na parte especial, em substituio  pena privativa de liberdade. No sistema atual do CP, o cumprimento de pena restritiva de direitos sempre decorre de substituio de pena privativa de liberdade anteriormente aplicada. Segundo o artigo 44 do CP, as penas restritivas de direitos so autnomas e substituem as privativas de liberdade. Isso significa que o condenado dever cumprir somente a pena restritiva de direitos, quando esta for aplicada pelo juiz, em substituio  pena privativa inicialmente imposta na condenao. A autonomia da pena restritiva de direitos em relao  privativa de liberdade se expressa na suficincia de sua resposta ao crime. Uma vez substituda a pena privativa de liberdade pela restritiva de direitos, a pena substituta  a que basta para reprimir e prevenir o crime. No entanto, a legislao extravagante pode estabelecer excees  regra de que as penas restritivas de direito so penas substitutivas. Nesse sentido, o artigo 78 da Lei 8.078/90 - Cdigo do Consumidor - permite a imposio de pena restritiva de direitos cumulativamente com privativa de liberdade ou multa, nos crimes nele previstos. Segundo o referido dispositivo,. Art. 78.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei Federal 10.259/2001 ampliou a noo de crime de pequeno potencial ofensivo, considerando como tal aqueles cuja pena mxima cominada no seja superior a 2 (dois) anos ou multa. O artigo 54 do Cdigo Penal esclarece que as penas restritivas de direitos so aplicveis, independentemente de cominao na parte especial, em substituio pena privativa de liberdade. O artigo 78 da Lei 8.078/90 permite a imposio de pena restritiva de direitos cumulativamente com privativa de liberdade ou multa, nos crimes nele previstos.

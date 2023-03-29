@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A parte  documento de trmite interno, que o inferior comunica a ocorrncia de fato relevante ao superior. O oficial que deu a parte referente ao fato criminoso e depois  convocado para o Conselho de Justia para apurar o mesmo fato criminoso declara-se suspeito ou  recusado pelas partes. A sexta causa em que o juiz  tido por suspeito ocorre se ele tiver aconselhado qualquer das partes (alnea f). O aconselhamento genrico (exemplo, orienta a parte a contratar advogado) no gera a suspeio, porm o especfico (exemplo, orienta a parte a produzir determinada prova) gera a suspeita de parcialidade do juiz. Tambm ser suspeito o juiz se ele ou seu cnjuge for herdeiro presuntivo, donatrio ou usufruturio de bens ou empregador de qualquer das partes (alnea g), no poder atuar no processo por ser suspeito o juiz se for presidente, diretor ou administrador de sociedade interessada no processo (alnea h) e suspeito estar o juiz se for credor ou devedor, tutor ou curador, de qualquer das partes (alnea i). H evidente interesse do juiz nesses casos dada a relao patrimonial ou jurdica com a parte. A suspeio provocada, assim entendida quando a parte injuriar o juiz ou de propsito der motivo para cri-la, no poder ser declarada nem reconhecida (artigo 41, CPPM). Enquanto o CPP em seu artigo 253 estatui que Nos juzos coletivos, no podero servir no mesmo processo os juzes que forem entre si parentes, consanguneos ou afins, em linha reta ou colateral at o terceiro grau, inclusive, o CPPM  omisso. Na Justia Militar h juzos coletivos em primeiro e segundo graus de jurisdio. Em primeiro grau, v g., pode ocorrer de dois irmos serem convocados para servirem no mesmo Conselho de Justia. Em existindo tal situao aplica-se ao procedimento penal militar a regra do artigo 253 do CPP com fulcro no artigo 3, a, CPPM. Na opinio dos doutrinadores, o rol de causas de impedimento e de suspeio do juiz  exemplificativo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O documento de trmite interno comunica a ocorrncia de fato relevante ao superior. O oficial que deu a parte pode ser convocado para o Conselho de Justia e declarar-se suspeito ou recusado. O juiz pode ser suspeito se aconselhar uma das partes, se for herdeiro presuntivo, donatrio ou usufruturio de bens ou empregador de qualquer das partes, se for presidente, diretor ou administrador de sociedade interessada no processo ou se for credor ou devedor, tutor ou curador, de qualquer das partes. O CPP estatui que nos juzos coletivos, no podero servir no mesmo processo os juzes que forem entre si parentes, consanguneos ou afins, em linha reta ou colateral at o terceiro grau, inclusive. O rol de causas de impedimento e de suspeio do juiz é exemplificativo.

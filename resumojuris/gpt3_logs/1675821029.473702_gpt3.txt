@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alexandre de Moraes, julgamento virtual finalizado em 18.12.2020 (INF 1003) Regulamentacao da profissao de despachante por norma estadual - ADI 6749/DF Resumo: E formalmente inconstitucional ato normativo local que, a pretexto de prescrever regras de carater administrativo, regulamente o exercicio da profissao de despachante junto a orgaos de transito. Isso porque caracterizada usurpacao da competencia privativa da Uniao para legislar sobre condicoes para o exercicio de profissoes (CF, art. 22, XVI). A jurisprudencia da Suprema Corte, em sucessivos julgamentos, tem reconhecido configurada a usurpacao da competencia legislativa privativa da Uniao em relacao a leis estaduais e distritais que, sob o pretexto de estatuirem normas administrativas de interesse local, regulamentam o exercicio de atividades profissionais. No caso especifico da categoria dos despachantes, o Supremo Tribunal Federal aplicou esse entendimento na ADI 4.387 e, recentemente, o reafirmou na ADI 5.412. Ademais, em ambito nacional, a Uniao editou a Lei 10.602/2002, que confere espaco de liberdade de atuacao profissional muito mais amplo que a norma impugnada. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado para declarar a inconstitucionalidade formal da Instrucao Normativa DETRAN/DF 34/2021 e, a fim de evitar efeitos repristinatorios indesejados, tambem da Instrucao Normativa DETRAN/DF 394/2015. ADI 6749/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 2.6.2021 (segunda-feira), as 23:59. (INF 1024) Responsabilidade solidaria de contador por infracao tributaria - ADI 6284/GO Tese fixada: E inconstitucional lei estadual que verse sobre a responsabilidade de terceiros por infracoes de forma diversa das regras gerais estabelecidas pelo Codigo Tributario Nacional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente inconstitucional ato normativo local que, a pretexto de prescrever regras de caráter administrativo, regulamente o exercício da profissão de despachante junto a órgãos de trânsito, pois caracteriza usurpação da competência privativa da União para legislar sobre condições para o exercício de profissões (CF, art. 22, XVI). 2. É inconstitucional lei estadual que verse sobre a responsabilidade de terceiros por infrações de forma diversa das regras gerais estabelecidas pelo Código Tributário Nacional.

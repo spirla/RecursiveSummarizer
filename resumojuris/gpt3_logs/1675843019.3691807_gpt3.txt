@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Sedimentou-se a orientacao jurisprudencial nesta Corte Superior no sentido de que a incidencia do principio da insignificancia pressupoe a concomitancia de quatro vetores: a) a minima ofensividade da conduta do agente; b) nenhuma periculosidade social da acao; c) o reduzidissimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesao juridica provocada. No caso, e imputado ao acusado a subtracao de 03 (tres) desodorantes, cujo valor agregado, segundo a representante da empresa ofendida, e de R$ 38,00 (trinta e oito reais), tendo sido restituidos a vitima. Contudo, o acordao, ao reformar a sentenca de absolvicao sumaria, destacou que o reu ostenta multirreincidencia especifica, encontrando-se, a epoca dos fatos, no gozo de prisao domiciliar, situacao que afastaria a incidencia do principio da insignificancia. E certo que ha precedentes do Supremo Tribunal Federal em que se afasta a tipicidade material da conduta criminosa quando o furto e praticado para subtrair objeto de valor irrelevante, ainda que o paciente seja reincidente na pratica delitiva. Entretanto, a Corte tambem tem precedentes que apontam a relevancia da analise da reincidencia delitiva para afastar a tipicidade da conduta, conforme se verifica no julgamento do Habeas Corpus 123.108/MG, da Relatoria do Ministro Roberto Barroso, no qual, o Plenario do STF decidiu, por maioria de votos, que a aplicacao do principio da insignificancia envolve um juizo amplo (conglobante), que vai alem da simples afericao do resultado material da conduta, abrangendo tambem a reincidencia ou contumacia do agente, elementos que, embora nao determinantes, devem ser considerados .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O princípio da insignificância pressupõe a concomitância de quatro vetores: a) a minima ofensividade da conduta do agente; b) nenhuma periculosidade social da acao; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesao juridica provocada. 2. A aplicação do princípio da insignificância envolve um juízo amplo (conglobante), que vai além da simples aferição do resultado material da conduta, abrangendo também a reincidência ou contumácia do agente, elementos que, embora não determinantes, devem ser considerados.

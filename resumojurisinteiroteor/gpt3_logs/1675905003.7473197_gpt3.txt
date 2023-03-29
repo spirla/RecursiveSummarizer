@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+juzo a quo indeferiu a produo de prova testemunhal, em razo da falta de fundamentao ftico-jurdica para o pedido (Evento 28). Na fase de especificao de provas, o Estado de Minas Gerais manifestou no possuir mais provas a produzir, e o autor no se manifestou (Eventos 37 e 38). O MM. Juiz de Direito da 5a AJME-Cvel decidiu o feito conforme se depreende no Evento 40. Disse que o Comandante da Unidade, embora tenha reconhecido o desabastecimento proveniente da greve de caminhoneiros, decidiu pelo enquadramento disciplinar do autor, sob o entendimento de que no restou demonstrado que ele procurou exaurir os meios de transporte disponveis, inclusive rodovirio, para se deslocar e cumprir a escala de servio. Perfez o resumo da regular tramitao do presente processo administrativo-disciplinar e citou o artigo 5, inciso LV, da CR/88 a fim de destacar que a natureza acusatria do processo administrativo-disciplinar garante aos rus em geral empreenderem a defesa com amplitude, mediante o exerccio do contraditrio, com o fim de buscar a comprovao da inocncia. Citou, tambm, os arts. 56 e 57 da Lei Estadual n. 14.310/2002 (CEDM) e o art. 37 e seguintes da Resoluo Conjunta n 4.220/12 (MAPPA). Ponderou que, na fase de apresentao de alegaes de defesa, o autor no requereu a produo de prova documental e que a declarao firmada por funcionria da empresa "Sete Lagoano foi apresentada depois de vencida a instruo probatria, j em sede recursal, quando operada a precluso. Alegou tambm que o autor no demonstrou a incidncia de causa de justificativa aventada tempestivamente (art. 19 da Lei Estadual n. 14.310/2002). Dessa forma, julgou improcedente os pedidos do autor, determinando a extino do feito, com resoluo do mrito, nos termos do artigo 487, inciso I, do CPC. Condenou o autor ao pagamento de custas processuais e honorrios advocatcios, os quais arbitrou em 20% (vinte por cento) do valor atualizado da causa, observados os requisitos dos incisos I a IV do  2 e do inciso I do  3 do artigo 85 do CPC (Evento 36, SENT1). A defesa interps recurso de apelao consoante se depreende do Evento 46. Inicialmente, formulou pedido de gratuidade de justia, com fulcro no art. 99, 7, do CPC. Reiterou os termos trazido em sua pea inicial e requereu o conhecimento e provimento do recurso, para reformar integralmente a sentena a quo. As contrarrazes de apelao foram apresentadas pelo Estado de Minas Gerais conforme se observa no Evento 53.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juízo a quo indeferiu a produção de prova testemunhal, com fundamento na falta de fundamentação fático-jurídica. O MM. Juíz de Direito da 5a AJME-Cvel decidiu o feito, ponderando que o autor não requereu a produção de prova documental, não demonstrou causa de justificativa e que a declaração firmada por funcionária da empresa "Sete Lagoano" foi apresentada em sede recursal, quando operada a preclusão. Julgou improcedentes os pedidos do autor, determinando a extinção do feito com resolução do mérito, condenando o autor ao pagamento de custas processuais e honorários advocatícios. A defesa interpôs recurso de apelação, que foi contrarrazoado pelo Estado de Minas Gerais.

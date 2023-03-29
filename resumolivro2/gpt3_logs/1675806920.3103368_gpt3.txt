@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No se faz mais nomeao de curador de incapaz ao menor de 21 anos (artigo 306, pargrafo 1, CPPM), porque o Cdigo Civil (artigo 5, caput) passou a considerar absolutamente capaz o maior de 18 anos. 9.6.4. Defensor Pblico. A Constituio Federal de 1988 reafirmou que Estado prestar assistncia jurdica integral e gratuita aos que comprovarem insuficincia de recursos (artigo 5, LXXIV) e instituiu a Defensoria Pblica definindo-a no artigo 134:
+instituio permanente, essencial  funo jurisdicional do Estado, incumbindo-lhe, como expresso e instrumento do regime democrtico, fundamentalmente, a orientao jurdica, a promoo dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados, na forma do inciso LXXIV do artigo 5 desta Constituio Federal. A Defensoria Pblica  estruturada em carreira e os cargos providos mediante concurso pblico de provas e ttulos, o que  garantia da qualidade dos seus integrantes para dar cabo  assistncia jurdica aos extratos da coletividade menos favorecidos economicamente.  considerado necessitado aquele, cuja situao econmica no lhe permita pagar custas do processo e os honorrios de advogado, sem prejuzo do sustento prprio ou da famlia. A Lei Complementar 80, de 12.01.1994, que organiza a Defensoria Pblica da Unio, do Distrito Federal e dos Territrios, estabelece que os Defensores Pblicos Federais de 2 Categoria atuaro nas Auditorias Militares e os de Categoria Especial no STM;
+prescreve em seu artigo 4, XIV, ser funo institucional da Defensoria Pblica acompanhar inqurito policial, inclusive com a comunicao imediata da priso em flagrante pela autoridade policial, quando o preso no constituir advogado. No artigo 97 e seguintes trata da Defensoria Pblica nos Estados.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Civil passou a considerar absolutamente capaz o maior de 18 anos, não sendo mais possível a nomeação de curador de incapaz ao menor de 21 anos. A Constituição Federal de 1988 garante a assistência jurídica integral e gratuita aos necessitados, que comprovem insuficiência de recursos. A Defensoria Pública é uma instituição permanente, essencial à função jurisdicional do Estado, com cargos providos por concurso público. Entre suas funções estão a orientação jurídica, a promoção dos direitos humanos e a defesa judicial e extrajudicial dos direitos individuais e coletivos. A Lei Complementar 80, de 1994, estabelece que os Defensores Públicos Federais atuarão nas Auditorias Militares e no STM, além de acompanhar inquérito policial, inclusive com a comunicação imediata da prisão em flagrante.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+109, VI, do CP, de 3 (tres) anos. Como a decisao proferida na QO no RE n. 966.177/RS refere-se especificamente a hipotese prevista no art. 1.035,  5, do CPC, e nao houve o sobrestamento dos processos, nem a suspensao do prazo prescricional, pelo Supremo Tribunal Federal no RE n. 972.598/RS - tema 941, verifica-se a ocorrencia de manifesta ilegalidade na suspensao do prazo prescricional sem previa previsao legal. Isso porque, apesar de o artigo 1.030, III, do CPC prever a possibilidade de o relator sobrestar o recurso que versar sobre controversia de carater repetitivo, nada dispoe sobre a possibilidade de suspensao do prazo prescricional nos casos em que reconhecida a repercussao geral do tema. Assim, em observancia ao principio da legalidade, as causas suspensivas da prescricao demandam expressa previsao legal, o que nao se vislumbra na hipotese prevista no art. 1.030, III, do CPC, utilizada para sobrestar o processo no Tribunal de origem, nao sendo admissivel a analogia in malam partem. Com efeito, decorrido lapso superior a 3 (tres) anos, previsto no art. 109, VI, do CP, desde a pratica da falta disciplinar grave e o seu reconhecimento, deve ser reconhecida a prescricao. (Informativo  Ed. Especial n. 4) CP, art. 109, VI; CPC art. 1.035,  5 783 Processo HC 652.068-DF, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 1.030, III, do CPC prevê a possibilidade de o relator sobrestar o recurso que versar sobre controversia de carater repetitivo, mas não dispõe sobre a possibilidade de suspensão do prazo prescricional nos casos em que reconhecida a repercussão geral do tema. 2. Em observância ao princípio da legalidade, as causas suspensivas da prescrição demandam expressa previsão legal. 3. Não é admissível a analogia in malam partem para suspender o prazo prescricional. 4. Decorrido o lapso superior a 3 (três) anos, previsto no art. 109, VI, do CP, desde a prática da falta disciplinar grave e o seu reconhecimento, deve ser reconhecida a prescrição.

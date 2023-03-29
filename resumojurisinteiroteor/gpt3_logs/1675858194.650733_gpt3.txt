@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A petio inicial da presente representao consigna o seguinte em seu primeiro pargrafo: O MINISTRIO PBLICO DO ESTADO DE MINAS GERAIS, atravs do procurador de justia infra-assinado, vem, mui respeitosamente,  ilustrada presena de Vossa Excelncia, com fundamento nos artigos 125,  4, da Constituio Federal, 111 da Constituio do Estado de Minas Gerais, e 102 do Cdigo Penal Militar, para o especfico objetivo de oferecer REPRESENTAO, visando  perda de sua graduao, contra o terceiro sargento policial militar TALES WILLERSON XAVIER CORREA [...]. Baseada em previso constitucional e legal que mencionam expressamente a possibilidade de decretao da perda da graduao em decorrncia de condenao criminal a pena privativa de liberdade superior a dois anos, a representao indica as condutas que foram consideradas criminosas, bem como indica que, em razo delas, houve condenao. Diante do cenrio, no  possvel reconhecer a alegada inpcia na petio inicial. Quanto ao mrito, entendo que as condutas do representado so totalmente incompatveis com a funo policial e demonstram a inconvenincia de manuteno do mesmo nas fileiras da PMMG. A prtica do crime de tortura  repudiada internacionalmente, havendo expressa vedao, para alm das disposies contidas no inciso III do art. 5 da Constituio da Repblica (CR) de 1988 e na Lei n. 9.455/97, que tipificam o crime de tortura, em diversos documentos internacionais, tais como o Pacto de So Jos da Costa Rica, a Declarao Universal dos Direitos Humanos, a Conveno Interamericana para Prevenir e Punir a Tortura; a Conveno contra a Tortura e outros Tratamentos ou Penas Cruis, Desumanos ou Degradantes das Naes Unidas e o Protocolo Facultativo  Conveno contra a Tortura e outros Tratamentos ou Penas Cruis, Desumanos ou Degradantes Portanto, percebe-se que este crime, que avilta a dignidade da pessoa humana, h muito no  tolerado pela comunidade internacional, existindo uma enorme preocupao em combater esta prtica. No caso em apreo, restou evidenciado que a vtima foi submetida  tortura sob o pfio argumento de que estaria envolvida com o trfico de entorpecentes. Entretanto, ainda que tivesse sido comprovado o envolvimento da vtima com a prtica de qualquer ilcito, no  admissvel o uso de violncia fsica ou psicolgica para obter a confisso de qualquer pessoa. A investigao, que, inclusive, no  atribuio do policial militar em suas tarefas cotidianas, conforme previsto no  5 do art. 144 da CR/88, deve-se valer de outros inmeros recursos, jamais da prtica da tortura. No que se refere  alegao da defesa de que [...] compete s cortes marciais o processamento e julgamento dos militares quando no cumprimento das misses que lhes so afetas., cabe destacar que no Brasil no h cortes marciais e os processos penais militares so de competncia exclusiva do Poder Judicirio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministrio Pblico do Estado de Minas Gerais ofereceu representao para perda de graduao do terceiro sargento policial militar Tales Willerson Xavier Correa, em razo da condenao criminal por prtica de tortura. O crime, que avilta a dignidade da pessoa humana, no tolerado pela comunidade internacional, sendo que o uso de violncia fsica ou psicolgica para obter confisso no admissvel. O processo penal militar de competncia exclusiva do Poder Judicirio.

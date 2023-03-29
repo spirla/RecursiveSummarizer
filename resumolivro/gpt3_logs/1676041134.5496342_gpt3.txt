@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Ao reconhecer que implicitamente ao Direito h uma pretenso (ideal) de correo, Robert Alexy ataca todas as perspectivas positivistas que concebem a ordem jurdica como mera facticidade ou expresso do poder da autoridade. Por isso, seu pensamento  denominado no positivista. 2.4.5. Limites do discurso jurdico. A maior fragilidade da teoria discursiva do Direito reside no fato de se apoiar na existncia de uma situao ideal de fala, em que todos os falantes tm direitos iguais e no existe nenhuma coero. Nesse sentido, o prprio Habermas reconhece que a fala argumentativa  infrequente e rara, tendo em vista a necessidade de satisfao de suas condies ideais. As reflexes que Habermas fez sobre as condies de validade do discurso permitem concluir que a comunicao somente ser vlida quando puder satisfazer a pretenso de inteligibilidade, na medida em que o sujeito que argumenta e o que escuta devem compreender os conceitos utilizados no discurso de forma nica; a pretenso de verdade, que exige a adequao entre o contedo do que se diz e o mundo real sobre o qual se formula uma proposio; a pretenso de correo, que implica ser a proposio correta em relao ao tema que  reconhecido na discusso; e a pretenso de veracidade, que identifica no ato de fala a verdadeira inteno subjetiva. Com a satisfao de tais condies espera-se que o processo discursivo permita que o entendimento se estabelea no apenas entre os sujeitos, mas sobre os mesmos objetos que constituem o referencial semntico da interao. Satisfeitas as condies ideais de comunicao, o acordo obtido pela fora dos melhores argumentos obedece a um critrio de validade objetivo e, por isso, deve ser considerado vlido no somente para os que de fato participaram da comunicao (porque na prtica no  possvel a participao e o acordo de todos os cidados), mas para todos os participantes em potencial, porque so sujeitos racionais. O consenso fundamentado sobre uma norma de ao estratgica que  obtido entre os interessados  capaz de merecer um reconhecimento geral. As regras e formas do discurso prtico geral estabelecem o critrio hipottico de correo dos enunciados normativos. As regras e formas do discurso jurdico, por sua vez, estabelecem o critrio hipottico de correo das proposies jurdicas, inclusive das decises judiciais. Dessa forma, atendidas as regras e formas do discurso pode-se chegar a um consenso, que tambm  hipottico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Robert Alexy ataca as perspectivas positivistas que concebem a ordem jurdica como facticidade ou expresso do poder da autoridade. A teoria discursiva do Direito baseia-se na existência de uma situacão ideal de fala, com direitos iguais e sem coero. Habermas reconhece que a fala argumentativa é infrequente, devido à necessidade de satisfazer as condições ideais. O consenso obtido pelos melhores argumentos obedece a um critério de validade objetivo e deve ser considerado válido para todos os participantes em potencial.

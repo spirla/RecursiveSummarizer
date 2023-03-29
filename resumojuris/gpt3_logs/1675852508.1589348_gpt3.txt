@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+205 e 206,  2 e 3, IV QUARTA TURMA Voltar ao Sumario. Processo AgInt no REsp 1.504.344-SP, Rel. Ministro Raul Araujo, Quarta Turma, por unanimidade, julgado em 16/8/2022, DJe 23/8/2022. Ramo do Direito DIREITO CIVIL Tema Seguro de responsabilidade civil de conselheiros, diretores e administradores. RC D&O. Omissao dolosa de informacoes no momento da contratacao. Erro na avaliacao do risco segurado. Perda da garantia securitaria. DESTAQUE O segurado que agir de ma-fe ao fazer declaracoes inexatas ou omitir circunstancias que possam influir na aceitacao da proposta pela seguradora ou na taxa do premio esta sujeito a perda da garantia securitaria. 41 Nos termos dos arts. 765, 766 e 769 do CC, em decorrencia do principio da boa-fe subjetiva, o segurado deve, na contratacao do seguro, informar a seguradora, tao logo tenha conhecimento, sobre circunstancias passiveis de agravar consideravelmente o risco coberto, sob pena de perda da garantia se ficar comprovada a ma-fe do segurado ao omitir informacoes que possam influir na aceitacao da proposta ou na taxa do premio. Nesse cenario, no julgamento do REsp 1.601.555/SP (Relator Ministro Ricardo Villas Boas Cueva, DJe 20/2/2017), a Terceira Turma se manifestou no sentido de que o segurado que, agindo de ma-fe, fizer declaracoes inexatas ou omitir circunstancias que possam influir na aceitacao da proposta pela seguradora ou na taxa do premio, sera penalizado pela perda da garantia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O segurado que agir de má-fé ao fazer declarações inexatas ou omitir circunstâncias que possam influir na aceitação da proposta pela seguradora ou na taxa do prêmio está sujeito à perda da garantia securitária. 2. De acordo com os artigos 765, 766 e 769 do Código Civil, em decorrência do princípio da boa-fé subjetiva, o segurado deve, na contratação do seguro, informar à seguradora, tão logo tenha conhecimento, sobre circunstâncias passíveis de agravar consideravelmente o risco coberto, sob pena de perda da garantia. 3. O segurado que, agindo de má-fé, fizer declarações inexatas ou omitir circunstâncias que possam influir na aceitação da proposta pela seguradora ou na taxa do prêmio, será penalizado pela perda da garantia.

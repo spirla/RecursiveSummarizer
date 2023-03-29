@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RHC 203546/PR, relatora Ministra Carmen Lucia, julgamento em 28.6.2022 (INF 1061) 13.3 FORO POR PRERROGATIVA DE FUNCAO Competencia dos Tribunais para supervisionar investigacoes contra autoridades com foro por prerrogativa de funcao - ADI 7083/AP ODS: 16 Resumo: E constitucional a norma de Regimento Interno de Tribunal de Justica que condiciona a instau-racao de inquerito a autorizacao do desembargador-relator nos feitos de competencia originaria daquele orgao. Na hipotese, nao ha ofensa ao sistema acusatorio, pois a previsao regimental decorre da normativa constitucional que determina o foro especifico, sujeitando investigacoes contra determinadas autoridades a maior controle judicial, pela importancia das funcoes que exercem. Quanto a necessidade de supervisao judicial dos atos investigatorios, tem-se, pela interpretacao siste-matica da CF/88 e com fulcro na jurisprudencia consolidada desta Corte, que o mesmo tratamento conferido as autoridades com foro por prerrogativa de funcao no STF deve ser aplicado, por simetria, aquelas com foro em outros tribunais, em observancia ao principio da isonomia, que garante o mesmo tratamento aos que estejam em situacao igual. Ademais, inexiste usurpacao das funcoes institucionais conferidas constitucionalmente ao Ministerio Publico, pois o orgao mantem a titularidade da acao penal e as prerrogativas investigatorias, devendo apenas submeter suas atividades ao controle judicial. Com base nesse entendimento, o Plenario, por unanimidade, converteu a apreciacao do requerimento de medida cautelar em julgamento de merito e julgou improcedente a acao direta para declarar a constituciona-lidade do dispositivo impugnado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a norma de Regimento Interno de Tribunal de Justiça que condiciona a instauração de inquérito a autorização do desembargador-relator nos feitos de competência originária daquele órgão. 2. Não há ofensa ao sistema acusatório, pois a previsão regimental decorre da normativa constitucional que determina o foro específico, sujeitando investigações contra determinadas autoridades a maior controle judicial, pela importância das funções que exercem. 3. O mesmo tratamento conferido às autoridades com foro por prerrogativa de função no STF deve ser aplicado, por simetria, àquelas com foro em outros tribunais, em observância ao princípio da isonomia, que garante o mesmo tratamento aos que estejam em situação igual. 4. Não há usurpação das funções institucionais conferidas constitucionalmente ao Ministério Público, pois o órgão mantém a titularidade da ação penal e as prerrogativas investigatórias, devendo apenas submeter suas atividades ao controle judicial.

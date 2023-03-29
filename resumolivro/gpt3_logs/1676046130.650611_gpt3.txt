@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No crime de peculato culposo, previsto no artigo 312, pargrafo 2, do Cdigo Penal, por exemplo,  perfeitamente possvel que o sujeito pratique a conduta descuidada que possibilite o crime de outrem sem saber que tambm comete crime. Do mesmo modo, na evaso de presos culposa, prevista no artigo 351, pargrafo 4,  possvel que o sujeito no saiba que seu descuido em vigiar o preso possa responsabiliz-lo criminalmente. 8.9.3. Inexigibilidade na coliso de deveres. Importa observar que o erro de proibio no se confunde com criminalidade por convico, que se manifesta nas hipteses em que o sujeito v-se diante da necessidade de observar deveres conflitantes. Errando sobre a ilicitude do fato, o sujeito desconhece sua natureza proibida. O crime por convico, por sua vez, pressupe a plena conscincia do carter proibido do ato, mas, em nome de determinada convico poltica, religiosa ou social, o sujeito no respeita proibio jurdica para o comportamento, impondo preponderncia de outro padro valorativo, em detrimento da valorao legal. Por definio, a convico no  questo que envolve erro de representao, mas sim crena ou valorao diversa daquela acolhida pela ordem jurdica. No caso da coliso de deveres, o sujeito percebe com clareza a finalidade protetiva da norma jurdica, mas no se orienta por ela porque lhe sobrepe um imperativo de tica superior. A convico funciona, assim, como legitimao pessoal para a prtica do ato proibido. Salvo quando a convico for decorrente da falsa ou da falta de representao sobre a ilicitude comportamento, a hiptese de criminalidade por convico no se concilia com erro juridicamente relevante que impea a realizao do juzo de reprovao pessoal do sujeito. A princpio, a inobservncia do dever estabelecido pela ordem jurdica acarreta responsabilidade. Mas  possvel que a ordem valorativa observada pelo sujeito estabelea contexto de anormalidade de circunstncias que autorize reconhecer menor exigibilidade de conduta diversa ou, dependendo do caso concreto, at mesmo a inexigibilidade que impea censurar a finalidade socialmente inadequada que se manifestou em injusto de natureza penal. Como exemplo dessa situao, pode-se citar a postura do religioso que no permite a transfuso de sangue da qual necessita seu familiar. A realizao forada da transfuso de sangue no constitui crime, pois quem realiza o procedimento est amparado pela excludente do estado de necessidade de terceiro.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de peculato culposo e a evaso de presos culposa são exemplos de condutas descuidadas que podem responsabilizar criminalmente o sujeito, mesmo que desconhecendo a ilicitude do ato. No caso de coliso de deveres, o sujeito pode ser isento de responsabilidade caso a ordem valorativa observada estabeleça um contexto de anormalidade que autorize reconhecer menor exigibilidade ou, dependendo do caso, inexigibilidade.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+15, da Lei 10.826/03, o Ministrio Pblico oferta a presente denncia e requer desde j seu recebimento, bem como que, aps o trmite legal, sejam os denunciados pronunciados e julgados pelo Tribunal do Jri, quando ento devero ser condenados pelos crimes que lhes so imputados. (Evento 4, DENNCIA 2 - autos de 1a Instncia) Distribudos os autos  2a Vara Criminal e de Execues Penais da Comarca de Ibirit/MG sob o n. 0114.12.008518-7 (evento 4, OUT13, pg. 01 - autos de 1a Instncia), foi recebida a denncia em 31/10/2012 (evento 4, OUT13, pg. 1 - autos de 1a Instncia). O feito foi desmembrado em relao aos rus Sd PM Douglas Marcalos dos Santos e Cb PM Heyderson Nonato Santos Ferreira Douglas (evento 4, DENUNCIA2, pg. 02 e OUT14, pgs. 150/152 - autos de 1a Instncia). Ratificado o recebimento da denncia em relao ao Sd PM Douglas Marcalos dos Santos e ao Cb PM Heyderson Nonato dos Santos Ferreira, procedeu-se  regular instruo do processo (Evento 4, OUT16, pg.125 - autos de 1a Instncia). As testemunhas de acusao - Welbert Anatlio Ferreira, Flvio Leonardo Silva, Glayson Alves de Amorim, Geraldo Roberto Couto e Sebastio Firmino de Barros Filho - foram inquiridas (Evento 4, OUT 17 pgs. 47/51,66/67 e 73 - autos de 1a Instncia). A defesa do acusado Douglas Macarlos dos Santos manifestou a desistncia das testemunhas arroladas em sua defesa (Evento 4, OUT 17 pg. 77 - autos de 1a Instncia). O Ministrio Pblico apresentou alegaes finais. Preliminarmente arguiu que, com o advento da Lei n. 13.491/2017, que alterou o artigo 9 do Cdigo Penal Militar, a competncia para julgamento dos crimes imputados aos policiais Sd PM Douglas Marcalos dos Santos e Cb PM Heyderson Nonato dos Santos Ferreira (artigo 15 da Lei n. 10.826/2003) passou a ser da Justia Militar e no da Justia comum (Evento 4, OUT17, pgs.105/130 - autos de 1a Instncia). Por sua vez, a defesa do Sd PM Douglas Macarlos dos Santos requereu, em sede preliminar, a inpcia da denncia e tambm a incompetncia do juzo para o processamento do feito. No mrito, pugnou pela absolvio do acusado por atipicidade da conduta, ou pela configurao da excludente de ilicitude do estrito cumprimento do dever legal, ou ainda por insuficincia de provas. Por fim, caso seja mantida a condenao, requereu que seja concedido o benefcio do sursis (Evento 4, OUT17, pgs.135/136 e OUT18, pgs.1/20 - autos de 1a Instncia). Da mesma forma, a defesa do Cb PM Heyderson Nonato dos Santos Ferreira apresentou suas alegaes finais pugnando pela absolvio do acusado nos termos do artigo 386, inciso III, do Cdigo de Processo Penal (Evento 4, OUT18, pgs. 33/38 - autos de 1a Instncia).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público ofereceu denúncia e requereu o pronunciamento dos denunciados pelo Tribunal do Júri. O feito foi desmembrado em relação aos acusados. Ratificado o recebimento da denúncia, procedeu-se à instrução do processo, com inquirição das testemunhas de acusação e desistência das testemunhas de defesa. O Ministério Público e a defesa dos acusados apresentaram alegações finais.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Em especial quando se trata de resolver casos considerados difceis, os tericos do Direito perceberam que a justificao de uma deciso judicial no pode se dar apenas por meio de uma operao lgico-dedutiva (formal) que permite extrair uma concluso a partir de premissas normativas e fticas, mas sim por meio de argumentao convincente e persuasiva. Na dcada de 1950 do sculo passado vrias reflexes foram desenvolvidas com o objetivo de superar a lgica formal como instrumento para a compreenso do raciocnio jurdico, contribuindo para a consolidao do que hoje conhecemos como teoria da argumentao jurdica. Entre elas, como precursoras modernas de uma teoria da argumentao jurdica que levou a uma compreenso discursiva do Direito, merecem destaque a concepo tpica do raciocnio jurdico de Theodor Viehweg, a nova retrica de Cham Perelman e a lgica informal de Stephen Toulmin. Sob essa perspectiva de melhor compreenso da argumentao jurdica surgiram novas reflexes relacionadas ao significado da argumentao jurdica; a relao da argumentao jurdica com a argumentao tica, a argumentao poltica e a argumentao dos participantes da vida cotidiana da sociedade; ao critrio de correo dos argumentos jurdicos; a justificao lgica das decises judiciais e se o Direito  capaz de oferecer uma nica resposta correta para os casos de conflito que se verificam na sociedade. Posteriormente, a teoria da ao comunicativa de Habermas props a superao da racionalidade prtica por meio da racionalidade comunicativa e Robert Alexy sistematizou a argumentao jurdica a partir da perspectiva do participante e no do observador. Tais contribuies consolidaram a concepo discursiva do Direito. Nesse contexto, o Direito Penal passa a ser compreendido sob o prisma de um constante processo discursivo de legitimao da interveno punitiva. Vejamos, em apertada sntese, as contribuies mais relevantes para a consolidao da perspectiva discursiva do Direito. 2.1. Concepo tpica do raciocnio jurdico. O pensamento tpico teve grande influncia na Antiguidade e na Idade Mdia, constituindo uma parte da retrica. Na Antiguidade, a tpica de Aristteles (um dos seis livros que compunham o Organon) e a de Ccero contestaram o modo de pensar sistemtico dedutivo, que encontrou na geometria de Euclides o seu exemplo mais importante, e obteve grande prestgio at o surgimento do racionalismo e do mtodo matemtico cartesiano.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os tericos do Direito perceberam que a justificao de uma deciso judicial não pode se dar apenas por meio de uma operação lógico-dedutiva, mas sim por meio de argumentação convincente e persuasiva. Na década de 1950, várias reflexões foram desenvolvidas para superar a lógica formal como instrumento para a compreensão do raciocínio jurídico, contribuindo para o que hoje conhecemos como teoria da argumentação jurídica. Esta teoria foi sistematizada por Robert Alexy a partir da perspectiva do participante e não do observador, consolidando a concepção discursiva do Direito.

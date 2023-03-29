@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Exerce o Ministrio Pblico, na forma do artigo 9 da Lei Complementar 75/93, o controle externo da atividade policial (artigo 129, VII, CF). A Resoluo 20/2007 do CNMP regulamenta os procedimentos na execuo deste controle. O Ministrio Pblico  o rgo de acusao no processo penal militar (artigo 54 do CPPM). A ao penal pblica  promovida por denncia do Ministrio Pblico Militar (artigo 29, CPPM). O Ministrio Pblico  parte parcial que busca a condenao do acusado, pois, a concepo do Ministrio Pblico como parte imparcial  incompatvel com o processo penal acusatrio, que exige um processo penal no qual haja uma dualidade de partes, em igualdade de condies, e com interesses distintos. No entanto, h doutrinadores que sustentam que o Ministrio Pblico  parte parcial e parte imparcial. Observa Magalhes Noronha que, no processo penal, o Ministrio Pblico  parte por promover a ao penal, fornecer provas e lutar pela condenao e  dotado de imparcialidade para pedir a absolvio quando as provas evidenciarem a inocncia do acusado. Hlio Tornaghi afirma que como fiscal da lei, o Ministrio Pblico deve agir imparcialmente e reclamar inclusive o que puder ser favorvel ao ru. No CPPM o Ministrio Pblico  considerado parte parcial em razo de promover a ao penal e pugnar pela condenao, por outro lado,  parte imparcial quando requerer a absolvio por no estar convencido da culpa do acusado (artigo 54, pargrafo nico). O casos de impedimentos do membro do Ministrio de funcionar no processo esto previstos no artigo 57 do CPPM:
+a) se nele j houver intervindo seu cnjuge ou parente consanguneo ou afim, at o terceiro grau inclusive, como juiz, defensor do acusado, autoridade policial ou auxiliar de justia;
+b) se ele prprio houver desempenhado qualquer dessas funes;
+c) se ele prprio ou seu cnjuge ou parente consanguneo ou afim, at o terceiro grau inclusive, for parte ou diretamente interessado no feito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público exerce o controle externo da atividade policial e é o órgão de acusação no processo penal militar. A ação penal é promovida por denúncia do Ministério Público Militar e, embora seja considerado parte parcial, também é parte imparcial, pois deve agir de forma imparcial e pedir a absolvição quando as provas evidenciarem a inocência do acusado. O CPPM prevê casos de impedimentos do membro do Ministério de funcionar no processo.

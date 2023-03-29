@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+IV - A anlise da conduta do acusado constitui matria probatria que deve ser apreciada pelo juiz natural da causa no curso da ao penal, no se afigurando razovel, nesse momento processual, afastar de plano a responsabilidade do paciente. V - A jurisprudncia desta Corte, de resto, em diversas oportunidades, assentou o entendimento de que no se pode substituir o processo de conhecimento pela via excepcional do habeas corpus, o qual se presta, precipuamente, para afastar a manifesta violncia ou coao ilegal ao direito de locomoo. Nesse sentido, entre outros, cito os seguintes precedentes: HC 85.636/PI, de relatoria do Ministro Carlos Velloso; HC 85.953/RS e HC 86.249/SP, de relatoria do Ministro Ayres Britto; HC 86.731/PE, de relatoria do Ministro Marco Aurlio; RHC 86.534/MG, de relatoria do Ministro Eros Grau; e HC 86.042/RS, de relatoria do Ministro Joaquim Barbosa. VI - Agravo regimental a que se nega provimento. (STF, HC n. 168446 Agr, Relator Ministro Ricardo Lewandowski, julgamento realizado em 24/05/2019, Segunda Turma, publicao realizada no dia 14/08/2019). - grifei. Ementa: AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME SOCIETRIO. INPCIA DA DENNCIA. INOCORRNCIA. DESNECESSIDADE DE INDIVIDUALIZAO PORMENORIZADA DAS CONDUTAS DE CADA INDICIADO. AUSNCIA DOS REQUISITOS AUTORIZADORES DO EXCEPCIONAL TRANCAMENTO DA AO PENAL. INVIABILIDADE NA ESPCIE DA ANLISE DA ALEGADA ATIPICIDADE: NECESSIDADE DE INCURSO NOS FATOS E PROVAS DA CAUSA. AUSNCIA DE MANIFESTA VIOLNCIA OU COAO ILEGAL AO DIREITO DE LOCOMOO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - As razes do agravo regimental no se mostram aptas a infirmar os fundamentos que lastrearam a deciso agravada. II - "Este Supremo Tribunal Federal sufraga o entendimento no sentido de que nos crimes societrios,  prescindvel que conste da denncia a descrio minuciosa de cada acusado, mostrando-se consentneo com os postulados do contraditrio e da ampla defesa que se exponha o vnculo dos acusados com a sociedade comercial e que se narre as condutas delituosas de forma a possibilitar o exerccio do direito de defesa (HC 149.328-AgR/SP, Rel. Min. Luiz Fux).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF negou provimento ao agravo regimental em habeas corpus, pois a análise da conduta do acusado deve ser apreciada pelo juiz natural da causa no curso da ação penal, não se afigurando razoável afastar de plano a responsabilidade do paciente. Além disso, a jurisprudência desta Corte assentou o entendimento de que não se pode substituir o processo de conhecimento pela via excepcional do habeas corpus. No caso de crimes societários, é prescindível que conste da denúncia a descrição minuciosa de cada acusado.

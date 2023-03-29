@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Sao exemplos de normas expedidas que, se nao observadas, constitui a presente transgressao:
+ Memorando 40.713/2014-EMPM: proibe a utilizacao do acessorio manguito como peca complementar de fardamento para motociclistas e de protecao contra a incidncia dos raios solares. Ressalta que a utilizacao de protetor solar ou jaqueta de couro na forma do regulamento e o meio mais eficaz.  Resolucao 4.360/2014 - PMMG: aprova as regras gerais de uso de trajes civis e de apresentacao pessoal dos policiais militares integrantes do Sistema de Inteligncia da Policia Militar de Minas Gerais (SIPOM), da Corregedoria da Policia Militar (CPM) e da Assessoria Institucional (Ass. Inst.).  Instrucao Conjunta de Corregedorias 01/2014, estabelece que:
+Artigo 46. (...)
+- na apresentacao as Unidades Militares, o militar notificado/requisitado como testemunha ou vitima, investigado/acusado, preso ou nao, devera comparecer com o uniforme da atividade;
+- na apresentacao a Justica Militar Estadual ou da Uniao, requisitado como reu, testemunha ou vitima, preso ou em liberdade, devera o militar apresentar-se com o uniforme da atividade;
+- na apresentacao a Justica Comum Estadual ou Federal, requisitado como reu, preso ou em liberdade, bem como para demandas particulares, o militar devera comparecer em trajes civis. Se requisitado como testemunha ou vitima, em decorrncia de ato de servico, devera comparecer fardado com o uniforme da atividade;
+- na apresentacao a Delegacia de Policia, o militar notificado/requisitado como investigado/indiciado, preso ou em liberdade, devera comparecer em trajes civis. Se notificado/requisitado como testemunha ou vitima, podera comparecer com o uniforme da atividade; (...)
+Artigo 47. Os militares componentes dos Conselhos Especiais e Permanentes de Justica deverao usar o uniforme de cerimnia, tunica bege na PMMG e a cinza no CBMMG.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Memorando 40.713/2014-EMPM proíbe o uso de manguito como peça complementar de fardamento para motociclistas e de proteção contra raios solares. Resolução 4.360/2014 - PMMG aprova regras gerais de uso de trajes civis e de apresentação pessoal dos policiais militares. Instrução Conjunta de Corregedorias 01/2014 estabelece que, na apresentação às Unidades Militares, Justiça Militar Estadual ou da União, Justiça Comum Estadual ou Federal e Delegacia de Polícia, o militar deverá comparecer com o uniforme da atividade ou trajes civis, dependendo do caso. Os militares componentes dos Conselhos Especiais e Permanentes de Justiça deverão usar o uniforme de cerimônia.

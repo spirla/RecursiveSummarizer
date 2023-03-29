@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como a anistia  concedida por lei, sua aplicao opera-se perante o Poder Judicirio, que reconhece, no caso concreto, a extino da responsabilidade. Ao contrrio da graa e do indulto, a anistia rescinde a deciso condenatria transitada em julgado, de modo que, se o sujeito vier a cometer novo crime, no poder ser considerado reincidente. Contrariando a posio clssica de Anbal Bruno18 e Magalhes Noronha19, pode-se encontrar na doutrina o entendimento de que a anistia ampla extingue no somente a responsabilidade penal, como tambm todos os efeitos da deciso penal condenatria,20 inclusive a obrigao de reparar os danos ex delicto. Esse parece ser o entendimento correto. Como a anistia impede a subsuno do comportamento  norma incriminadora, resta desconstituda a sentena condenatria que poderia constituir o ttulo executivo da obrigao de reparar/indenizar os danos causados pelo crime. No  possvel, portanto, extrair efeitos civis de deciso condenatria desconstituda. Mas, se a anistia anula os efeitos da sentena penal, na rea cvel, nada impede a propositura de ao de conhecimento, prpria  satisfao dos interesses da pretenso de ressarcimento. Vale observar que a Constituio da Repblica, em seu artigo 5, XLIII, impede que seja aplicado o benefcio da graa e da anistia aos crimes hediondos,21  tortura,22 ao trfico ilcito de entorpecentes e drogas afins23 e ao terrorismo. O dispositivo constitucional no veda expressamente a concesso do indulto. Entretanto, como o indulto  uma graa deferida a um nmero indeterminado de pessoas (perdo coletivo), tambm no  possvel a concesso deste. 21.3.2. Graa. A graa, ou, na perspectiva da LEP, o indulto individual, pode ser concedida por provocao do condenado; por qualquer do povo; pelo Conselho Penitencirio ou pelo Ministrio Pblico. Entretanto, o Cdigo de Processo Penal ressalva ao Presidente da Repblica a faculdade de conced-la espontaneamente (artigo 734). Poder ser total, quando se referir  totalidade da pena aplicada, ou parcial, se objetiva diminuir, comutar ou substituir a pena aplicada. S ser concedida aps o trnsito em julgado da deciso condenatria e no produz efeitos sobre as consequncias civis do crime. A graa somente dever ser deferida em situaes especiais, sempre em ateno aos interesses pblicos. Exigindo fundamentao excepcional para o perdo individual, a graa no  concedida com frequncia. Em princpio, o perdo da graa no pode ser recusado pelo beneficirio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A anistia, a graça e o indulto são formas de extinção da responsabilidade penal. A anistia extingue os efeitos da decisão condenatória, inclusive a obrigação de reparar os danos ex delicto. A graça e o indulto podem ser concedidos por provocação do condenado, por qualquer pessoa, pelo Conselho Penitenciário ou pelo Ministério Público, sendo que o Presidente da República tem a faculdade de conceder espontaneamente. A graça somente deverá ser deferida em situações especiais.

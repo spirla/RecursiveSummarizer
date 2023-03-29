@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Recentemente, a Lei 13.491/2017 ampliou a competncia da Justia Militar ao dar nova redao ao artigo 9, II, do CPM, considerando militares os crimes previstos neste Cdigo [Cdigo Penal Militar] e os previstos na legislao penal [Cdigo Penal e legislao especial] [....]. Com essa a modificao de competncia, processos em andamento na Justia Comum foram remetidos  Justia Militar. Em sentido oposto ao entendimento de Rogrio de Lauria Tucci, de Julio F. Mirabete, de Pedro Demercian e de Jorge Assaf Maluly, leciona Gustavo Badar que toda pessoa acusada de praticar um delito tem o direito de ser processada e julgada pelo juiz que, segundo as regras abstratas de competncia, vigentes do momento da prtica delitiva, era competente para o julgamento do caso. Sustenta Gustavo Badar, que diante da garantia do juiz natural, a regra de direito intertemporal, tempus regit actum, no pode ter aplicao no que toca  definio de juiz competente, uma vez que o artigo 5, LIII, da CF, c. c. o artigo 8. 1 da CADH impe a regra tempus criminis regit iudicem. Com isso, as mudanas legislativas que alteram a competncia no podem ser aplicadas aos processos em andamento. Assim, a modificao do critrio de competncia feita pela Lei 9.299/1996, passando para o Tribunal do Jri a competncia para processar e julgar os crimes dolosos contra civil somente poderia ter vigncia aos crimes praticados aps a modificao. A execuo da sentena compete ao juiz da Auditoria por onde correu o processo (artigo 568 do CPPM). O artigo 30, XI, da Lei 8.457/92 (LOJMU), fixa a competncia do juiz federal da Justia Militar para executar a sentena. Na Justia Militar dos Estados o juiz natural na execuo penal pode ser determinado pela lei de organizao judiciria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 13.491/2017 ampliou a competência da Justiça Militar, remetendo processos em andamento na Justiça Comum para esta. No entanto, a regra de direito intertemporal não pode ser aplicada para definir a competência, pois a Constituição e a Convenção Americana de Direitos Humanos impõem a regra tempus criminis regit iudicem. A execução da sentença compete ao juiz da Auditoria e, na Justiça Militar dos Estados, ao juiz federal.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O alerta evidencia que o erro que incide sobre as causas de justificao pode ser de duas espcies: o erro tanto pode incidir sobre os pressupostos fticos de uma causa de justificao quanto sobre a existncia ou os limites dessa mesma causa. Na primeira hiptese, ocorreria um erro sobre o tipo permissivo. Na segunda, um erro sobre a permisso, ou seja, um erro de proibio. Para o ordenamento jurdico brasileiro, a lio  perfeitamente adequada. A previso para o erro de tipo permissivo est vinculada aos equvocos que incidem sobre uma situao de fato, e no sobre a existncia ou os limites de uma causa de justificao. O artigo 36 deixa claro que a soluo por ele oferecida aplica-se aos casos em que o sujeito supe a existncia de situao de fato, a qual, se existisse, tornaria a ao legtima. O erro de tipo permissivo poder apresentar-se escusvel, quando sero excludos o dolo e a culpa; ou inescusvel, quando ser excludo apenas o dolo, havendo a possibilidade da punio por crime culposo. Incidindo o erro sobre a existncia e os limites normativos da causa de justificao, cuida-se da ocorrncia do erro de proibio, cuja soluo  dada pelo artigo 21 do Cdigo Penal comum (em atualizao ao disposto no artigo 35 do Cdigo Penal Militar). Nesse caso, segundo a doutrina, trata-se de erro de proibio indireto. Considerando que a fonte primria de conhecimento da matria de proibio  o tipo incriminador, se ocorrer errada compreenso sobre a existncia ou os limites de uma causa de justificao, a compreenso da proibio ser indiretamente afetada. Nesse caso, o erro no exclui o dolo ou a culpa, mas exclui ou diminui a culpabilidade do sujeito. O erro de proibio no diz respeito  tipicidade da conduta, mas  potencial conscincia de ilicitude do fato que  pressuposto da reprovao da culpabilidade. De acordo com o referido dispositivo legal, o erro poder apresentar-se escusvel, quando se tem a excluso da culpabilidade, ou inescusvel, quando a culpabilidade diminuda importa aplicar uma causa de diminuio de pena. Consequncias prticas da opo poltica. A escolha pela adoo da teoria limitada da culpabilidade importa repercusses de ordem prtica. Em muitos casos, por no haver previso legal para o crime culposo, o erro sobre os pressupostos fticos da justificao exclui a tipicidade do fato e encerra a possibilidade de responsabilizar-se quem o realiza.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O erro que incide sobre as causas de justificação pode ser de dois tipos: erro de tipo permissivo, quando há equívoco sobre uma situação de fato, e erro de proibição, quando há equívoco sobre a existência ou os limites dessa causa. O artigo 36 do Código Penal brasileiro prevê a solução para o erro de tipo permissivo, enquanto o artigo 21 prevê a solução para o erro de proibição. Estes erros podem ser escusáveis ou inescusáveis, dependendo da culpa e do dolo.

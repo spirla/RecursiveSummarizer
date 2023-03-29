@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E certo que, nao logrando o acusado exito na comprovacao do alibi, ainda assim podera ser absolvido, porque permanece incolume o onus probatorio do Ministerio Publico quanto aos fatos da imputacao por ele formulada. Diferentemente, se a prova se refere a um fato exposto na denuncia e, a depender do resultado de sua producao, pode em tese gerar a absolvicao ou condenacao do reu, o Parquet nao pode dispensa-la, sob pena de incorrer na perda da chance probatoria. Aqui se inserem, dentre muitas outras, as quatro situacoes que exemplifiquei acima: a ouvida de testemunhas oculares, a juntada do registro do crime em video, os dados de geolocalizacao, o exame de DNA. Essa distincao que proponho respeita a tradicional compreensao jurisprudencial de que, nos termos do art. 156 do CPP, a prova que interessa exclusivamente a defesa (como o alibi) deve ser por ela produzida, ao mesmo tempo em que impede a acusacao de agir como fez o MP/AL nestes autos, apresentando somente um minimo de provas e ignorando diversas outras linhas de extrema relevancia. Ficam excluidas dessa determinacao, certamente, as provas irrelevantes e protelatorias, nos termos do art. 400,  1, do CPP, que nada acresceriam a apuracao dos fatos. O conceito de irrelevancia, aqui, se atrela a formulacao de ROSA e RUDOLFO: irrelevante e a prova incapaz de, mesmo em tese, conduzir a absolvicao do reu (ou, acrescento eu, confirmar a acusacao) caso produzida, como a ouvida testemunhas de carater, apenas para trazer um exemplo. (Informativo  Ed. Especial n. 4) DOUTRINA (1) O prejuizo causado pelo fato gerador [o ato ilicito] e gravado por um risco irredutivel, porque nao e possivel testar retroativa e concretamente a questao da ausencia do fato gerador. Nao se pode, nem no melhor dos casos, apreciar a contribuicao do fato gerador ao resultado desfavoravel por um raciocinio probabilistico fundado em dados empiricos suscetiveis de uma analise estatistica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O acusado pode ser absolvido mesmo que não logre êxito na comprovação do alibi, desde que o ônus probatório do Ministério Público permaneça incólume. 2. O Ministério Público não pode dispensar a produção de provas que, dependendo do resultado de sua produção, podem gerar a absolvição ou condenação do réu. 3. O prejuízo causado pelo fato gerador é gravado por um risco irredutível, pois não é possível testar retroativamente a questão da ausência do fato gerador.

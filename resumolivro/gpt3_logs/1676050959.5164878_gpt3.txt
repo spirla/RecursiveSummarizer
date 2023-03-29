@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Assim, o envolvimento em nmero significativo de casos de repercusso criminal, sem que haja condenao definitiva, pode ser considerado indcio de que o condenado no merea receber pena abaixo do limite estabelecido pela culpabilidade (pelo crime concretamente posto a julgamento). Tal considerao no significa, evidentemente, violar o princpio do nulla poena sine culpa. A prescrio da pretenso executria, por sua vez,  causa extintiva da responsabilidade que ocorre depois do trnsito em julgado de deciso condenatria. Neste caso, j se encontra resolvida a questo de mrito sobre a pretenso punitiva que foi deduzida em juzo. A pretenso executria tem como fundamento um ttulo executivo judicial (deciso condenatria transitada em julgado), que consagra a reprovao sobre quem realizou o crime. A prescrio da pretenso executria no anula a deciso condenatria, somente impede a execuo do ttulo por extinguir o poder-dever de punir estatal. Dessa forma, a prescrio da pretenso executria no anula o juzo positivo de culpabilidade firmado na deciso condenatria, possibilita o reconhecimento de reincidncia em condenao subsequente e ainda preserva como certa a obrigao de reparar os danos causados pelo crime (artigo 91, I, do CP). 22.6. Prazos prescricionais. O artigo 109 do Cdigo Penal estabelece os prazos necessrios para que ocorra a incidncia da prescrio. Tais perodos servem como parmetro tanto para a incidncia da prescrio da pretenso punitiva como da pretenso executria. Antes do trnsito em julgado da deciso condenatria (prescrio da pretenso punitiva), os prazos so relacionados com a pena mxima cominada ao crime que fundamenta a acusao contra o ru. Segundo o artigo 109 do CP:
+Art. 109. A prescrio, antes de transitar em julgado a sentena final, salvo o disposto nos pargrafos 1 e 2 do artigo 110 deste Cdigo, regula-se pelo mximo da pena privativa de liberdade cominada ao crime, verificando-se:
+- em 20 (vinte) anos, se o mximo da pena  superior a 12 (doze);
+- em 16 (dezesseis) anos, se o mximo da pena  superior a 8 (oito) anos e no excede a 12 (doze);
+- em 12 (doze) anos, se o mximo da pena  superior a 4 (quatro) anos e no excede a 8 (oito);
+- em 8 (oito) anos, se o mximo da pena  superior a 2 (dois) anos e no excede a 4 (quatro);
+- em 4 (quatro) anos, se o mximo da pena  igual a 1 (um) ano ou, sendo superior, no excede a 2 (dois);
+- em 3 (trs) anos, se o mximo da pena  inferior a 1 (um) ano.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O envolvimento em casos de repercusso criminal, sem condenao definitiva, pode ser considerado indcio de que o condenado não mereça pena abaixo do limite estabelecido pela culpabilidade. A prescrição da pretenso executória, ocorrida após o trânsito em julgado da decisão condenatória, extingue o poder-dever de punir estatal, mas não anula o juízo positivo de culpabilidade. O artigo 109 do Código Penal estabelece os prazos para a incidência da prescrição, relacionados à pena máxima cominada ao crime.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+496, 3, do CPC/2015. IV - Intimem-se as partes, para tomarem cincia da presente deciso, conforme disposto nos arts. 183, 219, c/c 1003, 5, e 1009, todos da Lei 13.105, de16 de maro de 2015, que contm CPC/2015. Ao autor, fixar o prazo de intimao em 15 (quinze) dias teis. Observar o contido no art. 183, do CPC/2015, em relao ao Estado de Minas Gerais, fixando, no expediente de comunicao via sistema, o prazo de intimao em 30 (trinta) dias teis. [...] Assim, confirmou a tutela provisria anteriormente concedida e julgou procedentes os pedidos do autor, condenando o ru (Estado de Minas Gerais) ao pagamento das custas processuais, com iseno na forma da lei, e dos honorrios advocatcios provenientes da sucumbncia, arbitrados em R$ 2500,00 (dois mil e quinhentos reais), nos termos dos 2 e 3 do art. 85 do Cdigo de Processo Civil (CPC). Aps, sobreveio tempestivo recurso de apelao do ru (Evento 37), em cujas razes sustenta no ter havido cerceamento de defesa pela ausncia do laudo pericial, uma vez que este sequer foi elaborado. Alega ser possvel a punio pelo instituto jurdico da culpa presumida no presente caso concreto, uma vez que a jurisprudncia do Superior Tribunal de Justia dispe que o motorista que sofreu a batida na traseira de seu automvel tem em seu favor a presuno de culpa do outro condutor, em vista da aparente inobservncia do dever de cautela, conforme os termos do artigo 29, inciso II, do Cdigo de Trnsito Brasileiro. Por fim, o apelante sustenta que o procedimento administrativo observou todas as normas regulamentares que regem esse tipo de apurao, razo pela qual, no cabe ao poder judicirio adentrar no mrito da deciso adotada pelo administrador pblico. O autor, intimado, ofertou contrarrazes ao apelo (Evento 45), requerendo o improvimento ao apelo interposto pelo estado, para manter a deciso proferida pelo juzo a quo. Registro que deixei de abrir "vista dos autos  douta Procuradoria de Justia, considerando a ausncia das hipteses de sua interveno, bem como a Recomendao n. 01, de 03/09/2001, do Conselho Superior do Ministrio Pblico do Estado de Minas Gerais, publicada no Minas Gerais de 05/09/2001.  o relatrio. VOTOS DESEMBARGADOR OSMAR DUARTE MARCELINO, RELATOR Como relatado, cuida-se de ao ordinria anulatria de ato administrativo-disciplinar cumulada com pedido de tutela antecipada, ajuizada por Marcelo Alves Antnio, visando  nulidade das punies aplicadas a ele nos autos da Sindicncia Administrativo-Disciplinar (SAD) de Portaria n. 119.914/2018 -46BPM. Eminentes desembargadores, aps anlise detida dos autos, com foco na responsabilidade, ou no, do militar apelado, no vejo como me afastar dos bem lanados fundamentos da sentena.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia de Minas Gerais confirmou a tutela provisria anteriormente concedida e julgou procedentes os pedidos do autor, condenando o Estado de Minas Gerais ao pagamento das custas processuais, com iseno na forma da lei, e dos honorrios advocatcios provenientes da sucumbncia, arbitrados em R$ 2500,00 (dois mil e quinhentos reais). Apelao do Estado foi improvido, mantendo-se a deciso proferida pelo juzo a quo.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+(grifei)Entende-se, pois, que prova emprestada no pode se restringir a processos em que figurem partes idnticas, sob pena de se reduzir excessivamente sua aplicabilidade, sem justificativa razovel para tanto, independentemente de haver identidade de partes, o contraditrio  o requisito primordial para o aproveitamento da prova emprestada, de maneira que, assegurado s partes o contraditrio sobre a prova, isto , o direito de se insurgirem contra a prova e de refut-la adequadamente, afigura-se vlido o emprstimo. 14.2.15.2. Valor da prova emprestada. Para Ada P. Grinover o valor da prova emprestada corresponde ao valor da prova originria produzida no processo primitivo. Assim, a percia produzida no processo primitivo ter valor de percia no processo para o qual foi transportada. O valor probatrio da prova emprestada fica, ainda, condicionado  sua passagem pelo crivo do contraditrio. A valorao esbarra na ausncia do contraditrio, obstculo frequentemente oponvel  admisso e  valorao da prova emprestada. O STF considerou de valor precrio, e no ilcita, a prova emprestada, por inobservncia do contraditrio. A prova emprestada no processo penal condenatrio tem valor precrio e depende de outras provas de corroborao (STF, HC 67.707, 95.019 e 95.549). A prova emprestada  admitida, quando serve como mais um dos elementos de convico que sustentam o decreto condenatrio. O STF tambm decidiu que a prova emprestada no deve funcionar como prova propriamente dita, mas como indcio corroborador de outras provas. Nessa mesma linha o STJ (HC 155.149) frisou que a prova emprestada no deve constituir o nico elemento de convico a respaldar o convencimento do julgador. O STJ (HC 66.873/SP) foi provocado a dizer sobre nulidade, eis que as escutas telefnicas foram autorizadas por juiz estadual, que declinou da competncia para a Justia Federal e denegou a ordem porque a medida cautelar foi realizada, em princpio, nos moldes determinados na Lei 9.296/96.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prova emprestada é admitida quando há contraditório, desde que seja corroborada por outras provas. O STF considera a prova emprestada de valor precário e o STJ destaca que ela não deve ser o único elemento de convicção. No caso de escutas telefônicas, a autorização deve ser feita pelo juiz competente.

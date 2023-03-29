@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Posio adotada pelo STJ e publicada na edio 69 da Jurisprudncia em Teses:
+A decretao da nulidade de ato processual requer prova inequvoca do prejuzo suportado pela parte, em face do princpio pas de nullit sans grief, previsto no artigo 563 do Cdigo de Processo Penal. Critica-se esse entendimento do STF, pois, em certos casos,  impossvel demonstrar o prejuzo de determinadas nulidades. Por esse prisma, sustenta Gustavo Badar que, diante da atipicidade, no ser a parte que ter de demonstrar o prejuzo. O correto  o inverso:
+a manuteno da eficcia do ato atpico ficar na dependncia da demonstrao de que a atipicidade no causou prejuzo algum. E ser o juiz - a quem incumbe zelar pela regularidade do processo e observncia da lei - que, para manter a eficcia do ato, dever expor as razes pelas quais a atipicidade no impediu que o ato atingisse sua finalidade. 17.4.2. Princpio da causalidade. Segundo o artigo 506, pargrafo 1, do CPPM, a nulidade de um ato, uma vez declarada, envolver a dos atos subsequentes. Explica Gustavo Badar que, em regra, a nulidade dos atos postulatrios (denncia, por exemplo) acarreta a nulidade dos demais atos processuais (instrutrios ou decisrios), que so consequncia dos primeiros:
+A sentena, como ato final do processo e consequncia direta de todos os atos anteriores, ser sempre nula quando se reconhecer a nulidade de qualquer ato processual anterior. Impende dizer que os atos subsequentes alcanados devem ter nexo com o ato originrio nulo ou ter nele o necessrio pressuposto lgico. Nesse sentido, observa Renato Brasileiro de Lima que caso no haja qualquer relao de causalidade entre o ato anulado e os demais atos processuais, a eficcia destes deve ser preservada com base no princpio da conservao dos atos processuais. Nem todos os atos subsequentes so automaticamente atingidos pela declarao de nulidade do ato antecedente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ adota o princípio pas de nullit sans grief, previsto no artigo 563 do Código de Processo Penal, que exige prova inequívoca do prejuízo suportado pela parte para decretar a nulidade de um ato processual. Gustavo Badar critica esse entendimento, pois em certos casos é impossível demonstrar o prejuízo. O princípio da causalidade prevê que a nulidade de um ato acarreta a dos atos subsequentes, desde que haja relação de causalidade entre eles. No entanto, se não houver relação de causalidade, a eficácia dos atos subsequentes deve ser preservada.

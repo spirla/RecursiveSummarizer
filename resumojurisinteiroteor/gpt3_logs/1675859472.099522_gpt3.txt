@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Por esses dois motivos, entendo que no se trata da aplicao do precedente invocado pelo apelante (HC 598.886/SC), porque os casos - o em julgamento e o paradigma - so distintos e no h ajustamento de circunstncias e fundamentos. Trago  colao a ementa do precedente invocado. Vejamos: HABEAS CORPUS. ROUBO MAJORADO. RECONHECIMENTO FOTOGRFICO DE PESSOA REALIZADO NA FASE DO INQURITO POLICIAL. INOBSERVNCIA DO PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. PROVA INVLIDA COMO FUNDAMENTO PARA A CONDENAO. RIGOR PROBATRIO. NECESSIDADE PARA EVITAR ERROS JUDICIRIOS. PARTICIPAO DE MENOR IMPORTNCIA. NO OCORRNCIA. ORDEM PARCIALMENTE CONCEDIDA. 1. O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inqurito policial, apenas  apto, para identificar o ru e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Cdigo de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditrio e da ampla defesa. 2. Segundo estudos da Psicologia moderna, so comuns as falhas e os equvocos que podem advir da memria humana e da capacidade de armazenamento de informaes. Isso porque a memria pode, ao longo do tempo, se fragmentar e, por fim, se tornar inacessvel para a reconstruo do fato. O valor probatrio do reconhecimento, portanto, possui considervel grau de subjetivismo, a potencializar falhas e distores do ato e, consequentemente, causar erros judicirios de efeitos deletrios e muitas vezes irreversveis.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O reconhecimento de pessoa, realizado na fase do inqurito policial, s apto para identificar o ru e fixar a autoria delitiva quando observadas as formalidades previstas no art. 226 do Cdigo de Processo Penal e corroborado por outras provas colhidas na fase judicial. O valor probatrio do reconhecimento possui considervel grau de subjetivismo, podendo gerar falhas e distores que podem causar erros judicirios irreversveis.

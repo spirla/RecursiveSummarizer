@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Extrapola a autonomia do estado previsao, em constituicao estadual, que confere foro privilegiado a Delegado Geral da Policia Civil. Na linha de precedentes da Corte, atribuir foro privilegiado a Delegado Geral da Policia Civil viola o art. 129, VII, da CF, que confere ao Ministerio Publico a funcao de exercer controle externo da atividade policial. Com base nesse entendimento, o Plenario, por maioria, julgou procedente pedido formulado em acao direta para declarar a inconstitucionalidade da expressao o Delegado Geral da Policia Civil contida no inciso II do art. 74 da Constituicao do estado de Sao Paulo, na redacao originaria e apos a alteracao pela Emenda Constitucional 21/2006. Vencidos, parcialmente, os ministros Edson Fachin e Roberto Barroso. ADI 5591/SP, relatora Min. Carmen Lucia, julgamento virtual finalizado em 20.3.2021 (INF 1010) Vinculacao remuneratoria e ajuda de custo a parlamentares - ADI 6468/SE Resumo: E inconstitucional norma estadual que vincule subsidios de agentes politicos de distintos entes federativos, de modo que qualquer aumento no valor dos subsidios de um resulte, automaticamente, aumento no de outro. O art. 37, XIII, da CF proibe que, salvo nas hipoteses expressamente elencadas pelo texto constitucional, cargos assimetricos estabelecam, entre si, relacao que implique aumento remuneratorio automatico. Alem disso, a jurisprudencia do Supremo Tribunal Federal fixou-se no sentido de que o tipo de vinculacao vertical ou assimetrico entre deputados federais e estaduais viola tambem a autonomia federativa (CF, art. 25), porque retira do ente menor a prerrogativa de definir as remuneracoes de seus agentes politicos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Atribuir foro privilegiado a Delegado Geral da Policia Civil viola o art. 129, VII, da CF, que confere ao Ministerio Publico a funcao de exercer controle externo da atividade policial. 2. É inconstitucional norma estadual que vincule subsidios de agentes politicos de distintos entes federativos, de modo que qualquer aumento no valor dos subsidios de um resulte, automaticamente, aumento no de outro. 3. O tipo de vinculacao vertical ou assimetrico entre deputados federais e estaduais viola a autonomia federativa (CF, art. 25), porque retira do ente menor a prerrogativa de definir as remuneracoes de seus agentes politicos.

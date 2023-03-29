@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Decisao judicial. Mandado de Seguranca. Prazo decadencial. Termo inicial. Ultimo ato administrativo. DESTAQUE A data do ultimo ato administrativo reputado ilegal e o termo inicial do prazo decadencial para impetracao de Mandado de Seguranca com objetivo de reclassificacao em concurso publico em virtude de anulacao de questoes por decisao judicial apos o encerramento do prazo de validade do certame. Na origem, trata-se de Mandado de Seguranca impetrado contra suposto ato ilegal do Secretario da Administracao estadual objetivando a reclassificacao do impetrante em concurso publico, tendo em vista decisao judicial proferida em acao ajuizada por terceiros e julgada procedente para anular seis questoes do certame apos o encerramento do prazo de validade do certame. Com efeito, a jurisprudencia do STJ orienta-se no sentido de que, quanto ao prazo para interposicao do mandamus, o entendimento jurisprudencial consolidado desta Corte e o de que a contagem do prazo decadencial para impetrar Mandado de Seguranca, contra a ausencia de nomeacao de candidato aprovado em concurso publico, inicia-se na data de expiracao da validade do certame. No entanto, a anulacao das questoes do aludido concurso por decisao judicial, em acao ajuizada por terceiros, e a apontada ilegalidade em face da nao reclassificacao do ora recorrente devem-se por ato posterior ao proprio prazo de validade do concurso. Contudo, o presente Mandado de Seguranca foi impetrado apos 120 (cento e vinte) dias do ultimo ato administrativo ilegal apontado pelo impetrante. Em situacao identica a presente, versando sobre o mesmo certame - sem olvidar a existencia de julgado que afastou a decadencia, em circunstancias semelhantes (STJ, RMS 58.674/BA, Rel. Ministro Francisco Falcao, Segunda Turma, DJe de 14/12/2018) -, a Segunda Turma do STJ acolheu Embargos de Declaracao, com efeitos modificativos para reconhecer a decadencia do direito a impetracao (EDcl no RMS 56.081/BA, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O prazo decadencial para impetração de Mandado de Segurança com objetivo de reclassificação em concurso público em virtude de anulação de questões por decisão judicial, após o encerramento do prazo de validade do certame, inicia-se na data de expiração da validade do certame. 2. A anulação das questões do concurso por decisão judicial, em ação ajuizada por terceiros, e a apontada ilegalidade em face da não reclassificação do recorrente devem-se por ato posterior ao próprio prazo de validade do concurso. 3. O direito a impetração de Mandado de Segurança, em casos semelhantes, é reconhecido como decaído quando impetrado após 120 dias do último ato administrativo ilegal apontado pelo impetrante.

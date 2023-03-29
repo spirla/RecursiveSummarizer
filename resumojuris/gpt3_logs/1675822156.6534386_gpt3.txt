@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+3, 3-A, 3-B, 3-C, 3-D, 3-E, 3-F, 3-G, 3-H e 3-J, inclusive dos respectivos paragrafos, incisos e alineas. Vencido o ministro Marco Aurelio. ADI 6625 MC-Ref/DF, relator Min. Ricardo Lewandowski, julgamento virtual finalizado em 6.3.2021 (INF 1008) Covid-19: plano de imunizacao estadual e requisicao administrativa da Uniao de bens empenhados - ACO 3463 MC-Ref/SP Resumo: E incabivel a requisicao administrativa, pela Uniao, de bens insumos contratados por unidade federativa e destinados a execucao do plano local de imunizacao, cujos pagamentos ja foram empenhados. A requisicao administrativa nao pode se voltar contra bem ou servico de outro ente federativo, de maneira a que haja indevida interferencia na autonomia de um sobre outro. Com efeito, na linha da jurisprudencia do Supremo Tribunal Federal, ressalvadas as situacoes fundadas no estado de defesa e no estado de sitio [CF/88 (CF), arts. 136,  1, II; 139, VII) ], os bens integrantes do patrimonio publico estadual e municipal acham-se excluidos do alcance do poder que a Lei Magna outorgou a Uniao (CF, art. 5, XXV). Alem disso, a competencia da Uniao, por meio do Ministerio da Saude, de coordenar o Programa Nacional de Imunizacao (PNI) e de definir as vacinas integrantes do calendario nacional de imunizacoes nao exclui a competencia dos estados, do Distrito Federal e dos municipios para adapta-los as peculiaridades locais, no tipico exercicio da competencia comum de que dispoem para cuidar da saude e assistencia publica (CF, art. 23, II). Com base nesse entendimento, o Plenario, por unanimidade, referendou medida cautelar concedida em acao civel originaria para impedir que a Uniao requisite insumos contratados pelo estado de Sao Paulo, cujos pagamentos ja foram empenhados, destinados a execucao do plano estadual de imunizacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É incabível a requisição administrativa, pela União, de bens insumos contratados por unidade federativa e destinados à execução do plano local de imunização, cujos pagamentos já foram empenhados. 2. A requisição administrativa não pode se voltar contra bem ou serviço de outro ente federativo, de maneira a que haja indevida interferência na autonomia de um sobre outro. 3. Os bens integrantes do patrimônio público estadual e municipal acham-se excluídos do alcance do poder que a Lei Magna outorgou à União. 4. A competência da União, por meio do Ministério da Saúde, de coordenar o Programa Nacional de Imunização (PNI) e de definir as vacinas integrantes do calendário nacional de imunizações não exclui a competência dos estados, do Distrito Federal e dos municípios para adaptá-los às peculiaridades locais, no típico exercício da competência comum de que dispõem para cuidar da saúde e assistência pública. 5. O Plenário, por unanimidade, referendou medida cautelar concedida em ação civil originária para impedir que a União requisite insumos contratados pelo estado de São Paulo, cujos pagamentos já foram empenhados, destinados à execução do plano estadual de imunização.

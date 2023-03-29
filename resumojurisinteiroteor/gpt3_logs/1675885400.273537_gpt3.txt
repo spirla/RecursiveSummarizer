@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANA. PROCESSO ADMINISTRATIVO DISCIPLINAR. APURAO DE DESVIO DE CONDUTA FUNCIONAL. PRINCPIO DA RAZOABILIDADE E PROPORCIONALIDADE. OBSERVNCIA. MITIGAO DA PENALIDADE. NO CABIMENTO. INJUSTIA DA SANO. INADEQUAO DA VIA. PRECEDENTES. AGRAVO NO PROVIDO. 1. Caso em que o agravante impetrou mandado de segurana contra ato do Presidente do Tribunal de Justia do Estado do Maranho que, aps regular processo administrativo para apurao de desvio de conduta funcional, o demitiu do cargo de analista judicirio. 2. Ao contrrio do que sustenta o agravante, no h falar em confuso na capitulado ou capitulao distinta feita pelo rgo julgador, visto que, de fato, as condutas se adequam aos incisos II, III e VIII do art. 209 e inciso XIX do art. 210 do Estatuto dos Servidores Pblicos Civis do Estado do Maranho, suficientes para a caracterizao de conduta incompatvel com os deveres fundacionais, o que autoriza a sua demisso. 3. Tendo sido observado o contraditrio e a ampla defesa e o devido processo legal, no cabe ao Poder Judicirio incursionar no mrito administrativo "a fim de aferir o grau de convenincia e oportunidade, de maneira que se mostra invivel a anlise das provas constantes no processo disciplinar para adotar concluso diversa da fixada pela autoridade administrativa competente" (MS 22.289/DF, Rel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O agravante impetrou mandado de segurana contra ato do Presidente do Tribunal de Justia do Estado do Maranho que, aps regular processo administrativo para apurao de desvio de conduta funcional, o demitiu do cargo de analista judicirio. O Tribunal rejeitou o agravo, pois foi observado o contraditrio e a ampla defesa e o devido processo legal, sendo invivel a anlise das provas constantes no processo disciplinar para adotar concluso diversa da fixada pela autoridade administrativa competente.

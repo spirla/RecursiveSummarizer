@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Conformem ressai do Manual Pratico de Prevencao e Apuracao de Ilicitos Administrativos, editado pela Controladoria-Geral do Estado de Minas Gerais (CGE-MG):
+Denomina-se contradita de testemunha o ato de impugnar o seu depoimento, com o objetivo de:
+1. impedir a oitiva da testemunha proibida de depor, a exemplo de padre, advogado, psicologo, medico, dentre outros (artigo 207 do Codigo de Processo Penal);
+2. obstar a tomada do compromisso das pessoas indicadas nos artigos 206 e 208 do Codigo de Processo Penal (exemplo: pai, irmao, menor de 14 anos, tio e avo), quando o depoimento for imprescindivel para a elucidacao do fato;
+3. levar aos autos a suspeita de parcialidade, para a devida cognicao da comissao processante e da autoridade julgadora. Em regra, a contradita deve ser apresentada antes do inicio do depoimento, a fim de que sejam observadas as regras e implicacoes acima mencionadas. Ressalta-se que o compromisso legal de dizer a verdade somente nao sera deferido a testemunha contraditada se o motivo apresentado pela defesa se amoldar a algumas das causas legais que o dispense, previstas no CPPM e no MAPPA (70, VIII, e, do CEDM e artigo 139, paragrafo 3, do MAPPA). Assim, por exemplo, se uma testemunha for contraditada por ser inimiga intima do acusado, esse fato devera constar do seu termo, mas nao lhe retirara o dever legal de dizer a verdade, ja que nao constitui uma causa de dispensa legal. O momento adequado para se apresentar a contradita e quando da qualificacao da testemunha, sob pena de preclusao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A contradita de testemunha é o ato de impugnar o seu depoimento para impedir a oitiva de testemunhas proibidas de depor, como padres, advogados, psicólogos e médicos, ou para obstar a tomada do compromisso de pessoas indicadas no Código de Processo Penal. O compromisso legal de dizer a verdade somente não será deferido se o motivo apresentado pela defesa se amoldar a algumas das causas legais previstas no CPPM e no MAPPA. A contradita deve ser apresentada antes do início do depoimento, durante a qualificação da testemunha.

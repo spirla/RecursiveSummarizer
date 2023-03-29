@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No que tange ao alegado cerceamento de defesa pelo indeferimento pela CPAD do pedido da defesa de produo de prova pericial nos computadores da 240a Cia TM do 23 BPM, a priori, tal indeferimento no implica cerceamento da defesa e este procedimento no se mostrou indispensvel diante do Ofcio de fls. 103/113 dos autos, da lavra do Chefe do Centro de Tecnologia em Sistemas da PMMG, enviado para a CPAD, contendo os endereos/sites visitados pelos trs computadores da 240a Cia TM, no dia 14/01/2013, no horrio compreendido entre 04h00min s 06h00min, horrio este de encerramento do turno de servio do Sd PM Christian Bruno Pereira dos Santos, que se encontrava sozinho na frao policial militar. Conforme a fl. 105, no horrio das 05h27min53seg, o computador de IP 10.72.18.159 acessou o site www.centraldoseventos.com.br/comprar/carnaval-de- DomDeu-2013-08-de-fevereiro. A partir deste horrio, o mesmo computador continuou acessando o site por alguns minutos, de acordo com as fls. 106 e 107. Conforme a fl. 107, no horrio das 05h30min27seg, o mesmo computador acessou o site pagseguro.uol.com.br, e permaneceu Tribunal de Justia Militar do Estado de Minas Gerais neste site at as 05h32min55seg, conforme fls. 108 a 110. Ressalta- se que, conforme documento juntado aos autos,  fl. 16, a compra no valor de R$1.972,74 (um mil, novecentos e setenta e dois reais e setenta e quatro centavos) foi efetuada atravs do site PAGSEGURO, no dia 14/01/2013, s 05h32min51seg. Na pg. 111, s 05h33min47seg, o mesmo computador, IP 10.72.18.159, acessou o endereo httD://ma5.mail.vahoo.com/neo/Drofile?emails=Dagame nto@Daaseguro.com.br. ou seja, aps acessar o site da empresa PAGSEGURO, foi enviado um e-mail de confirmao de pagamento para o e-mail do site Yahoo. Segundo o Ofcio do Major PM Comandante da 240a Cia TM,  fl. 118, no dia 14/01/2013, no perodo das 04h00min at as 06h00min, os computadores do Auto-Atendimento da 240a Cia TM possuam os seguintes IPs: 10.72.18.159, 10.72.18.171 e 10.72.18.185. Portanto, o computador que acessou os sites citados acima foi um dos computadores do Auto-Atendimento da 240a Cia TM. Conforme a escala de servio no dia 14/01/2013, de fl. 24, somente o Sd Christian estava escalado no Auto-Atendimento da Cia TM, no perodo das 17h30min do dia 13/01/13 at as 06h00min do dia 14/01/13.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O computador de IP 10.72.18.159 acessou o site www.centraldoseventos.com.br/comprar/carnaval-de-DomDeu-2013-08-de-fevereiro e o site pagseguro.uol.com.br, efetuando uma compra no valor de R$ 1.972,74, e enviando um e-mail de confirmação para o site Yahoo. Este computador pertencia ao Auto-Atendimento da 240a Cia TM, e somente o Sd Christian estava escalado para este período.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Portanto, nao houve o exame das decisoes pelo Superior Tribunal de Justica, visto que ausente a analise do conteudo das decisoes e sua compatibilidade com o disposto no art. 5 da Lei n. 9.296/1996. (Informativo n. 749) 1252 PROCESSO REsp 1.794.907-RS, Rel. Min. Sebastiao Reis Junior, Sexta Turma, por unanimidade, julgado em 13/09/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Audiencia de inquiricao de testemunhas. Defensor dativo. Ausencia de contato previo com o reu. Cerceamento de defesa. Prejuizo demonstrado. DESTAQUE No ambito da audiencia de inquiricao de testemunhas, a ausencia de contato previo entre o reu e seu defensor dativo configura cerceamento de defesa. E evidente o prejuizo do reu que, por falha no estado, tem cerceado o seu direito de comparecer ao depoimento das testemunhas arroladas pelo orgao acusador, ocasiao onde foi representado por um advogado dativo com quem nunca tivera contato.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. No âmbito da audiência de inquirição de testemunhas, a ausência de contato prévio entre o réu e seu defensor dativo configura cerceamento de defesa. 2. É evidente o prejuízo do réu que, por falha no Estado, tem cerceado o seu direito de comparecer ao depoimento das testemunhas arroladas pelo órgão acusador, ocasião onde foi representado por um advogado dativo com quem nunca tivera contato.

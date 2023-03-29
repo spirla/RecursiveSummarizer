@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+So motivos para arquivar o IPM:
+1) insuficincia de elementos informativos para lastrear a denncia;
+2) inexistncia de crime (por exemplo , fato  atpico);
+3) existncia de causa de extino da punibilidade (por exemplo , prescrio) e 4) reconhecimento de excludente de ilicitude (por exemplo , legtima defesa);
+5) reconhecimento de excludente de culpabilidade (por exemplo , coao moral irresistvel);
+6) falta de justa causa para ao penal;
+7) falta de condio de procedibilidade nos crimes de ao pblica condicionada:
+requisio do Ministro da Defesa ou da Justia e a representao do ofendido ou de seu representante legal. A competncia para determinar o arquivamento  do juiz federal da Justia Militar ou do juiz de direito da JME. Para Denilson Feitoza ao determinar o arquivamento o juiz exerce uma funo anmala. O despacho de arquivamento do IPM  irrecorrvel. No cabe recurso em sentido estrito (artigo 516, CPPM). Na legislao do processo penal comum a jurisprudncia  remansosa quanto  irrecorribilidade do despacho que arquiva IP ou peas de informao a pedido do Ministrio Pblico. O STJ confirmou a pacfica jurisprudncia da Corte e do STF no sentido de que no cabe recurso da deciso judicial que, acolhendo manifestao do Ministrio Pblico, ordena o arquivamento de inqurito policial por ausncia de justa causa. No h recurso cabvel contra a deciso que determina o arquivamento do inqurito promovido pelo Ministrio Pblico, nem direito lquido e certo que possa ser amparado por mandado de segurana. Da deciso de indeferimento do pedido de arquivamento de IPM cabe recurso em sentido estrito (artigo 516, b, CPPM). O arquivamento do inqurito, a requerimento do Ministrio Pblico, faz coisa julgada formal, somente ensejando a reabertura do caso com novas provas (Smula 524 do STF).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O arquivamento de um Inqurito Policial Militar (IPM) pode ocorrer por insuficincia de elementos informativos, inexistncia de crime, existncia de causa de extino da punibilidade, reconhecimento de excludente de ilicitude ou de culpabilidade, falta de justa causa para ao penal ou falta de condio de procedibilidade. A deciso de arquivamento do IPM irrecorrvel, mas cabe recurso em sentido estrito caso o pedido de arquivamento seja indeferido. A deciso de arquivamento gera coisa julgada formal, somente permitindo a reabertura do caso com novas provas.

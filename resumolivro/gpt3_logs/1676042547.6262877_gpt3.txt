@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Do mesmo modo, o artigo 40, III, da Lei 8.625/93 dispe que  prerrogativa do membro do Ministrio Pblico ser preso somente por ordem judicial escrita, salvo em flagrante de crime inafianvel, caso em que a autoridade far, no prazo mximo de vinte e quatro horas, a comunicao e a apresentao do membro do Ministrio Pblico ao Procurador Geral de Justia. 3.4.5. Imunidade penal de carter social. Heleno Cludio Fragoso tambm reconheceu como hiptese de imunidade penal a previso do artigo 181, I e II, do Cdigo Penal, ao declarar a iseno de pena dos cnjuges, ascendentes e descendentes nos casos de crimes patrimoniais. A previso possui a seguinte redao:
+Art. 181.  isento de pena quem comete qualquer dos crimes previstos neste ttulo, em prejuzo:
+- do cnjuge, na constncia da sociedade conjugal;
+- de ascendente ou descendente, seja o parentesco legtimo ou ilegtimo, seja civil ou natural. O artigo 183, I e II, do referido estatuto repressivo exclui a imunidade se o crime  de roubo ou de extorso, ou, em geral, quando haja emprego de grave ameaa ou violncia  pessoa bem como ao estranho que participa do crime. Segundo Fragoso,  o que:
+Estabelece o captulo VIII deste ttulo II da parte especial do Cdigo Penal casos tradicionais de imunidade penal, que remontam ao direito romano. Nas institutas do imperador Justiniano est dito que cometem certamente furto os descendentes e dependentes que subtrarem coisas s pessoas sob cujo poder esto (qui in parentum vel dominorum potestate sunt). Todavia, nestes casos, no nascia ao penal, pois por nenhuma outra causa poderia nascer ao entre tais pessoas (furti actio non nascitur, qua nec ex alia nulla causa potest inter eos actio nasci) (I. IV., I, pargrafo 12). Igualmente no se dava ao penal para o furto praticado entre os esposos, mesmo aps a dissoluo do matrimnio pelo divrcio ou morte. (...) Tendo em vista as relaes de parentesco, o Estado renuncia, nestes casos, ao direito de punir, para preservar a honra e a paz da famlia. So razes de poltica e de convenincia. A observao de Fragoso  precisa. A expresso iseno de pena utilizada no Cdigo Penal no implica excluso de culpabilidade ou de qualquer dos elementos do conceito analtico do crime. A previso legal, objetivamente, impede a aplicao da lei penal nos crimes patrimoniais, em que no haja o emprego da violncia ou grave ameaa, cometidos entre cnjuges e parentes da linha reta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 40, III, da Lei 8.625/93 prevê a prisão de membros do Ministério Público somente por ordem judicial escrita, salvo em flagrante de crime inafiançável. O artigo 181, I e II, do Código Penal, isenta de pena os cônjuges, ascendentes e descendentes nos casos de crimes patrimoniais, exceto em casos de roubo ou extorsão. Esta previsão tem como objetivo preservar a honra e a paz da família.

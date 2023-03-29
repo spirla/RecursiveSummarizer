@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O confisco  a perda ou a privao de bens dos particulares em favor do Estado. Como sano penal, argumenta Bitencourt, o confisco fere o princpio da personalidade da pena, ao atingir a prpria famlia do condenado. O certo  que toda e qualquer pena deva ser dirigida diretamente a quem viola a norma protetiva do bem jurdico, mas seus efeitos podem ser sentidos por terceiros. Ningum negar o fato de que os familiares do condenado sofrem com sua estada na priso, sua impossibilidade de exercer determinada atividade profissional ou sua obrigao de pagar uma multa. Em todas essas hipteses, a pena atinge indiretamente pessoas que no praticaram a infrao penal. Com a nova pena de perda de bens e valores, acontece o mesmo. A autorizao para a pena de perda dos bens vem da Constituio da Repblica, em seu artigo 5, XLVI, e, como tambm  princpio constitucional que nenhuma pena passar da pessoa do condenado (artigo 5, XLV), a perda de bens dever incidir apenas sobre o patrimnio do condenado, preservando-se sempre os bens do cnjuge. Note-se que a Constituio autorizou que a decretao da perda de bens possa ser, nos termos da lei, estendida aos sucessores e contra eles executadas, at o limite do valor do patrimnio transferido (artigo 5, XLV). No entanto, ainda no h regulamentao para essa hiptese e, com a morte do condenado, deve-se aplicar a regra da extino da punibilidade inscrita no artigo 107, I, do Cdigo Penal. Com razo, observa Bitencourt45 que a pena  de perda de bens. A expresso bens e valores  inadequada, pois os valores a que se refere o legislador nada mais so do que bens patrimoniais. A meno aos valores  redundante e desnecessria, sendo que deve ser interpretada como sinnimo de bens, embora a utilizao de sinnimos contrarie a orientao do artigo 11, b, da Lei Complementar 95/98. Importa notar a distino existente entre o confisco-pena e o confisco-efeito da condenao. O confisco-pena, denominado pena de perda de valores e bens, refere-se ao patrimnio do condenado e destina-se ao Fundo Penitencirio Nacional. O confisco-efeito da condenao, que encontra previso no artigo 91, II, do CP, refere-se aos instrumentos, produtos e proveitos do crime, sendo destinado  Unio, como receita no tributria. A aplicao da pena de perda de bens e valores deve decorrer de opo cuidadosa, pois no se deve aplic-la sobre bens que seriam obrigatoriamente confiscados como efeito da condenao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O confisco a perda de bens dos particulares em favor do Estado, violando o princípio da personalidade da pena. A Constituição autoriza a perda de bens do condenado, mas não dos seus familiares. A pena de perda de bens e valores se destina ao Fundo Penitenciário Nacional, enquanto o confisco-efeito da condenção se destina à União. A aplicação desta pena deve ser feita com cuidado para evitar a confiscação desnecessária.

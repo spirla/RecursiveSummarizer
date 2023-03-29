@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A Convencao Americana sobre Direitos Humanos (Pacto Sao Jose) celebrado em Sao Jose da Costa Rica, em 22 de novembro de 1969, por ocasiao da Conferencia especializada Interamericana sobre Direitos Humanos, aprovada pelo Decreto Legislativo n. 27/1992, no art. 5.1 estipula que toda pessoa tem o direito de que se respeite sua integridade fisica, psiquica e moral , e no art. 5.2 estabelece que ninguem deve ser submetido a torturas, nem a penas ou tratos crueis, desumanos ou degradantes. Toda pessoa privada da liberdade deve ser tratada com o respeito devido a dignidade inerente ao ser humano . Na parte em que trata das garantias judiciais, a Convencao Americana sobre Direitos Humanos estabelece que toda pessoa tem direito a ser ouvida, com as devidas garantias e dentro de um prazo razoavel, por um juiz ou tribunal competente, independente e imparcial, estabelecido anteriormente por lei, na apuracao de qualquer acusacao penal formulada contra ela, ou para que se determinem seus direitos ou obrigacoes de natureza civil, trabalhista, fiscal ou de qualquer outra natureza (art. 8.1). Nao consta no voto escrito condutor do acordao do Tribunal de origem nenhuma ofensa ao reu e, em nenhum momento o revisor utilizou termos pejorativos para denegrir a sua honra. Mas o fato e que ofensas informadas pelo defesa teriam ocorrido durante a sessao de julgamento, por meio da manifestacao oral do revisor que proferiu o voto divergente, ja que o relator optara pela absolvicao por insuficiencia de provas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Toda pessoa tem o direito de que se respeite sua integridade física, psíquica e moral. 2. Ninguém deve ser submetido a torturas, nem a penas ou tratos cruéis, desumanos ou degradantes. 3. Toda pessoa privada da liberdade deve ser tratada com o respeito devido à dignidade inerente ao ser humano. 4. Toda pessoa tem direito a ser ouvida, com as devidas garantias e dentro de um prazo razoável, por um juiz ou tribunal competente, independente e imparcial, estabelecido anteriormente por lei.

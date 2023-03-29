@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+As razes foram apresentadas em 27 de agosto de 2021 (Evento n. 90). Preliminarmente, a defesa do ex-militar arguiu a prescrio retroativa da pretenso punitiva do Estado, alegando que entre a data do fato que se atribui ao acusado - 28 de fevereiro de 2014, e a data do recebimento da denncia - 18.06.2018, decorreram 4 anos, 3 meses e 21 dias. Ainda em sede de preliminar, arguiu a nulidade do feito em virtude da no realizao de percia na gravao telefnica utilizada para condenar o ru. Nesse sentido, requereu a reforma ou a cassao da sentena condenatria, visando  absolvio do ru, com base no princpio do in dubio pro reo, e, ainda, o retorno dos autos ao primeiro grau, para realizao de percia nos trechos por ela apontados. No mrito, insurgiu-se contra a condenao imposta ao acusado, argumentando que ele jamais praticou qualquer um dos crimes que lhe foram imputados, inexistindo prova que justifique a sua condenao (fls. 12). Disse que, ao contrrio do informado no dia da audincia de leitura da sentena, o condenado nunca teve uma arma ilegal, j que adquiriu arma de fogo de um Sargento, a qual foi obtida atravs de um plano interno da Polcia Militar. Disse, ainda, que, embora a arma no possua o registro tradicional, mas apenas um controle interno feito pelo prprio rgo Estadual, esse documento lhe garante plena licitude, no havendo que se falar em porte ilegal de arma de fogo, tampouco em existncia de veculo produto de furto na residncia do apelante, uma vez que ele era depositrio fiel de uma moto. Asseverou que o acusado no possui nenhuma conduta que o desabone perante a Polcia Militar de Minas Gerais ou a sociedade e que o fato a ele imputado nestes autos no passa de uma perseguio para prejudic-lo. Afirmou que as provas dos autos so fracas; que ficou ntida a inexistncia de conduta criminosa por parte do ru; e que ele s tentou recuperar um bem que era seu, oportunidade em que solicitou ajuda a integrantes da PMMG, o que lhe foi negado. Afirmou, ainda, que o udio interceptado pela Polcia civil era, na verdade, entre Ronald e Natalino e no entre o acusado e Ronald, o que por si s j o inocenta das acusaes. Alegou que a sentena prolatada pelo juzo a quo sequer apontou se a ao ou omisso atribuda ao recorrente teve por finalidade a satisfao de interesse ou sentimento pessoal, ou seja, no foi demonstrado o elemento subjetivo do delito de prevaricao, sendo, pois, imperiosa a sua absolvio. Salientou que, na Justia Comum, o acusado foi julgado pelos mesmos fatos imputados neste processo e, ao final, absolvido (Processo: 1.0701.13.038781-7/001).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa do ex-militar arguiu a prescrio retroativa da pretenso punitiva do Estado e a nulidade do feito, requerendo a reforma ou a cassao da sentena condenatria. No mrito, a defesa insurgiu-se contra a condenao, alegando que o acusado jamais praticou os crimes imputados, inexistindo provas para justificar a condenao. Alegou também que o acusado não possuía nenhuma conduta que o desabonasse e que o fato imputado não passava de uma perseguição. Por fim, salientou que o acusado foi julgado pela Justiça Comum e absolvido.

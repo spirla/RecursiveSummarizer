@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O trabalho no pode ser considerado forado se a vitima concordar com a sua realizao. No Brasil a imposio de trabalho contra a vontade do trabalhador admite certa polmica no caso de condenao criminal. A Constituio da Repblica, no inciso XLVII, alnea c, de seu artigo 5 prescreve que no haver penas de trabalhos forados. A Conveno Americana de Direito Humanos - Pacto de So Jos da Costa Rica, por sua vez, dispe na alnea a do item 3 de seu artigo 6 que no constituem trabalhos forados ou obrigatrios os trabalhos ou servios normalmente exigidos de pessoa reclusa em cumprimento de sentena ou resoluo formal expedida pela autoridade judiciria competente. O dispositivo convencional ainda determina que tais trabalhos ou servios devem ser executados sob a vigilncia e controle das autoridades pblicas, e os indivduos que os executarem no devem ser postos  disposio de particulares, companhias ou pessoas jurdicas de carter privado. No entanto, a previso convencional que admite a imposio do trabalho quando determinado por ordem judicial no levou em considerao que o poder pblico possui limitaes quanto ao exerccio da fora contra o cidado, ainda que condenado criminalmente. No  possvel admitir que um agente do Estado empregue fora fsica ou moral para obrigar o condenado a trabalhar e os meios de execuo do crime previsto no artigo 149 do Cdigo Penal evidenciam que tais condutas no esto inseridas nas atribuies de quem intervm no cumprimento de pena privativa de liberdade. Havendo recusa do condenado em realizar o trabalho que lhe  imposto pelo juiz criminal, no se poder licitamente obrig-lo a trabalhar por meio do emprego de violncia fsica ou moral. De fato, havendo recusa do condenado no ser possvel obrig-lo a trabalhar. Muito embora o melhor entendimento seja o que reconhece a incompatibilidade da imposio do trabalho com as premissas do Estado Democrtico de Direito, se um juiz criminal determinar ao condenado em regime fechado que trabalhe, com fundamento no dispositivo convencional, e o preso, constrangido pela deciso judicial, vier a trabalhar contra a sua vontade, no ser possvel reconhecer a tipicidade da conduta por falta do elemento subjetivo dolo. Se o magistrado entender que, no caso de condenao criminal, o trabalho imposto ao preso no pode ser considerado forado haver atipicidade subjetiva.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imposio de trabalho contra a vontade do trabalhador admite certa polêmica no caso de condenação criminal. A Constituição da República e a Convenção Americana de Direitos Humanos - Pacto de São José da Costa Rica permitem a imposição de trabalho quando determinado por ordem judicial. No entanto, não é possível obrigar o condenado a trabalhar por meio do emprego de violência fsica ou moral. Se o condenado recusar o trabalho, haverá atipicidade subjetiva.

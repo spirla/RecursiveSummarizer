@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, a Segunda Turma, diante do empate na votacao, deu parcial provimento aos agravos regimentais, para conceder parcialmente a ordem de habeas corpus. Vencidos os ministros Nunes Marques (relator) e Edson Fachin, que negaram provimento aos recursos. HC 202579 AgR/ES, relator Min. Nunes Marques, redator do acordao Min. Gilmar Mendes, julgamento em 26.10.2021 (INF 1036) HC 202700 AgR/SP, relator Min. Nunes Marques, redator do acordao Min. Gilmar Mendes, julgamento em 26.10.2021 (INF 1036) 16.3 BUSCA E APREENSAO Reclamacao: legitimidade de conselho seccional da OAB, habeas corpus de oficio, incompetencia da Justica Federal e busca e apreensao - Rcl 43479/RJ Resumo: Os conselhos seccionais da Ordem dos Advogados do Brasil (OAB) possuem legitimidade para ingressar com reclamacao perante o Supremo Tribunal Federal (STF) em defesa dos interesses concretos e das prerrogativas de seus associados, nos termos da expressa previsao legal. A Lei 8.906/1994 (Estatuto da Advocacia) confere ampla legitimidade a OAB para atuar em defesa da ordem juridica, do Estado Democratico de Direito e de todos os advogados integrantes dos seus quadros, conforme se observa do art. 44, I e II, do art. 49, paragrafo unico, e do art. 54, II e III, c/c o art. 57.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os conselhos seccionais da Ordem dos Advogados do Brasil (OAB) possuem legitimidade para ingressar com reclamação perante o Supremo Tribunal Federal (STF) em defesa dos interesses concretos e das prerrogativas de seus associados. 2. A Lei 8.906/1994 (Estatuto da Advocacia) confere ampla legitimidade à OAB para atuar em defesa da ordem jurídica, do Estado Democrático de Direito e de todos os advogados integrantes dos seus quadros.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A realidade social  muito dinmica e cabe ao operador do direito perceber quais aspectos da conduta humana interessam ao Direito Penal, bem como em que medida. De qualquer forma, seja no que diz respeito ao fato ou ao Direito, o problema  essencialmente de interpretao. A dificuldade de identificar a resposta juridicamente correta ao fato examinado nem sempre se resolve com a escolha de apenas uma disposio legal aplicvel. Tratando-se de dispositivos legais que definam crimes,  possvel que um mesmo comportamento autorize a incidncia de dois ou mais tipos penais incriminadores.  o que acontece quando se verifica o concurso formal ou material de crimes,37 nos quais se pode identificar mais de uma conduta penalmente relevante ou uma conduta que ofenda mais de um bem jurdico e todos autorizem a caracterizao tpica. Visando a resolver as dificuldades, a doutrina elaborou os princpios da especialidade, subsidiariedade, consuno e alternatividade, os quais passaremos a examinar. Juan Bustos Ramrez observa, com razo, que os quatro princpios podem ser reduzidos s frmulas da especialidade e da consuno. 3.5.1. Princpio da especialidade. Segundo o princpio da especialidade, a existncia de lei especial afasta a incidncia de uma lei geral - lex specialis derogat legi generali. A lei especial rene todos os elementos da lei geral, acrescidos de mais alguns, denominados especializantes. Por isso, a caracterizao de um tipo penal incriminador especial implica sempre a caracterizao do tipo geral. Nas palavras de Hungria:
+uma norma penal se considera especial em relao  outra (geral) quando, referindo-se ambas ao mesmo fato, a primeira, entretanto, tem em conta uma particular condio (objetiva ou subjetiva) e apresenta, por isso mesmo, um plus ou um minus de severidade. Desde que se realize tal condio (elemento especializante), fica excluda a aplicao da norma geral. O princpio da especialidade pode ser decomposto em trs regras de aplicao prtica: a) uma norma prevista na parte especial do Cdigo Penal afasta a incidncia de norma prevista na parte geral; b) um tipo penal que apresente maiores detalhes sobre a conduta proibida afasta a incidncia de outro mais genrico; c) um tipo incriminador previsto na legislao extravagante que traz especial tratamento ao bem jurdico afasta a incidncia de tipo genrico constante no Cdigo Penal. Para a primeira regra, pode-se formular o exemplo do homicdio praticado por agente impelido por motivo de relevante valor social ou moral.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O operador do direito deve interpretar quais aspectos da conduta humana interessam ao Direito Penal e em que medida. O princípio da especialidade afasta a incidência de uma lei geral e é decomposto em três regras: uma norma prevista na parte especial do Código Penal afasta a incidência de norma prevista na parte geral; um tipo penal com maiores detalhes afasta a incidência de outro mais genérico; e um tipo incriminador previsto na legislação extravagante afasta a incidência de tipo genérico constante no Código Penal.

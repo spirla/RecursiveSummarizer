@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em linha de simetria dispe o artigo 528 do CPPM:
+Ser sobrestado o recurso se, depois de haver apelado, fugir o ru da priso. Ambas as regras no foram recepcionadas pela nova ordem constitucional, pois ferem a garantia constitucional da ampla defesa (artigo 5, LV, CF) e impedem o duplo grau de jurisdio. A propsito, o artigo 595 do CPP:
+Se o ru condenado fugir depois de haver apelado, ser declarada deserta a apelao - redao semelhante ao artigo 528 do CPPM, revogado pela Lei 12.403/2011. Quando vigorava essa normativa, o STF entendeu que o artigo 595 do CPP no foi recebido pela ordem jurdico-constitucional dado seu conflito com o princpio da no culpabilidade (CF, artigo 5, LVII), ademais, assentou-se que, por via indireta, encerraria execuo antecipada da pena. 18.3.1.5. Legitimidade. Tm legitimidade para apelar o Ministrio Pblico e o ru, ou seu defensor (artigo 530, CPPM), inclusive o defensor dativo. Ao examinar o artigo 577, caput, do CPP, cuja redao se assemelha ao artigo 530 do CPPM, leciona Gustavo Badar que o defensor tem legitimidade prpria e no apenas mera representao do acusado. Por sua vez, o acusado tem capacidade postulatria especial, decorrente de sua legitimao para recorrer. De qualquer forma, no caso de recurso interposto diretamente pelo acusado, o juiz dever determinar a intimao de seu defensor, constitudo ou dativo, para arrazoar o recurso, assegurando assim, a paridade armas. O ru e o defensor tm legitimidade concorrente? Coliso de interesses? Como resolver? A doutrina tem se posicionado no sentido de que, se houver conflito entre o acusado e o advogado que apela da sentena, dever prevalecer a posio tcnica, em favor do recurso. A jurisprudncia do STF est cristalizada na Smula 705:
+A renncia do ru ao direito de apelao, manifestada sem a assistncia do defensor, no impede o conhecimento da apelao por este interposta.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 528 do CPPM prevê o sobrestamento de recurso se o ru fugir da prisão após ter apelado, o que foi considerado inconstitucional pelo STF. O artigo 595 do CPP também foi revogado pela Lei 12.403/2011. O Ministério Público e o ru ou seu defensor têm legitimidade para apelar, sendo que, em caso de conflito entre o acusado e o advogado, deverá prevalecer a posição técnica do recurso. A jurisprudência do STF está cristalizada na Smula 705, que prevê que a renúncia do ru ao direito de apelar, sem a assistência do defensor, não impede o conhecimento da apelação.

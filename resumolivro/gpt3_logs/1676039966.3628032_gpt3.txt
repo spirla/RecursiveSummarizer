@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A reduo da idade mnima trar como consequncia inevitvel o aumento dos ndices de criminalidade, pois ingressaro nas estatsticas os comportamentos socialmente inadequados praticados por pessoas que antes no eram consideradas imputveis. Mas isso no significa que tais comportamentos sero evitados, at porque em face dos inimputveis o Estatuto da Criana e do Adolescente j prev a aplicao de medida socioeducativa que importa em privao da liberdade (artigo 112, VI, e 121, ambos da Lei 8.069/90). A reduo da maioridade acarretar, na prtica, apenas a possibilidade de se aplicar a privao da liberdade por mais tempo. 5.9.1.9. Consequncias da inimputabilidade. O artigo 112 do Cdigo Penal Militar reza que, quando o agente  inimputvel (artigo 48), mas suas condies pessoais e o fato praticado revelam que ele oferece perigo  incolumidade alheia, o juiz determina sua internao em manicmio judicirio.. A interpretao sistmica desse dispositivo faz perceber que a medida de segurana, somente poder ser aplicadas se o sujeito cometer injusto penal, posto que o juiz criminal no pode impor coercitivamente medidas teraputicas a quem realiza condutas atpicas ou lcitas. A internao de doentes mentais que no cometeram condutas punveis somente  possvel por meio da ao civil de interdio, assim, existindo situao que exclua a tipicidade ou a ilicitude do fato, no poder o juiz criminal aplicar medida de segurana para internar o sujeito. Se quem realiza o injusto  incapacitado psiquicamente, inviabilizado est o juzo de reprovao da culpabilidade. No entanto, a conduta evidencia a manifestao de finalidade conflitante com as expectativas sociais e uma suposta incapacidade para a convivncia socialmente harmnica permite temer pela repetio da conduta indesejada. No entanto, cabe observar que o Cdigo Penal militar no presume normativamente que a incapacidade psquica aumente a probabilidade de novas prticas antissociais e o indivduo possa ser considerado pela ordem jurdica como perigoso. O artigo 112 do CPM deixa clara a necessidade de proceder a exame judicial sobre as condies pessoais daquele que realiza a conduta. Nos termos da disposio legal, para determinar a internao em manicmio o juiz deve considerar cumulativamente: a) as condies pessoais do sujeito e b) a conduta por ele praticada. Segundo o referido artigo, com base em tais critrios o juiz deve aferir a periculosidade do sujeito ou, nos exatos termos da lei, perigo  incolumidade alheia.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A redução da idade mínima trará como conseqüência inevitável o aumento dos níveis de criminalidade, pois entrarão nas estatísticas comportamentos inadequados praticados por pessoas que antes não eram consideradas imputáveis. O Estatuto da Criança e do Adolescente prevê a aplicação de medidas socioeducativas que implicam na privação da liberdade. O Código Penal Militar estabelece que, quando o agente for inimputável, mas suas condições pessoais e o fato praticado revelarem que ele oferece perigo à incolumidade alheia, o juiz determinará sua internação em manicômio judiciário.

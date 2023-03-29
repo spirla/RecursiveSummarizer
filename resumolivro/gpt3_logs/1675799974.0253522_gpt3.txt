@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+10 MENCIONADO - TENDO SIDO REQUERIDA PELO APELADO A APLICACAO DO ARTIGO CITADO, COMPETIA A AUTORIDADE QUE APLICOU A SANCAO FUNDAMENTAR A APLICACAO OU NAO DA NORMA - AGIU CORRETAMENTE O MAGISTRADO DE PRIMEIRO GRAU AO RECONHECER A PRESCRICAO - NEGADO PROVIMENTO AO RECURSO (TJM-MG: Apelacao - Processo PJe n. 2000022-90.2020.9.13.0005; Relator para o acordao: Desembargador Fernando Galvao da Rocha; Julgamento - majoritaria: 06/07/2021. PJe: 06/07/2021). 3. Efeitos decorrentes da aplicacao da medida disciplinar
+Conforme ja esclarecido, o aconselhamento ou advertncia verbal pessoal nao se tratam de sancoes disciplinares, mas, de medidas disciplinares nao sancionatorias substitutivas que, como beneficio, elidira a depreciacao do conceito do militar faltoso e a aplicacao de qualquer punicao. Contudo, nem todos os efeitos da sancao serao afastados em virtude da aplicacao da referida medida disciplinar. Extrai-se da normatizacao em vigor nas IME que a imposicao da medida disciplinar em tela redundara nos seguintes efeitos: (1) registro no sistema informatizado da IME (SIRH ou SIGP) da transgressao disciplinar cometida (um dos incisos dos artigos 13, 14 ou 15); (2) registro na ficha funcional do militar; (3) interrupcao da contagem do prazo a que alude o artigo 94 do CEDM, que trata da concessao da recompensa de cancelamento de punicoes; (4) cmputo da reincidncia como circunstncia agravante (artigo 21, III, do CEDM). Ha razao no que tange aos registros da transgressao cometida e o cmputo da agravante da reincidncia, ja a aplicacao da medida disciplinar do artigo 10 do CEDM requer o reconhecimento do cometimento de uma transgressao disciplinar. Assim, o que se elide e a sancao disciplinar e nao a falta cometida.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Magistrado de Primeiro Grau agiu corretamente ao reconhecer a prescrição. A aplicação da medida disciplinar do artigo 10 do CEDM requer o reconhecimento do cometimento de uma transgressão disciplinar, elidindo a punição, mas não a falta cometida. Os efeitos da medida incluem o registro da transgressão no sistema informatizado da IME, na ficha funcional do militar, interrupção da contagem do prazo para concessão de recompensa de cancelamento de punições e cômputo da reincidência como circunstância agravante.

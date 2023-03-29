@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A fixacao de honorarios por equidade nessas situacoes - muitas vezes aquilatando-os de forma irrisoria - apenas contribui para que demandas frivolas e sem possibilidade de exito continuem a ser propostas diante do baixo custo em caso de derrota. O art. 20 da Lei de Introducao as Normas do Direito Brasileiro (Decreto-Lei n. 4.657/1942), incluido pela Lei n. 13.655/2018, prescreve que, nas esferas administrativa, controladora e judicial, nao se decidira com base em valores juridicos abstratos sem que sejam consideradas as consequencias praticas da decisao . Como visto, a consequencia pratica do descarte do texto legal do art. 85,  2, 3, 4, 5, 6 e 8, do CPC, sob a justificativa de dar guarida a valores abstratos como a razoabilidade e a proporcionalidade, sera um poderoso estimulo comportamental e economico a propositura de demandas frivolas e de carater predatorio. A postura de afastar, a pretexto de interpretar, sem a devida declaracao de inconstitucionalidade, a aplicacao do  8 do artigo 85 do CPC/2015, pode ensejar questionamentos acerca de eventual inobservancia do art. 97 da CF/88 e, ainda, de afronta ao verbete vinculante n. 10 da Sumula do STF. Embora nao tenha sido suscitado pelas partes ou amigos da Corte, nao ha que se falar em modulacao dos efeitos do julgado, uma vez que nao se encontra presente o requisito do art. 927,  3, do CPC/2015. Isso porque, no caso sob exame, nao houve alteracao de jurisprudencia dominante do STJ, a qual ainda se encontra em vias de consolidacao. 88 Assim, nao se configura a necessidade de modulacao dos efeitos do julgado, tendo em vista que tal instituto visa a assegurar a efetivacao do principio da seguranca juridica, impedindo que o jurisdicionado de boa-fe seja prejudicado por seguir entendimento dominante que terminou sendo superado em momento posterior, o que, como se ve claramente, nao ocorreu no caso concreto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A fixação de honorários por equidade contribui para a propositura de demandas frivolas e de caráter predatório. 2. O artigo 20 da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei n. 4.657/1942) prescreve que, nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão. 3. Afastar a aplicação do artigo 85, 2, 3, 4, 5, 6 e 8, do CPC, sob a justificativa de dar guarida a valores abstratos como a razoabilidade e a proporcionalidade, pode ensejar questionamentos acerca de eventual inobservância do artigo 97 da CF/88 e, ainda, de afronta ao verbete vinculante n. 10 da Sumula do STF. 4. Não há necessidade de modulação dos efeitos do julgado, tendo em vista que tal instituto visa a assegurar a efetivação do princípio da segurança jurídica, impedindo que o jurisdicionado de boa-fé seja prejudicado por seguir entendimento dominante que terminou sendo superado em momento posterior.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em deciso acostada no Evento 7 - DEC20, o Meritssimo Juiz de Direito Cooperador na Terceira Auditoria Judiciria do Estado de Minas Gerais indeferiu a realizao de percia psicopatolgica requerida pelo autor. As partes manifestaram-se em memoriais, o ru no Evento 8 - MEMORIAIS14 e o autor no Evento 8 - MEMORIAIS11. Foi juntada carta de prprio punho do autor no Evento 8 - OUT13. O Meritssimo Juiz de Direito Substituto na Terceira Auditoria Judiciria do Estado de Minas Gerais julgou improcedente o pedido inicial por considerar que a demisso em tais casos  uma penalidade prevista no ordenamento jurdico e o procedimento respeitou todos os princpios constitucionais. Condenou o autor ao pagamento das custas, despesas processuais e verba honorria, sendo fixada em 10% (dez por cento) sobre o valor da causa, ficando suspensa a exigibilidade da cobrana, nos termos do 3 do art. 98 do Cdigo de Processo Civil (Evento 8 - SENT20). O autor apelou (Evento 9 - APELAO2). O Estado de Minas Gerais apresentou contrarrazes ao recurso de apelao (Evento 9 - CONTRAZAP11), trazendo os mesmos fundamentos constantes na pea contestatria para requerer a manuteno da respeitvel sentena. Levado a julgamento o recurso de apelao, a colenda Segunda Cmara Cvel, por unanimidade, acolheu a preliminar suscitada pelo apelante e cassou a sentena prolatada, determinando o retorno dos autos  fase de produo de prova pericial (evento 9 - ACOR18). Com o retorno dos autos  Primeira Instncia, estes foram redistribudos  5a AJME - Cvel (Evento 9 - CERT15). O meritssimo juiz de direito titular da 5a AJME - Cvel determinou a realizao da prova pericial (Evento 9 - DESP19). O laudo mdico pericial foi juntado no Evento 10 - LAUDO 21. As partes foram intimadas sobre o laudo pericial mdico (Evento 10 - DESp22), tendo-se manifestado no Evento 10 - PET25 e PET26. No Evento 10 - DESP27, O meritssimo juiz de direito substituto na 5a AJME - Cvel determinou, com base no art. 357, 2, do Cdigo de Processo Cvel, que as partes apresentassem, de maneira resumida (cabvel, possivelmente, em at uma pgina), as alegaes que pretendiam fossem examinadas em sentena, com a necessria delimitao das questes sobre as quais recair a atividade probatria, fazendo-se as oportunas remisses s provas produzidas, com a indicao das folhas pertinentes dos Eventos. O Estado de Minas Gerais e o autor apresentaram seus memorias juntados no Evento 10 - ALEGAES30 e ALEGAES32. O meritssimo juiz de direito substituto na 5a AJME - Cvel determinou a intimao do Ministrio Pblico do Estado de Minas Gerais para manifestar interesse na causa, considerando a doena mental alegada na inicial (Evento 2).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Meritssimo Juiz de Direito Substituto na 5a Auditoria Judiciria do Estado de Minas Gerais indeferiu o pedido de realizao de percia psicopatolgica requerida pelo autor, julgando improcedente o pedido inicial. O recurso de apelao foi acolhido pela Segunda Cmara Cvel, determinando o retorno dos autos fase de produo de prova pericial. O laudo mdico pericial foi juntado e as partes foram intimadas para apresentar alegaes. O Ministrio Pblico do Estado de Minas Gerais foi intimado a manifestar interesse na causa.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+CONTRADIO. INEXISTNCIA. OMISSES. PARCIAL. 1. A contradio que autoriza a oposio de embargos declaratrios  aquela interna ao julgado, relativa a seus fundamentos e dispositivo, e no a contradio entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decises do STJ. Precedentes. 2. O papel desta Corte  uniformizar a interpretao da lei federal, de modo que no est autorizada a se debruar sobre provas em sede de recurso especial, atividade reservada aos juzes de primeiro grau e aos Tribunais de apelao. 3. A formulao de tese, no mbito de agravo interno, no suscitada em recurso especial, configura inovao recursal. 4. Embargos de declarao parcialmente acolhidos. (EDcl no AgInt nos EDcl no AREsp 1801652/SP, relator Ministra Nancy Andrighi, Terceira Turma, julgamento em 30/08/2021, publicao no DJe 02/09/2021). PROCESSO CIVIL E TRIBUTRIO. EMBARGOS DE DECLARAO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUO FISCAL DE DVIDA NO TRIBUTRIA. IMPENHORABILIDADE DE VENCIMENTOS. AUSNCIA DE EFETIVA OMISSO OU CONTRADIO INTERNA NO JULGADO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Embargos de Declarao parcialmente acolhidos. Contradio interna ao julgado, relativa a seus fundamentos e dispositivo, autoriza oposio de embargos declaratrios. No h autorizao para se debruar sobre provas em sede de recurso especial. Formulao de tese, no mbito de agravo interno, no suscitada em recurso especial, configura inovao recursal.

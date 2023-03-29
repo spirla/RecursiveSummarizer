@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Supremo Tribunal Federal no  considerado pela Constituio da Repblica como um Tribunal Superior, mas sim como o rgo de cpula do Poder Judicirio nacional. Esta distino de tratamento fica clara no pargrafo 1 do artigo 92 da Constituio, segundo o qual o Supremo Tribunal Federal, o Conselho Nacional de Justia e os Tribunais Superiores tm sede na Capital Federal. Com certeza, no se justifica prosseguir na contagem do prazo prescricional nos casos de recursos pendentes no Supremo Tribunal Federal. No entanto, no  possvel fazer analogia para prejudicar o ru com a suspenso da contagem do prazo prescricional. O Superior Tribunal Militar, apesar de ser considerado um Tribunal Superior, constitui rgo de segundo grau de jurisdio da Justia Militar da Unio e somente possui competncia para o processo e julgamento dos crimes militares. A contagem do prazo de prescrio dos crimes militares, por sua vez,  regulada pelo Cdigo Penal Militar - Decreto-Lei 1.001, de 21 de outubro de 1969. Assim, a suspenso da contagem do prazo de prescrio somente ocorrer na pendncia de recursos dirigidos ao Superior Tribunal de Justia e ao Tribunal Superior Eleitoral que, embora tenha competncia penal especializada, observa as regras do Cdigo Penal para o julgamento dos crimes eleitorais (artigo 12 do CP). Conforme dispe o inciso II do artigo 104 da Constituio da Repblica, compete ao Superior Tribunal de Justia julgar, em recurso ordinrio constitucional criminal: a) os habeas corpus decididos em nica ou ltima instncia pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territrios, quando a deciso for denegatria; e b) os mandados de segurana em matria criminal decididos em nica instncia pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territrios, quando denegatria a deciso. Nos termos do inciso III do mesmo dispositivo constitucional, compete julgar, em recurso especial, as causas criminais decididas, em nica ou ltima instncia, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territrios, quando a deciso recorrida: a) contrariar tratado ou lei federal, ou negar-lhes vigncia; e b) der a lei federal interpretao divergente da que lhe haja atribudo outro tribunal. A Constituio da Repblica insere o Tribunal Superior Eleitoral no ramo especializado da Justia Eleitoral, cabendo  lei complementar a definio de sua competncia recursal (artigo 121).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Supremo Tribunal Federal considerado como o rgo de cpula do Poder Judicirio nacional. O Superior Tribunal Militar um Tribunal Superior, mas somente possui competncia para o processo e julgamento dos crimes militares. A suspenso da contagem do prazo de prescrio somente ocorrer na pendncia de recursos dirigidos ao Superior Tribunal de Justia e ao Tribunal Superior Eleitoral. O Tribunal Superior Eleitoral tem sua competncia recursal definida por lei complementar.

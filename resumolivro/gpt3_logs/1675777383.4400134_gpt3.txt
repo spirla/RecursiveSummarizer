@@ -1,0 +1,23 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+a) Requisitos formais da comunicacao disciplinar
+A comunicacao disciplinar possui os seguintes requisitos formais, sem os quais restara desnaturada a sua qualidade e, portanto, vedado o seu processamento regular:
+ Documento escrito e assinado
+Nao cabe a confeccao de comunicacao disciplinar por via de mensagem eletrnica, mesmo que institucional, a nao ser que o meio utilizado confira a assinatura eletronicamente certificada. Ressalta-se que, quando da edicao do CEDM, a PMMG ja dispunha de servico de mensagens institucional com registro de numero de protocolo exclusivo - o Painel Administrativo (PA), que nao se confunde com a assinatura eletrnica. Contudo, mesmo assim, o legislador optou por exigir que a comunicacao disciplinar se d por meio de documento escrito e assinado. Outrossim, a PMMG editou a Resolucao 4.520, de 15/12/2016, que dispoe sobre a utilizacao de meio eletrnico para tramitacao, comunicacao, transmissao e decisao de atos e processos administrativos, que regulou o uso da assinatura eletrnica, nas formas digital e cadastrada, nos seguintes termos:
+Artigo 2 (...)
+- assinatura eletrnica: registro realizado eletronicamente por usuario identificado de modo inequivoco, com o objetivo de assinar determinado documento, admitindo as seguintes formas de identificacao do signatario:
+a) assinatura digital, baseada em certificado digital emitido por autoridade certificadora credenciada na Infraestrutura de Chaves Publicas Brasileiras (ICP-Brasil);
+b) assinatura cadastrada, credenciada pela Diretoria de Tecnologia e Sistemas (DTS), a partir do fornecimento de login e senha para o credenciado; (...)
+Atualmente, apenas alguns policiais militares, em regra ordenadores de despesa, possuem a assinatura eletrnica na sua forma digital. Contudo, todos possuem condicoes de se credenciar para fins de utilizacao da assinatura cadastrada, mediante a utilizacao da ferramenta propria disponibilizada na Intranet PM. Destarte, pode-se inferir que tanto a assinatura eletrnica digital quanto a cadastrada atendem ao requisito ora em comento, estabelecido no caput do artigo 56 do CEDM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A comunicação disciplinar deve ser feita por meio de documento escrito e assinado. A PMMG regulamentou a utilização da assinatura eletrônica, que pode ser digital ou cadastrada, para atender ao requisito estabelecido no artigo 56 do CEDM.

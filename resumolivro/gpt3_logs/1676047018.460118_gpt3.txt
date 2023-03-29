@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+E Papillon atribuiu seu sucesso de adaptao  vida livre exatamente  circunstncia de ter sido, sempre, o inverso de um bom preso:
+...
+A respeito do assunto, lembro uma observao que me marcou, profundamente, quando feita. Numa solenidade festiva na Penitenciria Lemos Brito, presentes vrias figuras da alta administrao do Estado, servia, como garo, um interno que era exibido como o exemplo mais convincente da capacidade regeneradora da priso. Condenado a mais de cem anos, pela soma de inmeros crimes violentos, ostentava a estrela amarela, smbolo do excelente comportamento carcerrio. Respeitando rigorosamente as normas disciplinares, colaborava eficientemente com a administrao, na tarefa de manter em paz a rotina da casa. Era eu, na poca, o Superintendente do Sistema Penal. Conversava com o Promotor Silveira Lobo, quando o rapaz nos serviu de bebida, aproveitando para trocar algumas palavras comigo. Aps afastar-se, comentei com meu interlocutor:
+- , parece que este homem est, mesmo, recuperado. Silveira Lobo demorou-se um pouco, seguindo com a vista o interno, objeto do comentrio. Depois, soltou vagarosamente:
+- ... est muito diferente do menino que conheci, logo que caiu nas mos da Justia. Engordou, exibe formas algo arredondadas; os olhos esto meio baos e, em geral, fitam o cho; curva-se com bastante servilidade, diante das pessoas; a voz mostra um certo acento feminino; move-se com lentido, cuidadosamente, quase diria com receio; formalmente respeitoso, parece preocupado em, por qualquer distrao, deixar de cumprir algum comando regulamentar; na pequena conversa que teve com voc, sugeriu uma intriga envolvendo um guarda e um companheiro. ... daquele jovem atrevido, enrgico, topetudo, independente, altivo, no restou nada. E terminou, com triste ironia:
+- Foi uma bela regenerao...
+Por isso, vale insistir, para a progresso de regime  suficiente constar a boa conduta carcerria do condenado. Para tanto,  necessrio levar em considerao que as fragilidades inerentes a todo ser humano podem, diante das severas dificuldades do ambiente carcerrio, levar a alguns pequenos desvios em relao aos padres estabelecidos oficialmente para o comportamento intramuros. Nos termos da lei, o bom comportamento deve ser comprovado por informao do diretor do estabelecimento. Deve-se entender por diretor do estabelecimento o administrador da unidade prisional em que o condenado se encontre preso, podendo, conforme o caso, ser at mesmo o delegado de polcia.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Papillon atribuiu seu sucesso de adaptação à vida livre à sua conduta diferente de um bom preso. Uma observação marcante foi feita durante uma solenidade na Penitenciária Lemos Brito, onde um interno era exibido como o exemplo mais convincente da capacidade regeneradora da prisão. Para a progresso de regime é necessário levar em consideração as fragilidades humanas e comprovar o bom comportamento carcerário do condenado por informação do diretor do estabelecimento.

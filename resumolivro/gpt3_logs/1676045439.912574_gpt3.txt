@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nesses casos, a teoria limitada da culpabilidade impe a punio daquele que age em erro por crime culposo, se previsto em lei. A culpa que se verifica na avaliao dos pressupostos fticos de uma causa de justificao  denominada pela doutrina clssica de culpa imprpria. A referncia pretende ressaltar que a culpa verifica-se na avaliao da situao de fato que aos olhos de quem erra permite realizar a conduta justificada, e no sobre ser a conduta realizada conforme o tipo incriminador. Realmente, o elemento subjetivo do tipo penal incriminador no se confunde com o elemento subjetivo do tipo permissivo. Por isso,  perfeitamente possvel que o sujeito pratique dolosamente o fato descrito no tipo incriminador e incorra em erro culposamente, no que diz respeito aos pressupostos fticos da causa justificante. Considerando que a vontade de praticar a conduta tpica foi influenciada pela representao errnea da situao de fato, o erro de tipo permissivo impe caracterizar o fato como crime culposo, mesmo que, para tanto, tenha-se que reconhecer uma culpa imprpria para a caracterizao do tipo incriminador. Distino com o erro de proibio. Como adverte Roxin, o erro de tipo permissivo excludente do dolo distingue-se do erro de permisso, quer dizer, da suposio errnea de uma causa de justificao absolutamente inexistente. O alerta evidencia que o erro que incide sobre as causas de justificao pode ser de duas espcies: o erro tanto pode incidir sobre os pressupostos fticos de uma causa de justificao quanto sobre a existncia ou os limites dessa mesma causa. Na primeira hiptese, ocorreria um erro sobre o tipo permissivo. Na segunda, um erro sobre a permisso, ou seja, um erro de proibio. Para o Cdigo Penal brasileiro, a lio  perfeitamente adequada. A previso para o erro de tipo permissivo est vinculada aos equvocos que incidem sobre uma situao de fato, e no sobre a existncia ou os limites de uma causa de justificao. O pargrafo 1 do artigo 20 deixa claro que a soluo por ele oferecida aplica-se aos casos em que o sujeito supe situao de fato, a qual, se existisse, tornaria a ao legtima. O erro de tipo permissivo poder apresentar-se escusvel, quando sero excludos o dolo e a culpa; ou inescusvel, quando ser excludo apenas o dolo, havendo a possibilidade da punio por crime culposo. Incidindo o erro sobre a existncia e os limites normativos da causa de justificao, cuida-se da ocorrncia do erro de proibio, cuja soluo  dada pelo artigo 21 do Cdigo Penal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria limitada da culpabilidade prevê a punição de quem comete um crime culposo. O erro de tipo permissivo ocorre quando o sujeito tem uma representação errônea da situação de fato, enquanto o erro de proibição acontece quando há equívoco sobre a existência ou os limites de uma causa de justificação. O erro de tipo permissivo pode ser escusável ou inescusável, sendo que o primeiro exclui tanto o dolo quanto a culpa, enquanto o segundo exclui apenas o dolo.

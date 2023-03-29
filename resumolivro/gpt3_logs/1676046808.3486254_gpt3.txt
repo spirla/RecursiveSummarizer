@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Parece que melhor foi a opo do Cdigo Penal portugus, Decreto-lei 400/82, que instituiu pena de priso nica e simples. Priso nica, na medida em que inexistem formas diversificadas de privao da liberdade, e simples, por no impor efeitos jurdicos necessrios ou automticos que ultrapassem sua execuo. O projeto de reforma da parte geral do Cdigo Penal brasileiro, PLS 236/12, que atualmente tramita no Congresso Nacional, acolhe essa ideia e define toda a forma de privao da liberdade como pena de priso. Contagem do tempo de privao da liberdade. O Cdigo Penal estabelece de maneira expressa como deve ser contado o prazo penal, que se aplica para definir o tempo em que o condenado deve ficar preso em cumprimento de condenao. Segundo a referida disposio legal, o dia em que comea a privao inclui-se no cmputo do prazo. Contam-se os dias, os meses e os anos pelo calendrio comum. Em complemento  regra anterior, o artigo 11 dispe que desprezam-se, nas penas privativas de liberdade (...) as fraes de dia. Desse modo, fica claro que o legislador optou por adotar os critrios que mais beneficiem o condenado. Se o condenado for preso s 23 horas de determinado dia, por exemplo, ficar preso por apenas uma hora, que ser considerada como um dia de cumprimento de pena. Considerando a dificuldade de mensurar a execuo da pena privativa de liberdade por um critrio mais preciso do que o dia,  adequado que o condenado no sofra prejuzos; a desconsiderao das fraes de dia  medida que no afeta em nada a finalidade da pena. 10.1.1. Regimes prisionais. Os regimes prisionais so categorias jurdicas que definem o modelo de tratamento punitivo a ser dispensado ao condenado. O regime e o tratamento relacionam-se fundamentalmente, de modo que, nos regimes fechado, semiaberto e aberto, deva dar-se ao condenado tratamento respectivamente em ambiente fechado, semiaberto e aberto. Os regimes distinguem-se de acordo com a modalidade de tratamento criminolgico a ser utilizada. Cada regime de cumprimento de pena possui regras prprias, de modo que estabelecem nveis de severidade na execuo penal. Essa distino de tratamento foi concebida formalmente pela lei, ao definir estabelecimentos penais adequados para cada regime. A diferenciao dos regimes penitencirios  imposio de ordem constitucional, j que a individualizao da pena  princpio que tambm repercute efeitos na fase de execuo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal português e brasileiro estabelecem pena de prisão única e simples. O tempo de privação da liberdade é contado pelo calendário comum, desconsiderando-se as frações de dia. Os regimes prisionais são categorias jurdicas que definem o tratamento punitivo a ser dispensado ao condenado, variando de acordo com a modalidade de tratamento criminológico.

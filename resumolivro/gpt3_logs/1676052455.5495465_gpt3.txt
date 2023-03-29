@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A relevncia jurdica que legitima a pretenso de validade (correo) da norma jurdica incriminadora se expressa por meio do significado de inadequao social da conduta criminosa114. A irrelevncia jurdica  capaz de excluir a tipicidade material da conduta formalmente tpica e a atividade valorativa que caracteriza a imputao objetiva da violao  norma jurdica subjacente ao tipo incriminador previsto no artigo 123 do Cdigo Penal, em alguns casos, pode no ocorrer. Vejamos alguns deles. Grave situao de risco para a vida da me. No pode ser considerada materialmente tpica a conduta de quem impede o curso de um parto j iniciado, matando consequentemente o feto nascente, quando o houver grave situao de risco para a vida da me. Em muitos casos o parto apresenta complicaes srias que colocam a vida da me em situao de grave risco. Neste contexto, a opo por salvar a vida da me deve ser considerada conduta socialmente adequada, o que exclui a tipicidade material do fato. Cabe notar que o Cdigo penal no pune o aborto quando no houver outro meio de salvar a vida da gestante (artigo 128). De mesma forma, no se pode punir o fato como infanticdio, se no houver outro meio para salvar a vida da me. Recm nascido anencfalo. A polmica sobre a interrupo da vida de anencfalo tambm pode se apresentar nos casos formalmente adequados ao tipo de infanticdio. A reflexo que cabe fazer sobre a valorao jurdica tem as mesmas premissas da que se opera em relao crime de homicdio (item 2.8) e, desta forma, deve-se reconhecer materialmente atpica a conduta que produz a morte do recm nascido anencfalo. A soluo jurdica para a questo no pode deixar de levar em considerao que a Lei n 9.434/97, que dispe sobre a remoo de rgos, tecidos e partes do corpo humano para fins de transplante e tratamento, em seu artigo 3, considera que a vida humana est extinta com a morte enceflica. Portanto, seria manifestamente contraditrio que o ordenamento jurdico considere extinta a vida e permita a retirada de rgos diante da constatao de morte enceflica e, ao mesmo tempo, possa punir por crime de infanticdio a interveno que faa cessar a vida vegetativa do recm nascido que no possui crebro. O sistema jurdico, com suas caractersticas fundamentais de unidade e adequao valorativa115, indica que no pode haver crime de infanticdio na conduta da me que antecipa a morte do recm nascido anencfalo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A relevância jurdica que legitima a validade da norma jurdica incriminadora expressa-se por meio do significado de inadequação social da conduta criminosa. Em alguns casos, a irrelevância jurdica pode excluir a tipicidade material da conduta formalmente típica, como nos casos de grave risco para a vida da mãe ou de recém-nascido anencéfalo. O Código Penal não punirá o aborto quando não houver outro meio de salvar a vida da gestante e não pode haver crime de infanticídio na conduta da mãe que antecipa a morte do recém-nascido anencéfalo.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Com o trnsito em julgado a sentena de mrito proferida no processo nmero EPROC 2001370-92.2019.9.13.0001 tornou indiscutvel, imutvel e consideradas deduzidas e repelidas todas as alegaes e defesas das partes, at ento. Diante de tal efeito, no presente processo cabvel  a discusso quanto a matria posterior  prolao da sentena contida nos autos EPROC 2001370-92.2019.9.13.0001 No que concerne  ocorrncia da coisa julgada, o meritssimo juiz de direito considerou os autos Pje n. 1000100-83.2015.9.13.0003, que tramitaram nesta justia militar, conforme certificado no Evento 9, e decidiu: Impe-se, por outro lado, analisar eventual ocorrncia da coisa julgada, tendo em vista ter tramitado, perante esta Justia Especializada, outra ao proposta pelo autor, que tinha como objeto o mesmo procedimento disciplinar. Trata-se do processo n. 100010083.2015.9.13.0003, intitulada "Ao de Anulao de Ato Administrativo c/c Declaratria de Direito e Pedido de Tutela Antecipada (evento 9 - CERT1). Da anlise da petio inicial daqueles autos (evento 9-INIC2) constata-se que o autor alegou que o crime de desero no restou configurado, tampouco a transgresso tipificada no art. 13, inciso III do CEDM. Outra questo levantada  que no houve a sua notificao pessoal acerca da revogao da licena outrora concedida, alm de ofensa ao princpio da proporcionalidade e razoabilidade. Nessa esteira, o autor, iado a se manifestar, aduz no se tratar de matria idntica, haja vista que nestes autos se discute to somente a ocorrncia da prescrio punitiva, hiptese no aventada anteriormente (evento 19). O Estado de Minas Gerais, por sua vez, requereu extino do feito, por se tratarem de aes idnticas (evento 20). Pois bem. Cedio  que para a configurao da coisa julgada  necessrio que ocorra a reproduo de ao anteriormente ajuizada, devendo subsistir, nos termos do  2 do art. 337 do CPC, a mesma parte, mesma causa de pedir e mesmo pedido. A parte autora, por bvio, no carece de anlise para verificao da ocorrncia de sua igualdade. J em relao  causa de pedir - a sano disciplinar de demisso e, o pedido - anulao do PAD n. 102.251/14, averigua-se que so idnticos. Embora o requerente tenha alegado, naqueles autos, outras matrias que no a prescrio punitiva, certo  que sua inteno era, e continua sendo, a anulao do referido ato administrativo. Assim, considerando que nos autos da Ao Anulatria n. 1000100-83.2015.9.13.0003 j houve a anlise da legalidade do procedimento disciplinar, no tendo sido vislumbrado qualquer mcula em sua tramitao, inclusive quanto  prescrio punitiva, pois, embora no aventada, poderia ter sido declarada de ofcio e, ainda, tendo a deciso transitada em julgado, trata-se o caso de coisa julgada, a teor do  4 do art. 337 do CPC.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena de mrito tornou indiscutvel, imutvel e consideradas deduzidas e repelidas todas as alegaes e defesas das partes. A anlise da legalidade do procedimento disciplinar foi realizada no processo n. 1000100-83.2015.9.13.0003 e a deciso transitou em julgado, configurando a ocorrncia da coisa julgada a teor do 4 do art. 337 do CPC.

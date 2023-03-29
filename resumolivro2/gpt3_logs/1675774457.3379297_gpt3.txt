@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os juizes Mariana Aquino e Rodrigo Foureaux assim descrevem o assedio moral no meio militar, que deve ser visto com cuidado dadas as especificidades e o diferenciado rigor do sistema hierarquico militar:
+Em relacao ao cotidiano castrense, o legislador tambem o distinguiu da atividade civil, de modo que o rigor na conduta marcial, o pronto acatamento as ordens e o estrito respeito a hierarquia sao fatores que individualizam o militar perante os demais cidadaos na sociedade. Isso, porem, nao autoriza o assedio moral ou sexual, por exemplo. Sabe-se que o superior imediato e tambem a cadeia de comando cobrarao postura e eficincia dos subordinados, porem isso nao significa que se possa humilhar o inferior hierarquico, submet-lo a obrigacoes incompativeis com sua qualificacao e grau hierarquico para depois criticar e punir, ou praticar qualquer conduta considerada como assedio moral, atendidas evidentemente as especificidades da vida militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O assédio moral no meio militar deve ser visto com cuidado, pois o rigor na conduta marcial, o pronto acatamento às ordens e o estrito respeito à hierarquia são fatores que o diferenciam da atividade civil. No entanto, isso não autoriza o assédio moral ou sexual. O superior imediato e a cadeia de comando devem cobrar postura e eficiência dos subordinados, mas sem humilhar ou submeter a obrigações incompatíveis com a qualificação e grau hierárquico.

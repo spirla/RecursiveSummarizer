@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O conhecimento da lei no impede o erro sobre a ilicitude do fato, mas o conhecimento da lei proporciona menores chances da ocorrncia do erro. No entanto, desconhecer a lei indica maiores chances de errar. Melhor  entender que a concluso sobre ser o erro escusvel ou inescusvel depende da avaliao que o magistrado venha a fazer sobre as circunstncias do caso concreto. Mesmo reconhecendo existir distino terica entre o erro sobre a lei e o erro sobre a ilicitude do fato, em muitas hipteses  difcil vislumbrar a ocorrncia de erro sobre a lei que no leve ao erro sobre a ilicitude do fato. Nesses casos, os efeitos prticos da verificao do erro sobre a lei conduzem aos atribudos ao erro sobre a ilicitude, pois, se o sujeito erra sobre a lei, tal erro induz  errnea compreenso da aplicao da lei e da qualificao que esta confere ao fato. Se ilicitude  contrariedade do fato em relao ao ordenamento jurdico, o erro de representao sobre a lei induz  falsa compreenso da qualidade da ao a que se refere a lei. Nesse sentido, Welzel183 sustentou que o erro de vigncia e o erro de punibilidade constituem erro de proibio que sempre permite a excluso da culpabilidade. No que diz respeito ao erro de subsuno, Zaffaroni manifesta o mesmo raciocnio. Com certeza, em muitos casos concretos, o desconhecimento ou erro sobre a lei pode conduzir ao erro sobre a ilicitude do fato a que a lei se refere, de modo que as consequncias prticas de tal erro iro repercutir no juzo de censura pessoal. A atuao da poltica criminal voltada para as consequncias impe prevalncia  preocupao com os efeitos empricos mais do que com as filigranas tericas da conceitualizao. O que importa perceber  que a consequncia prtica do erro de proibio inevitvel, seja proveniente ou no do desconhecimento da lei,  a inexigibilidade de conduta diversa e a impossibilidade de censura penal  finalidade que orientou a conduta do sujeito. O certo  que no se pode decidir, a priori, se o indivduo  capaz, ou no, de vencer o erro sobre a ilicitude do fato. O desconhecimento da lei  fator que pode contribuir para a ocorrncia do erro de proibio, de modo que, se esse for invencvel, no haver possibilidade de exigir-se comportamento diverso do sujeito e, consequentemente, censurar sua finalidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O desconhecimento da lei aumenta as chances de erros sobre a ilicitude do fato, pois se o erro de proibio for invencível, não será possível exigir comportamento diferente do sujeito e, consequentemente, censurar sua finalidade.

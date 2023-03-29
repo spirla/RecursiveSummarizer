@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a violncia no for baseada no gnero, no h possibilidade jurdica de caracterizar violncia domstica e familiar contra a mulher. Mas, o que significa violncia baseada no gnero?. Gnero  um conceito que foi cunhado a partir do movimento feminista e permite refletir sobre as desigualdades existentes entre homens e mulheres na sociedade e na cultura ocidental. A noo de gnero permitiu refletir sobre como a relao entre natureza e cultura constri justificativas para as desigualdades sociais existentes entre homens e mulheres, questionando o dogma de que existe uma relao direta entre as diferenas biolgicas e as diferenas sociais que se estabelecem entre homens e mulheres. Com efeito, os argumentos baseados nas caractersticas biolgicas, na gestao e na maternidade j no conseguem explicar de maneira satisfatria a desvalorizao do papel das mulheres na sociedade e a luta do movimento feminista ainda se mostra necessria nos dias atuais. Os argumentos relacionados ao gnero, por sua vez, sustentam uma nova forma de compreender a relao entre natureza e cultura, de modo a reconhecer que as definies de masculino e feminino (o gnero) decorrem da vida em sociedade e no das condies biolgicas. Gnero, nestes termos, constitui um instrumento de classificao cultural que usamos para ordenar nosso pensamento sobre o que  ser homem e o que  ser mulher, bem como sobre as diversas dimenses da vida em sociedade. As classificaes culturais que se estabelecem pelo prisma do gnero so muito fortes porque podem ordenar nosso pensamento sobre a natureza, a sociedade, as instituies e os modos de ser das pessoas de maneira muito abrangente. No que diz respeito s diferenas entre homens e mulheres, a noo de gnero delimita a nossa forma de pensar sobre qualidades, espaos de atuao, atitudes e poderes a serem distribudos. O conceito de gnero orienta o pensamento ocidental a fazer classificaes sociais como: trabalho de homem e trabalho de mulher, horrio de homem estar na rua e horrio de mulher estar na rua bem como comportamento sexual de homem e comportamento sexual de mulher. A reflexo sobre as desigualdades de gnero entre homens e mulheres no desconsidera a existncia de desigualdades entre pessoas do mesmo gnero, como por exemplo, as desigualdades promovidas pela classe econmico-social e pela raa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conceito de gênero foi cunhado pelo movimento feminista para refletir sobre as desigualdades entre homens e mulheres na sociedade ocidental. O gênero é usado para classificar e ordenar o pensamento sobre o que é ser homem ou mulher, bem como sobre as diversas dimensões da vida em sociedade. A reflexão sobre as desigualdades de gênero não desconsidera a existência de desigualdades entre pessoas do mesmo gênero, como por exemplo, aquelas promovidas pela classe econômico-social e pela raça.

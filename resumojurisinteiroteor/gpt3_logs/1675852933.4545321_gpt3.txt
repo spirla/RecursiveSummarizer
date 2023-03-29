@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A partir de tal diligncia, foi proporcionado  defesa dos acusados a possibilidade de se contrapor  presumida autenticidade dos elementos probatrios. Assim, o assistente tcnico aponta a ausncia de metodologia adequada para o manuseio dos aparelhos, o que pode ter repercutido em armazenamento de novos registros informticos. Consta, ainda, a ausncia de certificao de no espoliao ou adulterao, o que tornaria inidneos os smartphones devassados. Malgrado a concluso do assistente tcnico, nada de concreto se vislumbra quanto  insero indevida de contedo ou adulterao do que foi encontrado pelos agentes de segurana pblica incumbidos de proceder  transcrio dos dados existentes nos aparelhos apreendidos no curso da Operao Hexagrama. Veja, pois, que se foi assegurado  defesa o acesso  integralidade da prova, no havendo elemento conclusivo de adulterao ou espoliao, no se pode falar em quebra da cadeia de custdia, no se tem nulidade, no se pode falar em prova ilcita, mesmo porque, seria rematado absurdo impedir o Estado de utilizar o material apreendido para o exerccio do jus puniendi, mesmo sem demonstrao da existncia de fraude que retire a idoneidade da prova. Portanto, do ponto de vista jurdico, ainda que a Lei 13.964, de 2019, tenha estabelecido regras rgidas para preservao dos vestgios do crime, no se reconhece quebra da cadeia de custdia de material cuja anlise no seja reservada a peritos e ao qual a defesa teve acesso amplo, nada demonstrando que comprometa a fiabilidade probatria, que deve, pois, ser submetida  apreciao dos jurados. Veja que os termos de diligncias de fls. 808/809 e 811/812 revelam o zelo do GAECO na custdia do material apreendido, que estava lacrado, restando evidente a observncia das etapas da cadeia de custdia previstas no art. 158-B, do CPP. Portanto, tenho como lcita a prova em comento, pois os smartphones foram apreendidos e devassados com ordem judicial, a transcrio de dilogos realizados por meio do aplicativo WhatsApp no  atribuio privativa de perito, no havendo nada que aponte para uma fraudulenta adulterao ou espoliao do contedo do material examinado. Consequentemente, no h que se falar em prova ilcita por derivao. Rejeito, portanto, as preliminares arguidas pelas defesas e, estando o processo hgido, passo ao exame do mrito, observando, no entanto, os limites estabelecidos pela norma do art. 413,  1 do Cdigo de Processo Penal. [...] Foi o que entendi como suficiente para rechaar a alegao defensiva. Por todas as razes expostas, rejeito toas as preliminares arguidas e, no mrito, nego provimento ao recurso de apelao interposto pela defesa. Dou, por outro lado, total provimento ao recurso interposto pela acusao para: (I) reformar parcialmente a respeitvel sentena primeva, reconhecendo a causa de aumento de pena prevista no art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A partir da diligncia, foi assegurado defesa o acesso integralidade da prova, nada demonstrando que comprometa a fiabilidade probatria. Nesse sentido, foi constatado o zelo do GAECO na custdia do material apreendido, que estava lacrado, restando evidente a observncia das etapas da cadeia de custdia previstas no art. 158-B, do CPP. Assim, foi rechaada a alegao defensiva e, no mrito, negado provimento ao recurso de apelao interposto pela defesa, dando-se total provimento ao recurso interposto pela acusao.

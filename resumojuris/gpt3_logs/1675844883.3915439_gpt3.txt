@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Interpretacao mais benefica. Impossibilidade de inversao da ordem. Preclusao e necessidade da demonstracao de prejuizo. Provas independentes para a condenacao. Anulacao da sentenca. Inutilidade. DESTAQUE A nulidade decorrente da inversao da ordem do interrogatorio, prevista no artigo 400 do CPP, esta sujeita a preclusao e demanda a demonstracao de prejuizo. Ha jurisprudencia nesta Corte que, partindo da interpretacao dos arts. 400 e 222 do CPP, considera valido o interrogatorio do acusado quando pendente de cumprimento carta precatoria expedida para oitiva de testemunhas e do ofendido. No entanto, salienta-se existirem julgados neste STJ, que firmam posicao diversa, com base na orientacao do Supremo Tribunal Federal, qual seja, a de que a concretizacao do interrogatorio do reu antes da oitiva das testemunhas e da vitima lhe priva do acesso a informacao, promovendo nitido enfraquecimento dos principios constitucionais do contraditorio e da ampla defesa, concluindo que a regra do  1, do art. 222, do CPP nao autorizaria a realizacao de interrogatorio do reu em momento diverso do disposto no art. 400 do CPP, vale dizer, antes do final da instrucao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A nulidade decorrente da inversão da ordem do interrogatório, prevista no artigo 400 do Código de Processo Penal, está sujeita a preclusão e demanda a demonstração de prejuízo. 2. Há jurisprudência que considera válido o interrogatório do acusado quando pendente de cumprimento carta precatória expedida para oitiva de testemunhas e do ofendido. 3. Existem julgados que firmam posição diversa, com base na orientação do Supremo Tribunal Federal, qual seja, a de que a concretização do interrogatório do réu antes da oitiva das testemunhas e da vítima lhe priva do acesso a informação, promovendo nitido enfraquecimento dos princípios constitucionais do contraditório e da ampla defesa. 4. A regra do artigo 222, do Código de Processo Penal, não autoriza a realização de interrogatório do réu em momento diverso do disposto no artigo 400 do CPP, ou seja, antes do final da instrução.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se de ao ordinria anulatria de ato administrativo-disciplinar movida por Jorge Henrique Pereira em face do Estado de Minas Gerais. Extrai-se dos documentos que compem o presente feito que foi instaurado em desfavor do autor o Processo de Comunicao Disciplinar (PCD) de Portaria n.118.395/2017 - 37BPM -, sob a seguinte acusao: Sntese do fato: No dia 25/09/2017, na cidade de Arax, o militar comunicado faltou a chamada matinal do Treinamento Policial Bsico, no sendo possvel obter o mnimo de 75% de frequncia na aula de Atv. Int. Estao de Treinamento conforme determina o Art. 58, 1 DEPM. (Evento 1 - DOC2, pg. 03 - autos de 1a Instncia). O encarregado apresentou relatrio concluindo pelo enquadramento e pela punio disciplinar do autor na transgresso prevista no art. 13, inciso XX, da Lei Estadual n. 14.310/2002 - Cdigo de tica e Disciplina dos Militares do Estado de Minas Gerais (CEDM) (Evento 1 - dOc2, pgs. 59/64 - autos de 1a Instncia). Por deciso judicial, o comunicado foi transferido para o 32 BPM/9a RPM, ocorrendo, dessa forma, o deslocamento da competncia, para anlise e soluo do feito, nos termos do art. 50 c/c o 2 do art. 316, ambos do Manual de Processos e Procedimentos Administrativos das Instituies Militares do Estado de Minas Gerais (MAPPA) (Evento 1, DOC2, pgs. 66/67- autos de ia Instncia). O Conselho de tica e Disciplina dos Militares da Unidade (CEDMU) emitiu parecer, manifestando-se pelo enquadramento do comunicado na transgresso disciplinar prevista no inciso XX do art. 13 do CEDM (Evento 1 - DOC2, pgs. 70/73 - autos de ia Instncia). O Comandante do 32 BPM solucionou o feito, acolheu o parecer do CEDMU e determinou o enquadramento disciplinar do autor na transgresso ora especificada (Bl-AR n. 20 - 9a RPM de 20/04/2018, Evento 1 - DOC3, pgs. 02/04 - autos de 1a Instncia).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais foi demandado em ao ordinria anulatria de ato administrativo-disciplinar, alegando-se que o autor foi enquadrado disciplinarmente na transgresso prevista no art. 13, inciso XX, da Lei Estadual n. 14.310/2002 - Cdigo de tica e Disciplina dos Militares do Estado de Minas Gerais (CEDM). O Conselho de tica e Disciplina dos Militares da Unidade (CEDMU) emitiu parecer manifestando-se pelo enquadramento do comunicado na transgresso disciplinar prevista no inciso XX do art. 13 do CEDM, sendo acolhido pelo Comandante do 32 BPM.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A revisao da conclusao alcancada pelo Tribunal de origem, de sorte a confirmar-se a versao defensiva de que nao ha comprovacao da associacao estavel a outros correus para o trafico de entorpecentes, somente poderia ser feita por meio do exame aprofundado da prova, providencia inadmissivel na via do habeas corpus. (Informativo n. 730) PROCESSO RMS 68.119-RJ, Rel. Min. Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, por unanimidade, julgado em 15/03/2022, DJe 28/03/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Quebra de sigilo de dados estaticos. Servico de geolocalizacao. Marco Civil da Internet. Nao violacao. Extrapolacao da decisao de quebra de sigilo em face de numero indeterminado de pessoas. Principio da proporcionalidade. Nao observancia. DESTAQUE Nao e possivel a quebra de sigilo de dados informaticos estaticos (registros de geolocalizacao) nos casos em que haja a possibilidade de violacao da intimidade e vida privada de pessoas nao diretamente relacionadas a investigacao criminal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inadmissível a revisão da conclusão alcançada pelo Tribunal de origem por meio do exame aprofundado da prova na via do habeas corpus. 2. Não é possível a quebra de sigilo de dados informáticos estáticos (registros de geolocalização) nos casos em que haja a possibilidade de violação da intimidade e vida privada de pessoas não diretamente relacionadas à investigação criminal. 3. A decisão de quebra de sigilo não pode extrapolar em face de um número indeterminado de pessoas, devendo observar o princípio da proporcionalidade.

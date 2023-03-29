@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Aplicacao subsidiaria da Lei n. 8.112/1990. Possibilidade. DESTAQUE A lacuna em Lei Complementar Estadual acerca da possibilidade de suspender processo de concessao de aposentadoria enquanto tramita processo administrativo disciplinar deve ser suprida com a aplicacao subsidiaria da Lei n. 8.112/1990. Cinge-se a controversia a analisar a possibilidade de suspensao de processo de concessao de aposentadoria de servidor publico local durante o periodo em que esse responde processo administrativo disciplinar, por aplicacao analogica da Lei n. 8.112/1990 e tendo em vista a ausencia de norma legal estadual sobre o tema. A principio, reconhece-se a incidencia da Lei n. 8.112/1990, como regra geral, de forma subsidiaria aos Estatutos de Servidores Publicos Civis Estaduais nas lacunas desses quando nao ha norma especifica conflitante. Nesse sentido: 4. Nos termos do artigo 142,  3, da Lei n. 8.112/1990, a prescricao da pretensao disciplinar administrativa e interrompida quando ocorre a instauracao do procedimento disciplinar. 5. Ademais, conforme precedentes do STJ, e possivel aplicar, de forma analogica, a Lei Federal n. 8.112/90 em face da falta de regulamentacao especifica sobre determinada questao na legislacao propria do ente federativo. 6. Agravo regimental nao provido. (AgRg no REsp 1576667/SP, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A lacuna em Lei Complementar Estadual acerca da possibilidade de suspender processo de concessão de aposentadoria enquanto tramita processo administrativo disciplinar deve ser suprida com a aplicação subsidiária da Lei n. 8.112/1990. 2. É possível aplicar, de forma analógica, a Lei Federal n. 8.112/90 em face da falta de regulamentação específica sobre determinada questão na legislação própria do ente federativo. 3. O artigo 142, 3, da Lei n. 8.112/1990 prevê a interrupção da prescrição da pretensão disciplinar administrativa quando ocorre a instauração do procedimento disciplinar.

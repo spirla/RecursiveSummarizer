@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A embriaguez preordenada caracteriza-se quando o sujeito preordena a sua embriaguez, ou seja, propositadamente ingere bebida alcolica para, vencendo suas barreiras naturais, cometer crime. Nesse caso, via de regra, a responsabilidade somente  possvel diante da embriaguez incompleta, na qual o indivduo conserve parcialmente sua capacidade de entendimento e autoconduo. Se o indivduo chegou a embriagar-se completamente, no h como cumprir o projeto criminoso imaginado inicialmente. Somente quando se tratar de crime omissivo, no qual a embriaguez determinar a incapacidade de movimento corporal,  que se pode admitir responsabilizar o indivduo que preordenou sua embriaguez. Quando a embriaguez for proveniente de caso fortuito ou de fora maior, o ordenamento repressivo reconhece que o sujeito no contribuiu de modo reprovvel para sua superveniente incapacidade e, em relao aos atos punveis que venha a cometer, dever ser considerado inimputvel, nos termos do pargrafo 1 do artigo 28 do CP. Na verdade, no  possvel formular juzo de reprovao em relao ao sujeito que no quis embriagar-se ou no pde prever a ocorrncia desse fato. A excluso da culpabilidade que ora se discute pressupe que o sujeito tenha sido inteiramente incapaz de entender o carter ilcito do fato ou de conduzir-se de acordo com esse entendimento, e, assim, que a embriaguez tenha sido completa. No havendo a excluso da culpabilidade, porque o sujeito possua capacidade de entender o carter ilcito do fato ou conduzir-se de acordo com esse entendimento,  possvel que o sujeito apresente capacidade sensivelmente diminuda pela embriaguez. O pargrafo 2 do artigo 28 do CP, prevendo outra situao de semi-imputabilidade, possibilita diminuio de pena se o sujeito, por embriaguez proveniente de caso fortuito ou fora maior, no possuir, ao tempo da ao ou omisso, a plena capacidade de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento. Nessa hiptese, a embriaguez deve ser incompleta e o sujeito possuir alguma capacidade de entendimento e autodeterminao. Conforme o artigo 28, II, do nosso estatuto repressivo, a produo culpvel da perturbao psquica no permite o reconhecimento da inimputabilidade ou culpabilidade diminuda. Somente quando a embriaguez for proveniente de caso fortuito ou fora maior, admitir-se- a excluso da culpabilidade ou a reduo da pena.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A embriaguez preordenada caracteriza-se quando o sujeito ingere bebida alcoólica propositadamente para cometer crime. A responsabilidade só é possível diante da embriaguez incompleta, na qual o indivíduo conserve parcialmente sua capacidade de entendimento e autoconduta. Quando a embriaguez for proveniente de caso fortuito ou força maior, o ordenamento repressivo reconhece que o sujeito não contribuiu de modo reprovável para sua superveniente incapacidade e, em relação aos atos puníveis que venha a cometer, deverá ser considerado inimputável.

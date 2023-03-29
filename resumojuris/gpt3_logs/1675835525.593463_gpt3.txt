@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Regina Helena Costa, Primeira Turma, por unanimidade, julgado em 14/12/2021. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Faixa de dominio. Concessionaria de servico publico. Cobranca pelo ente federado. Nao cabimento. RE 581.947. Distinguishing. Art. 11 da Lei n. 8.987/1995. Conflito entre concessionarias. Exigencia de contraprestacao. Possibilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não cabe cobrança pelo ente federado de concessionária de serviço público. 2. O artigo 11 da Lei n. 8.987/1995 distingue entre conflitos entre concessionárias e exige contraprestação. 3. É possível a exigência de contraprestação entre conflitos entre concessionárias.

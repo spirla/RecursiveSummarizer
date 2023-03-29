@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Antes do trnsito em julgado da deciso judicial no se pode saber se o magistrado reconhecer a semi-imputabilidade, se reduzir a pena ou se impor medida de segurana. Por isso, o prazo de prescrio dever ser estabelecido com base na pena mxima cominada. Havendo condenao e posterior substituio da pena por medida de segurana, a prescrio dever ter como referncia a pena imposta na deciso condenatria. Nesse caso, houve definio de uma pena in concreto e no se poder tomar como base a pena mxima cominada ao crime. Tal situao  aparentemente mais favorvel ao semi-imputvel, que poder ver reconhecida a impossibilidade de aplicao da medida de segurana em menor tempo que o inimputvel. Contudo, a medida de segurana no deve ser imposta em razo da gravidade do crime, mas da incapacidade do inimputvel. O inimputvel sofre de incapacidade que autoriza conceder maior tempo para a interveno estatal do que o semi-imputvel, que sofre de incapacidade parcial. Suspenso condicional da pena. 20.1. Conceito e natureza jurdica. A suspenso condicional da pena, tambm conhecida por sursis,  o instituto pelo qual o Estado suspende o incio da execuo da pena privativa de liberdade imposta ao condenado, que satisfaz a determinados requisitos, mediante o cumprimento das condies estabelecidas pelo juiz. A suspenso da pena somente se aplica  pena privativa de liberdade, pois, de maneira expressa, o artigo 80 do CP dispe que a suspenso no se estende s penas restritivas de direitos nem  multa. No se pode confundir o instituto da suspenso condicional da pena com o da suspenso condicional do processo, previsto no artigo 89 da Lei 9.099/95. A suspenso do processo  medida despenalizadora, introduzida pela Lei dos Juizados Especiais Criminais, que impede a marcha processual e, consequentemente, o julgamento de mrito da pretenso punitiva. A suspenso condicional da pena pressupe julgamento de mrito sobre a pretenso deduzida em juzo, bem como aplicao da pena. Segundo dispe o artigo 77 do CP, a execuo da pena privativa de liberdade, no superior a 2 (dois) anos, poder ser suspensa, por 2 (dois) a 4 (quatro) anos, desde que: I - o condenado no seja reincidente em crime doloso; II - a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstncias autorizem a concesso do benefcio; III - no seja indicada ou cabvel a substituio [por pena restritiva de direitos] prevista no artigo 44 deste Cdigo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Antes do trânsito em julgado da decisão judicial, o prazo de prescrição deverá ser estabelecido com base na pena máxima cominada ao crime. Se houver condenação e posterior substituição da pena por medida de segurança, o prazo de prescrição deverá ter como referência a pena imposta na decisão condenatória. A suspenso condicional da pena é um instituto pelo qual o Estado suspende o início da execução da pena privativa de liberdade imposta ao condenado, desde que satisfaça determinados requisitos e cumpra as condições estabelecidas pelo juiz.

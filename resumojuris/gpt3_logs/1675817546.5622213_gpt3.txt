@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+66,  1, da Constituicao nao pode ser exercido apos o decurso do prazo constitucional de 15 (quinze) dias Resumo: A prerrogativa do poder de veto presidencial somente pode ser exercida dentro do prazo expres-samente previsto na Constituicao, nao se admitindo exerce-la apos a sua expiracao. No caso, apenas no dia imediatamente seguinte a expiracao do prazo, a Presidencia da Republica pro-videnciou a publicacao de edicao extra do Diario Oficial da Uniao para a divulgacao de novo texto legal com a aposicao adicional de veto a dispositivo que havia sido sancionado anteriormente. Esse tipo de procedimento nao se coaduna com a CF/88, de modo que, ultrapassado o periodo do art. 66,  1, da CF/88, o texto do projeto de lei e, necessariamente, sancionado (art. 66,  3) e o poder de veto nao pode mais ser exercido. Portanto, a manutencao de veto extemporaneo na forma do art. 66,  4, da CF/88 nao retira a sua inconstitucionalidade, pois o ato apreciado pelo Congresso Nacional sequer poderia ter sido praticado. Nessa hipotese, caso o Legislativo deseje encerrar a vigencia de dispositivo legal por ele aprovado, deve retira-lo da ordem juridica por meio da sua revogacao. Com base nesse entendimento, o Plenario, por maioria, julgou procedente a acao para declarar a in-constitucionalidade do veto adicional publicado na edicao extra do Diario Oficial da Uniao de 15.7.2021 e, assim, restabelecer a vigencia do art. 8 da Lei 14.183/2021. ADPF 893/DF, relatora Ministra Carmen Lucia, redator do acordao Ministro Roberto Barroso, julga-mento virtual finalizado em 20.6.2022 (segunda-feira), as 23:59 (INF 1059) Iniciativa de leis sobre a organizacao do Ministerio Publico estadual - ADI 400/ES Tese fixada: A atribuicao de iniciativa privativa ao Governador do Estado para leis que disponham sobre a organizacao do Ministerio Publico estadual contraria o modelo delineado pela CF/88 nos arts. 61,  1, II, d, e 128,  5.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A prerrogativa do poder de veto presidencial somente pode ser exercida dentro do prazo expresso previsto na Constituição, não se admitindo exerce-la após a sua expiração. 2. O texto do projeto de lei é, necessariamente, sancionado após o decurso do prazo previsto no art. 66, § 1, da CF/88, não sendo possível o exercício do poder de veto. 3. A manutenção de veto extemporâneo na forma do art. 66, § 4, da CF/88 não retira a sua inconstitucionalidade. 4. A atribuição de iniciativa privativa ao Governador do Estado para leis que disponham sobre a organização do Ministério Público estadual contraria o modelo delineado pela CF/88 nos arts. 61, § 1, II, d, e 128, § 5.

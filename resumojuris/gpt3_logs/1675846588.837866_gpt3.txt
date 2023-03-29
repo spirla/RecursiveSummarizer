@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+LEGISLACAO Lei n. 11.343/2006, art. 33, caput e  1, e 34, 35, caput; Lei de Execucao Penal, art. 112,  3, inciso V; CP, art. 288; CF/88, art. 3, I, II e III; Lei 12.850/2013. 1196 Processo AREsp 1.940.381-AL, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 14/12/2021, DJe 16/12/2021. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Acusacao. Producao de todas as provas possiveis e essenciais para a elucidacao dos fatos. Necessidade. Condenacao com fundamento nas provas remanescentes.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 11.343/2006, art. 33, caput e 1, e 34, 35, caput, a Lei de Execução Penal, art. 112, 3, inciso V, o Código Penal, art. 288, a Constituição Federal de 1988, art. 3, I, II e III e a Lei 12.850/2013 são legislações aplicáveis ao caso. 2. O Processo AREsp 1.940.381-AL, julgado em 14/12/2021, foi julgado pela Quinta Turma do Tribunal Regional Federal da 1ª Região, por unanimidade, e publicado no Diário de Justiça Eletrônico em 16/12/2021. 3. O ramo do Direito aplicável ao caso é o Direito Processual Penal. 4. O tema tratado é a acusação, produção de todas as provas possíveis e essenciais para a elucidação dos fatos e a necessidade de condenação com fundamento nas provas remanescentes.

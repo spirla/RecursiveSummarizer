@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Neste caso, constata-se que o conteudo das interceptacoes telefonicas foi disponibilizado pela defesa, nao havendo que se falar em nulidade por ser preferivel um formato a outro ou em virtude de os orgaos publicos possuirem sistema proprio para exame das gravacoes. Com efeito, os dialogos interceptados estao integralmente disponiveis, em observancia aos principios do contraditorio, da ampla defesa e da paridade de armas, nao sendo onus atribuido ao Estado a conversao em formato escolhido pela defesa. (Informativo n. 731) 1220 PROCESSO RHC 153.528-SP, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 29/03/2022, DJe 01/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Art. 316, paragrafo unico, do CPP. Prisao preventiva. Acusado foragido. Dever de revisao periodica da custodia cautelar. Inexistencia. DESTAQUE Quando o acusado encontrar-se foragido, nao ha o dever de revisao ex officio da prisao preventiva, a cada 90 dias, exigida pelo art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há nulidade na disponibilização de conteúdo de interceptações telefônicas pela defesa, mesmo que os órgãos públicos possuam sistema próprio para exame das gravações. 2. Os diálogos interceptados devem estar integralmente disponíveis, em observância aos princípios do contraditório, da ampla defesa e da paridade de armas. 3. Quando o acusado estiver foragido, não há o dever de revisão ex officio da prisão preventiva, a cada 90 dias, exigida pelo art. 316, parágrafo único, do Código de Processo Penal.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alem disso, ha que se ter em mente que o entendimento do STJ fora firmado sob a egide do CPC revogado. E perfeitamente legitimo ao Poder Legislativo editar nova regulamentacao legal em sentido diverso do que vinham decidindo os tribunais. Cabe aos tribunais interpretar e observar a lei, nao podendo, entretanto, descartar o texto legal por preferir a redacao dos dispositivos decaidos. A atuacao do legislador que acarreta a alteracao de entendimento firmado na jurisprudencia nao e fenomeno caracteristico do Brasil, sendo conhecido nos sistemas de common law como overriding. Sobre a materia discutida, o Enunciado n. 6 da I Jornada de Direito Processual Civil do Conselho da Justica Federal - CJF afirma que: A fixacao dos honorarios de sucumbencia por apreciacao equitativa so e cabivel nas hipoteses previstas no  8, do art. 85 do CPC . Nao se pode alegar, que o art. 8 do CPC permite que o juiz afaste o art. 85,  2 e 3, com base na razoabilidade e proporcionalidade, quando os honorarios resultantes da aplicacao dos referidos dispositivos forem elevados. O CPC de 2015, preservando o interesse publico, estabeleceu disciplina especifica para a Fazenda Publica, traduzida na diretriz de que quanto maior a base de calculo de incidencia dos honorarios, menor o percentual aplicavel. O julgador nao tem a alternativa de escolher entre aplicar o  8 ou o  3 do artigo 85, mesmo porque so pode decidir por equidade nos casos previstos em lei, conforme determina o art. 140, paragrafo unico, do CPC/2015.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É legítimo ao Poder Legislativo editar nova regulamentação legal em sentido diverso do que vinham decidindo os tribunais. 2. A atuação do legislador que acarreta a alteração de entendimento firmado na jurisprudência não é fenômeno característico do Brasil, sendo conhecido nos sistemas de common law como overriding. 3. O Enunciado n. 6 da I Jornada de Direito Processual Civil do Conselho da Justiça Federal - CJF afirma que a fixação dos honorários de sucumbência por apreciação equitativa só é cabível nas hipóteses previstas no 8, do art. 85 do CPC. 4. O CPC de 2015, preservando o interesse público, estabeleceu disciplina específica para a Fazenda Pública, traduzida na diretriz de que quanto maior a base de cálculo de incidência dos honorários, menor o percentual aplicável. 5. O julgador não tem a alternativa de escolher entre aplicar o 8 ou o 3 do artigo 85, mesmo porque só pode decidir por equidade nos casos previstos em lei, conforme determina o art. 140, parágrafo único, do CPC/2015.

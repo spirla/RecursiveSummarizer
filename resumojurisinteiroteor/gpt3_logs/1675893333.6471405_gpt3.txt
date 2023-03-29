@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Na mesma data e local, os denunciados, em unidade de desgnios, inseriram declarao falsa em documentos pblico, com o fim de alterar a verdade sobre fato juridicamente relevante, em fato que atentou contra a administrao militar. Na data do fato, os denunciados foram empenhados para fazer o policiamento na festa Cavalgada Caveira, no distrito de So Sebastio das Campinas, que teria incio s 12:00 horas, conforme escala de servio de fl. 14. Os denunciados se dirigiram ao distrito, onde entraram em contato com o organizador do evento, Adilson Carlos Coimbra, que informou aos policiais militares que, ao invs da cavalgada, seria realizado um desfile de carro de boi. Em funo disso, os denunciados decidiram, em unidade de desgnios, retornar para a cidade de Dores de Campos/MG, abandonando o lugar de servio que lhes havia sido designado sem comunicar o fato ao superior, o comandante do Destacamento PM de Dores Campos, 3 Sgt. Geraldo Agnaldo Jr. Saraiva. Os denunciados tambm inseriram declarao falsa no Boletim de Ocorrncia Simplificado (BOS) de n. 633/11 (fl. 15), no qual informaram que haviam feito o policiamento no distrito de So Sebastio das Campinas das 15:00 s 17:00 horas. [...] (Evento 1 - OUT4 - p. 4/5) Finda a instruo criminal, o Conselho Permanente de Justia da 2a AJME desmembrou o processo em relao ao ru Washington Luiz da Costa Barros, diante da sua ausncia na audincia. O Conselho, por maioria de votos, absolveu o ru derson Ferreira de Souza do delito de falsidade ideolgica e, por unanimidade de votos, o condenou pelo crime de abandono de posto. J o ru Paulo Henrique Ladeira, ora requerente, por unanimidade de votos, foi condenado pela prtica dos delitos de abandono de posto e de falsidade ideolgica, respectivamente, s penas de 3 (trs) meses de deteno e de 1 (um) ano de recluso, em regime aberto. O juiz de direito substituiu as penas privativas de liberdade impostas aos rus por restritivas de direitos (sentena - Evento 1 - OUT8 - p. 35/43). Contra a referida sentena, apenas o requerente interps recurso de apelao, e a Primeira Cmara deste Tribunal, em sesso de julgamento realizada em 19 de novembro de 2013, por maioria de votos, deu parcial provimento ao apelo, apenas para decotar a substituio da pena privativa de liberdade por restritivas de direitos e conceder o sursis (Apelao Criminal n. 0004453-94.2012.9.13.0002, acrdo - Evento 1 - OUT10 - p. 13/21). A sentena condenatria transitou em julgado para a defesa, em 10 de dezembro de 2013, e, em 20 de janeiro de 2014, para o Ministrio Pblico (Evento 1 - OUT10 - p. 22). A defesa, por sua vez, ajuizou o presente pedido de reviso criminal, pleiteando a absolvio de Paulo Henrique Ladeira.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os denunciados foram acusados de inserir declarao falsa em documento público e abandono de posto. O Conselho Permanente de Justiça da 2a AJME absolveu o denunciado Derson Ferreira de Souza do delito de falsidade ideológica e condenou-o pelo crime de abandono de posto. O denunciado Paulo Henrique Ladeira foi condenado pelos delitos de abandono de posto e de falsidade ideológica, com penas de 3 meses de detenção e 1 ano de reclusão, em regime aberto. A Primeira Câmara do Tribunal deu parcial provimento ao apelo, decotando a substituição da pena privativa de liberdade por restritivas de direitos e concedendo o sursis.

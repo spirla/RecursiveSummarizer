@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+91 Este raciocinio conduziu o Superior Tribunal de Justica a edicao da Sumula n. 444, segundo a qual, in verbis: E vedada a utilizacao de inqueritos policiais e acoes penais em curso para agravar a pena-base. De fato, a mesma ratio decidendi que orientou a edicao do entendimento sumular no sentido de que inqueritos e acoes penais em curso nao podem ser empregados, na primeira fase da dosimetria, para agravar a pena-base, justifica a impossibilidade de que esses mesmos parametros sejam empregados em outras etapas da dosimetria, como na avaliacao de causas de diminuicao de pena. Todos os requisitos da minorante do art. 33,  4, da Lei n. 11.343/2006 demandam uma afirmacao peremptoria acerca de fatos, nao se prestando a existencia de inqueritos e acoes penais em curso a subsidiar validamente a analise de nenhum deles. Para analise do requisito da primariedade, e necessario examinar a existencia de previa condenacao penal com transito em julgado anterior ao fato, conforme a diccao do art. 63 do CP. Ja a analise do requisito dos bons antecedentes, embora tambem exija condenacao penal com transito em julgado, abrange a situacao dos individuos tecnicamente primarios. Quanto a dedicacao a atividades criminosas ou o pertencimento a organizacao criminosa, a existencia de inqueritos e acoes penais em curso indica apenas que ha investigacao ou acusacao pendente de analise definitiva e cujo resultado e incerto, nao sendo possivel presumir que essa suspeita ou acusacao ainda em discussao ira se confirmar, motivo pelo qual nao pode obstar a aplicacao da minorante. Nao se pode ignorar que a utilizacao ilegitima de inqueritos e processos sem resultado definitivo resulta em provimento de dificil reversao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base. 2) Os requisitos da minorante do art. 33, § 4º, da Lei n. 11.343/2006 não se prestando a existência de inquéritos e ações penais em curso para subsidiar validamente a análise de nenhum deles. 3) Para análise do requisito da primariedade, é necessário examinar a existência de prévia condenação penal com trânsito em julgado anterior ao fato. 4) A análise do requisito dos bons antecedentes, embora também exija condenação penal com trânsito em julgado, abrange a situação dos indivíduos técnicamente primários. 5) A existência de inquéritos e ações penais em curso indica apenas que há investigação ou acusação pendente de análise definitiva e cujo resultado é incerto. 6) A utilização ilegítima de inquéritos e processos sem resultado definitivo resulta em provimento de difícil reversão.

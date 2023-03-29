@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1,  5, da Lei n. 9.455/97) (Evento 1 - PROMOO44 - autos de 1a Instncia). J a defesa de Alex Sandro Bonuti sustentou, preliminarmente, a ocorrncia de coisa julgada, alegando que o acusado j foi julgado pelos mesmos fatos na Justia Militar. No mrito, pugnou pela improcedncia da denncia e pela absolvio do acusado, por falta de provas (Evento 1 - MANI45, autos de 1a Instncia). A defesa de Wagner Gonalves dos Santos Jnior alegou, preliminarmente, a existncia de coisa julgada e requereu o arquivamento dos autos. No mrito, pugnou pela absolvio do acusado, nos termos do artigo 386, inciso VI, do Cdigo de Processo Penal (Evento 1 - MANI48, autos de 1a Instncia). Concluda a instruo processual, em 03/10/2017 a Meritssima Juza de Direito da Comarca de Contagem/MG prolatou a sentena, julgando procedente a denncia, para condenar os rus Alex Sandro Bonuti e Wagner Gonalves dos Santos Jnior pela prtica dos crimes previstos no artigo 1, caput, l, "a", e  4, I, por trs vezes, da Lei n. 9.455/97 e no art. 1, caput, II, e  4, I, da Lei 9.455/97 combinado com o art. 29, caput e art.70, primeira parte, ambos do Cdigo Penal, impondo a cada um a pena definitiva de 2 (dois) anos e 11 (onze) meses de recluso, a serem cumpridos em regime aberto. Foram negados a ambos os sentenciados os benefcios da substituio da pena privativa de liberdade pela restritiva de direitos e tambm o da suspenso condicional da pena. Por fim, foi concedida a prerrogativa de recorrerem em liberdade e tambm declarada a perda do cargo pblico dos rus, bem como a interdio para o seu exerccio pelo dobro do prazo da condenao, por fora do art. 1, 5, da Lei n. 9.455/1997 (Evento 1 - SENT49 - autos de 1a Instncia). Os rus foram intimados da sentena e manifestaram o desejo em recorrer da deciso (Evento 1 - SENT49, pgs. 48, 55, 68 e REC51 - autos de 1a Instncia). Por conseguinte, a defesa de Wagner Gonalves dos Santos Jnior interps recurso de apelao. Em suas razes recursais, inicialmente alegou que a sentena primeva dever ser reformada, pois padece de vcio insanvel - incidncia de bis in idem. Segundo a defesa, os fatos sub judice j foram objeto de discusso na Justia Militar, j tendo o apelante, inclusive, sido condenado  pena de 4 (quatro) anos, 10 (dez) meses e 24 (vinte e quatro) dias de recluso pela prtica dos crimes de constrangimento ilegal, ameaa e estupro. Alegou que a pretenso do Ministrio Pblico de processar e condenar o apelante pelo crime de tortura se fundamentou nas mesmas circunstncias fticas anteriormente utilizadas pelo juzo militar, haja vista que a suposta violncia praticada pelo apelante em desfavor das vtimas foi o meio alegado pelo juzo militar para fundamentar a consumao dos crimes de estupro, ameaa e constrangimento ilegal pelos quais j foi regularmente processado, julgado e condenado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Juiz de Direito da Comarca de Contagem/MG julgou procedente a denncia para condenar os rus Alex Sandro Bonuti e Wagner Gonalves dos Santos Jnior pela prtica dos crimes previstos nos artigos 1, caput, l, "a", e 4, I, por três vezes, da Lei n. 9.455/97 e no art. 1, caput, II, e 4, I, da Lei 9.455/97 combinado com o art. 29, caput e art.70, primeira parte, ambos do Código Penal, impondo a cada um a pena definitiva de 2 (dois) anos e 11 (onze) meses de reclusão, a serem cumpridos em regime aberto. A defesa de Wagner Gonalves dos Santos Jnior interpôs recurso de apelação alegando incidência de bis in idem, pois os fatos sub judice j foram objeto de discusso na Justia Militar.

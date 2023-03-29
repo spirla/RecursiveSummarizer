@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Desta forma, o ofendido dever utilizar o procedimento padro para as notificaes e interpelaes judiciais, previsto no Cdigo de Processo Civil, distribuindo o pedido entre as varas criminais competentes para o julgamento da ao penal. O magistrado perante o qual se processa o pedido de explicaes no emite qualquer juzo de mrito sobre as explicaes fornecidas e no pode proferir condenao em caso de negativa ou omisso em prestar as explicaes. O juzo perante o qual se processa o pedido de explicaes realiza apenas uma interpelao e no o julgamento sobre a ocorrncia do crime. Feitas as explicaes ou, no caso de recusa ou omisso, certificado o fato nos autos, devem estes ser entregues a quem solicitou as explicaes para que, caso queira, o utilize em ao penal a ser proposta em razo da suposta prtica do crime contra a honra. Vale lembrar que o pedido de explicaes torna o juzo criminal prevento para a ao penal que eventualmente vier a ser proposta, conforme o artigo 83 do Cdigo de Processo Penal. A segunda parte do artigo 144 do CP estabelece que aquele que se recusa a d-las ou, a critrio do juiz, no as d satisfatrias, responde pela ofensa. Nestes termos, o Cdigo estabelece uma forma de responsabilidade objetiva que se mostra incompatvel com o Estado Democrtico de Direito. No se pode admitir que a ausncia de explicaes sobre as referncias, aluses ou frases possa presumir que tenham significado ofensivo e, ainda, que a pessoa que as tenha proferido deva ser responsabilizada criminalmente. Uma condenao criminal somente pode ser proferida aps o devido processo legal, em que o Ministrio Pblico (ou o querelante, na ao privada) deduza uma pretenso punitiva em juzo e comprove cabalmente a ocorrncia da conduta punvel. A ausncia de explicaes no pode dispensar a produo probatria que deve se realizar no mbito do processo criminal. Por isso, no se pode considerar juridicamente vlida esta parte do dispositivo legal. A recusa ou omisso do suposto ofensor em prestar as explicaes solicitadas poder constituir, apenas, um argumento a ser utilizada na ao penal, se esta vier a ser proposta. 5.9. Ao penal. Conforme o artigo 145 e seu pargrafo nico do Cdigo Penal, ordinariamente, nos crimes contra a honra a ao penal  privada e a competncia para processar e julgar os crimes contra a honra  da Justia comum estadual. No entanto, nos casos de injuria real (artigo 140, pargrafo 2) em que da violncia resultar leso corporal, a ao penal  pblica incondicionada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código de Processo Civil prevê o procedimento padrão para notificações e interpelações judiciais. O juiz que realiza a interpelação não emite qualquer juízo de mérito sobre as explicações fornecidas, mas certifica o fato nos autos. O artigo 144 do Código Penal estabelece uma forma de responsabilidade objetiva que não se mostra compatível com o Estado Democrático de Direito. A competência para processar e julgar os crimes contra a honra é da Justiça comum estadual, exceto nos casos de injúria real em que resultar lesão corporal, a ação penal é pública incondicionada.

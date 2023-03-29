@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+As taxas retidas pelas administradoras de cartoes de credito e debito constituem custos operacionais do contribuinte, repassados aos clientes no momento da venda ou da prestacao dos servicos, integrando, dessa forma, o conceito de faturamento. Nesses termos, eventual interpretacao que retire os custos operacionais do conceito legal de faturamento acaba por esvaziar a base de calculo da incidencia fiscal. Ademais, nao existindo em nosso ordenamento juridico previsao que autorize a hipotese de nao inci-dencia pretendida pelo recorrente, descabe ao Poder Judiciario desempenhar a funcao de legislador positivo. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 1024 da repercussao geral, negou provimento ao recurso extraordinario. RE 1049811/SE, relator Ministro Marco Aurelio, redator do acordao Ministro Alexandre de Moraes, julgamento virtual finalizado em 18.3.2022 (sexta-feira), as 23:59 (INF 1047) Majoracao da base de calculo de contribuicao social por ato infralegal - RE 1381261/RS (Tema 1223 RG) Tese fixada: Sao inconstitucionais o Decreto n 3.048/99 e a Portaria MPAS n 1.135/01 no que alteraram a base de calculo da contribuicao previdenciaria incidente sobre a remuneracao paga ou creditada a trans-portadores autonomos, devendo o reconhecimento da inconstitucionalidade observar os principios da congruencia e da devolutividade. Resumo: E inconstitucional, por afronta ao principio da legalidade estrita, a majoracao da base de calculo de contribuicao social por meio de ato infralegal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As taxas retidas pelas administradoras de cartões de crédito e débito constituem custos operacionais do contribuinte, integrando o conceito de faturamento. 2. É inconstitucional, por afronta ao princípio da legalidade estrita, a majoração da base de cálculo de contribuição social por meio de ato infralegal.

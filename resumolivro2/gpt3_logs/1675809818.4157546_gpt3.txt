@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Exames de laboratrio. A prova da materialidade de alguns delitos se faz por meio de exames de laboratrio. Nos crimes contra sade pblica  indispensvel a realizao de exames laboratoriais, por exemplo , a materialidade dos delitos de trfico, posse ou uso de entorpecente ou substncia similar (artigo 290, CPM). Nos crimes de drogas nas formas previstas nos artigos 28, 33 e 38 da Lei 11.343/2006 o laudo de constatao  o exame preliminar que permite a lavratura da priso em flagrante e o recebimento da denncia. No curso da ao penal deve ser feito e juntado o laudo definitivo (exame qumico-toxicolgico). Quanto  possibilidade de condenao sem o laudo definitivo (exame qumico-toxicolgico), o STF julgou que a falta do laudo pericial no conduz, necessariamente,  inexistncia de prova da materialidade de crime de trfico de drogas, que pode ser demonstrada, em casos excepcionais, por outros elementos probatrios, depoimentos de testemunhas e interceptaes telefnicas. O STJ (EResp n. 1.544.057/RJ) decidiu que nos casos em que ocorre a apreenso do entorpecente, o laudo toxicolgico definitivo  imprescindvel para a demonstrao da materialidade do delito. Sem o laudo de exame toxicolgico definitivo no  possvel condenar pelo crime do artigo 33 da Lei 11.343/2006. Mas, em 2008 o STJ julgou que o laudo toxicolgico no  condio nica para basear a condenao se houver prova testemunhal e documental produzidas na instruo criminal da materialidade do delito. No HC 399.159/SP, rel. Min. Maria Thereza de Assis Moura, j. 07/12/2017, a Sexta Turma do STJ reiterou o entendimento no sentido de que o laudo toxicolgico definitivo  imprescindvel para a condenao pelo crime de trfico ilcito de drogas (artigo 33), mas dispensvel na configurao do delito de associao para o trfico previsto no artigo 35 da Lei n. 11.343/06:
+(...)2.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Exames de laboratório são necessários para comprovar a materialidade de alguns delitos, como os crimes contra a saúde pública. O laudo de constatação é o exame preliminar para a lavratura da prisão em flagrante e o recebimento da denúncia. O laudo definitivo (exame químico-toxicológico) é necessário para a condenação, mas, em casos excepcionais, outros elementos probatórios, como depoimentos de testemunhas e interceptações telefônicas, podem ser usados. O STJ decidiu que o laudo toxicológico definitivo é imprescindível para a condenação pelo crime de tráfico ilícito de drogas, mas dispensável na configuração do delito de associação para o tráfico previsto no artigo 35 da Lei n. 11.343/06.

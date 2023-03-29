@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com esse entendimento, o Plenario julgou improcedente a arguicao de descumprimento de preceito fundamental. ADPF 523/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 6.2.2021 (INF 1004) 4.27 REPERCUSSAO GERAL Reapreciacao do reconhecimento da repercussao geral - RE 1040229/RS (Tema 321 RG) Tese fixada: Nao ha repercussao geral na controversia em que se questiona a validade de regulamento editado por orgao do Judiciario estadual que, com base na lei de organizacao judiciaria local, preceitua a convolacao de acao individual em incidente de liquidacao no bojo da execucao de sentenca coletiva proferida em Juizo diverso do inicial . Resumo: Nos termos do art. 323-B do Regimento Interno do Supremo Tribunal Federal (RISTF), em redacao conferida pela Emenda Regimental 54, de 1 de julho de 2020, o relator podera propor, por meio eletronico, a revisao do reconhecimento da repercussao geral quando o merito do tema ainda nao tiver sido julgado . O que se pretendia verificar na acao paradigma era a constitucionalidade de arranjo administrativo voltado a concentrar, em apenas um Juizo especifico, criado para tal finalidade, demandas identicas relacionadas a cobranca da diferenca de correcao monetaria em decorrencia dos planos economicos Bresser, Verao, Collor I e Collor II. Em tese, essa determinacao feriria o principio do juiz natural e criaria um tribunal de excecao. A especificidade da materia e o consequente fato de nao mais subsistir a situacao fatica, para a qual a continuidade do julgamento desta acao pudesse ser aproveitada, evidenciam que nao mais se justifica a manutencao da repercussao geral, com o respectivo prosseguimento do julgamento, para analise do seu merito. Com esses fundamentos, o Plenario, por unanimidade, ao reapreciar o Tema 321 da repercussao geral, homologou, para que produza seus efeitos juridicos, o pedido de desistencia do recurso extraordinario. Suspeito o Min. Roberto Barroso.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há repercussão geral na controvérsia em que se questiona a validade de regulamento editado por órgão do Judiciário estadual que, com base na lei de organização judiciária local, preceitua a convolação de ação individual em incidente de liquidação no bojo da execução de sentença coletiva proferida em Juízo diverso do inicial. 2. O relator poderá propor, por meio eletrônico, a revisão do reconhecimento da repercussão geral quando o mérito do tema ainda não tiver sido julgado, nos termos do art. 323-B do Regimento Interno do Supremo Tribunal Federal (RISTF), em redação conferida pela Emenda Regimental 54, de 1 de julho de 2020. 3. A especificidade da matéria e o consequente fato de não mais subsistir a situação fática, para a qual a continuidade do julgamento desta ação pudesse ser aproveitada, evidenciam que não mais se justifica a manutenção da repercussão geral, com o respectivo prosseguimento do julgamento, para análise do seu mérito.

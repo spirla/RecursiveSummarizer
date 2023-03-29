@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Decisao estavel. DESTAQUE O termo inicial para interposicao do agravo de instrumento, na hipotese do pedido previsto no art. 357,  1, do CPC/2015, somente se inicia depois de estabilizada a decisao de saneamento, o que ocorre apos publicada a deliberacao do juiz sobre os esclarecimentos e/ou ajustes ou, nao havendo requerimento, com o transcurso do prazo de 5 (cinco) dias. A controversia cinge-se ao termo inicial do prazo para interposicao do agravo de instrumento, considerando o disposto no art. 357,  1, do CPC/2015, que preve o direito das partes de pedir esclarecimentos ou solicitar ajustes na decisao de saneamento pelo prazo de 5 (cinco) dias, findo o qual ela se torna estavel. Diante da possibilidade de interposicao de agravo de instrumento contra a decisao de saneamento, surgem incertezas sobre o procedimento a ser perfilhado. Se a parte aguarda o prazo para a decisao de aclaramento, a fim de alcancar a estabilidade da decisao, tornando-se definitiva, corre o risco de ver seu agravo de instrumento julgado intempestivo, pois dificilmente o pedido seria apreciado antes do termino do prazo para interposicao do recurso. Por outro lado, se interpoe agravo de instrumento e simultaneamente requer esclarecimentos ou ajustes quanto, por exemplo, a distribuicao do onus da prova, sendo consequentemente proferida nova decisao, com acrescimo de argumentos ou alteracao substancial do primeiro julgado, poderao surgir duvidas quanto a necessidade de novo agravo de instrumento, ou em relacao a prejudicialidade do primeiro recurso. Importante destacar que nao se pode considerar o requerimento do art. 357,  1, do CPC/2015 um mero pedido de reconsideracao, que era possivel antes mesmo da entrada em vigor do novo CPC. Deveras, o pedido de reconsideracao e aquele dirigido ao magistrado, em que se pede o reexame de uma questao ja resolvida, a fim de que lhe seja conferida outra solucao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O termo inicial para interposição do agravo de instrumento, na hipótese do pedido previsto no art. 357, § 1º, do CPC/2015, somente se inicia depois de estabilizada a decisão de saneamento, o que ocorre após a publicação da deliberação do juiz sobre os esclarecimentos e/ou ajustes ou, não havendo requerimento, com o transcurso do prazo de 5 (cinco) dias. 2. O pedido previsto no art. 357, § 1º, do CPC/2015 não pode ser considerado um mero pedido de reconsideração.

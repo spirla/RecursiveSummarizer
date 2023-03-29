@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O procedimento comum divide-se em ordinrio, para os crimes com pena mxima igual ou superior a 4 anos (artigo 394/405), sumrio para os crimes com pena mxima inferior a 4 anos (artigo 531/538), e sumarssimo, para as infraes penais de menor potencial ofensivo na forma de Lei 9.099/95. As causas de aumento ou de diminuio de pena so consideradas para estabelecer a espcie de procedimento? Sustenta Gustavo Badar que se deve considerar a pena cominada ao delito no preceito sancionador e desconsideradas aquelas causas aplicadas na terceira fase do clculo pena. No entanto, a soma das penas decorrente do concurso de crimes deve ser observada para estabelecer a espcie de procedimento. Assim, se a soma ultrapassar 4 anos  aplicvel o procedimento comum ordinrio. Os que mantm o procedimento ordinrio do CPPM (artigo 384 ao 450) para processar e julgar o acusado de ter praticado crime na legislao comum esbarram, com a devida vnia, em dificuldades de uma formulao terica. A primeira  que o procedimento do CPPM  aplicvel, sem distino para crimes apenados com recluso ou deteno e sem distinguir a quantidade de pena. O CPP prev procedimentos distintos pela quantidade de pena. A segunda, e mais importante,  que no procedimento ordinrio do CPPM o direito de defesa do acusado  menor se comparado com o procedimento ordinrio do CPP, que prev o direito de responder  acusao e, se for caso, de ser absolvido sumariamente. A terceira causa, e no menos importante, no CPPM,  que na defesa o acusado pode arrolar 3 (trs) testemunhas, procedimento ordinrio do CPP - adotado em caso de crime cuja sano mxima cominada for igual ou superior a 4 (quatro) anos de pena privativa de liberdade (artigo 394, pargrafo 1, I, CPP) - na instruo podero ser inquiridas at 8 (oito) testemunhas arroladas pela acusao e 8 (oito) pela defesa (artigo 401, CPP);
+no procedimento sumrio disciplinado nos artigos 531 e 538 do CPP, previsto em caso de crime cuja sano mxima cominada seja inferior a 4 (quatro) anos de pena privativa de liberdade (artigo 394, pargrafo 1, II, CPP), podero ser inquiridas at 5 (cinco) testemunhas arroladas pela acusao e 5 (cinco) pela defesa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código de Processo Penal (CPP) prevê três procedimentos distintos para crimes com pena máxima cominada: comum ordinário (acima de 4 anos), sumário (inferior a 4 anos) e sumaríssimo (infrações de menor potencial ofensivo). O direito de defesa do acusado é maior no procedimento ordinário, que permite ao acusado responder à acusação e, se for o caso, ser absolvido sumariamente. No procedimento ordinário, o acusado pode arrolar 3 testemunhas, enquanto no sumário são permitidas 5 testemunhas arroladas pela acusação e 5 pela defesa.

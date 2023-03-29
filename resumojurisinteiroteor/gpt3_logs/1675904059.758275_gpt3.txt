@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A instruo criminal transcorreu regularmente na 3aAJME, conforme se v nos documentos contidos nos autos. As testemunhas arroladas pelo Ministrio Pblico foram ouvidas (Eventos 14 e 113). A defesa do militar no arrolou testemunhas. O interrogatrio do acusado foi devidamente realizado, conforme se nota no Evento 139 e 140, ATA1, pgina 1/3, e udios. Foi oferecido o benefcio da Suspenso condicional do processo ao militar, porm este recursou a proposta, razo pela qual foi dada continuidade ao processo. A Defesa, extemporaneamente, requereu a oitiva da testemunha Marlon Francisco Barbosa do Couto, o que foi deferido na qualidade de testemunha complementar  fase do art. 427 do CPPM e em obedincia  ampla defesa. Na ocasio, o acusado ficou dispensado novo interrogatrio. A mencionada testemunha arrolada pela Defesa do militar foi ouvida conforme se verifica no Evento 206. Ainda na fase do art. 427 do CPPM, o Ministrio Pblico no requereu diligncias e a Defesa requereu a juntada de documentos discriminados no Evento 144. Na fase do art. 428 do CPPM, as partes manifestaram-se pela apresentao de alegaes finais em plenrio, na Sesso de Julgamento. A Sesso de Julgamento foi realizada na data de 25 de agosto de 2021, s 13h30, conforme Ata de Sesso de Julgamento (Evento 235). Na ocasio, foi rechaada a pretenso da Defesa de adiamento do julgamento, conforme se verifica dos argumentos contidos na mdia digital gravada e juntada aos autos. A sentena, datada de 21 de setembro de 2021, encontra-se acostada no Evento 242 SENT 1. Segundo consta do mencionado documento, o Juzo Singular, no campo de sua competncia, julgou improcedente a denncia para absolver o acusado, Cb PM Renato Silva Ferreira, da prtica do crime previsto no art. 222 do CPM, com fundamento no art. 439, "e", do CPPM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juzo Singular julgou improcedente a denncia e absolveu o acusado do crime previsto no art. 222 do CPM, com fundamento no art. 439, "e", do CPPM.

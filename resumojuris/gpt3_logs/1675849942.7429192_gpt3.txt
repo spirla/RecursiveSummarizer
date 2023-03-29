@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao obstante o reconhecimento fotografico na fase inquisitorial nao ter observado o procedimento legal, o presente caso enseja distinguishing quanto ao acordao paradigma da nova orientacao jurisprudencial, tendo em vista que a vitima relatou, nas fases inquisitorial e judicial, conhecer o reu pelo apelido de boneco , bem como o pai do acusado, por serem vizinhos, o que nao denota riscos de um reconhecimento falho. Ademais, a jurisprudencia desta Corte superior entende que a palavra da vitima possui especial relevo, tendo em vista sobretudo o modus operandi empregado na pratica desses delitos, cometidos as escondidas. (Informativo n. 739) PROCESSO RHC 158.580-BA, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 19/04/2022, DJe 25/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Busca pessoal. Art. 244 do CPP. Ausencia de fundada suspeita. Alegacao vaga de atitude suspeita . Insuficiencia. Ilicitude da prova obtida.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O reconhecimento fotográfico na fase inquisitorial não observou o procedimento legal; 2. A palavra da vítima possui especial relevo, tendo em vista sobretudo o modus operandi empregado na prática de delitos cometidos às escondidas; 3. A alegação vaga de atitude suspeita é insuficiente para justificar a busca pessoal prevista no art. 244 do CPP; 4. A prova obtida por meio de busca pessoal ilegal é ilícita.

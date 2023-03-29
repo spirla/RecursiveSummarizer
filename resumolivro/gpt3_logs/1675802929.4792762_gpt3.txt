@@ -1,0 +1,24 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A seguir, sera apresentado um fluxograma simplificado, de modo a apresentar, de forma didatica, como o MAPPA regulamentou o devido processo legal para a apuracao da comunicacao disciplinar, por meio do Processo de Comunicacao Disciplinar (PCD):
+Decisoes possiveis da autoridade competente para decidir o pcd em face do estado em que o processo lhe for encaminhado, conforme pontuado no fluxograma
+1 - Ao receber o PCD no estado finalizado conforme indicacao 1 do fluxograma:
+ Determinar diligncias complementares, se entender que ha outras provas a serem produzidas (artigo 38, caput, MAPPA);
+ Arquivar o processo, sem necessidade de remessa ao CEDMU (artigo 38, I, MAPPA);
+ Encaminhar ao CEDMU, se entender que ha indicios de transgressao disciplinar que pode redundar no enquadramento disciplinar do comunicado (artigo 38, II, MAPPA);
+ Instaurar processo (PAD/PADS/PAE) ou procedimento administrativo (IPM), sem necessidade de remessa previa ao CEDMU. No caso de instauracao de IPM, tal providncia podera ser cumulada com a adocao de outras providncias necessarias a conclusao do PCD e listadas nos itens anteriores (artigo 38, III, MAPPA). 2 - Ao receber o PCD no estado finalizado conforme indicacao 2 do fluxograma:
+ Determinar diligncias complementares, se entender que ha outras provas a serem produzidas para arquivamento do processo ou que persiste os indicios de transgressao disciplinar (artigo 38, caput, MAPPA);
+ Arquivar o processo, sem necessidade de remessa ao CEDMU, caso concorde com o Encarregado (artigo 38, I - por analogia - c/c o artigo 542 do MAPPA);
+ Instaurar processo (PAD/PADS/PAE) ou procedimento administrativo (IPM), sem necessidade de remessa previa ao CEDMU.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Processo de Comunicação Disciplinar (PCD) foi regulamentado pelo MAPPA, que apresenta um fluxograma simplificado para a apuração. Ao receber o PCD, a autoridade competente pode determinar diligências complementares, arquivar o processo, encaminhar ao CEDMU ou instaurar um processo ou procedimento administrativo, sem necessidade de remessa previa ao CEDMU.

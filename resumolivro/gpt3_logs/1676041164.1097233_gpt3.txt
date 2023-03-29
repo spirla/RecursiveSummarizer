@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No Brasil, com a redemocratizao formalmente iniciada em 1985, tornou-se imperioso rever os conceitos fundamentais do Direito Penal sob o prisma do processo democrtico e da teoria discursiva do Direito. O trabalho deve ser desenvolvido a partir da busca por legitimao para a interveno punitiva, superando a perspectiva do Direito revelado e do tradicional, para reconhecer na ordem jurdica a expresso da soberania popular. Para o Direito Penal isso significa que a validade das normas jurdicas de conduta social decorre da legitimidade de sua construo comunicativa, que confere um carter emancipatrio ao Direito, e no simplesmente regulatrio, que se funda no temor da aplicao das penas. Muito embora o processo democrtico esteja sempre limitado pelas condies reais de participao dos sujeitos na comunidade de comunicao, a construo e contnua reconstruo do Direito somente encontraro legitimidade quando decorram de interao social que se verifique nas condies mais prximas possveis das ideais. Nesse contexto, o ordenamento jurdico-penal e sua aplicao prtica devem expressar o produto mais perfeito (embora sempre aproximativo e provisrio) que o consenso possa obter por meio de um processo discursivo que permita o exerccio constante do poder comunicativo. Na elaborao da lei repressiva o parlamento deve oferecer as condies mais prximas das ideais para que a comunidade de comunicao possa identificar os fatos socialmente relevantes que autorizam a interveno punitiva e em que medida esta deve se operar. A teoria do crime deve ser compreendida como resultado de um consenso sobre os pressupostos da interveno punitiva, que se estabelece por meio de um processo discursivo prtico possvel que se verifica no ambiente real do espao de discusso pblica da sociedade brasileira. Para a aplicao do direito positivo, no processo judicial  necessrio assegurar s partes, da melhor maneira, a possibilidade de expor e comprovar os argumentos racionais que foram apresentados para a sustentao de suas pretenses. Tambm  necessrio que o julgador decida a questo submetida ao exame judicial de maneira racional, fundamentando discursivamente a deciso conforme os fins poltico-criminalmente atribudos  interveno repressiva, posto que  um participante da roda de comunicao que se desenvolve por meio do processo judicial. A deciso judicial, portanto, deve ser fundamentada sob a tica do participante e no do observador.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A partir da redemocratização do Brasil em 1985, tornou-se necessário rever os conceitos fundamentais do Direito Penal sob o prisma do processo democrático e da teoria discursiva do Direito. O ordenamento jurdico-penal deve expressar o consenso obtido por meio de um processo discursivo prático para legitimar a intervenção punitiva. O julgador deve decidir racionalmente, fundamentando discursivamente a decisão conforme os fins político-criminalmente atribuídos à intervenção repressiva.

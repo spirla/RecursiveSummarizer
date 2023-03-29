@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Citado, o Estado de Minas Gerais ofertou contestao (Evento 16), sustentando ter o autor, em sua exordial, se limitado a impugnar toda a prova colhida pela Administrao Militar, sem xito em demonstrar qualquer ilegalidade no seu proceder. Por fim, requereu a improcedncia dos pedidos contidos na inicial, alegando a impossibilidade de anlise do mrito do ato administrativo, em razo de no haver ilegalidade a ser sanada. O autor apresentou impugnao  contestao (Evento 20), sustentando a tese contida na inicial. Determinada a especificao de provas, as partes requereram o julgamento antecipado da lide (Eventos 25 e 26). Em sentena (Evento 28), o MM. juiz de direito titular da 5a Auditoria de Justia Militar Estadual (AJME) abordou todas as questes suscitadas e, ao final, entendeu que: [...] Decido. Pelo que se depreende dos autos, o ato transgressor que deflagrou a instaurao da sindicncia administrativa foi comunicado  autoridade militar, via mensagem de Painel Administrativo, constando que entre os dias 03 e 07 de janeiro do corrente ano, ao assumir a viatura de prefixo 25071, se deparou com o veculo sujo interna e externamente, bem como com o rdio e girolex ligados, indicando falta de cuidado do motorista que utilizou a viatura nos turnos anteriores; (vide evento 1 - DOC11, pgina 1, item I). A princpio, como no era possvel indicar a autoria dos fatos, restou instaurado o RIP de Despacho n 102907/2018, que, ao final, evidenciou tratar-se do PM Walisson Barbosa de Almeida, ora requerente. Dessa concluso, portanto, adveio o procedimento administrativo que enquadrou o militar como incurso no inciso II do art. 14 do CEDM c/c os itens 6.2.1, 6.2.1.1, alnea h, e 6.2.1.2 da Resoluo n 4.219/12 - Manual de Gerenciamento da Frota da PMMG. Oportuno registrar que a autoridade julgadora entendeu pela inconvenincia de aplicao do benefcio previsto no artigo 10 do CEDM, pois, considerando o histrico funcional do militar, no se trata de instrumento adequado e eficaz- evento 1-DOC43, pgina 6, item b. Nesse contexto, da anlise dos autos da SAD  possvel concluir que a transgresso imputada ao requerente - desdia, decorre da sua desateno s normas internas da corporao, notadamente o Manual de Gerenciamento da Frota da PMMG. A ttulo elucidativo, vejamos os itens indicados como infringidos: 6.2.1 Entende-se por manuteno de 1 ESCALO a manuteno primria, cuja execuo proporcionar o bom desempenho da viatura.  manuteno obrigatria e de responsabilidade do motorista da viatura. 6.2.1.1 Considera-se como manuteno de 1 escalo ou manuteno de operao: [...] h) higienizar a viatura; 6.2.1.2 A manuteno preventiva de 1 escalo dever ser feita toda a vez que a viatura for utilizada: antes, durante e depois de seu emprego.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O MM. juiz de direito da 5a AJME julgou procedente a acusao de desdia do autor, por ter descumprido as normas internas da corporao, notadamente o Manual de Gerenciamento da Frota da PMMG, ao não higienizar a viatura antes, durante e depois de seu emprego.

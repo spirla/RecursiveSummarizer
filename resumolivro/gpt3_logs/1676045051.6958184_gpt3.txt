@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se faltar um dispositivo legal expresso, cumpre investigar se a finalidade protetiva do ordenamento jurdico pode ser extrada do conjunto de suas disposies legais. Do sistema normativo, pode-se concluir que a persecuo de determinado fim seja justificada, que a conduta seja meio adequado para a consecuo desse fim, ainda, que aparentemente seja revestida das caractersticas de uma conduta punvel. Nesse sentido, h muito que a doutrina reconhece a existncia de causas supralegais de excluso da ilicitude. Sem a pretenso de esgotar a abordagem sobre um tema to complexo, passemos, primeiro, em revista as causas que encontram previso legal no estatuto repressivo. O ordenamento jurdico nacional estabelece causas excludentes da ilicitude penal no artigo 23 do CP, no qual temos:
+Art. 23. No h crime quando o agente pratica o fato:
+- em estado de necessidade;
+- em legtima defesa;
+- em estrito cumprimento do dever legal ou no exerccio regular de direito. O artigo 23 do Cdigo Penal registra as causas gerais de excluso da ilicitude, aplicveis a todos os tipos penais. No entanto, no se pode esquecer que o ordenamento jurdico pode prever hipteses especficas de excluso da ilicitude que s se aplicam a determinados casos definidos pelo legislador.  o que acontece com a exceo da verdade no crime de difamao, prevista no pargrafo nico do artigo 139 do CP. O crime de difamao se caracteriza diante da conduta de difamar algum, imputando-lhe fato ofensivo  sua reputao e admite como defesa a exceo da verdade. Na difamao, o fato imputado, no necessariamente, deve ser falso. A comprovao da veracidade da imputao  excludente de tipicidade na calnia (artigo 138, pargrafo 3), porque  elementar tpica que a imputao seja falsa. Na difamao, a prova da veracidade da imputao, s admitida se o ofendido for funcionrio pblico e o fato imputado relacionar-se ao exerccio de suas funes, no interfere na tipicidade. O fato verdadeiramente imputado pode ser ofensivo  reputao, e  o que basta para caracterizar o tipo penal de difamao. Havendo a prevalncia do interesse pblico em apurar a atuao do funcionrio pblico, a prova da verdade do fato imputado implica a excluso da ilicitude da conduta daquele que o denuncia. Com certeza, se o fato  ofensivo  reputao do funcionrio pblico e se relaciona ao exerccio de suas funes, tambm  indicativo de que as funes pblicas no esto sendo exercidas como devido.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 23 do Cdigo Penal prevê causas gerais de exclusão da ilicitude e há também hipóteses específicas de exclusão da ilicitude previstas em lei. No crime de difamação, a exceção da verdade só é admitida se o ofendido for funcionário público e o fato imputado relacionar-se ao exercício de suas funções. A comprovação da veracidade da imputação exclui a tipicidade na calúnia.

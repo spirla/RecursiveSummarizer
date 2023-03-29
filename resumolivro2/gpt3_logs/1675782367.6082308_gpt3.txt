@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em outras palavras,  possvel conferir autenticidade aos documentos eletrnicos e a sua cpia em meio fsico  passvel de autenticao, como se faz com as reprodues por fotocopiadora. A conferncia da cpia h de ser feita com o original eletrnico, utilizando-se de um computador e dos softwares necessrios. Uma cpia fsica do documento eletrnico, autenticada ou no, poder ser juntada aos autos do processo, mas qualquer divergncia entre ela e o original s poder ser apurada mediante conferncia com o original eletrnico. A cpia fsica do documento eletrnico no conter qualquer assinatura, mas apenas a reproduo do texto ou imagem armazenados no documento eletrnico. A cpia eletrnica de um documento fsico pode ser autenticada mediante assinatura eletrnica. Neste caso, o documento eletrnico tem valor de certido, mas o original continua a ser o documento fsico. O Cdigo de Processo Civil de 2015 disciplinou a utilizao, o valor probante e a admisso dos documentos eletrnicos:
+Artigo 439. A utilizao de documentos eletrnicos no processo convencional depender de sua converso  forma impressa e da verificao de sua autenticidade, na forma da lei. Artigo 440. O juiz apreciar o valor probante do documento eletrnico no convertido, assegurado s partes o acesso ao seu teor. Artigo 441. Sero admitidos documentos eletrnicos produzidos e conservados com a observncia da legislao especfica. 14.2.11.3. Requisitos de veracidade e autenticidade. A veracidade  a existncia real do que o documento contm, relata ou expe.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+É possível conferir autenticidade a documentos eletrônicos e suas cópias em meio físico, utilizando-se de um computador e softwares necessários. O Código de Processo Civil de 2015 disciplina a utilização, o valor probante e a admisão de documentos eletrônicos, que devem ser convertidos para forma impressa e verificados quanto à autenticidade. A veracidade é a existência real do que o documento contém, relata ou expe.

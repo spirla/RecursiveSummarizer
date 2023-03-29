@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+185 Ademais, o art. 102 da Lei n. 8.112/1990, aplicavel de forma subsidiaria aos magistrados federais, traz diversas hipoteses de afastamentos, dentre elas ferias e algumas licencas, cujo periodo e expressamente considerado como de efetivo exercicio. (Informativo n. 759) PROCESSO AgInt no REsp 2.003.502-MG, Rel. Ministro Herman Benjamin, Segunda Turma, por unanimidade, julgado em 24/10/2022, DJe 4/11/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Transporte irregular de passageiros. Apreensao do veiculo. Liberacao condicionada ao pagamento de transbordo. Impossibilidade. DESTAQUE E ilegitimo o ato de autoridade que condiciona a liberacao de veiculo retido por realizar transporte irregular de passageiros ao pagamento de multa. No caso, o Tribunal de origem consignou que a conduta do agente de transito de apreender e remover o veiculo e licita, sendo, portanto, a restituicao deste ao proprietario, nos termos do artigo 271,  1, do CTB, condicionada ao previo pagamento de multas, taxas e despesas com remocao e estada, alem de outros encargos previstos na legislacao especifica. Contudo, o Superior Tribunal de Justica firmou entendimento segundo o qual se configura ilegitimo o ato de autoridade que condiciona a liberacao de veiculo retido por realizar transporte de passageiros, sem a devida autorizacao, ao pagamento da multa, por se tratar de infracao prevista no art. 231, VIII, do Codigo de Transito Brasileiro.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilegítimo o ato de autoridade que condiciona a liberação de veículo retido por realizar transporte irregular de passageiros ao pagamento de multa. 2. O artigo 271, § 1º, do Código de Trânsito Brasileiro prevê a restituição do veículo ao proprietário, condicionada ao pagamento de multas, taxas e despesas com remoção e estada. 3. O Superior Tribunal de Justiça firmou entendimento de que se configura ilegítimo o ato de autoridade que condiciona a liberação de veículo retido por realizar transporte de passageiros, sem a devida autorização, ao pagamento da multa, por se tratar de infração prevista no artigo 231, VIII, do Código de Trânsito Brasileiro.

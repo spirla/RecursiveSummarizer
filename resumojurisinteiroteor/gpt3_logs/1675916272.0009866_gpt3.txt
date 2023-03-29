@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em seu parecer, juntado no Evento 19 - PARECER1, a eminente procuradora de justia manifestou pelo no conhecimento do presente habeas corpus. Transcrevo trecho da manifestao da douta procuradora, in verbis: Pois bem, a questo se revela singela, tendo em vista que o impetrante pretende o trancamento da ao penal militar simplesmente porque, segundo a sua prpria percepo, no se configura o crime de falsidade ideolgica quando a falsidade recai "sobre fato juridicamente irrelevante, incuo, que no contm nocividade efetiva ou potencial (evento 1 - INIC1 - fls. 12), no se verificando, desta forma, qualquer ato da autoridade apontada como coatora que possa configurar ameaa  liberdade de locomoo do paciente, nos termos do que dispe o artigo 467 do CPPM, o que, por si s, inviabiliza o conhecimento da medida processual ora adotada. Ainda que assim no fosse, conforme se extrai da deciso que recebeu a denncia no dia 29/06/2022, a pea exordial preenche "todos os requisitos legais necessrios ao recebimento (evento 1 - RECE_DENUN2 dos autos n. 2000415-47.2022.9.13.0004), razo pela qual ficou evidente que o impetrante se utilizou inadequadamente da via do habeas corpus para tentar provar a inocncia do paciente com base em sua interpretao pessoal dos fatos (evento 1 - INIC1 - fls. 05/12), fazendo-se necessrio, no entanto, dar continuidade  instruo criminal, a fim de que, somente ao final, seja possvel decidir sobre a procedncia ou no da ao penal militar.  o relatrio. Em mesa para julgamento. VOTOS DESEMBARGADOR JADIR SILVA, RELATOR Em anlise dos autos, entendo que o pedido de habeas corpus no poder ser acolhido, conforme passo a demonstrar. Entendo que a lgica jurdica e o bom senso indicam que, pelo menos agora, no h justificativas para obstar o prosseguimento da ao penal, porque isso implicar uma incurso nos elementos indicirios e sua valorao fora de umas das causas primrias para o seu trancamento. Explico. A medida extrema do trancamento da ao penal ou do Inqurito Policial Militar funda-se em argumentos vlidos que o justifiquem, atravs de provas pr-constitudas, em razo de clara atipicidade dos fatos ou de indubitvel ocorrncia de uma das causas extintivas de punibilidade. Na verdade,  o que dispe a legislao processual pertinente - letras "c, "g e "h do art. 467 do Cdigo de Processo Penal Militar (CPPM), bem como o entendimento j assentado em nossos tribunais superiores. Destaco: EMENTA AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME MILITAR. INGRESSO CLANDESTINO. ARTIGO 302 DO CDIGO PENAL MILITAR. DENNCIA. FALTA DE JUSTA CAUSA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O habeas corpus foi negado, pois não se verificou qualquer ato da autoridade que ameaçasse a liberdade de locomoo do paciente, e a denúncia preencheu todos os requisitos legais necessários para o recebimento. A medida extrema de trancamento da ação penal ou do inquérito policial militar deve ser fundamentada em argumentos válidos, como clara atipicidade dos fatos ou ocorrência de uma das causas extintivas de punibilidade.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+14.1.9.2. Presuno de inocncia ou de no culpabilidade. O princpio de no culpabilidade (ou do estado de inocncia) das pessoas sujeitas a procedimentos persecutrios (artigo 5, LVII, CF) tem incidncia na disciplina da prova e faz recair sobre o rgo da acusao o nus de provar o alegado. O princpio da presuno de inocncia impe ao Estado a comprovao da culpabilidade do agente. Trata-se de presuno juris tantum, que somente ser demovida pelas provas produzidas atravs do devido processo legal, sob o plio do contraditrio e com a garantia da ampla defesa. Ante a fragilidade do conjunto probatrio adota-se soluo favorvel ao acusado observando-se o princpio do in dubio pro reo. Trs exigncias decorrem da presuno da inocncia:
+(a) o nus da prova dos fatos constitutivos da pretenso penal pertence com exclusividade  acusao, sem que se possa exigir a produo por parte da defesa de provas referentes a fatos negativos (provas diablicas);
+(b) a necessidade de colheita de provas ou de repetio de provas, j obtidas, perante o rgo judicial competente, mediante o devido processo legal, em contraditrio e com ampla defesa;
+(c) absoluta independncia funcional do magistrado na valorao livre das provas. 14.1.9.3. Contraditrio (ou da audincia em contraditrio). O contraditrio  um mtodo de confronto da prova e a comprovao da verdade essencial para dar validade  prova, que deve permear todo o processo, garantindo sempre a possibilidade de manifestaes das partes sobre as provas.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da presunção de inocência impõe ao Estado a comprovação da culpabilidade do agente. O contraditório é um método de confronto da prova, essencial para dar validade à prova, que deve permeá-lo todo, garantindo sempre a possibilidade de manifestações das partes sobre as provas.

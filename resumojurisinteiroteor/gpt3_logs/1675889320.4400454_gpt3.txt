@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No caso em tela, temos que o Processo de Comunicao Disciplinar de Portaria n. 102.381/2016 foi instaurado pelo Comandante do 59 Batalho da Polcia Militar de Minas Gerais, sob a imputao de que teria o ora apelante durante estgio operacional do CFS deixado de cumprir a ordem de servio n. 5348-15/22 BPM no sentido de confeccionar o Anexo C e envi-lo  P3, conduta que se amolda a transgresso disciplinar tipificada no artigo 14, inciso III, da Lei 14.310/02 (CEDM) (Evento 1, OUT8, pg. 02). Consta dos autos que a comunicao disciplinar foi instaurada a partir do ofcio n. 706/15 - SADM/EFAS, de 15/12/2015 expedido pela Escola de Formao e Aperfeioamento de Sargentos  17a Rpm amparado nas seis comunicaes disciplinares confeccionadas em desfavor do apelante, relativas aos dias 15, 16, 17, 20, 21 e 24/11/2015 (Evento 1 - OUT8, pgs. 04/10). Extrai-se do Termo de abertura de vista (TAV) a narrativa dos fatos e notificao do ora apelante para apresentao de sua defesa prvia com base nos seguintes termos, verbis: [...] Nos dias 15, 16, 17, 20, 21 e 24 de novembro, do ano de 2015, na cidade de Belo Horizonte, por volta das 17h30min, o comunicado no encaminhou para a caixa administrativa P3/22 BPM, ao final do turno de servio, o Anexo C da Ordem de Servio 5348-15-POG Estgio Operacional do CFS 2015 devidamente preenchido, referente  escala de servio cumprida nos dias 15, 16, 17, 20, 21 e 24 de novembro do ano de 2015, conforme previsto no item 3.4 da mesma ordem de servio, sendo que a conduta comprometeu os trabalhos de coordenao e controle da P3/22 BPM (Evento 1 - OUT 8, pg. 20). O apelante apresentou defesa de mrito, contudo no requereu diligncias ou arrolou testemunhas (Evento 1 - OUT8, pgs. 20/23). O encarregado rechaou as teses defensivas e concluiu pelo enquadramento e punio do ora apelante na transgresso disciplinar prevista no artigo 14, III, do CEDM. Na ocasio, ressaltou, verbis: [...]  RAZO: A defesa alega que o comunicado no praticou nenhuma conduta que violasse os princpios da tica e os deveres inerentes s atividades das IMEs, no produziu qualquer resultado danoso, e sequer se omitiu. CONTRARRAZO: O prprio comunicado afirma em sua defesa que aps receber uma mensagem via PA, da P3/22 BPM, no dia 13NOV15, deixou de enviar o Anexo C, descumprindo o previsto na ordem de servio N. 5348-15/22 BPM, item 3.4. Verifica-se nas comunicaes disciplinares que o no envio trouxe sim resultado danoso, pois, a conduta comprometeu os trabalhos de coordenao e controle da P3/22 BPM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Processo de Comunicao Disciplinar de Portaria n. 102.381/2016 foi instaurado pelo Comandante do 59 Batalho da Polcia Militar de Minas Gerais, com base na imputao de que o ora apelante teria deixado de cumprir a ordem de servio n. 5348-15/22 BPM, no sentido de confeccionar o Anexo C e envi-lo para a caixa administrativa P3/22 BPM, o que se amolda à transgresso disciplinar tipificada no artigo 14, inciso III, da Lei 14.310/02 (CEDM). Após a apresentação da defesa do apelante, o encarregado rechaou as teses defensivas e concluiu pelo enquadramento e punição do ora apelante.

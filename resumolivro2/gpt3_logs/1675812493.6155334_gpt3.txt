@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O ru tem legitimao para recorrer e capacidade postulatria. Tratei no item 16.4. da intimao da sentena, um dos motivos da intimao de ambos, acusado e defensor,  que o defensor tem legitimidade para recorrer da sentena condenatria e o acusado tem capacidade postulatria especial, decorrente de sua legitimidade, podendo apelar sem a assistncia de seu defensor. O defensor dativo tem legitimidade para recorrer, mas no tem obrigao de interpor recurso. O Ministrio Pblico tem legitimidade exclusiva na ao penal pblica (artigo 129, I, CF) e seus integrantes capacidade postulatria (artigo 129, pargrafo 2, CF) nos casos especficos compreendidos em seu cargo ou funo, de acordo coma as leis federais e estaduais que regulam as atribuies dos membros da instituio..
+18.1.6. Juzo de mrito. No juzo de mrito (ou de libao), que pode versar sobre o pedido de condenao ou de absolvio e ocorre depois do juzo de admissibilidade, apura-se a existncia ou inexistncia de fundamento para o que se postula no recurso. O tribunal poder dar provimento ao recurso, juzo de mrito positivo, ou negar provimento ao recurso, juzo de mrito negativo. Em havendo julgamento do mrito, confirmando ou no a deciso atacada, o acrdo substitui a deciso recorrida. A consequncia desta substituio  que existindo outro recurso (por exemplo, extraordinrio ou especial) ele deve ser interposto contra o acrdo e no contra a deciso do rgo jurisdicional inferior. Se o Tribunal reconhecer no recurso que houve na sentena error in judicando (erro de julgamento) reformar a deciso e o acrdo substituir a sentena. Todavia, se reconhecer o error in procedendo (erro na aplicao do direito processual), dever anular o processo baixando o processo para que o juiz de primeiro grau refaa os atos de forma regular. No pode o Tribunal substituir a deciso recorrida porque estaria suprimindo o primeiro grau de jurisdio..
+18.2. Recurso em sentido estrito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O ru tem legitimidade para recorrer e capacidade postulatria especial, sendo que o defensor tem legitimidade para recorrer, mas não tem obrigação de interpor recurso. O Ministério Público tem legitimidade exclusiva na ação penal pública e seus integrantes têm capacidade postulatória nos casos especificados. No juízo de mérito, o tribunal pode dar provimento ao recurso ou negar provimento, confirmando ou não a decisão atacada. Se houver erro de julgamento, a decisão será reformada, mas se houver erro na aplicação do direito processual, o processo será anulado.

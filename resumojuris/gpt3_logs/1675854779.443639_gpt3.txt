@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Trata-se da analise da legalidade sobre a aplicacao concomitante das multas previstas no art. 44, I e  1, da Lei n. 9.430/1996 (150% sobre o valor do tributo que deixou de ser pago em virtude da apuracao, no lancamento de oficio, de que houve fraude consistente no subfaturamento do preco das mercadorias importadas) e no art. 83, I, da Lei n. 4.502/1964 (multa igual ao valor da mercadoria entregue ao consumo, ou consumida). A importacao de mercadorias com subfaturamento enseja aplicacao da multa de 50% ou 100%, preceituada no art. 108, caput e paragrafo unico, do Decreto-Lei n. 37/1966. A sancao prevista no art. 83, I, da Lei n. 4.502/1964 incide apenas nas hipoteses em que a mercadoria estiver sujeita a decretacao da pena de perdimento, nao sendo o caso tendo em vista que o subfaturamento, por si, nao constitui situacao apta a ensejar o decreto de perdimento. O consumo da mercadoria importada com subfaturamento constitui exaurimento da aludida infracao. (Informativo  Ed. Especial n. 8) Decreto-Lei n. 37/1966, art. 108. Lei n. 4.502/1964, art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É legal a aplicação concomitante das multas previstas no art. 44, I e 1, da Lei n. 9.430/1996 e no art. 83, I, da Lei n. 4.502/1964. 2. A importação de mercadorias com subfaturamento enseja a aplicação da multa de 50% ou 100%, prevista no art. 108, caput e parágrafo único, do Decreto-Lei n. 37/1966. 3. A sanção prevista no art. 83, I, da Lei n. 4.502/1964 incide apenas nas hipóteses em que a mercadoria estiver sujeita a decretação da pena de perdimento. 4. O consumo da mercadoria importada com subfaturamento constitui exaurimento da aludida infração.

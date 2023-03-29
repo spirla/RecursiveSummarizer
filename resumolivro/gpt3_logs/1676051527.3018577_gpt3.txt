@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A doutrina ainda classifica os crimes conforme os tipos penais sejam, congruentes ou incongruentes, levando em considerao a existncia de correlao entre seus requisitos objetivos e subjetivos. Denomina-se tipo congruente aquele em que h perfeita correlao entre os seus elementos objetivos e subjetivos. Por exigncia da descrio tpica, a inteno do sujeito ativo da conduta no fica aqum nem vai alm da realizao de todos os dados objetivos previstos no preceito incriminador. Normalmente, verifica-se a congruncia entre os requisitos objetivos e subjetivos nos tipos dolosos.  o que acontece, por exemplo, no tipo descritivo do crime de sequestro e crcere privado, previsto no artigo 148 do CP. Segundo o referido dispositivo legal, o crime em exame se realiza por meio da conduta de privar algum de sua liberdade, mediante sequestro ou crcere privado. Para a caracterizao deste crime, aos dados objetivos da ocorrncia da privao de liberdade da vtima e da utilizao de um dos meios de execuo definidos pelo legislador deve corresponder a inteno do sujeito. Nos tipos incongruentes, por outro lado, a conduta tpica no apresenta correlao entre os elementos objetivos e subjetivos. Tal situao pode acontecer nos crimes preterdolosos e nos crimes formais. Nos crimes preterdolosos a inteno se dirige  realizao de parte dos elementos objetivos previstos no tipo, de modo que a conduta produza resultados naturalsticos no desejados por quem a realiza. O tipo que define o crime de leso corporal seguida de morte, previsto no artigo 129, pargrafo 3, do CP constitui bom exemplo de tipo incongruente preterdoloso. O referido dispositivo materializa desdobramento da ideia consagrada no caput do artigo 129, sendo necessrio ao operador do direito combinar as informaes constantes do caput e do pargrafo 3. Dessa forma, o crime de leso corporal seguida de morte se caracteriza diante da conduta de ofender a integridade corporal ou a sade de outrem, sendo que tal ofensa resulta em morte e as circunstncias evidenciam que o agente no quis o resultado, nem assumiu o risco de produzi-lo. A descrio tpica deixa claro que o sujeito ativo do crime se orienta pela inteno de produzir a ofensa  integridade fsica ou sade da vtima, mas no pretendeu chegar ao ponto de produzir-lhe a morte. No caso, a incongruncia se verifica porque a inteno que orienta a conduta do sujeito no abrange a produo do resultado naturalstico mais grave. Nos crimes formais, a incongruncia acontece de modo inverso.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A doutrina classifica os crimes como congruentes ou incongruentes, dependendo da correlao entre seus requisitos objetivos e subjetivos. Tipos congruentes possuem perfeita correlao entre os elementos objetivos e subjetivos, como no crime de sequestro e crcere privado. Tipos incongruentes possuem intenção de realizar parte dos elementos objetivos previstos no tipo, como no crime de lesão corporal seguida de morte.

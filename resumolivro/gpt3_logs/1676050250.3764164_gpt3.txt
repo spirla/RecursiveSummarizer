@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Sendo meio de execuo da subtrao, a leso corporal evidencia somente a execuo do crime de roubo. Se ocorreu apenas o crime complexo, a anlise da responsabilidade deve referir-se ao crime praticado, no exemplo, o crime de roubo. A mesma coisa acontece quando se trata de circunstncia agravante de determinado crime. O artigo 108 do CP determina que a extino da responsabilidade de crime, que constitui circunstncia agravante de outro, no se estende a este. Note-se que o artigo 108 refere-se expressamente  circunstncia agravante, e no  qualificadora. A circunstncia agravante impe majorao da pena inicialmente aplicada em face de prtica de determinado tipo legal. A qualificadora, por sua vez, descreve nova figura tpica, com elementares que so acrescidas ao tipo considerado fundamental, possuindo cominao prpria. Veja-se o exemplo: a coao exercida pelo autor contra o partcipe para a execuo do crime de furto. Nesse caso, no se caracteriza concurso de crimes. Tem-se apenas um crime: o de furto, agravado pela circunstncia da coao, prevista no artigo 62, II, do CP. Com relao ao nico crime praticado, o de furto, deve-se examinar a responsabilidade. Por fim, a regra do artigo 108 do CP ainda estabelece que, nos crimes conexos, a extino da responsabilidade de um deles no impede, quanto aos outros, a agravao da pena resultante da conexo. A noo de conexo deve ser apurada no Direito Processual. Segundo o artigo 76 do CPP, a conexo ocorre quando:
+- duas ou mais infraes houverem sido praticadas, ao mesmo tempo, por vrias pessoas reunidas, ou por vrias pessoas em concurso, embora diverso o tempo e o lugar, ou por vrias pessoas, umas contra as outras;
+- no mesmo caso, houverem sido umas praticadas para facilitar ou ocultar as outras, ou para conseguir impunidade ou vantagem em relao a qualquer delas;
+- a prova de uma infrao ou de qualquer de suas circunstncias elementares influir na prova de outra infrao. Pode-se notar que, quando ocorrer a conexo objetiva consequencial (prevista no inciso II do artigo 76), o crime conexo anterior ser pressuposto do crime posterior, enquadrando-se duplamente na previso explicativa do artigo 108 do CP.  o caso do homicdio para ocultar a anterior prtica do peculato. O homicdio no deixa de ser qualificado pela extino da responsabilidade pelo crime de peculato. A conexo de crimes importa o concurso entre os crimes conexos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 108 do CP determina que a extinção da responsabilidade de um crime, que constitui circunstância agravante de outro, não se estende a este. A conexão objetiva consequencial (prevista no inciso II do artigo 76 do CPP) pressupõe o crime conexo anterior, enquadrando-se duplamente na previsão explicativa do artigo 108 do CP. A conexão de crimes importa o concurso entre os crimes conexos.

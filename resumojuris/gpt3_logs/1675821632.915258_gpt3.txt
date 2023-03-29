@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alexandre de Moraes, julgamento virtual finalizado em 13.3.2021 (INF 1009) Covid-19: distribuicao de vacinas e planejamento sanitario - ACO 3518 MC-Ref/DF Resumo: A subita modificacao da sistematica de distribuicao dos imunizantes contra Covid-19 pela Uniao  com abrupta reducao do numero de doses  evidencia a possibilidade de frustracao do planejamento sanitario estabelecido pelos entes federados. A previsibilidade e a continuidade da entrega das doses de vacinas contra a Covid-19 sao fundamentais para a adequada execucao das politicas de imunizacao empreendidas pelos entes federados, as quais contemplam a divulgacao antecipada dos calendarios de vacinacao, sempre acompanhada com grande expectativa pela populacao local. Nesse contexto, mudancas abruptas de orientacao interferem nesse planejamento e acarretam uma indesejavel descontinuidade das politicas publicas de saude desses entes, podendo ocasionar um lamentavel aumento no numero de obitos e de internacoes hospitalares de doentes infectados pelo novo coronavirus, aprofundando, com isso, o temor e o desalento das pessoas que se encontram na fila de espera da vacinacao. Demonstrada a presenca do fumus boni iuris e do periculum in mora, o Plenario referendou medida cautelar para assegurar ao Estado de Sao Paulo, dentro do prazo estipulado nas bulas dos fabricantes e na autorizacao da Anvisa, a remessa das vacinas necessarias a imunizacao complementar das pessoas que ja tomaram a primeira dose. ACO 3518 MC-Ref/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A subita modificação da sistemática de distribuição dos imunizantes contra Covid-19 pela União com abrupta redução do número de doses evidencia a possibilidade de frustração do planejamento sanitário estabelecido pelos entes federados. 2. A previsibilidade e a continuidade da entrega das doses de vacinas contra a Covid-19 são fundamentais para a adequada execução das políticas de imunização empreendidas pelos entes federados. 3. Mudanças abruptas de orientação interferem nesse planejamento e acarretam uma indesejável descontinuidade das políticas públicas de saúde desses entes, podendo ocasionar um lamentável aumento no número de óbitos e de internações hospitalares de doentes infectados pelo novo coronavírus. 4. Demonstrada a presença do fumus boni iuris e do periculum in mora, o Plenário referendou medida cautelar para assegurar ao Estado de São Paulo, dentro do prazo estipulado nas bulas dos fabricantes e na autorização da Anvisa, a remessa das vacinas necessárias à imunização complementar das pessoas que já tomaram a primeira dose.

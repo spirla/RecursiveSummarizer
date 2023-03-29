@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 7111/PA, relator Ministro Edson Fachin, julgamento virtual finalizado em 26.8.2022 (sexta-feira), as 23:59 (INF 1065) ADI 7113/TO, relator Ministro Edson Fachin, julgamento virtual finalizado em 26.8.2022 (sexta-feira), as 23:59 (INF 1065) ADI 7116/MG, relator Ministro Edson Fachin, julgamento virtual finalizado em 26.8.2022 (sexta-feira), as 23:59 (INF 1065) ADI 7119/RO, relator Ministro Edson Fachin, julgamento virtual finalizado em 26.8.2022 (sexta-feira), as 23:59 (INF 1065) ADI 7122/GO, relator Ministro Edson Fachin, julgamento virtual finalizado em 26.8.2022 (sexta-feira), as 23:59 (INF 1065) Operacionalizacao da substituicao tributaria do ICMS por meio de lei ordinaria estadual - ADI 5702/RS Resumo: A instituicao de hipotese de substituicao tributaria do ICMS, imputando-se a estabelecimento atacadista o dever de recolhimento do tributo em relacao as operacoes subsequentes, pode ser feita por meio de lei ordinaria estadual, devidamente regulamentada por decreto. Exige-se, por parte de cada um dos entes competentes para instituir o ICMS, lei propria no sentido de operacionalizar o que previsto em norma geral da legislacao tributaria. Nesse contexto, a expressao lei , pre-sente no art. 150,  7, da CF/88, diz respeito a especie legislativa lei ordinaria (CF/88, art. 59, III), motivo pelo qual a imputacao da referida responsabilidade tributaria nao demanda lei complementar (CF/88, art. 59, II). Com base nesse entendimento, o Plenario, por unanimidade, conheceu em parte da acao e, nesta exten-sao, a julgou improcedente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A instituição de hipótese de substituição tributária do ICMS, imputando-se a estabelecimento atacadista o dever de recolhimento do tributo em relação às operações subsequentes, pode ser feita por meio de lei ordinária estadual, devidamente regulamentada por decreto. 2. É necessário, por parte de cada um dos entes competentes para instituir o ICMS, lei própria no sentido de operacionalizar o que previsto em norma geral da legislação tributária. 3. A expressão "lei", presente no art. 150, § 7, da CF/88, diz respeito à espécie legislativa lei ordinária (CF/88, art. 59, III), motivo pelo qual a imputação da referida responsabilidade tributária não demanda lei complementar (CF/88, art. 59, II).

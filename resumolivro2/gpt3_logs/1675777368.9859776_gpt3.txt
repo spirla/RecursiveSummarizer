@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O Cdigo Penal Militar prev exceo da verdade nos crimes de calnia (artigo 214, pargrafo 2, I a III) e difamao (artigo 215, pargrafo nico). O Cdigo de Processo Penal Militar no estabelece se  o rgo de primeiro ou de segundo grau competente para julgar a exceo da verdade. Por exemplo:
+o general-de-exrcito, que tem prerrogativa de foro,  caluniado por coronel da ativa, que no tem prerrogativa de foro, com a falsa imputou de crime de peculato. A ao penal em face do coronel deve ser proposta no foro competente (Auditoria Militar). A quem cabe julgar a exceo da verdade? O Conselho de Justia no poder julgar a exceo da verdade, pois, estaria julgando o general-de-exrcito. Preenche-se tal omisso do CPPM com a aplicao do artigo 85 do Cdigo de Processo Penal. Caber ao STM o julgamento da exceo da verdade. O processamento e a produo de provas referentes  exceo da verdade so feitos em primeiro grau e o julgamento dela se d no foro por prerrogativa de posto ou funo. Julgada a exceo da verdade, os autos retornam ao primeiro grau. A difamao  a imputao de fato ofensivo  reputao do militar, de modo que a procedncia da exceo da verdade no implica reconhecimento de crime e o seu julgamento no precisa ser deslocado para o foro especial. A competncia pela prerrogativa de posto ou de funo envolve a conexo e a continncia. Pelo entendimento do STF firmado na Smula 704:
+No viola as garantias do juiz natural, da ampla defesa e do devido processo legal a atrao por continncia ou conexo do processo do corru ao foro por prerrogativa de funo de um dos denunciados. Cabe ao tribunal promover, sempre que possvel, o desmembramento de inqurito e peas de investigao correspondentes, para manter sob sua jurisdio, em regra, apenas o que envolva autoridade com prerrogativa de foro, segundo as circunstncias de cada caso. A Smula 451 do STF dispe que:
+A competncia especial por prerrogativa de funo no se estende ao crime cometido aps a cessao definitiva do exerccio funcional.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal Militar prevê exceção à verdade nos crimes de calúnia e difamação. O Código de Processo Penal Militar não estabelece qual é o órgão competente para julgar a exceção à verdade. O STM é o órgão competente para julgar a exceção à verdade, e o processamento e produção de provas ocorrem em primeiro grau. A competência especial por prerrogativa de função não se estende a crimes cometidos após a cessão definitiva do exercício funcional.

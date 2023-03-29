@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Na fase processual do artigo 427 do Cdigo de Processo Penal Militar, o Ministrio Pblico requereu, em 24 de julho de 2019, a juntada da CAC e FAC atualizada dos acusados, tanto da Justia Militar como da Justia comum. Em 12 de agosto de 2019, os acusados 3 Sgt PM Givaldo de Santana Lima, Sd Harley de Jesus Almeida e 3 Sgt PM Stefan Ramon Tavares formalmente nada requereram no prazo previsto do artigo 427 do Cdigo de Processo Penal Militar, e os demais rus, apesar de intimados, quedaram-se silentes (Evento 9, PEAS DIGITALIZADAS8). Na fase do artigo 428 do CPPM, o Ministrio Pblico apresentou alegaes escritas pugnando pela procedncia da exordial acusatria e pela consequente condenao dos acusados. (Evento 9, PEAS DIGITALIZADAS8, pgs. 90/112). A defesa do 3 Sgt PM Givaldo de Santana Lima, do Sd Harley de Jesus Almeida e do 3 Sgt PM Stefan Ramon Tavares apresentou alegaes escritas sustentando a total improcedncia da pretenso acusatria e requereu a absolvio dos rus em face da inexistncia dos fatos narrados, nos termos do artigo 386, inciso I, do Cdigo de Processo Penal (Evento 9, PEAS DIGITALIZADAS10, pgs. 3/15). Por sua vez, a defesa do Cabo PM Fladimir Marcus de Queirz requereu a improcedncia da exordial acusatria com a consequente absolvio do ru, em face da inexistncia dos fatos narrados, com fundamento do artigo 439, alnea "a, do Cdigo de Processo Penal Militar (Evento 9, PEAS DIGITALIZADAS10, pgs. 24/38). Por fim, a defesa do 1 Tenente PM Mauro Lcio da Silva e do Cabo PM Paulo Henrique Crispim apresentou suas alegaes escritas e requereu a absolvio dos acusados (Evento 9, PEAS DIGITALIZADAS10, pgs. 41/51). Finda a instruo processual, em 27 de maio de 2020, o Meritssimo Juiz de Direito Titular da 2a AJME prolatou sentena, julgando procedente a ao penal para, de forma individualizada, condenar os rus, 3 Sgt PM Stefan Ramon Tavares, Soldado Harley de Jesus Almeida, Soldado Fladimir Marcus de Queirz e o Cabo PM Paulo Henrique Crispim, nos seguintes termos: [...] pela prtica do crime de violao ao disposto no Estatuto da Criana e do Adolescente, na forma descrita na denncia apresentada pelo Ministrio de Minas Gerais, a Pena de 09 (nove) meses e 10 (dez) dias de deteno. Quanto ao crime de Tortura previsto em Lei Federal, julgar procedente a ao penal nos exatos termos da denncia para condenar o ru a pena de 03 (trs) anos, 01 (um) ms e 10 (dez) dias de recluso; Em razo da condenao pelo crime de Tortura, na forma do estabelecido no art. 1,  5 da Lei Federal 9.455/1997, que estabelece que, A condenao acarretar a perda do cargo, funo ou emprego pblico e a interdio para ser exerccio pelo dobro do prazo da pena aplicada.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público requereu a juntada da CAC e FAC atualizada dos acusados. Após a instrução processual, o Juiz de Direito Titular da 2a AJME julgou procedente a ação penal para condenar os réus 3 Sgt PM Stefan Ramon Tavares, Soldado Harley de Jesus Almeida, Soldado Fladimir Marcus de Queirz e o Cabo PM Paulo Henrique Crispim pelo crime de violação ao Estatuto da Criança e do Adolescente, com pena de nove meses e dez dias de detenção, e pelo crime de Tortura, com pena de três anos, um mês e dez dias de reclusão, além da perda do cargo, função ou emprego público e a interdição para ser exercício pelo dobro do prazo da pena aplicada.

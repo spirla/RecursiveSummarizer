@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+ direito pblico subjetivo do condenado saber quais motivos foram determinantes para o estabelecimento de regime prisional mais grave, a fim de que possa atac-los em possvel recurso. Cumprimento de pena inicialmente em regime fechado. A legislao especial prev casos em que o cumprimento da pena dever se iniciar obrigatoriamente em regime fechado. A Lei 8.072, de 25 de julho de 1990 - Lei dos Crimes Hediondos - em seu artigo 2, pargrafo 1, com a redao que lhe foi dada pela Lei 11.464/2007, dispe que a pena aplicada para os crimes hediondos, a prtica da tortura, o trfico ilcito de entorpecentes e drogas afins, bem como os atos de terrorismo, dever ser cumprida inicialmente em regime fechado. O legislador, certamente inspirado por motivos de preveno geral, imps tratamento mais severo aos condenados pela prtica dos crimes que enumera, fazendo presumir a necessidade de tratamento penitencirio mais rigoroso. A Lei 8.072/90, em seu artigo 1, estabelece que so considerados crimes hediondos os seguintes crimes previstos no Cdigo Penal, consumados ou tentados: a) homicdio (artigo 121), quando praticado em atividade tpica de grupo de extermnio, ainda que cometido por um s sujeito, e homicdio qualificado (artigo 121, pargrafo 2, I, II, III, IV e V; b) latrocnio (artigo 157, pargrafo 3, in fine); c) extorso qualificada pela morte (artigo 158, pargrafo 2); d) extorso mediante sequestro e na forma qualificada (artigo 159, caput, e pargrafos 1, 2 e 3); e) estupro (artigo 213, caput e pargrafos 1 e 2) ; f) estupro de vulnervel (artigo 217-A, caput e pargrafos 1, 2, 3 e 4); g) epidemia com resultado morte (artigo 267, pargrafo 1); h) falsificao, corrupo, adulterao ou alterao de produto destinado a fins teraputicos ou medicinais (artigo 273, caput e pargrafo 1, pargrafo 1 A e pargrafo 1 B, com a redao dada pela Lei 9.677, de 2 de julho de 1998); i) genocdio previsto nos artigos 1, 2 e 3 da Lei 2.889, de 1 de outubro de 1956. Os crimes de tortura so definidos no artigo 1 da Lei 9.455, de 7 de abril de 1997, que, no pargrafo 7 de seu artigo 1 estabelece que o condenado por crime de tortura deve iniciar o cumprimento de sua pena em regime fechado. O dispositivo legal faz ressalva ao condenado por ter se omitido de impedir as condutas criminosas, quando tinha o dever de evit-las ou apur-las, que no ser obrigatoriamente submetido ao regime fechado. O trfico ilcito de drogas  previsto no artigo 33 da Lei 11.343, de 23 de agosto de 2006.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 8.072/90 (Lei dos Crimes Hediondos) prev que os condenados por crimes hediondos, tortura, tráfico ilícito de entorpecentes e drogas afins e atos de terrorismo devem cumprir a pena inicialmente em regime fechado. A Lei 9.455/97 também prev o cumprimento de pena em regime fechado para condenados por crime de tortura, com exceção para quem se omitiu de impedir a conduta criminosa. Já a Lei 11.343/06 prev o tráfico ilícito de drogas.

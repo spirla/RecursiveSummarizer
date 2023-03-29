@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Modulacao do valor da constricao para cota-parte do acusado. DESTAQUE A constricao judicial que incide em imovel bloqueado gerido por Fundo de Investimentos em Participacoes (FIP) deve estar adstrita a cota-parte do acusado/cotista. A controversia consiste na possibilidade de limitar o bloqueio de constricao judicial de imovel a cota-parte detida pelo acusado. A situacao fatica traz que o imovel bloqueado, que consta como unico ativo que permanece constrito, e de propriedade de empreendimento imobiliario, controlado por um fundo de investimento, de titularidade do acusado, possuidor de 14% das cotas, sendo as demais referentes a outros 16 acionistas nao investigados, em principio. Sobre a constricao, o Superior Tribunal de Justica registra precedentes na compreensao de que nao ha obice ao sequestro de bens de pessoa juridica, ainda que esta nao conste do polo passivo da investigacao ou da acao penal, desde que verificada a presenca de indicios veementes de que tenha sido utilizada para a pratica de delitos (AgRg no REsp 1712934/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/02/2019, DJe 01/03/2019). 1261 Contudo, sucede que o fundo de investimentos, que e um condominio de natureza especial, destinado a aplicacao em ativos financeiros, bens e direitos de qualquer natureza (art. 1.368, CC/2002), nao pode responder integralmente por delitos imputados a um agente que detem apenas 14% das cotas do fundo de investimento. Desse modo, num juizo de razoabilidade, e para evitar o excesso cautelar, a constricao deve ser reduzida a 14% das cotas pertencentes ao acusado no referido Fundo de Investimentos, tendo em vista que nao faz sentido que os 16 demais cotistas, que nao fazem parte do relacao processual penal da base, tenham o seu patrimonio afetado pelo bloqueio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A constricao judicial que incide em imovel bloqueado gerido por Fundo de Investimentos em Participacoes (FIP) deve estar adstrita a cota-parte do acusado/cotista. 2. Não há obice ao sequestro de bens de pessoa juridica, ainda que esta não conste do polo passivo da investigação ou da ação penal, desde que verificada a presença de indicios veementes de que tenha sido utilizada para a prática de delitos. 3. O fundo de investimentos, que é um condomínio de natureza especial, destinado a aplicação em ativos financeiros, bens e direitos de qualquer natureza, não pode responder integralmente por delitos imputados a um agente que detém apenas 14% das cotas do fundo de investimento. 4. Para evitar o excesso cautelar, a constricao deve ser reduzida a 14% das cotas pertencentes ao acusado no referido Fundo de Investimentos, tendo em vista que não faz sentido que os 16 demais cotistas, que não fazem parte do relacao processual penal da base, tenham o seu patrimônio afetado pelo bloqueio.

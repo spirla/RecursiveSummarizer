@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Carmen Lucia, julgamento virtual finalizado em 11.6.2021 (sexta-feira) as 23:59 (INF 1021) Obrigatoriedade de instalacao de hidrometros individuais em edificios e condominios: competencia legislativa municipal - RE 738481/SE (Tema 849 RG) Tese fixada: Compete aos municipios legislar sobre a obrigatoriedade de instalacao de hidrometros individuais nos edificios e condominios, em razao do preponderante interesse local envolvido. Resumo: E constitucional lei municipal que disponha sobre a obrigatoriedade de instalacao de hidrometros individuais em edificios e condominios. Isso porque o fornecimento de agua e servico publico de interesse predominantemente local. Assim, a competencia para legislar sobre a materia e dos municipios [CF/88 (CF), art. 30, I e V]. Com base nesse entendimento, ao julgar o Tema 849 da repercussao geral, o Plenario deu provimento a recurso extraordinario em que se alegava que o controle de consumo individual de agua seria de interesse do municipio. RE 738481/SE, relator Min. Edson Fachin, julgamento virtual finalizado em 16.8.2021 (segunda-feira), as 23:59. (INF 1025) Portaria do Detran e regulamentacao de atividade profissional - ADI 6754/TO Resumo: E formalmente inconstitucional portaria do Departamento Estadual de Transito (Detran) que dispoe sobre condicoes para o exercicio de atividade profissional. Compete privativamente a Uniao legislar sobre o tema, nos termos do art. 22, XVI, da CF/88 (CF). Ademais, nao existe lei complementar federal autorizando os estados-membros a legislarem sobre questoes especificas relacionadas a essa materia, conforme estabelece a reparticao constitucional de competencias, e, tampouco, norma primaria estadual que disponha sobre interesse local na materia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional lei municipal que disponha sobre a obrigatoriedade de instalacao de hidrometros individuais em edificios e condominios. 2. É formalmente inconstitucional portaria do Departamento Estadual de Transito (Detran) que dispoe sobre condicoes para o exercicio de atividade profissional. 3. Compete privativamente à União legislar sobre o tema, nos termos do art. 22, XVI, da CF/88 (CF).

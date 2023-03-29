@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+160 Entretanto, o precedente vinculante aplica-se tao somente as multas administrativas aplicadas pela Agencia Nacional do Petroleo, Gas natural e biocombustiveis - ANP, em face do principio da especialidade (Lei n. 9.847/1999). Portanto, se negado o recurso administrativo pela agencia reguladora, a data de vencimento do credito continua sendo aquela contida na primeira notificacao - passando a incidir os juros de mora a partir do primeiro dia subsequente ao vencimento do prazo previsto para o pagamento da multa administrativa, conforme disposicao do art. 61, 1, da Lei n. 9.430/1996 c/c art. 37-A da Lei n. 10.552/2002. (Informativo n. 754) PROCESSO REsp 1.635.716-DF, Rel. Min. Regina Helena Costa, Primeira Turma, por unanimidade, julgado em 04/10/2022, DJe 11/10/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CIVIL, DIREITO PROCESSUAL CIVIL TEMA Sociedade de economia mista prestadora de servicos publicos essenciais, sem finalidade lucrativa e natureza concorrencial. Prescricao quinquenal. Decreto n. 20.910/1932. Aplicabilidade. DESTAQUE Aplica-se a prescricao quinquenal do Decreto n. 20.910/1932 as empresas estatais prestadoras de servicos publicos essenciais, nao dedicadas a exploracao de atividade economica com finalidade lucrativa e natureza concorrencial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O precedente vinculante aplica-se somente às multas administrativas aplicadas pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP, em face do princípio da especialidade (Lei n. 9.847/1999). 2. A data de vencimento do crédito continua sendo aquela contida na primeira notificação, passando a incidir os juros de mora a partir do primeiro dia subsequente ao vencimento do prazo previsto para o pagamento da multa administrativa, conforme disposição do art. 61, 1, da Lei n. 9.430/1996 c/c art. 37-A da Lei n. 10.552/2002. 3. A prescrição quinquenal do Decreto n. 20.910/1932 se aplica às empresas estatais prestadoras de serviços públicos essenciais, não dedicadas à exploração de atividade econômica com finalidade lucrativa e natureza concorrencial.

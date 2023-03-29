@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Leciona Juarez Tavares:
+A leso ao dever de cuidado resulta da omisso da ao cuidadosa, imposta pela norma, no sentido de atender s funes de delimitao da atividade proibida. (...) Tendo em vista a estrutura da norma proibitiva, nos delitos culposos, o contedo do dever de cuidado  integrado, primeiramente, pelo dever de reconhecimento do perigo para o bem jurdico, resultante da ao a ser realizada (cuidado interno), e depois pelo dever de se abster dessa ao perigosa ou somente efetu-la sob cautela (cuidado externo). A importncia dos critrios de imputao objetiva para os crimes culposos pode ser evidenciada na distino entre a causao e a determinao do resultado. A imputao objetiva de um resultado culposo exige que a contribuio do sujeito determine o resultado, e no apenas que lhe d causa. Veja-se o exemplo do pedestre que atravessa inesperadamente a rodovia e  atropelado por automvel conduzido em excesso de velocidade. Se for constatado que a conduo do veculo na velocidade permitida no teria evitado o resultado, pode-se concluir que a conduo do veculo foi causa do resultado, mas no o determinou. No caso, no se pode imputar o resultado ao condutor do veculo que no incrementou o risco da ocorrncia do resultado. Tambm em relao aos crimes omissivos, as exigncias para a imputao objetiva tm inteira aplicao. Contudo, vale lembrar que somente se poder considerar que a omisso  relevante quando objetivamente existir ao de salvamento e o omitente tiver a possibilidade concreta de atuar para evitar o resultado. Afinal, no se pode responsabilizar o omitente quando no houver chances de evitar o resultado lesivo. Nesse sentido, o Cdigo Penal Militar, em seu artigo 29, pargrafo 2, dispe que a omisso  relevante como causa quando o omitente devia e podia agir para evitar o resultado.. 3.4. Causalidade e imputao objetiva. Em termos filosficos, a relao de causalidade  tema bastante polmico.  possvel que a causa estabelea nexo real entre as coisas ou, ento, que o nexo causal seja apenas uma categoria mental que viabilize determinada interpretao da realidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A lesão ao dever de cuidado resulta da omissão da ação cuidadosa prevista pela norma. O conteúdo do dever de cuidado é integrado pelo dever de reconhecimento do perigo para o bem jurídico e pelo dever de se abster da ação perigosa ou efetuá-la com cautela. A imputação objetiva de um resultado culposo exige que a contribuição do sujeito determine o resultado, e não apenas que lhe dê causa. A omissão é relevante quando existir ação de salvamento e o omitente tiver a possibilidade concreta de atuar para evitar o resultado.

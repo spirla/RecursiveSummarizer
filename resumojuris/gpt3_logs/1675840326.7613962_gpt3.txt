@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Perpetuatio jurisdicionis. DESTAQUE A modificacao de competencia promovida pela Lei n. 14.155/2021 tem aplicacao imediata, contudo, por se cuidar de competencia em razao do lugar, de natureza relativa, incide a regra da perpetuatio jurisdicionis, quando ja oferecida a denuncia. Nos termos do art. 70 do CPP, a competencia sera, de regra, determinada pelo lugar em que se consumar a infracao, ou, no caso de tentativa, pelo lugar em que for praticado o ultimo ato de execucao . O delito de estelionato, tipificado no art. 171, caput, do CP, se consuma no lugar onde aconteceu o efetivo prejuizo a vitima. Por essa razao, a Terceira Secao do Superior Tribunal de Justica, no caso especifico de estelionato praticado por meio de deposito em dinheiro ou transferencia de valores, firmara a compreensao de que a competencia seria do Juizo onde se auferiu a vantagem ilicita em prejuizo da vitima, ou seja, o local onde se situava a conta que recebeu os valores depositados. Ja nos casos de estelionato praticado por meio de cheque adulterado ou falsificado, o efetivo prejuizo se da no local do saque da cartula, ou seja, onde o lesado mantem a conta bancaria. Entretanto, a Lei n. 14.155/2021, incluiu o  4 ao art. 70 do CPP, com a seguinte redacao:  4 Nos crimes previstos no art. 171 do Decreto-Lei n 2.848, de 7 de dezembro de 1940 (CP), quando praticados mediante deposito, mediante emissao de cheques sem suficiente provisao de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferencia de valores, a competencia sera definida pelo local do domicilio da vitima, e, em caso de pluralidade de vitimas, a competencia firmar-se-a pela prevencao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A modificação de competência promovida pela Lei n. 14.155/2021 tem aplicação imediata. 2. A competência é determinada pelo lugar em que se consuma a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução. 3. No caso de estelionato praticado por meio de depósito em dinheiro ou transferência de valores, a competência é do Juízo onde se auferiu a vantagem ilícita em prejuízo da vítima. 4. No caso de estelionato praticado por meio de cheque adulterado ou falsificado, o efetivo prejuízo se dá no local do saque da cártula. 5. A Lei n. 14.155/2021 incluiu o 4º ao art. 70 do CPP, estabelecendo que, nos crimes previstos no art. 171 do Decreto-Lei n. 2.848/1940 (CP), quando praticados mediante depósito, emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção.

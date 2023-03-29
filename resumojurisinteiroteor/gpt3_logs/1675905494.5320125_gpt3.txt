@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+V - Em regra, descabe a imposio da multa, prevista no art. 1.021,  4, do Cdigo de Processo Civil de 2015, em razo do mero improvimento do Agravo Interno em votao unnime, sendo necessria a configurao da manifesta inadmissibilidade ou improcedncia do recurso a autorizar sua aplicao, o que no ocorreu no caso. VI - Agravo Interno improvido. (AgInt na AR n. 6.783/DF, relatora Ministra Regina Helena Costa, Primeira Seo, julgado em 24/11/2021, DJe de 29/11/2021.) Na hiptese dos autos, verifica-se que o Pleno desta Corte Castrense realizou o julgamento do Processo de Justificao n. 080010882.2017.9.13.0000, cujo acrdo  o objeto da presente ao, no dia 22 de julho de 2019 (Evento 1 - COMP6, fls. 20/31). Em vista do manejo de diversos recursos por parte do justificante, ora requerente, o trnsito em julgado da deciso que o declarou indigno para o oficialato e determinou a sua demisso das fileiras da Polcia Militar do Estado de Minas Gerais ocorreu no dia 07 de junho de 2021 (Evento 1 - COMP29, fl. 35). Da anlise de toda a documentao acostada aos presentes autos, constata-se que o autor da presente ao rescisria somente realizou os pedidos de averbao do tempo de servio do perodo em que atuou como aluno-aprendiz do SeNaI (entre 05/02/1990 - 05/12/1991 e 03/02/1992 - 30/06/1994), bem como ajuizou a ao objetivando o reconhecimento do referido tempo de servio, em data posterior  deciso que determinou sua demisso e  data do julgamento dos embargos interpostos com fulcro no artigo 207 do Regimento Interno deste Tribunal Justia Militar de Minas Gerais (RITJMMG), que ocorreram, respectivamente, em 22/07/2019 (Evento 1 - cOmp6, fls. 20/31) e 13/05/2020 (Evento 2 - OUT1, fls. 72/82 do processo n. 80002243.2019.9.13.0000). Registre-se, por oportuno, que, no curso do processo de justificao, nem mesmo nas razes dos recursos por ele manejados, foi aventada a questo referente  contagem do tempo de servio do perodo em que atuou como aluno-aprendiz do SENAI. O primeiro pedido de averbao formulado junto  Administrao Militar foi realizado no dia 15/05/2020 (Evento 1 - COMP31), a ao declaratria (Processo n. 5002473-81.2020.8.13.0567) ajuizada para reconhecer o direito de averbar o tempo de servio em questo foi proposta em 30/07/2020 e a sentena do referido processo, documento apontado como prova nova, foi prolatada e disponibilizada no dia 28/07/2021 (Evento 1 - COMP30). Em vista do exposto, a sentena prolatada no Processo n. 500247381.2020.8.13.0567 no constitui prova nova, visto que foi gerada aps o acrdo rescindendo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Pleno desta Corte Castrense julgou o Processo de Justificao n. 080010882.2017.9.13.0000, cujo acrdo foi objeto da presente ao, no dia 22 de julho de 2019. O trnsito em julgado da deciso que declarou o justificante indigno para o oficialato e determinou sua demisso das fileiras da Polcia Militar do Estado de Minas Gerais ocorreu no dia 07 de junho de 2021. A sentena do Processo n. 500247381.2020.8.13.0567, documento apontado como prova nova, foi prolatada e disponibilizada no dia 28/07/2021, no entanto, no constitui prova nova, pois foi gerada aps o acrdo rescindendo. Agravo Interno improvido.

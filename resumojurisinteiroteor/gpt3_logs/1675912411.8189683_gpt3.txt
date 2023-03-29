@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+ como voto. Belo Horizonte, sesso ordinria presencial remota de julgamento do Tribunal de Justia Militar do Estado de Minas Gerais, aos 4 de maio de 2022. Desembargador Rbio Paulino Coelho Presidente e Relator HABEAS CORPUS Processo eproc n. 2000048-35.2022.9.13.0000 Referncia: Processo eproc n. 2000842-81.2021.9.13.0003 Relator: Desembargador Jadir Silva Julgamento: 12/05/2022 Publicao: 16/05/2022 Deciso: UNNIME EMENTA HABEAS CORPUS - PEDIDO DE RECONHECIMENTO DE CAUSA DE EXTINO DE PUNIBILIDADE ESPECFICA PREVISTA NO ART. 346, 2, DO CDIGO PENAL MILITAR - SUPOSTA RETRATAO DE DEPOIMENTO CONSIDERADO FALSO - OCORRNCIA EM RELAO A UM DOS PACIENTES - RECONHECIMENTO POR JUZO ORIGINRIO - PERDA DE OBJETO EM RELAO AO PACIENTE QUE SE RETRATOU - INTERRUPO DE PROCEDIMENTO DE INVESTIGAO PENAL - VIABILIDADE DO PEDIDO EM SITUAES EXCEPCIONAIS - NO OCORRNCIA - ANLISE PROBATRIA - VIA ELEITA INADEQUADA - ORDEM DENEGADA. ACRDO Vistos, relatados e discutidos os presentes autos, sendo pacientes o Sd PM Lus Gustavo Rodrigues Barbosa de Souza e o Cb PM Thyago Ted Passos Pereira, impetrante/advogada Karla Sayonara Rocha da Costa e autoridade apontada como coatora a juza de direito titular da 3a Auditoria Judiciria Militar Estadual, acordam os desembargadores da Segunda Cmara, por unanimidade, em declarar a perda do objeto do presente habeas corpus em relao ao paciente Sd PM Gustavo Rodrigues Barbosa de Souza e, quanto ao Cb PM Thyago Ted Passos Pereira, em denegar o pedido de ordem de habeas corpus. RELATRIO A nobre advogada Karla Sayonara Rocha da Costa impetrou habeas corpus, com pedido liminar, com fundamento no artigo 5, LXVIII, da Constituio da Repblica e nos artigos 466, 470, 467, letra "h, do Cdigo de Processo Penal Militar, em favor do Soldado PM Lus Gustavo Rodrigues Barbosa de Souza e do Cb PM Thyago Ted Passos Pereira, com a pretenso de trancamento do Inqurito Policial Militar (IPM) de Portaria n. 106.569/2021 - 51 BPM/11 RPM, distribudo sob o nmero 2000842-81.2021.9.13.0003 (Evento 1). Disse que o procedimento investigativo foi instaurado para apurar suposto crime de falso-testemunho praticado pelos pacientes, que no informaram sobre a conduo e a evaso da testemunha Edivaldo. Afirmou que o Ministrio Pblico retornou os autos ao encarregado, pelo prazo de 30 dias, para que tais militares fossem reinquiridos e lhes fosse indagado se estes manifestam o interesse de retratar suas declaraes. Disse, mais, que os militares foram citados via intranet e compareceram ao quartel de Polcia Militar da 236a Cia na cidade de Porteirinha, onde, no dia 18/02/2022 (sexta-feira), os pacientes se retrataram, conforme consta no Evento 20 do Inqurito Policial n. 2000842-81.2021.9.13.0003.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar do Estado de Minas Gerais, por unanimidade, declarou a perda do objeto do habeas corpus em relação ao Soldado PM Lus Gustavo Rodrigues Barbosa de Souza e negou o pedido de ordem de habeas corpus em relação ao Cb PM Thyago Ted Passos Pereira, em razão da ocorrência de retratação de depoimento por parte dos pacientes.

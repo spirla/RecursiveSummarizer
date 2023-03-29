@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+312 A Lei Estadual 6.712/1975 teve os seus artigos 1 a 16 revogados pela Lei Estadual 14.310/2002 (CEDM). Tais artigos tratavam do devido processo legal do Conselho de Justificacao, que era o processo administrativo destinado a avaliar a convenincia da permanncia do oficial nas fileiras da IME. Tal processo foi substituido, com o advento do CEDM, pelo PAD. Outrossim, manteve-se em vigor as disposicoes referentes ao seu processamento perante o TJM-MG.
+313 Outra forma de decretacao da perda do posto e patente do oficial por decisao do tribunal competente dar-se-a em virtude de condenacao criminal, por meio do Processo para Declaracao de Indignidade/Incompatibilidade para o Oficialato. Nesse sentido, assim estabelece o Regimento Interno do TJM-MG: Artigo 204. O processo para declaracao da indignidade/incompatibilidade para o oficialato e o de perda da graduacao terao inicio com representacao do Ministerio Publico, apos condenacao criminal a pena privativa de liberdade superior a dois anos. (...) Artigo 205. Se o Tribunal julgar que o crime praticado pelo representado o incompatibiliza com o exercicio das funcoes nas instituicoes militares estaduais, decretara a perda do posto e da patente do oficial ou a perda da graduacao da praca, com a consequente demissao ou exclusao da Policia Militar ou do Corpo de Bombeiros Militar. 314 Aprovado pela Resolucao n 167, de 5/05/2016. 315 O artigo 2, VI, da Lei n. 6624/75 estabelece que compete a PMMG: exercer a policia judiciaria militar, relativamente aos crimes militares praticados por seus integrantes ou contra a instituicao policial-militar(...). Ja A Lei Complementar n. 54, de 13 de dezembro, de 1999, em seu artigo 3, IV, estabelece que compete ao CBMMG: exercer a policia judiciaria militar, relativamente aos crimes militares praticados por seus integrantes ou contra a instituicao (...).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei Estadual 6.712/1975 foi revogada pela Lei Estadual 14.310/2002 (CEDM), que instituiu o PAD para avaliar a conveniência da permanência do oficial nas fileiras da IME. A perda do posto e patente do oficial também pode ocorrer por meio do Processo para Declaração de Indignidade/Incompatibilidade para o Oficialato, conforme estabelecido no Regimento Interno do TJM-MG. A PMMG e o CBMMG têm a competência de exercer a polícia judiciária militar relativamente aos crimes militares praticados por seus integrantes ou contra a instituição.

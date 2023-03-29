@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+16 da Lei 7.347/1985 - RE 1101973/SP (Tema 1075 RG) Tese Fixada: I - E inconstitucional o art. 16 da Lei 7.347/1985, alterada pela Lei 9.494/1997. II - Em se tratando de acao civil publica de efeitos nacionais ou regionais, a competencia deve observar o art. 93, II, da Lei 8.078/1990. III - Ajuizadas multiplas acoes civis publicas de ambito nacional ou regional, firma-se a prevencao do juizo que primeiro conheceu de uma delas, para o julgamento de todas as demandas conexas . Resumo: E inconstitucional a delimitacao dos efeitos da sentenca proferida em sede de acao civil publica aos limites da competencia territorial de seu orgao prolator. Isso porque a alteracao do art. 16 da Lei 7.347/1985 promovida pela Lei 9.494/1997, fruto da conversao da MP 1.570/1997, veio na contramao do avanco institucional de protecao aos direitos metaindividuais e esbarra nos preceitos norteadores da tutela coletiva, bem como nos comandos pertinentes ao amplo acesso a Justica e a isonomia entre os jurisdicionados. Com efeito, com a edicao do Codigo de Defesa do Consumidor (CDC) - Lei 8.078/1990, cujo art. 90, somando-se ao art. 21 da Lei da Acao Civil Publica (LACP) - Lei 7.347/1985, estabeleceu-se a aplicacao mutua de ambas as normas e constitui-se verdadeiro microssistema processual coletivo. Nesse contexto, as Leis 7.347/1985 e 8.078/1990 seguiram o mesmo padrao de protecao dos direitos metaindividuais, e  em respeito a unidade da Constituicao, a maxima efetividade ou a eficiencia, e a justeza ou a conformidade funcional  nao e possivel compatibilizar a indevida restricao criada pelo art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I - É inconstitucional o art. 16 da Lei 7.347/1985, alterada pela Lei 9.494/1997. II - Em se tratando de ação civil pública de efeitos nacionais ou regionais, a competência deve observar o art. 93, II, da Lei 8.078/1990. III - Ajuizadas múltiplas ações civis públicas de âmbito nacional ou regional, firma-se a prevenção do juízo que primeiro conheceu de uma delas, para o julgamento de todas as demandas conexas.

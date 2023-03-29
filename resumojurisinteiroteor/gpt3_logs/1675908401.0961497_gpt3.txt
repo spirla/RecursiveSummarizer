@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Nesses casos, diante da natureza da fundamentao constante do juzo de admissibilidade, o procedimento adequado a ser adotado pela defesa do recorrente seria a interposio simultnea de agravo interno, previsto no artigo 1.030,  2, do CPC, para questionar o ponto da deciso que aplicou a sistemtica da repercusso geral, e de agravos em recursos especial e extraordinrio, este ltimo em relao  questo remanescente da deciso do Evento 63, conforme previsto no artigo 1.042 do CPC. A propsito, destaco o Enunciado 77, aprovado na I Jornada de Direito Processual Civil, realizada em agosto de 2017, pelo Conselho da Justia Federal (CJF): Para impugnar deciso que obsta trnsito a recurso excepcional e que contenha simultaneamente fundamento relacionado  sistemtica dos recursos repetitivos ou da repercusso geral (art. 1.030, I, do CPC) e fundamento relacionado  anlise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercusso geral e agravo em recurso especial/extraordinrio (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmisso por ausncia dos pressupostos recursais. Pelo que se observa nos autos, a defesa do recorrente interps, tempestivamente, nos Eventos 69 e 70, somente os agravos em recurso especial e extraordinrio, deixando de apresentar simultaneamente o agravo interno, para questionar o ponto da deciso que negou seguimento ao recurso e no aplicou a sistemtica de repercusso geral.  relevante frisar que a interposio do agravo em recurso extraordinrio contraria frontalmente o artigo 1.042 do CPC, que exclui a possibilidade de interposio deste recurso contra decises fundadas na aplicao de entendimento firmado em regime de repercusso geral ou em julgamento de recursos repetitivos, o que significa dizer que o agravo em recurso extraordinrio interposto  imprprio para a finalidade a que se destina, ante a existncia de expressa vedao legal para a situao concreta. No caso ora em anlise, a deciso que negou seguimento ao recurso extraordinrio (Evento 63) amparou-se em entendimentos jurisprudenciais do Supremo Tribunal Federal (STF), assentados sob os Temas 339, 660 e 990 de repercusso geral, o que afasta por completo a possibilidade de interposio de agravo, nos termos do dispe a parte final do artigo 1.042 do Cdigo de Processo Civil.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa do recorrente deve interpor simultaneamente agravo interno para questionar a deciso que aplicou a sistemtica da repercussão geral e agravo em recurso especial e extraordinrio para a questão remanescente da decisão. O agravo em recurso extraordinário é impróprio para a finalidade a que se destina, pois a decisão se amparou em entendimentos jurisprudenciais do STF assentados em Temas de Repercussão Geral.

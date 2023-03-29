@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+123 do Cdigo Penal Militar, verbis: [..] Em relao  espcie de prescrio, apesar de a pena abstratamente estabelecida ser inferior a 1 (um) ano, o caso demonstra a hiptese da prescrio da ao penal, na forma prevista no  1 do art. 125 do Cdigo Penal Militar, que excetua o rol de hipteses reguladas pelo mximo da pena privativa de liberdade abstratamente cominada ao crime. Conforme o disposto no  1 do art. 125 do Cdigo Penal Militar, sobrevindo sentena condenatria, de que somente o ru tenha recorrido, a prescrio passa a regular-se pela pena imposta, e deve ser logo declarada, sem prejuzo do andamento do recurso se, entre a ltima causa interruptiva do curso da prescrio ( 5) e a sentena, j decorreu tempo suficiente. Portanto, considerando que entre o recebimento da denncia e a sentena transcorreu prazo superior a 02 (dois) anos, considerando que ao militar foi imposta uma pena de 02 (dois) meses e 20 (vinte) dias, considerando que somente o militar recorreu da sentena, e considerando as disposies legais a respeito da matria,  foroso reconhecer a ocorrncia da prescrio, tal como formulada nas razes do apelo, como pedido primeiro do militar apelante [...]. Vencido o Desembargador Fernando Armando Ribeiro, que passou pela preliminar, com base nos seguintes fundamentos: Em vista do entendimento retroapresentado, a condenao prolatada pelo Conselho Permanente de Justia (rgo colegiado), em sesso pblica, na presena das partes, atinge o fim da persecuo penal, sendo estas, as partes presentes, consideradas como intimadas por esse ato processual. O acusado, finda a sesso de julgamento e apregoado seu resultado, tem cincia da condenao e da pena que lhe foi imposta. Essa deciso, aps apregoado o resultado, diga-se, no  passvel de alterao por parte de seus prolatores, salvo para correo de erro material ou em razo da oposio de eventuais embargos de declarao. Ressalte-se que, em se tratando de sentena penal condenatria, um dos efeitos da publicao  a interrupo da prescrio - instituto que tem a natureza jurdica de direito material, de acordo com a doutrina majoritria. [..] Lado outro, a audincia de leitura da sentena trata-se de ato processual que representa o termo inicial para o exerccio do direito de recorrer. Vale dizer, a audincia de leitura da sentena  o marco temporal para fins recursais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal reconheceu a prescrição da ação penal, com base no artigo 125, § 1º do Código Penal Militar, considerando que entre o recebimento da denúncia e a sentença transcorreu prazo superior a dois anos, e que somente o militar recorreu da sentença. A decisão foi fundamentada no entendimento de que a sentença condenatória, após ser apregoada, não é passível de alteração, e que a audiência de leitura da sentença representa o marco temporal para fins recursais.

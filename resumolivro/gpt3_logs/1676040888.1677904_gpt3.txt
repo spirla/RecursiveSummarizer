@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos crimes preterintencionais, tambm denominados preterdolosos, h dolo na violao da norma jurdica nos aspectos antecedentes  dinmica criminosa e culpa na produo de efeitos mais graves que lhes so consequentes. Se houver convergncia do elemento subjetivo para os aspectos antecedentes da conduta criminosa (por exemplo, ambos os concorrentes pretendam realizar leses corporais), caracterizar-se- o concurso de pessoas. No entanto, pelo resultado mais grave, que  produzido sem suporte em dolo, s responde aquele que houver causado tal dolo culposamente (artigo 34 do CPM). Dessa forma, mesmo reconhecendo a existncia de concurso de pessoas,  possvel que um dos participantes responda por leso corporal simples, e outro, por leso corporal seguida de morte. Exemplos aplicativos. Vejamos a aplicao da norma que descaracteriza o concurso de pessoas em alguns exemplos. Exemplo 1. O mandante A contrata o executor B para lesionar a vtima C. B, livre e conscientemente, resolve matar a vtima C, que efetivamente morre em decorrncia das agresses que lhe so desferidas. O exemplo pode ser identificado pela denominao de excesso de mandado. Veja-se a representao grfica para o caso:
+Havendo divergncia do elemento subjetivo, descaracteriza-se o concurso de pessoas e no se pode responsabilizar os concorrentes pelo mesmo crime. Cada participante responde por crime distinto, conforme o elemento subjetivo que orientou sua conduta: A por crime de leso corporal e B por crime de homicdio. Exemplo 2. O mandante A contrata o executor B para lesionar a vtima C. Muito embora o executor pretenda apenas causar leses corporais na vtima, esta, em consequncia das agresses, vem a morrer. O exemplo configura um resultado produzido por culpa, conforme a seguinte representao:
+Se o executor produz a morte por culpa, como o mandante e o executor no pretendiam a sua morte, havendo convergncia do elemento subjetivo, em ateno  teoria monista, A e B devem responder por leso corporal seguida de morte. Deve-se observar, entretanto, que tal soluo pressupe que, tanto para o mandante como para o executor, o resultado  previsvel, posto que, nos termos do artigo 34 do CPM, no se pode conceber uma responsabilidade objetiva pelo simples fato de ter ocorrido a morte da vtima. Exemplo 3. O mandante A contrata o executor B para matar a vtima C. B, livre e conscientemente, resolve apenas lesionar a vtima C, que efetivamente resta lesionada em decorrncia das agresses que lhe so desferidas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Nos crimes preterintencionais, também denominados preterdolosos, há dolo na violação da norma jurdica nos aspectos antecedentes da dinâmica criminosa e culpa na produção de efeitos mais graves que lhes são consequentes. Se houver convergência do elemento subjetivo para os aspectos antecedentes da conduta criminosa, caracteriza-se o concurso de pessoas. No entanto, pelo resultado mais grave produzido sem suporte em dolo, só responde aquele que causou tal dolo culposamente.

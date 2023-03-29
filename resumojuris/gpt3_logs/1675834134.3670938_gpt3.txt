@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Compete a Justica do Trabalho processar e julgar reclamacao trabalhista ajuizada por servidor admitido sem concurso publico e sob o regime celetista antes da CF/88, mesmo que haja cumulacao de pedidos referente ao periodo trabalhado sob o regime de contratacao temporaria. Na origem, trata-se de reclamacao trabalhista ajuizada, em 20/10/2020, contra o municipio, na qual a parte autora narrou que fora admitida em 23/01/1986, sob o regime da CLT, sem concurso publico. Foi dispensada, sem justa causa, em 31/03/2020, e recontratada no dia seguinte, em 01/04/2020, para a mesma funcao, com alteracao de regime juridico, na modalidade de prestacao temporaria de trabalho. Informou que continuou a exercer o mesmo trabalho, a partir de 01/04/2020, mas com grande reducao salarial, e que, apesar da dispensa sem justa causa, o Municipio reu nao realizou as devidas anotacoes de baixa na CTPS do reclamante, assim como tambem nao realizou nenhum pagamento de verbas rescisorias, tampouco recolheu o FGTS do autor . Requereu o pagamento de verbas rescisorias trabalhistas, ate 31/03/2020, sob regime da CLT, por entender configurada a rescisao indireta do contrato de trabalho, bem como o pagamento de diferencas salariais, a partir de abril de 2020, com a declaracao de nulidade do contrato de prestacao temporaria de servico, por prazo determinado e o pagamento de indenizacao por dano moral, em decorrencia da reducao remuneratoria, a partir de 01/04/2020. Cinge-se a controversia a definir a competencia para processar e julgar esta demanda. Sobre o tema, o STF definiu, em sede de repercussao geral, ser da competencia da Justica do Trabalho processar e julgar demandas visando a obter prestacoes de natureza trabalhista, ajuizadas contra orgaos da Administracao Publica por servidores que ingressaram em seus quadros, sem concurso publico, antes do advento da CF/88, sob regime da Consolidacao das Leis do Trabalho -CLT.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Compete à Justiça do Trabalho processar e julgar reclamações trabalhistas ajuizadas por servidores admitidos sem concurso público e sob o regime celetista antes da Constituição Federal de 1988. 2. É da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da Constituição Federal de 1988, sob regime da Consolidação das Leis do Trabalho.

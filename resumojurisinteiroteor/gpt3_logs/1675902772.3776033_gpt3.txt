@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+As mesmas informaes ainda se reportaram ao pedido da defesa, pela concesso da liberdade provisria do ru, ora paciente, o qual restou indeferido, contudo, na medida em que o CEJ, por maioria de 3 a 2, acatou o parecer contrrio apresentado pelo Ministrio Pblico, de ainda subsistir ofensa aos princpios de hierarquia e disciplina, pelo qual manteve a priso preventiva, tendo ficado vencidos o MM juiz presidente Andr de Mouro Motta e o juiz militar Maj PM Ricardo Amaral Rabelo, que votaram pela liberdade do ru. Com o parecer lanado no Evento 19, a eminente procuradora de justia que honra este Tribunal com a sua sempre firme atuao manifestou sua contrariedade com a deciso monocrtica que prolatei e que teria sido, segundo seu entendimento, grave equvoco, ao qual este juzo de 2 grau teria sido induzido, por meio de manipulao de provas em favor do paciente. Ao final, opinou pela denegao da ordem de habeas corpus e pelo restabelecimento da priso preventiva do Cb PM Guilherme Augusto Pires da Silva, nos moldes do que preceitua o artigo 255, alneas "a, c e e, do CPPM.  o que tinha a ser relatado. VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR PARA O ACRDO Extrai-se dos autos que o paciente, Guilherme Augusto Pires da Silva, foi condenado em primeira instncia  pena de 8 (oito) anos, 5 (cinco) meses e 10 (dez) dias de recluso, em regime inicial fechado, pela prtica dos crimes previstos no artigo 2,  4, inciso II, da Lei n. 12.850/2013 (Organizao Criminosa), no artigo 308,  1 (corrupo passiva) do Cdigo Penal Militar (CPM) c/c art. 71 do Cdigo Penal Comum, tendo lhe sido negado o direito de recorrer em liberdade (Evento 119 - Processo de Origem n. 2000536-12.2021.9.13.0004). Na oportunidade, o Juzo de primeira instncia deixou devidamente consignadas as razes que ensejaram a manuteno da priso processual do paciente, sob os seguintes termos: [...] O CEJ/PM, por maioria de votos, ante a gravidade dos fatos constante dos autos, decidiu no conceder ao ru a possibilidade de recorrer em liberdade, entendendo subsistir ofensa aos princpios da hierarquia e da disciplina, pelo qual mantm a priso preventiva. [...] (Evento 119 - Processo de Origem n. 2000536-12.2021.9.13.0004) Percebe-se, ento, que a deciso prolatada pelo Conselho Especial de Justia (CEJ/PM) se encontra fundamentada com base em elementos e circunstncias do caso concreto. Assim, ainda que a priso preventiva seja uma medida acautelatria a ser utilizada como ltima hiptese, a gravidade dos fatos e a proteo aos princpios da hierarquia e disciplina devem prevalecer sobre a liberdade individual do paciente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Especial de Justia (CEJ/PM), por maioria de votos, decidiu manter a prisão preventiva do paciente, Guilherme Augusto Pires da Silva, condenado em primeira instância por prática dos crimes previstos na Lei n. 12.850/2013 e no Código Penal Militar, por entender que a gravidade dos fatos e a proteção aos princípios da hierarquia e disciplina devem prevalecer sobre a liberdade individual do paciente.

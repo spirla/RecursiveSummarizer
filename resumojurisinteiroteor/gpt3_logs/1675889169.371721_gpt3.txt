@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Por fora desse dispositivo, entende-se que a deciso de mrito em favor da parte prejudicada pelo ato processual defeituoso afasta a convenincia de se proclamar a nulidade. [...] Na mesma linha, a despeito da presena de nulidade arguida pela defesa (v.g., inpcia da pea acusatria), se o juiz constatar que  possvel, desde logo, absolver o acusado, deve se abster de declarar a invalidao do ato defeituoso, proferindo, ento, sentena absolutria. Nesse contexto, como observa Paulo Rangel, "se a nulidade for vantajosa ao ru, ou seja, se no lhe trouxer prejuzo, mas sim vantagem, porm o feito estiver suficientemente maduro para uma apreciao de mrito pelo tribunal com provimento do recurso, h de aplicar-se a teoria da causa madura. O que significa dizer: o tribunal, em vez de declarar nulo o processo (ou sentena), absolve, desde logo, o acusado, adotando os princpios da economia e da celeridade processual e do favor libertatis. Assim, adotamos a teria da causa madura, pois, em vez de o tribunal anular o processo, mesmo que com vantagem ao ru, melhor ser a absolvio em face de o recurso encontrar-se suficientemente instrudo [...] (Manual de Processo Penal: volume nico - 8. ed. rev., ampl. e atual. - Salvador: Ed. JusPodium, 2020, p. 1.710/1.711) Colaciono, ainda, precedentes dos Tribunais de Justia de Minas Gerais e do Rio Grande do Sul: EMENTA: APELAO CRIMINAL - CRIME DE HOMICDIO CULPOSO - PREJUDICIALIDADE DA PRELIMINAR DE NULIDADE DA AUDINCIA DE INSTRUO E JULGAMENTO - MRITO DECIDIDO A FAVOR DO RECORRENTE - INTELIGNCIA DO ART. 282, 2, DO CPC - NEGLIGNCIA MDICA - AUTORIA NO COMPROVADA DE FORMA SUFICIENTE - MANUTENO DA ABSOLVIO. De acordo com o disposto no 2 do art. 282 do CPC, quando o juiz puder decidir o mrito a favor da parte a quem aproveite a declarao da nulidade, ele no a pronunciar nem mandar repetir o ato, ou suprir-lhe a falta. Imperiosa  a aplicao do princpio "in dubio pro reo" nos casos em que no h provas suficientes para a condenao, mantendo-se a sentena absolutria. (TJMG - Apelao Criminal 1.0024.10.285180-5/001, Relator(a): Des.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A decisão judicial entende que, em caso de nulidade processual arguida pela defesa, se o juiz puder decidir o mérito a favor do prejudicado, não declarará a nulidade, mas proferirá sentença absolutória, aplicando-se o princípio "in dubio pro reo" nos casos em que não houver provas suficientes para a condenação.

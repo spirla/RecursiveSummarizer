@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os reflexos desta mais recente orientao dogmtica tambm se fazem sentir especialmente na teoria da imputao objetiva e da culpabilidade, que desafiam interpretar o sentido da conduta examinada e o sentido da norma proibitiva. O conceito de crime no modelo significativo se mantm estruturado para identificar na conduta suas caractersticas fundamentais. Contudo, Vives Antn prope uma reordenao conceitual de tais caractersticas segundo a relao que estabelece entre a norma e a ao. Partindo de uma pretenso de validez genrica da norma Vives concebe os elementos da teoria do crime como formas de expresso da referida pretenso, subdividindo-as em pretenso de relevncia (tipo de ao), pretenso de ilicitude (antijuridicidade ou ilicitude) e pretenso de reprovao (culpabilidade). Aps a caracterizao do crime, por meio de seus elementos fundamentais, Vives Antn trabalha com a pretenso de necessidade da pena, na qual rene todos os institutos que podem afastar a punio no caso concreto. Pretenso de relevncia (Tipo de ao). Desconstruindo as bases objetivas (causalismo) e subjetivas (finalismo) dos sistemas ontolgicos concebidos conforme as premissas da racionalidade cognitiva, Vives Antn elabora a sua teoria do crime a partir da noo de tipo de ao. O tipo de ao, como primeira referncia conceitual da teoria do crime, expressa a pretenso de relevncia da norma penal que identifica o comportamento como de interesse do Direito Penal. Para definir o contedo do tipo de ao, Vives retoma criticamente os conceitos de Tatbestand e Leitbild formulados por Beling, bem como os desenvolvimentos dogmticos posteriores do tipo para, distinguindo o tipo de ao da figura reitora, reconstruir o conceito de tipo de ao como uma regulao de sentido da prpria ao, que a identifica como pertencente  classe das aes que, por sua vez, so identificadas como relevantes para o Direito Penal. Nesse sentido, sua construo para o tipo de ao se aproxima do sentido prprio do tatbestand, que expressa um pensamento tipolgico, e no um conceito classificatrio fechado. No sistema de Vives Antn, a ao (e tambm a omisso), o nexo de causalidade e o resultado (leso ao bem jurdico) integram o contedo de sentido do tipo de ao. O tipo de ao pressupe a existncia de uma conduta natural  qual ser atribudo o sentido que a qualifica como relevante.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Vives Antn propõe uma reordenação conceitual dos elementos da teoria do crime segundo a relação entre a norma e a ação. O conceito de tipo de ação, como primeira referência conceitual da teoria do crime, expressa a pretenção de relevância da norma penal que identifica o comportamento como de interesse do Direito Penal. A ação, o nexo de causalidade e o resultado integram o conteúdo de sentido do tipo de ação.

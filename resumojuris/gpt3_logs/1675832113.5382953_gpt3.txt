@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+110,  1, da Lei n. 6.880/1980 exige a configuracao da invalidez para o servico militar e civil. A Lei n. 7.670/88, ao incluir, em seu art. 1, I, c, a SIDA/AIDS como uma das doencas que ensejam a reforma pelo art. 108, V, da Lei n. 6.880/1980, nao estabeleceu, para a hipotese, qualquer tratamento diferenciado, em relacao as demais molestias, no que diz respeito a remuneracao do militar. Aliado a isso, em relacao a outras doencas, igualmente enumeradas no art. 108, V, da Lei n. 6.880/1980, o Superior Tribunal de Justica tem proclamado a necessidade de configuracao da invalidez para a aplicacao do art. 110,  1, da Lei n. 6.880/1980, o que nao poderia ser diferente para a SIDA/AIDS. Sendo assim, nao ha como aplicar a jurisprudencia do STJ, firmada nos aludidos EREsp 670.744/RJ, neste ponto e na hipotese, por exigir o art. 110,  1, da Lei n. 6.880/1980 - antes ou depois da Lei n. 13.954/2019 -, alem da incapacidade definitiva para o servico ativo das Forcas Armadas, a invalidez, para que o militar, portador do virus HIV, independentemente do grau de desenvolvimento da doenca, seja reformado com soldo correspondente ao grau hierarquico imediatamente superior ao que possuia na ativa. (Informativo n. 736) 20 PROCESSO REsp 1.878.849-TO, Rel. Min. Manoel Erhardt (Desembargador Convocado do TRF da 5 regiao), Primeira Secao, por unanimidade, julgado em 24/02/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 7.670/88 incluiu a SIDA/AIDS como uma das doenças que ensejam a reforma pelo art. 108, V, da Lei n. 6.880/1980, sem estabelecer tratamento diferenciado em relação às demais molestias. 2. O Superior Tribunal de Justiça tem proclamado a necessidade de configuração da invalidez para a aplicação do art. 110, 1, da Lei n. 6.880/1980, o que também se aplica à SIDA/AIDS. 3. Para que o militar portador do vírus HIV seja reformado com soldo correspondente ao grau hierárquico imediatamente superior ao que possuía na ativa, é necessário que haja a configuração da invalidez, independentemente do grau de desenvolvimento da doença.

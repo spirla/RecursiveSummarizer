@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Estas "nulidades de algibeira deram origem a esta ao porque foram descobertas a destempo, em momento inoportuno, ou por serem de pouco interesse ao processo administrativo disciplinar, j que estavam sendo apreciadas na justia comum em ao direcionada a questionar os mecanismos de segurana bancria. Estas incongruncias perifricas contidas na inicial desta ao, que ora analisamos, deveriam ter sido questionadas durante a fase de instruo do processo administrativo-disciplinar. A defesa teve tempo e oportunidade para faz-lo, contudo, superada esta fase do processo, estas alegaes foram levantadas em sede de alegaes finais e, no havendo mais modo de inseri-las como argumento defensivo na primeira ao, abriu-se esta nova demanda, Pelo que se percebe nestes autos, muito embora no exista uma total identidade na causa de pedir desta segunda ao com a primeira j julgada, a moldura ftico-jurdica desta segunda ao  muito prxima da primeira; as duas se completam. Ainda que se argumente a inexistncia de total identidade entre esta ao e a precedente, o fato  que em ambas as aes se busca o mesmo resultado prtico, a configurar o bis in idem tpico da litispendncia, qual seja, a nulidade do PAD de Portaria n. 100.405/18-CPM e o desentranhamento de provas emprestadas ilcitas, provenientes de processo judicial. Neste contexto, colaciono ementa do STF: AGRAVO REGIMENTAL EM MANDADO DE SEGURANA PREVENTIVO - DENEGAO DA SEGURANA - VIGSIMO QUARTO CONCURSO PARA PROCURADOR DA REPBLICA - CANDIDATO SUB JUDICE - NOMEAO E POSSE IMEDIATAS - ESCOLHA DE LOTAO - IMPOSSIBILIDADE DE BIS IN IDEM - LITISPENDNCIA ENTRE O MANDAMUS E A AO ORDINRIA EM CURSO PERANTE A 15a VARA FEDERAL DO DISTRITO FEDERAL, RELATIVAMENTE  QUAL OBTEVE O IMPETRANTE, A SEU FAVOR, UMA ANTECIPAO DE TUTELA RECURSAL, EM SEDE DE AGRAVO DE INSTRUMENTO, NO TRIBUNAL REGIONAL FEDERAL DA 1a REGIO, O QUE LHE PERMITIU SEGUIR NO CERTAME AT A SUA APROVAO FINAL. AGRAVO REGIMENTAL NO PROVIDO. 1 - Ante a sua aprovao no concurso e ciente de seu direito encontrar-se sub judice, o autor impetra o presente mandamus, sob a alegao de possuir direito lquido e certo de ser nomeado e empossado juntamente com os demais aprovados. No obstante, em verdade, o objeto do presente mandado de segurana, como bem pontuado na deciso agravada, decorre, do pronunciamento judicial contido na ao ordinria. Dos fatos narrados, verifica-se que houve alterao da moldura ftico-jurdica do objeto das demandas e dos pedidos que impulsionaram a interposio da ao ordinria e a impetrao do mandado de segurana, mas, na verdade, uma decorre logicamente da outra.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao ordinria e o mandado de segurana tm moldura ftico-jurdica prxima, buscando o mesmo resultado prtico, configurando o bis in idem tpico da litispendncia. O STF negou o agravo regimental, pois houve alterao da moldura ftico-jurdica do objeto das demandas, mas uma decorre logicamente da outra.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No ponto, cabe trazer excerto da deciso do STJ (RHC 77.692/BA):
+Vige no sistema processual penal o princpio da lealdade, da boa-f objetiva e da cooperao entre os sujeitos processuais, no sendo lcito  parte arguir vcio para o qual concorreu em sua produo, sob pena de se violar o princpio de que ningum pode se beneficiar da prpria torpeza - nemo auditur propriam turpitudinem allegans. O que se entende por formalidade cuja observncia s  parte contrria interessa? Quem no pode alegar nulidade por faltar interesse? Quem tenha dado causa ou concorrido para ela. Ex. :
+ausente o Ministrio Pblico  audincia de inquirio de testemunhas de acusao, no cabe  defesa (parte contrria) alegar nulidade de seu exclusivo interesse. Assim julgou o STF (RHC 97.182):
+A voluntria ausncia do representante do Ministrio Pblico em parte da sesso de julgamento no gera, s por si, a nulidade dos atos nela realizados, especialmente se, de tal ausncia, no resultar qualquer prejuzo ao ru, eis que este no pode invocar, como causa de invalidao processual, nulidade, que, se existente, derivaria de exigncia formal cuja observncia interessa, unicamente,  parte contrria, que  o rgo da acusao penal (CPPM, artigo 501, parte final). O princpio do interesse no se aplica s nulidades absolutas porque o interesse em reconhecer a nulidade absoluta  pblico. 17.4.4. Princpio da convalidao. Convalidar tem o significado de remover o defeito, remediar a falha, sanear o vcio, a fim de que o ato processual inicialmente imperfeito possa ser considerado apto a produzir efeitos legais inerentes ao ato perfeito.  um desdobramento dos princpios da economia processual e da instrumentalidade das formas. A convalidao do ato processual viciado ocorre nas nulidades relativas quando no arguidas em tempo oportuno.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ e o STF entendem que o princípio da lealdade, da boa-fé objetiva e da cooperação entre os sujeitos processuais deve ser respeitado, não sendo permitido alegar vícios para os quais se contribuiu. O princípio do interesse não se aplica às nulidades absolutas, pois o interesse em reconhecer a nulidade absoluta é público. A convalidação do ato processual viciado ocorre nas nulidades relativas quando não arguidas em tempo oportuno.

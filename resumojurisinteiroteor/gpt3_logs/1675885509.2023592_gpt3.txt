@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O ilustre representante do Ministrio Pblico manifestou-se pela no interveno no feito por entender que no h interesse social, coletivo ou individual indisponvel que justifique a sua interveno (Evento 15 - MANI1). O meritssimo juiz de direito substituto da 5a AJME - Cvel julgou procedente o pedido da inicial, para o fim de decretar a nulidade do ato de demisso oriundo do PAD de Portaria n. 116.389/2014 - 4a RPM, de 29 de agosto de 2014, por reconhecer a sua nulidade, por ofensa ao princpio da legalidade. Determinou a reintegrao do autor ao servio ativo da Polcia Militar, a partir do dia 24/02/2016, data em que foi publicada a deciso do Governador do Estado de Minas Gerais, no Minas Gerais, n. 34 - Evento 2, COP11, pg. 63, com os direitos retroativos pertinentes, devidamente apurados em fase de cumprimento de sentena. Atribuiu custas ao Estado de Minas Gerais, ficando este isento do pagamento, consoante disposto no inciso I do artigo 10 da Lei n. 14.939, de 29 de dezembro de 2003, e honorrios advocatcios, que fixou em R$ 3.500,00 (trs mil e quinhentos reais), nos termos dos 2 e 3 do art. 85 do CPC (Evento 18 - SENT1). O Estado de Minas Gerais apelou. Sustentou que qualquer fato tpico praticado por militar no amparado por excludentes de culpabilidade ou ilicitude devem necessariamente resultar na demisso do servidor, aps regular processo administrativo-disciplinar. Afirmou que  incontroverso o cometimento do crime de homicdio pelo autor, segundo consta nas provas carreadas aos autos; que houve intensa repercusso miditica (vide itens 1.10.6, 1.11.10, 1.13.06 do Evento 2 - Cop 11); que o depoimento de Gisele Viana Fernandes (Evento 2 - Cop 11 - fl. 334 - itens 1.11 a 1.11.10) deixa claro no se tratar de evento sbito e, muito menos, involuntrio. Salientou que chama ateno no ter sido contemplada, no decisrio ora atacado, a concluso contida no laudo pericial da Junta Central de Sade da PMMG de que "O periciado no evidencia doena mental alienante e nem invalidade.  imputvel. (Evento n. 10 - Laudo21), porquanto a ausncia de laudo pericial foi razo de cassao da sentena (Evento n. 9 - Acor18 e Evento n. 9 Desp19). Alegou que o autor no logrou xito em demonstrar qualquer causa de justificao e que, diante de fato e autoria incontroversas de um crime praticado por militar e sua irrefutvel repercusso miditica, no restam dvidas quanto ao acerto da capitulao e do juzo proferido pela Administrao Militar, que, em momento algum, furtou os direitos do autor ao contraditrio e  ampla defesa. Registrou que a sentena primeva se limitou a indicar suposta ilegalidade por ausncia de razoabilidade, no acolhendo qualquer outra tese de violao s garantias constitucionais do devido processo legal, contraditrio e ampla defesa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito decretou a nulidade do ato de demissão do autor, determinou a reintegração ao serviço ativo da Polícia Militar, com direitos retroativos, e atribuiu custas ao Estado de Minas Gerais e honorários advocatícios. O Estado de Minas Gerais apelou, alegando que o autor cometeu crime de homicídio e que não houve violação às garantias constitucionais de devido processo legal, contraditório e ampla defesa.

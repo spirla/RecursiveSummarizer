@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ao final, o Ministrio Pblico pugnou pelo conhecimento do recurso e que seja mantida a condenao do apelante, com a decretao de extino da punibilidade em relao aos crimes de prevaricao e violao de sigilo funcional em razo da prescrio da pretenso punitiva.. A eminente Procuradora de Justia oficiante neste Tribunal, em lcido e preciso parecer, opinou pela rejeio das preliminares arguidas pela defesa. No mrito, opinou pelo desprovimento do recurso, mantendo-se integralmente a deciso de Primeira Instncia que condenou o ex-Cb PM Paulo Srgio Cruz nas sanes dos arts. 319 e 326 do CPM.  o relatrio. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Recebo o recurso, uma vez que presentes os requisitos necessrios para sua admissibilidade. Percebe-se dos autos que o ex-Cb PM Paulo Srgio Cruz foi condenado a uma pena de 2 (dois) ano e 6 (seis) meses de deteno, em regime aberto, por ter cometido os crimes contidos nos arts. 319 (prevaricao) e 326 (violao de sigilo funcional) do Cdigo Penal Militar (CPM). Pois bem. Preliminarmente, a defesa do ex-militar arguiu a prescrio retroativa da pretenso punitiva do Estado, alegando que entre a data do fato que se atribui ao acusado - 28 de fevereiro de 2014, e a data do recebimento da denncia - 18.06.2018, decorreram 4 anos, 3 meses e 21 dias. Em que pese o Ministrio Pblico de primeiro grau ter corroborado com tal alegao, em sede de contrarrazes de apelo, entendo que melhor sorte no assiste ao recorrente. Isso porque na lei processual penal militar no se computa, aps a sentena condenatria, prazo prescricional anterior  data da instaurao do processo. Nesse sentido, trago  colao trecho do lcido e preciso parecer da eminente Procuradora de Justia: [...] a exemplo da alterao do artigo 110,  1, do Cdigo Penal, introduzida pela Lei n 12.234/2010, a lei processual penal militar nunca contou com essa espcie de prescrio, no se computando, aps a sentena condenatria, prazo prescricional anterior  data da instaurao do processo. Assim, o nico lapso temporal a ser calculado at o momento nos presentes autos  o compreendido entre o recebimento da denncia e a prolao da sentena condenatria recorrvel, nos termos do artigo 125,  5, do CPM. (g.n.) Conforme se extrai dos autos, o apelante foi condenado s penas de um 1 (um) ano de deteno pelo crime de prevaricao e de 1 (um) ano e 6 (seis) meses de deteno pelo delito de violao de sigilo funcional (Evento 78). Sendo assim, a prescrio se opera em 4 anos, conforme dispe o art. 125, inciso VI, do CPM. Tendo a denncia sido recebida em 18/06/2018 (Evento 4 - rece_denun19) e a sentena sido prolatada em 13/07/2021 (Evento 78), transcorreram menos de 4 anos entre os dois supracitados marcos interruptivos da prescrio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso do ex-Cb PM Paulo Srgio Cruz foi recebido, uma vez que presentes os requisitos para sua admissibilidade. A defesa arguiu a prescrio retroativa da pretenso punitiva do Estado, contudo, não foi acolhida, pois no se computa, aps a sentena condenatria, prazo prescricional anterior data da instaurao do processo. O recurso foi desprovido, mantendo-se a condenação do apelante pelos crimes de prevaricação e violação de sigilo funcional.

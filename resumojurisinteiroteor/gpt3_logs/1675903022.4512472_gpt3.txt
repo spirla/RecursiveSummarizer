@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em suas razes recursais, o agravante reitera os argumentos apresentados no recurso extraordinrio, alegando que, entre as causas de pedir da Ao Rescisria, o agravante advogou a tese constitucional de ofensa  coisa julgada parcial e progressiva (art. 5, XXXVI, da CF/88 e art. 966, IV, do CPC), por ter sido revisitado, de ofcio, sem qualquer impugnao do Estado de Minas Gerais, captulo da sentena que determinou a reintegrao do agravante s fileiras da PMMG da qual fazia parte, tendo em vista que o nico recurso pendente de anlise foi movido por ele prprio, apenas para interpretar a improcedncia do pedido de dano moral. Diz que o acrdo do Pleno do TJMMG negou provimento  pretenso rescisria entabulada e que, na ocasio, o relator enfrentou a respectiva causa de pedir, sustentando, em sntese, que: [...] A defesa do autor peticionou requerendo o cumprimento de sentena de ttulo definitivo e parte incontroversa em relao  reintegrao, tendo o magistrado a quo indeferido o pedido, em face da apresentao das razes do recurso de apelao ofertadas pelo autor e erroneamente pelo ru, o que afasta de forma inequvoca a alegao da defesa de formao da coisa julgada, no que tange ao acolhimento parcial do pedido, na forma do artigo 487, inciso I, do CPC, que anulou a pena de demisso do autor do CBMMG e determinou a sua reintegrao. [...] no houve violao  coisa julgada em relao  deciso do magistrado a quo de anulao da sano demissionria e determinao de reintegrao do autor, quando ele indeferiu a petio da defesa requerendo o cumprimento de sentena de ttulo definitivo. Se havia recurso de apelao interposto, os autos teriam que subir para a segunda instncia. Inconformado com a deciso de inadmissibilidade do recurso, o agravante vem demonstrar, segundo seu entendimento, o equvoco na negativa de seguimento ao recurso extraordinrio. Argumenta que, embora o Tema 660 do STF impea discusses constitucionais abstratas que passem pela anlise infraconstitucional, o caso em tela  de manifesta violao da jurisprudncia dominante daquele tribunal (aplicao da teoria dos captulos da sentena e coisa julgada parcial e progressiva), que, inclusive, se no observada, coloca em risco o direito fundamental  segurana jurdica. Aduz que, entretanto, o instituto no foi aplicado pela 2a Cmara Cvel e pelo Pleno do TJMMG, que afirmam no ser possvel defender a existncia de coisa julgada parcial e progressiva do captulo da sentena referente  reintegrao do agravante, mesmo sem impugnao da parte contrria, se estava pendente a anlise de sua apelao sobre o pedido de dano moral. Alega o agravante que a deciso proferida pelo Pleno do TJMMG est, no mrito, confrontando a jurisprudncia consolidada do STF.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O agravante alega que houve violao coisa julgada parcial e progressiva, pois foi revisitado, de ofcio, um captulo da sentena que determinou a reintegrao do agravante s fileiras da PMMG, sem qualquer impugnao do Estado de Minas Gerais. A deciso proferida pelo Pleno do TJMMG estaria confrontando a jurisprudncia consolidada do STF.

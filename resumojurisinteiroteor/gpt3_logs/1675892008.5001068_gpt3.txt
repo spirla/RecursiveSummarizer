@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Na configurao do crime de falso testemunho, o douto desembargador do egrgio Tribunal de Justia de So Paulo e renomado autor Guilherme de Sousa Nucci1, ao discorrer sobre os aspectos objetivos, destaca os verbos integrantes do tipo e a relevncia do teor do fato falseado, in verbis: (...omissis...) As condutas possveis so as seguintes: fazer afirmao falsa (mentir ou narrar fato no correspondente  verdade): negar a verdade (no reconhecer a existncia de algo verdadeiro ou recusar-se a admitir a realidade); calar a verdade (silenciar ou no contar a realidade dos fatos). A diferena fundamental entre negar a verdade e calar a verdade  que a primeira conduta leva a pessoa a contraria a verdade, embora sem afirmao (ex. : indagado pelo juiz se presenciou o acidente, como outras testemunhas afirmaram ter ocorrido, o sujeito nega), enquanto a segunda conduta faz com que a pessoa se recuse a responder (ex. o magistrado faz perguntas  testemunha, que fica em silncio ou fala que no responder).  essencial que o fato falso (afirmado, negado ou silenciado) seja juridicamente relevante, isto , de alguma forma seja levado em considerao pelo delegado ou juiz para qualquer finalidade til ao inqurito ou ao processo, pois, do contrrio, tratar-se-ia de autntica hiptese de crime impossvel. Se o sujeito afirma fato falso, mas absolutamente irrelevante para o deslinde da causa, por ter-se vlido de meio absolutamente ineficaz, no tem qualquer possibilidade de lesar o bem jurdico protegido, que  a escorreita administrao da Justia. Defendendo ser indispensvel a potencialidade lesiva  administrao da justia: STF: HC 69.047-RJ, 1a T., rel. Seplveda Pertence, 10.03.1992, v.u., DJ 24.04.1992, p. 5.377. (...omissis...) Para se configurar o delito de falso testemunho, teramos que ter como verdadeiro o fato de a ameaa ter sido realizada pelo Sd PM Mattedi e, ainda, ter o apelado dito  Cb PM Alessandra Pazini Peron sobre tal ameaa para que, nos autos do Inqurito Policial Militar, o apelado tenha-se calado sobre a verdade. Dos autos, no foi possvel afirmar que o Sd PM Gustavo Deivid Paiva Mattedi tenha ameaado a Cb PM Alessandra Pazini Peron por ela estar indo at a sua residncia ou prximo dela. Mesmo porque o relato  de que o Sd PM estava dizendo palavras genricas, direcionadas ao grupo ou a qualquer um. Sendo assim, no foi provado que o fato sobre o qual o apelado supostamente teria negado a verdade - se presenciou ou no a suposta ameaa - tenha de fato acontecido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia de So Paulo concluiu que não foi possível afirmar que o fato alegado de ameaça tenha ocorrido, pois o relato era de palavras genéricas direcionadas ao grupo ou a qualquer um, e não foi provado que o fato sobre o qual o apelado supostamente teria negado a verdade tenha de fato acontecido.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Instrucao Normativa RFB n. 971/2009. Instrucao Normativa RFB n. 1.863/2018. Decreto 6.003/2006, art. 2. Decreto n. 3.142/1999, art. 2,  1. SUMULAS Sumula n. 7/STJ Processo AgInt no REsp 1.925.113-AC, Rel. Ministro Humberto Martins, Segunda Turma, por unanimidade, julgado em 28/11/2022, DJe 30/11/2022. Ramo do Direito DIREITO TRIBUTARIO, DIREITO EMPRESARIAL Tema Execucao fiscal. Fechamento de filial. Subsistencia da pessoa juridica. Dissolucao irregular.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Instrução Normativa RFB n. 971/2009 e a Instrução Normativa RFB n. 1.863/2018 regulamentam a execução fiscal. 2. O Decreto 6.003/2006, art. 2, estabelece que a dissolução irregular não impede a subsistência da pessoa jurídica. 3. O Decreto n. 3.142/1999, art. 2, prevê a possibilidade de fechamento de filial. 4. Segundo a Sumula n. 7/STJ, o processo agint no REsp 1.925.113-AC foi julgado em 28/11/2022, por unanimidade, pela Segunda Turma.

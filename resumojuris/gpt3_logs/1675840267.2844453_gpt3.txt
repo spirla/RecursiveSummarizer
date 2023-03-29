@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Uso de imagens de documentos federais para induzir a vitima em erro. Inexistencia de prejuizo a interesses, servicos ou bens da Uniao. Conflito conhecido para declarar a competencia da Justica Estadual. Crime praticado mediante deposito bancario. Superveniencia da Lei n. 14.155/2021. Competencia do juizo do domicilio da vitima. DESTAQUE A competencia para o julgamento do crime de estelionato, ainda que se tenha se utilizado de imagens digitais adulteradas de passaporte valido de terceiro e documentos emitidos por orgao publicos federais, quando inexistente evidencia de prejuizo a interesses, bens ou servicos da Uniao, e da Justica Estadual, devendo ser respeitada a regra de foro do domicilio da vitima no caso de o crime ser praticado mediante deposito, transferencia de valores ou cheque sem provisao de fundos em poder do sacado ou com o pagamento frustrado. No caso, a vitima direta do estelionato foi pessoa juridica sediada em territorio estrangeiro e a obtencao da vantagem ilicita se deu em outro territorio que nao seja o brasileiro e distinto daquele. Para a pratica do delito, os criminosos se fizeram passar por agentes de empresa brasileira sediada em unidade desta federacao. Nao ha noticia sobre a autoria delitiva ou mesmo a nacionalidade dos eventuais autores, tampouco onde teriam sido praticados os atos executorios, sendo que quase todos foram realizados por meios eletronicos. 710 Embora o estelionatario tenha se utilizado de imagens digitais adulteradas de passaporte valido de terceiro e documentos emitidos por orgao publicos federais para, induzindo a vitima em erro, receber deposito de valores em conta corrente no exterior, inexiste evidencia de prejuizo a interesses, bens ou servicos da Uniao, pois nao houve falsificacao de passaporte, como informou a propria Policia Federal, mas, sim, a remessa, por meio eletronico, de uma imagem de adulterada de documento valido, com a finalidade de enganar o destinatario.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência para o julgamento do crime de estelionato, ainda que se tenha se utilizado de imagens digitais adulteradas de passaporte válido de terceiro e documentos emitidos por órgão públicos federais, deve ser respeitada a regra de foro do domicilio da vítima no caso de o crime ser praticado mediante depósito, transferência de valores ou cheque sem provisão de fundos em poder do sacado ou com o pagamento frustrado. 2. Quando inexistente evidência de prejuízo a interesses, bens ou serviços da União, a competência para o julgamento do crime de estelionato é da Justiça Estadual. 3. A superveniência da Lei n. 14.155/2021 não altera a competência para o julgamento do crime de estelionato.

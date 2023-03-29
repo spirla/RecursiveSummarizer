@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+150 Nesse mesmo sentido, o PDE 2030 apresenta a reducao da participacao de termeletricas a diesel e oleo combustivel por combustiveis que emitam menos GEE, como o gas natural ou outros combustiveis renovaveis, bem como medidas para se aumentar a eficiencia energetica dos meios de geracao de energia, transporte e processos industriais . Segundo a Nota Informativa n 00050/2021/DPE/SPE, o valor do CVU corresponde ao valor a ser pago pela energia gerada, dai a necessidade de limitar o CVU das participantes com o objetivo de garantir a modicidade tarifaria. Com efeito, a participacao das usinas operadas pela impetrante implicara elevado custo final na tarifa de energia eletrica a ser paga pela coletividade, em direcao oposta ao interesse publico. Se assim fosse, de acordo com a Nota Informativa n. 70/2021/DPE/SPE, elaborada pelo MME, o consumidor teria de pagar 65,8% mais caro pela energia gerada do que o limite inicialmente estabelecido nas diretrizes do Poder Concedente, sem contar que o afastamento do limite do CVU de R$ 600,00/MWh, traria custo adicional ao consumidor de energia eletrica da ordem de R$ 22,6 bilhoes durante os 15 anos de contrato.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O PDE 2030 apresenta a redução da participação de termelétricas a diesel e óleo combustível por combustíveis que emitem menos GEE, como o gás natural ou outros combustíveis renováveis. 2. O valor do CVU corresponde ao valor a ser pago pela energia gerada, devendo ser limitado para garantir a modicidade tarifária. 3. A participação das usinas operadas pela impetrante implicaria elevado custo final na tarifa de energia elétrica a ser paga pela coletividade, contrariando o interesse público. 4. Se afastado do limite do CVU de R$ 600,00/MWh, traria custo adicional ao consumidor de energia elétrica da ordem de R$ 22,6 bilhões durante os 15 anos de contrato.

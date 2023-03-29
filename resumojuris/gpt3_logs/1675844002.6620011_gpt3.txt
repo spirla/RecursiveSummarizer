@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Incidencia da majorante referente a continuidade delitiva. Natureza juridica. Carater permanente ou instantaneo. Pratica de multiplas condutas. Acao continua. Nao incidencia da majorante. DESTAQUE E hipotese de crime permanente, a conduta tipificada no art. 2 da Lei n. 8.176/1991, na modalidade de usurpacao por exploracao de materias-primas pertencentes a Uniao, enquanto verificada a pratica de multiplas condutas visando a extracao do bem mineral, sem evidencia de que o agente ativo intencionalmente cessou a atividade extrativa. A controversia suscitada no presente recurso cinge-se a natureza do crime tipificado no art. 2 da Lei n. 8.176/1991: se e delito permanente (cuja consumacao se protrai no tempo) ou instantaneo, de forma que a reiteracao da conduta (nas condicoes previstas no art. 71 do CP) pode da azo a incidencia da majorante referente a continuidade delitiva. A diferenca entre o crime instantaneo e o permanente estabelece-se a partir do lapso temporal em que verificada a consumacao delitiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O crime tipificado no art. 2 da Lei n. 8.176/1991 é de natureza jurídica permanente ou instantânea. 2. A reiteração da conduta prevista no art. 71 do CP pode dar azo à incidência da majorante referente à continuidade delitiva. 3. A diferença entre o crime instantâneo e o permanente estabelece-se a partir do lapso temporal em que verificada a consumação delitiva.

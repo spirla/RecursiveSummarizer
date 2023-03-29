@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Gilmar Mendes, julgamento em 18.12.2020 (INF 1003) 7.3 FUNDO DE GARANTIA POR TEMPO DE SERVICO (FGTS) Correcao monetaria de saldo de FGTS referente ao Plano Collor II  ARE 1288550/PR (Tema 1112 RG) Tese fixada: Inexiste direito adquirido a diferenca de correcao monetaria dos saldos das contas vinculadas ao FGTS referente ao Plano Collor II (fevereiro de 1991), conforme entendimento firmado no RE 226.855, o qual nao foi superado pelo julgamento do RE 611.503 (Tema 360). Resumo: Nao ha direito adquirido a incidencia de correcao monetaria nas contas vinculadas ao FGTS pelo IPC de fevereiro/1991 (relativo ao Plano Collor II). A jurisprudencia do STF fixou-se no sentido de que a correcao das contas do FGTS no mes de fevereiro de 1991 deve ser feita com base na MP 294/1991 (convertida na Lei 8.177/1991), vigente naquela data e que alterou o criterio de atualizacao de BTN para TR. Ademais, ao julgar o RE 611.503 (Tema 360 da RG), a Corte nao adentrou na questao acerca dos expurgos inflacionarios decorrentes dos planos economicos, limitando-se a declarar a compatibilidade do paragrafo unico do art. 741 do CPC com o art. 5, XXXVI, da CF/88. Com base nesse entendimento, o Plenario, por unanimidade, apreciando o Tema 1112 da repercussao geral, negou provimento ao recurso extraordinario. ARE 1288550/PR, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 13.12.2021 (segunda-feira), as 23:59 (INF 1041) 7.4 TERCEIRIZACAO Terceirizacao de atividades e equiparacao remuneratoria - RE 635546/MG (Tema 383 RG) Tese Fixada: A equiparacao de remuneracao entre empregados da empresa tomadora de servicos e empregados da empresa contratada (terceirizada) fere o principio da livre iniciativa, por se tratarem de agentes economicos distintos, que nao podem estar sujeitos a decisoes empresariais que nao sao suas .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Inexiste direito adquirido a diferença de correção monetária dos saldos das contas vinculadas ao FGTS referente ao Plano Collor II. 2. A correção das contas do FGTS no mês de fevereiro de 1991 deve ser feita com base na MP 294/1991 (convertida na Lei 8.177/1991), vigente naquela data e que alterou o critério de atualização de BTN para TR. 3. A equiparação de remuneração entre empregados da empresa tomadora de serviços e empregados da empresa contratada (terceirizada) fere o princípio da livre iniciativa, por se tratarem de agentes econômicos distintos, que não podem estar sujeitos a decisões empresariais que não são suas.

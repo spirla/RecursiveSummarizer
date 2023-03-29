@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+As decises que encerram o processo com julgamento de mrito se dividem em:
+a) definitivas estricto sensu, de absolvio e de condenao (nota:
+contra as quais cabe apelao, de acordo com o artigo 526, a, do CPPM);
+e b) definitivas lato sensu ou com fora de definitiva (tambm chamadas de interlocutrias mistas ou terminativas de mrito), por exemplo, as que extinguem a punibilidade, concedem perdo judicial e as proferidas em habeas corpus ou reviso criminal. As decises que encerram o processo sem julgamento de mrito so as terminativas ou com fora de definitivas (exemplos:
+rejeio da denncia, reconhecimento de coisa julgada, ausncia de uma condio da ao). Por outro lado, h decises que no encerram o processo quando decidem o mrito de questes incidentes, e so interlocutrias mistas ou com fora de definitivas (exemplos:
+suspenso condicional da pena, livramento condicional, unificao da pena, prorrogao da medida de segurana). Ainda dentro desta categoria de decises que no encerram o processo esto as que decidem questes incidentes de natureza processual, que so as interlocutrias simples (exemplo:
+rejeio de exceo de coisa julgada). Tourinho Filho distingue decises definitivas das decises com fora de definitivas. As decises definitivas encerram a relao processual, julgam o mrito, mas no se subsumem na moldura das sentenas absolutrias ou condenatrias, de sorte que se, para essas decises, no for previsto o recurso em sentido estrito, oponvel ser a apelao. As decises com fora de definitivas, no sentir de Tourinho Filho, so denominadas de interlocutrias mistas, as quais encerram a relao processual, sem julgamento de mrito, (aqui o autor classifica a deciso de interlocutria mista terminativa) ou, ento, pem termo a uma etapa do procedimento (diz ele ser interlocutria mista no terminativa).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Decisões que encerram o processo com julgamento de mérito são definitivas estrito sensu, de absolvição ou condenação, e definitivas lato sensu ou com força de definitiva. Decisões que encerram o processo sem julgamento de mérito são terminativas ou com força de definitivas. Decisões que não encerram o processo são interlocutórias mistas ou com força de definitivas, ou interlocutórias simples.

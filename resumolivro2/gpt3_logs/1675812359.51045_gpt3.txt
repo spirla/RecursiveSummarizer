@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O prazo para recorrer em sentido estrito  o de trs dias (artigo 518, CPPM) e para apelar  de cinco dias (artigo 529, CPPM).  previsto recurso em sentido estrito no CPPM para questionar deciso de incompetncia da Justia Militar, logo, no  cabvel apelao. Tambm impede a aplicao do princpio da fungibilidade a ausncia de divergncia jurisprudencial sobre o recurso cabvel, ou, quando sanada pela jurisprudncia a divergncia que havia sobre qual recurso cabvel para impugnar a deciso. Todavia, o mero equvoco na indicao do meio de impugnao escolhido para atacar a deciso no deve implicar necessariamente a inadmissibilidade do recurso. Como exemplo, decidiu o STJ com base no princpio da fungibilidade pelo conhecimento do recurso em sentido estrito da apelao erroneamente interposta contra deciso que julgou inepta a denncia, com a condio de que, constatada a ausncia de m-f, tenha sido observado o prazo legal para a interposio daquele recurso e desde que o erro no tenha gerado prejuzo  parte recorrida no que tange ao processamento do recurso. A doutrina recomenda aplicao do princpio da fungibilidade s aes autnomas de impugnao, por haver muita semelhana entre o habeas corpus e o mandado de segurana, guardadas suas diferenas, possuem a mesma natureza de aes constitucionais e trmite procedimental muito semelhante, de rito expedito, que visam garantir direitos fundamentais do indivduo. 18.1.3.2. Princpio da unirrecorribilidade. Para cada deciso  previsto determinado recurso. No se pode fazer uso de mais de um recurso para impugnar a mesma deciso. O artigo 526, pargrafo nico, do CPPM, impe que, quando cabvel a apelao, no poder ser usado o recurso em sentido estrito, ainda que somente de parte da deciso se recorra. Por exemplo, ru  acusado de dois delitos;
+o juiz o condena por um deles (cabe apelao) e declara extinta punibilidade do outro crime (cabe recurso em sentido estrito nos termos do artigo 516, j, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CPPM prevê recurso em sentido estrito para questionar decisões de incompetência da Justiça Militar. O prazo para recorrer é de três dias e para apelar de cinco dias. O princípio da fungibilidade permite a aplicação de um recurso para impugnar a decisão, desde que o erro não tenha gerado prejuízo à parte recorrida. O princípio da unirrecorribilidade impede que mais de um recurso seja usado para impugnar a mesma decisão.

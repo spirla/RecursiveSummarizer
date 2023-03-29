@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+467 do CPPM), bem como o entendimento j assentado em nossos tribunais superiores. Destaco: Ementa: AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME SOCIETRIO. INPCIA DA DENNCIA. INOCORRNCIA. DESNECESSIDADE DE INDIVIDUALIZAO PORMENORIZADA DAS CONDUTAS DE CADA INDICIADO. AUSNCIA DOS REQUISITOS AUTORIZADORES DO EXCEPCIONAL TRANCAMENTO DA AO PENAL. INVIABILIDADE NA ESPCIE DA ANLISE DA ALEGADA ATIPICIDADE: NECESSIDADE DE INCURSO NOS FATOS E PROVAS DA CAUSA. AUSNCIA DE MANIFESTA VIOLNCIA OU COAO ILEGAL AO DIREITO DE LOCOMOO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - As razes do agravo regimental no se mostram aptas a infirmar os fundamentos que lastrearam a deciso agravada. II - "Este Supremo Tribunal Federal sufraga o entendimento no sentido de que nos crimes societrios,  prescindvel que conste da denncia a descrio minuciosa de cada acusado, mostrando-se consentneo com os postulados do contraditrio e da ampla defesa que se exponha o vnculo dos acusados com a sociedade comercial e que se narre as condutas delituosas de forma a possibilitar o exerccio do direito de defesa (HC 149.328-AgR/SP, Rel. Min. Luiz Fux). III - O trancamento da ao penal, em habeas corpus, constitui medida excepcional que s deve ser aplicada nos casos (i) de manifesta atipicidade da conduta; (ii) de presena de causa de extino da punibilidade do paciente; ou (iii) de ausncia de indcios mnimos de autoria e materialidade delitivas, o que no ocorre na situao sob exame, sendo nesse sentido o entendimento unssono desta Suprema Corte. IV - A anlise da conduta do acusado constitui matria probatria que deve ser apreciada pelo juiz natural da causa no curso da ao penal, no se afigurando razovel, nesse momento processual, afastar de plano a responsabilidade do paciente. V - A jurisprudncia desta Corte, de resto, em diversas oportunidades, assentou o entendimento de que no se pode substituir o processo de conhecimento pela via excepcional do habeas corpus, o qual se presta, precipuamente, para afastar a manifesta violncia ou coao ilegal ao direito de locomoo. Nesse sentido, entre outros, cito os seguintes precedentes: HC 85.636/PI, de relatoria do Ministro Carlos Velloso; HC 85.953/RS e HC 86.249/SP, de relatoria do Ministro Ayres Britto; HC 86.731/PE, de relatoria do Ministro Marco Aurlio; RHC 86.534/MG, de relatoria do Ministro Eros Grau; e HC 86.042/RS, de relatoria do Ministro Joaquim Barbosa. VI - Agravo regimental a que se nega provimento.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Agravo Regimental foi negado, pois não houve manifesta atipicidade da conduta, presença de causa de extinção da punibilidade do paciente ou ausência de indícios mínimos de autoria e materialidade delitiva. A análise da conduta do acusado deve ser apreciada pelo juiz natural da causa no curso da ação penal, não sendo razoável afastar de plano a responsabilidade do paciente.

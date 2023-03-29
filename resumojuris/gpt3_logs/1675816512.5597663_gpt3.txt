@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 4662/SP, relator Ministro Dias Toffoli, julgamento virtual finalizado em 15.8.2022 (segunda-feira), as 23:59 (INF 1063) Extincao da pena de prisao disciplinar de policiais e bombeiros militares - ADI 6595/DF Resumo: E inconstitucional lei federal, de iniciativa parlamentar, que veda medida privativa e restritiva de liberdade a policiais e bombeiros militares dos estados, dos territorios e do Distrito Federal. Na linha da jurisprudencia do Supremo Tribunal Federal, compete ao chefe do Poder Executivo lo-cal a iniciativa de lei que disponha sobre o regime juridico de servidores militares estaduais e distritais, por forca do principio da simetria. No caso, a norma impugnada resultou da aprovacao do Projeto de Lei 7.645/2014, de autoria parla-mentar. Dessa forma, ainda que se entendesse que ela dispoe sobre normas gerais, de competencia da Uniao, ha um incontornavel vicio de inconstitucionalidade formal. A lei combatida tambem padece de inconstitucionalidade material. Nao obstante as policias militares e os corpos de bombeiros militares dos entes federados subordinem-se aos governadores, constituem forcas auxiliares e reserva do Exercito, sendo responsaveis, em conjunto com as policias de natureza civil, e portando armas letais, pela preservacao da ordem publica e da incolumidade das pessoas e do patrimonio. Nesse contexto, os servidores militares estaduais e distritais submetem-se a um regime juridico dife-renciado, motivo pelo qual a propria Constituicao, expressamente, autoriza a prisao por determinacao de seus superiores hierarquicos no caso de transgressao das regras e nao lhes assegura sequer o habeas corpus em relacao as punicoes disciplinares. Com base nesses entendimentos, o Plenario, por unanimidade, julgou procedente a acao direta para declarar a inconstitucionalidade formal e material da Lei federal 13.967/2019.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional lei federal, de iniciativa parlamentar, que veda medida privativa e restritiva de liberdade a policiais e bombeiros militares dos estados, dos territórios e do Distrito Federal. 2. Compete ao chefe do Poder Executivo local a iniciativa de lei que disponha sobre o regime jurídico de servidores militares estaduais e distritais, por força do princípio da simetria. 3. A lei combatida também padece de inconstitucionalidade material. 4. Os servidores militares estaduais e distritais submetem-se a um regime jurídico diferenciado, motivo pelo qual a própria Constituição, expressamente, autoriza a prisão por determinação de seus superiores hierárquicos no caso de transgressão das regras e não lhes assegura sequer o habeas corpus em relação às punições disciplinares. 5. O Plenário, por unanimidade, julgou procedente a ação direta para declarar a inconstitucionalidade formal e material da Lei federal 13.967/2019.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Conforme a regra do artigo 76 da Lei 9.099/95, a aplicao imediata de pena  instituto que se viabiliza por iniciativa do Ministrio Pblico, estando, assim, reservada aos crimes perseguidos por ao penal de iniciativa pblica. O dispositivo legal no se refere aos casos de ao privada, deixando a impresso de que no pode ser formulada proposta pelo ofendido. Embora sejam poucos os crimes de pequeno potencial ofensivo cuja ao penal seja privada,84 nesses casos, no conseguindo realizar a composio civil dos danos, caberia ao ofendido oferecer, ou no, a queixa. Tradicionalmente entendeu-se que o nico interesse do ofendido na promoo da ao penal seria assegurar a indenizao dos danos causados pelo crime, que se torna certa com a condenao criminal, nos termos do artigo 91, I, do CP. Nesse sentido, no se tem admitido o recurso do assistente de acusao para agravar a pena de uma condenao j conseguida em primeiro grau de jurisdio. O interesse do ofendido j estaria satisfeito com a condenao, no haveria razo para permitir seu esforo em agravar a pena do condenado. No entanto, a Comisso Nacional de Interpretao da Lei 9.099/95,85 reunida na cidade de Belo Horizonte, em 28 de outubro de 1995, publicou como dcima primeira concluso de seu trabalho que o disposto no artigo 76 abrange os casos de ao penal privada. Com as novas perspectivas que se abriram para a considerao da vtima no processo penal, muitos sustentam que o interesse desta no se restringe  reparao civil, alcanando tambm a punio penal. Argumenta-se at que, se a vtima pode o mais (que  oferecer a queixa para conseguir uma condenao plena ou perdoar, extinguindo a punibilidade), tambm poderia o menos (que seria transacionar uma pena menos severa). O tema ganhou novo ingrediente quando a Lei 9.714, de 25 de novembro de 1998, inseriu no Cdigo Penal as penas restritivas de direito de prestao pecuniria e de prestao de outra natureza, ambas podendo ser aplicadas em favor da vtima. Nessas hipteses, parece que realmente existe lcito interesse da vtima na aplicao da pena, pois essas modalidades beneficiam-lhe diretamente. Mas no se pode esquecer que, em momento anterior  proposta de aplicao imediata de pena, a fase preliminar oferece a oportunidade para a conciliao civil entre o suposto autor do fato e a vtima.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.099/95 (artigo 76) prevê a aplicação imediata de pena, de iniciativa do Ministério Público, para crimes perseguidos por ação penal de iniciativa pública. Entretanto, para os crimes de pequeno potencial ofensivo cuja ação penal é privada, caberia ao ofendido oferecer ou não a queixa. A Lei 9.714/98 trouxe novas perspectivas para a consideração da vítima no processo penal, pois prevê penas restritivas de direito de prestação pecuniária e de prestação de outra natureza, que beneficiam diretamente a vítima.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+19.1.5.14.Habeas corpus e nulidade do processo
+As causas de nulidade esto previstas no art. 500 do CPPM . De conformidade com o art. 468, alnea c , do CPPM poder ser concedido habeas corpus , no obstante ter havido sentena condenatria  quando o processo for manifestamente nulo  e, ainda, afigura-se abuso de poder e ilegalidade  quando o processo estiver evidentemente nulo  (art. 467, alnea i , CPPM ). Os advrbios manifestamente e evidentemente exigem certeza da nulidade. A ilegalidade de sentena condenatria eivada de nulidade, ainda que transitada em julgado,  corrigvel por meio de habeas corpus . Ponto importante: se houver necessidade de exame aprofundado da prova o meio de impugnao adequado  a reviso criminal. 19.1.5.15.Habeas corpus e ilicitude da prova
+ cabvel o writ para se obter o reconhecimento de ilicitude da prova, desde que no haja necessidade de dilao probatria, a prova pr-constituda deve demonstrar a ilicitude no meio de obteno da prova, uma vez que so inadmissveis, no processo, as provas obtidas por meio ilcito (art. 5, LVI , CF ). Admite-se o habeas corpus para desentranhar prova considerada ilcita ou para anular o processo em razo da formao ilcita da prova, sempre que possa advir condenao a pena privativa de liberdade. O STF em sede habeas corpus enfrentou a alegao de ilicitude da prova colhida com violao de domiclio (RHC 86.082/RS) e a doutrina dos frutos da rvore envenenada (RHC 90.376/RJ). O STJ, por sua vez, tratou da ilicitude da prova obtida por meio de interceptao telefnica ilegal (HC 64.096/PR, HC 41.615-MG) e da ilicitude da prova em decorrncia da incompetncia do juzo (HC 49.179-RS).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O habeas corpus pode ser concedido quando o processo for manifestamente nulo ou houver abuso de poder e ilegalidade. É possível obter o reconhecimento de ilicitude da prova por meio do habeas corpus, desde que não seja necessário exame aprofundado da prova. O STF e o STJ já trataram de casos de ilicitude da prova obtida por meio de violação de domicílio, interceptação telefônica ilegal e incompetência do juízo.

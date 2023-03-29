@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Veja-se o exemplo em que o indivduo, no local de trabalho, pensa, erroneamente, que est sob perigo de incndio (estado de necessidade putativo). Visando a salvar-se, o indivduo arromba a porta de escritrio alheio e por ele passa para empreender fuga. Por mais que o erro seja grosseiro, no haver responsabilidade porque no h previso legal para o dano culposo ou a violao de domiclio culposa. Se fosse acolhida a teoria extremada da culpabilidade, todos os casos em que o erro incidisse sobre uma causa excludente de ilicitude seriam resolvidos com base nos parmetros do erro de proibio. Nesse caso, no seria possvel excluir-se a tipicidade da conduta quando o erro fosse vencvel e no houvesse previso para o crime culposo. Haveria diminuio de pena para o crime doloso que foi reconhecido como praticado. Certamente, a opo pela teoria limitada da culpabilidade  mais favorvel ao ru. O exemplo clssico do erro de tipo permissivo diz respeito ao indivduo que, acreditando estar diante de agresso iminente por parte de um desafeto que leva a mo ao bolso interno do palet, reage com o disparo de arma de fogo. O indivduo erra quanto  iminncia de uma agresso, que  pressuposto ftico da legtima defesa, j que o desafeto buscava apenas uma carteira de documentos, e no uma arma. De acordo com a teoria limitada da culpabilidade adotada pelo Cdigo Penal brasileiro, tratando-se de erro invencvel, a conduta do atirador no poder caracterizar crime doloso ou culposo. No entanto, caso se trate de erro vencvel, a culpa subsiste, e se o desafeto vier a morrer em decorrncia do disparo, o sujeito deve responder por homicdio culposo. A vontade de matar para se defender, quando tal finalidade de defesa decorre de equivocada interpretao da realidade, por imposio legal  caracterizadora da culpa. Se a morte for evitada por circunstncias alheias  vontade do atirador, caracterizar-se- o crime de leses corporais culposas. No h que se pensar em tentativa de crime culposo, pois a prpria definio de tais institutos evidencia a absoluta incompatibilidade de conciliar-se a tentativa com os crimes culposos. No se pode tentar realizar o que no se quer realizar. O artigo 36, pargrafo 1, do CPM determina que no haver iseno de pena quando o erro deriva de culpa (for evitvel) e o fato for punido como crime culposo. Isso significa que o tipo a ser reconhecido  sempre um tipo culposo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O indivíduo, acreditando estar em perigo de incêndio, arromba a porta de um escritório alheio para se salvar. No entanto, não haverá responsabilidade pois não há previsão legal para crime culposo. Se for acolhida a teoria limitada da culpabilidade, o erro invencível não caracterizará crime doloso ou culposo. Se o erro for vencível e resultar em morte, o sujeito responderá por homicídio culposo. Se a morte for evitada, responderá por lesões corporais culposas.

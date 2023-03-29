@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A causa de diminuio no define qualquer crime e apenas interfere na dosimetria da pena a ser aplicada. J a noo de tipo (crime) derivado somente  pertinente quando se observa a concepo de outro tipo penal incriminador. No caso especfico do pargrafo 1 do artigo 121 do CP, a prpria lei indica tratar-se de causa de diminuio de pena. No h motivos para qualquer confuso. Os tipos simples ainda podem apresentar derivaes quando o legislador concebe determinado crime pela aglutinao de outros crimes. O crime que se apresenta resultante da aglutinao de dois ou mais crimes  denominado pela doutrina de crime complexo. O artigo 101 do CP, ao tratar da ao penal, traz a definio do que devemos entender por crime complexo. Segundo o dispositivo, o crime complexo  aquele em que a lei considera como elemento ou circunstncias do tipo legal fatos que, por si mesmos, constituem crimes. Dessa forma, o crime complexo resulta da conjugao em um nico tipo penal incriminador de fatos que, por si mesmos, constituem crimes. O crime complexo  crime nico e autnomo em relao aos crimes que o compem e pode-se dizer que tambm representa uma derivao dos crimes identificados como elementos ou circunstncias que o integram. O crime de roubo, previsto no artigo 157 do CP, constitui bom exemplo de crime complexo. O legislador, ao definir o roubo, combinou em sua descrio tpica a conduta de subtrair coisa alheia mvel, que caracteriza o crime de furto (artigo 155), com o emprego de grave ameaa, que por si s  crime (artigo 147), ou, alternativamente, que ordinariamente leva  caracterizao do crime de leses corporais (artigo 129) com o emprego de violncia. 23.7.2. Tipo fechado e tipo aberto. A doutrina costuma classificar os tipos penais incriminadores em tipos fechados e tipos abertos para indicar o grau de preciso que a descrio tpica pode oferecer. Os tipos fechados seriam aqueles em que a descrio tpica  to precisa que no h espao para que o operador do Direito faa qualquer esforo interpretativo ou de integrao do preceito incriminador. Como exemplo de tipo fechado, temos o que descreve o crime de furto - artigo 155 do CP -, segundo o qual  crime a conduta de subtrair, para si ou para outrem, coisa alheia mvel. Muito embora, no mbito do Direito Civil o conceito de coisa mvel seja um pouco diverso da noo vulgar, para fins de direito penal a ideia de mobilidade da coisa no absorve as alteraes do Direito Civil e  facilmente perceptvel ao cidado comum.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A causa de diminuio de pena não define um crime, mas interfere na dosimetria da pena a ser aplicada. O tipo (crime) derivado é pertinente quando se observa a concepção de outro tipo penal incriminador. O artigo 101 do CP define o crime complexo como aqueles em que a lei considera como elemento ou circunstância do tipo legal fatos que, por si mesmos, constituem crimes. O crime de roubo é um exemplo de crime complexo. A doutrina classifica os tipos penais incriminadores em tipos fechados e abertos, dependendo do grau de precisão da descrição típica.

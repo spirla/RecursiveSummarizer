@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Como pode ser constatada? Certos comportamentos, omisses ou desdia do profissional indicam haver deficincia de defesa:
+a perda de prazo sem justificativa, inrcia na atividade probatria, omisso em recorrer quando h medida prevista em lei para impugnar deciso que prejudica o acusado e a falta de empenho no pedido de absolvio. A doutrina enfatiza que a total omisso verificada em audincia, quando nenhuma pergunta sequer  endereada  testemunha ou ao ru, em seu interrogatrio, o desprezo em alegar nulidade em favor do acusado, a adoo, sem maior aprofundamento, de chaves como aquele que se limite a pedir justia ao juiz, constituem-se em manifestaes evidentes de uma defesa meramente formal. O STJ negou a ordem de habeas corpus em que se alegava nulidade por deficincia na defesa dos rus porque no houve demonstrao de prejuzo sofrido em processo que teve curso na Justia Militar:
+I - A deficincia na defesa do ru  nulidade relativa (Smula 523/STF), cujo reconhecimento depende da efetiva demonstrao do prejuzo sofrido pelo acusado em decorrncia da m atuao de seu defensor. II - O simples fato de o defensor dos acusados ter deixado de praticar atos meramente facultativos s partes, tais como o requerimento de diligncias e o arrolamento de testemunhas, no enseja, necessariamente, a nulidade do processo, se no restou demonstrado real prejuzo sofrido.(... )IV - Verificando-se que o defensor esteve presente durante toda a instruo criminal, participando efetivamente da inquirio das supostas vtimas e testemunhas da acusao;
+negando a ocorrncia dos fatos e sustentando a falta de provas em Plenrio, bem como interpondo recurso de apelao contra deciso condenatria dos rus, no h que se falar em nulidade do processo. A nomeao de defensor dativo ou pblico em razo da ausncia injustificada na audincia de instruo ou na sesso de julgamento do defensor constitudo, regulamente intimado, no  causa de nulidade do processo, segundo entendimento do STF (HC 110.820/ES) e do STJ (HC 230.513/RJ).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ negou a ordem de habeas corpus em que se alegava nulidade por deficiência na defesa dos réus, pois não houve demonstração de prejuízo sofrido. A doutrina enfatiza que a omissão total na audiência, a falta de empenho no pedido de absolvição e a adesão a chaves simplistas são manifestações de uma defesa meramente formal. A nomeação de defensor dativo ou público não causa nulidade do processo, segundo o entendimento do STF e do STJ.

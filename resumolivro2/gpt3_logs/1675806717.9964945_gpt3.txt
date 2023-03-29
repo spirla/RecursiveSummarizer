@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na dade inclua-se o tradutor, pois, os documentos em lngua estrangeira sero traduzidos para a nacional, por tradutor pblico ou por tradutor nomeado pelo juiz, sob compromisso (CPPM, artigo 298, pargrafo 2). Os peritos, intrpretes e tradutores so auxiliares do juiz dotados de conhecimentos tcnicos ou cientficos. So de livre escolha do juiz, sem interveno das partes (artigo 47, CPPM), nomeados, de preferncia, segundo dispe o artigo 48 do CPPM, dentre os oficiais da ativa atendida a especialidade. Quanto  capacidade tcnica do nomeado  recomendvel o nomeado ser portador de diploma de curso superior na rea especfica, dentre as que tiverem habilitao tcnica relacionada com a natureza do exame, ou seja, deve ser pessoa detentora de certos conhecimentos tcnicos ou cientficos que realiza o exame pericial. Esses peritos, intrpretes e tradutores nomeados prestam o compromisso legal de bem e fielmente desempenhar a funo com obedincia  disciplina judiciria e de responder aos quesitos propostos pelo juiz e pelas partes (artigo 48, pargrafo nico, CPPM). Precedente do STJ firmou tratar-se de mera irregularidade a ausncia de termo de compromisso. Alm disso, o artigo 139 do CPPM estabelece que peritos e intrpretes (e tradutores) podem ser impugnados pelas partes se no preencherem os requisitos de capacidade tcnico-profissional para as percias que, pela sua natureza, os exijam, nos termos dos artigos 52, letra c, e 318. Trata-se de impugnao por incapacidade funcional. So impedidos os que no tiverem habilitao ou idoneidade para o seu desempenho (artigo 52, c, CPPM), porque a nomeao deve recair sobre os que so especializados no assunto ou com habilitao tcnica, observados o disposto no artigo 48 (artigo 318, CPPM). O encargo de perito, tradutor ou intrprete no pode ser recusado, salvo motivo relevante que o nomeado justificar para apreciao do juiz (artigo 49, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os documentos em língua estrangeira devem ser traduzidos por tradutor público ou nomeado pelo juiz, sob compromisso. O juiz pode escolher livremente o nomeado, desde que este possua conhecimentos técnicos ou científicos. O nomeado deve prestar compromisso legal de desempenhar a função com obediência à disciplina judiciária. É permitida a impugnação por incapacidade funcional. O encargo de perito, tradutor ou intérprete não pode ser recusado, salvo motivo relevante.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Eu fui na viatura, mas em momento algum eles me algemaram, no falou que eu estava preso nem nada disso, s falou que eu tinha que acompanhar eles porque eu falei com eles depois que eu era promoter do evento, eles me perguntaram se eu conhecia os meninos e eu disse que s de vista. Depois do barreiro ns fomos para outro lugar, ns ficamos um tempo l, os meninos saram, ficou s eu e o Fbio a depois ficou o Washington e o Lo comigo. A depois ficamos parados um tempo e fomos para outra regio que parece a regio do floresta, depois fomos para o Per e depois para o posto e eles falaram que eu seria testemunha por tudo que eu tinha visto, eu fui liberado no CEFLAN [...] perguntado se o Lo foi liberado. respondeu que, sim. Perguntado se ele pagou alguma coisa, respondeu que, no sabe [...] o Washington s falou que ia ter que assinar um revlver, mas no falou se era dele ou no e ele foi preso [.] No mesmo sentido, as testemunhas militares que integravam a guarnio naquele dia, Cb PM Leandro Tadeu Moura Reis e Cb PM Clayton Caldeira de Souza Melo, confirmaram os diversos deslocamentos realizados pela viatura envolvendo a mesma ocorrncia (Evento 12, vdeo 5 e Evento 13, vdeo 5). Cb PM Leandro Tadeu Moura Reis - motorista da guarnio no dia dos fatos. Evento 12, udio/vdeo 05/06/07/08 [...] eu era o motorista e fiquei na segurana da viatura. Perguntado se viu os militares abordando as pessoas. tentando abrir um veculo Jetta. respondeu que, no, eu fiquei mais afastado [...] Perguntado quantas pessoas foram presas e quantas ficaram no compartimento fechado da viatura. respondeu que. eu no lembro. Perguntado se viu onde foram encontradas as armas. respondeu que. no viu. Perguntado se viu as armas. respondeu que. s por foto que no dia no. Perguntado se viu dinheiro.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Testemunhas militares confirmaram os deslocamentos realizados pela viatura no dia dos fatos, incluindo a abordagem de pessoas e a tentativa de abrir um veículo Jetta. O motorista da guarnição não viu as armas ou o dinheiro, apenas por foto.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Embora no ocorra a descriminalizao da conduta, se a lei posterior, de qualquer forma, beneficiar quem realiza a conduta, dever ser aplicada retroativamente. A identificao da lei mais benfica no se opera levando em conta somente a quantidade da pena cominada no tipo incriminador ou pela descriminalizao da conduta, mas sim o conjunto de fatores que possam alterar a situao jurdica do acusado/condenado. Portanto,  mais benfica a lei que exige condies para o exerccio do direito de ao, que institui circunstncias atenuantes ou causas de diminuio, que reduz os prazos de prescrio, que estabelece novas causas de justificao, que estabelece novos benefcios que evitem ou diminuam a carcerizao ou qualquer outra forma de interveno na esfera dos direitos do condenado. 3.2.3. Ultratividade benfica. A possibilidade de aplicao de dispositivos de uma lei quando esta no mais estiver em vigor denomina-se ultratividade.  o que acontece quando o julgador utiliza os dispositivos da lei em vigor na data da ocorrncia do crime, apesar de no mais estarem em vigor na data do julgamento. A ultratividade deve ocorrer porque a lei posterior agrava a situao do sujeito e a proibio de retroatividade prejudicial (in pejus) veda a aplicao da lei nova, ao mesmo tempo que impe a aplicao dos dispositivos da lei anterior. A lei aplicvel  a que estava em vigor quando da realizao da conduta punvel, no se podendo aceitar a ultratividade para aplicar dispositivos legais que estiveram em vigor antes da realizao da conduta punvel. A regra  determinada pelo princpio do tempus regit actum, e no se pode invocar a aplicao de lei cuja vigncia  anterior ao crime. A Constituio no dispe de maneira expressa sobre a possibilidade de ultratividade da lei penal. No entanto, a garantia constitucional de que a lei penal no retroagir, salvo para beneficiar o ru, determina, de maneira implcita, a ultratividade da lei que beneficie quem pratica o crime. Se a lei posterior mais gravosa no puder ser aplicada, o crime deve continuar a ser submetido aos dispositivos da lei vigente ao tempo de sua prtica. 3.2.4. Sucesso de leis nos crimes continuados e permanentes. O problema da sucesso de leis no se verifica nos casos em que se caracteriza crime continuado ou crime permanente, sendo que a lei posterior mais gravosa deve ser aplicada ao fato.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A lei aplicável é aquela vigente na data da realização da conduta punível, não sendo possível invocar a aplicação de lei cuja vigência seja anterior ao crime. A ultratividade deve ocorrer quando a lei posterior beneficia o réu, sendo que nos casos de crimes continuados ou permanentes, a lei posterior mais gravosa deve ser aplicada.

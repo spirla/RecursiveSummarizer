@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na lio de Antonio Magalhes Gomes Filho o compartilhamento ou o emprstimo de provas - a denominada circolazione probatria do direito italiano - significa a possibilidade de utilizar, num determinado processo, os elementos de convico formados em procedimento diverso e autnomo. Lembra que no mbito da persecuo penal, no Brasil as legislaes contemporneas tm dado especial ateno  coordenao das atividades de apurao dessas infraes, como a incluso, dentre os meios de obteno de provas, da cooperao entre instituies e rgos federais, distritais, estaduais e municipais na busca de provas e informaes de interesse da investigao ou da instruo criminal (artigo 3., VIII, da Lei 12.850/2013). A autorizao judicial para o compartilhamento depende da espcie de prova.  o que ocorre no caso em que foi decretado sigilo judicial (na investigao ou no processo) e naquelas relativas  interceptao telefnica, que somente pode ser decretada no juzo criminal. O compartilhamento dessa prova depende da autorizao desse juzo e da observncia de todas as garantias (incluindo o sigilo) pelo outro juzo. 14.2.17. Gravao de imagens captadas por cmera de segurana. A instalao de cmeras de segurana em ambientes pblicos, como lojas de comrcios, reparties e prdios pblicos, lado externo de residncias e at em vias pblicas, decorre da violncia urbana, buscam prevenir delitos, mas eventualmente podem captar imagens que envolvam possvel fato delituoso e, neste caso, a imagem gravada fornece ao juiz elementos para a reconstruo dos fatos.  natural acusao e defesa pugnarem pela autenticidade ou no da gravao, a pretexto de manipulao e alterao da imagem e o udio com insero ou retirada de dados, de imagem ou de udio. A confiabilidade das provas produzidas por meio de captao de imagens depende, por certo, da autenticidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O compartilhamento ou empréstimo de provas, conhecido como circolazione probatria do direito italiano, significa a possibilidade de utilizar elementos de convicção formados em procedimentos autônomos. No Brasil, a legislação contemporânea permite a cooperação entre instituições e órgãos federais, distritais, estaduais e municipais na busca de provas e informações de interesse da investigação ou da instrução criminal. A gravação de imagens captadas por câmeras de segurança também pode fornecer elementos para a reconstrução dos fatos, desde que a autenticidade seja garantida.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+apelo nAo provido. manutenAo DA condenaAo. decisAo por unanimidade. O Ru, mediante mais de uma ao, cometeu dois tipos de crimes (violncia contra superior e leso corporal leve), devendo as penas finais serem somadas, nos termos do art. 157,  3, do cdigo substantivo castrense. No h inconstitucionalidade parcial do art. 157,  3, do CPM, de modo a afastar o concurso de crimes com a leso corporal leve, considerando que o delito do art. 157 (violncia contra superior), seguido de leso leve (art. 209, caput), configura conduta qualificada pelo resultado, o que provoca o reconhecimento do concurso material. A desclassificao do delito de leso corporal leve para a infrao disciplinar s  cabvel nos delitos de leso corporal levssima, no sendo a situao do caso em comento. Ademais, tal desclassificao tornar-se-ia incua para o Ru, considerando que foi licenciado das fileiras do Exrcito, o que prejudicaria a finalidade retributiva e preventiva da pena, bem como a reparao dos valores da hierarquia e da disciplina. O Fato  tpico, ilcito e culpvel, sendo que a autoria e a materialidade delitivas restaram comprovadas, mormente em face da oitiva do Ofendido, dos depoimentos das testemunhas de Acusao e do Auto de Exame de Corpo de Delito. Apelo desprovido. (STM, Apelao n. 7000202-98.2019.7.00.0000, relator Ministro Lcio Mrio de Barros Ges, revisor Ministro Artur Vidigal de Oliveira, julgamento realizado em 29/08/2019, sendo publicado em 11/09/2019). E, havendo a constatao de leso no ofendido, haver concorrncia de penas. Como dito atrs, consta dos autos a realizao de Exame de Corpo de Delito acostado no Evento 8, P_FLAGRANTE3, pginas 82/85, em que se registrou a existncia de leses compatveis com a coronhada. No tocante  dosimetria das penas, entendo que merece ser reformada a sentena ento prolatada. Nesse aspecto, entendo que devem ser acolhidos os argumentos apresentados pelo apelante no que tange  dosimetria das circunstncias judiciais para a reduo das penas aplicadas pela prtica dos delitos de violncia a superior e de leso corporal. Em ambos os casos, entendo que a pena-base dever ser fixada tendente  mnima, considerando o fato de o apelante ser primrio e de bons antecedentes.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Apelo nAo provido. ManutenAo da condenaAo. O Ru cometeu dois tipos de crimes (violncia contra superior e leso corporal leve), devendo as penas finais serem somadas. No h inconstitucionalidade parcial do art. 157, 3, do CPM para afastar o concurso de crimes. A desclassificao do delito de leso corporal leve para a infrao disciplinar s cabvel nos delitos de leso corporal levssima. Fato tpico, ilcito e culpvel, sendo que a autoria e a materialidade delitivas restaram comprovadas. Havendo a constatao de leso no ofendido, haver concorrncia de penas. Pena-base deve ser fixada tendente mnima, considerando o fato de o apelante ser primrio e de bons antecedentes.

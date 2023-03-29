@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, ainda que presentes o interesse publico e a motivacao, o ordenamento juridico nacional preve hipoteses em que se impoe a clausula de reserva de jurisdicao, ou seja, a necessidade de analise e autorizacao previa do Poder Judiciario. Nessas hipoteses, tem-se, na CF, ser essencial a intervencao previa do Estado-juiz, sem o que qualquer acao de autoridade estatal sera ilegitima, ressalvada a situacao de flagrante delito. Com base nesse entendimento, o Tribunal conheceu parcialmente da acao direta e deu interpretacao conforme ao paragrafo unico do art. 4 da Lei 9.883/1999 para estabelecer que: a) os orgaos componentes do Sistema Brasileiro de Inteligencia somente podem fornecer dados e conhecimentos especificos a ABIN quando comprovado o interesse publico da medida, afastada qualquer possibilidade de o fornecimento desses dados atender a interesses pessoais ou privados; b) toda e qualquer decisao de fornecimento desses dados devera ser devida e formalmente motivada para eventual controle de legalidade pelo Poder Judiciario; c) mesmo quando presente o interesse publico, os dados referentes as comunicacoes telefonicas ou dados sujeitos a reserva de jurisdicao nao podem ser compartilhados na forma do dispositivo, em razao daquela limitacao, decorrente do respeito aos direitos fundamentais; d) nas hipoteses cabiveis de fornecimento de informacoes e dados a ABIN, sao imprescindiveis procedimento formalmente instaurado e a existencia de sistemas eletronicos de seguranca e registro de acesso, inclusive para efeito de responsabilizacao em caso de eventual omissao, desvio ou abuso. ADI 6529/DF, relatora Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+a) Os órgãos componentes do Sistema Brasileiro de Inteligência somente podem fornecer dados e conhecimentos específicos à ABIN quando comprovado o interesse público da medida, afastada qualquer possibilidade de o fornecimento desses dados atender a interesses pessoais ou privados. b) Toda e qualquer decisão de fornecimento desses dados deverá ser devida e formalmente motivada para eventual controle de legalidade pelo Poder Judiciário. c) Mesmo quando presente o interesse público, os dados referentes às comunicações telefônicas ou dados sujeitos a reserva de jurisdição não podem ser compartilhados na forma do dispositivo, em razão daquela limitação, decorrente do respeito aos direitos fundamentais. d) Nas hipóteses cabíveis de fornecimento de informações e dados à ABIN, são imprescindíveis procedimento formalmente instaurado e a existência de sistemas eletrônicos de segurança e registro de acesso, inclusive para efeito de responsabilização em caso de eventual omissão, desvio ou abuso.

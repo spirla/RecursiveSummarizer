@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No caso de serem vrios os participantes do crime, o entendimento mais adequado para o sistema garantista  no sentido de que o prazo tem incio com a identificao do primeiro participante. Admitir que o prazo somente tenha incio quando descoberto o ltimo participante importa violar a garantia conferida ao primeiro participante descoberto, sob o pretexto de que outro participante existiria e poderia prolongar a existncia do direito potestativo. Como o prazo decadencial  um s, no se pode pensar no direito de representar ou de oferecer queixa existindo distintamente em face de cada participante do crime. O princpio da indivisibilidade da ao penal, consagrado no artigo 48 do CPP, impede desenvolver tal raciocnio. Considerando que a decadncia  instituto que possui marcante contedo material, que repercute efeitos diretamente na pretenso punitiva, a contagem do prazo decadencial observa a regra do artigo 10 do Cdigo Penal. Assim, o dia do comeo inclui-se no cmputo do prazo. Como na decadncia verifica-se a extino do prprio direito, o prazo decadencial  improrrogvel, fatal, que no est susceptvel  suspenso ou interrupo. 21.6.5. Titularidade do direito potestativo. O artigo 24 do CPP dispe que a representao poder ser oferecida pelo ofendido ou por quem tiver a qualidade para represent-lo. O artigo 30, por sua vez, deixa claro que a titularidade do direito de queixa  do ofendido pelo crime ou de seu representante legal. Reza esse dispositivo que ao ofendido ou a quem tenha qualidade para represent-lo caber intentar a ao privada. A jurisprudncia  bastante flexvel ao enfrentar o problema da legitimidade para o oferecimento da representao. Na falta de representante legal do menor, tem-se admitido que a representao seja formulada por pessoas que, por qualquer motivo, cuidem da vtima, embora inexista relao de parentesco. (STJ - HC 136.738). Conforme o artigo 33 do CPP, se o ofendido for menor de 18 (dezoito) anos, ou mentalmente enfermo, ou retardado mental, e no tiver representante legal, ou colidirem os interesses deste com os daquele, o direito de queixa poder ser exercido por curador especial, nomeado, de ofcio ou a requerimento do Ministrio Pblico, pelo juiz competente para o processo penal. Nas mesmas situaes, aplicando a analogia prevista no artigo 3do CPP, o juiz poder nomear curador especial ao ofendido menor para exercer o direito de representao. Se o ofendido morrer, o direito de representar ou oferecer queixa passa aos sucessores do ofendido.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O prazo decadencial para o direito potestativo de representação ou queixa tem início com a identificação do primeiro participante do crime. O direito de representação ou queixa é do ofendido ou seu representante legal. Se o ofendido for menor de 18 anos, mentalmente enfermo ou retardado, o direito de queixa pode ser exercido por curador especial nomeado pelo juiz. Se o ofendido morrer, o direito de representar ou oferecer queixa passa aos seus sucessores.

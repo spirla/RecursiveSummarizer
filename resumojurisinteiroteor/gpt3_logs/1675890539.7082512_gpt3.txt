@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O princpio pas des nullits sans grief - corolrio da natureza instrumental do processo -, previsto no art. 563 do CPP, segundo o qual "Nenhum ato ser declarado nulo, se da nulidade no resultar prejuzo para a acusao ou para a defesa, impede a declarao da nulidade se no demonstrado o prejuzo concreto  parte que suscita o vcio. A jurisprudncia de nossos tribunais estaduais se assenta no entendimento de que age corretamente a administrao ao nomear defensor ad hoc, dispensada qualquer anuncia do acusado. Veja-se: TJ-PE - Apelao APL 2310754 PE (TJ-PE) Data de publicao: 19/11/2013 Ementa: PENAL. PROCESSUAL PENAL. JRI. CONDENAO. PRELIMINAR DE NULIDADE POR CERCEAMENTO DE DEFESA. AUSNCIA DE PREJUZO. OUVIDA DE TESTEMUNHA-CHAVE EM PLENRIO NA PRESENA DE DEFENSOR PBLICO. PRELIMINAR REJEITADA. ALEGAO DE DECISO CONTRRIA  PROVA DOS AUTOS. LEGTIMA DEFESA. VEROSSIMILHANA DA VERSO ACUSATRIA. DEPOIMENTOS E PROVA PERICIAL. APELAO DESPROVIDA. DECISO UNNIME. I - No h de ser reconhecida nulidade por cerceamento de defesa, decorrente da ausncia de defensor na audincia de oitiva das testemunhas de acusao realizada na primeira fase da instruo, se o Apelante, em todo o restante dos atos processuais, contou com assistncia tcnica de advogado ou defensor pblico, os quais, inclusive, nunca se insurgiram contra aquele vcio, sem esquecer que a testemunha-chave ouvida na etapa inicial foi novamente inquirida diante do Conselho de Sentena, na presena de defensor pblico. Inexistindo prejuzo para a defesa do Recorrente, no cabe a anulao do processo, em ateno ao princpio pas de nullit sans grief, que, segundo avanos verificados na doutrina e na jurisprudncia, deve estender-se mesmo aos casos de nulidade absoluta.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio pas de nullit sans grief impede a declaração de nulidade se não for demonstrado o prejuízo concreto para a parte que suscita o vício. A jurisprudência dos tribunais estaduais entende que é correta a nomeação de um defensor ad hoc, dispensada qualquer anuência do acusado, desde que não haja prejuízo para a defesa.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Considerando essas informaes, o julgador deve avaliar se a observncia s normas regulamentares teria diminudo o perigo para o ciclista, ou seja, se aumentariam as chances de evitar o resultado lesivo. Segundo Roxin, essa avaliao deve se dar com a utilizao de critrios normativos, isto , devese. examinar se a norma formulada ex ante, operando tambm sobre a base ftica do conhecimento ex post, pode seguir sendo reconhecida como uma proibio com sentido e que reduz o risco da ocorrncia do resultado (e nesse caso, imputao do resultado), ou se, partindo do novo estado dos conhecimentos, a mesma parece in concreto inidnea ou ao menos impraticvel (e em tal caso no haver imputao do resultado). O exame das questes prticas no  nada fcil e tambm implica a utilizao de critrios estatsticos de comparao entre a conduta real e a hipottica. Polmica  a questo sobre qual deva ser a deciso quando no for possvel comprovar se a conduta proibida criou um perigo que extrapola os limites do risco permitido. A maioria dos autores sustenta que, nesses casos, o princpio do in dubio pro reo exclui a imputao. A soluo  por demais simplista. Nesse sentido, Roxin lembra o caso do mdico que institui tratamento completamente alheio s normas da medicina tradicional e produz a morte do paciente. No se pode tolerar tal comportamento, ainda que eventualmente no seja possvel comprovar o aumento dos riscos para a produo do resultado. Os deveres da lex artis so impostos justamente visando a diminuir o risco da produo de resultados lesivos, e o no atendimento de tais regras deve acarretar imputao. Aceitar o contrrio significaria renunciar s exigncias de cuidado, justamente nas situaes em que ele  mais exigvel. No caso dos crimes omissivos, algumas observaes devem ser feitas  contribuio que o princpio do incremento do risco possa oferecer  teoria da imputao. A imputao objetiva no crime omissivo depende da violao do dever concreto de agir para impedir o resultado. Isso significa que o omitente tem o dever legal de proteger o bem jurdico do perigo existente, e no apenas da possibilidade de aumento do perigo existente. Em outras palavras, o dever de agir impe que o omitente atue para afastar o perigo que se dirige ao bem jurdico ou, no sendo possvel afast-lo, impedir que o perigo aumente. Mas, em qualquer caso, a existncia de um perigo concreto ao bem jurdico constitui pressuposto da imputao objetiva. - Alteraes do risco existente.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O julgador deve avaliar se a observância às normas regulamentares teria diminuído o perigo para o ciclista, considerando critérios normativos e estatísticos. O princípio do in dubio pro reo exclui a imputação quando não for possível comprovar se a conduta proibida criou um perigo que extrapola os limites do risco permitido. Para os crimes omissivos, a imputação objetiva depende da violação do dever concreto de agir para impedir o resultado, com base na existência de um perigo concreto ao bem jurídico.

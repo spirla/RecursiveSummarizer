@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O crime culposo se caracteriza conforme a produo do resultado lesivo. Se a conduo descuidada do veculo produziu leses corporais na vtima e o socorro mdico prestado foi capaz de evitar a sua morte, o crime a reconhecer  o de leso corporal culposa e nunca o de tentativa de homicdio culposo (que se revela verdadeiro absurdo, por sua contradio intrnseca). A mudana de orientao subjetiva que orienta a realizao de conduta cuidadosa posterior, objetivamente capaz de evitar outros resultados naturalsticos, se mostra diretamente incompatvel com a caracterizao da culpa necessria ao reconhecimento de outros crimes.  requisito explcito da previso legal para os institutos que a mudana de orientao subjetiva seja voluntria. A doutrina faz distino entre a voluntariedade e a espontaneidade da mudana de postura subjetiva para realar a desnecessidade de que tal mudana seja espontnea. Espontnea  a mudana de orientao subjetiva que tem origem na iniciativa do prprio sujeito do crime e, nos termos do artigo 31 do Cdigo Penal Militar, no constitui requisito para o reconhecimento da desistncia voluntria ou do arrependimento eficaz. Para o reconhecimento das causas de inadequao tpica basta que a mudana seja voluntria, pouco importando as causas de tal reorientao subjetiva. Seja por iniciativa prpria, em ateno  splica da vtima ou de terceiros, a mudana de orientao subjetiva satisfaz o requisito necessrio ao reconhecimento da desistncia voluntria ou do arrependimento eficaz. No consumao do crime cuja execuo foi iniciada. O ltimo requisito a ser satisfeito para o reconhecimento da desistncia voluntria ou do arrependimento eficaz exige que a mudana de orientao subjetiva do sujeito tenha produzido alterao de seu comportamento de modo a impedir a consumao do crime. A consumao do crime constitui o limite jurdico para o reconhecimento das causas de inadequao, sendo que at este momento  possvel descaracterizar a tipicidade estabelecida para a conduta criminosa iniciada. Se o crime est consumado, no se poder falar em desistncia ou arrependimento que seja ainda eficaz.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime culposo se caracteriza pela produção de resultado lesivo. Se o descuido no manuseio de um veículo resulta em lesões corporais na vítima e o socorro médico é capaz de evitá-la, o crime é de lesão corporal culposa. Para reconhecer outros crimes, é necessário que a mudança de orientação subjetiva seja voluntária. Se for espontânea, não é necessário que seja espontânea. Para reconhecer as causas da inadequação típica, basta que a mudança seja voluntária. Para reconhecer a desistência voluntária ou o arrependimento eficaz, é necessário que a mudança de orientação subjetiva do sujeito tenha alterado seu comportamento de forma a impedir a consumação do crime.

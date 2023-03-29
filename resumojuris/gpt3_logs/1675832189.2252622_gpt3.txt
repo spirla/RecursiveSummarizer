@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Monitoramento eletronico. Desnecessidade. Contagem. Soma das horas convertidas em dias. Remanescente periodo menor que 24 horas. Fracao de dia desprezada. Tema 1155. DESTAQUE 1. O periodo de recolhimento obrigatorio noturno e nos dias de folga, por comprometer o status libertatis do acusado deve ser reconhecido como periodo a ser detraido da pena privativa de liberdade e da medida de seguranca, em homenagem aos principios da proporcionalidade e do non bis in idem. 2. O monitoramento eletronico associado, atribuicao do Estado, nao e condicao indeclinavel para a detracao dos periodos de submissao a essas medidas cautelares, nao se justificando distincao de tratamento ao investigado ao qual nao e determinado e disponibilizado o aparelhamento. 3.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O periodo de recolhimento obrigatório noturno e nos dias de folga deve ser detraido da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem. 2. O monitoramento eletrônico não é condição indeclinável para a detração dos períodos de submissão a essas medidas cautelares. 3. Não se justifica distinção de tratamento ao investigado ao qual não é determinado e disponibilizado o aparelhamento.

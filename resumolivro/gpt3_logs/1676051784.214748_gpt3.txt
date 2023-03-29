@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No entanto, descobrimos posteriormente que outros rgos do corpo humano so bem mais resistentes  anxia. O corao, por exemplo,  capaz de bater por muitos minutos depois que o os pulmes fiquem sem oxignio e at mesmo fora do corpo, quando retirado cirurgicamente. Com o aparecimento dos primeiros aparelhos de ventilao mecnica, que permitiram manter a respirao das pessoas incapazes de respirar por conta prpria, tornou-se necessrio estabelecer critrios objetivos para caracterizar a morte. Na dcada de 70 do sculo passado, estabeleceu-se o consenso de que a morte deveria ser definida como a perda completa e irreversvel das funes do tronco cerebral. O critrio adotado considerou o tronco como o epicentro das funes cerebrais humanas, tendo em vista que sem que ele desenvolva suas funes o organismo perde a capacidade cognitiva e a possibilidade de fazer movimentos voluntrios, bem como de reagir a estmulos do ambiente. Desta forma, constatada a inatividade do tronco cerebral, a vida humana poderia ser considerada extinta. Contudo, diante da constatao de que o corao  capaz de persistir em seus movimentos diante da ausncia de atividade do tronco cerebral, em 1995, a Academia Americana de Neurologia concluiu que A declarao de morte cerebral requer no apenas uma srie de testes neurolgicos cuidadosos, mas tambm o esclarecimento das causas do coma, a certeza de sua irreversibilidade, a resoluo de qualquer dvida em relao aos sinais neurolgicos clnicos, o reconhecimento de possveis fatores conflitantes, a interpretao dos achados de neuroimagem e a realizao dos exames laboratoriais necessrios. Na verdade, a morte acontece num instante que  definido arbitrariamente em razo da cultura dos povos e da tecnologia que lhes  disponvel. A definio do momento exato em que ocorre a morte  tarefa que comporta interminvel discusso na cultura ocidental. A morte  fenmeno natural que repercute no direito com alta complexidade, no se identificando com o ltimo suspiro do ser humano, como as artes dramticas sugerem. No ordenamento jurdico brasileiro, a Lei n 9.434/97, que dispe sobre a remoo de rgos, tecidos e partes do corpo humano para fins de transplante e tratamento, em seu artigo 3, considera que a vida humana est extinta com a morte enceflica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A morte definida como a perda completa e irreversvel das funes do tronco cerebral. O corao capaz de persistir em seus movimentos diante da ausência de atividade do tronco cerebral. O momento exato em que ocorre a morte definido arbitrariamente de acordo com a cultura e tecnologia disponível. No Brasil, a Lei n 9.434/97 considera que a vida humana está extinta com a morte encefálica.

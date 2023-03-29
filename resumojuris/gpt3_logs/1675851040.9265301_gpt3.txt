@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Penas restritivas de direitos. Acompanhamento e fiscalizacao do cumprimento. Deprecacao. Possibilidade. DESTAQUE A competencia para a execucao do acordo de nao persecucao penal e do Juizo que o homologou. O art. 28-A,  6, do CPP, ao determinar que o acordo de nao persecucao penal sera executado no juizo da execucao penal, implicitamente, estabeleceu que o cumprimento das condicoes impostas no referido acordo devera observar, no que forem compativeis, as regras pertinentes a execucao das penas. Segundo pacifica orientacao desta Corte Superior, a competencia para a execucao das penas e do Juizo da condenacao. No caso especifico de execucao de penas restritivas de direitos, em se tratando de condenado residente em jurisdicao diversa do Juizo que o condenou, tambem e sedimentada a orientacao de que a competencia para a execucao permanece com o Juizo da condenacao, que deprecara ao Juizo da localidade em que reside o apenado tao-somente o acompanhamento e a fiscalizacao do cumprimento da reprimenda. Sendo assim, em se tratando de cumprimento das condicoes impostas em acordo de nao persecucao penal, a competencia para a sua execucao e do Juizo que o homologou, o qual podera deprecar a fiscalizacao do cumprimento do ajuste e a pratica de atos processuais para o atual domicilio do apenado. (Informativo n. 757) 1376 PROCESSO AgRg no REsp 1.983.259-PR, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 28-A, 6, do CPP estabelece que o cumprimento das condições impostas no acordo de não persecução penal deverá observar, no que forem compativeis, as regras pertinentes à execução das penas. 2. A competência para a execução das penas é do Juízo da condenação, que poderá deprecar a fiscalização do cumprimento da reprimenda ao Juízo da localidade em que reside o apenado. 3. A competência para a execução do acordo de não persecução penal é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do apenado.

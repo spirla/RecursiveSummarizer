@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A exigncia de recolhimento  priso do condenando, para apelar, feita no artigo 527 do CPPM, constitui antecipao do cumprimento de pena antes do trnsito em julgado da sentena condenatria, que viola a presuno de inocncia (artigo 5, LVII), antes do trnsito em julgado da sentena condenatria o condenado pode ser preso se presente uma das hipteses autorizadoras da priso preventiva (artigo 255, CPPM). O STF, apoiado na presuno de inocncia, afastou a possibilidade do lanamento prematuro do nome do acusado no rol dos culpados antes do trnsito em julgado da deciso condenatria, cujo acrdo tem a seguinte ementa:
+O lanamento do nome do acusado no rol dos culpados viola o princpio constitucional que, proclamado pelo artigo 5, inciso LVII, da Carta Poltica, consagra, em nosso sistema jurdico, a presuno juris tantum de no-culpabilidade daqueles que figurem como rus nos processos penais condenatrios. [....] A expresso legal rol dos culpados no tem sentido polissmico. H, pois, de ser entendida como locuo designativa da relao de pessoas j definitivamente condenadas. 3.5. Garantia da publicidade do processo. A publicidade  ditada por norma constitucional (artigo 93, IX, CF), que dispe que todos os julgamentos dos rgos do Poder Judicirio sero pblicos, sob pena de nulidade. A regra do artigo 434 do CPPM, que determina a deliberao do Conselho de Justia em sesso secreta, no foi recepcionada pela nova ordem constitucional. No julgamento pelo Conselho de Justia, os votos sobre as questes de fato e de direito so proferidos em sesso pblica. Tambm no foi recepcionada pela Constituio Federal de 1988 a regra do artigo 535, pargrafo 6, do CPPM, indicando que ser secreto o julgamento da apelao, quando o ru estiver solto, bem como o julgamento da reviso criminal (artigo 557, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 527 do CPPM prevê a prisão do condenado para apelar, o que viola a presunção de inocência (artigo 5, LVII). O STF afastou a possibilidade de lançamento prematuro do nome do acusado no rol dos culpados antes do trânsito em julgado da decisão condenatória. A Constituição Federal de 1988 determina que todos os julgamentos dos órgãos do Poder Judiciário sejam públicos, sob pena de nulidade. O julgamento pelo Conselho de Justia e a revisão criminal também devem ser realizados em sessão pública.

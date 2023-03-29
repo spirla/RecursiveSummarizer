@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A legislao repressiva brasileira admite expressamente trs causas de inadequao tpica relacionadas ao atendimento dos requisitos objetivos do tipo incriminador, consubstanciando os institutos da desistncia voluntria, arrependimento eficaz e do crime impossvel. 5.7.1. Desistncia voluntria e arrependimento eficaz. A desistncia voluntria e o arrependimento eficaz encontram previso no artigo 15 do Cdigo Penal Brasileiro, segundo o qual o agente que, voluntariamente, desiste de prosseguir na execuo ou impede que o resultado se produza, s responde pelos atos j praticados. A previso conjunta dos institutos em um nico artigo de lei pode levar o operador do direito a erro, e, por isso,  necessrio cuidado ao examinar os requisitos legalmente estabelecidos para o reconhecimento das causas de inadequao tpica. Nos termos da previso legal, a desistncia voluntria ocorre quando o sujeito, voluntariamente, desiste de prosseguir na execuo do crime e, com isso, impede a ocorrncia da violao da norma subjacente ao tipo do crime que teve a sua fase de execuo iniciada. Por outro lado, o arrependimento eficaz ocorre quando o sujeito, aps ter exaurido o seu comportamento criminoso, voluntariamente, pratica outros atos que acabam por impedir a violao da norma subjacente ao tipo do crime que teve a sua fase de execuo iniciada. Em ambos os casos, verifica-se a inadequao tpica em relao ao crime cuja execuo foi iniciada, podendo caracterizar-se a tipicidade de outro crime de menor gravidade que se apresente subsidirio em relao ao inicialmente executado. Os dois institutos decorrem de opo poltico-criminal que visa impedir leses mais graves aos bens jurdicos tutelados pelo Direito Penal, por meio da descaracterizao da tentativa de realizar o crime inicialmente executado e que se afigura de maior gravidade. Cabe notar que a previso constante do artigo 15 se concilia perfeitamente com a definio legal estabelecida para o instituto da tentativa. Nos termos do inciso II do artigo 14, caracteriza-se o crime tentado quando, iniciada a execuo, no se consuma por circunstncias alheias  vontade do agente. A caracterizao da tentativa, portanto, exige que a no consumao do crime ocorra por circunstncias alheias  vontade do sujeito. Nos casos de desistncia voluntria e arrependimento eficaz, por outro lado, a consumao no ocorre por circunstncias prprias  vontade do sujeito, o que literalmente impede reconhecer a tentativa do crime inicialmente executado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A legislação brasileira prevê três causas de inadequação típica relacionadas ao atendimento dos requisitos objetivos do tipo incriminador: desistência voluntária, arrependimento eficaz e crime impossível. Desistência voluntária ocorre quando o sujeito desiste de prosseguir na execução do crime e arrependimento eficaz quando, após a execução, pratica outros atos que impedem a violação da norma subjacente. Estes institutos visam impedir lesões mais graves aos bens jurídicos tutelados pelo Direito Penal.

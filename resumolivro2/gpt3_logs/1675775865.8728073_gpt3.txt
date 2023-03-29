@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Para Alexy, no caso de coliso de duas regras contraditrias entre si, e essa contradio no pode ser eliminada por meio da introduo de uma clusula de exceo, ento, pelo menos uma das regras deve ser declarada invlida. Em caso de coliso entre princpios a soluo  diferente, resolve-se o conflito pela precedncia porque os princpios tm pesos diferentes e os de maior peso tm precedncia:
+Se dois princpios colidem - o que ocorre, por exemplo, quando algo  proibido de acordo com um princpio e, de acordo com o outro, permitido - um dos princpios ter que ceder. Isso no significa, contudo, nem que o princpio cedente deva ser declarado invlido, nem que nele dever ser introduzida uma clusula de exceo. Na verdade, o que ocorre  que um dos princpios tem precedncia em face do outro sob determinadas condies. Na concepo de Humberto vila, os princpios so normas com pretenso de complementaridade e de parcialidade, por abrangerem apenas parte dos aspectos relevantes para uma tomada de deciso e no tm a pretenso de gerar uma soluo especfica, mas a pretenso de contribuir, ao lado de outras razes, para tomada de deciso. As regras so normas decisivas e abarcantes, pois possuem pretenso terminativa na medida em que tm a pretenso de gerar uma soluo especfica para a questo. A diferena entre regra e princpio  que em caso de conflito entre regras a soluo  do tudo ou nada, ou seja, ao caso concreto somente uma norma pode ser aplicada enquanto a outra  invlida. Portanto, o mtodo de aplicao da regra  o da subsuno. Os princpios processuais, como explicita Gustavo Badar, conceituados como mandamentos nucleares do sistema processual,  luz da teoria dos direitos fundamentais, so verdadeiras regras porque garantem direitos (ou impe deveres) definitivos. 4.2. Proporcionalidade. Princpio ou regra?
+. A elaborao terica da proporcionalidade e a sua aplicao ocorreu no Tribunal Constitucional da Repblica Federal Alem.16 A proporcionalidade no  explcita na Constituio Federal brasileira.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Alexy defende que, em caso de colisão entre regras, pelo menos uma delas deve ser declarada inválida. Quando há colisão entre princípios, a solução é a precedência, pois os princípios têm pesos diferentes. A proporcionalidade foi desenvolvida pelo Tribunal Constitucional da Alemanha e não é explícita na Constituição Federal brasileira.

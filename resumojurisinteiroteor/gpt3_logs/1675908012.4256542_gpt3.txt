@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em sntese, alegou que os membros do Ministrio Pblico possuem a prerrogativa da intimao pessoal acerca dos atos processuais, regra que vale tanto para os processos cveis como para os criminais, conforme dispem os artigos 18, II, da Lei Complementar n. 75/93, 41 da Lei Orgnica Nacional do Ministrio Pblico (Lei n. 8.625/93), 370, 4, do Cdigo de Processo Penal (CPP) e 180 e 183,  1, do Cdigo de Processo Civil (CPC). Destacou que a lei determina que a intimao pessoal deve ocorrer atravs da entrega dos autos com vista (art. 41, IV, da Lei n. 8.625/93). Nesse sentido, exemplificou que o membro do Ministrio Pblico no pode ser intimado por mandado, mesmo sendo essa uma forma de intimao pessoal. Outrossim, salientou que, muitas vezes, o membro do Ministrio Pblico que participou da audincia no  o mesmo que ir preparar o recurso - como se deu no presente caso -, o que refora a necessidade de que o termo inicial da contagem do prazo somente se inicie com a entrega dos autos na Instituio. Citou tese firmada pelo colendo Superior Tribunal de Justia na sistemtica de recursos repetitivos, no Resp 1.349.935/SE, de relatoria do eminente Ministro Rogrio Schietti Cruz: O termo inicial da contagem do prazo para impugnar deciso judicial , para o Ministrio Pblico, a data da entrega dos autos na repartio administrativa do rgo, sendo irrelevante que a intimao pessoal tenha se dado em audincia, em cartrio ou por mandado. Alegou que, no caso dos autos eletrnicos, a abertura de vista ao Ministrio Pblico, no sistema em que os feitos tramitam, equivale  entrega dos autos fsicos ao rgo, o que valeria, no caso concreto, como termo inicial para a contagem do prazo recursal. Asseverou que, no caso em exame, aps a audincia de leitura de sentena, que foi considerada como marco inicial de contagem de prazo, no houve a abertura de vista ao Ministrio Pblico para que pudesse ofertar eventual recurso. Entretanto, somente aps o oferecimento de apelao pelos rus,  que, em 06/05/2021, houve a abertura de vista ao Ministrio Pblico, para apresentao de contrarrazes (Evento 87). Assim, considerando o prazo de 5 (cinco) dias para interposio do recurso de apelao, conforme art. 529 do CPPM, o ltimo dia do prazo seria o dia 11/05/2021, o qual, conforme Evento 89, foi justamente a data em que foram apresentadas tanto a petio de interposio quanto as razes de recurso. Por fim, disse que o ordenamento jurdico deve ser interpretado em seu conjunto, de forma que no se mitiguem prerrogativas institucionais amplamente asseguradas a uma instituio - como  o caso da intimao pessoal garantida aos membros do Ministrio Pblico - em prol de previses legais que no mais se compatibilizam com o todo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministrio Pblico tem prerrogativa de intimao pessoal para os processos cveis e criminais, sendo necessria a entrega dos autos para o termo inicial da contagem do prazo. No caso em exame, a abertura de vista ao Ministrio Pblico para apresentao de contrarrazes s foi realizada após o oferecimento de recurso pelos rus, sendo assim, o ltimo dia do prazo para interposio de recurso foi considerado como data de apresentao da petio de recurso e das razes.

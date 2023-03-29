@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Nesse sentido, colaciono o seguinte julgado: EMENTA: APELAO CVEL - AO DE PRESTAO DE CONTAS - SEGUNDA FASE - CERCEAMENTO DE DEFESA - INOCORRNCIA - LAUDO PERICIAL - PRAZO SUCESSIVO - NOVA INTIMAO - DESNECESSIDADE - PROVA TESTEMUNHAL - PROVA PERICIAL - VALORES DEVIDOS PELO RU - LITIGNCIA DE M F - INOBSERVNCIA - A SENTENA CONFIRMADA. - Determinada a vista com prazo sucessivo s partes, no h necessidade de nova intimao da segunda parte, depois de terminado o prazo da primeira parte se manifestar. - Nos termos do art. 370 do CPC, cabe ao juiz determinar as provas necessrias  instruo do processo, rejeitando aquelas que se mostrem inteis ou protelatrias, no havendo cerceamento de defesa se no demonstrada a diminuio do direito de defesa da parte. - Na segunda fase da ao de prestao de contas, iniciada somente caso a resposta para a primeira seja positiva, procede-se ao exame propriamente dito das contas e averigua-se a existncia de saldo. - Considerando que a percia judicial vlida apurou crdito em favor dos Autores, deve ser homologado o laudo pericial apresentado. - Para a incidncia da referida penalidade processual faz-se imprescindvel a caracterizao da atitude malvola da parte na busca de seus interesses, o que no ocorreu na hiptese em tela. - Sentena mantida. - recurso no provido. (TJMG - Apelao Cvel 1.0024.10.292707-6/002, Relator(a): Des. (a) Roberto Apolinrio de Castro (JD Convocado), 10a CMARA CVEL, julgamento em 03/12/2019, publicao da smula em 13/12/2019) Em relao ao pedido de oitiva da promotora de justia Dra. Luciana do Prado Ferreira Pinto, por oportuno, deixo consignado que a deciso judicial da lavra do MM. Juiz de Direito da Comarca de Itambacuri/MG, que autorizou a quebra de sigilo de dados e de comunicaes telefnicas pleiteada pelo Ministrio Pblico - das quais afloraram os elementos que resultaram na instaurao do PAD, objeto do processo - foi proferida em momento posterior  manifestao da douta promotora de justia. Ressalte-se, ainda, que, no documento citado, a i. promotora de justia indaga acerca do nexo causal em relao aos militares que figuraram como vtimas dos crimes relatados pelo Comandante da 15a Regio da Polcia Militar de Minas Gerais (RPM), por meio do Ofcio n. 127/2016, no havendo qualquer meno em relao ao apelante, conforme se verifica no evento 2 - PROCADM16, fls. 19/20: [...] Considerando a necessidade de esclarecimento dos fatos para, em procedimento de investigao prprio, ser requerida, caso necessrio, medida cautelar de interceptao telefnica, o Ministrio Pblico requer que o douto Comandante da 15a rpm esclarea o nexo causal entre a conduta de Jesus Mendes da Rocha, Homero da Silva e Ado Edson, elencados como vtimas, e os crimes relatados, posto que figuram como alvos da interceptao, esclarecendo a concluso mencionada quanto  suposta conotao poltica motivadora das condutas. [.]
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A deciso judicial mantida, pois a percia judicial vlida apurou crdito em favor dos Autores, deve ser homologado o laudo pericial apresentado e não houve cerceamento de defesa. Além disso, não houve caracterização da atitude malvola da parte na busca de seus interesses.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O defensor e o acusado tm interesse em apelar da sentena condenatria para lograr a absolvio ou mesmo para melhorar a situao, com a reduo da pena, mudana de regime de regime prisional ou para corrigir a definio jurdica do fato. Apelam, tambm, da deciso absolutria para mudar o fundamento. H interesse do absolvido por falta de provas em recorrer para reconhecimento, nos termos do artigo 439 do CPPM, da inexistncia do fato (alnea a), ou por no constituir o fato infrao penal (alnea b) ou por existir circunstncia que exclua ilicitude do fato ou a culpabilidade (alnea d). No  por demais aqui repetir os reflexos administrativos e cveis suportados pelo absolvido no processo-crime, por exemplo, por insuficincia de provas. Tem ele interesse em apelar da sentena absolutria para obter o reconhecimento de que agiu em legtima defesa, o que permite sua readmisso ao servio pblico caso tenha sido demitido em razo dos fatos ou impede sua demisso/expulso, como tambm impossibilita ao civil por reparao de dano. O CPPM no tem regra semelhante ao artigo 61 do CPP, que determina que, em qualquer fase do processo, o juiz, se reconhecer extinta a punibilidade, dever declar-lo de ofcio, mas sendo matria de ordem pblica  dispensvel a provocao judicial. Em caso de prescrio, a declarao  de ofcio (artigo 133, CPM). Por fim, constitui causa de absolvio o reconhecimento da extino da punibilidade (artigo 439, f, CPPM).  o buslis. Nos termos do artigo 125, pargrafo 1, do CPM:
+Sobrevindo sentena condenatria, de que somente o ru tenha recorrido, a prescrio passa a regular-se pela pena imposta, e deve ser logo declarada, sem prejuzo do andamento do recurso se, entre a ltima causa interruptiva do curso da prescrio (pargrafo 5) e a sentena, j decorreu tempo suficiente. A regra  aplicvel se houver sentena condenatria e recurso exclusivo da defesa. O fundamento da regra  o interesse da defesa em reformar a deciso de mrito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O defensor e o acusado têm interesse em recorrer da sentença condenatória para obter a absolvição ou reduzir a pena, bem como o absolvido tem interesse em recorrer para reconhecer a inexistência do fato ou a existência de circunstâncias que excluam a ilicitude ou a culpabilidade. O CPPM prevê a declaração de extinção da punibilidade de ofício em caso de prescrição, e a regra é aplicável se houver sentença condenatória e recurso exclusivo da defesa.

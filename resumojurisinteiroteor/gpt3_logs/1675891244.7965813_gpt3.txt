@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR RBIO PAULINO COELHO, RELATOR Da anlise dos autos, verifica-se que a deciso agravada negou seguimento ao recurso extraordinrio interposto e o inadmitiu, com respaldo na aplicao do Tema n. 660 (aRe n. 748.371 RG/MT) de repercusso geral da Suprema Corte e na incidncia da Smula n. 279 do Supremo Tribunal Federal (STF) (Evento 37). Confiram-se os seguintes trechos da deciso: [...] Trata-se de recurso extraordinrio interposto por Alfred Eustquio Ferreira, com fundamento no art. 102, III, a, da Constituio Federal (CF), contra acrdo proferido pela Primeira Cmara deste Tribunal, que por unanimidade, negou provimento ao recurso de apelao, mantendo a sentena de primeiro grau de jurisdio. O acrdo guerreado foi assim ementado: APELAO CVEL - ALEGAO DE NULIDADE PELA FALTA DE NOMEAO DE DEFENSOR AD HOC - SMULA VINCULANTE N. 5 DO SUPREMO TRIBUNAL FEDERAL (STF) - ALEGAO DE AUSNCIA DE FUNDAMENTAO DA DECISO DO COMANDANTE-GERAL DA PMMG - A DENEGAO DO PEDIDO DO APELANTE FOI DEVIDAMENTE FUNDAMENTADA - ALEGAO DE VCIOS NO PROCEIMENTO DE DEGRAVAO DE UDIO UTILIZADO NA SAD - EMBORA TENHAM SIDO DESCUMPRIDAS FORMALIDADES PREVISTAS PELOS ARTS. 257 E 258 DO MAPPA, TAIS VCIOS NO INFLUIRAM NA APURAO DO OCORRIDO - RECURSO JULGADO IMPROCEDENTE. Em suas razes, o recorrente alega que houve contrariedade ao artigo 5, inciso LV, da CF/88, decorrente da aplicao de sano disciplinar em seu desfavor, que culminou com violao  ampla defesa e ao contraditrio, em virtude da ausncia de nomeao de defensor ad hoc para acompanhar a oitiva de testemunha, que foi feita de forma inquisitiva e unilateral. Diz que a repercusso geral desta matria se justifica, pois, a manuteno da r. deciso representa prejuzo no apenas aos interesses individuais do recorrente, mas a toda classe de militares estaduais, quando invocarem a garantia do exerccio da ampla defesa e do contraditrio, notadamente a nomeao de defensor ad hoc, constituindo cerceamento de defesa. Sustenta o recorrente que a jurisprudncia ptria  unssona com relao  necessidade, inclusive, de interveno do Poder Judicirio diante do desrespeito ao princpio do devido processo legal e seus corolrios do contraditrio e da ampla defesa. Portanto, entende que, ainda que a parte no se faa presente no ato de produo de prova testemunhal, pessoalmente ou por intermdio de defensor constitudo, em respeito  garantia constitucional da ampla defesa e do contraditrio, torna-se imprescindvel que seja constitudo um defensor ad hoc para o ato. Pelo exposto, requer o recorrente a reforma da deciso do Tribunal de origem, para anular-se o ato administrativo punitivo, por, no seu entender, flagrante violao ao princpio constitucional da ampla defesa e do contraditrio, conforme exposto nas razes recursais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recorrente alegou que houve violação ao princípio constitucional da ampla defesa e do contraditório, pois, ao invés de nomeação de defensor ad hoc para acompanhar a oitiva de testemunha, foi feita de forma inquisitiva e unilateral. O Tribunal de origem negou provimento ao recurso, com respaldo na aplicação do Tema n. 660 (aRe n. 748.371 RG/MT) de repercussão geral da Suprema Corte e na incidência da Smula n. 279 do Supremo Tribunal Federal (STF).

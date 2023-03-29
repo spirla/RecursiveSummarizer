@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A induo, que  o efeito de induzir, consiste na passagem do particular para o geral:
+de dados singulares, de casos observados, induz-se uma concluso genrica, uma lei universal. J na deduo tornam-se explcitas verdades particulares contidas em verdades universais:
+o ponto de partida  uma verdade universal, com base na qual se chega a uma verdade menos geral contida implicitamente na verdade universal. Hlio Tornaghi critica o termo induo adotado no CPP ao sustentar que por definio induo  passar do particular ao geral e na deduo se d o contrrio, deduz do geral para o particular. O que h na realidade, diz o mestre Tornaghi,  uma deduo, um verdadeiro silogismo que a concluso (o fato probando) resulta da comparao entre a premissa menor (fato indicirio, conhecido e provado) e a premissa maior (regra geral). O renomado processualista mostra a esquematizao do raciocnio seguido na considerao da prova indiciria:
+Premissa maior (regra geral). Todo aquele que  encontrado logo aps o crime, junto ao cadver, com a arma assassina e objetos da vtima  provavelmente o autor da infrao. Premissa menor (o fato indicirio). Ora, Tcio foi encontrado junto ao cadver, com a arma assassina e objetos da vtima. Concluso (fato probando). Logo, Tcio , provavelmente, o autor do crime. Comungando deste pensar Magalhes Noronha afirma que o raciocnio indicirio  um silogismo:
+premissa maior - a proposio geral;
+premissa menor - o fato ocorrido;
+concluso lgica - a prtica do delito. Um homem  visto sair da casa, de madrugada, com um objeto. No dia seguinte descobre-se que ali furtaram uma bandeja. H indcios de que ele seja o autor. Premissa maior:
+a experincia mostra que o estranho que desse modo sa de uma casa  ladro (premissa abstrata e genrica).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A indução consiste na passagem do particular para o geral, enquanto a dedução é o contrário, indo do geral para o particular. Hélio Tornaghi e Magalhães Noronha afirmam que o raciocínio indiciário é um silogismo, com premissa maior (proposição geral), premissa menor (fato ocorrido) e conclusão lógica (prática do delito). Por exemplo, se um homem for visto saindo de uma casa, de madrugada, com um objeto, e no dia seguinte descobrir-se que ali foi furtado uma bandeja, há indícios de que ele seja o autor.

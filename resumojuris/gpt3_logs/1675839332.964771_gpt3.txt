@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ausencia de protecao. Formato novo. Utilizacao comercial admitida. Plagio afastado. DESTAQUE A idealizacao de um novo formato grafico para apresentacao de resultados de buscas na rede mundial de computadores, a despeito do seu registro em Cartorio de Titulos e Documentos, nao possui protecao dos desenhos industriais e nao pode ser conceituada como obra autoral, afastando a eventual caracterizacao de plagio. A controversia esta em analisar a utilizacao nao autorizada de formato grafico apresentado em esboco de site, idealizado para criar plataforma de conexao agil e facilitada entre internautas, fornecedores, anunciantes e consumidores. Esse esboco fora levado a previo registro perante Cartorio de Titulos e Documentos e, apos apresentado, teria sido objeto de alegado plagio. Do fundamento central adotado para reconhecer o plagio, verifica-se uma confusao conceitual entre a protecao de obras autorais e obras utilitarias. As obras decorrentes da atuacao intelectual podem ser exteriorizadas para satisfacao de interesses esteticos, mesmo que mediante a producao de bens materiais, atraindo a incidencia das regras do direito de autor; ou para satisfacao de interesses utilitarias, gerando obras protegidas pelo Direito de Propriedade Industrial (patente, modelo de utilidade, desenho industrial e marca). Ja as obras utilitarias, alvo de protecao pelo Direito de Propriedade Industrial, tem por objetivo a consecucao de utilidades materiais diretas, ainda que possam guardar relacao com elementos esteticos incorporados em seus produtos (e.g., desenho autoral utilizado para compor uma marca mista). Os projetos e as ideias subjacentes nao sao objeto de protecao pelas regras de direitos autorais, podendo ser reutilizadas tanto para novas obras autorais como para fins industriais e comerciais (Lei n. 9.610/1998, art. 8).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O novo formato grafico para apresentação de resultados de buscas na rede mundial de computadores não possui proteção dos desenhos industriais e não pode ser conceituada como obra autoral, afastando a eventual caracterização de plágio. 2. A proteção das obras decorrentes da atuação intelectual pode ser exteriorizada para satisfação de interesses estéticos ou para satisfação de interesses utilitários, gerando obras protegidas pelo Direito de Propriedade Industrial. 3. Os projetos e as ideias subjacentes não são objeto de proteção pelas regras de direitos autorais, podendo ser reutilizadas tanto para novas obras autorais como para fins industriais e comerciais.

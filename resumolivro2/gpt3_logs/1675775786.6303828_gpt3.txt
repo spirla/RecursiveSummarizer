@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Uma vez expressa, a ideia rapidamente se propagou, especialmente depois de 1660, e passou a incorporar textos jurdicos. No sistema anglo-americano, o privilgio tem o fim de preservar a esfera individual contra intromisses que, embora ditadas pelo interesse de eficincia do processo, poderiam ter um custo desproporcional, na tica de uma organizao social secularmente assentada na primazia do indivduo. O direito ao silncio  uma das manifestaes da no autoincriminao, de no ser obrigado a produzir prova contra si - o nemo tenetur se detegere. O direito ao silncio, assegurado pela Constituio da Repblica de 1988 ao preso, de ser informado de seus direitos, entre os quais o de permanecer calado (artigo 5, LXIII), estende-se a todos e visa a impedir que a pessoa produza prova contra si. De modo mais especfico, a CADH (artigo 8, pargrafo 2, g) garante o direito de no ser obrigado a depor contra si mesma, nem a declarar-se culpada. Por fim, o CPPM tambm garante que:
+Ningum est obrigado a produzir prova que o incrimine (artigo 296, pargrafo 2). No campo do processo penal militar a autoridade de polcia judiciria militar incumbida de presidir o auto de priso em flagrante deve informar o preso de seu direito de permanecer calado. Na fase judicial o CPPM determina que Antes de iniciar o interrogatrio, o juiz observar ao acusado que, embora no esteja obrigado a responder s perguntas que lhe forem formuladas (artigo 305), essa garantia adotada no CPPM  compatvel com a Constituio Federal de 1988. A concluso, portanto,  que gozam do direito ao silncio o preso, o indiciado e os acusados em geral. O direito ao silncio  compreendido como a manifestao de uma garantia muito maior, insculpida no princpio nemo tenetur se detegere, segundo o qual o sujeito passivo no pode sofrer nenhum prejuzo jurdico por omitir-se de colaborar em uma atividade probatria da acusao ou por exercer seu direito de silncio quando do interrogatrio. O exerccio do direito ao silncio no pode ser interpretado em desfavor do acusado, nem se confunde com o equivocado direito de mentir. No h o direito de mentir - o direito no tutela isso - a mentira do acusado no  punvel.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O direito ao silêncio é uma garantia constitucional que se estende a todos, presos, indiciados e acusados, e impede que produzam prova contra si mesmos. É compreendido como parte do princípio nemo tenetur se detegere, segundo o qual ninguém pode sofrer prejuízos jurdicos por se omitir de colaborar ou exercer o direito de silêncio. O direito ao silêncio não se confunde com o direito de mentir, pois esta não é tutelada.

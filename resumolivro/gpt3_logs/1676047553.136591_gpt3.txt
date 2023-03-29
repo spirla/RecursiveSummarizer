@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a conduta atribuda ao acusado na pea acusatria no for, em tese, criminosa, o juiz deve rejeitar a acusao, com base no inciso II do artigo 395 do Cdigo Processo Penal. O Cdigo Processo Penal, no entanto, parece no reconhecer a prtica de fato aparentemente criminoso como uma condio da ao. No inciso III de seu artigo 397, o estatuto processual determina que, aps o recebimento da acusao e a resposta preliminar do ru, o juiz absolva sumariamente o acusado quando o fato narrado evidentemente no constituir crime. Ora, se o fato narrado na acusao evidentemente no constitui crime, o juiz no pode receber a acusao e tampouco citar o acusado para apresentar defesa preliminar. Havendo o recebimento da acusao e a citao do ru para defesa, a relao processual se instaura. No mbito de tal relao, a absolvio sumaria do acusado se opera por meio de deciso de mrito que pressupe o exerccio da ao penal. Certamente, quando o fato narrado evidentemente no constituir crime, a denncia deve ser rejeitada. Permitir a instaurao do processo penal para apurar conduta que, em tese, no constitui crime importa em constrangimento ilegal ao acusado. A absolvio sumria somente tem lugar quando a deciso de mrito depender de outros elementos que so trazidos aos autos por meio da defesa preliminar do acusado. Nesses caso, em que o juiz decide sobre o mrito da acusao, previamente devem estar satisfeitas as condies necessrias para o exerccio da ao penal. 11.2.2. Legitimidade da parte. A legitimidade da parte ou legitimatio ad causam  a condio da ao que exige verificar se a pessoa que promove a ao penal  a titular do direito material alegado e se a pessoa em face de quem se deduz pretenso punitiva  a que pode sofrer a interveno estatal. Usando uma expresso que ficou consagrada na doutrina, a condio da ao relativa  legitimidade da parte exige verificar a pertinncia subjetiva da lide. Tambm em relao  legitimidade da parte, a anlise que o magistrado desenvolve pressupe, ainda que provisria e hipoteticamente, que as afirmaes que o autor faz na inicial sejam verdadeiras. Via de regra, as partes da relao jurdico-processual so as mesmas da relao de direito material. No polo ativo da relao processual, encontra-se o Estado, titular do direito de ao e do direito de punir.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz deve rejeitar a acusação se a conduta atribuída ao acusado não for, em tese, criminosa. O Código Processo Penal determina que o juiz absolva sumariamente o acusado quando o fato narrado na acusação não constituir crime. A legitimidade da parte exige verificar se a pessoa que promove a ação penal é titular do direito material alegado e se a pessoa em face de quem se deduz pretenção punitiva é a que pode sofrer a intervenção estatal.

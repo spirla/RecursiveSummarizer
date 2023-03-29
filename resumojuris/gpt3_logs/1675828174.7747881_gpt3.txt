@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Especificamente quanto ao ISS, a regencia veio por meio da Lei Complementar 116/2003, na qual consta, como regra geral, ser o imposto devido, pelo prestador de servicos, no local onde sediado o estabelecimento. A Lei 13.701/2003, portanto, ao estipular a penalidade de retencao do ISS pelo tomador dos servicos, nos casos em que o prestador, situado em outro municipio, nao observar a obrigacao acessoria de cadastramento na Secretaria Municipal, opera verdadeira modificacao do criterio espacial e da sujeicao passiva do tributo, revelando duas impropriedades formais: a usurpacao da competencia legislativa da Uniao, a quem cabe editar a norma geral nacional sobre a materia, e a inadequacao do modelo legislativo, considerada a exigencia constitucional de veiculacao por lei complementar. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 1.020 da repercussao geral, deu provimento ao recurso extraordinario. Vencidos os ministros Alexandre de Moraes, Carmen Lucia e Dias Toffoli. RE 1167509/SP, relator Min. Marco Aurelio, julgamento virtual finalizado em 27.2.2021 (INF 1007) 17.14 PAGAMENTO INDEVIDO Juros recebidos na repeticao de indebito tributario: nao incidencia de IRPJ e CSLL - RE 1063187/SC (Tema 962 RG) Tese fixada: E inconstitucional a incidencia do IRPJ e da CSLL sobre os valores atinentes a taxa Selic recebidos em razao de repeticao de indebito tributario. Resumo: Os valores relativos a taxa Selic recebidos pelo contribuinte na repeticao de indebito tributario nao compoem a base de incidencia do Imposto sobre a Renda das Pessoas Juridicas (IRPJ) ou da Contribuicao Social sobre o Lucro Liquido (CSLL). Os juros de mora legais, correspondentes a taxa Selic, na repeticao de indebito tributario sao valores recebidos pelo contribuinte a titulo de danos emergentes e visam recompor efetivas perdas, nao implicando aumento de patrimonio do credor.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário. 2. A Lei Complementar 116/2003, na qual consta, como regra geral, ser o imposto devido, pelo prestador de serviços, no local onde sediado o estabelecimento. 3. A Lei 13.701/2003, ao estipular a penalidade de retenção do ISS pelo tomador dos serviços, nos casos em que o prestador, situado em outro município, não observar a obrigação acessória de cadastramento na Secretaria Municipal, opera verdadeira modificação do critério espacial e da sujeição passiva do tributo. 4. Os valores relativos à taxa Selic recebidos pelo contribuinte na repetição de indébito tributário não compõem a base de incidência do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) ou da Contribuição Social sobre o Lucro Líquido (CSLL). 5. Os juros de mora legais, correspondentes à taxa Selic, na repetição de indébito tributário são valores recebidos pelo contribuinte a título de danos emergentes e visam recompor efetivas perdas, não implicando aumento de patrimônio do credor.

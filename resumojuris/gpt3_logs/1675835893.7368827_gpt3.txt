@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL, DIREITO REGISTRAL, DIREITO AGRARIO TEMA Certificacao de georreferenciamento de imovel rural. Sobreposicao a terra indigena. Processo demarcatorio nao concluido. Inviabilidade. DESTAQUE A sobreposicao da propriedade rural com area indigena, ainda que o processo de demarcacao nao tenha sido concluido, inviabiliza a certificacao de georreferenciamento. Cinge-se a controversia a examinar se a verificacao no sistema do INCRA de que tenha havido a sobreposicao da propriedade com a area indigena inviabiliza a certificacao de georreferenciamento, ainda que o processo de demarcacao de terra indigena nao tenha sido concluido. A certificacao de imoveis rurais foi criada pela Lei n. 10.267/2001, sendo exigida para os casos de desmembramento, parcelamento ou remembramento de imoveis rurais, bem como para efetivacao de registro, em qualquer situacao de transferencia de imovel rural, nos prazos fixados no Decreto n. 5.570/2005. A Lei n. 10.267/2001 determina que cabera ao INCRA certificar que a poligonal objeto do memorial descritivo nao se sobreponha a qualquer outra constante de seu cadastro georreferenciado e que o memorial atenda as exigencias tecnicas, conforme ato normativo proprio. O procedimento de georreferenciamento integra o registro e dele emanam consequencias, pois a certificacao do memorial descritivo do imovel consta da matricula. Trata-se de ato cadastral que visa alcancar a identidade fisica no territorio. No caso, houve pedido de certificacao de georreferenciamento de imovel mas o INCRA constatou a ocorrencia de sobreposicao com area sob gestao da FUNAI e, diante de manifestacao desfavoravel a certificacao, o requerimento foi acertadamente indeferido. Tal constatacao de sobreposicao independe do procedimento de demarcacao das terras indigenas, em especial nos casos em que estas tenham sido nitidamente invadidas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 10.267/2001 determina que caberá ao INCRA certificar que a poligonal objeto do memorial descritivo não se sobreponha a qualquer outra constante de seu cadastro georreferenciado e que o memorial atenda as exigências técnicas, conforme ato normativo próprio. 2. A certificação de imóveis rurais foi criada pela Lei n. 10.267/2001, sendo exigida para os casos de desmembramento, parcelamento ou remembramento de imóveis rurais, bem como para efetivação de registro, em qualquer situação de transferência de imóvel rural, nos prazos fixados no Decreto n. 5.570/2005. 3. A constatação de sobreposição independe do procedimento de demarcação das terras indígenas, em especial nos casos em que estas tenham sido nitidamente invadidas. 4. A sobreposição da propriedade rural com área indígena, ainda que o processo de demarcação não tenha sido concluído, inviabiliza a certificação de georreferenciamento.

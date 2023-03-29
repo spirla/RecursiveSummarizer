@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Cb PM Fbio Eduardo da Silva Disse que a bicicleta foi apreendida em uma "boca de fumo; que o Delegado recebeu a ocorrncia, mas alegou que no tinha local para armazenar o bem; que a bicicleta ficou custodiada na sede da companhia; que o comandante de guarnio lhe cientificou que a bicicleta no estava no ptio da companhia mais; que diante desse situao o intendente foi cientificado, tendo repassado para o comandante da companhia; que iniciou as diligncias para localizar o paradeiro do bem, por meio de imagens de vdeo de monitorao; que a bicicleta saiu em cima do carro de um colega de servio, o Cabo Jean Pierre, filmada pela cmera do olho vivo; que a bicicleta foi devolvida dias aps; que a administrao tinha cincia de que a bicicleta estava custodiada, pois ela era vista no ptio da companhia; que o sargenteante tinha conhecimento da condio dessa bicicleta na Companhia; que ele e o Sargento Wagner foram os responsveis pela apreenso da bicicleta; que o acusado no era responsvel pela guarda da bicicleta; que entende que o Estado tem o dever de cuidar do bem apreendido at que o cidado/proprietrio aparea; que viu o vdeo que demonstra o acusado devolvendo a bicicleta no dia 3 de fevereiro, s 5:52h, na antiga sede da Companhia onde foi subtrada a bicicleta; que enviou mensagem em grupo de praas no aplicativo WhatsApp no dia 21 de janeiro perguntando se alguns dos militares da companhia tinha notcias da bicicleta que tinha desaparecido do ptio; que o acusado visualizou a mensagem e no respondeu; que no houve conversa com o Cabo Jean Pierre, ou com qualquer outro militar no sentido que eles procurassem o proprietrio da bicicleta; que no sabe informar que o acusado mexe com bicicletas; que no teve escolha, seno acautelar a bicicleta na sede da companhia, pois o Delegado no recebeu o bem; que no tinha cadeado na bicicleta que ela estava ao lado de outras bicicletas da da PMMG, da bike patrulha; que desconhece o valor da bicicleta.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O PM Fbio Eduardo da Silva relatou que a bicicleta foi apreendida em uma "boca de fumo" e que o Delegado não tinha local para armazenar o bem. A bicicleta foi custodiada na sede da Companhia e localizada por meio de imagens de vídeo de monitoramento. A bicicleta foi devolvida dias após e o acusado não foi responsável pela guarda. O Estado tem o dever de cuidar do bem apreendido até que o proprietário apareça.

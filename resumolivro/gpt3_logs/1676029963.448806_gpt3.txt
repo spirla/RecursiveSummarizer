@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A vtima  atingida no abdome e, posteriormente,  conduzida ao hospital em uma ambulncia. No trajeto, a ambulncia envolve-se em acidente de trnsito, a vtima sofre traumatismo craniano e morre. Se a morte for produzida exclusivamente pelo traumatismo craniano (causa superveniente), o autor do disparo (causa antecedente) no responder por homicdio consumado, mas tentado. Se o traumatismo craniano, por sua vez, no produzir, por si s, a morte, mas contribuir para agravar a sade da vtima, o autor do disparo e o responsvel pelo acidente respondero por homicdio, observando-se o respectivo elemento subjetivo. Reconhecer que uma das causas, por si s, produziu o resultado significa reconhecer nela uma causalidade relevante e autnoma das demais. Em outras palavras, a causa que exclui a imputao para as demais produz um desdobramento causal prprio. Vejamos outro exemplo. Um indivduo  atropelado por veculo automotor na via pblica. Posteriormente,  conduzido ao hospital. O mdico que o examina considera a situao grave e informa aos familiares a necessidade de fazer-lhe uma transfuso de sangue. Por motivos religiosos, os familiares no permitem a transfuso. O paciente no recebe sangue e morre. A negativa de realizao do procedimento mdico (causa superveniente) no estabelece uma causalidade autnoma. A morte ocorre como desdobramento natural das leses produzidas pelo atropelamento (causa antecedente). O motorista do veculo responde por homicdio culposo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Um indivíduo foi atingido no abdome e levado ao hospital em uma ambulância, que acabou se envolvendo em um acidente de trânsito. A vítima sofreu traumatismo craniano e morreu. Se a morte foi causada exclusivamente pelo traumatismo craniano, o autor do disparo não responderá por homicídio consumado, mas tentado. Em outro exemplo, um indivíduo foi atropelado e levado ao hospital. Por motivos religiosos, os familiares não permitiram que ele recebesse uma transfusão de sangue, o que resultou na sua morte. Neste caso, o motorista do veículo responderá por homicídio culposo.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, no entanto, a epoca do ajuizamento da denuncia, datada de 14.9.2016, ja era do conhecimento do Ministerio Publico Federal, bem como do Juizo da 13 Vara Federal da Subsecao Judiciaria de Curitiba, que os fatos denunciados nao diziam respeito a delitos praticados direta e exclusivamente em detrimento da Petrobras S/A, sendo certo que o primeiro precedente a reduzir a competencia daquele juizo foi proferido em 23.9.2015 (Inq 4.130 QO), motivo pelo qual a teoria do juizo aparente nao se aplica a hipotese. Nada obstante a Procuradoria-Geral da Republica pugne pela aplicacao ao caso da norma extraida do art. 64,  4, do CPC, e certo que o Direito Processual Penal vem dotado de regra propria que estabelece a sancao de nulidade aos atos decisorios praticados por juizo incompetente, nos termos do art. 567 do CPP, em plena vigencia no ordenamento juridico patrio. Trata-se de agravos regimentais interpostos contra decisao monocratica do relator de habeas corpus que: a) assentou a incompetencia do Juizo da 13 Vara Federal da Subsecao Judiciaria de Curitiba e anulou os atos decisorios praticados nas acoes penais ali julgadas contra o ex-Presidente da Republica Luis Inacio Lula da Silva; e b) afetou os referidos recursos ao Plenario. Com base nesse entendimento, o Plenario, por maioria, negou provimento ao agravo regimental em agravo regimental em habeas corpus, relativo a afetacao, pelo relator, do julgamento dos recursos interpostos ao Plenario. Vencidos os ministros Ricardo Lewandowski e Marco Aurelio. O Plenario, tambem, por maioria, em complemento ao julgamento da sessao do dia 15.4.2021, negou provimento ao agravo regimental em habeas corpus, concernente a competencia do juizo, para assentar a competencia da Justica Federal do Distrito Federal para julgamento das acoes penais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A teoria do juízo aparente não se aplica à hipótese. 2. O Direito Processual Penal vem dotado de regra própria que estabelece a sanção de nulidade aos atos decisórios praticados por juízo incompetente, nos termos do art. 567 do CPP. 3. O Plenário, por maioria, negou provimento ao agravo regimental em habeas corpus, relativo à afetação, pelo relator, do julgamento dos recursos interpostos ao Plenário. 4. O Plenário, também, por maioria, negou provimento ao agravo regimental em habeas corpus, concernente à competência do juízo para assentar a competência da Justiça Federal do Distrito Federal para julgamento das ações penais.

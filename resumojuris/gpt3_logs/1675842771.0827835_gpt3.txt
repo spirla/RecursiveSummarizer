@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Insuficiencia. Necessidade de demonstracao da contumacia e do dolo de apropriacao. DESTAQUE O dolo de nao recolher o tributo, de maneira generica, nao e suficiente para preencher o tipo subjetivo do crime de sonegacao fiscal (art. 2, II, da Lei n. 8.137/1990). O Plenario do Supremo Tribunal Federal julgou a questao no RHC 163.334/SC e firmou o entendimento de que o contribuinte que, de forma contumaz e com dolo de apropriacao, deixa de recolher o ICMS cobrado do adquirente da mercadoria ou servico incide no tipo penal do art. 2, II, da Lei n. 8.137/1990. Nesta Corte, a questao foi pacificada pela Terceira Secao, por ocasiao do julgamento do HC 399.109/SC, que consignou: para a configuracao do delito em apreco, o fato de o agente registrar, apurar e declarar em guia propria ou em livros fiscais o imposto devido nao tem o condao de elidir ou exercer nenhuma influencia na pratica do ilicito, visto que este nao pressupoe a clandestinidade nem a fraude. Note-se que o sujeito ativo do crime e o sujeito passivo da obrigacao, que, na hipotese do ICMS proprio, e o comerciante, conforme claramente descrito pelo art. 2, II, da Lei n. 8.137/1990, que exige, para sua configuracao, seja a conduta dolosa (elemento subjetivo do tipo), consistente na consciencia (ainda que potencial) de nao recolher o valor do tributo devido. A motivacao nao tem importancia no campo da tipicidade; por opcao do legislador, e prescindivel a existencia de elemento subjetivo especial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O dolo de não recolher o tributo, de maneira genérica, não é suficiente para preencher o tipo subjetivo do crime de sonegação fiscal (art. 2, II, da Lei n. 8.137/1990). 2. O Plenário do Supremo Tribunal Federal julgou a questão no RHC 163.334/SC e firmou o entendimento de que o contribuinte que, de forma contumaz e com dolo de apropriação, deixa de recolher o ICMS cobrado do adquirente da mercadoria ou serviço incide no tipo penal do art. 2, II, da Lei n. 8.137/1990. 3. Para a configuração do delito em apreço, o fato de o agente registrar, apurar e declarar em guia própria ou em livros fiscais o imposto devido não tem o condão de elidir ou exercer nenhuma influência na prática do ilícito, visto que este não pressupõe a clandestinidade nem a fraude. 4. O sujeito ativo do crime é o sujeito passivo da obrigação, que, na hipótese do ICMS próprio, é o comerciante, conforme claramente descrito pelo art. 2, II, da Lei n. 8.137/1990. 5. Para a configuração do tipo penal do art. 2, II, da Lei n. 8.137/1990, é necessário que a conduta seja dolosa (elemento subjetivo do tipo), consistente na consciência (ainda que potencial) de não recolher o valor do tributo devido. 6. A motivação não tem importância no campo da tipicidade; por opção do legislador, é prescindível a existência de elemento subjetivo especial.

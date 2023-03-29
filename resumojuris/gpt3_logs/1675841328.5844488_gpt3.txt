@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ramo do Direito DIREITO PENAL Tema Crimes de mera conduta. Posse e porte ilegal de municoes sem arma de fogo. Atipicidade. Circunstancias do delito. Quantidade de municoes. Potencial ofensivo. Condenacao por trafico. Insignificancia nao configurada. DESTAQUE A apreensao de municoes em quantidade nao considerada insignificante, aliada a condenacao concomitante pelo delito de trafico de entorpecentes, impoe o afastamento da aplicacao do principio da insignificancia. Salienta-se, de inicio, que por serem crimes de perigo abstrato ou de mera conduta, a posse e o porte ilegal de municoes, ainda que desacompanhados de arma de fogo, sao condutas materialmente tipicas, conforme a jurisprudencia do Superior Tribunal de Justica (AgRg no AREsp 1.513.023/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/11/2019; RHC 51.071/MS, Ministro Jorge Mussi, Quinta Turma, DJe de 22/10/2014). Contudo, excepcionalmente, e possivel reconhecer a atipicidade material da conduta de referidos crimes, descritos na Lei n. 10.826/2003, a partir da analise das circunstancias do delito e em situacao especifica de infima quantidade de municao e de ausencia do artefato capaz de disparar os projeteis, consoante ficou definido pela Terceira Secao do STJ (EREsp 1.856.980/SC, Ministro Joel Ilan Paciornik, Terceira Secao, DJe de 30/09/2021). 736 No caso, em relacao ao reconhecimento da absolvicao pela atipicidade do delito descrito no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os crimes de posse e porte ilegal de munições sem arma de fogo são de mera conduta e, portanto, materialmente típicos. 2. Excepcionalmente, é possível reconhecer a atipicidade material da conduta de referidos crimes, a partir da análise das circunstâncias do delito e em situação específica de infima quantidade de munição e de ausência do artefato capaz de disparar os projéteis. 3. A apreensão de munições em quantidade não considerada insignificante, aliada à condenação concomitante pelo delito de tráfico de entorpecentes, impõe o afastamento da aplicação do princípio da insignificância.

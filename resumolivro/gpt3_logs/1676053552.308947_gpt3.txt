@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Tal imunidade abrange no somente as opinies, palavras e votos que poderiam caracterizar crimes contra a honra da competncia dos rgos jurisdicionais dos Estados como tambm as que poderiam caracterizar crimes da competncia dos rgos jurisdicionais da Unio. O Supremo Tribunal Federal, quando da vigncia da Constituio Federal de 1946, interpretando os seus artigos 44 e 45, editou a Smula 3, segundo a qual a imunidade concedida ao Deputado Estadual  restrita  Justia do Estado-membro. Tal entendimento, entretanto, encontra-se manifestamente superado pela previso constante na carta constitucional de 1998. Na carta de 1946 somente havia previso para a imunidade material dos membros do Poder Legislativo da Unio, pelo que algumas constituies estaduais estabeleceram em favor dos deputados estaduais a mesma imunidade concedida pela Constituio da Repblica aos parlamentares da Unio. Foi neste contexto que a Suprema Corte entendeu que a imunidade instituda pelas Constituies estaduais em favor dos deputados estaduais se limitava ao mbito dos prprios Estados. Aps a Constituio de 1988 que, em seus artigos 27, pargrafo 1, e 32, pargrafo 3, determinou expressamente a aplicao aos Deputados Estaduais e aos Deputados Distritais das regras nela consolidadas sobre a inviolabilidade, foi superada a Smula 3 do Supremo Tribunal Federal. A imunidade parlamentar material conferida pela Constituio da Repblica para a garantia da atividade legislativa dos vereadores foi mais restritiva. Conforme dispe expressamente o inciso VI de seu artigo 29, a inviolabilidade dos vereadores pelas opinies, palavras e votos que proferir no exerccio do mandato se restringe  sua atuao na circunscrio do Municpio. A restrio constitucional merece crticas. A imunidade material somente protege o parlamentar por suas opinies, palavras e votos proferidos no exerccio de seu ofcio. No entanto, o Supremo Tribunal Federal j consolidou o entendimento de que a garantia institucional se estende ao desempenho das funes de representao do Poder Legislativo, seja em ambiente parlamentar ou extraparlamentar (Inq. 510). Desta forma, nos casos em que for necessrio ao parlamentar municipal defender os interesses do Legislativo Municipal fora do espao territorial do municpio, para garantia do pleno exerccio de suas funes, seria necessrio conferir-lhe a imunidade material.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imunidade parlamentar material conferida pela Constituição da República para a garantia da atividade legislativa dos vereadores é mais restritiva, abrangendo somente opiniões, palavras e votos proferidos no exercício do mandato na circunscrição do Município. O Supremo Tribunal Federal j consolidou o entendimento de que a garantia se estende ao desempenho das funções de representação do Poder Legislativo, dentro e fora do ambiente parlamentar.

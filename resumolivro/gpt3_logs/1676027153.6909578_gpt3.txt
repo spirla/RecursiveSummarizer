@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A nova retrica descaracteriza o raciocnio jurdico como uma simples deduo silogstica ou uma busca por uma soluo equitativa para o caso concreto. A concepo de Perelman procura estabelecer uma sntese na qual se leva em conta o valor da soluo e a sua conformidade com o ordenamento positivo, de modo que a soluo para o caso concreto no seja apenas conforme a lei, mas tambm equitativa, razovel e aceitvel. A importncia da obra de Perelman reside, fundamentalmente, na reabilitao da razo prtica, que pretende introduzir racionalidade na discusso sobre questes como a moral, o Direito e a poltica. Mas os crticos percebem o carter conservador de sua teoria, que se prestaria a satisfazer a funo ideolgica de justificao do Direito positivo: precisamente apresentando, como imparciais e aceitveis, decises que na realidade no o so. 2.3. A lgica informal. Stephen Toulmin tambm se props a superar a lgica formal (dedutiva), contudo, sem recorrer  tradio da tpica ou da retrica. Suas ideias fundamentais foram publicadas no livro The uses of argument, tambm de 1958. Toulmin pretendeu mudar o centro de atenes da teoria lgica para a prtica lgica, de modo a trabalhar com uma lgica que tivesse efetiva aplicao prtica. Para verificar a eficcia dessa aplicao, Toulmin afasta-se dos modelos matemticos da lgica tradicional para estudar os argumentos produzidos na jurisprudncia (no sentido de cincia do Direito). Afirmando que a lgica  a jurisprudncia generalizada comparou os argumentos aos litgios jurdicos e as pretenses que fazemos e em favor das quais argumentamos extrajudicialmente s pretenses defendidas perante os tribunais. A comparao feita com os processos judiciais no desobriga os argumentos de apresentarem uma justificao racionalmente pertinente. Para Toulmin, a correo dos argumentos no depende exclusivamente da forma das premissas e da concluso, mas de um procedimento que os submete a julgamento de acordo com critrios apropriados para cada campo de discusso. Nesse sentido, afirma que nossas pretenses devem ser justificadas no perante os juzes, mas sim perante o tribunal da razo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O trabalho de Perelman reabilita a razo prtica para a discusso sobre moral, Direito e poltica. Stephen Toulmin propõe uma lógica informal para aplicação prática, comparando argumentos a litígios jurídicos e defendendo que as pretensões devem ser justificadas perante o tribunal da razão.

@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Por exemplo, se houve a inversao na ordem de oitiva das testemunhas de defesa e daquelas arroladas pela CPAD, e o acusado ou seu defensor sequer se manifestaram sobre esse fato, de modo a alegar eventual prejudicialidade, ou entao a Comissao haver demonstrado a real necessidade dessa inversao aliada a concreta impossibilidade de cumprimento do que prescreve a norma, nao ha que se falar em nulidade do processo. Sobre essa questao, assim leciona Marcus Vinicius Rios Goncalves:
+Nulidades absolutas ou relativas
+Em ambas, ha inobservncia de forma prescrita em lei. A diferenca e que, na absoluta, a forma tera sido imposta em observncia ao interesse publico, e na relativa, aos das proprias partes. Disso resultam diferentes consequncias:
+ so a nulidade absoluta pode ser decretada, de oficio, pelo juiz; a relativa tem que ser alegada pela parte a quem interessa;
+ a relativa preclui, se nao alegada na primeira oportunidade; a absoluta nao, podendo ser conhecida a qualquer tempo no curso do processo (salvo recurso especial ou extraordinario, que exigem prequestionamento) e, eventualmente, ate mesmo depois do seu encerramento, por meio de acao rescisoria. Ate as nulidades absolutas precluirao em determinado momento, o do encerramento do processo (ou da possibilidade de interpor os recursos ordinarios) ou, quando muito, o da acao rescisoria; mas a relativa precluira se nao alegada na primeira oportunidade;
+ a nulidade relativa so pode ser arguida por quem tenha interesse, por ter sofrido algum prejuizo em decorrncia do ato; a absoluta pode ser arguida por qualquer dos participantes do processo, ainda que nao sofra prejuizo, ja que pode ser conhecida ate mesmo de oficio. Mas tambem essa regra tem excecoes. Ha casos de nulidades absolutas que so poderao ser invocadas por aqueles que tiveram prejuizo. (...) Se nao tiver sofrido prejuizo, inexistira a nulidade. Foi nesse sentido que ja decidiu o STJ, ao se posicionar que (...)A inversao da ordem de oitiva de testemunhas de defesa e de acusacao, bem como a juntada posterior de documentos pela Comissao Processante nao acarreta a nulidade do processo administrativo disciplinar, se, em razao disso, nao houve qualquer prejuizo para a defesa do acusado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A nulidade de um processo administrativo disciplinar não pode ser decretada se houver inversão na ordem de oitiva das testemunhas, desde que não haja prejuízo para a defesa do acusado. A nulidade absoluta pode ser decretada de ofício pelo juiz, enquanto a relativa deve ser alegada pela parte interessada. A relativa preclui se não alegada na primeira oportunidade, enquanto a absoluta não preclui, podendo ser conhecida a qualquer momento.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos termos da Smula 711 do STF, a lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigncia  anterior  cessao da continuidade ou da permanncia.  que nesses casos se aplica a regra de que a lei produz efeitos para os fatos praticados durante a sua vigncia. No se trata de aplicao retroativa de lei posterior, mas de aplicao da lei vigente ao tempo do fato. O crime continuado  instituto que decorre do concurso de crime e possui definio no artigo 71 do CP.  uma fico que favorece o ru, ao considerar como crime nico o que, na realidade, caracteriza concurso de vrios crimes, decorrente da repetio da conduta criminosa. Segundo a regra do artigo 71, o julgador deve levar em considerao a pena do crime mais grave. Se a conduta continuou a ser repetida quando da vigncia da lei posterior, e mais grave, ento ocorrer a aplicao da lei vigente ao tempo da realizao do crime. O crime permanente, por sua vez,  aquele em que a descrio da conduta proibida narra uma situao cuja execuo prolonga-se no tempo. O crime permanente  um crime nico, mas a forma de sua execuo permite que ocorra o seu prolongamento por tempo juridicamente relevante.  exemplo de crime permanente o sequestro do artigo 148 do CP. Se a vtima continuar com sua liberdade privada aps a entrada em vigor da lei mais grave, no ocorrer retroatividade, mas aplicao da lei vigente ao tempo da execuo do crime. 3.2.5. Aplicao de lei intermediria e combinao de leis.  possvel que entre a data do fato punvel e a data de seu julgamento ocorra sucesso de leis no tempo que apresente duas ou mais alteraes das disposies relativas ao fato praticado. Pode-se chamar de lei intermediria aquela que entrou em vigor aps a data em que foi realizado o crime e j no estava vigente na data do julgamento. A doutrina concorda que a regra da retroatividade benfica permite que se aplique no julgamento do fato a lei intermediria que beneficiar o sujeito do fato. Neste caso, verifica-se tanto uma retroatividade como uma ultratividade benficas. Ocorre combinao de leis quando, diante da sucesso de leis no tempo, o julgador utiliza dispositivos de duas ou mais leis para definir situao mais benfica ao acusado. O Cdigo Penal no menciona a possibilidade da combinao das leis, o que equivaleria a construir uma lei distinta das demais. No cabe ao julgador a tarefa de criar leis, e sempre houve discordncia na doutrina sobre a possibilidade da combinao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Smula 711 do STF estabelece que a lei penal mais grave se aplica ao crime continuado ou permanente, desde que vigente no momento da prtica. O crime continuado caracterizado pelo concurso de vrios crimes e o crime permanente aquele cuja execuo se prolonga no tempo. A lei intermediria e a combinao de leis tambm so consideradas para definir uma situao mais benfica para o acusado.

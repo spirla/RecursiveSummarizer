@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+156 - ATA1). A defesa dos rus interps recurso de apelao conforme se depreende no Evento 155. Em suas razes recursais, alega que a sentena merece ser reformada, pois est arrimada em elementos frgeis. Segundo a defesa, o exame dos autos deve ser realizado sob o prisma da garantia constitucional da presuno de inocncia e com a devida ponderao do valor e da credibilidade das provas produzidas. Nessa esteira, disse que as supostas vtimas - Carlos Leonardo da Silva Cardoso (Carlo), Washington Luiz (peixe), Adhair de Rezende Novaes (Diquinho), Fbio Martins Ferreira e Rafael Lima Cherman - so pessoas envolvidas com atividades ilcitas, como trfico de drogas, associao, estelionato, roubo, homicdio e posse e porte ilegal de arma de fogo. Disse tambm que os apelantes so excelentes militares, possuidores de extrato de registros funcionais dignos de elogios e exitosos em aes penais fundadas em denncias realizadas por criminosos que visam inibir o bom servio que a polcia tem prestado  sociedade mineira. Quanto ao crime de prevaricao, alega que no h nos autos provas capazes de demostrar que os apelantes encontraram o cidado Carlos Leonardo na Boate Pier 17, tendo sido essa alegao articulada pela suposta vtima e por seus comparsas. Alega que, alm da guarnio dos apelantes, compareceram ao local dos fatos a guarnio do Cb. PM Alessandro Malveira Oliveira, uma guarnio da GEPaR e militares da P2 do 34 BPM. De acordo com a defesa, os apelantes no conseguiram abordar Carlos Leonardo, uma vez que a Boate Pier 17 estava muito cheia - cerca de 2.000 (duas mil) pessoas, tendo algumas delas conseguido fugir da abordagem policial. Declara no ser crvel a alegao dos ofendidos de que os apelantes encontraram Carlos Leonardo com facilidade, visto que a boate estava cheia e, principalmente, porque outras guarnies j haviam comparecido ao local, no tendo sido ele encontrado. Disse que a localizao do cidado nas circunstncias mencionadas pelos ofendidos faz crer que as guarnies que compareceram anteriormente ao local dos fatos prevaricaram, pois, por desdia, deixaram um foragido livre. Segundo a defesa, se Carlos Leonardo tivesse sido encontrado pela guarnio dos apelantes, a equipe da PM2 do 34 BPM, que acompanhava as diligncias no local, teria presenciado os fatos e obviamente registrado algum documento. Dessa forma, alega que no h nos autos do processo provas capazes de demonstrar que Carlos Leonardo foi abordado pelos apelantes dentro da boate, motivo pelo qual entende que devem ser os apelantes absolvidos da prtica do crime de prevaricao, em homenagem ao princpio do in dubio pro reo e na forma do artigo 439, alnea e.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa dos rus interps recurso de apelao alegando que a sentena est arrimada em elementos frgeis, e que as provas produzidas no demostram que os apelantes encontraram o cidado Carlos Leonardo na Boate Pier 17. A defesa alega que o princípio do in dubio pro reo deve ser aplicado, motivo pelo qual entende que os apelantes devem ser absolvidos do crime de prevaricação.

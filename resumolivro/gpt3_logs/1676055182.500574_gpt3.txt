@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O tipo subjetivo do crime de invaso de dispositivo informtico tambm pode ser caracterizado nos casos em que o sujeito oriente sua conduta pela finalidade adulterar dados ou informaes, sem autorizao expressa ou tcita de seu titular, constantes do dispositivo informtico invadido ou de outro. Adulterar significa modificar ou alterar de maneira inadequada, significa corromper, estragar. Nesse caso, o sujeito pretende modificar indevidamente o contedo dos dados ou informaes, preservando o contedo modificado no dispositivo informtico invadido.  indiferente para a caracterizao do crime que a adulterao produzida impea o normal funcionamento do dispositivo ou o resultado produzido na realizao de suas tarefas. O significado que  inerente  ideia de adulterao j indica que a conduta no possui autorizao, expressa ou tcita, de quem de direito. Assim, novamente, o legislador emprega um pleonasmo ao formular a ideia de adulterao sem autorizao expressa ou tcita do titular do dispositivo. O crime em exame tambm pode ocorrer nos casos em que o sujeito se orienta pela inteno de destruir dados ou informaes, sem autorizao expressa ou tcita do titular do dispositivo invadido. Destruir dados ou informaes constantes em dispositivo informtico significa promover a sua retirada da memria do dispositivo, significa apag-los dos locais em que esto armazenados. Cabe notar que, no interior do dispositivo informtico, os dados ou informaes constituem apenas sinais, registros, uma sequencia de bits e bytes. Como os dados ou informaes so intangveis, no se pode entender a destruio a que se refere o tipo como um acontecimento fsico. Nos casos em que o sujeito ativo visa  destruio de dados ou informaes tambm no  necessrio que os dados e as informaes estejam armazenados no dispositivo invadido, sendo possvel a caracterizao do crime quando o sujeito realiza a invaso indevida de um dispositivo para destruir dados ou informaes que esto armazenados em outro dispositivo. Por fim, ainda  possvel a caracterizao do crime de invaso de dispositivo informtico quando o sujeito ativo invade o dispositivo com o fim de instalar vulnerabilidades para obter vantagem ilcita. No contexto da incriminao, instalar significa introduzir, inserir, fazer funcionar uma vulnerabilidade que permita, posteriormente, a obteno de vantagem ilcita. Nesse caso, o tipo estabelece dois estgios para o especial fim de agir. O sujeito invade o dispositivo informtico com o fim de instalar uma vulnerabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de invaso de dispositivo informático pode ser caracterizado quando o sujeito tem a intenção de adulterar, destruir ou instalar vulnerabilidades em dados ou informações, sem autorização do titular. A destruição se dá por meio da retirada dos dados da memória do dispositivo, e a instalação de vulnerabilidades visa obter vantagem ilícita.

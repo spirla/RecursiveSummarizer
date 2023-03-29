@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por outro lado  ainda que observada a relativa autonomia das Casas Legislativas estaduais para re-ger o processo eletivo da Mesa Diretora  a possibilidade de reeleicoes sucessivas e ilimitadas para os cargos diretivos do Poder Legislativo estadual mostra-se incompativel com os principios republicano e democratico, os quais exigem a alternancia de poder e a temporariedade dos mandatos, sendo-lhes permitida uma unica reconducao. Em relacao a definicao do marco temporal para a atribuicao de efeitos em sede de controle concentra-do de constitucionalidade, este Tribunal tem adotado como referencia a data da publicacao da ata de julgamen-to, considerando o que dispoe o art. 28 da Lei 9.868/1999. Desse modo, o precedente firmado no julgamento da ADI 6524/DF deve ser aplicado aos parlamentares que tomaram posse em cargos diretivos das Assembleias Legislativas a partir da data da publicacao de sua ata de julgamento, salvo se configurada a antecipacao fraudu-lenta das eleicoes como burla ao entendimento do STF. Com base nesses entendimentos, o Plenario, por maioria, em sessao de julgamento presencial desig-nada para a proclamacao de resultados  tendo em vista que as acoes foram oportunamente apreciadas de modo conjunto no ambiente virtual , proclamou individualmente cada um deles e fixou as referidas teses.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A possibilidade de reeleições sucessivas e ilimitadas para os cargos diretivos do Poder Legislativo estadual é incompatível com os princípios republicano e democrático, os quais exigem a alternância de poder e a temporariedade dos mandatos, sendo-lhes permitida uma única recondução. 2. O marco temporal para a atribuição de efeitos em sede de controle concentrado de constitucionalidade é a data da publicação da ata de julgamento, considerando o que dispõe o art. 28 da Lei 9.868/1999. 3. O precedente firmado no julgamento da ADI 6524/DF deve ser aplicado aos parlamentares que tomaram posse em cargos diretivos das Assembleias Legislativas a partir da data da publicação de sua ata de julgamento, salvo se configurada a antecipação fraudulenta das eleições como burla ao entendimento do STF.

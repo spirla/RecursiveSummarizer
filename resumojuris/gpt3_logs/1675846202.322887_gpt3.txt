@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+4, caput, 7, II, III e IV, 11 e 16; Lei n. 6.385/1976, art. 27-E; e CPP (CPP/1941), arts. 312 e 319. Processo AgRg no HC 691.423-SP, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 07/06/2022, DJe 14/06/2022. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Trafico domestico de entorpecentes a bordo de aeronave. Droga apreendida no solo. Competencia da Justica Estadual. DESTAQUE Nos delitos de trafico de entorpecentes interestadual ocorrido em aeronave, e uma vez apreendida a droga em solo, a competencia para o julgamento da acao penal sera da Justica Estadual. 1185 Nos termos do art. 109, inciso IX, da CF, e de competencia da Justica Federal o julgamento dos crimes cometidos a bordo de navios ou aeronaves, ressalvada a competencia da Justica Militar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Nos delitos de tráfico de entorpecentes interestadual ocorrido em aeronave, e uma vez apreendida a droga em solo, a competência para o julgamento da ação penal será da Justiça Estadual. 2. De acordo com o art. 109, inciso IX, da CF, é de competência da Justiça Federal o julgamento dos crimes cometidos a bordo de navios ou aeronaves, ressalvada a competência da Justiça Militar.

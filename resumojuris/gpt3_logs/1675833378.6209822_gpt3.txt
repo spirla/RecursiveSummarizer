@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Tema 1110/STJ. DESTAQUE 1. Em razao da novatio legis in mellius engendrada pela Lei n. 13.654/2018, o emprego de arma branca, embora nao configure mais causa de aumento do crime de roubo, podera ser utilizado como fundamento para a majoracao da pena-base, quando as circunstancias do caso concreto assim justificarem. 2. O julgador deve fundamentar o novo apenamento ou justificar a nao realizacao do incremento na basilar, nos termos do que dispoe o art. 387, II e III, do CPP. 3. Nao cabe a esta Corte Superior a transposicao valorativa da circunstancia para a primeira fase da dosimetria ou mesmo compelir que o Tribunal de origem assim o faca, em razao da discricionariedade do julgador ao aplicar a novatio legis in mellius. Como se sabe, a primeira modificacao introduzida pela Lei n. 13.654/18, no crime de roubo, foi a revogacao do inciso I, do  2, do art. 157, restringindo a majorante relativa ao emprego de arma as situacoes nas quais seja utilizada arma de fogo. De acordo com o dispositivo revogado, a pena do roubo sofria aumento de um terco a metade se a violencia ou a ameaca fosse exercida com emprego de arma , prevalecendo na doutrina a orientacao de que arma , compreendia todo o objeto ou utensilio que servisse para matar, ferir ou ameacar, independentemente da forma ou do destino principal. A revogacao do inciso I, do  2, se seguiu da insercao do  2-A, que, no inciso I, majora a pena se a violencia ou a ameaca e exercida com emprego de arma de fogo, punindo-a, agora, de forma mais severa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 13.654/2018 engendrou uma novatio legis in mellius, não configurando mais o emprego de arma branca como causa de aumento do crime de roubo. 2. O julgador deve fundamentar o novo apenamento ou justificar a não realização do incremento na pena-base, nos termos do art. 387, II e III, do CPP. 3. Não cabe à Corte Superior transpor a circunstância para a primeira fase da dosimetria ou compelir o Tribunal de origem a fazê-lo, em razão da discricionariedade do julgador ao aplicar a novatio legis in mellius.

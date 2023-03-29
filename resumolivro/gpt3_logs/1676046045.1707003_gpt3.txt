@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Diante da complexidade e do volume da produo legislativa, a potencial capacidade do indivduo para conhecer e compreender a licitude de seu comportamento restar sempre vinculada s suas possibilidades de informao. Pode-se, assim, concluir que o ordenamento jurdico no s exige que o homem evite as condutas que percebe claramente injustas, como tambm que se esforce no sentido de sempre dirigir seu comportamento em conformidade com o Direito. Nesse sentido, Jescheck esclarece que um Estado baseado na liberdade pressupe que seus cidados orientem-se pela vontade de atuar juridicamente, ainda que nem sempre o conhecimento da norma jurdica possa ser apurado concretamente. O dever de informar-se faz que a boa-f, por si s, no exclua a reprovao penal, devendo o homem responder, em certa medida, pela correo objetiva de suas decises se, mesmo no conhecendo concretamente a ilicitude do fato praticado, era-lhe possvel alcanar tal conhecimento. Como o potencial conhecimento da ilicitude do fato  um dos elementos da culpabilidade, o erro de proibio repercute seus efeitos sobre o juzo de reprovao. Se o erro foi considerado inevitvel, isso significa que o sujeito no pde reconhecer a ilicitude de sua conduta. Portanto, no se pode censurar a finalidade socialmente inadequada que orientou o comportamento de quem o realiza, j que este no a percebeu criminosa. Todavia, se o erro era evitvel, o sujeito atuou sem conhecimento sobre a ilicitude do fato, quando lhe era possvel alcanar tal conhecimento. Nesse caso, era exigvel que o sujeito evitasse o erro e, assim, tambm a reprovao. Como o sujeito atua em erro, a intensidade da reprovao dirigida  sua finalidade criminosa  menor e, portanto, a pena deve ser reduzida. Nos termos do artigo 21 do Cdigo Penal, em sua parte final, o erro evitvel sobre a ilicitude do fato poder diminuir a pena de um sexto para um tero. Tratando-se de um aspecto do juzo de reprovao pessoal, a evitabilidade do erro de proibio deve ser apurada de acordo com a potencialidade de cada indivduo para conhecer a ilicitude de seu comportamento. O juzo de reprovao da culpabilidade, ao contrrio dos juzos de tipicidade e ilicitude, impe considerar as peculiaridades do indivduo que concretamente est sob julgamento. Nesse sentido, o pargrafo nico do artigo 21 deixa claro que a considerao sobre a evitabilidade do erro de proibio deve ser apurada segundo a potencialidade de conhecimento do indivduo que est sob julgamento.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conhecimento da norma jurdica é exigido pelo Estado para que o indivíduo oriente seu comportamento de acordo com o Direito. Se o erro de proibição for considerado inevitável, isso significa que o sujeito não pode reconhecer a ilicitude de sua conduta. Se for evitável, a pena deve ser reduzida segundo a potencialidade de conhecimento do indivíduo.

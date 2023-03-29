@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nos termos da jurisprudencia consolidada no ambito do Superior Tribunal de Justica, [o] acordo de nao persecucao penal, previsto no art. 28-A do CPP, aplica-se a fatos ocorridos antes da Lei n. 13.964/2019, desde que nao recebida a denuncia (AgRg no AREsp 1.609.632/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 3/12/2020). No caso, e notorio o avanco da marcha processual, tendo em vista que ja havia denuncia recebida e sentenca condenatoria. De fato, nos termos do atual e pacifico entendimento desta Corte, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do CPP, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), e norma de natureza processual cuja retroatividade deve alcancar somente os processos em que nao houve o recebimento da denuncia. (AgRg no HC 640.125/SC, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe 26/06/2021). (Informativo n. 761) PROCESSO AgRg no HC 770.256-SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 25/10/2022, DJe 4/11/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Emendatio libelli. Fato ja descrito na denuncia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O acordo de não persecução penal previsto no art. 28-A do CPP aplica-se a fatos ocorridos antes da Lei n. 13.964/2019, desde que não recebida a denúncia. 2. O art. 28-A do CPP, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia.

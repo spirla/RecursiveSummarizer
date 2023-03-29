@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RECURSO INTERPOSTO PELO MINISTRIO PBLICO. I - Conforme preceitua o art. 443 do Cdigo de Processo Penal Militar, a intimao da sentena pode ocorrer quando da proclamao do resultado se neste momento tambm for lida a sentena ou. caso isto no ocorra, em momento posterior. II - Na hiptese, pelo que se depreende dos autos, a intimao da sentena ocorreu em sesso posterior quela onde se operou a proclamao do resultado. E, tomada esta data como a qual se efetivou a intimao, o apelo do Parquet no pode ser havido como intempestivo. Habeas Corpus denegado. (HC n. 59.088/RO, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/9/2006, DJ de 30/10/2006, p. 353.) Por oportuno, do referido julgado, transcrevo trecho do voto do eminente relator, Ministro Felix Fischer, que definiu como data da publicao da sentena, condenatria a da audincia de leitura da sentena e no a da prolao do resultado do julgamento, confira-se: Dispe o art. 443 do Cdigo de Processo Penal Militar: "Art. 443 - Se a sentena ou deciso no for lida na sesso em que se proclamar o resultado do julgamento, s-lo- pelo auditor em pblica audincia, dentro do prazo de oito dias, e dela ficaro, desde logo, intimados o representante do Ministrio Pblico, o ru e seu defensor, se presentes." Portanto, a teor do que prescreve referido artigo, para se definir o dies a quo do prazo para manejo de recurso contra a deciso (ou sentena) proferida, h que se determinar a data em que a sentena, de fato, foi lida para as partes. O que, dessume-se da leitura do comentado dispositivo legal, poder ser na prpria proclamao do resultado do julgamento ou em audincia posterior. Na hiptese, colhe-se dos autos que a r. sentena tornou-se pblica em 1 de novembro de 1989, conforme consta da 40a Ata da Auditoria Militar do Estado de Rondnia. Veja-se, a propsito, o que constou naquela oportunidade: "O Sr. Presidente do Conselho determinou que todos ficassem de p e deu por aberta a sesso, determinando ao Sr. Escrivo que procedesse com a leitura da Ata da Sesso anterior. Lida a referida, a mesma foi aprovada por unanimidade. O Sr. Presidente solicitou...que fizesse adentar no recinto os acusados.... O MM. Juiz auditor fez a leitura da sentena dando-a por publicada."
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público interpôs recurso, conforme prevê o art. 443 do Código de Processo Penal Militar, cuja intimação da sentena ocorreu em sessão posterior à proclamação do resultado. Assim, o habeas corpus foi denegado, tendo a sentena sido publicada na audiência de leitura da sentena, e não na prolação do resultado do julgamento.

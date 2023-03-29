@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Sebastiao Reis Junior, Sexta Turma, julgado em 24/08/2021, DJe 16/09/2021. Ramo do Direito DIREITO CONSTITUCIONAL, DIREITO PENAL Tema Instituto Penal Placido de Sa Carvalho - IPPSC. Resolucao editada em 22/11/2018 pela Corte Interamericana de Direitos Humanos. Computo em dobro cada dia de privacao de liberdade. Prova tecnica. Providencias do Juizo das Execucoes Criminais. Urgencia. DESTAQUE Para fins de cumprimento da Resolucao editada em 22/11/2018 pela Corte Interamericana de Direitos Humanos, o Juizo das Execucoes Criminais deve adotar providencias para a elaboracao da prova tecnica com urgencia. Consta na Resolucao editada em 22/11/2018 pela Corte Interamericana de Direitos Humanos - CIDH que o Estado brasileiro devera arbitrar os meios para que se compute em dobro cada dia de privacao de liberdade cumprido no Instituto Penal Placido de Sa Carvalho - IPPSC, localizado no Complexo Penitenciario de Gericino, na cidade do Rio de Janeiro/RJ, para todas as pessoas ali alojadas que nao sejam acusadas de crimes contra a vida ou a integridade fisica, ou de crimes sexuais, ou nao tenham sido por eles condenadas. No caso, o paciente praticou crimes contra a integridade fisica da pessoa, segundo os itens 128, 129 e 130 da Resolucao, exige-se um tratamento diferente, com abordagem particularizada, tornando-se imprescindivel a realizacao de exame criminologico que indique, inclusive, o grau de agressividade do sentenciado. A resolucao da CIDH indica que a pericia criminologica deva ser realizada por uma equipe de, no minimo, tres profissionais, constituida especialmente por psicologos e assistentes sociais (sem prejuizo de outros), de comprovada experiencia e adequada formacao academica, nao sendo suficiente o parecer de um unico profissional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Estado brasileiro deverá arbitrar os meios para que se compute em dobro cada dia de privação de liberdade cumprido no Instituto Penal Placido de Sa Carvalho - IPPSC. 2. Para fins de cumprimento da Resolução editada em 22/11/2018 pela Corte Interamericana de Direitos Humanos, o Juízo das Execuções Criminais deve adotar providências para a elaboração da prova técnica com urgência. 3. No caso, o paciente praticou crimes contra a integridade física da pessoa, exige-se um tratamento diferente, com abordagem particularizada, tornando-se imprescindível a realização de exame criminológico que indique, inclusive, o grau de agressividade do sentenciado. 4. A Resolução da CIDH indica que a perícia criminológica deva ser realizada por uma equipe de, no mínimo, três profissionais, constituída especialmente por psicólogos e assistentes sociais (sem prejuízo de outros), de comprovada experiência e adequada formação acadêmica, não sendo suficiente o parecer de um único profissional.

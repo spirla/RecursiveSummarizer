@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A ilicitude conserva-se como um juzo objetivo, pressupondo que o Direito deve impor a todos os indivduos as mesmas exigncias, bem como as mesmas consequncias diante do cometimento de fatos iguais. No entanto, ressalte-se que  pertinente a crtica da teoria dos elementos subjetivos de justificao, no sentido de que a ao somente se v justificada quando o sujeito detm o conhecimento da justificao para a situao de fato e sua conduta  motivada por esse conhecimento. Culpabilidade. O conceito de culpabilidade nessa formulao apresenta-se complexo, e Wessels assinala que, neste, compreendem-se a capacidade de culpa, os elementos especiais da culpabilidade (previstos apenas em determinados casos), a forma de culpabilidade (dolosa ou culposa), a conscincia do injusto e a ausncia de causas exculpantes. Percebendo clara distino entre o injusto, que representa a desconformidade do fato com as normas do dever da ordem jurdica, e a culpabilidade, Wessels define a culpabilidade como a censurabilidade da formao e da manifestao da vontade. Para essa sistematizao de cunho social, a culpabilidade  vislumbrada como reprovabilidade de base normativa, fundada no nimo adverso ao direito. Significa, assim, censurabilidade do fato com considerao sobre o nimo ativo juridicamente repreensvel. A culpabilidade diz respeito ao fato, e no ao carter; contudo, Wessels admite que indiretamente poder ocorrer uma culpabilidade pela conduta de vida. Tal postura configura um Direito Penal do autor, embora mitigado, e sofre todas as mesmas crticas dirigidas  culpabilidade de carter, tambm observadas na postura de Welzel. Por entender que o contedo da culpabilidade de um comportamento punvel sempre se torna codeterminado pelo contedo do injusto, pois cada variao deste influiria indiretamente na gravidade da censura, a sistematizao social considera o dolo e a culpa, tanto no momento de anlise do tipo como quando da anlise da culpabilidade. Em virtude dessa dupla considerao, o dolo, no exame da tipicidade, coloca-se como elemento determinante da direo do comportamento e, no exame da culpabilidade, estabelece um tipo de culpa,  medida que reflete o desvalor do nimo impulsionador do fato e caracteriza a posio adversa ou indiferente do sujeito em relao s normas jurdicas. Esclarece Jescheck:
+(...) el dolo no debe, sin embargo, incluir-se slo en el tipo de injusto, sino que ostenta una doble posicin.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ilicitude é um juízo objetivo, aplicando-se a todos os indivíduos as mesmas exigências e conseqüências. A culpabilidade é complexa, incluindo capacidade de culpa, elementos especiais, forma de culpabilidade, consciência do injusto e ausência de causas exculpantes. O Direito Penal é do autor, mas mitigado. O dolo tem dupla consideração, sendo elemento determinante da direção do comportamento no exame da tipicidade e refletindo o desvalor do ânimo impulsionador no exame da culpabilidade.

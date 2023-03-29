@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em Evento 02, OUT83, houve deciso determinando a juntada da percia do colete balstico aos presentes autos e indeferindo os demais requerimentos para produo de provas formuladas pelo autor. Em Evento 02, OUT85, foi feita a juntada da Ata de Percia em colete. Aps, o autor arrolou quatro testemunhas, sendo ouvidas apenas trs, em razo de desistncia do autor na inquirio da ltima testemunha, Rogrio Honorato da Cunha, conforme manifestao de Evento 24. O autor apresentou alegaes finais, conforme Evento 41, ao passo que, no Evento 45, o Estado de Minas Gerais reiterou a defesa anteriormente apresentada. Em sentena (Evento 52), o meritssimo juiz de direito titular da 5a Auditoria de Justia Militar Estadual (AJME) abordou todas as questes suscitadas e, ao final, entendeu que: [...] Inicialmente deve-se consignar que cabe ao Poder Judicirio, quando devidamente provocado, realizar o controle judicial dos atos da Administrao. Entretanto, sob o prisma do sistema de tripartio, esse controle apenas incide sobre a legalidade do ato, sem qualquer, ingerncia no mrito da deciso, sob pena de se exercer a funo administrativa, tpica do Poder Executivo. Com efeito, restringindo  anlise da legalidade do ato administrativo impugnado, verifica-se que  caso de improcedncia da ao proposta, pois inexiste ilegalidade no procedimento que levou  demisso do autor. Na 7a Reunio - 31/10/2016 (evento 2, PROCADM14, Pginas 88/90) foi oportunizado o interrogatrio, mas o ato restou suspenso, at que o recurso interposto pela defesa seja decidido e em razo o autor ter tido um mal sbito. Na 8a Reunio - 06/01/2017 (evento 2, PROCADM15, Pginas 14/26) o autor no compareceu, tendo seu advogado alegado que ele estava em observao no hospital Santa Genoveva". Na 9a Reunio - 28/03/2017 (evento 2, PROCADM15, Pgina 62) o auto no compareceu, tendo seu advogado alegado que ele estava no pronto-socorro do hospital Santa Genoveva. Na 10 a Reunio - 04/04/2017 (evento 2, PROCADM16, Pgina 16, c/c evento 2, PROCADM17, Pginas 03/05) tanto o autor quanto o seu advogado no compareceram, apensar de devidamente notificados, tendo sido nomeado defensor Ad Hoc. Na 11a Reunio - 07/04/2017 (evento 2, PROCADM19, Pginas 17/19) o ato restou cancelado, visando resguardar o contraditrio e a ampla defesa, tendo em vista que houve um erro na data quando da designao. Na 12a Reunio - 12/04/2017 (evento 2, PROCADM24, Pginas 22/28) - tanto o autor quanto o seu advogado no compareceram, apesar de devidamente notificados, ocasio em que a CAPM delibou pela abertura de vista para defesa final, considerando as situaes procrastinatrias do defensor e acusado".
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz de direito da 5a Auditoria de Justia Militar Estadual entendeu que não havia ilegalidade no procedimento que levou à demissão do autor, por isso decidiu improceder a ação proposta. Houve tentativas de interrogatório, mas foram suspensas e canceladas devido ao mal súbito do autor e à falta de comparecimento do autor e seu advogado, respectivamente.

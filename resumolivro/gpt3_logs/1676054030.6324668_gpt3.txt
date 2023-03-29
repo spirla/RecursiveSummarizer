@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos casos em que o sujeito emprega a violncia contra uma coisa, como por exemplo, contra um automvel, deve a pena aplicada com base na parte fixa da cominao para o crime de constrangimento ilegal (simples ou qualificado) ser somada  pena aplicada com base na cominao reservada para o crime de dano, previsto no artigo 163 do Cdigo Penal. Em todos esses casos, a cominao adapta-se  gravidade do meio de execuo do crime nico que  o constrangimento ilegal. No concurso de penas a serem executadas em razo de condenao por constrangimento ilegal, segundo o artigo 76 do CP, executar-se- primeiramente a pena mais grave. A gravidade da pena privativa de liberdade  definida pela espcie de pena, e no pela quantidade. A pena de recluso  mais grave que a de deteno, pois admite o incio de seu cumprimento em regime fechado (artigo 33, caput, do CP). Desta forma, havendo a imposio de pena de recluso e de deteno, a execuo deve iniciar-se pelo cumprimento da pena de recluso. Concurso de crimes. Nos casos em que no for possvel aplicar a cominao especial que estabelece o concurso de penas poder ocorrer o concurso de crimes entre o constrangimento ilegal e o que decorre do emprego da violncia. Para tanto  necessrio que o emprego da violncia possa adquirir um contexto autnomo em relao  execuo do crime contra a liberdade individual. Esta situao pode ocorrer nos casos de concurso entre o constrangimento ilegal e o homicdio, doloso ou culposo. Vejamos estas hipteses. Constrangimento ilegal e homicdio doloso. No caso em que o sujeito ativo pretender constranger a vtima e, com o emprego da violncia, tambm mat-la, no se poder reconhecer apenas a ocorrncia de crime contra a liberdade.  que a inteno de matar no se concilia com a inteno de constranger. Somente se pode constranger a pessoa viva. Assim, diante da verificao da inteno de constranger a pessoa viva e depois mat-la, deve-se reconhecer a ocorrncia de dois crimes: o de constrangimento ilegal e o de homicdio (simples ou qualificado, conforme o caso).  possvel que o motivo que levou o sujeito a matar a vtima seja a pretenso de garantir a ocultao ou a impunidade pela prtica do crime contra a liberdade. Nesse caso, ocorrer concurso material entre o constrangimento ilegal e o homicdio qualificado. Pode ocorrer, tambm, que a vitima resista  pretenso do sujeito de constrang-la e este resolva mat-la para evitar a realizao da conduta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No caso de violncia contra uma coisa, como um automvel, deve-se somar a pena aplicada para o crime de constrangimento ilegal à pena prevista para o crime de dano (artigo 163 do CP). Em casos de concurso de penas, a mais grave será executada primeiro. Quando não for possível aplicar a cominação especial, pode haver concurso de crimes entre constrangimento ilegal e homicídio doloso ou culposo. Se houver intenção de constranger e matar a vítima, reconhece-se a ocorrência de dois crimes: o de constrangimento ilegal e o de homicídio (simples ou qualificado).

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A minha me no soube falar qual bolsa, mas quando eu cheguei na minha casa estava tudo revirado e a bolsa onde eu guardava o dinheiro estava jogada em cima da minha cama e vazia e s eles tinham entrado l em casa. Esse dinheiro era meu, das minhas peas intimas. Perguntada como tomou conhecimento da exigncia, respondeu que, atravs do meu marido porque eu no estava em casa. Perguntada se os quatros militares estiveram na casa dela nos dois dias, respondeu que, sim. Perguntada se viu o caderno de anotaes que foi apreendido, respondeu que, no dia em que ele foi preso no tinha caderno no, mas falaram no dia da audincia que tinha um caderno. Perguntada se foi a sua me quem lhe falou da bolsa, respondeu que, sim. Perguntada se sentiu falta da mochila, respondeu que, no l em casa tinham outras mochilas. Perguntada do que sentiu falta, respondeu que, do dinheiro, dos perfumes, do chinelo e da correntinha. Perguntada qual o valor que deu falta, respondeu que, R$ 1500,00 (mil e quinhentos reais). Perguntada se questionou os militares sobre o motivo da priso de seu marido, respondeu que, eu perguntei, mas eles no responderam, s olharam para minha cara e riram. Eu perguntei vocs esto levando ele porque ns no pagamos os R$ 4.000,00, eles no responderam, s riram. Perguntada se presenciou os rus exigirem o dinheiro, respondeu que, no. Perguntada se sabe alguma caracterstica da mochila levada pelos militares, respondeu que, no. Eu tinha muitas mochilas, at hoje eu tenho e essa estava em cima do guarda-roupa e eu no tinha hbito de usar ela no. Viviane Cipriano (AUDIO/VDEO 09/12) [...] confirma os depoimentos prestados anteriormente. Perguntada se eram esses os policiais que estiveram na casa de Rafaela, respondeu que, trs sim o outro era o motorista e eu no me lembro dele. Eu estava na rua Serra Negra descendo e deparei com o Marreco desesperado falando que os policiais estavam dentro da sua casa, que encontraram quatro buchas de maconha e que estavam pedindo dinheiro para ele [...] eu no sei a quantia. Eu encostei o carro e fui at a residncia deles [...] Perguntada se Marreco era usurio de drogas, respondeu que, sim. Perguntada se ele estava trabalhando, respondeu que, sim com o meu irmo na rea de refrigerao. Perguntada se ele era traficante, respondeu que, j foi na poca no era mais [...] ento eu encostei o carro, fui at a residncia deles, deparei com os militares e eles falaram que eu no poderia entrar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A testemunha confirmou os depoimentos anteriores, relatando que os quatro militares estiveram na casa de Rafaela, exigindo dinheiro, e que Marreco, usuário de drogas, estava trabalhando com o irmão da testemunha na área de refrigeração. A testemunha também relatou que, quando chegou em casa, encontrou a bolsa onde guardava o dinheiro vazia, e que faltavam R$1500,00 (mil e quinhentos reais).

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Ao lado de outras expresses, como imprudncia, negligncia, impercia, delito involuntrio e quase delito, a culpa apresenta deficincia designativa para a essncia da conduta que, no se enquadrando na noo do dolo, permite responsabilizar penalmente o seu autor. A dificuldade dessa designao conceitual, em muito, apresenta-se como consequncia de uma considerao erroneamente secundria dessa forma de conduta em relao aos crimes dolosos. Juarez Tavares, pretendendo superar a terminologia causal e adotar uma terminologia de essncia para a culpa, sustenta que a expresso negligncia retrata conceito de contedo mais adequado para definir a situao em que h a inobservncia das cautelas devidas no momento da conduta para evitar-se a leso ao bem jurdico. Nesse sentido, conceitua a negligncia como. forma de conduta humana que se caracteriza pela realizao do tipo de um delito, por meio de uma ao perigosa e contrria ao dever de cuidado, materializvel em um resultado proibido, previsvel e evitvel, e cuja culpabilidade se assenta no fato de no haver o agente evitado sua realizao, apesar de capaz e em condies de faz-lo. Para compreender a essncia do tipo culposo (negligente),  necessrio ter em mira seus aspectos fundamentais de omisso a um dever objetivo de cuidado e de previsibilidade que confere capacidade ao sujeito para evitar a leso ao bem jurdico. Com muita propriedade, o legislador tratou da culpa no Cdigo Penal Militar. Nos termos do inciso II de seu artigo 33, o crime  culposo. Art. 33. (...). - quando o agente, deixando de empregar a cautela, ateno ou diligncia ordinria, ou especial, a que estava obrigado em face das circunstncias, no prev o resultado que podia prever ou, prevendo-o, supe levianamente que no se realizaria ou que poderia evit-lo. O componente subjetivo foi adequadamente ressaltado, de modo a constituir-se verdadeira alternativa, no plano subjetivo, ao comportamento doloso. Fica claro no referido dispositivo legal que o sujeito inobserva o seu dever objetivo de cuidado por no prever o resultado que poderia prever ou pela crena, leviana, de que o resultado previsto no se realizaria ou que poderia ser evitado. Ao contrrio da conduta dolosa, em que o sujeito prev e persegue o resultado ilcito, o crime culposo caracteriza-se pelo fato de que o resultado ilcito no decorre da vontade do sujeito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A culpa é uma forma de conduta humana que se caracteriza pela realização de um delito, por meio de ação perigosa e contrária ao dever de cuidado, previsível e evitável. O crime culposo é caracterizado pelo fato de que o resultado ilícito não decorre da vontade do sujeito, sendo necessário ter em mente os aspectos fundamentais de omissão ao dever objetivo de cuidado e previsibilidade para compreender a essência do tipo culposo.

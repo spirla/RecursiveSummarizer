@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O pargrafo nico do artigo 93 do CP determina que a reabilitao poder, tambm, atingir os efeitos da condenao, previstos no artigo 92 deste Cdigo, vedada reintegrao na situao anterior, nos casos dos incs. I e II do mesmo artigo. Os efeitos da condenao previstos nos incs. I e II do artigo 92 so a perda de cargo, funo pblica ou mandato eletivo; e a incapacidade para o exerccio da tutela ou curatela. Se  vedada reintegrao na situao anterior, significa dizer que no se poder reconduzir o reabilitado ao cargo, funo pblica ou mandato eletivo perdidos, tampouco restituir-lhe a capacidade para o exerccio da tutela ou curatela. Vale observar que o artigo 92 autoriza impor a perda de cargo, funo pblica ou mandato eletivo como efeito da condenao. Tal efeito, entretanto, no implica a incapacidade para o exerccio de outro cargo, funo pblica ou mandato eletivo. Se a perda no implica a incapacidade,  incorreto afirmar que o reabilitado readquire a capacidade. Ele no perdeu a capacidade com a condenao; portanto, no pode recuperar o que no foi perdido. Houve a perda do cargo, funo pblica ou mandato eletivo, e a reabilitao no poder reintegr-lo na situao anterior. Quanto ao efeito da incapacidade para o exerccio da tutela ou curatela, expressamente a reabilitao no pode restituir a capacidade perdida. Por isso, tambm no  correto afirmar que a reabilitao permite readquirir a capacidade em relao a outros menores ou interditos que no tenham sido vtimas do crime. A incapacidade imposta como efeito da condenao deve ser genrica. No se pode conceber a incapacidade para exercer a tutela em relao a um menor e a capacidade para exerc-la em relao a outro. Ou o indivduo  capaz de exercer o munus ou no . Em suma, considerando a restrio imposta pelo pargrafo nico do artigo 93, a reabilitao no atinge esses efeitos da condenao. Cessada a incapacidade,  possvel que o condenado seja nomeado para o exerccio de tutela ou curatela, mas no adquire as funes anteriores. No caso, seria necessrio haver uma nova nomeao para o exerccio de tutela ou curatela para que o condenado volte a exercer tais funes. O instituto em exame somente poder promover a reabilitao do condenado para dirigir veculo automotor, que  efeito especfico da condenao, previsto no inciso III do artigo 92 do CP. Parece pouco, mas no . A reabilitao para dirigir veculo  importante efeito do instituto no escopo de reintegrar o condenado  sociedade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 93 do CP permite a reabilitao dos efeitos da condenao previstos no artigo 92, exceto a reintegrao na situao anterior. Os efeitos da condenao previstos no inciso I e II do artigo 92 são a perda de cargo, função pública ou mandato eletivo; e a incapacidade para o exercício da tutela ou curatela. O único efeito da reabilitação é o direito de dirigir veículo automotor, previsto no inciso III do artigo 92.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No tm exigido os Tribunais Superiores a integral transcrio das conversasgravadas. Decidiu o STF:
+ desnecessria a juntada do contedo integral das degravaes das escutas telefnicas realizadas nos autos do inqurito no qual so investigados os ora Pacientes, pois bastam que se tenham degravados os excertos necessrios ao embasamento da denncia oferecida, no configurando, essa restrio, ofensa ao princpio do devido processo legal (artigo 5, inciso LV, da Constituio da Repblica). Reiteradas decises do STJ resultaram na ementa publicada em Jurisprudncia em Teses, edio de 117:
+No h necessidade de degravao dos dilogos objeto de interceptao telefnica, em sua integralidade, visto que a Lei 9.296/1996 no faz qualquer exigncia nesse sentido. Desse modo o STJ decidiu no haver ofensa ao princpio da ampla defesa no fato de o juiz de primeiro grau no realizar a transcrio integral dos dilogos decorrentes de interceptao telefnica, se disponibilizou para os defensores a mdia com todas as conversas gravadas. Mais um ponto de polmica reside na indispensabilidade ou no de percia de voz para a identificao dos interlocutores. Aos poucos o STJ foi firmando o entendimento de no haver necessidade de percia de voz para identificar os interlocutores. Por fim, sucessivas decises do STJ resultaram na ementa publicada em Jurisprudncia em Teses, edio de 117:
+ desnecessria a realizao de percia para a identificao de voz captada nas interceptaes telefnicas, salvo quando houver dvida plausvel que justifique a medida. O terceiro ponto consoante o disposto no pargrafo 2 do artigo 6 da Lei 9.296/96  que a autoridade policial encaminhar o resultado da interceptao ao juiz, acompanhado de auto circunstanciado, que dever conter o resumo das operaes realizadas. H divergncia quanto  natureza e indispensabilidade do auto circunstanciado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF decidiu que não é necessário juntar o conteúdo integral das gravações das escutas telefônicas realizadas nos autos do inquérito, pois bastam os excertos necessários para embasar a denúncia. O STJ também decidiu que não é necessário realizar a transcrição integral dos diálogos decorrentes da interceptação telefônica, além de não ser necessário realizar perícia de voz para identificar os interlocutores. Por fim, a autoridade policial deve encaminhar o resultado da interceptação ao juiz, acompanhado de auto circunstanciado contendo o resumo das operações realizadas.

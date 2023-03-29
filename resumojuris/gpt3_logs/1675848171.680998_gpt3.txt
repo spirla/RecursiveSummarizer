@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1234 Retomando a situacao em analise, uma vez que o acusado ja estava preso por porte de arma de fogo em via publica, sozinho, diante de dois policiais armados, sem a opcao de ser assistido por defesa tecnica e sem minimo esclarecimento sobre seus direitos, nao e crivel que estivesse em plenas condicoes de prestar livre e valido consentimento para que os agentes de seguranca estendessem a diligencia com uma varredura especulativa auxiliada por caes farejadores em seu domicilio a procura de drogas, a ponto de lhe impor uma provavel condenacao de 5 a 15 anos de reclusao, alem da pena prevista para o crime do art. 14 do Estatuto do Desarmamento, no qual ja havia incorrido. A diligencia policial, no caso dos autos, a rigor, configurou verdadeira pescaria probatoria (fishing expedition) no domicilio do acusado, definida pela doutrina como a Apropriacao de meios legais para, sem objetivo tracado, 'pescar' qualquer especie de evidencia, tendo ou nao relacao com o caso concreto. Trata-se de uma investigacao especulativa e indiscriminada, sem objetivo certo ou declarado, que, de forma ampla e generica, 'lanca' suas redes com a esperanca de 'pescar' qualquer prova, para subsidiar uma futura acusacao ou para tentar justificar uma acao ja iniciada . Com efeito, uma vez que a arma de fogo mencionada na denuncia anonima ja havia sido apreendida com o paciente em via publica (distante da residencia, frise-se) e nao existia nenhum indicio concreto, nem sequer informacao apocrifa, quanto a presenca de drogas no interior do imovel, nao havia razao legitima para que os agentes de seguranca se dirigissem ate o local e realizassem varredura meramente especulativa a procura de entorpecentes com caes farejadores. Cabia-lhes, apenas, diante do encontro da arma de fogo em via publica, conduzir o reu a delegacia para a lavratura do auto de prisao em flagrante. (Informativo n. 760) PROCESSO HC 762.932-SP, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O acusado não estava em condições de prestar livre e válido consentimento para que os agentes de segurança realizassem uma varredura especulativa auxiliada por cães farejadores em seu domicilio. 2. A diligencia policial configurou uma verdadeira pescaria probatória (fishing expedition). 3. Não havia razão legítima para que os agentes de segurança se dirigissem ao local e realizassem varredura meramente especulativa a procura de entorpecentes com cães farejadores. 4. Cabia-lhes, apenas, diante do encontro da arma de fogo em via pública, conduzir o réu a delegacia para a lavratura do auto de prisão em flagrante.

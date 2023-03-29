@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+129, I, CF), ressalvada a hipotese, que e excepcional, prevista no art. 5, LIX, da Carta Politica e do proprio CPP. Assim, a despeito da manifestacao do Ministerio Publico em audiencia de custodia, a prisao que venha a ser decretada por Magistrado, a revelia de um requerimento expresso nesse sentido, configura uma atuacao de oficio em contrariedade ao que dispoe a nova regra processual penal. Nao se desconhece a existencia de um precedente da Sexta Turma deste Tribunal acerca do tema, validando a decretacao da prisao preventiva mesmo diante de requerimento expresso do Ministerio Publico para aplicar apenas as medidas cautelares. De acordo com a maioria dos membros do orgao fracionario, a A determinacao do Magistrado, em sentido diverso do requerido pelo Ministerio Publico, pela autoridade policial ou pelo ofendido, nao pode ser considerada como atuacao ex officio, uma vez que lhe e permitido atuar conforme os ditames legais, desde que previamente provocado, no exercicio de sua jurisdicao . Contudo, aduzem-se votos divergentes, os quais fundamentam o estudo da tese em questao, no sentido de que: (I) o juiz nao deveria, sob os auspicios do sistema acusatorio, decretar a prisao, como a cautelar maxima, atendo-se, diversamente, ao pedido do dominus litis. (Ministro Olindo Menezes); e (II) a decisao do Magistrado tem como limite o que foi requerido pelo titular da acao. Ir alem do que foi pedido sera permitir que o juiz tenha uma iniciativa incompativel com o sistema acusatorio, substituindo ou corrigindo, a seu bel prazer, a vontade do orgao de acusacao ou suprindo suas eventuais falhas ou omissoes (que sao omissoes ou falhas ao olhar do proprio juiz) (Ministro Sebastiao Reis). Assim, tratando-se de pedido do Ministerio Publico limitado a aplicacao de medidas cautelares ao preso em flagrante, e vedado ao juiz decretar a medida mais gravosa, a prisao preventiva, por configurar uma atuacao de oficio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I) O juiz não deveria, sob os auspicios do sistema acusatório, decretar a prisão, como a cautelar máxima, atendendo-se, diversamente, ao pedido do dominus litis. II) A decisão do Magistrado tem como limite o que foi requerido pelo titular da ação. Ir além do que foi pedido será permitir que o juiz tenha uma iniciativa incompatível com o sistema acusatório, substituindo ou corrigindo, a seu bel prazer, a vontade do órgão de acusação ou suprindo suas eventuais falhas ou omissões. III) É vedado ao juiz decretar a medida mais gravosa, a prisão preventiva, por configurar uma atuação de ofício, a despeito da manifestação do Ministério Público em audiência de custódia.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Extrai-se do depoimento do Sgt PM Majela, que exercia a funo de intendente na ocasio, que a suposta necessidade do abastecimento foi noticiada, na verdade, pelo apelado e, tambm, foi ele que questionou ao Sgt Majela se este possua senha de abastecimento, seno vejamos: [...] Perguntado se o acusado foi acionado a comparecer na Companhia, respondeu que, ele chegou com o objetivo de consertar uma viatura que estaria com as lmpadas queimadas, essa viatura seria utilizada no turno da noite ele era o P4 da Companhia ele era o responsvel por esse tipo de coisa. Ele sempre era acionado quando tinha alguma urgncia, alguma coisa inesperada e ele fazia manuteno tambm das viaturas que j estava programada as manutenes. Ele trocou as lmpadas e constatou que a mesma precisava de abastecimento, constatou que ela tinha sido engarajada com pouco combustvel como ela ia rodar a noite ela tinha que estar em condies. Ele perguntou se eu tinha a senha para abastecimento eu falei que no tinha e falei com ele que se precisasse a gente chamava o motorista que estava na rua, ele falou que ia abastecer porque ele tinha a senha e que no ia chamar o motorista para no causar transtorno. Perguntado se o intendente tinha acesso a essa senha, respondeu que, o intendente tem a senha de abertura do posto de combustvel ele no era o intendente ele era o P4 e atualmente quem abastece a viatura  o motorista o prprio sistema libera. O motorista entra com os dados dele e o sistema libera. Na poca j era assim por isso que ele me perguntou se eu tinha essa senha de motorista. Eu sou motorista e trabalhei um perodo na intendncia a eu tinha que ter uma senha de abertura de posto. Perguntado sobre a distncia aproximada quando viu o acusado com o galo na mo, respondeu que, eu acredito que uns dez, doze metros. Eu vi ele abrindo o porta-malas e tirando o galo, ele me falou que tinha gasolina reserva por que o carro dele estava com problema (...) Evento 6, UDIO/VDEO 5/9 Ademais, oportuno esclarecer que competia ao intendente a atribuio de realizar o abastecimento das viaturas, conforme se observa na Instruo Operacional n. 67, assinada pelo Comandante da 50a Cia PM/7 BPM (Evento 3, PEAS IPM3, pg. 91). Certo  que restou demonstrado nos autos que o 3 Sgt PM Wallace Luiz Xavier, no dia 04/08/2018, s 17:52, com a justificativa de que iria abastecer a viatura policial de prefixo 20.891, placa OPQ 9798, extraiu, da bomba de abastecimento do Posto Orgnico do 7 BPM, 25,5 litros de combustvel, conforme se infere do relatrio do Sistema de Gesto Total de Abastecimentos (SGTA) e do extrato do Sistema Integrado de Administrao de Materiais e Servios (SIAD), evento 3, PEAS IPM3. Na mesma oportunidade, o apelado foi visto pelas testemunhas 3 Sgt PM Kendell da Silva e 2 Sgt PM Geraldo Majela da Silva abastecendo seu veculo particular, estacionado prximo  seo de transportes, com um galo de combustvel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Foi constatado que o 3 Sgt PM Wallace Luiz Xavier, no dia 04/08/2018, extraiu 25,5 litros de combustvel da bomba de abastecimento do Posto Orgnico do 7 BPM, com a justificativa de abastecer uma viatura policial. Testemunhas tambm viram o apelado abastecendo seu veículo particular com um galo de combustível.

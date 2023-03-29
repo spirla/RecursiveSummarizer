@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1189 Processo RHC 136.624-PR, Rel. Min. Felix Fischer, Quinta Turma, por unanimidade, julgado em 13/04/2021, DJe 05/05/2021. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Pedido de acesso a procedimento sigiloso. Medidas investigatorias em curso. Sumula vinculante n. 14. Acesso aos procedimentos documentados. Arquivos criptografados. Impossibilidade tecnica. Dados nao utilizados na denuncia. DESTAQUE Nao ofende o principio da ampla defesa a negativa de acesso ao conteudo de medidas investigativas em curso que ainda nao foram documentadas e cujo sigilo, no momento, e imprescindivel a sua efetividade. Trata-se de procedimento jurisdicional instaurado para a autorizacao e o controle de medidas investigativas submetidas a clausula de reserva de jurisdicao que se destinam a colheita de elementos de informacao para a formacao da opinio delicti do Ministerio Publico Federal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não ofende o princípio da ampla defesa a negativa de acesso ao conteúdo de medidas investigativas em curso que ainda não foram documentadas e cujo sigilo, no momento, é imprescindível à sua efetividade. 2. Trata-se de procedimento jurisdicional instaurado para a autorização e o controle de medidas investigativas submetidas a cláusula de reserva de jurisdição que se destinam à colheita de elementos de informação para a formação da opinião delicti do Ministério Público Federal.

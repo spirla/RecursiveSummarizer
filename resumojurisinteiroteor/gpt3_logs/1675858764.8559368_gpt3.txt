@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Veja-se: [...] respondeu que se encontrava em sua residncia, juntamente com seu filho de dois anos de idade; que que viu quando os policiais militares pularam para dentro de seu lote, correndo atrs do Thiago; que o Thiago pulou o muro se dirigindo para a casa de outro vizinho; que ficou com receio e foi para a rua, deixando os policiais dentro de seu lote; que estes policiais tambm pularam o muro atrs do Thiago; que no sabia do que se tratava e que tambm notou que haviam vrios policiais na rua; que aps sair de sua residncia no presenciou mais nada. Perguntada, respondeu que  apenas conhecida de Thiago. Perguntada, respondeu que no presenciou os policiais agredirem o Thiago; perguntada, respondeu que viu quando os policiais levaram o Thiago pra umas casinhas abandonadas na mesma rua e que no sabe o que se passou dentro dos barraces; Perguntada, respondeu que viu de longe quando os policiais saram dos barraces com o Thiago e que do local que estava no viu se ele apresentava ferimentos; [...] (Evento 6 - PEAS DIGITALIZADAS5 - p. 43/44 - Processo Originrio) (Destaca-se). A testemunha Janana Roberta dos Santos Costa, tambm ouvida apenas na fase extrajudicial, disse que trabalha como enfermeira no Instituto Mdico Legal (IML) e que, no dia dos fatos, o ofendido esteve no local, falando que havia sido agredido por policiais. Como o mdico no se encontrava, tirou umas fotos do ofendido e disse para ele retornar no dia seguinte. Relatou que o ofendido disse que estaria com dificuldade de respirar e sentia dor, mas, como no tinha condies de avali-lo, orientou que ele fosse ao pronto-atendimento. Asseverou que o ofendido apresentava leso aparente apenas no trax e que no se lembra de ter visto marca de bota em sua blusa. Confira-se: [...] respondeu que na data do fato se encontrava de servio na 11a Distrital de Santa Luzia, onde prestava servio como enfermeira no IML daquele Distrito; que o Dr. Robson solicitou que fizesse um laudo visto que o menor estava alegando que havia sido agredido por policiais militares, contudo o mdico legista j havia largado servio; que tirou algumas fotografias do menor; que ligou para o Dr Geraldo Magela, mdico legista, passou a informao que havia um menor a ser examinado; que o mdico legista disse para marcar com o menor para voltar no outro dia; que o menor estava com dificuldade de respirar, como no tinha condies de avali-lo, encaminhou o menor ao pronto atendimento; que orientou ao menor que se fosse constatada alguma fratura, que trouxesse o laudo mdico; que no dia seguinte o menor retornou e foi examinado pelo mdico legista, quando foi feito o exame de corpo de delito. Perguntada, respondeu que o menor apresentava leses aparentes no trax. Perguntada, respondeu que no lembra se as vestes do menor apresentavam marcas de bota, inclusive no lembra de detalhas das vestes do menor.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Testemunhas relataram que o ofendido alegou ter sido agredido por policiais militares, tendo sido encaminhado para o Instituto Médico Legal (IML) para avaliação. O enfermeiro do IML tirou fotografias e orientou o ofendido a procurar o pronto-atendimento, pois apresentava dificuldade de respirar e dor. O ofendido retornou no dia seguinte para exame de corpo de delito, onde foi constatada lesão aparente no tórax. Não foi lembrado se haviam marcas de bota nas vestes do ofendido.

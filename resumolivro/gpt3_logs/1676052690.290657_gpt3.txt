@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Cabe observar, entretanto, que o reconhecimento de que o efeito colateral produzido pelo medicamento  adverso no  suficiente para autorizar a imputao objetiva da violao da norma incriminadora subjacente ao artigo 129 do Cdigo Penal. A autorizao do rgo pblico para a comercializao do medicamento indica que, na ponderao entre o custo e o benefcio da populao utilizar o medicamento, as vantagens sociais so maiores do que os prejuzos. Neste sentido, os eventuais danos sofridos com a produo de efeitos colaterais adversos deve ser tolerados. Mas, a tolerncia que a sociedade impe em relao a ocorrncia dos efeitos adversos pode estar condicionada  observncia de determinados cuidados. Em determinados casos pode ser necessrio limitar a dose do medicamento em razo da idade do paciente, impedir que o tratamento se prolongue ou que determinados medicamentos sejam utilizados concomitantemente. Se o conhecimento cientfico da medicina ou da farmacologia impuser determinado cuidado para a utilizao do medicamento, a inobservncia do cuidado pode autorizar a imputao objetiva pela produo dos agravos  sade do paciente.  necessrio considerar, ainda, que a utilizao inadequada do medicamento e a produo descuidada da ofensa tambm no so suficientes para autorizar a imputao objetiva. Mesmo nestes casos, a imputao objetiva somente ser possvel se o efeito adverso tiver produzido uma ofensa significante  integridade corporal ou  sade do paciente. Intervenes mdicas e odontolgicas. As intervenes mdicas ou odontolgicas invasivas, sejam para fins de cura ou estticos, foram consideradas tpicas pela doutrina tradicional. No estgio atual da teoria do delito, entretanto, deve-se entender que a ofensa  integridade corporal ou a sade de algum realizada no contexto de conduta de salvamento do prprio titular do bem jurdico ou em outras prticas socialmente teis no permite a imputao objetiva da leso corporal. Havendo valorao positiva quanto  prtica da conduta, o fato deve ser considerado materialmente atpico. Nos tratamentos curativos as intervenes corporais so produzidas no contexto de preservao ou de restabelecimento da sado do paciente. A atividade curativa autorizada e fiscalizada pelo poder pblico se verifica para atendimento ao interesse individual e social de garantia da sade do paciente. Os riscos e possveis danos inerentes  atividade so controlados e tolerados pela sociedade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O reconhecimento de que o medicamento pode causar efeitos colaterais adversos não é suficiente para autorizar a imputação objetiva de violação da norma incriminadora. A utilização inadequada do medicamento e a produção descuidada da ofensa também não são suficientes para autorizar a imputação objetiva, a menos que o efeito adverso tenha produzido uma ofensa significativa à integridade corporal ou à saúde do paciente. Intervenções médicas ou odontológicas invasivas são permitidas desde que sejam realizadas no contexto de preservação ou restabelecimento da saúde do paciente.

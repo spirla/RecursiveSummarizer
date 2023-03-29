@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A possibilidade de retorno da orientao subjetiva e a adequao tpica podem ser representadas da seguinte forma, no exemplo clssico da desistncia de realizar um crime de homicdio que caracteriza o crime de leso corporal consumado e no a tentativa de homicdio:
+A desistncia voluntria e o arrependimento eficaz somente produziro efeitos de inadequao tpica do crime cuja execuo tenha sido iniciada se for capaz de evitar a satisfao plena das exigncias de natureza objetiva (no caso de crimes materiais, a ocorrncia do resultado naturalstico). Se a reorientao subjetiva impedir a ocorrncia do resultado lesivo caracterizador do crime cuja execuo tiver sido iniciada, mas no for capaz de impedir a ocorrncia de outros resultados lesivos subsidirios e penalmente incriminados, dever o sujeito ser responsabilizado por eles. Na representao acima, tem-se que, inicialmente, a conduta era objetivamente idnea para produzir a morte da vtima e foi orientada por esta inteno. Posteriormente, a mudana na orientao subjetiva e conduta do sujeito  capaz de evitar o resultado morte. No entanto, o sujeito deve ser responsabilizado pela produo das leses corporais, pois estas j haviam sido praticadas antes da reorientao do comportamento e no puderam ser evitadas. A responsabilizao pelos atos j praticados, como expressamente prev o artigo 31 do Cdigo Penal Militar, pressupe a existncia de tipicidade para a conduta j realizada. Se no houver tipicidade subsidiria para os atos j realizados, desconsiderando-se a sua vinculao com o fato evitado, no haver responsabilizao. Consideremos agora o exemplo em que o militar desiste de receber a vantagem indevida que solicitou em razo do cargo. No exemplo em exame, a conduta proibida pelo artigo 308 do Cdigo Penal Militar diz respeito a receber a vantagem indevida ou aceitar a promessa de sua entrega. A execuo do crime tem incio com a solicitao do militar ao corruptor. O recebimento da vantagem ou a aceitao da promessa de entrega futura consuma o crime de mera conduta. A desistncia do militar, antes do recebimento da vantagem ou da aceitao da promessa de entrega futura caracteriza situao de desistncia voluntria que no permite responsabilizao pela prtica dos atos at ento realizados. No h tipificao para a conduta realizada pelo militar de solicitar a vantagem indevida. No se pode falar em atos preparatrios e tampouco em caracterizao de crime subsidirio. A inadequao tpica para a tentativa de aquisio torna o fato atpico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A desistência voluntária e o arrependimento eficaz são capazes de evitar a satisfação plena das exigências de natureza objetiva de um crime, como no caso de homicídio. No entanto, se a reorientação subjetiva não for capaz de evitar outros resultados lesivos, o sujeito será responsabilizado por eles. No exemplo da vantagem indevida, a desistência impede a responsabilização do sujeito pois não há tipificação para a conduta realizada.

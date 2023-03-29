@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Contudo, em nossa sociedade contempornea a educao das pessoas passou a ser tambm uma tarefa do poder pblico que no se restringe aos menores, atingindo tambm jovens e adultos. Vrios so os profissionais da educao que trabalham na formao e aprimoramento cultural das pessoas. Exemplo desta atuao ampliada dos educadores pode ser percebida na denominao reeducando que  comumente dirigida ao condenado preso, para enfatizar os fins da pena e da atuao dos profissionais que lidam com a execuo penal. A denominao resgata o conhecido pensamento de Pitgoras, segundo o qual devemos educar as crianas para no ser preciso punir os homens. Tambm cabe observar que a educao no se restringe aos contedos formais dos cursos oficiais da rede de ensino, incluindo tambm os valores e os modos de bem viver em sociedade. Normalmente, a maneira como uma pessoa se comporta em sociedade  capaz de revelar a educao que recebeu durante o perodo de formao de seu carter. Pais ou educadores mais preocupados com a boa formao de seus educandos podem acabar sendo muito rigorosos ao estabelecer castigos em consequncia da prtica de uma conduta inadequada por parte destes. Os duros castigos corporais, como a aplicao de palmatrias ou varas de marmelo, no so mais aceitos em sociedade respeitosa da dignidade da pessoa humana. Entretanto, o crime de maus-tratos no impede o poder/dever de correo de condutas inadequadas, mas apenas os excessos ou abusos. Dar ensino, por sua vez, significa a atividade docente que transmite os contedos dos cursos de formao cultural e profissional. A noo  mais restrita do que a de dar educao. Ensinar  apenas uma parte da tarefa de educar. Por dar tratamento deve-se entender no apenas a prestao dos cuidados inerentes ao processo de cura de doenas, mas tambm o provimento continuado das necessidades prprias  subsistncia de uma pessoa. A custdia, por sua vez, deve ser entendida como a deteno de uma pessoa para realizar fins determinados por lei. So exemplos de custdia a deteno de menores em estabelecimentos correcionais e a de portadores de sofrimento mental em estabelecimentos hospitalares. Tambm  possvel a caracterizao do crime de maus tratos com o dolo eventual. Nesse caso, o sujeito pratica o ato assumindo o risco de que este possa expor a perigo a vida ou a sade do sujeito passivo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A educação das pessoas é uma tarefa do poder público, abrangendo crianças, jovens e adultos. O pensamento de Pitágoras de educar as crianças para evitar punir os homens é lembrado. A educação inclui conteúdos formais e valores para o bem viver em sociedade. O crime de maus-tratos impede o poder/dever de correção, mas não os excessos ou abusos. Ensinar é uma parte da tarefa de educar, enquanto a custódia é a detenção de uma pessoa para fins legais. O crime de maus-tratos também pode ser caracterizado com dolo eventual.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O encarregado do IPM vai intimar, ou seja, ordenar ao seu comandante ao arrepio da hierarquia que indique defensor? Manifesto contrassenso. Nota-se que o artigo 5, pargrafo 11, da Lei 11.473/2007, com a redao dada pela Lei 13.844/19, apenas atribuiu  Advocacia-Geral da Unio a atuao judicial defensiva dos integrantes da Secretaria Nacional de Segurana Pblica, includos os da Fora Nacional de Segurana Pblica, os da Secretaria de Operaes Integradas e os do Departamento Penitencirio Nacional que venham a responder a inqurito policial ou a processo judicial em funo do seu emprego nas atividades e nos servios referidos no artigo 3 desta Lei. De quebra, a funo institucional da Defensoria Pblica de acompanhar inqurito (LC 80/1994, artigo 4, XIV)  restrita aos que comprovarem insuficincia de recursos (CF, artigo 134), como bem espelha a deciso do STF (ADI 3.022), que declarou inconstitucional o artigo 45 da Constituio do Estado do Rio Grande do Sul e a alnea a do Anexo II da LC 9.230/91, que atribuam  DPE defender servidor pblico estadual processado criminalmente em razo de ato praticado no exerccio regular de suas funes por ofender o artigo 134 da CF. A segunda caracterstica do IPM  o sigilo das investigaes. Com efeito, o artigo 16 do CPPM proclama que o inqurito  sigiloso. Segredo  aquilo que no pode ser revelado e sigilo  o que protege o segredo. A doutrina estabelece diviso dicotmica entre sigilo interno em que a publicidade fica restrita  determinada pessoa ou a grupo de pessoas e sigilo externo que probe ou impede pessoas, de maneira geral, de conhecer o segredo. No inqurito, o sigilo  interno ou externo, conforme a necessidade. Em sua segunda parte, o artigo 16 do CPPM dispe que o encarregado pode permitir que dele [IPM sob sigilo] tome conhecimento o advogado do indiciado. De onde se conclui que o sigilo no  absoluto, porque o encarregado pode dar ao advogado do indiciado acesso aos autos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O encarregado do IPM pode permitir que o advogado do indiciado tome conhecimento do inqurito, que é sigiloso. A Lei 11.473/2007, com a redao dada pela Lei 13.844/19, atribuiu à Advocacia-Geral da Unio a atuao judicial defensiva dos integrantes da Secretaria Nacional de Segurana Pblica. A Defensoria Pblica acompanha inquritos somente para aqueles que comprovarem insuficincia de recursos.

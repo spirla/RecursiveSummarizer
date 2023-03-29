@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O pargrafo 3 do artigo 46 limita-se a dizer que as tarefas sero escolhidas pelo juiz conforme as aptides do condenado. A impreciso da pena  evidente, no sabendo o condenado que tipo de pena poder ser-lhe imposta. Mas, ao argumento de que se trata de benefcio concedido ao condenado, tem-se admitido tamanha impreciso na determinao da pena. O princpio da reserva legal tambm impe restrio  combinao de normas para a soluo dos casos concretos. Nesse sentido, o Supremo Tribunal Federal j alertou que no  dado ao Poder Judicirio combinar previses legais, criando uma terceira espcie normativa, no prevista no ordenamento, sob pena de ofensa ao princpio da separao de poderes e da reserva legal. No h pena sem prvia cominao legal.  um atentado contra a prpria democracia permitir que o Poder Judicirio institua normas jurdicas primrias, criadoras de direitos ou obrigaes (HC 92628). No entanto, em decises que se renderam ao populismo punitivo, o mesmo Supremo tambm decidiu que ofensas ao povo judeu por meio de livros podem ser consideradas como crime de racismo (HC 82.424), bem como que a discriminao em razo da orientao sexual e/ou da identidade de gnero (homofobia e transfobia) tambm deve ser considerada como crime de racismo (ADO 26 e MI 4733), at que sobrevenha lei emanada do Congresso Nacional. Nestas duas passagens, a Suprema Corte desconsiderou que a incriminao das condutas socialmente indesejadas  atribuio exclusiva do Poder Legislativo e no do Poder Judicirio. 2.2.3. Princpio da interveno mnima e adequada. O princpio da interveno mnima  a expresso do axioma da nulla lex (poenalis) sine necessitate, que determina no ser possvel a incriminao legal sem que haja a necessidade de uma interveno to gravosa quanto a promovida pelo Direito Penal. Na dico do Supremo Tribunal Federal, o Direito Penal, considerada a interveno mnima do Estado, no deve ser acionado para reprimir condutas que no causem leses significativas aos bens juridicamente tutelados. (HC 97129). A falncia da ideologia do tratamento punitivo-ressocializador, o elevado custo operacional do sistema repressivo e, em especial, o efeito estigmatizante da criminalizao so fatores que desestimulam a utilizao desenfreada das restries impostas pelo Direito Penal. A necessidade social deve ser o critrio justificador fundamental para a interveno das normas incriminadoras.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 46 limita-se a dizer que as tarefas serão escolhidas pelo juiz conforme as aptidões do condenado. O princípio da reserva legal impede a combinação de normas para solucionar casos concretos. O Supremo Tribunal Federal alertou que não é permitido ao Poder Judicirio criar normas primárias, sob pena de ofensa à separação de poderes. O princípio da intervenção mínima determina que o Direito Penal não deve ser acionado para reprimir condutas que não causem lesões significativas. A necessidade social deve ser o critério justificador para a intervenção das normas incriminadoras.

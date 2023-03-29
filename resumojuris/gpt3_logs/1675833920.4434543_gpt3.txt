@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Suspensao de liminar. Parceria Publico-Privada (PPP). Reducao do preco do barril do petroleo no mercado internacional. Queda de arrecadacao fiscal. Configuracao de lesao a ordem publica e economica. Continuidade do servico. Desequilibrio economico-financeiro evidenciado. DESTAQUE A queda de arrecadacao fiscal de municipio contratante advinda da reducao do preco do barril de petroleo no mercado internacional nao constitui motivo suficiente para reducao da contraprestacao devida a concessionaria de servicos publicos se essa contraprestacao nao estiver vinculada contratualmente a variacao do preco do petroleo. Na origem, o Municipio ajuizou acao contra a concessionaria de servico publico de saneamento basico, objetivando a revisao dos termos do contrato de parceria publico-privada (PPP) por meio do qual a referida municipalidade outorgara a concessionaria a responsabilidade pela construcao, ampliacao e operacao do sistema de esgotamento sanitario municipal, com fundamento na queda de arrecadacao fiscal do Municipio contratante advinda da reducao do preco do barril de petroleo no mercado internacional. O Juizo de primeiro grau deferiu parcialmente a tutela antecipada para limitar a contraprestacao financeira ajustada inicialmente, reduzindo o valor. O Tribunal de Justica, por sua vez, analisando agravo de instrumento interposto pela concessionaria, modificou em parte a decisao recorrida para elevar o percentual dos repasses contratuais das receitas de petroleo auferidas pela municipalidade. 134 A questao discutida pelo municipio sobre a possivel reparticao de riscos entre as partes nao reside exatamente no contrato ajustado, mas na queda de arrecadacao fiscal advinda da reducao do preco do barril do petroleo no mercado internacional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A queda de arrecadacao fiscal de um município contratante advinda da redução do preço do barril de petróleo no mercado internacional não constitui motivo suficiente para redução da contraprestação devida a concessionária de serviços públicos se essa contraprestação não estiver vinculada contratualmente à variação do preço do petróleo. 2. A questão discutida pelo município sobre a possível repartição de riscos entre as partes não reside exatamente no contrato ajustado, mas na queda de arrecadação fiscal advinda da redução do preço do barril do petróleo no mercado internacional.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O plea bargaining  um instituto que permite realizar um acordo entre a acusao e a defesa segundo o qual o acusado admite a sua culpa (plea of guilty ou guilty plea) ou dispensa o prosseguimento do processo criminal (plea of nolo contendere) e recebe em troca uma condenao mais branda, por meio de um processo abreviado. No Direito Norte-Americano no h parmetros que estabeleam limites aos benefcios concedidos aos acusados, sendo que a acusao opera com absoluta discricionariedade para firmar os acordos. O sujeito que se declara culpado (plea of guilty - regra 11, alnea b) aceita todas as consequncias de uma sentena condenatria, inclusive, a constituio de um ttulo judicial para a reparao/indenizao dos danos sofridos pela vitima no mbito cvel. Esta hiptese do Direito Norte-Americano  muito semelhante ao acordo de no persecuo penal. Entre ns, o acordo de no persecuo penal foi inicialmente previsto no artigo 18 da Resoluo 181, de 07 de agosto de 2017, posteriormente alterada pela Resoluo 183, de 24 de janeiro de 2018, ambas do Conselho Nacional do Ministrio Pblico. Para a edio da Resoluo 181, o Conselho Nacional do Ministrio Pblico considerou, entre outros, os aspectos pragmticos da carga desumana de processos que se acumulam nas varas criminais do pas e que tanto desperdcio de recursos, prejuzo e atraso causam no oferecimento de Justia s pessoas, de alguma forma, envolvidas em fatos criminais; a exigncia de solues alternativas no Processo Penal que proporcionem celeridade na resoluo dos casos menos graves, com a priorizao dos recursos financeiros e humanos do Ministrio Pblico e do Poder Judicirio para processamento e julgamento dos casos mais graves; bem como a necessidade de minorar os efeitos deletrios de uma sentena penal condenatria aos acusados em geral, reduzindo os efeitos sociais prejudiciais da pena e desafogando os estabelecimentos prisionais. Embora tais argumentos expressem a realidade de uma difcil atuao ministerial, a disposio regulamentar do Conselho Nacional do Ministrio Pblico foi editada sem qualquer amparo legal e afrontou a obrigatoriedade da ao penal condenatria prevista no artigo 100, pargrafo 1, do Cdigo Penal e no artigo 24 do Cdigo de Processo Penal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O plea bargaining é um instituto que permite acordos entre acusação e defesa, onde o acusado admite culpa ou dispensa prosseguimento do processo criminal em troca de condenação mais branda. No direito norte-americano não há parâmetros para limites dos benefícios concedidos aos acusados. No Brasil, o acordo de não persecução penal foi previsto na Resolução 181/2017, do Conselho Nacional do Ministério Público, contudo, foi editada sem amparo legal.

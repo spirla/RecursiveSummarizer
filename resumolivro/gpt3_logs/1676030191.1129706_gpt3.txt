@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os crimes omissivos foram inicialmente concebidos no contexto de uma racionalidade cognitiva e de uma teoria do crime de inspirao naturalista. Somente no contexto metodolgico de uma racionalidade comunicativa tornou-se possvel perceber que a incriminao da conduta omissiva deriva da valorao negativa incidente sobre o comportamento que se omite em proteger o bem jurdico concretamente em perigo. A atividade valorativa que orienta a imputao objetiva reconhece que, no caso concreto, a omisso revela-se conduta socialmente inadequada. 3.6.1.2.1. Da concepo naturalista  normativa de omisso. At o sculo XIX, a doutrina jurdico-penal no discutiu com maior profundidade os crimes omissivos, aplicando-lhes as mesmas regras utilizadas para os comissivos. Foi somente a partir da dcada de 1920 que as dificuldades que o trato da omisso importa foram percebidas. Considerando que nos crimes omissivos no se verifica relao material entre conduta e resultado naturalstico, pode-se dizer que o tema da causalidade omissiva tornou-se dos mais tormentosos em Direito Penal. A teoria do crime enfrenta srias dificuldades ao tratar dos comportamentos omissivos, sendo que a concepo finalista no superou os problemas da omisso, insistindo em consider-la um dado emprico, quando  verdadeira categoria axiolgica. Afinal, como entender que a inatividade possa ser causa de um evento naturalstico? E, ainda, se mesmo nos crimes comissivos a causalidade no  absolutamente certa, mas meramente provvel, como utilizar o conceito da causa na definio do comportamento omissivo punvel?. Muitas foram as tentativas de explicar teoricamente a causalidade omissiva. Entre os muitos esforos realizados, cabe mencionar apenas os mais significativos. No plano naturalstico, tentou-se conceber a causalidade omissiva sob o argumento de que, ao no realizar a ao esperada, o omitente realiza, no momento, outra conduta que seria a causa do resultado.  a teoria da ao contempornea, a qual considera que, enquanto o omitente deixa de realizar a ao esperada, executa algo diverso.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os crimes omissivos foram inicialmente tratados com base em uma racionalidade cognitiva e numa teoria do crime naturalista. Somente com a racionalidade comunicativa tornou-se possível perceber que a conduta omissiva pode ser punível. Esta foi uma discussão complexa, pois não existe relação material entre conduta e resultado naturalístico. Várias tentativas foram feitas para explicar a causalidade omissiva, sendo a mais significativa a teoria da ação contemporânea, que considera que, enquanto o omitente deixa de realizar a ação esperada, executa algo diverso.

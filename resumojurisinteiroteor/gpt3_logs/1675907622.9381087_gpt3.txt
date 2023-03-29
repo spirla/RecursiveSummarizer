@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+44, 2 (duas penas restritivas de direito) do CP, consistentes na prestao de servios para uma entidade de assistncia social, nos termos do 3 do art. 46, do CP, e ainda, fornecimento de quatro cestas bsicas, como prestao pecuniria, nos termos do 1 do art. 45, do CP, a serem entregues mensalmente pelo perodo de um ano a uma entidade pblica ou privada, com destinao social (Evento 1 - ANEXO19, pgs. 13/14). A audincia para leitura da sentena ocorreu no dia 24/01/2014 (evento 1 - ANEXO19, pg. 15). A condenao transitou em julgado para o Ministrio Pblico no dia 31/01/2014 e para o paciente no dia 19/05/2014 (Evento 1 - ANEXO21, pg. 16). Em 23/05/2014, o meritssimo juiz de direito da 1a AJME deprecou a execuo da pena para a comarca de Rio Piracicaba/MG (evento 1 - ANEXO21, pgs. 17). Este relator, em consulta ao Sistema Eletrnico de Execuo Unificado (SEEU) constatou a tramitao do processo de execuo n. 0256580-64.2017.8.13.0024 na comarca de Belo Horizonte/MG, sendo oportuno destacar que, em 21/11/2019, foi expedido mandado de priso em desfavor do paciente (evento 22). Posteriormente, os impetrantes juntaram os documentos acostados ao evento 25, dos quais se extraem algumas informaes relevantes: Em 03/06/2014 foi distribudo o processo de execuo na comarca de Belo Horizonte/MG, sob o nmero 0256580-64.2017.8.13.0024 (ANEXO3, pg.1). Em audincia admonitria realizada em 11/07/2014, o sentenciado, ora paciente, aceitou as condies impostas na sentena condenatria e foi advertido de que, em caso do descumprimento, as penas restritivas de direito poderiam ser convertidas em privativas de liberdade (ANEXO3, pg.37). Em 16/10/2015 o benefcio da substituio das penas restritivas de direito pela privativa de liberdade foi revogado em face do cometimento de falta grave pelo sentenciado (ANEXO3, pg.45). O juzo da comarca de Belo Horizonte/MG designou audincia para o dia 02/05/2018, a fim de regularizar a situao do sentenciado e oferecer-lhe a oportunidade de cumprimento da pena em seu domiclio, ou recolher-se a casa de albergado; no foi possvel intimar o sentenciado por este encontrar-se em local incerto e no sabido; em 21/11/2019 foi determinada a expedio de mandado de priso com validade at 18/05/2027 em desfavor do paciente (ANEXO3, pgs. 58, 7171, 85, 89,101,11,115,129, 148/149). Consta na certido de inteiro teor oriunda da Justia Militar: Feito relacionado: 0001528-65.2011.9.13.0001 - Ao Penal Militar - Procedimento Ordinrio. [.] Em 22/10/2015: juntada da Carta Precatria Executria que retornou da Comarca de Rio Piracicaba/MG.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito da 1a AJME deprecou a execuo da pena para a comarca de Rio Piracicaba/MG, constatando a tramitao do processo de execuo n. 0256580-64.2017.8.13.0024 na comarca de Belo Horizonte/MG. Em 16/10/2015, o benefício da substituição das penas restritivas de direito pela privativa de liberdade foi revogado em face do cometimento de falta grave pelo sentenciado. Em 21/11/2019, foi expedido mandado de prisão em desfavor do paciente.

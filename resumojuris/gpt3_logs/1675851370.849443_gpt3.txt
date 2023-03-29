@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Quando houver condenacao por mais de um crime contra a mesma pessoa, incide o art. 111 da LEP. O juiz observa o saldo da sancao a cumprir apos eventual detracao ou remicao, determina o regime prisional e, entao, elabora o calculo de beneficios. Como a contagem incide sobre as guias reunidas para resgate preferencialmente em sua ordem cronologica de distribuicao, a estimativa tera como marco inicial a data da primeira prisao do reeducando (interrompida pela ultima falta grave, no caso de progressao de regime), pois nesta data comecou o cumprimento da execucao unificada, sopesado o art. 42 do CP. 1385 No caso, o Tribunal de origem consignou expressamente que a primeira execucao foi extinta antes da formacao da culpa delitiva do segundo processo. Se a primeira execucao do sentenciado foi extinta meses antes da formacao da culpa do segundo processo, sem continuidade com a guia atual, a sancao integralmente resgatada noutro tempo nao orienta nem tem reflexos nos calculos de pena aplicada na ultima sentenca, unica em cumprimento, porque nao existiu a soma ou a unificacao de que trata o art. 111 da LEP. Portanto, somente seria possivel acolher o pleito da defesa se estivessemos diante de nova condenacao no curso do resgate de outra pena (art. 111 da LEP) com a adicao da nova sancao privativa de liberdade ao restante daquela ainda em cumprimento. Por sua vez, para o resgate - em ordem cronologica de duas ou mais guias, mediante adequacao do regime prisional e refazimento dos calculos de beneficios - considera-se como termo inicial da execucao unificada a data primeira prisao (ou da ultima falta grave, para a progressao de regime), pois nesse dia comecou o efetivo resgate das reprimendas somadas. (Informativo n. 761) PROCESSO AgRg no HC 776.645-SP, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Incide o art. 111 da LEP quando houver condenação por mais de um crime contra a mesma pessoa. 2. O juiz deve observar o saldo da sanção a cumprir após eventual detração ou remissão, determinar o regime prisional e, então, elaborar o cálculo de benefícios. 3. A contagem incide sobre as guias reunidas para resgate preferencialmente em sua ordem cronológica de distribuição. 4. Se a primeira execução do sentenciado foi extinta antes da formação da culpa do segundo processo, não há soma ou unificação de que trata o art. 111 da LEP. 5. Para o resgate de duas ou mais guias, considera-se como termo inicial da execução unificada a data da primeira prisão (ou da última falta grave, para a progressão de regime).

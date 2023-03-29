@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Tambm no interessa ao juzo de reprovao da culpabilidade a capacidade psquica necessria ao reconhecimento dos dados fticos coincidentes com os elementos objetivos do tipo, incriminador ou permissivo, que, segundo a teoria limitada da culpabilidade adotada pela legislao brasileira, constituem temas vinculados ao juzo de tipicidade. A incapacidade que interessa ao exame da culpabilidade  somente a incapacidade de compreenso do carter ilcito do fato. A imputabilidade no se confunde com responsabilidade penal, que retrata a consequncia jurdica da infrao. A imputabilidade baseia-se na capacidade do sujeito de entender e querer praticar o crime. O Cdigo Penal brasileiro no possui dispositivo que explicite o que se deva entender por imputabilidade, mas a noo de sujeito imputvel  encontrada na interpretao do disposto no artigo 26, caput. Nesse dispositivo, percebe-se que inimputvel  o:
+sujeito que, por doena mental ou desenvolvimento mental incompleto ou retardado, era, ao tempo da ao ou da omisso, inteiramente incapaz de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento. Tambm auxilia o entendimento do que seja imputabilidade o disposto no artigo 28, pargrafo 1 do Cdigo Penal. Temos, ento, que:
+Art. 28. (...). Pargrafo 1  isento de pena o sujeito que, por embriaguez completa, proveniente de caso fortuito ou fora maior, era, ao tempo da ao ou da omisso, inteiramente incapaz de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento. No mesmo sentido, temos ainda o artigo 45 da Lei 11.343, de 23 de agosto de 2006, que instituiu o Sistema Nacional de Polticas sobre Drogas - Sisnad, que assim estabelece:
+Art. 45.  isento de pena o sujeito que, em razo da dependncia, ou sob o efeito, proveniente de caso fortuito ou fora maior, de droga, era, ao tempo da ao ou da omisso, qualquer que tenha sido a infrao penal praticada, inteiramente incapaz de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento. Se inimputvel  o sujeito que no possui a capacidade de entender a ilicitude de sua conduta, ou de autodeterminar-se de acordo com o entendimento sobre a contrariedade desta com a ordem jurdica, imputvel  o sujeito mentalmente sadio e desenvolvido, capaz de entender a natureza ilcita do fato e determinar-se de acordo com esse entendimento.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal brasileiro estabelece a imputabilidade como a capacidade do sujeito de entender e querer praticar o crime. Inimputável é aquele que, por doença mental, desenvolvimento mental incompleto ou retardado, embriaguez completa ou dependência de drogas, é incapaz de entender a ilicitude de sua conduta. Por outro lado, imputável é o sujeito mentalmente saudável e desenvolvido, capaz de entender a natureza ilícita do fato.

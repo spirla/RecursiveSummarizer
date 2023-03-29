@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A doutrina tem se inclinado no sentido que o Ministrio Pblico pode opor exceo de incompetncia na qualidade fiscal da lei, mesmo que tenha oferecido denncia perante o juiz incompetente, sobretudo se a incompetncia for absoluta. A oposio da exceo de incompetncia no suspende o processo. A parte ope de forma escrita ou verbal, logo aps a qualificao do acusado (CPPM, artigo 143), todavia, em razo da alterao feita pelo Pretrio Excelso transferindo o interrogatrio para o final da instruo criminal e na resposta  acusao, prevista no artigo 396-A do CPP, oposta exceo de incompetncia. Assim procedendo a defesa no precisa aguardar o trmino da instruo criminal para s ento opor a exceo de incompetncia. Se provocado no se declarar incompetente, o juiz determina vista dos autos  parte contrria (artigo 144, CPPM) para que se manifeste sobre a arguio no prazo de quarenta e oito horas. Se acolhida a alegao de incompetncia do juzo os autos so remetidos ao juzo competente. Se rejeitada, o juiz continuar no feito, porm cabe recurso, em autos apartados, para o segundo grau de jurisdio, que se lhe der provimento tornar nulos os atos praticados pelo juiz declarado incompetente (artigo 145, CPPM). Cabe recurso em sentido estrito da deciso que concluir pela incompetncia da Justia Militar, do juiz singular ou do Conselho de Justia (artigo 516, e, CPPM) e da deciso que firmar a competncia da Justia Militar, do juiz singular ou do Conselho de Justia (artigo 516, f, CPPM). Ao receber os autos enviados, quer porque o juiz remetente declarou-se incompetente, quer porque a exceo fora julgada procedente, o juiz recipiente pode suscitar o conflito de negativo de competncia. Do contrrio - aceitando ser competente - o juiz recipiente, ao receber os autos do juiz que se declarou incompetente, encaminha os autos ao Ministrio Pblico para ratificar a denncia e prosseguir nos ulteriores atos. Oposta exceo de incompetncia de autoridade judiciria que, durante o inqurito, praticou atos de jurisdio, como exemplo, decretou priso preventiva, negou a liberdade provisria ou expediu ordem de busca e apreenso, no suspende a investigao. 10.4.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público pode opor exceção de incompetência na qualidade fiscal da lei, mesmo que tenha oferecido denúncia perante o juiz incompetente. A exceção de incompetência pode ser oposta de forma escrita ou verbal logo após a qualificação do acusado. Se a exceção for acolhida, os autos serão remetidos ao juízo competente. Se rejeitada, o juiz continuará no feito, cabendo recurso para o segundo grau de jurisdição. Ao receber os autos, o juiz competente pode suscitar o conflito de negativo de competência, encaminhando os autos ao Ministério Público para ratificar a denúncia e prosseguir nos ulteriores atos. A oposição da exceção de incompetência não suspende o processo.

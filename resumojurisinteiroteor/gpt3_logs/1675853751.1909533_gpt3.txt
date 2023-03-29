@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Desse modo, com base no princpio da razoabilidade e da proporcionalidade, no vislumbro qualquer prejuzo ao ru capaz de anular a deciso que determinou a quebra de sigilo dos seus dados bancrios. Com essas consideraes, rejeito a terceira preliminar arguida. Quarta preliminar. A defesa alegou que deve ser anulado o feito por inpcia da denncia, j que a mesma trouxe um misto de imputaes penais aos acusados do processo, o que dificultou a anlise particular de cada um dos denunciados, a exemplo das condutas amoldadas nos artigos 150, 309, 312 e 336, todos do Cdigo Penal Militar (CPM). A meu sentir, no  cabvel a inpcia levantada, mormente na hiptese em que a inicial acusatria descreve, de modo claro e juridicamente idneo, a existncia de crimes, mencionando todos os elementos essenciais  adequada configurao tpica dos delitos imputados ao denunciado, em completa consonncia com o que dispe o art. 77 do CPPM. Ao contrrio do que alega o recorrente, no se pode dizer que os crimes contidos nos arts. 309 (Corrupo Ativa) e 336 (Trfico de Influncia), ambos do CPM, foram defenestrados da denncia, resultando na mencionada inpcia, to somente porque a douta magistrada decidiu que no havia provas suficientes para conden-lo por esses crimes. Reconhecer a ventilada inpcia demandaria a certeza de total ausncia de indcios de autoria, e essa concluso no pode ser extrada da leitura da exordial acusatria. Ao contrrio, pela dinmica dos fatos narrados, as condutas criminosas contidas nos arts. 261, inc. III, 308 e 312 do CPM foram plenamente comprovadas atravs de um arcabouo probatrio conciso, tendo sido a ltima capitulao no defenestrada, mas, sim, absorvida pelo princpio da consuno, conforme consta da sentena condenatria. Portanto, rejeito essa preliminar. Quinta preliminar. A defesa requereu a anulao do processo desde 26/04/2017, alegando, em suma, que o recorrente, diferentemente dos outros rus, no teve a assistncia, do incio ao fim do processo, de um defensor por ele constitudo e que pudesse acompanhar toda a linha de desdobramento do feito, o que prejudicou o exerccio de sua defesa. De fato, constata-se que o ex-militar, ora recorrente, mudou de advogados e defensores durante a fase processual. Mas, ao contrrio do que alegou a defesa - e nas palavras da douta magistrada, Dra. Daniela de Freitas Marques, quando da prolao da sentena de Evento n. 147 -, o recorrente foi to sobejamente defendido que o seu interrogatrio judicial foi adiado sucessivas vezes, a pedido do prprio acusado, e, em nenhum momento do processo-crime, faltou-lhe a regular assistncia de advogado ou da Defensoria Pblica, sendo obedecido, portanto, o preceito contido no art. 133 da CRFB/88.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A deciso julgou improcedentes as preliminares arguidas pela defesa, sendo que a terceira preliminar (quebra de sigilo bancrio) foi rejeitada com base no princípio da razoabilidade e proporcionalidade, a quarta preliminar (inpcia da denncia) foi rejeitada por descrever de forma clara e juridicamente idnea a existência de crimes, e a quinta preliminar (ausência de assistência de advogado) foi rejeitada por o recorrente ter sido suficientemente defendido.

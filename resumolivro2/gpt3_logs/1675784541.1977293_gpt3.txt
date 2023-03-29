@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Lei 12.736/2012 incluiu o pargrafo 1 no artigo 387 do CPP:
+O juiz decidir, fundamentadamente, sobre a manuteno ou, se for o caso, a imposio de priso preventiva ou de outra medida cautelar, sem prejuzo do conhecimento de apelao que vier a ser interposta. O STF na ADC 43, de 07/11/2019, rel. Min. Marco Aurlio (Apensadas ADC 54 e 44), por maioria, julgou procedente a ao para assentar a constitucionalidade do artigo 283 do CPP na redao dada pela Lei 12.403, de 04/05/2011. A Suprema Corte firmou compreenso acerca da impossibilidade do incio do cumprimento da pena antes de serem esgotadas todas as possibilidades de recurso. Por conseguinte, tal pronunciamento beneficiou os que cumpriam pena provisoriamente em razo de condenao em segunda instncia. Enfim, a priso preventiva pode ser decretada na sentena condenatria, conforme previsto nos artigos 387, pargrafo 1, e 492, inciso I, alnea e, do CPP, este ltimo com a redao conferida pela Lei 11.689/2008, restando de somenos importncia o fato de o ru ter permanecido solto durante a instruo criminal, mxime quando demonstrados, como in casu, elementos concretos que a justifique (STF, RHC 121.075-AL). O ru que aguardou o julgamento em liberdade no pode ser preso apenas por fora de sentena condenatria, seno quando decretada a priso preventiva. O lanamento do nome do ru no rol dos culpados s pode ocorrer aps o trnsito em julgado. 16.3. Sentena absolutria. H, no processo penal militar, categorias de sentenas absolutrias. A sentena absolutria prpria julga improcedente a pretenso punitiva deduzida na denncia. A sentena absolutria imprpria reconhece circunstncia que exclui a culpabilidade ou a imputabilidade do agente, nos termos do artigo 439, d, do CPPM. So declaratrias a sentena que anula o processo e a que reconhece extinta a punibilidade (CPPM, artigo 439, f).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 12.736/2012 incluiu o pargrafo 1 no artigo 387 do CPP, permitindo que o juiz decida sobre a manuteno ou imposio de priso preventiva ou outra medida cautelar. O STF na ADC 43 julgou procedente a ao para assentar a constitucionalidade do artigo 283 do CPP. A priso preventiva pode ser decretada na sentena condenatria, conforme previsto nos artigos 387 e 492 do CPP. O lanamento do nome do ru no rol dos culpados s pode ocorrer aps o trnsito em julgado. Existem categorias de sentenas absolutrias no processo penal militar, como a sentena absolutria prpria e imprpria, alm de sentenas declaratrias.

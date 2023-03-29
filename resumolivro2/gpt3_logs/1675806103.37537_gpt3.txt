@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Compete, privativamente, ao Senado Federal processar e julgar os Comandantes da Marinha, do Exrcito e da Aeronutica nos crimes de responsabilidade e nos conexos a eles (artigo 52, I, CF). A competncia  a medida da jurisdio, que  una. Todo juiz tem jurisdio, mas nem todo juiz tem competncia, porque, em razo da complexidade das normas penais, a jurisdio penal sofre limitaes;
+a cada juiz ou tribunal  determinada competncia para processar e julgar certas causas criminais. A competncia, portanto,  a fixao dos limites do exerccio da atividade jurisdicional por cada rgo do poder Judicirio. 8.1.1. Princpios relacionados  jurisdio militarPelo princpio da inrcia da jurisdiomilitar o juiz atua se provocado. So conhecidos os aforismos do nemo iudex sine actore - no h juiz sem autor ou no h jurisdio sem ao - e do ne procedat judex ex officio - o juiz no pode proceder sem provocao da parte. Dessa inrcia da jurisdio militar decorre o princpio da iniciativa da parte. A regra  o rgo do Ministrio Pblico Militar propor a ao penal. O princpio da investidura designa que a jurisdio  exercida por juiz investido no cargo e em exerccio.  inexistente, por exemplo, a sentena prolatada por quem no  investido no cargo de juiz. Na primeira instncia da JMU e das JME o ingresso na carreira do juiz civil (togado) realiza-se mediante concurso pblico de provas e ttulos, na forma do artigo 93, I, CF, enquanto o militar, que integra o Conselho de Justia,  de investidura temporria;
+em segunda instncia os ministros civis e militares do STM e os juzes civis e militares dos TJMs so vitalcios desde a posse (artigo 22, I, c, da Lei Complementar 35/79 - Lei Orgnica da Magistratura Nacional). O princpio da inafastabilidade da jurisdio tem assento no artigo 5, XXXV, CF, a lei no excluir da apreciao do Poder Judicirio leso ou ameaa a direito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Senado Federal tem a responsabilidade exclusiva de processar e julgar os Comandantes da Marinha, do Exército e da Aeronáutica nos crimes de responsabilidade. A jurisdição penal é limitada por princípios como inércia, investidura e inafastabilidade. O ingresso na carreira de juiz civil é feito por meio de concurso público, enquanto o militar é de investidura temporária. Os ministros civis e militares do STM e os juízes civis e militares dos TJMs são vitalícios desde a posse.

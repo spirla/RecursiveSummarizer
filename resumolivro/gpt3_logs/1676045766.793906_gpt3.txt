@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A finalidade que direciona a conduta no sentido de fazer avanar um automvel na contramo direcional, em uma rodovia de intenso trfego, contm elementos cognoscivos adicionais e constitui o objeto de valorao para o juzo de reprovao da culpabilidade. A intensidade do trfego  um dado concreto da realidade, percebido pela pessoa que decide realizar a manobra, e qualifica, de modo especial, a finalidade da conduta, impondo a maior severidade da reprovao. O mesmo se diga com relao s condies de visibilidade ou do clima. Quanto piores as condies de dirigibilidade na realidade concreta, maior a exigibilidade social de ateno ao dever objetivo de cuidado. A finalidade que determinou a desateno aos deveres objetivos de cuidado na situao concreta fez-se atuar, apesar das dificuldades relativas s condies de visibilidade ou de clima, violando de maneira mais grave as expectativas sociais de cuidado. Sendo mais grave a violao das expectativas, maior deve ser a reprovao. Ainda cabe mencionar o exemplo do mdico recm-formado que resolve fazer uma interveno cirrgica delicada. A inobservncia ao dever de cuidado ocorre to logo o mdico inicie a cirurgia, pois viola o dever que se lhe apresentava de abster-se de realizar tarefa para a qual ainda no estava plenamente capacitado. Ao desenvolver a interveno cirrgica o mdico era consciente de sua inexperincia e sobre ele recaiam maiores expectativas de cuidado do que em relao ao mdico experiente. A sociedade pode esperar (exigir) do mdico recm-formado que se cerque de maiores cuidados (solicitando o auxlio de um preceptor, por exemplo) para o enfrentamento da situao de maior dificuldade. Novamente  o caso de afirmar: diante de maiores dificuldades e riscos ao bem jurdico, pode a sociedade exigir maiores cuidados de quem realiza a conduta ariscada. Note-se que a reprovao que tem por objeto a finalidade da conduta no apresenta as mesmas dificuldades verificadas na concepo psicolgica da culpabilidade, pois, mesmo no fato cometido por culpa inconsciente, existe a finalidade consciente de praticar a conduta descuidada. No h conduta que no seja finalisticamente orientada. A culpa inconsciente significa impreviso quanto  produo do resultado lesivo, o que no se confunde com a finalidade que orienta a conduta. Um motorista pode no ter previsto a coliso dos veculos, mas, ao fazer avanar o automvel na contramo direcional, age orientado por essa finalidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A conduta de fazer avanar um automóvel na contramo direcional em uma rodovia de intenso tráfego contém elementos cognoscivos adicionais e constitui o objeto de valoração para o juízo de reprovabilidade da culpabilidade, sendo que quanto piores as condições de dirigibilidade na realidade concreta, maior a exigibilidade social de atenção ao dever objetivo de cuidado. Ainda cabe mencionar que a reprovabilidade da conduta não se confunde com a culpa inconsciente, pois mesmo neste caso existe uma finalidade consciente.

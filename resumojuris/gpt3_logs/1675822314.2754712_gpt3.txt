@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por maioria, julgou procedente acao direta, declarando a inconstitucionalidade da Lei 13.454/2017, que autoriza a producao, venda e consumo, sob prescricao medica no modelo B2, dos remedios para emagrecer sibutramina, anfepramona, femproporex e mazindol, nos termos do voto do ministro Edson Fachin. ADI 5779/DF, relator Min. Nunes Marques, redator do acordao Min. Edson Fachin, julgamento em 14.10.2021 (INF 1034) Servicos prestados por hospital particular e ressarcimento - RE 666094/DF (Tema 1033 RG) Tese fixada: O ressarcimento de servicos de saude prestados por unidade privada em favor de paciente do Sistema Unico de Saude, em cumprimento de ordem judicial, deve utilizar como criterio o mesmo que e adotado para o ressarcimento do Sistema Unico de Saude por servicos prestados a beneficiarios de planos de saude. Resumo: A tabela da Agencia Nacional de Saude Suplementar (ANS) deve servir de parametro para o pagamento dos servicos de saude prestados por hospital particular, em cumprimento de ordem judicial, em favor de paciente do SUS. A tomada forcada de servico de unidade privada de saude se revela uma especie de requisicao judicial, ordenada pelo Estado-Juiz, em razao de falha concreta da politica de saude e da existencia de perigo iminente a saude do paciente. A imposicao de uma obrigacao de fazer restritiva de atividade privada resulta no dever de indenizar o proprietario. O ressarcimento pela requisicao de servicos deve ser pautado por criterios que conciliem: o dever social imposto as prestadoras privadas para promocao do direito a saude; a relevancia publica da atividade; a existencia de livre iniciativa para assistencia a saude; e a propria preservacao da empresa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei 13.454/2017, que autoriza a produção, venda e consumo, sob prescrição médica no modelo B2, dos remédios para emagrecer sibutramina, anfepramona, femproporex e mazindol, é inconstitucional. 2. A tabela da Agência Nacional de Saúde Suplementar (ANS) deve servir de parâmetro para o pagamento dos serviços de saúde prestados por hospital particular, em cumprimento de ordem judicial, em favor de paciente do SUS. 3. A tomada forçada de serviço de unidade privada de saúde se revela uma espécie de requisição judicial, ordenada pelo Estado-Juiz, em razão de falha concreta da política de saúde e da existência de perigo iminente à saúde do paciente. 4. A imposição de uma obrigação de fazer restritiva de atividade privada resulta no dever de indenizar o proprietário. 5. O ressarcimento pela requisição de serviços deve ser pautado por critérios que conciliem: o dever social imposto às prestadoras privadas para promoção do direito à saúde; a relevância pública da atividade; a existência de livre iniciativa para assistência à saúde; e a própria preservação da empresa.

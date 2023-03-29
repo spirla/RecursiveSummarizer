@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inaplicabilidade, em casos tais, dos precedentes formados na ADI 3.395-MC (Rel. Min. Cezar Peluso, DJ de 10/11/2006) e no RE 573.202 (Rel. Min. Ricardo Lewandowski, Dje de 5/12/2008, Tema 43) . Consubstanciando essa orientacao, a Sumula n. 97/STJ estabelece que compete a Justica do Trabalho processar e julgar reclamacao de servidor publico relativamente a vantagens trabalhistas anteriores a instituicao do regime juridico unico . 142 Acresca-se que, no caso, a competencia da Justica do Trabalho - na qual ajuizada a reclamacao - nao se descaracteriza pelo fato de a parte reclamante ter adicionado, aos pedidos relativos ao vinculo trabalhista - pagamento de aviso previo, FGTS, liberacao das guias do seguro-desemprego, multa do art. 477,  8, da CLT, indenizacao de ferias, 13 salario, adicional de insalubridade e indenizacao por danos morais -, requerimento de pagamento de diferencas salariais dos meses de abril a outubro de 2020, quando ja estava sob o regime de contratacao temporaria, bem como a declaracao de nulidade de contrato de prestacao temporaria de servico, a partir de 01/04/2020. No caso de pedidos cumulados, incide a Sumula n. 97 desta Corte Superior conjugada com a orientacao firmada na Sumula n. 170, tambem deste Superior Tribunal de Justica, que dispoe que compete ao juizo onde primeiro for intentada a acao envolvendo acumulacao de pedidos, trabalhista e estatutario, decidi-la nos limites da sua jurisdicao, sem prejuizo do ajuizamento de nova causa, com o pedido remanescente, no juizo proprio. (Informativo n. 749) 143 PROCESSO MS 28.276-DF, Rel. Min. Regina Helena Costa, Primeira Secao, por unanimidade, julgado em 10/08/2022, DJe 16/08/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É competente a Justiça do Trabalho para processar e julgar reclamações de servidores públicos relativas a vantagens trabalhistas anteriores à instituição do regime jurídico único, conforme prevê a Sumula n. 97/STJ. 2. Em casos de pedidos cumulados, incide a Sumula n. 97 desta Corte Superior conjugada com a orientação firmada na Sumula n. 170, também deste Superior Tribunal de Justiça, que dispõe que compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo do ajuizamento de nova causa, com o pedido remanescente, no juízo próprio.

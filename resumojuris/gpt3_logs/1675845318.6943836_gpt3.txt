@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Denuncia anonima. Ausencia de outras diligencias. Inexistencia de fundadas razoes. Vicio na autorizacao do morador. Ilicitude das provas. DESTAQUE Havendo controversia entre as declaracoes dos policiais e do flagranteado, e inexistindo a comprovacao de que a autorizacao do morador foi livre e sem vicio de consentimento, impoe-se o reconhecimento da ilegalidade da busca domiciliar. 1158 O ingresso regular em domicilio alheio depende, para sua validade e regularidade, da existencia de fundadas razoes que sinalizem a possibilidade de mitigacao do direito fundamental em questao. E dizer, somente quando o contexto fatico anterior a invasao permitir a conclusao acerca da ocorrencia de crime no interior da residencia e que se mostra possivel sacrificar o direito a inviolabilidade do domicilio. Deve-se frisar, ainda, que a mera denuncia anonima, desacompanhada de outros elementos preliminares indicativos de crime, nao legitima o ingresso de policiais no domicilio indicado, estando, ausente, assim, nessas situacoes, justa causa para a medida. (HC 512.418/RJ, Relator Ministro Nefi Cordeiro, Sexta Turma, DJe 3/12/2019). Relevante ponderar, tambem, que a Sexta Turma deste Tribunal, nos autos do HC 598.051/SP, da Relatoria do Ministro Rogerio Schietti Cruz, julgado em 2/3/2021, proclamou nova e criteriosa abordagem sobre o controle do alegado consentimento do morador para o ingresso em seu domicilio por agentes estatais. No caso, a abordagem do acusado se deu em virtude de denuncia anonima, sem que nada de ilicito fosse encontrado em sua posse, e, na sequencia, ingressou-se em sua residencia, com autorizacao da sua esposa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O ingresso regular em domicilio alheio depende da existência de fundadas razões que sinalizem a possibilidade de mitigação do direito fundamental em questão; 2. A mera denúncia anônima, desacompanhada de outros elementos preliminares indicativos de crime, não legitima o ingresso de policiais no domicilio indicado; 3. Havendo controversia entre as declarações dos policiais e do flagranteado, e inexistindo a comprovação de que a autorização do morador foi livre e sem vício de consentimento, impõe-se o reconhecimento da ilegalidade da busca domiciliar.

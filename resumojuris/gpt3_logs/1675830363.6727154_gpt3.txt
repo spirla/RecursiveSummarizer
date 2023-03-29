@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+966, V 80 Processo AgInt na AR 6.868-DF, Rel. Ministro Antonio Carlos Ferreira, Segunda Secao, por unanimidade, julgado em 9/11/2022, DJe 14/11/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL, DIREITO MARCARIO Tema Acao rescisoria. Acao de nulidade de registro de marca e acao indenizatoria. Ofensa a coisa julgada. Inexistencia. Falta de identidade de causa de pedir e pedido. DESTAQUE Nao ha coisa julgada envolvendo acao cominatoria e indenizatoria por uso indevido de marca proposta contra empresa que utiliza marca semelhante a da autora, que tramitou na Justica Comum estadual, e acao de nulidade de registro de marca, proposta pela mesma autora contra identica empresa e contra o INPI, decidida na Justica Federal. De inicio, ressalta-se que a garantia constitucional da coisa julgada (art. 5, XXXVI, da CF/88) possui conceito e limites previstos, essencialmente, no CPC/2015, que em seu art. 503 estabelece o limite objetivo da coisa julgada afirmando incidir tao somente no que se refere a questao principal expressamente decidida . No caso, na primeira acao ajuizada, entendeu-se pela ilegalidade no uso das marcas pela empresa re, em demanda indenizatoria e cominatoria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A garantia constitucional da coisa julgada (art. 5, XXXVI, da CF/88) possui conceito e limites previstos, essencialmente, no CPC/2015. 2. O limite objetivo da coisa julgada incide tão somente no que se refere à questão principal expressamente decidida. 3. Não há coisa julgada envolvendo ação cominatoria e indenizatória por uso indevido de marca proposta contra empresa que utiliza marca semelhante à da autora, que tramitou na Justiça Comum Estadual, e ação de nulidade de registro de marca, proposta pela mesma autora contra identica empresa e contra o INPI, decidida na Justiça Federal.

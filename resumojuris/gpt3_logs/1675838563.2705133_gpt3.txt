@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse sentido, o fato de determinada empresa estar sediada nos Estados Unidos nao tem o condao de eximi- la do cumprimento das leis e decisoes judiciais brasileiras, uma vez que disponibiliza seus servicos para milhoes de usuarios que se encontram em territorio brasileiro. (Informativo n. 750) 522 PROCESSO AgRg no REsp 2.004.098-SC, Rel. Min. Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, por unanimidade, julgado em 02/08/2022. TEMA Operacao Ouvidos Moucos . Alegada suspeicao de magistrado. Quebra do dever de imparcialidade. Codigo de Etica da Magistratura Nacional. Art. 12 da Resolucao CNJ n. 60/2008. Livre exercicio do direito de manifestacao do juiz. Impedimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A sede de uma empresa nos Estados Unidos não exime o cumprimento das leis e decisões judiciais brasileiras, caso ela ofereça serviços para usuários brasileiros. 2. O dever de imparcialidade do magistrado deve ser observado, de acordo com o Código de Ética da Magistratura Nacional e o art. 12 da Resolução CNJ n. 60/2008. 3. O livre exercício do direito de manifestação do juiz não impede o impedimento do magistrado.

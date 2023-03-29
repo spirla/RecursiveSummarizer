@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+167, VI, da CF/88 (CF), e ao modelo constitucional de organizacao orcamentaria das financas publicas. Alem disso, essas decisoes afrontam o preceito da separacao funcional de Poderes [art. 2 c/c art. 60,  4, III, da CF], o principio da eficiencia da Administracao Publica [art. 37, caput, da CF ] e o principio da continuidade dos servicos publicos [art. 175 da CF ]. Com efeito, a possibilidade de constricao judicial de receita publica e absolutamente excepcional. O texto constitucional o permite apenas em hipoteses que envolvem o pagamento de dividas do Poder Publico mediante o sistema de precatorios, conforme o art. 100,  6, da CF, ao tratar da possibilidade de sequestro de verbas em caso de pretericao da ordem de pagamento. Conforme apreciado pelo Supremo Tribunal Federal, e inconstitucional a ampliacao dessas hipoteses constitucionais de sequestro, tal como pretendido na hipotese. Portanto, nao pode o Poder Judiciario, por mera comodidade da execucao, determinar medida que acarreta gravame para as atividades administrativas e financeiras do Estado. Se nem ao proprio Poder Executivo e dado remanejar receitas publicas ao seu livre arbitrio, quanto mais se mostra temerario que o Poder Judiciario o faca, pois lhe falta capacidade institucional para avaliar os impactos desses bloqueios e sequestros de verbas sobre a atividade administrativa e a programacao financeira do ente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É excepcional a possibilidade de constrição judicial de receita pública. 2. É inconstitucional a ampliação das hipóteses constitucionais de sequestro. 3. Não é permitido ao Poder Judiciário, por mera comodidade da execução, determinar medida que acarreta gravame para as atividades administrativas e financeiras do Estado. 4. Não é permitido ao Poder Executivo remanejar receitas públicas ao seu livre arbítrio. 5. O Poder Judiciário não possui capacidade institucional para avaliar os impactos de bloqueios e sequestros de verbas sobre a atividade administrativa e a programação financeira do ente.

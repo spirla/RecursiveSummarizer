@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao ha falar em vicio formal concernente ao desatendimento do preceito acima citado, pois, de acordo com as Notas Tecnicas n. 56/2021 e 93/2021, disponiveis no sitio eletronico do Ministerio das Minas e Energia como anexos a Consulta Publica n. 108, de 28/05/2021, o Ministerio das Minas e Energia esperava as contribuicoes vertidas da consulta publica para nortear a definicao do CVU, naquele momento ainda nao estabelecido, para fins de habilitacao de empreendimentos termeletricos no certame e, assim, suprir a lacuna da minuta da Portaria que conteria as diretrizes para a realizacao do referido leilao. Ademais, verificou-se que o criterio de qualificacao por valor de CVU nao afetou a competicao do certame, pois: (i) para o leilao, foram cadastrados 132 projetos, totalizando 50.691 MWh de capacidade instalada, dos quais 41.254 MWh sao de novos empreendimentos de geracao; (ii) a oferta de novos empreendimentos cadastrados para o leilao corresponde a 76% do atual parque termeletrico brasileiro e reflete o tamanho do interesse de empreendimentos novos e existentes em participar do certame; (iii) das 93 usinas termeletricas listadas pelo Operador Nacional do Sistema (NOS), 56 possuem CVU menor ou igual a R$ 600,00/MWh, cerca de 60% dos empreendimentos; (iv) embora, no parque termeletrico em operacao, encontrem-se algumas usinas antigas, a maioria delas teria condicoes de participar do leilao, segundo o criterio do CVU maximo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Ministério das Minas e Energia esperava contribuições da consulta pública para nortear a definição do CVU para habilitação de empreendimentos termelétricos no certame. 2. O critério de qualificação por valor de CVU não afetou a competição do certame. 3. Dos 93 empreendimentos listados pelo Operador Nacional do Sistema, 56 possuem CVU menor ou igual a R$ 600,00/MWh. 4. Embora existam algumas usinas antigas no parque termelétrico em operação, a maioria delas teria condições de participar do leilão, segundo o critério do CVU máximo.

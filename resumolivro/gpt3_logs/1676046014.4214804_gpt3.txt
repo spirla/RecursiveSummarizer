@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como exemplo de erro de proibio direto, pode-se citar o estagirio de Direito da Promotoria de Justia que recebe dinheiro de particular interessado em andamento processual, desconhecendo que a lei considera-o funcionrio pblico e, portanto, sua conduta caracteriza o crime de corrupo passiva do artigo 317 do CP. Erro de proibio indireto. O erro recebe a denominao de erro de proibio indireto quando o sujeito supe a existncia de causa de justificao inexistente ou percebe com imperfeio os limites de causa de justificao existente. Nesse caso, o erro no incide sobre a fonte direta de conhecimento da ilicitude, mas, indiretamente, sobre a norma que estabelece justificao para a violao da norma proibitiva. Mesmo de maneira indireta, o erro produz efeitos sobre a conscincia da ilicitude do fato, na medida em que o errado entendimento sobre uma norma permissiva afeta a compreenso sobre a contrariedade que o comportamento encerra com a ordem jurdica.  possvel exemplificar o erro de proibio indireto na conduta daquele que, percebendo que um menino est arranhando a pintura de seu veculo com uma chave de fenda, efetua disparos de arma de fogo contra o mesmo at mat-lo, pensando estar amparado pelo instituto da legtima defesa. Teoria limitada da culpabilidade. Para compreender melhor o erro de proibio indireto,  necessrio perceber que, no trato da questo do erro jurdico-penal relevante, o Cdigo Penal brasileiro acolheu a teoria limitada da culpabilidade. Segundo tal teoria, nem todas as questes relativas ao erro que incide sobre as causas de justificao devem ser resolvidas na culpabilidade. Nesse sentido,  necessrio fazer distino entre o erro decorrente da crena na existncia ou amplitude de preceito permissivo do erro que incide sobre os pressupostos fticos da permisso. Se o sujeito atua em erro quanto  existncia ou os limites da norma permissiva, trata-se de erro de proibio, que produz seus efeitos no exame da culpabilidade. No Cdigo Penal brasileiro, a questo  tratada segundo os termos do artigo 21. Se, no entanto, o sujeito atua em erro quanto aos pressupostos fticos que autorizam a incidncia dessa mesma norma, ocorre erro de tipo permissivo, que produz efeitos no juzo de tipicidade. O erro de tipo permissivo  regulado, em nosso Cdigo, pelo artigo 20. Dessa forma, o erro de proibio indireto somente se caracterizar quando houver erro quanto  existncia ou limites da causa de justificao. Erro de mandamento.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O erro de proibio direto ocorre quando o sujeito desconhece a lei. O indireto, quando o sujeito supe a existência de causa de justificação inexistente ou percebe com imperfeição os limites de causa de justificação existente. O Código Penal brasileiro adota a teoria limitada da culpabilidade para tratar questões relacionadas ao erro júrido-penal. Se o erro for quanto à existência ou limites da causa de justificação, trata-se de erro de proibio indireto. Se for quanto aos pressupostos fáticos que autorizam a incidência da norma, trata-se de erro de tipo permissivo.

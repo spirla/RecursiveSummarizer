@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por ser o estado-membro aquele que arca com os custos decorrentes de eventual prazo de validade mais elastecido, nao cabe a Uniao interferir no poder de autoadministracao do ente estadual quanto as concessoes e permissoes dos contratos de transporte rodovia-rio de passageiros intermunicipal, sob pena de afronta ao pacto federativo. Alem disso, a norma impugnada gera uma situacao regulatoria inconsistente na qual os passageiros de determinado estado podem ser submetidos a tratamento diverso conforme o servico de transporte utilizado, em afronta ao principio da isonomia. Com esses entendimentos, o Plenario, por unanimidade, conheceu da acao direta e, no merito, julgou procedente o pedido nela formulado, para declarar a inconstitucionalidade parcial do art. 1 da Lei federal 11.975/2009, com reducao de texto do vocabulo intermunicipal . ADI 4289/DF, relatora Ministra Rosa Weber, julgamento virtual finalizado em 8.4.2022 (sexta-feira), as 23:59 (INF 1050) Servico de telecomunicacao e proibicao de oferta e comercializacao de servico de valor adicionado - ADI 6199/PE Resumo: E inconstitucional, por violar os arts. 21, XI, 22, IV, e 48, XII da CF/88, norma estadual que proibe concessionarias de servicos de telecomunicacao de ofertarem e comercializarem servico de valor adicionado (SVA). Embora o SVA nao constitua propriamente servico de telecomunicacao, a proibicao de sua oferta e comercializacao acaba por interferir indiretamente na prestacao dos servicos de telecomunicacao, porque res-tringe o plano de negocio das empresas do setor, com possiveis prejuizos para o equilibrio economico-financeiro dos contratos de concessao. Com efeito, a comercializacao do SVA pelas empresas de telecomunicacao constitui importante fonte de receita alternativa ou acessoria da concessionaria, integrando-se, portanto, a estrutura economico-financeira do contrato de concessao do servico publico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional afrontar o pacto federativo ao interferir no poder de autoadministração do ente estadual quanto às concessões e permissões dos contratos de transporte rodoviário de passageiros intermunicipal. 2. É inconstitucional gerar uma situação regulatória inconsistente na qual os passageiros de determinado estado podem ser submetidos a tratamento diverso conforme o serviço de transporte utilizado, em afronta ao princípio da isonomia. 3. É inconstitucional, por violar os arts. 21, XI, 22, IV, e 48, XII da CF/88, norma estadual que proíbe concessionárias de serviços de telecomunicação de ofertarem e comercializarem serviço de valor adicionado (SVA). 4. É inconstitucional interferir indiretamente na prestação dos serviços de telecomunicação, por meio da proibição de oferta e comercialização do SVA, pois isso restringe o plano de negócio das empresas do setor, com possíveis prejuízos para o equilíbrio econômico-financeiro dos contratos de concessão.

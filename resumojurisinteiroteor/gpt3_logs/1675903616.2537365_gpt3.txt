@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O meritssimo juiz de direito titular da 2a AJME sentenciou o feito (Evento 58 - SENT1 - AJME). Julgou parcialmente procedente a ao penal, para condenar o ru Ten-Cel PM Gianfranco Caiafa pelo crime denunciado pelo Ministrio Pblico e absolver os rus, policiais militares, 2 Sgt PM QPR Ado Gonalves Ferreira, 3 Sgt PM Edson Ribeiro, Cb PM Wellington Alves de Souza e Silva, Sd PM Diego Wilson dos Santos, Sd PM Diego Ribeiro Santiago e 3 Sgt PM Joel Bueno de Oliveira, com fundamento no art. 439, letra "e, do Cdigo de Processo Penal Militar (CPPM). Fixou a pena individual de 4 (quatro) meses de deteno em face de cada um dos 12 (doze) ofendidos, tornando-a definitiva em 4 (quatro) anos de deteno. A defesa do militar interps recurso de apelao (Evento 81 - MANI1). Em suas razes recursais (Evento 120 - OUT1), argui, preliminarmente, a nulidade do feito por cerceamento de defesa, ante a no designao de audincia de julgamento para apresentao das alegaes finais orais e a ocorrncia da coisa julgada. Concernente  coisa julgada, disse que o Ministrio Pblico, atravs de sua promotoria de direitos humanos e controle externo da atividade policial, ofereceu denncia exatamente pelos mesmos fatos, descritos na exordial acusatria destes autos, no Processo 066495960.2016.8.13.0024, documento constante s fls. 1.056, porm apenas contra o,  poca, Ten-Cel Gianfranco Caiafa. Aduziu que, na denncia oferecida ao juzo da 1a Vara Criminal da Comarca de Belo Horizonte, o Ministrio Pblico imputava ao Ten-Cel Gianfranco suposta conduta de abuso de autoridade, pelas condutas praticadas nas datas de 19 de junho e 12 de agosto de 2015, sendo esta ltima exatamente a mesma da do presente feito. Afirmou que, naquele feito, que tramitou na Justia comum, a denncia sequer foi recebida, tendo tal deciso sido confirmada pelo egrgio Tribunal de Justia de Minas Gerais e transitado em julgado, como se pode verificar s fls. 2.737. Arguiu que os fatos narrados na denncia destes autos j foram apreciados pelo poder judicirio, inclusive pela segunda instncia, no mbito do juzo competente  poca dos fatos. Concluiu que o trnsito em julgado da deciso proferida por juzo competente forma ato jurdico perfeito, no sendo possvel nova anlise, sob pena de criarmos uma insegurana jurdica insanvel para a sociedade. No mrito, insurge-se contra a condenao aos argumentos, em sntese, da inexistncia de responsabilidade subjetiva, j que ele simplesmente deu ordem para que a tropa entrasse em ao, no tendo efetuado um disparo sequer. Alegou, ainda, que a atuao do recorrente se deu em estrito cumprimento do dever legal, uma vez que os militares agiram totalmente amparados pelas normas legais do pas, desde a Constituio Federal at a diretriz do Comando-Geral sobre o emprego operacional da PMMG.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito da 2a AJME julgou parcialmente procedente a ao penal, condenando o Ten-Cel PM Gianfranco Caiafa e absolvendo os demais rus, policiais militares, com fundamento no art. 439, letra "e, do Cdigo de Processo Penal Militar (CPPM). A defesa do militar interps recurso de apelao, arguindo preliminarmente a nulidade do feito por cerceamento de defesa e a ocorrncia da coisa julgada. No mrito, insurgiu-se contra a condenao alegando inexistncia de responsabilidade subjetiva.

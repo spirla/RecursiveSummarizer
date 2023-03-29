@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como bem observa Llio Braga, a liberdade  o mandamento bsico do Estado Democrtico de Direito, sendo regra nesse sistema; a no liberdade, a exceo. Com certeza, o comportamento lcito da vtima no pode ser alvo de uma reprovao indireta. No se pode reprovar o indivduo que deixa a porta de seu veculo aberta, pois seu direito de propriedade garante-lhe qualquer forma de utilizao do bem que no ofenda direito alheio. Do mesmo modo, no se pode desqualificar uma jovem vtima s porque usa roupas sensuais. Respeitados os parmetros do pudor pblico, as pessoas podem vestir-se como quiserem. O eventual abuso do direito de liberdade por parte da vtima, por sua vez, s justifica a conduta do sujeito quando houver seu enquadramento nas hipteses excludentes de ilicitude previstas no artigo 23 do CP. Quando o magistrado entender que o comportamento da vtima enseja menor reprovao ao condenado, no se reconhecem justificativas para o comportamento criminoso. A possvel contribuio da vtima para a ocorrncia do crime pode, a critrio do juiz, indicar que o condenado no deva receber uma maior carga de reprovao. J o comportamento da vtima que dificulta a realizao do crime pode ser indicativo da necessidade de manter-se a reprimenda no limite indicado pela culpabilidade. A incerteza quanto ao resultado da avaliao judicial  caracterstica essencial das circunstncias judiciais, e, no caso do comportamento da vtima, tal caracterstica se evidencia ainda mais. Se nas circunstncias legais o legislador definiu previamente a consequncia do reconhecimento das circunstncias, as circunstncias judiciais permitem a variedade de interpretaes.  possvel que um juiz reconhea a menor necessidade de reprovao quando o condenado tenha aproveitado o descuido do proprietrio do veculo, que deixou a porta aberta, para furt-lo. Um outro juiz, analisando o mesmo caso, pode entender que o aproveitamento da situao de maior fragilidade da vtima constitui motivos para manter uma maior reprovao. A impreciso da avaliao quanto ao comportamento da vtima, entretanto, acontece apenas quando se trata de circunstncia judicial. Quando se tratar de ato injusto da vtima que provoque forte emoo no sujeito e influencie-lhe a conduta, caracteriza-se a atenuante prevista no artigo 65, III, c, do CP, e no se pode considerar o comportamento da vtima para a fixao da pena-base.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado Democrtico de Direito garante o direito de liberdade como regra, e a no liberdade como exceo. O comportamento lcito da vtima no pode ser alvo de reprovao indireta. O eventual abuso do direito de liberdade por parte da vtima s justifica a conduta do sujeito quando houver seu enquadramento nas hipteses excludentes de ilicitude previstas no artigo 23 do CP. O comportamento da vtima que dificulta a realizao do crime pode ser indicativo da necessidade de manter-se a reprimenda no limite indicado pela culpabilidade. Quando se tratar de ato injusto da vtima que provoque forte emoo no sujeito e influencie-lhe a conduta, caracteriza-se a atenuante prevista no artigo 65, III, c, do CP.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O inciso I diz que o indiciado ou o acusado podem alegar duas razes:
+(a)no ter ele adquirido a coisa com os proventos da infrao penal ou (b)no ter havido leso a patrimnio sob administrao militar. O inciso II reza que ao embargar o terceiro pode alegar:
+(a)haver adquirido a coisa em data anterior  da infrao penal praticada pelo indiciado ou acusado ou (b)hav-la, em qualquer tempo, adquirido de boa-f. O procedimento dos embargos  definido no artigo 203, pargrafos 1 a 3, o embargante tem prazo de dez dias para fazer prova do alegado;
+ouvido o Ministrio Pblico, a autoridade judiciria militar decide de plano, aceitando ou rejeitando os embargos, cabendo da deciso recurso para a superior instncia. Cuida-se de recurso necessrio. O juiz, entendendo que se trata de matria de alta indagao, remeter o embargante para o juzo cvel e manter o sequestro at que seja dirimida a controvrsia. Da mesma forma proceder, desde logo, se no se tratar de leso ao patrimnio sob administrao militar (artigo 203). O levantamento do sequestro no juzo penal militar  previsto no artigo 204 do CPPM. O sequestro  levantado se forem aceitos os embargos, ou negado provimento ao recurso da deciso que os aceitou (alnea a). O levantamento do sequestro  a consequncia do resultado do recurso. A segunda causa de levantamento do sequestro se d se a ao penal no for promovida no prazo de sessenta dias, contado da data em que foi instaurado o inqurito (alnea b). A medida cautelar sobre o patrimnio no pode ter durao indefinida, perdurar por tempo indeterminado sem que haja acusao formal. A terceira causa de levantamento do sequestro ocorre se o terceiro, a quem tiverem sido transferidos os bens, prestar cauo real ou fidejussria que assegure a aplicao do disposto no artigo 109, I e II, letra b, do Cdigo Penal Militar (alnea c). O bem sequestrado pertencia ao acusado, que o transferiu para terceiro. O terceiro deve demonstrar que o adquiriu de boa-f e prestar a cauo. Por fim, cabe o levantamento do sequestro se for julgada extinta a ao penal ou absolvido o acusado por sentena irrecorrvel (alnea d).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 203 do Código Penal Militar (CPPM) estabelece que o terceiro pode alegar que adquiriu a coisa antes da infração penal ou de boa-f. O juiz pode remeter o embargante para o juízo cível e manter o sequestro até que a controvérsia seja dirimida. O levantamento do sequestro é previsto no artigo 204 do CPPM e ocorre se os embargos forem aceitos, se não houver acusação formal no prazo de 60 dias ou se o terceiro prestar caução real ou fidejussória. Por fim, o levantamento do sequestro também ocorre se a ação penal for extinta ou o acusado absolvido por sentença irrecorrível.

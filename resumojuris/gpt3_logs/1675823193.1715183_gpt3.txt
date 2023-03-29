@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Vencidos os ministros Roberto Barroso e Luiz Fux (Presidente). Alem disso, o Plenario, por maioria, modulou os efeitos da decisao de declaracao de inconstitucionalidade. Vencidos os ministros Edson Fachin, Rosa Weber e Marco Aurelio. Os ministros Roberto Barroso e Luiz Fux (Presidente) modularam os efeitos da decisao em maior extensao. ADI 5529/DF, relator Min. Dias Toffoli, julgamento em 12.5.2021 (INF 1017) Trabalho do preso e remuneracao inferior ao salario-minimo - ADPF 336/DF Resumo: O patamar minimo diferenciado de remuneracao aos presos previsto no artigo 29, caput , da Lei 7.210/1984 (Lei de Execucao Penal - LEP) nao representa violacao aos principios da dignidade humana e da isonomia, sendo inaplicavel a hipotese a garantia de salario-minimo prevista no artigo 7, IV, da CF/88 (CF). O preso nao se sujeita ao regime da Consolidacao das Leis do Trabalho (CLT) e seu trabalho possui finalidades educativa e produtiva, nao podendo ser comparado com o trabalho das pessoas que nao cumprem pena. Essas tem garantido o salario-minimo para satisfacao de necessidades vitais basicas do trabalhador e de sua familia com moradia, alimentacao, educacao, saude, lazer, vestuario, higiene, transporte e previdencia social. Por outro lado, o preso ja tem atendidas pelo Estado boa parte das necessidades vitais basicas que o salario-minimo almeja satisfazer, tais como educacao, alojamento, saude, alimentacao, vestuario e higiene. Alem disso, o preso recebe o beneficio da remicao da pena, na proporcao de 1 dia de reducao da sancao criminal para cada 3 dias de trabalho e o produto da remuneracao deve ser direcionado para a indenizacao dos danos causados pelo crime, a assistencia a familia, para pequenas despesas pessoais e para promover o ressarcimento ao Estado das despesas realizadas com a sua manutencao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O patamar minimo diferenciado de remuneracao aos presos previsto no artigo 29, caput, da Lei 7.210/1984 (Lei de Execução Penal - LEP) não representa violação aos princípios da dignidade humana e da isonomia. 2. O preso não se sujeita ao regime da Consolidação das Leis do Trabalho (CLT) e seu trabalho possui finalidades educativa e produtiva, não podendo ser comparado com o trabalho das pessoas que não cumprem pena. 3. O preso já tem atendidas pelo Estado boa parte das necessidades vitais básicas que o salário-mínimo almeja satisfazer. 4. O preso recebe o benefício da remição da pena, na proporção de 1 dia de redução da sanção criminal para cada 3 dias de trabalho. 5. O produto da remuneração deve ser direcionado para a indenização dos danos causados pelo crime, a assistência à família, para pequenas despesas pessoais e para promover o ressarcimento ao Estado das despesas realizadas com a sua manutenção.

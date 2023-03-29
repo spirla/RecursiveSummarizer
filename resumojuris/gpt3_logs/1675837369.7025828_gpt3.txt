@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Principio da separacao dos poderes. DESTAQUE A demora da Administracao para apreciar o pedido de autorizacao para funcionamento de radio comunitaria nao legitima o Poder Judiciario a conceder, ainda que em carater precario, o direito de continuidade das atividades. A presente controversia, consubstanciada em saber se ha, ou nao, possibilidade de o Poder Judiciario autorizar o exercicio precario do servico de radiodifusao comunitaria, ante a demora dos Poderes Executivo e Legislativo em faze-lo, nao e nova nesta Corte, estando vinculada ao exame da Lei n. 9.612/1998. A Constituicao da Republica, em seu art. 223, expressamente define como competencia do Poder Executivo, com posterior referendo do Poder Legislativo, outorgar concessao, permissao e autorizacao para o servico de radiodifusao sonora e de imagens. Nao ha espaco, portanto, para o Judiciario interferir em tal questao, sob pena de ofensa ao principio da separacao dos Poderes. Nessa perspectiva, nao se revela adequada a adocao do entendimento segundo o qual poderia o Poder Judiciario, no caso sob exame, suprir a omissao imputada aos demais Poderes, mormente considerando-se que a hipotese nao versa acerca de uma eventual inercia daqueles em intervir e agir em prol da concretizacao de algum direito fundamental. De fato, a especie vertente aproxima-se mais de uma intervencao do Poder Judiciario em materia relacionada, em ultima analise, a um juizo de valor a ser proferido pelo Poder Executivo (embora sujeito a referendo pelo Congresso Nacional) sobre a oportunidade e conveniencia na outorga da permissao pleiteada. 490 Nessa linha de ideias, conclui-se que a solucao exegetica mais apropriada e a de que a demora da Administracao para apreciar o pedido de autorizacao para funcionamento de radio comunitaria nao legitima ao Poder Judiciario conceder o direito de continuidade das atividades.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O princípio da separação dos poderes impede que o Poder Judiciário intervina em questões relacionadas à outorga de concessão, permissão e autorização para o serviço de radiodifusão sonora e de imagens. 2. A demora da Administração para apreciar o pedido de autorização para funcionamento de rádio comunitária não legitima o Poder Judiciário a conceder, ainda que em caráter precário, o direito de continuidade das atividades.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A duas, porque, "ainda que se tratasse de crime que a lei imputa ser da competncia concorrente do CEJ decidir, caberia suscitar o poder de cautela geral do magistrado, que o confere a possibilidade de determinar medidas cautelares de ofcio, conforme bem ressaltou o douto representante do parquet em contrarrazes de recurso. No obstante as infundadas alegaes da defesa, infere-se que o CEJ, diante do deferimento das diligncias complementares decorrentes da quebra de sigilo do ru, as avalizou. No que tange ao argumento exposto pelo apelante de que o magistrado no teria dado vista  defesa, causando-lhe prejuzo, no me parece razovel. A questo  simples, pois, ao magistrado, cabe a anlise dos pedidos das partes e, estando estes revestidos de legalidade,  permitido ao juiz que atue de ofcio, quando da anlise de um requerimento. H de se ressaltar que a Defesa obteve acesso integral aos autos n. 2331-66, conforme aduz s fls. 167 do Anexo 38, o que demonstra que ambas as partes tiveram acesso s provas carreadas na quebra de sigilo bancrio e, portanto, o recorrente pde exercer o seu direito de Defesa atravs de seus advogados. Ressalte-se, ainda, que todos os pedidos de vista requeridos pelas partes, bem como todos os pedidos de acesso aos documentos juntados aos autos foram prontamente deferidos pela magistrada sentenciante. Quando, eventualmente, deixava de abrir vista as partes por qualquer motivo, a prpria magistrada determinava que o cartrio expedisse certido para que fossem dadas as devidas explicaes. As possveis faltas eram imediatamente sanadas, sem prejuzo s partes, o que demonstra mais uma vez a lisura dos atos da juza sentenciante. Verifica-se, ainda, que a defesa aduziu que houve a extrapolao do perodo da quebra do sigilo bancrio do apelante. Na esteira do douto promotor de justia, em suas contrarrazes, entendo que, no caso dos autos e em situaes anlogas,  "plenamente admissvel que no seja possvel inferir, pelos indcios anexados nos autos quando da fase inquisitorial, os marcos temporais incontestveis do cometimento do crime. Assim, me alinho ao fundamento utilizado na sentena condenatria de que "a cautela foi tomada em relao ao objeto do direito e ao modo de declarar a inteno e a vontade investigativas, bem como foi obedecida a forma externa - lembrando que o sigilo bancrio no se constitui como clusula de reserva jurisdicional.. Com essas consideraes, rejeito a preliminar arguida. Passo agora  anlise do mrito da causa. No mrito, vejo que a defesa reque a absolvio do apelante do crime previsto no art. 261, III, do CPM com fulcro no art. 439, alnea "e do CPPM; do crime previsto no art. 308 do CPM, pela atipicidade da conduta e pela inexistncia de provas e do crime previsto no art. 309 CPM, por atipicidade da conduta e pela inexistncia de provas. Pois bem.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal rejeitou a preliminar arguida e, no mrito, negou a absolvio do apelante dos crimes previstos nos arts. 261, III, 308 e 309 do CPM, tendo em vista a atipicidade da conduta e a inexistncia de provas.

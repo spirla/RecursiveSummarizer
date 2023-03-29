@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como a referida norma se aplica a qualquer tipo de risco, inclusive o que  produzido por pessoas fsicas, a definio de risco contida na norma  melhor esclarecida por meio de cinco notas tcnicas, segundo as quais: 1) um efeito  um desvio em relao ao esperado - positivo e/ou negativo; 2) os objetivos podem ter diferentes aspectos (tais como metas financeiras, de sade e segurana e ambientais) e podem aplicar-se em diferentes nveis (tais como estratgico, em toda a organizao, de projeto, de produto e de processo); 3) o risco  muitas vezes caracterizado pela referncia aos eventos potenciais e s consequncias, ou uma combinao destes; 4) o risco  muitas vezes expresso em termos de uma combinao de consequncias de um evento (incluindo mudanas nas circunstncias) e a probabilidade de ocorrncia associada; e 5) a incerteza  o estado, mesmo que parcial, da deficincia das informaes relacionadas a um evento, sua compreenso, seu conhecimento, sua consequncia ou sua probabilidade. A noo de risco estabelecida pela ISO 31000  muito abrangente e, para os fins de caracterizao do risco de agresso previsto na justificante especial, no  possvel aplicar todas as diretrizes estabelecidas em suas notas tcnicas. No entanto, tais diretrizes ajudam a construir uma noo bsica de risco de agresso. No contexto da situao ftica justificante, a agresso  vitima mantida refm deve ser considerada um evento possvel (esperado), muito embora incerto. A incerteza que existe no risco de agresso diz respeito  conduta futura do tomador de refm. No risco de agresso, a agresso  possvel, mas, no se pode ter certeza sobre a sua ocorrncia futura. Esse aspecto diferencia a situao de iminente agresso da situao de risco de agresso. Na iminente agresso, a agresso  certa. No risco de agresso, a agresso  incerta. Poder ocorrer concretamente, ou no. A previso normativa autoriza a interveno do agente de segurana diante do quadro de incerteza sobre a conduta futura do tomador de refm. A justificante especial expressa opo por preservar a vitima. No entanto, o risco de agresso no pode se caracterizar diante de uma possibilidade distante de agresso. Deve fundamentar-se minimamente em elementos fticos que possam lastrear a possibilidade da ocorrncia da agresso.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ISO 31000 estabelece uma noo abrangente de risco, incluindo o risco de agressão. No entanto, para caracterizar esse risco, devem ser considerados elementos fáticos que lastreiem a possibilidade da ocorrência da agressão. A incerteza sobre a conduta futura do tomador de refém é o que diferencia a iminente agressão da situação de risco de agressão.

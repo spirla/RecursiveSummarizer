@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Justia Militar da Unio e dos Estados passaram a ter competncia para processar e julgar crimes previstos no Cdigo Penal, que no tenham igual definio no Cdigo Penal Militar, por exemplo , omisso de socorro (artigo 135), injria por preconceito (artigo 140, pargrafo 3), associao criminosa (artigo 288), insero de dados falsos em sistema de informaes (artigo 313-A) e modificao ou alterao no autorizada de sistema de informaes (artigo 313-B) e outros tantos delitos. H conflitos entre normas definidoras de crimes do CPM e do CP e entre normas que tipificam crimes no CPM e na Legislao penal especial. Resolve-se o conflito aparente de normas penais pelo princpio da especialidade. O Cdigo Penal Militar  especial em relao ao Cdigo Penal. Em caso de conflito, aplica-se a norma penal do CPM (por exemplo , aplica-se a norma do artigo 209 do CPM e no a do artigo 129 do CP). A legislao penal extravagante  especial em relao ao Cdigo Penal Militar (por exemplo , aplica-se a norma do artigo 303 da Lei 9.503/1997 e no a do artigo 209 do CPM em caso de leso culposa em acidente de trnsito). As modificaes provocaram reflexes e debates, pois, crimes previstos no Cdigo Penal e na legislao penal, que eram da competncia da justia comum, agora so da jurisdio castrense, sobretudo, quando praticados em razo de emprego de tropas federais em operao da lei e da ordem (LGO) e da submisso, em alguns desses novos crimes, do civil ao foro militar;
+e por conta dos chamados crimes de policiamento na situao prevista no CPM, artigo 9, II, alnea c, em que o militar em servio o pratica contra civil. O STJ concluiu pela aplicao imediata da Lei n. 13.491/2017 por fora do princpio tempus regit actum e declarou competente o Juzo Auditor da 4. Auditoria da 1. Circunscrio Judiciria Militar do Estado do Rio de Janeiro. A controvrsia cingia-se em definir o juzo competente para processar e julgar crime praticado, em tese, por militar em situao de atividade contra patrimnio sob a administrao militar antes do advento da Lei n. 13.491/2017:
+(...)2.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar da Unio e dos Estados passou a ter competncia para processar e julgar crimes previstos no Cdigo Penal e na legislao penal especial. O STJ concluiu pela aplicao imediata da Lei n. 13.491/2017, declarando competente o Juzo Auditor da 4. Auditoria da 1. Circunscrio Judiciria Militar do Estado do Rio de Janeiro para processar e julgar crimes praticados por militares.

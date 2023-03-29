@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Gurgel de Faria, Primeira Turma, por unanimidade, julgado em 02/08/2022. RAMO DO DIREITO DIREITO CIVIL, DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL CIVIL TEMA Honorarios advocaticios contratuais. Pagamento com recursos do FUNDEF/FUNDEB. Vedacao. Superveniencia da ADPF n. 528. Modificacao do entendimento do STJ. Utilizacao dos juros moratorios dos precatorios. Possibilidade. Natureza autonoma dos juros em relacao a verba principal. DESTAQUE Nas demandas envolvendo valores relacionados ao FUNDEF/FUNDEB, e possivel a utilizacao dos juros moratorios dos precatorios para pagamento dos honorarios contratuais, ante a natureza autonoma dos juros em relacao a verba principal. A controversia diz respeito a possibilidade do pagamento dos honorarios contratuais com a verba dos precatorios ja depositados, nas causas judiciais envolvendo verbas do FUNDEF/FUNDEB.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Nas demandas envolvendo valores relacionados ao FUNDEF/FUNDEB, é possível a utilização dos juros moratórios dos precatórios para pagamento dos honorários contratuais. 2. A natureza autônoma dos juros em relação à verba principal permite a utilização dos juros moratórios dos precatórios para pagamento dos honorários contratuais.

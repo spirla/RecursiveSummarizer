@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O sistema adotado no CPP gera incerteza, por se referir ao recebimento da denncia ou da queixa em dois momentos processuais distintos, ao dizer, no artigo 396, caput, que oferecida a denncia ou queixa, o juiz, se no a rejeitar liminarmente, receb-la-, desde logo instaurou-se a ao penal, e, ao mencionar, no artigo 399, novamente, que recebida a denncia ou queixa, o juiz designar dia e hora para audincia, d a entender que antes de receber a denncia ou a queixa o juiz ouviria a defesa do acusado. Afirma Aury Lopes Jnior que o recebimento ocorre nos termos do artigo 396 do CPP, tanto que o ru  citado nesse momento para apresentar sua resposta e, posteriormente, intimado para audincia de instruo. Predomina o entendimento de que a expresso receb-la- (a denncia ou queixa) do artigo 396, caput, do CPP, indica juzo de admissibilidade da acusao, porque com o recebimento da denncia ou da queixa  ordenada a citao do acusado, o que faz pressupor a existncia do processo penal, alm disso, segundo a regra do artigo 363 do CPP, o processo ter completada a sua formao quando realizada a citao do acusado. A resposta  acusao  obrigatria. O artigo 396-A, pargrafo 2, do CPP, dispe:
+No apresentada a resposta no prazo legal, ou se o acusado, citado, no constituir defensor, o juiz nomear defensor para oferec-la, concedendo-lhe vista dos autos por 10 (dez) dias. Nos termos do artigo 396-A, caput, CPP:
+Na resposta, o acusado poder arguir preliminares e alegar tudo o que interesse  sua defesa, oferecer documentos e justificaes, especificar as provas pretendidas e arrolar testemunhas, qualificando-as e requerendo sua intimao, quando necessrio. A exceo alegada na resposta  acusao  processada em apartado (artigo 396-A, pargrafo 1, CPP). No mais poder alegar tudo que interesse  sua defesa, alm de oferecer documentos e justificaes, que sero considerados na fase seguinte do procedimento (artigo 397, CPP). As provas especificadas sero apreciadas e as testemunhas arroladas na resposta  acusao ouvidas na audincia de instruo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O sistema adotado no Código de Processo Penal (CPP) gera incerteza, pois o juiz recebe a denúncia ou queixa em dois momentos distintos. O recebimento da denúncia ou queixa é considerado um juízo de admissibilidade da acusação, pois com o recebimento é ordenada a citação do acusado. O acusado deve apresentar sua resposta à acusação, podendo arguir preliminares, oferecer documentos e justificações, especificar provas e arrolar testemunhas. As provas e testemunhas serão apreciadas e ouvidas na audiência de instrução.

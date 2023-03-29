@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+509, o seguinte trecho: [...] Apesar da confirmao do diagnstico de discopatia degenerativa lombar, pela Ressonncia nuclear magntica de coluna lombossacra realizada em novembro 2014, a anlise do quadro clnico do militar confrontada com as investigaes realizadas pela Corregedoria da Polcia Militar de Minas Gerais nos permitiram concluir que houve simulao ou metassimulao de doena, com o objetivo de ganhos secundrios, e que realmente havia condies clnicas para o desempenho de atividades laborativas na corporao [...] [...] Dede outubro de 2015, durante o exame mdico pericial na JCS, identificou-se clara metassimulao de queixas, no compatveis com o substrato patolgico. No item 2.6 do Relatrio de Servio n. 002/16, fl.23, consta que o acusado foi submetido  percia na JCS, no dja 21/12/2015, s 14h00min, no Municpio de Belo Horizonte/MG, oportunidade em que, foram obtidas imagens pblicas do militar, as quais mostram este saindo do estacionamento  p, andando de forma lenta e claudicando, sugerindo dificuldade e sofrimento, at adentrar no edifcio da JCS, retornando ao estacionamento com a mesma postura. Contudo, no mesmo dia, minutos aps a sua sada da JCS, o acusado foi flagrado no centro de Belo Horizonte, prximo  Estao do MOVE Esprito Santo, caminhando normalmente sem qualquer dificuldade. Assim, a despeito de ser impossvel mensurar a dor real sentida por uma pessoa, pelos argumentos anteriormente apresentados, restou cabalmente comprovada a metassimulao de doena por parte do militar, que exagero/ampliou a perturbao que realmente existia, induzindo a erro os profissionais que o periciou. [...] Por fim, de igual forma, no assiste razo ao apelante quanto  alegao de que a deciso que solucionou o PAD, proferida pelo comandante-geral da PMMG, apresenta-se carente de fundamentao. A deciso demissionria (Evento 1 - COP51, fls. 49/54; COP52; e COP53, fls. 1/4) apresenta-se devidamente fundamentada e nela consta a indicao minuciosa de todos os elementos de prova que convergiram na formao da convico do comandante-geral da PMMG, no sendo, desta feita, verificado o vcio apontado pelo recorrente. Ante todo o exposto, nego provimento ao recurso.  como voto. DESEMBARGADOR OSMAR DUARTE MARCELINO Acompanho integralmente as razes e o voto do e. desembargador relator, pelo que nego provimento ao presente recurso de apelao, mantendo a sentena primeva. DESEMBARGADOR FERNANDO GALVO DA ROCHA Srs. desembargadores. Na oportunidade, acompanho as razes e o voto do eminente relator, para, igualmente, negar provimento ao presente recurso. Cabe observar que, diante da separao dos poderes do estado, cabe exclusivamente  Administrao Militar fazer o exame sobre o mrito da prova produzida em processo administrativo-disciplinar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A análise do quadro clínico do militar confrontada com as investigações realizadas pela Corregedoria da Polícia Militar de Minas Gerais permitiu concluir que houve simulação ou metassimulação de doença, com o objetivo de ganhos secundários. A despeito de ser impossível mensurar a dor real sentida por uma pessoa, restou cabalmente comprovada a metassimulação de doença por parte do militar. A decisão demissionária apresentou-se devidamente fundamentada e, portanto, o recurso foi negado.

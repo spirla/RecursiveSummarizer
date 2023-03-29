@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No entanto, ao deixar de faze-lo incorreu na responsabilidade pelo que agora se prove, que e a nulidade do processo, o que implica, no tocante ao recurso especial, a prescindibilidade do exame da argumentacao remanescente referente a instrucao probatoria. (Informativo n. 742) 209 PROCESSO REsp 1.708.325-RS, Rel. Min. Og Fernandes, Segunda Turma, por unanimidade, julgado em 24/05/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Responsabilidade civil do Estado por omissao. Morte em decorrencia de disparo de arma de fogo no interior de hospital publico. Ausencia de vigilancia. Falha especifica no dever de agir. Excludente de ilicitude. Fato de terceiro. Nao ocorrencia. DESTAQUE O hospital que deixa de fornecer o minimo servico de seguranca, contribuindo de forma determinante e especifica para homicidio praticado em suas dependencias, responde objetivamente pela conduta omissiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O hospital que deixa de fornecer o mínimo serviço de segurança, contribuindo de forma determinante e específica para homicídio praticado em suas dependências, responde objetivamente pela conduta omissiva. 2. A omissão do hospital implica na nulidade do processo, prescindindo-se do exame da argumentação remanescente referente à instrução probatória.

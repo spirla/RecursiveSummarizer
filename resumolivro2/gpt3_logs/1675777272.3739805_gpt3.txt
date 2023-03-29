@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Smula 706 do STF dispe que:
+ relativa a nulidade decorrente da inobservncia da competncia penal por preveno. De sorte que deve ser arguida oportuna e tempestivamente, sob pena de precluso. O STF decidiu que o julgamento de apelao por uma das Cmaras Criminais que anulou a sentena no previne jurisdio para o julgamento de nova apelao. 8.5.4. Competncia pela sede do lugar de servio.  um modo especial de determinar a competncia (artigo 85, II, CPPM) diante do modo geral de determin-la (artigo 85, I, CPPM). Na impossibilidade de fixao da competncia pelo lugar da infrao (artigo 88, CPPM), dispe o artigo 96 do CPPM:
+Para o militar em situao de atividade ou assemelhado na mesma situao, ou para o funcionrio lotado em repartio militar, o lugar da infrao, quando este no puder ser determinado, ser o da unidade, navio, fora ou rgo onde estiver servindo, no lhe sendo aplicvel o critrio da preveno, salvo entre Auditorias da mesma sede e atendida a respectiva especializao. 8.5.5. Competncia por distribuio. O artigo 86 do CPPM dispe que Dentro de cada Circunscrio Judiciria Militar, a competncia ser determinada:
+a) pela especializao das Auditorias;
+b) pela distribuio;
+c) por disposio especial deste Cdigo. Ocorre que a LOJMU, que  posterior ao CPPM, afastou a especializao das Auditorias ao estabelecer em artigo 11, pargrafo 2:
+As Auditorias tm jurisdio mista, cabendo-lhes conhecer dos feitos relativos  Marinha, Exrcito e Aeronutica. E nas circunscries em que houver mais de 1 (uma) Auditoria e sedes coincidentes, a distribuio dos feitos cabe ao juiz federal da Justia Militar mais antigo (redao dada ao pargrafo 3 pela Lei 13.774/2018). Na JME, exceo do Rio Grande do Sul, as Auditorias so sediadas na capital do Estados, a competncia  determinada pela distribuio do servio judicirio entre os juzes, conforme estatui o artigo 98, CPPM:
+Quando, na sede de Circunscrio, houver mais de uma Auditoria com a mesma competncia, esta se fixar pela distribuio. A distribuio de medida cautelar antes da distribuio dos autos principais torna o juzo que a receber prevento.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Smula 706 do STF estabelece que a nulidade decorrente da inobservância da competência penal por prevenção deve ser arguida oportuna e tempestivamente, sob pena de preclusão. O STF decidiu que o julgamento de apelação por uma das Câmaras Criminais não impede o julgamento de nova apelação. O CPPM estabelece que a competência pode ser determinada pelo lugar da infração, pela sede do lugar de serviço ou pela distribuição. A LOJMU afastou a especialização das Auditorias. A distribuição de medida cautelar antes da distribuição dos autos principais torna o juízo que a receber prevento.

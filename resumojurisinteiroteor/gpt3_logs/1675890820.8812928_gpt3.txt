@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O primeiro apontamento pode ser confirmado com a transcrio de dois pargrafos a seguir, um extrado da denncia e outro da r. sentena. Vejam-se: Pargrafo extrado da denncia, colacionada no Evento 1 DENNCIA2: [...] Nos dias 08 de abril de 2019 a julho de 2019, ms a ms, na cidade de So Loureno/MG, a denunciada obteve para si, vantagem ilcita, em prejuzo da Administrao Militar, mantendo-a em erro, mediante meio fraudulento. Destaquei. [...] Pargrafo extrado da sentena, colacionada no Evento 69 SENT1: [...] No caso sob anlise, o Ministrio Pblico no foi capaz de produzir provas no sentido de que a r tenha induzido a administrao pblica ao erro, ou mesmo se utilizando de artifcio ardil para que a PMMG procedesse ao pagamento dos proventos enquanto esta se encontrava afastada da PMMG por fora de medida liminar que foi concedida.[...] As elementares que constituem o ncleo do tipo penal previsto no artigo 251 do CPM - induzindo ou mantendo algum em erro - so alternativas, o que significa dizer que a presena de apenas uma delas, seja o induzimento, seja a manuteno, tenha suficincia para caracterizar a perpetrao do tipo. O Ministrio Pblico no denunciou a acusada pela conduta ativa de induzir a administrao pblica a erro, para obter para si a vantagem ilcita. A denncia, claramente, foi no sentido de que a acusada, com sua omisso caracterizada pela falta de comunicao sobre o contrato de trabalho que firmou com empresa privada, manteve a administrao pblica em erro. Concluo, portanto, que a r. sentena absolutria no guardou correlao com a prpria denncia e merece, por isso, ser reformada. Mas no  s isso. Ao compulsar estes autos, percebi que a r. sentena ainda contrariou, frontalmente, as provas produzidas pelo Ministrio Pblico. Conforme relatado, a acusada impetrou, em 24/12/2018, um mandado de segurana com pedido liminar, perante a Vara Cvel da Comarca de So Loureno, que tramitou sob o n. 5002763-51.2018.8.13.0637, para conseguir sua baixa imediata dos quadros da Polcia Militar de Minas Gerais (PMMG), esquivando-se, contudo, de indenizar o Estado, conforme previso do art. 138,  1, inciso II, da Lei n. 5.301/69, que contm o Estatuto dos Militares do Estado de Minas Gerais (EMEMG), uma vez que ainda estava no perodo de sua arregimentao, ao argumento de que estaria sofrendo perseguio e assdio moral por parte de um superior hierrquico, do que lhe teria resultado, inclusive, enfermidade de cunho psquico, que foi suficiente para impedir que continuasse com suas atividades (Evento 1 - PEAS IPM 7 - fls. 12/21 dos autos n. 2001420-18.2019.9.13.0002). O juzo do feito, em 28/12/2018, deferiu parcialmente o pedido e determinou, liminarmente, o afastamento da acusada de suas funes, at o deslinde da ao (evento 1 - PEAS IPM 8 - fls.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena absolutória foi reformada pois não guardou correlação com a denúncia, contrariando as provas produzidas pelo Ministério Público. A acusada impetrou um mandado de segurança, com pedido liminar, para conseguir sua baixa imediata dos quadros da Polícia Militar de Minas Gerais, alegando perseguição e assédio moral por parte de um superior hierárquico. O juízo deferiu parcialmente o pedido e determinou o afastamento da acusada de suas funções.

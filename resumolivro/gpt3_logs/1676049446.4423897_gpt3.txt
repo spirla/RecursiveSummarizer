@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O artigo 29, pargrafo 2, do Cdigo Penal prev a situao de cooperao dolosamente distinta, em que, havendo concurso de pessoas para a prtica do crime, o elemento subjetivo dos concorrentes no ser convergente no sentido da realizao de um mesmo fato tpico. Conferindo acertado tempero  teoria monista, a primeira parte do dispositivo legal reza que se algum dos concorrentes quis participar de crime menos grave, ser-lhe- aplicada a pena deste. Significa dizer que, havendo o concurso de vrias pessoas para a realizao de um mesmo fato punvel, se uma delas pretender realizar crime menos grave, o enquadramento tpico no poder ser o mesmo para todos os concorrentes. Ocorrendo um desvio subjetivo entre os sujeitos, o elemento subjetivo de cada concorrente determinar a adequao de sua conduta ao tipo respectivo, e, assim, ser possvel que, pela mesma empreitada criminosa, os vrios concorrentes respondam por crimes diversos. Vale observar que a cooperao dolosamente distinta impede reconhecer o concurso de pessoas em relao aos concorrentes que apresentam elementos subjetivos distintos. Na legislao anterior, a conduta tendente a realizar crime menos grave no recebia tratamento adequado. Sob inspirao da legislao penal italiana - Cdigo Rocco -, que acolhia ponto de vista causalista, o sujeito deveria ser punido conforme a cominao do crime mais grave, j que objetivamente havia emprestado contribuio causal para a sua realizao. Tal soluo manifestamente representa hiptese de responsabilidade objetiva e, por isso, foi abolida pela reforma penal de 1984. Considerando que a previsibilidade da ocorrncia do resultado mais grave constitui motivo suficiente para a majorao da responsabilidade penal do concorrente, a parte final do pargrafo 2 do artigo 29 dispe que a pena do crime menos grave ser aumentada at a metade, na hiptese de ter sido previsvel o resultado mais grave. No tratando de crimes preterintencionais, o resultado mais grave a que se refere o tal dispositivo pode significar uma circunstncia que modifique a figura tpica fundamental para caracterizar um tipo derivado, como no furto qualificado pelo arrombamento de obstculo, ou que implique a caracterizao de uma nova figura tpica, como no caso da agresso cometida aps o incio de um furto. Em qualquer caso, a majorao da pena do concorrente depende da constatao de sua previsibilidade quanto  realizao do crime mais grave, que no pretendeu produzir.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 29, pargrafo 2, do Cdigo Penal prev a situao de cooperao dolosamente distinta, em que, havendo concurso de pessoas para a prtica de um crime, o elemento subjetivo dos concorrentes no ser convergente. A legislação prevê que, havendo um desvio subjetivo entre os sujeitos, o elemento subjetivo de cada concorrente determinará a adequação de sua conduta ao tipo respectivo e poderá haver punição diferente para cada um. A parte final do pargrafo 2 do artigo 29 estabelece que a pena do crime menos grave será aumentada até a metade se houver previsibilidade do resultado mais grave.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(INF 1043) ADI 4109/DF, relatora Ministra Carmen Lucia, redator para o acordao Ministro Edson Fachin, julga-mento virtual finalizado em 11.2.2022 (sexta-feira), as 23:59. (INF 1043) 13.11 TERMO CIRCUNSTANCIADO Competencia para a lavratura de termo circunstanciado - ADI 5637/MG Resumo: E constitucional norma estadual que preve a possibilidade da lavratura de termos circunstancia-dos pela Policia Militar e pelo Corpo de Bombeiro Militar. O termo circunstanciado e o instrumento legal que se limita a constatar a ocorrencia de crimes de me-nor potencial ofensivo, motivo pelo qual nao configura atividade investigativa e, por via de consequencia, nao se revela como funcao privativa de policia judiciaria. A CF conferiu aos estados e ao Distrito Federal, a partir da competencia concorrente, a competencia para editar normas legislativas que garantam maior eficiencia e eficacia na aplicacao da Lei 9.099/1995. Esta norma federal viabiliza a lavratura do termo por qualquer autoridade legalmente reconhecida e nao ha impeditivo para que os estados-membros indiquem quais sao elas ou, de qualquer modo, disciplinem essa atri-buicao. Com base nesse entendimento, o Plenario, por unanimidade, conheceu de acao direta e, no merito, jul-gou-a improcedente para declarar a constitucionalidade do art. 191 da Lei 22.257/2016 do Estado de Minas Gerais. ADI 5637/MG, relator Ministro Edson Fachin, julgamento virtual finalizado em 11.3.2022 (sexta-feira), as 23:59 (INF 1046)  14. DIREITO TRIBUTARIO 14.1 CONTRIBUICOES SOCIAIS Artigo 149,  2, III, a , da CF: rol exemplificativo - RE 1317786/PE (Tema 1193 RG) Tese fixada: A contribuicao prevista no artigo 1 da Lei Complementar 110/2001 foi recepcionada pela Emenda Constitucional 33/2001. Resumo: A base de calculo da contribuicao prevista pelo artigo 1 da Lei Complementar 110/2001 e compativel com o texto constitucional, mesmo apos o advento da Emenda Constitucional 33/2001.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional norma estadual que preve a possibilidade da lavratura de termos circunstanciados pela Polícia Militar e pelo Corpo de Bombeiro Militar. 2. O termo circunstanciado é o instrumento legal que se limita a constatar a ocorrência de crimes de menor potencial ofensivo, não configurando atividade investigativa e, por via de consequência, não se revela como função privativa de polícia judiciária. 3. A Constituição Federal conferiu aos estados e ao Distrito Federal, a partir da competência concorrente, a competência para editar normas legislativas que garantam maior eficácia e eficácia na aplicação da Lei 9.099/1995. 4. A contribuição prevista no artigo 1 da Lei Complementar 110/2001 foi recepcionada pela Emenda Constitucional 33/2001. 5. A base de cálculo da contribuição prevista pelo artigo 1 da Lei Complementar 110/2001 é compatível com o texto constitucional, mesmo após o advento da Emenda Constitucional 33/2001.

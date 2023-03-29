@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario negou provimento a agravo regimental e manteve a decisao do relator que nao conheceu da acao direta por manifesta ilegitimidade ativa ad causam do autor. ADI 6728 AgR/DF, relator Min. Edson Fachin, julgamento virtual finalizado em 30.4.2021 (sexta-feira), as 23:59 (INF 1015) Materia interna corporis e controle de constitucionalidade - RE 1297884/DF (Tema 1.120 RG) Tese Fixada: Em respeito ao principio da separacao dos poderes, previsto no art. 2 da CF/88, quando nao caracterizado o desrespeito as normas constitucionais pertinentes ao processo legislativo, e defeso ao Poder Judiciario exercer o controle jurisdicional em relacao a interpretacao do sentido e do alcance de normas meramente regimentais das Casas Legislativas, por se tratar de materia interna corporis. Resumo: O controle judicial de atos interna corporis das Casas Legislativas so e cabivel nos casos em que haja desrespeito as normas constitucionais pertinentes ao processo legislativo [CF/88 (CF), arts. 59 a 69]. Por forca do principio constitucional da separacao de Poderes (CF, art. 2), nao cabe ao Poder Judiciario substituir-se ao Poder Legislativo para interpretar normas regimentais. No caso, o tribunal de justica, ao declarar a inconstitucionalidade incidental do art. 4 da Lei 13.654/2018, que revogou o inciso I do  2 do art. 157 do CP, se restringiu a interpretacao do art. 91 do Regimento Interno do Senado Federal, nao tendo apontado, contudo, desrespeito as normas pertinentes ao processo legislativo previsto na CF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedado ao Poder Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de normas meramente regimentais das Casas Legislativas, por se tratar de matéria interna corporis. 2. O controle judicial de atos interna corporis das Casas Legislativas só é cabível nos casos em que haja desrespeito às normas constitucionais pertinentes ao processo legislativo. 3. Por força do princípio constitucional da separação de Poderes, não cabe ao Poder Judiciário substituir-se ao Poder Legislativo para interpretar normas regimentais.

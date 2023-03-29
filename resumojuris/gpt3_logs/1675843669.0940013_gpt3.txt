@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Sebastiao Reis Junior, Sexta Turma, por unanimidade, julgado em 24/08/2021, DJe 30/08/2021. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Citacao realizada por aplicativo de mensagem (whatsapp). Verificacao da identidade do citando. Ausencia de cautela. Nulidade. DESTAQUE E nula a citacao realizada por aplicativo de mensagem (whatsapp) quando verificada a ausencia de cautela apta a atestar, de forma cabal, a identidade do citando. Cinge-se em definir se e possivel a citacao do reu por aplicativo de mensagem (whatsapp) e se o contexto verificado no caso sob exame evidencia a existencia de vicio apto a macular o ato de modo a atrair a declaracao de nulidade. Em se tratando de denunciado solto, nao diviso obice objetivo a que Oficial de Justica, no cumprimento do mandado de citacao expedido pelo Juizo (art. 351 do CPP), de ciencia remota ao citando da imputacao penal, inclusive por intermedio de dialogo mantido em aplicativo de mensagem, desde que o procedimento adotado pelo serventuario seja apto a atestar, com suficiente grau de certeza, a identidade do citando e que sejam observadas as diretrizes estabelecidas no art. 357 do CPP, a saber: a leitura do mandado e a entrega da respectiva contrafe, constando o dia e horario da citacao. Veja-se que, nessa modalidade de citacao, nao ha exigencia do encontro do citando com o oficial de justica, sendo certo que, verificada a identidade e cumprida as diretrizes previstas na normal processual, ainda que de forma remota, a citacao nao padece de vicio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a citação do réu por meio de aplicativo de mensagem (WhatsApp), desde que o procedimento adotado pelo serventuário seja apto a atestar, com suficiente grau de certeza, a identidade do citando e que sejam observadas as diretrizes estabelecidas no art. 357 do CPP. 2. Nula a citação realizada por aplicativo de mensagem (WhatsApp) quando verificada a ausência de cautela apta a atestar, de forma cabal, a identidade do citando.

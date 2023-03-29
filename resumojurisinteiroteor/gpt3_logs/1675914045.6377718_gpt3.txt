@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+BICE DA SMULA N. 7/STJ. RECURSO NO PROVIDO. 1. De acordo com entendimento do STJ, a declarao de pobreza, com o intuito de obter os benefcios da assistncia judiciria gratuita, goza de presuno relativa, admitindo, portanto, prova em contrrio. 2. Alm disso, o Superior Tribunal de Justia j decidiu que "o pedido de assistncia judiciria gratuita pode ser indeferido quando o magistrado tiver fundadas razes para crer que o requerente no se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro Carlos Fernando Mathias (Juiz Federal Convocado do TRF 1a Regio), Quarta Turma, julgado em 02/12/2008, DJe 18/12/2008). 3. A concluso a que chegou o Tribunal a quo, no sentido de manter a deciso que indeferiu a benesse pretendida, decorreu de convico formada em face dos elementos fticos existentes nos autos. Rev-la importaria necessariamente no reexame de provas, o que  defeso nesta fase recursal, ante a incidncia da Smula n. 7 do STJ. 4. Agravo interno no provido. (STJ - AgInt no AREsp n. 1.853.013/GO, relator Ministro Lus Felipe Salomo, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.) PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINRIO EM MANDADO DE SEGURANA. RESERVA DE PLENRIO. INAPLICABILIDADE. JUSTIA GRATUITA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso foi negado, pois a decisão de indeferimento da assistência judiciária gratuita foi formada com base nos elementos fáticos existentes nos autos, não sendo permitido o reexame de provas na fase recursal.

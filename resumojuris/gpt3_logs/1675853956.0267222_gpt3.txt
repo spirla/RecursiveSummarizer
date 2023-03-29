@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+339,  2, autorizam o autor a optar por alterar a peticao inicial para incluir, como litisconsorte passivo, o sujeito indicado pelo reu na contestacao, como sendo o sujeito passivo da relacao juridica discutida. Nao deve prevalecer o entendimento de que aplica-se o direito vigente na data em que oferecida a replica, o revogado Codigo de Processo (CPC/1973), em vez do novo CPC (CPC/2015), vigente quando da prolacao da sentenca. O pedido de alteracao do polo passivo nao fora examinado enquanto em vigor o CPC/73. Assim, ainda pendia de exame quando da entrada em vigor do CPC/2015, e, portanto, com base neste diploma deve ser decidido, nao havendo necessidade de sua reiteracao em audiencia e memoriais para que a parte tenha direito a sua apreciacao. A parte tem direito ao exame de seu requerimento, nao podendo ser penalizada pela omissao imputavel ao magistrado. Isso porque predomina no direito transitorio processual a chamada teoria dos atos processuais isolados , em que cada ato deve ser considerado separadamente dos demais para o fim de se determinar qual a lei que o rege, recaindo sobre ele a preclusao consumativa. Com base nisso, temos que a lei processual atinge o processo no estagio em que ele se encontra. 95 Por isso, percebe-se que houve clara afronta ao art. 339,  2, do CPC/2015, que permite a substituicao do polo passivo quando do conhecimento do reu: no prazo de 15 (quinze) dias, o autor pode optar por alterar a peticao inicial para incluir, como litisconsorte passivo, o sujeito indicado pelo reu . (Informativo  Ed. Especial n. 9) CPC de 2015, arts. 14 e 339,  2.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O direito vigente na data em que oferecida a replica não deve prevalecer, mas sim o novo CPC (CPC/2015), vigente quando da prolacao da sentença. 2. O pedido de alteração do polo passivo não foi examinado enquanto em vigor o CPC/73. 3. A parte tem direito ao exame de seu requerimento, não podendo ser penalizada pela omissão imputável ao magistrado. 4. A lei processual atinge o processo no estágio em que ele se encontra. 5. O autor pode optar por alterar a petição inicial para incluir, como litisconsorte passivo, o sujeito indicado pelo réu, no prazo de 15 (quinze) dias.

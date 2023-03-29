@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+De quebra, a funo institucional da Defensoria Pblica de acompanhar inqurito (LC 80/1994, artigo 4, XIV)  restrita aos que comprovarem insuficincia de recursos (CF, artigo 134), como bem espelha a deciso do STF (ADI 3.022), que declarou inconstitucional o artigo 45 da Constituio do Estado do Rio Grande do Sul e a alnea a do Anexo II da LC 9.230/91, que atribuam  DPE defender servidor pblico estadual processado criminalmente em razo de ato praticado no exerccio regular de suas funes por ofender o artigo 134 da CF. A segunda caracterstica do IPM  o sigilo das investigaes. Com efeito, o artigo 16 do CPPM proclama que o inqurito  sigiloso. Segredo  aquilo que no pode ser revelado e sigilo  o que protege o segredo. A doutrina estabelece diviso dicotmica entre sigilo interno em que a publicidade fica restrita  determinada pessoa ou a grupo de pessoas e sigilo externo que probe ou impede pessoas, de maneira geral, de conhecer o segredo. No inqurito, o sigilo  interno ou externo, conforme a necessidade. Em sua segunda parte, o artigo 16 do CPPM dispe que o encarregado pode permitir que dele [IPM sob sigilo] tome conhecimento o advogado do indiciado. De onde se conclui que o sigilo no  absoluto, porque o encarregado pode dar ao advogado do indiciado acesso aos autos. Portanto, o controle deste acesso  feito pelo encarregado, que sabe que se franquear o acesso s diligncias em andamento ou se der a conhecer as que esto programadas, poder causar prejuzo ao sucesso das investigaes ou at mesmo provas podem ser destrudas ou ocultadas pelo investigado. O artigo 16 do CPPM deve ser interpretado com o artigo 7, inciso XIV, do EAOAB, que assegura ao advogado, regularmente constitudo pelo indiciado ou pelo ru, a prerrogativa profissional de:
+examinar, em qualquer instituio responsvel por conduzir investigao, mesmo sem procurao, autos de flagrante e de investigaes de qualquer natureza, findos ou em andamento, ainda que conclusos  autoridade, podendo copiar peas e tomar apontamentos, em meio fsico ou digital.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Defensoria Pública tem a função institucional de acompanhar inquritos para aqueles que comprovam insuficincia de recursos. O sigilo das investigações é garantido pelo artigo 16 do CPPM, mas o encarregado pode permitir que o advogado do indiciado tome conhecimento dos autos. O artigo 7, inciso XIV, do EAOAB, assegura ao advogado o direito de examinar e copiar peças de investigações de qualquer natureza.

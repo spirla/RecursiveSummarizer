@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Utilizando-se o mtodo de aplicao sucessiva das causas, no faz qualquer diferena a ordem em que elas so aplicadas, pois o resultado final no se altera pela mudana na ordem dos fatores operacionais. Veja-se o exemplo da prescrio que, inicialmente, deva operar-se ao final de 12 (doze) anos (inciso III do artigo 109). Aumentando-se de um tero e, aps, diminuindo-se a metade, chega-se ao prazo de 8 (oito) anos. Da mesma forma, diminuindo-se a metade para, aps, aumentar-se um tero, chega-se ao mesmo resultado: 8 (oito) anos. Na utilizao do mtodo isolado envolvendo uma causa de diminuio e outra de aumento, no h que se considerar qualquer ordem de aplicao dos fatores, pois os mesmos so aplicados distintamente sobre uma nica base de clculo. Extrados os parmetros de variao, estes so considerados entre si. No caso mencionado anteriormente, o mtodo isolado imporia um aumento de 4 (quatro) anos (1/3 de 12 anos) e uma diminuio de 6 (seis) anos (1/2 de 12 anos). A resultante das variveis corresponderia a uma diminuio de 2 (dois) anos, que deveria operar-se sobre o prazo estabelecido pelo inciso III do artigo 109: ou seja, uma reduo de 2 (dois) anos sobre o prazo de 12 (doze) anos, totalizando 10 (dez) anos, os quais seriam necessrios para a ocorrncia da prescrio. No exemplo, a aplicao do mtodo sucessivo estabeleceu prazo prescricional de 8 (oito) anos, enquanto a aplicao do mtodo isolado produziu prazo de 10 (dez) anos. Fica evidente, assim, que a utilizao do mtodo sucessivo  francamente mais favorvel ao condenado. Portanto, havendo duas causas modificadoras do prazo prescricional - por reincidncia (artigo 110) e pela menoridade ou maioridade do condenado (artigo 115) -, deve-se aplicar o mtodo sucessivo de incidncia dessas causas, de modo a encontrar o menor prazo para o reconhecimento da prescrio. 22.7. Contagem do prazo. Como a prescrio  instituto de direito material, a contagem do prazo prescricional deve observar a regra do artigo 10 do Cdigo Penal, no se interrompendo nem se suspendendo por frias, domingos ou feriados. Ao contrrio do que acontece com os prazos processuais, nos quais deve-se iniciar a contagem no primeiro dia til subsequente ao ato, o prazo penal inicia-se imediatamente e inclui na contagem o dia em que ocorreu o fato. Portanto, a hora em que o crime foi praticado  irrelevante. Ainda que o fato tenha sido praticado minutos antes das vinte e quatro horas de determinado dia, neste dia ter incio o curso do prescricional.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O mtodo de aplicao sucessiva das causas modificadoras do prazo prescricional é mais favorável ao condenado. A contagem do prazo prescricional deve observar a regra do artigo 10 do Código Penal, iniciando imediatamente, independentemente da hora em que o crime foi praticado.

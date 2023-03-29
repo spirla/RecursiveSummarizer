@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+37,  6, da CF/88, bem assim no principio que veda o enriquecimento sem causa da Administracao. (Informativo n. 742) 16 PROCESSO REsp 1.913.638-MA, Rel. Min. Gurgel de Faria, Primeira Secao, por unanimidade, julgado em 11/05/2022. (Tema 1108) RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Improbidade. Contratacao de servidor temporario sem concurso publico. Lei local. Autorizacao. Dolo. Afastamento. Tema 1108. DESTAQUE A contratacao de servidores publicos temporarios sem concurso publico, mas baseada em legislacao local, nao configura a improbidade administrativa prevista no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A contratação de servidores públicos temporários sem concurso público, mas baseada em legislação local, não configura a improbidade administrativa prevista no art. 37, § 6, da CF/88, bem assim no princípio que veda o enriquecimento sem causa da Administração. 2. A Lei local autoriza a contratação de servidores temporários sem concurso público. 3. O dolo é necessário para configurar a improbidade administrativa. 4. O afastamento do servidor contratado temporariamente sem concurso público não é necessário.

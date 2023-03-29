@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A regra  da admissibilidade das provas (artigo 295, CPPM), com exceo daquelas que atentem contra a moral, a sade ou a segurana individual ou coletiva, ou contra a hierarquia e a disciplina militares, e das provas obtidas por meio ilcito. A despeito do regime de incluso, pode o juiz indeferir as provas que considerar irrelevantes, impertinentes ou protelatrias. A irrelevncia designa falta de importncia da prova para apurao da verdade. A admisso de uma prova irrelevante causar desperdcio de tempo, de recursos e de atividade processual. A impertinncia significa que o fato objeto da prova, em caso de resultado positivo do meio de prova, no ter influncia na deciso. So consideradas protelatrias as provas que retardam, sem necessidade, o andamento do processo. O terceiro momento do procedimento probatrio  da produo das provas em contraditrio, na presena das partes, do juiz e dos membros do Conselho de Justia, como condio de validade. Invlida  a prova produzida sem a presena do juiz e das partes. Isso significa que tanto ser viciada a prova que for colhida sem a presena do juiz, como o ser a prova que for colhida sem a presena das partes. A concomitante presena de ambos - juiz e partes - na produo da prova  essencial  sua eficcia. As provas documentais, percias e exames so submetidas ao contraditrio diferido, posterior  produo. Salvo o interrogatrio do acusado, a acareao nos termos do artigo 365 e a inquirio de testemunhas, na sede da Auditoria, todos os demais atos da instruo criminal podero ser procedidos perante o juiz federal ou o juiz de direito, com cincia do advogado, ou curador, do acusado e do representante do Ministrio Pblico (artigo 390, pargrafo 5, CPPM). Para os atos probatrios em que  necessria a presena do Conselho de Justia, bastar o comparecimento da sua maioria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A regra da admissibilidade das provas é estabelecida pelo artigo 295 do CPPM, com exceção das que atentem contra a moral, saúde ou segurança individual ou coletiva, ou hierarquia e disciplina militares. O juiz pode indeferir provas irrelevantes, impertinentes ou protelatórias. A produção das provas deve ser feita na presença do juiz, das partes e dos membros do Conselho de Justia, sendo inválida a prova produzida sem a presença deles. A acareação, o interrogatório do acusado e a inquirição de testemunhas devem ser feitos na sede da Auditoria. Para os atos probatórios em que é necessária a presença do Conselho de Justia, basta o comparecimento da maioria.

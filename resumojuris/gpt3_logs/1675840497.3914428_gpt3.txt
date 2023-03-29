@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+33,  4, da Lei n. 11.343/2006: 1 - A natureza e a quantidade das drogas apreendidas sao fatores a serem necessariamente considerados na fixacao da pena-base, nos termos do art. 42 da Lei n. 11.343/2006. 2 - Sua utilizacao supletiva na terceira fase da dosimetria da pena, para afastamento da diminuicao de pena prevista no  3 do art. 33 da Lei n. 11.343/2016, somente pode ocorrer quando esse vetor conjugado com outras circunstancias do caso concreto que, unidas, caracterizem a dedicacao do agente a atividade criminosa ou a integracao a organizacao criminosa. 3 - Podem ser utilizadas para modulacao da causa de diminuicao de pena prevista no  4 do art. 33 da Lei n. 11.343/2006 quaisquer circunstancias judiciais nao preponderantes, previstas no art. 59 do CP, desde que nao utilizadas na primeira etapa, para fixacao da pena-base . Embora tenha externado, inumeras vezes, sobre a impossibilidade de se aplicar a minorante especial da Lei de Drogas nos casos de apreensoes de gigantescas quantidades de drogas - p. ex. toneladas, 200 ou 300 kg - por ser deduzivel que apenas uma pessoa envolvida habitualmente com a traficancia teria acesso a esse montante de entorpecente, a questao nao merece discussao, uma vez que esta superada, diante do posicionamento contrario do Supremo Tribunal Federal. Todavia, proponho a revisao das orientacoes estabelecidas nos itens 1 e 2 do EREsp 1.887.511/SP, especificamente em relacao a afericao supletiva da quantidade e da natureza da droga na terceira fase da dosimetria. No julgamento do ARE 666.334/AM, de Relatoria do Ministro Gilmar Mendes, o Pleno do STF, em analise da materia reconhecida como de repercussao geral, reafirmou a jurisprudencia de que as circunstancias da natureza e da quantidade da droga apreendida devem ser levadas em consideracao apenas em uma das fases do calculo da pena .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A natureza e a quantidade das drogas apreendidas devem ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006. 2. A utilização supletiva da natureza e da quantidade da droga na terceira fase da dosimetria da pena, para afastamento da diminuição de pena prevista no art. 33 da Lei n. 11.343/2016, somente pode ocorrer quando esses vetores conjugados com outras circunstâncias do caso concreto caracterizem a dedicação do agente a atividade criminosa ou a integração a organização criminosa. 3. Podem ser utilizadas para modulação da causa de diminuição de pena prevista no art. 33 da Lei n. 11.343/2006 quaisquer circunstâncias judiciais não preponderantes, previstas no art. 59 do CP, desde que não utilizadas na primeira etapa, para fixação da pena-base. 4. A quantidade e a natureza da droga apreendida devem ser levadas em consideração apenas em uma das fases do cálculo da pena.

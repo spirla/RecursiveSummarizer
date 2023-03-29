@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Com tais consideraes, requer que sejam acolhidos os presentes embargos declaratrios com efeito infringentes, para que, sanada a omisso, seja reformado o r. acordo, arbitrando-se os honorrios sucumbenciais de forma proporcional, atendendo, assim, ao estabelecido nos artigos 85 e seguintes do CPC.  o Relatrio. VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Recebo o recurso, porque presentes os pressupostos que regem a sua admissibilidade. Como se sabe, os embargos de declarao constituem recurso de mbito discursivo restrito ao exame de eventual erro material, omisso, obscuridade ou contradio na deciso, conforme artigos 1.022 e 1.023 do Cdigo de Processo Civil (CPC). Confrontando as razes recursais com o acrdo embargado, verifica- se que razo assiste parcialmente ao embargante. O artigo 85 do CPC estabelece critrios sobre a fixao de honorrios quando a quantia a ser paga for ilquida e estes forem devidos em fase recursal, conforme leciona Fredie Didier Jr. e Leonardo Carneiro da Cunha, in verbis: O valor dos honorrios recursais soma-se aos honorrios anteriormente fixados. Assim, vencida numa demanda, a parte deve sujeitar-se ao pagamento de honorrios sucumbenciais para o advogado da parte contrria. Nessa hiptese, caso recorra e seu recurso no seja, ao final, acolhido, dever, ento, haver uma majorao especifica no valor dos honorrios de sucumbncia. A inadmissibilidade ou a rejeio do recurso implica, objetivamente, uma consequncia especfica, correspondente ao aumento do percentual dos honorrios de sucumbncia. A sucumbncia recursal, com majorao dos honorrios j fixados, ocorre tanto no julgamento por deciso isolada do relator como por deciso proferida pelo colegiado. O valor total dos honorrios, ali includa  parcela acrescida com o julgamento do recurso, no deve superar o equivalente a 20% do valor da condenao, do proveito econmico obtido ou, no sendo possvel mensur-lo, do valor atualizado da causa. Tal limite aplica-se a cada fase do processo: os honorrios devem ser fixados at 20% na fase de conhecimento e at 20% na fase de cumprimento da sentena. Se, por exemplo, o juiz fixou os honorrios em 10% e a parte vencida recorre, tendo seu recurso sido rejeitado, a verba honorria pode ser majorada para 20%. Nesse caso, qualquer outro recurso no pode mais implicar majorao do valor, pois j se alcanou o limite mximo de 20%. Mas  possvel que o juiz fixe os honorrios em 10% e, em razo do desprovimento do recurso da parte vencida, o tribunal majore os honorrios para 15%. Se houver outro recurso (um recurso especial ou extraordinrio, por exemplo) que venha tambm a ser rejeitado, os honorrios podem, ainda, ser majorados at 20%.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os embargos de declaração foram acolhidos com efeito infringente para que os honorários sucumbenciais sejam arbitrados de forma proporcional, de acordo com o estabelecido nos artigos 85 e seguintes do Código de Processo Civil. O valor dos honorários recursais soma-se aos honorários anteriormente fixados, não podendo ultrapassar o equivalente a 20% do valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.

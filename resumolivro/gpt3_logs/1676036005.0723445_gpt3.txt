@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A rigidez da Constituio ainda exige que ela esteja hierarquicamente acima da legislao infraconstitucional, no podendo ser derrogada, modificada ou abrogada pela lei. (2) Garantia jurisdicional da Constituio. A rigidez da Constituio deve ser garantida por controle jurisdicional de conformidade da legislao infraconstitucional. (3) Fora vinculante da Constituio. As normas e os princpios constitucionais fundamentais no podem ser entendidos apenas na perspectiva de uma declarao de direitos. Independente de sua estrutura e de seu contedo normativo, as normas e os princpios constitucionais fundamentais devem produzir efeito vinculante para a aplicao das normas infraconstitucionais. (4) Sobreinterpretao da Constituio. Toda Constituio, quando interpretada literalmente (restritivamente),  sempre um produto inacabado, que no pode regular a vida social e poltica em todos os seus aspectos. Neste sentido, sempre haver um espao de normatividade vazio que, a rigor, no poderia sequer ser completado pela legislao infraconstitucional. A constitucionalizao do Direito, entretanto, exige uma interpretao extensiva (sobreinterpretao) do texto constitucional que permita dele extrair normas e princpios implcitos que sejam idneos a regular qualquer aspecto da vida social e poltica no previsto expressamente. Quando uma Constituio  sobreinterpretada no restam espaos vazios de normatividade. (5) Aplicao direta das normas constitucionais. A concepo liberal clssica do Direito entendeu a Constituio somente como reguladora das relaes entre o Estado e o cidado, reservando para a lei a regulamentao das relaes entre os cidados. Com a constitucionalizao do Direito deve-se entender que as normas e princpios constitucionais podem produzir efeitos diretos nas relaes entre particulares e, assim, serem aplicados pelos juzes em quaisquer controvrsias. A possibilidade de aplicao direta das normas e princpios constitucionais ganha maior relevo quando a controvrsia entre particulares no puder ser resolvida com a legislao disponvel, quando esta contenha lacunas ou oferea uma resposta injusta. (6) Interpretao das leis conforme a Constituio. Essa condio no est vinculada  conformao do texto constitucional, mas  maneira como os operadores do Direito o interpretam.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituição é hierarquicamente superior à legislação infraconstitucional, sendo garantida por controle jurisdicional. As normas e princípios constitucionais têm força vinculante e devem ser interpretadas extensivamente para preencher lacunas da legislação infraconstitucional. As normas e princípios podem ser aplicados diretamente nas relações entre particulares e interpretados conforme a Constituição.

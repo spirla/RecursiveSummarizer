@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A inicial foi instruda com os documentos coligidos no Evento 01. Em despacho inaugural, o meritssimo juiz de direito da 5a Auditoria Judiciria Militar Estadual (AJME) Cvel deferiu o benefcio da justia gratuita e determinou a citao do Estado de Minas Gerais, para que, querendo, apresentasse contestao (Evento 4). O Estado de Minas Gerais apresentou contestao, consoante se depreende do Evento 8 - CONT1. Quanto  ausncia do autor na audincia realizada pelo CEDMU, alegou que o defensor tcnico do autor foi devidamente notificado para a prtica do ato, fato confirmado por ele na petio inicial. Disse que o autor no conseguiu comprovar a impossibilidade de comparecer  reunio do CEDMU, o que foi exaustivamente indicado nas decises dos procedimentos disciplinares. Alegou que o autor no conseguiu comprovar o efetivo prejuzo a sua defesa. Disse que a ausncia do autor  reunio do CEDMU foi objeto de exame na seara administrativa, o que, inclusive, ocasionou a nulidade e a repetio do ato; que o autor e o seu advogado foram notificados, no tendo, porm, comparecido  audincia previamente agendada. Segundo o Estado de Minas Gerais, incumbe  administrao militar notificar/intimar o processado e/ou seu defensor tcnico, o que foi feito, no havendo, portanto, nos autos, qualquer ilegalidade e/ou prejuzo apto a ensejar a nulidade dos atos administrativos. Em relao  aplicao do benefcio previsto no artigo 10 do CEDM, alegou que a autoridade militar  quem tem competncia para avaliar a oportunidade e a convenincia para a concesso de tal benefcio. Aduziu que o CEDMU, cumprindo a determinao legal, manifestou- se sobre o tema, contraindicando a concesso do benefcio ao autor. Afirmou que a autoridade militar fez referncia  negativa do Conselho, no havendo, portanto, direito subjetivo lesado, tampouco omisso por parte da administrao militar. No tocante  no inquirio do militar Sgt PM Marcell, alegou que esse tema no foi objeto de discusso na via administrativa, o que por si s j descredibiliza o pedido de nulidade da defesa. Segundo o Estado de Minas Gerais, a retromencionada testemunha  dispensvel para o convencimento acerca da punio ou da absolvio do autor, tanto  verdade que o autor, no gozo da ampla defesa e do contraditrio, no arrolou o militar como testemunha. Salientou que a defesa pretende, com esses argumentos genricos e frgeis, conduzir o judicirio a entrar no mrito administrativo, o que  vedado. Acrescentou que a administrao militar agiu em conformidade com a norma, no podendo o judicirio realizar o controle para alm da legalidade. Alegou que os procedimentos instaurados pela administrao militar obedeceram aos princpios do contraditrio e da ampla defesa. Com esses argumentos, pugnou pelo no acolhimento dos pedidos apresentados na pea inicial. A defesa do autor impugnou a contestao, reiterando os pedidos iniciais (Evento 12).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Estado de Minas Gerais apresentou contestao à ação alegando que a administração militar agiu em conformidade com a norma, não havendo direito subjetivo lesado, e que a defesa pretende conduzir o judiciário a entrar no mérito administrativo, o que é vedado. A defesa do autor impugnou a contestação, reiterando os pedidos iniciais.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+J o inciso II do dispositivo supramencionado, visa remediar a questo da desobedincia, em homenagem a hierarquia jurisdicional (art. 927, CPC).  dizer que, cabe a reclamao nessa hiptese se desrespeitado decisum impositivo j prolatado no feito por rgo jurisdicional hierarquicamente superior e da mesma relao jurdica material subjetiva. Da mesma forma, o fato narrado na exordial em nada se aproxima do fundamento legal (art. 988, II) invocado pelo autor, devendo o processo ser extinto sem julgamento do mrito por ausncia de interesse de agir, no seu aspecto da adequao da via eleita. [...] Corroborando in totum os bem lanados fundamentos contestatrios, trago ao meu voto a parte do abalizado e escorreito parecer acostado aos autos no evento 23, da lavra do eminente procurador de Justia Jos Fernando Marreiros Sarabando: [...] Nos termos dos artigos 102, I, letra l e 105, I, f, ambos da Constituio Federal, a Reclamao Constitucional  uma medida correcional, vale dizer, um instrumento processual que as partes tm  disposio para assegurar que as decises judiciais no discrepem dos entendimentos j proferidos pelo Supremo Tribunal Federal, em recurso extraordinrio com repercusso geral reconhecida ou em recursos repetitivos; pelo Superior Tribunal de Justia, nesse ltimo caso; e pelos Tribunais de segunda instncia para salvaguarda de decises colegiadas proferidas em julgamento de incidente de resoluo de demandas repetitivas ou de incidente de assuno de competncia, sendo sua disciplina infraconstitucional prevista nos arts. 988 a 993 do CPC; ainda, importa ressaltar o cabimento da Reclamao Constitucional para anulao de ato administrativo ou para cassar deciso judicial que contrariar Smula Vinculante, ou que a aplique de forma indevida; a razo est, data maxima venia, com o ente federado reclamado, ante  manifesta inadequao da figura processual da reclamao, ex vi dos arts. 988 e seguintes do CPC, para a hiptese ftica e jurdica em questo, em especial no tocante aos fins para que foi manejada, os quais no podem mais ser alcanados, redobradas vnias, haja vista a concretizao da deciso proferida em sede administrativa, de excluso do reclamante dos quadros da PMMG; [.] no caso presente, o que se tem, na esteira exata do teor da contestao apresentada pelo Estado de Minas Gerais,  a inadequada utilizao do instrumento como substituto de recurso, com inteno clara de reapreciao dos elementos de provas, porm j a destempo, com vistas  anulao do PDA que culminou com a exonerao do autor do quadro de pessoal da ativa da PMMG; [.]
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O processo deve ser extinto sem julgamento do mérito por ausência de interesse de agir, pois a reclamação constitucional foi inadequadamente utilizada como substituto de recurso, com intenção de reapreciação dos elementos de provas, visando à anulação do PDA que culminou com a exonerção do autor do quadro de pessoal da ativa da PMMG.

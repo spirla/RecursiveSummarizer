@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Foi arbitrado o valor de R$ 4.000,00 (quatro mil reais) a ttulo de indenizao  vtima como forma de minorar o seu sofrimento, e a suspenso condicional da pena restou dbia na sentena acostada ao evento 50 dos autos de 1a Instncia. A defesa do Sgt PM Evando Junio da Mata interps recurso de apelao, tendo a colenda Primeira Cmara, por unanimidade, rejeitado a preliminar de cerceamento de defesa. No mrito, por maioria de votos, deu provimento ao recurso, para absolver o ru da imputao que lhe foi dirigida (evento 24, autos de 2a Instncia). Ficou relator para o acrdo o e. Desembargador Fernando Galvo da Rocha, que fundamentou seu entendimento no sentido de que, no caso em exame, no estavam satisfeitos os "requisitos para a caracterizao do crime por dolo eventual ou tampouco por culpa consciente, motivo pelo qual deu provimento ao recurso para absolver o apelante, ora embargado. Vencido o Desembargador Rbio Paulino Coelho, que deu provimento parcial ao recurso e reformou "a sentena de primeiro grau, para afastar a caracterizao do dolo eventual, incidindo, no caso, a culpa consciente, desclassificando o delito de leso corporal gravssima para o delito de leso culposa, previsto no artigo 210 do CPM, impondo-lhe a pena de 2 (dois) meses de deteno, a serem cumpridos em regime. Concedeu, ainda, a suspenso condicional da pena, nos termos do artigo 84 do CPM, pelo perodo de 2 (dois) anos. O Ministrio Pblico, atravs da ilustre Procuradora de Justia, Dra. Elba Rondino, interps ento o presente recurso de embargos infringentes com o objetivo de fazer prevalecer o voto vencido, com base nos seguintes argumentos, in verbis: [...] De acordo com a prova colhida, no dia 12/01/2020, durante perseguio policial para tentar interceptar um veculo furtado que trafegava em alta velocidade nas imediaes do bairro Vila Garcia, em Patos de Minas, o 2 Sgt Evando, contrariando conscientemente a vedao institucional de tiro intimidatrio naquele tipo de situao, efetuou um disparo de arma de fogo na direo do carro, vindo, contudo, a atingir o abdmen do adolescente Leandro Estevo Pereira,  poca com 15 anos de idade (evento 1 - OUT2 - fls. 02 dos autos n. 2000026 39.2020.9.13.2) , que se encontrava na porta de sua residncia e no possua qualquer envolvimento com a ocorrncia. Em razo do tiro, a vtima sofreu leso esplnica grau III, que demandou a realizao do procedimento cirrgico denominado esplenectomia, consistente na remoo do bao (evento 1 - OUT2 - fls. 33 dos autos n. 2000026-39.2020.9.13.0002), bem como ficou permanentemente debilitada das funes hematopoitica e imunolgica, conforme Laudo de Exame de Corpo de Delito constante do evento 19 (LAUDO2 dos autos n. 2000026-39.2020.9.13.0002).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso de apelação do Sgt PM Evando Junio da Mata foi provido para absolvê-lo da imputação que lhe foi dirigida, tendo o relator fundamentado seu entendimento no sentido de que não estavam satisfeitos os requisitos para a caracterização do crime por dolo eventual ou culpa consciente. O Ministério Público interpôs então recurso de embargos infringentes para fazer prevalecer o voto vencido, alegando que o ru efetuou um disparo de arma de fogo na direção do carro, vindo a atingir o abdômen do adolescente Leandro Estevo Pereira, causando lesão esplênica grau III. Foi arbitrado o valor de R$ 4.000,00 (quatro mil reais) a título de indenização à vítima.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+2. O monitoramento eletronico associado, atribuicao do Estado, nao e condicao indeclinavel para a detracao dos periodos de submissao a essas medidas cautelares, nao se justificando distincao de tratamento ao investigado ao qual nao e determinado e disponibilizado o aparelhamento. 3. A soma das horas de recolhimento domiciliar a que o reu foi submetido devem ser convertidas em dias para contagem da detracao da pena. Se no computo total remanescer periodo menor que vinte e quatro horas, essa fracao de dia devera ser desprezada. A reflexao sobre o abatimento na pena definitiva do tempo de cumprimento da medida cautelar prevista no art. 319, VII, do CPP (recolhimento domiciliar noturno e nos dias de folga), surge da ausencia de previsao legal. Nos termos do art. 42 do CP: Computam-se, na pena privativa de liberdade e na medida de seguranca, o tempo de prisao provisoria, no Brasil ou no estrangeiro, o de prisao administrativa e o de internacao em qualquer dos estabelecimentos referidos no artigo anterior . A cautelar de recolhimento domiciliar noturno e nos dias de folga estabelece que o investigado devera permanecer recolhido em seu domicilio nesses periodos, desde que possua residencia e trabalho fixos. Essa medida nao se confunde com a prisao domiciliar, mas diferencia-se de outras cautelares na limitacao de direitos, pois atinge diretamente a liberdade de locomocao do investigado, ainda que de forma parcial e/ou momentanea, impondo-lhe a permanencia no local em que reside. 111 Nesta Corte, o amadurecimento da questao partiu da interpretacao dada ao art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O monitoramento eletronico não é condição indeclinável para a detração dos períodos de submissão a medidas cautelares. 2. A soma das horas de recolhimento domiciliar a que o réu foi submetido devem ser convertidas em dias para contagem da detração da pena. 3. O tempo de prisão provisória, prisão administrativa e internação em estabelecimentos referidos no artigo anterior computam-se na pena privativa de liberdade e na medida de segurança. 4. A cautelar de recolhimento domiciliar noturno e nos dias de folga estabelece que o investigado deverá permanecer recolhido em seu domicílio nesses períodos.

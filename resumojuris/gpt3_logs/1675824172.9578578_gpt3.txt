@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+19, III, da CF, que veda o estabelecimento de distincoes entre brasileiros com base na origem ou procedencia. Ademais, nao e cabivel, como criterio de desempate  entre os concorrentes a promocao por antiguidade  condicoes estranhas a funcao jurisdicional. Com esses entendimentos, o Plenario julgou procedente pedido formulado em acao direta para declarar a inconstitucionalidade do art. 164, IV, e e f, do Regimento Interno do Tribunal de Justica do Estado de Rondonia (RITJ/RO). ADI 6766/RO, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 20.8.2021 (sexta-feira), as 23:59. (INF 1026) Magistratura e criterio de promocao - ADI 6779/DF Resumo: Compete ao Supremo Tribunal Federal (STF) a iniciativa para propor projeto de lei que disponha sobre criterio de desempate para promocao na carreira da magistratura. De acordo com o art. 93, caput, da CF/88 (CF), a Uniao tem competencia exclusiva para legislar sobre a organizacao da magistratura nacional, mediante lei complementar de iniciativa reservada ao STF. Dessa forma, a jurisprudencia tem reconhecido a inconstitucionalidade formal de leis que destoam da Lei Organica da Magistratura Nacional (LOMAN), Lei Complementar (LC) 35/1979, que foi recepcionada pela CF e admitida como regramento aplicavel ao estatuto da magistratura enquanto nao sobrevier a lei complementar em questao. E inconstitucional norma que adote tempo de servico em qualquer cargo publico como criterio de desempate para promocao na magistratura. Relativamente aos parametros de provimento na carreira da magistratura, nao sao cabiveis, como medida de desempate entre os concorrentes a promocao por antiguidade, condicoes estranhas a funcao jurisdicional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedado o estabelecimento de distinções entre brasileiros com base na origem ou procedência, de acordo com o art. 19, III, da Constituição Federal. 2. É inconstitucional a norma que adote tempo de serviço em qualquer cargo público como critério de desempate para promoção na magistratura. 3. Não são cabíveis, como medida de desempate entre os concorrentes a promoção por antiguidade, condições estranhas à função jurisdicional. 4. Compete ao Supremo Tribunal Federal a iniciativa para propor projeto de lei que disponha sobre critério de desempate para promoção na carreira da magistratura, de acordo com o art. 93, caput, da Constituição Federal.

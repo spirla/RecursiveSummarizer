@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Sobre o emprstimo de prova obtida mediante interceptao telefnica da esfera penal para a esfera disciplinar, decidiu o STF que dados obtidos em interceptao de comunicaes telefnicas e em escutas ambientais, judicialmente autorizadas para produo de prova em investigao criminal ou em instruo processual penal, podem ser usados em procedimento administrativo disciplinar, contra a mesma ou as mesmas pessoas em relao s quais foram colhidos, ou contra outros servidores cujos supostos ilcitos teriam despontado  colheita dessa prova. Na hiptese de o processo em que foi produzida a prova ser declarado nulo, Guilherme Madeira Dezem distingue duas situaes. Na primeira se foi declarada a nulidade ou reconhecida a ilicitude da prova, a prova emprestada no pode ser admitida, nem valorada. Em uma segunda situao em que o processo foi anulado por outra razo, mas no atinente  prova,  admissvel a utilizao da prova emprestada, desde que no se relacione diretamente com a nulidade. No entanto, obtempera Guilherme Madeira Dezem que se o processo foi anulado a partir da citao tendo em vista o princpio da causalidade em sede de nulidades, no ser possvel a utilizao da prova emprestada. 14.2.16. Prova compartilhada. Explica Fauzi Hassan Choukr que toda prova que se empresta  compartilhada. Mas Eugenio Pacelli procura distingui-las:
+Se toda prova compartilhada termina por ser emprestada (pelo compartilhamento), nem toda prova emprestada depende de compartilhamento. Ou seja, a prova compartilhada  aquela produzida em um processo e, mediante autorizao daquele juzo,  tambm levada a outro, mantidas as restries quanto sigilo, acaso presente, e quanto s garantias do contraditrio e da ampla defesa. J a prova emprestada no exige autorizao do juzo em que foi produzida.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF decidiu que dados obtidos em interceptações telefônicas e escutas ambientais autorizadas judicialmente para produção de prova em investigações criminais podem ser usados em procedimentos administrativos disciplinares. Se o processo for anulado por outra razão, a prova emprestada pode ser admitida, desde que não se relacione diretamente com a nulidade. A prova compartilhada é aquela produzida em um processo e, mediante autorização do juízo, também levada a outro. Já a prova emprestada não exige autorização do juízo em que foi produzida.

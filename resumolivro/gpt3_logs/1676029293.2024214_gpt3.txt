@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nos termos do artigo 30 do Cdigo Penal Militar, diz-se o crime consumado, quando nele se renem todos os elementos de sua definio legal (inciso I) e crime tentado, quando, iniciada a execuo, no se consuma por circunstncias alheias  vontade do agente (inciso II). No crime consumado, a satisfao de todos os elementos de sua definio legal expressa uma adequao tpica perfeita. Para tanto, todos os elementos objetivos da descrio tpica encontram-se perfeitamente conciliados com orientao subjetiva exigidas pelo tipo incriminador. A consumao do crime se apresenta quando se verifica a tipicidade objetiva e a tipicidade perfeitas. A necessria conciliao entre os planos de exigncias objetivas e subjetivas do tipo para a consumao pode ser expressa na seguinte representao grfica:
+No crime tentado, a adequao tpica se apresenta imperfeita, tendo em vista a insatisfao dos requisitos tpicos de natureza objetiva. A tipicidade subjetiva, no entanto, apresenta-se perfeita com a orientao dolosa da conduta tpica (como veremos a seguir, no h tentativa de crime culposo). A tipicidade objetiva imperfeita e no conciliada em relao a tipicidade subjetiva pode ser expressa na seguinte representao grfica:
+A tentativa caracteriza uma violao incompleta da mesma norma da qual o crime consumado representa violao plena. Subjetivamente, o crime tentado no se distingue do consumado, mas objetivamente corresponde a um fragmento da conduta tpica. A punio da tentativa fundamenta-se em norma de extenso tpica que responsabiliza o indivduo que inicia o comportamento criminoso, mas no consegue concretiz-lo. Vale notar que a tipicidade da tentativa, como elemento do conceito analtico do crime,  parmetro garantidor da no interveno repressiva do Estado. Somente  possvel punir-se o sujeito se, ao menos, houver tentado realizar o crime. Nos termos de sua definio legal, a tentativa somente tem lugar depois de iniciada a execuo e antes da consumao do crime. Esto, portanto, fora do campo de responsabilizao a mera cogitao da prtica criminosa, que pode materializar-se em conversas ou combinaes, e em atos preparatrios.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 30 do Código Penal Militar estabelece a diferença entre crime consumado e tentado: enquanto o primeiro se caracteriza pela satisfação de todos os elementos de sua definição legal, o segundo ocorre quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente. A tentativa de crime é responsabilizada pelo Estado, pois somente é possível punir o sujeito se houver tentativa de realizar o crime. Estão fora do campo de responsabilização a mera cogitação da prática criminosa e atos preparatórios.

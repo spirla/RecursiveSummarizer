@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Embora seja controversa a origem das leses indicadas nos exames de corpo de delito e nas fichas de atendimento hospitalar, pois no se pode saber se decorreram de queda da motocicleta ou da abordagem policial, no h qualquer indcio de que as alegadas leses corporais tiveram como finalidade especfica, exigida para a caracterizao do crime de tortura previsto no inciso I do art. 1 da Lei n. 9455/97, obter informao, declarao ou confisso da vtima ou de terceira pessoa. As provas constantes nos autos indicam que os apelados decidiram abordar as vtimas pelo fato de elas terem parado a motocicleta ao avistar uma viatura policial e se dirigido para uma rea com vegetao, simulando estarem urinando. Portanto, no houve demonstrao de que as alegadas agresses tiveram a finalidade de obter qualquer informao, declarao ou confisso das vtimas, pois a abordagem policial decorreu da correta e esperada suspeio dos policiais. Cabe destacar que, ante a inexistncia de provas do especial fim de agir exigido para caracterizao do crime de tortura, poderia o Ministrio Pblico ter aditado a denncia, nos moldes do previsto no art. 437 do CPPM e imputado aos rus a prtica de outro crime, o que no foi feito. Destaca-se a impossibilidade de condenar os rus, agora em segundo grau, pela prtica de qualquer outro crime, uma vez que tal medida supriria a oportunidade dos acusados de se defenderem da nova imputao. Registro que a parte final do art. 437 do CPPM permite a alterao da definio jurdica do fato feita na denncia, por alegao escrita da acusao, desde que a parte tenha tido a oportunidade de respond-la. Para alm da inexistncia de provas aptas a demonstrar a tipicidade subjetiva da conduta imputada aos apelados, verifica-se que as provas existentes nos autos no corroboram ou, no mnimo, deixam dvidas razoveis quanto s verses apresentadas pelas supostas vtimas. Nesse sentido, destaca-se que as vtimas declararam em juzo que permaneceram por horas sendo agredidas e ameaadas pelos apelados. Contudo, a ficha de atendimento do Hospital Municipal 25 de maio, local para onde as vitimas foram levadas, indica que foram admitidas s 16:43, e a testemunha Geraldo Souza do Amor Divino afirmou que os fatos ocorreram por volta das 16:30 (evento 2, PROCJUDIC9, pgina 12). O depoimento da suposta vtima Yuri deixa entrever que no ocorreram as alegadas sesses de tortura, que incluiriam, de acordo com a denncia, o deslocamento dos dois detidos at a entrada da trilha do cruzeiro e, posteriormente, para as proximidades da Fazenda gua Fria. Em depoimento judicial (evento 222, vdeo 4), a suposta vtima disse que foi abordado por volta das 16:40, enquanto sua ficha de atendimento no Hospital registra o horrio das 16:43.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Apesar de controversa a origem das leses indicadas nos exames de corpo de delito e nas fichas de atendimento hospitalar, não há indícios de que as alegadas leses corporais tenham como finalidade especifica obter informação, declaração ou confissão da vítima ou de terceira pessoa. As provas constantes nos autos indicam que a abordagem policial decorreu da correta e esperada suspeita dos policiais. Além disso, as provas existentes nos autos no corroboram ou deixam dúvidas razoáveis quanto às versões apresentadas pelas supostas vítimas.

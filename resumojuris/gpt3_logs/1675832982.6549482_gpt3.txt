@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Entendimento em sentido diverso teria o nefasto condao de estimular a perpetuidade da execucao, porquanto, uma vez ultrapassado o prazo para o pagamento da divida - com isencao de multa e honorarios advocaticios, no cumprimento de sentenca judicial (art. 523 do CPC/2015), ou com o pagamento dos honorarios pela metade, na execucao de titulo extrajudicial (art. 827 do CPC) - a menor ou maior duracao do processo executivo em nada influenciaria o valor final do debito, se sua atualizacao (lato sensu) ocorresse apenas mediante o pagamento dos juros remuneratorios e da correcao monetaria, devidos por forca do contrato de deposito mantido com a instituicao financeira. Assim, na execucao, o deposito efetuado a titulo de garantia do juizo ou decorrente da penhora de ativos financeiros nao isenta o devedor do pagamento dos consectarios de sua mora, conforme previstos no titulo executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial. (Informativo n. 755) 83 PROCESSO REsp 1.822.040-PR, Rel. Min. Luis Felipe Salomao, Segunda Secao, por unanimidade, julgado em 08/06/2022. (Tema 1091) RAMO DO DIREITO DIREITO CIVIL, DIREITO PROCESSUAL CIVIL TEMA Execucao. Lei n. 8.009/1990. Alegacao de bem de familia. Fiador em contrato de locacao comercial e residencial. Penhorabilidade do imovel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O não cumprimento do prazo para o pagamento da dívida não influencia o valor final devido, desde que seja realizada a atualização do débito com juros remuneratórios e correção monetária. 2. O depósito efetuado a título de garantia do juízo não isenta o devedor do pagamento dos consectários de sua mora. 3. O imóvel de família é penhorável quando o fiador se compromete em contrato de locação comercial e residencial.

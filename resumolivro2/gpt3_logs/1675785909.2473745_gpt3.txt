@@ -1,0 +1,23 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+H duas situaes opostas:
+se a omisso j existia na primeira deciso, mas a questo foi devolvida ao tribunal por efeito de recurso, o acordo comporta embargos de declarao, ainda que esses no tenham sido interpostos no juzo de primeiro grau, por outro lado no cabem embargos de declarao se a matria no subiu ao conhecimento do tribunal. Cumpre notar que a Smula 356 do STF orienta que:
+O ponto omisso da deciso, sobre o qual no foram opostos embargos declaratrios, no pode ser objeto de recurso extraordinrio, por faltar o requisito do prequestionamento, em razo disso os embargos na modalidade de suprimento da omisso so frequentemente utilizados com a finalidade exclusiva de prequestionar a matria para efeitos de interposio de recurso especial ou extraordinrio. Cabem embargos de declarao, de acordo com o artigo 108 do RITJMSP:
+I - para corrigir divergncia entre o acrdo e a ata de julgamento;
+II - para anulao de julgamento, se a causa ou o recurso foi julgado sem incluso em pauta, quando necessria;
+III - se o feito foi julgado por colegiado manifestamente incompetente;
+IV - se do julgamento impugnado participou juiz com impedimento lanado nos autos;
+V - se a causa ou o recurso foi julgado, apesar de existir pedido de desistncia protocolado at cinco dias antes da sesso;
+VI - se, por equvoco evidente, se deu por intempestivo recurso apresentado no prazo legal. A reviso do julgado, com manifesto carter infringente, revela-se inadmissvel em sede de embargos de declarao.  firme a jurisprudncia do STF no sentido de serem incabveis os embargos de declarao quando a parte, a pretexto de esclarecer inexistente situao de obscuridade, omisso ou contradio, utiliza-os para buscar infringir o julgado e, assim, promover indevido reexame da causa. Reconhecida a finalidade protelatria dos embargos de declarao,  autorizado o trnsito em julgado da deciso condenatria, independentemente da publicao do acrdo. No se prestam os embargos de declarao, no obstante sua vocao democrtica e a finalidade precpua de aperfeioamento da prestao jurisdicional, para o reexame das questes de fato e de direito j apreciadas no acrdo recorrido.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Embargos de declaração são utilizados para corrigir divergências entre o acórdão e a ata de julgamento, anular o julgamento em casos específicos, prequestionar a matéria para recurso especial ou extraordinário e para esclarecer inexistentes situações de obscuridade, omissão ou contradição. No entanto, não se prestam para reexame de questões de fato e de direito já apreciadas no acórdão recorrido.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, constata-se nao so a existencia de dissenso jurisprudencial, como uma possivel mudanca de direcionamento a respeito do tema, caso em que deve ser dada a interpretacao mais benefica ao artigo 621, I, do CPP, a fim do acolhimento da revisao criminal e aplicacao do entendimento desta Corte de que embora o artigo 222,  1, do CPP disponha que a expedicao da carta precatoria nao suspende a instrucao criminal, a hipotese nao autoriza a indiscriminada inversao procedimental da ordem prevista no artigo 400 do CPP, sendo necessario que o Juizo processante observe o interrogatorio do acusado como ato final da instrucao (RHC 118.854/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 28/02/2020). De outra parte, consigna-se que a Terceira Secao do Superior Tribunal de Justica (STJ), no julgamento da RvCr 5.563/DF, reafirmou o entendimento de que a nulidade decorrente da inversao da ordem do interrogatorio - prevista no artigo 400 do CPP (CPP) - esta sujeita a preclusao e demanda a demonstracao de prejuizo, sendo esta a orientacao do Supremo Tribunal Federal. Naquela ocasiao, o Ministro Reynaldo Soares da Fonseca lembrou que a Sexta Turma ja se posicionou pela desnecessidade de demonstracao do prejuizo, visto que a condenacao ja lhe refletiria, inexistindo preclusao para a arguicao da nulidade. Este tambem foi o posicionamento da Terceira Secao desta Corte Superior, por ocasiao do julgamento do HC 585.942/MT. 1147 Ocorre que, na avaliacao do Ministro Reynaldo Soares da Fonseca, nao se pode considerar presumido o prejuizo unicamente em virtude da superveniencia de condenacao. Para ele, ha que se verificar, no minimo, se a condenacao se amparou em provas independentes, idoneas e suficientes para determinar a autoria e a materialidade do delito, desconsiderados os depoimentos das testemunhas, pois nao ha utilidade em anular uma sentenca que, de toda forma, se manteria com base em outros fundamentos independentes .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 621, I, do Código de Processo Penal (CPP) deve ser interpretado de forma mais benéfica, a fim de acolher a revisão criminal. 2. O artigo 222, 1, do CPP não autoriza a inversão indiscriminada da ordem prevista no artigo 400 do CPP. 3. A nulidade decorrente da inversão da ordem do interrogatório está sujeita à preclusão e demanda a demonstração de prejuízo. 4. A Sexta Turma do Superior Tribunal de Justiça (STJ) já se posicionou pela desnecessidade de demonstrar o prejuízo, visto que a condenação já refletiria. 5. Para considerar presumido o prejuízo, deve-se verificar se a condenação se amparou em provas independentes, idôneas e suficientes para determinar a autoria e a materialidade do delito.

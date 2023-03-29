@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADPF 748/DF, relatora Ministra Rosa Weber, julgamento virtual finalizado em 20.5.2022 (sexta-feira), as 23:59 (INF 1055) 2.7 SANEAMENTO BASICO Regiao metropolitana: saneamento basico, poder decisorio e recursos obtidos com a em-preitada comum - ADI 6573/AL; ADI 6911/AL e ADPF 863/AL ODS: 6 e 16 Resumo: E inconstitucional norma que preve a concentracao excessiva do poder decisorio nas maos de so um dos entes publicos integrantes de regiao metropolitana. A integracao metropolitana de municipios visando promover melhorias das condicoes de saneamento basico e compativel com a CF/88, e a simples existencia fatica de isolamento ou nao integracao do sistema nao obsta a sua formacao nos moldes da legislacao de regencia. A concorrencia entre o principio do interesse comum e a autonomia municipal nao deve traduzir-se em total centralizacao do poder decisorio metropolitano, uma vez que prevalece a tese da competencia e da titularidade conjuntas, que enseja a existencia de uma estrutura colegiada assecuratoria da participacao dos municipios integrantes da regiao metropolitana. Ainda que a gestao colegiada das regioes metropolitanas nao esteja obrigada a respeitar a paridade de votos entre seus integrantes, afronta o principio da proibicao da concentracao decisoria todo o desenho institu-cional que agrupe poderes em apenas uma de suas pessoas politicas, conferindo-lhe o exercicio do predominio absoluto nas instancias deliberativas e/ou executivas. Nesse mesmo contexto, e inadmissivel que a gestao e a percepcao dos frutos da empreitada metropoli-tana comum, incluidos os valores referentes a eventual concessao a iniciativa privada, aproveitem a apenas um dos entes federados. A densificacao da autonomia dos entes deve ser exercida com a logica do compartilhamento, assegu-rando-se a participacao de todos na gestao dos recursos, mesmo que nao siga uma proporcao estrita.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma que preve a concentração excessiva do poder decisório nas mãos de somente um dos entes públicos integrantes de região metropolitana. 2. A integração metropolitana de municípios visando promover melhorias das condições de saneamento básico é compatível com a Constituição Federal de 1988. 3. O princípio do interesse comum e a autonomia municipal não devem se traduzir em total centralização do poder decisório metropolitano, uma vez que prevalece a tese da competência e da titularidade conjuntas. 4. É inadmissível que a gestão e a percepção dos frutos da empreitada metropolitana comum aproveitem somente a um dos entes federados. 5. A autonomia dos entes deve ser exercida com a lógica do compartilhamento, assegurando-se a participação de todos na gestão dos recursos.

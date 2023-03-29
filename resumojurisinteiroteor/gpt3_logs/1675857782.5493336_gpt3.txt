@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Extinguiu o feito, com resoluo do mrito, nos termos do art. 487, inciso I, do Cdigo de Processo Civil. Na oportunidade, condenou o Estado de Minas Gerais ao pagamento das custas processuais, suspendendo a exigibilidade do pagamento consoante o disposto no inciso I do artigo 10 da Lei n. 14.939/03. Condenou-o, ainda, ao pagamento de honorrios advocatcios, os quais fixou em R$ 1.000,00 (mil reais), nos termos dos  2 e 3 do art. 85 do CPC (evento 33, SENT1). O Estado de Minas Gerais interps recurso de apelao (evento 40). Em suas razes, alegou que o administrador tem liberdade para praticar os seus atos, principalmente em relao  punio dos administrados que se subordinam s normas do servio e do estabelecimento que possa integrar. Disse que a gravidade da conduta praticada pelo apelado afasta a possibilidade de aplicar qualquer sano alternativa, sendo defeso ao Judicirio realizar o exame de proporcionalidade da pena de demisso, que era a nica reprimenda prevista para o caso. Salientou que o Superior Tribunal de Justia (STJ) firmou entendimento no sentido de que no configura ofensa aos princpios da proporcionalidade e razoabilidade quando a nica reprimenda prevista para a infrao disciplinar apurada  a pena de demisso. Aduziu que a pena de demisso foi assertivamente aplicada ao caso em face da sua gravidade, uma vez que o acusado violou valores e princpios tico-disciplinares, gerou grave escndalo e feriu a imagem da Corporao. Alegou que a conduta praticada pelo autor repercutiu, ainda que restritamente ao crculo interno da Corporao, de forma negativa. Citou trecho da Instruo de Corregedoria n. 01/2014 da PMMG quando da referncia ao artigo 13, II, do CEDM. Disse que o magistrado revisou as provas, entrou no mrito administrativo e substituiu a figura da administrao militar, o que  vedado ao Poder Judicirio. Com esses argumentos, requereu que seja dado provimento ao recurso para reformar a sentena a quo, julgando-se improcedentes os pedidos contidos na pea de ingresso (evento 40). A defesa do apelado apresentou suas contrarrazes de apelao. Preliminarmente, alegou que, instado a especificar as provas pretendidas, o apelado manifestou-se pela produo de prova pericial, consistente na avaliao por mdico psiquiatra, para provar o transtorno de impulso (cleptomania) do apelado. Disse que o pleito foi indeferido pelo juzo em deciso irrecorrvel, tendo, logo aps, sido julgada a ao, concluindo o juzo a quo pela procedncia dos pedidos autorais. Segundo a defesa, dada a interposio do recurso de apelao e a possibilidade de reapreciao do pedido, faz-se necessrio, suscitar, em carter eventual, a preliminar de cerceamento de defesa. Dessa forma, sustenta que, sendo reformada a r. sentena, o apelado ser duramente prejudicado no reconhecimento de seu direito, pois foi privado da realizao da prova pericial, que certamente conduziria ao um entendimento favorvel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O feito foi extinto com resolução do mérito, condenando o Estado de Minas Gerais ao pagamento das custas processuais e honorários advocatícios. O Estado interpôs recurso de apelação alegando que a pena de demissão foi assertivamente aplicada e que o juiz não deveria entrar no mérito administrativo. A defesa do apelado alegou cerceamento de defesa, pois foi privado da realização de prova pericial.

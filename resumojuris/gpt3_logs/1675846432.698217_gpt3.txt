@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Prisao domiciliar ou monitoracao eletronica. Insuficiencia. Necessidade de desarticulacao de grupo criminoso e prevencao de reiteracao delituosa. DESTAQUE E idonea a fundamentacao do decreto prisional assentada na periculosidade do agente, evidenciada pelo modus operandi, e na necessidade de interromper atuacao de lider de organizacao criminosa voltada para a pratica de crimes informaticos. Trata-se de decreto prisional expedido pela pratica, em tese, dos crimes de lavagem de dinheiro e furto em que os agentes utilizavam de meios tecnologicos para conseguir dados bancarios das vitimas e transferir as quantias para contas de laranjas. A recente promulgacao da Lei n. 14.155, de 27/5/2021, revela a preocupacao do legislador com o crescente aumento dos crimes informaticos, particularmente no periodo de pandemia do novo coronavirus, tendo sido inserida nova qualificadora no  4-B do art. 155 do CP, que estabelece a pena de 4 a 8 anos quando o furto praticado mediante fraude e cometido por meio de dispositivo eletronico ou informatico, conectado ou nao a rede de computadores, com ou sem a violacao de mecanismo de seguranca ou a utilizacao de programa malicioso, ou por qualquer outro meio fraudulento analogo . O incremento de cibercriminalidade exige das autoridades judiciarias a adocao de medidas adequadas para coibir a reiteracao delituosa, tendo em vista os mecanismos utilizados pelos hackers para a pratica de furtos eletronicos e a provavel ineficacia das medidas cautelares diversas da prisao para acautelar o meio social e economico. De fato, o modus operandi dos crimes ciberneticos torna, por exemplo, insuficiente a prisao domiciliar ou a monitoracao eletronica para prevencao do risco de reiteracao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 14.155/2021 prevê a pena de 4 a 8 anos para o crime de furto praticado mediante fraude e cometido por meio de dispositivo eletrônico ou informático. 2. O incremento da cibercriminalidade exige das autoridades judiciárias a adoção de medidas adequadas para coibir a reiteração delituosa. 3. A prisão domiciliar ou a monitoração eletrônica são medidas insuficientes para prevenir o risco de reiteração de crimes cibernéticos.

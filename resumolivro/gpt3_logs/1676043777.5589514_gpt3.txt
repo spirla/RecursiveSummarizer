@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No plano dogmtico da teoria do crime, pode-se dizer que a conduta formalmente apresenta uma tipicidade objetiva perfeita, mas uma tipicidade subjetiva imperfeita. Como exemplo de erro de tipo, Roxin menciona o caso daquele que seduz uma menor de quatorze anos supondo, erroneamente, que esta possui idade superior, ou mesmo quando no tenha realizado reflexo alguma sobre sua idade. O exemplo tambm se aplica ao Direito brasileiro, j que a idade da vtima  elemento objetivo integrante do tipo penal incriminador do artigo 217-A do CP. No Cdigo Penal, o erro de tipo foi tratado no artigo 20, que assim dispe: O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punio por crime culposo, se previsto em lei. O referido dispositivo legal  considerado uma referncia muito expressiva do acolhimento da teoria finalista da ao na legislao nacional, aps a reforma penal de 1984. Com certeza, o dispositivo demonstra o reconhecimento de que o tipo penal incriminador contm os elementos subjetivos dolo e culpa. Contudo, o trabalho com os elementos subjetivos do injusto no  uma exclusividade da teoria finalista da ao. Conforme o artigo 20 do CP, a consequncia do erro de tipo  a excluso do dolo. Se o dolo pressupe o conhecimento de todos os elementos objetivos do tipo, no erro de tipo, no h o correto conhecimento de tais elementos. A princpio, portanto, a situao de erro  incompatvel com o reconhecimento do dolo. Nesse sentido, Jescheck afirma que o erro de tipo no  mais do que a negao do contedo de representao requerido para o dolo.. Mas no haver excluso do dolo sempre que o sujeito errar quanto a elementos objetivos do tipo. Tal excluso somente acontecer quando se tratar de erro essencial sobre um elemento objetivo da descrio tpica. Distino entre erro de tipo e erro de proibio. O erro de tipo no se confunde com o erro de proibio. Como advertiu Welzel, a ilicitude do fato no  uma circunstncia do tipo, mas uma valorao jurdica do tipo que expressa a desconformidade entre a realizao do tipo e as exigncias do Direito. O erro de tipo e o erro de proibio so espcies de erro de representao, mas referem-se a objetos distintos. No erro de tipo, o sujeito representa erroneamente os elementos objetivos da descrio do tipo penal incriminador. No erro de proibio, contudo, ocorre errnea compreenso sobre o fato de que determinado comportamento, corretamente conhecido pelo sujeito em sua configurao objetiva,  proibido pelo Direito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O erro de tipo, segundo o artigo 20 do Código Penal, exclui o dolo, mas permite a punição por crime culposo. O erro de tipo e o erro de proibição são tipos de erro de representação, mas referem-se a objetos distintos. No erro de tipo, o sujeito representa erroneamente os elementos objetivos da descrição do tipo penal incriminador. No erro de proibição, ocorre errônea compreensão sobre o fato de que determinado comportamento é proibido pelo Direito.

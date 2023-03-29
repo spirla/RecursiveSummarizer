@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Se o magistrado prolator da sentenca estava designado pelo Programa CGJ-Apoia para atuar como cooperador na respectiva vara, nao ha abalo ao principio da identidade fisica do juiz. O processo em questao foi redistribuido entre magistrados em razao do programa CGJ-APOIA, instituido com o objetivo de viabilizar o julgamento dos feitos que integram o acervo excedente de processos acumulados da justica de primeiro grau e de implantar boas praticas administrativas e medidas voltadas a organizacao, racionalizacao e uniformizacao dos procedimentos e metodos de trabalho das unidades de primeiro grau . Constatado que o Juiz sentenciante foi designado por Portaria do Tribunal criada para reduzir o congestionamento de processos judiciais e otimizar as atividades do primeiro grau, inexiste ilegalidade a ser reparada. Esta Corte e firme no entendimento de que nao ha nulidade no processo pelo fato de outro magistrado ter proferido a sentenca, haja vista que estava designado para atuar como cooperador na respectiva Vara, designado pelo Programa CGJ Apoia (Portaria GP n. 1870, de 21 de setembro de 2020, com data retroativa de 1 de agosto de 2020). O principio da identidade fisica do juiz nao e absoluto, podendo ser excepcionado em hipoteses como a dos autos, em que o magistrado que presidiu a instrucao foi auxiliado por outro em esquema de colaboracao na conducao dos processos sob sua responsabilidade na Vara, nao havendo falar-se em nulidade (AgRg no HC 676.173/SC, relator Ministro Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, DJe 11/3/2022). (Informativo  Ed. Especial n. 10) 112 LEGISLACAO CPP (CPP), art. 399,  2 Processo AgRg no HC 690.299-PR, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF da 1 Regiao), Sexta Turma, por unanimidade, julgado em 9/8/2022, DJe 15/8/2022. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Inquerito policial. Termino. Prazo improprio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O princípio da identidade física do juiz não é absoluto, podendo ser excepcionado em hipóteses em que o magistrado que presidiu a instrução foi auxiliado por outro em esquema de colaboração na condução dos processos sob sua responsabilidade na Vara. 2. Não há nulidade no processo pelo fato de outro magistrado ter proferido a sentença, haja vista que estava designado para atuar como cooperador na respectiva Vara, designado pelo Programa CGJ Apoia.

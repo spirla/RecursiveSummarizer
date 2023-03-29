@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+9, INCISO II, E, DO CDIGO PENAL MILITAR - ORDEM DENEGADA. ACRDO Vistos, relatados e discutidos os presentes autos, sendo paciente o Cb PM Fabrcio Francisco Mafra, impetrantes/advogados Ricardo Barbosa de Alcamiro e Warley Eduardo Boy e autoridade apontada como coatora a juza de direito titular da 3a AjMe, acordam os desembargadores da Primeira Cmara, por unanimidade, em conhecer do habeas corpus e, no mrito, em denegar a ordem. RELATRIO Trata-se de habeas corpus, com pedido de liminar, impetrado em favor do Cb PM Fabrcio Francisco Mafra, em que se pretende que seja declarada a incompetncia desta Justia especializada para apreciar e julgar a matria tratada nos autos do Processo n. 200031328.2022.9.13.0000. O impetrante assevera que o paciente foi denunciado pelo Ministrio Pblico castrense, nos Autos n. 2000313-28.2022.9.13.0003, como incurso nos artigos 312 (falsidade ideolgica) e 319 (prevaricao) do Cdigo Penal Militar (CPM), bem como no art. 14 (porte ilegal de arma de fogo de uso permitido) da Lei n. 10.826/2003. Afirma que, na audincia de inquirio das testemunhas de acusao, em questo de ordem, a defesa do militar ops exceo de incompetncia da Justia Militar, por entender que a Justia comum estadual (comarca de Itabira/MG) seria a competente para apreciar e julgar o feito, em razo de no restar caracterizado crime militar. Todavia o Conselho Permanente de Justia da 3a Auditoria Judiciria Militar Estadual (AJME), aps manifestao do Parquet, em deliberao unnime, declarou a competncia da Justia Militar para apreciar e julgar o feito. Sustenta, em razo da incompetncia do juzo militar, estar o paciente sofrendo constrangimento ilegal. Alega que, no dia dos fatos, o paciente estava de folga, em local no sujeito a administrao militar, com trajes civis e com arma particular; que o paciente no atuou em razo do ofcio, no vitimou outro militar ou o patrimnio sob administrao militar e, tampouco, violou ordem administrativa militar. Assevera que a autoridade apontada como coatora entendeu que o suposto ilcito foi cometido por militar contra militar da ativa em situao de atividade. Sustenta, entretanto, que a denncia no contm descrio de conduta que se enquadre nas hipteses previstas no artigo 9 do CPM e que o despacho de recebimento da acusao penal no rene fundamentao idnea a respeito do enquadramento do crime militar. Por esse motivo, entende estar a deciso de recebimento da lide criminal na Justia especializada maculada por vcio de fundamentao. Pugnou, ao final, para que fosse concedida a medida liminar, a fim de suspender a tramitao do processo criminal e, no mrito, que fosse declarada a incompetncia da Justia Militar estadual para processar e julgar o feito.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Habeas Corpus impetrado em favor do Cb PM Fabrcio Francisco Mafra foi denegado, pois o Conselho Permanente de Justia da 3a Auditoria Judiciria Militar Estadual declarou a competncia da Justia Militar para apreciar e julgar o feito, não havendo caracterização de crime militar.

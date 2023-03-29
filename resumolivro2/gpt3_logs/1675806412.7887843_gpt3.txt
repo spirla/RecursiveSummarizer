@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 101, inciso II, estabelece nas alneas a, b e c as regras de determinao de competncia nos casos de conexo e continncia quando h concurso de jurisdies cumulativas. A jurisdio  cumulativa se as autoridades judicirias de determinada circunscrio territorial so igualmente competentes para conhecer do fato, isto , quando se verifica que mais de um juiz tm a mesma competncia. A primeira regra determina que prevalecer a - competncia - do lugar da infrao, para a qual  cominada pena mais grave (alnea a). As penas privativas de liberdade so mais graves do que as restritivas de direitos (por exemplo, reforma). Se as penas privativas de liberdade forem da mesma espcie, a mais grave  a de maior durao, sendo de espcies diferentes recluso  mais grave do que deteno. Os processos correm em Auditorias com circunscries diferentes, mas entre eles h conexo ou continncia. Por exemplo:
+o crime cuja pena  mais grave foi distribudo  1 Auditoria da 3 CJM (Porto Alegre) e o crime cuja pena  menos grave foi distribudo  3 Auditoria da 3 CJM (Bag) haver unidade do processo e a fixao da competncia da 1 Auditoria da 3 CJM (Porto Alegre). Pela segunda regra do artigo 101, inciso II, prevalecer a - competncia - do lugar onde houver ocorrido o maior nmero de infraes, se as respectivas penas forem de igual gravidade (alnea b). Assim, a Auditoria cujo processo tiver maior nmero de infraes  a que ter competncia. No processo distribudo  Auditoria da cidade X so dois crimes de falsidade ideolgica, enquanto na Auditoria da cidade Y  imputado apenas um crime de falsidade ideolgica. Prevalecer a competncia da Auditoria da cidade X.
+Pela terceira regra do artigo 101, inciso II, do CPPM, no caso de concurso de jurisdies cumulativas firma-se a competncia pela preveno (alnea c) se as duas regras acima das alneas a e b no forem suficientes para determinar a unidade do processo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 101, inciso II, do CPPM estabelece três regras para a determinação da competência nos casos de conexão e continência quando há concurso de jurisdições cumulativas: prevalecer a competência do lugar da infração para a qual cominada pena mais grave (alínea a); prevalecer a competência do lugar onde houver ocorrido o maior número de infrações, se as respectivas penas forem de igual gravidade (alínea b); e, no caso de concurso de jurisdições cumulativas, firmar-se a competência pela prevenção (alínea c).

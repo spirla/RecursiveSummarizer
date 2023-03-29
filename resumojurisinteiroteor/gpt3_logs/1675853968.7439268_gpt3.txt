@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO O Parquet oficiante perante a Primeira Auditoria Judiciria Militar Estadual ofereceu denncia em desfavor do Cabo PM Weidman Tadeu de Arajo Maia, do Soldado PM Yuri Salim Lima Salomo e do Soldado PM Vitor Costa Santos, fazendo-o nos seguintes termos, in verbis: [...] WEIDMAN TADEU DE ARAJO MAIA, CB PM YURI SALIM LIMA SALOMO, SD PM VITOR COSTA SANTOS, SD PM As investigaes levadas a efeito retratam a atividade delitiva dos denunciados, os quais exerciam a funo Policial Militar no Municpio de Belo Horizonte/MG. Os denunciados, nos dias 01/10/2017 e 05/10/2017, praticaram os crimes a seguir descritos: FATO N 01: Dia 01/10/2017 das 22h00min s 14h55min do Dia 02/10/2017. I - DO DANO (art. 259 do CPM) No dia 01/10/2017 das 22h00min s I4h55min do dia 02/10/2017, o PRIMEIRO DENUNCIADO deteriorou coisa alheia. Na referida data, o CICOP foi acionado, por meio de uma ligao annima, dando conta de que na boate Pier 17 haveria um indivduo com mandado de priso em aberto, e este, estava na posse de um veculo Jetta branco de placa PVK 0211. Conta na notcia apcrifa os dados de qualificao do indivduo - CARLOS LEONARDO DA SILVA - e a informao de que o civil estaria com uma arma de fogo no interior do veculo. Por volta das 23h compareceu na boate Pier 17 a guarnio policial militar dos investigados, na viatura de prefixo PMMG 23429, placa PXE 5910 para averiguar a veracidade das informaes obtidas atravs da notcia annima. No interior da boate, os denunciados localizaram, fizeram buscas e retiraram CARLOS LEONARDO do local e o conduziu at o estacionamento do estabelecimento comercial. Ao chegarem no estacionamento, os militares tentaram abrir o veculo do civil. Contudo, no obtiveram xito, e ante o fato, o PRIMEIRO DENUNCIADO, de posse de um cassetete quebrou o vidro veculo Jetta pertencente a CARLOS LEONARDO DA SILVA CARDOSO. Sendo assim, com o arrombamento do veculo VWJETTA 2.0 T de placa PVK 0211, o PRIMEIRO denunciado encontra-se incurso no delito previsto no art. 259 do CPM (dano) c/c arts. 53 (coautoria) todos do Cdigo Penal Militar. II - DA CONCUSSO (art. 305 CPM) No dia 01/10/2017 das 22h00min s 14h55min do dia 02/10/2017, os denunciados, com unidade de desgnios, exigiram para si diretamente, em razo da funo militar, vantagem indevida (art. 305, CPM). Aps a vistoria no interior do veculo de CARLOS LEONARDO DA SILVA, foram abordadas e detidas, ainda, outras duas pessoas sendo uma delas identificada como VITOR HUGO, e a outra como DAVID CARAN DA SILVA PERPTUO. Todos os abordados foram colocados no interior do compartimento fechado da viatura, momento em que os denunciados passaram a conversar, separadamente, com cada um deles na tentativa de angariar armas, dinheiro e drogas.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Parquet ofereceu denncia contra trs policiais militares acusados de praticarem crimes de dano e concusso, no dia 01/10/2017 e 05/10/2017, em Belo Horizonte/MG. Os denunciados foram acusados de deteriorarem coisa alheia e de exigirem vantagem indevida para si, em razo da funo militar.

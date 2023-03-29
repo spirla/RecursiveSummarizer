@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+485, V, DO CPC/1973. 1. A ao rescisria, fundada no art. 485, V, do CPC/1973, pressupe a violao frontal e direta do contedo normativo de dispositivo legal. Precedentes. 2. A concluso adotada pelo acrdo ao qual se busca a resciso no se revela manifestamente teratolgica ou contrria aos dispositivos legais indicados como frontalmente ofendidos. 3. No  cabvel a ao rescisria para reapreciar as provas ou analisar a sua correta aplicabilidade  hiptese. Precedentes. 4. Agravo regimental no provido. (STJ - AgRg no AREsp 278.559/RS, Rel. Ministro RICARDO VILLAS BAS CUEVA, TERCEIRA TURMA, julgado em 08/05/2018, DJe 15/05/2018). G.F Pelo exposto, julgo improcedente a presente ao rescisria e condeno o autor ao pagamento das custas e dos honorrios de sucumbncia, os quais fixo em R$ 2.000,00 (dois mil reais), suspendendo, todavia, a sua exigibilidade, visto estar o autor sob o plio da justia gratuita.  como voto. DESEMBARGADOR JAMES FERREIRA SANTOS Acompanho as razes e o voto do eminente relator, para tambm julgar improcedente a presente ao rescisria. DESEMBARGADOR FERNANDO GALVO DA ROCHA Srs. Desembargadores.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao rescisria foi julgada improcedente, pois no houve violao frontal e direta do contedo normativo de dispositivo legal, e no cabvel a ao para reapreciar as provas ou analisar a sua correta aplicabilidade. Condenou-se o autor ao pagamento das custas e dos honorrios de sucumbncia.

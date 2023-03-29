@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Disse que, se a vtima for embora, o militar deve avisar ao CPU que ela no aguardou o registro, para constar no relatrio, at mesmo para resguardar o policial (Evento 35 - VDEO4 - Processo Originrio). A testemunha 1 Sgt. PM QPR Ronildo ngelo Martins, em juzo, disse no ter presenciado o momento em que o 2 Sgt. PM QPR Marcos Roberto Diniz teria dado a ordem para que o acusado fizesse o REDS da vtima de roubo. Disse, ainda, que conversou com a vtima do delito de roubo, quando esta estava aguardando o ru terminar o registro de outra ocorrncia, momento em que ela lhe disse que teria que ir em sua casa buscar um documento, salientando que, minutos depois, no mais a viu no local (Evento 35 - VDEO5 - Processo Originrio). Em audincia, a testemunha Sd PM Andr Lus da Silva relatou que ouviu o 2 Sgt. PM QPR Marcos Roberto Diniz dar a ordem para que o ru redigisse o REDS da vtima do crime de roubo, entretanto afirmou no ter ouvido a resposta do acusado, uma vez que, no momento, estava saindo do quartel, para procurar o autor do delito. Asseverou que, no dia seguinte, tomou conhecimento de que o REDS no havia sido lavrado (Evento 35 - VDEO6). A testemunha Sd PM Helison Raimundo Lopes, em juzo, disse ter presenciado o momento em que o 2 Sgt. PM QPR Marcos Roberto Diniz deu a ordem para que o ru fizesse o REDS da vtima do delito de roubo, ressaltando que este no apresentou resposta ao comando recebido, no tendo apresentado qualquer recusa (Evento 35 - VDEO7). Em juzo, a testemunha 2 Sgt PM Wagner Oliveira Lopes disse que estava na funo de CPU do turno, mas que no presenciou os fatos, uma vez que estava em outra cidade. Afirmou que ficou sabendo dos fatos, via rede rdio, pelo 2 Sgt. PM QPR Marcos Roberto Diniz, que informou que uma vtima de roubo teria comparecido ao quartel. Asseverou que, ao final do expediente, quando foi fazer o relatrio, no localizou o REDS do roubo (Evento 72 - VDEO2). O ru, em seu interrogatrio, negou os fatos narrados na denncia. Disse que, no dia dos atos, estava fazendo o registro de uma outra ocorrncia, quando chegou ao quartel uma vtima de roubo. Relatou que o 2 Sgt. PM QPR Marcos Roberto Diniz conversou com a vtima, anunciou o cometimento do roubo na rede rdio e, em seguida, deu a ordem para que ele fizesse o REDS desse fato, tendo respondido "sim senhor. Asseverou que, como estava fazendo outro REDS, a vtima do crime de roubo ficou aguardando na entrada, local que no conseguia visualizar de onde se encontrava.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Testemunhas afirmaram que o 2 Sgt. PM QPR Marcos Roberto Diniz deu a ordem para que o ru fizesse o REDS da vtima do delito de roubo, entretanto a testemunha Sd PM Andr Lus da Silva afirmou não ter ouvido a resposta do acusado. O ru negou os fatos narrados na denúncia, afirmando que respondeu "sim senhor" à ordem do 2 Sgt. PM QPR Marcos Roberto Diniz.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+2.428 que o recorrente, teve seu ato administrativo de transferncia para reserva remunerada publicado no Dirio Oficial Minas Gerais n. 77, de 26/04/2017 e transcrito no BGPM n. 82, de 27/04/2017, tornado sem efeito por meio do ato administrativo de reverso de oficial ao servio ativo, publicado no BGPM RESERVADO - DRH n. 305, de 28/09/2017, sem, contudo, estar prestando servio desde 09/03/2016, amparado pelo preenchimento do requisito legal temporal exigvel para o seu afastamento das atividades. Marcadas sucessivas datas para realizao de audincia de interrogatrio do apelante, este no se fez presente em nenhuma delas, fundamentando sempre que se encontrava com quadro de doena que o incapacitava de ser interrogado em juzo, visto que estava acometido de doena classificada no CID F41.0 (fl. 250). Desse modo, diante das ausncias e dos inmeros relatrios mdicos que foram apresentados pelo acusado, pleiteando a redesignao de audincias marcadas, a sua defesa tcnica requereu a instaurao de incidente de insanidade mental do militar, mas foi indeferida pelo CEJ, conforme deciso de fls. 2.608/2.614. Na mesma ocasio foi marcada nova data de audincia de interrogatrio. Assim, no dia 19/09/2019 foi realizado interrogatrio do Major PM Fabrizio Duilio Ortenzio (fls. 2807/2810 - peas digitalizadas do processo fsico 60). Na fase do art. 427 do CPPM, as partes no requereram diligncia alguma. Na fase do art. 428 do CPPM, as partes manifestaram-se pela apresentao de Alegaes Finais em plenrio. A sesso de julgamento foi realizada no dia 02 de dezembro de 2020, s 08h00, conforme Ata de Sesso de Julgamento (Evento 44). Superada a fase de instruo e julgamento, o Conselho Especial de Justia, por unanimidade, julgou parcialmente procedente a denncia para absolver o acusado do crime previsto no artigo 336, do CPM, com fundamento no art. 439, "b", do CPPM; para absolver o acusado do art. 312, do CPM, aplicando-se o princpio da consuno ou absoro; e para conden-lo pela prtica dos crimes previstos no art. 261, III, do CPM, art. 308 e art. 309, ambos tambm do CPM". A pena final aplicada ao militar foi de 13 (treze) anos e 4 (quatro) meses de recluso, a ser cumprida inicialmente em regime fechado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Conselho Especial de Justia, por unanimidade, julgou parcialmente procedente a denncia, absolvendo o acusado do crime previsto no artigo 336 do CPM, com fundamento no art. 439, "b", do CPPM; absolvendo-o do art. 312, do CPM, aplicando-se o princpio da consuno ou absoro; e condenando-o pela prtica dos crimes previstos no art. 261, III, do CPM, art. 308 e art. 309, ambos tambm do CPM, com pena final de 13 (treze) anos e 4 (quatro) meses de recluso, a ser cumprida inicialmente em regime fechado.

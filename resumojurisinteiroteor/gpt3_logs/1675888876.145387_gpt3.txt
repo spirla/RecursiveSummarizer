@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+48/124 e OUT12, pgs. 01/23 - autos de 1a Instncia). A defesa, por sua vez, requereu a realizao de percia junto ao Instituto de Criminalstica da Polcia Civil do Estado de Minas Gerais na mdia oriunda do processo administrativo disciplinar que contm imagens de vdeo do acusado e, tambm, requereu que fosse ele submetido a percia mdica, com o fim de avaliar a sua atual condio de sade (evento 2 - OUT11, pgs. 04/05 - autos de 1a Instncia). O pleito foi parcialmente deferido, apenas em relao  realizao de percia mdica pela JCS, com o fim de avaliar a atual condio de sade do denunciado referente  patologia objeto destes autos. Em relao ao pleito indeferido, fundamentou o magistrado que cpia da percia requerida j havia sido realizada pelo Instituto de Criminalstica como diligncia no PAD de Portaria n. 117.508/2017 e juntada aos autos pela defesa, podendo, portanto, ser utilizada como prova emprestada (evento 2 - OUT11, pgs. 14, 09/34 - autos de 1a Instncia). O laudo mdico pericial emitido pela JCS foi acostado aos autos no evento2, OUT 12, pgs. 94/108). Na fase do artigo 428 do CPPM, as partes pugnaram pela apresentao das alegaes finais oralmente em plenrio de julgamento (evento 2 - OUT12, pgs. 127, 131/132, 137 - autos de 1a Instncia). Concluda a instruo processual, em 09/12/2020, reuniu-se o douto Conselho Permanente de Justia da 1a AJME para a sesso de julgamento. Dada  palavra  ilustre Representante do Ministrio Pblico, essa requereu a condenao do acusado, nos exatos termos da denncia. J a defesa requereu a absolvio do Cb PM Alex Carlos de Paula nos termos do artigo 439, alneas "a ou e, do CPPM. Findos os debates, o Conselho Permanente de Justia decidiu, in verbis: [...] O Conselho Permanente de Justia decidiu, por maioria de trs votos a dois, decidiu absolver o ru Cb PM Alex Carlos de Paula, da imputao constante do artigo 251 do CPM, o fazendo nos termos do artigo 439, alnea e do CPPM. Votaram vencidos pela condenao dois juzes-Militares, os quais so Cap PM Cristiano Mrcio de Paula e Cap PM Evaldo Almeida Brasileiro (Evento 60- autos de 1a Instncia): A audincia para leitura da sentena absolutria acostada ao evento 71 ocorreu no dia 18/12/2020 (eventos 74 e 76 - autos de 1a Instncia). A defesa de Alex Carlos de Paula interps recurso de apelao (evento 78 - autos de 1a Instncia). Em suas razes recursais, alegou que os fundamentos da sentena absolutria devem ser reformados para a alnea a do CPPM, ou seja, por no haver prova da existncia do crime. Nesse sentido, alegou que as provas carreadas aos autos demonstram que o paciente, ora apelante,  portador de osteoartrose degenerativa associada  hrnia de disco em L5, tendo, por esse motivo, sido periciado vrias vezes e por diversos colegiados de mdicos peritos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa de Alex Carlos de Paula requereu a realização de perícia junto ao Instituto de Criminalística da Polícia Civil do Estado de Minas Gerais na mídia oriunda do processo administrativo disciplinar e também a submissão do acusado a perícia médica. O pleito foi parcialmente deferido, sendo realizada a perícia médica pela JCS. No julgamento, o Conselho Permanente de Justia decidiu absolver o acusado, nos termos do artigo 439, alínea "e" do CPPM. A defesa interpôs recurso de apelação, alegando que os fundamentos da sentença absolutória devem ser reformados para a alínea "a" do CPPM.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ele se negou e disse que s iria por ordem do Tenente e nisso eu retornei, j peguei meu telefone e fiz uma ligao para o CPU para passar a situao, o Sgt PM Vandeir, e, de repente, quando olho o Danilo est entrando na SOU com uma arma apontando para minha cabea. Foi a que eu pulei da cadeira, com um esforo danado e consegui desviar a mira dele da minha cabea e entrei em luta corporal para poder tirar a arma dele. Tirar a arma dele para ele no atirar em mim. [...] com muito custo, consegui retirar o carregador da arma e foi efetuado um disparo em direo ao cho da sala das salas de operaes. Nisso a j me empurrou, deixando a arma de lado e correu para intendncia de novo; fui atrs dele para segurar ele e ficamos ali a trancos e barrancos at o CPU chegar. [...] Em juzo, o 1 Sgt PM Vandeir Lus Barbosa testemunhou que, por volta das 18 horas e 30 minutos, os fatos narrados na denncia aconteceram. Afirmou que recebeu a ligao do Cabo PM Ramon Ribeiro Freitas comunicando a recusa de obedincia do apelante. Afirmou, ainda, que, no curso da conversa, escutou o primeiro mandar o segundo parar e, em seguida, barulhos de luta corporal, razo pela qual determinou que seu motorista acelerasse em direo ao quartel. De outro lado, o acusado nega a tentativa de homicdio, ao afirmar que no apontou a arma de fogo ao ofendido. Percebe-se que, no final, restou a palavra do ofendido contra a do apelante, sendo que ambas as verses trazem imprecises na dinmica dos fatos. Nesse diapaso, a deciso do egrgio Conselho Permanente de Justia atuante na 2a AJME no poderia ser outra seno a absolvio pela insuficincia de provas da ocorrncia da tentativa de homicdio, diante da impreciso dos elementos de provas sobre a narrativa ftica, da existncia de verses distintas e da ausncia de testemunhas presenciais. Veja-se: No que diz respeito a tentativa de homicdio, o Conselho Permanente de Justia da Polcia Militar, por maioria de quatro votos a um, entendeu que existe uma fragilidade probatria que impede a procedncia da ao penal. Alm de no existir cmeras que tenham capturado como se deram os fatos, a ausncia de testemunha presencial no momento dos fatos fragilizou, sobremaneira, a acusao. Segundo o ofendido, o acusado havia lhe desobedecido e em razo disso foi comunicar o CPU que sobre a preso dele, instante em que o acusado chegou  sala apontado uma arma para sua cabea. Por sua vez, o acusado afirma que no apontou a arma de fogo ao ofendido, e que em nenhum momento teve inteno de lhe ceifar a vida, porque se esse fosse seu objetivo, conseguiria faz-lo desferindo um disparo contra ele da janela, sem que ele o tivesse visto. Relatou, ainda, se a verso do ofendido procedesse, tinha-lhe ceifado a vida quando estava na porta da sala, e no o fez.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia da Polcia Militar, por maioria de quatro votos a um, entendeu que existe uma fragilidade probatria que impede a procedncia da ao penal, pois no existem cmeras que tenham capturado como se deram os fatos e a ausncia de testemunha presencial no momento dos fatos fragilizou a acusao. Por sua vez, o acusado afirma que no apontou a arma de fogo ao ofendido, e que em nenhum momento teve inteno de lhe ceifar a vida. Assim, foi absolvido.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Os autos retornaram  comarca de origem, sendo que o autor apresentou rol de testemunhas, sendo ouvidas em juzo as testemunhas Aguimar dos Reis Umbelino e Daniel Oliveira Batista (Evento 1 - OUT57). As partes apresentaram os memoriais, acostados no Evento 1 - MEMORIAIS78 e MEMORIAIS79. O Estado de Minas Gerais requereu a declinao de competncia  Justia Militar (Evento 1 - PED DeClINA 84). O autor no se manifestou sobre o referido pedido (Evento 1 - OUT80, pgina 5). O meritssimo juiz de direito da 4a Vara Cvel da Comarca de Uberaba/MG reconheceu a sua incompetncia absoluta para julgar o feito e determinou a remessa dos autos  Justia Militar (Evento 1 - OUT80, pgina 9/10). Os autos aportaram nesta Justia castrense em 4 de agosto de 2021. Certificou-se a realizao de pesquisa nos sistemas SINGEP/PJE e EPROC e a no constatao de qualquer processo cvel relativo ao autor tramitando nesta Justia Militar (Evento 3 - CERT1). Em despacho constante no Evento 8 - DEC1, o meritssimo juiz da 5a AJME - Cvel firmou a competncia deste Juzo, para processamento e julgamento do feito. Foram mantidos os atos processuais e decisrios j praticados, includo o indeferimento da tutela de urgncia e o deferimento da gratuidade, com base no artigo 64, 4, do CPC. Foi determinada a intimao das partes, para que, no prazo 15 (quinze) dias teis, especificassem as provas que pretendessem produzir, justificando-as e declinando os fatos que com elas pretendiam provar, correlacionando-os com as alegaes da petio inicial (o requerente) e da contestao (o requerido), demonstrando, cada um, objetivamente, a necessidade e a adequao das provas porventura requeridas. O Estado de Minas Gerais informou no ter mais provas a serem produzidas e pediu o julgamento antecipado da lide, conforme art. 355, inciso I, do CPC (Evento 12 - MANI1). O autor requereu a oitiva de novas testemunhas (Evento 15). Aps a manifestao das partes, o meritssimo juiz de direito titular da 5a AJME-Cvel assim decidiu: Os autos aportaram na Justia Militar estadual, com distribuio a esta 5a AJME Cvel. A competncia deste juzo foi firmada pelo MM. Juiz Cooperador - evento 8/deciso 1. Apesar de haver mantido os atos processuais e decisrios praticados, na oportunidade determinou a intimao das partes para a especificao de provas. O Ru manifestou ser o caso de julgamento antecipado da lide - evento 12/manifestao 1. Contudo observou que o MM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito Titular da 5a AJME-Cvel reconheceu a competência deste Juzo para processamento e julgamento do feito, mantendo os atos processuais e decisórios praticados anteriormente. Foi determinada a intimação das partes para especificar as provas que pretendem produzir e o Estado de Minas Gerais solicitou o julgamento antecipado da lide.

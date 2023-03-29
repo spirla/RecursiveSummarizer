@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Feitas essas consideracoes preliminares, o posicionamento mais adequado a ser adotado na Terceira Secao e aquele que admite revisionais de decisoes monocraticas de relator; que prima por conferir maior garantia aos reus em processo penal, assegurando-lhes o exercicio de um direito que a lei nao restringe. 1141 Pontua-se que o entendimento contrario provoca efeitos altamente indesejaveis, a saber: 1 - confere maior solidez e imutabilidade a decisao unipessoal de relator, em indireto desprestigio as decisoes do colegiado; 2 - cria uma categoria de decisoes condenatorias nao suscetiveis de revisao criminal, em descompasso com garantias constitucionais; e 3 - obriga as partes ao automatico e indiscriminado manejo do agravo regimental, circunstancia que apenas colabora para a sobrecarga recursal desta Corte. Considera-se, portanto, que a decisao singular substitui o julgamento colegiado, sendo-lhe ontologicamente equiparada. Representa mera antecipacao de julgamento, que nao fere o principio da colegialidade ou do juiz natural. (Informativo n. 749) PROCESSO AgRg na RvCr 5.735-DF, Rel. Min. Ribeiro Dantas, Terceira Secao, por unanimidade, julgado em 11/05/2022, DJe 16/05/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Revisao criminal. Mero reexame de fatos e provas. Ausencia de contrariedade ao texto expresso da lei penal ou a evidencia dos autos. Utilizacao como nova apelacao. Nao cabimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) É adequado admitir a revisão de decisões monocráticas de relator para conferir maior garantia aos réus em processo penal. 2) O entendimento contrário provoca efeitos indesejáveis, como o desprestígio das decisões do colegiado, a criação de uma categoria de decisões condenatórias não suscetíveis de revisão criminal e a obrigação das partes ao manejo do agravo regimental. 3) A decisão singular substitui o julgamento colegiado, sendo-lhe ontologicamente equiparada, representando mera antecipação de julgamento, que não fere o princípio da colegialidade ou do juiz natural.

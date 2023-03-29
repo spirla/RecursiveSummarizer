@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+E como as regras limitadoras de direitos, sobretudo quando excepcionais, devem ser interpretadas restritivamente, poderia afirmar-se que a previso de interceptao do fluxo de comunicaes, tanto pela informtica como pela temtica,  inconstitucional. A segunda linha de interpretao admite a constitucionalidade parcial do pargrafo nico do artigo 1 da Lei 9.296/96. Para Gustavo Badar a telemtica por dizer respeito  comunicao de dados por sistemas de computadores tem pertinncia com a lei [Lei 9.296/96] em anlise. Ao sustentar a possibilidade de interceptao das comunicaes de dados, Gustavo Badar esclarece no propor uma intepretao ampliativa ou analogia prejudicial aos direitos individuais, mas considera o avano da internet depois de 1988, com a substituio da comunicao epistolar pela correspondncia eletrnica, o e-mail, a substituio da conversa telefnica por programas de computador, e a troca de dados por sistemas de computadores  uma realidade com enormes potenciais. Nesse contexto, o inciso XII deve ser interpretado em seu real escopo de tutela da liberdade de comunicao de pensamento, enquanto mecanismo de salvaguarda da intimidade. Acrescenta o renomado professor que uma interpretao literal, que feche os olhos para o avano da tcnica, possibilitar o desenvolvimento de uma criminalidade moderna, em especial para prtica de crimes mais sofisticados, que poder planejar seus delitos pela troca de correspondncia eletrnica ou mediante a transferncia de dados pelo sistema de telemtica. Em resumo, prope Gustavo Badar que o juiz realize uma intepretao conforme a Constituio, considerando constitucional o artigo 1, pargrafo nico, da Lei 9.296/96, na parte em que permite a interceptao de comunicao de dados por sistema telemtico, desde que se trate de dados que no permaneam armazenados em banco de dados, sendo impossvel a sua apreenso. O e-mail  uma forma de comunicao por correspondncia que, em vez de ser enviada materialmente pelos servios postais,  transmitida eletronicamente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.296/96 permite a interceptação de comunicações de dados por sistema telemático, desde que não sejam armazenados em bancos de dados. O e-mail é uma forma de comunicação por correspondência eletrônica, que substituiu a comunicação epistolar. A interpretação da lei deve ser conforme a Constituição, para garantir a liberdade de comunicação e a intimidade.

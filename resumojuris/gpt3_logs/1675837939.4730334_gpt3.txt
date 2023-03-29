@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Legalidade. Teto remuneratorio. Art. 37, XI, da CF/88. Nao aplicacao. DESTAQUE A remuneracao do interventor de Cartorio de Registro de Imoveis, com base no art. 36,  2 e 3, da Lei n. 8.935/1994, nao se submete ao teto previsto no art. 37, XI, da CF/88 de 88. O Tribunal de origem firmou compreensao no sentido de que a remuneracao do interventor da serventia extrajudicial deve obedecer ao teto previsto no art. 37, XI, da CF/88. Nada obstante esse respeitavel raciocinio, certo e que a legislacao de regencia, ainda em vigor, sinaliza em sentido oposto. Os paragrafos 2 e 3 do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A remuneração do interventor de Cartório de Registro de Imóveis não se submete ao teto previsto no art. 37, XI, da CF/88. 2. O Tribunal de origem firmou compreensão no sentido de que a remuneração do interventor da serventia extrajudicial deve obedecer ao teto previsto no art. 37, XI, da CF/88. 3. A legislação de regência sinaliza em sentido oposto ao teto previsto no art. 37, XI, da CF/88.

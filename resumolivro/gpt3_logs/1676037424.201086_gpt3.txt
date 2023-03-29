@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A adequao tpica pode ocorrer de duas formas: a) por subordinao direta ou imediata; e b) por subordinao mediata. 2.5.1. Direta ou imediata. A forma mais simples de adequao tpica  a que acontece quando o sujeito satisfaz diretamente todas as exigncias da descrio tpica. O comportamento concreto que se analisa  descrito perfeitamente pela previso abstrata do tipo incriminador. A coincidncia entre a previso e o comportamento concretamente realizado evidencia-se imediatamente pela simples observao.  o que acontece, por exemplo, quando o sujeito mata algum e a exata descrio de sua conduta encontra-se no tipo do artigo 205 do Cdigo Penal Militar. 2.5.2. Mediata ou por extenso. A adequao tpica, no entanto, no acontece sempre de forma simples e imediata. Em muitos casos, a conduta que se analisa satisfaz apenas parte da previso abstrata do tipo. O sujeito realiza apenas uma parcela da conduta descrita no tipo. Em outros tantos casos, a conduta analisada no guarda qualquer coincidncia com a previso abstrata do tipo, mas poder ser considerada pressuposto ftico da responsabilidade penal por dar suporte  conduta proibida. O ordenamento jurdico dispe de normas complementares que estendem a possibilidade de adequao tpica a casos de realizao parcial da conduta descrita no tipo penal e de realizao de condutas de suporte quelas descritas no modelo comportamental proibido.  o que se denomina adequao tpica mediata ou por extenso. A adequao tpica mediata ou por extenso verifica-se quando uma norma determina a extenso da proibio para alcanar condutas que no encontram descrio perfeita no tipo penal incriminador. No ordenamento jurdico nacional, isso acontece nos casos de tentativa e de concurso de pessoas. Na tentativa, por circunstncias alheias  vontade do sujeito, a realizao da conduta proibida  interrompida, no sendo satisfeitas todas as exigncias tpicas. No homicdio, por exemplo, apesar do esforo do sujeito, a vtima no morre. No caso, no ocorre a perfeita coincidncia entre o fato concreto e a previso abstrata do artigo 205 do CPM.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A adequação típica pode ocorrer de duas formas: direta ou imediata, quando a conduta realizada satisfaz todas as exigências da descrição típica; e mediata ou por extensão, quando a conduta realizada satisfaz apenas parte da previsão abstrata do tipo ou dá suporte à conduta proibida. No ordenamento jurdico nacional, isso acontece nos casos de tentativa e de concurso de pessoas.

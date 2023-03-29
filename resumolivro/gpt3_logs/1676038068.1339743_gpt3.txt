@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Supremo Tribunal admite a aplicao do Princpio da Insignificncia na instncia castrense, desde que, reunidos os pressupostos comuns a todos os delitos, no sejam comprometidas a hierarquia e a disciplina exigidas dos integrantes das foras pblicas e exista uma soluo administrativo-disciplinar adequada para o ilcito. Precedentes.. A jurisprudncia do Supremo Tribunal Federal sobre a possibilidade de aplicao do princpio da insignificncia  fortemente influenciada pela perspectiva de Claus Roxin. A Corte Suprema trabalha a conexo da significncia com os postulados da fragmentariedade e da interveno mnima do Estado em matria penal, sendo que os critrios de relevncia que identificam o contedo material da conduta tpica esto essencialmente relacionados  magnitude da leso produzida ao bem jurdico. Neste sentido, consolidou-se o entendimento de que o Direito Penal no se deve ocupar de condutas cujo desvalor do resultado produzido no importe em leso significativa a bens jurdicos relevantes e, desta forma, no represente prejuzo importante ao titular do bem jurdico ou  integridade da ordem social. Nestes termos, a Corte vem decidindo reiteradamente que, para a aplicao do princpio da insignificncia,  necessrio observar a satisfao cumulativa dos seguintes requisitos (vetores): 1) a mnima ofensividade da conduta do sujeito; 2) nenhuma periculosidade social da conduta; 3) o reduzidssimo grau de reprovabilidade do comportamento e 4) a inexpressividade da leso jurdica provocada. O entendimento consolidado pode ser observado a partir do julgamento do Habeas Corpus 84412, e de muitos outros que sobrevieram. Como exemplos de julgamentos em que a Suprema Corte acolheu tais vetores para a aplicao do princpio da insignificncia  possvel mencionar, apenas entre as decises publicadas em 2014, o Habeas Corpus 119672/SP; o Habeas Corpus 118067/RS e Habeas Corpus 114097/PA. Especificamente para a aplicao nos crimes militares, a Suprema Corte acresce mais dois requisitos (Habeas Corpus 107638 / PE): 5) no sejam comprometidas a hierarquia e a disciplina exigidas dos integrantes das foras pblicas; e 6) exista uma soluo administrativo-disciplinar adequada para o ilcito. O tema da aplicao do princpio da insignificncia, contudo, no foi considerado como de repercusso geral no Supremo Tribunal Federal, por ser considerado como matria infraconstitucional. A questo da repercusso geral foi enfrentada no julgamento do Agravo de Instrumento 747522.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF admite a aplicação do princípio da insignificância na instância castrense, desde que os pressupostos comuns a todos os delitos sejam reunidos, não comprometendo a hierarquia e disciplina exigidas dos integrantes das forças públicas e exista uma solução administrativo-disciplinar adequada para o ilícito. A jurisprudência da Corte é baseada nos postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, sendo que os critérios de relevância relacionam-se à magnitude da lesão produzida ao bem jurídico.

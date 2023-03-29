@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Veja-se: Em que pese a alegao do recorrente de que houve desrespeito ao que preconiza os arts. 5,  1 e 9 da Lei n. 11.419/06, novamente entendo que razo no lhe assiste, uma vez que a defesa, aps intimada, esteve presente na sesso de leitura da sentena, conforme ata contida no evento n. 102, dos autos correlatos. Nesse sentido, veja-se deciso do egrgio Superior Tribunal de Justia: PROCESSO PENAL. HABEAS CORPUS. FALSIDADE IDEOLGICA. (1) IMPETRAO SUBSTITUTIVA DE RECURSO ORDINRIO. IMPROPRIEDADE DA VIA ELEITA. (2) AUSNCIA DE INTIMAO PESSOAL DA SENTENA CONDENATRIA. NO OCORRNCIA. CONSTRANGIMENTO ILEGAL. AUSNCIA. (3) WRIT NO CONHECIDO. 2. No h falar em violao do dever de intimao pessoal da sentena condenatria, quando, presentes o ru e seu advogado em audincia de instruo, debates e julgamento, de onde saram devidamente intimados do decisum. 3. Habeas corpus no conhecido. (HC 319.071/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/04/2015, DJe 23/04/2015) - grifo nosso. Alm disso, o favorecimento judicial no se justifica na presente hiptese, por se tratar de violao a prazo peremptrio e por possibilitar a abertura de perigoso precedente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A deciso judicial entendeu que o recorrente não tem razão em alegar violação aos arts. 5, 1 e 9 da Lei n. 11.419/06, pois a defesa foi intimada da sentença conforme ata contida no evento n. 102 dos autos correlatos. O Superior Tribunal de Justia também entendeu que não houve violação do dever de intimar pessoalmente a sentença condenatória, pois o réu e seu advogado estavam presentes na audiência de instrução e debates. O habeas corpus não foi conhecido, pois não houve constrangimento ilegal e o favorecimento judicial não se justifica na hipótese, pois se trata de violação a prazo peremptório.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, os recursos publicos de aplicacao compulsoria em educacao sao impenhoraveis e esta Corte afasta a possibilidade de o Poder Judiciario modificar, mediante a imposicao de atos constritivos, a des-tinacao de verbas previamente definida pelas autoridades governamentais competentes, por configurar indevi-da interferencia nas atribuicoes reservadas aos demais Poderes. Com base nesses entendimentos, o Plenario, por unanimidade, julgou procedente a ADPF para deter-minar a suspensao das decisoes judiciais proferidas pela Justica do Trabalho do Estado de Santa Catarina que determinaram o bloqueio, penhora ou sequestro sobre verbas repassadas pelo FNDE, referentes ao PDDE, as APPs naquele estado para satisfazer credito trabalhista e determinar a imediata devolucao das verbas bloquea-das para o atendimento dos fins a que se destinam os valores. ADPF 988/SC, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 17.10.2022 (segun-da-feira), as 23:59 (INF 1072) 12.2 EXECUCAO CONTRA A FAZENDA PUBLICA RPV: valor previsto no ADCT e fixacao de quantia referencial inferior por ente federado - RE 1359139/CE ODS: 16 Tese fixada: (I) As unidades federadas podem fixar os limites das respectivas requisicoes de pequeno valor em patamares inferiores aos previstos no artigo 87 do ADCT, desde que o facam em consonancia com sua capacidade economica. (II) A afericao da capacidade economica, para este fim, deve refletir nao somente a receita, mas igualmente os graus de endividamento e de litigiosidade do ente federado. (III) A ausencia de demonstracao concreta da desproporcionalidade na fixacao do teto das requisicoes de pequeno valor impoe a deferencia do Poder Judiciario ao juizo politico-administrativo externado pela legislacao local. Resumo: Ao editar norma propria, o ente federado, desde que em consonancia com sua capacidade eco-nomica e com o principio da proporcionalidade, pode estabelecer quantia inferior a prevista no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I. Os recursos públicos de aplicação compulsória em educação são impenhoráveis. II. O Poder Judiciário não pode modificar a destinação de verbas previamente definida pelas autoridades governamentais competentes. III. É vedada ao Poder Judiciário a imposição de atos constritivos para modificar a destinação de verbas previamente definidas. IV. As unidades federadas podem fixar os limites das respectivas requisições de pequeno valor em patamares inferiores aos previstos no artigo 87 do ADCT, desde que o façam em consonância com sua capacidade econômica. V. A aferição da capacidade econômica para este fim deve refletir não somente a receita, mas igualmente os graus de endividamento e de litigiosidade do ente federado. VI. A ausência de demonstracão concreta da desproporcionalidade na fixação do teto das requisições de pequeno valor impõe a deferencia do Poder Judiciário ao juízo político-administrativo externado pela legislação local.

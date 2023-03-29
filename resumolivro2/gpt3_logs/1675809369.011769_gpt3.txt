@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Qual a consequncia da prova, que ingressou no processo, e depois foi considerada ilcita? Antes da alterao feita pela Lei 11.690/2008 havia a dicotomia prova ilegtima e ilcita. A sano decorrente da prova ilegtima era a sua nulidade. 14.1.10. Princpios infraconstitucionais relativos  prova. 14.1.10.1. Princpio da no autoincriminao. Na Constituio Federal o princpio da no autoincriminao ou da vedao da produo da prova contra si prprio (nemo tenetur se detegere ou nemo tenetur se ipsum accusare) no  explcito. A doutrina especializada o reconhece no direito ao silncio previsto no artigo 5, LXIII, da CF, que garante a pessoa presa, logo, garante tambm ao solto, de ser informado de seus direitos, entre os quais o de permanecer calado, de modo que busca-se afirmar que o princpio da no auto-incriminao tem natureza constitucional e se encontra implicitamente na previso do direito ao silncio. Alm disso, goza o acusado da garantia judicial do artigo 8, 2, g, da CADH, consagrada no direito de no ser obrigado a depor contra si mesmo, nem declarar-se culpado. No processo penal militar o princpio da no autoincriminao  explicito na primeira parte do artigo 296, pargrafo 2, do CPPM:
+Ningum est obrigado a produzir prova que o incrimine. Antes de ser interrogado o ru deve ser advertido de no estar obrigado a produzir prova contra si, que no  obrigado a responder s perguntas e que seu silncio no  interpretado em prejuzo de sua defesa. O ru no sendo obrigado a produzir prova contra si no pode ser submetido coercitivamente a reconhecimento pessoal, a exame de corpo de delito, a fornecer material para exames de laboratrio (coleta de sangue, de material para exame de DNA, grafotcnico, de confronto de voz).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 11.690/2008 alterou a dicotomia entre prova ilegítima e ilícita, sendo que a sanção decorrente da prova ilegítima é a sua nulidade. O princípio da não autoincriminação é reconhecido na Constituição Federal, na previsão do direito ao silêncio, e também na Convenção Americana de Direitos Humanos. No processo penal militar, o princípio da não autoincriminação é explicitado no artigo 296, párrafo 2, do CPPM, e o réu não pode ser obrigado a produzir prova contra si, nem a se submeter a reconhecimento pessoal, exame de corpo de delito ou fornecer material para exames de laboratório.

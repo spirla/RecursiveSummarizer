@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Recebida a petio do recurso pela secretaria do tribunal, 0 recorrido ser intimado para apresentar contrarrazes no prazo de 15 (quinze) dias, findo o qual os autos sero conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que dever: (Redao dada pela Lei n. 13.256, de 2016) (Vigncia) 1 - negar seguimento: (Includo pela Lei n. 13.256, de 2016) (Vigncia) a) a recurso extraordinrio que discuta questo constitucional  qual o Supremo Tribunal Federal no tenha reconhecido a existncia de repercusso geral ou a recurso extraordinrio interposto contra acrdo que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercusso geral; (Includa pela Lei n. 13.256, de 2016) (Vigncia) [..] - realizar o juzo de admissibilidade e, se positivo, remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justia, desde que: (Includo pela Lei n. 13.256, de 2016) a) o recurso ainda no tenha sido submetido ao regime de repercusso geral ou de julgamento de recursos repetitivos; (Includa pela Lei n. 13.256, de 2016) (Vigncia) b) o recurso tenha sido selecionado como representativo da controvrsia; ou (Includa pela Lei n. 13.256, de 2016) (Vigncia) c) o tribunal recorrido tenha refutado o juzo de retratao. (Includa pela Lei n. 13.256, de 2016) (Vigncia)  1 Da deciso de inadmissibilidade proferida com fundamento no inciso V caber agravo ao tribunal superior, nos termos do art. 1.042. (Includo pela Lei n. 13.256, de 2016) (Vigncia)  1 Da deciso de inadmissibilidade proferida com fundamento no inciso V caber agravo ao tribunal superior, nos termos do art. 1.042. (Includo pela Lei n. 13.256, de 2016) (Vigncia)  2 Da deciso proferida com fundamento nos incisos I e III caber agravo interno, nos termos do art. 1.021. (Includo pela Lei n. 13.256, de 2016) (Vigncia) (Destaca-se) Art. 1.042. Cabe agravo contra deciso do presidente ou do vice- presidente do tribunal recorrido que inadmitir recurso extraordinrio ou recurso especial, salvo quando fundada na aplicao de entendimento firmado em regime de repercusso geral ou em julgamento de recursos repetitivos. (Redao dada pela Lei n. 13.256, de 2016) (Destaca-se) A deciso de admissibilidade do recurso extraordinrio possui natureza mista, pois, para negar seguimento ao recurso, aplica-se tanto precedente formado sob o rito da repercusso geral quanto bice de outra natureza. No caso em comento, a deciso em recurso extraordinrio proferida no Evento 63 negou seguimento ao recurso, com fundamento no inciso I do artigo 1.030 do CPC, em relao s matrias alcanadas pelos Temas n. 339 (AI n. 791.292/PE), 660 (ARE n. 748.371RG/MT) e 990 (ARE n. 1055941/SP), e inadmitiu o recurso, no que tange ao remanescente, com fulcro no inciso V do artigo 1.030 do mesmo Cdigo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal Recorrido dever negar seguimento ao recurso extraordinrio que discuta questo constitucional não reconhecida como de repercussão geral pelo STF, e realizar o juízo de admissibilidade e, se positivo, remetê-lo ao STF ou ao STJ. O agravo à decisão de inadmissibilidade proferida com fundamento nos incisos I e III caberá ao tribunal superior, enquanto que a decisão de inadmissibilidade proferida com fundamento no inciso V caberá ao tribunal superior.

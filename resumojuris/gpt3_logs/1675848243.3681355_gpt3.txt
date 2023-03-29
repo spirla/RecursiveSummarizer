@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Em Scheneckloth v. Bustamonte, 412 U.S. 218 (1973), a Suprema Corte dos Estados Unidos estabeleceu algumas orientacoes sobre o significado do termo consentimento . Decidiu-se que as buscas mediante consentimento do morador (ou, como no caso, do ocupante do automovel onde se realizou a busca) sao permitidas, mas o Estado carrega o onus de provar 'que o consentimento foi, de fato, livre e voluntariamente dado' . O consentimento nao e livre quando de alguma forma se percebe uma coacao da sua vontade. A Corte indicou que o teste da totality of circumstances deve ser aplicado mentalmente, considerando fatores subjetivos, relativos ao proprio suspeito (i.e., se ele e particularmente vulneravel devido a falta de estudos, baixa inteligencia, perturbacao mental ou intoxicacao por drogas ou alcool) e fatores objetivos que sugerem coacao (se estava detido, se os policiais estavam com suas armas a vista, ou se lhe disseram ter o direito de realizar a busca, ou exercitaram outras formas de sutil coercao), entre outras hipoteses que poderiam interferir no livre assentimento do suspeito. Em geral, quando um promotor se apoia no consentimento para justificar a legalidade de uma busca, ele tem o onus de provar que o consentimento foi, de fato, dado livre e voluntariamente . Sao as seguintes as diretrizes construidas pela Suprema Corte para aferir a validade do ingresso domiciliar por agentes policiais: 1. Numero de policiais; 2. Suspeito cercado de policiais; 3. Atitude dos policiais; 4. Exigencia da busca; 5. Ameacas ao suspeito; 6. Hora da diligencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Estado tem o dever de provar que o consentimento para realizar uma busca foi livre e voluntariamente dado. 2. O teste da totality of circumstances deve ser aplicado para avaliar se houve coação na obtenção do consentimento. 3. Os fatores subjetivos e objetivos relacionados ao suspeito e às circunstâncias da busca devem ser considerados para aferir a validade do consentimento. 4. Quando o promotor se apoia no consentimento para justificar a legalidade de uma busca, ele tem o dever de provar que o consentimento foi dado livre e voluntariamente. 5. Os seguintes fatores devem ser considerados para aferir a validade do ingresso domiciliar por agentes policiais: número de policiais, suspeito cercado de policiais, atitude dos policiais, exigência da busca, ameaças ao suspeito e hora da diligência.

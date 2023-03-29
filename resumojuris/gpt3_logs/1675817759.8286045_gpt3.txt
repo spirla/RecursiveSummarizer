@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6970/DF, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 15.8.2022 (segunda-feira), as 23:59 (INF 1065) Covid-19: multa por descumprimento de clausula de fidelidade contratual nos servicos de telecomunicacoes - ADI 7211/RJ ODS: 3 Resumo: E inconstitucional, por ofensa a competencia privativa da Uniao para legislar sobre telecomuni-cacoes, lei estadual que veda a aplicacao de multa por quebra de fidelidade nos servicos de TV por assi-natura, telefonia, internet e servicos assemelhados, enquanto perdurar a pandemia da Covid-19. As competencias para legislar sobre servicos de telecomunicacoes e para definir a forma e o modo da exploracao desses servicos cabem privativamente a Uniao. A clausula de fidelidade contratual e uma contrapartida decorrente de beneficios oferecidos aos con-sumidores. A multa por seu descumprimento representa variavel bastante significativa para a manutencao do equilibrio economico-financeiro na prestacao do servico, motivo pelo qual a sua exclusao pura e simples re-percute no campo regulatorio das atividades de carater publico. Nesse contexto, esta Corte ja declarou, em diversas ocasioes, a inconstitucionalidade de legislacoes locais cujo conteudo  assim como o observado na lei estadual impugnada  repercutia no nucleo regulatorio das telecomunicacoes, por ensejar afronta a reparticao de competencias prevista constitucionalmente. Com base nesse entendimento, o Plenario, por maioria, julgou procedente a acao para declarar a in-constitucionalidade da Lei 8.888/2020 do Estado do Rio de Janeiro.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional, por ofensa à competência privativa da União para legislar sobre telecomunicações, lei estadual que veda a aplicação de multa por quebra de fidelidade nos serviços de TV por assinatura, telefonia, internet e serviços assemelhados, enquanto perdurar a pandemia da Covid-19. 2. As competências para legislar sobre serviços de telecomunicações e para definir a forma e o modo da exploração desses serviços cabem privativamente à União. 3. A cláusula de fidelidade contratual é uma contrapartida decorrente de benefícios oferecidos aos consumidores. 4. A multa por descumprimento da cláusula de fidelidade representa variável bastante significativa para a manutenção do equilíbrio econômico-financeiro na prestação do serviço. 5. A Corte já declarou, em diversas ocasiões, a inconstitucionalidade de legislações locais cujo conteúdo repercutia no núcleo regulatório das telecomunicações, por ensejar afronta à repartição de competências prevista constitucionalmente. 6. O Plenário julgou procedente a ação para declarar a inconstitucionalidade da Lei 8.888/2020 do Estado do Rio de Janeiro.

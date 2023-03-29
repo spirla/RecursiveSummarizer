@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Contudo, tal compreensao, embora esteja presente em alguns julgados recentes desta Corte Superior, nao encontra amparo em nenhum dos precedentes geradores da Sumula 545/STJ. Estes precedentes instituiram para o reu a garantia de que a atenuante incide mesmo nos casos de confissao qualificada, parcial, extrajudicial, retratada, etc. Nenhum deles, porem, ordenou a exclusao da atenuante quando a confissao nao for empregada na motivacao da sentenca, ate porque esse tema nao foi apreciado quando da formacao do enunciado sumular. Nesse sentido, o art. 65, III, d , do CP nao exige, para sua incidencia, que a confissao do reu tenha sido empregada na sentenca como uma das razoes da condenacao. Com efeito, o direito subjetivo a atenuacao da pena surge quando o reu confessa (momento constitutivo), e nao quando o juiz cita sua confissao na fundamentacao da sentenca condenatoria (momento meramente declaratorio). 1205 Ademais, viola o principio da legalidade condicionar a atenuacao da pena a citacao expressa da confissao na sentenca como razao decisoria, mormente porque o direito subjetivo e preexistente do reu nao pode ficar disponivel ao arbitrio do julgador. Afinal, se a lei condicionasse a atenuacao da pena a mencao da confissao na sentenca condenatoria, haveria um pressuposto adicional que mudaria o momento constitutivo do direito subjetivo do reu. Da mesma forma, caso o art. 65, III, d , do CP impusesse a confissao pressupostos adicionais, nao previstos para as demais atenuantes, ou exigisse que a confissao produzisse certos efeitos praticos sobre a investigacao criminal, nao haveria que se falar em legitima expectativa a reducao da pena por parte do acusado que nao cumprisse todos os requisitos legais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há amparo em nenhum dos precedentes geradores da Sumula 545/STJ para a compreensão de que a atenuante incide mesmo nos casos de confissão qualificada, parcial, extrajudicial, retratada, etc. 2. O art. 65, III, d, do CP não exige, para sua incidência, que a confissão do réu tenha sido empregada na sentença como uma das razões da condenação. 3. O direito subjetivo à atenuação da pena surge quando o réu confessa (momento constitutivo), e não quando o juiz cita sua confissão na fundamentação da sentença condenatória (momento meramente declaratório). 4. Viola o princípio da legalidade condicionar a atenuação da pena à citação expressa da confissão na sentença como razão decisória. 5. O direito subjetivo e preexistente do réu não pode ficar disponível ao arbitrio do julgador. 6. Caso o art. 65, III, d, do CP impusesse à confissão pressupostos adicionais, não previstos para as demais atenuantes, ou exigisse que a confissão produzisse certos efeitos práticos sobre a investigação criminal, não haveria que se falar em legítima expectativa a redução da pena por parte do acusado que não cumprisse todos os requisitos legais.

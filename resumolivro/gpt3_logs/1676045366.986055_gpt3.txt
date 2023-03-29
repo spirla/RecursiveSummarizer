@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O estudo sobre a ilicitude do fato no adquire maior dificuldade quando se trata de causas legais de justificao, posto que  a prpria lei que faz a distino entre os atos lcitos e os ilcitos, ao estabelecer os parmetros para a anlise. Contudo, em muitos casos concretos,  necessrio decidir sobre a legitimidade de condutas com base em critrios no expressamente previstos pelo legislador. Nesses casos, a valorao sobre a conduta tpica dever orientar-se pelo sentido finalstico do ordenamento jurdico. Visando a explicar a valorao positiva que certos comportamentos devem merecer, apesar da inexistncia de justificantes expressas, a doutrina socorreu-se das mesmas teorias que pretendem fundamentar a excluso da ilicitude nas situaes expressas. Entre elas destacam-se as teorias do fim reconhecido pelo Estado; da esfera de liberdade deixada ao indivduo pelo Estado; da valorao dos bens; e da justificao decorrente das normas de cultura, e outras. Em todo caso, deve-se extrair do exame da ilicitude o seu contedo material para justificar as condutas lesivas que no ofendam a essncia protetiva da ordem jurdica. 7.9.5.1. Consentimento do ofendido. A causa excludente da ilicitude supralegal que colhe aceitao mais tranquila na doutrina  o consentimento do ofendido quanto  leso de seus prprios bens jurdicos. A justificante  admitida tanto em relao aos fatos dolosos como aos culposos. No que diz respeito aos fatos culposos, como no se pretende produzir qualquer resultado lesivo, o consentimento d-se em relao ao comportamento perigoso que d causa ao resultado. Vale observar, contudo, que o consentimento do ofendido tanto pode ser excludente da tipicidade como da ilicitude do fato. Para os tipos penais conformados, essencialmente, a partir da contrariedade que a conduta apresenta em relao  vontade da vtima, o consentimento funciona como excludente da tipicidade. Em alguns casos, o tipo demonstra claramente que a violao da norma jurdica pressupe a vontade contrria da vtima. Veja-se o caso da violao de domiclio (artigo 150 do CP), em que o tipo descreve a conduta de entrar ou permanecer, clandestina ou astuciosamente, ou contra a vontade expressa ou tcita de quem de direito, em casa alheia ou em suas dependncias. Se a vtima permite a entrada na casa, no h que se falar em violao da norma proibitiva. Em outros casos, a descrio tpica no  to clara, mas se pode perfeitamente apurar que a essncia da incriminao  a conduta contrria  vontade da vtima.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O estudo sobre a ilicitude do fato se torna mais difícil quando se trata de causas legais de justificação, pois é a própria lei que faz a distinção entre os atos lícitos e ilícitos. Contudo, em muitos casos, é necessário decidir sobre a legitimidade de condutas com base em critérios não previstos pelo legislador. Nestes casos, o consentimento do ofendido pode ser excludente da tipicidade ou da ilicitude do fato.

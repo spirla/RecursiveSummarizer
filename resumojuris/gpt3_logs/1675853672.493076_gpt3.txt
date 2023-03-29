@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Humberto Martins, Segunda Turma, por unanimidade, julgado em 28/11/2022, DJe 30/11/2022. Ramo do Direito DIREITO PROCESSUAL CIVIL Tema Recurso especial e agravo em recurso especial. Tempestividade recursal. Afericao. Prazos em curso no Tribunal de origem. DESTAQUE A tempestividade do recurso especial e do respectivo agravo em recurso especial deve ser aferida de acordo com os prazos em curso na Corte de origem. A tempestividade do recurso especial e do agravo respectivo deve ser aferida de acordo com os prazos em curso na Corte de origem, e nao no STJ. Esta e a jurisprudencia do Superior Tribunal de Justica, no sentido de que O prazo dos recursos interpostos perante a Corte de origem ainda que estejam enderecados a este Tribunal - obedece ao calendario de funcionamento do Tribunal de origem, sendo irrelevante, para a verificacao da tempestividade do recurso, a existencia de recesso forense, no STJ (AgInt no AREsp 1.149.576/SP, rel. Ministra Assusete Magalhaes, Segunda Turma, julgado em 3/4/2018, DJe 10/4/2018). (Informativo  Ed. Especial n. 8) CPC/2015, arts. 219, caput, 994, VI, 1.003,  5 e  6, e 1.029.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A tempestividade do recurso especial e do respectivo agravo em recurso especial deve ser aferida de acordo com os prazos em curso na Corte de origem. 2. O prazo dos recursos interpostos perante a Corte de origem ainda que estejam enderecados ao STJ obedece ao calendário de funcionamento do Tribunal de origem, sendo irrelevante, para a verificação da tempestividade do recurso, a existência de recesso forense, no STJ.

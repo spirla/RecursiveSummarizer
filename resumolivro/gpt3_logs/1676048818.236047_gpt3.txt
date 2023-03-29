@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Matria de especial polmica  a compatibilidade da embriaguez com o reconhecimento da futilidade do motivo. A embriaguez, ordinariamente, retira a possibilidade de realizar um juzo de proporcionalidade entre o motivo originrio e o crime praticado. Contudo, tal regra no pode ter-se por absoluta nos casos de embriaguez incompleta.  perfeitamente possvel que, em face da pouca interferncia do lcool na conscincia do indivduo, este possa perceber a desproporo entre o motivo e o crime, viabilizando maior juzo de reprovao pessoal. O motivo torpe, por sua vez,  aquele que, por sua manifesta repugnncia, ofende os princpios da moralidade social. A torpeza  uma qualidade que ofende a nobreza do esprito humano, e, ao contrrio da considerao da futilidade, a avaliao da torpeza deve levar em conta os padres valorativos predominantes na sociedade. Nas palavras de Hungria,14 torpe  o motivo que mais vivamente ofende a moralidade mdia ou o sentimento tico-social comum. O exemplo clssico dessa motivao encontra-se no homicdio mercenrio, ou seja, aquele cometido mediante paga ou promessa de recompensa. Vale ressaltar que a torpeza bilateral, verificada quando o homicida e sua vtima agem impulsionados por motivao torpe, no exclui a agravao da pena. Considerando que a motivao constitui circunstncia de carter pessoal, Manzini entende ser incomunicvel a agravante aos partcipes da empreitada criminosa. Em sentido contrrio, Roberto Lyra sustenta a possibilidade de a motivao ser compartilhada pelas pessoas que concorrem para o crime. Com certeza, a agravao da pena poder ser aplicada a mais de um dos concorrentes da empreitada, na medida em que estes orientem suas condutas pelos mesmos motivos. Quando a motivao ftil ou torpe constituir elementares de tipo qualificado (como no homicdio - artigo 121, pargrafo 2, I e II, do CP), a comunicabilidade das circunstncias de carter pessoal  exigncia expressa do artigo 30 do CP. Neste caso, o motivo deve ser do conhecimento daquele concorrente que compartilha a conduta de quem age por motivo ftil ou torpe. A quantidade do aumento de pena que decorre da agravante no est vinculada  periculosidade do autor, antes devendo ser mensurada pela maior ou menor exigibilidade de conduta diversa. Assim, quanto maior a desproporcionalidade do motivo em relao  conduta criminosa ou maior a ofensa  moralidade social, maior dever ser a culpabilidade e maior o aumento de pena. 14.3.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A embriaguez, em geral, impede o reconhecimento da desproporcionalidade entre o motivo originário e o crime praticado. Contudo, em casos de embriaguez incompleta, o indivíduo pode perceber tal desproporcionalidade, bem como a torpeza do motivo, que ofende os princípios da moralidade social. Quando a motivação é ftil ou torpe e constitui elementos de tipo qualificado, a agravante pode ser aplicada a mais de um concorrente da empreitada criminosa. A quantidade do aumento de pena depende da maior ou menor exigibilidade de conduta diversa.

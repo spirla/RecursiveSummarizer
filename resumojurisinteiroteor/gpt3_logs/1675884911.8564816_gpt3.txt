@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ministro Benedito Gonalves, Primeira Seo, julgado em 10/5/2017, DJe 19/5/2017 e MS n. 20.922/DF, Rel. Ministro Benedito Gonalves, Primeira Seo, julgado em 8/2/2017, DJe 14/2/2017. [...] (STJ - AgInt no RMS 52.008/PR, Rel. Ministro FRANCISCO FALCO, SEGUNDA TURMA, julgado em 03/12/2019, DJe 09/12/2019) G.N. Partindo dessa premissa e aps detida anlise dos documentos que instruem o presente feito, entendo que o ato administrativo-disciplinar que determinou a demisso do apelante foi precedido de regular Processo Administrativo-Disciplinar, regido em observncia aos princpios constitucionais do contraditrio e ampla defesa, no cabendo a este juzo o reexame do mrito administrativo levado a efeito por aquela autoridade. Observa-se que a deciso punitiva restou respaldada em robusto caderno probatrio, no tendo o apelante logrado xito em comprovar a ocorrncia de qualquer ilegalidade no Processo Administrativo-Disciplinar. Extrai-se da soluo apresentada pelo comandante regional - que concordou com os pareceres apresentados pela Comisso de Processo Administrativo-Disciplinar (CPAD) e pelo Conselho de tica e Disciplina dos Militares da Unidade (CEDMU), julgou procedente a acusao e props ao Comandante Geral da pMmG a aplicao da sano de demisso - os seguintes fundamentos: [.] 1.14 na defesa final, s fls. 467/468-V, o defensor alegou, em sntese, que: RAZES E CONTRARRAZES 1.14. 1 Que a percia de sanidade mental acostada as 458/464 foi inconclusiva, pois, os peritos no foram seguros ao afirmarem que a periciada tinha idade inferior a 14 anos, sendo necessrio um teste psicomtrico. 1.14.1.1 A alegao no assiste a defesa pois h no processo todo um conjunto probatrio, atravs de laudos neurolgicos, mdicos, psicolgicos, social e, por fim, o exame de sanidade mental, aliado a depoimentos que demonstram que a vtima no possua capacidade de entendimento, autogoverno e mental para o discernimento do ato sexual. O Relatrio Mdico, fls. 421 destaca que a vtima tem dficit de ateno e idade mental de 08 (oito) anos, sendo clara a condio de vulnerabilidade da vtima. Alm disso o laudo de sanidade deve ser avaliado como um todo, pois  o conjunto de avaliaes que demonstram que a avaliada porta uma inteligncia e uma capacidade cognitiva s de uma criana (no caso de vtima de 12 anos de idade). Diante do exposto, resta cabalmente comprovada a condio de inimputabilidade da vtima, no havendo, portanto, necessidade de realizao do teste pleiteado pela defesa, sendo tal pedido meramente procrastinatrio. 1.14.2.1 Compulsando o conjunto probatrio, verifica-se que a situao  inversa a alegada pela defesa, visto que ao longo de todo o processo ficou demonstrado que a vtima no tinha nenhuma ideia ou entendimento do que  um ato sexual.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O ato administrativo-disciplinar que determinou a demissão do apelante foi precedido de regular Processo Administrativo-Disciplinar, regido em observância aos princípios constitucionais do contraditório e ampla defesa. A decisão punitiva restou respaldada em robusto caderno probatório, não tendo o apelante logrado êxito em comprovar a ocorrência de qualquer ilegalidade. O conjunto probatório comprovou a condição de inimputabilidade da vítima, não havendo necessidade de realização de testes pleiteados pela defesa.

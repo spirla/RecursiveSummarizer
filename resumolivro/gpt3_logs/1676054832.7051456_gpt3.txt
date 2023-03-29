@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O referido dispositivo legal criminaliza a conduta de realizar interceptao de comunicaes telefnicas, de informtica ou telemtica, ou quebrar segredo da Justia, sem autorizao judicial ou com objetivos no autorizados em lei. Assim, no caso de interceptao de mensagem eletrnica, o conhecimento de seu contedo constitui mero exaurimento da interceptao anteriormente realizada e no permite incriminao autnoma. Se a mensagem eletrnica foi impressa e encontra-se guardada em poder do remetente ou do destinatrio  possvel caracterizar o devassamento indevido previsto no artigo 40 da Lei 6.538/78 na conduta que se refere ao impresso. Indevidamente. O elemento normativo indevidamente no  indicativo da necessidade de constatar a existncia de um dever (legal ou contratual) de abrir a correspondncia para conhecer o seu contedo. A qualificao de indevida que  atribuda  conduta se presta a permitir a realizao de um juzo de valor sobre a adequao do conhecimento do contedo da correspondncia. Nesse sentido, o elemento normativo ressalta a capacidade de rendimento aplicativo da teoria da imputao objetiva. Devassar o contedo de correspondncia dirigida a outrem somente constitui crime quando a conduta for considerada indevida, ou seja,  inadequada. Somente o exame de cada caso concreto poder determinar se conduta  ou no indevida (inadequada). Para a caracterizao do crime em exame  necessrio que o sujeito ativo tenha perfeita compreenso quanto ao significado dos elementos normativos do tipo. O erro quanto a ser indevido o conhecimento do contedo da correspondncia por sua pessoa, por exemplo,  causa de inadequao tpica, por excluso do dolo, o que torna o fato penalmente irrelevante. 6.10.6. Imputao objetiva. A conduta de devassar indevidamente o contedo de correspondncia fechada dirigida a outrem, ordinariamente, recebe uma valorao negativa e apresenta-se vivel a imputao objetiva. No entanto, a imputao objetiva decorre de atividade valorativa que reconhece a inadequao social do comportamento, no sendo suficiente constatar a tipicidade formal da conduta examinada. A relevncia jurdica que legitima a pretenso de validade (correo) da norma jurdica incriminadora se expressa por meio do significado de inadequao social da conduta criminosa80. A irrelevncia jurdica  capaz de excluir a tipicidade material da conduta formalmente tpica e, em alguns casos, a conduta formalmente tpica pode ser considerada socialmente adequada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 6.538/78 criminaliza a interceptação de comunicações telefônicas, de informática ou telemáticas, ou quebrar segredo da Justiça, sem autorização judicial ou com objetivos não autorizados em lei. O elemento normativo indevidamente não indica a necessidade de abrir a correspondência para conhecer seu conteúdo. A imputação objetiva decorre da avaliação da inadequação social do comportamento e a irrelevância jurdica pode excluir a tipicidade material da conduta formalmente típica.

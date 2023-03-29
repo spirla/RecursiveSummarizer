@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Avaliao que exige sensibilidade do julgador. Definitivamente no h que se falar no mbito do processo penal militar de confisso ficta em caso de silncio do acusado. O ru se calar ou silenciar diante do juiz no significa que confessou ou admitiu a imputao. Inexiste no processo penal militar confisso ficta ou presumida, quer decorrente do silncio, quer decorrente da revelia. Conforme o contedo a confisso pode ser simples, complexa ou qualificada. Na confisso simples o acusado admite os fatos que lhe so imputados, sem fazer qualquer alterao na acusao. H confisso complexa quando vrios fatos so confessados. Por fim, na confisso qualificada o acusado admite a autoria, mas sustenta que agiu acobertado por excludente da ilicitude:
+legtima defesa, estado de necessidade, exerccio regular de um direito ou estrito cumprimento do dever legal. O acusado se confessa autor do homicdio, mas alega que agiu em legtima defesa. O acusado pode alegar, tambm, excludente de culpabilidade:
+erro de tipo (de fato), coao irresistvel ou obedincia estrita a ordem, no manifestamente ilegal, de superior hierrquico. Conforme o local em que ocorrer a confisso  judicial, feita em juzo perante a autoridade judiciria que preside ao processo, e extrajudicial, feita no inqurito ou no auto de priso em flagrante delito perante a autoridade de polcia judiciria militar ou por outro meio fora do processo, v., a confisso registrada em dirio ntimo, feita a terceiros durante reportagem, em carta, captada por meio de interceptao telefnica ou gravada por meios magnticos. 13.3.2.5. Citao por edital.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No processo penal militar, a confisso pode ser simples, complexa ou qualificada. A confisso qualificada admite a autoria, mas alega que agiu acobertado por excludente da ilicitude, como legítima defesa, estado de necessidade ou exerccio regular de um direito. O acusado também pode alegar excludente de culpabilidade, como erro de tipo, coação irresistível ou obediência estrita a ordem de superior hierárquico. A confisso pode ser judicial ou extrajudicial, como em dirio íntimo, carta, interceptação telefônica ou gravação por meios magnéticos.

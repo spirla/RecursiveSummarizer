@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos crimes permanentes a contagem da prescrio s comea a partir do dia em que cessar a permanncia (artigo 111, c, do CP). Por outro lado, havendo sucesso de leis no tempo, ainda que mais gravosa, deve-se aplicar a lei que vigorava ao tempo da cessao da permanncia. O tempo do crime  determinado pela teoria da ao ou da atividade (artigo 4 do CP), e no crime permanente,  o prosseguir da conduta que preserva o estado de consumao do crime. Se a lei nova encontra-se vigente ao tempo da execuo de conduta punvel, ainda que mais gravosa, a lei nova se aplica s condutas que esto em andamento. 23.4.8. Crime progressivo e progresso criminosa. O crime progressivo  aquele em que a violao da norma jurdica subjacente ao tipo exige a realizao de conduta na qual uma ou mais de suas etapas caracterizam a violao de outras normas jurdico-penais. Nesse caso, o tipo penal incriminador descreve como etapa necessria ao seu elemento constitutivo uma ou mais condutas que tambm constituem crime. O crime  denominado pela doutrina de progressivo porque o sujeito progride da realizao de uma conduta punvel para outra mais grave, que constitui o seu objetivo final. O crime progressivo  crime nico, como resultado finalstico da conduta criminosa perpetrada pelo sujeito ativo do crime. O crime que se verifica  constitudo pelo evento mais abrangente e que constituiu o objetivo final do sujeito. O princpio da consuno determina a absoro de todos os crimes que se verificaram no processo de execuo do crime progressivo. Por isso, caracteriza-se apenas o crime de homicdio (artigo 121 do CP) quando a morte resulta das vrias leses corporais produzidas pelo sujeito ativo da conduta, com a utilizao de uma faca (artigo 129 do CP). No caso, pode-se dizer que houve progresso das leses corporais para o homicdio, mas a inteno do sujeito era desde o incio a realizao da morte (homicdio). Outro exemplo de crime progressivo pode ser encontrado na bigamia (artigo 235 do CP), em que  necessrio realizar a falsidade ideolgica (artigo 299 do CP) na fase de habilitao para o segundo casamento. A doutrina denomina de progresso criminosa a situao ftica em que ocorre evoluo da vontade do sujeito que, inicialmente, pretende realizar um crime e, posteriormente, delibera pela realizao de crime mais grave. A progresso criminosa se distingue do crime progressivo pelo elemento subjetivo que orienta a conduta do sujeito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No crime permanente, a prescrio s comea a contar a partir do momento da cessao da conduta. Se houver mudana na lei, a mais gravosa deve ser aplicada. O crime progressivo ocorre quando h violao de vrias normas jurdicas e o resultado final determinado pelo evento mais abrangente. A progresso criminosa caracterizada pela evoluo da vontade do sujeito, que inicialmente pretende realizar um crime e, posteriormente, delibera pela realizao de um crime mais grave.

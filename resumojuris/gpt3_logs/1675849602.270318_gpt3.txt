@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+125, 126, art. 132; Decreto-lei n. 3.240/1941, art. 4; CF/88, art. 5, caput e inciso XXII, e art. 170. 1267 Processo HC 682.633-MG, Rel. Min. Olindo Menezes (Desembargador Convocado do Tribunal Regional Federal da 1 Regiao), Sexta Turma, por unanimidade, julgado em 05/10/2021, DJe 11/10/2021. Ramo do Direito DIREITO PENAL, DIREITO PROCESSUAL PENAL Tema Falta grave cometida em execucao penal. Tema submetido a repercussao geral do STF. Sobrestamento do recurso pelo Tribunal de origem. Suspensao do lapso prescricional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Decreto-Lei n. 3.240/1941, art. 4, e a Constituição Federal de 1988, art. 5, caput e inciso XXII, e art. 170, são aplicáveis ao caso em questão. 2. O Processo HC 682.633-MG, julgado pela Sexta Turma do Tribunal Regional Federal da 1ª Região, foi decidido por unanimidade em 05/10/2021. 3. O ramo do direito aplicável ao caso é o Direito Penal e o Direito Processual Penal. 4. O tema do caso é a falta grave cometida em execução penal. 5. O tema foi submetido à repercussão geral do STF. 6. O recurso foi sobrestado pelo Tribunal de origem. 7. O lapso prescricional foi suspenso.

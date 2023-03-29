@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Aduziu que no deve prosperar o "entendimento do autor de ausncia de tipicidade na transgresso disciplinar que lhe foi imputada, j que em sede de processo administrativo disciplinar o acusado no se defende do tipo transgressivo em si, mas sim dos fatos articulados, os quais foram devidamente apontados no libelo acusatrio e rebatidos pela defesa durante todo o procedimento administrativo apuratrio. Ao final, requereu fossem julgados improcedentes, in totum, os pedidos contidos na inicial, condenando-se o autor no pagamento dos nus decorrentes da sucumbncia. O autor impugnou a contestao, conforme se nota no Evento n. 30. Em apertada sntese, o apelante reprisou os argumentos apresentados na inicial, admitindo, contudo, que fundamentou sua defesa de forma equivocada, j que no foi punido pela Administrao com fulcro no art. 13, XX, do CEDM, mas, sim, com base no art. 15, I, do mesmo diploma legal. Reiterou que no pode ser punido pela Administrao, pois estava licenciado desde o dia 05/10/2015, e sua falta se deu no dia 08/10/2015, sendo, portanto, nulo o ato punitivo. Ao final, requereu fossem julgados procedentes os pedidos iniciais, bem como fosse o Estado ru condenado ao pagamento das custas e nus decorrentes da sucumbncia. Intimadas, as partes no produziram provas. A sentena se encontra no Evento n. 41. O douto magistrado sentenciante entendeu que no houve nenhuma falha no Processo de Comunicao Disciplinar, bem como nenhuma objeo foi apresentada pelo comunicado, ora apelante, durante o transcurso do procedimento disciplinar. Disse que ao militar foi assegurado o pleno direito  ampla defesa e ao contraditrio, porm ele no conseguiu elidir as acusaes que pesavam contra si. Disse, ainda, que o militar, por meio de sua defesa, no soube, sequer, indicar objetivamente os possveis vcios contidos no PCD de referncia. Com essas consideraes, julgou improcedentes os pedidos do autor, determinando a extino do feito, com resoluo do mrito, nos termos do art. 487, I, do CPC/2015. Condenou o autor ao pagamento das custas processuais e,  guisa de honorrios advocatcios, em 20% (vinte por cento) do valor dado  causa, ficando suspensa a exigibilidade da cobrana, nos termos do  3 do art. 98 do CPC/2015. Irresignado, o militar apresentou recurso de apelao, como se nota no Evento n. 45. Em sntese, a defesa do militar reiterou as supostas ilegalidades contidas no PCD, tais como ofensa aos princpios da ampla defesa e do contraditrio, ante o indeferimento da inquirio das testemunhas arroladas durante o procedimento, bem como ofensa ao princpio da legalidade.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena julgou improcedentes os pedidos do autor, determinando a extino do feito, com resoluo do mérito, nos termos do art. 487, I, do CPC/2015. Condenou o autor ao pagamento das custas processuais e, a título de honorários advocatícios, em 20% (vinte por cento) do valor da causa, ficando suspensa a exigibilidade da cobrança. O recurso de apelão foi rejeitado.

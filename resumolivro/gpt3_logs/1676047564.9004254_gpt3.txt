@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nas aes penais condenatrias, tratando-se de ao penal pblica, seja condicionada, seja incondicionada, em nome do Estado, o nico legitimado para o polo ativo da relao processual  o Ministrio Pblico. Utilizando outra expresso consagrada, o Ministrio Pblico  o dominus litis, ou seja,  o titular exclusivo da ao penal pblica. A legitimao exclusiva do Ministrio Pblico decorre do sistema acusatrio acolhido na Constituio Federal, em seu artigo 129, I. Contudo, excepcionalmente, a lei autoriza que algum, em nome prprio, postule direito alheio. A autorizao legal institui uma legitimao extraordinria que qualifica o legitimado como substituto processual.  o que acontece com o particular que possui o direito de ao, quando se tratar de ao privada. Tambm nos casos de habeas corpus e de reviso criminal, a lei expressamente confere legitimidade a terceiros para postular em favor do direito de liberdade alheio. Em princpio, a verificao quanto  legitimidade da parte s  pertinente, como condio da ao, em relao ao polo ativo da relao processual. Saber se o ru realizou ou no a violao da norma jurdica que autoriza a imposio de pena  matria afeta ao juzo de mrito da pretenso punitiva. Contudo, se a acusao envolver pessoa menor de dezoito anos ou inobservar imunidade parlamentar ou de carter pessoal, ocorrer carncia de ao por ilegitimidade passiva. Nesse sentido, a denncia dever ser rejeitada, conforme dispe o inciso III do artigo 43 do CPP. Por fim, no se pode confundir a legitimidade ad causam, que se relaciona com a pertinncia da ao, com o direito material alegado, com a legitimao para o processo. A legitimatio ad processum ou legitimidade processual  questo relativa  capacidade de estar em juzo e materializa pressuposto processual de validade da relao processual. 11.2.3. Interesse de agir. O interesse de agir como condio da ao penal exige constatar se o exerccio da jurisdio  necessrio e se dele advir algum resultado til. A atividade jurisdicional  funo estatal indispensvel para a manuteno da paz e da ordem social. Tratando-se de Direito Penal, o monoplio da represso impede que um particular imponha pena a outro. A pena somente  aplicada pelo Estado, o qual, limitando seu poder punitivo, s admite imposio de pena aps o devido processo legal. Essa  a regra definida pelo princpio garantista do nulla poena sino judicium.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público é o titular exclusivo da ação penal pública, conforme o sistema acusatório previsto na Constituição Federal. Excepcionalmente, a lei autoriza que alguém postule direito alheio. A legitimidade para o processo é uma condição da ação e se a acusação envolver menor de 18 anos ou imunidade parlamentar, a denúncia será rejeitada. O interesse de agir exige constatar se o exercício da jurisdição é necessário e se dele advir algum resultado útil. A pena só pode ser aplicada pelo Estado, conforme o princípio garantista do nulla poena sine judicium.

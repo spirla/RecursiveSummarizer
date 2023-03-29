@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A construo tambm no satisfaz, sendo certo que nas omisses culposas inconscientes nunca haveria essa possibilidade de interferncia. Tambm se tentou explicar a causalidade na omisso com a teoria das condies negativas. Considerando-se que o resultado lesivo  condicionado tanto pela presena de determinados fatores positivos quanto pela ausncia de outros (negativos), a omisso passou a ser entendida como condio negativa necessria para a causao do resultado. A omisso implicaria a inexistncia das condies impeditivas e, assim, seria causa do resultado. Tal construo tambm no convence, pois no  a omisso que produz o resultado, mas as foras fsicas positivas que atuam simultaneamente a ela. J a concepo da causalidade humana exclusiva ressalta que a vontade humana pode interferir na causalidade mecnica, de modo que omisso  forma de permisso para o desenvolvimento das foras lesivas. Como a omisso tambm pode ser culposa, essa teoria teve de ser revista para considerar que os desdobramentos previsveis da cadeia causal tambm deveriam inserir-se no contexto da possibilidade interventiva do homem. A impropriedade dessa construo  que a tarefa de identificao dos antecedentes que se relacionam com o resultado  esquecida, em favor da especulao sobre a possibilidade de salvamento do bem jurdico. No se estabelece a causa do evento, mas se este poderia ter sido evitado. Desenvolvendo agora o enfoque normativo, a teoria da causalidade dos escopos do Direito considera que a interveno humana nos processos causais deve obedecer s finalidades jurdicas. A omisso  considerada causa sempre que o omitente tenha o dever jurdico de agir para evitar a produo de um evento lesivo. Desenvolvendo ideia muito semelhante, a concepo da causalidade do ordenamento social sustenta que a engrenagem social impe observncia a certos deveres e a omisso em atender a tais deveres confere causalidade  inatividade. Contra tais teorias, argumenta-se que a determinao da causalidade torna-se excessivamente artificial. Por fim, a doutrina de Von Liszt reconhece que no se pode trabalhar com a ideia de causalidade omissiva. A omisso  forma especial de comportamento humano que no possibilita uma investigao causal naturalstica, e o que importa para o Direito Penal  determinar quando no impedir o resultado equivale a caus-lo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria da causalidade omissiva debate se a omisso pode ser considerada causa de um evento lesivo. A concepo da causalidade humana exclusiva argumenta que a vontade humana pode interferir na causalidade mecnica. Por fim, a doutrina de Von Liszt entende que a omisso não possibilita uma investigação causal naturalística, e o que importa para o Direito Penal é determinar quando não impedir o resultado equivale a causá-lo.

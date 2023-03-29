@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com a nova parte geral do Cdigo Penal, adotou-se o sistema vicariante em substituio ao sistema do duplo binrio (dois trilhos), no qual se aplica a pena somente ao indivduo culpvel, reservando-se a medida de segurana ao trato do inimputvel considerado perigoso. O sistema do duplo binrio, estabelecido pela parte geral do Cdigo de 1940, permitia que fossem aplicadas medidas de segurana simultaneamente com penas. Se a pena guarda proporcionalidade com a relevncia social do crime, a medida de segurana vincula-se  intensidade e persistncia da periculosidade do sujeito. Enquanto o indivduo for considerado perigoso, dever ser aplicada a medida de segurana. A natureza jurdica das medidas de segurana  a de verdadeira sano penal. Por isso, o Cdigo Penal permite a substituio da pena privativa de liberdade por medida de segurana para o semi-imputvel (artigo 98), a contagem do tempo de priso provisria para a detrao do prazo mnimo de durao da medida de segurana (artigo 42), bem como declara que, extinta a punibilidade, no se aplicar medida de segurana nem subsistir a execuo de medida que tenha sido imposta (artigo 96, pargrafo nico). A pena e a medida de segurana possuem a mesma natureza jurdica, embora sejam utilizadas conforme necessidades diversas. Por isso, as garantias inerentes s penas devem ser estendidas s medidas de segurana; vale lembrar em especial as que se referem aos princpios da legalidade, da anterioridade, da irretroatividade in pejus da lei que a determina, da jurisdicionalidade de sua aplicao e individualizao de sua execuo. Vale ressaltar que o artigo 3 da LEP assegura que ao condenado e ao internado sero assegurados todos os direitos no atingidos pela sentena ou pela lei. Com efeito, as garantias oferecidas pelos princpios da reserva e da anterioridade da lei penal referem-se no somente aos crimes, mas tambm s medidas de segurana, de modo que somente podero ser aplicadas as medidas de segurana em lei (artigo 96 do CP), anteriormente ao fato praticado pelo inimputvel ou semi-imputvel. Se a Constituio da Repplica determina, em seu artigo 5, XL, que a lei penal no retroagir, salvo para beneficiar o ru, no se poder admitir a aplicao de medidas de segurana previstas posteriormente ao fato praticado pelo sujeito. Outra garantia individual importante  a que diz respeito  jurisdicionalidade da aplicao da medida de segurana. Nos termos do artigo 97 do Cdigo Penal, somente o juiz poder aplicar medida de segurana.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal adotou o sistema vicariante em substituição ao sistema do duplo binário, permitindo a aplicação de medidas de segurança simultaneamente com penas. A natureza jurídica das medidas de segurança é de verdadeira sanção penal. Garantias como legalidade, anterioridade, irretroatividade in pejus e jurisdicionalidade são estendidas às medidas de segurança.

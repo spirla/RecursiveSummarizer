@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O que nele se argui no  o crime contra a f pblica ou outro qualquer. Isso poder ser objeto de um processo, mas esse ser processo principal, isto,  o processo destinado  punio pelo delito de falsidade. No incidente, ao contrrio, o que se quer saber  apenas se o documento  falso ou verdadeiro, se tem ou no valor probatrio. A finalidade do incidente de falsidade  unicamente a de constatar a idoneidade do documento como elemento probatrio. Documento em sentido amplo  o objeto idneo a servir de prova, que inclui no s o escrito, mas tambm objetos outros, como fotografias, filmes, discos etc. e em sentido estrito como toda a pea escrita que condensa graficamente o pensamento de algum, podendo provar um fato ou a realizao de algum ato dotado de significao ou relevncia jurdica. O CPPM tem conceito estrito ao dizer que documentos so quaisquer escritos, instrumentos ou papis, pblicos ou particulares (artigo 371). Na falsidade ideolgica o documento  formalmente verdadeiro, perfeito, consiste a falsidade na afirmao do que no  verdico;
+ainda que o documento seja legtimo, falso  o seu contedo, o seu teor. A falsidade ideolgica refere-se ao contedo e no  forma. O documento se apresenta perfeito em sua forma, porm seu contedo intelectual no  verdadeiro, tem informaes que no condizem com a verdade. Por exemplo, a escritura lavrada pelo funcionrio do Cartrio de Registro de Imveis tem sua forma perfeita, contudo, as declaraes nela inseridas so falsas. Na falsidade ideolgica no h alterao fsica do documento, pois este  verdadeiro e perfeito fisicamente, possui todos seus requisitos extrnsecos, e emana realmente da pessoa que nele figura como seu autor ou que o subscreve. Portanto, mais uma vez, a falsidade ideolgica concerne ao contedo e no  forma.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O processo principal destinado punio de um crime de falsidade, enquanto o incidente de falsidade tem como objetivo constatar a idoneidade do documento como elemento probatrio. Documento em sentido amplo o objeto idneo a servir de prova, que inclui escritos, fotografias, filmes, discos etc. Na falsidade ideolgica o documento formalmente verdadeiro, mas seu conteúdo intelectual falso, sem alteração física.

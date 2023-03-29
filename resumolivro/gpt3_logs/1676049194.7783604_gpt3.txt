@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O intrprete deve ser capaz de entender a lgica prpria do Direito Penal para reconhecer na realidade, que se encontra em constante movimento, acontecimentos que devam ser especialmente considerados pelo Direito. A sutileza das situaes podem desafiar a habilidade do intrprete, em especial quando for necessrio perceber o momento em que termina uma conduta e comea outra. Veja-se o seguinte exemplo: um rapaz tem a oportunidade de ficar a ss com uma mulher e insiste em ter relao sexual com ela. A insistncia do rapaz consiste em solicitao direta e na retirada das prprias vestes. A mulher resiste  abordagem e deixa o recinto em que estava com o rapaz. Inconformado com a rejeio, o rapaz veste-se e sai  procura da mulher. O rapaz encontra-a na via pblica e desfere contra ela um soco que lhe atinge o rosto. Aps a agresso, o rapaz vai embora, deixando a mulher sozinha. Fica evidente que, nesse caso, no se pode considerar a inteno de manter relao sexual no mesmo contexto do emprego da violncia, para caracterizar a tentativa. A inteno de manter relao sexual e a violncia aconteceram, mas a violncia no foi meio de execuo de constrangimento que visasse a obter submisso ao ato sexual. No se trata, portanto, de crime tentado de estupro (artigo 213 do CP), mas de leso corporal consumada (artigo 129 do CP). Crimes culposos. No que diz respeito aos crimes culposos, a impossibilidade evidencia-se pela prpria definio dos conceitos de tentativa e culpa. O crime culposo caracteriza-se pela inexistncia da inteno de produzir o resultado ou de assumir o risco de produzi-lo.  da essncia do crime culposo que o resultado produza-se contra a vontade do sujeito. A tentativa, por sua vez, trata da no realizao do resultado ilcito pretendido, por circunstncias alheias  vontade do autor. Se, no crime culposo, o sujeito no pretendia produzir o resultado nem assumiu o risco de produzi-lo, no poder haver interrupo de conduta tendente a produzir o resultado. A impossibilidade da tentativa decorre da premissa lgica de que o impedimento da produo do resultado no ocorre por circunstncias alheias  vontade do autor, mas no mesmo sentido da vontade do autor. No se pode tentar o que no se quer ou se admite. A impossibilidade da tentativa pode fundamentar-se tambm na exigncia de produo de resultado naturalstico para caracterizar-se um crime culposo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O intrprete deve entender a lgica do Direito Penal para reconhecer acontecimentos relevantes. Crimes culposos no podem ser tentados, pois o resultado ocorre contra a vontade do sujeito e não há interrupo da conduta.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Valores eram cobrados tambm pelos rus para realizar o policiamento no local. Diante desse quadro, v-se que o delito pelo qual a Paciente foi condenada se enquadra perfeitamente no conceito de crime militar previsto no art. 9, I, alneas "b" e "c", do Cdigo Penal Militar. 4. Constitui indevida inovao recursal a formulao, somente em sede de agravo regimental, de alegaes de nulidade de prova e de violaes  Lei Penal Militar e  Constituio no alegadas na inicial do habeas corpus. 5. Se a defesa no pleiteou, nas instncias ordinrias, antes de transitar em julgado a condenao, a realizao de percia no local do flagrante e nos equipamentos de gravao de imagem e de som, constitui demonstrao de deslealdade processual conhecida na doutrina como "nulidade de bolso ou de algibeira" a sua alegao em momento tardio do processo. (HC n. 504.819/CE, Rel. Ministro FELIX FISCHER, Quinta turma, julgado em 28/5/2019, DJe 3/6/2019) 6. De mais a mais, e tendo em conta que a prova tem por destinatrio o julgador que tem o poder de indeferir sua produo (art. 400,  1, CPP), cabe  parte interessada no s demandar a produo da prova no momento oportuno, como tambm justificar a sua necessidade e utilidade para a formao da convico do magistrado, o que no foi feito no caso concreto, nem mesmo na inicial do presente habeas corpus. 7. Agravo regimental a que se nega provimento. (AgRg no HC n. 555.931/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16/3/2020.) No que concerne  inpcia da denncia em virtude do no preenchimento dos requisitos do Cdigo de Processo Penal Militar (CPPM), sigo a jurisprudncia pacfica do colendo Superior Tribunal de Justia de que a supervenincia da sentena torna superada a tese de inpcia da denncia (STJ: REsp 1881928/SC73 74 75, AgRg no AResp 1746539/SP2 e AgRg nos EDcl no HC 501984/RN76). contraditrio, utilizar esse mesmo fato para justificar a incidncia da atenuante inominada do art. 66 do Cdigo Penal. 14. Apreciado o mrito do recurso especial, fica prejudicado o pedido de que, em tutela de urgncia, lhe seja concedido efeito suspensivo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O agravo regimental foi negado, pois a alegao de nulidade de prova e violação de leis militares foi formulada somente em sede de agravo regimental, o que configura indevida inovação recursal. Além disso, a defesa não pleiteou a realização de perícia antes da sentença transitada em julgado, o que configura deslealdade processual. Por fim, foi considerada jurisprudência pacífica do Superior Tribunal de Justiça a superveniência da sentença torna superada a tese de inépcia da denúncia.

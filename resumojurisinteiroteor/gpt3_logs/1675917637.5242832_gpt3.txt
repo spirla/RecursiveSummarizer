@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Alegou ainda que algumas faltas ocorreram em razo de seu estado de sade mental e que inexistem dvidas acerca de sua incapacidade mental, depresso e dependncia qumica  poca do cometimento da infrao disciplinar. Por fim, alegou que os males da depresso, que foram maximizados em decorrncia do vcio contnuo do uso do lcool e outras drogas [...], teriam sido contrados durante a atividade profissional; que os membros da comisso processante consideraram apenas o laudo da Percia Psicopatolgica da Junta Central de Sade da Polcia Militar que, entretanto, a sua insanidade mental j acometia o apelante antes de ser interditado. Com tais argumentos, requereu o apelante, por meio de sua curadora, que lhe fossem concedidos os benefcios da justia gratuita e fosse o apelado condenado  reintegr-lo, com o pagamento de todos os direitos advindos de tal declarao judicial, inclusive os salrios no recebidos desde a data de sua excluso, no valor de R$ 128.862,00 (cento e vinte e oito mil, oitocentos e sessenta e dois reais), alm do pagamento de indenizao por danos morais no valor de R$ 200.000,00 (duzentos mil reais). O juiz de direito da Vara da Fazenda Pblica e Autarquias da Comarca de Ipatinga/MG concedeu a gratuidade judiciria ao ora apelante, bem como determinou a citao do ru (Evento 1- arquivo DESP37). O Estado de Minas Gerais apresentou a sua contestao no Evento 1- arquivo CONT36, tendo o apelante oferecido impugnao no Evento 1- arquivo IMPUGNAO49. Intimadas, as partes declararam que no possuam outras provas a produzir (Evento 1 - arquivos MANI60 e MANI64.) O Ministrio Pblico suscitou a incompetncia da justia comum estadual para o processamento e julgamento da ao contra ato administrativo-disciplinar. Acolhida a preliminar, os autos foram remetidos a esta justia especializada (Evento 1, arquivo DECL_COMPE47). Nesta Justia Militar, foi novamente determinada a especificao de provas, tendo o ento autor requerido a produo das provas testemunhal e pericial (Evento 22), enquanto o Estado de Minas Gerais pugnado pelo julgamento antecipado da lide (Evento 23). O Ministrio Pblico foi intimado, tendo em vista a presena de incapaz, oportunidade em que manifestou nada ter a requerer (Evento 21). O autor foi intimado para justificar as provas requeridas, e, aps os esclarecimentos prestados por meio das peties acostadas aos Eventos 27 e 30, tal pedido foi indeferido, conforme deciso contida no Evento 31. O ru foi intimado a manifestar-se acerca dos documentos apresentados pelo autor, tendo requerido o desentranhamento dos mesmos, por no constituir fato novo (Evento 38).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O autor requereu reintegração ao cargo com pagamento de salários não recebidos e indenização por danos morais. O juiz de direito concedeu a gratuidade judiciária e citação do réu, que contestou. Após preliminar acolhida, os autos foram remetidos à Justiça Militar, onde foram requeridas provas testemunhal e pericial. O Ministério Público manifestou nada ter a requerer e o réu requereu desentranhamento dos documentos apresentados pelo autor.

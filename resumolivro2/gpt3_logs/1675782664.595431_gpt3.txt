@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 2 da Lei 9.296/96 determina que no ser admitida a interceptao de comunicaes telefnicas quando ocorrer qualquer das seguintes hipteses dos incisos I, II e III:
+I - Se no houver indcios razoveis da autoria ou participao em infrao penal. So razoveis os indcios que contm certo grau de probabilidade quanto  autoria ou participao, no bastando possibilidade ou suspeita. II - Se a prova puder ser feita por outros meios disponveis. Exige-se que a interceptao seja o nico meio disponvel para o esclarecimento do fato. Preferiu o legislador que se utilize outros meios de obteno de prova ou de prova no invasivos da intimidade. Por vezes, foroso reconhecer que, em razo do tipo de atividade criminosa investigada, a interceptao telefnica  o nico meio de obteno prova que se dispe. Cabe  defesa demonstrar violao a esse requisito, conforme enunciado da edio 117 do Jurisprudncia em Teses do STJ:
+A interceptao telefnica s ser deferida quando no houver outros meios de prova disponveis  poca na qual a medida invasiva foi requerida, sendo nus da defesa demonstrar violao ao disposto no artigo 2, inciso II, da Lei 9.296/1996. III - Se o fato investigado constituir infrao penal punida, no mximo, com pena de deteno. Ou seja, s  cabvel interceptao telefnica para apurar crimes cuja pena cominada seja de recluso. A razo deste requisito  que a interceptao telefnica se insere entre aqueles meios de prova que viola a intimidade e a vida privada, portanto, deve ser reservado  apurao de crimes de maior gravidade. O STJ firmou o entendimento:
+ legtima a prova obtida por meio de interceptao telefnica para apurao de delito punido com deteno, se conexo com outro crime apenado com recluso (enunciado na edio 117 da Jurisprudncia em Teses)..
+14.2.13.6. Procedimento para a interceptao telefnica. A interceptao telefnica pode ser determinada, de ofcio, pelo juiz (artigo 3, caput, da Lei 9.296/96).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.296/96 estabelece que a interceptação telefônica só é permitida quando houver indícios razoáveis de autoria ou participação em infração penal, não havendo outros meios de prova disponíveis e o crime investigado for punido com pena de reclusão. O juiz pode determinar a interceptação de ofício.

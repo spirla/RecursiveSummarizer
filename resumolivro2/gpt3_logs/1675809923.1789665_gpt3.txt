@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Hlio Tornaghi alerta que a testemunha no  um perito, ainda quando seus conhecimentos tcnicos lhe permitam prever fatos futuros, exemplificando, que se um mdico  chamado a depor sobre uma agresso, no lhe compete dizer se a leso produzida na vtima vai inabilit-la para o trabalho por mais de 30 dias, pois, ainda que possua capacidade tcnica para prever acontecimento futuro, por estar depondo como testemunha, no como perito, no pode fazer tal previso. 14.2.8.4. Deveres e impedimentos da testemunha. Tem a testemunha o dever de comparecer quando notificada, por ordem do juiz, em determinado dia e hora para prestar depoimento:
+O comparecimento  obrigatrio, nos termos da notificao, no podendo dele eximir-se a testemunha, salvo motivo de fora maior, devidamente justificado (artigo 347, pargrafo 1, CPPM). O no cumprimento deste dever de comparecer acarreta para a testemunha, de acordo com o artigo 347, pargrafo 2, CPPM:
+(a) conduo coercitiva por oficial de justia;
+(b) multa na quantia de 1/20 (um vigsimo) do salrio mnimo;
+(c) crime de desobedincia nos termos do artigo 330 do CP ou artigo 349 do CPM. A imposio de priso de at quinze dias  testemunha, que se recusa ou resiste  conduo coercitiva, no foi recepcionada pela nova ordem constitucional, porquanto  permitida a priso civil por inadimplemento de obrigao alimentcia e a do depositrio infiel. O militar e o servidor pblico civil so requisitados ao respectivo chefe, pela autoridade que ordenar a notificao. indicando o dia e a hora marcados, para o servio militar ou pblico no sofrer prejuzo. Esto dispensados de comparecer para depor os dignitrios enumerados artigo 350, a, do CPPM os quais sero inquiridos em local, dia e hora previamente ajustados entre eles e o juiz.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Hlio Tornaghi alerta que a testemunha não é um perito, mesmo que possua conhecimentos técnicos para prever fatos futuros. O comparecimento à notificação é obrigatório, sob pena de condução coercitiva, multa ou crime de desobediência. Estão dispensados de comparecer para depor os dignitários enumerados no artigo 350, a, do CPPM, que serão inquiridos em local, dia e hora previamente ajustados entre eles e o juiz.

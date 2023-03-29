@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Agora, outros meios de notificacao que garantam, de um lado, o recebimento preciso da informacao pelo notificado e, de outro, possibilitam a juntada de comprovacao de leitura aos autos do processo, podem ser perfeitamente ser utilizados no PAD, por serem admitidos em direito. Como primeiro exemplo, ha o Painel Administrativo (PA), que e o meio institucional de transmissao de mensagens eletrnicas na PMMG, hospedado na Intranet PM. A referida ferramenta, de acesso diario obrigatorio por todos os policiais militares, permite a transmissao de notificacoes e informa, ao remetente, o registro de acesso (data e hora) pelo notificado, o que servira para comprovar nos autos a necessaria 48h de antecedncia exigida pelo CEDM. A utilizacao do Painel Administrativo na PMMG e de ferramenta correspondente no CBMMG, como meio eletrnico habil a comunicacao e intimacao de militares para atos em processos e procedimentos administrativos, e validada pelo Decreto 48.383/2022290, que assim dispoe:
+Artigo 31 - Os orgaos e as entidades da Administracao Publica direta, autarquica e fundacional do Poder Executivo poderao realizar todas as comunicacoes, as notificacoes e as intimacoes por meio eletrnico. Paragrafo unico - O ente publico podera realizar as comunicacoes, as notificacoes e as intimacoes por meio de ferramenta mantida por outro ente publico. Artigo 32 - As ferramentas usadas para os atos de que trata o artigo 31:
+- disporao de meios que permitam comprovar a autoria das comunicacoes, das notificacoes e das intimacoes;
+- terao meios de comprovacao de emissao e de recebimento, ainda que nao de leitura, das comunicacoes, das notificacoes e das intimacoes;
+- poderao ser utilizadas mesmo que legislacao especial preveja apenas as comunicacoes, as notificacoes e as intimacoes pessoais ou por via postal;
+- serao passiveis de auditoria;
+- conservarao os dados de envio e de recebimento por, pelo menos, cinco anos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Decreto 48.383/2022290 permite a utilização de meios eletrônicos para comunicação, notificação e intimação de militares para atos em processos e procedimentos administrativos. O Painel Administrativo (PA) é o meio institucional de transmissão de mensagens eletrônicas na PMMG, que permite a transmissão de notificações e registra o acesso do notificado (data e hora). As ferramentas usadas para esses atos devem dispor de meios que permitam comprovar a autoria, emissão e recebimento, além de serem passíveis de auditoria e conservar os dados de envio e recebimento por, pelo menos, cinco anos.

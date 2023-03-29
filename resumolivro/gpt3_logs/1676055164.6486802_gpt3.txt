@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Assim, o acesso no autorizado aos arquivos de computador que uma pessoa preserva pode violar todas essas garantias constitucionais. 6.14.3. Sujeito ativo e sujeito passivo. O crime de invaso de dispositivo informtico, seja em sua forma simples, qualificada ou nas condutas assemelhadas  comum em relao ao sujeito ativo e ao sujeito passivo, pois os tipos incriminadores no exigem que os mesmos tenham qualquer caracterstica especial. Desta forma, tanto o sujeito ativo quanto o passivo podem ser qualquer pessoa. Vale observar que a invaso que permite o acesso no autorizado ao contedo da informao atinge igualmente todas as pessoas (fsicas ou jurdicas) as quais a informao se refere. 6.14.4. Comportamento proibido. O ncleo do tipo incriminador que descreve o crime de invaso de dispositivo informtico  constitudo pelo verbo invadir que est relacionado a um dispositivo informtico alheio, conectado ou no  rede de computadores. O meio de execuo  vinculado, de modo que a caracterizao do crime exige que a invaso se realize mediante violao indevida de mecanismo de segurana. Tambm constitui exigncia tpica que o sujeito ativo realize a invaso com o fim de obter, adulterar ou destruir dados ou informaes sem autorizao expressa ou tcita do titular do dispositivo ou instalar vulnerabilidades para obter vantagem ilcita. Nesse sentido, para a caracterizao tpica  necessrio que:
+(1) o sujeito realize a invaso de um dispositivo informtico alheio, esteja este conectado ou no  rede de computadores;
+(2) a invaso se opere por meio de violao indevida de mecanismo de segurana; e.
+(3) o sujeito oriente sua conduta por, ao menos, uma das seguintes finalidades:
+(a) obter dados ou informaes sem autorizao expressa ou tcita do titular do dispositivo;
+(b) adulterar dados ou informaes sem autorizao expressa ou tcita do titular do dispositivo;
+(c) destruir dados ou informaes sem autorizao expressa ou tcita do titular do dispositivo; ou. (d) instalar vulnerabilidades para obter vantagem ilcita. Para os fins da incriminao em exame invadir significa ter indevido acesso a cdigos que se encontram digitalmente armazenados no dispositivo informtico e que integram o seu sistema de comando operacional ou os arquivos de informao que se apresentam necessrios  realizao de suas tarefas. Cabe notar que o verbo invadir  indicativo da realizao de uma conduta socialmente inadequada. Invadir  penetrar em local que no se tem permisso de acesso,  entrar onde  proibido.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de invaso de dispositivo informático, seja em sua forma simples, qualificada ou nas condutas assemelhadas, é comum em relação ao sujeito ativo e ao sujeito passivo. Para caracterizá-lo é necessário que o sujeito realize a invasão de um dispositivo informático alheio, por meio de violação indevida de mecanismo de segurança, com o fim de obter, adulterar ou destruir dados ou informações sem autorização expressa ou tácita do titular. Invadir significa ter indevido acesso a códigos digitalmente armazenados no dispositivo informático e os arquivos de informação necessários para suas tarefas.

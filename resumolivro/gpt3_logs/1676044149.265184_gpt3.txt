@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos dias atuais, a cincia abandonou o trabalho com os sistemas rgidos ou estticos, substituindo-os pelos sistemas ditos caticos que, no implicando desordem, estimulam a formulao de uma nova ordem, mais sutil e abrangente. A mudana de paradigma repercute efeitos tambm na construo terica das cincias inexatas ou sociais. Nesse sentido, a dogmtica jurdico-penal no pode construir seu edifcio terico sobre abstraes estticas e distantes da realidade. Como o Direito orienta-se para atender  finalidade prtica de proteger as condies vitais da sociedade, seu contedo h de ser infinitamente varivel, de modo a adaptar-se s necessidades que se fazem atuais na sociedade em que tem aplicao. A identificao da causalidade, na perspectiva da teoria da condio simples, no se orienta por qualquer definio do que seja penalmente relevante. A metodologia que prope constitui verdadeiro crculo vicioso, j que o procedimento da supresso mental somente pode efetivar-se quando anteriormente se saiba (considere) que o antecedente  causal. Como a determinao da causalidade somente se opera aps a verificao do resultado concreto, no se pode analisar adequadamente a atuao das demais condies, o que acaba por impedir a verdadeira equivalncia dos antecedentes. Na verdade, essa metodologia somente funciona quando se trabalha com uma nica hiptese de produo do resultado: a hiptese da produo do resultado concretamente verificado. O procedimento de eliminao hipottica de determinado antecedente no possibilita a considerao dos efeitos causais ordinrios dos outros antecedentes que poderiam atuar em seu lugar. Vale dizer, suprimida mentalmente a atuao de determinado antecedente, nada pode ocupar o seu lugar. Com base na teoria da condio simples, sustenta-se a imputao objetiva na produo de determinado resultado, exatamente conforme ocorreu. Desse modo, o que no puder interferir na produo do resultado, em sua forma concreta, no  considerado causa. Assim, causa o resultado quem acelera a sua produo, ainda que de modo insignificante.  o que se verifica quando um tratamento mdico ocasiona a morte prematura do paciente que, de qualquer forma, estava morrendo. No entanto, as premissas da teoria da equivalncia dos antecedentes tambm indicariam que  causa do resultado a conduta do pai que abrevia o sofrimento do filho irreversivelmente condenado  morte.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A cincia moderna tem adotado sistemas caticos, que estimulam a criao de novas ordens, influenciando também as cincias sociais. O Direito Penal, com objetivo de proteger a sociedade, tem conteúdo varivel para se adaptar s necessidades atuais. A teoria da condição simples considera como causa do resultado aquilo que acelera sua produção, mesmo que de forma insignificante. Por outro lado, a teoria da equivalência dos antecedentes também considera causa do resultado aquilo que abrevia o sofrimento irreversivelmente condenado à morte.

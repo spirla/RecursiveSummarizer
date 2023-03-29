@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ampla utilizacao da prova. Restricao expressa. Violacao ao principio da especialidade. Impossibilidade. DESTAQUE Em tema de acordo de cooperacao internacional a regra e a ampla utilizacao da prova, sendo que qualquer restricao deve ser expressamente formulada pelo Estado requerido. Em materia de cooperacao juridica internacional, o procedimento seguido e o ditado pela legislacao do Estado requerido. A utilizacao da prova obtida e ampla, observadas eventuais restricoes expressamente formuladas pelo Estado requerido. No caso, os documentos encaminhados pelos Estados requeridos contem a limitacao de que as informacoes neles contidas apenas devem ser utilizadas para fins de inteligencia criminal, e nao podem ser usadas para instauracao de inquerito, e nem como evidencia a ser usada em procedimentos judiciais. Assim, as informacoes prestadas, como constou do ato de cooperacao juridica, somente podem ser utilizadas para fins de inteligencia criminal, e, nao, em processo judicial. Dai a razao pela qual as aludidas informacoes nao foram juntadas aos autos. Dessa forma, a legalidade do compartilhamento e inquestionavel, porquanto, as informacoes prestadas foram utilizadas para os fins admitidos pelos Estados estrangeiros envolvidos. Por conseguinte, e incabivel a alegacao de que as informacoes obtidas das autoridades estrangeiras sao ilicitas por desvio de finalidade, em violacao ao principio da especialidade .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A regra em tema de acordo de cooperação internacional é a ampla utilização da prova, sendo que qualquer restrição deve ser expressamente formulada pelo Estado requerido. 2. O procedimento seguido em matéria de cooperação jurídica internacional é ditado pela legislação do Estado requerido. 3. As informações prestadas, como constou do ato de cooperação jurídica, somente podem ser utilizadas para fins de inteligência criminal e não em processo judicial. 4. A legalidade do compartilhamento é inquestionável, pois as informações prestadas foram utilizadas para os fins admitidos pelos Estados estrangeiros envolvidos. 5. É incabível a alegação de que as informações obtidas das autoridades estrangeiras são ilícitas por desvio de finalidade, em violação ao princípio da especialidade.

@@ -1,0 +1,26 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Sao requisitos para a obtencao do ADE:
+(...)
+- o conceito disciplinar; (...)
+Artigo 3 (...)
+- respeito aos principios de hierarquia, disciplina e etica militares, consubstanciados no conceito individual previsto no Codigo de Etica e Disciplina dos Militares Estaduais - CEDM, Lei 14.310, de 19 de junho de 2002, aferido em:
+a) 30 (trinta) pontos para os conceitos A ou B com pontuacao igual ou superior a 25 (vinte e cinco);
+b) 25 (vinte e cinco) pontos para o conceito B com pontuacao de 0 (zero) a 24 (vinte e quatro);
+c) 20 (vinte) pontos para o conceito B com pontuacao negativa de -1 (menos um) a - 24 (menos vinte e quatro);
+d) 15 (quinze) pontos para o conceito B com pontuacao negativa de -25 (menos vinte e cinco) a - 50 (menos cinquenta); e
+e) 0 (zero) ponto para o conceito C; (...)
+g) Requisito para designacao do militar da reserva remunerada para o servico ativo
+A Resolucao 4.421, de 05/08/2015, que define os procedimentos para a designacao e reconducao de militares da reserva remunerada para o servico ativo na PMMG, estabelece, em seu artigo 3, I, que um dos requisitos para a designacao e o militar nao ter sido transferido para a reserva remunerada classificado no conceito C ou B, este com pontuacao igual ou inferior a 25 (vinte e cinco) pontos negativos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Para obter o ADE, é necessário que o militar tenha um conceito disciplinar de no mínimo 30 pontos para conceitos A ou B com pontuação igual ou superior a 25, 25 pontos para conceito B com pontuação de 0 a 24, 20 pontos para conceito B com pontuação negativa de -1 a -24, 15 pontos para conceito B com pontuação negativa de -25 a -50 e 0 pontos para conceito C. Além disso, para a designação do militar da reserva remunerada para o serviço ativo, é necessário que ele não tenha sido transferido para a reserva remunerada classificado no conceito C ou B, este com pontuação igual ou inferior a 25 pontos negativos.

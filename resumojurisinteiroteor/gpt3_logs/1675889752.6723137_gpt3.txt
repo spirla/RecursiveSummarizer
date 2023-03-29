@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...]  importante destacar que o STF j definiu que supostas violaes aos princpios do contraditrio e da ampla defesa, cujo julgamento da causa depende de anlise da adequada aplicao de normas infraconstitucionais, no apresentam repercusso geral, conforme se depreende do ARE n. 748.371, Rel. Ministro Gilmar Mendes, Tema 660, publicado em 01/08/2013. Alegao de cerceamento do direito de defesa. Tema relativo  suposta violao aos princpios do contraditrio, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prvia anlise da adequada aplicao das normas infraconstitucionais. Rejeio da repercusso geral. Desta feita, na hiptese dos autos, no se faz presente um dos requisitos formais de admissibilidade deste recurso, qual seja, a demonstrao da repercusso geral. No que tange  suposta violao ao art. 93, IX, da Constituio Federal, pela ausncia de manifestao a respeito de todas as questes levantadas pela defesa, constato que, ao contrrio do alegado pelo recorrente, o acrdo que confirmou a r. sentena a quo possui fundamentao idnea e suficiente, em conformidade com a orientao consolidada pelo STF Tema 339, publicado em 13/08/2010, Relator Ministro Gilmar Mendes). Por estas razes, deve ser negado seguimento ao recurso extraordinrio, a teor do disposto no art. 1.030, I, a, do Cdigo de Processo Civil. [.] Verifica-se, assim, que a real pretenso do recorrente  o reexame das provas e dos fatos j decididos pelo Tribunal, o que no se admite em sede de recurso extraordinrio, a teor da Smula n. 279 do STF: Para simples reexame de prova no cabe recurso extraordinrio. Frise-se, ainda, que a nulidade do ato demissional suscitada pelo recorrente  embasada em dispositivos do Regulamento Disciplinar da Polcia Militar do Estado de Minas Gerais (Decreto n. 23.085, de 10/10/1983), o que atrai a incidncia do bice previsto na Smula n. 280 do STF: Por ofensa a direito local no cabe recurso extraordinrio. Por fim, no que tange  suposta violao aos artigos 5, LIII, e 125,  4, c/c os artigos 142,  3, VI, e 42,  1, todos da CF, em razo da incompetncia absoluta do comandante-geral para efetivar a demisso de praas, estas no restaram caracterizadas, tendo em vista que a deciso proferida por este Tribunal est em consonncia com o entendimento firmado pelo STF, a teor do disposto na Smula n. 673: O art. 125,  4, da Constituio no impede a perda da graduao de militar mediante procedimento administrativo. Ante o exposto, quanto s matrias alcanadas pelos Temas 339 e 660, nego seguimento ao recurso e, no que tange ao remanescente, inadmito-o.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso extraordinário foi negado seguimento por não atender aos requisitos formais de admissibilidade, como a demonstração de repercussão geral, e por ofensa a direito local. As supostas violações aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal não foram caracterizadas.

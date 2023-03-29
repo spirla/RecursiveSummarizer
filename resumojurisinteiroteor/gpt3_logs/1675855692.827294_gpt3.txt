@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Esse  o precedente em que se firmou toda a jurisprudncia citada pelo representado, do qual se extrai o seguinte: a ao originria era de reintegrao de ex-militares em face do Estado de So Paulo; a demisso dos militares era proveniente de deciso administrativa do comandante-geral; a defesa dos ex-militares era que a demisso no poderia ser realizada pelo comandante-geral somente aps um procedimento judicial, porque os fatos que originaram o procedimento administrativo eram de natureza criminal ou decorrente de condenao; pretendiam discutir a no aplicao da demisso no mbito administrativo; a concluso realizada pelo excelso Supremo Tribunal Federal,  poca, foi de que no se conferiu  Justia Militar estadual, portanto, uma nova competncia, a de decidir sobre as punies administrativas prprias das autoridades do Poder Executivo, mas a de examinar e decidir, tratando-se de crime praticado por policial militar, por ela julgado, sobre a perda da graduao; e foi reafirmado que a pena acessria deixou de ser automtica e passou  competncia exclusiva do Tribunal de Justia Militar, exigindo instaurao de procedimento especfico e tornando revogado o art. 102 do Cdigo Penal Militar. (Negritei). Nota-se que o excelso Supremo Tribunal Federal assentou uma jurisprudncia totalmente equivocada sobre a distino de condenaes passveis de procedimentos criminais para se declarar a perda de graduao ou do posto e da patente, quando o inteiro teor do RE 197.649-7 demonstra que o Excelso Supremo Tribunal Federal discutiu e assentou entendimento da possibilidade de ser efetivada demisso pelo poder executivo, sem procedimento judicial, o que, no futuro (ano de 2003), se tornaria o enunciado da Smula 673: O art. 125,  4, da Constituio no impede a perda da graduao de militar mediante procedimento administrativo. A nica concluso possvel, em uma interpretao sistemtica da Constituio da Repblica Federativa do Brasil,  de que a Lei Maior no fez distino no tocante s condenaes criminais passveis de possibilitarem a decretao da perda da graduao ou do posto e patente dos oficiais. Sendo assim, passo pela preliminar suscitada. [..] Senhores magistrados, voltando ao meu voto, eu diria, sem receio de errar, que pouco tenho a acrescentar ao voto lapidar prolatado pelo eminente desembargador Jadir Silva, cuja parte fiz transcrever, justamente a que subsidiou o rechaamento da preliminar levantada pela defesa naqueles autos, de incompetncia desta Justia castrense para processar e julgar a representao para perda de graduao das praas das instituies militares, nas hipteses em que a pena privativa de liberdade superior a 2 (dois) anos decorrer de condenao pelo cometimento de crime comum. Apenas quero realar dois pontos que ainda julgo essenciais: o primeiro, relacionado  revogao do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Supremo Tribunal Federal assentou uma jurisprudncia equivocada sobre a distinção de condenações passíveis de procedimentos criminais para se declarar a perda de graduação ou do posto e da patente, sendo que a Lei Maior não fez distinção no tocante às condenações criminais. O Tribunal de Justiça Militar passou a ter competência exclusiva para examinar e decidir sobre a perda da graduação quando o crime for praticado por policial militar.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+30 31 Segundo a defesa, o autor deveria ter sido submetido  percia psicopatolgica em face dos seguintes argumentos: existncia de recomendao do mdico perito da NAIS/113 RPM baseada no artigo 350 do MAPPA; histrico de doena mental; e nos termos do art. 17 da Resoluo Conjunta n. 4.278/13. Nesse sentido, alegou a ocorrncia de erro de fato no trecho do acrdo rescindendo, a seguir transcrito, que refutou a tese defensiva de nulidade por ausncia de percia psicopatolgica: Por fim, o apelante sustenta a nulidade do PAD por no ter sido submetido a percia psicopatolgica. Com base no posicionamento desta Corte de Justia, a alegao do apelante deve ser rejeitada, pois, conforme se verifica  fl. 4 do ID 103527, H INFORMAO DA NAIS DO 30 BPM NOTICIANDO QUE O APELANTE NO NECESSITAVA SER SUBMETIDO  PERCIA PSICOPATOLGICA. Isso porque a informao supramencionada se referia a mensagem do Tenente mdico que respondia pelo NAIS do 30 BPM, o qual teria ignorado a ordem do Chefe da Gerncia Regional de Sade da 11a RPM, Major PM Srgio Barcala, que havia anteriormente determinado a realizao de percia psicopatolgica. A fim de corroborar o esposado, colaciona a mensagem de protocolo n. 145557913883505926687-1602 enviada atravs do Painel Administrativo. Alegou que a deciso rescindenda se pautou em falsa premissa ftica, pois considerou a recomendao de um Tenente que respondia pelo NAIS do 30 BPM/11aRPM e desconsiderou a determinao do Major Pm Srgio Barcala, Chefe das GRS da 11a rpm, que havia periciado e licenciado o autor. Disse tratar-se de fato notoriamente comprovado nos autos que, caso desconsiderado, conduz a uma deciso completamente distinta e que configura erro de fato induzido pela interpretao equivocada de uma mensagem enviada via Painel Administrativo. Refutou tambm a segunda parte do acrdo rescindendo que tratou da mesma matria sob o argumento de que a farta documentao constante nos autos comprovou que o autor estava doente antes da instaurao do PAD e que foi o Major PM Srgio Barcala quem periciou o autor no dia 12/02/2016, suspendeu o seu porte de arma, recomendou a sua internao em clnica psiquiatra e a realizao da percia psicopatolgica. Aduziu que, ao contrrio do consignado no acrdo rescindendo, o problema de sade mental do autor era notrio; que ele no estava simulando uma molstia mental para procrastinar o encerramento do PAD; e que somente obteve alta do Hospital Psiquitrico em que estava internado porque houve o cancelamento do convnio em face da sua exonerao da PMMG.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa alegou que o autor deveria ter sido submetido a percia psicopatolgica, mas a decisão rescindenda foi baseada em uma informação errônea de um Tenente que respondia pelo NAIS do 30 BPM/11aRPM, ignorando a determinação do Major Pm Srgio Barcala, Chefe das GRS da 11a rpm, que havia periciado e licenciado o autor. A documentação constante nos autos comprovou que o autor estava doente antes da instauração do PAD e que o Major PM Srgio Barcala havia recomendado a sua internação em clínica psiquiátrica e a realização da pericia psicopatológica.

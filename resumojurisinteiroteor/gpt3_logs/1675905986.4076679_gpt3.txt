@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Intimadas as partes para se manifestarem quanto s provas que pretendiam produzir, o autor requereu a produo de prova testemunhal (Eventol, ESPECIFICAOPROVA21), enquanto o ru requereu a juntada do Ofcio PmMg/DRH3 n. 59/2018, contendo informaes necessrias  defesa dos interesses do Estado de Minas Gerais (Evento1, ESPECIFICA OPROVA 22). Consta no Evento 1, documento DECL_COMPE42, a deciso declinando da competncia para processar e julgar a presente ao, determinando a remessa dos autos para esta Justia Militar. Distribudos os autos para a 5a Auditoria da Justia Militar Estadual, o magistrado ratificou a deciso que indeferiu o pedido de tutela de urgncia, bem como determinou que o ento autor comprovasse o preenchimento dos pressupostos para a concesso da gratuidade de justia (Evento 13). Consta no Evento 18 deciso concedendo os benefcios da justia gratuita, bem como determinando a intimao das partes para dizerem se possuam outras provas a produzir, tendo o Estado de Minas Gerais informado, no Evento 23, no haver mais provas a produzir e o autor se quedado inerte (Evento 24). O juzo de primeiro grau proferiu a sentena constante no Evento 26, julgando improcedentes as pretenses do autor, alm de conden-lo ao pagamento das custas processuais e dos honorrios advocatcios, estes fixados em 10% (dez por cento) do valor dado  causa, suspendendo a exigibilidade do crdito em funo do deferimento dos benefcios da justia gratuita. Entendeu o magistrado que inexistiu violao aos princpios do contraditrio e da ampla defesa, pois o ento autor constituiu advogado e apresentou defesa, destacando que a presena do acusado e do advogado durante a oitiva de testemunha  facultativo. Destacou ainda o magistrado que no consta dos autos qualquer informao ou prova de que fora oferecido recurso contra a deciso proferida pelo Comandante-Geral de excluso do Autor.e que o art. 87 da Lei n. 14.310/2002 prev que A no interposio de recurso disciplinar no momento oportuno implicar aceitao da sano, que se tornar definitiva. Seguindo seu raciocnio, o magistrado entendeu que, portanto, ocorreu a precluso do direito de recorrer e que, assim, nesta seara judicial, indica-se a precluso lgica, pois a aceitao da sano, conforme preceituado pelo art. 87 do CEDM, perfaz a adoo de conduta incompatvel com a busca pela anulao do ato e da prpria penalidade.. Por fim, arrematou o juiz que [...] constatado que o direito do autor se encontra precluso, fato que o impossibilita, inclusive, de utilizar-se das vias judiciais, pois no pode o Judicirio fazer as vezes da Administrao Militar, a improcedncia do pedido  medida que se impe... Intimadas as partes sobre a sentena, o autor interps o presente recurso de apelao (Evento 30).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sentena proferida pelo juízo de primeiro grau julgou improcedentes as pretensões do autor, além de condená-lo ao pagamento das custas processuais e dos honorários advocatícios, suspendendo a exigibilidade do crédito em função do deferimento dos benefícios da justiça gratuita. O magistrado entendeu que houve preclusão lógica do direito de recorrer, pois a aceitação da sano implica na adesão à conduta incompatível com a busca pela anulação do ato e da própria penalidade.

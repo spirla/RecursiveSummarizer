@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O trancamento de inqurito policial ou de ao penal em sede de habeas corpus  medida excepcional, s admitida quando restar provada, inequivocamente, sem a necessidade de exame valorativo do conjunto ftico-probatrio, a atipicidade da conduta, a ocorrncia de causa extintiva da punibilidade, ou, ainda, a ausncia de indcios de autoria ou de prova da materialidade do delito. O STM (HC 7000425-85.2018.7.00.0000) vai nesta esteira:
+O trancamento do Inqurito Policial Militar na via estreita do Habeas Corpus  providncia excepcionalssima, a exigir que, de plano, ou seja, sem exame aprofundado e exaustivo da prova pr-constituda e daquela eventualmente propiciada pela autoridade indigitada coatora, exsurja a certeza da atipicidade da conduta, da inexistncia de materialidade, da ausncia de indcios de autoria ou da ocorrncia de alguma causa extintiva de punibilidade. O TJMSP (RSE 0000266-88.2015.9.26.0030) no diverge desse entendimento de que o IPM tem  natureza inquisitiva e que pode at gerar constrangimento ao investigado, mas um constrangimento que, absolutamente, no  ilegal, pois  dever da autoridade militar proceder  apurao de crime noticiado . O entendimento pretoriano, como se v,  que a investigao policial somente pode ser obstada pela restrita via do habeas corpus se, de um simples exame dos autos, verificar-se, desde logo, no haver uma infrao penal, em tese, ou qualquer indcio de autoria envolvendo os investigados. Em resumo, o trancamento do IPM por falta de justa causa  vivel se houver manifesta atipicidade do fato. Assim, se do exame da exposio dos fatos articulados na Portaria do IPM e dos demais documentos que compem os autos no se infere, prima facie , a existncia de fato penalmente relevante, ou seja, se desde logo se verificar atipicidade do fato  cabvel o trancamento de IPM. Tambm, se houver clara inexistncia de indcios de autoria, de coautoria ou de participao no crime, por exemplo, a prova inequvoca de um libi.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O trancamento de inquérito policial ou de ação penal por meio de habeas corpus é uma medida excepcional, permitida somente quando houver prova inequívoca de atipicidade da conduta, causa extintiva da punibilidade ou ausência de indícios de autoria ou materialidade do delito. O trancamento do IPM só é possível se, de um simples exame dos autos, verificar-se a inexistência de infração penal ou qualquer indício de autoria.

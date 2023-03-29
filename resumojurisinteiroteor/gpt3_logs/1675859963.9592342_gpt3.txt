@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Precedentes. 7. Agravo interno no provido. (AgInt no RMS n. 67.473/BA, relator Ministro Benedito Gonalves, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022.) Partindo dessas premissas e aps detida anlise dos documentos que instruem o presente feito, entendo que o ato administrativo-disciplinar que determinou a demisso do apelante deve ser mantido em seus exatos termos, conforme passo a demonstrar. Primeiro, refuto as alegadas nulidades subsidiadas em matria estranha  competncia dessa Justia Militar. Como se sabe,  entendimento sedimentado nos tribunais superiores a independncia das esferas cvel, criminal e administrativa, sendo que uma mesma conduta pode ensejar responsabilidade criminal, sem acarretar, obrigatoriamente, a administrativa, ou vice-versa. [...] II - A jurisprudncia desta Corte firmou o entendimento de que o princpio da independncia relativa das instncias cvel, criminal e administrativa permite que as esferas atuem juntas, sem afetarem-se de modo a prejudicar a punio daquele que merea sano por ilcito penal. III - Conforme a Smula 279/STF,  invivel, em recurso extraordinrio, o reexame do conjunto ftico-probatrio constante dos autos. IV - Agravo regimental a que se nega provimento. (ARE 1244153 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 03/03/2020, PROCESSO ELETRNICO DJe-053 DIVULG 11-03-2020 PUBLIC 12-03-2020) Assim, como sobredito, compete, estritamente a este juzo, a apreciao quanto  regularidade do Processo Administrativo-Disciplinar (PAD),  luz dos princpios do contraditrio e da ampla defesa, sendo-lhe defeso a anlise de mrito do ato administrativo disciplinar, bem como de questes relacionadas a esfera criminal (suposto crime de receptao, flagrante preparado), cvel (usucapio) ou mesmo questes administrativas diversas da seara disciplinar militar (prescrio de multas de trnsito). Nesse sentido, confira-se: Ementa: AGRAVO INTERNO EM RECURSO EXTRAORDINRIO. DIREITO ADMINISTRATIVO. SERVIDOR PBLICO. PRETENSO DE AFASTAMENTO DE PENALIDADE DE DEMISSO  VISTA DE ACORDO DE DELAO PREMIADA FIRMADO. OFENSA REFLEXA. SMULAS 279, 280 E 454 DO STF. INADMISSIBILIDADE. INDEPENDNCIA DAS ESFERAS ADMINISTRATIVA, CVEL E PENAL. PRECEDENTE.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O agravo interno foi negado, pois o princípio da independência relativa das instâncias cível, criminal e administrativa permite que as esferas atuem juntas, sem afetarem-se de modo a prejudicar a punição do infrator. Não é admissível o reexame do conjunto fático-probatório constante dos autos.

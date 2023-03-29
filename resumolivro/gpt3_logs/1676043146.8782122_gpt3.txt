@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A perspectiva da ao comunicativa recebeu importante contribuio de Gadamer, que complementa o giro lingustico com a compreenso de que todos os aspectos do entendimento humano possuem uma dimenso hermenutica que encontra na linguagem a possibilidade de sua experincia. Todo o entendimento humano  uma forma de interpretao que se realiza em determinado contexto histrico. Reabilitando a tradio em seu sentido original (e por que no dizer, tambm jurdico) contra a iluso da verdade cientfica obtida por meio da razo imparcial, Gadamer ressalta que o entendimento (interpretao) que  transmitido pela linguagem (tradio) est constantemente submetido a um processo de reelaborao (reinterpretao), ao qual denominou de fuso de horizontes. Nesse sentido, no h significados fixos, finais ou absolutos para as condutas humanas. Os significados que atribumos aos comportamentos humanos esto sempre em movimento, constantemente se modificando no processo de interpretao. No que diz respeito ao mbito normativo do direito, a mudana de paradigma impe a superao do acordo normativo tradicional pelo acordo comunicativo, que decorre do consenso racional entre os participantes da interao social. Nos termos da racionalidade prtica, a normatividade do direito se apresentou de maneira imediata, como fruto da deciso de uma autoridade que se funda em um direito que  concebido como um produto pronto e acabado. A razo comunicativa, por outro lado, prope uma normatividade mediata, que se baseia em pretenses de validade sempre passveis de problematizao e que se afirmam por meio do consenso (sempre provisrio) obtido com base nos melhores argumentos. A teoria da ao comunicativa de Habermas concentrou atenes no desempenho discursivo dos participantes da comunicao. Fazendo distino entre o mundo da vida, no qual a ao comunicativa promove uma interao simbolicamente mediada pela linguagem entre participantes que buscam entender-se sobre as questes da vida associativa, e o sistema, no qual a comunicao se opera por meio de ao estratgica que  desenvolvida com o objetivo de regulamentar as relaes intersubjetivas e alcanar determinados fins247, Habermas inicialmente entendeu o Direito positivo como ao estratgica que contribui para a colonizao do mundo da vida. A comunicao que se opera no sistema  restrita e o Direito, ao determinar as regras de convivncia social, reserva o espao da construo normativa apenas aos tcnicos e especialistas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A perspectiva da ao comunicativa recebida por Gadamer propõe que todo entendimento humano é uma forma de interpretação que se realiza em um determinado contexto histórico. Habermas entendeu o Direito positivo como ação estratégica que contribui para a colonização do mundo da vida, restringindo a comunicação e reservando o espaço da construção normativa apenas aos especialistas.

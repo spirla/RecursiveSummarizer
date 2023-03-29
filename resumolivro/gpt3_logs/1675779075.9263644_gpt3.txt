@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na verdade, a referida norma esta apenas destacando o nus processual de provar o alegado, inerente ao processo acusatorio. Nesse sentido:
+APELACAO CIVEL - ACAO ANULATORIA DE ATO ADMINISTRATIVO - ART. 13, INCISO XX, DO CEDM - PRELIMINAR DE PRESCRICAO NAO ACOLHIDA - O NUS DA PROVA INCUMBE AO AUTOR, QUANTO AO FATO CONSTITUTIVO DO SEU DIREITO - NO MERITO, A CAUSA DE JUSTIFICACAO PREVISTA NO ARTIGO 19, INCISO I, DO CEDM NAO SE APLICA AO CASO ORA EM ANALISE - ATO ADMINISTRATIVO PERFEITO E ACABADO - MANUTENCAO DA SENTENCA A QUO - RECURSO A QUE SE NEGA PROVIMENTO. - Nos termos do artigo 373, inciso I, do CPC, o nus da prova incumbe ao autor, quanto ao fato constitutivo do seu direito. Nao ficou comprovado pelo recorrente se fluiu lapso temporal superior a dois anos entre o cometimento da transgressao disciplinar e a ativacao da sancao. Prescricao afastada. - Nao ha, no presente feito, qualquer elemento que permita aplicar quaisquer das causas de justificacao previstas no artigo 19 do CEDM, o que nos leva a conclusao de que o ato administrativo e legal, perfeito e acabado, nao merecendo retoque. - Sentenca mantida. - Provimento negado. (TJM-MG: Apelacao Civel - Proc. 1000041-33.2017.9.13.0001, Rel. Des. Rubio Paulino Coelho, julgamento 19/03/2019)
+Dos aludidos conceitos, decorre o fato de que a CPAD cabe comprovar o libelo acusatorio constante da portaria de convocacao e do respectivo termo de abertura de vista, tanto que o artigo 70, IX, do CEDM deferiu a CPAD o poder de providenciar qualquer diligncia que julgar necessaria a elucidacao dos fatos, podendo, inclusive, inquirir e reinquirir quantas testemunhas entender primordiais. Ja a defesa, incumbe comprovar os fatos desconstitutivos alegados bem como os alibis apresentados. Nesse caso, se alegar que o acusado cometeu o fato a ele imputado, contudo, amparado por alguma das causas justificantes do artigo 19 do CEDM, cabe a defesa o nus de demonstrar e comprovar a presenca dos requisitos necessarios a causa alegada.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O nus da prova incumbe ao autor para comprovar o fato constitutivo do seu direito. A CPAD tem o poder de providenciar qualquer diligência para elucidar os fatos e a defesa tem o nus de comprovar os fatos desconstitutivos e alibis alegados. Se alegar que o acusado cometeu o fato amparado por alguma das causas justificantes do artigo 19 do CEDM, cabe à defesa comprovar os requisitos necessários para a causa alegada.

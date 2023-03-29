@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O princpio da consuno, tambm denominado princpio da absoro, pode ser sintetizado na seguinte frmula: a caracterizao do crime-fim absorve a hiptese do crime-meio. Lamentavelmente,  comum observar a erronia de alguns operadores do direito ao resumir o princpio na frmula: o crime mais grave absorve o crime menos grave. No  essa a essncia do princpio. Jescheck esclarece que ocorre consuno quando o contedo de injusto e de culpabilidade de uma ao tpica alcana, incluindo-o, o de outro tipo penal, de sorte que a condenao baseada em um nico tipo j expressa, de forma exaustiva, o desvalor de todo o processo - lex consumens derogat legi consuptae. Nas palavras de Hungria:
+uma norma se deve reconhecer consumida por outra quando o crime previsto por aquela no passa de uma fase de realizao do crime previsto por esta, ou  uma necessria ou normal forma de transio para o ltimo (crime progressivo). O crime previsto pela norma consuntiva representa a etapa mais avanada na efetivao do malefcio, aplicando-se, ento, o princpio de que major absorbet minorem. Os fatos, aqui, tambm no se acham em relao de species a genus, mas de minus a plus, da parte a todo, de meio a fim. Uma eventual polmica sobre a aplicao do princpio da consuno perde importncia aps a contribuio do finalismo de Welzel, posto que a finalidade que orienta a conduta do sujeito  a principal referncia para a interpretao do operador do direito. E a resoluo do conflito aparente de leis (ou normas) penais desafia justamente a sensibilidade interpretativa do operador do direito. Vejamos o exemplo do crime de homicdio perpetrado com emprego de arma de fogo. O porte ilegal de arma de fogo de uso permitido, por si s,  crime previsto no artigo 14 da Lei 10.826/2003. Contudo, para a caracterizao do crime de porte de arma  necessrio examinar o sentido e o contexto da conduta punvel. Se o sujeito pega a arma de fogo e a porta na cintura para ir a um determinado local de suas relaes cotidianas, o crime de porte de arma  autnomo em relao ao homicdio que eventualmente venha a praticar no local. Quando o sujeito toma posse da arma, o porte  o fim perseguido por ele. Posteriormente, o emprego da arma portada no descaracteriza o crime j consumado. Todavia, se o sujeito no est na posse da arma e a usa exclusivamente para a prtica do homicdio, o crime contra a vida absorve o crime de porte de arma. A situao  bastante frequente.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da consumação, também conhecido como princípio da absorção, afirma que a caracterização do crime-fim absorve a hipótese do crime-meio. O exemplo do crime de homicídio perpetrado com emprego de arma de fogo mostra que, se o sujeito estiver na posse da arma, o porte será autônomo em relação ao homicídio. Porém, se o sujeito não estiver na posse da arma e a usar exclusivamente para a prática do homicídio, o crime contra a vida absorverá o crime de porte de arma.

@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na lavratura do APF a autoridade deve adotar o procedimento previsto no artigo 245 do CPPM de:
+(a) ouvir o condutor do preso:
+que  uma autntica testemunha;
+(b) ouvir as testemunhas:
+h testemunhas da infrao penal militar - denominadas de presenciais - e testemunhas da apresentao porquanto o pargrafo 2 do dispositivo em exame diz que A falta de testemunhas no impedir o auto de priso em flagrante, que ser assinado por duas pessoas, pelo menos, que hajam testemunhado a apresentao do preso;
+(c) interrogar o conduzido:
+antes de iniciar o interrogatrio do conduzido sobre a imputao que lhe  feita, a autoridade deve observar ao conduzido as garantias constitucionais de permanecer calado e da assistncia da famlia e de advogado (artigo 5, LXIII, CF). Quanto  assistncia de advogado, o referido profissional tem prerrogativas previstas no artigo 7 da Lei 8.906/1994 de:
+comunicar-se com seus clientes, pessoal e reservadamente, mesmo sem procurao, quando estes se acharem presos, detidos ou recolhidos em estabelecimentos civis ou militares, ainda que considerados incomunicveis (inciso III), de examinar, em qualquer instituio responsvel por conduzir investigao, mesmo sem procurao, autos de flagrante (inciso XIV) e de assistir a seus clientes investigados durante a apurao de infraes (inciso XXI). Os depoimentos e o interrogatrio so reduzidos a termo pelo escrivo. Onde no houver planto de polcia judiciria militar (PPJM) ou delegacia de polcia judiciria militar, a autoridade militar designar para exercer as funes de escrivo ad hoc, capito, capito-tenente, primeiro ou segundo-tenente, se o indiciado for oficial. Nos demais casos, poder designar subtenente, suboficial ou sargento (artigo 245, pargrafo 4, CPPM). Na falta ou impedimento dessas autoridades militares, a autoridade designar pessoa idnea, que prestar o compromisso legal (artigo 245, pargrafo 5, CPPM). O APF  por todos assinado (parte final do artigo 245, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Na lavratura do APF, a autoridade deve ouvir o condutor do preso, as testemunhas e interrogar o conduzido, observando as garantias constitucionais. O advogado tem prerrogativas previstas na Lei 8.906/1994. Os depoimentos e o interrogatrio são reduzidos a termo pelo escrivo, que pode ser designado pela autoridade militar. O APF é assinado por todos.

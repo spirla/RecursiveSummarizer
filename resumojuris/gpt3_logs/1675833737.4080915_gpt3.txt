@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE E indevida a cobranca promovida por concessionaria de rodovia, em face de autarquia prestadora de servicos de saneamento basico, pelo uso da faixa de dominio da via publica concedida. A questao debatida diz respeito ao reconhecimento da legalidade de cobranca promovida por concessionaria de rodovia, em face de autarquia de prestacao de servicos de saneamento basico, pelo uso da faixa de dominio da via publica concedida. Em outras palavras, questiona-se a legitimidade da cobranca, por pessoa juridica de direito privado, em face de pessoa juridica de direito publico interno, pelo uso de parte da faixa de dominio de autovia concedida para implementar obras de saneamento basico. Embora cedido ao particular, o bem publico de uso comum do povo nao se desnatura, permanecendo, pois, afetado a destinacao publica, motivo pelo qual se afigura ilegitimo exigir remuneracao pela sua utilizacao, quando voltada a viabilizar a execucao de servico publico de saneamento basico prestado por entidade estatal que esteja fora do regime concorrencial. Com efeito, revela-se ilegal a cobranca pelo uso da faixa marginal promovida pelo Estado contra concessionaria, porquanto inviavel tipificar os valores envolvidos como preco publico ou taxa, seja porque, no primeiro caso, o uso do espaco se reverte em favor da coletividade, seja porque, na segunda hipotese, estao ausentes a prestacao de servico publico ou o exercicio do poder de policia. Em contrapartida, figurando sujeitos privados na relacao processual de tais lides, ou seja, quando presente, primariamente, a tonica negocial e a exploracao economica, a exigencia se revela legitima, porem dependente de previsao no contrato de concessao, nos moldes do art. 11 da Lei n. 8.987/1995.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilegal a cobrança pelo uso da faixa marginal promovida pelo Estado contra concessionária, pois não é possível tipificar os valores envolvidos como preço público ou taxa. 2. Quando presente a tonica negocial e a exploração econômica, a exigência se revela legítima, desde que prevista no contrato de concessão.

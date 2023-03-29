@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+316, paragrafo unico, do CPP. Mediante interpretacao teleologica de vies objetivo - a qual busca aferir o fim da lei, e nao a suposta vontade do legislador, visto que aquela pode ser mais sabia do que este -, a finalidade da norma que impoe o dever de reexame ex officio buscar evitar o gravissimo constrangimento experimentado por quem, estando preso, sofre efetiva restricao a sua liberdade, isto e, passa pelo constrangimento da efetiva prisao, que e muito maior do que aquele que advem da simples ameaca de prisao. Nao poderia ser diferente, pois somente gravissimo constrangimento, como o sofrido pela efetiva prisao, justifica o elevado custo despendido pela maquina publica com a promocao desses numerosos reexames impostos pela lei. Com efeito, nao seria razoavel ou proporcional obrigar todos os Juizos criminais do pais a revisar, de oficio, a cada 90 dias, todas as prisoes preventivas decretadas e nao cumpridas, tendo em vista que, na pratica, ha reus que permanecem foragidos por anos. Mesmo que se adote interpretacao teleologica de vies subjetivo - relacionada ao fim da lei, tendo em vista suposta vontade ou motivacao do legislador -, a finalidade da norma aqui discutida continuara a se referir apenas a evitar o constrangimento da efetiva prisao, e nao a que decorre de mera ameaca de prisao. Isso porque o objetivo principal desse paragrafo [do art. 316 do CPP] se liga ao juizo de primeiro grau, buscando-se garantir que o processo, com reu preso, tenha uma rapida instrucao para um termino breve . Assim, se o acusado - que tem ciencia da investigacao ou processo e contra quem foi decretada a prisao preventiva - encontra-se foragido, ja se vislumbram, antes mesmo de qualquer reexame da prisao, fundamentos para mante-la - quais sejam, a necessidade de assegurar a aplicacao da lei penal e a garantia da instrucao criminal -, os quais, alias, conservar-se-ao enquanto perdurar a condicao de foragido do acusado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A interpretação teleológica de vies objetivo busca aferir o fim da lei, e não a suposta vontade do legislador. 2. A finalidade da norma que impõe o dever de reexame ex officio é evitar o gravíssimo constrangimento experimentado por quem está preso, sofrendo efetiva restrição à sua liberdade. 3. Não seria razoável ou proporcional obrigar todos os Juizos criminais do país a revisar, de ofício, todas as prisões preventivas decretadas e não cumpridas. 4. A finalidade da norma aqui discutida se refere apenas a evitar o constrangimento da efetiva prisão, e não a que decorre de mera ameaça de prisão. 5. O objetivo principal desse parágrafo [do art. 316 do CPP] se liga ao juízo de primeiro grau, buscando-se garantir que o processo, com réu preso, tenha uma rápida instrução para um término breve. 6. Enquanto o acusado estiver foragido, haverá fundamentos para manter a prisão preventiva, como a necessidade de assegurar a aplicação da lei penal e a garantia da instrução criminal.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Mostram os autos que cada material apreendido pelas equipes de policiais militares designadas para cumprirem os mandados de busca e apreenso, em face dos suspeitos de integrarem a operao Hexagrama, foi apresentado ao Grupo de Atuao Especial de Combate ao Crime Organizado (GAECO), devidamente lacrado, com a transcrio no respectivo Relatrio de Evento de Defesa Social (REDS), do nmero de cada lacre, o que torna possvel a individualizao e a rastreabilidade de cada dispositivo, sendo importante destacar, ainda, que a integralidade desses dados foi apresentada aos juzos competentes, que os aceitaram e os valoraram no mbito de cada processo, conforme seu livre convencimento motivado. Para alm disso, e visando eliminar eventual dvida que ainda persistir quanto a este tema, recorro s bem lanadas respostas do ilustre promotor de justia Dr. Peterson Queiroz Arajo s indagaes da defesa nos autos n. 2000541-34.2021.9.13.0004, recurso de apelao interposto pelo corru Rafael Henrique Ribeiro, evento 34, plenamente aplicveis, no s este, como a todos os processos vinculados  operao Hexagrama. Da precitada resposta ministerial peo venia para transcrever os pargrafos a seguir, que serviro, por si s e segundo a minha compreenso, ao esclarecimento final da dvida aventada: [...] A coleta das evidncias foi realizada pelas equipes de policiais militares escaladas para o cumprimento dos mandados, que lacraram os dispositivos no local e os entregaram  Secretaria do GAECO em 06.03.2020, conforme detalhado no Auto de Busca N. 02/2020-P01 e REDS n. 2020-011685671-001. Os dados referentes a como, quando, onde e por quem foram apreendidos esto nos referidos documentos. [.] Os referidos aparelhos foram recebidos pela Secretaria do GAECO em 06.03.2020 e permaneceram sob a custdia da Secretaria, devidamente isolados e preservados, sendo encaminhados ao GCOC em 12.03.2020, sob a responsabilidade do Ten Cel PM Nepomuceno. Os dados solicitados esto disponveis nos documentos que acompanham esta manifestao. [.] O processo de extrao  o recomendado pela empresa Cellebrite, nos termos de sua documentao. Como sabido, os dados so extrados e copiados por meio do equipamento da Cellebrite, sem interveno humana durante a gerao dos dados brutos e com garantia de integridade dos dados mediante aplicao de funes criptogrficas e outras tecnologias da empresa - eventuais alteraes nos arquivos (j disponibilizados ao Juzo) seriam facilmente detectadas a partir da anlise dos valores HASH calculados. Os dados solicitados (data, hora etc.) esto disponveis nos relatrios de extrao j apresentados ao Juzo. [.] Com esses argumentos afasto a segunda preliminar aventada.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Os materiais apreendidos pelas equipes de policiais militares foram apresentados ao GAECO lacrados, com transcrio no REDS, permitindo individualizao e rastreabilidade. Os dados foram aceitos e valorados pelos juzos competentes. O promotor de justia esclareceu que os aparelhos foram recebidos pela Secretaria do GAECO, preservados e encaminhados ao GCOC, com dados extrados e copiados por meio do equipamento da Cellebrite, com garantia de integridade.

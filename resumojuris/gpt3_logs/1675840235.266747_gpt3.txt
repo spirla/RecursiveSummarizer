@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, por ja ter havido manifestacao do Plenario da Suprema Corte sobre a controversia e em razao desse entendimento estar sendo adotado pelos Ministros de ambas as Turmas do STF, essa orientacao deve passar a ser aplicada nos julgamentos do Superior Tribunal de Justica, uma vez que nao ha mais divergencia interna naquela Corte sobre o assunto (AgRg no RHC 163.758/SC, rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27/06/2022), (AgRg no REsp 2.000.360/PR, rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, DJe de 15/08/2022). (Informativo n. 755) PROCESSO AgRg na Rcl 42.292-DF, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Terceira Secao, por unanimidade, julgado em 24/08/2022, DJe 26/08/2022. RAMO DO DIREITO DIREITO PENAL TEMA Objecao a utilizacao de provas colhidas de maneira independente em Processo Administrativo Disciplinar (PAD). Nao ocorrencia. Remanescencia de conjunto probatorio robusto produzido na esfera administrativa. Nao contaminacao. Teoria da fonte independente e descoberta inevitavel da prova. DESTAQUE A decisao que determina exclusao de elementos probatorios obtidos mediante o acesso ao e-mail funcional de servidor investigado nao contamina a legalidade da utilizacao de provas produzidas de forma independente por comissao disciplinar de PAD, em observancia a teoria da fonte independente e da descoberta inevitavel da prova.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A orientação do Plenário da Suprema Corte deve ser aplicada nos julgamentos do Superior Tribunal de Justiça, uma vez que não há mais divergência interna naquela Corte sobre o assunto. 2. A decisão que determina a exclusão de elementos probatórios obtidos mediante o acesso ao e-mail funcional de servidor investigado não contamina a legalidade da utilização de provas produzidas de forma independente por comissão disciplinar de Processo Administrativo Disciplinar (PAD), em observância à teoria da fonte independente e da descoberta inevitável da prova.

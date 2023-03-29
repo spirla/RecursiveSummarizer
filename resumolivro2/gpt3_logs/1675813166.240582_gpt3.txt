@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ da competncia o STJ julgar, em recurso ordinrio habeas corpus , se a deciso em nica ou ltima instncia for do Tribunal de Justia ou de Justia Militar dos Estados, responsveis pela coao em decorrncia de julgado em sede competncia originria ou recursal. Compete ao STM conhecer do pedido de habeas corpus , quando a coao provier de rgo jurisdicional inferior (art. 469 , CPPM ). Compete ao juiz federal, de acordo com o art. 30, I-C, da Lei n. 8.457/92 , que organiza a JMU, julgar os habeas corpus contra ato de autoridade militar praticado em razo da ocorrncia de crime militar, exceto o praticado por oficial-general. Compreende-se a objeo em relao aos Conselhos de Justia de conhecer do pedido de habeas corpus , pois haveria quebra da hierarquia, isto , com o oficial do Conselho de Justia, inferior ou mais moderno do que a autoridade coatora, reconhecendo a ilegalidade do ato praticado pelo superior hierrquico e concedendo a ordem de habeas corpus . O Provimento n. 003, de 27.11.2006, da Corregedoria da Justia Militar do Estado de So Paulo, em razo do acrscimo do  5 ao art. 125 da CF feito pela Emenda Constitucional n. 45/04 , que atribuiu competncia aos Juzes de Direito do Juzo Militar para processar e julgar, singularmente, os crimes militares cometidos contra civis, cabendo-lhes, ainda, a presidncia do Conselho de Justia, quando do julgamento dos demais crimes militares e, ainda, que no mbito da Justia Militar estadual, decidiu distribuir os pedidos de habeas corpus e as impetraes de mandados de segurana em que figurarem como coatora autoridade policial militar, com exceo do Chefe da Casa Militar e do Comandante Geral da Polcia Militar, aos Juzes de Direito do Juzo Militar. Quando a autoridade coatora for o Chefe da Casa Militar ou o Comandante Geral da Polcia Militar e a matria inserir-se na esfera penal militar, a competncia permanece com o TJMSP. Conforme o art.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ julga habeas corpus em casos de decisões de Tribunais de Justiça ou de Justiça Militar dos Estados. O STM conhece do pedido de habeas corpus quando a coação provier de órgão jurisdicional inferior. O juiz federal julga habeas corpus contra atos de autoridade militar praticados em razão de crimes militares, exceto os praticados por oficiais-generais. O Provimento n. 003 da Corregedoria da Justiça Militar do Estado de São Paulo distribui os pedidos de habeas corpus e mandados de segurança com exceção do Chefe da Casa Militar e do Comandante Geral da Polícia Militar para os Juízes de Direito do Juzo Militar.

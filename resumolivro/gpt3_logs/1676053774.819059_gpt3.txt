@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O incidente que tramita em apartado se mostra til apenas quando se trata de discutir uma questo de natureza processual. Para a deciso de mrito da pretenso punitiva basta que o querelado consiga instalar a dvida sobre a veracidade da imputao ofensiva  reputao da vitima.  nus processual do acusador comprovar a ilicitude da conduta do ru. Se o querelante no conseguir comprovar cabalmente a ilicitude de um fato descrito como difamao, o ru deve ser absolvido. Se a ilicitude material  uma exigncia cuja satisfao  necessria para a caracterizao do fato como difamao, a simples dvida de que a imputao seja verdadeira  suficiente para levar a uma absolvio. Conforme o pargrafo nico do artigo 139 do CP, a prova da verdade somente ser admitida quando o ofendido  funcionrio pblico e a ofensa  relativa ao exerccio de suas funes. Nos termos da previso excepcional, para que a prova da verdade seja capaz de produzir efeitos favorveis a defesa do acusado  necessrio que: a) ofendido seja funcionrio pblico no momento em que  proferida a ofensa; e b) que a ofensa diga respeito ao exerccio das funes pblicas do ofendido. O pargrafo nico do artigo 139 do CP dispe expressamente que o ofendido deve ser funcionrio pblico. Isso significa que o ofendido deve ser funcionrio pblico no momento da ofensa proferida, no importando que deixe de s-lo posteriormente quando da ao penal. Para os fins da admisso da exceo da verdade, o conceito de funcionrio pblico deve ser extrado do artigo 327 do Cdigo Penal. Conforme mencionado anteriormente, Nelson Hungria sustentou que o ampliado conceito de funcionrio pblico estabelecido pelo referido artigo somente se aplica para indicar o sujeito ativo dos crimes funcionais. Neste sentido, para os crimes contra a honra praticados contra funcionrios pblicos, dever-se-ia utilizar a noo mais restrita do direito administrativo. No entanto, em sentido contrrio, os tambm clssicos Heleno Cludio Fragoso e Magalhes Noronha sustentaram que a definio de funcionrio pblico se aplicaria a toda e qualquer disposio do Cdigo Penal e da legislao extravagante38, sendo este o melhor entendimento. Conforme o artigo 327 do CP, a definio de funcionrio pblico deve ser utilizada para os efeitos penais e, por isso, no  possvel concluir que tal definio somente se aplique aos crimes funcionais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O querelado deve ser absolvido caso não seja comprovada cabalmente a ilicitude de um fato descrito como difamação. O nús processual do acusador é comprovar a ilicitude da conduta do ru. A prova da verdade somente ser admitida quando o ofendido for funcionário público e a ofensa for relativa ao exerccio de suas funções. O conceito de funcionário público para os efeitos penais é definido no artigo 327 do Código Penal.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Agora, em relao aos pedidos subsidirios para a hiptese de provimento do apelo ministerial e consequente condenao do ru (evento 117 - fls. 23), deve ser acolhida a pretenso de reconhecimento da causa de aumento de pena prevista no artigo 1,  4, inciso I, da Lei n. 9.455/97, uma vez que, muito embora ela no tenha sido includa expressamente na capitulao jurdica constante da denncia, ao longo da narrativa dos fatos na exordial acusatria restou demonstrado, em diversos trechos, que o crime foi cometido por agente pblico, destacando-se a todo momento que ele agiu enquanto policial militar, no exerccio de sua funo. No que tange ao pleito de fixao de valor mnimo para reparao do dano sofrido pela vtima (art. 387, IV, do CPP), o quantum indenizatrio deve ser estabelecido, j que foi devidamente requerido pelo Parquet nas alegaes finais (evento 104 - fls. 21) e se trata de inquestionvel efeito da condenao, nos termos do que dispe o artigo 109, inciso I, do Cdigo Penal Militar. Da mesma forma, merece guarida o pedido de suspenso dos direitos polticos do condenado, porque, na verdade, a suspenso desses direitos aps o trnsito em julgado constitui-se matria constitucional e, uma vez estabelecida a restrio pelo artigo 15, inciso III, da Constituio Federal, torna-se consequncia automtica da condenao. Salienta-se que, ao impor limites ao exerccio dos direitos polticos em face de condenao criminal transitada em julgado, a Constituio Federal no estabeleceu distines quanto  natureza da pena, sendo que, tanto a doutrina quanto a jurisprudncia, vm entendendo que o referido artigo  autoaplicvel, gozando de eficcia plena e imediata, ou seja, prescinde de qualquer ato de intermediao ou regulamentao legislativa para a sua pronta incidncia. No que diz respeito  declarao de impedimento de nomeao, designao ou contratao, a ttulo comissionado, do sentenciado para o exerccio de funes, cargos e empregos na administrao pblica direta e indireta do Poder Executivo de Minas Gerais, tambm se impe o seu acolhimento, uma vez que, se efetivamente condenado o ru pelo crime de tortura, conforme pleiteado na denncia, o caso concreto enquadrar-se- na alnea g do inciso IV do artigo 1 do Decreto Estadual n. 45.604/2011. Por fim, h de ser indeferida a pretenso de decretao da perda do cargo pblico do condenado, porque, na realidade, o pargrafo 5 da Lei n. 9.455/97 no se aplica s condenaes emanadas da justia castrense, diante da expressa previso do pargrafo 4 do artigo 125 da Constituio Federal no sentido de que, em procedimento especfico, o Tribunal de Justia Militar ser o competente para decidir sobre a perda do posto dos oficiais e da graduao das praas.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A pretenso de reconhecimento da causa de aumento de pena prevista na Lei n. 9.455/97 foi acolhida, assim como a de fixao de valor mnimo para reparao do dano sofrido pela vtima e a de suspenso dos direitos polticos do condenado. A declarao de impedimento de nomeao, designao ou contratao do sentenciado para o exerccio de funes, cargos e empregos na administrao pblica direta e indireta do Poder Executivo de Minas Gerais também foi acolhida, enquanto a pretenso de decretao da perda do cargo público do condenado foi indeferida.

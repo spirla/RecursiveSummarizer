@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A obrigatoriedade de tomar vacinas testadas, aprovadas e registradas pelas autoridades competentes e uma dessas situacoes. No caso em que estiverem em jogo direitos fundamentais de terceiros ou de toda a coletividade, a decisao do individuo de se submeter ou nao a uma medida sanitaria nao produz efeitos apenas sobre a sua esfera juridica, mas tambem sobre a de outras pessoas, que nao necessariamente compartilham das mesmas ideias. A obrigatoriedade da vacinacao esta prevista em alguns diplomas legais vigentes de longa data, como a Lei 6.259/1975 (Programa Nacional de Imunizacoes), a Lei 6.437/1977 (relativa as infracoes a legislacao sanitaria federal) e a Lei 8.069/1990 (Estatuto da Crianca e do Adolescente). Tal previsao jamais foi reputada inconstitucional. Mais recentemente, a Lei 13.979/2020 (referente as medidas de enfrentamento da pandemia da Covid-19), de iniciativa do Poder Executivo, instituiu comando na mesma linha. Ademais, diversos fundamentos justificam a legitimidade do carater compulsorio de vacinas quando existentes consenso cientifico e registro nos orgaos de vigilancia sanitaria, entre os quais: a) o Estado pode, em situacoes excepcionais, proteger as pessoas mesmo contra a sua vontade (dignidade como valor comunitario); b) a vacinacao e importante para a protecao de toda a sociedade, nao sendo legitimas escolhas individuais que afetem gravemente direitos de terceiros (necessidade de imunizacao coletiva); e c) o poder familiar nao autoriza que os pais, invocando conviccao filosofica, coloquem em risco a saude dos filhos (melhor interesse da crianca). No caso, trata-se de recurso extraordinario contra acordao do Tribunal de Justica do Estado de Sao Paulo (TJSP), que determinou que pais veganos submetessem o filho menor as vacinacoes qualificadas como obrigatorias pelo Ministerio da Saude, a despeito de suas conviccoes filosoficas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A obrigatoriedade de tomar vacinas testadas, aprovadas e registradas pelas autoridades competentes é prevista em diversos diplomas legais vigentes. 2. O Estado pode, em situações excepcionais, proteger as pessoas mesmo contra a sua vontade. 3. A vacinação é importante para a proteção de toda a sociedade, não sendo legítimas escolhas individuais que afetem gravemente direitos de terceiros. 4. O poder familiar não autoriza que os pais, invocando convicção filosófica, coloquem em risco a saúde dos filhos. 5. O Tribunal de Justiça do Estado de São Paulo determinou que pais veganos submetessem o filho menor às vacinações qualificadas como obrigatórias pelo Ministério da Saúde, a despeito de suas convicções filosóficas.

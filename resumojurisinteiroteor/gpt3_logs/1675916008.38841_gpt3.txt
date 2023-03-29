@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+9, II, a, do Cdigo Penal Militar e, por conseguinte, firma a competncia da justia comum." (AgRg no RHC 119.820/MS, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 17/12/2019, DJe 4/2/2020). 3. Na espcie, embora estivesse de folga, o paciente praticou o crime com um civil e dois outros policiais militares em servio e fardados, tendo se apresentado para a vtima armado e se identificando como policial militar, contexto que demonstra a competncia da Justia Militar para processar e julgar a causa. Precedentes. 4. Ademais, a defesa "( ) no aventou qualquer nulidade no momento oportuno, ocorrendo, assim, o fenmeno da precluso. (...)" (AgRg no HC 352.132/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 13/6/2017, DJe 22/6/2017). Ademais, os recursos para as instncias superiores no foram admitidos e, em consulta ao site do Tribunal de Justia do Estado do Rio de Janeiro, verifica-se o registro definitivo de baixa do recurso de apelao. Inviabilidade de reexame da condenao na presente via processual. Precedentes. 5. Agravo regimental a que se nega provimento. (AgRg no HC n. 652.330/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021.) Alm disso, h que se ressaltar que o porte de arma do paciente  inerente  sua condio de militar, enquanto que a manuteno ou suspeno do referido porte constitui questo afeta  Administrao Militar. Nesse sentido, confira-se o seguinte julgado do egrgio Tribunal de Justia do Estado de Minas Gerais: EMENTA: APELAO - COAO NO CURSO DO PROCESSO - PRELIMINAR: NULIDADE PROCESSUAL - INOCORRNCIA. MRITO: MATERIALIDADE E AUTORIA - ABSOLVIO - IMPOSSIBILIDADE - SUSPENSO CONDICIONAL DA PENA (SURSIS) - PROIBIO DE SE OBTER PORTE DE ARMA DE FOGO, POR QUALQUER RAZO OU PRETEXTO - AFASTAMENTO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal negou provimento ao Agravo Regimental, pois o crime foi praticado por um militar em serviço e fardado, o que demonstra a competência da Justiça Militar. Além disso, a defesa não aventou nulidade e os recursos para as instâncias superiores não foram admitidos, inviabilizando o reexame da condenação. Por fim, foi afastada a proibição de obter porte de arma de fogo.

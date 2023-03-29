@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em parecer, a eminente procuradora de justia manifestou-se pelo conhecimento e pelo desprovimento do recurso, com a manuteno, na ntegra, da sentena condenatria (Evento 6).  o relatrio. VOTOS DESEMBARGADOR FERNANDO ARMANDO RIBEIRO, RELATOR De incio, passo  apreciao da preliminar de no conhecimento do recurso defensivo, suscitada pela ilustre promotora de justia, em suas contrarrazes. Embora a acusao tenha sustentado o presente recurso no deva ser conhecido, em virtude de as razes de apelao terem sido apresentadas fora do prazo previsto no art. 531 do CPPM, julgo que a prefacial no merece prosperar. Conforme verifico dos autos, o ru foi intimado da sentena condenatria em 17 de fevereiro de 2022 (Evento 146 - Processo Originrio) e, dentro do quinqudio legal, isto , em 22 de fevereiro de 2022, interps o presente recurso de apelao (Evento 147 Processo Originrio). Em 22 de maro de 2022, o douto magistrado a quo recebeu o recurso interposto e concedeu vista dos autos  defesa, para a apresentao das razes, tendo sido expedida sua intimao eletrnica, via sistema, em 28 de maro de 2022 (Eventos 151e 152 - Processo Originrio). Como a defesa no realizou consulta ao sistema eproc em at 10 (dez) dias corridos, sua intimao tcita se deu em 7 de abril de 2022 (quinta-feira). Assim, o prazo para a apresentao das razes recursais teve incio no dia 8 de abril de 2022 (sexta-feira) e se findou em 18 de abril de 2022, primeiro dia til seguinte  data do trmino do prazo (17 de abril de 2022 - domingo). Logo, constato que as presentes razes recursais, apresentadas em 18 de abril de 2022 (Evento 154 - Processo Originrio), foram oferecidas dentro do prazo de 10 (dez) dias previsto no art. 531 do CPPM. Ainda que assim no fosse, sabe-se que a eventual apresentao extempornea das razes recursais constitui mera irregularidade e, portanto, no impede o conhecimento, a apreciao e o julgamento da pretenso recursal, desde que observado o prazo de 5 (cinco) dias para a interposio da apelao. A propsito, colaciono precedente do Superior Tribunal de Justia: PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTRIA. ART. 1, II, DA LEI N. 8.137/90. 1) OFENSA AO PRINCPIO DA COLEGIALIDADE. INOCORRNCIA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O relator julgou improcedente a preliminar de no conhecimento do recurso defensivo, pois as razes de apelao foram apresentadas dentro do prazo previsto no art. 531 do CPPM. O Superior Tribunal de Justia também entendeu que a eventual apresentação extemporânea das razes recursais constitui mera irregularidade e, portanto, não impede o conhecimento, a apreciação e o julgamento da pretenso recursal, desde que observado o prazo de 5 (cinco) dias para a interposição da apelação.

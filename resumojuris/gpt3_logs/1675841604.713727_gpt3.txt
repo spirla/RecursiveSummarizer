@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Joao Otavio de Noronha, Quinta Turma, por unanimidade, julgado em 29/03/2022. RAMO DO DIREITO DIREITO PENAL TEMA Trafico ilicito de entorpecentes. Dosimetria da pena. Natureza e quantidade da droga apreendida. Circunstancia preponderante a ser necessariamente observada na primeira fase da dosimetria. Utilizacao para afastamento do trafico privilegiado ou modulacao da fracao de diminuicao de pena do  4 do art. 33 da Lei n. 11.343/2006. Impossibilidade. Caracterizacao de bis in idem. Indevida presuncao de dedicacao a atividades criminosas. DESTAQUE Configura constrangimento ilegal o afastamento do trafico privilegiado e da reducao da fracao de diminuicao de pena por presuncao de que o agente se dedica a atividades criminosas, derivada unicamente da analise da natureza ou da quantidade de drogas apreendidas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É impossível afastar o trafico privilegiado ou modular a fração de diminuição de pena prevista no art. 33 da Lei n. 11.343/2006, com base na natureza ou quantidade de drogas apreendidas. 2. Configura constrangimento ilegal a presunção de dedicação a atividades criminosas, derivada unicamente da análise da natureza ou da quantidade de drogas apreendidas.

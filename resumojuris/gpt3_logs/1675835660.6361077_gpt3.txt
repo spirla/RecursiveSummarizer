@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Direito a diferenca de vencimentos. Art. 124 da LOMMAN. Efetivo exercicio do cargo. Art. 102 da Lei n. 8.112/1990. DESTAQUE Os periodos de ferias, recesso, licencas e afastamentos de juiz convocado para atuar como desembargador devem ser considerados quanto ao direito de recebimento de diferenca de vencimentos previsto no art. 124 da Lei Complementar n. 35/1979. O art. 124 da Lei Complementar n. 35/1979 dispoe: o Magistrado que for convocado para substituir, em primeira ou segunda instancia, percebera a diferenca de vencimentos correspondentes ao cargo que passa a exercer, inclusive diarias e transporte, se for o caso. Nao ha, como se pode constatar, qualquer limitacao do direito ao recebimento da diferenca de vencimentos nos periodos de ferias, recesso licencas e afastamentos legais, contanto que o magistrado esteja no exercicio do cargo substituido. Os referidos periodos de nao exercicio das funcoes judicantes nao afastam o exercicio do cargo substituido enquanto nao for revogado o ato de convocacao magistrado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 124 da Lei Complementar n. 35/1979 dispõe que o magistrado que for convocado para substituir, em primeira ou segunda instância, perceberá a diferença de vencimentos correspondentes ao cargo que passa a exercer, inclusive diárias e transporte, se for o caso. 2. Não há, como se pode constatar, qualquer limitação do direito ao recebimento da diferença de vencimentos nos períodos de férias, recesso, licenças e afastamentos legais, contanto que o magistrado esteja no exercício do cargo substituido. 3. Os referidos períodos de não exercício das funções judicantes não afastam o exercício do cargo substituido enquanto não for revogado o ato de convocação do magistrado.

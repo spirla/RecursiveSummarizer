@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+439, "d, do CPPM, ou, alternativamente, com base na alnea "e do mesmo dispositivo. Colhidas as alegaes finais, o Conselho Permanente de Justia da 1a Auditoria de Justia Militar Estadual (1a AJME), por maioria, julgou improcedente a ao penal, para absolver o 3 Sgt PM QPR Leonardo Zanon, nos termos do art. 439, alnea "d, do CPPM. Votou, vencido, o eminente juiz de direito da 1a AJME, que condenou o acusado pela prtica do crime a ele imputado, impondo-lhe a pena de 02 (dois) anos de recluso, em regime aberto, e com a concesso do sursis penal. O magistrado consignou, ainda, que todas as provas levam  condenao, mas o CPJ resolveu considerar apenas a palavra isolada do autor do fato. A sentena se encontra colacionada no Evento 129 dos autos. Inconformada, a acusao apresentou recurso de apelao, conforme Evento 138. Em suas razes recursais, alega que restou perfeitamente comprovado que o militar praticou o crime, sem qualquer causa excludente da ilicitude ou da culpabilidade, bem como que no houve legtima defesa putativa. Deste modo, pediu provimento ao recurso, para que seja reformada a sentena a quo, no sentido de condenar o apelado nas penas do delito previsto no art. 15 da Lei n. 10.826/2003. J a defesa, nas contrarrazes ao apelo (Evento 149), alegou ter ficado evidenciado que o militar agiu em legtima defesa putativa, requerendo a manuteno da sentena que absolveu o apelado com supedneo na alnea "d do artigo 439 do CPPM. A eminente procuradora de justia, em manifestao no Evento 10 destes autos, pugnou pelo conhecimento e pelo provimento do recurso interposto pela acusao, para que seja reformada a deciso de 1a instncia, com a condenao do acusado nas sanes do art. 15 da Lei n. 10.826/2003.  o relatrio. VOTOS DESEMBARGADOR OSMAR DUARTE MARCELINO, RELATOR Eminentes Desembargadores, uma vez mais tenho que trazer a vossas excelncias uma questo complicada. O eminente desembargador Fernando Galvo da Rocha, desde tempos outros, tem-nos alertado acerca de sentenas prolatadas sem a devida fundamentao, especialmente na rea criminal. Esse aviso, salutar e indispensvel de sua excelncia, o desembargador Fernando Galvo, despertou a necessidade de analisar a sentena em maior amplitude. E, em tal sentido, tanto faz a sentena ser condenatria quanto ser absolutria, pois ambas as hipteses constituem sentena, cuja fundamentao  condio sine qua non para ter validade. Muitas vezes, o juiz decide com base em um ou outro fundamento, desde que apto a afastar a pretenso de qualquer das partes, dispensando a anlise de vastas alegaes.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia da 1a Auditoria de Justia Militar Estadual (1a AJME) julgou improcedente a ao penal, absolvendo o acusado, com base no artigo 439, alnea "d, do CPPM. A acusao apelou, alegando que houve provas suficientes para condenar o acusado, e a defesa alegou legtima defesa putativa. O Relator destacou a necessidade de anlise da sentena com maior amplitude e destacou que tanto absolvio quanto condenao necessitam de fundamentao para ter validade.

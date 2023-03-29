@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+De outro giro, porem, certo e que determinadas rubricas pecuniarias, mesmo em caso de reintegracao ao cargo, nao poderao ser pagas ao servidor reintegrado a conta do tao so exercicio ficto exercicio das funcoes do cargo publico, uma vez que reclamam o atendimento a requisitos especificos, como sucede em relacao ao auxilio- transporte e ao adicional de insalubridade. Com efeito, o adicional de insalubridade somente sera devido aos servidores que, nos termos do art. 68 da Lei n. 8.112/1990, trabalhem com habitualidade em locais insalubres ou em contato permanente com substancias toxicas, radioativas ou com risco de vida . A Primeira Secao desta Corte Superior, ao julgar o Pedido de Uniformizacao de Interpretacao de Lei (PUIL) n. 413/RS, pacificou o entendimento de que o pagamento do adicional de insalubridade esta condicionado ao laudo que prove efetivamente as condicoes insalubres a que esteja submetido o servidor. Identica conclusao se aplica ao auxilio-transporte, uma vez que seu pagamento e devido a titulo de indenizacao pelas despesas realizadas pelo servidor ou militar com transporte coletivo municipal, intermunicipal ou interestadual, nos deslocamentos de suas residencias para os locais de trabalho e vice-versa. (Informativo n. 722) 184 SEGUNDA TURMA Voltar ao Sumario. PROCESSO REsp 1.902.244-CE, Rel. Min. Og Fernandes, Segunda Turma, por unanimidade, julgado em 16/08/2022, DJe 30/08/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Servidor publico. Magistrado convocado para exercer em substituicao o cargo de desembargador. Periodos de ferias, recesso, licencas e afastamentos legais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não serão pagas rubricas pecuniárias ao servidor reintegrado a conta do tão somente exercício ficto das funções do cargo público. 2. O pagamento do adicional de insalubridade está condicionado ao laudo que prove efetivamente as condições insalubres a que esteja submetido o servidor. 3. O pagamento do auxílio-transporte é devido a título de indenização pelas despesas realizadas pelo servidor ou militar com transporte coletivo municipal, intermunicipal ou interestadual, nos deslocamentos de suas residências para os locais de trabalho e vice-versa.

@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se faltar um dispositivo legal expresso, cumpre investigar se a finalidade protetiva do ordenamento jurdico pode ser extrada do conjunto de suas disposies legais. Do sistema normativo, pode-se concluir que a persecuo de determinado fim seja justificada, que a conduta seja meio adequado para a consecuo desse fim, ainda, que aparentemente seja revestida das caractersticas de uma conduta punvel. Nesse sentido, h muito que a doutrina reconhece a existncia de causas supralegais de excluso da ilicitude. Sem a pretenso de esgotar a abordagem sobre um tema to complexo, passemos, primeiro, em revista as causas que encontram previso legal no estatuto repressivo. O ordenamento jurdico nacional estabelece causas excludentes da ilicitude penal no artigo 42 do Cdigo Penal Militar, no qual temos:
+Art. 42. No h crime quando o agente pratica o fato:
+- em estado de necessidade;
+- em legtima defesa;
+- em estrito cumprimento do dever legal;
+- em exerccio regular de direito. Pargrafo nico. No h igualmente crime quando o comandante de navio, aeronave ou praa de guerra, na iminncia de perigo ou grave calamidade, compele os subalternos, por meios violentos, a executar servios e manobras urgentes, para salvar a unidade ou vidas, ou evitar o desnimo, o terror, a desordem, a rendio, a revolta ou o saque. O artigo 42 do Cdigo Penal Militar registra as causas gerais de excluso da ilicitude, aplicveis a todos os tipos penais. No entanto, no se pode esquecer que o ordenamento jurdico pode prever hipteses especficas de excluso da ilicitude que s se aplicam a determinados casos definidos pelo legislador.  o que acontece com a exceo da verdade no crime de difamao, prevista no pargrafo nico do artigo 215 do CPM. O crime de difamao se caracteriza diante da conduta de difamar algum, imputando-lhe fato ofensivo  sua reputao e admite como defesa a exceo da verdade. Na difamao, o fato imputado, no necessariamente, deve ser falso. A comprovao da veracidade da imputao  excludente de tipicidade na calnia (artigo 214, pargrafo 2), porque  elementar tpica que a imputao seja falsa. Na difamao, a prova da veracidade da imputao, s admitida se o ofendido for funcionrio pblico e o fato imputado relacionar-se ao exerccio de suas funes, no interfere na tipicidade. O fato verdadeiramente imputado pode ser ofensivo  reputao, e  o que basta para caracterizar o tipo penal de difamao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 42 do Código Penal Militar prevê causas gerais de exclusão da ilicitude, aplicáveis a todos os tipos penais. O pargrafo único do artigo 215 do CPM prevê a exceção da verdade no crime de difamação, que se caracteriza diante da conduta de difamar alguém imputando-lhe fato ofensivo à sua reputação. A comprovação da veracidade da imputação é excludente de tipicidade na calúnia, mas não interfere na tipicidade no crime de difamação.

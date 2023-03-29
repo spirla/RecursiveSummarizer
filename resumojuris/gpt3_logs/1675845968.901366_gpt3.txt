@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 21/06/2022, DJe 29/06/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Tribunal do juri. Veredito condenatorio. Manifesta contrariedade as provas dos autos. Cassacao da sentenca. Submissao dos reus a novo juri. Absolvicao imediata. Impossibilidade. DESTAQUE O reconhecimento da manifesta contrariedade entre o veredito condenatorio e as provas dos autos gera a cassacao da sentenca e submissao dos reus a novo juri, mas nao sua absolvicao imediata pelos juizes togados, na forma do art. 593,  3, do CPP. Em respeito a competencia constitucional dos jurados para o julgamento de crimes dolosos contra a vida, o reconhecimento da manifesta contrariedade entre o veredito condenatorio e as provas dos autos implica a cassacao da sentenca e a submissao dos acusados a novo juri, na forma do art. 593,  3, do CPP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O reconhecimento da manifesta contrariedade entre o veredito condenatório e as provas dos autos gera a cassação da sentença e submissão dos réus a novo júri, na forma do art. 593, 3, do CPP. 2. Em respeito à competência constitucional dos jurados para o julgamento de crimes dolosos contra a vida, o reconhecimento da manifesta contrariedade entre o veredito condenatório e as provas dos autos implica a cassação da sentença e a submissão dos acusados a novo júri, na forma do art. 593, 3, do CPP.

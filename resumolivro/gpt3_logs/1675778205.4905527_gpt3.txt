@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Data: ___/___/___(fl. _____). 3. PROCURACAO DO DEFENSOR - artigo 68, IV, do CEDM. Fls. ____ . Observacoes:
+- Conferir se na procuracao o defensor inseriu o endereco onde recebe notificacoes - caso nao tenha inserido, determinar que sane a irregularidade, o que pode se dar em ata - vide artigo 5 da Lei 8906/94 e artigos 103 a 107 do CPC);
+- Caso contenha o endereco eletrnico, as notificacoes poderao ser enviadas por comunicacao digital;
+- Conferir regularidade do advogando junto a OAB, por meio do site: <http://cna.oab.org.br/>. 4. COMPROMISSO DA CPAD - artigo 68, IV, do CEDM. Data: ___/___/___(fl. _____). 5. ATA DA REUNIAO DE INSTALACAO - marco inicial da contagem do prazo processual: 40 dias (artigo 68, IX, do CEDM). Data: ___/___/___(fl. _____).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Na Procuracao do Defensor, deve-se conferir se o endereco onde recebe notificacoes foi inserido, caso contrario, deve-se determinar que seja sanada a irregularidade. Se houver endereco eletronico, as notificacoes podem ser enviadas por comunicacao digital. Além disso, deve-se conferir a regularidade do advogando junto à OAB. O Compromisso da CPAD deve ser assinado e a Ata da Reuniao de Instalacao marca o inicio da contagem do prazo processual de 40 dias.

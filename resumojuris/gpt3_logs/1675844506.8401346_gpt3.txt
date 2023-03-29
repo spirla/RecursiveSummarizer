@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1137 Considerada essa conjuntura, vale referir que a Terceira Secao do Superior Tribunal de Justica, em julgamento ocorrido em 13/5/2020, assentou que a CF/88 reconhece a competencia da Justica Federal nao apenas no caso de acesso da publicacao por alguem no estrangeiro, mas tambem nas hipoteses em que a amplitude do meio de divulgacao tenha o condao de possibilitar o acesso , e que, diante da potencialidade de o material disponibilizado na internet ser acessado no exterior, esta configurada a competencia da Justica Federal, ainda que o conteudo nao tenha sido efetivamente visualizado fora do territorio nacional (CC 163.420/PR, Rel. Ministro Joel Ilan Paciornik, DJe 1/6/2020). A rigor, o meio de divulgacao empregado pelo investigado no caso tanto e eficaz para que usuarios no exterior visualizassem o conteudo das falas, quanto e crivel admitir que o material foi acessado fora do Brasil. Vale lembrar, inclusive, que o Marco Civil da Internet (Lei n. 12.965/2014), que estabelece principios, garantias, direitos e deveres para o uso da Internet no Brasil , preve, em seu art. 2, inciso I, o reconhecimento da escala mundial da rede . (Informativo n. 761) PROCESSO CC 192.158-MT, Rel. Min. Laurita Vaz, Terceira Secao, por unanimidade, julgado em 09/11/2022, DJe 18/11/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL, EXECUCAO PENAL TEMA Acordo de nao persecucao penal. Art. 28-A,  6, do CPP. Execucao penal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Constituição Federal reconhece a competência da Justiça Federal não apenas no caso de acesso da publicação por alguém no estrangeiro, mas também nas hipóteses em que a amplitude do meio de divulgação tenha o condão de possibilitar o acesso. 2. O Marco Civil da Internet reconhece a escala mundial da rede. 3. O artigo 28-A, § 6º, do Código de Processo Penal prevê a possibilidade de acordo de não persecução penal na execução penal.

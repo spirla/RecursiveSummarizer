@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Habeas corpus denegado. - g.n. (STF - 1a Turma - HC n 91709, Rel. Min Crmen Lcia, julg. em 16/12/2008, pub. em 13/03/2009) Por fim, quanto ao pedido de aplicao do instituto da detrao penal em virtude do tempo em que o apelante Daniel permaneceu preso preventivamente (evento 112 - fl. 14), o momento no se revela oportuno para a sua apreciao, uma vez que tal matria deve ser analisada na fase de execuo da pena, conforme entendimento deste Tribunal de Justia Militar de Minas Gerais. Fao minhas, portanto, as palavras do rgo ministerial. Anlise de mrito do recurso de apelao interposto pelos ilustres representantes do Ministrio Pblico: Nos termos relatados, os ilustres representantes do Ministrio Pblico somente se insurgiram contra o no reconhecimento das causas de aumento de pena previstas no 2 do artigo 2 da Lei n. 12.850, de 2013 (emprego de arma de fogo), e contra a absolvio dos rus pela contraveno penal do art. 50 do Decreto-Lei n. 3.668, de 1941, sendo esta a delimitao do pedido. Da anlise que fiz com a maior acuidade destes autos, conclu que ao recurso ministerial se deva dar provimento parcial, pois, embora manifestando meu respeito  bem fundamentada posio adotada pelos ilustres promotores de Justia, ouso dela divergir, para manter a sentena de primeiro grau, que entendeu ter sido, de fato, a conduta do art. 50 do Decreto-Lei n. 3.688, de 1941, absorvida pelo tipo do art. 308, 1, do CPM. Quanto ao emprego de arma de fogo, alinho-me  posio ministerial, segundo a qual a causa de aumento de pena no pode ser levada em conta, somente quando tiver sido efetuado disparo, na forma definida pelo colendo CEJ. No se pode olvidar que a sua simples utilizao com a respectiva exibio constitua instrumento facilitador para a prtica do crime e represente ameaa efetiva e violenta  vtima. Assentei, em voto anterior, no mbito de outra ao penal envolvendo esta mesma operao Hexagrama, que pensar de modo contrrio seria o mesmo que impor, obrigatoriamente, ao julgador a desclassificao de todo crime de roubo para o crime de furto, nas hipteses em que os autores apenas apontassem as armas para suas vtimas, sem efetuarem disparos. Ora, o fato de apontar a arma para a vtima e impor-lhe a entrega do bem que est na sua posse no constitui emprego de arma? A resposta  nica. Claro que constitui. Mas o autor do crime de roubo, assim tipificado, justamente em razo do emprego da violncia decorrente do uso de arma, no precisou fazer nenhum disparo para atingir o seu intento.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Habeas corpus denegado. O recurso ministerial foi dado parcialmente provimento, mantendo a sentena de primeiro grau. Foi reconhecido que a conduta do art. 50 do Decreto-Lei n. 3.688, de 1941, foi absorvida pelo tipo do art. 308, 1, do CPM. O emprego de arma de fogo foi reconhecido como causa de aumento de pena, mesmo sem efetuar disparos.

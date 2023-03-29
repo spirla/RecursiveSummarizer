@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Pargrafo 1 ...
+Pargrafo 2  suspensa a pretenso punitiva do Estado referente aos crimes previstos no caput, durante o perodo em que a pessoa fsica ou a pessoa jurdica relacionada com o agente dos aludidos crimes estiver includa no parcelamento, desde que o pedido de parcelamento tenha sido formalizado antes do recebimento da denncia criminal. Pargrafo 3 A prescrio criminal no corre durante o perodo de suspenso da pretenso punitiva. O parcelamento dos dbitos tributrios e previdencirios suspende os efeitos da pretenso punitiva e, consequentemente, da prescrio que lhe  incidente. Cabe observar que a previso legal impe que o parcelamento ocorra antes do recebimento da denncia e constitui situao jurdica mais gravosa do que a anteriormente estabelecida pela Lei 11.941/09. Novamente o operador do direito dever ter cuidado redobrado para analisar se a previso legal existente ao tempo do fato  mais benfica ao acusado. O artigo 83 da Lei 9.430/96 expressamente referiu-se aos crimes previstos na Lei 8.137/90 e nos artigos 168-A e 337-A do Cdigo Penal. Muito embora no tenha mencionado o crime de contrabando, previsto no artigo 334 do CP, a causa suspensiva tambm a ele deve aplicar-se. Sendo o contrabando um crime que essencialmente envolve violao  obrigao tributria, no h razes para que constitua exceo  regra da suspenso da pretenso punitiva. Em ateno ao princpio da isonomia, o parcelamento do dbito tributrio relativo a fato caracterizador de contrabando tambm suspende a prescrio. A suspenso perdura enquanto o sujeito passivo da obrigao tributria estiver includo no programa de parcelamento. Cada lei que instituir parcelamento de dbito tributrio poder dispor sobre o nmero de parcelas, bem como estabelecer causas que determinem a excluso do sujeito passivo do respectivo programa. Havendo a excluso do sujeito passivo do programa de parcelamento, a prescrio da pretenso punitiva voltar a correr, considerando-se o tempo j verificado at o dia em que houve a suspenso. Se houver o pagamento integral dos dbitos de natureza tributria, inclusive acessrios, extingue-se a punibilidade, conforme o pargrafo 4 do artigo 83 da Lei 9.430/96. O pagamento integral do dbito previdencirio tambm  causa de extino da responsabilidade do crime de apropriao indbita previdenciria, nos termos do pargrafo 2 do artigo 168-A do Cdigo Penal. Quanto ao crime de contribuio previdenciria, a extino da responsabilidade independe do pagamento do dbito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O parcelamento dos dbitos tributários e previdenciários suspende os efeitos da pretenção punitiva e, consequentemente, da prescrição que lhe é incidente. A suspenso perdura enquanto o sujeito passivo da obrigação tributária estiver incluído no programa de parcelamento. O pagamento integral dos díbitos tributários e previdenciários extingue a punibilidade, enquanto para o crime de contribuição previdenciária a extinção da responsabilidade independe do pagamento do débito.

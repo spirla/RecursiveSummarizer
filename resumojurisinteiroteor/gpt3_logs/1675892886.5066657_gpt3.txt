@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+6 So causas de justificao que motivam e fundamentam o parecer e/ou o julgamento e possibilitam, legalmente, arquivar os autos, sem responsabilizao do investigado/acusado: I - Haver motivo de fora maior ou caso fortuito, plenamente comprovado; [..] Destacou que, como bem pontuado na respeitvel sentena, o egrgio Tribunal de Justia Militar de Minas Gerais firmou o entendimento de que  irrazovel e desproporcional a recusa de atestado mdico, sendo vlido como causa de justificao, dada a presuno de veracidade do documento, uma vez que seus efeitos s podem ser questionados se houver ilegalidade ou irregularidade - no sendo este o presente caso, ao seu ver. Alegou, por fim, que, assim como o Quadro de Sade da Polcia Militar, o mdico credenciado  clnica particular MultiClnica, que expediu o atestado mdico, tambm  detentor de qualificao tcnica para avaliar a necessidade da licena mdica concedida a seu paciente. No final, requereu que seja negado provimento ao recurso de apelao interposto pelo Estado de Minas Gerais, com a determinao da majorao dos honorrios advocatcios, cumulados com as multas e outras sanes processuais, nos termos do artigo 85, 11 e 12, do CPC.  o relatrio. VOTOS DESEMBARGADOR JADIR SILVA, RELATOR Recebo o recurso de apelao, porque esto presentes os pressupostos para a sua admissibilidade. No meu entendimento, no merece provimento a apelao considerando que a Administrao Militar reconheceu a existncia da transgresso de faltar ao servio (art. 13, XX, do CEDM) e, em razo de o apelado estar classificado no conceito "C (Evento 1 - DOC5 - AJME), foi determinada a abertura de Processo Administrativo-Disciplinar, contudo o militar estava amparado por atestado mdico. E, como se sabe, o atestado mdico amparava o apelado a deixar de cumprir a escala de servio, constituindo-se documento hbil a abonar a sua falta. A recomendao mdica demonstra a ocorrncia de um caso fortuito ou de fora maior, porquanto sobreveio ao apelado uma incapacidade temporria ocasionada por acometimento de doena que o impedia de exercer sua funo. No mbito administrativo, a rejeio do atestado mdico no se deu pela no constatao da doena indicada pelo mdico que o incapacitava, ainda que temporariamente, para o exerccio de suas funes, e, sim, em virtude de o apelado no ter homologado o atestado para obteno da licena, conforme se v no item VI da deciso acostada no evento 1 - DOC9 - AJME. Transcrevo: CONSIDERANDO QUE: I - O procedimento administrativo de portaria acima intitulada foi instaurado para apurar cometimento, em tese, de transgresso disciplinar tipificada no inciso XX do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar de Minas Gerais entendeu que a recusa de atestado médico é irrazoável e desproporcional, sendo válido como causa de justificação, dados os efeitos presumivelmente verdadeiros do documento. O recurso de apelação foi negado, pois o militar estava amparado por atestado médico, o que configurou um caso fortuito ou de força maior, impossibilitando-o de exercer suas funções.

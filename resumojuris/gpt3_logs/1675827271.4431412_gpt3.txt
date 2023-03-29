@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A quadra indica duplo vicio formal: usurpacao de competencia da Uniao, a qual compete editar norma geral nacional sobre o tema, e inadequacao do instrumento  convenio. Especificamente quanto ao ICMS, a CF/88 (CF) consigna caber a lei complementar, entre outras atribuicoes, definir seus contribuintes, dispor sobre substituicao tributaria; disciplinar o regime de compensacao do imposto; fixar o local das operacoes, para fins de cobranca do tributo e de definicao do estabelecimento responsavel; fixar a base de calculo. Atualmente a Lei Complementar (LC) 87/1996 (Lei Kandir) trata do ICMS com normas gerais. Entretanto, nao ha nela qualquer disposicao relativa ao assunto em comento. Alem disso, convenio interestadual nao pode suprir a ausencia de lei complementar para a referida tributacao pelo ICMS, ante a ausencia previsao no texto constitucional. Isso, contudo, acabou ocorrendo mediante as clausulas primeira, segunda, terceira e sexta do Convenio ICMS 93/2015-Confaz. Sao validas as leis estaduais ou distritais editadas apos a EC 87/2015, que preveem a cobranca do Difal nas operacoes e prestacoes interestaduais com consumidor final nao contribuinte do imposto. No entanto, nao produzem efeitos enquanto nao editada lei complementar dispondo sobre o assunto. Essa orientacao nao se aplica aos diplomas legais no que buscaram disciplinar a clausula nona do mencionado convenio. A clausula nona, ao determinar a extensao da sistematica da EC 87/2015 aos optantes do Simples Nacional, adentra no campo material de incidencia da LC 123/2006, que estabelece normas gerais relativas ao tratamento diferenciado e favorecido a ser dispensado as microempresas e as empresas de pequeno porte. Ao lado da regencia constitucional dos tributos, o texto constitucional consagra o referido tratamento juridico as microempresas e as empresas de pequeno porte.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É competência da União editar norma geral nacional sobre o tema do ICMS. 2. A Lei Complementar 87/1996 trata do ICMS com normas gerais, mas não há nela qualquer disposição relativa ao assunto em comento. 3. Convenio interestadual não pode suprir a ausência de lei complementar para a referida tributação pelo ICMS, ante a ausência previsão no texto constitucional. 4. São válidas as leis estaduais ou distritais editadas após a EC 87/2015, que preveem a cobrança do Difal nas operações e prestações interestaduais com consumidor final não contribuinte do imposto. 5. A cláusula nona do Convenio ICMS 93/2015-Confaz, ao determinar a extensão da sistemática da EC 87/2015 aos optantes do Simples Nacional, adentra no campo material de incidência da LC 123/2006. 6. O texto constitucional consagra o tratamento jurídico diferenciado e favorecido a ser dispensado às microempresas e às empresas de pequeno porte.

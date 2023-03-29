@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Diz que, apesar de a sentenciante mencionar a ocorrncia de um "telefonema intenso e contundente da irm da vtima para si, afirma que no se extrai essa informao do depoimento em questo; que consta da sentena, ainda, que Maria de Ftima Dutra conseguiu o motorista de txi Geraldo de Sena Coutinho para procurar o ofendido pelas redondezas, contudo o referido taxista, apesar de confirmar a corrida, declarou no ter conhecimento dos fatos, tendo ela esclarecido que, embora haja realmente contratado um taxista de Nacip Raydan-MG para ajud-la nas buscas ao seu irmo, o dispensou porque ele no aceitou viajar para outra cidade naquele horrio; que, ento, solicitou a Gerado Sena Coutinho, residente em Virgolndia-MG, que fizesse a corrida, mas este no foi ouvido nos autos para confirmar as declaraes. Ressaltou que no se apurou quem foi a "vizinha ou "conhecida que afirmou que os policiais militares tinham o costume de bater nos abordados e conduzidos, e que restou provado que a demora na concluso dos trabalhos no dia dos fatos se deu em virtude das diligncias empreendidas aps a abordagem da vtima em sua casa. Realou que a busca no foi realizada duas horas aps a deteno do ofendido, mas logo aps ele ter sido reconhecido por Arn e questionado sobre o paradeiro da arma; e que a ausncia do mdico plantonista no posto de sade da cidade de Nacip Raydan foi a causa principal dessa demora, considerando que, aps esperarem por cerca de duas horas, tiveram que se dirigir  residncia dele e, em seguida, retornaram ao quartel e adiantaram a lavratura do Boletim de Ocorrncia (BO) para que chegassem com o BO pronto na Delegacia de Polcia e assim no demorar muito fora da cidade onde trabalham, deixando esta desguarnecida. Ressalta, ainda, que, com a devida vnia,  incorreta a concluso da meritssima juza primeva, com relao aos ditos significativos silncios em seus interrogatrios, pois insta salientar que ficar em silencio  um direito do interrogado, uma vez que seu interrogatrio  pea de defesa. Ele responde o que  til  sua defesa. Ressalta, tambm, que as provas produzidas pela acusao so todas ancoradas em declaraes tendenciosas, feitas por parentes prximos (irmos da dita vtima), sendo que as provas produzidas pela defesa so atravs de testemunhas compromissadas na forma da lei, sem nenhum vnculo de parentesco ou amizade com o apelante e o outro sentenciado. Aduz ainda que a meritssima juza de direito, com base exclusivamente nas declaraes da dita vtima, diz que os golpes foram dirigidos especificamente aos ps do ofendido, na tcnica conhecida como falanga, com alta intensidade de dor e provveis sequelas graves causadas ao ofendido. Todavia as declaraes da vtima no encontram sustentao nas provas periciais colhidas (Evento 2 - PEAS DE IPM3 - fls. 07, 26 e 28), sendo, inclusive, que nenhum laudo descreve a existncia de leses nas plantes dos ps.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A sentenciante mencionou a ocorrncia de um "telefonema intenso e contundente da irm da vtima" para si, mas no se extrai essa informao do depoimento em questo. As provas produzidas pela acusao so baseadas em declaraes tendenciosas de parentes prximos da vtima, enquanto as provas produzidas pela defesa so de testemunhas compromissadas na forma da lei. A juza de direito concluiu que os golpes foram dirigidos especificamente aos ps do ofendido, mas as provas periciais no apoiam essa concluso.

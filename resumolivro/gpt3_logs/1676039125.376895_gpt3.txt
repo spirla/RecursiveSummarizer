@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A defesa contra ataques armados proferidos por pases estrangeiros  considerada legitima pelo artigo 51 da Carta das Naes Unidas, assinada em So Francisco - Califrnia, em 26 de junho de 1945, por ocasio da Conferncia de Organizao Internacional das Naes Unidas. A referida Carta foi aprovada no Brasil pelo Decreto-Lei 7.935, de 04 de setembro de 1945, e ingressou na ordem jurdica interna por meio do Decreto 19.841, de 22 de outubro de 1945. Desta forma, deve-se reconhecer na teoria do crime uma excludente de ilicitude especfica para as atividades militares relativa  defesa da ptria. A excludente de ilicitude especfica para a atuao militar  prevista unicamente na Carta constitucional, no possuindo um tipo permissivo na legislao ordinria que estabelea os seus requistos. No entanto,  necessrio perceber que a legitima defesa da ptria constitui uma espcie especfica de legitima defesa que racional e juridicamente justifica condutas tpicas quando satisfeitos os seus requisitos fundamentais. Desta forma, para o reconhecimento da excludente  necessrio que exista uma agresso injusta; que essa agresso seja atual ou iminente; que a agresso seja dirigida a um bem juridicamente protegido integrante da noo de ptria; que a reao seja exercida com a utilizao dos meios necessrios; que o uso desses meios seja moderado; e que o sujeito tenha a inteno de defender o bem jurdico e conhea a injustia da agresso. Todos os requisitos fundamentais da legitima defesa foram examinados. Resta compreender o significado da conduta que possa ser considerado defensivo da ptria. Defesa da ptria. A defesa da ptria sempre constitui o objetivo mais importante das Foras Armadas. No entanto, a expresso defesa da ptria adquiriu significados diferentes ao longo da histria. Em sua concepo mais antiga, a defesa da ptria consistia na conquista de territrios que eram considerados parte integrante da ptria por razes histricas, tnicas e culturais que, eventualmente, estivessem sujeitas ao domnio de pases estrangeiros e, at mesmo, na conquista de territrios que eram considerados essenciais para a sobrevivncia e desenvolvimento econmico do Estado, como  o caso dos territrios necessrios  garantir sada para o mar, etc. Neste sentido, a expresso defesa da ptria no se apresentava adequada na medida em que a ao de Estado no possua carter meramente defensivo mas verdadeiramente agressivo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 51 da Carta das Naes Unidas, aprovada no Brasil, reconhece a defesa da ptria como excludente de ilicitude especfica para as atividades militares. Para tal, necessrio que exista uma agresso injusta, atual ou iminente, dirigida a um bem juridicamente protegido integrante da noo de ptria. A expresso defesa da ptria adquiriu significados diferentes ao longo da histria, indo desde a conquista de territrios at a conquista de territrios necessrios para o desenvolvimento econmico do Estado.

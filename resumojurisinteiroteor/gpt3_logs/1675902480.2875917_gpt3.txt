@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Extrai-se dos autos que o embargado foi denunciado perante o juzo da Segunda Auditoria de Justia Militar do Estado de Minas Gerais sob os seguintes fundamentos: No ano dia 12 de janeiro de 2020, por volta das 23h45, na rua So Pedro, n. 168, no Bairro Vila Garcia, Patos de Minas/MG, o denunciado ofendeu dolosamente a integridade corporal do civil Leandro Estevo Pereira, causando-lhe debilidade permanente de funo hematopoitica e imunolgica, conforme Laudo de Exame de Corpo de Delito de Evento 19 - Laudo2. Consta nos autos que a guarnio do denunciado recebeu informaes via Copom acerca de um veculo com queixa de furto transitando pelas imediaes da regio de patrulhamento, razo pela qual iniciaram a montagem de cerco e bloqueio nas principais vias de sada na tentativa de abordagem ao veculo. Consta tambm que o denunciado avistou o referido veculo, e aps dar diversas ordens de parada, iniciou a perseguio, tendo, logo aps, decidido efetuar um disparo de arma de fogo para cessar a tentativa de fuga do suspeito, contrariando conscientemente a vedao institucional de tiro intimidatrio em perseguio policial (Manual Tcnico-Profissional n. 3.04.04/2019-CG). Em decorrncia do disparo efetuado pelo denunciado, o civil Leandro Estevo, que estava saindo de sua casa, foi atingido no abdmen pelos fragmentos do projtil advindo da pistola Imbel.40, causando-lhe leso gravssima, pela qual o denunciado assentiu com sua ocorrncia. Destarte, observa-se a incidncia das agravantes do artigo 70, II, alneas l e m do Cdigo Penal Militar, em razo do denunciado estar de servio no momento da ao e ter utilizado de arma de fogo da carga da Corporao. Igualmente, o denunciado agiu com flagrante abuso de poder, excedendo a razoabilidade e a proporcionalidade exigidas para a atuao militar ao desconsiderar o manual previsto para abordagem e perseguio policial, devendo-se operar a agravante da alnea g, inciso II, artigo 70 do Cdigo Penal Militar. Diante da moldura ftica narrada, o denunciado encontra-se incurso no art. 209, 2 (leso corporal gravssima), c/c art. 70, II, alneas l, m e g, todos do Cdigo Penal Militar, requerendo o Ministrio Pblico que o militar seja citado apresentao de defesa que quiser produzir, ouvidas as testemunhas abaixo relacionadas, cumpridas as demais formalidades da lei para, ao final, ser condenado nas sanes cabveis. Concluda a instruo probatria, o MM. Juiz de Direito Titular da 2a AJME julgou procedente a ao penal e condenou o ru, ora embargado, pela prtica do crime de leso corporal gravssima (art. 209,  2, do Cdigo Penal Militar) impondo-lhe a pena de 2 (dois) anos de recluso, em regime aberto.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O embargado foi condenado pelo Juiz de Direito Titular da 2a AJME por leso corporal gravssima, prevista no art. 209, 2, do Código Penal Militar, com a pena de 2 anos de reclusão em regime aberto, em razão de tiro intimidatório efetuado em perseguição policial, com abuso de poder, desconsiderando o manual previsto para abordagem e perseguição.

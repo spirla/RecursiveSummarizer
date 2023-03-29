@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ausente imunidade tributaria aplicavel, mesmo as entidades sem fins lucrativos podem ser reconheci-das como contribuintes do imposto de renda ou da contribuicao social sobre o lucro liquido, caso realizem o fato gerador. Com efeito, a CF/88 nao exige que o contribuinte tenha, necessariamente, fins lucrativos para haver a incidencia dos mencionados tributos. A ausencia de finalidade lucrativa nao impossibilita que tais entidades aufiram resultados positivos ou outros acrescimos patrimoniais. No caso, as rendas oriundas de aplicacoes financeiras e os resultados positivos das entidades fechadas de previdencia privada se enquadram no que se entende por renda, lucro ou acrescimo patrimonial, que sao fatos geradores daqueles tributos. No mais, as contribuicoes para a seguridade social se assentam na solidariedade geral. Dessa forma, a pessoa juridica equiparada a empresa na forma da lei, mesmo que nao tenha fins lucrativos, pode ser chamada a contribuir para a seguridade social, inclusive mediante contribuicao incidente sobre o lucro. Por fim, apesar de nao ser possivel falar, contabilmente, em apuracao de lucro ou de prejuizo pelas en-tidades fechadas de previdencia privada  e sim apuracao de superavits ou de deficits , a contabilidade, ainda que possa ser tomada pela lei como ponto de partida para a determinacao das bases de calculo de diver-sos tributos, de modo algum subordina a tributacao. Com base nesse entendimento, ao apreciar o Tema 699 da repercussao geral, o Plenario, por unanimi-dade, negou provimento ao recurso extraordinario. Precedentes citados: RE 585181 AgR e RE 606107.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Ausente imunidade tributária aplicável, mesmo as entidades sem fins lucrativos podem ser reconhecidas como contribuintes do imposto de renda ou da contribuição social sobre o lucro líquido, caso realizem o fato gerador. 2. A ausência de finalidade lucrativa não impossibilita que tais entidades auferam resultados positivos ou outros acréscimos patrimoniais. 3. As rendas oriundas de aplicações financeiras e os resultados positivos das entidades fechadas de previdência privada se enquadram no que se entende por renda, lucro ou acréscimo patrimonial, que são fatos geradores daqueles tributos. 4. A pessoa jurídica equiparada a empresa na forma da lei, mesmo que não tenha fins lucrativos, pode ser chamada a contribuir para a seguridade social, inclusive mediante contribuição incidente sobre o lucro. 5. Apesar de não ser possível falar, contabilmente, em apuração de lucro ou de prejuízo pelas entidades fechadas de previdência privada e sim apuração de superávits ou de deficits, a contabilidade, ainda que possa ser tomada pela lei como ponto de partida para a determinação das bases de cálculo de diversos tributos, de modo algum subordina a tributação.

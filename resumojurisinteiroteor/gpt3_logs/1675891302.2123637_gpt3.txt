@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(Includo pela Lei n. 13.256, de 2016) (Vigncia)  2 Da deciso proferida com fundamento nos incisos I e III caber agravo interno, nos termos do art. 1.021. (Includo pela Lei n. 13.256, de 2016) (Vigncia) (Destaca-se) Art. 1.042. Cabe agravo contra deciso do presidente ou do vice- presidente do tribunal recorrido que inadmitir recurso extraordinrio ou recurso especial, salvo quando fundada na aplicao de entendimento firmado em regime de repercusso geral ou em julgamento de recursos repetitivos. (Redao dada pela Lei n. 13.256, de 2016) (Destaca-se) A propsito, veja-se o seguinte precedente do STF: Ementa: AGRAVO INTERNO. RECURSO EXTRAORDINRIO COM AGRAVO. RECURSO PARA O SUPREMO TRIBUNAL FEDERAL CONTRA A PARTE DA DECISO QUE APLICA A SISTEMTICA DA REPERCUSSO GERAL NA ORIGEM. IMPOSSIBILIDADE. PRECEDENTES. QUESTO REMANESCENTE: REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ALEGADA VIOLAO AO ART. 105, III, DA CONSTITUIO FEDERAL. INVIABILIDADE DE REEXAME EM RECURSO EXTRAORDINRIO. 1. Ao examinar a admissibilidade de Recurso Extraordinrio com captulos independentes e autnomos, o Tribunal de origem aplicou precedente formado sob o rito da repercusso geral para algumas questes e bices de outra natureza para os demais pontos. 2. As decises de admissibilidade com esse perfil tm sido apelidadas de mistas (ou complexas). 3.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Cabe agravo contra deciso do presidente ou vice-presidente do tribunal recorrido que inadmitir recurso extraordinrio ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercusso geral ou em julgamento de recursos repetitivos. Quando a decisão for mista (ou complexa), não é possível reexaminar a questão em recurso extraordinário.

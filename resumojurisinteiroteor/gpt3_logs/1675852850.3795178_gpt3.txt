@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+FRAO ADOTADA DE FORMA FUNDAMENTADA. CRITRIO SUBJETIVO DO JULGADOR. SMULA N. 7/STJ. IMPOSSIBILIDADE DE CONHECIMENTO DA DIVERGNCIA. CAUSAS DE AUMENTO. USO DE ARMA DE FOGO E PARTICIPAO DE FUNCIONRIO PBLICO. CIRCUNSTNCIAS OBJETIVAS QUE SE COMUNICAM. NECESSIDADE DE CINCIA. TEMA NO DEBATIDO NA ORIGEM. AUSNCIA DE PREQUESTIONAMENTO. SMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO. 1. [...]. 6. In casu, as causas de aumento de uso de arma de fogo e participao de servidor pblico esto devidamente configuradas e se tratam de circunstncias objetivas que se comunicam a todos os coautores do crime. A discusso a respeito da necessidade de cincia da recorrente quanto s elementares (uso de arma de fogo e participao de funcionrio pblico na organizao - PCC) para a comunicao no foi debatida, especificamente, no acrdo originrio, (ausncia de prequestionamento - Smulas n. 282/STF e n. 356/STF). 7. Agravo regimental desprovido [STJ. AgRg no AREsp 1602427/SP, Rel.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O agravo regimental foi desprovido por não haver prequestionamento da discusso sobre a necessidade de ciência da recorrente quanto às circunstâncias objetivas que se comunicam a todos os coautores do crime, como o uso de arma de fogo e participação de servidor público na organização.

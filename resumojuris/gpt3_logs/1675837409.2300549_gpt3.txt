@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Mauro Campbell Marques, Primeira Secao, por unanimidade, julgado em 09/02/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL CIVIL TEMA Conflito negativo de competencia. Juizos estadual e federal. Acao de improbidade administrativa ajuizada por ente municipal. Prestacao de contas de verbas federais. Mitigacao das sumulas 208/STJ e 209/STJ. Competencia civel da Justica Federal absoluta em razao da pessoa. Art. 109, I, da CF. Ausencia de ente federal em qualquer dos polos da relacao processual. Competencia da Justica Estadual. DESTAQUE Nas acoes de improbidade administrativa, a competencia da Justica Federal e definida em razao da presenca das pessoas juridicas de direito publico previstas no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Nas ações de improbidade administrativa, a competência da Justiça Federal é definida em razão da presença das pessoas jurídicas de direito público previstas no art. 109, I, da CF. 2. Ausência de ente federal em qualquer dos polos da relação processual, a competência é da Justiça Estadual. 3. Mitigação das Súmulas 208/STJ e 209/STJ. 4. Competência cível da Justiça Federal absoluta em razão da pessoa.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Sustentou a inocorrncia da suposta coisa julgada, juntando os documentos de Evento 1 - PET12, SENT13 e CERT14). O Estado de Minas Gerais contestou a ao (Evento 1 - CONT17). O autor impugnou a contestao (Evento 1 - IMPUGNAO31). Intimados para especificao de provas (Evento 1 - INT19), o autor manifestou-se pelo julgamento antecipado da lide - art. 355, inciso I, do Cdigo de Processo Civil (CPC) - e o Estado silenciou-se (Evento 1 - PET20). O meritssimo juiz de direito da 3a Vara da Fazenda Pblica e Autarquias (VFPA) sentenciou o feito, julgando a improcedncia do pedido inicial (Evento 1 - SENT21). O autor interps recurso de apelao (Evento 1 - APELAO24). O Estado de Minas Gerais apresentou contrarrazes ao recurso de apelao (Evento 1 - CONTRAZ25). O egrgio Tribunal de Justia de Minas Gerais acolheu a preliminar de incompetncia da Justia comum para julgamento do feito, adotando como paradigma a deciso proferida pelo colendo Superior Tribunal Justia (STJ) no Conflito de Competncia n. 153.599/MG, e determinou a remessa dos autos a esta Justia Militar, ante a competncia absoluta em razo da matria (Evento 1 - DEC29). Os autos aportaram nessa Justia castrense em 25 de janeiro de 2022. Certificou-se a realizao de pesquisa nos sistemas SINGEP/PJE e EPROC, tendo sido constatado o Processo Cvel PJE n. 1000100 83.2015.9.13.3 (Evento 3 - CERT1). Em despacho constante no Evento 8 - DEC1, o meritssimo juiz titular da 5a AJME - Cvel - reafirmou a competncia, ratificando a concesso da gratuidade de justia. Determinou, ainda, que se certificasse quanto a partes, natureza da ao, causa de pedir, pedido, data de distribuio, suma da sentena e do acrdo e data do trnsito em julgado relativo a outros processos que tramitem ou tenham tramitado na Justia Militar do Estado de Minas Gerais, em especial, o de nmero 1000100-83.2015.9.13.0003. Foram juntados os documentos relativos ao Processo n. 1000100- 83.2015.9.13.3 no Evento 9 - CERT1. O meritssimo juiz de direito determinou a intimao das partes para se manifestarem sobre a coisa julgada em relao aos autos do Processo n. 1000100-83.2015.9.13.0003 (Evento 15 - DESP1). O autor aduziu que a presente demanda no possui causa de pedir e nem pedido idntico ao Processo de n. 1000100-83.2015.9.13.0003, considerando que nestes autos os argumentos so centralizados na prescrio punitiva (Evento 19 - MANI1). O Estado de Minas Gerais manifestou-se no sentido de que, em exame dos documentos constantes no Evento n. 9, o presente processo deveria ser extinto sem resoluo do mrito, com fulcro no art. 485, V, do CPC, por se tratar de aes idnticas, contendo as mesmas partes, o mesmo pedido e a mesma causa de pedir (Evento 20 - MANI1).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais alegou a existência de coisa julgada entre o processo em questão e o processo de número 1000100-83.2015.9.13.0003, sendo que o juiz titular da 5a AJME - Cvel - reafirmou a competência e determinou a certificação relativa às partes, natureza da ação, causa de pedir, pedido, data de distribuição, suma da sentença e do acórdão e data do trânsito em julgado. O autor alegou que não há causa de pedir e pedido idênticos, enquanto o Estado de Minas Gerais argumentou que o processo deveria ser extinto sem resolução do mérito.

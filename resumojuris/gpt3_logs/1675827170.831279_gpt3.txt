@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: As vendas inadimplidas nao podem ser excluidas da base de calculo do tributo, pois a inadimplencia do consumidor final  por se tratar de evento posterior e alheio  nao obsta a ocorrencia do fato gerador do ICMS-comunicacao. Uma vez prestado o servico de comunicacao ao consumidor, de forma onerosa, incidira necessariamente o imposto, independentemente de a empresa ter efetivamente auferido receita com a realizacao do servico. Ressalte-se, nesses termos, a existencia de duas relacoes juridicas distintas e independentes entre si, regidas por normas especificas: uma entre a empresa (contribuinte de direito) e o respectivo consumidor/usuario (contribuinte de fato) de natureza civil; e outra, de carater estritamente tributario, entre a empresa (sujeito passivo) e o Fisco (sujeito ativo). Alem disso, nao possui qualquer respaldo constitucional, sendo, portanto, absolutamente inadmissivel, repassar ao Erario os riscos proprios da atividade economica em face de eventual inadimplemento dos consumidores/usuarios, a pretexto de fazer valer os principios da nao-cumulatividade, da capacidade contributiva e da vedacao ao confisco. Por fim, a inadimplencia do usuario nao constitui excludente legal do tributo, de modo que admitir que as vendas inadimplidas pudessem ser excluidas da base de calculo do ICMS implicaria violacao direta ao principio da legalidade tributaria, bem como ao disposto nos artigos 150,  6, e 155,  2, XII, g, da CF/88 (CF). Nessa hipotese, o Supremo Tribunal Federal (STF) estaria atuando como legislador positivo, modificando as normas tributarias inerentes ao ICMS para instituir beneficio fiscal em favor dos contribuintes, o que ensejaria violacao tambem ao principio da separacao dos Poderes. Com base nesse entendimento, o Plenario, por maioria, apreciando o Tema 705 da repercussao geral, negou provimento ao recurso extraordinario. Vencidos os ministros Marco Aurelio (relator) e Edson Fachin.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A inadimplência do consumidor final não obsta a ocorrência do fato gerador do ICMS-comunicação. 2. Existe uma relação jurídica distinta e independente entre a empresa (contribuinte de direito) e o respectivo consumidor/usuário (contribuinte de fato) de natureza civil. 3. Existe uma relação jurídica de caráter estritamente tributário entre a empresa (sujeito passivo) e o Fisco (sujeito ativo). 4. É inadmissível repassar ao Erário os riscos próprios da atividade econômica em face de eventual inadimplemento dos consumidores/usuários. 5. A inadimplência do usuário não constitui excludente legal do tributo. 6. Admitir que as vendas inadimplidas pudessem ser excluídas da base de cálculo do ICMS implicaria violação direta ao princípio da legalidade tributária. 7. O STF não pode atuar como legislador positivo, modificando as normas tributárias inerentes ao ICMS para instituir benefício fiscal em favor dos contribuintes.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A possibilidade do reconhecimento da prescrio intercorrente significa que no  necessrio aguardar-se o julgamento de mrito do recurso da defesa quando, aps a sentena condenatria recorrvel, j houver transcorrido perodo de tempo suficiente para reconhecer a prescrio com base na pena aplicada. Conforme o pargrafo 1 do artigo 110 do CP, a prescrio, depois da sentena condenatria com trnsito em julgado para a acusao, (...) regula-se pela pena aplicada. A prescrio intercorrente constitui inovao da reforma penal de 1984, que acolheu preocupao da jurisprudncia com os casos em que a dificuldade em intimar o condenado atrasava o trnsito em julgado da deciso. A Smula 146 do STF, j em 1961, esclarecia que a prescrio da ao penal regula-se pela pena concretizada na sentena, quando no h recurso da acusao. No podendo o tribunal aumentar a pena, esta deveria ser considerada para efeito de prescrio. Nos casos em que havia dificuldade para intimar o condenado, a extino da responsabilidade somente foi possvel a partir da noo de trnsito em julgado para a acusao. Com a reforma penal de 1984, a prescrio intercorrente ganhou expressa previso legal. A prescrio intercorrente verifica-se nos mesmos prazos estabelecidos pelo artigo 109 do CP, mas levando-se em considerao a pena concretamente aplicada. No se pode esquecer, entretanto, de que a reincidncia constitui causa de aumento do prazo prescricional (artigo 110) e de que a idade do condenado pode constituir causa de diminuio (artigo 115). A prescrio intercorrente regula-se pela pena aplicada, considerando a eventual causa de aumento ou diminuio do prazo. Ocorrendo a prescrio intercorrente ou superveniente, a deciso condenatria que transitou em julgado somente para a acusao no poder ser considerada para caracterizar posterior reincidncia no caso da eventualidade de outra condenao. Muito embora uma condenao tenha efetivamente ocorrido, no foi essa que transitou em julgado. Reconhecendo o tribunal a prescrio, a deciso proferida no acrdo  declaratria da extino da punibilidade, e no condenatria. Por isso, a condenao de primeiro grau de jurisdio no poder servir para caracterizar futura reincidncia. 22.12. Prescrio retroativa. At a entrada em vigor da Lei 12.234/2010, ocorrida no dia 6 de maio de 2010, o artigo 110 do CP permitiu a aplicao retroativa da prescrio da pretenso punitiva.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prescrio intercorrente regula-se pela pena aplicada, considerando as causas de aumento ou diminuição do prazo e, se ocorrer, extingue a punibilidade. Antes da Lei 12.234/2010, o artigo 110 do CP permitia a aplicação retroativa da prescrição da pretenso punitiva.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por uma questao de isonomia, portanto, o recorrente havia de ter sido igualmente nomeado, mas infelizmente nao caiu nas gracas do Administrador, apesar de ter tanto direito quanto qualquer outro concorrente igualmente beneficiado pela revogacao da clausula de barreira. Assim sendo, a Administracao Publica nao pode se beneficiar de sua propria conduta omissiva ilegal de ter nomeado apenas alguns, se furtado a nomeacao de outros, no caso o recorrente, e em seguida a isso ter anulado o ato revocatorio para que nao pudesse mais surtir efeitos nem, pois, beneficiar outros candidatos para alem daqueles que ela mesma beneficiara antes, com a nomeacao. (Informativo n. 738) PROCESSO AgInt na Pet no REsp 1.586.943-SC, Rel. Min. Herman Benjamin, Segunda Turma, por unanimidade, julgado em 17.05.2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL CIVIL TEMA Nulidade de processo de demarcacao. Discussao da posse indigena de terras. Litisconsorcio passivo necessario. Comunidade indigena. Funai. MPF. DESTAQUE A comunidade indigena cuja posse fundiaria e questionada em acao de nulidade de demarcacao tem o direito subjetivo de ser ouvida no processo, na qualidade de litisconsorte passivo necessario.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O recorrente tem o mesmo direito que qualquer outro concorrente à nomeação, por isonomia. 2. A Administração Pública não pode se beneficiar de sua própria conduta omissiva ilegal. 3. A comunidade indígena cuja posse fundiária é questionada em ação de nulidade de demarcação tem o direito subjetivo de ser ouvida no processo, na qualidade de litisconsorte passivo necessário.

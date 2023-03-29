@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O condenado pode ser preso antes do trnsito em julgado se presente uma das hipteses autorizadoras da decretao da priso preventiva (artigo 255, CPPM). Adverte-se, com inteira razo, que a lei ordinria no pode criar obstculo ao direito ao duplo grau de jurisdio. No faz mais sentido a ltima exceo ao efeito suspensivo em caso de suspenso condicional da pena, porque o artigo 606 do CPPM deve ser cotejado com a redao original do artigo 527 do CPPM, que determina que:
+O ru no poder apelar sem recolher-se  priso, e que no foi acolhido pela Constituio Federal de 1988. O condenado apelava preso, salvo se a pena privativa de liberdade no fosse superior a dois anos, que poderia ser suspensa de dois a seis anos. Percebe-se, ento, a lgica da exceo. A apelao tem efeito devolutivo. Devolve ao tribunal a matria de fato e de direito para ser julgada. Esta devoluo  plena quando for devolvida ao tribunal toda matria apreciada em primeiro grau e ser parcial se for impugnao de parte da deciso recorrida, por exemplo, se a apelao tiver por objeto apenas a reduo da pena. O efeito devolutivo da apelao permite ao tribunal apreciar em profundidade o recurso, mas no em sua extenso (limite horizontal), de modo que o tribunal deve restringir-se  matria questionada. O efeito extensivo previsto no artigo 515 do CPPM (No caso de concurso de agentes, a deciso do recurso interposto por um dos rus, se fundada em motivos que no sejam de carter exclusivamente pessoal, aproveitar aos outros)  regra geral dos recursos.  possvel estender os efeitos favorveis aos rus que praticaram o mesmo crime e desde que a deciso da apelao no seja fundada em motivos que no sejam de carter exclusivamente pessoal. Por exemplo:
+de dois condenados pela prtica de determinada conduta apenas um deles apela e  dado provimento ao recurso de apelao em razo da atipicidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O condenado pode ser preso antes do trânsito em julgado se presente uma das hipóteses autorizadoras da decretação da prisão preventiva. A apelação tem efeito devolutivo, permitindo ao tribunal apreciar em profundidade o recurso, mas não em sua extensão. Os efeitos favoráveis da decisão da apelação podem ser estendidos aos outros réus que praticaram o mesmo crime, desde que a decisão não seja fundada em motivos exclusivamente pessoais.

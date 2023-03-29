@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+17 da Lei 8.429/1992, incluido pela Lei 14.230/2021, no sentido de que nao existe obrigatoriedade de defesa judicial ; havendo, porem, a possibilidade dos orgaos da Advocacia Publica autorizarem a realizacao dessa representacao judicial, por parte da assessoria juridica que emitiu o parecer atestando a legalidade previa dos atos administrativos praticados pelo administrador pu-blico, nos termos autorizados por lei especifica; e (c) declarar a inconstitucionalidade do art. 3 da Lei 14.230/2021. Por via de consequencia, o Tribunal tambem declarou a constitucionalidade (a) do  14 do art. 17 da Lei 8.429/1992, incluido pela Lei 14.230/2021; e (b) do art. 4, X, da Lei 14.230/2021. Vencidos, parcial-mente, os ministros Nunes Marques, Dias Toffoli e Gilmar Mendes, nos termos de seus votos. ADI 7042/DF, relator Ministro Alexandre de Moraes, julgamento finalizado em 31.8.2022 ADI 7043/DF, relator Ministro Alexandre de Moraes, julgamento finalizado em 31.8.2022 12.5 LEGITIMIDADE RECURSAL Procuradorias municipais: legitimidade para interpor recurso em acao de controle de constitucionalidade - ARE 873804 AgR-segundo-ED-EDv-AgR/RJ ODS: 16 Resumo: A procuradoria juridica estadual ou municipal possui legitimidade para interpor recurso em fa-ce de acordao de tribunal de justica proferido em representacao de inconstitucionalidade. Em que pese existirem alguns paradigmas em sentido contrario ao da decisao ora agravada, a decisao embargada e no sentido da orientacao fixada pelo Plenario desta Corte, de modo que nao subsiste a alegada divergencia jurisprudencial. Nesse contexto, prevalece o entendimento de que a ausencia de assinatura do chefe do Poder Executi-vo na peticao recursal nao constitui obice para a analise do recurso, sendo suficiente que a peca seja subscrita pelo procurador, que tambem detem legitimidade recursal em acoes de controle de constitucionalidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não existe obrigatoriedade de defesa judicial, mas há a possibilidade dos órgãos da Advocacia Pública autorizarem a realização dessa representação judicial, por parte da assessoria jurídica que emitiu o parecer atestando a legalidade previa dos atos administrativos praticados pelo administrador público, nos termos autorizados por lei específica. 2. A procuradoria jurídica estadual ou municipal possui legitimidade para interpor recurso em face de acórdão de tribunal de justiça proferido em representação de inconstitucionalidade. 3. A ausência de assinatura do chefe do Poder Executivo na petição recursal não constitui óbice para a análise do recurso, sendo suficiente que a peça seja subscrita pelo procurador, que também detém legitimidade recursal em ações de controle de constitucionalidade.

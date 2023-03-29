@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No julgamento dos embargos (artigo 548, CPPM) e da reviso criminal, so aplicadas as normas para o julgamento da apelao (artigo 557, CPPM). Alnea e:
+nulidade por preterio (falta ou omisso) na interveno do Ministrio Pblico em todos os termos da ao penal. A interveno do Ministrio Pblico, como titular da ao penal pblica,  obrigatria em todos os termos, desde o oferecimento da denncia, passando pela instruo criminal e as etapas de diligncias, e alegaes escritas at os debates. Sua preterio  causa de nulidade absoluta. A audincia de instruo realizada sem a participao do rgo de acusao fere o contraditrio e a bilateralidade de audincia e constitui nulidade insanvel por violao ao sistema acusatrio. Alnea f:
+nulidade por preterio de frmulas ou de termos na nomeao de defensor ao ru presente que no o tiver, ou de curador ao ausente e ao menor de dezoito anos. So trs causas de nulidade.  causa de nulidade absoluta a falta de nomeao de defensor ao ru presente que no o tiver. A defesa tcnica  indispensvel (artigo 5, LV, CF). O ru presente tem a faculdade de constituir defensor de sua confiana, todavia, se no o fizer, o juiz deve nomear um defensor (dativo), pois ningum  processado e julgado sem defensor. Ao acusado, deve ser concedido prazo para constituir defensor;
+em caso de renncia do defensor por ele constitudo, deve de ser dado prazo que constitua outro de sua confiana. Ao revel,  nomeado curador. Entretanto, no  nulo o processo por falta de nomeao de curador ao revel, que teve assistncia de defensor. Em sntese, no processo penal militar, o defensor dativo ou constitudo pelo revel desempenha as funes de curador. Se a revelia ocorrer no curso do processo, quando j havia advogado constitudo pelo acusado, a nomeao de curatela deve recair sobre esse defensor que foi constitudo pelo acusado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No julgamento dos embargos e da revisão criminal, são aplicadas as normas para o julgamento da apelação. A intervenção do Ministério Público é obrigatória em todos os termos do processo penal e sua preterição é causa de nulidade absoluta. A nomeação de defensor ao réu presente que não o tiver é causa de nulidade absoluta, pois a defesa técnica é indispensável. Se o réu renunciar ao defensor por ele constituído, deve ser dado prazo para que constitua outro de sua confiança. Ao réu revel, é nomeado curador, mas se a revelia ocorrer no curso do processo, quando j havia advogado constitudo pelo acusado, a nomeação de curatela deve recair sobre esse defensor.

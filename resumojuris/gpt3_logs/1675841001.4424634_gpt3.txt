@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Para alem desse impacto no calculo do apenamento, nenhuma outra consequencia advira da exclusao da qualificadora da paga. Dessa forma, compete ao STJ sanar ele proprio, diretamente, a nulidade detectada, a fim de retificar o calculo das reprimendas dos acusados, como manda o art. 593,  2, do CPP. 728 Nem existiria utilidade pratica na instauracao de novo juri, porque nao haveria nenhuma cognicao adicional que os jurados pudessem exercer sobre a qualificadora da paga (diferentemente, por exemplo, da hipotese de manifesta contrariedade entre o veredito e as provas, em que os juizes leigos podem se debrucar novamente sobre os mesmos dados probatorios). A exclusao da referida qualificadora decorre somente da necessidade de correlacao entre denuncia e quesitacao, tema juridico que nem poderia ser reexaminado pelo juri em um novo julgamento. (Informativo n. 748) PROCESSO REsp 1.973.397-MG, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 06/09/2022. RAMO DO DIREITO DIREITO PENAL TEMA Incidencia de minorantes. Quesitacao. Obrigatoriedade. Quantum de diminuicao da pena.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É competência do Superior Tribunal de Justiça sanar diretamente a nulidade detectada, a fim de retificar o cálculo das reprimendas dos acusados, conforme prevê o art. 593, 2º, do Código de Processo Penal. 2. Não há utilidade prática na instauração de novo júri, pois não haveria nenhuma cognição adicional que os jurados pudessem exercer sobre a qualificadora da pena. 3. A exclusão da qualificadora da pena decorre somente da necessidade de correlação entre denúncia e quesituação, tema jurídico que não poderia ser reexaminado pelo júri em um novo julgamento.

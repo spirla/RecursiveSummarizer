@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Contudo, deve o magistrado avaliar, em cada caso concreto, se a prestao jurisdicional pleiteada, alm de necessria,  adequada. Assim como acontece com as demais condies da ao, o exame do interesse de agir deve ser feito admitindo-se hipoteticamente que os fatos narrados na inicial sejam verdadeiros. A deciso judicial sobre a veracidade dos fatos que do ensejo  causa de pedir  deciso de mrito. O interesse processual pode ser visualizado sob dois enfoques distintos, que permitem decompor a anlise nos aspectos do interesse-necessidade e interesse-utilidade. No que diz respeito ao requisito da necessidade, nas aes penais condenatrias e cautelares, a via processual sempre  necessria para a aplicao de pena ou imposio de medidas acautelatrias. No  possvel aplicao de pena sem o devido processo legal, o que torna sempre necessria a utilizao do processo. Tratando-se de priso ilegal, cuja autoridade coatora no admite a ilegalidade e no promove a soltura do paciente, a ao de habeas corpus ser sempre necessria para garantir o direito individual. Contudo, nem sempre do processo penal poder resultar a providncia jurdica desejada. A avaliao do interesse-utilidade, nesses casos, leva a discusso ao tema da efetividade do processo. A atividade jurisdicional no  exercida por mero diletantismo, mas para atender aos fins sociais a que se destina. Se, do processo penal, no resultar uma deciso que produza efeitos jurdicos relevantes, efetivos, no se pode admitir a perda de tempo e recursos pblicos. Como exemplo de falta de interesse, que se expressa em utilidade, pode-se citar a ocorrncia das causas extintivas de responsabilidade. Quando no se puder mais aplicar a pena, por estar extinta a responsabilidade, no haver qualquer utilidade no processo. Se ainda no iniciado, no mais poder s-lo. Se iniciado, a falta de interesse determinar a extino do processo sem julgamento de mrito. Cabe observar que a falta de interesse, na vertente interesse-utilidade, pode ser apurada em qualquer fase do processo. Percebendo o juiz que ocorreu a prescrio, por exemplo, deve declarar a ausncia de interesse e extinguir o feito. Nesse sentido, com acerto, Rogrio Greco sustenta a possibilidade de reconhecer a falta do interesse de agir quando os elementos do processo indicarem que a pena a ser aplicada em eventual condenao j teria sido prescrita. Tambm no exame de admissibilidade do recurso deve estar presente o interesse de agir.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O interesse processual pode ser decomposto em interesse-necessidade e interesse-utilidade. A ao de habeas corpus sempre necessria para garantir o direito individual. Se do processo penal no resultar uma deciso que produza efeitos jurdicos relevantes, efetivos, no se pode admitir a perda de tempo e recursos pblicos. O juiz deve declarar a ausncia de interesse e extinguir o feito quando perceber que ocorreu a prescrio. O interesse de agir também deve estar presente no exame de admissibilidade do recurso.

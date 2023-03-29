@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se a divergncia for total - sobre todo o julgado, por exemplo, a maioria condenou e os votos vencidos absolveram -, a impugnao  integral;
+se a divergncia for parcial - recai sobre um aspecto do julgado, por exemplo, todos condenaram na modalidade de crime qualificado, mas o voto vencido condenou na forma simples de crime - a impugnao  limitada ao que foi decidido sem unanimidade. O CPPM e o CPP no preveem efeito suspensivo. Ao tratar desta omisso do CPP, vale-se Gustavo Badar da regra de que todo e qualquer recurso, quando no for expressamente negado pela lei, ter efeito suspensivo, pelo que reconhece que os embargos infringentes tm efeito suspensivo. O julgamento das ADCs 43 e 44 mudou a posio adotada pelo STF (HC 126.292). No  vivel a execuo imediata da pena no caso de oposio de embargos infringentes no tribunal de segunda instncia, pois, neste caso, o julgamento desfavorvel ao ru pode ser modificado. Com isso, a jurisprudncia do STJ foi alterada. Antes da expedio de mandado de priso para execuo da pena deve haver esgotamento das vias recursais ordinrias, nessas includo o julgamento dos embargos infringentes pendentes de deciso. Neste sentido HC 358.257/RS:
+III - (...) tendo-se em vista que houve a oposio de embargos infringentes pela defesa, pendentes de julgamento, no estando exauridas, portanto, as vias recursais ordinrias. Ordem concedida para, confirmando a liminar de fls. 83/84, determinar que o paciente, salvo se por outro motivo estiver preso, aguarde em liberdade o esgotamento das vias recursais ordinrias, sendo vedada, no meio tempo, a formao de processo de execuo criminal provisrio. Os embargos infringentes cumprem papel relevante diante da divergncia de votos ao ampliar o colegiado de julgamento da causa. Os embargos infringentes so recurso com efeito suspensivo e, em consequncia, a execuo da deciso condenatria deve ser suspensa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os embargos infringentes são recursos com efeito suspensivo que ampliam o colegiado de julgamento da causa. A execução da decisão condenatória deve ser suspensa até o esgotamento das vias recursais ordinárias, incluindo o julgamento dos embargos infringentes. A jurisprudência do STJ foi alterada com a expedição de mandado de prisão para execução da pena.

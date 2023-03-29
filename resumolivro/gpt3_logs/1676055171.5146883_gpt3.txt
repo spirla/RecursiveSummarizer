@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A invaso deve ser realizada em dispositivo informtico que no pertena ao sujeito ativo do crime, j que por expressa exigncia tpica o dispositivo deve ser alheio em relao a sua pessoa. Nos casos em que o sujeito est autorizado pelo proprietrio a utilizar o dispositivo, seja para fins entretenimento, estudo ou trabalho, ordinariamente, o acesso a seus arquivos no caracteriza invaso. No entanto,  possvel que o dispositivo informtico tenha seu uso compartilhado por diversas pessoas com restrio de acesso aos contedos considerados privados. Esta situao  muito comum em redes de computador nas quais os computadores perifricos possuem autorizao de acesso a arquivos armazenados no computador principal. Se o usurio da rede no possui permisso de acesso a determinado contedo, a inobservncia da restrio caracteriza invaso. Para a caracterizao do crime  indiferente que o dispositivo informtico esteja ou no efetivamente conectado a uma rede de computadores, bem como que tal conexo seja possvel. Mesmo o dispositivo que no possua tecnologia que permita sua conexo a uma rede de computadores pode ser objeto da invaso que caracteriza o crime em exame. O tipo incriminador vincula a execuo do crime, exigindo que a invaso se realize por meio da violao indevida de mecanismo de segurana. Se no houver indevida violao de mecanismo de segurana no ser possvel caracterizar o crime em exame. Isto significa que a tutela penal se restringe aos dispositivos informticos que se encontrem, de alguma forma, protegidos.  indiferente o grau de segurana e confiabilidade do mecanismo de segurana, mas  necessrio que exista algum mecanismo e que a invaso ocorra mediante a sua indevida violao. A redao tpica refora a ideia de que a invaso constitui sempre um acesso indevido. Os mecanismos de segurana so predispostos para evitar os acessos indevidos e garantir a segurana da utilizao adequada do dispositivo informtico. Os mecanismos de segurana no protegem o dispositivo dos acessos devidos, mas somente dos indevidos. Nesse sentido, somente o acesso indevido pode violar um mecanismo de segurana. A rigor, a ideia de invadir mediante violao indevida de mecanismo de segurana constitui pleonasmo. Contudo, no se pode esquecer que  possvel que o acesso indevido ocorra sem a violao de qualquer mecanismo de segurana. E, nos termos do artigo 154-A do CP, sem a violao de mecanismo de segurana no pode haver invaso criminosa de dispositivo informtico.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A invaso de dispositivo informtico caracteriza-se como crime quando o acesso indevido ocorre mediante a violao de mecanismo de segurana. O dispositivo informtico pode ser alheio ao sujeito ativo do crime e, mesmo que autorizado para uso, acessos restritos a contedos considerados privados caracterizam invaso. O tipo penal vincula a execuo do crime à violao indevida de mecanismo de segurana.

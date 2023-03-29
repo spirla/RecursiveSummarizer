@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Consta do pargrafo nico do artigo 1 da Lei 9.296/96:
+O disposto nesta Lei aplica-se  interceptao do fluxo de comunicaes em sistemas de informtica e telemtica. O sistema de informtica (computadores, perifricos, softwares e sistemas de redes) possibilita o processamento, a compresso, o armazenamento e a comunicao de grandes quantidades de dados (nos formatos texto, imagem e som), em curto prazo de tempo, entre usurios. A telemtica  o conjunto de tecnologias da informao e da comunicao resultante da juno entre os recursos das telecomunicaes (telefonia, satlite, cabo, fibras pticas etc.). A discusso sobre a constitucionalidade do pargrafo nico do artigo 1 da Lei 9.296/96 gerou duas interpretaes. Pela primeira corrente respeitados doutrinadores ponderam que em sentido tcnico, s pela telemtica pode haver a comunicao do fluxo de dados via telefone, donde j se v a impropriedade da referncia da lei  informtica. Mas, mesmo com relao  telemtica, deve-se dizer que o texto constitucional s parece permitir a interceptao de comunicao telefnica stricto sensu (ou seja, da voz), e no da comunicao via telefone (compreendendo a telemtica). E como as regras limitadoras de direitos, sobretudo quando excepcionais, devem ser interpretadas restritivamente, poderia afirmar-se que a previso de interceptao do fluxo de comunicaes, tanto pela informtica como pela temtica,  inconstitucional. A segunda linha de interpretao admite a constitucionalidade parcial do pargrafo nico do artigo 1 da Lei 9.296/96. Para Gustavo Badar a telemtica por dizer respeito  comunicao de dados por sistemas de computadores tem pertinncia com a lei [Lei 9.296/96] em anlise.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.296/96 permite a interceptação de fluxos de comunicação em sistemas de informática e telemática. Existem duas interpretações sobre a constitucionalidade do pargrafo único do artigo 1 da Lei 9.296/96: a primeira considera que a lei é imprópria para a comunicação de dados via telefone; a segunda admite a constitucionalidade parcial da lei.

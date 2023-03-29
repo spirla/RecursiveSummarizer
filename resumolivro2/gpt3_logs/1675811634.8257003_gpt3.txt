@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O condenado a pena superior a 08 (oito) anos dever comear a cumpri-la em regime fechado (pargrafo 2., a). O termo dever tem carter imperativo. Requisito objetivo e nico  a quantidade da pena privativa de liberdade ser superior a 08 anos. O condenado a pena superior a 04 (quatro) anos e no excedente a 08 (oito), no reincidente, poder, desde o princpio, cumpri-la em regime semiaberto (pargrafo 2., b). O condenado a pena igual ou inferior a 4 (quatro) anos, no reincidente, poder, desde o incio, cumpri-la em regime aberto (pargrafo 2., c). O termo poder referido nas alneas b e c do pargrafo 2 do artigo 33 do CP significa que, alm do requisito objetivo (pena) e subjetivo (reincidncia), o juiz na fixao do regime inicial ter em conta as circunstncias judiciais favorveis ou desfavorveis da primeira fase do clculo da pena (artigo 33, pargrafo 3, CP). Se na primeira fase as circunstncias judiciais foram consideradas favorveis ao acusado deve ser fixado o regime prisional, segundo a pena aplicada. Ainda mais:
+ao condenado reincidente a pena igual ou inferior a 04 (quatro) anos  admissvel o regime inicial semiaberto, em vez do fechado, se as circunstncias judiciais forem favorveis, conforme a Smula 269 do STJ.15 Por outro lado, se foi reconhecida circunstncia judicial desfavorvel, que levou exasperar a pena-base,  admissvel regime mais severo do que o indicado pela pena aplicada. So dois os requisitos subjetivos para os regimes semiaberto e aberto:
+o condenado no ser reincidente e lhe serem favorveis s circunstncias judiciais. O Conselho de Justia, ao proferir sentena condenatria, nos termos da alnea c do artigo 440 do CPPM impor as penas, se for o caso, a espcie e o limite das acessrias previstas no artigo 98 do CPM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O condenado a pena superior a 8 anos dever cumpri-la em regime fechado. O condenado a pena superior a 4 anos e inferior a 8, não reincidente, poder cumpri-la em regime semiaberto. O condenado a pena igual ou inferior a 4 anos, não reincidente, poder cumpri-la em regime aberto. O juiz na fixação do regime inicial terá em conta as circunstâncias judiciais favoráveis ou desfavoráveis da primeira fase do cálculo da pena. O condenado reincidente a pena igual ou inferior a 4 anos poderá cumpri-la em regime semiaberto, se as circunstâncias judiciais forem favoráveis. Se foi reconhecida circunstância judicial desfavorável, poderá ser fixado um regime mais severo.

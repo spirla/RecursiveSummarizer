@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+337-E do CP (Alterado pela Lei n. 14.133/2021). Ausencia de dolo especifico e de efetivo prejuizo aos cofres publicos. Atipicidade da conduta. DESTAQUE Para a configuracao do crime previsto no art. 89 da Lei n. 8.666/1993, agora disposto no art. 337-E do CP (Lei n. 14.133/2021), e indispensavel a comprovacao do dolo especifico de causar danos ao erario e o efetivo prejuizo aos cofres publicos. Inicialmente cumpre salientar que a Lei n. 8.666/1993, no art. 13, V, caracterizava o patrocinio ou defesa de causas judiciais ou administrativas como servico tecnico especializado, que poderia ser contratado com inexigibilidade de licitacao se demonstrada a notoria especializacao do profissional e a singularidade do objeto. No entanto, com o advento da Lei n. 14.133/2021, nos termos do art. 74, III, o requisito da singularidade do servico advocaticio deixou de ser previsto em lei, passando a ser exigida a demonstracao da notoria especializacao e a natureza intelectual do trabalho. Essa interpretacao, alias, e reforcada pela inclusao do art. 3- A do Estatuto da Advocacia pela Lei n. 14.039/2020, segundo o qual os servicos profissionais de advogado sao, por sua natureza, tecnicos e singulares, quando comprovada sua notoria especializacao, nos termos da lei .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Para a configuração do crime previsto no art. 337-E do CP (Lei n. 14.133/2021), é indispensável a comprovação do dolo específico de causar danos ao erário e o efetivo prejuízo aos cofres públicos. 2. A Lei n. 8.666/1993, no art. 13, V, caracterizava o patrocínio ou defesa de causas judiciais ou administrativas como serviço técnico especializado, que poderia ser contratado com inexigibilidade de licitação se demonstrada a notória especialização do profissional e a singularidade do objeto. 3. Com o advento da Lei n. 14.133/2021, nos termos do art. 74, III, o requisito da singularidade do serviço advocatício deixou de ser previsto em lei, passando a ser exigida a demonstração da notória especialização e a natureza intelectual do trabalho. 4. A interpretação é reforçada pela inclusão do art. 3-A do Estatuto da Advocacia pela Lei n. 14.039/2020, segundo o qual os serviços profissionais de advogado são, por sua natureza, técnicos e singulares, quando comprovada sua notória especialização, nos termos da lei.

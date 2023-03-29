@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O fato  que no processo inquisitrio o juiz busca a confisso e surge assim o tormento judicial, entronizado tanto no processo penal oficial como na instituio eclesistica que, para vergonha da humanidade, imperou durante vrios sculos e que se chamou a Inquisio do Santo Ofcio. No aludido sistema a confisso constituiu prova to forte que no h nenhuma necessidade de acrescentar outras, nem de entrar na difcil e duvidosa combinao de indcios e sobretudo porque a confisso, desde que feita na forma correta desobriga o acusador do cuidado de fornecer outras provas com isso o procedimento necessariamente vai tender  confisso. A confisso, com o recurso inevitvel  tortura, tornava-se verdadeira condio para a obteno do convencimento, sempre que os meios ordinrios no propiciassem a certeza necessria para condenao. 14.1.12.2. Sistema da ntima convico. A lei nada diz sobre o valor da prova e o juiz tem integral liberdade de convico,  denominado de sistema da certeza moral do juiz. O juiz julga secundum conscientiam, por isso mesmo no precisa fundamentar a sentena, julga orientado pelos ditames de conscincia, seus conhecimentos e impresses pessoais e at contra as provas colhidas. As provas judiciais ou extrajudiciais so examinadas com plena liberdade pelo juiz, que tem total e irrestrita possibilidade de apreci-las.  adotado no julgamento pelo Tribunal do Jri. Os jurados no esto obrigados a fundamentar a deciso, ou seja, ficam dispensados de indicar os motivos da convico. A Constituio garante sigilo da votao dos quesitos (artigo 5, XXXVIII, b), que so respondidos pelos jurados (artigo 483, CPP). Cabe ao juiz presidente a aplicao da pena em caso de condenao pelo Conselho de Sentena. H profundas diferenas entre o julgamento realizado pelo Conselho de Justia e pelo Tribunal do Jri. Os integrantes do Conselho de Justia no julgam segundo o sistema da ntima convico. Os votos so proferidos em sesso pblica e devidamente motivados.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O processo inquisitrio busca a confisso do acusado, sendo que a tortura era usada como meio para obt-la. O sistema da ntima convico, por sua vez, permite ao juiz julgar com base em seus conhecimentos e impressões pessoais, sem necessidade de fundamentar a sentença. Já no julgamento pelo Tribunal do Júri, os jurados não precisam fundamentar sua decisão e a votação é mantida em sigilo. Por fim, o Conselho de Justiça julga com base em provas e votos motivados.

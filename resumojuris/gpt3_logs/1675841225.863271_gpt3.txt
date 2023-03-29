@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Esse entendimento, a proposito, alinha-se a conclusao a que chegou a Terceira Secao do STJ no julgamento do CC n. 161.123/SP (relator Ministro Sebastiao Reis Junior, DJe de 05/12/2018), no sentido de que a operacao envolvendo compra ou venda de criptomoedas nao encontra regulacao no ordenamento juridico patrio, pois as moedas virtuais nao sao tidas pelo Banco Central do Brasil (BCB) como moeda, nem sao consideradas como valor mobiliario pela Comissao de Valores Mobiliarios (CVM), nao caracterizando sua negociacao, por si so, os crimes tipificados nos arts. 7, II, e 11, ambos da Lei n. 7.492/1986, nem mesmo o delito previsto no art. 27-E da Lei n. 6.385/1976 . No que concerne a suposta participacao em organizacao criminosa, embora a prisao preventiva de seus integrantes para interrupcao de suas atividades seja admitida pelos tribunais superiores, a mera imputacao da pratica dos crimes previstos na Lei n. 12.850/2013, por si so, nao justifica a imposicao automatica da custodia prisional. Sob essa otica, deve-se avaliar a presenca de elementos concretos, previstos no art. 312 do CPP, como o risco de reiteracao delituosa ou indicios de que o grupo criminoso continua em atividade, colocando em risco a ordem publica. No caso, a organizacao criminosa investigada ja foi desmantelada e os administradores da empresa estao afastados de suas atividades, neutralizando, portanto, o risco de reiteracao delituosa. Ja o cogitado risco de fuga pode ser prevenido por meio do recolhimento do passaporte, da proibicao de ausentar-se do pais e de outras medidas cautelares alternativas. Ressalte-se o firme entendimento do STJ de que a prisao preventiva somente se justifica quando e impossivel se alcancar identico resultado acautelatorio por instrumento menos gravoso (RHC n. 113.671/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/08/2019).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A negociação de criptomoedas não se enquadra na regulação do ordenamento jurídico brasileiro, não sendo consideradas moeda nem valor mobiliário pelo Banco Central do Brasil (BCB) e Comissão de Valores Mobiliários (CVM). 2. A mera imputação da prática dos crimes previstos na Lei n. 12.850/2013 não justifica a imposição automática da custódia prisional. 3. A prisão preventiva somente se justifica quando é impossível alcançar o mesmo resultado acautelatório por instrumento menos gravoso.

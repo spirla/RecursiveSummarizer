@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+5, inciso LXXIV, da Constituio Federal que determina: o Estado prestar assistncia jurdica integral e gratuita aos que comprovarem insuficincia de recursos. Nesse contexto, no basta a mera declarao hipossuficincia, pois a assistncia judiciria gratuita deve ser concedida apenas aos comprovadamente necessitados. Ademais, o Cdigo de Processo Civil prev, no artigo 99,  2 e 3, que a alegao de insuficincia de recursos pela pessoa natural conta com presuno de veracidade. Todavia, ao apurar nos autos elementos que apontem para a ausncia da condio de carncia financeira, o julgador poder, depois de oportunizada a comprovao dos pressupostos da gratuidade judiciria, indeferir o benefcio. Confira-se: Art. 99. O pedido de gratuidade da justia pode ser formulado na petio inicial, na contestao, na petio para ingresso de terceiro no processo ou em recurso. [..]  2 O juiz somente poder indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concesso de gratuidade, devendo, antes de indeferir o pedido, determinar  parte a comprovao do preenchimento dos referidos pressupostos.  3 Presume-se verdadeira a alegao de insuficincia deduzida exclusivamente por pessoa natural. Nesse sentido,  assentado o entendimento do Superior Tribunal de Justia (STJ), seno vejamos: PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AO DE EXECUO DE TTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAO. OMISSO, CONTRADIO OU OBSCURIDADE. NO INDICAO. SMULA 284/STF. GRATUIDADE DE JUSTIA. PRESUNO DO ESTADO DE NECESSIDADE. NATUREZA RELATIVA.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado deve prestar assistncia jurdica gratuita aos necessitados, mediante comprovao de insuficincia de recursos. O Cdigo de Processo Civil prev presuno de veracidade da alegao de insuficincia de recursos por pessoa natural. O julgador, ao encontrar elementos nos autos que apontam para a ausncia da condio de carncia financeira, pode indeferir o benefcio, desde que oportunizada a comprovao dos pressupostos da gratuidade judiciria.

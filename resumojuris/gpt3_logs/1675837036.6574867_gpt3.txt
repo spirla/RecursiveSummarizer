@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Cobranca pelo uso da faixa de dominio por outra concessionaria que explora servico publico diverso. Possibilidade. Previsao no contrato de concessao. Imprescindibilidade. 225 DESTAQUE As concessionarias de servico publico podem efetuar a cobranca pela utilizacao de faixas de dominio por outra concessionaria que explora servico publico diverso, desde que haja previsao no contrato de concessao. A Primeira Secao do STJ, no julgamento dos EREsp 985.695/RJ, na qual o acordao embargado entendera, em razao do Decreto n. 84.398/1980, pela impossibilidade de cobranca de concessionaria de distribuicao de energia eletrica pelo uso de faixa de dominio de rodovia estadual concedida - concluiu, dando provimento aos Embargos de Divergencia, no sentido de que podera o poder concedente, na forma do art. 11 da Lei n. 8.987/1995, prever, em favor da concessionaria, no edital de licitacao, a possibilidade de outras fontes provenientes de receitas alternativas, complementares, acessorias ou de projetos associados, com ou sem exclusividade, com vistas a favorecer a modicidade das tarifas (STJ, EREsp 985.695/RJ, Rel. Ministro Humberto Martins, Primeira Secao, DJe de 12/12/2014), desde que haja previsao no contrato da concessao de rodovia. Por oportuno, vale destacar que o entendimento adotado pelo Supremo Tribunal Federal, no julgamento do RE 581.947/RO - Tema 261 da Repercussao Geral (STF, RE 581.947/RO, Rel. Ministro Eros Grau, Pleno, DJe de 21/05/2010) -, nao tem o condao de alterar o resultado do julgamento do presente feito. Com efeito, o STF delimitou a controversia juridica, esclarecendo que o decisum dispoe sobre a impossibilidade de cobranca de taxa, especie de tributo, pelos municipios em razao do uso do espaco publico municipal por concessionaria de fornecimento de energia eletrica, reconhecendo a inconstitucionalidade de cobranca da aludida taxa, pelo Municipio de Ji-Parana.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As concessionarias de serviço público podem efetuar a cobrança pela utilização de faixas de domínio por outra concessionária que explora serviço público diverso, desde que haja previsão no contrato de concessão. 2. O Poder Concedente pode prever, em favor da concessionária, no edital de licitação, a possibilidade de outras fontes provenientes de receitas alternativas, complementares, acessórias ou de projetos associados, com ou sem exclusividade, com vistas a favorecer a modicidade das tarifas. 3. O entendimento adotado pelo Supremo Tribunal Federal, no julgamento do RE 581.947/RO, não tem o condão de alterar o resultado do julgamento do presente feito.

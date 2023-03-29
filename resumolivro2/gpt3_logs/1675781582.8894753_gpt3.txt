@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Constituio Federal (artigo 5, LVI) desautoriza qualquer prova cuja obteno derive de transgresso a clusulas de ordem constitucional ou mesmo quaisquer elementos probatrios que resultem de violao do direito material (ou, at mesmo, do direito processual). Expe, acertadamente, Frederico Marques que princpios constitucionais de proteo a garantia da pessoa humana, impedem que para a procura da verdade lance-se mo de meios condenveis e inquos de investigao e prova. As crticas da doutrina estrangeira acentuam que o interrogatrio policial est fora de controle judicial. Para a doutrina nacional  uma realidade o emprego de mtodos violentos na atividade policial. A confisso policial obtida por meios lcitos, se confirmada por outras provas, especialmente a efetiva apreenso do produto do crime, por indicao do acusado, mesmo com o ru retratando-se em juzo, influencia a deciso judicial. O que no se pode  tolerar irregularidades cometidas pela polcia judiciria militar que contaminem o processo. A finalidade do interrogatrio no  a confisso, muito embora dele possa decorrer em razo das perguntas feitas pelo juiz em obedincia ao artigo 306 do CPPM. No caso de confisso o acusado  especialmente interrogado:
+a) sobre quais os motivos e as circunstncias da infrao;
+b) sobre se outras pessoas concorreram para ela, quais foram e de que modo agiram (artigo 306, pargrafo 2, CPPM). 14.2.3. Declaraes do ofendido. Valor probatrio. Ofendido  o termo que a legislao processual penal militar adota para designar a pessoa fsica vtima de crime e que pode ser o titular do interesse lesado ou ameaado pela prtica da conduta criminosa. Nem sempre o ofendido, sujeito passivo do crime,  o titular do bem jurdico protegido pelo tipo penal. H diferena ontolgica entre o ofendido e a testemunha. O ofendido no tem o dever jurdico de dizer a verdade, de modo que no incorre nas penalidades do artigo 346 do CPM, delito de falso testemunho, nem  obrigado a responder pergunta que possa incrimin-lo, ou seja, estranha ao processo (artigo 313, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Constituio Federal proíbe a obtenção de provas por meios ilícitos. A doutrina nacional reconhece o uso de métodos violentos na atividade policial. A confissão policial obtida por meios lícitos, se confirmada por outras provas, pode influenciar a decisão judicial. O interrogatório policial não tem como objetivo a confissão, mas sim obter informações sobre os motivos e circunstâncias da infração. O ofendido não tem o dever de dizer a verdade e não está sujeito às penalidades do artigo 346 do CPM.

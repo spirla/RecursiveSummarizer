@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+2, 2, da Lei 12.850/2013, reconhecendo-o como integrante de organizao criminosa, assumindo a funo de um dos mentores intelectuais e gestores do grupo. De acordo com aquele membro do "Parquet, restara demonstrado nos autos, em especial nas conversas obtidas a partir da interceptao telefnica autorizada judicialmente, que o denunciado exercia a chefia da organizao criminosa que se dedicava a pratica de roubos e furtos de veculos, cargas, estabelecimentos comerciais e residncias, receptao e adulterao de sinal identificador de veculos automotor. Ressaltou ter restado evidente que o denunciado era um dos donos da organizao, j que coordenava suas atividades, definindo o que seria subtrado pelos membros da organizao, o destino dado aos bens adquiridos pela pratica delituosa, bem como, os alvos a serem vtimas da organizao. O ex-Cb foi ainda denunciado por ter-se dedicado a adulterao de chassi e placas de identificao de veculos automotores com o fim de comercializa-los para serem utilizados em locais distantes nos quais estariam isentos de fiscalizao. Acrescentou aquele rgo de execuo que, pelo fato de ser policial militar, o denunciado assumiu a responsabilidade por acompanhar as transmisses do Centro de Operaes da PM (COPOM), por meio de rdios do tipo HT sintonizados na frequncia da PM, avisando aos demais membros sobre riscos de eventual abordagem policial. Ainda destacou a intima relao do denunciado com Ronald Machado, tendo, inclusive participado ativamente da tentativa de homicdio do comparsa Wesley (fls. 230/252). Restou plenamente evidenciado nas investigaes constantes destes autos que, o denunciado, ento se utilizando da prerrogativa de policial militar, realizava o acompanhamento da rede de rdio da Policia Militar com o objetivo de salvaguardar a fuga dos comparsas. Nesse contexto, conforme desgravao dos udios 9.0 a 11.0 constantes de fls. 354/355, no dia 28/02/2014, o denunciado obteve conhecimento de que seu comparsa estava com veculo Renault sem placa, com indicativo de ser produto de roubo e, em vez de adotar as providencias legais, monitorou a rede de rdio da polcia militar, passando as informaes sobre a movimentao da polcia para Ronald e Natalino, o qual conduzia o veculo roubado, facilitando a sua fuga. O denunciado traiu seu dever de agir em razo de seu prprio envolvimento com a quadrilha dedicada a pratica de roubos e resgate de veculos produtos de crime. O denunciado, ao informar seu comparsa sobre a ao ou operao policial, deu-lhe oportunidade de escapar da interveno policial.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O denunciado foi reconhecido como integrante de organização criminosa, assumindo a função de mentor intelectual e gestor do grupo. Foi demonstrado nos autos que o denunciado exercia a chefia da organização e que, como policial militar, monitorava a rede de rádio da PM para informar aos membros da organização sobre riscos de abordagem policial, facilitando a fuga dos comparsas.

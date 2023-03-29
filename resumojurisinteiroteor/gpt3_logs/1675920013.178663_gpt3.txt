@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Ademais, conforme mencionei no acordo objurgado, "a matria atinente ao mencionado decreto poderia, inclusive, ter sido suscitada no momento oportuno e perante o Juzo de primeiro grau, at para possibilitar  instncia primeva um pronunciamento sobre a questo. O trancamento de ao penal funda-se em argumentos vlidos que justifiquem, por meio de provas pr-constitudas, o interrompimento prematuro da ao penal em razo de clara atipicidade dos fatos ou de indubitvel ocorrncia de uma das causas extintivas de punibilidade, o que no foi verificado no presente caso. Conforme me manifestei no julgamento do mrito do habeas corpus, quando o inqurito policial militar traz elementos mnimos indicativos de materialidade de fatos e indcios da autoria, que, em tese, constituam delito, entendo que tais fatos, dentro da formao do denominado opinio delicti, a ser exercitado pelo Ministrio Pblico, devero ser descritos na denncia, uma vez que h aqui a obrigatoriedade da propositura da ao penal, conforme estipula o art. 30 da lei processual penal militar. Do contrrio, diante da inexistncia de elementos mnimos indicativos de materialidade de fatos e indcios da autoria, o prprio Ministrio Pblico poder requerer o arquivamento, com fundamento no 2 do art. 25 do CPPM. Dessa forma, reitero que, na denncia, o Ministrio Pblico descreve, com clareza, os fatos, capitulando-os no art. 324 do CPM, considerando a existncia de crime, em tese, sem nenhum questionamento do Juzo que a recebeu. A denncia observou os preceitos legais exigidos pelo Cdigo de Processo Penal Militar (CPPM), pois apresentou a exposio do fato criminoso, com todas as suas circunstncias, a qualificao do acusado e a classificao do crime e o rol das testemunhas. Nesse sentido, transcrevo, por oportuno, trecho da deciso embargada. Veja-se: Conforme se verifica dos autos, o douto representante do Ministrio Pblico apresentou denncia, que foi recebida pelo Juzo em 17/09/2021, em trs laudas anexadas e devidamente assinadas. Desta feita, no h como reconhecer a inpcia da denncia aventada pelo impetrante se a descrio da pretensa conduta delituosa foi feita de forma suficiente ao exerccio do direito de defesa, com a narrativa de todas as circunstncias relevantes, com base no art. 77 do Cdigo Processo Penal Militar (CPPM). Quando a ao penal traz suporte probatrio mnimo de materialidade e indcios da autoria de fatos que, em tese, constituam delitos, estes, devidamente descritos na denncia do processo criminal, podem e devem passar pelo crivo do judicirio, conforme estipula o art. 30 da lei processual penal militar. [..] Ao contrrio do que alegou o embargante, nos termos do acrdo vergastado, no se pode dizer que a conduta supostamente perpetrada pelo paciente no afrontou legislao vigente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Denncia observou os preceitos legais exigidos pelo Cdigo de Processo Penal Militar (CPPM), pois apresentou a exposio do fato criminoso, com todas as suas circunstncias, a qualificao do acusado e a classificao do crime e o rol das testemunhas. A ao penal traz suporte probatrio mnimo de materialidade e indcios da autoria de fatos que, em tese, constituam delitos, devidamente descritos na denncia do processo criminal, podendo passar pelo crivo do judicirio.

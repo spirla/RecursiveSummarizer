@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se a arguio for do acusado, o juiz ouvir o Ministrio Pblico e decidir de plano. A exceo da coisa julgada  apresentada pela defesa na resposta  acusao (artigo 396-A, CPP), no entanto, por se tratar de matria de ordem pblica pode ser arguida a qualquer tempo. Reconhecida a coisa julgada, o processo deve ser extinto sem julgamento de mrito, portanto, trata-se de exceo peremptria. Todavia, reconhecida a coisa julgada arguida pelo acusado, o juiz recorre de ofcio (artigo 154, pargrafo nico, CPPM). A deciso que julga procedente a exceo de coisa julgada arguida pelo Ministrio Pblico desafia recurso em sentido estrito (artigo 516, f, CPPM), que sobe  segunda instncia em autos apartados e sem efeito suspensivo. Mas se julgada improcedente a exceo de coisa julgada arguida pelo acusado, cabe habeas corpus, porque recurso em sentido estrito  vivel apenas contra a deciso que a julgar procedente, sem embargo de a questo voltar a ser discutida em sede de apelao. A exceo da coisa julgada no suspende a marcha do processo. 10.6. Incidente de insanidade mental. O CPPM cuida do incidente de insanidade mental do acusado nos artigos 156 a 162. O artigo 156, caput, do CPPM, dispe:
+Quando, em virtude de doena ou deficincia mental, houver dvida a respeito da imputabilidade penal do acusado, ser ele submetido a percia mdica. A percia mdica verifica a imputabilidade do acusado, que  a capacidade de entender o carter ilcito do fato e de determinar-se de acordo com esse entendimento. Assim, so dois requisitos capacidade de entender, que  o elemento cognoscitivo, intelectual, e a capacidade de querer, que  o elemento volitivo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz ouve o Ministério Público e decide de plano se a exceção da coisa julgada é apresentada pela defesa na resposta à acusação. Se a exceção for reconhecida, o processo é extinto sem julgamento de mérito. Se for arguida pelo acusado, o juiz recorre de ofício e a decisão que julga procedente a exceção desafia recurso em sentido estrito. Se houver dúvida sobre a imputabilidade penal do acusado, ele será submetido a perícia médica para verificar a capacidade de entender o caráter ilícito do fato e de determinar-se de acordo com esse entendimento.

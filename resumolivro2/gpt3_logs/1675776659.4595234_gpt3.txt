@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A denncia no  recebida se manifesta a ilegitimidade do acusador (artigo 78, d, 2 parte, CPPM). A legitimatioad causam  diferente da legitimatio ad processum. O menor de 18 anos vtima de crime de ao penal privada tem legitimatioad causam, mas no tem legitimatio ad processum, que  a capacidade para estar em juzo. A falta de capacidade processual (legitimatio ad processum)  suprida pela representao legal, a quem cabe intentar ao penal privada (artigo 30, CPP). O advogado, por sua vez, tem capacidade postulatria, que  a capacidade para praticar atos processuais em juzo. A legitimidade passiva no processo penal militar  do autor do fato delituoso. 7.3. Ao penal condenatria. Na ao penal condenatria a pretenso punitiva  deduzida na denncia do Ministrio Pblico, ou na queixa do ofendido, para imposio de uma sano penal. Toda ao penal  de natureza pblica, a iniciativa  pblica quando couber ao Ministrio Pblico oferecer a denncia e privada se couber ao ofendido ou seu representante legal oferecer a queixa. 7.3.1. Ao penal de iniciativa pblica incondicionadaA regra no processo penal militar  a ao penal ser de iniciativa pblica incondicionada promovida por denncia do Ministrio Pblico Militar (artigo 29, CPPM), no se exigindo a manifestao de vontade do ofendido ou de seu representante legal, porque o interesse pblico na represso ao crime se sobrepe ao interesse particular, individual. A ao penal pblica  regida por princpios. O da oficialidade decorre de ser promovida, privativamente, por rgo oficial do Estado, o Ministrio Pblico (artigo 129, I, CF, e artigos 34 e 54 do CPPM). O princpio da obrigatoriedade significa que o Ministrio Pblico no tem discricionariedade em oferecer ou no a denncia, mas o dever de apresent-la sempre que houver prova de fato que, em tese, constitua crime e indcios de autoria (CPPM, artigo 30).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ação penal militar é de iniciativa pública incondicionada, promovida exclusivamente pelo Ministério Público. O menor de 18 anos vítima de crime tem legitimatio ad causam, mas não tem legitimatio ad processum, que é a capacidade para estar em juízo. A falta de capacidade processual é suprida pela representação legal, que tem capacidade postulatória para praticar atos processuais em juízo. O princípio da oficialidade significa que o Ministério Público não tem discricionariedade para oferecer ou não a denúncia, mas o dever de apresentá-la sempre que houver prova de fato que, em tese, constitua crime e indícios de autoria.

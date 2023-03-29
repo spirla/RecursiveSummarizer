@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Essa previsao legal nao constitui ofensa aos principios constitucionais da legalidade, da estrita legali-dade e da tipicidade tributaria, e da separacao dos Poderes. Em verdade, ela confere maxima efetividade a esses preceitos, objetivando, primordialmente, comba-ter a evasao fiscal, sem que isso represente permissao para a autoridade fiscal de cobrar tributo por analogia ou fora das hipoteses descritas em lei, mediante interpretacao economica. Nesse contexto, apenas viabiliza que a autoridade tributaria aplique base de calculo e aliquota a uma hipotese de incidencia estabelecida em lei e que tenha efetivamente se realizado. Com base nesse entendimento, o Plenario, por maioria, julgou improcedente a acao direta. ADI 2446/DF, relatora Ministra Carmen Lucia, julgamento virtual finalizado em 8.4.2022 (sexta-feira), as 23:59 (INF 1050) 14.3 ICMS ICMS: fixacao de aliquotas sobre operacoes com energia eletrica e servicos de comunica-cao superiores as das operacoes em geral - ADI 7117/SC e ADI 7123/DF ODS: 8 e 9 Resumo: E inconstitucional norma distrital ou estadual que, mesmo adotando a tecnica da seletividade, preve aliquota de ICMS sobre energia eletrica e servicos de comunicacao  os quais consistem sempre em itens essenciais  mais elevada do que a incidente sobre as operacoes em geral. Na linha da jurisprudencia desta Corte, a CF/88 nao obriga os entes competentes a ado-tarem a seletividade no ICMS. Entretanto, se houver essa adocao, cabera ao legislador realizar uma ponderacao criteriosa das caracteristicas intrinsecas do bem ou servico em razao de sua essencialidade com outros elemen-tos, como a capacidade economica do consumidor final, a destinacao do bem ou servico, e a justica fiscal, tendente a menor regressividade desse tributo indireto.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma distrital ou estadual que, mesmo adotando a tecnica da seletividade, preve aliquota de ICMS sobre energia eletrica e serviços de comunicação os quais consistem sempre em itens essenciais mais elevada do que a incidente sobre as operações em geral. 2. A Constituição Federal não obriga os entes competentes a adotarem a seletividade no ICMS. 3. Se houver a adoção da seletividade, caberá ao legislador realizar uma ponderação criteriosa das características intrínsecas do bem ou serviço em razão de sua essencialidade com outros elementos, como a capacidade econômica do consumidor final, a destinação do bem ou serviço, e a justiça fiscal, tendente a menor regressividade desse tributo indireto.

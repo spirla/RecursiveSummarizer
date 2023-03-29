@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR JADIR SILVA, RELATOR Recebo o recurso de apelao porque foram satisfeitos os requisitos e pressupostos de admissibilidade. Insurge-se o Ministrio Pblico contra deciso do egrgio Conselho Permanente de Justia atuante na 2a AJME que absolveu o 3 Sgt PM Alex da Silva Brando do delito previsto no art. 346 do Cdigo Penal Militar, considerando no haver provas idneas e isentas de incertezas para sustentar a condenao do referido militar como incurso no crime de falso testemunho. Saliento que o ilustre representante do Ministrio Pblico apresenta razes desconexas com a sentena, razo pela qual me limito a apreciar o recurso em seu efeito devolutivo. Pois bem. Da leitura da denncia, verifica-se que o ilustre representante do Ministrio Pblico imputa o crime de falso testemunho ao apelado em razo das declaraes prestadas junto ao Inqurito Policial Militar (nesse ponto, sem indicao de qual Portaria) no sentido de que: afirmou que, o denunciado, Sgt Brando, durante uma conversa com ela no ptio do Quartel, confirmou que teria visto e ouvido, juntamente com o Sgt PM Pastor, o denunciado Sd PM Mattedi falando que iria "meter tiro nestes carros que estavam indo na porta da sua casa, podendo ser carros particulares ou viaturas policiais. Confirmou tambm que o denunciado, Sgt PM Brando disse  declarante que j teria alertado a Cb PM Alessandra, sobre as ameaas. Essas declaraes, no entanto, so contrrias  afirmao da Subten Pompia Francisca Lopes de que o apelado, Sgt Brando, durante uma conversa com ela no ptio do quartel, confirmou que teria visto e ouvido, juntamente com o Sgt PM Pastor, o denunciado Sd PM Mattedi falando que iria "meter tiro nestes carros que estavam indo na porta da sua casa, podendo ser carros particulares ou viaturas policiais. E, ainda, a dita testemunha confirmou que o denunciado, Sgt PM Brando, disse a ela que j teria alertado a Cb PM Alessandra sobre as ameaas.  sntese, considera-se falsa a afirmao do apelado de desconhecer a suposta ameaa realizada pelo soldado PM Gustavo Deivid Paiva Mattedi em desfavor da cabo PM Alessandra Pazini Peron e de haver tomado conhecimento do fato em virtude da abertura de inqurito policial militar para apurao da suposta ameaa. Bem.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministrio Pblico apelou da deciso do Conselho Permanente de Justia que absolveu o 3 Sgt PM Alex da Silva Brando do delito previsto no art. 346 do Cdigo Penal Militar, considerando no haver provas idneas e isentas de incertezas. O recurso foi recebido porque foram satisfeitos os requisitos e pressupostos de admissibilidade. O relator limitou-se a apreciar o recurso em seu efeito devolutivo, considerando falsa a afirmao do apelado de desconhecer a suposta ameaa realizada pelo soldado PM Gustavo Deivid Paiva Mattedi.

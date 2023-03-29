@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Certidoes de julgamento. Vicio substancial. DESTAQUE Em embargos de divergencia, a mera indicacao do Diario da Justica em que publicado o acordao paradigma nao atende a exigencia de citacao do repositorio oficial ou autorizado de jurisprudencia. No caso, a parte nao juntou o inteiro teor do acordao paradigma, faltando a respectiva certidao de julgamento, limitando-se a mencionar o Diario da Justica em que publicado o referido acordao. A comprovacao da divergencia deve observar os termos do  4 do art. 1.043 do CPC de 2015 e do  4 do art. 266 do Regimento Interno do Superior Tribunal de Justica. O nao atendimento aos requisitos enumerados nestes dispositivos constitui vicio substancial, resultante da nao observancia do rigor tecnico exigido na interposicao do recurso, o que afasta a incidencia do paragrafo unico do art. 932 do CPC/2015. A mera indicacao do Diario da Justica em que publicado o acordao paradigma nao atende a exigencia de citacao do repositorio oficial ou autorizado de jurisprudencia, uma vez que consiste apenas em orgao de divulgacao no qual somente e publicada a ementa do acordao e nao seu inteiro teor. A juntada tao somente da ementa, relatorio e voto do acordao paradigma, sem a respectiva certidao de julgamento, configura vicio substancial e afasta a aplicacao do paragrafo unico do art. 932 do CPC/2015.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A mera indicação do Diário da Justiça em que publicado o acordão paradigma não atende a exigência de citação do repositório oficial ou autorizado de jurisprudência. 2. A comprovação da divergência deve observar os termos do art. 1.043 do CPC de 2015 e do art. 266 do Regimento Interno do Superior Tribunal de Justiça. 3. O não atendimento aos requisitos enumerados nestes dispositivos constitui vicio substancial, resultante da não observância do rigor técnico exigido na interposição do recurso, o que afasta a incidência do parágrafo único do art. 932 do CPC/2015. 4. A juntada tão somente da ementa, relatório e voto do acordão paradigma, sem a respectiva certidão de julgamento, configura vicio substancial e afasta a aplicação do parágrafo único do art. 932 do CPC/2015.

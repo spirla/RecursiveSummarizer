@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Para o jurista austraco, a ordem social justa  a que regula o comportamento dos homens de modo a contentar a todos, e todos encontrarem sob ela felicidade. No entanto, Kelsen percebeu que a Justia  uma caracterstica possvel de uma ordem social, mas no necessria. Os conflitos de interesses que se verificam nas diversas situaes de interao no ambiente social que obrigam a uma tomada de posio, certamente, levaro ao reconhecimento da injustia da ordem social enquanto a justia for concebida sob a perspectiva individual. Como a garantia do interesse de uma das partes em conflito implica a insatisfao da outra,  impossvel garantir a felicidade de todos os indivduos. Se justia  felicidade, ento uma ordem social justa  impossvel, enquanto justia significar felicidade individual ou mesmo a maior felicidade possvel ao maior nmero possvel de pessoas. O conceito de Justia proposto por Kelsen passa de um sentimento subjetivo que cada pessoa reserva para si mesma (que admite que a felicidade de um pode ser a infelicidade de outro) para uma perspectiva social, em que a felicidade individual decorre da satisfao das necessidades sociais. Sob essa perspectiva, afirma Kelsen que. ...a felicidade capaz de ser garantida por uma ordem social s o  em sentido objetivo-coletivo, nunca num sentido subjetivo-individual. Isso significa que, por felicidade, somente poderemos entender a satisfao de certas necessidades reconhecidas como tais pela autoridade social - o legislador - ... o conceito de justia transforma-se de princpio que garante a felicidade individual de todos em ordem social que protege determinados interesses, ou seja, aqueles que so reconhecidos como dignos dessa proteo pela maioria dos subordinados a essa ordem. O reconhecimento da dignidade de certos interesses humanos que os levam a ser protegidos pela ordem social sempre depender dos juzos de valor que, em ltima instncia, so determinados por fatores emocionais e subjetivos do legislador e no por critrios cientficos racionais. Freud j nos alertou que os juzos de valor do homem acompanham diretamente os seus desejos de felicidade, e que, por conseguinte, constituem uma tentativa de apoiar com argumentos as suas iluses.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Kelsen argumenta que a Justiça é possível numa ordem social, mas não necessária. Como a satisfação dos interesses de uma parte implica a insatisfação da outra, torna-se impossível garantir a felicidade de todos. Assim, o conceito de Justiça passa de um sentimento subjetivo para uma perspectiva social, na qual a felicidade individual depende da satisfação das necessidades sociais. Os juízos de valor que determinam o reconhecimento dos interesses humanos dignos de proteção dependem dos fatores emocionais e subjetivos do legislador.

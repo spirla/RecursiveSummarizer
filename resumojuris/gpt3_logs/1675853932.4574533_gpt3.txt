@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Pedido formulado na vigencia do CPC de 1973. Entrada em vigor do CPC/2015. Aplicacao do CPC de 2015. Teoria dos atos processuais isolados. DESTAQUE Aplica-se ao pedido de alteracao do polo passivo formulado em replica na vigencia do CPC/73, mas ainda pendente de exame quando da entrada em vigor do CPC/2015, as disposicoes deste ultimo diploma, nao havendo necessidade de reiteracao do pedido para que a parte tenha direito a sua apreciacao. No caso, a parte autora formulou pedido de alteracao do polo passivo em replica, quando em vigor o CPC de 1973, o qual ainda pendia de exame quando da entrada em vigor do CPC de 2015. O juizo extinguiu o feito sem resolucao do merito, em decorrencia da ilegitimidade do polo passivo, sem examinar o requerimento feito em replica para a substituicao do reu. Segundo o disposto no art. 14 do CPC/2015, a norma processual nao retroagira e sera aplicavel imediatamente aos processos em curso . Aplicacao da teoria dos atos processuais isolados. Assim, a lei processual atinge o processo no estagio em que ele se encontra. Os dispositivos do CPC/2015 que permitem a substituicao do polo passivo, como o art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Aplica-se ao pedido de alteração do polo passivo formulado em réplica na vigência do CPC/73, mas ainda pendente de exame quando da entrada em vigor do CPC/2015, as disposições deste último diploma, não havendo necessidade de reiteração do pedido para que a parte tenha direito a sua apreciação. 2. A norma processual não retroagirá e será aplicável imediatamente aos processos em curso, de acordo com o disposto no art. 14 do CPC/2015. 3. A lei processual atinge o processo no estágio em que ele se encontra, aplicando-se a teoria dos atos processuais isolados.

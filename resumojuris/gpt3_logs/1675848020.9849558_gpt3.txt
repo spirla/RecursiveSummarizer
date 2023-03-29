@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Portanto, da analise perfunctoria consentanea a via estreita do habeas corpus, nao se vislumbra inequivoca atipicidade da conduta irrogada a paciente. Ademais, com esteio nos fatos descritos na denuncia, teoricamente, e possivel identificar na exordial acusatoria as situacoes ensejadoras do perigo concreto: 1) a tenra idade da vitima (absolutamente incapaz de defender-se de quaisquer situacoes de perigo que se apresentassem a sua frente); 2) a falta de familiaridade com o local; 3) a incapacidade de determinar o correto curso do elevador, tendo em vista que acionou diversos botoes aleatoriamente, exceto o que o levaria ao encontro de sua genitora, no pavimento terreo. Com efeito, a complexidade dos fatos e da adequacao tipica das condutas a eles, na conformidade da plausivel articulacao de juizos normativos preliminares da denuncia implicam a conveniencia da instrucao probatoria. (Informativo n. 725) 1230 SEXTA TURMA Voltar ao Sumario. PROCESSO REsp 1.846.407-RS, Rel. Ministro Sebastiao Reis Junior, Sexta Turma, por unanimidade, julgado em 13/12/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Audiencia de instrucao. Ausencia de membro do Ministerio Publico. Inquiricao de testemunhas pelo juiz. Ofensa ao artigo 212 do CPP. Ocorrencia. DESTAQUE A ausencia do membro do Ministerio Publico na oitiva de testemunhas da acusacao durante audiencia de instrucao nao permite que o magistrado formule perguntas diretamente a estas, assumindo funcao precipua do Parquet.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) A ausência do membro do Ministério Público na oitiva de testemunhas da acusação durante audiência de instrução não permite que o magistrado formule perguntas diretamente a elas, assumindo função precipua do Parquet. 2) A complexidade dos fatos e da adequação típica das condutas a eles, na conformidade da plausível articulação de juízos normativos preliminares da denúncia implicam a conveniência da instrução probatória.

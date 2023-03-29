@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A expresso "tribunal competente, inserida no 4 do artigo 125 da CF diz respeito ao tribunal originrio para conhecer da representao para perda do posto ou da graduao, que ser o Tribunal de Justia Militar nos Estados de Minas Gerais, So Paulo e Rio Grande do Sul e o Tribunal de Justia nos demais Estados da Federao. Consoante o que ressaltou a eminente procuradora de justia atuante nesta Corte castrense, o constituinte utilizou-se do termo "tribunal competente sem fazer relao com a origem da condenao, ou seja, se da Justia Militar ou da comum. Cumpre-me esclarecer que os precedentes recentes do excelso Supremo Tribunal Federal citados pelo representado firmaram-se em outros julgados, que repetem, de forma equivocada, o julgado expresso no RE 197.649-7/SP, cuja ementa segue: RE 197649 / SP - SO PAULO RECURSO EXTRAORDINRIO Relator(a): Min. CARLOS VELLOSO Julgamento: 04/06/1997 Publicao: 22/08/1997 rgo julgador: Tribunal Pleno Publicao DJ 22-08-1997 PP-38782 EMENT VOL-01879-07 PP-01458 Partes RECTE. : JOSE DELZUITO MOREIRA DA SILVA E OUTROS RECDO. : ESTADO DE SO PAULO Ementa EMENTA: CONSTITUCIONAL. MILITAR. PRAA DA POLCIA MILITAR. EXPULSO. C.F., art. 125,  4. I. - A prtica de ato incompatvel com a funo policial militar pode implicar a perda da graduao como sano administrativa, assegurando-se  praa o direito de defesa e o contraditrio. Neste caso, entretanto, no h invocar julgamento pela Justia Militar estadual. A esta compete decidir sobre a perda da graduao das praas, como pena acessria do crime que a ela, Justia Militar estadual, coube decidir, no subsistindo, em consequncia, relativamente aos graduados, o art. 102 do Cd. Penal Militar, que a impunha como pena acessria da condenao criminal a priso superior a dois anos. II. - R.E. no conhecido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de Justia Militar nos Estados de Minas Gerais, So Paulo e Rio Grande do Sul e o Tribunal de Justia nos demais Estados da Federao são os tribunais competentes para conhecer da representação para perda do posto ou da graduação, de acordo com o 4º do artigo 125 da Constituição Federal.

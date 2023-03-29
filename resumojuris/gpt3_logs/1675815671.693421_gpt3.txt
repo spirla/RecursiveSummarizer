@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Diante da revogacao expressa do texto legal anterior, nao se admite a continuidade de uma investiga-cao, uma acao de improbidade, ou uma sentenca condenatoria por improbidade com base em uma conduta culposa nao mais tipificada legalmente. Entretanto, a incidencia dos efeitos da nova lei aos fatos preteritos nao implica a extincao automatica das demandas, pois deve ser precedida da verificacao, pelo juizo competente, do exato elemento subjetivo do tipo: se houver culpa, nao se prosseguira com o feito; se houver dolo, prosseguir-se-a. Essa medida e necessa-ria porque, na vigencia da Lei 8.429/1992, como nao se exigia a definicao de dolo ou culpa, muitas vezes a imputacao era feita de modo generico, sem especificar qual era o elemento subjetivo do tipo. Nesse contexto, todos os atos processuais ate entao praticados sao validos, inclusive as provas produ-zidas, as quais poderao ser compartilhadas no ambito disciplinar e penal, assim como a acao podera ser utiliza-da para fins de ressarcimento ao erario. Os prazos prescricionais previstos na Lei 14.230/2021 nao retroagem, sendo aplicaveis a partir da publicacao do novo texto legal (26.10.2021). Isso se da em respeito ao ato juridico perfeito e em observancia aos principios da seguranca juridica, do acesso a Justica e da protecao da confianca, garantindo-se a plena eficacia dos atos praticados validamente antes da alteracao legislativa. Com efeito, a inercia nunca podera ser caracterizada por uma lei futura que, diminuindo os prazos prescricionais, passe a exigir o impossivel, isto e, que, retroativamente, o poder publico  que foi diligente e atuou dentro dos prazos a epoca existentes  cumpra algo ate entao inexistente. Por outro lado, a teor do que decidido pela Corte no Tema 897 de repercussao geral, permanecem imprescritiveis as acoes de ressarcimento ao erario fundadas na pratica de ato doloso tipificado na LIA.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não se admite a continuidade de uma investigação, uma ação de improbidade ou uma sentença condenatória por improbidade com base em uma conduta culposa não mais tipificada legalmente. 2. A incidência dos efeitos da nova lei aos fatos pretéritos não implica a extinção automática das demandas, pois deve ser precedida da verificação, pelo juízo competente, do exato elemento subjetivo do tipo. 3. Todos os atos processuais até então praticados são válidos, inclusive as provas produzidas, as quais poderão ser compartilhadas no âmbito disciplinar e penal. 4. Os prazos prescricionais previstos na Lei 14.230/2021 não retroagem, sendo aplicáveis a partir da publicação do novo texto legal (26.10.2021). 5. A inércia nunca poderá ser caracterizada por uma lei futura que, diminuindo os prazos prescricionais, passe a exigir o impossível. 6. Permanecem imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na LIA.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido tem sido o entendimento da doutrina. Sustenta Julio F. Mirabete que a denncia ou a queixa podem ser recebidas pelo juiz sem a juntada do laudo de exame de corpo de delito direto, pois a materialidade pode estar indicada por outras provas e o laudo ser juntado no curso do processo. A ao penal de iniciativa pblica incondicionada  promovida por denncia do Ministrio Pblico Militar (artigo 29, CPPM). A ao penal de iniciativa pblica  condicionada  requisio nos crimes previstos nos artigos 136 a 141 do Cdigo Penal Militar e depender de representao do ofendido ou de quem tiver qualidade para represent-lo (artigo 24, caput, CPP), quando o Cdigo Penal ou a lei especial a exigir. 15.2.2. Rejeio da denncia. Compete, singularmente, ao juiz federal da JMU e ao juiz de direito da JME rejeitar a denncia se no estiverem atendidos os requisitos estabelecidos nas alneas a, b, c e d do artigo 78 do CPPM. Diz a alnea a que a denncia no ser recebida se no contiver os requisitos expressos no artigo anterior, ou seja, os requisitos do artigo 77 do CPPM tratados no item 7.5.1. Entretanto, no caso da alnea a a rejeio no  liminar, pois o artigo 78, pargrafo 1, determina que o juiz antes de rejeitar a denncia, mandar, em despacho fundamentado, remeter o processo ao rgo do Ministrio Pblico para que, dentro do prazo de trs dias, contados da data do recebimento dos autos, sejam preenchidos os requisitos que no o tenham sido. As hipteses das alneas b, c e d do artigo 78 do CPPM so de rejeio liminar. A denncia no  recebida pelo juiz se o fato narrado no constituir evidentemente crime da competncia da Justia Militar (alnea b). O advrbio evidentemente designa manifestamente, sem dvida, de maneira bvia. O juiz declara, em despacho fundamentado, a incompetncia da justia castrense e determina a remessa do processo ao juiz competente. Estabelece o CPPM na alnea c do artigo 78 que a denncia no ser recebida se j estiver extinta a punibilidade. A punibilidade  a possvel consequncia jurdica do crime.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O entendimento da doutrina é que a denncia ou queixa pode ser recebida pelo juiz sem a juntada do laudo de exame de corpo de delito direto. A ação penal de iniciativa pública incondicionada é promovida por denncia do Ministério Público Militar. A ação penal de iniciativa pública condicionada requer representação do ofendido ou de quem tiver qualidade para representá-lo. Compete ao juiz federal da JMU e ao juiz de direito da JME rejeitar a denncia se não estiverem atendidos os requisitos estabelecidos. A denncia não é recebida se o fato narrado não constituir evidentemente crime da competência da Justiça Militar ou se já estiver extinta a punibilidade.

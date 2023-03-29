@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Delinear a amplitude desse conceito, que possui a funo de estabelecer os limites do atuar humano proibido, constitui tormento para os estudiosos, na medida em que necessitam reunir sob mesma categoria as manifestaes dolosas, culposas e omissivas dos indivduos. A teorizao social, nesse prisma, consegue alcanar tal meta reunindo todas essas formas de manifestao humana sob um nico ponto comum: a relevncia jurdico-penal da conduta no ambiente social em que se verifica. Na proposio da teoria social da ao, o conceito de crime  composto pelos elementos gerais de tipicidade, ilicitude e culpabilidade. Tipo. Nos termos do sistema social da ao, a conduta que pode caracterizar o fato tpico  somente aquela que adquire relevncia social. Sobre esse posicionamento Welzel lanou crticas, sustentando que o tipo representa a matria de proibio jurdica e pressupe uma caracterizao material da conduta socialmente inadequada, e no apenas a sua relevncia jurdica. Por outro lado, a noo de relevncia ou danosidade social da ao recebeu outras crticas que apontam as dificuldades para precisar a relevncia dos danos sociais causados pelo comportamento punvel, bem como para o perigo do esvaziamento dos componentes do crime, a ponto de haver concentrao de todas as atenes na ao. No entanto, a relevncia social da conduta punvel no  uma frmula vazia, mas conceito que requer e permite maior concreo, sendo que a construo de seus diversos elementos constitui uma das principais tarefas da poltica criminal. As influncias do finalismo fazem que os elementos subjetivos da conduta continuem sendo considerados no tipo, o que possibilita a imediata diferenciao entre os tipos dolosos e culposos. O bem jurdico, por sua vez, constitui a base da estrutura e da interpretao do tipo, devendo ser entendido como valor ideal da ordem social juridicamente protegido, cuja preservao interessa tanto  coletividade como ao particular. Sobre o aspecto da tipicidade material, ganhou corpo na doutrina o princpio da insignificncia, pelo qual se eliminam do injusto as aes que impliquem danos de pequena monta ao bem jurdico protegido.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria social da ação estabelece os limites do atuar humano proibido, reunindo manifestações dolosas, culposas e omissivas sob um nico ponto comum: a relevância jurdico-penal da conduta. O conceito de crime é composto por tipicidade, ilicitude e culpabilidade, sendo que a conduta que pode caracterizar o fato típico é aquela que adquire relevância social. O princípio da insignificância elimina do injusto ações que impliquem danos de pequena monta ao bem jurídico protegido.

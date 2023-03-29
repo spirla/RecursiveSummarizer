@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Extrai-se do REDS supra, que no desenrolar desta reunio, as Sras. Tatiana e Fabiana teriam afirmado que sofreram abuso sexual praticado pelo pai de ambas, Sr. Antnio Jos da Silva, quando eram crianas, tendo elas chegado a fazer tratamento psiquitrico devido s sequelas trazidas pelo abuso sexual sofrido. No entanto, nota-se que no houve a insero de nenhum histrico relativo ao empenho administrativo para cumprimento de diligncias afetas ao Corpo de Bombeiros Militar, mas, pelo contrrio, as informaes contidas no documento pblico guardam relao com informaes pessoais do Sr. Antnio e de suas filhas, sras. Tatiana e Fabiana, com a clara finalidade de se valer da f pblica do REDS e utiliz-lo em processo de guarda de menores, filhas do denunciado, Cap. BM Daniel, com Tatiana. Outrossim, cabe evidenciar que, foram inseridas informaes contendo acusaes de pedofilia contra o ofendido, as quais jamais foram comprovadas, sendo, inclusive, negadas posteriormente pelas supostas vtimas (fls. 97/101). Dessume-se dos dados constantes no REDS, que o digitador/relator do citado documento foi o denunciado, Cb. BM Helbert, no obstante, no dia 01/09/2020, quando da sua oitiva, ter afirmado que no se recorda de ter regido tal documento (151/153 - Peas IPM 6). Na mesma perspectiva, foi o depoimento do Cap.BM Ricardo, que, durante sua oitiva, na condio de testemunha, no dia 01/09/2020, negou que tenha sido o recebedor do REDS supra, quando dele constam inequivocamente os seus dados funcionais, necessrios para o acesso ao sistema e que devem estar, para login, associados  sua senha, que deve ser pessoal e intransfervel, nos termos do que preconiza o item 1.3.8.1 da Diretriz Integrada de Aes e Operaes do Sistema de Defesa Social de MG, onde trata do perfil de acesso de usurio ao REDS (fls. 156/157 - Peas IMP 6). [..] A denncia foi recebida no dia 07 de janeiro de 2021 (Evento 01). Na fase instrutria, foram ouvidas as testemunhas de acusao e de defesa, bem como o acusado, por meio de recurso audiovisual. Em alegaes finais, o Ministrio Pblico pugnou pela procedncia da denncia, para condenar o ru pela prtica do crime previsto no art. 312 do CPM. A defesa, por sua vez, requereu a absolvio do ru, alegando fragilidade e insuficincia de provas aptas a sustentar um dito condenatrio, requerendo, portanto, sua absolvio, com fundamento no art. 439, alnea "e, do Cdigo de Processo Penal Militar (CPPM). O Conselho Especial de Justia da 2a Auditoria de Justia Militar Estadual (2a AJME) julgou procedente a denncia, para condenar o ru pela prtica do crime de falsidade ideolgica (art. 312 do CPM), impondo-lhe a pena total de 01 (um) ano e 06 (seis) meses de recluso, a ser cumprida no regime aberto, com direito  suspenso condicional da pena.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Especial de Justia da 2a AJME julgou procedente a denncia de falsidade ideolgica (art. 312 do CPM) contra o ru, condenando-o a pena total de 01 (um) ano e 06 (seis) meses de recluso, no regime aberto, com direito suspenso condicional da pena.

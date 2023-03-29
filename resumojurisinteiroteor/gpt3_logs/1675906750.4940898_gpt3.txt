@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+I - Na origem, trata-se de mandado de segurana impetrado contra ato do Presidente da Assembleia Legislativa do Estado do Par, em razo da aplicao de pena de demisso ao impetrante do Cargo de Tcnico Legislativo-PL.AL.102, sob o argumento de o processo administrativo disciplinar ter tramitado de forma indevida e ilegal. No Tribunal a quo, a segurana foi denegada. II - O recorrente alega nulidade do processo disciplinar que lhe aplicou pena de demisso, sob o argumento de ofensa ao devido processo legal. III - O recurso ordinrio no merecer prosperar porquanto, em se tratando de mandado de segurana, mostra-se indispensvel a prova pr-constituda do alegado direito lquido e certo. O direito violado alegado deve ser comprovado junto com a pea vestibular em razo do rito especial do mandado de segurana, no qual no  possvel a fase de dilao probatria. IV - No mesmo sentido, pode ser observado pela anlise do acrdo recorrido, no que tange  alegao de que o relatrio da comisso processante  genrico, contraditrio e omisso, ficando destacada a impossibilidade, na via mandamental, de valorao de provas. V - No  possvel rever a aplicao da penalidade administrativa, porquanto esta ocorreu dentro dos parmetros fixados em lei. VI - Na linha da jurisprudncia desta Corte, o controle do Poder Judicirio, no tocante aos processos administrativos disciplinares, restringe-se ao exame do efetivo respeito aos princpios do contraditrio, da ampla defesa e do devido processo legal, sendo vedado adentrar no mrito administrativo. VII - O controle de legalidade exercido pelo Poder Judicirio sobre os atos administrativos diz respeito ao seu amplo aspecto de obedincia aos postulados formais e materiais presentes na Carta Magna, sem, contudo, adentrar o mrito administrativo. Para tanto, a parte dita prejudicada deve demonstrar, de forma concreta, a mencionada ofensa aos referidos princpios. Nesse sentido: MS 21.985/DF, Rel. Ministro Benedito Gonalves, Primeira Seo, julgado em 10/5/2017, DJe 19/5/2017; MS 20.922/DF, Rel. Ministro Benedito Gonalves, Primeira Seo, julgado em 8/2/2017, DJe 14/2/2017. VIII - Verifica-se que o processo administrativo disciplinar foi instaurado e seguiu seu trmite regular, tendo sido possibilitado ao impetrante o contraditrio e a ampla defesa, tendo acompanhado os atos pessoalmente e por meio de advogado que tambm apresentou defesa de forma regular. IX - No sendo possvel identificar nenhum vcio na tramitao do processo administrativo disciplinar, no h falar em direito lquido e certo a ser amparado por esta via mandamental. X - Prosseguir na verificao, para alm do que j assentado nos autos, demandaria necessria dilao probatria, o que no se admite nesta via mandamental. XI - Agravo interno improvido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso ordinário não mereceu prosperar pois, em se tratando de mandado de segurança, é necessária a comprovação de direito líquido e certo, o que não foi possível. O controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos diz respeito ao seu amplo aspecto de obediência aos postulados formais e materiais presentes na Carta Magna, sem adentrar o mérito administrativo. Não sendo possível identificar nenhum vício na tramitação do processo administrativo disciplinar, o agravo interno foi improvido.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No h vcio no acrdo. A matria foi devidamente tratada com clareza e sem contradies. V - Embargos de declarao no se prestam ao reexame de questes j analisadas, com o ntido intuito de promover efeitos modificativos ao recurso, quando a deciso apreciou as teses relevantes para o deslinde do caso e fundamentou sua concluso. VI - A matria sobre a qual a parte embargante alega a existncia de vcios foi devidamente tratada no acrdo embargado, conforme se percebe do seguinte trecho (fls. 10.266-10.268): "No se conheceu do agravo em recurso especial diante da falta de impugnao aos bices referentes  ocorrncia da Smula n. 83/STJ e da Smula n. 7/STJ. A parte agravante alega, em seu agravo interno, que realizou a impugnao aos fundamentos de inadmissibilidade do recurso especial. [...] (STJ - EDcl no AgInt no AREsp 1800154/SP, Rel. Ministro FRANCISCO FALCO, SEGUNDA TURMA, julgado em 28/06/2021, DJe 01/07/2021). Ademais,  oportuno esclarecer que a contradio passvel de ser sanada na via dos embargos declaratrios  a contradio no mbito interno do julgado, ou seja, entre os fundamentos da deciso, e no a contradio externa, relativa  incompatibilidade do julgado com tese, lei ou precedente tido pelo embargante como correto. Nesse sentido,  sedimentado o entendimento do Superior Tribunal de Justia: EMBARGOS DE DECLARAO NO AGRAVO INTERNO NO RECURSO EM HABEAS CORPUS. CONTRADIO INTERNA. OMISSO. NO OCORRNCIA. EMBARGOS REJEITADOS. 1. Apenas a contradio interna, entre os fundamentos e o dispositivo do julgado, autoriza os embargos de declarao, por prejudicar sua coerncia lgica, no a contrariedade entre a prestao jurisdicional e o entendimento sustentado pela parte. [...] 4. O recurso integrativo no  meio adequado para discutir o mero inconformismo da parte com o resultado do julgamento. 5.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O acrdo foi devidamente tratado, sem vcios, e os embargos de declarao no se prestam ao reexame de questes j analisadas, com o intuito de promover efeitos modificativos. A contradio passvel de ser sanada na via dos embargos declaratrios a contradio no mbito interno do julgado, e no a contradio externa. O recurso integrativo no meio adequado para discutir o mero inconformismo da parte com o resultado do julgamento.

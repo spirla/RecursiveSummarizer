@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A alterao da competncia para o julgamento dos crimes militares dolosos contra a vida promovida pela Lei 9.299/96 violou frontalmente a previso constitucional sobre a competncia da Justia Militar. No momento em que a Lei 9.299/96 entrou em vigor, a competncia da Justia Militar da Unio j era definida no artigo 124 Constituio da Repblica, segundo o qual  Justia Militar compete processar e julgar os crimes militares definidos em lei. Na mesma ocasio, a competncia da Justia Militar Estadual era definida no pargrafo 4 do artigo 125 da Constituio, o qual determinava que compete  Justia Militar estadual processar e julgar os policiais militares e bombeiros militares nos crimes militares definidos em lei. Apesar da sutil distino de tratamento entre as Justias Militares, fica claro que a Constituio deferiu s Justias Militares a competncia para processar e julgar os crimes militares definidos em lei. A competncia da Justia Militar somente poderia ter sido modificada em decorrncia de Emenda Constitucional que, excepcionalmente, atribusse  Justia Comum o julgamento dos crimes militares dolosos contra a vida de civil ou de lei ordinria que alterasse a definio de crime militar, para dela excluir os crimes dolosos contra a vida de civis. Por isso, o Superior Tribunal Militar, no Recurso Criminal n 6.348-5, declarou incidentalmente a inconstitucionalidade da Lei 9.299/96, no que se refere ao julgamento do crime militar pela Justia Comum. A Lei 9.299/96 poderia ter alterado a definio de crime militar, mas no o fez. No entanto, o Supremo Tribunal Federal entendeu que, apesar da m redao do pargrafo nico do artigo 9 do CPM, a Lei 9.299/96, implicitamente, retirou do homicdio praticado contra civil a sua natureza de crime militar (RE-260.404). O Superior Tribunal de Justia acompanhou o entendimento (AgRg no Ag 480700). O esforo hermenutico desconsiderou que a natureza militar do crime no  definida em razo da condio funcional da vitima. Posteriormente, a Emenda Constitucional 45 alterou a redao do pargrafo 4 do artigo 125 da Constituio da Repblica para expressamente ressalvar a competncia do jri quando a vitima for civil. O dispositivo constitucional tambm  muito mal redigido e permite at mesmo cogitar da instituio de um Tribunal do Jri (que  apenas um rgo do Poder Judicirio) no mbito da Justia Militar.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.299/96 alterou a competência da Justiça Militar para o julgamento dos crimes militares dolosos contra a vida, o que violou frontalmente a previsão constitucional. O STM declarou incidentalmente a inconstitucionalidade da Lei 9.299/96 e o STF entendeu que ela retirou do homicídio praticado contra civil a sua natureza de crime militar. A Emenda Constitucional 45 alterou a redação do pargrafo 4 do artigo 125 da Constituição da República para expressamente ressalvar a competência do júri quando a vítima for civil.

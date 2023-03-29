@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Fundamentacao inidonea. Imprescindibilidade evidenciada. Infracao que deixou vestigios. Materialidade delitiva. Comprovacao. Onus da acusacao. Ausencia. Absolvicao devida. DESTAQUE Se a suposta pratica de crime de peculato ocorreu por meio que deixou vestigios, consubstanciada em fraude na escrituracao contabil da municipalidade, mostra-se indispensavel a prova pericial, sob pena de ofensa ao art. 386, II, do CPP. O Juizo de primeiro grau pode indeferir as provas que concluir serem desnecessarias para a solucao da controversia, ou, ainda, aquelas que entender protelatorias, sem que isso caracterize ofensa ao principio do contraditorio e da ampla defesa, desde que o faca fundamentadamente. No caso houve o indeferimento do pedido de nomeacao de assistente tecnico para a pericia, sob o fundamento de que nao existem elementos nos autos que demonstrem a necessidade de producao de prova pericial .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Imprescindibilidade da prova pericial para a solução da controvérsia em caso de suposta prática de crime de peculato. 2. O Juízo de primeiro grau pode indeferir as provas desnecessárias ou protelatórias, desde que fundamentadamente. 3. Ausência de elementos nos autos que demonstrem a necessidade de produção de prova pericial.

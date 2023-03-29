@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: E inconstitucional a atribuicao de iniciativa privativa a governador de estado para leis que dis-ponham sobre a organizacao do Ministerio Publico estadual. Nos estados, os Ministerios Publicos poderao estabelecer regras sobre sua organizacao, atribuicoes de seus membros e seu estatuto por meio de lei complementar de iniciativa do respectivo Procurador-Geral de Justica. Assim, na esfera estadual, coexistem dois regimes de organizacao: (i) a Lei Organica Nacional (Lei 8.625/1993); e (ii) a Lei Organica do estado-membro, que delimita as regras acima referidas e que, como visto, se da atraves de lei complementar de iniciativa do Procurador-Geral de Justica. Com base nesse entendimento, o Plenario, por maioria, julgou procedente a acao para declarar a in-constitucionalidade da expressao do Ministerio Publico , contida no art. 63, paragrafo unico, V, da Constitui-cao do Estado do Espirito Santo. ADI 400/ES, relator Ministro Nunes Marques, redator do acordao Ministro Roberto Barroso, julga-mento virtual finalizado em 20.6.2022 (segunda-feira) as 23:59 (INF 1059) Medida Provisoria e recursos destinados a promocao da cultura e eventos - ADI 7232 MC-Ref/DF ODS: 16 Resumo: Devem ser suspensos os efeitos da Medida Provisoria 1.135/2022 que, ao tratar sobre tema ja de-liberado pelo Poder Legislativo, alterou a entrega obrigatoria de recursos financeiros destinada ao setor de cultura e eventos para mera autorizacao de repasse de verbas da Uniao aos estados, Distrito Federal e municipios, observada a disponibilidade orcamentaria e financeira. Na hipotese, em analise perfunctoria de medida cautelar, pode-se afirmar que a referida Medida Pro-visoria nao satisfez os requisitos de urgencia e relevancia, atuou com desvio de finalidade e abuso de poder, alem de invadir materia reservada a lei complementar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a atribuição de iniciativa privativa ao governador de estado para leis que disponham sobre a organização do Ministério Público estadual. 2. Nos estados, os Ministérios Públicos poderão estabelecer regras sobre sua organização, atribuições de seus membros e seu estatuto por meio de lei complementar de iniciativa do respectivo Procurador-Geral de Justiça. 3. Devem ser suspensos os efeitos da Medida Provisória 1.135/2022 que, ao tratar sobre tema já deliberado pelo Poder Legislativo, alterou a entrega obrigatória de recursos financeiros destinada ao setor de cultura e eventos para mera autorização de repasse de verbas da União aos estados, Distrito Federal e municípios, observada a disponibilidade orçamentária e financeira.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+As adaptacoes promovidas em virtude da grave pandemia da COVID-19 pelos orgaos diretivos do Congresso Nacional, por meio da deliberacao remota e em ambiente virtual, permitiram a continuidade do funcionamento das Casas Legislativas e o pleno exercicio de suas competencias constitucionais. Nesse contexto, mostra-se razoavel a possibilidade de o Congresso Nacional, temporariamente, estabelecer a apresentacao de pareceres sobre medidas provisorias diretamente em Plenario, por parlamentar designado na forma regimental, em virtude da impossibilidade circunstancial de atuacao da comissao mista. Essa previsao possibilita, em sua plenitude e com eficiencia, a analise congressual das medidas provisorias editadas pelo Presidente da Republica, respeitando a competencia do chefe do Executivo para sua edicao, e a do Congresso Nacional para sua analise e deliberacao, concretizando, assim, a harmonia estabelecida constitucionalmente no art. 2 da CF/88 (CF). Cabe destacar, por fim, que a dinamica de votacao do parecer diretamente pelo Plenario das Casas Legislativas nao prejudica o direito de as minorias participarem eficazmente do processo legislativo, pois a votacao pelo proprio Plenario atende ao equilibrio de forcas previsto no art. 58,  1, da CF. Com base nesses entendimentos, o Plenario, por maioria, julgou improcedente acao direta de inconstitucionalidade e parcialmente procedentes arguicoes de descumprimento de preceitos fundamentais. ADI 6751/DF, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 3.9.2021 (sexta-feira), as 23:59 (INF 1028) ADPF 661/DF, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 3.9.2021 (sexta-feira), as 23:59 (INF 1028) ADPF 663/DF, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A deliberação remota e em ambiente virtual permitiu a continuidade do funcionamento das Casas Legislativas e o pleno exercício de suas competências constitucionais. 2. É razoável a possibilidade de o Congresso Nacional, temporariamente, estabelecer a apresentação de pareceres sobre medidas provisorias diretamente em Plenário, por parlamentar designado na forma regimental, em virtude da impossibilidade circunstancial de atuação da comissão mista. 3. A dinâmica de votação do parecer diretamente pelo Plenário das Casas Legislativas não prejudica o direito de as minorias participarem eficazmente do processo legislativo, pois a votação pelo próprio Plenário atende ao equilíbrio de forças previsto no art. 58, 1, da CF. 4. O Plenário, por maioria, julgou improcedente ação direta de inconstitucionalidade e parcialmente procedentes arguições de descumprimento de preceitos fundamentais.

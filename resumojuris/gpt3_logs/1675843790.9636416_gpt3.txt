@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+786 Assevera-se, por oportuno, que, o mero inadimplemento prolongado nao e suficiente para caracterizar o ilicito, sendo necessario, tambem, a ausencia de tentativa de regularizacao do debito. De mais a mais, apesar de a denuncia nao afirmar expressamente que nao foi realizada tentativa de regularizacao dos debitos, nao se verifica ilegalidade ensejadora de concessao de habeas corpus, porquanto a mencao a inumeros inadimplementos (inscritos em divida ativa) gera a presuncao relativa de ausencia de tentativa de regularizacao. Dessa forma, cabe a defesa alegar e demonstrar que foram efetuadas tais tentativas. (Informativo n. 742) PROCESSO Processo sob segredo judicial, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 14/06/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Cultivo domestico da planta Cannabis Sativa para fins medicinais. Habeas corpus preventivo. Risco permanente de constrangimento ilegal. Salvo- conduto. Possibilidade. Anvisa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O mero inadimplemento prolongado não é suficiente para caracterizar o ilícito, sendo necessário, também, a ausência de tentativa de regularização do débito. 2. Apesar da denúncia não afirmar expressamente que não foi realizada tentativa de regularização dos débitos, não se verifica ilegalidade ensejadora de concessão de habeas corpus, porquanto a menção a inúmeros inadimplementos gera a presunção relativa de ausência de tentativa de regularização. 3. É cabível a concessão de salvo-conduto para o cultivo doméstico da planta Cannabis Sativa para fins medicinais, desde que haja anuência da Anvisa.

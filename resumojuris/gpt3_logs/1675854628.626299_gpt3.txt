@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No mesmo sentido, estabelece o art. 295 do CPP Militar ser admissivel, nos termos deste Codigo, qualquer especie de prova, desde que nao atente contra a moral, a saude ou a seguranca individual ou coletiva, ou contra a hierarquia ou a disciplina militares . Nesse contexto, embora nao haja dispositivos semelhantes no CPP, a doutrina defende que ha consenso de que tambem nao vigora no campo penal um sistema rigido de taxatividade dos meios de prova, sendo admitida a producao de provas nao disciplinadas em lei, desde que obedecidas determinadas restricoes . Significa dizer, em ultima analise, que o rol de provas previsto no Titulo VII do CPP e exemplificativo. Assim, o simples fato de nao constar do catalogo legal relacionado as provas em especie nao configura razao suficiente para que a pericia ora impugnada seja considerada inadmissivel. Entendimento em contrario exigiria do legislador uma irrealizavel atualizacao constante do rol normativo com vistas a acompanhar todas as inovacoes tecnologicas. As provas cientificas atipicas devem submeter-se a criterios especificos para sua aceitacao - e consequente admissao - no processo penal. A controlabilidade do correto uso do conhecimento tecnico e corolario de um sistema que refuta, de antemao, os mitos da verdade e da confiabilidade absoluta da prova cientifica. E necessario, portanto, que se estabelecam criterios de verificabilidade das provas cientificas, com o intuito de se evitar o cometimento de injusticas epistemicas. 116 A questao relacionada a admissibilidade da prova tecnica ganha bastante relevo no caso em tela por se tratar de processo submetido ao Tribunal do Juri - cuja decisao meritoria, consequentemente, nao esta sujeita a fundamentacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É admissível, nos termos do Código de Processo Penal Militar, qualquer espécie de prova desde que não atente contra a moral, saúde ou segurança individual ou coletiva, ou contra a hierarquia ou disciplina militares. 2. Não há um sistema rígido de taxatividade dos meios de prova no campo penal, sendo admitida a produção de provas não disciplinadas em lei, desde que obedecidas determinadas restrições. 3. O rol de provas previsto no Título VII do Código de Processo Penal é exemplificativo. 4. É necessário estabelecer critérios de verificabilidade das provas científicas para evitar o cometimento de injustiças epistêmicas. 5. A questão relacionada à admissibilidade da prova técnica ganha bastante relevo no caso em tela por se tratar de processo submetido ao Tribunal do Júri.

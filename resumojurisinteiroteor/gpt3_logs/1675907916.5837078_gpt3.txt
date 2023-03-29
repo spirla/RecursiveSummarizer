@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Votou vencido o juiz de direito, que condenou o ru, impondo pena de 1 ano de deteno. por unanimidade de votos, condenar ambos os rus pela prtica do delito capitulado no art. 195 do CPM, impondo, unanimemente, a pena de 3 (trs) meses de deteno ao 2 denunciado, e, por maioria de 4 votos a 1, impondo a pena de 3 (trs) meses de deteno ao 1 denunciado. O juiz de direito imps ao 1 denunciado a pena de 06 meses de deteno. por unanimidade de votos, absolver o 2 denunciado pela prtica do delito capitulado no art. 163 do CPM. por maioria de 4 votos a 1, condenar o 1 denunciado pela prtica do delito capitulado no art. 163 do CPM, impondo ao mesmo a pena de 1 ano de deteno. Votou vencido o juiz de direito, que absolveu o 1 denunciado pela prtica do delito capitulado no art. 163, fazendo-o nos termos do art. 439, letra 'b', do CPPM. A defesa dos militares recorreu da sentena (Evento 69 - APELAO1). Intimado sobre o recurso da defesa dos sentenciados, o Ministrio Pblico apresentou contrarrazes, e, no mesmo prazo, interps o seu recurso de apelao (Eventos n. 85 - PET1 e n. 86 - CONTrAzAP1 dos autos do Processo n. 0001558-56.2018.9.13.0001). O meritssimo juiz de direito titular da 1a AJME deixou de receber o recurso, em virtude da intempestividade (Evento 90 - DEC1), nos termos seguintes: O Ministrio Pblico interps no evento n. 85, recurso de apelao em face da sentena acostada no evento n. 64. Entendo que o recurso em anlise no merece ser conhecido, pois intempestivo. Nos termos do artigo 529 do CPPM, o recurso de apelao dever ser interposto no prazo de 5 (cinco) dias, contados da data da intimao da sentena ou da sua leitura em pblica audincia, na presena das partes ou seus procuradores. Considerando que a audincia de leitura de sentena ocorreu em 19/10/2020, conforme se depreende da ata acostada no evento n. 66, e a interposio do aludido recurso se deu apenas no dia 18/02/2021, conforme petio do evento n. 85, razo pela qual no merece ser conhecido, posto que comprovada a intempestividade do recurso. Diante do exposto, deixo de receber o recurso de apelao interposto pelo Ministrio Pblico, por ser intempestivo. Tendo em vista a apresentao de razes de apelao pela defesa, bem como de contrarrazes pelo Ministrio Pblico, determino a remessa dos autos ao Egrgio Tribunal de Justia Militar do Estado de Minas Gerais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Por unanimidade de votos, condenar ambos os rus pela prtica do delito capitulado no art. 195 do CPM, impondo, unanimemente, a pena de 3 (três) meses de detenção ao 2 denunciado, e, por maioria de 4 votos a 1, impondo a pena de 3 (três) meses de detenção ao 1 denunciado. Por unanimidade de votos, absolver o 2 denunciado pela prtica do delito capitulado no art. 163 do CPM. Por maioria de 4 votos a 1, condenar o 1 denunciado pela prtica do delito capitulado no art. 163 do CPM, impondo ao mesmo a pena de 1 ano de detenção. O Ministério Público interpôs recurso de apelação intempestivo, que foi deixado de receber. Diante disso, determinou-se a remessa dos autos ao Eg. Tribunal de Justiça Militar do Estado de Minas Gerais.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Aps verificar-se a consumao, nos intervalos existentes entre as condutas reiteradas no se pode considerar que o crime habitual esteja em execuo. Encerrada uma parcela da conduta proibida (necessariamente constituda por reiterao de condutas parciais), o crime somente prossegue quando novamente iniciada a conduta que se exige reiterada. Essa noo adquire especial importncia no que diz respeito  possibilidade de levar a efeito uma priso em flagrante. Por isso, voltando ao exemplo do falso mdico que atende pacientes em seu consultrio, h interrupo da consumao do crime quando ele fecha o consultrio e vai para casa descansar ao final de cada dia de trabalho. Certamente, no poder haver priso em flagrante do falso mdico quando este estiver em sua residncia, mas somente quando retornar ao consultrio e iniciar os atendimentos. 23.4.6. Crime Instantneo. O crime instantneo  aquele em que a violao da norma jurdica subjacente ao tipo ocorre em um nico e determinado momento, de modo que sua consumao acontece em um s instante. A execuo do crime instantneo pode desdobrar-se em vrios momentos, mas a consumao se verifica em um s instante.  o que acontece com o crime de homicdio (artigo 121), em que a execuo pode envolver a prtica de vrios atos (disparos de arma de fogo, facadas etc), mas a consumao se verifica no exato instante em que a vtima morre. Muitos so os crimes instantneos previstos no Cdigo Penal. Como exemplos tambm temos o induzimento, instigao ou auxlio ao suicdio (artigo 122); o infanticdio (artigo 123); o aborto provocado pela gestante (artigo 124); a leso corporal (artigo 129); o sequestro (artigo 148); a violao de domiclio (artigo 150); o furto (artigo 155) e o roubo (artigo 157). 23.4.7. Crime permanente. O crime permanente  aquele em que a violao da norma jurdica subjacente ao tipo se prolonga no tempo, de modo que resta preservada a situao de sua consumao. A consumao do crime permanente no se verifica em um dado instante, mas se conserva por considervel perodo de tempo. A descrio tpica do crime permanente refere-se  conduta que realiza um ataque contnuo ao bem jurdico e estabelece situao de ininterrupta e permanente violao da norma jurdico-penal. Aps atingir a consumao do crime, o sujeito da conduta punvel prossegue executando a conduta e violando a norma jurdica por perodo de tempo em que se considera o crime em estado de consumao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime habitual é caracterizado pela reiteração de condutas parciais, enquanto o crime instantâneo tem consumação em um único momento. Por outro lado, o crime permanente se caracteriza por uma violação contínua da norma jurdica, mantendo-se em estado de consumação por um período de tempo.

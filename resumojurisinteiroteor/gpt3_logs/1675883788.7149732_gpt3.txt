@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Assim sendo, a absolvio do autor na justia criminal no obsta sua punio no mbito administrativo, desde que a falta disciplinar seja comprovada e sejam observados o contraditrio, a ampla defesa e o devido processo legal, conforme ocorreu no presente caso, tendo em vista que o autor, ora apelante, foi notificado para audio (fl. 445), indicou trs testemunhas em sua defesa (fl. 460), que foram ouvidas, e apresentou razes escritas de defesa (fls. 518/523), que foram analisadas no relatrio da sindicncia, tornando, portanto, regular o procedimento administrativo. [..] Quanto ao fato de a defesa do autor ter sido feita por um militar e no por advogado constitudo, no vejo ilegalidade: a uma, porque foi o prprio autor quem nomeou o Capito PM Walter Ferreira da Costa para defend-lo (fl. 460); a duas, porque, mesmo no conseguindo ilidir a acusao de ter o autor cometido os atos considerados desonrosos, a pea defensiva elaborada pelo referido defensor  consistente, buscando inocent-lo das acusaes que lhe foram imputadas (fls. 518/523); a trs, porque a defesa do autor foi analisada no relatrio do oficial sindicante, mesmo sucintamente (fl. 534); e, finalmente, porque a Smula Vinculante n. 05 do STF j esclareceu a controvrsia, de forma peremptria: A falta de defesa tcnica por advogado no processo administrativo disciplinar no ofende a Constituio. [..] Nesse sentido, no vejo como acolher o pleito rescisrio porque os supostos acertos ou desacertos relativos  aplicao da lei  espcie, com vistas  reanlise do caso sob este ou aquele entendimento doutrinrio ou jurisprudencial, sem a exata comprovao da violao manifesta de normas jurdicas, no subsidiam a demanda rescisria na forma hipottica contida no inciso V do art. 966 do novo Cdigo de Processo Civil. No tocante ao pedido de resciso com fundamento no inciso VIII (for fundada em erro de fato verificvel ao exame dos autos) do art. 966 do Cdigo de Processo Civil, melhor sorte no assiste ao autor. A hiptese de resciso prevista no inciso VIII do art. 966 do CPC pressupe que a deciso rescindenda tenha admitido fato inexistente ou considerado inexistente fato efetivamente ocorrido, sendo indispensvel, em ambos os casos, que o fato no represente ponto controvertido sobre o qual o juiz deveria ter se pronunciado (art. 966, 1, do CPC). Dessa forma, o erro de fato, contido no inciso VIII do mencionado artigo, consiste no reconhecimento do desprezo da prova constante dos autos. Explico: somente se configura em razo da ausncia de apreciao/anlise da prova anexada no processo, e no da m valorao dela, ou seja, o erro a possibilitar a resciso da deciso emana da no apreciao da prova, e no do suposto desacerto em sua apreciao.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A absolvio do autor na justia criminal no impede sua punio no mbito administrativo, desde que a falta disciplinar seja comprovada e sejam observados o contraditrio, a ampla defesa e o devido processo legal. O autor foi notificado para audio, indicou três testemunhas em sua defesa e apresentou razões escritas de defesa. A defesa do autor foi feita por um militar e não por advogado, não havendo ilegalidade. O pedido de rescisão não foi acolhido, pois não houve comprovação de violação de normas jurdicas.

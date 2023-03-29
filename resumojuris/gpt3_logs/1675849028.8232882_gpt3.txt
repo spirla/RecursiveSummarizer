@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Exigir que a defesa indique desde ja os detalhes de um prejuizo e exigir a chamada prova diabolica , tendo em vista que nao ha como a parte provar como o processo seguiria caso estivesse presente na audiencia. No caso, diante da responsabilidade exclusiva do Estado, a ausencia do recorrido na audiencia de inquiricao de testemunhas, ante a impossibilidade de transporte de presos, nao lhe pode ser imputada. Com efeito, nao se pode permitir que o Estado seja ineficiente em cumprir com suas obrigacoes minimas, como disponibilizar o recorrido para a audiencia previamente marcada. Ademais, a informacao de que a ausencia de contato previo entre o recorrido e seu defensor inviabilizou que este tomasse conhecimento da versao do acusado e formulasse a defesa de forma adequada durante a audiencia em que ouvidos os policiais, revela que ele nao possuia conhecimento dos fatos, nao podendo fazer nada numa audiencia desta natureza, denotando, mais uma vez, o efetivo prejuizo sofrido pelo recorrido. Logo, tratando-se de nulidade absoluta insanavel - podendo ser reconhecida e declarada a qualquer tempo, e estando inequivocamente demonstrado o prejuizo ao reu - e de ser declarada a nulidade do ato processual - no caso, a audiencia. (Informativo n. 749) 1253 PROCESSO AgRg no AREsp 2.021.072-RR, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 13/09/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Alegacao de nulidade. Intimacao em nome de causidico diverso. Nao ocorrencia. Publicacao em nome dos advogados constituidos a epoca do ato processual.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A responsabilidade exclusiva do Estado impede que a ausência do recorrido na audiência de inquirição de testemunhas lhe seja imputada. 2. Não se pode permitir que o Estado seja ineficiente em cumprir com suas obrigações mínimas, como disponibilizar o recorrido para a audiência previamente marcada. 3. A informação de que a ausência de contato previo entre o recorrido e seu defensor inviabilizou que este tomasse conhecimento da versão do acusado e formulasse a defesa de forma adequada durante a audiência em que ouvidos os policiais, revela que ele não possuia conhecimento dos fatos, não podendo fazer nada numa audiência desta natureza, denotando, mais uma vez, o efetivo prejuízo sofrido pelo recorrido. 4. Tratando-se de nulidade absoluta insanável, podendo ser reconhecida e declarada a qualquer tempo, e estando inequivocamente demonstrado o prejuízo ao réu, deve ser declarada a nulidade do ato processual.

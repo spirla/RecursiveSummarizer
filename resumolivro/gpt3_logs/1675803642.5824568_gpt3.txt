@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Autuacao: o escrivao autua a portaria e seus anexos, ou seja, capeia o processo e numera/rubrica as suas folhas (artigo 70, V, b, e XVIII, do CEDM e artigo 336, IV, b, do MAPPA) - a data da autuacao deve coincidir com a data da ata da reuniao de instalacao (artigo 70, V, b, do CEDM e artigo 336, IV, b, do MAPPA);
+4. Juntada da procuracao: juntada da procuracao do defensor constituido pelo acusado ou nomeacao de defensor ad hoc, no caso de ausncia (artigo 70, V, c, do CEDM e artigo 336, IV, d, MAPPA). Deve a CPAD certificar a regularidade do instrumento de procuracao, conforme alerta o Oficio Circular 5136.1.1/17-CPM, que trata da Outorga de Procuracoes em Procedimentos Administrativos Acusatorios ou Inquisitivos, editado pela Corregedoria da PMMG:
+Tem-se verificado que algumas outorgas de procuracoes nao tm atendido as disposicoes legais, atualmente, em vigor. O mandato judicial e o instrumento em que sao explicitados os poderes da representacao, ou seja, e a procuracao propriamente dita, que, no caso do advogado, este devera sempre prova-la, conforme previsao legal contida no artigo 5 da Lei 8906/94, Estatuto da Advocacia e a Ordem dos Advogados do Brasil. Porem, o advogado, afirmando urgncia, pode atuar sem procuracao, contudo, deve se comprometer a apresenta-la no prazo maximo de 15 dias. Esse prazo deve ser contado a partir do dia subsequente a sua manifestacao nos autos. Caso o advogado demonstre impossibilidade de cumprir o prazo retro mencionado por razoes plausiveis e eticas, aquele prazo pode ser prorrogado por igual periodo, nos termos do artigo 5, paragrafo 1 do Estatuto da OAB. Em qualquer hipotese, a procuracao deve conter, obrigatoriamente, o nome do advogado, o seu numero de inscricao na Ordem dos Advogados do Brasil (OAB), bem como o seu endereco completo. Isso inclui o endereco eletrnico.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O escrivão autua a portaria e seus anexos, capeia o processo e numera/rubrica as suas folhas. A juntada da procuracao do defensor constituido pelo acusado ou nomeacao de defensor ad hoc deve ser certificada pela CPAD, de acordo com o Oficio Circular 5136.1.1/17-CPM. A procuracao deve conter o nome do advogado, o seu numero de inscricao na OAB e o seu endereco completo, incluindo o endereco eletrnico.

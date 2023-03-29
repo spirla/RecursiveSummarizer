@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A interdio em mbito cvel no afasta a necessidade de constatao da enfermidade em sede de execuo penal, por meio de percia especfica para a comprovao da inimputabilidade, visando  internao em hospital de custdia. A priso domiciliar possui requisitos prprios, no sendo possvel sua adoo quando em curso o regime fechado (art. 117, LEP). (TJMG - Agravo em Execuo Penal 1.0408.21.440001-7/001, Relator(a): Des. (a) Franklin Higino Caldeira Filho , 9a Cmara Criminal Especializa, julgamento em 04/05/2022, publicao da smula em 04/05/2022) A sentena em que o Juzo cvel decretou a interdio do revisionando registrou que: [.] A impresso que se colheu do interditando  de que ela no consegue se orientar e administrar os atos da vida civil, de modo que  desprovido de capacidade de fato. Infere-se ainda de acordo com o laudo mdico (f. 12) que o interditando faz tratamentos psiquitricos por possuir depresso grave, o que causa sintomas psicticos. Conforme consta na percia  f. 106, o interditando  portador de doena mental, possuindo psicose orgnica e convulses epilticas. E no tem capacidade para reger-se e aos seus bens, sendo tal incapacidade absoluta e irreversvel. Verifica-se, assim, que o interditando deve se sujeitar  curatela, porquanto sua enfermidade lhe impe limitao e prejudica o necessrio discernimento para a prtica dos atos civis. - grifei. E, nessa esteira, merece igual destaque a percia realizada em fase de execuo penal, em data de 20 de maio de 2021, trazida aos autos pelo requerente no Evento 1 - LAUDO5. No item V do referido laudo (pgina 4 do Evento 1 - LAUDO5), o perito mdico judicial doutor Martim Vicente Vitov Junqueira afirmou: V - CONCLUSO MDICO-PSIQUITRICA: Aps avaliao cuidadosa dos autos do processo e avaliao psiquitrica, podemos concluir que: O periciando apresenta um quadro de esquizofrenia paranoide CID F 20.0, quadro este que (segundo relato de sua esposa) manifesta no periciando desde a idade de 24 anos e  considerado como um quadro de doena mental do ponto de vista mdico-forense mas que neste caso em tela no apresenta nexo de causalidade em relao aos delitos cometidos o que significa que sua perioculosidade (considerando periculosidade aqui como a possibilidade de se cometer novos delitos similares aos j cometidos) no  consequncia de sua doena mental. Relata fazer tratamento no CAPS em Santana do Paraso/MG desde 2009. O periciando apresentava sua capacidade de entendimento preservada em relao aos delitos cometidos  poca do fato delituoso. O periciando apresentava sua capacidade de autodeterminao preservada em relao aos delitos cometidos  poca do fato delituoso.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interdio cvel não afasta a necessidade de uma perícia especializada para comprovar a inimputabilidade do réu, visando à internação em hospital de custódia. A prisão domiciliar tem requisitos próprios e não é possível sua adoção quando em curso o regime fechado. A perícia realizada constatou que o réu possui doença mental que não tem nexo de causalidade com os delitos cometidos e que sua capacidade de entendimento e autodeterminação estavam preservadas na época do fato delituoso.

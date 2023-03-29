@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+09/11 e CONT52, pgs. 01/08). Na fase de especificao de provas, o autor pugnou pela realizao de percia psiquitrica no autor e pela oitiva de testemunhas (Evento 1 - CONT52, pg.10). O Estado ru pugnou pela juntada dos documentos coligidos no Evento 1, OUT53/OUT72 e OUT73/OUT82. Na oportunidade, pugnou pela improcedncia dos pedidos autorais (EVENTO1, CONT52, pg. 11). A defesa do autor se manifestou sobre os documentos juntados pelo Estado de Minas Gerais (Evento 1 - OUT72, pg. 08). O Juzo da 1a Vara Empresarial e de Fazenda Pblica da Comarca de Montes Claros/MG acolheu a preliminar de incompetncia suscitada pelo Estado de Minas Gerais e determinou a remessa dos autos a essa Justia Especializada (Evento 1, DECL_COMPE83, pgs. 04 a 06). As partes manifestaram cincia (Evento 1, DECL_COMPE83, pgs. 07/08). Os autos foram remetidos por meio de malote digital, em 22/05/20, a esta Justia Militar e, aps digitalizados, foram distribudos no EPROC, para a 5a AjME (Evento 2). O MM. Juzo a quo determinou a intimao dos advogados constantes da procurao para a habilitao no sistema (Evento 5), o que foi feito conforme certides coligidas nos Eventos 6 e 7. A defesa do autor foi intimada a comprovar a hipossuficincia financeira, para fins de anlise do pedido de concesso de assistncia judiciria gratuita; esclarecer sobre a interposio de eventual recurso, perante a deciso declinatria de competncia; juntar aos autos cpia da certido de trnsito em julgado da mesma (Evento 9, DESP1). Cumprindo a determinao judicial, a defesa do autor juntou aos autos os documentos constantes do Evento 12. O MM. juiz da 5a AJME-Cvel firmou a competncia deste Juzo para processamento e julgamento da matria e manteve os atos processuais e decisrios j praticados, incluindo o deferimento do benefcio da assistncia judiciria gratuita e o indeferimento da tutela de urgncia.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juzo da 1a Vara Empresarial e de Fazenda Pblica da Comarca de Montes Claros/MG acolheu a preliminar de incompetncia suscitada pelo Estado de Minas Gerais e determinou a remessa dos autos a essa Justia Especializada. O MM. Juzo a quo determinou a intimao dos advogados constantes da procurao para a habilitao no sistema e a defesa do autor foi intimada a comprovar a hipossuficincia financeira. O MM. juiz da 5a AJME-Cvel firmou a competncia deste Juzo para processamento e julgamento da matria e manteve os atos processuais e decisrios j praticados.

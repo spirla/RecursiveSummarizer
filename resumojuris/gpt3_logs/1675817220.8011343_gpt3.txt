@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+18, I, a ; e Lei 8.625/1993, art. 41, XI) nao fere os principios da isonomia, do devido proces-so legal, da ampla defesa e do contraditorio (CF/88, art. 5, I, LIV e LV) nem compromete a necessaria paridade de armas que deve existir entre a defesa e a acusacao. A atual posicao dos sujeitos processuais na sala de audiencias e de julgamento e justificada seja pela tradicao, seja pela diferenciada funcao desempenhada pelo orgao ministerial como representante do povo, uma vez que atua de forma imparcial para alcancar os fins que lhe foram constitucionalmente conferidos. O direito a igualdade das partes e substancial, nao figurativa. Inclusive, a impessoalidade dos magis-trados e dos membros do Ministerio Publico e assegurada pela organizacao legal das carreiras. Se assim nao fosse, poderia ocorrer o subjetivismo nos julgamentos e a mudanca de locais segundo afetos e desafetos, de modo que, ao determinar os lugares, a lei evita essa possibilidade. Alem disso, a atuacao do Parquet pode conjugar, simultanea ou alternadamente, os papeis de parte processual e de custos legis, dada a singela circunstancia de sua atribuicao em defender o interesse publico e a sociedade. Assim, nao se pode afirmar que a proximidade fisica entre o integrante do Ministerio Publico e o magistrado, por si so, propicie algum tipo de influencia ou comprometimento aos julgamentos. Com base nesses entendimentos, o Plenario, por maioria, julgou improcedente a acao. ADI 4768/DF, relatora Ministra Carmen Lucia, julgamento finalizado em 23.11.2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A atual posição dos sujeitos processuais na sala de audiências e de julgamento é justificada pela tradição e pela diferenciada função desempenhada pelo órgão ministerial como representante do povo. 2. O direito à igualdade das partes é substancial, não figurativa. 3. A impessoalidade dos magistrados e dos membros do Ministério Público é assegurada pela organização legal das carreiras. 4. A atuação do Parquet pode conjugar, simultaneamente ou alternadamente, os papéis de parte processual e de custos legis. 5. A proximidade física entre o integrante do Ministério Público e o magistrado, por si só, não propicia algum tipo de influência ou comprometimento aos julgamentos.

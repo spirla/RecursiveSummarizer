@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os mecanismos que tornam o dispositivo informtico mais vulnervel so comumente denominados de vrus, tendo em vista a semelhana de comportamento em relao a seus homnimos biolgicos: so microscpios, reproduzem-se autonomamente, consomem recursos computacionais que no lhes pertence e possuem alta capacidade de infeco por contgio. O vrus de computador  um programa de computador elaborado para alterar a estrutura do programa que permite o funcionamento do dispositivo informtico, impedindo-lhe o normal funcionamento, bem como para destruir ou alterar dados e informaes armazenadas. Os objetivos do vrus so claros: infectar o mximo possvel de sistemas operacionais do dispositivo informtico, ampliar a nocividade de seus efeitos e, sendo possvel, consumir recursos e danificar os sistemas invadidos. Contudo, o tipo que descreve o crime de invaso de dispositivo informtico somente se refere s vulnerabilidades que permitam ao sujeito ativo obter alguma vantagem ilcita. Se a vulnerabilidade que o sujeito ativo pretender instalar no visar a obteno de uma vantagem ilcita no ser possvel caracterizar a espcie de invaso que a ela se refere. Cabe observar, no entanto, que o tipo incriminador poder ser caracterizado se a instalao da vulnerabilidade constituir meio de execuo da invaso que visa obter, adulterar ou destruir dados ou informaes sem autorizao expressa ou tcita do titular do dispositivo. Vantagem ilcita. O elemento normativo vantagem ilcita deve ser compreendido como desdobramento possvel e pretendido pelo sujeito que instala uma vulnerabilidade em um dispositivo informtico. O crime de invaso de dispositivo informtico est inserido no capitulo dos crimes contra a inviolabilidade dos segredos, mas a vantagem ilcita exigida pelo tipo no se verifica com o simples conhecimento do segredo. A vantagem constitui o proveito que o sujeito visa obter com o uso ilegal (ilcito) que faz do segredo que foi descoberto por meio da instalao da vulnerabilidade. Cabe notar que a instalao da vulnerabilidade pressupe o acesso indevido ao dispositivo informtico j que, na prtica, indica que o dispositivo foi anteriormente invadido. Mas, a instalao da vulnerabilidade que constitui crime  somente aquela que visa  obteno de uma vantagem ilcita, de um proveito no permitido por lei, que decorre do conhecimento do segredo. A vantagem no se apresenta com o mero conhecimento do segredo, mas decorre do uso que o sujeito pode fazer da informao secreta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os vrus de computador são programas que alteram a estrutura do dispositivo informático, impedindo seu funcionamento normal e destruindo ou alterando dados armazenados. O crime de invaso de dispositivo informático se refere às vulnerabilidades que permitem ao sujeito ativo obter alguma vantagem ilícita. A vantagem ilícita é o proveito que o sujeito visa obter com o uso ilegal do segredo descoberto por meio da instalação da vulnerabilidade.

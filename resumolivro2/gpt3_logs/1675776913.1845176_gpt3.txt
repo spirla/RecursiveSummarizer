@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O Ministrio Pblico deve requerer ao juiz que intime o querelante para aditar a queixa para incluir todos os agentes, caso intimado o querelante no aditar a queixa deve manifestar-se pela renncia tcita ao exerccio do direito de queixa em relao a todos. 7.5. Queixa. A queixa, ou queixa-crime,  a petio inicial das aes penais de iniciativa privada previstas no Cdigo Penal, intentadas pelo ofendido ou por seu representante legal, denominado de querelante, contra o ru, o querelado. Os requisitos da queixa esto previstos no artigo 41 do CPP e so os mesmos requisitos da denncia. A queixa poder ser aditada pelo Ministrio Pblico, a quem caber intervir em todos os termos subsequentes do processo (artigo 45, CPP). Tem o Ministrio Pblico a funo de velar pela indivisibilidade da ao penal privada (artigo 48, CPP). No dizer de Julio F. Mirabete o verbo aditar tem o sentido de corrigir, acrescentar, ampliar, complementar, e no de se iniciar nova ao, ainda que em litisconsrcio, de modo que o Ministrio Pblico pode aditar  queixa circunstncias que possam influir na caracterizao do crime e sua classificao, ou na fixao da pena. O Ministrio Pblico no pode incluir na queixa coautor ou partcipe se houve renncia ao exerccio do direito de queixa a um dos autores do crime, porque a renncia em relao a um deles se estender a todos (ar. 49, CPP). Falta ao Ministrio Pblico legitimidade para aditar a queixa incluindo outro ou outros querelados, porque o aditamento  nova imputao. O Ministrio Pblico no pode aditar  queixa novo fato considerado crime de ao penal privada. O Ministrio Pblico deve requerer ao juiz que intime o querelante para aditar a queixa para incluir todos os agentes, caso intimado o querelante no aditar a queixa deve manifestar-se pela renncia tcita ao exerccio do direito de queixa em relao a todos. Captulo VIII. Jurisdio e Competncia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público tem a função de velar pela indivisibilidade da ação penal privada e pode aditar a queixa para incluir todos os agentes. Caso o querelante não adite a queixa, deve manifestar renúncia ao exerccio do direito de queixa em relação a todos.

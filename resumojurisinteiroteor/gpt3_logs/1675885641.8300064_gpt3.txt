@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+DESEMBARGADOR FERNANDO ARMANDO RIBEIRO, RELATOR (VENCIDO) Trata-se de representao promovida pelo Ministrio Pblico do Estado de Minas Gerais, para fins de perda da graduao do militar da reserva CB PM Jlio Csar Gomes dos Santos, em vista de sua condenao criminal, nos autos da Ao Penal n. 0052376-41.2013.4.01.0000,  pena de 2 anos e 6 meses de recluso e 24 dias-multa, pela prtica do delito do art. 317 (corrupo passiva) do Cdigo Penal (CP) e, nos autos da Ao Penal n. 003211992.2013.4.01.0000,  pena de 6 anos de deteno, pela prtica dos delitos dos artigos 90 e 96, I, da Lei n. 8.666/93, em razo do seu envolvimento com organizao criminosa denominada "Mfia dos Sanguessugas. Inicialmente, no intuito de explicitar a dimenso do esquema criminoso do qual participava o representado e o prejuzo causado ao errio, mister se faz rememorarmos o escndalo de corrupo que veio  tona no ano de 2006. De acordo com as investigaes realizadas, foram utilizados R$110.000.000,00 (cento e dez milhes de reais) do oramento da Unio na compra de ambulncias superfaturadas. Segundo as investigaes da Polcia Federal, a quadrilha, liderada pelos empresrios Luiz Antnio Vedoin e Darci Vedoin, scios da empresa Planam, fraudava processos licitatrios para a aquisio de unidades mveis de sade (ambulncias), cujos preos eram superfaturados em at 110%. O esquema criminoso, em sntese, consistia no recebimento, pelos Municpios, de recursos da Unio - via "emendas parlamentares -, que eram direcionados  aquisio de ambulncias superfaturadas. Para o xito da empreitada criminosa, os lderes da quadrilha captavam agentes e colaboradores dos mais altos postos dos poderes Executivo e Legislativo. De acordo com as investigaes, mais de 600 municpios brasileiros e mais de uma centena de parlamentares, dentre os quais o representado, participaram do esquema fraudulento, que, por mais de 5 anos, desviou recursos da Unio destinados  rea de sade. Transcrevo parte da denncia apresentada pelo Ministrio Pblico Federal (Processo n. 0052376-41.2013.4.01.0000), na qual h descrio, de forma detalhada, da participao do representado na organizao criminosa (Evento 1 - OUT2, fls. 5/17): [...] , JULIO CESAR GOMES DOS SANTOS, com vontade livre e consciente, associou-se de forma estvel e permanente com o propsito de praticar crimes, bem como solicitou e recebeu, para si, direta e indiretamente, em razo da funo parlamentar, vantagem indevida e, ainda, ocultou e dissimulou a natureza, origem e localizao de valores provenientes de crime praticado por organizao criminosa e contra a Administrao Pblica. Constam do presente caderno informativo contundentes provas da associao do denunciado JLIO CSAR GOMES DOS SANTOS com a organizao criminosa desarticulada pela denominada "Operao Sanguessuga.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público do Estado de Minas Gerais entrou com uma ação para fins de perda da graduação do militar da reserva CB PM Júlio César Gomes dos Santos, em razão de sua condenação criminal por corrupção passiva e envolvimento com uma organização criminosa denominada "Máfia dos Sanguessugas". O esquema criminoso consistia no recebimento de recursos da União para aquisição de ambulâncias superfaturadas, envolvendo mais de 600 municípios brasileiros e mais de uma centena de parlamentares.

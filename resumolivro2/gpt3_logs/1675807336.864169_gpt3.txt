@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Dentro de vinte e quatro horas aps a priso, ser dada ao preso assinada pela autoridade, com o motivo da priso, o nome do condutor, porque lhe  assegurado o direito  identificao dos responsveis por sua priso (CF, artigo 5, LXIV), e os das testemunhas, sob pena de invalidade do auto e consequente relaxamento da priso. O preso passar recibo, que ser assinado por duas testemunhas, quando ele no puder ou no quiser assinar (artigo 247, CPPM). Se a autoridade de polcia judiciria militar, dolosamente, deixar de entregar ao preso, no prazo de 24 (vinte e quatro) horas, a nota de culpa, assinada pela autoridade, com o motivo da priso e os nomes do condutor e das testemunhas, incorre no delito de abuso de autoridade (artigo 12, pargrafo nico, III, Lei 13.869/2019). 11.2.2.6.2. Fato praticado em presena da autoridade ou contra elaO artigo 249 do CPPM determina que se o fato for praticado em presena da autoridade, ou contra ela, no exerccio de suas funes, dever ela prpria prender e autuar em flagrante o infrator, mencionando a circunstncia. Nas duas situaes - em que o fato  praticado na sua presena ou contra ela - a autoridade deve estar no exerccio de suas funes. Adverte Tourinho Filho que o fato  praticado em presena da autoridade e no em presena de autoridade. autoridade militar ou judiciria, que presenciou o fato praticado ou se o fato foi contra ela praticado, cabe lavrar o auto de priso em flagrante e encaminh-lo  autoridade judiciria competente. Constaro do APF a narrao do fato, a voz de priso, as declaraes que fizer o preso e os depoimentos das testemunhas. A autoridade, nas duas situaes, no  testemunha, nem h condutor do preso  presena da autoridade. No pode ser distribudo o APF a esse juiz impedido de exercer jurisdio (artigo 37, d, CPPM). A JME no julga civis. Se o fato for praticado por civil, o juiz de direito deve dar a voz de priso e conduzi-lo  presena do delegado de polcia.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A autoridade de polícia judiciária militar deve entregar ao preso, em até 24 horas, uma nota de culpa assinada com o motivo da prisão, o nome do condutor e das testemunhas. Se isso não ocorrer, incorre-se no delito de abuso de autoridade. Se o fato for praticado na presença da autoridade ou contra ela, ela própria deve prender e autuar em flagrante o infrator, mencionando a circunstância. Se o fato for praticado por civil, o juiz de direito deve dar a voz de prisão e conduzi-lo à presença do delegado de polícia.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+71,  2. Processo AgRg nos EDcl no REsp 1.961.504-PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 21/06/2022, DJe 27/06/2022. Ramo do Direito DIREITO PROCESSUAL PENAL, DIREITO PROCESSUAL PENAL MILITAR Tema Tentativa de homicidio. Militares contra civil. Inquerito policial militar. Arquivamento pela justica castrense. Excludentes de ilicitude. Verificacao. Competencia da Justica Comum Estadual. DESTAQUE 1188 Nao e da competencia do juiz militar determinar o arquivamento do inquerito que investiga fato que possa ter adequacao tipica de crime doloso contra a vida praticado por militar contra civil, ainda que sua conclusao aponte para a presenca de excludente de ilicitude de legitima defesa e/ou do estrito cumprimento do dever legal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é da competência do juiz militar determinar o arquivamento do inquérito que investiga fato que possa ter adequação tipica de crime doloso contra a vida praticado por militar contra civil, ainda que sua conclusão aponte para a presença de excludente de ilicitude de legitima defesa e/ou do estrito cumprimento do dever legal. 2. A competência para verificação de excludentes de ilicitude em casos de crime doloso contra a vida praticado por militar contra civil é da Justiça Comum Estadual.

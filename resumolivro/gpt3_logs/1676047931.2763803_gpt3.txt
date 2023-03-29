@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se o trabalho foi prestado antes da ocorrncia do crime pelo qual sobreveio a condenao, o tempo de pena remido deve ser assim considerado para realizar a segunda unificao das penas. Na prtica, essa soluo implica em permitir a imposio de maior tempo de cumprimento da nova pena, j que a unificao considera menor tempo de cumprimento da(s) pena(s) anteriormente imposta(s). Tal soluo  desfavorvel ao condenado, mas se concilia com a lgica expressa nos artigos 141 e 142 da LEP no sentido de que o condenado perde os benefcios anteriormente adquiridos se, posteriormente, pratica comportamento descrito como crime. Se, por outro lado, o trabalho  desempenhado pelo condenado aps a prtica do crime a remio deve produzir efeitos aps a segunda unificao. Nesse caso, o entendimento diverso desestimularia o condenado a exercer atividade importante para a sua ressocializao e haveria uma contradio com os fins declarados da execuo penal. Condenao no considerada na unificao. Algumas importantes questes de ordem prtica precisam ser esclarecidas. A primeira delas diz respeito  unificao feita aps j iniciada a execuo da pena.  muito comum que a falta de um sistema integrado de informaes faa que o juiz da execuo desconhea a existncia de outras condenaes. Descobertas as novas condenaes, importa notar se elas decorrem de crimes cometidos antes ou aps o incio da execuo. Tratando-se de crimes e condenaes anteriores ao incio da execuo da pena, deve-se considerar que o condenado tinha direito  unificao das penas antes do incio do cumprimento. A execuo est limitada a 40 (quarenta) anos, ou a 30 (trinta) anos se os crimes foram cometidos antes da Lei 13.964/19, e a falha do Poder Pblico no pode prejudicar o condenado. A descoberta posterior das condenaes deve produzir, com a unificao, efeitos retroativos ao incio do cumprimento da pena. Se a condenao  posterior ao incio da execuo da pena, mas relativa a crime cometido anteriormente, tambm se deve considerar que a pena aplicada posteriormente obedece  limitao imposta pela unificao j procedida.  que o pargrafo 2 do artigo 75 s permite que se faa nova unificao com o tempo de pena restante a cumprir, quando se tratar de condenao relativa a crime cometido posteriormente ao incio da execuo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tempo de pena remido deve ser considerado para a segunda unificao das penas, permitindo a imposio de maior tempo de cumprimento da nova pena. Se o trabalho foi prestado antes do crime, a remio deve produzir efeitos aps a segunda unificao. Se o crime foi cometido posteriormente, a pena obedece limitao imposta pela unificao j procedida.

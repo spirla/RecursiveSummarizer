@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao cabimento. DESTAQUE Nao cabe a fixacao de honorarios sucumbenciais em favor do administrador judicial em recuperacao judicial ou falencia. Nos termos do art. 85 do NCPC, os honorarios advocaticios de sucumbencia devem ser pagos pela parte vencida exclusivamente ao profissional que tenha atuado como advogado da parte vencedora. O sindico, assim como seu sucedaneo - administrador judicial - possui natureza juridica de orgao auxiliar do Juizo, cumprindo verdadeiro munus publico, nao se limitando a representar o falido ou mesmo seus credores. Cabe-lhe, desse modo, efetivamente, colaborar com a administracao da Justica (REsp 1.032.960/PR, relator Ministro Massami Uyeda, Terceira Turma, julgado em 1/6/2010, DJe 21/6/2010). De acordo com a doutrina, havendo resistencia a pretensao do impugnante e formacao da lide, a parte vencida suportara os onus sucumbenciais. Todavia, em qualquer situacao, nao sao devidos honorarios sucumbenciais ao administrador judicial ou a seu patrono, uma vez que ele nao e parte na lide. Dessa forma, porque nao se pode considerar o administrador judicial como parte integrante de um dos polos da recuperacao ou da falencia, tampouco mandatario de uma das partes ou dos credores sujeitos aos respectivos processos, nao faz ele jus ao recebimento de honorarios sucumbenciais, pois o trabalho que realiza deve ser remunerado de forma propria, pela recuperanda, apos fixacao judicial, mas desde que observados os ditames previstos no art. 24 da Lei n. 11.101/2005. (Informativo  Ed. Especial n. 9) 91 CPC, art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não cabe a fixação de honorários sucumbenciais em favor do administrador judicial em recuperação judicial ou falência. 2. Os honorários advocatícios de sucumbência devem ser pagos pela parte vencida exclusivamente ao profissional que tenha atuado como advogado da parte vencedora. 3. O síndico, assim como seu sucedâneo - administrador judicial - possui natureza jurídica de órgão auxiliar do Juízo, cumprindo verdadeiro munus público, não se limitando a representar o falido ou mesmo seus credores. 4. Havendo resistência a pretensão do impugnante e formação da lide, a parte vencida suportará os ônus sucumbenciais. 5. Não são devidos honorários sucumbenciais ao administrador judicial ou a seu patrono, uma vez que ele não é parte na lide. 6. O trabalho do administrador judicial deve ser remunerado de forma própria, pela recuperanda, apos fixação judicial, mas desde que observados os ditames previstos no art. 24 da Lei n. 11.101/2005.

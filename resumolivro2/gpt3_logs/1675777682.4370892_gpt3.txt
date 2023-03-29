@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os oficiais militares, que integram o Conselho de Justia, julgam inferiores e, por questo de hierarquia militar, tambm no podem ser julgados em processo de outra natureza por esses inferiores. Restam o cnjuge e o parente consanguneo ou afim do juiz at o segundo grau inclusive, que sustentar demanda que tenha de ser julgada por qualquer das partes. Admite-se a interpretao extensiva da palavra cnjuge, por ser manifesto que a expresso da lei  mais estrita, estendendo-se a suspeio para a companheira ou companheiro na situao de unio estvel. Parentes em segundo grau, inclusive, e em linha reta consangunea, so os pais, os avs, os filhos e os netos;
+na linha colateral consangunea os irmos, tios e sobrinhos;
+na linha reta afim so os sogros, noras, genros e cnjuges dos avs;
+na linha colateral afim os cunhados e os cnjuges dos tios. A quarta causa de suspeio  se ele,seu cnjuge, ou parente, a que alude a alnea anterior, sustentar demanda contra qualquer das partes ou tiver sido procurador de qualquer delas (alnea d).  suspeito, ainda, o juiz que tiver dado parte oficial do crime (alnea e). A parte  documento de trmite interno, que o inferior comunica a ocorrncia de fato relevante ao superior. O oficial que deu a parte referente ao fato criminoso e depois  convocado para o Conselho de Justia para apurar o mesmo fato criminoso declara-se suspeito ou  recusado pelas partes. A sexta causa em que o juiz  tido por suspeito ocorre se ele tiver aconselhado qualquer das partes (alnea f). O aconselhamento genrico (exemplo, orienta a parte a contratar advogado) no gera a suspeio, porm o especfico (exemplo, orienta a parte a produzir determinada prova) gera a suspeita de parcialidade do juiz. Tambm ser suspeito o juiz se ele ou seu cnjuge for herdeiro presuntivo, donatrio ou usufruturio de bens ou empregador de qualquer das partes (alnea g), no poder atuar no processo por ser suspeito o juiz se for presidente, diretor ou administrador de sociedade interessada no processo (alnea h) e suspeito estar o juiz se for credor ou devedor, tutor ou curador, de qualquer das partes (alnea i).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho de Justia julga oficiais militares inferiores, mas não pode ser julgado por eles. Suspeita de parcialidade do juiz é gerada se ele ou seu cônjuge tiverem demanda contra qualquer das partes, se ele der parte oficial de um crime, aconselhar qualquer das partes, for herdeiro presuntivo, diretor ou administrador de sociedade interessada no processo, credor ou devedor, tutor ou curador de qualquer das partes.

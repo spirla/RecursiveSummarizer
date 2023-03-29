@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Dever estatal de informar e produzir informacao ambiental. Presuncao relativa em favor da publicidade. Discricionariedade administrativa. Inexistencia. Necessidade de motivacao adequada da opacidade. Controle judicial do ato administrativo. Cabimento. Area de protecao ambiental (APA). Plano de manejo. Producao e publicacao periodica de relatorios de execucao. Portal de internet. Averbacao no registro de imoveis rurais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Dever estatal de informar e produzir informação ambiental; 2. Presunção relativa em favor da publicidade; 3. Discricionariedade administrativa; 4. Inexistência de necessidade de motivação adequada da opacidade; 5. Controle judicial do ato administrativo; 6. Cabimento de área de proteção ambiental (APA); 7. Plano de manejo; 8. Produção e publicação periódica de relatórios de execução; 9. Portal de internet; 10. Averbação no registro de imóveis rurais.

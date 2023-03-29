@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, a expressao juros moratorios e propria do direito civil e, para o legislador, o nao recebimento nas datas correspondentes dos valores em dinheiro aos quais se tem direito implica em prejuizo. Mesmo que se considere abranger lucros cessantes alem de danos emergentes, nao se vislumbra a possibilidade de os juros de mora no aludido contexto serem submetidos a tributacao pelo imposto de renda sem se ferir o conteudo minimo da materialidade do tributo. Isso, porque o imposto acabaria incidindo sobre danos emergentes. Ao apreciar o Tema 808 da repercussao geral, o Plenario, por maioria, negou provimento a recurso extraordinario, considerando nao recepcionada pela CF de 88 a parte do paragrafo unico do art. 16 da Lei 4.506/1964 que determina a incidencia do imposto de renda sobre juros de mora decorrentes de atraso no pagamento das remuneracoes previstas no aludido preceito (advindas de exercicio de empregos, cargos ou funcoes), concluindo que o conteudo minimo da materialidade do imposto de renda  contido no art. 153, III, da CF  nao permite que ele incida sobre verbas que nao acrescam o patrimonio do credor. Por fim, deu ao  1 do art. 3 da Lei 7.713/88 e ao art. 43, II e  1, do Codigo Tributario Nacional (CTN) interpretacao conforme a CF, de modo a excluir do ambito de aplicacao desses dispositivos a incidencia do imposto de renda sobre os juros de mora em questao. Vencido o ministro Gilmar Mendes. RE 855091/RS, relator Min. Dias Toffoli, julgamento virtual finalizado em 13.3.2021 (INF 1009) Pessoas com deficiencia e condicao de dependencia - ADI 5583/DF Tese fixada: Na apuracao do imposto sobre a renda de pessoa fisica, a pessoa com deficiencia que supere o limite etario e seja capacitada para o trabalho pode ser considerada como dependente quando a sua remuneracao nao exceder as deducoes autorizadas por lei.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O não recebimento nas datas correspondentes dos valores em dinheiro aos quais se tem direito implica em prejuízo. 2. O imposto de renda não pode incidir sobre danos emergentes. 3. O conteúdo mínimo da materialidade do imposto de renda contido no art. 153, III, da CF não permite que ele incida sobre verbas que não acrescam o patrimônio do credor. 4. O art. 3 da Lei 7.713/88 e o art. 43, II e 1, do Código Tributário Nacional (CTN) devem ser interpretados conforme a CF, de modo a excluir do âmbito de aplicação desses dispositivos a incidência do imposto de renda sobre os juros de mora em questão. 5. Na apuração do imposto sobre a renda de pessoa física, a pessoa com deficiência que supere o limite etário e seja capacitada para o trabalho pode ser considerada como dependente quando a sua remuneração não exceder as deduções autorizadas por lei.

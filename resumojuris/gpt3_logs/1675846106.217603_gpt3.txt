@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por ultimo, a manifestacao posterior do Ministerio Publico favoravel a manutencao da prisao preventiva, proferida em sede de habeas corpus originario, nao supre a ilegalidade da prisao decretada de oficio em primeiro grau, por se tratar de acao de manejo exclusivo da defesa em beneficio do reu. (Informativo n. 746) 1181 PROCESSO HC 720.605-PR, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 09/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Chip telefonico. Descarte em via publica. Acesso. Quebra do sigilo telefonico. Inocorrencia. DESTAQUE O acesso ao chip telefonico descartado pelo acusado em via publica nao se qualifica como quebra de sigilo telefonico. De inicio, ressalta-se que nos termos do art. 244 do CPP, a busca pessoal independera de mandado quando houver prisao ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papeis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A manifestação posterior do Ministério Público favorável à manutenção da prisão preventiva, proferida em sede de habeas corpus originário, não supre a ilegalidade da prisão decretada de ofício em primeiro grau, por se tratar de ação de manejo exclusivo da defesa em benefício do réu. 2. O acesso ao chip telefonico descartado pelo acusado em via pública não se qualifica como quebra de sigilo telefonico. 3. De acordo com o art. 244 do CPP, a busca pessoal independe de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papeis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar.

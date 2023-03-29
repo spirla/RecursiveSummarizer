@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+238 Artigo 223 - E assegurado ao servidor da Policia Militar o direito de requerer, representar ou recorrer, na forma da legislacao vigente. Paragrafo 1 - O direito a que se refere o artigo decai, na esfera administrativa, no prazo de 60 (sessenta) dias, contado da publicacao do ato ou do conhecimento do fato. (...)
+239 Op cit. p. 1072. 240 Processo de Justificacao e aquele instaurado originariamente pelo tribunal militar competente, no caso o TJM-MG, por forca do artigo 42, paragrafo 1, c/c o artigo 142, paragrafo 3, VI da CRFB/88, destinado a avaliar a convenincia da decretacao da perda do posto e patente do oficial, pelo cometimento de transgressao disciplinar previamente apurada por meio de PAD pela IME do oficial acusado. 241 Inadmitira novo recurso. 242 MAPPA: Artigo 403. O acusado podera interpor recurso, sem efeito suspensivo, nos casos de exoneracao, a autoridade superior a que a proferiu, no prazo de 05 (cinco) dias uteis, contados a partir da respectiva notificacao. paragrafo 1. Da decisao que avaliar o recurso interposto, cabera novo recurso, em segunda e ultima instncia, em regra, ao Comandante-Geral, no prazo de 05 (cinco) dias uteis, sem efeito suspensivo.
+243 Assim prev a Lei n. 9.784/99: Artigo 64. O orgao competente para decidir o recurso podera confirmar, modificar, anular ou revogar, total ou parcialmente, a decisao recorrida, se a materia for de sua competncia. Paragrafo unico. Se da aplicacao do disposto neste artigo puder decorrer gravame a situacao do recorrente, este devera ser cientificado para que formule suas alegacoes antes da decisao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O servidor da Polícia Militar tem o direito de recorrer ou representar, de acordo com a legislação vigente, dentro do prazo de 60 dias. O processo de justificação é instaurado pelo Tribunal Militar competente para avaliar a perda de posto e patente do oficial acusado. O acusado pode interpor recurso, sem efeito suspensivo, no prazo de 5 dias úteis. A decisão do recurso pode confirmar, modificar, anular ou revogar a decisão recorrida, e o recorrente deve ser cientificado para formular suas alegações antes da decisão.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como a responsabilidade penal somente se pode dar em relao ao indivduo maior de dezoito anos, poder-se-ia pensar na inutilidade da referncia legal ao desenvolvimento mental incompleto. Entretanto, segundo informa Hungria, a aluso ao desenvolvimento mental incompleto foi intencional e possibilita alcanar, por interpretao extensiva, os silvcolas. Em qualquer caso, para que se verifique a irresponsabilidade,  necessrio que a deficincia mental impossibilite ao indivduo a compreenso do carter ilcito do fato praticado ou sua autodeterminao de acordo com tal compreenso. Segundo a literatura mdica, o retardo no desenvolvimento mental significa a parada ou insuficincia do desenvolvimento das faculdades intelectuais e comporta os estgios da debilidade mental, da imbecilidade e da idiotia. Por idiotia,959 deve-se entender o grau mais grave de insuficincia mental, caracterizada por quociente intelectual inferior a vinte e idade mental que no passe de trs anos. O idiota  o indivduo incapaz de falar ou que tem uma linguagem muito rudimentar e no pode satisfazer sozinho nem mesmo suas necessidades mais elementares. Nessas condies, o idiota necessita de vigilncia e assistncia permanentes. A imbecilidade960  a insuficincia mental na qual o indivduo apresenta idade mental entre trs e sete anos e quociente intelectual compreendido entre trinta e cinquenta. O imbecil no consegue aprender a ler, e sua linguagem oral e memria so pouco desenvolvidas. Ele pode at se proteger contra os perigos ordinrios, como o fogo ou as caminhadas na rua, mas tambm necessita de vigilncia constante. A debilidade mental,961 por sua vez,  a insuficincia caracterizada por distrbios do julgamento que dificultam ao indivduo adaptar-se s novas situaes.  o grau mais leve de retardo mental, que se situa na zona mais prxima da sanidade mental. Em especial, quando se trata de debilidade mental, o desenvolvimento mental incompleto ou retardado pode no impedir a plena capacidade individual de compreenso ou autodeterminao.  possvel que a anomalia produza apenas a reduo da capacidade de entendimento e/ou determinao. Nesses casos, a exigibilidade social de conduta diversa apresenta-se igualmente reduzida e a resposta penal deve ser atenuada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O desenvolvimento mental incompleto pode ser interpretado extensivamente para incluir silvcolas. Para que se verifique a irresponsabilidade, necessrio que a deficincia mental impeça ao indivduo a compreenso do carter ilcito do fato praticado ou sua autodeterminao. Existem três níveis de deficiência mental: idiotia, imbecilidade e debilidade mental. Quando se trata de debilidade mental, o desenvolvimento mental incompleto ou retardado pode não impedir a plena capacidade individual de compreenso ou autodeterminação, sendo assim, a resposta penal deve ser atenuada.

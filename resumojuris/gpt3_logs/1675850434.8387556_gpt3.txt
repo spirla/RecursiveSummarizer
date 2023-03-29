@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Excecoes constitucionais. Interpretacao restritiva. Ausencia de fundadas razoes. Desvio de finalidade e fishing expedition. Nulidade das provas obtidas. DESTAQUE Admitir a entrada na residencia especificamente para efetuar uma prisao nao significa conceder um salvo- conduto para que todo o seu interior seja vasculhado indistintamente, em verdadeira pescaria probatoria (fishing expedition), sob pena de nulidade das provas colhidas por desvio de finalidade. 1286 Inicialmente, e preciso fazer uma distincao entre autorizacao para ingressar em domicilio a fim de efetuar uma prisao e autorizacao para realizar busca domiciliar a procura de drogas ou outros objetos. Por se tratar de medida invasiva e que restringe sobremaneira o direito fundamental a intimidade, o ingresso em morada alheia deve se circunscrever apenas ao estritamente necessario para cumprir a finalidade da diligencia. E o que se extrai da exegese do art. 248 do CPP, segundo o qual, Em casa habitada, a busca sera feita de modo que nao moleste os moradores mais do que o indispensavel para o exito da diligencia . Ora, se mesmo de posse de um mandado de busca e apreensao expedido pelo Poder Judiciario, o executor da ordem deve se ater aos limites do escopo - vinculado a justa causa - para o qual se admitiu a excepcional restricao do direito fundamental a intimidade, com muito mais razao isso deve ser respeitado quando o ingresso em domicilio ocorrer sem previo respaldo da autoridade judicial competente (terceiro imparcial e desinteressado), sob pena de nulidade das provas colhidas por desvio de finalidade. Vale dizer, admitir a entrada na residencia especificamente para efetuar uma prisao nao significa conceder um salvo-conduto para que todo o seu interior seja vasculhado indistintamente, em verdadeira pescaria probatoria (fishing expedition).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A interpretação da exceção constitucional deve ser restritiva. 2. Ausência de fundadas razões para o ingresso em domicílio sem respaldo judicial. 3. Desvio de finalidade e fishing expedition podem levar à nulidade das provas obtidas. 4. O ingresso em morada alheia deve se circunscrever ao estritamente necessário para cumprir a finalidade da diligência. 5. Admitir a entrada na residência especificamente para efetuar uma prisão não significa conceder um salvo-conduto para que todo o seu interior seja vasculhado indistintamente.

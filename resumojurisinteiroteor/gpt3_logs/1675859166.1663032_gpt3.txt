@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(Evento 10, PEAS IPM4, pgs.14/15). Periciado: Thaylon Raphael Rodrigues de Miranda Histrico Periciado relata que foi agredido pela Polcia Militar no dia 12/03/2016 por volta de 14:30 com " murros, chutes e Joelhadas". Relata que foi encaminhado ao Hospital Regional Antnio Dias. Relata curativo e liberado em seguida. Exame Periciado apresenta ferida contusa em superclio direito e equimose em regio supra-orbitria a direita. Escoriao em ombro direito e edema em mo direita. Sem dficit motor. Sem queixas visuais. Quesitos Houve ofensa  integridade corporal ou  sade do paciente? (Resposta especificada). Sim. Qual o instrumento ou meio que produziu a ofensa? Contundente A ofensa foi produzida com emprego de veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel, ou se que podia resultar perigo comum? (Resposta especificada). No. Da ofensa resultou perigo de vida? No. Da ofensa resultou incapacidade para as ocupaes habituais por mais de 30 dias? No. Da ofensa resultou debilidade permanente de membro, sentido ou funo; incapacidade permanente para o trabalho; enfermidade incurvel; perda ou inutilizao de membro, sentido ou funo, ou deformidade permanente?
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O periciado Thaylon Raphael Rodrigues de Miranda foi agredido pela Polcia Militar em 12/03/2016, sofrendo ferida contusa em superclio direito, equimose em regio supra-orbitria a direita, escoriao em ombro direito e edema em mo direita. O meio que produziu a ofensa foi contundente e não houve perigo de vida, incapacidade para as ocupações habituais por mais de 30 dias, debilidade permanente de membro, sentido ou função, incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, ou deformidade permanente.

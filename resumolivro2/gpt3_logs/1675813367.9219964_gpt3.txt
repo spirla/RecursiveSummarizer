@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+142,  2 , da CF , no afasta o controle jurisdicional do ato disciplinar. O Poder Judicirio, pela via do habeas corpus , verifica se o ato administrativo disciplinar atendeu aos requisitos da legalidade, da competncia, da previso legal e da observncia das formalidades legais. Se o ato administrativo foi praticado com abuso de poder. A legalidade da imposio de punio constritiva da liberdade, em procedimento administrativo castrense, pode ser discutida por meio de habeas corpus . 55
+O controle jurisdicional dos atos administrativos discricionrios no viola o princpio constitucional da separao dos poderes. No cabe habeas corpus para impugnar o ato administrativo punitivo reputando-o de inconveniente ou inoportuno, vale dizer, no pode o remdio heroico ingressar no mrito da punio disciplinar. O mrito est fora do alcance do habeas corpus , salvo em caso de manifesta teratologia. Em outras palavras,  vedado ao Poder Judicirio o reexame do mrito da deciso tomada pelo Executivo. O STJ firmou entendimento publicado em Jurisprudncia em Teses, edio n 36  Habeas Corpus:  No obstante o disposto no art. 142,  2 , da CF , admite-se habeas corpus contra punies disciplinares militares para anlise da regularidade formal do procedimento administrativo ou de manifesta teratologia . O que se depreende dos julgados que deram ensejo  ementa  que o exame da ameaa ou restrio do direito de locomoo decorrente de sano aplicada  falta disciplinar militar s pode ser objeto de habeas corpus na restrita hiptese em que  deduzido para fins de questionar os pressupostos de legalidade do ato praticado ou que est na iminncia de s-lo. Dessa maneira, garante-se amparo, pela via do habeas corpus , quando observado o manifesto desrespeito aos aspectos da legalidade formal do processo disciplinar militar. 56
+No cabe habeas corpus contra deciso que indefere pedido de liminar .
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O controle jurisdicional dos atos administrativos discricionários não viola o princípio constitucional da separação dos poderes. O habeas corpus pode ser usado para verificar a legalidade, competência, previsão legal e observância das formalidades legais de um ato administrativo punitivo. No entanto, não é permitido reexaminar o mérito da decisão tomada pelo Executivo. O habeas corpus também não pode ser usado para impugnar a decisão que indefere o pedido de liminar.

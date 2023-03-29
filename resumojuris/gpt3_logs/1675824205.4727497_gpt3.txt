@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade formal e material do art. 58, VI, da Lei 11.697/2008. ADI 6779/DF, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 27.8.2021 (sexta-feira), as 23:59 (INF 1027) Magistratura: remocao e isonomia - ADI 3358/PE Resumo: E inconstitucional norma de constituicao estadual que, ao dispor a respeito da remocao de magistrados, cria distincao indevida entre juizes titulares e substitutos. Isso porque, ao dispor sobre materia propria do Estatuto da Magistratura, o dispositivo da constituicao estadual violou, formalmente, a reserva de lei complementar nacional, de iniciativa do Supremo Tribunal Federal, prevista no art. 93, caput, da CF/88 (CF). Enquanto nao editada a referida lei complementar, a uniformizacao do regime juridico da magistratura permanece sob a regencia da Lei Complementar 35/1979, a Lei Organica da Magistratura Nacional (LOMAN), de modo que nao e possivel ao legislador estadual inovar sobre esse ambito. Ademais, o dispositivo impugnado ofendeu, materialmente, o principio constitucional da isonomia ao estabelecer tratamento diferenciado entre juizes titulares e substitutos. Com base nesse entendimento, o Plenario julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade do art. 52,  2 e 3, da Constituicao do Estado de Pernambuco. ADI 3358/PE, relatora Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma de Constituição Estadual que, ao dispor a respeito da remoção de magistrados, cria distinção indevida entre juízes titulares e substitutos. 2. Ao dispor sobre matéria própria do Estatuto da Magistratura, o dispositivo da Constituição Estadual violou, formalmente, a reserva de lei complementar nacional, de iniciativa do Supremo Tribunal Federal, prevista no art. 93, caput, da CF/88. 3. O dispositivo impugnado ofendeu, materialmente, o princípio constitucional da isonomia ao estabelecer tratamento diferenciado entre juízes titulares e substitutos. 4. O Plenário julgou procedente o pedido formulado em ação direta para declarar a inconstitucionalidade do art. 52, 2 e 3, da Constituição do Estado de Pernambuco.

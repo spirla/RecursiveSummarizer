@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+14 Processo AgInt no AREsp 1.565.474-RJ, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF da 5 Regiao), por unanimidade, Primeira Turma, julgado em 29/11/2022, DJe 2/12/2022. Ramo do Direito DIREITO ADMINISTRATIVO Tema Servidor publico federal. Exposicao a radiacao. Reducao da jornada de Trabalho. 24 horas semanais. Pagamento retroativo de horas extras em relacao a todo o periodo trabalhado excedente. Cabimento. DESTAQUE Os servidores publicos federais expostos a radiacao fazem jus a jornada de vinte e quatro horas semanais, sendo-lhes assegurado o pagamento de horas extras em relacao a todo o periodo trabalhado alem desse limite, sob pena de enriquecimento indevido da Administracao. No que tange ao direito do servidor a reducao da jornada de trabalho em decorrencia da exposicao a radiacao, o Tribunal a quo limitou o pagamento da verba a duas horas extras por jornada de trabalho, em interpretacao do art. 74 da Lei n. 8.112/1990, contrariando a jurisprudencia pacifica desta Corte Superior. Em hipoteses como a presente, em que reduzida a jornada de trabalho para 24 (vinte e quatro) horas semanais por exposicao do servidor a radiacao, o STJ entende que deve ser assegurado o pagamento de horas extras em relacao a todo o periodo trabalhado alem desse limite, sob pena de enriquecimento indevido da Administracao, sobretudo por se tratar de reconhecimento judicial superveniente de jornada inferior a praticada ordinariamente pelo Poder Publico, em relacao a qual nao era dado ao servidor a opcao de nao cumpri-la, o que impoe o afastamento da interpretacao literal do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os servidores públicos federais expostos a radiação têm direito à jornada de trabalho de 24 horas semanais. 2. É assegurado o pagamento de horas extras em relação a todo o período trabalhado além desse limite, sob pena de enriquecimento indevido da Administração. 3. O reconhecimento judicial superveniente de jornada inferior a praticada ordinariamente pelo Poder Público impõe o afastamento da interpretação literal do art. 74 da Lei n. 8.112/1990.

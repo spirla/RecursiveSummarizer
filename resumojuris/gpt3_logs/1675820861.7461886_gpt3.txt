@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Marco Aurelio, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 8.10.2021 (sexta-feira), as 23:59 (INF 1033) Lei estadual e dispensa de validacao de diploma estrangeiro - ADI 6592/AM Tese fixada: E inconstitucional lei estadual que dispoe sobre a aceitacao de diplomas expedidos por universidades estrangeiras. Resumo: Invade a competencia privativa da Uniao para legislar sobre diretrizes e bases da educacao nacional lei estadual que dispoe sobre reconhecimento de diploma obtido por instituicoes de ensino superior de paises estrangeiros. A internalizacao de titulos academicos de mestrado e doutorado expedidos por instituicoes de ensino superior estrangeiras e materia de interesse geral e impoe tratamento uniforme em todo o Pais. Admitir que os estados disponham de maneira diferente pode, inclusive, colocar em risco a estrutura da politica nacional de educacao. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado em acao direta para declarar inconstitucional a Lei 245/2015 do Estado do Amazonas. ADI 6592/AM, relator Min. Roberto Barroso, julgamento virtual finalizado em 3.9.2021 (sexta-feira), as 23:59 (INF 1028) Lei municipal que limita a instalacao de equipamento de telecomunicacao e competencia legislativa - ADPF 732/SP Resumo: E inconstitucional lei municipal que estabeleca limitacoes a instalacao de sistemas transmissores de telecomunicacoes por afronta a competencia privativa da Uniao para legislar sobre telecomunicacoes, nos termos dos arts. 21, XI, e 22, IV, da CF/88 (CF). Isso porque, no conceito de telecomunicacao, conforme art. 60 da Lei 9.472/1997, estao incluidos os equipamentos e os meios necessarios para transmissao dos sinais eletromagneticos, tais como as antenas de telefonia celular.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional lei estadual que dispõe sobre a aceitação de diplomas expedidos por universidades estrangeiras. 2. É inconstitucional lei municipal que estabeleça limitações a instalação de sistemas transmissores de telecomunicações por afronta à competência privativa da União para legislar sobre telecomunicações.

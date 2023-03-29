@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Vencidos os ministros Alexandre de Moraes, Carmen Lucia, Luiz Fux (Presidente) e Gilmar Mendes, que deram provimento ao recurso. Na sequencia, o Plenario, por maioria, modulou os efeitos da decisao, atribuindo-lhes eficacia ex nunc , a contar da publicacao do acordao em questao, ressalvando as acoes judiciais pendentes de conclusao ate o mesmo momento, nas quais se discuta: (a) a qual estado o contribuinte deve efetuar o pagamento do ITCMD, considerando a ocorrencia de bitributacao; e (b) a validade da cobranca desse imposto, nao tendo sido pago anteriormente. Vencidos os ministros Marco Aurelio e Edson Fachin. No tocante ao apelo direcionado ao legislador, o Plenario, por maioria, entendeu nao ser o caso. Ficaram vencidos nessa proposta os ministros Dias Toffoli (relator), Rosa Weber, Roberto Barroso e Nunes Marques. RE 851108/SP, relator Min. Dias Toffoli, julgamento virtual finalizado em 27.2.2021 (INF 1007) 17.12 OBRIGACAO TRIBUTARIA Descumprimento de obrigacao acessoria imposta a prestadores de servicos e retencao do ISS pelo tomador - RE 1167509/SP (Tema 1020 da RG) Tese fixada: E incompativel com a CF/88 disposicao normativa a prever a obrigatoriedade de cadastro, em orgao da Administracao municipal, de prestador de servicos nao estabelecido no territorio do Municipio e imposicao ao tomador da retencao do Imposto Sobre Servicos  ISS quando descumprida a obrigacao acessoria . Resumo: O art. 9-A, caput e  2, da Lei 13.701/2003, com a redacao decorrente da Lei 14.042/2001, ambas do municipio de Sao Paulo, fere os artigos 30, I, 146 e 152 da CF/88 (CF). Com efeito, a disciplina versada na norma, alem de ser estranha ao interesse local, da ensejo a tratamento diferenciado em razao da procedencia do servico, ante o regime peculiar inaugurado visando estabelecimentos situados fora do municipio. Ademais, trata de materia para a qual a Constituicao exige lei complementar federal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É incompatível com a CF/88 disposição normativa que preveja a obrigatoriedade de cadastro, em órgão da Administração municipal, de prestador de serviços não estabelecido no território do Município e imposição ao tomador da retenção do Imposto Sobre Serviços (ISS) quando descumprida a obrigação acessória. 2. O art. 9-A, caput e 2, da Lei 13.701/2003, com a redação decorrente da Lei 14.042/2001, ambas do Município de São Paulo, fere os artigos 30, I, 146 e 152 da CF/88. 3. A disciplina versada na norma, além de ser estranha ao interesse local, dá ensejo a tratamento diferenciado em razão da procedência do serviço, ante o regime peculiar inaugurado visando estabelecimentos situados fora do Município. 4. Trata-se de matéria para a qual a Constituição exige lei complementar federal.

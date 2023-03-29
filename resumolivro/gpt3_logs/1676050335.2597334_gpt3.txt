@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Prescrio. A prescrio  causa extintiva de responsabilidade penal, conforme os termos do artigo 107, IV, do CP. Trata-se de instituto de direito material, que incide sobre as pretenses estatais. Considerando a complexidade do tema, a prescrio ser tratada de maneira destacada no prximo captulo. 21.6. Decadncia. A decadncia  causa extintiva da responsabilidade, prevista no artigo 107, IV, do CP, a qual no se confunde com o instituto da prescrio. Enquanto a prescrio incide sobre a pretenso (que se situa no plano material), a decadncia incide sobre os direitos potestativos de ofertar queixa e representao (que encontram lugar no plano processual). 21.6.1. Natureza jurdica. A decadncia  instituto que impe limites a direitos constitudos no mbito da relao processual. Apesar de repercutir efeitos na relao processual, a decadncia apresenta forte contedo de direito material, na medida em que a inexistncia do direito processual inviabiliza o exame da pretenso punitiva, ou seja, a responsabilidade. Pode-se dizer que a decadncia  a perda dos direitos de representar ou de oferecer queixa, pelo fato de no ter sido exercido no prazo estabelecido para sua existncia. Os direitos de representao e queixa so direitos potestativos27 que tm prazo certo. O prazo no  fixado, propriamente, para o exerccio do direito, mas para sua existncia. Findo o prazo, o direito estabelecido para o plano processual deixa de existir. Manifestamente equivocada a expresso utilizada pelo legislador no pargrafo 1 do artigo 41 da Lei 5.250/67, ao mencionar que o direito de queixa ou de representao prescrever, se no for exercido dentro de 3 (trs) meses da data da publicao ou transmisso. O que acontece, no caso,  a decadncia, e no a prescrio. A finalidade do instituto da decadncia  impedir que o ofendido tenha a prerrogativa de fazer recair indefinidamente sobre o ofensor a ameaa da propositura da ao penal. Se no foi exercido o direito de representao ou queixa, no curso de certo prazo, presume-se que o ofendido no tenha interesse na persecuo penal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prescrição e a decadência são causas extintivas de responsabilidade penal previstas no artigo 107, IV, do Código Penal. A prescrição se relaciona com a pretenção estatal, enquanto a decadência se relaciona com os direitos potestativos de ofertar queixa e representação. O objetivo da decadência é impedir que o ofendido possa recair indefinidamente sobre o ofensor a ameaça da propositura da ação penal.

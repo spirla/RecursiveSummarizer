@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6997/RN, relator Ministro Gilmar Mendes julgamento virtual finalizado em 25.11.2022 (sexta-feira), as 23:59 (INF 1077) Promocao e beneficios a novos clientes e extensao aos preexistentes - ADI 5399/SP; ADI 6191/SP e ADI 6333 ED/PE ODS: 4 e 16 Tese fixada: E inconstitucional lei estadual que impoe aos prestadores privados de servicos de ensino e de te-lefonia celular a obrigacao de estender o beneficio de novas promocoes aos clientes preexistentes. Resumo: Serao preservados os votos proferidos em ambiente virtual por ministro aposentado ou cujo exercicio do cargo tenha cessado por outro motivo, ainda que a continuidade do julgamento se de no Ple-nario presencial apos pedido de destaque. Com base nesse entendimento, o Plenario, preliminarmente e por maioria, acolheu questao de ordem suscitada pelo ministro Alexandre de Moraes, de modo que, no caso concreto, seja mantido o voto proferido pelo ministro Marco Aurelio na sessao virtual de 20 a 27.11.2020, alem de garantir que esse posicionamento passe a ser adotado a partir do presente julgamento, nao se aplicando aos processos ja julgados. E inconstitucional norma estadual que obriga empresa privada de telefonia celular e instituicao de ensino a garantir identicos beneficios promocionais tanto aos novos clientes quanto aos antigos. Ao impor aos prestadores de servicos de ensino a obrigacao de estender o beneficio de novas promo-coes aos clientes preexistentes, a norma promove ingerencia em relacoes contratuais ja estabelecidas sem que exista conduta lesiva ou abusiva por parte do prestador. Por essa razao, afasta-se a compreensao de que se estaria diante de materia consumerista, de modo que a alteracao de forma geral e abstrata do conteudo de ne-gocios juridicos caracteriza norma de direito civil, cuja competencia legislativa e privativa da Uniao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Serão preservados os votos proferidos em ambiente virtual por ministro aposentado ou cujo exercício do cargo tenha cessado por outro motivo, ainda que a continuidade do julgamento se de no Plenário presencial após pedido de destaque. 2. É inconstitucional lei estadual que impõe aos prestadores privados de serviços de ensino e de telefonia celular a obrigação de estender o benefício de novas promoções aos clientes preexistentes. 3. É inconstitucional norma estadual que obriga empresa privada de telefonia celular e instituição de ensino a garantir identicos benefícios promocionais tanto aos novos clientes quanto aos antigos. 4. Ao impor aos prestadores de serviços de ensino a obrigação de estender o benefício de novas promoções aos clientes preexistentes, a norma promove ingerencia em relações contratuais já estabelecidas sem que exista conduta lesiva ou abusiva por parte do prestador. 5. A alteração de forma geral e abstrata do conteúdo de negócios jurídicos caracteriza norma de direito civil, cuja competência legislativa é privativa da União.

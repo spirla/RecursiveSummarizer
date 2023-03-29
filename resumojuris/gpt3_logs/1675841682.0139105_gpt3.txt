@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A respeito da dosimetria da pena, vale anotar que sua individualizacao e uma atividade vinculada a parametros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sancao penal aplicavel ao caso concreto, apos o exame percuciente dos elementos do delito, e em decisao motivada. Dessarte, as Cortes Superiores e possivel, apenas, o controle da legalidade e da constitucionalidade na dosimetria. No caso, percebe-se que a pena-base do recorrente foi exasperada em razao do maior desvalor da vetorial culpabilidade. A culpabilidade, para fins do art. 59 do CP, deve ser compreendida como juizo de reprovabilidade da conduta, apontando maior ou menor censura do comportamento do reu. Nao se trata de verificacao da ocorrencia dos elementos da culpabilidade, para que se possa concluir pela pratica ou nao de delito, mas, sim, do grau de reprovacao penal da conduta do agente, mediante demonstracao de elementos concretos do delito. No caso, depreende-se que o Tribunal de origem apresenta argumento valido, no sentido de que as ameacas foram lancadas quando a vitima se encontrava com seu filho menor de idade, o que revela maior desvalor e censura na conduta do acusado, tratando-se de fundamento idoneo para analise negativa da culpabilidade. (Informativo n. 731) 747 PROCESSO HC 721.055-SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 22/03/2022, DJe 25/03/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Associacao para o trafico de drogas. Estabilidade e permanencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. 2. É possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria da pena. 3. A culpabilidade, para fins do art. 59 do CP, deve ser compreendida como juízo de reprovabilidade da conduta, apontando maior ou menor censura do comportamento do réu. 4. Ameaças lancadas quando a vítima se encontrava com seu filho menor de idade revela maior desvalor e censura na conduta do acusado, tratando-se de fundamento idôneo para análise negativa da culpabilidade.

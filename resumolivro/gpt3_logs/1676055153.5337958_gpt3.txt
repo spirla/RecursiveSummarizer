@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Pargrafo 3 Se da invaso resultar a obteno de contedo de comunicaes eletrnicas privadas, segredos comerciais ou industriais, informaes sigilosas, assim definidas em lei, ou o controle remoto no autorizado do dispositivo invadido:
+- recluso, de 6 (seis) meses a 2 (dois) anos, e multa, se a conduta no constitui crime mais grave. Pargrafo 4 Na hiptese do pargrafo 3, aumenta-se a pena de um a dois teros se houver divulgao, comercializao ou transmisso a terceiro, a qualquer ttulo, dos dados ou informaes obtidos. Pargrafo 5 Aumenta-se a pena de um tero  metade se o crime for praticado contra:
+- Presidente da Repblica, governadores e prefeitos;
+- Presidente do Supremo Tribunal Federal;
+- Presidente da Cmara dos Deputados, do Senado Federal, de Assembleia Legislativa de Estado, da Cmara Legislativa do Distrito Federal ou de Cmara Municipal; ou. - dirigente mximo da administrao direta e indireta federal, estadual, municipal ou do Distrito Federal. Vigncia. Cabe fazer um destaque especial para o incio da vigncia da norma incriminadora. Nos termos do artigo 4 da Lei 12.737/12, o tipo previsto no artigo 154-A do Cdigo Penal somente entrar em vigor aps decorridos 120 (cento e vinte) dias de sua publicao oficial. Considerando que o texto da Lei foi publicado no Dirio Oficial da Unio no dia 03 de outubro de 2012, somente condutas realizadas a partir do dia 02 de abril de 2012 podero ser consideradas tpicas. 6.14.1. Classificao doutrinria. O crime de invaso de dispositivo informtico  considerado de pequeno potencial ofensivo e classifica-se como comum, de forma vinculada, simples, comissivo (admitindo omisso imprpria nos termos do pargrafo 2 do artigo 13 do CP), formal, instantneo, monossubjetivo e doloso. 6.14.2. Objetividade jurdica. O bem juridicamente protegido por meio do crime de invaso de dispositivo informtico  a inviolabilidade do sigilo de informaes constantes em dispositivo informtico, esteja este conectado ou no  rede de computadores. O crime em exame ofende a privacidade das pessoas que se relacionam aos fatos e/ou aos atos cujas informaes estejam guardadas no dispositivo informtico. Cabe observar que a Constituio da Repblica assegura a inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas (artigo 5, X). A carta constitucional tambm protege a liberdade de manifestao do pensamento, de criao, de expresso e de informao, sob qualquer forma, processo ou veculo (artigo 220).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 12.737/12 prevê pena de reclusão de 6 meses a 2 anos e multa para o crime de invaso de dispositivo informático, aumentando-se a pena se houver divulgação, comercialização ou transmissão dos dados obtidos. A pena também aumenta se o crime for praticado contra autoridades. A conduta só pode ser considerada típica após decorridos 120 dias da publicação da lei. O bem juridicamente protegido é a inviolabilidade do sigilo das informações contidas no dispositivo informático.

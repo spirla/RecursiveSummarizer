@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+117, II e III, que a prescricao se interrompe pela pronuncia e pela decisao confirmatoria da pronuncia. Assim, da tecnica legislativa adotada extrai-se que o legislador nao contemplou o acordao confirmatorio como novo marco interruptivo da prescricao, pois absteve-se da mesma tecnica quando da previsao do inciso IV do art. 117 do CP. Deduzia-se que a existencia de decisoes do STF desprovidas de efeito vinculante e divergentes do entendimento do STJ com relacao a mesma materia nao impedia esta Corte de continuar exercendo sua funcao constitucional e aplicando o entendimento que considerasse mais adequado a legislacao infraconstitucional. Contudo, com o passar do tempo, passou a viger no STJ, em consonancia com a orientacao do STF, o entendimento de que, apos a publicacao da sentenca condenatoria, ha outro marco interruptivo, a saber, o acordao confirmatorio da condenacao, que, nos termos da orientacao firmada no Plenario do Supremo Tribunal Federal no julgamento do HC n. 176.473/RR, configura marco interruptivo da prescricao, ainda que nao modifique o titulo condenatorio (meramente confirmatorio da condenacao). 57 Destaca-se que nao se ve impropriedade, sob o prisma da interpretacao gramatical, na conclusao de que as disposicoes normativas do art. 117, IV, do CP objetivam que o acordao condenatorio proferido na primeira instancia recursal em apelacao interposta contra a sentenca condenatoria seja causa interruptiva da prescricao. Segundo interpretacao de lei pelo metodo historico, e idoneo o entendimento de que a alteracao promovida no art. 117, IV, do CP pela Lei n. 11.596/2007 visou adicionar nova causa de interrupcao da prescricao superveniente, a saber, a publicacao do acordao condenatorio em primeira instancia recursal, e, desse modo, evitar que recursos meramente protelatorios alcancassem o lapso prescricional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A prescrição se interrompe pela pronúncia e pela decisão confirmatória da pronúncia. 2. O legislador não contemplou o acórdão confirmatório como novo marco interruptivo da prescrição. 3. O entendimento do STJ é de que, após a publicação da sentença condenatória, há outro marco interruptivo, a saber, o acórdão confirmatório da condenação. 4. Não há impropriedade na conclusão de que as disposições normativas do art. 117, IV, do CP objetivam que o acórdão condenatório proferido na primeira instância recursal em apelação interposta contra a sentença condenatória seja causa interruptiva da prescrição. 5. A alteração promovida no art. 117, IV, do CP pela Lei n. 11.596/2007 visou adicionar nova causa de interrupção da prescrição superveniente.

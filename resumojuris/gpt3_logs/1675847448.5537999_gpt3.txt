@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Imposicao automatica. Ilegalidade. Necessidade de demonstracao da imprescindibilidade da medida. Art. 312 CPP. DESTAQUE A mera circunstancia de o agente ter sido denunciado em razao dos delitos descritos na Lei n. 12.850/2013 nao justifica a imposicao automatica da prisao preventiva, devendo-se avaliar a presenca de elementos concretos, previstos no art. 312 do CPP. No que concerne a prisao preventiva, e cedico que a segregacao cautelar e medida de excecao, devendo estar fundamentada em dados concretos, quando presentes indicios suficientes de autoria e provas de materialidade delitiva e quando demonstrada sua imprescindibilidade, nos termos do art. 312 do CPP. Dado seu carater excepcional, deve ainda estar evidenciada a insuficiencia de outras medidas cautelares, arroladas no art. 319 do CPP. Conquanto os tribunais superiores admitam a prisao preventiva para interrupcao da atuacao de integrantes de organizacao criminosa, a mera circunstancia de o agente ter sido denunciado pelos delitos descritos na Lei n. 12.850/2013 nao justifica a imposicao automatica da custodia prisional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A prisão preventiva é uma medida de exceção, devendo estar fundamentada em dados concretos, quando presentes indicios suficientes de autoria e provas de materialidade delitiva e quando demonstrada sua imprescindibilidade, nos termos do art. 312 do CPP. 2. Conquanto os tribunais superiores admitam a prisão preventiva para interrupção da atuação de integrantes de organização criminosa, a mera circunstância de o agente ter sido denunciado pelos delitos descritos na Lei n. 12.850/2013 não justifica a imposição automática da custódia prisional.

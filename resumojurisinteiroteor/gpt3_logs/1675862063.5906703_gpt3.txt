@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+485, IX). Para que se configure o erro de fato,  preciso existir a conjugao de vrios pressupostos, de acordo com a sistematizao de Barbosa Moreira: a) Que a sentena nele seja fundada, isto , que sem o erro de fato a concluso do juiz houvesse de ser diferente.  necessrio que a sentena esteja baseada em erro de fato, ou seja, o erro deve ser a causa da concluso a que chegou a sentena,  necessria a existncia de nexo de causalidade entre o erro de fato e a concluso do juiz prolator do decisum rescindendo; b) Que o erro seja apurvel mediante o simples exame dos documentos e mais peas dos autos, no se admitindo, na rescisria, a produo de quaisquer outras provas tendentes a demonstrar que no existia o fato admitido pelo juiz, ou que ocorra o fato por ele considerado inexistente; c) Que no tenha havido controvrsia" sobre o fato (CPC, art. 485,  2); d) Que sobre o erro de fato no tenha havido pronunciamento judicial" (CPC, art. 485, 2). Em outras palavras, o juiz, no erro de fato, supe ou imagina que um fato existiu, quando, na verdade, nunca ocorreu ou vice- versa. O juiz, no erro de fato, no se pronuncia sobre o fato; supe ou imagina tenha o existido o fato ou vice-versa. (Fredie Didier Jr) Dessa forma, constato que o alegado erro de fato foi debatido no acrdo rescindendo e, dessa forma, no se encontra presente o requisito da inexistncia de pronunciamento judicial sobre o tema, porquanto a questo da nulidade do PAD por ausncia de submisso do acusado/autor  percia psicopatolgica constituiu matria tratada nos autos, com base nos seguintes fundamentos: Por fim, o apelante sustenta a nulidade do PAD por no ter sido submetido  percia psicopatolgica. Com base no posicionamento desta Corte de Justia, a alegao do apelante deve ser rejeitada, pois, conforme se verifica  fl. 4 do ID 103527, h informao da NAIS do 30 BPM noticiando que o apelante no necessitava ser submetido  percia psicopatolgica, nos termos do disposto no art. 17 da Resoluo n. 4278/13, alm de no constar dos autos prova da sua incapacidade ao tempo da prtica da prtica das condutas transgressivas que lhe foram imputadas. Frise-se que as internaes em nosocmios psiquitricos por parte do apelante somente ocorreram aps a soluo das sindicncias administrativas e instaurao do PAD, conforme se verifica nos documentos constantes nos IDs 103469, 103474, 103527. Por fim, deixo consignado que a experincia no julgamento de processos desta natureza nos revelou ser prtica comum de militares submetidos a processos administrativo-disciplinares, com o propsito de procrastinar o andamento do feito e/ou inviabilizar a efetivao da demisso, se internarem em clnicas psiquitricas e/ou ajuizarem ao de interdio na Justia comum.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Para que se configure o erro de fato, necessrio que a sentena esteja baseada em erro de fato, que o erro seja apurvel mediante o simples exame dos documentos e mais peas dos autos, que no tenha havido controvrsia sobre o fato e que sobre o erro de fato no tenha havido pronunciamento judicial. No caso em questo, constatou-se que o alegado erro de fato foi debatido no acrdo rescindendo, e, dessa forma, no se encontra presente o requisito da inexistncia de pronunciamento judicial sobre o tema.

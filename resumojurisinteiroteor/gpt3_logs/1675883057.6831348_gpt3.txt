@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...] Inquirida em juzo, Silvnia Aparecida Palermo, relatou, em suma, que trabalhava na banca, no bairro Democrata, quando chegaram dois policiais fardados, questionando a ilegalidade do que ela fazia; que comearam a mexer em gaveta, na sua bolsa, e que ficou muito nervosa na hora; que o Ex-PM Mauro da Costa Pinto perguntava se tinha dinheiro, ao passo que o Ex-PM Pablo Andrade dos Prazeres ficava na porta, olhando pro lado de fora; que levaram dinheiro que estava na gaveta, bem como pediram para apalpar o balso para ver se tinha dinheiro, mas no tinha; que estava sozinha; que s levaram dinheiro; que depois disso foi trabalhar em outro local; que estava trabalhando naquela loja por cerca de um ms; Considerando que as testemunhas defensivas e os documentos carreados pela Defesa no foram suficientes para afastar 9 a imputao delitiva, o Conselho Permanente de Justia da Polcia Militar, por maioria de votos (quatro a um), entendeu que os acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres praticaram os fatos narrados na exordial acusatria, promovendo a condenao deles nas iras do art. 243, alnea a,  1, c/c o art. 242,  2, inciso II, ambos do Cdigo Penal Militar. Vencida a Juza Militar Cap PM Marieta Apgaua Marques, que julgou improcedente o FATO 5 da denncia, para absolver os acusados com fundamento no art. 439, alnea e, do CPPM, por entender que as provas so precrias para sustentar um decreto condenatrio. FATO 6 O Conselho Permanente de Justia da Polcia Militar, por maioria de votos (quatro a um), julgou improcedente o FATO 6 da exordial acusatria, cuja prtica delitiva  imputada ao acusado Ex- PM Mauro da Costa Pinto. [..] Os fatos narrados na denncia foram perpetrados em face do ofendido indireto Anderson Luiz Miranda, o qual no foi ouvido sob o crivo do contraditrio, porque o Ministrio Pblico, na audincia do dia 22 de novembro 2019 (evento 9, PROCJUDIC20, Pgina 30), desistiu do seu depoimento, uma vez que no estava sendo localizado, o que fragilizou, sobremaneira, a acusao. No se descarta a possibilidade dos fatos terem ocorrido nos termos como foram narrados na exordial acusatria, entretanto, no houve qualquer prova produzida em juzo, o que impede uma condenao. Em outras palavras, nos crimes em tela, no conseguiu o Parquet desvencilhar-se do nus que lhe incumbia (art. 296, do CPPM), deixando de demonstrar, com a necessria certeza, a ocorrncia dos fatos imputados. Assim, o Conselho Permanente de Justia da Polcia Militar, por unanimidade de votos, julgou improcedente o FATO 6 da denncia, para absolver o acusado Ex-PM Mauro da Costa Pinto, com fundamento no art. 439, alnea e, do CPPM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia da Polícia Militar julgou procedente o FATO 5 da denncia, condenando os acusados Ex-PM Mauro da Costa Pinto e Ex-PM Pablo Andrade dos Prazeres por prática de crime previsto nos artigos 243, alínea a, 1, c/c o art. 242, 2, inciso II, ambos do Código Penal Militar. O FATO 6 foi julgado improcedente, absolvendo o acusado Ex-PM Mauro da Costa Pinto, com fundamento no art. 439, alínea e, do CPPM, por falta de provas suficientes.

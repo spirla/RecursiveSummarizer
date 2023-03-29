@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+129 TERCEIRA TURMA . 130 6 APRESENTACAO Com o intuito de proporcionar mais uma forma de consulta ao usuario do Informativo de Jurisprudencia, o presente trabalho disponibiliza todas as sumulas e notas de julgados publicadas durante o ano de 2023, agrupadas segundo os respectivos ramos do direito. As sumulas e as notas extraidas de julgamentos submetidos ao rito dos recursos repetitivos estao localizadas em capitulos especificos, no inicio do documento, organizadas de acordo com a materia preponderante, em ordem de recentidade  da mais recente para a mais antiga  e por orgao julgador, considerando a Corte Especial, as Secoes tematicas e as Turmas. As demais notas tambem estao dispostas de acordo com a materia preponderante, ordenadas, por sua vez, conforme o orgao julgador e da mais recente para a mais antiga. Cabe ressaltar que as notas que abordam mais de um tema juridico estao repetidas nos respectivos ramos. Essa opcao foi adotada para que o usuario que se interesse por apenas um ramo especifico do direito nao perca qualquer informacao. O Informativo de Jurisprudencia de 2023 organizado por ramos do Direito sera atualizado mensalmente no decorrer do ano. Vale lembrar que, ao final de cada nota e de cada sumula, ha a indicacao da edicao do Informativo de Jurisprudencia correspondente. 7 DIREITO ADMINISTRATIVO 8 PRIMEIRA SECAO Voltar ao Sumario. Processo MS 20.194-DF, Rel. Ministra Assusete Magalhaes, Primeira Secao, por unanimidade, julgado em 14/9/2022, DJe 20/9/2022. Ramo do Direito DIREITO ADMINISTRATIVO Tema Servico de radiodifusao comunitaria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Informativo de Jurisprudência de 2023 será atualizado mensalmente no decorrer do ano. 2. As sumulas e as notas extraídas de julgamentos submetidos ao rito dos recursos repetitivos estão localizadas em capítulos específicos, no início do documento, organizadas de acordo com a matéria preponderante, em ordem de recentidade da mais recente para a mais antiga e por órgão julgador. 3. As demais notas também estão dispostas de acordo com a matéria preponderante, ordenadas, por sua vez, conforme o órgão julgador e da mais recente para a mais antiga. 4. Ao final de cada nota e de cada sumula, há a indicação da edição do Informativo de Jurisprudência correspondente. 5. O processo MS 20.194-DF, julgado em 14/9/2022, aborda o tema Serviço de Radiodifusão Comunitária.

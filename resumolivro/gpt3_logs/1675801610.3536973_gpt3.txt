@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O horario da chamada ou do inicio do servico deve ser disposto de modo preciso e enfatico, por meio de escala ou por uma ordem (mesmo que verbal) previa para o servico. Em conformidade com a Resolucao que trata da jornada de trabalho no Corpo de Bombeiros Militar e na Policia Militar, que tem a chamada para todos os turnos operacionais (chamada pre-turno), esta se dara 30 (trinta) minutos antes do lancamento, para fins do treinamento tatico, sendo o atraso computado a partir da aludida chamada. O atraso injustificado deve ser entendido como aquele sem justo motivo, ou seja, que nao se traduz em nenhuma das causas de justificacao descritas no artigo 19 do CEDM, devidamente comprovada pelo militar, ja que incube a ele o nus de provar o alegado. Assim se, por exemplo, o militar alegar que chegou atrasado para o seu turno de servico em virtude de uma pane no sistema eletrico do metr que o conduzia, devera ele apresentar a prova convincente do alegado, sob pena de ser sancionado disciplinarmente pelo atraso ao servico. Nesse sentido, assim decidiu o TJM-MG, ao manter a sancao aplicada a militar que nao cumpriu seu nus processual probatorio ante a sua justificativa para o atraso ao servico:
+APELACAO CIVEL - ACAO ORDINARIA ANULATORIA DE ATO ADMINISTRATIVO-DISCIPLINAR - ART. 15, I, DA LEI ESTADUAL N. 14.310/2002 - CAUSA DE JUSTIFICACAO NAO CONFIGURADA - MERITO ADMINISTRATIVO - LIMITACAO DA ATUACAO DO PODER JUDICIARIO - MANUTENCAO DA PUNICAO - RECURSO A QUE SE NEGA PROVIMENTO - Nao sendo demonstrado que o motivo apresentado pelo policial militar configura causa de justificacao apta a excluir a tipicidade da transgressao disciplinar, resta inviabilizada a anulacao do ato administrativo-disciplinar. - (...). - Recurso improvido. (TJM-MG: Proc. 10000003-52.2016-9.13.0002 - Rel. Juiz Cel PM Socrates Edgard dos Anjos, julgamento 10/11/2016).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O horário da chamada ou do início do serviço deve ser disposto de forma precisa e enfática. O atraso injustificado será sancionado disciplinarmente, sendo necessário comprovar o motivo alegado para justificar o atraso. O TJM-MG decidiu manter a punição aplicada a um militar que não comprovou sua justificativa para o atraso ao serviço.

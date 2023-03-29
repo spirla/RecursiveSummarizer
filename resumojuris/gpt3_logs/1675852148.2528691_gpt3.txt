@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Medicos autores do artigo e a editora. DESTAQUE A divulgacao cientifica nao autorizada de imagem de paciente viola direitos de intimidade e a etica medica, gerando responsabilizacao solidaria entre os medicos autores do artigo e a editora. A bioetica medicinal pauta-se por quatro pilares: veracidade, privacidade, confidencialidade e fidelidade, de modo a preservar nao so os direitos inerentes a personalidade, senao tambem a propria relacao de confianca essencial aos tratamentos. O interesse cientifico nao pode se sobrepor aos direitos humanos dos pacientes, devendo ser compatibilizados. No caso, trata-se de violacao da confidencialidade dos dados medicos. Em observancia aos ditames do Codigo de Etica Medica, do Conselho Federal de Medicina, bem como do Conselho Nacionalde Saude e da Declaracao Universal sobre Bioetica e Direitos Humanos, nao resta duvida, sobre o modo como se procedem as publicacoes em geral, e as cientificas em particular. E do autor a responsabilidade pelo material submetido, sendo descabida a restricao da condenacao unicamente a editora. Tais casos nao se confundem, por exemplo, com a atividade jornalistica, em que a revista e dona do processo editorial e pode intervir com assertividade nao so no fluxo como no texto da publicacao, na medida em que os profissionais de imprensa estao funcionalmente submetidos aos ditames da empresa. E certo que os editores deveriam ter rejeitado a publicacao naqueles termos, com a exibicao da face e torso desfigurados da paciente, quica concedendo aos medicos a possibilidade de submeter novamente o texto e as imagens; a imposicao de medidas mitigadoras da exposicao certamente era tambem responsabilidade dos editores. 29 Contudo, isso nao isenta os autores da responsabilidade primaria pelo registro (tambem a captacao nao foi autorizada, nem mesmo de forma subsequente a recuperacao da vitima) e sua submissao a publicacao cientifica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A divulgação científica não autorizada de imagem de paciente viola direitos de intimidade e a ética médica, gerando responsabilização solidária entre os médicos autores do artigo e a editora. 2. O interesse científico não pode se sobrepor aos direitos humanos dos pacientes, devendo ser compatibilizados. 3. Trata-se de violação da confidencialidade dos dados médicos. 4. É do autor a responsabilidade pelo material submetido, sendo descabida a restrição da condenação unicamente a editora. 5. Os editores deveriam ter rejeitado a publicação naqueles termos, com a exibição da face e torso desfigurados da paciente. 6. Os autores são responsáveis primários pelo registro e sua submissão a publicação científica.

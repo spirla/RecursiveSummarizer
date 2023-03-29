@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+5, caput, do Regimento Interno da Camara dos Deputados (RICD), assentando a impossibilidade de reconducao dos presidentes das casas legislativas para o mesmo cargo na eleicao imediatamente subsequente, dentro da mesma legislatura, vencidos os Ministros Gilmar Mendes (Relator), Dias Toffoli, Alexandre de Moraes, Ricardo Lewandowski e Nunes Marques; e (ii) rejeitar o pedido em relacao ao art. 5,  1, do RICD, admitindo a possibilidade de reeleicao dos presidentes das casas legislativas em caso de nova legislatura, vencidos os Ministros Marco Aurelio, Carmen Lucia e Rosa Weber. ADI 6524/DF, relator Min. Gilmar Mendes, julgamento virtual finalizado em 14.12.2020 (INF 1003) Remuneracao de parlamentar por participacao em sessoes extraordinarias - ADPF 836/RR Resumo: E proibido o pagamento de vantagem pecuniaria a deputados estaduais por convocacao para sessao extraordinaria. Conforme disposto no  2 do art. 27 da CF/88 (CF), a vedacao de pagamento de parcela indenizatoria aos membros do Congresso Nacional por convocacao extraordinaria (CF, art. 57,  7) estende-se aos deputados estaduais. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em acao direta para declarar a nao recepcao do  6 do art. 99 do Regimento Interno da Assembleia Legislativa do Estado de Roraima pelo  7 do art. 57 da CF, com a modificacao introduzida pela Emenda Constitucional 50/2006. ADPF 836/RR, relatora Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É proibido o pagamento de vantagem pecuniária a deputados estaduais por convocação para sessão extraordinária, conforme disposto no art. 27, § 2º, da Constituição Federal. 2. A vedação de pagamento de parcela indenizatória aos membros do Congresso Nacional por convocação extraordinária, prevista no art. 57, § 7º, da Constituição Federal, estende-se aos deputados estaduais. 3. É não recepcionado o art. 6º do Regimento Interno da Assembleia Legislativa do Estado de Roraima pelo art. 57, § 7º, da Constituição Federal, com a modificação introduzida pela Emenda Constitucional 50/2006. 4. É impossível a recondução dos presidentes das casas legislativas para o mesmo cargo na eleição imediatamente subsequente, dentro da mesma legislatura, conforme disposto no art. 5º, caput, do Regimento Interno da Câmara dos Deputados. 5. É admitida a possibilidade de reeleição dos presidentes das casas legislativas em caso de nova legislatura.

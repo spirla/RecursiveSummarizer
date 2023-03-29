@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Disse que o Estado apresentou argumentos genricos, mas que caberia a ele provar os fatos impeditivos, modificativos ou extintivos do direito da autora, nos ternos do artigo 373 do Cdigo de Processo Civil (CPC), o que no fez. No mrito, reiterou os argumentos e os pedidos apresentados na inicial (Evento 1 - IMPUGNAO39). A meritssima juza de direito da 3a Vara da Fazenda Pblica e Autarquias da Comarca de Belo Horizonte/Minas Gerais declarou a incompetncia absoluta daquele Juzo e determinou a remessa dos autos  Justia Militar (Evento 1, DeCL_COMPE25). Distribudo o feito nesta justia Militar (Evento 1), o meritssimo juiz de direito da 5a Auditoria Judiciria Militar Estadual (AJME) reafirmou a competncia desta Justia Especializada para processar e julgar a ao e ratificou a deciso que indeferiu a tutela de urgncia (Evento 5). Na fase de especificao de provas, o Estado de Minas Gerais manifestou no possuir mais provas a produzir (Evento 26). J a autora quedou-se inerte. O meritssimo juiz a quo prolatou sentena, conforme se depreende do Evento 28. Em relao  alegao de nulidade absoluta do PAD, por no ter constado na portaria inaugural a possibilidade de demisso da autora, afirmou que no merece prosperar a alegao, pois consta, de maneira clara, no item 1.3 da exordial, que a conduta, em tese praticada pela autora, se comprovada, a incapacitava de permanecer nas fileiras da Corporao. Asseverou que a contestao apresentada pelo Estado de Minas Gerais cumpriu todos os requisitos previstos no CPC; que a contestao no se enquadra em qualquer das hipteses dos artigos 389 a 395 do mesmo diploma legal; que o entendimento jurisprudencial majoritrio  no sentido de que no se aplica a pena de confisso  Fazenda Pblica, haja vista que o patrimnio pblico e seus direitos so indisponveis. No mrito, alegou que no existe ilegalidade no PAD passvel de anulao. Disse que a portaria inaugural obedeceu ao previsto no artigo 328 do Manual de Processos e Procedimentos Administrativos (MAPPA), no qual no consta a obrigatoriedade de apontar, expressamente, a possibilidade ou no da demisso do militar das fileiras da Corporao. Disse que a documentao acostada aos autos demonstra que a autora utilizou todos os meios possveis para fazer valer seu direito, tendo, inclusive, utilizado todos os recursos cabveis, at a instncia superior junto ao Governador do Estado. Afirmou que a autora passou  inatividade no dia 26/01/2020, fato confirmado por ela na sua pea inicial. Mencionou que a portaria de convocao e a instaurao do PAD  de 02/10/2018, data em que a autora ainda se encontrava na atividade policial.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar confirmou a competência para processar e julgar a ação, reafirmando a decisão que indeferiu a tutela de urgência. O Estado de Minas Gerais não apresentou provas impeditivas, modificativas ou extintivas do direito da autora, e a autora não produziu provas. O Juiz a quo declarou que não houve ilegalidade no PAD passível de anulação, pois a portaria inaugural obedeceu ao previsto no Manual de Processos e Procedimentos Administrativos. A autora passou para a inatividade em 26/01/2020.

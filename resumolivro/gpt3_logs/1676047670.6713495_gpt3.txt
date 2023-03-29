@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A inteno do legislador penal de 1984, no tocante  individualizao da pena, era de que o julgador explicitasse, na fundamentao de sua sentena, quais os motivos determinantes de cada operao de majorao ou diminuio de pena, a fim de que fosse obedecido o princpio constitucional de ampla defesa. Segundo o mtodo trifsico, a dosimetria da pena  tarefa que apresenta trs fases distintas e sucessivas. 1 momento: pena-base. O juiz estabelecer, conforme seja necessrio e suficiente para a reprovao e preveno do crime, a pena-base levando-se em conta os critrios estabelecidos pelo artigo 59. Tais critrios so denominados circunstncias judiciais e, entre eles, existe a previso para as circunstncias do crime, que no se confundem com as circunstncias atenuantes e agravantes previstas no ordenamento jurdico-penal, pois estas sero consideradas no segundo momento da tarefa de individualizao. Em ateno ao princpio do nulla poena sine culpa, a culpabilidade  a circunstncia judicial preponderante, sendo que nenhuma das outras poder servir para aumentar a pena alm dos limites estabelecidos pela culpabilidade. A aplicao de pena superior ao mnimo da cominao sempre se justifica pela reprovao pessoal da culpabilidade, sendo que as demais circunstncias judiciais confirmam os limites da reprovao ou indicam a necessidade de uma apenao mais branda. Na definio da pena-base, o juiz far opo por uma das penas cominadas, no caso de serem alternativas, e pela quantidade de pena aplicvel, dentro dos limites previstos. 2 momento: pena provisria. Sobre o resultado da operao anterior, no segundo momento, o juiz far incidirem as consideraes sobre as circunstncias atenuantes e agravantes, previstas nos artigos 61, 62, 65 e 66 do Cdigo Penal, de forma que os limites de mnimo e mximo, estabelecidos pela cominao legal, no podero ser ultrapassados. Embora exista alguma polmica na doutrina sobre a possibilidade de diminuio da pena-base para aqum dos limites estabelecidos na pena mnima cominada, a posio majoritria  no sentido de que nessa fase deve-se respeitar os limites da cominao. Nesse sentido  a Smula 231 do STJ. Sobre o tema, vale observar que o inciso II do artigo 59 do CP determina a aplicao da quantidade de pena dentro dos limites previstos, e previso das circunstncias legais no traz alterao dos limites estabelecidos na cominao do tipo incriminador.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O legislador penal de 1984 buscou individualizar a pena, exigindo que o julgador explicitasse os motivos determinantes de majoração ou diminuição da pena. O mtodo trifásico para dosimetria da pena se divide em três fases: estabelecer a pena-base, considerar circunstâncias judiciais e atenuantes/agravantes, e aplicar pena provisória. A culpabilidade é a circunstância judicial preponderante e os limites da cominação legal não podem ser ultrapassados.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A leitura conjunta dos dispositivos constitucionais atinentes ao tema, somado ao postulado da vedacao do retrocesso de direitos sociais, denota a finalidade de assegurar o minimo existencial aos integrantes da Ad-ministracao Publica Direta e Indireta com a fixacao do menor patamar remuneratorio admissivel, especial-mente se consideradas as limitacoes inerentes ao regime juridico dos servidores publicos, cujas caracteristicas se distinguem do relativo as contratacoes temporarias ou originadas de vinculos decorrentes das recentes re-formas trabalhistas. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 900 da repercussao geral, deu provimento ao recurso extraordinario para devolver os autos ao tribunal de origem para continuidade de julgamento, a fim de que sejam decididas as demais questoes postas no apelo, observados os parametros ora decididos. RE 964659/RS, relator Ministro Dias Toffoli, julgamento virtual finalizado em 5.8.2022 (sexta-feira), as 23:59 (INF 1062) 1.20 SOCIEDADE DE ECONOMIA MISTA Privatizacao de empresa estatal e transferencia de debitos judiciais ao estado - ADI 5271/MA Resumo: E constitucional norma estadual que preve a assuncao de obrigacoes financeiras resultantes de sentenca judicial proferida apos a privatizacao de sociedade de economia mista prestadora de servico publico pelo respectivo estado. No caso, a Lei 7.514/2000 do Estado do Maranhao dispoe sobre materias administrativas relativas a desestatizacao de empresa estatal do setor de energia (Companhia Energetica do Maranhao S.A  CEMAR) e a responsabilidade do estado na sucessao de obrigacoes extraordinarias decorrentes da reorganizacao administra-tiva, conteudo inserido na competencia outorgada constitucionalmente aos estados-membros. A norma nao cria despesas efetivas nem constitui privilegios fiscais concedidos a entao estatal. Ela tambem nao viola o principio da isonomia ou o ato juridico perfeito.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional norma estadual que prevê a assunção de obrigações financeiras resultantes de sentença judicial proferida após a privatização de sociedade de economia mista prestadora de serviço público pelo respectivo estado. 2. A Lei 7.514/2000 do Estado do Maranhão não cria despesas efetivas nem constitui privilégios fiscais concedidos a então estatal. 3. A Lei 7.514/2000 do Estado do Maranhão também não viola o princípio da isonomia ou o ato jurídico perfeito.

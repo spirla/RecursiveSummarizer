@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Aplicao da prescrio pela pena em perspectiva aos crimes praticados antes da vigncia da Lei 12.234/10. A extino do instituto da prescrio retroativa, determinada pelo artigo 1 da Lei 12.234/10, constitui situao jurdica mais gravosa ao condenado e, tendo em vista o disposto no inciso XL do artigo 5 da Constituio da Repblica, tal restrio somente se aplica aos crimes ocorridos posteriormente a entrada em vigor da referida lei. Dessa forma, se no  possvel impedir a aplicao da prescrio retroativa aos crimes ocorridos anteriormente a entrada em vigor da lei penal mais gravosa, pois a lei penal no retroagir, salvo para beneficiar o ru, tambm no ser possvel impedir a aplicao da prescrio pela pena em perspectiva. Como a referida lei entrou em vigor na data de sua publicao, o que ocorreu no dia 6 de maio de 2010, aos crimes anteriores a essa data pode-se aplicar a prescrio pela pena em perspectiva. 22.14. Prescrio das penas restritivas de direito. As penas restritivas de direito no so cominadas nos tipos incriminadores da parte especial do Cdigo Penal. Tais penas, em regra, so substitutivas da pena privativa de liberdade (artigo 54 do CP). Por isso, o pargrafo nico do artigo 109 do CP determina que apliquem-se s penas restritivas de direitos os mesmos prazos previstos para as privativas de liberdade. Assim, a prescrio da pretenso punitiva  calculada com base na pena privativa de liberdade mxima cominada ao crime, salvo quando se tratar de prescrio intercorrente e prescrio retroativa, que se referem  pena aplicada. A prescrio da pretenso executria relativa s penas restritivas de direito tambm se calcula com base no tempo de pena efetivamente aplicada na condenao. No Juizado Especial Criminal, o instituto despenalizador da transao penal impede a aplicao imediata de pena privativa de liberdade. No entanto, a pena restritiva de direitos continua sendo substitutiva da privao da liberdade e a prescrio  calculada com base na pena privativa de liberdade. Na Lei 9.503/97 - Cdigo de Trnsito Brasileiro -, ocorre a cominao de penas restritivas de direitos cumulativamente s penas privativas de liberdade. Nesses casos, no se trata de substituio, mas a prescrio da pena restritiva de direitos ocorre ao mesmo tempo que deve ocorrer a prescrio da pena privativa de liberdade. A regra do pargrafo nico do artigo 109 do CP  aplicvel aos crimes previstos na legislao extravagante, caso no haja regra especfica em contrrio (artigo 12 do CP).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 12.234/10 extinguiu a prescrição retroativa para crimes ocorridos após sua vigência, e a prescrição pela pena em perspectiva se aplica aos crimes anteriores. As penas restritivas de direito possuem os mesmos prazos previstos para as privativas de liberdade, calculados com base na pena efetivamente aplicada na condenação. No Código de Trânsito Brasileiro, a prescrição da pena restritiva de direitos ocorre ao mesmo tempo da prescrição da pena privativa de liberdade.

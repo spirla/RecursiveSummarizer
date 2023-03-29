@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Fundou-se nas Leis n. 12.527/2011 e 10.650/2003. Tais leis positivam o que se convencionou denominar de direito de acesso a informacao ambiental. A imbricacao entre as normas nao e fortuita, sendo a norma brasileira inaugural da transparencia em materia ambiental (Politica Nacional de Meio Ambiente - Lei n. 6.938/1981) claramente inspirada nas sunshine laws. O acesso a informacoes publicas e um direito simultaneamente autonomo e funcional. Alem de a prestacao de contas e controle do governo pela sociedade ser principio basico das democracias, o direito de acesso viabiliza a participacao adequada da populacao na tomada de decisoes coletivas e participacao na coisa publica. No ambito ambiental, o direito de acesso a informacao encontra-se reconhecido no direito internacional, em diversas normas que visam dar cumprimento ao Principio 10 da Declaracao do Rio. Na America Latina e Caribe, o Acordo de Escazu dispoe sobre a materia. Embora nao internalizado, pendente de ratificacao, o direito nacional reflete principios semelhantes por todo o ordenamento, desde o nivel constitucional, que se espalham em variadas leis federais. O direito de acesso a informacao configura-se em dupla vertente: direito do particular de ter acesso a informacoes publicas requeridas (transparencia passiva) e dever estatal de dar publicidade as informacoes publicas que detem (transparencia ativa). No regime de transparencia brasileiro, vige o Principio da Maxima Divulgacao: a publicidade e regra, e o sigilo, excecao, inadmitidos subterfugios, anacronismos juridicos ou meias-medidas. E dever do Estado demonstrar razoes consistentes para negar a publicidade ativa e ainda mais fortes para rejeitar o atendimento ao dever de transparencia passiva. A opacidade administrativa nao pode ser tolerada como simulacro de transparencia passiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O direito de acesso à informação ambiental é positivado nas Leis n. 12.527/2011 e 10.650/2003. 2. O direito de acesso à informação é simultaneamente autonomo e funcional. 3. O direito de acesso à informação é reconhecido no direito internacional, como previsto na Declaração do Rio e no Acordo de Escazu. 4. O direito de acesso à informação configura-se em dupla vertente: direito do particular de ter acesso a informações publicas requeridas (transparência passiva) e dever estatal de dar publicidade às informações publicas que detém (transparência ativa). 5. No regime de transparência brasileiro, vige o Princípio da Máxima Divulgação: a publicidade é regra, e o sigilo, exceção. 6. É dever do Estado demonstrar razões consistentes para negar a publicidade ativa e ainda mais fortes para rejeitar o atendimento ao dever de transparência passiva.

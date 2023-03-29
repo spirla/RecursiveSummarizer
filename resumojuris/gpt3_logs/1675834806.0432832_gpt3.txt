@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por sua vez, a legislacao tributaria sobre disposicoes gerais de acrescimos moratorios, no caso o 1, do art. 61, da Lei n. 9.430/1996, prescreve que:  1 A multa de que trata este artigo sera calculada a partir do primeiro dia subsequente ao do vencimento do prazo previsto para o pagamento do tributo ou da contribuicao ate o dia em que ocorrer o seu pagamento . Sobre o tema, o Superior Tribunal de Justica manifestou-se no sentido de que a interposicao do recurso administrativo apenas pode ensejar a suspensao da exigibilidade da multa administrativa, mas nao interfere no termo inicial dos encargos da mora, os quais incidem a partir do primeiro dia subsequente ao vencimento do prazo previsto para pagamento do credito (AgInt no AREsp 1.705.876/PR, Relator Ministro Og Fernandes, DJe 29/03/2021). Com efeito, a interposicao de recurso administrativo nao afasta a incidencia dos juros moratorios. Esse entendimento encontra amparado nos arts. 2 e 5 do Decreto-Lei n. 1.736/1979 (Dispoe sobre debitos para com a Fazenda e da outras providencias). Registre-se, por oportuno, que a impossibilidade de a agencia reguladora dar inicio aos atos executivos, para fins de cobranca de seu credito, antes da conclusao definitiva do processo administrativo, nao altera a data do vencimento da divida nem impede a constituicao em mora do devedor, nos termos da legislacao aplicavel aos tributos federais. De notar que, no julgamento do Incidente de Assuncao de Competencia - IAC 11, a Primeira Secao do Superior Tribunal de Justica estabeleceu que, o artigo 4,  1, da Lei n. 9.847/1999, pela especialidade que ostenta, afasta a incidencia dos arts. 37-A da Lei n. 10.522/2001 e 61,  1 e 3, da Lei n. 9.430/1996, relativamente ao termo inicial da incidencia dos juros e da multa moratoria sobre a penalidade imposta pela ANP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A multa prevista no art. 61 da Lei n. 9.430/1996 será calculada a partir do primeiro dia subsequente ao do vencimento do prazo previsto para o pagamento do tributo ou da contribuição até o dia em que ocorrer o seu pagamento. 2. A interposição de recurso administrativo não afasta a incidência dos juros moratórios. 3. A impossibilidade de a agência reguladora dar início aos atos executivos, para fins de cobrança de seu crédito, antes da conclusão definitiva do processo administrativo, não altera a data do vencimento da dívida nem impede a constituição em mora do devedor. 4. O artigo 4, 1, da Lei n. 9.847/1999, pela especialidade que ostenta, afasta a incidência dos arts. 37-A da Lei n. 10.522/2001 e 61, 1 e 3, da Lei n. 9.430/1996, relativamente ao termo inicial da incidência dos juros e da multa moratória sobre a penalidade imposta pela ANP.

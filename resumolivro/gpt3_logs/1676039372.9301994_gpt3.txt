@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se o erro for plenamente escusvel, no haver dolo nem culpa por parte daquele que errar. Qualquer um, em seu lugar, teria inevitavelmente errado, e no haver responsabilidade pelo fato cometido em erro. Contudo, se as circunstncias no justificarem plenamente o erro ou, em outras palavras, justificarem-no parcialmente, torna-se evidente que o erro deriva de culpa (pargrafo 1) e poderia ter sido evitado com um comportamento mais cauteloso do sujeito. Havendo culpa do sujeito por no ter evitado o erro, quando lhe era possvel, este dever ser punido por crime culposo, desde que haja previso legal. Se o erro de tipo permissivo for invencvel, a excluso do dolo e da culpa faz que o fato seja considerado atpico. Dessa forma, apresenta-se uma peculiar situao em que, na ocorrncia de legtima defesa real, o tipo configura-se, mas a ilicitude no, e na legtima defesa putativa, o prprio tipo no se configura. Culpa imprpria. Se o erro no for plenamente escusvel, deriva de culpa e o sujeito poderia t-lo evitado. Nesses casos, a teoria limitada da culpabilidade impe a punio daquele que age em erro por crime culposo, se previsto em lei. A culpa que se verifica na avaliao dos pressupostos fticos de uma causa de justificao  denominada pela doutrina clssica de culpa imprpria. A referncia pretende ressaltar que a culpa verifica-se na avaliao da situao de fato que aos olhos de quem erra permite realizar a conduta justificada, e no sobre ser a conduta realizada conforme o tipo incriminador. Realmente, o elemento subjetivo do tipo penal incriminador no se confunde com o elemento subjetivo do tipo permissivo. Por isso,  perfeitamente possvel que o sujeito pratique dolosamente o fato descrito no tipo incriminador e incorra em erro culposamente, no que diz respeito aos pressupostos fticos da causa justificante. Considerando que a vontade de praticar a conduta tpica foi influenciada pela representao errnea da situao de fato, o erro de tipo permissivo impe caracterizar o fato como crime culposo, mesmo que, para tanto, tenha-se que reconhecer uma culpa imprpria para a caracterizao do tipo incriminador. Distino com o erro de proibio. Como adverte Roxin, o erro de tipo permissivo excludente do dolo distingue-se do erro de permisso, quer dizer, da suposio errnea de uma causa de justificao absolutamente inexistente.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Se o erro for plenamente escusvel, no haverá dolo nem culpa. Se as circunstâncias no justificarem plenamente o erro, haverá culpa e o sujeito deverá ser punido por crime culposo. Se o erro for invencível, o fato será considerado atípico. O erro de tipo permissivo exclui o dolo e distingue-se do erro de proibição.

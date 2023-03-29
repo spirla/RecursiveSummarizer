@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 5371/DF, relator Ministro Roberto Barroso, julgamento virtual finalizado em 25.2.2022 (sexta-feira), as 23:59 (INF 1045) Repercussao na esfera administrativa da nulidade de provas no processo penal - ARE 1316369/DF (Tema 1238 RG) ODS: 16 Tese fixada: Sao inadmissiveis, em processos administrativos de qualquer especie, provas consideradas ilici-tas pelo Poder Judiciario. Resumo: As provas declaradas ilicitas pelo Poder Judiciario nao podem ser utilizadas, valoradas ou apro-veitadas em processos administrativos de qualquer especie. A CF/88 preconiza, de modo expresso, a inadmissibilidade, no processo, de provas ob-tidas com violacao a normas constitucionais ou legais. Nesse sentido, nao e dado a nenhuma autoridade publica valer-se de provas ilicitas em prejuizo do cidadao, seja no ambito judicial, seja na esfera administrati-va, independentemente da natureza das pretensoes deduzidas pelas partes. Ademais, as provas declaradas nulas em processos judiciais nao podem ser valoradas e aproveitadas, em desfavor do cidadao, em qualquer ambito ou instancia decisoria. Nesse contexto, a compreensao consolidada do Tribunal e no sentido de que, para ser admitida em processos administrativos, a prova emprestada do processo penal deve ser produzida de forma legitima e regu-lar, com observancia das regras inerentes ao devido processo legal. Com base nesse entendimento, o Plenario, por unanimidade, reconheceu a existencia da repercussao geral da questao constitucional suscitada (Tema 1238 RG) e, no merito, por maioria, reafirmou a jurispruden-cia dominante sobre a materia para negar provimento ao recurso extraordinario.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inadmissível, em processos administrativos de qualquer espécie, a utilização, valoração ou aproveitamento de provas consideradas ilícitas pelo Poder Judiciário. 2. A Constituição Federal de 1988 preconiza, de modo expresso, a inadmissibilidade, no processo, de provas obtidas com violação a normas constitucionais ou legais. 3. Não é permitido a nenhuma autoridade pública valer-se de provas ilícitas em prejuízo do cidadão, seja no âmbito judicial, seja na esfera administrativa, independentemente da natureza das pretensões deduzidas pelas partes. 4. As provas declaradas nulas em processos judiciais não podem ser valoradas e aproveitadas, em desfavor do cidadão, em qualquer âmbito ou instância decisória. 5. Para ser admitida em processos administrativos, a prova emprestada do processo penal deve ser produzida de forma legítima e regular, com observância das regras inerentes ao devido processo legal.

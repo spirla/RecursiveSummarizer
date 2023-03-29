@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os Conselhos de Justia podem instalar-se e funcionar com a maioria de seus membros, sendo obrigatria a presena do juiz federal ou do juiz federal substituto, mas na sesso de julgamento  obrigatria a presena e o voto de todos os juzes (artigo 25 da LOJUM). 15.2.6. Instruo criminal. O artigo 418 do CPPM adota o sistema presidencialista, em que a inquirio  feita pelo juiz federal da JMU (artigo 30, VI, LOJMU) e pelo juiz de direito da JME. O juiz  o primeiro a perguntar e, em seguida, por intermdio do juiz togado, so feitas perguntas pelos demais membros do Conselho de Justia e pelas partes (se a pessoa a ser ouvida for testemunha, inicia a perguntar a parte que a arrolou). O juiz federal ou o juiz de direito tem o controle imediato das perguntas. A regra do caput do artigo 419 do CPPM dispe que No podero ser recusadas as perguntas das partes, salvo se ofensivas ou impertinentes ou sem relao com o fato descrito na denncia, ou importarem repetio de outra pergunta j respondida. So ofensivas as perguntas que atingem a honra da testemunha, do acusado ou do ofendido e impertinentes as que no tm relao com os fatos que esto sendo apurados no processo. O CPPM, ao estabelecer, por outro lado, no pargrafo nico do artigo 419 do CPPM a possibilidade de a parte requerer a consignao na ata da sesso das perguntas recusadas, busca limitar o arbtrio do juiz e confere  parte a possibilidade de alegar cerceamento ao seu direito de acusar ou de defender. 15.2.6.1. Declaraes do ofendido. A oitiva do ofendido obedece a forma prescrita nos artigos 311 a 313 do CPPM. Em que pese o CPPM expressar que o ofendido deve ser ouvido sempre que possvel, na verdade sua oitiva  necessria para o esclarecimento dos fatos. O dever de comparecimento do ofendido implica se, notificado para esse fim, e deixar de comparecer sem motivo justo, ser conduzido  presena da autoridade (artigo 311, pargrafo nico, CPPM). Na instruo criminal ao ofendido  perguntado sobre as circunstncias da infrao, quem seja ou presuma ser seu autor e as provas que possa indicar (artigo 311, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os Conselhos de Justia devem ter todos os seus membros presentes para o julgamento. O sistema presidencialista adotado pelo CPPM estabelece que o juiz federal ou o juiz de direito é o primeiro a fazer perguntas, seguido pelos demais membros do Conselho de Justia e pelas partes. O ofendido deve ser ouvido sempre que possível e, se não comparecer sem motivo justo, será conduzido à presença da autoridade. Durante a oitiva, o ofendido é perguntado sobre as circunstâncias da infração, quem seja ou presuma ser seu autor e as provas que possa indicar.

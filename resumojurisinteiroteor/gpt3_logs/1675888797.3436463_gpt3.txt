@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Quando ns chegamos ao local os transeuntes falaram que ele tinha sado do local. Ns fomos na direo que eles tinham falado para gente e ns encontramos com ele em uma oficina. Quando ns chegamos l ele j proferiu palavras de baixo calo ao Cabo Daniel e deu alguns empurres no peito do Sargento Jerry. Ns deslocamos at a casa dele aps determinao do Comando para recolher a arma de fogo da carga que ele tinha a posse. Ns deslocamos e chegando l ns conversamos com ele, pedimos a arma e ele ironizou falando que no tinha armamento algum e me chamou de louca. Ele entregou a chave para o irmo e realmente ele estava com a arma que tinha at o registro da carga. Perguntada se presenciou o desacato a militar, respondeu que, sim senhor. Quando ns o encontramos na oficina ele de imediato j mandou o Cabo Daniel tomar no cu, quando o Sargento Jerry chegou ele falou a mesma coisa e ainda deu um empurro no peito do sargento Jerry, ameaando ele, falando que ia matar os policiais e que ia prejudicar a carreira do Sargento Jerry. Perguntada se o crime de violncia a superior consistiu nesse empurro no sargento Jerry, respondeu que, sim senhor. Perguntada se presenciou a ameaa aos militares, respondeu que, sim. Perguntada se ele estava de folga ou apaisana e se aparentava estar embriagado, respondeu que, ele estava apaisana, de folga e aparentava sintomas de embriaguez, com hlito etlico, dificuldade na fala, dificuldade de permanecer em p. Perguntada se conhecia o acusado, respondeu que, eu tinha me apresentado a pouco tempo, ento, eu tinha pouco contato com ele. Perguntada se as ameaas ocorreram na oficina ou na viatura, respondeu que, ele falou diversas vezes, na oficina ele direcionou essas palavras de baixo calo, prximo a viatura ele ameaou os militares, pelo fato dele estar um pouco exaltado e aparentando ter ingerido bebida alcolica ele repetiu vrias vezes essas ameaas. [...] (evento 30, VDEO2 - autos de origem). Sargento PM Jerry Adriane Messias [...] Confirma o depoimento prestado anteriormente. Perguntado sobre os fatos, respondeu que, ns fomos acionados para atender uma ocorrncia de acidente de trnsito na avenida Bias fortes e esse acidente envolvia o 3 Sargento Robert e quando ns chegamos deparamos com alguns indivduos que falaram que o Sargento Robert havia ameaado com arma de fogo s que com a nossa chegada ao local ele no se fazia mais presente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Foi acionada uma ocorrência de acidente de trânsito envolvendo o 3º Sargento Robert. Quando os militares chegaram ao local, transeuntes informaram que o Sargento havia ameaçado com arma de fogo, porém, ele não se encontrava mais. Ao deslocarem-se para a casa do Sargento, o mesmo proferiu palavras de baixo calão ao Cabo Daniel e deu empurrões no peito do Sargento Jerry, além de ameaçar os militares. O Sargento Jerry confirmou o depoimento anteriormente prestado.

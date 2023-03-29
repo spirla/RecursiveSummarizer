@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...] Era um grupo de pessoas, no lembro o nome de todo o mundo, tava l o Neguinho, Ricardo [...] que ele vende gelo e estava enchendo os congeladores; Neguinho seria Jos Geraldo Gonalves, foi presidente do clube e hoje ele  diretor e joga bola com a gente; eu passei l e falaram que tinha tido confuso. [...] Ricardo Casagrande que estava dizendo. Ele falou assim: ha, mas o Teixeira apelou, dizem que o Kebito falou que fumava maconha com ele, e ele partiu pra cima, prendeu ele, o Ricardo contando l, agora eu no sei se ele presenciou ou ouviu falar. Isso era domingo de carnaval tenho certeza. Perguntado se ouviu da boca do Rossi alguma vez na vida, no necessariamente neste contexto de carnaval ele dizer alguma coisa do Cb Teixeira, respondeu que no. Perguntado se algum procurou o senhor e disse que ouviu da boca do Cb Rossi as palavras que a ele foram imputadas, respondeu que no, s ouvi isso l, e o que eu sei a respeito  que as pessoas estavam comentando isso l e que o Rossi me falou que estava sendo acusado. A defesa do apelante sustenta que o Cb Teixeira sabia que o comentrio de que ele fazia uso de drogas tinha nascido naquele entrevero com Kebito, no sbado de carnaval, e se espalhou como um rastilho de plvora no dia seguinte, domingo, no campo de futebol da cidade de Rio Casca. Toda a tropa daquela frao policial tomou conhecimento da confuso do Cb Teixeira com o Kebito. Em nenhum momento, o nome do Cb Rossi apareceu como divulgador desta notcia, mas tanto o IPM de Portaria n. 105.285/2017 e a SAD de Portaria n. 106.457/2017 responsabilizaram o Cb Rossi como o autor dos comentrios em desfavor do Cb Teixeira, como incurso no artigo 13, inciso XII, do CEDM (referir-se de modo depreciativo a outro militar, a autoridade e a ato da administrao pblica). Por isso ele foi punido com repreenso, perda de cinco pontos em seu conceito funcional e movimentado por convenincia da disciplina da cidade de Rio Casca, onde reside com sua famlia, para a cidade de Acaiaca, distante 80 km de Rio Casca. Em quaisquer procedimentos administrativos, as autoridades competentes ao proferirem as decises finais, exercem o seu poder discricionrio.  a prerrogativa concedida aos agentes pblicos de elegerem, entre vrias condutas possveis, a que traduz maior convenincia e oportunidade para o interesse pblico. No entanto, essas decises devem ser devidamente fundamentadas, ou seja, para que seja exarada uma soluo no procedimento, o responsvel deve analisar detidamente os elementos de prova e as convices produzidas nos autos, em respeito ao contraditrio e  ampla defesa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa do apelante sustentou que o Cb Teixeira sabia que o comentário de que ele fazia uso de drogas tinha nascido no entrevero com Kebito, no sábado de carnaval, e se espalhou como um rastilho de pólvora no dia seguinte. O nome do Cb Rossi não foi mencionado como divulgador desta notícia, mas o IPM e a SAD responsabilizaram o Cb Rossi como o autor dos comentários em desfavor do Cb Teixeira, punindo-o com repreensão, perda de cinco pontos em seu conceito funcional e movimentação para outra cidade. A decisão deve ser devidamente fundamentada, com análise detida dos elementos de prova e das convicções produzidas nos autos, em respeito ao contraditório e à ampla defesa.

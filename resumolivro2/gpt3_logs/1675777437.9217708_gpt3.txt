@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A Smula 59 do STJ No h conflito de competncia se j existe sentena com trnsito em julgado, proferida por um dos Juzos conflitantes. 8.7.2. Conflito de competncia entre a Justia Militar da Unio e a Justia Federal. Aos juzes federais compete processar e julgar, conforme o artigo 109, IV, da CF:
+os crimes polticos e as infraes penais praticadas em detrimento de bens, servios ou interesse da Unio ou de suas entidades autrquicas ou empresas pblicas, excludas as contravenes e ressalvada a competncia da Justia Militar e da Justia Eleitoral (g. n.). Os crimes polticos previstos na Lei de Segurana Nacional (Lei 7.170, de 14.12.1983) so da competncia da Justia Federal.  Justia Federal compete, ainda, julgar infraes praticadas em detrimento, de bens, servios ou interesses da Unio, ou de suas entidades autrquicas ou empresas pblicas, ressalvada a competncia da Justia Militar. Os bens so o patrimnio da Unio ou de suas entidades autrquicas ou empresas pblicas. Como exemplo, o Instituto Nacional de Seguro Social  autarquia federal e a Empresa de Correios e Telgrafos  empresa pblica, de modo que os crimes contra o INSS e a ECT so de competncia da Justia Federal. Pela Smula 147 do STJ:
+ Compete  Justia Federal processar e julgar os crimes praticados contra funcionrio pblico federal, quando relacionados com o exerccio da funo. A Justia Federal julga o civil que cometer crime doloso contra vida de servidor federal, que estava no exerccio da funo. No entanto, se o crime for praticado contra a vida de militar das FA, no exerccio de suas funes, o civil  julgado pela justia castrense. Deciso do STF (AgR RHC 123.594) neste sentido:
+(...) 2. Responde por crime militar o civil que pratica tentativa de homicdio contra militar quando este estiver em funo de natureza militar. (...). Nesta mesma linha decidiu o STM (Apelao 282-12.2014.7.01.0201):
+Responde criminalmente por homicdio, na modalidade tentada, o civil que se insurge contra a atuao da Marinha do Brasil, em atividade tpica de garantia da ordem pblica.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Smula 59 do STJ estabelece que não há conflito de competência se já existir uma sentença com trânsito em julgado proferida por um dos juízes conflitantes. A Justiça Federal tem competência para processar e julgar crimes políticos previstos na Lei de Segurança Nacional e infrações praticadas em detrimento de bens, serviços ou interesses da União, ressalvada a competência da Justiça Militar. O STF e o STM decidiram que o civil responde criminalmente por homicídio na modalidade tentada quando se insurge contra a atuação da Marinha do Brasil em atividade típica de garantia da ordem pública.

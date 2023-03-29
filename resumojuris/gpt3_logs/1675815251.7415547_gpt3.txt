@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RE 658.999/SC, relator Ministro Dias Toffoli, julgamento virtual finalizado em 16.12.2022 (sexta-feira), as 23:59 Nulidade do vinculo de servidor estadual com a Administracao Publica mineira e pagamento de ferias-premio - RE 1.400.775/MG (Tema 1.239 RG) ODS: 8 e 16 Tese fixada: Nao tem direito a indenizacao de ferias-premio o servidor estadual cujo vinculo com a Administracao Publica, decorrente da Lei Complementar mineira 100/2007, foi declarado nulo, por inobservancia dos principios constitucionais que regem o ingresso no servico publico. Resumo: A indenizacao a titulo de ferias-premio nao e devida aos servidores estaduais que tiveram seu vinculo com a Administracao Publica  firmado com fundamento na Lei Complementar 100/2007 do Estado de Minas Gerais  anulado em virtude do julgamento da ADI 4.976/MG pelo Plenario do STF. O direito ao pagamento de ferias-premio indenizadas nao pode ser reconhecido aos servidores que se tornaram titulares de cargos efetivos sem a previa aprovacao em concurso publico. Entendimento diverso contraria a consolidada jurisprudencia desta Corte, segundo a qual os unicos efeitos aplicaveis aos contratos eivados de nulidade, com burla ao concurso publico, consistem no recebimento, pelos agentes publicos assim contratados, do salario pelos dias trabalhados e na possi-bilidade de levantamento dos depositos efetuados no Fundo de Garantia por Tempo de Servico (FGTS). Com base nesse entendimento, o Plenario, por unanimidade, reconheceu a existencia da reper-cussao geral da questao constitucional suscitada (Tema 1.239 RG) e, no merito, tambem por unanimida-de, reafirmou a jurisprudencia dominante sobre a materia para dar provimento ao recurso extraordina-rio e julgar improcedentes os pedidos formulados na inicial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há direito a indenização de férias-prêmio para servidores estaduais cujo vínculo com a Administração Pública, decorrente da Lei Complementar mineira 100/2007, foi declarado nulo por inobservância dos princípios constitucionais que regem o ingresso no serviço público. 2. O direito ao pagamento de férias-prêmio indenizadas não pode ser reconhecido aos servidores que se tornaram titulares de cargos efetivos sem a previa aprovação em concurso público. 3. Os únicos efeitos aplicáveis aos contratos eivados de nulidade, com burla ao concurso público, consistem no recebimento, pelos agentes públicos assim contratados, do salário pelos dias trabalhados e na possibilidade de levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço (FGTS).

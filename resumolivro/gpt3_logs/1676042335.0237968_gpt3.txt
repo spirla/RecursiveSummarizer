@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Tempo do crime. O artigo 4 do Cdigo Penal assim estabelece: considera-se praticado o crime no momento da ao ou omisso, ainda que outro seja o momento do resultado. O estatuto repressivo consagrou a opo poltica indicada pela teoria da atividade. Segundo tal teoria, a referncia a ser utilizada para identificar a lei aplicvel e para verificar as condies de reprovao do sujeito ativo do crime  o momento em que este realiza a conduta proibida. O resultado a que se refere o dispositivo legal  o resultado naturalstico de violao material do bem jurdico, e no a violao da lei. Certamente, quando tem incio a conduta proibida, j ocorre a violao do comando normativo e o resultado jurdico se evidencia. O interesse por mencionar o resultado naturalstico se justifica porque, nos crimes cuja descrio tpica exige a produo de um resultado material,  frequente acontecer de o resultado naturalstico ocorrer muito tempo aps encerrada a conduta criminosa. Veja-se o exemplo do homicdio perpetrado com disparos de arma de fogo.  possvel que a vtima seja conduzida ao hospital e somente venha a morrer dias aps receber os disparos. Segundo a teoria da atividade adotada pelo Cdigo, considera-se que o crime foi praticado no momento de realizao dos disparos. A lei a ser aplicada ser a que estiver em vigor no dia em que os disparos ocorreram. Da mesma forma, a verificao da maioridade de quem realiza os disparos dever levar em considerao o mesmo dia. Entre a data em que o crime  praticado e a extino da responsabilidade penal, a legislao penal pode sofrer alteraes relevantes com a entrada em vigor de novas leis. A lei posterior pode trazer benefcios no existentes na lei anterior ou, ao contrrio, agravar a situao jurdica do sujeito da conduta proibida. A sucesso de leis no tempo constitui tema que merece ateno do aplicador do Direito, e importa perceber como a questo restou equacionada na ordem jurdica. 3.2.2. Retroatividade benfica. As leis s produzem efeitos em relao aos fatos ocorridos durante o perodo de sua vigncia -  o que reza o aforismo tempus regit actum -, e no se aplicam aos fatos ocorridos anteriormente  sua entrada em vigor. Por retroatividade da lei entende-se a situao jurdica em que uma lei venha a produzir efeitos em relao a fatos ocorridos anteriormente  sua entrada em vigor.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 4 do Código Penal estabelece que o crime é considerado praticado no momento da ação ou omissão, ainda que outro seja o momento do resultado. A lei posterior pode trazer benefícios ou agravar a situação já existente, sendo que a retroatividade da lei produz efeitos em relação aos fatos ocorridos durante o período de sua vigência.

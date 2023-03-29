@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Na controversia tratada, ainda na fase inquisitorial, o paciente teve a prisao preventiva decretada, por pratica descrita nos arts. 157,  3, II, c/c o art. 29, e 288, paragrafo unico, todos do CP. A impetracao do habeas corpus sustenta-se na ausencia de indicios de autoria e no fato de a audiencia de instrucao e julgamento ser desmarcada por tres vezes, por nao ter o Estado providenciado o transporte do reu, ora paciente, cujo pedido de videoconferencia foi indeferido. Nao cabe a pretensao de realizar o interrogatorio de forma virtual, sob pena de premiar a condicao de foragido do paciente, sendo inaplicavel ao caso o art. 220 do CPP. Como destacou o Tribunal de origem: Tambem nao e caso de aplicacao do artigo 220 do CPP, ja que o paciente nao se enquadra nas hipoteses de incidencia (enfermidade ou velhice). Alem disso, e evidente que o paciente furtar-se a aplicacao da lei penal ja que, desde a decretacao de sua prisao preventiva (junto com o recebimento da denuncia), nao foi mais localizado pelo Poder Publico, constando como procurado em consulta ao sistema VEC. Assim, nao e caso de aplicacao do artigo 220 do CPP, ainda que realizada uma interpretacao in bonam partem, sob pena de premiar a astucia do acusado em escapar da decisao que decretou sua prisao preventiva . (Informativo  Ed. Especial n. 4) CP, arts. 29, 157,  3, II, e 288, paragrafo unico CPP, art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não cabe a pretensão de realizar o interrogatório de forma virtual, sob pena de premiar a condição de foragido do paciente. 2. Não é caso de aplicação do artigo 220 do CPP, ainda que realizada uma interpretação in bonam partem, sob pena de premiar a astúcia do acusado em escapar da decisão que decretou sua prisão preventiva.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Em decisoes que autorizem a interceptacao das comunicacoes telefonicas de investigados, e invalida a utilizacao da tecnica da fundamentacao per relationem (por referencia) sem tecer nenhuma consideracao autonoma, ainda que sucintamente, justificando a indispensabilidade da autorizacao de inclusao ou de prorrogacao de terminais em diligencia de interceptacao telefonica. O STJ admite o emprego da tecnica da fundamentacao per relationem. Sem embargo, tem-se exigido, na jurisprudencia da Sexta Turma, que o juiz, ao reportar-se a fundamentacao e a argumentos alheios, ao menos os reproduza e os ratifique, eventualmente, com acrescimo de seus proprios motivos. No caso, as decisoes que autorizaram a prorrogacao da medida nao foram concretamente motivadas, haja vista que, mais uma vez, o Juiz de primeiro grau se limitou a autorizar a inclusao de outros terminais a prorrogacao das diligencias ja em vigor e a exclusao de outras linhas telefonicas, nos moldes requeridos pelo Parquet, sem registrar, sequer, os nomes dos representados adicionados e daqueles em relacao aos quais haveria continuidade das diligencias, nem sequer dizer a razao pela qual autorizava as medidas. Por conseguinte, os atos decisorios nao apresentaram motivos suficientes para justificar as medidas deferidas, pois seu nivel de abstracao permitiria a realizacao de diligencias semelhantes em qualquer outro pleito formulado (mesmo que nao guardasse nenhuma relacao com os fatos apurados na medida cautelar apreciada). A rigor, as decisoes que servirem para deferir medidas semelhantes em qualquer procedimento investigatorio sao insuficientes, portanto, para suprir os requisitos constitucionais e legais de fundamentacao da cautela. (Informativo n. 751) 1247 PROCESSO AgRg no HC 710.306-AM, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, por unanimidade, julgado em 27/09/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inválida a utilização da técnica da fundamentação per relationem sem tecer nenhuma consideração autônoma, ainda que sucintamente, justificando a indispensabilidade da autorização de inclusão ou de prorrogação de terminais em diligência de interceptação telefônica. 2. O STJ admite o emprego da técnica da fundamentação per relationem, exigindo, contudo, que o juiz, ao reportar-se a fundamentação e a argumentos alheios, ao menos os reproduza e os ratifique, eventualmente, com acrescimo de seus próprios motivos. 3. Decisões que autorizam a prorrogação da medida devem ser concretamente motivadas, devendo o juiz registrar, ao menos, os nomes dos representados adicionados e daqueles em relação aos quais haveria continuidade das diligências, bem como a razão pela qual autoriza as medidas. 4. Decisões que servirem para deferir medidas semelhantes em qualquer procedimento investigatório são insuficientes para suprir os requisitos constitucionais e legais de fundamentação da cautela.

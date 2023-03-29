@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, a Defensoria Publica da Uniao impetrou habeas corpus coletivo em favor de todas as pessoas presas em locais acima da sua capacidade, as quais sejam integrantes de grupos de risco para a Covid-19 e nao tenham praticado crimes com violencia ou grave ameaca. Com base nesse entendimento, a Segunda Turma referendou medida liminar, concedida, em parte, pelo relator, ministro Edson Fachin. HC 188820 MC-Ref/DF, relator Min. Edson Fachin, julgamento virtual finalizado em 24.2.2021 (INF 1006) Laicidade estatal e obrigatoriedade de manutencao de Biblias em escolas e bibliotecas publicas - ADI 5258/AM Resumo: A imposicao legal de manutencao de exemplares de Biblias em escolas e bibliotecas publicas estaduais configura contrariedade a laicidade estatal e a liberdade religiosa consagrada pela Constituicao da Republica de 88. Isso porque, ao determinar que escolas e bibliotecas publicas mantenham exemplares da Biblia em seus acervos, a norma estadual impugnada estimula e promove certos tipos de crencas e dogmas religiosos em detrimento de outros. Dessa forma, ofende os principios da laicidade estatal, da liberdade religiosa e da isonomia entre os cidadaos. Em materia confessional, portanto, compete ao Estado manter-se neutro, para preservar, em favor dos cidadaos, a integridade do direito fundamental a liberdade religiosa. Com base nesse entendimento, o Plenario julgou procedente pedido formulado em acao direta e declarou a inconstitucionalidade dos arts. 1, 2 e 4 da Lei Promulgada 74/2010 do estado do Amazonas. ADI 5258/AM, relatora Min. Carmen Lucia, julgamento virtual finalizado em 12.4.2021 (segunda-feira), as 23:59 (INF 1012) Pequena propriedade rural e impenhorabilidade - ARE 1038507/PR (Tema 961 RG) ODS 1; 10 e 11 Tese fixada: E impenhoravel a pequena propriedade rural familiar constituida de mais de 01 (um) terreno, desde que continuos e com area total inferior a 04 (quatro) modulos fiscais do municipio de localizacao .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É impenhorável a pequena propriedade rural familiar constituída de mais de um terreno, desde que contíguos e com área total inferior a quatro módulos fiscais do município de localização. 2. A imposição legal de manutenção de exemplares de Bíblias em escolas e bibliotecas públicas configura contrariedade à laicidade estatal e à liberdade religiosa consagrada pela Constituição da República de 1988. 3. É cabível a concessão de habeas corpus coletivo em favor de todas as pessoas presas em locais acima da sua capacidade, as quais sejam integrantes de grupos de risco para a Covid-19 e não tenham praticado crimes com violência ou grave ameaça.

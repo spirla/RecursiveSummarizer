@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+VOTOS DESEMBARGADOR JADIR SILVA, RELATOR Recebo o recurso de apelao por ser prprio e tempestivo e estarem presentes os requisitos e os pressupostos objetivos e subjetivos de admissibilidade. O 3Sargento PM Marcelo Ribeiro dos Santos foi denunciado como incurso nas sanes do art. 303, 2 (peculato-furto), do Cdigo Penal Militar, em razo do fato de que, supostamente, teria subtrado 10 (dez) munies pertencentes a um terceiro, valendo-se da facilidade que lhe proporcionava a qualidade de militar. Segundo consta na denncia, durante a interceptao telefnica deferida atravs da medida cautelar n. 0000693-67.2017.9.13.0001 (quebra de sigilo telefnico), constatou-se que, no dia 05/05/2017, s 19h36min, o referido militar efetuou uma ligao telefnica para o 3 Sgt PM Antnio Marcos da Silva, e, entre outros assuntos, informou estar na posse de dez munies cal 38, apreendidas por ele em uma abordagem policial. Nessa ligao, o apelado teria mencionado que teria solicitado ao Ten PM Ricardo da ROTAM Comando que continuasse em diligncia na tentativa de localizar a arma de fogo, mas o oficial no teria autorizado a continuar, por j haver encerrado o turno de servio. A temtica da conversa foi registrada no relatrio reservado confeccionado pela Corregedoria e juntado no evento 1, out. 7, fl. 346. Aps a tramitao regular do processo, a ao penal foi julgada improcedente, tendo o egrgio Conselho Permanente de Justia, por maioria de 4 votos a 1, absolvido o ru, 3o Sargento PM Marcelo Ribeiro dos Santos. Quanto ao fundamento, por maioria de 3 votos a 1, absolveu o militar nos termos do art. 439, letra "e, do Cdigo de Processo Penal Militar. Vencida a Meritssima Juza de Direito, que o absolvia com fundamento na letra "a do art. 439 do Cdigo de Processo Penal Militar. Vencido, no mrito, o Capito PM Andr Loures Ribeiro, que condenava o acusado pela prtica do delito de peculato-furto (art. 303, 2, do CPM), aplicando-lhe a pena mnima de 3 (trs) anos de recluso, a ser cumprida em regime aberto (evento 76 - ATA1). Agora, insurge-se o Ministrio Pblico contra a sentena absolutria. Em anlise do recurso interposto pelo ilustre membro do parquet, manifesto a minha concordncia com a brilhante e percuciente deciso do egrgio Conselho Permanente de Justia. Transcrevo trechos da r. sentena de primeira instncia, in verbis: [...] A apreciao isolada dos dizeres proferidos pelo acusado poderia levar  concluso de que houve a prtica de crime.  semelhana dos dizeres do Talmud aquele que confessa um crime  como o suicida que empunha a adaga contra o prprio corao.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O 3Sargento PM Marcelo Ribeiro dos Santos foi denunciado como incurso nas sanes do art. 303, 2 (peculato-furto), do Cdigo Penal Militar, em razo de supostamente ter subtraído 10 munições pertencentes a um terceiro. Após a tramitação regular do processo, a ação penal foi julgada improcedente, tendo o Conselho Permanente de Justia, por maioria de 4 votos a 1, absolvido o réu. O Ministério Público interpôs recurso, sendo o mesmo negado, mantendo-se a decisão absolutória.

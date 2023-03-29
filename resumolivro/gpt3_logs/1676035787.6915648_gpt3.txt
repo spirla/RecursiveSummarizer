@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nesse sentido, somente ser vlido o discurso cuja argumentao racional seja responsavelmente aceita, sem coao, por todos os participantes. O projeto emancipatrio de Habermas tambm pretendeu superar a ao estratgica, na qual uns indivduos coordenam aes para alcanar seus objetivos em relao aos demais, com a perspectiva da ao comunicativa intersubjetiva voltada para a obteno do entendimento. Numa sociedade que se pretende emancipatria devem predominar as aes comunicativas (democrticas) sobre as estratgicas (antidemocrticas). Nesses termos, o processo de construo normativo somente adquire legitimao no consenso estabelecido pela comunicao livre entre os sujeitos, muito embora seja necessrio que se enfrentem os problemas advindos da possibilidade do dissenso. Habermas, em Direito e democracia, reformula alguns pontos de sua teoria da ao comunicativa e rev suas anteriores reflexes sobre o papel do Direito na sociedade, bem como sua relao com a moral, para desenvolver uma teoria discursiva do Direito que  comprometida com identificao da fonte de legitimidade das normas jurdicas. Habermas percebeu que, a partir das sociedades modernas, o Direito perdeu sua vinculao com suas antigas fontes metafsicas e consuetudinrias, de modo que suas pretenses normativas s adquirem validade se forem consideradas legtimas. O problema da legitimidade das normas jurdicas somente se apresentou quando o ordenamento jurdico se desvinculou da religio e da tradio e tornou-se necessrio buscar uma fundamentao racional. Por isso Alexy desenvolveu sua teoria da argumentao jurdica como uma teoria do discurso racional que se restringe  justificao jurdica. A racionalidade prtica fundamentou o Direito na ordem moral, o que chegou a ser inicialmente aceito por Habermas. A melhor compreenso da racionalidade comunicativa, no entanto, posteriormente fez perceber a origem simultnea do Direito e da moral (cooriginrios) de modo a no haver dependncia entre as normas de Direito em relao  moral. A democracia  um conceito de contedo aberto e incompleto, que se realiza por meio de um processo, um projeto, sempre inacabado que deve ser construdo e reconstrudo procedimentalmente pela comunicao que se estabelece entre cidados livres e iguais. O Direito de um estado democrtico deve ser compreendido sob o mesmo prisma procedimental.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Habermas desenvolveu a Teoria da Ação Comunicativa para superar a ação estratégica, buscando a obtenção do entendimento entre indivíduos. Alexy desenvolveu a Teoria da Argumentação Jurdica como Teoria do Discurso Racional para fundamentar o Direito na ordem moral. Habermas percebeu que o Direito e a moral são cooriginários. A democracia é um projeto procedimental construído por meio da comunicação entre cidadãos livres e iguais, e o Direito de um estado democrático deve ser compreendido sob o mesmo prisma.

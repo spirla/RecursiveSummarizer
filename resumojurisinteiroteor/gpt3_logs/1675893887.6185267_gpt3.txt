@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+- Se a palavra do ofendido apresentou-se firme e coerente, aliada ao restante do conjunto de provas, sobretudo a testemunhal, tm-se elementos de convico suficientes para embasar a condenao imposta. ACRDO Vistos, relatados e discutidos os presentes autos, sendo apelante Fbio Ribeiro Filho e apelado o Ministrio Pblico do Estado de Minas Gerais, acordam os desembargadores da Segunda Cmara, por unanimidade, em negar provimento ao recurso. RELATRIO Os fatos narrados na denncia foram alvo de apurao em sede do Inqurito Policial Militar (IPM) de Portaria n. 106.872/2018/IPM/253 CIA PM InD (Evento 4, Peas iPm 3, Peas IPM 04 e Peas IPM6 - autos de 1a Instncia). A promotora de justia oficiante perante a 1a Auditoria de Justia Militar Estadual (AJME) ofereceu denncia em desfavor do Cabo PM Vincius Alves Moreira e do Soldado PM Fbio Ribeiro Filho, fazendo-o nos seguintes termos, in verbis: [...] Em 14 de abril de 2018, no interior do quartel da PMMG, no Municpio de So Geraldo da Piedade/MG, o denunciado Sd. PM Fbio Ribeiro Filho efetuou disparo de arma de fogo em lugar habitado ou em suas adjacncias. Em 14 de abril de 2018, na Av. Joo da Mata de Freitas, no Municpio de So Geraldo da Piedade/MG, o denunciado Cb. PM Vinicius Alves Moreira efetuou disparo de arma de fogo em via pblica ou em direo a ela. Na mesma data e local, os denunciados Sd. PM Fbio Ribeiro Filho e Cb. PM Vinicius Alves Moreira deterioraram coisa alheia. Tambm nas mesmas circunstncias de lugar e dia, o denunciado Sd. PM Fbio Ribeiro Filho recusou obedecer a ordem do superior sobre assunto ou matria de servio. Dentro do mesmo conjunto ftico, o denunciado Sd. PM Fbio Ribeiro Filho praticou violncia contra superior. Ainda no mesmo contexto, o denunciado Sd. PM Fbio Ribeiro Filho ofendeu a integridade corporal de outrem. Apurou-se que, em 14/04/2018, ao chegar para o trabalho no quartel da cidade de So Geraldo da Piedade/MG, as 16h, o denunciado Cd. PM Vinicius Alves Moreira adentrou no alojamento existente no imvel e notou a existncia de marcas de munio no cho e no ventilador, o qual foi danificado, estando o denunciado Sd.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A palavra do ofendido, aliada ao conjunto de provas, incluindo testemunhal, foi suficiente para embasar a condenação imposta aos denunciados por disparo de arma de fogo em lugar habitado ou em suas adjacências, deterioração de coisa alheia, recusa de obedecer a ordem do superior, violência contra superior e ofensa à integridade corporal de outrem.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE A mera alegacao generica de atitude suspeita e insuficiente para a licitude da busca pessoal. 1275 Exige-se, em termos de standard probatorio para busca pessoal ou veicular sem mandado judicial, a existencia de fundada suspeita (justa causa) - baseada em um juizo de probabilidade, descrita com a maior precisao possivel, aferida de modo objetivo e devidamente justificada pelos indicios e circunstancias do caso concreto - de que o individuo esteja na posse de drogas, armas ou de outros objetos ou papeis que constituam corpo de delito, evidenciando-se a urgencia de se executar a diligencia. Entretanto, a norma constante do art. 244 do CPP nao se limita a exigir que a suspeita seja fundada. E preciso, tambem, que esteja relacionada a posse de arma proibida ou de objetos ou papeis que constituam corpo de delito . Vale dizer, ha uma necessaria referibilidade da medida, vinculada a sua finalidade legal probatoria, a fim de que nao se converta em salvo-conduto para abordagens e revistas exploratorias (fishing expeditions), baseadas em suspeicao generica existente sobre individuos, atitudes ou situacoes, sem relacao especifica com a posse de arma proibida ou objeto (droga, por exemplo) que constitua corpo de delito de uma infracao penal. O art. 244 do CPP nao autoriza buscas pessoais praticadas como rotina ou praxe do policiamento ostensivo, com finalidade preventiva e motivacao exploratoria, mas apenas buscas pessoais com finalidade probatoria e motivacao correlata. Nao satisfazem a exigencia legal, por si sos, meras informacoes de fonte nao identificada (e.g. denuncias anonimas) ou intuicoes e impressoes subjetivas, intangiveis e nao demonstraveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocinio policial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário que a suspeita de posse de drogas, armas ou outros objetos ou papeis que constituam corpo de delito seja fundada, baseada em um juízo de probabilidade, descrita com a maior precisão possível, aferida de modo objetivo e devidamente justificada pelos indícios e circunstâncias do caso concreto para a licitude da busca pessoal. 2. A norma constante do art. 244 do CPP não se limita a exigir que a suspeita seja fundada, mas também que esteja relacionada à posse de arma proibida ou de objetos ou papeis que constituam corpo de delito. 3. O art. 244 do CPP não autoriza buscas pessoais praticadas como rotina ou praxe do policiamento ostensivo, com finalidade preventiva e motivação exploratória. 4. Não satisfazem a exigência legal, por si só, meras informações de fonte não identificada ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta.

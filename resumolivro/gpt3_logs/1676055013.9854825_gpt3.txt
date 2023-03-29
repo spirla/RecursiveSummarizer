@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O documento  um escrito que materializa uma declarao de vontade ou a narrativa de um fato juridicamente relevante, tenha ou no contedo econmico. A informao que se apresenta como contedo do documento deve ser relevante. Nos termos do artigo 232 do Cdigo de Processo Penal, consideram-se documentos quaisquer escritos, instrumentos ou papis, pblicos ou particulares. No entanto, a incriminao da divulgao de segredo somente tutela os segredos constantes em documentos particulares. Por documento particular deve-se entender o escrito que  elaborado e assinado diretamente pelo(s) interessado(s), sem a interveno de um oficial pblico. A cpia de um documento poder ser considerada documento, desde que esteja devidamente autenticada (pargrafo nico do artigo 232 do CPP). Cabe observar que a Lei 11.419/06 - que disps sobre a informatizao do processo judicial -, em seu artigo 11, reconheceu expressamente a existncia jurdica do documento eletrnico. A Lei 12.527/12, que regula o direito de acesso s informaes, por sua vez, no inciso II de seu artigo 4 definiu documento como sendo a unidade de registro de informaes, qualquer que seja o suporte ou formato. Cabe observar que o documento eletrnico no resulta da digitalizao, por meio de equipamento de scaner, de um documento constitudo em suporte fsico. O documento eletrnico  elaborado a partir de programas de computador que permitem sua assinatura e certificao por meio digital. De maneira mais tcnica, pode-se dizer que o documento eletrnico  uma sequencia preordenada de bits que representa uma ideia ou um fato e deve ser decodificada por meio de um ou mais programas de computador. A nova noo de documento  mais ampla do que a tradicional noo de documento que se restringe ao escrito em papel. O documento, em sua forma eletrnica, pode se apresentar por um escrito registrado em meio fsico (papel), mas tambm pode ser um escrito digitalizado, uma fotografia ou um filme. O documento, assim, pode se materializar eletronicamente em qualquer forma de representao do pensamento humano. Desta forma,  possvel a caracterizao do crime em exame por meio da divulgao do contedo de documento particular eletrnico, esteja este inserido em processo judicial eletrnico ou no. Correspondncia confidencial. O artigo 47 da Lei 6.538/78 define correspondncia como sendo toda comunicao de pessoa a pessoa, por meio de carta, atravs da via postal, ou por telegrama.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O documento um escrito que materializa uma declarao de vontade ou a narrativa de um fato juridicamente relevante. O Código de Processo Penal considera documentos quaisquer escritos, instrumentos ou papéis, públicos ou particulares. A Lei 11.419/06 reconheceu expressamente a existência jurídica do documento eletrônico e a Lei 12.527/12 define documento como unidade de registro de informações, qualquer que seja o suporte ou formato. O crime de divulgação de segredo pode ser caracterizado por meio da divulgação do conteúdo de documento particular eletrônico, seja ele inserido em processo judicial eletrônico ou não.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inviolabilidade de domicilio. Nao ocorrencia. DESTAQUE A abordagem policial em estabelecimento comercial, ainda que a diligencia tenha ocorrido quando nao havia mais clientes, e hipotese de local aberto ao publico, que nao recebe a protecao constitucional da inviolabilidade do domicilio. Nos termos do art. 5, inciso XI, da CF/88, a casa e asilo inviolavel do individuo, ninguem nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinacao judicial . Consoante decidido no RE 603.616/RO, pelo Supremo Tribunal Federal, a entrada forcada em domicilio sem mandado judicial e licita, mesmo em periodo noturno, quando amparada em fundadas razoes, devidamente justificadas a posteriori, que indiquem que, dentro da casa, ocorre situacao de flagrante delito, sob pena de responsabilidade disciplinar, civil, e penal do agente ou da autoridade e de nulidade dos atos praticados . Todavia, no caso, verifica-se que os policiais afirmaram que havia uma investigacao em andamento relativa a um roubo de carga, tendo sido veiculada denuncia anonima dando conta de que parte do carregamento subtraido estava nas dependencias da borracharia pertencente ao reu, diante do que procederam a diligencia local . Em razao de haver investigacoes em curso, relativa ao roubo de uma carga, os policiais diligenciaram no local indicado. Aguardaram ate nao mais ter clientes nas dependencias do estabelecimento, quando abordaram o acusado, que, de pronto, indicou o local em que estocada a res furtiva. Portanto, a abordagem policial foi realizada em um imovel no qual funcionava estabelecimento comercial, e, mesmo que a diligencia tenha ocorrido quando nao havia mais clientes, no horario em que o proprietario iria fechar a borracharia, a hipotese passa a ser de local aberto ao publico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A inviolabilidade do domicílio é prevista no art. 5, inciso XI, da CF/88, sendo que ninguém pode penetrar nele sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial. 2. A entrada forçada em domicílio sem mandado judicial é licita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que, dentro da casa, ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados. 3. A abordagem policial em estabelecimento comercial, ainda que a diligência tenha ocorrido quando não havia mais clientes, é hipótese de local aberto ao público, que não recebe a proteção constitucional da inviolabilidade do domicílio.

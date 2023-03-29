@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido, destaco o trecho do voto do Desembargador Fernando Galvao, exarado em face da apelacao junto ao Processo n. 0002004-67.2015.9.13.0000 - TJM-MG, que assim se manifestou:
+No que se refere a sancao disciplinar decorrente do Inquerito Policial Militar (...) o apelado afirmou que nao houve a reproducao das provas colhidas de modo inquisitorial e sem a sua participacao. Embora se reconheca que, durante as oitivas de testemunhas no IPM, nao houve a participacao do apelado, o IPM constitui procedimento administrativo de natureza diversa do que resultaram as sancoes disciplinares. No curso do PAD, as provas emprestadas do IPM foram inseridas como documentos (termos de declaracao) e, para se manifestar sobre eles, foi aberta vista ao apelado para apresentacao de sua defesa. Assim, competia ao apelado impugnar os documentos, tanto em sua forma quanto em relacao ao seu conteudo, demonstrando, inclusive, que eles foram produzidos de modo unilateral e que houve prejuizo a defesa. Desse modo, nao houve ilegalidade na sancao decorrente de procedimento administrativo que foi instruido com diversos documentos, dentre eles termos de depoimentos. Trago, por fim, a colacao, uma interessante saida apresentada pela CGU, que alem de confirmar a impossibilidade de conducao coercitiva da testemunha no processo administrativo, aduz a possibilidade de producao da prova em juizo, o que, destaco, se justifica apenas em relacao aquela testemunha imprescindivel, sem a qual nao ha como formar a conviccao nos autos do processo:
+O que deve ser feito quando a testemunha nao comparece para oitiva? Tendo sido a testemunha regularmente intimada, na hipotese de a mesma nao comparecer na data e horario aprazados, apos ter-se aguardado por no minimo trinta minutos, deve-se registrar o incidente em termo de nao-comparecimento. Partindo do pressuposto da coerncia, em que a realizacao da oitiva decorreu da consideracao de sua importncia para o processo, e de se recomendar que a comissao intime novamente a testemunha, desta feita ja fazendo constar do termo o destaque de que o depoimento e relevante para o interesse publico.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Desembargador Fernando Galvão destacou que, embora o apelado não tenha participado das oitivas do Inquerito Policial Militar, o procedimento administrativo que resultou nas sanções disciplinares foi instruído com diversos documentos, incluindo termos de depoimentos. A Controladoria Geral da União (CGU) confirmou a impossibilidade de condução coercitiva da testemunha no processo administrativo, mas recomendou a intimação da mesma, destacando que o depoimento é relevante para o interesse público.

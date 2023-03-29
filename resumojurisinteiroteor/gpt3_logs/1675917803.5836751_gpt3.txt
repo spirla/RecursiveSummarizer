@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O Estado de Minas Gerais foi condenado ao pagamento de honorrios sucumbenciais, nos termos dos incisos I a IV do  2,  3 e  8 do art. 85 do Cdigo de Processo Civil, no valor de R$ 700,00 (setecentos reais). O desembargador James Ferreira Santos substituiu o desembargador Fernando Armando Ribeiro, ausente justificadamente. RELATRIO Trata-se de apelao cvel interposta contra sentena que julgou improcedentes os pedidos do autor, ora apelante, de declarao de nulidade do ato administrativo disciplinar proferido na Comunicao Disciplinar n. 104.059/18-4BPM, que o puniu com a prestao de servio de 8 horas. O autor ajuizou a ao pretendendo fosse anulada a punio disciplinar aplicada por violao ao inciso III do art. 14 da Lei n. 14.310/2002, por ter, na data de 08/02/18, faltado ao seminrio realizado na Regio Integrada de Segurana Pblica (RISP). Aduziu o ora apelante em sua petio inicial que, na data dos fatos, sua filha apresentou manchas por todo o corpo e febre alta, razo pela qual teve que conduzi-la at um hospital e, logo aps, comunicou o fato aos seus superiores. Disse que agiu amparado por uma causa de justificao e, mesmo tendo o encarregado do procedimento administrativo e o Conselho de tica e Disciplina dos Militares da Unidade (CEDMU) opinado pelo reconhecimento do motivo de fora maior, o comandante discordou de tais opinies e remeteu o caso para a autoridade julgadora, que aplicou a sano ao ora apelante. Argumentou ainda o ora apelante que o comandante que aplicou a sano no possui formao mdica e, por isso, no poderia avaliar a inexistncia de urgncia no atendimento, tampouco mensurar o tempo necessrio para atendimento. Por fim, argumentou o ora apelante em sua petio inicial que a Resoluo n. 4.409, de 06 de julho de 2015, permite que o comandante conceda licena por motivo de doena em pessoa da famlia e que, entretanto, faltou sensibilidade ao comandante. Com tais argumentos, pretendeu o ora apelante fossem deferidos os benefcios da justia gratuita, fosse concedida tutela de urgncia para sobrestar os efeitos do procedimento administrativo e, ao final, fosse declarada a nulidade da punio disciplinar, com a devoluo dos pontos descreditados do conceito funcional em virtude do processo ora combatido, bem como fosse o requerido condenado ao pagamento de honorrios sucumbenciais, no inferiores ao valor de 20% sobre o valor total da condenao. O ento autor atribuiu, como valor da causa, a quantia de R$ 1.000,00 (mil reais). O magistrado de primeiro grau indeferiu o pedido de tutela de urgncia, bem como deferiu os benefcios da justia gratuita (Evento 10).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais foi condenado ao pagamento de honorários sucumbenciais, nos termos dos incisos I a IV do 2, 3 e 8 do art. 85 do Código de Processo Civil, no valor de R$ 700,00 (setecentos reais). A ação foi ajuizada pelo autor para anular a punição disciplinar aplicada por violação ao inciso III do art. 14 da Lei n. 14.310/2002, por ter, na data de 08/02/18, faltado ao seminário realizado na Região Integrada de Segurança Pública (RISP).

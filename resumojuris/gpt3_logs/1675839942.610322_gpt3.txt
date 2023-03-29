@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+105, I, c; Coordenadoria de Processos Migratorios do Ministerio da Justica, Portaria n. 1.118, de 26 de novembro de 2019; e Secretaria Nacional de Justica, Portaria n. 432, de 17 de junho de 2019. SUMULAS Sumula n. 510/STF. SEGUNDA SECAO Voltar ao Sumario. 691 PROCESSO EREsp 1.289.629-SP, Rel. Min. Luis Felipe Salomao, Segunda Secao, por unanimidade, julgado em 25/05/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO DO CONSUMIDOR, DIREITO INTERNACIONAL TEMA Transporte aereo internacional. Extravio de mercadoria. Falta de especificacao do valor. Indenizacao tarifada. Convencao de Montreal. Cabimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É cabível a indenização tarifada para o extravio de mercadoria em transporte aéreo internacional, mesmo que não haja especificação do valor. 2. A Convenção de Montreal é aplicável ao caso de extravio de mercadoria em transporte aéreo internacional.

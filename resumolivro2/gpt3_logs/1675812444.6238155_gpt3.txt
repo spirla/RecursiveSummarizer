@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+18.1.5.1.1. CabimentoPor cabimento h de se entender a previso legal da existncia do recurso para se recorrer da deciso. Cada deciso desafia um tipo de recurso. Exemplo:
+contra a deciso que rejeita a denncia  previsto o recurso em sentido estrito (artigo 516, d, CPPM), porm, no h previso de recurso em sentido estrito ou apelao contra deciso que recebe a denncia. Examina-se o cabimento tambm pela via do recurso adequado. 18.1.5.1.2. TempestividadeA tempestividade implica interposio do recurso dentro do prazo legal. Interposto fora do prazo, o recurso no  conhecido. Na verificao da tempestividade temos o incio da contagem do prazo (dies a quo) e o seu trmino (dies ad aquem). Para cada recurso  previsto determinado prazo para recorrer. O prazo de interposio dos recursos em sentido estrito  de trs dias (artigo 518, CPPM) e o da apelao de cinco dias (artigo 529, CPPM), contados da data da intimao da sentena ou da sua leitura em pblica audincia. O prazo dos embargos  de cinco dias contados da intimao do acrdo (artigo 540, CPPM). A demora na apresentao das razes dos recursos de apelao, recurso em sentido estrito e agravo em execuo considera-se mera irregularidade e, por via de consequncia, no impede o conhecimento pelos tribunais. .
+18.1.5.1.3.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Cabimento é a previsão legal para recorrer de uma decisão, enquanto a tempestividade é a interposição do recurso dentro do prazo legal. O prazo para recurso em sentido estrito é de três dias, para apelação é de cinco dias e para embargos é de cinco dias, contados da data da intimação da sentença ou da leitura em pública audiência. A demora na apresentação das razões dos recursos é considerada mera irregularidade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: Ofende os principios da livre iniciativa e da livre concorrencia compelir empresa contratada para prestacao de servicos terceirizados a pagar remuneracao em padroes identicos aos da empresa contratante (tomadora dos servicos), por serem titulares de possibilidades economicas distintas. No exame da ADPF 324, o Supremo Tribunal Federal reconheceu a constitucionalidade da terceirizacao de atividade-fim e de atividade-meio. A terceirizacao das atividades tem amparo nos principios constitucionais da livre iniciativa e da livre concorrencia, que asseguram aos agentes economicos a liberdade de decidir como estruturarao seus negocios. Esses principios vedam que se imponha a empresa contratada as decisoes empresariais da tomadora do servico sobre quanto pagar a seus trabalhadores, e vice-versa. E importante ter em conta que o tratamento isonomico deve ser aferido por empregador, pois tanto a tomadora de servicos quanto a empresa terceirizada sao titulares de possibilidades economicas distintas e devem estruturar sua producao com autonomia. A exigencia de que os valores de remuneracao sejam os mesmos entre empregados da tomadora de servico e empregados da contratada significa, por via transversa, retirar do agente economico a opcao pela terceirizacao para fins de reducao de custos ou, ainda, incentiva-lo a nao ter qualquer trabalhador permanente desempenhando a mesma atividade. Logo, esse entendimento esvazia o instituto da terceirizacao ou amplia desnecessariamente seu uso. Na especie, trata-se de recurso extraordinario interposto por instituicao financeira sob a forma de empresa publica. No acordao recorrido, o Tribunal Superior do Trabalho assentou a possibilidade de serem reconhecidos a trabalhador que presta servico terceirizado os mesmos direitos dos empregados publicos que integram quadro permanente da tomadora do servico, como se bancario fosse.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A terceirização de atividades tem amparo nos princípios constitucionais da livre iniciativa e da livre concorrência. 2. É vedado impor à empresa contratada as decisões empresariais da tomadora do serviço sobre quanto pagar a seus trabalhadores. 3. O tratamento isonômico deve ser aferido por empregador, pois tanto a tomadora de serviços quanto a empresa terceirizada são titulares de possibilidades econômicas distintas. 4. É proibido exigir que os valores de remuneração sejam os mesmos entre empregados da tomadora de serviço e empregados da contratada. 5. É possível reconhecer a trabalhadores que prestam serviços terceirizados os mesmos direitos dos empregados públicos que integram quadro permanente da tomadora do serviço.

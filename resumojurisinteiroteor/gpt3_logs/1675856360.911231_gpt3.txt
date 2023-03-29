@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+03/05), encontra-se preclusa por j ter sido devidamente reconhecida, passando os autos a tramitar perante a Justia Militar, nota-se que, no presente momento, as nicas matrias de interesse so as que se relacionam  tese de violao da coisa julgada, levantada como nica irresignao pelo apelante Wagner (evento 1 - RAZAPELA53) e como preliminar pelo apelante Alex (evento 1 - REC55 - fls. 06), bem como  tese de mrito do apelo do ru Alex (evento 1 - REC55 - fls. 07/14). No que diz respeito  segunda preliminar, arguida pelo apelante Alex (evento 1 - REC55 - fls. 06) e tratada em sede de mrito pelo 7 apelante Wagner (evento 1 - RAZAPELA53), consistente na coisa julgada em virtude de eles j terem respondido pelos mesmos fatos em processo que tramitou integralmente na Justia Militar, revela-se absolutamente impertinente. Isso porque, muito embora ambos tenham sido condenados, nos autos n. 04831-53, como incursos nas sanes dos artigos 222,  1, 223 e 232, este ltimo combinado com o artigo 237, incisos I e II, todos do CPM (evento 1 - DEFESA PRVIA5 - fls. 04/72), mostra-se plenamente possvel que a prtica de um mesmo fato gere diferentes consequncias jurdicas, no havendo dvida de que a consumao dos crimes de ameaa, constrangimento ilegal e estupro no impede que se vislumbre, no mesmo contexto, a configurao do tipo penal de tortura, como ocorreu no caso em anlise. Anteriormente  entrada em vigor da Lei n. 13.491/2017, na Justia Militar foram tratados apenas dos crimes ameaa, constrangimento ilegal e estupro, no inseridos na acusao objeto deste processo que versa sobre o delito de tortura, embora o estupro tenha sido mencionado na descrio da denncia a ttulo, to somente, ilustrativo e de contextualizao dos fatos. Os atos de tortura descritos na pea exordial constante destes autos (evento 1 - DENUNCIA2), que encontram tipificao penal no artigo 1, inciso I, alnea a, e inciso II, da Lei n. 9.455/97, no foram objeto de apreciao na poca em que os atos de ameaa, constrangimento ilegal e estupro chegaram ao conhecimento da Justia Militar, o que ocorreu simplesmente porque a Justia Castrense no detinha competncia para julgar crime de tortura. Em resumo, a condenao pelos crimes de ameaa, constrangimento ilegal e estupro, proferida anteriormente nos autos n. 04831-53, no faz coisa julgada de modo a impedir o processamento, concomitante ou posterior, do delito de tortura praticado na mesma ocorrncia policial, justamente porque, como os fatos se deram no ms de maio de 2012, quela poca a Justia Castrense somente era competente para processar e julgar os crimes militares cometidos por policiais, enquanto a Justia Comum ficava incumbida de apreciar os crimes comuns cometidos por militares.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A condenação por crimes de ameaça, constrangimento ilegal e estupro, proferida anteriormente nos autos n. 04831-53, não impede o processamento, concomitante ou posterior, do delito de tortura praticado na mesma ocorrência policial, pois a Justia Castrense somente era competente para processar e julgar os crimes militares cometidos por policiais, enquanto a Justia Comum ficava incumbida de apreciar os crimes comuns cometidos por militares.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+3. Hiptese em que inexiste risco de prejuzo irreparvel ao acionante, que bem poder articular toda a matria de defesa no momento processual oportuno, nas instncias prprias. 4. Agravo regimental a que se nega provimento. (STF - RHC 164275 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/08/2019, PROCESSO ELETRNICO DJe-199 DIVULG 12-09-2019 PUBLIC 13-09-2019) Ementa: AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL MILITAR. CRIME DE FURTO QUALIFICADO. ARTIGO 240,  5 E 6, I, IV, DO CDIGO PENAL MILITAR. ALEGADA AUSNCIA DE JUSTA CAUSA. PRINCPIO DA INSIGNIFICNCIA. INAPLICABILIDADE. REVOLVIMENTO DO CONJUNTO FTICO-PROBATRIO. INADMISSIBILIDADE NA VIA ELEITA. INEXISTNCIA DE CONSTRANGIMENTO ILEGAL. IMPOSSIBILIDADE DE UTILIZAO DO HABEAS CORPUS COMO SUCEDNEO DE RECURSO OU REVISO CRIMINAL. AGRAVO REGIMENTAL DESPROVIDO. [...] 2. O trancamento da ao penal por meio de habeas corpus  medida excepcional, somente admissvel quando transparecer dos autos, de forma inequvoca, a inocncia do acusado, a atipicidade da conduta ou a extino da punibilidade.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Agravo regimental ao habeas corpus negado, pois não há risco de prejuízo irreparável ao acionante, que poderá articular toda a matéria de defesa na instância própria. Trancamento de ação penal por meio de habeas corpus é medida excepcional, somente admissível quando comprovada de forma inequívoca a inocência do acusado, a atipicidade da conduta ou a extinção da punibilidade.

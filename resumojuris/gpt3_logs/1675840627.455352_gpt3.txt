@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Medidas protetivas de urgencia. Art. 22, inc. I, II e III, da Lei n. 11.340/06. Natureza de tutela provisoria cautelar. Carater eminentemente penal. Citacao do requerido para oferecimento de contestacao. Descabimento. Efeitos da revelia em caso de omissao. Inaplicabilidade. DESTAQUE As medidas protetivas de urgencia previstas nos incisos I, II e III do art. 22 da Lei Maria da Penha tem natureza de cautelares penais, nao cabendo falar em citacao do requerido para apresentar contestacao, tampouco a possibilidade de decretacao da revelia, nos moldes da lei processual civil.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As medidas protetivas de urgencia previstas nos incisos I, II e III do art. 22 da Lei Maria da Penha têm natureza de cautelares penais. 2. Não é cabível a citacao do requerido para apresentar contestação. 3. Não é possível a decretação da revelia nos moldes da lei processual civil.

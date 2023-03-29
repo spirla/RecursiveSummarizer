@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A observncia da pertinncia que se deve estabelecer entre o crime e a pena, nos casos em exame, impede a ocorrncia de qualquer discusso acerca da possibilidade da retroatividade benfica (ou irretroatividade in pejus) da nova pena de interdio de direitos. A nova pena entra em vigor no direito positivo na mesma data que os crimes para os quais pode ser aplicada. No h, portanto, que se falar em retroatividade. Vale observar, nesse sentido, que se o condenado se inscrever em concurso, avaliao ou exame publico posteriormente  prtica do crime, mas antes da condenao, ser possvel aplicar a pena em exame. No exemplo, a previso do crime e da pena so anteriores  prtica da conduta proibida e da inscrio no concurso, avaliao ou exame (artigo 1 do CP). 10.2.6. Limitao de fim de semana. Conforme o artigo 48 do Cdigo Penal, a limitao de fim de semana consiste na obrigao de permanecer, aos sbados e domingos, por 5 (cinco) horas dirias, em casa de albergado ou outro estabelecimento adequado. A limitao de fim de semana  a sano que desenvolve com maior nfase o aspecto educativo da represso penal. A compreenso do que seja estabelecimento adequado para o cumprimento da limitao pode ser alcanada pelas informaes complementares oferecidas pelo pargrafo nico do referido dispositivo legal. Esclarece o pargrafo nico do artigo 48 do CP que, durante a permanncia podero ser ministrados ao condenado cursos e palestras ou atribudas atividades educativas. Dessa forma, pode-se concluir que estabelecimento adequado  aquele que possa oferecer ao condenado as condies necessrias para o desenvolvimento das atividades educativas. Segundo os artigos 93 e 94 da LEP, a limitao de fim de semana deve ser cumprida em casa do albergado, que dever situar-se em centro urbano, separado dos demais estabelecimentos, e caracterizar-se pela ausncia de obstculos fsicos contra a fuga. O juiz da execuo, segundo o artigo 148 da LEP, poder, em qualquer fase da execuo, motivadamente, alterar a forma de cumprimento da pena de limitao de fim de semana, ajustando-a s condies pessoais do condenado e s caractersticas do estabelecimento, da entidade ou do programa comunitrio ou estatal. O desenvolvimento das atividades educativas no deve ser entendido como mera faculdade, mas sim como obrigao do Estado. Como a limitao de final de semana no possui natureza de privao de liberdade, a aplicao dessa pena somente se justifica na medida em que o condenado desenvolva atividades construtivas.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A nova pena de interdio de direitos entra em vigor no direito positivo na mesma data que os crimes para os quais pode ser aplicada, sem retroatividade. A limitação de fim de semana consiste na obrigação de permanecer, aos sábados e domingos, por 5 (cinco) horas dirias, em casa de albergado ou outro estabelecimento adequado, com atividades educativas ministradas ao condenado. O juiz da execução pode alterar a forma de cumprimento da pena, ajustando-a às condições pessoais do condenado e às características do estabelecimento.

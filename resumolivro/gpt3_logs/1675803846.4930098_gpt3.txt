@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ADMISSIBILIDADE. RESPOSTA AFIRMATIVA A QUESTAO DE ORDEM. INTELIGNCIA DO ART. 5, INC. XII, DA CF, E DO ART. 1 DA LEI FEDERAL N. 9.296/96. PRECEDENTE. VOTO VENCIDO. Dados obtidos em interceptacao de comunicacoes telefnicas e em escutas ambientais, judicialmente autorizadas para producao de prova em investigacao criminal ou em instrucao de processo penal, podem ser usados em procedimento administrativo disciplinar, contra a mesma ou as mesmas pessoas em relacao as quais foram colhidos, ou contra outros servidores cujos supostos ilicitos teriam despontado a colheita dessa prova. (STF: Inq 2424 QO/RJ - Seg. Quest. Ord. em inquerito, Re. Min.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interceptação de comunicações telefônicas e escutas ambientais autorizadas judicialmente para produção de prova em investigação criminal ou instrução de processo penal podem ser usadas em procedimento administrativo disciplinar contra as mesmas pessoas ou outros servidores cujos supostos ilícitos teriam sido revelados. (STF: Inq 2424 QO/RJ - Seg. Quest. Ord. em inquerito, Re. Min.)

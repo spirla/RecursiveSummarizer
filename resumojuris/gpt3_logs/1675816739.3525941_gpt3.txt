@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Embora constitucionalmente protegido, o sigilo de dados bancarios e fiscais pode ser objeto de con-formacao legislativa devidamente justificada e ceder a consecucao de fins publicos, com previsao de hipoteses de transferencia no interior da Administracao Publica. Nesse contexto, a previsao regimental do CNJ encontra amparo na logica da probidade patrimonial dos agentes publicos e a legitimidade da requisicao por decisao singular do Corregedor, e nao do Plenario, encontra justificativa na funcao constitucional por ele exercida, de fiscalizacao da integridade funcional do Poder Judiciario, em especial a idoneidade da magistratura nacional, que, por exercer a jurisdicao  poder indispensavel ao Estado democratico de direito , lhe e exigida estrita observancia dos principios da Adminis-tracao Publica e dos deveres funcionais respectivos. Contudo, e preciso assegurar a existencia de garantias ao contribuinte, de modo que nao ha espaco pa-ra devassa ou varredura, buscas generalizadas e indiscriminadas na vida das pessoas, com o proposito de en-contrar alguma irregularidade. Com base nesses entendimentos, o Plenario, por unanimidade, conheceu em parte da acao e, na parte conhecida, julgou parcialmente procedente o pedido para conferir interpretacao conforme a Constituicao ao dispositivo impugnado. ADI 4709/DF, relatora Ministra Rosa Weber, julgamento virtual finalizado em 27.5.2022 (sexta-feira), as 23:59 (INF 1056) Compartilhamento de dados no ambito da Administracao Publica federal - ADI 6649/DF e ADPF 695/DF ODS: 16 e 17 Resumo: E legitimo, desde que observados alguns parametros, o compartilhamento de dados pessoais en-tre orgaos e entidades da Administracao Publica federal, sem qualquer prejuizo da irrestrita observancia dos principios gerais e mecanismos de protecao elencados na Lei Geral de Protecao de Dados Pessoais (Lei 13.709/2018) e dos direitos constitucionais a privacidade e protecao de dados.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O sigilo de dados bancários e fiscais pode ser objeto de conformação legislativa devidamente justificada e ceder a consecução de fins públicos. 2. A previsão regimental do CNJ encontra amparo na lógica da probidade patrimonial dos agentes públicos. 3. A legitimidade da requisição por decisão singular do Corregedor encontra justificativa na função constitucional por ele exercida. 4. É necessário assegurar a existência de garantias ao contribuinte, de modo que não haja espaço para devassa ou varredura, buscas generalizadas e indiscriminadas na vida das pessoas. 5. É legítimo, desde que observados alguns parâmetros, o compartilhamento de dados pessoais entre órgãos e entidades da Administração Pública federal, sem qualquer prejuízo da irrestrita observância dos princípios gerais e mecanismos de proteção elencados na Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018) e dos direitos constitucionais a privacidade e proteção de dados.

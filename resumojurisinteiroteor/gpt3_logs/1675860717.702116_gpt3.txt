@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+5, INCISOS XLVI, LIV e LV, DA CONSTITUIO FEDERAL. AUTORIA, MATERIALIDADE E CULPABILIDADE COMPROVADAS. RECURSOS NO PROVIDOS. MANUTENO DA SENTENA. UNANIMIDADE. As excludentes requeridas pela Defesa no decorrer do processo devem ser por ela comprovadas, nos termos do que estabelece o art. 296 do Cdigo de Processo Penal Militar, segundo o qual: (...) O nus da prova compete a quem alegar o fato (...). Evidenciada a manifesta ilegalidade da suposta ordem recebida, resta obstaculizada a incidncia do instituto jurdico da obedincia hierrquica. No incide o erro de direito quando constatado que o agente conhecia a ilicitude de sua conduta. O Princpio da Consuno no se aplica quando os crimes atribudos ao agente tutelam bens jurdicos de naturezas diversas. Precedente do Supremo Tribunal Federal. O crime de furto de uso reclama a rpida, voluntria e integral restituio da coisa. No satisfeitos esses requisitos, torna-se invivel a desclassificao da conduta do agente para o referido delito. Tendo a conduta criminosa sido cometida em coautoria delitiva, a semelhana de fundamentao no estabelecimento da pena-base no afronta o Postulado Constitucional da Individualizao da Pena, previsto no artigo 5, inciso XLVI, da Constituio Federal. Meras referncias elogiosas no se revelam suficientes para a incidncia da circunstncia atenuante do meritrio comportamento anterior do agente, a qual reclama a realizao de condutas excepcionais para a sua aplicao. Precedentes desta Corte Castrense... - g.n. (Superior Tribunal Militar - Apelao n 7000372-70.2019.7.00.0000 - Rel. Min. Carlos Vuyk de Aquino, julg. em 12/12/2019, pub.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O nus da prova compete a quem alegar o fato, sendo evidenciada a manifesta ilegalidade da suposta ordem recebida. O crime de furto de uso reclama a rpida, voluntria e integral restituio da coisa. A semelhana de fundamentao no estabelecimento da pena-base no afronta o Postulado Constitucional da Individualizao da Pena. Meras referncias elogiosas no se revelam suficientes para a incidncia da circunstncia atenuante do meritrio comportamento anterior do agente.

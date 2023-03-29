@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A necessidade de interpretar as leis em conformidade com os valores e normas constitucionais consta de texto expresso de Lei (artigo 28, pargrafo nico, da Lei 9.869/99), cabendo ao Supremo Tribunal Federal exercer o controle jurisdicional concentrado de tal conformidade. Vale observar que a interpretao conforme  Constituio  admissvel apenas se no configurar violncia contra a expresso literal do texto e no alterar o seu significado normativo, com mudana radical da concepo formulada originalmente pelo legislador. O Supremo Tribunal Federal deixou assente que a interpretao conforme  Constituio no deve ser vista como um simples princpio de interpretao, mas sim como uma modalidade de deciso do controle de normas, equiparvel a uma declarao de inconstitucionalidade sem reduo de texto. A doutrina nacional j consolidou o entendimento segundo o qual no ordenamento jurdico h a supremacia da Constituio, os princpios constitucionais, implcitos e explcitos, so condicionantes da interpretao de todas as suas normas, a legislao infraconstitucional deve ser interpretada em conformidade com a Constituio, em especial, com os princpios da razoabilidade, proporcionalidade e efetividade. A Constituio brasileira ainda fixou, tambm de maneira expressa, o compromisso do ordenamento jurdico com o objetivo moral de realizar Justia, o que revela a sua pretenso de correo (Alexy). No inciso I de seu artigo 3, a carta constitucional determinou que constitui objetivo fundamental da Repblica Federativa do Brasil construir uma sociedade livre, justa e solidria. A Constituio no estabeleceu nenhuma definio para a Justia. Uma definio perfeita de Justia nunca foi formulada e talvez seja mesmo impossvel faz-lo. A definio de um conceito de Justia absoluta (universal), por meio de um mtodo racional-cientfico, parece ser mesmo uma tarefa impossvel. Com razo, Kelsen afirmou que a justia absoluta  um ideal irracional, posto que a razo humana somente consegue compreender valores relativos. Mas, em termos relativos,  possvel conceber a Justia como expresso de uma moralidade poltica (Rawls) e, no caso brasileiro, a Justia poltica se compromete radicalmente com as premissas do Estado Constitucional e Democrtico de Direito. O Direito que se compromete expressamente em realizar Justia, como bem percebeu Dworkin,  uma manifestao concreta da moralidade poltica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O controle jurisdicional concentrado de conformidade com os valores e normas constitucionais é exercido pelo Supremo Tribunal Federal, que deixou assente que a interpretação conforme à Constituição não deve ser vista como um princípio de interpretação, mas sim como uma modalidade de decisão. A Constituição brasileira determinou o compromisso do ordenamento jurídico com o objetivo moral de realizar Justiça, que se compromete radicalmente com as premissas do Estado Constitucional e Democrático de Direito.

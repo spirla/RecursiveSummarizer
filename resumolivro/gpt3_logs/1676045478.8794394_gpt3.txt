@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O juzo de reprovao jurdica no se confunde com reprovao moral.  certo que a ordem jurdica possui pontos de coincidncia com a moral, mas desta se distingue por estabelecer padres obrigatrios de conduta a serem observados por todos os indivduos. Culpabilidade  conceito jurdico-penal estritamente vinculado ao ordenamento jurdico vigente, pois, no Estado Democrtico de Direito, no se pode restringir a liberdade individual sem expressa autorizao legal. Dessa forma, a teoria geral do crime deve ser deduzida a partir da ordem jurdica, sendo que cada Estado acolhe os posicionamentos tericos considerados convenientes pela poltica criminal atuante. O conceito formal de culpabilidade decorre dos elementos que o ordenamento jurdico exige para a reprovao de quem realiza o crime. O Cdigo Penal brasileiro no determina o conceito de culpabilidade, mas se refere ao juzo de reprovao da culpabilidade em vrios momentos e estabelece, ainda que de maneira dispersa, critrios para sua excluso ou graduao. J em sentido material, a culpabilidade considera as razes pelas quais se reprova o indivduo, de modo a justificar a atuao repressiva do Estado. O juzo de reprovao pessoal no se pode realizar pelo simples contraste entre o fato naturalstico e as disposies normativas, que caracteriza formalmente a culpabilidade, mas encontra justificao na utilidade social da punio. A reprovao deve possuir razo de ser vinculada  atuao do Direito Penal na realidade social, e a concepo material da culpabilidade pe em evidncia a legitimidade da punio no caso concreto. O contedo material da culpabilidade identifica o denominador comum de todos os critrios necessrios para a reprovao, em especial para a mensurao de sua intensidade. Constitui o objeto para a valorao jurdica que considera a possibilidade de reprovao de quem realiza o injusto. Maurach observou que a importncia da distino entre a concepo formal e material do crime deve-se ao fato de que cumprem funes absolutamente diferentes. A concepo formal descreve a extenso do mbito de atuao do Direito Penal, sendo imprescindvel para a funo de garantia da lei penal. A concepo material, ao contrrio, resulta da conscincia social sobre aquilo que pode ser proibido sob ameaa de pena, de modo que constitui relevante instrumento de poltica criminal.  o conceito material do crime que estabelece vinculao entre a dogmtica, a poltica criminal e a criminologia.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juzo de reprovao jurdica difere da reprovao moral, pois a ordem jurdica estabelece padres obrigatórios de conduta. O conceito de culpabilidade é vinculado ao ordenamento jurdico vigente e o Código Penal brasileiro não determina o conceito de culpabilidade, mas se refere ao juzo de reprovao da culpabilidade. A reprovao deve ter razão de ser vinculada à atuação do Direito Penal na realidade social. A concepção formal e material do crime têm funções diferentes, sendo a concepção material relevante para a política criminal.

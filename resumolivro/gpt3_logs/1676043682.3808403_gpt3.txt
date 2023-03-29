@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Para o primeiro caso, tem-se o exemplo do homicdio culposo, previsto no artigo 121, pargrafo 3, do Cdigo Penal. Para o segundo, o exemplo do incndio culposo, previsto no artigo 250, pargrafo 2, do mesmo diploma legal. Excepcionalmente, pode o legislador conceber um tipo culposo que no descreva a realizao de um resultado naturalstico.  o que acontece com o tipo previsto no pargrafo nico do artigo 67 da Lei 9.605/98, que probe a conduta culposa de conceder o funcionrio pblico licena, autorizao ou permisso em desacordo com as normas ambientais, para as atividades, obras ou servios cuja realizao depende de ato autorizativo do Poder Pblico. Tendo em vista a referncia somente ao resultado naturalstico, os tipos culposos so denominados de tipos abertos. A insuficincia da descrio legal para a conduta proibida torna necessrio que o juiz complete o sentido da proibio com base no critrio do cuidado objetivamente requerido no mbito das relaes sociais. Constatada a produo do resultado naturalstico proibido, cabe ao juiz avaliar se, no caso concreto, houve, por parte de quem realizou a conduta, a inobservncia do dever de cuidado que lhe era exigvel. Dever objetivo de cuidado. O dever de cuidado  elemento objetivo normativo dos tipos culposos e, para a determinao de seu contedo, no interessa o cuidado que o sujeito tomou, tampouco que poderia ter tomado.  necessrio que o juiz considere qual era o cuidado objetivamente devido no contexto das relaes sociais em que o fato ocorreu. A doutrina reconhece que no  o caso de exigir do sujeito um cuidado excessivo para com o bem jurdico, mas sim o que seria devido por um homem razovel e prudente nas mesmas circunstncias em que se encontrava o sujeito. Se no houver cuidado que possa ser socialmente exigido do sujeito para proteger o bem jurdico, no haver relao de causalidade entre a conduta e o resultado naturalstico e, consequentemente, no haver tipicidade. Na identificao do cuidado objetivo aplicvel ao caso concreto, o juiz, inicialmente, deve considerar todas as repercusses da conduta que so objetivamente previsveis, segundo um juzo de razoabilidade. O sujeito deve ter capacidade para perceber os desdobramentos da conduta que realiza. O critrio do razovel indica at que ponto se pode considerar previsveis ao sujeito os desdobramentos de sua conduta. A razoabilidade deve, portanto, ser o norte que orientar a identificao do cuidado que se pode exigir do sujeito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os tipos culposos são denominados de tipos abertos, pois a descrição legal para a conduta proibida é insuficiente, sendo necessário o preenchimento do sentido da proibição com base no critério do cuidado objetivamente requerido nas relações sociais. O dever de cuidado é elemento objetivo normativo dos tipos culposos, sendo necessário que o juiz considere qual era o cuidado objetivamente devido no contexto das relações sociais em que o fato ocorreu.

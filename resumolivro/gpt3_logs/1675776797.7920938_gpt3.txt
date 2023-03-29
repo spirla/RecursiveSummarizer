@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Artigo 32 - A reforma disciplinar compulsoria consiste em uma medida excepcional, de convenincia da administracao, que culmina no afastamento do militar, de oficio, do servico ativo da Corporacao, pelo reiterado cometimento de faltas ou pela sua gravidade, quando contar pelo menos quinze anos de efetivo servico. Paragrafo unico - Nao podera ser reformado disciplinarmente o militar que:
+- estiver indiciado em inquerito ou submetido a processo por crime contra o patrimnio publico ou particular;
+- tiver sido condenado a pena privativa de liberdade superior a dois anos, transitada em julgado, na Justica Comum ou Militar, ou estiver cumprindo pena;
+- cometer ato que afete a honra pessoal, a etica militar ou o decoro da classe, nos termos do inciso II do artigo 64, assim reconhecido em decisao de Processo Administrativo-Disciplinar. Considerando que a sancao de reforma disciplinar compulsoria implica na exclusao do militar do servico ativo, decorrente de sua transferncia para a inatividade, ela somente podera decorrer de um processo demissionario, no caso, o PAD, ja que o caput exige que o militar acusado tenha, no minimo, quinze anos de efetivo servico, e a unica autoridade militar competente para aplica-la, originariamente, sera o Comandante-Geral da IME, conforme diccao do artigo 74, paragrafo 1, do CEDM. Ressalta-se, ainda, que a vedacao imposta pelo inciso III do paragrafo unico deste artigo acarreta, por consequncia, na possibilidade da imposicao da sancao em tela somente ao militar submetido a PAD por depreciacao de conceito, ou seja, fundado exclusivamente no artigo 64, I, do CEDM. Ja as vedacoes constantes dos incisos I e II do paragrafo unico deste artigo se apresentam como os criterios objetivos estabelecidos pelo legislador, de modo a balizar os limites da discricionariedade do Comandante-Geral, quando decidir pela aplicacao da presente sancao. Agora, a imposicao da presente sancao disciplinar, em detrimento da sancao de demissao, ainda que preenchidos os criterios objetivos acima mencionados, deve ser norteada pela convenincia da administracao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A reforma disciplinar compulsoria é uma medida excepcional, aplicada pela administração, que resulta no afastamento do militar do serviço ativo da Corporação, quando contar pelo menos 15 anos de efetivo serviço. Esta sancão não pode ser aplicada a militares indiciados em inquérito ou processo por crime, condenados a pena privativa de liberdade superior a 2 anos ou que cometam ato que afete a honra pessoal, a ética militar ou o decoro da classe. A imposição desta sancão deve ser norteada pela conveniência da administração.

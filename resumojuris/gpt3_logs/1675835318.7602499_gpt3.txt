@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+3 da Lei n. 9.469/1997, que condiciona a concordancia do Advogado-Geral da Uniao e dirigentes maximos das empresas publicas federais com pedido de desistencia de acao a expressa renuncia ao direito em que se funda a acao, nao se aplica na execucao de titulo judicial. Cuida-se de recurso especial contra acordao que compreendeu que - para se acolher o requerimento de desistencia da execucao de titulo judicial formulado contra Universidade Federal por exequente - deveria esta renunciar ao proprio direito sobre o qual se funda a acao, a teor do normativo constante do art. 3 da Lei n. 9.469/1997. Inicialmente, consigna-se que o principio da disponibilidade da execucao encontra-se disposto no caput do art. 775 do CPC, sendo certo que a hipotese contida no inciso II de seu paragrafo unico - no que postula a concordancia do executado/embargante -, nao se refere a desistencia do processo de execucao, mas a extincao da impugnacao ou dos embargos atrelados a respectiva execucao, quando versarem sobre questoes nao processuais. 176 Nesse contexto, os arts. 775 do CPC e 3 da Lei n. 9.469/1997 nao autorizam a adocao de entendimento que exija a concordancia do executado a desistencia solicitada pelo exequente. Ademais, considerando-se que na execucao nao se discute o direito material da parte exequente, pois ja reconhecido em decisao judicial transitada em julgado, mostra-se incompativel com tal realidade exigir que, para desistir da acao de execucao, deva o exequente renunciar tambem ao direito material anteriormente validado em seu favor. Por outro vertice, o art. 3 da Lei n. 9.469/1997, ao fazer remissao as autoridades elencadas no caput do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O princípio da disponibilidade da execução encontra-se disposto no caput do art. 775 do CPC. 2. O art. 3 da Lei n. 9.469/1997 não autoriza a adoção de entendimento que exija a concordância do executado a desistência solicitada pelo exequente. 3. É incompatível com a realidade exigir que, para desistir da ação de execução, o exequente renuncie também ao direito material anteriormente validado em seu favor.

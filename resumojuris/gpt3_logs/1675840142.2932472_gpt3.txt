@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Teori Zavascki, Tribunal Pleno, DJe de 12/05/2016; e Inq 3.997 Rel. Min. Teori Zavascki, Tribunal Pleno, DJe de 26/09/2016). A jurisprudencia [do STF] (Inq 2.606, Rel. Min. Luiz Fux, Tribunal Pleno, DJe de 02/12/2014), exige, especificamente, para sua incidencia, uma imposicao hierarquica (Inq 2.191, Rel. Min. Carlos Britto, Tribunal Pleno, DJe de 08/05/2009), que nao se acha narrada nos autos, o que inviabiliza (reitera-se: em juizo de subsuncao teorica: de aptidao de os fatos descritos - se comprovados - virem a se subsumir nos tipos imputados) seu acatamento imputativo. (STF, Inq 3980, Rel. Min. Edson Fachin, Segunda Turma, julgado em 06/03/2018, DJe-113 08/06/2018). 706 Em suma, [e] incabivel a causa de aumento do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A jurisprudência do STF exige, especificamente, para sua incidência, uma imposição hierarquica. 2. Não se acha narrada nos autos a imposição hierarquica, o que inviabiliza seu acatamento imputativo. 3. É incabível a causa de aumento do art. 706.

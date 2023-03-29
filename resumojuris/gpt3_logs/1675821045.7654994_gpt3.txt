@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: E formalmente inconstitucional norma estadual que atribui ao contabilista a responsabilidade solidaria, quanto ao pagamento de impostos e de penalidades pecuniarias, no caso de suas acoes ou omissoes concorrerem para a pratica de infracao a legislacao tributaria. Isso porque lei estadual, que amplie as hipoteses de responsabilidade de terceiros por infracoes, invade a competencia do legislador complementar federal para estabelecer normas gerais em materia tributaria, conforme disposto no art. 146, III, b, da CF/88 (CF). Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado na acao direta, para declarar a inconstitucionalidade dos arts. 45, XII-A, XIII e  2, da Lei 11.651/1991 do Estado de Goias, e 36, XII-A e XIII, do Decreto 4.852/1997 do mesmo ente federativo. ADI 6284/GO, relator Min. Roberto Barroso, julgamento virtual finalizado em 14.9.2021 (terca-feira), as 23:59 (INF 1029) Telecomunicacoes: manutencao de cadastro especial de assinantes e competencia legislativa concorrente - ADI 5962/DF Resumo: Normas estaduais que disponham sobre obrigacoes destinadas as empresas de telecomunicacoes, relativamente a oferta de produtos e servicos, incluem-se na competencia concorrente dos estados para legislarem sobre direitos do consumidor. A Lei 4.896/2006 do estado do Rio de Janeiro, na redacao dada pelas Leis estaduais 7.853/2018 e 7.885/2018, nao criou obrigacoes nem direitos relacionados a execucao contratual da concessao de servicos de telecomunicacoes. Buscou, apenas, ampliar mecanismos de tutela da dignidade dos usuarios  destinatarios finais , na diccao do artigo 2 do Codigo de Defesa do Consumidor (CDC)  a prever cadastro de usuarios contrarios ao recebimento de ofertas de produtos ou servicos. Tem-se, dessa forma, manifestacao do exercicio da competencia concorrente dos estados para legislar sobre direitos do consumidor.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente inconstitucional norma estadual que atribui ao contabilista a responsabilidade solidária, quanto ao pagamento de impostos e de penalidades pecuniárias, no caso de suas ações ou omissões concorrerem para a prática de infração à legislação tributária. 2. Lei estadual que amplie as hipóteses de responsabilidade de terceiros por infrações invade a competência do legislador complementar federal para estabelecer normas gerais em matéria tributária, conforme disposto no art. 146, III, b, da CF/88. 3. Normas estaduais que disponham sobre obrigações destinadas às empresas de telecomunicações, relativamente à oferta de produtos e serviços, incluem-se na competência concorrente dos estados para legislarem sobre direitos do consumidor. 4. Lei 4.896/2006 do estado do Rio de Janeiro, na redação dada pelas Leis estaduais 7.853/2018 e 7.885/2018, não criou obrigações nem direitos relacionados à execução contratual da concessão de serviços de telecomunicações. 5. Manifestação do exercício da competência concorrente dos estados para legislar sobre direitos do consumidor.

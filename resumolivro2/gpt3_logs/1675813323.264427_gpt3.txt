@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Impetra-se habeas corpus para questionar a competncia do juzo, com fundamento de que houve ofensa ao princpio do juiz natural ou ao devido processo legal, conforme o texto constitucional  ningum ser processado nem sentenciado seno pela autoridade competente  (art. 5, LIII) e  ningum ser privado da liberdade ou de seus bens sem o devido processo legal  (art. 5, LIV). Neste prisma, prev o art. 468, alnea d , do CPPM , que poder ser concedido habeas corpus  quando for incompetente o juiz que proferiu a condenao . O STF (RHC 86.081/RO) aceita o habeas corpus como instrumento idneo para eleger o foro competente para julgamento da causa. Como exemplo, a Suprema Corte (HC 102.830/DF) firmou competncia da Justia Estadual para julgar trfico ilcito de drogas, uma vez no provada a transnacionalidade necessria para atrair a competncia da Justia Federal; tambm a competncia da Justia Federal, e no da JMU, para julgar falsificao de habilitao naval (HC 90.451/SP). Surge, tambm, a situao em que  reconhecida a incompetncia do juiz que decretou a priso preventiva. A rigor, a decretao da priso preventiva por juiz incompetente constitui abuso de poder e ilegalidade porque o cerceamento da liberdade foi ordenado  por quem no tinha competncia  (art. 467, alnea a, CPPM ), porm, enquanto no reconhecida a incompetncia do juzo so vlidos os atos praticados at ento, devendo ser mantida a segregao cautelar. Precedente do STF 49 firmou que o reconhecimento da incompetncia da autoridade judicial que proferiu o decreto de priso preventiva no implica, por si s, automtico restabelecimento da liberdade, se posteriormente o juiz competente conclui pela idoneidade dos fundamentos declinados e pela efetiva necessidade da constrio processual:  I. Priso preventiva: alegao de incompetncia do juiz: superao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O habeas corpus é um instrumento adequado para determinar a competência do juízo, pois a Constituição prevê que ninguém pode ser processado ou sentenciado por uma autoridade incompetente. O STF já reconheceu a competência da Justiça Estadual para julgar tráfico ilícito de drogas e da Justiça Federal para julgar falsificação de habilitação naval. No entanto, mesmo que seja reconhecida a incompetência do juiz que decretou a prisão preventiva, os atos praticados até então são válidos, desde que posteriormente o juiz competente conclua pela necessidade da constrição processual.

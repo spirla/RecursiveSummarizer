@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com o novo sistema das penas substitutivas, implementado pela Lei 9.714/98, o instituto da suspenso condicional da pena perdeu a sua anterior importncia, sendo que, hoje, no  mais possvel a sua aplicao. De qualquer forma, sendo deferido ao condenado o sursis, no  possvel satisfazer a pretenso executria. O instituto suspende a exequibilidade do ttulo judicial mediante o cumprimento, pelo condenado, das condies estabelecidas pelo magistrado. Expirado o perodo de prova sem revogao, restar extinta a responsabilidade. No entanto, se durante o perodo de prova ocorrer a revogao do benefcio, o ttulo judicial passa a ser exequvel e a pretenso executria poder ser satisfeita. Sendo possvel satisfazer a pretenso executria no dia em que transitar em julgado a deciso que revoga o benefcio, novamente ter lugar a contagem do prazo prescricional. Em princpio, esse prazo  definido pela pena aplicada na condenao, posto que ainda no teve incio o seu cumprimento. No caso do sursis simples, que importa cumprimento de pena restritiva de direitos no primeiro ano do perodo de prova, havendo verdadeira substituio, dever ocorrer a detrao da pena j cumprida. A concesso do sursis  causa suspensiva da prescrio, embora no expressamente mencionada no artigo 116 do CP, e, quando da revogao do benefcio, a contagem dever considerar o perodo eventualmente antes transcorrido. O livramento condicional, por sua vez,  forma de cumprimento de pena. Mesmo com o cumprimento da pena em liberdade, considera-se que a pretenso executria esteja sendo satisfeita, por isso, no se pode falar em contagem do prazo prescricional. No entanto, se durante o perodo em que o condenado estiver cumprindo sua pena em liberdade ocorrer a revogao do benefcio, ele dever voltar a cumprir a pena privativa de liberdade no estabelecimento prisional. Segundo o artigo 113 do CP, a pretenso executria passar a exigir satisfao, pelo tempo que restar de pena a ser cumprida. O prazo prescricional ter incio e estar relacionado com o tempo de pena que resta a ser cumprido. Para saber quanto tempo de pena restar cumprir e, consequentemente, qual o prazo prescricional, deve-se analisar quais sero os efeitos da revogao do benefcio. Consoante o artigo 141 da LEP, se a revogao for motivada por infrao penal anterior  vigncia do livramento, computar-se- como tempo de cumprimento da pena o perodo de prova (...).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.714/98 implementou penas substitutivas, como o sursis e o livramento condicional, que suspendem a exequibilidade do título judicial. Se o benefício for revogado, a pretenção executória pode ser satisfeita e o prazo prescricional terá incio relacionado ao tempo de pena restante.

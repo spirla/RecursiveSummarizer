@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Essa interpretao de que h duas partes, e no quatro, no inciso XII do artigo 5 da CF foi feita em julgado do STF (Pet. 577/DF). Pois, se  dominante que a expresso salvo no ltimo caso diga respeito tambm s comunicaes de dados, cujo sigilo pode ser afastado por determinao judicial, foroso distinguir quais dados tm a tutela constitucional. Dados podem ser armazenados em suporte material diverso dos discos de computadores (por exemplo, uma agenda ou caderno). Os dados em si, ou merecem proteo por dizerem respeito  intimidade ou vida privada (por exemplo, relao de nomes e datas de aniversrios de amigos), e, nesse caso, esto tutelados pelo inciso X do artigo 5 da CR, ou so dados que no se referem  esfera privada do indivduo (por exemplo, lista de quantos gols fez um determinado jogador). Ao mais, o inciso XII da liberdade de comunicaes entre os indivduos, por diversos meios, e no, diretamente da proteo da vida privada. O tema foi objeto de estudo de Trcio Sampaio Ferraz:
+Se algum elabora para si um cadastro sobre certas pessoas, com informaes marcadas por avaliaes negativas, e o torna pblico, poder estar cometendo difamao, mas no quebra sigilo de dados. Se estes dados, armazenados eletronicamente, so transmitidos, privadamente, a um parceiro, em relaes mercadolgicas, para defesa do mercado, tambm no est havendo quebra de sigilo. Mas, se algum entra nesta transmisso como um terceiro que nada tem a ver com a relao comunicativa, ou por ato prprio ou porque uma das partes lhe cede o acesso indevidamente, estar violado o sigilo de dados. A distino  decisiva:
+o objeto protegido no direito  inviolabilidade do sigilo no so os dados em si, mas a sua comunicao restringida (liberdade de negao). A troca de informaes (comunicao) privativa  que no pode ser violada por sujeito estranho  comunicao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF (Pet. 577/DF) interpretou que o inciso XII do artigo 5 da CF se refere às comunicações de dados cujo sigilo pode ser afastado por determinação judicial. Dados armazenados em suportes materiais diferentes de discos de computadores podem ser protegidos pela intimidade ou vida privada (inciso X do artigo 5 da CF) ou não. A liberdade de comunicação entre indivíduos é o objeto protegido, e não o sigilo dos dados em si. A troca de informações é privativa e não pode ser violada por terceiros.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na primeira hiptese, o representante do Ministrio Pblico promove o arquivamento do inqurito e o juiz o indefere, mas no remete os autos ao procurador-geral, conforme preconiza a parte final do artigo 397 do CPPM. Na segunda hiptese, a deciso indefere o pedido do MPM de devoluo do inqurito  autoridade administrativa para diligncias que considera imprescindveis ao oferecimento da denncia (artigo 26, I, CPPM). Absolvio de ru no caso do artigo 48 do Cdigo Penal Militar (alnea c). O artigo 48 do CPM considera no ser imputvel quem, no momento da ao ou da omisso, no possui a capacidade de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento, em virtude de doena mental, de desenvolvimento mental incompleto ou retardado. As medidas de segurana so sanes penais e, como tais, s podem ser impostas mediante o devido processo legal, observado o contraditrio e ampla defesa. A sentena do Conselho de Justia ou do juiz togado deve desafiar apelao, e no recurso em sentido estrito, por ser mais abrangente. No receber a denncia no todo ou em parte, ou seu aditamento (alnea d). As hipteses de no recebimento da denncia e de seu aditamento constam do artigo 78 do CPPM.69 Sob a rubrica rejeio da denncia, o artigo 78 do CPPM dispe a denncia no ser recebida pelo juiz. O CPPM no distingue rejeio de no recebimento da denncia e assim  o entendimento majoritrio da doutrina. A rejeio da denncia pode ser total ou parcial e, nas duas hipteses, cabe recurso em sentido estrito. Tambm  recorrvel a deciso que no receber o aditamento da denncia. Nas duas categorias de aditamento, prprio e imprprio, cabe recurso em sentido estrito. A Smula 709 do STF estabelece os efeitos da deciso de segundo grau ao enunciar que, Salvo quando nula a deciso de primeiro grau, o acrdo que prov o recurso contra a rejeio da denncia vale, desde logo, pelo recebimento. O acrdo, portanto, interrompe a prescrio (artigo 125, pargrafo 5, I, CPM). Concluir pela incompetncia da Justia Militar, do auditor [juiz togado] ou do Conselho de Justia (alnea e).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público pode pedir o arquivamento de um inquérito, mas o juiz pode indeferi-lo. O artigo 48 do Código Penal Militar considera não ser imputável quem, no momento da ação ou da omissão, não possui a capacidade de entender o caráter ilícito do fato. A sentença do Conselho de Justia ou do juiz togado deve desafiar apelação, e não recurso em sentido estrito. A denncia não será recebida pelo juiz, e cabe recurso em sentido estrito. O acórdão interrompe a prescrição. Concluir pela incompetência da Justiça Militar, do auditor ou do Conselho de Justiça.

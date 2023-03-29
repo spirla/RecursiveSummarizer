@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A residncia  local onde a pessoa mora, enquanto domiclio, segundo a definio do Cdigo Civil,  o lugar onde a pessoa estabelece a sua residncia com nimo definitivo (artigo 70) ou se tiver diversas residncias, onde, alternadamente, viva (artigo 71), como tambm o lugar onde exerce profisso (artigo 72), mas se exercit-la em lugares diversos, cada um deles constituir domiclio (artigo 72, pargrafo nico). Por fim, se no tiver residncia habitual, o foro  do lugar onde for encontrada. No caso de corrus que tenham domiclios e residncias diferentes resolve-se o impasse pela preveno. Por se tratar de competncia relativa, nos casos de exclusiva ao privada, o querelante poder preferir o foro de domiclio ou da residncia do ru, ainda quando conhecido o lugar da infrao (CPP, artigo 73). 8.5.3. Competncia pela preveno. Preveno, que vem do latim prae-venire, designa chegar antes. Torna-se prevento o juzo, cujo juiz atuou previamente no processo. A competncia firma-se pela preveno sempre que concorrendo dois ou mais juzes igualmente competentes ou com competncia cumulativa, um deles tiver antecedido aos outros na prtica de algum ato do processo ou de medida a este relativa, ainda que anterior ao oferecimento da denncia (artigo 94, CPPM). Decises de natureza cautelar so exemplos de ato do processo ou de medida relativa ao processo que tornam o juzo prevento, a saber, priso preventiva, busca e apreenso ou autorizao para interceptao telefnica e a apreciao de um pedido de habeas corpus. No artigo 95, alneas a, b, c e d do CPPM temos os casos em que a competncia se firma pela preveno. Na primeira hiptese, quando incerto o lugar da infrao, por ter sido praticado na divisa de duas ou mais jurisdies (alnea a). Neste caso, por ser incerto o lugar da infrao no  possvel fixar a competncia pela regra geral do artigo 85, I, a, CPPM, ento, a competncia firma-se pela preveno.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A residência é o lugar onde a pessoa estabelece a sua residência com intenção definitiva ou onde exerce profissão. Se não tiver residência habitual, o foro é do lugar onde for encontrada. Se houver domicílio e residência diferentes, a competência é firmada pela prevenção. Quando o lugar da infração é incerto, a competência é firmada pela prevenção.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+166v, excluindo da imputao penal a prtica do delito previsto no artigo 187 do CPM, por ausncia de condio de procedibilidade, requerendo o recebimento da denncia, apenas quanto  prtica do delito capitulado no artigo 311 do CPM, posto que, segundo manifestao ministerial de fls, 169v, a conduta consistente na utilizao de documento pelo prprio autor do falso constitui fato posterior punvel. A denncia foi recebida em 31/01/2013, elo magistrado subscritor destas informaes, sendo determinada a citao do paciente e o prosseguimento da instruo processual. Em 08/11/2013, foi realizada a sesso de julgamento sob a presidncia do, ento juiz de direito substituto, Andr de Mouro Motta, tendo o Conselho de Justia, por unanimidade de votos, condenado o paciente pela prtica do delito previsto no art. 311, do Cdigo Penal Militar, por quatro vezes. O paciente foi condenado  pena de 03 anos, substituda por duas penas restritivas de direito, nos termos do art. 44, 2 do Cdigo Penal consistentes na prestao de servio para uma entidade de assistncia social e o fornecimento de 04 cestas bsicas. Em 24/01/2014, foi realizada a audincia de leitura de sentena. Em 31/01/2014, ocorreu o trnsito em julgado da sentena para o Ministrio Pblico e em 19/05/2014 para a defesa. Em 23/05/2014, o ento juiz de direito substituto, Andr de Mouro Motta, deprecou a execuo da pena para a Comarca de Rio Piracicaba/MG. Em 22/10/2015, foram distribudos os autos de execuo penal n. 0001321-61.2014.9.13.0001, sendo declinada a competncia em 28/10/2015, nos termos da smula n. 192, do STJ tendo em vista que o paciente ostentava a condio de ex-PM. Em parecer, a douta procuradora de justia oficiante nesta Corte castrense, Dra. Elba Rondino, manifestou-se nos seguintes termos, in verbis: [...] Pois bem, a questo se revela singela, tendo em vista que os impetrantes pretendem, de maneira totalmente indevida, a declarao da extino da punibilidade simplesmente por acreditarem que se operou a prescrio da pretenso executria em razo de no ser o paciente reincidente, nem imprescritvel o tipo penal a ele imputado, bem como por ter cumprido o requisito temporal decorrente da condenao fixada em trs anos, com sentena prolatada no dia 13/12/2013 e transitada em julgado em "24/01/2014 (evento 1 - INIC1 0 fls. 12). Contudo, a anlise da questo prescricional deve ser realizada pelo juzo da Comarca de Rio Piracicaba-MG, para onde foi deprecada a execuo penal do paciente (evento 1 - ANEXO21 - fls. 18), considerando que, alm de ele ter perdido a qualidade de militar, conforme consignado nas informaes prestadas pela autoridade apontada como coatora (evento 15 - fls. 02), inexiste notcia de retorno do processo de execuo para a Justia Militar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Denncia foi recebida em 31/01/2013, sendo determinada a citao do paciente e o prosseguimento da instruo processual. O Conselho de Justia condenou o paciente pela prtica do delito previsto no art. 311, do Cdigo Penal Militar, por quatro vezes, com pena de 03 anos, substituda por duas penas restritivas de direito. Em 22/10/2015, foram distribudos os autos de execuo penal, sendo declinada a competncia em 28/10/2015. A anlise da questo prescricional deve ser realizada pelo juzo da Comarca de Rio Piracicaba-MG, para onde foi deprecada a execuo penal do paciente.

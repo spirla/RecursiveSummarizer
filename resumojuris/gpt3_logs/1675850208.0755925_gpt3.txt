@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+As expressoes ofensivas, desrespeitosas e pejorativas do eminente revisor do Tribunal de origem, e Relator para o acordao, na sessao de julgamento do recurso de apelacao, contra a honra o acusado que estava sendo julgado, ainda que nao tenham sido registradas em seu voto escrito, senao em manifestacao oral, mas induvidosas como fato processual documentado, constituem causa de nulidade absoluta, haja vista que ofendem a garantia constitucional da imparcialidade, que deve, como componente do devido processo legal, ser observada em todo e qualquer julgamento em um sistema acusatorio. (Informativo n. 734) PROCESSO AgRg no HC 712.258-SP, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, por unanimidade, julgado em 29/03/2022, DJe 01/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Trafico de drogas. Prisao Preventiva. Fundamentacao concreta. Grande quantidade de drogas. Mae de filho menor. Prisao domiciliar. Cabimento. Protecao a crianca.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Expressões ofensivas, desrespeitosas e pejorativas do eminente revisor do Tribunal de origem, e Relator para o acordão, na sessão de julgamento do recurso de apelação, contra a honra do acusado que estava sendo julgado, ainda que não tenham sido registradas em seu voto escrito, mas em manifestação oral, constituem causa de nulidade absoluta. 2. A garantia constitucional da imparcialidade deve ser observada em todo e qualquer julgamento em um sistema acusatório. 3. O tráfico de drogas é passível de prisão preventiva, desde que haja fundamentação concreta. 4. A grande quantidade de drogas é um dos fatores que justificam a prisão preventiva. 5. A mãe de filho menor pode ser beneficiada com a prisão domiciliar, para garantir a proteção à criança.

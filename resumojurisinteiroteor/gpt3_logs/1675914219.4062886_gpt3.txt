@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Em 06 de novembro de 2017, foi distribudo nesta Justia Militar o Auto de Priso em Flagrante de Portaria n. 119.386/2017-22 BPM, instaurado em desfavor da Cabo PM Rosngela dos Reis, presa em flagrante no dia 05 de novembro de 2017, por ter, em tese, praticado o delito de dormir em servio (Evento 3 - OUT3, pgs. 33/34 e 40 - autos de 1a Instncia). Em 20 novembro de 2017, o Ministrio Pblico props a transao penal, requerendo a juntada de certido de antecedentes criminais (CAC) e a ficha de antecedentes criminais (FAC) da investigada, oriundas da justia comum e militar para anlise dos requisitos objetivos para concesso do referido benefcio (Evento 3 - OUT 3, pg. 42, - autos de 1a Instncia). Juntadas a CAC e FAC e posteriormente atualizadas, o Ministrio Pblico reiterou o pedido de audincia preliminar e os termos da proposta de transao penal (Evento 3 - OUT 3, pgs. 58 e 144, autos de 1a Instncia). Em 25 de maro de 2019, a Cb PM Rosngela dos Reis aceitou o benefcio da transao penal, nos termos constantes da ata de audincia. (Evento 3 - OUT 3, pg. 153, autos de 1a Instncia). Em 1 de julho de 2019, a Cb PM QPR Rosngela dos Reis foi intimada a dar incio ao cumprimento das condies estipuladas no benefcio da transao penal aceito e homologado (Evento 3 - OUT 3, pg. 169, autos de 1a Instncia), entretanto teve revogado o benefcio tendo em vista no ter iniciado o cumprimento das condies estabelecidas (Evento 3 - OUT 5, pg. 2, autos de 1a Instncia). Desta feita, a ilustre representante do Ministrio Pblico atuante na 1 a Auditoria de Justia Militar ofereceu denncia em desfavor da Cb PM QOR Rosngela dos Reis, pela prtica, em tese, do crime previsto no artigo 203 do Cdigo Penal Militar, fazendo-o sob os seguintes fundamentos, in verbis: No dia 5 de novembro de 2017, s 10h20min, no interior da 127a Cia PM, Municpio de Belo Horizonte/MG, a denunciada dormiu, quando em servio. Segundo apurado, o militar 3 Sgt PM Srgio Luiz Alves da Cunha compareceu  sede da 127a Cia e se deparou com a denunciada deitada, a qual estava na funo de intendente da Cia, ocupando 3 cadeiras da sala de instruo, com a cabea apoiada em sua bolsa pessoal e coberta com seu agasalho, conforme fotografia juntada aos autos (fls.22). O referido militar aproximou-se da denunciada e tentou acord-la, s obtendo xito na segunda tentativa. A denunciada alegou que estava sentindo tonteira e mal estar, o que no foi confirmado pelo mdico que a atendeu no HPM. (fls.74). [...] (Evento 3, DENUNCIA2) A denncia foi recebida em 05 de setembro de 2019 (Evento 3, RECE_DENUN4, autos de 1a Instncia). Em 21 de fevereiro de 2020, foram inquiridas as testemunhas de acusao Srgio Luiz Alves da Cunha e Anderson Duarte.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Em 06 de novembro de 2017 foi instaurado o Auto de Priso em Flagrante de Portaria n. 119.386/2017-22 BPM em desfavor da Cabo PM Rosngela dos Reis, presa em flagrante por ter, em tese, praticado o delito de dormir em servio. Em 25 de maro de 2019, a Cabo PM aceitou o benefício da transação penal, mas teve o mesmo revogado por não ter iniciado o cumprimento das condições estabelecidas. Em 05 de setembro de 2019 foi recebida a denúncia pelo crime previsto no artigo 203 do Código Penal Militar e, em 21 de fevereiro de 2020, foram inquiridas as testemunhas de acusação.

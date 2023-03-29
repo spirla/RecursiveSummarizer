@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse contexto, caracterizam desvio de finalidade e abuso de poder a colheita, a producao e o compar-tilhamento de dados, informacoes e conhecimentos especificos para satisfazer interesse privado de orgao ou de agente publico. Na hipotese, a utilizacao da maquina estatal para a colheita de informacoes de servidores com postura politica contraria ao governo caracteriza desvio de finalidade e afronta aos direitos fundamentais da livre ma-nifestacao do pensamento, da privacidade, reuniao e associacao, aos quais deve ser conferida maxima efetivi-dade, pois essenciais ao regime democratico. Ademais, os orgaos de inteligencia de qualquer nivel hierarquico de qualquer dos Poderes do Estado, embora sujeitos ao controle externo realizado pelo Poder Legislativo, submetem-se tambem ao crivo do Poder Judiciario, em respeito ao principio da inafastabilidade da jurisdicao. Com base nesses entendimentos, o Plenario, por maioria, julgou procedente o pedido para confirmar a medida cautelar e declarar inconstitucionais atos do Ministerio da Justica e Seguranca Publica de producao ou compartilhamento de informacoes sobre a vida pessoal, as escolhas pessoais e politicas, e as praticas civicas de cidadaos, servidores publicos federais, estaduais e municipais identificados como integrantes de movimento politico, professores universitarios e quaisquer outros que, atuando nos limites da legalidade, exercam seus direitos de livremente expressar-se, reunir-se e associar-se.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A colheita, produção e compartilhamento de dados, informações e conhecimentos específicos para satisfazer interesse privado de órgão ou de agente público caracterizam desvio de finalidade e abuso de poder. 2. A utilização da máquina estatal para a colheita de informações de servidores com postura política contrária ao governo caracteriza desvio de finalidade e afronta aos direitos fundamentais da livre manifestação do pensamento, da privacidade, reunião e associação. 3. Os órgãos de inteligência de qualquer nível hierárquico de qualquer dos Poderes do Estado submetem-se ao crivo do Poder Judiciário, em respeito ao princípio da inafastabilidade da jurisdição. 4. É procedente o pedido para confirmar a medida cautelar e declarar inconstitucionais atos do Ministério da Justiça e Segurança Pública de produção ou compartilhamento de informações sobre a vida pessoal, as escolhas pessoais e políticas, e as práticas civis de cidadãos, servidores públicos federais, estaduais e municipais identificados como integrantes de movimento político, professores universitários e quaisquer outros que, atuando nos limites da legalidade, exercam seus direitos de livremente expressar-se, reunir-se e associar-se.

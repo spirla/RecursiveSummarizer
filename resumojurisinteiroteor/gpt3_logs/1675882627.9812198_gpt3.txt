@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Considerando a inexistncia de causas de aumento, bem como considerando a inexistncia de causas de diminuio, o Juzo Singular torna a pena-definitiva em 09 (nove) meses de deteno, a ser cumprida em regime aberto, [...] Por no atender s condies objetivas e subjetivas relativas  suspenso condicional da execuo da pena, ante a soma da penas, no concedo ao sentenciado o referido benefcio. Por fim, nos termos do art. 387, IV, do Cdigo de Processo Penal (CPPM), c/c o art. o art. 3, "a", do CPPM, foi fixado o valor de R$ 11.000 (onze mil reais) para reparao da infrao, a ser pago pelos rus, em razo dos prejuzos sofridos pelo ofendido. O Ministrio Pblico do Estado de Minas Gerais interps recurso de apelao. Em suas razes recursais, alegou que as provas produzidas sob o crivo do contraditrio so firmes e impem uma deciso condenatria pelo crime de tortura. No que tange  materialidade delitiva, entendeu que esta restou demonstrada na prova produzida, no receiturio mdico e, tambm, no exame pericial indireto. J quanto  autoria, afirmou que a vtima, Diego Paulo dos Santos, apontou seguramente os apelados como sendo os autores do crime. Nessa esteira, destacou o depoimento apresentado na sede da Promotoria de Justia de Itagurada/MG e aduziu que, em todas as oportunidades em que foi ouvida, tanto na fase inquisitorial quanto em juzo, a vtima narrou, de forma coerente e segura, a tortura a que foi submetida. Ressaltou que, em juzo, a vtima confirmou a dinmica dos fatos e esclareceu que as agresses duraram aproximadamente uma hora, oportunidade em que sofreu socos e chutes alm ter tido seu rosto inserido em uma sacola de plstico com spray de pimenta. Afirmou que as testemunhas inquiridas corroboraram os depoimentos prestados por Diego. Nesse contexto, destacou o depoimento prestado pela testemunha Marlene Maria Santos, me da vtima, a qual afirmou que, embora no houvesse presenciado as agresses, recebeu seu filho em casa com os olhos vermelhos em decorrncia do spray de pimenta e com ferimentos no rosto e no punho. Disse que a testemunha Snia Aparecida de Paula Ananias declarou ter encontrado Diego chorando, com os olhos bastante vermelhos e com algumas escoriaes nos braos e rosto. Disse, tambm, que a testemunha Maria Helena Santos Arajo descreveu o empenho de Amanda, companheira do apelado Alex, para que a vtima no prosseguisse com o pedido de providncias, declarando, ainda, que os apelados se mostraram dispostos a pagar o enxoval do filho da vtima, que estava prestes a nascer. Ademais, alegou que a vtima, entre outros traumas, necessitou ficar trs dias afastada de suas atividades, por orientao mdica.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juzo Singular condenou os rus a 09 (nove) meses de deteno, a ser cumprida em regime aberto, e fixou o valor de R$ 11.000 (onze mil reais) para reparao da infrao, a ser pago pelos rus, em razo dos prejuzos sofridos pelo ofendido. O Ministrio Pblico do Estado de Minas Gerais interps recurso de apelao, alegando que a materialidade delitiva e a autoria do crime restaram demonstradas na prova produzida.

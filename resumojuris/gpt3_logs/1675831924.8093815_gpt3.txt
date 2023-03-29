@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+11 da Lei n. 8.429/1992, por estar ausente o elemento subjetivo (dolo), necessario para a configuracao do ato de improbidade violador dos principios da administracao publica. A questao central e saber se a contratacao de servidores temporarios sem concurso publico, baseada em legislacao municipal, configura ato de improbidade administrativa, em razao de eventual dificuldade de identificar o elemento subjetivo necessario a caracterizacao do ilicito administrativo. Inicialmente, cumpre consignar que, em face dos principios a que esta submetida a administracao publica (art. 37 da CF/88) e tendo em vista a supremacia deles, sendo representantes daquela os agentes publicos passiveis de serem alcancados pela lei de improbidade, o legislador ordinario quis impedir o ajuizamento de acoes temerarias, evitando, com isso, alem de eventuais perseguicoes politicas e o descredito social de atos ou decisoes politico-administrativos legitimos, a punicao de administradores ou de agentes publicos inexperientes, inabeis ou que fizeram uma ma opcao politica na gerencia da coisa publica ou na pratica de atos administrativos, sem ma-fe ou intencao de lesar o erario ou de enriquecimento. Essa intencao foi reforcada pelo pacifico posicionamento jurisprudencial desta Corte Superior, segundo o qual nao se pode confundir improbidade com simples ilegalidade, porquanto a improbidade e ilegalidade tipificada e qualificada pelo elemento subjetivo da conduta do agente, sendo indispensavel para sua caracterizacao o dolo, para a tipificacao das praticas descritas nos arts. 9 e 11 da Lei n. 8.429/1992, ou que, pelo menos, seja essa conduta eivada de culpa grave (AIA 30/AM, Rel. Ministro Teori Albino Zavascki, Corte Especial, DJe 28/09/2011).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A contratação de servidores temporários sem concurso público, baseada em legislação municipal, pode configurar ato de improbidade administrativa. 2. Os princípios a que está submetida a administração pública são representantes da lei de improbidade. 3. Não se pode confundir improbidade com simples ilegalidade, pois a improbidade é ilegalidade tipificada e qualificada pelo elemento subjetivo da conduta do agente. 4. É necessário o dolo para a tipificação das práticas descritas nos arts. 9 e 11 da Lei n. 8.429/1992, ou que, pelo menos, seja essa conduta eivada de culpa grave.

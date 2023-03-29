@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A descrio da conduta considerada como furto  suficientemente clara e precisa para que todos possam saber exatamente o que  proibido. Os tipos denominados abertos, por outro lado, apresentam descrio que exige do operador do Direito um trabalho de integrao que complemente o preceito descritivo do comportamento punvel. A doutrina costuma identificar os tipos definidores de crimes culposos e omissivos imprprios como abertos. Nos crimes culposos, os tipos abertos identificam apenas o resultado naturalstico indesejado (leso ou perigo de leso ao bem jurdico), cabendo ao julgador materializar a vontade da norma proibitiva com a identificao da conduta que, concretamente, viola o cuidado objetivo exigvel no mbito das relaes sociais. Nos crimes imprprios de omisso, de mesma forma, pretende-se que o julgador complete a descrio do comportamento tpico, com a utilizao do critrio da posio de garantidor da no produo do resultado, para relacionar uma inatividade  descrio legal de uma atividade e determinar sua autoria. Como normalmente os crimes culposos so expressamente referidos ao resultado material produzido pela conduta descuidada, normalmente os tipos penais incriminadores que definem crimes culposos no trazem qualquer descrio para as condutas descuidadas, restringindo-se apenas a indicar o resultado naturalstico por elas produzido. Dessa forma, o tipo que descreve um crime culposo  denominado aberto porque permite a caracterizao do crime por meio de qualquer conduta descuidada que venha a produzir o resultado naturalstico previsto. Como exemplo de tipo incriminador aberto pode-se citar o que define o crime de homicdio culposo. Segundo o pargrafo 3 do artigo 121 do CP, se o homicdio  culposo, a pena  de deteno de 1 (um) a 3 (trs) anos. Neste caso, qualquer conduta descuidada que vier a produzir a morte de algum  capaz de caracterizar um crime de homicdio culposo. No entanto, nem todo crime culposo est vinculado  produo de determinado resultado naturalstico. O tipo do artigo 67 da Lei 9.605/98 - Lei de Crimes Ambientais - dispe ser crime conceder o funcionrio pblico licena, autorizao ou permisso em desacordo com as normas ambientais, para as atividades, obras ou servios cuja realizao depende de ato autorizativo do Poder Pblico. Para tal conduta a lei comina pena de deteno, de um a trs anos, e multa. O pargrafo nico do referido dispositivo prescreve que se o crime  culposo, a pena  de trs meses a um ano de deteno, sem prejuzo da multa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Tipos penais abertos descrevem crimes culposos e omissivos imprprios, identificando apenas o resultado naturalstico indesejado. O julgador deve integrar o preceito descritivo do comportamento punível para caracterizar a conduta que viola o cuidado objetivo exigível. Exemplo: homicídio culposo (art. 121 CP) e concessão de licença em desacordo com as normas ambientais (art. 67 Lei 9.605/98).

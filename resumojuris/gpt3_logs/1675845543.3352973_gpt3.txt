@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Quanto a distincao entre a natureza civel e a natureza criminal das medidas protetivas, a jurisprudencia desta Corte Superior, ha muito, posiciona-se no sentido de que aquelas previstas no art. 22, incisos I, II e III, da Lei n. 11.340/2006 sao de natureza criminal, enquanto as dispostas nos demais incisos desse dispositivo tem natureza civel. Isso porque, em primeiro lugar, as medidas previstas nos tres primeiros incisos do art. 22 implicam, de um lado, relevante restricao a liberdade de ir e vir do acusado, enquanto buscam, de outro vertice, preservar os direitos fundamentais a vida e a integridade fisica e psiquica da suposta vitima. O status elevado dos direitos em contraste, dos mais caros a Constituicao e ao Estado Democratico de Direito, justifica uma tutela de ordem penal, tanto para o acusado, pois sua liberdade nao pode vir a ser restringida de forma temeraria e sem a observancia de requisitos minimos, quanto para a ofendida, que busca na esfera penal uma tutela celere e efetiva de seus direitos. Um segundo aspecto, a reforcar este entendimento, refere-se a possibilidade de decretacao de prisao preventiva do suposto agressor para assegurar a execucao das medidas protetivas de urgencia , nos crimes que envolvem violencia domestica e familiar, a teor do inciso III do art. 313 do CPP. Ou seja, eventual renitencia do acusado em descumprir as medidas impostas pelo juiz, especialmente aquelas que determinam seu afastamento da vitima e a proibicao de com ela manter contato, podem fundamentar a decretacao de prisao provisoria do suposto agressor. Se tais medidas fossem consideradas de natureza civel, a possibilidade de decretacao de prisao ficaria prejudicada, ante a impossibilidade de se criar, por lei, nova hipotese de prisao civil, para alem da expressa previsao constitucional relativa ao devedor de alimentos (art. 5, inciso LXVII, da CF).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As medidas protetivas previstas nos incisos I, II e III do art. 22 da Lei n. 11.340/2006 têm natureza criminal, enquanto as dispostas nos demais incisos desse dispositivo têm natureza cível. 2. A tutela penal é necessária para preservar os direitos fundamentais à vida e à integridade física e psíquica da suposta vítima. 3. A renitência do acusado em descumprir as medidas impostas pelo juiz pode fundamentar a decretação de prisão provisória do suposto agressor. 4. É impossível criar, por lei, nova hipótese de prisão civil, para além da expressa previsão constitucional relativa ao devedor de alimentos (art. 5, inciso LXVII, da CF).

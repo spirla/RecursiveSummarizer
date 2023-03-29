@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Entretanto, se o representante do Ministrio Pblico, o ru e seu defensor no se fizerem presentes nessa audincia de leitura de sentena condenatria, o Cdigo de Processo Penal Militar tem a regra especial do artigo 445 do CPPM. Dispe o artigo 445 do CPPM que se a intimao da sentena condenatria no tiver sido feita nos termos do artigo 443, porque o representante do Ministrio Pblico, o ru e seu defensor no estavam presentes e a sentena no pode ser lida ou, ento, foi lida apenas para aqueles que estavam presentes, a intimao  feita:
+a) ao defensor de ofcio ou dativo;
+b) ao ru, pessoalmente, se estiver preso;
+c) ao defensor constitudo pelo ru. A ausncia de intimao das partes para cincia da sentena de que caiba recurso  causa de nulidade (artigo 500, III, l, CPPM).  pessoal a intimao do Ministrio Pblico (LONMP - Lei 8.625/93, artigo 41, IV, e artigo 18, II, h, LC 75/1993), da Defensoria Pblica da Unio, do Distrito Federal e dos Territrios (artigo 44 da LC 80/1994). O CPPM no tem regra semelhante  do artigo 370, pargrafo 4, do CPP, que determina a intimao pessoal do defensor nomeado ao acusado que no o tiver. No entanto, em procedimento estatal, o juzo militar deve intim-lo pessoalmente ou, em caso de aceitao por meio de dirio oficial eletrnico, garantindo a ampla defesa e a paridade de armas entre o defensor nomeado (dativo) e o Ministrio Pblico dentro do devido processo legal. Devem ser esgotadas todas as possibilidades de localizao do ru solto para que seja efetivada a intimao da sentena condenatria. A doutrina compreende que a intimao da sentena condenatria se completa nas pessoas do acusado e do seu defensor em respeito  garantia constitucional da ampla defesa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 445 do CPPM estabelece que, se o representante do Ministério Público, o réu e seu defensor no estiverem presentes na audiência de leitura da sentença condenatória, a intimidação deve ser feita pessoalmente ao defensor de ofício ou dativo, ao réu se estiver preso e ao defensor constituído pelo réu. A ausência de intimidação das partes para conhecimento da sentença que caiba recurso é causa de nulidade. O juízo militar deve intimar pessoalmente o defensor nomeado ao acusado que não o tiver, garantindo a ampla defesa e a paridade de armas entre o defensor e o Ministério Público.

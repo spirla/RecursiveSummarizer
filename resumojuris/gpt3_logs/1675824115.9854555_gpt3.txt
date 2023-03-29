@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(INF 1025) 4.22 PODER JUDICIARIO Competencia jurisdicional para julgamento de acao rescisoria em que a Uniao figure como terceira interessada - RE 598650/MS (Tema 775 RG) Tese fixada: Compete ao Tribunal Regional Federal processar acao rescisoria proposta pela Uniao com o objetivo de desconstituir sentenca transitada em julgado proferida por juiz estadual, quando afeta interesses de orgao federal. Resumo: Compete a Justica Federal processar e julgar acoes rescisorias movidas por ente federal contra acordao ou sentenca da Justica estadual. Isso porque o art. 108, I, b, e II, da CF/88 (CF) nao traz uma previsao fechada, taxativa. E preciso ler tal norma em conjunto com o art. 109, I, da CF, que nada mais e do que uma expressao do principio federativo e que impede a submissao da Uniao a Justica dos estados  com excecao da competencia federal delegada (art. 109,  3, da CF),. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 775 da repercussao geral, deu parcial provimento ao recurso extraordinario. RE 598650/MS, relator Min. Marco Aurelio, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 8.10.2021 (sexta-feira), as 23:59 (INF 1033) Decisoes judiciais e constricao de verbas publicas - ADPF 664/ES Resumo: Sao inconstitucionais as decisoes judiciais que determinam a constricao de verbas publicas oriundas de Fundo Estadual de Saude (FES)  que devem ter aplicacao compulsoria na area de saude  para atendimento de outras finalidades especificas. A jurisprudencia da Corte nao admite a constricao indiscriminada de verbas publicas por meio de decisoes judiciais, sob pena de afronta ao preceito contido no art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Compete à Justiça Federal processar e julgar ações rescisórias movidas por ente federal contra acórdão ou sentença da Justiça Estadual. 2. É inconstitucional a decisão judicial que determina a constrição de verbas públicas oriundas de Fundo Estadual de Saúde para atendimento de outras finalidades específicas.

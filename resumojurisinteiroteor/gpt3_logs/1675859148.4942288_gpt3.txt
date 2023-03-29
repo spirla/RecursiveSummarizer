@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+No caso em tela, o Cb PM Gensio Machado Alves foi condenado a pena de 02 (dois) anos, 02 (dois) meses e 14 (quatorze) dias de recluso pelo cometimento do crime de leso corporal de natureza grave [art. 209, 1, do Cdigo Penal Militar (CPM)] e o ex-Sd PM Alex Dayrell Braga Handan a pena de 6 (seis) meses de deteno pelo cometimento do crime de leso corporal de natureza leve (art. 209, caput, do CPM). Narra a denncia que, no dia 12/03/2016, o Cb PM Gensio Machado Alves e o Sd PM Blaiton Rivaine de Deus Souza ofenderam gravemente a integridade fsica do menor Kaio Alves de Oliveira, e o ento Sd PM Alex Dayrell Braga Mattar Handan ofendeu a integridade fsica do menor Thaylon Raphael Rodrigues de Miranda. Na ocasio, durante patrulhamento, os militares avistaram uma motocicleta vermelha, dirigida por Thaylon Raphael Rodrigues de Miranda, em atitude que reputaram suspeita, e na garupa estava Kaio Alves de Oliveira, motivo pelo qual deram-lhes ordem de parada, que no foi acatada. Os ofendidos, durante a fuga, adentraram a residncia, de Maria das Graas Rodrigues Silva, av de Thaylon. No interior da residncia Kaio teria sido agredido pelo Sd PM Blaiton e pelo Cb PM Gensio. Concomitantemente, no quintal da residncia, o ento Sd PM Alex, aps abordar e algemar Thaylon, t-lo-ia o agredido. Analisando com acuidade os autos, entendo que as provas coligidas se apresentam seguras e aptas a alicerar a sentena condenatria. A materialidade encontra-se devidamente comprovada nos exames de corpo de delito (ECDs) realizados no dia 14/03/2016, dos quais extrai-se: Periciado: Kaio Alves de Oliveira Histrico Periciado relata que foi "espancado" pela Polcia Militar no dia 12/03/2016 por ter fugido de motocicleta, por volta de 14:15h com "coronhadas, murros, batidas com a cabea no vaso do banheiro e chutes no rosto. Relata que desmaiou e foi encaminhado para o Hospital Regional. Foi atendido e permaneceu na observao por duas horas. Aps a tomografia e o Rx da face foi liberado com diagnstico de TCE leve e Fratura nasal". Nega necessidade de tratamento cirrgico. Exame Periciado apresenta edema importante em regio facial. Equimose arroxeada infra-orbitria bilateral. Equimose em cristalino do olho direito. Escoriao em regio infra-orbitrria a esquerda. Edema em regio da base do nariz. Nega queixas visuais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Cb PM Gensio Machado Alves foi condenado a pena de 02 (dois) anos, 02 (dois) meses e 14 (quatorze) dias de recluso pelo cometimento do crime de leso corporal de natureza grave (art. 209, 1, do Cdigo Penal Militar) e o ex-Sd PM Alex Dayrell Braga Handan a pena de 6 (seis) meses de deteno pelo cometimento do crime de leso corporal de natureza leve (art. 209, caput, do CPM). Os ofendidos, durante patrulhamento, foram agredidos fisicamente dentro da residência de uma das vítimas. Após análise dos autos, foi considerada a materialidade e segurança das provas para a sentença condenatória.

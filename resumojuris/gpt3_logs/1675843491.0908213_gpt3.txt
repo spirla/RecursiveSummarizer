@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alteracoes do Pacote Anticrime (Lei n. 13.964/2019). Art. 313,  2, do CPP. Inexistencia de fato novo e contemporaneo autorizador de custodia cautelar. Decretacao de prisao preventiva para antecipacao de cumprimento da pena. Incabivel. Possibilidade de alteracao jurisprudencial no julgamento do Tema n. 1068/STF. DESTAQUE E ilegal a prisao automatica do reu solto em razao da condenacao nao definitiva do Tribunal do Juri. No julgamento das Acoes Declaratorias de Constitucionalidade n. 43, 44 e 54, assentou-se a constitucionalidade do art. 283 do CPP (CPP), a condicionar o inicio do cumprimento da pena ao transito em julgado da sentenca condenatoria, considerado o alcance da garantia do art. 5, LVII, da CF/88. Firmou-se a orientacao de que ninguem podera ser preso senao em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciaria competente, em decorrencia de prisao cautelar ou em virtude de titulo criminal precluso na via da recorribilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilegal a prisão automática do réu solto em razão da condenação não definitiva do Tribunal do Júri. 2. O início do cumprimento da pena está condicionado ao trânsito em julgado da sentença condenatória, considerado o alcance da garantia do art. 5, LVII, da CF/88. 3. Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de prisão cautelar ou em virtude de título criminal precluso na via da recorribilidade.

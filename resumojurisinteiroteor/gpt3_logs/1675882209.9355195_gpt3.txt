@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+427 do Cdigo de Processo Penal Militar (CPPM), o Ministrio Pblico requereu a juntada da Folha de Antecedentes Criminais (FAC) e das Certides de Antecedentes Criminais (CAC) do ru provenientes desta Justia especializada e da Justia comum estadual. A defesa no requereu diligncias (Eventos 42 e 54 - Processo Originrio). Determinada a abertura de vista para os fins do art. 428 do CPPM, o Ministrio Pblico e a defesa manifestaram-se pela apresentao de alegaes finais em plenrio (Eventos 59 e 64 - Processo Originrio). Em sesso de julgamento remota realizada no dia 17 de agosto de 2021, o Ministrio Pblico requereu a condenao do acusado, nos exatos termos da denncia, e a defesa, por sua vez, pleiteou a absolvio do ru. O CPJ,  unanimidade de votos, julgou procedente a denncia e condenou o ru pela prtica do crime previsto no art. 312 do CPM, sujeitando-o  pena de 1 (um) ano e 4 (quatro) meses de recluso, a ser cumprida no regime semiaberto (Evento 84 - Processo Originrio). A sentena condenatria (Evento 98 - Processo Originrio) foi lida em audincia realizada no dia 18 de maro de 2022 (Evento 109 - Processo Originrio). Irresignada, a defesa interps o presente recurso de apelao (Evento 110 - Processo Originrio). Nas razes recursais, a defesa sustentou que o prprio acusado, cerca de um ms aps ter recebido o benefcio da suspenso condicional da pena, entrou em contato com a Associao de Pais e Amigos dos Excepcionais (APAE) de Juiz de Fora/MG, para realizar a prestao de servios determinada pelo juiz, uma vez que esta Justia Militar ainda no havia feito a comunicao  instituio. Relatou que, quando o acusado conversou com a ento interventora da instituio (Cleusa dos Santos Borges), esta props a converso da prestao de servios em pagamento de cestas bsicas, tendo em vista que,  poca, no era comum pessoas externas prestarem servios no local. Disse que Cleusa ficou com a incumbncia de informar a esta Justia especializada sobre a alterao da prestao de servio, razo pela qual o acusado comprou as cestas bsicas para do-las  instituio. Afirmou que, aps a doao das cestas, foi  instituio por duas vezes para conversar com Cleusa e saber se a situao com a Justia Militar estaria resolvida, quando veio a tomar conhecimento de que ela teria falecido, em virtude de um acidente automobilstico. Diante desse fato, salientou que repassou toda a situao para Maria Jos Ferreira, que tambm trabalhava na instituio, a qual disse que j tinha conhecimento sobre a confeco de uma declarao que deveria ser entregue para um policial militar e pediu a ele que voltasse depois, pois iria verificar o que poderia ser feito. Asseverou que, dias depois, o acusado voltou  instituio e pegou a declarao, que j estava pronta, e a juntou no processo de execuo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público requereu a condenação do acusado pelo crime previsto no art. 312 do CPM, sendo a pena de 1 (um) ano e 4 (quatro) meses de reclusão, a ser cumprida no regime semiaberto. A sentença condenatória foi lida em audiência e, diante da irresignação da defesa, foi interposto recurso de apelação. Nas razões recursais, a defesa sustentou que o acusado entrou em contato com a Associação de Pais e Amigos dos Excepcionais (APAE) para realizar a prestação de serviços determinada pelo juiz, tendo sido proposta a conversão da prestação de serviços em pagamento de cestas básicas.

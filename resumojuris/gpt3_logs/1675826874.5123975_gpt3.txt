@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Dias Toffoli, julgamento virtual finalizado em 14.5.2021(sexta-feira), as 23:59 (INF 1017) Inclusao do ICMS na base de calculo da Contribuicao Previdenciaria sobre a Receita Bruta - RE 1187264/SP (Tema 1048 RG) Tese fixada: E constitucional a inclusao do Imposto Sobre Circulacao de Mercadorias e Servicos - ICMS na base de calculo da Contribuicao Previdenciaria sobre a Receita Bruta - CPRB . Resumo: A receita bruta, para fins de determinacao da base de calculo da CPBR, compreende os tributos sobre ela incidentes. A partir da alteracao promovida pela Lei 13.161/2015, as empresas listadas nos artigos 7 e 8 da Lei 12.546/2011 tem a faculdade de aderir ao novo sistema, caso concluam que a sistematica da CPRB e, no seu contexto, mais benefica do que a contribuicao sobre a folha de pagamentos. Logo, nao poderia a empresa aderir ao novo regime de contribuicao por livre vontade e, ao mesmo tempo, querer se beneficiar de regras que nao lhe sejam aplicaveis. Permitir que a recorrente adira ao novo regime, abatendo do calculo da CPRB o ICMS sobre ela incidente, ampliaria demasiadamente o beneficio fiscal, pautado em amplo debate de politicas publicas tributarias. Tal pretensao acarretaria grave violacao ao artigo 155,  6, da CF/88 de 88, que determina a edicao de lei especifica para tratar sobre reducao de base de calculo de tributo. Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 1048 da repercussao geral, negou provimento ao recurso extraordinario. Vencidos os ministros Marco Aurelio (relator), Ricardo Lewandowski, Carmen Lucia e Rosa Weber. RE 1187264/SP, relator Min. Marco Aurelio, redator do acordao Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a inclusão do Imposto Sobre Circulação de Mercadorias e Serviços - ICMS na base de cálculo da Contribuição Previdenciária sobre a Receita Bruta - CPRB. 2. A receita bruta, para fins de determinação da base de cálculo da CPBR, compreende os tributos sobre ela incidentes. 3. As empresas listadas nos artigos 7 e 8 da Lei 12.546/2011 têm a faculdade de aderir ao novo sistema, caso concluam que a sistemática da CPRB e, no seu contexto, mais benéfica do que a contribuição sobre a folha de pagamentos. 4. Não é permitido que a recorrente adira ao novo regime, abatendo do cálculo da CPRB o ICMS sobre ela incidente, pois isso ampliaria demasiadamente o benefício fiscal. 5. É necessária a edição de lei específica para tratar sobre redução de base de cálculo de tributo, conforme previsto no artigo 155, 6, da CF/88.

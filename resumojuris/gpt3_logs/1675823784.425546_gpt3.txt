@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Criou-se, assim, uma tarifa com caracteristicas de taxa tributaria, pela simples manutencao mensal da modalidade de contratacao de cheque especial , vinculada a contrato de conta corrente. Nos termos do art. 4 do Codigo Tributario Nacional (CTN), independentemente da nomenclatura, o fato gerador da exacao e que determina a natureza juridica do tributo. Ademais, houve uma desnaturacao da natureza juridica da tarifa bancaria para adiantamento da remuneracao do capital (juros), de maneira que a cobranca de tarifa (pagamento pela simples disponibilizacao) camuflou a cobranca de juros, com outra roupagem juridica, voltada a abarcar quem nao utiliza o credito efetivamente na modalidade de cheque especial . Consequentemente, nao se alterou apenas a forma de cobranca, mas a propria natureza da cobranca (juros adiantados), em aparente descumprimento ao mandamento constitucional de protecao ao consumidor [CF/88 (CF), art. 170, V]. Alem disso, a medida compensatorio-interventiva do CMN tambem nao passa pelo filtro da proporcionalidade, tendo em vista que e desproporcional para os fins almejados, existindo solucoes menos gravosas que poderiam ter sido adotadas. O CMN poderia, por exemplo, ter optado por instituir autorizacao de cobranca de juros em faixas, a depender do valor utilizado ou do limite exacerbado, todavia escolheu modalidade de cobranca que se assemelha a tributo ou a adiantamento de juros com aliquota unica (0,25% ao mes, cerca de 3% ao ano), por servico nao usufruido (emprestimo de capital proprio ou de terceiros). De igual modo, o art. 2 da resolucao tambem ostenta contornos de ilegitimidade por incidir sobre contratos em curso, na medida em que retroage sua eficacia (a partir de 1.6.2020) para alcancar pactos firmados anteriormente que nao previam qualquer custeio de manutencao do limite disponivel, em clara afronta ao inciso XXXVI do art. 5 da CF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O fato gerador da exação e que determina a natureza jurídica do tributo, nos termos do art. 4 do Código Tributário Nacional (CTN). 2. Houve uma desnaturação da natureza jurídica da tarifa bancária para adiantamento da remuneração do capital (juros), de maneira que a cobrança de tarifa camuflou a cobrança de juros. 3. A medida compensatório-interventiva do Conselho Monetário Nacional (CMN) não passa pelo filtro da proporcionalidade, tendo em vista que é desproporcional para os fins almejados. 4. O art. 2 da resolução ostenta contornos de ilegitimidade por incidir sobre contratos em curso, na medida em que retroage sua eficácia, em clara afronta ao inciso XXXVI do art. 5 da Constituição Federal.

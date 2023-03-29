@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ERESP 985.695/RJ. DESTAQUE As concessionarias de servico publico podem efetuar a cobranca pela utilizacao de faixas de dominio de rodovia, mesmo em face de outra concessionaria, desde que haja previsao editalicia e contratual. O Supremo Tribunal Federal, no julgamento do Tema n. 261 de repercussao geral, concluiu pela impossibilidade de o ente publico realizar cobranca de taxa pelo uso de espacos publicos municipais por parte das concessionarias de servico publico. Dessa forma, a Suprema Corte possui orientacao consolidada segundo a qual e vedada a cobranca de valores ao concessionario de servico publico pelo uso de faixas de dominio de rodovia quando tal exigencia emana do proprio Poder Concedente, tendo em vista que: a) a utilizacao, nesse caso, se reverte em favor da sociedade - razao pela qual nao cabe a fixacao de preco publico; e b) a natureza do valor cobrado nao e de taxa, pois nao ha servico publico prestado ou poder de policia exercido. 182 No entanto, situacao distinta exsurge quando o poder concedente autoriza concessionaria de servico publico, com base no art. 11 da Lei n. 8.987/1995, a efetuar cobranca pela utilizacao de faixas de dominio de rodovia, mesmo em face de outra concessionaria, desde que haja previsao editalicia e contratual. Essa obrigacao envolve justificativas importantes no contexto do interesse publico, haja vista que a previsao de outras fontes, receitas alternativas, complementares, acessorias ou de projetos associados, em beneficio do concessionario do servico publico - nos termos do art. 11 da Lei n. 8.987/1995 - desde que devidamente previstas no edital de licitacao e no respectivo contrato firmado com o poder concedente, encerra elemento a ser considerado no equilibrio economico-financeiro contratual e na obtencao do principio da modicidade tarifaria (AREsp 977.205/SP, Rel. Min. Og Fernandes, Segunda Turma, julgado em 19.04.2018, DJe 25.04.2018).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É vedada a cobrança de valores ao concessionário de serviço público pelo uso de faixas de domínio de rodovia quando tal exigência emana do próprio Poder Concedente. 2. É permitida a cobrança de valores pela utilização de faixas de domínio de rodovia por parte de concessionárias de serviço público, desde que haja previsão editalícia e contratual.

@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido:
+ACAO ORDINARIA - DEMISSAO - PORTARIA INAUGURAL QUE IMPUTA AO MILITAR A UTILIZACAO DE DOCUMENTO FALSO PARA JUSTIFICAR A FALTA AO SERVICO - TRANSGRESSAO GRAVE - INDEFERIMENTO DE PEDIDO DE REALIZACAO DE PERICIA GRAFOTECNICA PARA DEMONSTRAR A AUTORIA DO CRIME DE FALSO - PROVA QUE FOI CONSIDERADA PROCRASTINATORIA E DESNECESSARIA AO DESLINDE DO PROCEDIMENTO DISCIPLINAR - REGULARIDADE - SENTENCA REFORMADA EM REEXAME NECESSARIO. (TJM-MG: Acao Ordinaria - Proc. 1000045-07.2016.9.13.0001, Rel. Juiz Jadir Silva, julgamento 31/08/2017)
+Por exemplo, caso exista nos autos do processo uma filmagem do militar como meio de prova. A realizacao do exame prosopografico (pericia de reconhecimento facial) sera desnecessaria se outros meios de prova, como a testemunhal ou documental, nao deixam duvidas de que a imagem captada e do militar acusado. Nesse sentido, assim estabelece o CPC, aplicavel de forma subsidiaria:
+Artigo 464. A prova pericial consiste em exame, vistoria ou avaliacao. Paragrafo 1 O juiz indeferira a pericia quando:
+- a prova do fato nao depender de conhecimento especial de tecnico;
+- for desnecessaria em vista de outras provas produzidas;
+- a verificacao for impraticavel. Paragrafo 2 De oficio ou a requerimento das partes, o juiz podera, em substituicao a pericia, determinar a producao de prova tecnica simplificada, quando o ponto controvertido for de menor complexidade. Paragrafo 3 A prova tecnica simplificada consistira apenas na inquiricao de especialista, pelo juiz, sobre ponto controvertido da causa que demande especial conhecimento cientifico ou tecnico. Paragrafo 4 Durante a arguicao, o especialista, que devera ter formacao acadmica especifica na area objeto de seu depoimento, podera valer-se de qualquer recurso tecnologico de transmissao de sons e imagens com o fim de esclarecer os pontos controvertidos da causa. Caso a CPAD defina pela realizacao de qualquer pericia, alem da psicopatologica que segue um procedimento especifico ja apresentado, a defesa devera ser notificada acerca do exame pericial que sera demandado, o objeto a ser periciado e quais os quesitos serao formulados pela CPAD para, caso queira, apresente quesitos complementares no prazo de 48h.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justiça de Minas Gerais reformou uma sentença que indeferiu o pedido de realização de perícia grafotécnica para demonstrar a autoria de um crime de falso. A prova foi considerada procrastinatória e desnecessária para o deslinde do procedimento disciplinar. O Código de Processo Civil estabelece que o juiz indeferirá a perícia quando a prova do fato não depender de conhecimento especial de técnico, for desnecessária em vista de outras provas produzidas ou a verificação for impraticável. Caso a CPAD defina pela realização de qualquer perícia, a defesa deverá ser notificada acerca do exame pericial, o objeto a ser periciado e quais os quesitos serão formulados.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nancy Andrighi, Corte Especial, por maioria, julgado em 19/10/2022. (Tema 677) RAMO DO DIREITO DIREITO PROCESSUAL CIVIL TEMA Execucao. Deposito judicial efetuado a titulo de garantia do juizo ou decorrente da penhora de ativos financeiros. Consectarios da mora. Efeito liberatorio. Nao configuracao. Revisao de tese. Tema 677. DESTAQUE Na execucao, o deposito efetuado a titulo de garantia do juizo ou decorrente da penhora de ativos financeiros nao isenta o devedor do pagamento dos consectarios de sua mora, conforme previstos no titulo executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial. Trata-se de proposta de revisao de tese repetitiva acerca dos efeitos do deposito judicial em garantia do Juizo (Tema 677). No julgamento do REsp 1.348.640/RS foi firmada a tese repetitiva no sentido de que na fase de execucao, o deposito judicial do montante (integral ou parcial) da condenacao extingue a obrigacao do devedor, nos limites da quantia depositada . 81 Em que pese tenha constado, na redacao final do Tema, a referencia expressa a extincao da obrigacao do devedor por causa do deposito judicial, observa-se que, aquela ocasiao, a Corte Especial nao se debrucou, pontualmente, acerca do efeito do deposito sobre a mora do devedor, isto e, sobre a sua liberacao quanto ao pagamento dos consectarios decorrentes do retardamento no adimplemento da obrigacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Na execução, o depósito judicial efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo. 2. Na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação não extingue a obrigação do devedor, nos limites da quantia depositada.

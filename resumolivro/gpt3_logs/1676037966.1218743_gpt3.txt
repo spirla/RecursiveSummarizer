@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Reconhecer que uma das causas, por si s, produziu o resultado significa reconhecer nela uma causalidade relevante e autnoma das demais. Em outras palavras, a causa que exclui a imputao para as demais produz um desdobramento causal prprio. Vejamos outro exemplo. Um indivduo  atropelado por veculo automotor na via pblica. Posteriormente,  conduzido ao hospital. O mdico que o examina considera a situao grave e informa aos familiares a necessidade de fazer-lhe uma transfuso de sangue. Por motivos religiosos, os familiares no permitem a transfuso. O paciente no recebe sangue e morre. A negativa de realizao do procedimento mdico (causa superveniente) no estabelece uma causalidade autnoma. A morte ocorre como desdobramento natural das leses produzidas pelo atropelamento (causa antecedente). O motorista do veculo responde por homicdio culposo. Casos que envolvem a ocorrncia de infeco hospitalar tambm merecem ateno.  muito frequente em pacientes que recebem auxilio para manter a respirao serem acometidos de broncopneumonia, por infeco contrada no ambiente hospitalar aps o procedimento de entubao. Com certeza, no se pode dizer que a infeco hospitalar seja um desdobramento natural do problema que levou o paciente ao hospital. Sem dvidas, a infeco constitui uma causa superveniente que se verifica pelas condies prprias ao ambiente hospitalar. A dificuldade que os casos de infeco apresentam dizem respeito unicamente a saber se a infeco, por si s, produziu o resultado naturalstico na situao concreta. Consideremos o exemplo de um paciente que chega ao hospital em estado de choque hemorrgico, aps ter sido atingido por disparo de arma de fogo efetuado por sujeito que visava a sua morte,  entubado e adquire broncopneumonia. Se a morte do paciente for produzida unicamente pela infeco hospitalar, o sujeito que efetivou o disparo deve responder por tentativa de homicdio. Se a infeco apenas agravar o estado de sado do paciente, que vem a bito em razo do conjunto das condies debilitantes, o sujeito que efetivou o disparo deve responder por homicdio consumado. Imputao para os atos anteriores.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A negativa de realizar um procedimento médico (causa superveniente) não estabelece uma causalidade autônoma. Em casos de infecção hospitalar, é necessário verificar se ela, por si só, produziu o resultado naturalístico na situação concreta. Se sim, o sujeito responsável pela causa antecedente (por exemplo, atropelamento ou disparo de arma de fogo) responderá por tentativa de homicídio. Se não, responderá por homicídio consumado.

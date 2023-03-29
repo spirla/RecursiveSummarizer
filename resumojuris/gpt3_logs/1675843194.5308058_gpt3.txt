@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 746) 770 PROCESSO HC 557.224-PR, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 16/08/2022, DJe 19/08/2022. RAMO DO DIREITO DIREITO PENAL TEMA Dosimetria da pena. Homicidio qualificado. Concurso de atenuantes e agravantes. Agravante de dissimulacao. Atenuante de confissao. Preponderancia sobre a dissimulacao. Quesitos previstos no art. 67 do CP. Reducao da pena.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O homicídio qualificado pode ser atenuado ou agravado por concurso de atenuantes e agravantes. 2. A agravante de dissimulação pode ser preponderada pela atenuante de confissão. 3. A dosimetria da pena deve seguir os quesitos previstos no artigo 67 do Código Penal. 4. A redução da pena é possível quando há concurso de atenuantes e agravantes.

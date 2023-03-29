@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Tal conclusao afigura-se ainda mais consentanea a hipotese, ao constatar-se que remanesce aos requerentes o direito a reparacao, que pode ser exercido por meio de acao de indenizacao. (Informativo n. 732) PRIMEIRA SECAO Voltar ao Sumario. 138 PROCESSO EDcl no AgInt no CC 184.065-SP, Rel. Ministro Herman Benjamin, Primeira Secao, por unanimidade, julgado em 25/10/2022, DJe 4/11/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO DO TRABALHO, DIREITO PROCESSUAL CIVIL TEMA Servidor ocupante de cargo em comissao. Reclamacao Trabalhista. Regime celetista. Competencia da Justica Comum. DESTAQUE Compete a Justica Comum o julgamento de controversia envolvendo direitos de servidor contratado para exercer cargo em comissao regido pela CLT. Quanto a competencia para julgamento de controversia envolvendo direitos de servidor contratado para exercer cargo em comissao, o Supremo Tribunal Federal, provocado por meio de reclamacao, entende que a competencia continua com a Justica Comum mesmo se o servidor ocupante de cargo em comissao for regido pela CLT. Nesse sentido: 1. Incompetencia da Justica Trabalhista para o processamento e o julgamento das causas que envolvam o Poder Publico e servidores que sejam vinculados a ele por relacao juridico-administrativa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Compete à Justiça Comum o julgamento de controvérsias envolvendo direitos de servidores contratados para exercer cargo em comissão regido pela CLT. 2. A Justiça Trabalhista é incompetente para o processamento e o julgamento de causas que envolvam o Poder Público e servidores que sejam vinculados a ele por relação jurídico-administrativa.

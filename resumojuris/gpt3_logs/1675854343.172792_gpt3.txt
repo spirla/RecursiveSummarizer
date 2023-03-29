@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+312 Processo Processo sob segredo de justica, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, por unanimidade, julgado em 2/8/2022, DJe 8/8/2022. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Audiencia por videoconferencia. Oitiva da vitima e da testemunha. Temor dos depoentes. Retirada do reu da sala de audiencia. Possibilidade. Presenca da defesa tecnica no ato processual. Contraditorio e ampla defesa. Nao violacao. DESTAQUE No caso em que a audiencia para oitiva da vitima e da testemunha e realizada por meio de videoconferencia, a interpretacao mais consentanea com o objetivo do disposto no art. 217 do CPP e a de que o reu tambem pode ser impedido de acompanhar os depoimentos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível realizar audiência por videoconferência para oitiva da vítima e da testemunha. 2. É possível retirar o réu da sala de audiência no caso de audiência por videoconferência. 3. A presença da defesa técnica no ato processual não viola o contraditório e a ampla defesa.

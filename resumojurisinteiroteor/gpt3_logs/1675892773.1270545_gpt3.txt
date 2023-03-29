@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A este respeito, impe-se registrar, de plano, que ao Poder Judicirio cabe, quando provocado, realizar o controle judicial dos atos da Administrao. Entretanto, sob o prisma do sistema de tripartio, esse controle apenas incide sobre a legalidade do ato, sem qualquer ingerncia no mrito da deciso, sob pena de vilipendiar sua competncia. Com efeito, restringindo-se  anlise da legalidade do ato administrativo impugnado, verifica-se que  caso de improcedncia da ao proposta, pois inexiste ilegalidade no procedimento que levou  aplicao da sano. Quanto ao primeiro quesito, insurge-se quanto  negativa de acesso  degravao das conversas que teriam sido utilizadas em seu desfavor, bem como pelo indeferimento de realizao de percia nos respectivos udios. Ainda, alega que referidas escutas, que se converteram na preparao da operao policial, deram-se de forma ilegal, sem autorizao judicial. A no pormenorizao, no libelo acusatrio, da conduta pela qual estava respondendo, tambm teria causado prejuzo ao contraditrio e  ampla defesa. Pois bem. No tocante  negativa de acesso  degravao das conversas, udio e vdeo, bem como do indeferimento dos pedidos de percia, pela CPAD, tenho que houve coisa julgada. Isso porque, essa questo foi objeto de anlise em sede de Mandado de Segurana impetrado pelo autor, autos n. 0006371-39.2012.9.13.0001, tendo sido decidido que no houve vedao  obteno da prova desejada, tampouco cerceamento de defesa. Referido apontamento pode ser inferido da certido de inteiro teor acostada ao evento 6 - CERT1. Ademais, cedio  que o ato de anlise do pedido de produo de provas encontra-se revestido pela discricionariedade atribuda  autoridade administrativa processante, que, aps anlise da sua necessidade, decide pelo seu deferimento ou no.  o que nos dita o art. 346,  2, do MAPPA e art. 70, inciso IX, do CEDM, abaixo transcritos: Art. 346. O acusado poder, no seu interrogatrio e em todo o curso da fase instrutria, solicitar a juntada de provas aos autos. [...] 2. O Presidente da CPAD poder indeferir motivadamente os pedidos considerados impertinentes, meramente protelatrios ou de nenhum interesse para o processo, especificando a referida circunstncia na ata e/ou no relatrio do processo. Art. 70 - A CPAD, no funcionamento do processo, atender ao seguinte: [...] IX - providenciar quaisquer diligncias que entender necessrias  completa instruo do processo, at mesmo acareao de testemunhas e exames periciais, e indeferir, motivadamente, solicitao de diligncia descabida ou protelatria; Em relao s demais provas colhidas, sejam elas materiais ou testemunhais, no se verificaram vcios capazes de macular a sua existncia e valorao, tampouco o procedimento administrativo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Poder Judicirio apenas controla a legalidade do ato administrativo impugnado, sem qualquer ingerncia no mrito da deciso. No caso, a ao foi improcedente pois inexiste ilegalidade no procedimento que levou aplicao da sano. A negativa de acesso degravao das conversas, udio e vdeo, bem como do indeferimento dos pedidos de percia, foi objeto de anlise em sede de Mandado de Segurana, tendo sido decidido que no houve vedao obteno da prova desejada, tampouco cerceamento de defesa. Em relao s demais provas colhidas, no se verificaram vcios capazes de macular a sua existncia e valorao, tampouco o procedimento administrativo.

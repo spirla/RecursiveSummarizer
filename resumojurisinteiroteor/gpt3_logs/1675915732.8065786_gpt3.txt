@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A mencionada denncia foi recebida na data de 17/10/2018 pela Exma. Sra. Juza de Direito (Evento 2). Na data de 19/06/2019, antes da oitiva da vtima e de duas testemunhas arroladas na denncia, o Ministrio Pblico aditou a denncia anteriormente apresentada, para imputar ao ru a prtica do crime de peculato-furto, tipificado no art. 303,  2, do CPM (fls. 95/96 do documento "peas digitalizadas5, constante no Evento 2). Aps tal manifestao, formulada durante a audincia, foram ouvidas a vtima e duas testemunhas, apenas pelo juiz singular. O juiz de direito recebeu o aditamento da denncia na data de 08/10/2020, bem como determinou que se procedesse a nova citao do ru e se desse vista  defesa para fins do art. 417, 2, do CPPM (Evento 16). A defesa do ru arrolou trs testemunhas (Evento 27), as quais foram ouvidas singularmente pelo juiz de direito (Evento 49). O ru foi interrogado singularmente, pelo juiz de direito, em audincia datada de 21/06/2021 (evento 76). Na fase do art. 427 do Cdigo de Processo Penal Militar (CPPM), as partes nada requereram (Eventos 84 e 86). Determinada a abertura de vista ao Ministrio Pblico para fins do art. 428 do CPPM, no Evento 88, a acusao ofertou suas derradeiras alegaes escritas, requerendo a condenao do ru pela prtica do crime tipificado no artigo 303,  2, do CPM, manifestando, sob a rubrica preliminar, o seguinte (Evento 91): Inicialmente, ressalta-se que a instruo processual transcorreu de forma regular e legal, sendo observados a ampla defesa e o contraditrio, no havendo nulidades a serem arguidas. No h nenhuma questo preliminar a ser enfrentada, razo pela qual se passa  anlise de mrito. O juiz de direito intimou a defesa para os fins do disposto no art. 428 do CPPM, com o seguinte despacho (Evento 93): Determino, para fins do art. 428, do CPPM, a abertura de vista a defesa do acusado para alegaes finais escritas, uma vez que no haver Plenrio por se tratar de crime de competncia do Juiz Singular.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A denncia foi recebida em 17/10/2018 e aditada em 19/06/2019, imputando ao ru a prtica do crime de peculato-furto. O ru foi citado e a defesa arrolou trs testemunhas. O ru foi interrogado e as partes nada requereram na fase do art. 427 do CPPM. O Ministrio Público ofereceu suas alegações escritas, requerendo a condenação do ru. A defesa foi intimada para alegações finais escritas.

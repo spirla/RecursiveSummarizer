@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Por ltimo, refuto a alegao de falta de percia nos aparelhos celulares, de recibos dos equipamentos, do cdigo de rastreabilidade, da identificao dos recebedores e dos nomes das pessoas que tiveram acesso a eles. Para tanto, valho-me das informaes prestadas pelo ilustre promotor de justia Dr. Peterson Queiroz de Arajo, no Evento 34, em cumprimento ao despacho acostado no Evento 21 dos Autos n. 200054571.2021.9.13.0004: [...] a coleta das evidncias foi realizada pelas equipes de policiais militares escaladas para o cumprimento dos mandados, que lacraram os dispositivos no local e os entregaram  Secretaria do GAECO em 06.03.2020, conforme detalhado no Auto de Busca N. 02/2020-P01 e REDS n. 2020-011685671-001. Os dados referentes a como, quando, onde e por quem foram apreendidos esto nos referidos documentos. [ ] os referidos aparelhos foram recebidos pela Secretaria do GAECO em 06.03.2020 e permaneceram sob a custdia da Secretaria, devidamente isolados e preservados, sendo encaminhados ao GCOC em 12.03.2020, sob a responsabilidade do Ten Cel PM Nepomuceno. Os dados solicitados esto disponveis nos documentos que acompanham esta manifestao. [...] inicialmente, convm rememorar que no se trata de exame pericial, mas de mero espelhamento de dados por ferramenta forense utilizada mundialmente para esse fim. Por conseguinte, no foram realizados exames periciais, mas sim a anlise de documentos digitais e mdias aps a extrao, de forma similar  anlise de documentos fsicos. A extrao dos dispositivos foi realizada por Marcelo Vincius Ribeiro de Miranda, devidamente capacitado pela Cellebrite, conforme certificado anexo. [...] No que tange  extrao de dados, melhor sorte no assiste  defesa. Com efeito, a extrao de dados de aparelho celular  uma atividade de mero espelhamento da informao ali existente, sem alterao de dados existentes, para a qual no se exige formao especfica, uma vez que as tarefas so executadas pelo equipamento de extrao forense utilizado ao redor do mundo. Percia  o exame feito por pessoas com conhecimentos tcnicos, artsticos, cientficos ou prticos em relao aos fatos, circunstncias ou mesmo condies pessoais apuradas no processo, tudo com o fito de servir de prova para embasar a deciso judicial. Assim, consoante Camargo Aranha, a natureza jurdica da percia  de ser um meio instrumental, tcnico-opinativo e alicerador da sentena. Instrumental porque meio ou instrumento usado pelo juiz para compor o litgio, tcnico-opinativo em razo de se justificar quanto necessria a opinio de especialista sobre o fato; e alicerce para a sentena, pois a percia ilumina o caminho do juiz que no tem o conhecimento especializado [POLASTRI, Marcellus. A prova penal. Salvador: Editora Juspodivm, 2018, p. 125].
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O juízo refuta a alegação de falta de perícia nos aparelhos celulares, apresentando informações prestadas pelo promotor de justiça e documentos relacionados à coleta das evidências. A extração dos dispositivos foi realizada por profissional capacitado e a natureza jurídica da perícia é de ser um meio instrumental, técnico-opinativo e alicerce para a sentença.

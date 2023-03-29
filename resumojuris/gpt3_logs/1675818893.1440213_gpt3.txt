@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por unanimidade, negou provimento ao agravo regimental. ARE 873804 AgR-segundo-ED-EDv-AgR/RJ, relatora Ministra Carmen Lucia, julgado em 13.10.2022 (INF 1072) 12.6 PROCESSOS COLETIVOS Participacao obrigatoria de empregado em acordo celebrado no ambito de acao civil publi-ca - RE 629647/RR (Tema 1004 RG) ODS: 8 e 16 Tese fixada: Em acao civil publica proposta pelo Ministerio Publico do Trabalho em face de empresa estatal, com o proposito de invalidar a contratacao irregular de pessoal, nao e cabivel o ingresso, no polo passivo da causa, de todos os empregados atingidos, mas e indispensavel sua representacao pelo sindicato da categoria. Resumo: Os interesses dos empregados diretamente afetados por acordo firmado no ambito de processos coletivos devem ser defendidos pelo sindicato que representa a categoria, nao havendo imprescindibili-dade da citacao de cada empregado para formacao de litisconsorcio passivo. A pretensao de inclusao de todos os individuos eventualmente atingidos pelo acordo mostra-se incom-pativel com a estrutura do processo coletivo, especialmente por comprometer a efetividade e a celeridade pro-cessual. Com base nesse entendimento, o Tribunal, por maioria, apreciando o Tema 1.004 da repercussao geral, deu parcial provimento ao recurso extraordinario e julgou procedente o pedido da acao rescisoria para, em Juizo rescindente, desconstituir o acordo em apreco e, em juizo rescisorio, determinar a reabertura da instrucao processual perante a vara do Trabalho de origem, com a devida integracao do sindicato a lide. RE 629647/RR, relator Ministro Marco Aurelio, redator do acordao Ministro Alexandre de Moraes, julgamento virtual finalizado em 28.10.2022 (sexta-feira), as 23:59 (INF 1074) 13.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Em ação civil pública proposta pelo Ministério Público do Trabalho em face de empresa estatal, não é cabível o ingresso, no polo passivo da causa, de todos os empregados atingidos, mas é indispensável sua representação pelo sindicato da categoria. 2. Os interesses dos empregados diretamente afetados por acordo firmado no âmbito de processos coletivos devem ser defendidos pelo sindicato que representa a categoria, não havendo imprescindibilidade da citação de cada empregado para formação de litisconsórcio passivo. 3. É procedente o pedido de ação rescisória para, em juízo rescindente, desconstituir o acordo em apreço e, em juízo rescisório, determinar a reabertura da instrução processual perante a vara do Trabalho de origem, com a devida integração do sindicato à lide.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+At a entrada em vigor da Lei 12.234, ocorrida no dia 6 de maio de 2010, o inciso VI do artigo 109 do CP previa o prazo prescricional de 2 (dois) anos, se o mximo da pena fosse inferior a 1 (um) ano. Com a entrada em vigor da referida lei, que estabelece situao jurdica prejudicial aos interesses do condenado, o aumento do prazo prescricional somente poder ser aplicado aos condenados pela prtica de crimes ocorridos posteriormente  sua vigncia. A garantia constitucional de que a lei penal s poder retroagir para beneficiar o condenado (artigo 5, XL) impossibilita a aplicao do prazo maior aos crimes ocorridos anteriormente a entrada em vigor da disposio legal prejudicial ao condenado. Pretenso punitiva. Na prescrio, antes de transitar em julgado a deciso condenatria, a referncia  pena mxima cominada justifica-se pelo fato de que, nesse momento processual, ainda no se sabe qual ser o quantum de pena a ser aplicado. Tratando-se de pretenso punitiva que ainda no foi satisfeita, no existir pena concretamente aplicada para calcular-se o prazo necessrio  incidncia da prescrio. Por isso, determina o legislador que o prazo para a prescrio seja calculado com base na mxima pena privativa de liberdade cominada ao crime, pois esta poderia ser a pena aplicada pelo julgador, em caso de condenao. Para apurar a pena mxima cominada, deve-se considerar a eventual existncia de causas de aumento ou de diminuio, que podem alterar os limites da pena estabelecida pelo tipo penal incriminador. Nesses casos, a alterao da pena mxima dever ocorrer com base no fator que mais a aumente ou que menos a diminua. As agravantes ou atenuantes no alteram o prazo prescricional, posto que no se pode alterar a pena alm dos limites estabelecidos pela cominao do tipo incriminador na segunda fase da dosimetria da pena. Encontrada a pena mxima, aplicam-se as regras dispostas nos incisos do artigo 109, de modo a encontrar o tempo necessrio para a ocorrncia da prescrio. Pretenso executria. A prescrio aps o trnsito em julgado da deciso condenatria  calculada com base na pena efetivamente aplicada. Com o trnsito em julgado, a reprovao penal  definitivamente estabelecida e o prazo necessrio para o reconhecimento da prescrio  proporcional  pena aplicada. Conforme determina o artigo 110 do CP, as regras estabelecidas nos incisos do artigo 109 devero ser utilizadas em relao  pena efetivamente aplicada na condenao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 12.234, em vigor desde 6 de maio de 2010, estabeleceu o prazo prescricional de 2 anos para crimes com pena máxima inferior a 1 ano. A garantia constitucional de que a lei penal só pode retroagir para beneficiar o condenado impede a aplicação do prazo maior aos crimes ocorridos antes da sua vigência. A prescrição antes do trânsito em julgado da decisão condenatória é calculada com base na pena máxima cominada, e após o trânsito em julgado, com base na pena efetivamente aplicada.

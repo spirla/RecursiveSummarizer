@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A EC 45/2004 deslocou a competncia do STJ para o STF. Quando a discusso envolver dois textos legais, um federal outro estadual ou municipal, a soluo cabe ao STF mediante recurso extraordinrio, conforme alnea d, porm, se ao decidir a causa o tribunal julgou vlido ato de governo local contestado em face de lei federal, compete ao STJ dirimir a questo por meio de recurso especial (artigo 105, III, b). A repercusso geral  um requisito de admissibilidade especfico do recurso extraordinrio, que se destina a garantir a racionalidade dos trabalhos, a segurana dos jurisdicionados e uniformizar a interpretao constitucional, sem exigir que o STF decida mltiplos casos idnticos sobre a mesma questo constitucional. De modo que o recorrente dever demonstrar a repercusso geral das questes constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admisso do recurso, somente podendo recus-lo pela manifestao de dois teros de seus membros (artigo 102, pargrafo 3, CF). Incumbe  parte recorrente demonstrar, formal e fundamentada, no recurso extraordinrio a repercusso geral das questes constitucionais discutidas, sob pena de no ser conhecido. O recurso extraordinrio no  conhecido se a questo no apresentar repercusso geral e  denegado se houver manifestao de dois teros dos membros do STF (oito ministros) no sentido de que o recurso no apresenta repercusso geral.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A EC 45/2004 deslocou a competência do STJ para o STF para questões que envolvem leis federais e estaduais ou municipais. O recurso extraordinário deve demonstrar a repercussão geral das questões constitucionais discutidas, sob pena de não ser conhecido. Se houver manifestação de dois terços dos membros do STF (oito ministros) de que o recurso não apresenta repercussão geral, ele será denegado.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+205 Fonseca (2014) alerta A motivacao per relationem e geralmente apontada como sinnimo de motivacao aliunde, malgrado seja possivel visualizar diferencas entre ambas, pois enquanto aquela consiste em remeter a outras decisoes ou pareceres e mesmo a alegacoes das partes, constantes dos proprios autos, esta consiste em adotar argumentos veiculados fora dos autos, especialmente em precedentes jurisprudenciais, para fundamentar a decisao, em vez de desenvolver originalmente seus proprios argumentos. 206 DIDIER JR., Fredie. Sobre a fundamentacao da decisao judicial. 207 FONSECA, Leonardo Alvarenga da. A fundamentacao per relationem como tecnica constitucional de racionalizacao das decisoes judiciais. 208 GASPARINI, Diogenes. Direito administrativo. 209 Essa mesma tecnica pode, perfeitamente, ser utilizada nas decisoes em recursos em primeira e segunda instncia. 210 Sobre os efeitos do recurso disciplinar, vide comentarios ao artigo 60 deste Codigo. 211 STF: RMS 27952/DF, Relator Min. Luiz Fux, DJe-088 divulg 09/05/2014 public. 12/05/2014. 212 O poder disciplinar e entendido por Di Pietro (2016, p. 125), como sendo o poder que (...) cabe a Administracao Publica para apurar infracoes e aplicar penalidades aos servidores publicos (...).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 205 de Fonseca (2014) discute a motivação per relationem como sinônimo de motivação aliunde, mas destaca as diferenças entre elas. A fundamentação per relationem é uma técnica que pode ser usada em decisões judiciais em primeira e segunda instâncias. O poder disciplinar é definido por Di Pietro (2016) como o poder da Administração Pública para apurar infrações e aplicar penalidades aos servidores públicos.

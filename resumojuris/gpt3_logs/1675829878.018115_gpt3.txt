@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No contexto do direito sancionador o indeferimento da producao probatoria, diante de suposta intempestividade, nao e um ato que se amolda ao devido processo administrativo, pois a prova apta a justificar a sancao punitiva deve ser efetiva, observadas as garantias que o direito assegura aos acusados em geral. Essa conclusao nao e uma incursao no merito administrativo, ou nas conclusoes a que chegou o julgador administrativo, mas sim uma exigencia da observancia das garantias fundamentais que devem ser asseguradas ao acusado, no contexto de um devido e regular processo administrativo. Em um contexto de exercicio do direito sancionatorio pelo Estado, o direito aplicado a especie e diferente daquele que rege uma relacao juridica processual de natureza civil. Nesse sentido, merece transcricao o art. 2, X, da Lei n. 9.784/1999, apontado como violado pelo recorrente, o qual assegura a garantia dos direitos a comunicacao, a apresentacao de alegacoes finais, a producao de provas e a interposicao de recursos, nos processos de que possam resultar sancoes e nas situacoes de litigio . O art. 2, X, da Lei n. 9.784/1999 efetivamente assegura a producao da prova ao acusado, no contexto de um processo do qual possa resultar sancoes. Trata-se de norma de especifica aplicacao aos contextos nos quais exercido o legitimo direito sancionador por meio do regular processo administrativo. Como na hipotese, tendo por objetivo apurar a pratica de infracao a ordem economica, e podendo o processo administrativo resultar na aplicacao de penalidade, o livre convencimento motivado, aplicavel aos juizos de natureza civel, cede espaco a garantia legal de efetiva producao probatoria ao acusado. Nesse mesmo sentido, o artigo 50, I, da Lei n. 9.784/1999 determina que os atos administrativos deverao ser motivados, com indicacao dos fatos e dos fundamentos juridicos, quando neguem, limitem ou afetem direitos ou interesses .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O indeferimento da produção probatória, diante de suposta intempestividade, não se amolda ao devido processo administrativo, pois a prova apta a justificar a sanção punitiva deve ser efetiva, observadas as garantias que o direito assegura aos acusados em geral. 2. O direito aplicado a espécie é diferente daquele que rege uma relação jurídica processual de natureza civil. 3. O art. 2, X, da Lei n. 9.784/1999 assegura a garantia dos direitos à comunicação, à apresentação de alegações finais, à produção de provas e à interposição de recursos, nos processos de que possam resultar sanções e nas situações de litígio. 4. O livre convencimento motivado, aplicável aos juízos de natureza civil, cede espaço à garantia legal de efetiva produção probatória ao acusado. 5. O artigo 50, I, da Lei n. 9.784/1999 determina que os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos, quando neguem, limitem ou afetem direitos ou interesses.

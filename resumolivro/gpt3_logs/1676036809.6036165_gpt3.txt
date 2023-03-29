@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Luhmann ressaltou que as possibilidades do comportamento humano so muitas e que ainda so potencializadas pela complexidade da sociedade em que vive. Como o homem interage com os demais, diante da presena dos outros, no sabe ao certo o que pode esperar do outro, nem o que o outro pode esperar dele. Por isto,  fundamental que as expectativas de comportamento sejam claras e estabilizadas. Antes de considerar a teoria dos sistemas autopoiticos (autorregulados), Luhmann sustentou que so as expectativas e as expectativas de expectativas que orientam o comportamento humano e a interao social, reduzindo a complexidade da sociedade de modo a tornar a vida mais previsvel e menos insegura. Os sistemas sociais (incluindo o direito) so constitudos para assegurar estas expectativas, fornecendo aos homens modelos de comportamentos que direcionam suas expectativas em relao aos demais. Luhmann fez distino entre as expectativas cognitivas e as normativas. As expectativas cognitivas dizem respeito ao conhecimento da realidade natural e, quando desapontadas, deixam de existir ou se adaptam. As expectativas normativas, por outro lado, no deixam de existir e no se adaptam quando de sua violao: exigem reafirmao. Com base na referida distino, Luhmann e Jakobs igualmente sustentaram que se a expectativa normativa ainda  considerada socialmente adequada deve ser mantida contrafaticamente - apesar de sua concreta violao pelos fatos. A expectativa  considerada adequada e sua violao gera a exigncia de adaptao da realidade  expectativa. Com base nestas noes, Luhmann e Jakobs conceberam a norma jurdica como uma expectativa de comportamento estabilizada contrafaticamente. Como as expectativas normativas no podem ser constantemente desapontadas, pois acabariam perdendo a credibilidade, o desapontamento deve gerar uma reao que reafirme a validade da norma violada. A interveno punitiva do Direito Penal constitui uma das possveis reaes que cumprem a funo de reafirmar a validade da norma. Por isso, o sistema de Jakobs substitui os elementos ontolgicos, sobre os quais se edificaram o sistema clssico e o finalista, pelo conceito normativo de responsabilidade pela infrao  norma, sustentando que a misso da pena (Direito Penal)  a reafirmao da vigncia da norma jurdica. Jakobs define a pena como uma mostra da vigncia da norma para o responsvel por sua violao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Segundo Luhmann e Jakobs, as expectativas de comportamento são estabilizadas para reduzir a complexidade da sociedade. A distinção entre expectativas cognitivas e normativas foi feita: as expectativas cognitivas se adaptam quando desapontadas, enquanto as normativas exigem reafirmação. O Direito Penal intervém punitivamente para reafirmar a validade da norma violada. Jakobs define a pena como uma mostra da vigncia da norma para o responsável pela infração.

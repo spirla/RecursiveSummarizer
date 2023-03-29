@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STM reconheceu que o artigo 24 da Lei 8.457/92, que organiza a JMU e regula o funcionamento de seus servios auxiliares, ao prever forma de composio hbrida dos Conselhos de Justia, formados por um juiz e quatro juzes militares, no ofende o princpio da identidade fsica do juiz preceituado no pargrafo 2 do artigo 399 do CPP, que no  absoluto. A propsito, o TJMSP41 decidiu pela no aplicabilidade do princpio da identidade fsica do juiz no processo penal militar. Captulo V. Sistema Acusatrio. Para melhor compreenso do sistema acusatrio  foroso examinar o inquisitrio, que dominou as legislaes processuais at o sc. XIX. Como bem acentua Magalhes Filho o mtodo inquisitivo aperfeioou-se sobretudo no seio das jurisdies eclesisticas, diante da necessidade de represso da heresia e das condutas irregulares do clero, que exigiam uma permanente atividade de investigao por parte das autoridades religiosas, e acresce o ilustre processualista que os corolrios dessas exigncias eram o segredo, face ao perigo de propagao das condutas herticas ou contestadoras do poder real, bem como o carter ilimitado da pesquisa da verdade, que consistia em verdadeira obsesso do inquisidor;
+da ser natural, nessa perspectiva, a utilizao do saber do prprio acusado como fonte de informao;
+se culpado, o acusado tem certamente um conhecimento preciso da realidade e a confisso, se obtida, constitui a melhor forma de se alcanar a verdade real. Caracterizou-se o sistema inquisitrio por:
+a) acumular na mesma pessoa a funo de acusar e de julgar (o juiz-acusador);
+b) liberdade do juiz na investigao, na aquisio e na valorao da prova independente qualquer entendimento da parte;
+c) desenvolvimento do processo em segredo e escrito. O fato de o processo ser escrito e secreto afastava a possibilidade de controle pblico na distribuio da justia, e tornou-se um feudo do juiz e o imputado o seu objeto.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STM reconheceu que o artigo 24 da Lei 8.457/92, que organiza a JMU, não ofende o princípio da identidade física do juiz preceituado no pargrafo 2 do artigo 399 do CPP. O sistema acusatório caracterizou-se por acumular na mesma pessoa a função de acusar e de julgar, liberdade do juiz na investigação, desenvolvimento do processo em segredo e escrito.

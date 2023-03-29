@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Os argumentos alinhavados por Denilson Feitosa chegam a essa concusso:
+No processo penal militar, o ru se defende tanto dos fatos descritos na denncia quanto da classificao legal, vedando o artigo 437, a, do CPMM, expressamente, que o conselho de Justia conhea, no momento do julgamento, nova definio jurdica, ou seja, nova classificao legal, se esta no tiver sido formulada pelo MP at as alegaes escritas (artigo 428, CPPM). Adiciona o eminente processualista que o CPPM, sendo, no ponto, uma legislao mais moderna (1969), procurou se adequar mais a um sistema acusatrio puro onde h ntida separao entre as funes do rgo acusador e do rgo julgador, bem como conferir maior efetividade ao princpio do contraditrio e, especialmente, ao princpio da ampla defesa. O STF concedeu a ordem de habeas corpus para novo julgamento do paciente que fora denunciado pelo crime de violao de dever funcional com o fim de lucro (artigo 320, CPM) e na apelao o STM deu nova definio jurdica ao fato e o condenou por estelionato (artigo 251, pargrafo 3, CPM) sem conceder ao ru a oportunidade de defesa, o que acarreta violao aos direitos constitucionais do contraditrio e da ampla defesa, bem como ao artigo 437 do Cdigo de Processo Penal Militar. De modo coerente, o STF no anulou o acrdo do STM que confirmou a sentena em que o recorrente fora denunciado por homicdio doloso (dolo eventual), porque em alegaes finais o MPM aditou a denncia para homicdio culposo e o recorrente teve oportunidade de se defender. Na jurisprudncia militar o que se verifica, com o devido respeito,  o desprestgio do sistema acusatrio formulado pelo CPPM e pela Constituio Federal, desateno aos princpios constitucionais da inrcia da jurisdio, do contraditrio e da ampla defesa e o relaxamento do grau de exigncia que o CPPM faz para a mutabilidade do objeto do processo, ou seja, que a mudana da qualificao jurdica dos fatos seja feita pelo Ministrio Pblico.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF concedeu a ordem de habeas corpus para novo julgamento de um paciente denunciado por violação de dever funcional com o fim de lucro. O STM deu nova definição jurdica ao fato e o condenou por estelionato sem conceder ao réu a oportunidade de defesa, violando direitos constitucionais. O STF não anulou o acórdão do STM que confirmou a sentença de homicídio doloso, pois o MPM aditou a denúncia para homicídio culposo e o réu teve oportunidade de se defender. A jurisprudência militar despreza o sistema acusatório formulado pelo CPPM e pela Constituição Federal, desatendendo princípios constitucionais.

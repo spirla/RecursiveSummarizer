@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O querelante postula em juzo atravs de advogado com poderes especiais, conforme dispe o artigo 44 do CPP.35 A queixa deve conter os mesmos requisitos da denncia (artigo 41, CPP). No caso de morte do ofendido ou quando declarado ausente por deciso judicial, o direito de oferecer queixa ou prosseguir na ao passar ao cnjuge, ascendente, descendente ou irmo (artigo 31, CPP). So princpios da ao penal de iniciativa privada a oportunidade e convenincia. Se o ofendido ou a quem tenha qualidade para represent-lo deixar de exercer o direito de ao no prazo de 06 (seis) meses h decadncia (artigo 38, CPP) e a consequncia  a extino da punibilidade (artigo 107, IV, CP). Pelo princpio da disponibilidade o ofendido ou quem tenha qualidade para represent-lo pode renunciar ao direito de ao dando causa  perempo (artigo 60, CPP). Pelo princpio da indivisibilidade, o querelante tem que oferecer queixa contra todos os agentes. Vige, por fim, o princpio da intranscendncia j analisado. So causas de extino da punibilidade do artigo 107 do CP, alm da decadncia, a renncia e o perdo do ofendido, e a perempo. A renncia ao direito de queixa  um ato unilateral, que dispensa anuncia do autor do fato, feita de forma expressa e escrita (artigo 50, CPP) ou tcita (artigo 57, CPP);
+o perdo depende da aceitao do ru - bilateral -, e  concedido aps o recebimento da queixa at o trnsito em julgado da sentena. O perdo concedido a um dos querelados aproveita a todos, desde que o aceitem (artigo 51, CPP). A perempo  uma espcie de sano processual, que ocorre em uma das situaes dos incisos I a IV do artigo 60 do CPP. 7.4. Denncia. A denncia  a pea acusatria elaborada pelo rgo do Ministrio Pblico nos crimes de ao penal de iniciativa pblica imputando a pessoa ou a pessoas a prtica de fato que, em tese, constitua crime.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O querelante pode postular em juízo através de advogado com poderes especiais, conforme previsto no artigo 44 do CPP. Se o ofendido ou quem tenha qualidade para representá-lo deixar de exercer o direito de ação no prazo de 6 meses, há decadência, o que resulta na extinção da punibilidade. O ofendido ou quem tenha qualidade para representá-lo também pode renunciar ao direito de ação, ou seja, dar causa à perempção. O Ministério Público elabora a denúncia nos crimes de ação penal de iniciativa pública. O perdão do ofendido depende da aceitação do réu e a renúncia é um ato unilateral.

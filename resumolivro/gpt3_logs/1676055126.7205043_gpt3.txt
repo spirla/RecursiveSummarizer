@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Como exemplo da atipicidade que ora nos ocupa a ateno,  possvel indicar a hiptese em que o advogado revela a um amigo seu desconforto profissional por ter que defender um cliente, o qual no identifica para o amigo, por descobrir sua culpa no fato em apurao judicial. No contexto da conversa mantida com o amigo,  possvel que a informao do advogado se apresente irrelevante (insignificante) e sua revelao no permita caracterizar a violao da norma incriminadora. Omisso do garantidor. O ncleo do tipo incriminador descreve a conduta proibida por meio do verbo revelar que indica a realizao de um comportamento comissivo do sujeito ativo. No entanto, o crime em exame tambm pode ser cometido por quem esteja na posio de garantidor, conforme os termos do artigo 13, pargrafo 2, do Cdigo Penal. Como exemplo, pode-se considerar o caso do supervisor de equipe profissional que no impede um dos integrantes que lhe  subordinado de revelar o contedo de informaes sigilosas que esto sob a responsabilidade da equipe. 6.13.7. Elemento subjetivo do tipo. O crime de violao de segredo profissional s possui previso legal para realizao em sua forma dolosa. Desse modo,  necessrio que o sujeito oriente sua conduta diretamente pela inteno de revelar, sem justa causa, segredo, de que tem cincia em razo de funo, ministrio, ofcio ou profisso, e cuja revelao possa produzir dano a outrem.  possvel a caracterizao do tipo subjetivo com o dolo eventual. Nesse caso, o sujeito assume o risco de que sua conduta no esteja amparada em justa causa ou que a revelao da informao possa causar danos a outrem. 6.13.8. Consumao e tentativa. O crime de violao de segredo profissional  formal, de modo que a descrio tpica impe que sua consumao ocorra no instante em que o sujeito ativo faz a revelao do segredo, dirigida a, ao menos uma pessoa. Como deixa claro o tipo incriminador previsto no caput do artigo 154 do CP, a conduta deve ser potencialmente danosa a outrem, de modo que a divulgao deve estabelecer situao de perigo concreto que possibilita a ocorrncia de danos a terceira pessoa. Os danos a que se refere o tipo podem ser materiais ou morais, mas em qualquer caso devem ser relevantes. No entanto, no  necessrio que o dano ocorra. Basta que ocorra a revelao da informao secreta e que essa revelao concretamente possa produzir danos a terceiros.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de violação de segredo profissional é formal, de modo que a descrição típica impõe que sua consumação ocorra no instante em que o sujeito ativo faz a revelação do segredo, dirigida a, ao menos uma pessoa. A conduta deve ser potencialmente danosa a outrem, de modo que a divulgação estabeleça uma situação de perigo concreto que possibilite a ocorrência de danos a terceira pessoa. O elemento subjetivo do tipo é doloso e pode ser caracterizado com o dolo eventual.

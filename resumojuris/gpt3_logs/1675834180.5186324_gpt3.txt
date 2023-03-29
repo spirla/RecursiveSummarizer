@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL TEMA Anistia politica. Direito a reparacao economica. Cobranca de valores retroativos a concessao da anistia. Obito do anistiado. Fato posterior a data do julgamento da anistia. Legitimidade ativa. Espolio. DESTAQUE O espolio possui legitimidade ativa para ajuizar acao postulando pelo pagamento de reparacao economica retroativa a data da concessao de anistia politica, na hipotese em que a data do obito do anistiado e posterior a esta. No caso, o anistiado faleceu apos o julgamento da anistia e o inicio dos efeitos financeiros da respectiva Portaria. Os efeitos financeiros retroativos representam, unicamente, valores incorporados ao patrimonio do de cujus, relativos ao periodo compreendido entre a data fixada na Portaria anistiadora e a da morte do anistiado, constituindo direitos patrimoniais transmissiveis aos herdeiros/sucessores do de cujus, razao pela qual o espolio e parte legitima para requerer o pagamento desse montante. (Informativo n. 747) PROCESSO MS 20.187-DF, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O espolio possui legitimidade ativa para ajuizar ação postulando o pagamento de reparação econômica retroativa à data da concessão da anistia política, na hipótese em que a data do óbito do anistiado é posterior a esta. 2. Os efeitos financeiros retroativos representam valores incorporados ao patrimônio do de cujus, relativos ao período compreendido entre a data fixada na Portaria anistiadora e a da morte do anistiado, constituindo direitos patrimoniais transmissíveis aos herdeiros/sucessores do de cujus.

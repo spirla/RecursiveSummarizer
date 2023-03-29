@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos casos em que o sujeito aproveita-se de estar o computador alheio ligado e com o acesso irrestrito, por exemplo, no ser possvel caracterizar o crime em exame. Do mesmo modo, nos casos em que o computador estiver conectado  internet, sem proteo, a invaso realizada no equipamento no poder caracterizar o crime em exame. Para a caracterizao do crime de invaso de dispositivo informtico ainda  necessrio que o sujeito oriente sua conduta por, ao menos, uma de quatro finalidades especificamente identificadas no tipo incriminador. Para os casos em que, como ocorre no crime previsto no artigo 154-A do CP, h expressa identificao de uma finalidade para a conduta a doutrina clssica concebeu a noo de dolo especfico, tambm denominado de especial fim de agir. Especial fim de agir. A primeira das finalidades especificadas no tipo diz respeito ao fim de obter dados ou informaes sem autorizao expressa ou tcita do titular do dispositivo. Obter dados ou informaes significa conhecer, descobrir, saber sobre o contedo dos dados ou informaes e pressupe que o sujeito ativo no tenha conhecimento prvio sobre os dados ou informaes. Obter, no contexto, significa conhece algo que no se conhecia anteriormente. Nesse sentido, o crime no se caracteriza quando a invaso visa apenas utilizar uma informao ou conjunto de informaes previamente conhecido, como  o caso de utilizao de um aplicativo de jogos virtuais. Invadir um dispositivo informtico, sem autorizao expressa ou tcita do titular do dispositivo, para jogar em um de seus aplicativos que  previamente conhecido pelo sujeito ativo no caracteriza o crime em exame, pois a invaso no visa obter dados ou informaes. Para o objetivo de obteno de dados ou informaes que esto armazenados em dispositivo informtico no  necessrio que ocorra a subtrao dos mesmos da esfera de disponibilidade do seu titular, com sua retirada do dispositivo. O acesso no autorizado que visa  obteno dos dados ou informaes constantes do dispositivo informtico restringe-se ao conhecimento do contedo dos mesmos, no exigindo que sejam retirados da esfera de disponibilidade de seu legitimo titular. Tambm no  necessrio que os dados ou informaes estejam armazenados no dispositivo invadido, sendo possvel a caracterizao do crime quando o sujeito realiza a invaso indevida de um dispositivo para acessar dados ou informaes que esto armazenados em outro dispositivo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O crime de invasão de dispositivo informático só pode ser caracterizado se o sujeito ativo tiver a intenção de obter dados ou informações sem autorização expressa ou tácita do titular do dispositivo. A invasão não precisa resultar na retirada dos dados ou informações do dispositivo, sendo possível caracterizar o crime mesmo que os dados ou informações estejam armazenados em outro dispositivo.

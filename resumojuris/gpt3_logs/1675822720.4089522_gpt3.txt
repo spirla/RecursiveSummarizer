@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Dias Toffoli, julgamento finalizado em 11.2.2021 (INF 1005) Estado de Coisas Inconstitucional e sistema penitenciario brasileiro - HC 165704 Extn-trigesima nona/DF Resumo: Diante da permanencia de Estado de Coisas Inconstitucional (ECI) no ambito do sistema penitenciario brasileiro  caracterizado pela manutencao de altos niveis de encarceramento e da resistencia ao cumprimento de decisoes do STF , faz-se necessaria a adocao de medidas tendentes ao efetivo implemento de ordens judiciais, dentre as quais, a realizacao de audiencias publicas. A audiencia publica faz-se necessaria diante da baixa quantidade de informacoes apresentadas pelos tribunais patrios no que se refere ao cumprimento da ordem estabelecida neste habeas corpus  no sentido da substituicao da prisao preventiva pela prisao domiciliar aos unicos responsaveis pelos cuidados de menor de 12 anos ou de pessoa com deficiencia, desde que observados os requisitos do art. 318 do CPP e nao praticados crimes mediante violencia ou grave ameaca ou contra os proprios filhos ou dependentes, bem como a outras pessoas presas, que nao sejam a mae ou o pai, se forem imprescindiveis aos cuidados especiais de pessoa menor de 6 anos ou com deficiencia (Informativo STF 996). Essa circunstancia tambem vem ocorrendo em outros processos em que se verifica uma certa resistencia a implementacao das ordens e da jurisprudencia do STF em relacao ao sistema de justica criminal. Aliado a tais fatos, observa-se, ainda, que os niveis de superlotacao carceraria continuam em patamares muito elevados, o que reforca a existencia do ECI do sistema penitenciario nacional, com a violacao massiva dos direitos fundamentais de um numero significativo de pessoas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessária a adoção de medidas tendentes ao efetivo cumprimento de ordens judiciais no âmbito do sistema penitenciário brasileiro. 2. A realização de audiências públicas é necessária diante da baixa quantidade de informações apresentadas pelos tribunais patrios no que se refere ao cumprimento da ordem estabelecida no habeas corpus. 3. É necessário substituir a prisão preventiva pela prisão domiciliar aos responsáveis pelos cuidados de menor de 12 anos ou de pessoa com deficiência, desde que observados os requisitos do art. 318 do CPP. 4. É necessário que outras pessoas presas, que não sejam a mãe ou o pai, sejam imprescindíveis aos cuidados especiais de pessoa menor de 6 anos ou com deficiência. 5. O alto nível de superlotação carcerária reforça a existência do Estado de Coisas Inconstitucional (ECI) do sistema penitenciário nacional, com a violação massiva dos direitos fundamentais de um número significativo de pessoas.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STJ (HC 285.589/MG- Informativo 569) concedeu ordem de habeas corpus ao condenado na primeira ao penal pela prtica de crime de roubo contra uma instituio bancria, posto que no poderia ser na segunda ao penal condenado por crime de roubo supostamente cometido contra o gerente do banco no mesmo contexto ftico, ainda que a conduta referente a este suposto roubo contra o gerente no tenha sido sequer levada ao conhecimento do juzo da primeira ao penal, vindo  tona somente no segundo processo. Reconheceu a Corte bis in idem, na medida em que praticado no mesmo contexto ftico da primeira ao. Do contrrio, ocorreria violao da garantia constitucional da coisa julgada:
+[...] III - No obstante as nuances constantes dos decretos condenatrios relativamente aos bens subtrados pelo paciente,  evidente que as condenaes incidiram sobre o mesmo fato criminoso, implicando em indevido bis in idem em desfavor do paciente. (destaquei)IV - Malgrado o roubo cometido contra a vtima Paulo Jos de Oliveira, gerente do estabelecimento bancrio, no tenha sido apreciado na primeira ao, vindo  tona apenas no segundo processo, ele tambm se encontra sob o mbito de incidncia do princpio nebis in idem, porque fora praticado no mesmo contexto ftico da primeira ao, podendo ser levado ao conhecimento do juzo de origem j naquela oportunidade, o que no ocorreu. Prevaleceu na deciso do STJ (HC 281.101/SP) diante do trnsito em julgado de duas sentenas condenatrias por fatos idnticos a condenao mais favorvel ao ru. Se o acusado for julgado por apenas um dos delitos cometidos em concurso formal, ainda que a deciso absolutria por um dos crimes tenha transitado em julgado, h impedimento de o acusado ser processado por outro crime ou outros crimes concorrentes? Pondera Tourinho Filho que, se na sentena foi apreciado apenas um dos fatos e o ru logrou absolvio com trnsito em julgado, torna-se necessrio indagar qual foi o fundamento do decreto absolutrio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ concedeu habeas corpus ao condenado por roubo contra uma instituição bancária, pois não poderia ser condenado por outro crime cometido no mesmo contexto, o que violaria o princípio da coisa julgada. Se o acusado for julgado por apenas um dos delitos cometidos em concurso formal, ainda que a decisão absolutória por um dos crimes tenha transitado em julgado, há impedimento de o acusado ser processado por outro crime ou outros crimes concorrentes.

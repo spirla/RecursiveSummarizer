@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Agravo interno a que se nega provimento. (AR 2729 AgR, Relator(a): LUIZ FUX, Tribunal Pleno, julgado em 20/12/2019, PROCESSO ELETRNICO DJe-035 DIVULG 18-022020 PUBLIC 19-02-2020) G.F. PROCESSUAL CIVIL E PREVIDENCIRIO. AGRAVO INTERNO NA AO RESCISRIA. A AO RESCISRIA FUNDADA NO INCISO V DO ART. 966 DA LEI PROCESSUAL EXIGE QUE A VIOLAO DE NORMA JURDICA SEJA LITERAL, DIRETA, EVIDENTE, DISPENSANDO O REEXAME DOS FATOS DA CAUSA. MERO INCONFORMISMO COM O DESLINDE DA QUESTO, NO autoriza a desconstituio da coisa julgada. IMPOSSIBILIDADE DE UTILIZAO DA RESCISRIA COMO sucedneo recursal. agravo interno do particular a que se nega provimento. [...], 3.  certo que o cabimento da Ao Rescisria com base em violao literal  disposio de lei somente se justifica quando a ofensa se mostre aberrante, cristalina, observada primo oculi, consubstanciada no desprezo do sistema jurdico (normas e princpios) pelo julgado rescindendo. 4. Nesse sentido, esta Corte pacificou a orientao de no ser a Ao Rescisria meio adequado para corrigir suposta injustia da sentena, apreciar m interpretao dos fatos, reexaminar as provas produzidas ou complement-las. 5. Agravo Interno do Particular a que se nega provimento. (STJ - AgInt na AR 6.092/CE, Rel. Ministro NAPOLEO NUNES MAIA FILHO, PRIMEIRA SEO, julgado em 09/09/2020, DJe 16/09/2020) G.F AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AO RESCISRIA. DECISO RESCINDENDA. ART.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O cabimento da Ação Rescisória com base em violação literal à disposição de lei somente se justifica quando a ofensa se mostre aberrante, cristalina e observada primo oculi, não sendo meio adequado para corrigir suposta injustiça da sentença, apreciar interpretação dos fatos, reexaminar as provas produzidas ou complementá-las. Agravo Interno do Particular a que se nega provimento.

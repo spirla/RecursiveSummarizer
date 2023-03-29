@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, cuida-se de pedidos de extensao a ordem coletiva concedida em favor de todos os presos que tenham sob a sua unica responsabilidade pessoas com deficiencia e criancas, em face de decisoes proferidas por juizos de varas criminais estaduais, pelos tribunais dos estados e do Distrito Federal, por juizos federais com competencia criminal, pelos tribunais regionais federais e pelo Superior Tribunal de Justica. Com base nesse entendimento, a Segunda Turma, por votacao unanime, nao conheceu dos pedidos de extensao  com a determinacao de exclusao dos pedidos e dos documentos anexados aos autos, mediante certidao, de modo a nao causar tumulto processual , nos termos do voto do relator, e deliberou pela realizacao de audiencia publica para acompanhamento e fiscalizacao do cumprimento da ordem coletiva a luz do contexto do ECI do sistema penitenciario brasileiro, sob conducao do relator. HC 165704 Extn-trigesima nona/DF, relator Min. Gilmar Mendes, julgamento em 13.4.2021 (INF 1013) Estrangeiro em condicao de hipossuficiencia e taxas de regularizacao migratoria  RE 1018911/RR (Tema 988 RG) Tese: E imune ao pagamento de taxas para registro da regularizacao migratoria o estrangeiro que demonstre sua condicao de hipossuficiente, nos termos da legislacao de regencia. Resumo: O estrangeiro com residencia permanente no Brasil, na condicao de hipossuficiencia, esta dispensado do pagamento de taxas cobradas para o processo de regularizacao migratoria. Isso porque, examinando-se as regras de imunidade do art. 5, LXXVI e LXXVII, da CF/88 (CF), com olhos voltados para seus fundamentos, pode-se concluir que a regra se insere nos desdobramentos do exercicio da propria cidadania. Ressoa inequivoco, portanto, que o estrangeiro residente no pais ostenta condicao subjetiva para fruicao da imunidade constitucional, no que se mostram destoantes da Constituicao as exigencias legais e infralegais que nao assegurem tal condicao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É imune ao pagamento de taxas para registro da regularização migratória o estrangeiro que demonstre sua condição de hipossuficiente, nos termos da legislação de regência. 2. O estrangeiro com residência permanente no Brasil, na condição de hipossuficiência, está dispensado do pagamento de taxas cobradas para o processo de regularização migratória. 3. A regra de imunidade do art. 5, LXXVI e LXXVII, da CF/88 (CF) se insere nos desdobramentos do exercício da própria cidadania. 4. O estrangeiro residente no país ostenta condição subjetiva para fruição da imunidade constitucional, não se mostrando destoantes da Constituição as exigências legais e infralegais que não assegurem tal condição.

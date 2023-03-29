@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+So atos processuais realizados perante rgo judicial colegiado, tanto em segundo como em primeiro grau de jurisdio; em caso de necessidade, podem ser realizadas fora da sede da Auditoria (CPPM, art. 388). Sobre a publicidade das sesses ver item 3.8. O CPPM prev que a cada sesso o escrivo lavra ata dela constando os requerimentos, as decises e os incidentes ocorridos. Na sesso seguinte, por determinao do Conselho ou a requerimento de qualquer das partes, a ata poder ser retificada, quando omitir ou no houver declarado fielmente fato ocorrido na sesso (CPPM, art. 395 e pargrafo nico). Se a colheita da prova oral for por meio audiovisual no h necessidade de degravao, bastando a disponibilizao da cpia do registro original do depoimento colhido em sesso. A ausncia de transcrio no impede o acesso  prova. 13.2.1.Videoconferncia. A realizao de sesses por videoconferncia imprime celeridade ao processo e gera economia de recursos. A organizao judiciria militar tem reduzido nmero de juzos militares e a competncia territorial das Auditorias  extensa, abrangendo vrios municpios, muitos deles distantes da sede. Acusados tm que se deslocar  Auditoria, geralmente sediada na Capital do Estado, para acompanhar inquiries e se ver interrogar, deslocamentos que acarretam: (a) a retirada do militar do servio: se o servio for de policiamento prejudica o atendimento  populao; (b) custos para o advogado; (c) demora  instruo criminal. O recurso tecnolgico, ademais, capta os depoimentos com qualidade, no ofende a ampla defesa na medida em que permite contato reservado do acusado com seu advogado, caso um deles esteja na sede da Auditoria na Capital e o outro no Frum do interior do Estado. O advogado dispe de linha telefnica privativa para se comunicar com seu cliente. Em tempo real, acusado e defensor acompanham a inquirio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CPPM prev que os atos processuais realizados perante órgão judicial colegiado podem ser realizados fora da sede da Auditoria. A cada sessão, o escrivo lavra ata contendo os requerimentos, decisões e incidentes ocorridos. A realização de sessões por videoconferência acelera o processo e economiza recursos, permitindo que acusados e defensores acompanhem a inquirição em tempo real.

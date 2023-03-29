@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Esclarecendo o alcance do Relatorio Reservado, o MAPPA, em seu artigo 64, estabeleceu que o ato ou fato contrario a moralidade a que alude o caput do presente artigo se dirige aos atos de improbidade administrativa e que o ato ou fato contrario a legalidade somente podem ser infracoes penais comuns e militares, posto que, em ambos os casos, e um dever de oficio de qualquer militar, seja superior ou subordinado, noticiar a Administracao Militar a ocorrncia desses fatos que vier a presenciar ou tomar conhecimento. A justificativa dessa delimitacao de materia que pode ser objeto do Relatorio Reservado da-se no sentido de que o referido documento nao pode ser utilizado para desvirtuar os principios da hierarquia e da disciplina, de modo a permitir que funcione como uma especie de comunicacao disciplinar produzida por inferior hierarquico ou mais moderno em face de superior ou mais antigo. Artigo 96 - Ficam definidas as seguintes regras de aplicacao dos dispositivos deste Codigo, a partir de sua vigncia:
+- o militar que possuir registro de ate uma detencao em sua ficha funcional nos ultimos cinco anos fica classificado no conceito A;
+- o militar que possuir registro de menos de duas prisoes em sua ficha funcional no periodo de um ano ou de ate duas prisoes em dois anos fica classificado no conceito B, com zero ponto;
+- o militar que possuir registro de ate duas prisoes em sua ficha funcional no periodo de um ano fica classificado no conceito B, com vinte e cinco pontos negativos;
+- o militar que possuir registro de mais de duas prisoes em sua ficha funcional no periodo de um ano fica classificado no conceito C, com cinquenta e um pontos negativos;
+- as punicoes aplicadas anteriormente a vigncia deste Codigo serao consideradas para fins de antecedentes e outros efeitos inseridos em legislacao especifica;
+- aplicam-se aos procedimentos administrativo-disciplinares em andamento as disposicoes deste Codigo, aproveitando-se os atos ja concluidos;
+- fica abolido o caderno de registros como instrumento de avaliacao do oficial da PMMG e do CBMMG, ficando instituida a avaliacao anual de desempenho e produtividade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O MAPPA estabeleceu que o Relatório Reservado se dirige aos atos de improbidade administrativa e infrações penais comuns e militares. O objetivo é evitar o uso do documento para desvirtuar os princípios da hierarquia e disciplina. O Código estabelece regras de aplicação para punições anteriores à sua vigência, além de abolição do caderno de registros e instituição da avaliação anual de desempenho e produtividade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+- A sentenca penal absolutoria por nao constituir o fato infracao penal nao vincula as esferas administrativa e civel, o que somente ocorre quando naquela instncia tenha sido decidido que o reu nao e o autor do crime ou que o fato nao ocorreu. - A responsabilizacao penal nao se confunde com a administrativo-disciplinar residual que a mesma situacao fatica pode provocar. - Nega-se provimento ao recurso para manter o ato administrativo-disciplinar de exclusao (TJM-MG: Apelacao - Processo n. 1000103-38.2015.9.13.0003; Relator: Juiz Socrates Edgard dos Anjos; Julgamento - unnime: 28/06/2018. DJME: 06/07/2018). APELACAO CIVEL - CRIME DE HOMICIDIO - SUBMISSAO A PAD - (...) - ESFERAS PENAL E ADMINISTRATIVA SAO INDEPENDENTES - PROCESSO CRIMINAL NAO CONSTITUI OBICE PARA INSTAURACAO DE PAD PELA ADMINISTRACAO MILITAR - PLENO EXERCICIO DA AMPLA DEFESA E DO CONTRADITORIO - MANUTENCAO DA SENTENCA DE PRIMEIRO GRAU - RECURSO A QUE SE NEGA PROVIMENTO. - As esferas penal e administrativa sao independentes. O fato de o crime praticado pelo apelante ser doloso, culposo ou qualificado por motivo torpe nao constitui obice para que Administracao Militar instaure o processo administrativo-disciplinar, se ela entender que a conduta praticada afetou gravemente a credibilidade e a imagem dos militares, bem como a honra pessoal e o decoro da classe, independentemente do conceito em que o militar estiver classificado. - A autoridade militar, no uso de sua discricionariedade, definiu a conduta atribuida ao recorrente, tipificando-a em consonncia com o CEDM. (...). - Sentenca mantida. - Provimento negado. (TJM-MG: Apelacao - Processo eproc n. 2000986-26.2019.9.13.0003; Relator: Desembargador Rubio Paulino Coelho; Julgamento - unnime: 02/06/2020. EPROC: 10/06/2020).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A responsabilização penal não se confunde com a responsabilização administrativa-disciplinar residual que a mesma situação fática pode provocar. As esferas penal e administrativa são independentes, e a autoridade militar pode definir a conduta atribuída ao recorrente, independentemente do conceito em que o militar estiver classificado. Sentença mantida e provimento negado.

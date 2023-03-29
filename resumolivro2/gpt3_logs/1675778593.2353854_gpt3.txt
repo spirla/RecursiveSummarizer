@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O juiz federal da JMU e o juiz de direito da JME, por sua vez, incorrem em crime de abuso de autoridade previsto no artigo 9, pargrafo nico da Lei 13.869/2019, que, dentro de prazo razovel, deixarem de:
+I - relaxar a priso manifestamente ilegal;
+II - substituir a priso preventiva por medida cautelar diversa ou de conceder liberdade provisria, quando manifestamente cabvel;
+e de III - deferir liminar ou ordem de habeas corpus, quando manifestamente cabvel. 11.2.3. Priso preventiva. A priso preventiva  de ultima ratio, conforme estabelece o artigo 282, pargrafo 6, do CPP:
+ser determinada quando no for cabvel a sua substituio por outra medida cautelar (artigo 319). Se a liberdade deve ser a regra e a priso, sem trnsito em julgado da condenao, a exceo, a priso preventiva, espcie do gnero priso cautelar de natureza processual, fica reservada aos casos excepcionais, decretada nos casos de necessidade, para garantir a ordem pblica, a regular instruo do processo ou assegurar a eficcia da deciso final, pois sujeita a pessoa ao crcere sem estar com a culpa formada. A priso preventiva no se revela incompatvel com a presuno de inocncia ou de no culpabilidade (artigo 5, LVII, CF), mas o referido princpio constitucional exige a demonstrao dos elementos objetivos, indicativos dos motivos concretos autorizadores da medida constritiva de liberdade, impe regra de tratamento ao suspeito, indiciado, denunciado e ao ru, que no so considerados culpados, enquanto no houver o trnsito em julgado da sentena penal condenatria. A Suprema Corte assinalou que a garantia constitucional da presuno de inocncia impede que se trate, como culpado, aquele que ainda no sofreu condenao penal irrecorrvel. Ningum pode ser tratado como culpado, qualquer que seja a natureza do ilcito penal, cuja prtica lhe tenha sido atribuda, sem que exista, a esse respeito, deciso judicial condenatria transitada em julgado. A necessidade de preservao da efetividade do processo surge como fundamentao vlida e suficiente para justificar a segregao excepcional de quem ainda se deva considerar inocente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz federal da JMU e o juiz de direito da JME incorrem em crime de abuso de autoridade se deixarem de relaxar a prisão manifestamente ilegal, substituir a prisão preventiva por medida cautelar diversa ou conceder liberdade provisória quando cabível. A prisão preventiva é de última ratio e só deve ser determinada quando não for cabível a sua substituição por outra medida cautelar. O princípio constitucional da presunção de inocência impede que se trate como culpado aquele que ainda não sofreu condenação penal irrecorrível.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Imputacao de participacao em duas organizacoes criminais. Alegacao de litispendencia. Nao verificacao. Condutas independentes e autonomas. Prolacao de sentenca na Justica Estadual. Impossibilidade de reuniao dos processos. Art. 82 do CPP. DESTAQUE A imputacao de dois crimes de organizacao criminosa ao agente nao revela, por si so, a litispendencia das acoes penais, se nao ficar demonstrado o liame entre as condutas praticadas por ambas as organizacoes criminosas. Cinge-se a controversia acerca de provavel litispendencia na imputacao de dois crimes de organizacao criminosa, um na esfera estadual e outro na esfera federal. 1212 Contudo, as instancias ordinarias consignaram que a hipotese nao revela a existencia de litispendencia, uma vez que a imputacao formulada na Justica Federal (Operacao Deforest II) e a formulada na Justica Estadual (Operacao Deforest I) possuem em comum apenas a participacao do agente. Diante do contexto fatico delineado, com base em elementos concretos dos autos, tem-se devidamente definida a independencia entre as organizacoes criminosas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A imputação de dois crimes de organização criminosa ao agente não revela, por si só, a litispendência das ações penais, se não ficar demonstrado o liame entre as condutas praticadas por ambas as organizações criminosas. 2. A hipótese não revela a existência de litispendência, uma vez que a imputação formulada na Justiça Federal e a formulada na Justiça Estadual possuem em comum apenas a participação do agente. 3. Com base em elementos concretos dos autos, tem-se devidamente definida a independência entre as organizações criminosas.

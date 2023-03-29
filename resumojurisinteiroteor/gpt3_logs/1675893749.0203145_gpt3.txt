@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Dada a palavra  defesa do Cb PM Heyderson Nonato Santos Ferreira, esta requereu a sua absolvio, nos termos do artigo 439, "b", do CPPM. Por fim, a defesa do Sd PM Douglas Macarlos dos Santos requereu a sua absolvio nos termos do artigo 439, alnea "d", do CPPM, e, alternativamente, na alnea "b" do mesmo dispositivo. Findos os debates, decidiu o douto Conselho de Justia: [...] por maioria de quatro votos a um, condenou o militar, Cb PM Heyderson Nonato dos Santos Ferreira, pela prtica capitulada no artigo 15 da Lei 10826/03. O Juiz de Direito fixou pena base de 02 (dois) anos de recluso aumentada de 1/5 (um quinto), em razo da agravante contida no 70, II, "g", perfazendo um total de 02 (dois) anos 04 (quatro) meses e 24 (vinte e quatro) dias. O Juiz Militar, Cap PM Cristiano Mrcio de Paula fixou a pena em 02 (dois) anos de recluso. O Juiz Militar, Cap PM Evaldo Almeida Brasileiro, fixou a pena em 02 (dois) anos de recluso, aumentada de 1/4 (um quarto) em razo das agravaventes do 70, II, alneas "g" e "l", perfazendo um total de 02 (dois) e 06 (seis) meses de recluso. O Juiz Militar, Maj PM Carlos Henrique Luiz fixou a pena em 02 (dois) anos de recluso. Votou vencido o Juiz Militar, Cap PM Ronnie Jackson Rodrigues que absolveu o ru nos termos do artigo 439, "b", do CPPM. O Conselho Permanente de Justia, por maioria de trs votos a dois, absolveu o ru, Sd PM Douglas Macarlos dos Santos. Votaram pela absolvio nos termos do artigo 439, "d", do CPPM, os Jizes Militares: Cap PM Cristiano Mrcio de Paula e o Maj PM Carlos Henrique Luiz. Votou pela absolvio nos termos do artigo 439, "b" do CPPM, o Juiz Militar Cap PM Ronnie Jackson Rodrigues. Votaram vencidos pela condenao do ru o Juiz de Direito e o Juiz Militar Cap PM Evaldo Almeida Brasileiro. (Evento 29, ATA4 - autos de 1a Instncia) Em 29 de outubro de 2020 foi realizada sesso remota para leitura da sentena acostada ao Evento 43, SENT1, com a presena das partes. (Evento 47, ATA1 - autos de 1a Instncia) Em 02 de novembro de 2020, a defesa de Heyderson Nonato dos Santos Ferreira peticionou requerendo a decretao da extino da punibilidade pela prescrio da pretenso punitiva estatal nos termos do art. 125 do CPM. Para tanto, asseverou que o requerente foi condenado  pena de recluso de 02 (dois) anos como incurso no artigo 15 da Lei n. 10.826/03. Aduziu que os fatos se deram em 22/06/2012, que a denncia foi recebida em 31/10/2012 e, em 29/10/2020, foi prolatada a sentena condenatria (Evento 50 - autos de 1a Instncia).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho de Justia condenou o Cb PM Heyderson Nonato dos Santos Ferreira por maioria de quatro votos a um, fixando pena base de 02 (dois) anos de recluso aumentada de 1/5 (um quinto), perfazendo um total de 02 (dois) anos 04 (quatro) meses e 24 (vinte e quatro) dias. O Conselho Permanente de Justia, por maioria de três votos a dois, absolveu o Sd PM Douglas Macarlos dos Santos. A defesa de Heyderson Nonato dos Santos Ferreira requereu a decretação da extinção da punibilidade pela prescrição da pretenção punitiva estatal.

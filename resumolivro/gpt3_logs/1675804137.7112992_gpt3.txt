@@ -1,0 +1,21 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A parte pode requerer honestamente uma prova, que entende pertinente, conquanto o juiz pense que seja superflua ou irrelevante, sem que com isso haja ofensa ao dever legal. Para que ela fique caracterizada, e indispensavel que as provas requeridas ou produzidas sejam meramente protelatorias, destinadas nao a esclarecer os fatos, mas a retardar o desfecho do processo. Aqui tambem se exige o dolo, a ma-fe, a conduta voluntaria. Por preclusos, entende-se aqueles pedidos cujo momento processual ja esta superado, como, por exemplo, o arrolamento de testemunhas de defesa em sede de defesa final, cujo rol deveria ter sido apresentado no prazo estipulado para apresentacao de defesa previa, no inicio do processo. A preclusao, segundo Marcus Vinicius Rios Goncalves:
+E mecanismo de grande importncia para o andamento do processo, que, sem ele, se eternizaria. Consiste na perda de uma faculdade processual por:
+ nao ter sido exercida no tempo devido (preclusao temporal);
+ incompatibilidade com um ato anteriormente praticado (preclusao logica);
+ ja ter sido exercida anteriormente (preclusao consumativa). Sobre o pedido de producao de provas ao final da instrucao, assim decidiu o TJM-MG:
+PRELIMINAR DE PRESCRICAO - A ATIVACAO DA PUNICAO OCORREU ANTES DE TRANSCORRIDOS DOIS ANOS ENTRE A DATA DO FATO E A ATIVACAO DA PUNICAO, ESTANDO, POIS, EM CONSONNCIA COM A SUMULA N. 3 DESTE E. TJMMG - A EFETIVACAO DA MEDIDA DISCIPLINAR OCORREU APOS A DECISAO ACERCA DOS RECURSOS DISCIPLINARES INTERPOSTOS PELOS APELANTES - ART. 60 DA LEI N. 14.310/2002 - INDEFERIMENTO DE OITIVA DE TESTEMUNHAS - O APELANTE REQUEREU EXTEMPORANEAMENTE A OITIVA DE TESTEMUNHAS EM SUAS DERRADEIRAS ALEGACOES - REQUERIMENTO DE PROVA PERICIAL INDEFERIDO MOTIVADAMENTE - RECURSO A QUE SE NEGA PROVIMENTO. (TJM-MG: Proc. 1000012-09.2019.9.13.0002, Rel. Fernando Galvao da Rocha, julgamento 21/11/2019). g) Recusa em apresentar defesa
+Havendo justo motivo devidamente comprovado pelo defensor, renova-se o prazo (somente uma vez).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz pode requerer provas pertinentes, desde que não seja protelatório ou irrelevante. A preclusão ocorre quando o pedido é feito fora do prazo estipulado. O TJM-MG decidiu que a punição ocorreu dentro do prazo de dois anos e que o pedido de oitiva de testemunhas foi extemporâneo. O recurso foi negado. Se houver justo motivo, o prazo pode ser renovado uma vez.

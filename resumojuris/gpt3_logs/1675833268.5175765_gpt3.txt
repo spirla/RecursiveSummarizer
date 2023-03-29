@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E, se no computo total remanescer periodo menor que vinte e quatro horas, esse tempo devera ser desconsiderado, em atencao a regra do art. 11 do CP, segundo a qual devem ser desprezadas, nas penas privativas de liberdade e nas restritivas de direito, as fracoes de dia (HC n. 455.097/PR). (Informativo n. 758) 90 PROCESSO REsp 1.977.027-PR, Rel. Min. Laurita Vaz, Terceira Secao, por unanimidade, julgado em 10/08/2022 (Tema 1139). RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Trafico de drogas. Requisitos da minorante do art. 33,  4, da Lei n. 11.343/2006 (Lei de Drogas). Emprego de inqueritos e/ou acoes penais em curso. Descabimento. Fundamentacao inidonea. Tema n. 1139/STJ.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. De acordo com o art. 11 do Código Penal, devem ser desprezadas, nas penas privativas de liberdade e nas restritivas de direito, as frações de dia. 2. O tráfico de drogas é regulado pelo art. 33, § 4º, da Lei n. 11.343/2006 (Lei de Drogas). 3. É inviável o emprego de inquéritos e/ou ações penais em curso para fundamentar a minorante do art. 33, § 4º, da Lei n. 11.343/2006 (Lei de Drogas).

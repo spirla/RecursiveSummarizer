@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Assim leciona Paulo Rangel que o princpio da comunho da prova  um consectrio lgico dos princpios da verdade real e da igualdade das partes na relao jurdico-processual, pois as partes, a fim de estabelecer a verdade histrica nos autos do processo, no abrem mo do meio de prova levado para os autos. () Por concluso, os princpios da verdade real e da igualdade das partes na relao jurdico-processual fazem com que as provas carreadas para os autos pertenam a todos os sujeitos processuais, ou seja, do origem ao princpio da comunho das provas. Pois, no h, no crime, provas de defesa e provas de acusao. Devem elas ser, sempre, provas da verdade. Em razo dessa regra (princpio)  que a testemunha arrolada por uma das partes pode ser inquirida por outra, um documento produzido por qualquer delas pode ser invocado pela adversria, e assim por diante. 14.1.10.3. Princpio da liberdade de prova (admissibilidade da prova). Ampla  a liberdade de produo e de admisso da prova no processo penal militar. A prova no juzo penal militar, salvo quanto ao estado das pessoas, no est sujeita s restries estabelecidas na lei civil (artigo 294, CPPM). As limitaes das leis civis dizem respeito ao estado das pessoas. Ordinariamente, a certido de nascimento faz prova da idade da vtima (criana ou velho) para agravar a pena (CPM, artigo 70, II, h), a idade do agente para atenuar a pena (CPM, artigo 72, I) ou para reduzir de metade o prazo prescricional (CPM, artigo 129). Prova a morte do agente a certido de bito (CPM, artigo 123, I). A regra  a liberdade de produo de prova, sendo admissvel qualquer espcie de prova, desde que no atente contra a moral, a sade ou segurana individual ou coletiva, ou contra hierarquia ou disciplina militares (artigo 295, CPPM). O que seria uma prova que atenta contra a moral? O adjetivo  multifrio, mas aqui moral refere-se aos bons costumes, ao pudor e a decncia aceitos pelo senso mdio da sociedade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da comunhão da prova é consequência lógica dos princípios da verdade real e da igualdade das partes na relação jurídico-processual, pois as partes não abrem mão do meio de prova levado para os autos. O princípio da liberdade de prova é amplo no processo penal militar, sendo admissível qualquer especie de prova, desde que não atente contra a moral, a saúde ou segurança individual ou coletiva, ou contra hierarquia ou disciplina militares.

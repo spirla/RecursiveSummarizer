@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Cumpre-se verificar, pois, se o cumprimento da prisao preventiva em cela individual fere o art. 7, V, do Estatuto da Advocacia. No caso, consta da decisao de primeiro grau: 1. Conforme oficio de fls. 2682, o acusado encontra-se em cela distinta dos demais presos, uma vez que ostenta a condicao de advogado. Observa-se que nao ha qualquer violacao das prerrogativas que lhe sao proprias, conforme pacifica jurisprudencia do STJ . E da jurisprudencia das Turmas que compoem a Terceira Secao desta Corte Superior que a ausencia, simplesmente, de sala do Estado Maior nao autoriza seja deferida prisao domiciliar ao paciente, advogado, preso preventivamente, dado que encontra-se segregado em cela separada do convivio prisional, em condicoes dignas de higiene e salubridade, inclusive com banheiro privativo (HC 270.161/GO, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 12/08/2014, DJe 25/08/2014). 1169 Do exposto, estando o advogado em cela individual, sem registro de eventual inobservancia das condicoes minimas de salubridade e dignidade humanas, separado dos outros presos e sem o rigor e a insalubridade do carcere comum, nao ha falar em constrangimento ilegal em razao das instalacoes em que ele se encontra recolhido. (Informativo n. 753) PROCESSO EDcl no AgRg no AREsp 2.170.433-PA, Rel. Min. Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 06/09/2022, DJe 10/10/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O cumprimento da prisão preventiva em cela individual não fere o art. 7, V, do Estatuto da Advocacia. 2. A ausência de sala do Estado Maior não autoriza o deferimento da prisão domiciliar ao paciente, advogado, preso preventivamente, desde que este esteja segregado em cela separada do convívio prisional, em condições dignas de higiene e salubridade, inclusive com banheiro privativo. 3. Não há falar em constrangimento ilegal em razão das instalações em que o advogado preso preventivamente se encontra recolhido, desde que esteja em cela individual, sem registro de eventual inobservância das condições minimas de salubridade e dignidade humanas, separado dos outros presos e sem o rigor e a insalubridade do cárcere comum.

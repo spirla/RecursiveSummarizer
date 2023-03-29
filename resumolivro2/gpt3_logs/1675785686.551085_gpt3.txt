@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O assistente de acusao poder arrazoar o recurso de apelao no prazo de trs dias, aps o Ministrio Pblico (pargrafo 1). Por fim, determina prazo comum para oferecimento de razes quando forem dois ou mais os apelantes ou apelados (pargrafo 2). Deve o juiz abrir prazos em separado? Regra semelhante ao estabelecido pelo artigo 531, pargrafo 2, do CPPM,  prevista no artigo 600, pargrafo 3, do CPP, e a melhor orientao  que, em respeito ao contraditrio, dever o juiz abrir prazos separados, principalmente nos processos cujos autos so excessivamente de volumes. Demora da defesa em apresentar razes ou contrarrazes no impede o conhecimento da apelao, conforme Jurisprudncia em Teses, edio 66 do STJ:
+A apresentao extempornea das razes no impede o conhecimento do recurso de apelao tempestivamente interposto. O artigo 534 do CPPM determina que, findos os prazos para as razes, com ou sem elas, sero os autos remetidos  superior instncia, o que suscita dvida se o oferecimento das razes ou contrarrazes em primeiro grau  obrigatrio ou no. Os Tribunais Superiores tm entendimentos diversos nesse tema. Para o STJ, se o defensor intimado no apresentou as razes, o acusado deve ser intimado da desdia do seu patrono e para constituir novo defensor, se assim o desejar;
+na impossibilidade de faz-lo, nomeia-se dativo para apresentao das razes, sob pena de cerceamento de defesa. Na edio 66 de Jurisprudncia em Teses, o STJ firmou a Tese 4 que:
+Verificada a inrcia do advogado constitudo para apresentao das razes do apelo criminal, o ru deve ser intimado para nomear novo patrono, antes que se proceda  indicao de defensor para o exerccio do contraditrio. Tem decidido o STF quanto  regra do 601, caput, do CPP, cuja redao  semelhante  do artigo 534 do CPPM, que a ausncia de razes de apelao e de contrarrazes  apelao do Ministrio Pblico no  causa de nulidade por cerceamento de defesa, se o defensor constitudo pelo ru foi devidamente intimado para apresent-las.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O assistente de acusação tem o prazo de três dias para arrazoar o recurso de apelação. O juiz deve abrir prazos separados para o oferecimento de razões quando houver mais de um apelante ou apelado. O STJ entende que a ausência de razões de apelação e de contrarrazões não é causa de nulidade, desde que o defensor constitudo pelo réu tenha sido devidamente intimado para apresentá-las.

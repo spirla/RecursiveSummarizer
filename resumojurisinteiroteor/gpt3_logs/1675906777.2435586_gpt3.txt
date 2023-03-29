@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Citado, o Estado de Minas Gerais ofertou contestao (Evento 12), alegando que, da anlise detida dos autos do processo administrativo instaurado no mbito da Administrao Militar, que culminou na punio disciplinar do autor, infere-se que foram observadas todas as garantias cabveis, bem como os princpios constitucionais aplicveis, mormente o do contraditrio e da ampla defesa, e que o fato transgressivo restou comprovado. A sentena de improcedncia foi proferida no Evento 25, nos seguintes termos: [...] Decido. Pelo que se depreende dos autos, o PM Lucas de Souza Duarte foi submetido a procedimento disciplinar por "no dia 08 de novembro de 2019, estando licenciado teria deixado de avisar antecipadamente a quem de direito a sua impossibilidade de comparecer ao servio para o qual se encontrava escalado na Operao Oxignio, com chamada que ocorreu s 06h00min, no PROT 1.1, somente s 05h57min informou que estaria se deslocando para o mdico. (evento 1-DOC7). Pela referida conduta, restou incurso no tipo previsto no inciso III do art. 14 do CEDM, com penalidade de perda de 16 (dezesseis) pontos em sua ficha funcional. Pois bem. Dos autos administrativos  possvel verificar que o autor encaminhou uma mensagem, via aplicativo whatsapp, s 05h57min, dando cincia acerca da impossibilidade de comparecimento  chamada prevista para s 06h00min (evento 1- DOC7, pgina 3). Em sua defesa, justificou que o envio, quase que tardio, se deu por questes operacionais - descarrego da bateria do seu celular, o que afasta a tipicidade do ato, haja vista no ter concorrido para a sua ocorrncia. O CEDMU, corroborando as concluses destacadas pelo encarregado do procedimento, no sentido da comprovao do cometimento de transgresso disciplinar, caracterizada por atitude amoldada no descumprimento do inciso XI do art. 278 do Decreto n. 11.636/69, que trata acerca do Regulamento Geral da PMMG (evento 1-DOC10), a seguir transcrito: "Art. 278 - Ao Policial cumpre, particularmente: [...] XI - ser pontual na instruo e no servio, participando ao seu chefe, sem perda de tempo e pelo meio mais rpido ao seu alcance, de tal modo que lhe seja possvel providenciar a respeito, quando, por motivo de doena ou fora maior, se encontre impedido de cumprir esse dever; Nesse sentido restou proferida a deciso final, pela autoridade competente - Tenente Coronel Comandante do Batalho de Polcia de Trnsito, enquadrando disciplinarmente a conduta no inciso III do art. 14 do CEDM, por deixar de cumprir ordem legal (evento 1- DOC10, pginas 3/4) Da referida deciso, houve interposio de recurso, ao qual foi negado provimento, nos termos do Despacho Administrativo n. 280.06/2020, de 08 de abril de 2020 (evento 1-DOC11, pgina 1).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais contestou a ao do autor, alegando que todas as garantias cabveis e princpios constitucionais foram observados. A sentena de improcedncia foi proferida, pois foi comprovado que o autor descumpriu o inciso XI do art. 278 do Decreto n. 11.636/69, não tendo seu recurso sido provido.

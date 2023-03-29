@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido, sob o prisma de que a CPAD nao tm poder de determinar a conducao coercitiva de testemunhas, tem-se como razoavel, de modo a se demonstrar um esforco na busca da verdade real e privilegiar a ampla defesa e o contraditorio, a adocao das seguintes providncias: (1) pelo menos 3 tentativas de agendamento de audicao da testemunha recalcitrante, de modo a demonstrar que a CPAD diligenciou efetivamente na tentativa de inquiri-la; (2) prosseguimento dos trabalhos sem a inquiricao da testemunha, devendo a CPAD concluir os trabalhos com as provas existentes nos autos. Acrescenta-se, ainda, que, em se tratando de testemunha arrolada pela defesa, muito embora a sua intimacao se d por ato do presidente da CPAD, ja que, conforme ja mencionado, nao se aplica ao PAD a regra do artigo 455 do CPC, nao se desincumbe a defesa do seu dever e interesse processual de adotar providncias tendentes a auxiliar no comparecimento das testemunhas de seu interesse. Outra questao que se deve levar em conta e que, nao raras as vezes, a testemunha que se busca inquirir no processo administrativo ja foi ouvida em um procedimento realizado previamente, acerca do mesmo fato, de forma inquisitiva ou nao. Isso ocorre, por exemplo, quando se apura um crime militar por meio de um Inquerito Policial Militar (IPM) e, ao seu final, ha o indiciamento do militar investigado e, consequentemente, instaurado um processo administrativo para fins de apuracao da transgressao disciplinar residual. Nesse caso, copia dos autos do IPM serao anexados a portaria de instauracao do processo administrativo. Na situacao narrada, todas as oitivas realizadas em sede de IPM serao carreadas para o processo administrativo, inicialmente, com valor probatorio relativo, ja que a sua reproducao em contraditorio podera se tornar necessaria de modo a atingir o valor de prova plena.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A CPAD não tem poder para determinar a condução coercitiva de testemunhas, mas deve adotar medidas para demonstrar um esforço na busca da verdade real, como pelo menos 3 tentativas de agendamento de audição da testemunha recalcitrante. O processo administrativo também pode conter oitivas realizadas em inquérito policial militar, com valor probatório relativo, que pode se tornar necessário reproduzir em contraditório para atingir o valor de prova plena.

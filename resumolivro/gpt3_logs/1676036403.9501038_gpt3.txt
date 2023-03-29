@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Embora a expresso clssica indique consagrao ou autoridade, vale notar que a Escola Clssica no representou sistema uniforme e coeso de posicionamentos doutrinrios. Muito ao contrrio, o classicismo acolheu grande variedade de tendncias, e entre os pontos de convergncia est a percepo do crime como um ente jurdico abstrato. A Escola Clssica vivenciou, em um primeiro momento, o perodo denominado filosfico, ou terico, em que o pensamento jusnaturalista de Grcio e o contratualismo de Rousseau, que se posicionavam no sentido da existncia de sistema de normas jurdicas anterior e superior ao Estado, influenciaram Csar Beccaria a contestar a legitimidade dos governos tiranos e a colocar em movimento o impulso inicial para a formulao de uma doutrina para os delitos e as penas. Beccaria no escreveu um tratado de Direito Penal, tampouco um estudo aprofundado sobre qualquer lei especfica, mas sua voz levantou-se com coragem em prol da humanizao das leis repressivas e seus postulados serviram de base para o nascimento de uma era fecunda para a histria do Direito Penal. No livro Dos delitos e das penas, publicado pela primeira vez em 1764, Beccaria critica o sistema repressivo ento vigente, posicionando-se francamente contrrio  pena de morte, s torturas e aos procedimentos inquisitivos, exigindo, assim, maior respeito pelos direitos fundamentais do homem. Nessa formulao, a ideia do contrato social de Rousseau fez que o Direito Penal se apresentasse como garantidor de uma igualdade de todos perante a lei. A vindicta pblica no poderia mais ser tolerada, uma vez que o Estado somente pode castigar os integrantes da sociedade nos limites aceitos pelos cidados, que abriram mo de seus direitos naturais de liberdade em favor do contrato social. Essa nova concepo fundamentadora da represso agora se situava no dano causado pelo criminoso  sociedade, e ao magistrado no podia ser dado interpretar a lei ao sabor de seu subjetivismo. O Marqus de Beccaria, ao reclamar por maior racionalizao do Direito Penal, defendeu que a pena deve guardar proporo ao dano causado pelo crime. Advertiu, ainda, para os perigos do axioma comum da consulta ao esprito das leis, o qual permite que a tarefa de interpretao dos textos legais siga ao sabor das torrentes de opinio, pois as consideraes judiciais sobre o esprito das leis restaro sempre dependentes da boa ou m lgica do juiz.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Escola Clssica defendeu a percepção do crime como um ente abstrato, e Csar Beccaria, em seu livro Dos Delitos e das Penas, criticou o sistema repressivo vigente, defendendo a humanização das leis repressivas. A nova concepção fundamentadora da repressão se situava no dano causado pelo criminoso à sociedade, e Beccaria defendeu que a pena deve guardar proporção ao dano causado pelo crime.

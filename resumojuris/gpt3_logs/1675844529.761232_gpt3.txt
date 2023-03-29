@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Competencia. Juizo que homologou o acordo. Investigado residente em jurisdicao diversa. Penas restritivas de direitos. Acompanhamento e fiscalizacao do cumprimento. Deprecacao. Possibilidade. DESTAQUE A competencia para a execucao do acordo de nao persecucao penal e do Juizo que o homologou. O art. 28-A,  6, do CPP, ao determinar que o acordo de nao persecucao penal sera executado no juizo da execucao penal, implicitamente, estabeleceu que o cumprimento das condicoes impostas no referido acordo devera observar, no que forem compativeis, as regras pertinentes a execucao das penas. Segundo pacifica orientacao desta Corte Superior, a competencia para a execucao das penas e do Juizo da condenacao. No caso especifico de execucao de penas restritivas de direitos, em se tratando de condenado residente em jurisdicao diversa do Juizo que o condenou, tambem e sedimentada a orientacao de que a competencia para a execucao permanece com o Juizo da condenacao, que deprecara ao Juizo da localidade em que reside o apenado tao-somente o acompanhamento e a fiscalizacao do cumprimento da reprimenda.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 28-A, 6, do CPP estabelece que o acordo de não persecução penal será executado no juízo da execução penal. 2. A competência para a execução das penas é do Juízo da condenação. 3. Em caso de execução de penas restritivas de direitos de condenado residente em jurisdição diversa do Juízo que o condenou, a competência para a execução permanece com o Juízo da condenação. 4. O Juízo da localidade em que reside o apenado terá o acompanhamento e a fiscalização do cumprimento da reprimenda.

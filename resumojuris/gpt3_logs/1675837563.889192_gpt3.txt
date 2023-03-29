@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1 da Lei n. 9.656/1998, os planos privados de assistencia a saude consistem em prestacao continuada de servicos ou cobertura de custos assistenciais a preco pre ou pos-estabelecido, por prazo indeterminado, com a finalidade de garantir, sem limite financeiro, a assistencia a saude, pela faculdade de acesso e atendimento por profissionais ou servicos de saude livremente escolhidos, integrantes ou nao de rede credenciada, contratada ou referenciada, visando a assistencia medica, hospitalar e odontologica, a ser paga integral ou parcialmente as expensas da operadora contratada, mediante reembolso ou pagamento direto ao prestador, por conta e ordem do consumidor. Destarte, por clara opcao do legislador, extrai-se do art. 10,  4, da Lei n. 9.656/1998, c/c o art. 4, III, da Lei n. 9.961/2000, que e atribuicao da ANS elaborar o rol de procedimentos e eventos em saude que constituirao referencia basica para os fins do disposto na Lei dos Planos e Seguros de Saude. A vigente Medida Provisoria n. 1.067, de 2 de setembro de 2021, altera o art. 10 da Lei n. 9.656/1998 para, uma vez mais, explicitar que, a amplitude da cobertura legal no ambito da Saude Suplementar, sera estabelecida em norma editada pela ANS (rol) e sua atualizacao a cada 120 dias. E importante salientar que, deixando nitido que nao ha o dever de fornecer toda e quaisquer cobertura vindicada pelos usuarios dos planos de saude, ao encontro das mencionadas Resolucoes Normativas ANS, a ja mencionada Medida Provisoria n. 1.067, de 2 de setembro de 2021, incluiu o art. 10-D,  3, I, II e III, na Lei n. 9.656/1998. 495 Por um lado, nao se pode deixar de observar que o rol minimo e obrigatorio de procedimentos e eventos em saude constitui relevante garantia do consumidor para assegurar direito a saude, em precos acessiveis, contemplando a camada mais ampla e vulneravel da populacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os planos privados de assistência à saúde consistem em prestação continuada de serviços ou cobertura de custos assistenciais a preço pré ou pós-estabelecido, por prazo indeterminado, com a finalidade de garantir, sem limite financeiro, a assistência à saúde. 2. É atribuição da ANS elaborar o rol de procedimentos e eventos em saúde que constituirão referência básica para os fins do disposto na Lei dos Planos e Seguros de Saúde. 3. O rol mínimo e obrigatório de procedimentos e eventos em saúde constitui relevante garantia do consumidor para assegurar direito à saúde, em preços acessíveis, contemplando a camada mais ampla e vulnerável da população.

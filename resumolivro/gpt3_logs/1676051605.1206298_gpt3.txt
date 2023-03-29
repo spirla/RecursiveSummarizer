@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Conforme expressa previso constitucional, constante do artigo 125, pargrafo 4, compete  justia militar estadual processar e julgar os militares dos Estados, nos crimes militares definidos em lei. Assim,  justia militar estadual compete o julgamento dos crimes militares definidos em lei, mas apenas quando praticados por militares estaduais (policiais ou bombeiros militares). A competncia conferida  Justia Militar Estadual, portanto,  mais restrita do que a que foi conferida  Justia Militar Federal, j que no abrange os crimes militares praticados por militares da Unio e os praticados por civis. O tratamento constitucional diferenciado produz repercusses na caracterizao dos crimes e indica que, nas questes afetas s instituies militares estaduais, o civil deve ser julgado conforme o disposto na legislao repressiva comum e no conforme os termos da legislao militar. A obrigatoriedade da separao dos processos imposta pela Constituio s se justifica pela impossibilidade jurdica de que o civil seja responsabilizado conforme os termos da lei militar. Se a inteno do constituinte fosse o civil ser julgado conforme a lei militar, a obrigatria separao dos processos somente traria uma dificuldade intil  prestao jurisdicional. Mais racional seria preservar a unidade dos processos para que o civil fosse julgado juntamente com o militar, na justia especializada estadual, como acontece nos crimes da competncia da Justia Militar da Unio. A obrigatoriedade da separao dos processos e a incompetncia da Justia Comum para o julgamento de crimes militares indicam que o civil envolvido em fatos considerados com crime militar estadual somente pode ser julgado na justia comum, conforme o disposto na legislao repressiva comum. Dessa forma, caso um civil desacate um militar do Exrcito, durante uma operao militar para a manuteno da ordem pblica, dever ser julgado perante a Justia Militar Federal. O fato, em tese, caracteriza um crime militar, previsto no artigo 299 do CPM, e a Justia Militar Federal tem competncia para julgar o civil. Por outro lado, se um civil desacatar um policial militar, durante uma operao de policiamento ostensivo, dever ser julgado na justia comum estadual, por crime comum. No se aplica ao exemplo o artigo 9, III, d, do CPM porque a Constituio da Repblica no permite que a Justia Militar Estadual julgue civis e tampouco que a justia comum julgue crimes militares.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar Estadual tem competência para julgar crimes militares definidos em lei, praticados por militares estaduais (policiais ou bombeiros militares). Quando um civil é envolvido em um crime militar estadual, deve ser julgado na Justia Militar Federal, enquanto que um crime comum deve ser julgado na Justia Comum Estadual.

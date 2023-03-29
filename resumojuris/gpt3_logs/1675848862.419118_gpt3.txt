@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Todavia, no caso, em homenagem ao principio da plenitude de defesa, ainda que o causidico, entao constituido, tenha sido intimado e nao tenha apresentado a peca processual, incumbiria ao magistrado mandar intimar pessoalmente o acusado para constituir novo advogado ou, nao tendo eficacia essa providencia, encaminhar os autos a Defensoria Publica, de modo que essa passasse a patrocinar a causa, inclusive apresentando as derradeiras alegacoes antes da sentenca de pronuncia ou despronuncia. Essa providencia ainda mais se impunha pelo fato de o acusado ter comparecido a Juizo para dizer que nao disponha de condicoes financeiras para continuar com o patrocinio do defensor constituido. Os precedentes que dao pela falta de nulidade em razao da falta de alegacoes na etapa do juizo de acusacao devem ser entendidos para as hipotese em que isso ocorre por deliberacao do acusado. Assim, configurado o prejuizo a defesa do acusado, deve ser anulada a decisao de pronuncia para que seja renovado o prazo para a defesa apresentar alegacoes finais. (Informativo n. 751) PROCESSO HC 742.815-GO, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 23/08/2022, DJe 31/08/2022 1248 DESTAQUE Informamos que o destaque da nota informativa referente ao julgado supracitado, publicado na edicao 749, foi alterado. (Informativo n. 750) PROCESSO RHC 162.703-RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 13/09/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Coleta compulsoria de material organico de suspeitos para fins de identificacao criminal. Art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário que o magistrado intimide pessoalmente o acusado para constituir um novo advogado ou encaminhar os autos à Defensoria Pública, caso o acusado não tenha condições financeiras para continuar com o patrocínio do defensor constituído. 2. A falta de alegações na etapa do juízo de acusação não gera nulidade, desde que ocorra por deliberação do acusado. 3. Se houver prejuízo à defesa do acusado, deve ser anulada a decisão de pronúncia para que seja renovado o prazo para a defesa apresentar alegações finais.

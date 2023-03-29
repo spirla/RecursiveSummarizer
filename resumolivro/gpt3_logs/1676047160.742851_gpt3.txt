@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A condio estabelecida pelo legislador impe o cumprimento de verdadeiras penas, previstas nos incs. IV e VI do artigo 43 do Cdigo Penal. O mesmo se d com o sursis especial, no qual a reparao do dano e as circunstncias favorveis do artigo 59 do CP permitem substituir a obrigao de prestar servios  comunidade ou de sujeitar-se  limitao de final de semana por outras, entre as quais a proibio de frequentar determinados lugares (pargrafo 2 do artigo 78 do CP).  que a proibio de frequentar determinados lugares  espcie de pena restritiva de direitos, modalidade de interdio temporria de direitos, prevista no artigo 47, IV, do Cdigo Penal. Na verdade, o condenado cumpre pena no privativa de liberdade para suspender a execuo da pena privativa de liberdade. Nota-se que h manifesta contradio com a denominao do instituto. A suspenso condicional da pena acaba por substituir a pena privativa de liberdade pela restritiva de direitos, e o condenado cumpre outra pena. Com as caractersticas que lhe deu a reforma de 1984, o instituto da suspenso condicional da pena significa, de fato, suspenso parcial da pena. Havendo cumprimento de pena restritiva de direitos, no caso de posterior revogao do sursis, o tempo de cumprimento dever ser abatido da pena privativa de liberdade a ser cumprida pelo condenado. Tambm acontece detrao penal quanto ao tempo de cumprimento de penas restritivas de direitos, no caso de sua converso para a pena privativa de liberdade. Nesse caso, o artigo 44, pargrafo 4, do Cdigo Penal determina o desconto da pena j cumprida, respeitando-se o cumprimento de, no mnimo, 30 (trinta) dias de deteno ou recluso. O cumprimento de um saldo mnimo de 30 (trinta) dias  manifestamente inconstitucional, caso reste, de fato, perodo de tempo menor a ser cumprido. A observncia de saldo mnimo no pode importar alterao da pena imposta na deciso condenatria. Com a Lei de Execuo Penal, foram revogados os artigos 373 a 380 do Cdigo de Processo Penal que permitiam a aplicao provisria de interdies de direitos e medida de segurana. Com o novo sistema, somente aps o trnsito em julgado  que se podem aplicar interdies de direitos e medida de segurana.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O legislador estabeleceu penas previstas nos incs. IV e VI do artigo 43 do Cdigo Penal, como o sursis especial, que permite substituir a obrigao de prestar servios comunidade ou de sujeitar-se limitao de final de semana por outras, entre as quais a proibio de frequentar determinados lugares. Esta uma pena restritiva de direitos prevista no artigo 47, IV, do Cdigo Penal. A suspenso condicional da pena acaba por substituir a pena privativa de liberdade pela restritiva de direitos e, se houver revogao do sursis, o tempo de cumprimento ser abatido da pena privativa de liberdade. Com a Lei de Execuo Penal, somente aps o trnsito em julgado que se podem aplicar interdies de direitos e medida de segurana.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Juiz de Direito da 5a AJME Cvel determinou ao autor emendar a inicial com a manifestao quanto a realizao, ou no, de audincia de conciliao. Determinou ainda, a juntada de documentao comprobatria de sua hipossuficincia financeira (Evento 04). Cumprindo a determinao judicial foram juntados aos autos os documentos coligidos nos Evento 07, 10 e 11. O MM juzo a quo concedeu o benefcio da assistncia judiciria gratuita e determinou a citao do Estado Ru (Evento 13). O Estado de Minas Gerais apresentou contestao (Evento 19 - CONT1). Em sntese, alegou que, o militar, ora autor, foi punido como incurso nas sanes do artigo 14, III (deixar de cumprir ordem legal ou atribuir a outrem, fora dos casos previstos em lei, o desempenho de atividade que lhe competir), do CEDM. Disse que o autor comprometeu os trabalhos de coordenao e controle da P3/22 BPM ao no encaminhar para caixa administrativa, ao final do turno de servio, o Anexo "C" da Ordem de Servio 5348-15-POG do Estgio Operacional do CFS 2015 devidamente preenchido, referente a escala de servio cumprida em 15/11/2015. Disse tambm que o autor reiterou a conduta nos dias 16, 17, 20, 21 e 24/11/2015. Afirmou que a ordem de servio descumprida - Anexo C, fls. 12/13, foi devidamente juntada aos autos do procedimento administrativo (fl. 16). Alegou que o autor foi notificado da transgresso supostamente praticada e apresentou suas razes escritas de defesa. Disse que o encarregado, em relatrio devidamente fundamentado, analisou e rechaou as teses defensivas, opinando, ao final, pela punio do autor. Aduziu que o CEDMU acompanhou o relatrio apresentado pelo encarregado e manifestou-se pelo enquadramento disciplinar do autor. Disse que o Comandante da Unidade, solucionou o feito, acolhendo as manifestaes pretritas e enquadrando disciplinarmente o autor na transgresso prevista no art. 14, III, do CEDM. Alegou que o autor interps recurso ao Comandante Regional, o qual, ao vislumbrar equvocos no ato punitivo, mormente no clculo da pontuao que o autor perderia no seu conceito funcional, anulou a sano e determinou o retorno dos autos para a correo, tendo ainda determinado que fosse conferida cincia ao autor, o que foi devidamente cumprido. Disse que o ato retificado ocorreu em razo do nmero de infraes praticadas por ele - seis vezes contnuas e da mesma natureza, circunstncia agravante (art. 21, I, CEDM), que no foi utilizada quando da aplicao dos pontos perdidos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Direito da 5a AJME Cvel determinou ao autor a emenda da inicial com a manifestao quanto realizao da audincia de conciliao e a juntada de documentao comprobatria de sua hipossuficincia financeira. O Estado de Minas Gerais apresentou contestao alegando que o autor foi punido como incurso nas sanes do artigo 14, III do CEDM, devido ao descumprimento de uma ordem de servio. O Comandante da Unidade anulou a punio e determinou o retorno dos autos para a correo, tendo em vista o nmero de infraes praticadas pelo autor.

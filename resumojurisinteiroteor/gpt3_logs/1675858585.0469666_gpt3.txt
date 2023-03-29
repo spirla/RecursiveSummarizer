@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+INEXISTNCIA. EMBARGOS REJEITADOS. 1. Nos termos do art. 619 do Cdigo de Processo Penal, os embargos de declarao, como recurso de correo, destinam-se a suprir omisso, contradio e ambiguidade ou obscuridade existente no julgado. No se prestam, portanto, para sua reviso no caso de mero inconformismo da parte. 2. Quanto  alegada nulidade do acrdo proferido no agravo regimental, ante a ausncia de contrarrazes do Ministrio Pblico Estadual, esta Corte Superior j consolidou posicionamento no sentido de que no h previso legal ou regimental sobre a necessidade da parte ex adversa para apresentar contrarrazes ao agravo regimental. Precedentes. 3. Embargos de declarao rejeitados. (EDcl no AgRg no AREsp n. 1.450.537/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2019, DJe de 7/10/2019.) PROCESSUAL PENAL. EMBARGOS DE DECLARAO NO RECURSO EM HABEAS CORPUS. CRIMES DE TRNSITO ABSORVIDOS PELOS CRIMES DE HOMICDIO SIMPLES CONSUMADO E TENTADO (POR SEIS VEZES). PRISO PREVENTIVA SUBSTITUDA POR MEDIDA CAUTELAR. PROIBIO DE CONDUZIR QUALQUER VECULO AUTOMOTOR. OBSCURIDADE. NO OCORRNCIA. REDISCUSSO DO MRITO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Embargos de declarao rejeitados, pois no h previso legal ou regimental sobre a necessidade da parte ex adversa para apresentar contrarrazes ao agravo regimental e no h ocorrncia de obscuridade no julgado. Rediscusso do mrito no admitida.

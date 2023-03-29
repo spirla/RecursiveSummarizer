@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No STF, h precedentes em dois sentidos:
+a Corte considerou causa de nulidade absoluta a suspeio do juiz (HC 77.930/MG), mas tambm entendeu (HC 84.023/MG) que a presuno de parcialidade nas hipteses de suspeio  relativa, pelo que cumpre ao interessado argui-la na primeira oportunidade, sob pena de precluso. O CPPM considera inexistentes os atos praticados por juiz impedido (artigo 37, pargrafo nico). No entanto, a sentena proferida pelo Conselho de Justia com juiz irregularmente investido, impedido ou suspeito, no anula o processo, salvo se a maioria se constituir com o seu voto (artigo 509, CPPM). Est implcito que vigora o princpio do prejuzo,  causa de nulidade relativa. No se verifica prejuzo se o juiz, ainda que impedido ou suspeito, participou da votao, mas o seu voto no teve influncia para constituir maioria. Por fim, h nulidade por suborno do juiz. A doutrina interpreta extensivamente o termo suborno para designar crimes contra administrao pblica de corrupo passiva, de concusso e prevaricao..
+17.5.2. Nulidade por ilegitimidade de parte. A legitimidade ad causam (para a causa) -  condio da ao - significa que o rgo do Ministrio Pblico na ao pblica e o ofendido, ou seu representante na ao privada, tm legitimidade para propor determinada ao penal em face do autor do crime. H ilegitimidade ad causam passiva se a ao penal no for proposta em face do autor do fato criminoso. No direito do processo penal comum, a doutrina, com base no disposto no artigo 572 do CPP, tem reiterado que a ilegitimidade ad causam, ativa ou passiva, no pode ser sanada, portanto, a nulidade  absoluta. A lei do processo penal militar no se refere  legitimidade ad processum - pressuposto processual -, que  a capacidade para estar em juzo, uma vez que a regra  a ao penal pblica;
+no entanto, com a recente modificao legislativa, a Justia Militar tem competncia para processar crimes cuja ao  privada a exigir do procurador poderes especiais para oferecer queixa-crime (artigo 44 do CPP). Essa mesma doutrina tem sustentado, com base no artigo 568 do CPP, que a nulidade da legitimidade ad processum  relativa, pois pode ser sanada..
+17.5.3.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No STF, h precedentes que consideram a suspeio do juiz como causa de nulidade absoluta ou relativa. O CPPM considera inexistentes os atos praticados por juiz impedido ou suspeito, mas a sentena proferida não anula o processo, a menos que o voto do juiz irregularmente investido tenha influenciado a maioria. H também nulidade por suborno do juiz, que é interpretado extensivamente para incluir crimes contra a administração pública. A ilegitimidade ad causam passiva, tanto na Justiça Comum quanto na Militar, é considerada nulidade absoluta, enquanto a ilegitimidade ad processum é relativa e pode ser sanada.

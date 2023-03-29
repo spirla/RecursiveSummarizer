@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+158, IV, da CF/88, desde que seja preservado o repasse da parcela pertencente aos municipios quando do efetivo ingresso do tributo nos cofres publicos estaduais. Resumo: A obrigacao de transferencia da quota pertencente aos municipios sobre o produto da ar-recadacao do ICMS, relativa a reparticao constitucional das receitas tributarias, so ocorre quando ha o efetivo recolhimento do tributo, isto e, quando configurada a receita publica por parte do estado-membro. O Fundo de Participacao e Fomento a Industrializacao do Estado de Goias (Fomentar) e o Pro-grama de Desenvolvimento Industrial de Goias (Produzir) sao beneficios fiscais convalidados tanto pelo Conselho Nacional de Politca Fazendaria (CONFAZ) como pela Lei Complementar 160/2017 e cujos regramentos nao violam o texto constitucional. Os referidos programas, apesar de nao o explicitarem, tratam da hipotese de postergacao ou di-ferimento do recolhimento de ICMS, pois os termos financiamento e emprestimo neles utilizados consistem, em verdade, na reducao do montante de ICMS a ser recolhido no mes, com o pagamento do restante em parcelas subsequentes. Logo, as parcelas financiadas / emprestadas ainda nao ingressa-ram nos cofres estaduais. Por nao tratarem de parcela do produto de ICMS ja arrecadado, a qual seria devida aos munici-pios, a controversia relativa ao repasse de programas dessa natureza se distingue daquela tratada no Tema 42 da repercussao geral. Por outro lado, com base no entendimento firmado no julgamento do Tema 653 da repercussao geral, nao se pode exigir  a luz do conceito tecnico de arrecadacao  o repasse aos municipios da parcela diferida/postergada de ICMS. A conclusao precoce pela obrigatoriedade de transferencia apenas com base no ICMS escritu-rado fere a autonomia federativa dos estados para implementar seus programas de beneficios fiscais, alem de permitir impacto negativo em seu equilibrio fiscal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A obrigação de transferência da quota pertencente aos municípios sobre o produto da arrecadação do ICMS, relativa à repartição constitucional das receitas tributárias, só ocorre quando há o efetivo recolhimento do tributo, isto é, quando configurada a receita pública por parte do Estado-membro. 2. Os programas de Fomentar e Produzir são beneficios fiscais convalidados tanto pelo Conselho Nacional de Política Fazendária (CONFAZ) como pela Lei Complementar 160/2017 e cujos regimentos não violam o texto constitucional. 3. A parcela financiada/emprestada ainda não ingressou nos cofres estaduais. 4. Não se pode exigir, à luz do conceito técnico de arrecadação, o repasse aos municípios da parcela diferida/postergada de ICMS. 5. A conclusão precoce pela obrigatoriedade de transferência apenas com base no ICMS escriturado fere a autonomia federativa dos Estados para implementar seus programas de benefícios fiscais, além de permitir impacto negativo em seu equilíbrio fiscal.

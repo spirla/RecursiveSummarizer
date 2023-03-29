@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A representao constitui uma manifestao de vontade que d notcia sobre a ocorrncia do crime e, ao mesmo tempo, pede que se instaure a persecuo penal. Tal manifestao no possui forma especfica e pode ser dirigida ao juiz,  autoridade policial ou ao promotor de justia (artigo 39 do CPP). Nos crimes cuja ao penal pblica  condicionada  representao, sem que o ofendido tenha se manifestado pedindo a persecuo penal, no  possvel que se instaure inqurito policial e o Ministrio Pblico no pode acusar. Com redao idntica  do artigo 25 do Cdigo de Processo Penal, diz o artigo 102 do Cdigo Penal que a representao ser irretratvel depois de oferecida a denncia. Isso significa que, at o oferecimento da denncia, a representao ser retratvel. Com essa disposio, o Cdigo Penal determinou um limite at o qual o particular poder retratar-se, e este limite ser o oferecimento da denncia. Merece ser frisado que o limite  o oferecimento da denncia, no importando o seu efetivo recebimento pelo juiz, como acontece em outras passagens, a exemplo da causa interruptiva da prescrio, prevista no inciso I do seu artigo 117. Portanto, uma vez oferecida a denncia, mesmo que nela no exista, ainda, despacho de recebimento, a retratao do ofendido no ter o condo de impedir o incio da persecutio criminis in judicio. 11.6. Renncia expressa ou tcita ao direito de queixa. Denomina-se queixa a acusao que se expressa na petio inicial da ao penal privada e corresponde  denncia que d incio  ao penal pblica. Tratando-se de ato processual, a queixa  oferecida pelo ofendido ou por quem tenha a qualidade para represent-lo perante o juzo criminal, e exige a interveno de advogado, no pleno exerccio de sua capacidade postulatria. Como ocorre com a ao penal pblica, o recebimento da acusao privada pressupe a existncia de lastro probatrio mnimo que lhe d suporte (justa causa). Como o exerccio do direito de ao privada implica juzo de oportunidade e convenincia, a investigao preliminar levada a efeito pela polcia judiciria somente poder ter incio aps provocao do ofendido. No havendo tal provocao, o inqurito policial no poder ser instaurado. Todavia, se houver pedido do ofendido para que se inicie investigao por inqurito policial, a concluso deste no lhe obriga o oferecimento da acusao: o ofendido ainda pode renunciar ao direito de oferecer a queixa. A renncia ao direito de queixa pode ser expressa ou tcita.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A representao constitui uma manifestao de vontade que pede a persecuo penal e pode ser dirigida ao juiz, autoridade policial ou promotor de justia. O oferecimento da denncia é o limite para retratação do ofendido. A queixa é a acusação na petição inicial da ação penal privada e exige a intervenção de advogado. A investigação preliminar só pode ter início após provocação do ofendido e se houver pedido, a conclusão não obriga o oferecimento da acusação, pois o ofendido pode renunciar ao direito de queixa, expressa ou tacitamente.

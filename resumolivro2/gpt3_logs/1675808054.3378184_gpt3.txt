@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No entanto, o Estatuto do Desarmamento considera crime a posse irregular de arma de fogo de uso permitido (artigo 12), o porte ilegal de arma de fogo de uso permitido (artigo 14) e a posse ou porte ilegal de arma de fogo de uso restrito (artigo 16). Procura-se, por meio da busca domiciliar, encontrar a arma e munio utilizadas na prtica de crime para fim de prova de autoria. A busca domiciliar pode ter o fim de descobrir objetos necessrios  prova da infrao ou  defesa do acusado (alnea e). A vaga expresso objetos necessrios  prova da infrao no deve ser aceita sem um juzo de valor do magistrado. Neste caso no  possvel descrever no mandado as caractersticas dos objetos procurados, recomendvel ao menos constar que os objetos procurados so relacionados  prova da infrao do crime. O CPPM permite a expedio de mandado de busca domiciliar para descobrir objetos necessrios  defesa do acusado. Comprovar a inexistncia do crime ou obter prova de que o suspeito, indiciado ou o acusado no  o seu autor. Por exemplo,  indispensvel vir aos autos determinado documento. Enfim, de alguma forma objeto relacionado com o crime investigado e sua autoria. Cabe, ainda, busca domiciliar para apreender correspondncia destinada ao acusado ou em seu poder, quando haja fundada suspeita de que o conhecimento do seu contedo possa ser til  elucidao do fato (alnea f). A Constituio Federal garante a inviolabilidade do sigilo de correspondncia (artigo 5, XII, CF), no entanto, no h liberdade individual absoluta, respeitados certos parmetros  possvel a interceptao de correspondncia, sempre que as liberdades pblicas estiverem sendo utilizadas como instrumento de salvaguarda de crimes. O Cdigo de Processo Penal Militar restringe a busca domiciliar ao exigir que a (a) correspondncia seja destinada ao acusado ou esteja em seu poder e (b) que haja fundada suspeita de que o conhecimento do seu contedo possa ser til  elucidao do fato.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estatuto do Desarmamento considera crime a posse irregular de arma de fogo de uso permitido, porte ilegal de arma de fogo de uso permitido e posse ou porte ilegal de arma de fogo de uso restrito. A busca domiciliar pode ser realizada para encontrar objetos necessários para a prova da infração ou defesa do acusado. A Constituição Federal garante a inviolabilidade do sigilo de correspondência, mas a interceptação é permitida desde que haja fundada suspeita de que o conhecimento do seu conteúdo possa ser útil para a elucidação do fato.

@@ -1,0 +1,23 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Por exemplo, a deciso que considera a infrao como disciplinar (por exemplo , artigo 209, pargrafo 6, CPM) equivale ao no recebimento da denncia. 18.2.1.2. Tempestividade, legitimidade e interesse. O prazo para interpor recurso em sentido estrito  de trs dias contado da data da intimao da deciso, ou da sua publicao ou leitura em pblica audincia, na presena das partes ou seus procuradores (artigo 518, CPPM). Nas duas ltimas hipteses - publicao e leitura em pblica audincia -  indispensvel a presena das partes ou de seus procuradores. Tm legitimidade para recorrer em sentido estrito, conforme preceitua o artigo 511 do CPPM, o Ministrio Pblico, o ru ou seu procurador. O assistente de acusao pode arrazoar o recurso em sentido estrito interposto pelo Ministrio Pblico. O interesse em recorrer em sentido estrito decorre do prejuzo sofrido com a deciso e a possibilidade de obter uma situao melhor com o resultado do recurso. 18.2.2. Procedimento em primeira instncia. No primeiro grau de jurisdio:
+1) interposio do recurso;
+2) recebimento pelo juiz federal da JMU ou pelo juiz de direito da JME;
+3) formao do instrumento, nas hipteses em que o recurso sob por traslado;
+4) intimao do recorrente para apresentar razes;
+5) apresentao das razes;
+6) intimao do recorrido para contrarrazes;
+7) apresentao das contrarrazes;
+8) juzo de retratao ou de no retratao pelo Conselho de Justia ou pelo juiz que singularmente tomou a deciso. Se houver a retratao o recurso sobe ao tribunal por simples petio (artigo 520, pargrafo nico, CPPM). De acordo com o artigo 518 do CPPM os recursos em sentido estrito sero interpostos por meio de requerimento em que se especificaro, se for caso, as peas dos autos de que se pretenda traslado para instruir o recurso.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso em sentido estrito é interposto por meio de requerimento, com prazo de três dias contados da data da intimação da decisão, e tem legitimidade para recorrer o Ministério Público, o réu ou seu procurador. O procedimento em primeira instância inclui a interposição do recurso, recebimento pelo juiz, formação do instrumento, intimação do recorrente para apresentar razões, apresentação das razões, intimação do recorrido para contrarrazões e apresentação das contrarrazões.

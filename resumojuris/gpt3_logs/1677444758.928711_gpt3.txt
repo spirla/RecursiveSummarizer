@@ -1,0 +1,16 @@
+PROMPT:
+
+# Encontre as teses jurdicas no texto abaixo e organize-as em tpicos completos.
+
+1082
+1082
+1082
+1081
+
+TESES JURDICAS: 1.
+
+==========
+
+RESPONSE:
+
+O direito à liberdade de expressão é um direito fundamental garantido pela Constituição. 2. A censura de conteúdos na internet viola o direito à liberdade de expressão. 3. O Estado deve garantir a proteção dos direitos fundamentais dos cidadãos, inclusive o direito à liberdade de expressão. 4. É necessário estabelecer mecanismos para coibir a censura de conteúdos na internet.

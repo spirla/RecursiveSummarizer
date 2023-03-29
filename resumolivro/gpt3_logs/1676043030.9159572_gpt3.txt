@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Na Itlia, o ponto de partida das teorias objetivas foi dado por Pessina, que definiu o crime como sendo a ao humana que a lei considera como infrao ao direito e que, portanto, a probe, sob a ameaa de um castigo. O catedrtico da Universidade de Npoles sustentou que o objeto jurdico prprio, direto e imediato do crime  o direito em si mesmo, em sua autoridade geral e em cada um de seus comandos normativos. Muito embora tenha reconhecido que o crime ofende especificamente uma lei de moralidade que governa as intenes humanas e um interesse material puro, Pessina o concebeu como ofensa ou negao que  dirigida diretamente contra o direito. Nesse passo, distinguiu a violao dos deveres de moralidade pura da violao dos deveres jurdicos. A perspectiva objetiva colheu desenvolvimentos discursivos consistentes na doutrina alem, que passou a identificar no ilcito penal uma ofensa com conformao prpria e diferente das outras formas de ilcito. Em uma especial formulao terica, a doutrina concebeu como objeto da tutela penal o dever jurdico imposto pelo direito, reservando um papel secundrio ao bem jurdico na compreenso do crime. Nesse contexto, o crime se apresenta como violao de um determinado dever jurdico. Tal violao no caracterizaria essencialmente uma ofensa a um bem ou interesse jurdico, nem tampouco uma violao a qualquer direito subjetivo. A noo de bem jurdico serviria apenas para atribuir valor ao dever jurdico. O valor dos deveres jurdicos seria determinado segundo a importncia dos bens jurdicos ofendidos pelo crime. A perspectiva valorativa atribuda ao bem jurdico, contudo, no foi capaz de superar a dificuldade (ou mesmo impossibilidade) de classificar os bens jurdicos, segundo o seu valor, em classes nicas e universais. 4.4.5.1.2.3. Teorias mistas. As crticas s formulaes de ndole subjetiva e objetiva acabaram por conformar um corpo terico que foi identificado pela denominao de teorias mistas. Nesse contexto, podem ser includas as teorias que sustentam que o crime viola tanto o direito objetivo quanto um direito subjetivo (do particular ou do Estado) e as que sustentam que o crime viola o direito objetivo e, eventualmente, um dever jurdico ou um bem jurdico. Nenhuma destas perspectivas, contudo, apresenta compromisso claro com a garantia da liberdade individual. 4.4.5.1.2.4. Teoria do objeto de proteo. Com Birnbaum, a teoria do bem jurdico sofre um giro paradigmtico importante, que possui forte influncia sobre a compreenso do Direito Penal contemporneo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Pessina, catedrático da Universidade de Nápoles, definiu o crime como uma ação humana proibida pela lei, e ofensa ao direito. A doutrina alemã desenvolveu uma formulação teórica em que o objeto da tutela penal é o dever jurdico imposto pelo direito. Birnbaum influenciou a compreensão do Direito Penal contemporâneo com sua teoria do bem jurdico.

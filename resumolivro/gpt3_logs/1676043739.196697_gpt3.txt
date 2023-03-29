@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O tipo descreve as caractersticas essenciais do fato punvel e no se confunde com o fato concreto, que poder ser considerado criminoso. O fato concreto possui particularidades, circunstncias, que distinguem um caso de outro. O tipo penal, por sua vez,  generalizao que rene os requisitos essenciais para o reconhecimento de determinado crime. Como modelo de comportamento proibido, o tipo penal  til para interpretar o caso concreto. Se, no caso concreto, estiverem presentes os elementos que configuram a descrio tpica, o comportamento deve ser considerado relevante para o Direito Penal. A caracterizao do crime, inicialmente, exige a perfeita coincidncia entre a previso abstrata da lei para o modelo de comportamento proibido e o comportamento que, efetivamente, verifica-se na realidade material. Tal coincidncia  denominada adequao tpica (adequao do da conduta ao tipo penal incriminador) ou subsuno. Considerando que o tipo penal incriminador apresenta exigncias de natureza objetiva e subjetiva, somente haver adequao tpica quando o caso concreto satisfizer todas as exigncias da previso abstrata da lei. Insatisfeita qualquer exigncia, seja de natureza objetiva ou subjetiva, no haver adequao tpica e o fato ser um indiferente penal. A ausncia de tipicidade impede a considerao do comportamento como criminoso, muito embora possa ser ilcito e culpvel. Reconhecer a adequao tpica nem sempre  tarefa fcil, que resulte de uma consulta rpida ao texto legal. Em alguns casos,  necessrio resolver o aparente conflito entre vrias normas possivelmente aplicveis. Em outros,  necessrio perceber que vrias normas realmente tm incidncia sobre o mesmo fato. Algumas vezes, ser necessrio combinar normas para caracterizar a adequao tpica. A adequao tpica pode ocorrer de duas formas: a) por subordinao direta ou imediata; e b) por subordinao mediata. 5.5.1. Direta ou imediata. A forma mais simples de adequao tpica  a que acontece quando o sujeito satisfaz diretamente todas as exigncias da descrio tpica. O comportamento concreto que se analisa  descrito perfeitamente pela previso abstrata do tipo incriminador. A coincidncia entre a previso e o comportamento concretamente realizado evidencia-se imediatamente pela simples observao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tipo penal descreve as características essenciais de um comportamento proibido e é útil para interpretar o caso concreto. A adequação típica, que é a coincidência entre a previsão abstrata da lei e o comportamento realizado, pode ocorrer de forma direta ou mediata.

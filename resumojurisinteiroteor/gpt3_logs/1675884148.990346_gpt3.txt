@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1. A questo veiculada no recurso especial no envolve a anlise de contedo desta natureza, mas, sim, a verificao da ofensa ao art. 89,  1, 4, 5 e 6, da Lei n. 9.099/1995, matria eminentemente jurdica, atinente  suspenso condicional do processo poder ser revogada mesmo depois do trmino do perodo de prova, desde que o motivo que deu ensejo  revogao tenha ocorrido durante o perodo de vigncia do sursis. 2. O Superior Tribunal de Justia possui o entendimento no sentido de que "o benefcio da suspenso condicional do processo pode ser revogado mesmo aps o transcurso do perodo de prova, desde que a causa da revogao tenha ocorrido durante o referido lapso temporal. Precedentes do STJ e do STF." (REsp 1.391.677/RJ, Ministro Moura Ribeiro, Quinta Turma, DJe 18/10/2013) (RHC n. 61.827/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 17/9/2015). 3. Da exegese do  4 do art. 89 da Lei n. 9.099/1995 (a suspenso poder ser revogada se o acusado vier a ser processado, no curso do prazo, por contraveno ou descumprir qualquer outra condio imposta), constata-se ser vivel a revogao da suspenso condicional do processo ante o descumprimento, durante o perodo de prova, de condio imposta, mesmo aps o fim do prazo legal (REsp n. 1.498.034/RS, Ministro Rogrio Schietti Cruz, Terceira Seo, DJe 2/12/2015). 4. [...] no caso concreto, a data revogao e restabelecimento do curso do processo, qual seja, 22/11/2017,  o marco temporal balizador para a retomada do lapso prescricional, e no a data do expediente, proveniente do Juzo de Direito da 4a Vara da comarca de Palmeira dos ndios/AJ, datado de 31/05/2016, informando que os rus no vinham cumprindo as condies impostas, como entendeu o Tribunal a quo (fl. 938). 5. Para aferio de marcos interruptivos ou suspensivos da prescrio, verifica-se que no  a hiptese de aplicao do bice prescrito na Smula 7/STJ. 6. Conforme disposto pela Procuradoria-Geral da Repblica, em sede de impugnao, de acordo com a jurisprudncia do STJ, o prazo prescricional volta a ter seguimento quando houver deciso revogando o benefcio, tendo em vista a regra do paralelismo das formas [...] Temos, portanto, que o lapso prescricional voltou a correr em 23 de novembro de 2017. [...] Tendo corrido pouco mais de 1 ano e 9 meses entre o recebimento da denncia e a suspenso condicional do processo em 25 de fevereiro de 2014, o lapso prescricional restante era de pouco menos de 1 ano e 2 meses, contados a partir da data de 23 de novembro de 2017. [...] Prolatada sentena em 8 de novembro de 2018, claramente no houve extino da punibilidade pela prescrio da pretenso punitiva, devendo o processo voltar a seu curso normal, tal como decidido na deciso agravada.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Superior Tribunal de Justia (STJ) entende que a suspenso condicional do processo pode ser revogada mesmo aps o transcurso do perodo de prova, desde que a causa da revogao tenha ocorrido durante o referido lapso temporal. No caso em questo, a revogao ocorreu em 22/11/2017, e o lapso prescricional restante foi de pouco menos de 1 ano e 2 meses, contados a partir da data de 23 de novembro de 2017. A sentena foi prolatada em 8 de novembro de 2018, no havendo extino da punibilidade pela prescrio da pretenso punitiva.

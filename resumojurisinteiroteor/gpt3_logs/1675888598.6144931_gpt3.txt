@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Agravo regimental no provido. (AgRg no REsp n. 1.367.250/RS, relator Ministro Ricardo Villas Bas Cueva, Terceira Turma, julgado em 1/3/2016, DJe de 7/3/2016.) PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL EM AO RESCISRIA. INTERVENO DO ESTADO NO SETOR SULCROALCOOLEIRO. ALEGAO DE VIOLAO LITERAL DOS ARTS. 9 E 10 DA LEI N. 4.870/65. INTERPRETAO CONTROVERTIDA NOS TRIBUNAIS  POCA DA PROLAO DO ARESTO RESCINDENDO. INCIDNCIA DA SMULA N. 343/STF. IMPOSSIBILIDADE DE UTILIZAO DE AO RESCISRIA PARA A ANLISE DA JUSTEZA DA PROVA PERICIAL. [...] 6. A ao rescisria, remdio processual destinado a desconstituir julgado tutelado pela res iudicata, no  servil  correo de eventual injustia na equivocada apreciao do acervo ftico das provas. Deveras, a Corte de origem novamente avaliou o laudo pericial e interpretou essa prova em um juzo tipicamente de recurso apelao, no qual essa irresignao recursal  quase sempre imbuda de efeito devolutivo. Sucede que, no bojo de ao rescisria, a fortiori na hiptese de seu ajuizamento por ofensa literal a dispositivo de lei,  defeso ao magistrado fazer nova incurso na prova dos autos para a sua nova reapreciao. Isso acabaria transmutando a ao rescisria em mero sucedneo recursal, com a finalidade de obter-se uma terceira instncia revisora de fatos e de provas, que  repudiado pelo nosso ordenamento. Precedente: AR 4.364/RJ, Relator Ministro Benedito Gonalves, Primeira Seo, DJ de 2 de agosto de 2010 7. No caso sub examinem, a Corte de origem, para chegar onde chegou, procedeu  anlise vertical do laudo pericial para consider-lo imprestvel  luz dos critrios estabelecidos nos arts. 9 e 10 da Lei n. 4.870/65. Nesse sentido, consta do acrdo recorrido que o mtodo empregado pelo experto do Juzo, qual seja, a diferena entre o preo que foi cobrado pelas vendas e o valor que deveria ter sido praticado de acordo com os critrios apurados pela FGV, suprimiu premissas inarredveis.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Agravo regimental no provido. A ação rescisória não é servil à correção de eventual injustiça na equivocada apreciação do acervo fático das provas, sendo vedada ao magistrado a nova análise da prova dos autos. A Corte de origem procedeu à análise vertical do laudo pericial para considerá-lo imprestável à luz dos critérios estabelecidos na Lei n. 4.870/65.

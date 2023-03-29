@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Estabelece o pargrafo 1 que o acusado poder, nesse caso, ser internado em manicmio judicirio ou em outro estabelecimento congnere, cuja finalidade  tratar da doena mental instalada depois do crime. Por fim, em caso de restabelecimento do acusado determina o pargrafo 2 que o inqurito ou o processo retoma o seu curso ficando-lhe assegurada a faculdade de reinquirir as testemunhas que houverem prestado depoimento sem a sua presena ou a repetio de diligncia em que a mesma presena teria sido indispensvel. Pode ser emprestado laudo psiquitrico de processo administrativo ou de interdio civil? A orientao da doutrina  a de que se a inimputabilidade deve ser constatada ao tempo da ao ou da omisso e relacionada com o crime objeto do julgamento, inadmissvel sentena com fundamento em prova emprestada. Na mesma linha de entendimento Vicente Greco Filho anota que o exame ser sempre especfico para os fatos relatados no inqurito ou no processo, e no pode ser substitudo por interdio civil ou exame realizado em razo de outro fato, em razo do sistema biopsicolgico da inimputabilidade penal adotado no Cdigo Penal (e no Cdigo Penal Militar tambm). O STJ decidiu no HC 49.767/PA, rel. Min. Laurita Vaz, j. 07/03/2006, DJ 03/04/2006:
+[...] 2. A concluso do laudo pericial, ora acostado aos autos, produzido no processo de interdio civil do acusado,  vlido apenas em relao aos atos de sua vida civil, no sendo capaz de isent-lo da culpabilidade penal.. Tal dvida somente ser solucionada aps a realizao correta do incidente de sanidade mental do acusado, o qual ainda no se efetivou por culpa exclusiva do paciente. 10.7. Incidente de falsidade de documento. O incidente de falsidade de documento  destinado a impugnar o documento tido por viciado, fazendo-se prova de que no  autntico, no corresponde  verdade, que no tem valor probatrio e deve ser desentranhado do processo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O acusado pode ser internado em manicômio judiciário ou outro estabelecimento congênere para tratar de doença mental instalada após o crime. Se o acusado se restabelecer, o inquérito ou processo retoma seu curso, com direito a reinquirir testemunhas e repetir diligências. O laudo psiquiátrico de processo administrativo ou de interdição civil não pode ser usado como prova de inimputabilidade penal. O STJ decidiu que o laudo pericial produzido no processo de interdição civil do acusado não isenta da culpabilidade penal, sendo necessário realizar o incidente de sanidade mental. O incidente de falsidade de documento destina-se a impugnar documentos viciados, provando que não são autênticos, não correspondem à verdade e não têm valor probatório.

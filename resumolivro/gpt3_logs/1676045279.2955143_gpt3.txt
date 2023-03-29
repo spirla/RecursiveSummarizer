@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Um meio de defesa com menor potencial lesivo exige maior esforo para fazer cessar a agresso do que outro meio com maior potencial. Uma arma de fogo calibre 22, por exemplo, no produz o mesmo impacto que uma arma calibre 38. Disso resulta que a quantidade de disparos necessrios para fazer cessar uma agresso depender da potencialidade ofensiva da arma utilizada. Assim, a constatao de que o defendente realizou nmero maior de disparos pode no caracterizar imoderao se, considerando as limitaes da arma utilizada, todos os disparos tiverem sido necessrios para fazer cessar a agresso. A anlise sobre o excesso de legtima defesa decorrente da imoderao no emprego dos meios necessrios deve orientar-se por critrios objetivos. Se houver objetiva desproporo entre a agresso e a reao, deve-se reconhecer o excesso. A tipicidade da conduta lesiva decorrente do excesso, no entanto, depender do elemento subjetivo que orientou a conduta. Conforme o caso, o excesso por imoderao poder caracterizar um tipo doloso ou culposo. 7.9.2.6. Inteno de defesa. Como j foi analisado anteriormente, a satisfao dos requisitos objetivos do tipo permissivo no bastam para justificar uma conduta lesiva por legtima defesa. Muito embora o artigo 25 do CP no seja explcito neste sentido, alm da satisfao dos requisitos objetivos tambm  necessrio que o sujeito oriente-se por finalidade compatvel com a descrio tpica da justificao. Aps o sistema finalista de Welzel, passou-se a entender que a ao de defesa deve ser executada com o propsito de defender-se da agresso. Isso significa dizer que aquele que se defende tem que conhecer a agresso e ter vontade de defender o bem jurdico dela. O desvalor da conduta lesiva somente estar excludo quando a reao defensiva for objetivamente necessria e subjetivamente conduzida pela vontade de defender-se. Portanto, no encontrar justificao a conduta que objetivamente se enquadrar na previso legal da legtima defesa e que tenha sido conduzida somente pela vontade de lesionar um bem jurdico. 7.9.2.7. Defesa por agente de segurana pblica. Em razo da Lei 13.964/2019, conhecida como a Lei do Pacote Anticrime, foi inserido um pargrafo nico no artigo 25 do Cdigo Penal, segundo o qual observados os requisitos do caput deste artigo, considera-se tambm em legtima defesa o agente de segurana pblica que repele agresso ou risco de agresso a vtima mantida refm durante a prtica de crimes..
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A quantidade de disparos necessários para cessar uma agressão depende da potencialidade ofensiva da arma utilizada. O reconhecimento de excesso de legítima defesa decorrente de imoderao no emprego dos meios necessários deve se orientar por critérios objetivos. Além dos requisitos objetivos, é necessário que o sujeito oriente-se por finalidade compatível com a descrição típica da justificação para que a conduta lesiva seja excluída. A Lei 13.964/2019 considera também em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes.

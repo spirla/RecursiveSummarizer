@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Um meliante qualquer que furta um pacote de biscoito no supermercado ou um militar fardado que furta o mesmo pacote de biscoito?  bvio que o valor tem pouca importncia. Aos olhos de todos,  o militar que est furtando,  "o polcia que est furtando. Quanto aos motivos determinantes, tambm h o aspecto desfavorvel, pois o embargante provavelmente no precisava, ou podia buscar, por meios ntegros e idneos, receber a quantia, se dela necessitasse, o que demonstra sua ganncia. O lugar do crime  absolutamente desfavorvel, como dito, j que ocorria nos seios da instituio que o embargante jurou honrar. Feitas as consideraes acima, quanto ao mrito da dosimetria, no h o que ser acrescentado nos fundamentos do voto do eminente Desembargador Rbio Paulino Coelho, que entendeu, corretamente, existir fundamentao idnea na fixao das penas-base. O Desembargador Relator do apelo - Desembargador Rbio Paulino Coelho - consignou em seu voto que: [...] Em relao  vtima Cad PM Joo Carlos da Costa Silva Na primeira fase da dosimetria da pena, considerando a existncia de cinco circunstncias judiciais desfavorveis, estabeleo a pena-base acima do mnimo legal, no patamar de 1 (um) ano e 8 (oito) meses de recluso, em regime inicial aberto, vedada a suspenso condicional da pena, prevista no artigo 84, inciso II, do CPM, tendo em vista que os motivos e as circunstncias dos crimes cometidos no nos permitem autorizar a presuno de que o recorrente no tornar a delinquir. Na segunda fase de aplicao da pena, no foi identificada a existncia de atenuantes e de agravantes. Na terceira fase, no foram identificadas causas de aumento ou diminuio da pena, pelo que a pena fica mantida no patamar de 1 (um) ano e 8 (oito) meses de recluso, em regime inicial aberto, vedado o sursis. Em relao  vtima Cad PM Igor Rodrigues Tiradentes Na primeira fase da dosimetria da pena, considerando a existncia de cinco circunstncias judiciais desfavorveis, estabeleo a pena-base acima do mnimo legal, no patamar de 1 (um) ano e 8 (oito) meses de recluso, em regime inicial aberto, vedada a suspenso condicional da pena, prevista no artigo 84, inciso II, do CPM, tendo em vista que os motivos e as circunstncias dos crimes cometidos no nos permitem autorizar a presuno de que o recorrente no tornar a delinquir. Na segunda fase de aplicao da pena, no foi identificada a existncia de atenuantes e de agravantes. Na terceira fase, no foram identificadas causas de aumento ou diminuio da pena, pelo que a pena fica mantida no patamar de 1 (um) ano e 8 (oito) meses de recluso, em regime inicial aberto, vedado o sursis.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal entendeu que, considerando a existncia de cinco circunstncias judiciais desfavorveis, a pena-base deveria ser fixada acima do mnimo legal, no patamar de 1 (um) ano e 8 (oito) meses de recluso, em regime inicial aberto, vedada a suspenso condicional da pena. Na segunda fase de aplicao da pena, nenhuma atenuante ou agravante foi identificada, pelo que a pena ficou mantida no patamar de 1 (um) ano e 8 (oito) meses de recluso, em regime inicial aberto, vedado o sursis.

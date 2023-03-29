@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No  correto o entendimento sustentado por Mirabete, segundo o qual, se houver diferena entre a data da pronncia e a data da publicao, deva prevalecer a data que melhor aproveite ao ru. Como a pronncia no se d em audincia e somente passa a existir como ato processual depois de sua publicao, no se pode admitir outra data que no seja a da publicao. Antes da publicao, a deciso de pronncia  apenas o registro de um trabalho intelectual do magistrado. A jurisprudncia pacificou o entendimento segundo o qual, mesmo quando ocorrer a desclassificao do crime, em plenrio do tribunal do jri, para outro que no seja de sua competncia, a pronncia dever ser mantida como causa interruptiva da prescrio. Nesse sentido j se manifestou o STF (HC 73.774), e foi editada a Smula 191 pelo STJ. Tal posicionamento, no entanto, no parece ser o mais adequado. O acusado no tem culpa se o rgo ministerial e o magistrado de primeiro grau indevidamente levaram-no a julgamento pelo tribunal do jri. Havendo o reconhecimento de que o crime praticado no foi aquele que constou da acusao inicial, como entender que um ato processual que somente existe no rito prprio quele crime que se reconheceu no ter ocorrido possa interromper a prescrio? O Poder Pblico deu causa  demora na prestao jurisdicional e, por isso, o acusado no pode ser prejudicado. Se a vtima vier a falecer em decorrncia das leses sofridas, aps a deciso de pronncia que admitiu a acusao de homicdio tentado, nova deciso de pronncia dever ser prolatada pelo magistrado. O rgo ministerial dever fazer aditamento  denncia e o magistrado admitir a acusao de homicdio consumado (artigo 416 do CPP). Nesse caso, somente a segunda deciso dever interromper a contagem da prescrio. Sendo o ru impronunciado ou absolvido sumariamente, poder o Ministrio Pblico interpor recurso em sentido estrito (artigo 581, IV e VI, do CPP). Sendo provido o recurso ministerial, o tribunal pronunciar o ru. Tal pronncia, da mesma forma como a que  prolatada em primeiro grau de jurisdio,  causa interruptiva da prescrio. O inciso II do artigo 117 do CP no faz qualquer restrio ao grau de jurisdio em que ocorre a deciso de pronncia. Se a deciso de pronncia vier a ser anulada em grau de recurso, tambm o ser a causa interruptiva da prescrio. Nesse caso, a interrupo da contagem do prazo prescricional ter lugar quando da nova deciso de pronncia.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência pacificou o entendimento de que a pronúncia interrompe a prescrição, mesmo que ocorra desclassificação do crime em plenário. Porém, se houver anulação da decisão de pronúncia em grau de recurso, a interrupção da contagem do prazo prescricional terá lugar quando da nova decisão de pronúncia.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+MRITO No mrito, com a devida vnia, divirjo do posicionamento adotado pelos e. desembargadores relator e revisor. Na hiptese dos autos, foi ofertada a representao para perda de graduao dos representados - 3 Sgt PM Leandro Mendes Borges, Cb PM Ederson Lemos e Sd PM Paibio Jnior Estevam - em razo da condenao criminal dos trs militares ao cumprimento da pena de 3 anos, 1 ms e 3 dias de recluso, em regime aberto, como incursos no art. 1, inciso I, "a, c/c o  4, incisos I, II e III, da Lei n. 9.455/97, por terem, no dia 28 de dezembro de 2018, restringido ilegalmente a liberdade do civil Vtor Hugo Venncio Ferreira e o torturado, o qual,  poca, era menor de idade. O delito praticado pelos representados por si s constitui ato que ofende de maneira grave a honra e a credibilidade da instituio policial militar. Os representados mantiveram ilegalmente encarcerado e torturaram, de forma brutal e covarde, um menor de idade no intuito de obterem informaes a respeito do esconderijo de armas e drogas. O comportamento repugnante dos representados pode ser visualizado na descrio minuciosa contida no voto do e. desembargador Rbio Paulino Coelho, relator da apelao criminal do processo que deu ensejo  presente representao. Confira-se: [...] Por volta das 07h45min, os militares teriam abordado Vtor Hugo Venncio Ferreira,  poca com 17 anos de idade, prximo  residncia de sua genitora (...), em Ribeiro das Neves. Com Vitor, nada foi encontrado. O abordado foi colocado no compartimento de segurana fechado da viatura e, em ato contnuo, foram at a residncia de sua me,  procura de armas e drogas. Na residncia de Marilda Venncio Ferreira, me de Vitor, em contato prvio, os militares tiveram a permisso da dona da casa para realizarem uma busca nas suas dependncias, mas, ao final, nada foi encontrado. Pegaram ainda os dados pessoais de Vitor, mas no falaram que ele estava no xadrez da viatura, e seguiram em diligncia para o bairro Vale da Prata, na entrada do bairro Metropolitano, em um "fundo onde os militares teriam agredido Vitor. Posteriormente, a guarnio seguiu para o Castelinho, no bairro Metropolitano, onde Vitor foi novamente agredido. Neste local, ele viu a irm dele, Gssica, o seu irmo, Welbert, e a cunhada dele se aproximando. Logo depois, foi levado para o bairro Fazenda Castro, onde novamente foi agredido e, segundo depoimento da vtima, veio a desmaiar. Um cidado que passava pelo local visualizou Vitor cado e desmaiado dentro de um stio, e, diante daquela situao, ligou para o 190 da PM. O 3 Sgt PM Silas Vilela Oliveira foi ao local juntamente com o Sd Gabriel Augusto Rafael; prestaram socorro  vtima e a levaram at o Hospital So Judas Tadeu, em Ribeiro das Neves.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A representação foi ofertada para perda de graduação dos representados - 3 Sgt PM, Cb PM e Sd PM - em razão da condenação criminal deles por restringirem ilegalmente a liberdade do civil Vtor Hugo Venncio Ferreira e torturarem-no, sendo ele menor de idade. O comportamento repugnante dos representados foi descrito minuciosamente no voto do desembargador relator.

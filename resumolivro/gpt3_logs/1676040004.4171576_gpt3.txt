@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A fixao de prazo mnimo presta-se a obrigar o reexame das condies do indivduo, preservando-o contra a desateno da autoridade pblica em relao  sua situao. Nos termos do pargrafo 1 do artigo 112, o prazo mnimo de durao da medida dever ser de 1 (um) a 3 (trs) anos, sendo que o exame de cessao da periculosidade dever ocorrer ao fim do prazo mnimo e repetir-se anualmente (pargrafo 2 do artigo 112) ou a qualquer tempo, se determinar o juiz da execuo. A internao em manicmio, como a pena, importa privaes ao indivduo e somente se justifica na medida de sua necessidade. Se no mais se verifica a periculosidade do sujeito, no h como persistir a medida de segurana. Por isso, no se pode impedir que o exame de cessao da periculosidade acontea mesmo antes do perodo mnimo de durao da medida. Nesse sentido, o artigo 176 da LEP determina que, em qualquer tempo, ainda no decorrer do prazo mnimo de durao da medida de segurana, poder o juiz da execuo, diante de requerimento fundamentado do Ministrio Pblico ou do interessado, seu procurador ou defensor, ordenar o exame para que se verifique a cessao da periculosidade. Constatada a inexistncia de periculosidade, a medida de segurana perde sua razo de ser. Nos termos do artigo 112, pargrafo 1, do Cdigo Penal Militar, enquanto o tratamento hospitalar no for exitoso em conferir ao inimputvel condio de sade que permita a ele ser reconhecido como apto ao convvio social, permanecer internado. Em muitos casos, a internao do inimputvel em manicmio se prolonga pelo resto de sua vida, tendo em vista a falta de condies para a sua cura. A possibilidade de sujeio perptua do inimputvel  medida de segurana  objeto de fundadas crticas que ressaltam a inconstitucionalidade de uma interveno excludente. Em ateno a essas crticas, o Supremo Tribunal Federal j decidiu que a medida de segurana fica jungida ao perodo mximo de trinta anos (HC 84.219/SP). Considerando que a medida de segurana , verdadeiramente, uma sano e visando evitar que ocorra sujeio perptua do inimputvel a ela, Virglio de Mattos sugere que o tempo mximo de durao da medida de segurana no ultrapasse o tempo de pena mxima cominada ao tipo legal realizado. Findo esse prazo e no cessada a enfermidade mental, deve ser declarada extinta a medida de segurana, transferindo-se o internado para tratamento comum em estabelecimento mdico da rede pblica, se no for possvel o tratamento ambulatorial.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 112 do Código Penal Militar estabelece um prazo mínimo de 1 a 3 anos para a medida de segurança, mas o exame de cessão da periculosidade pode ocorrer antes desse prazo. O Supremo Tribunal Federal decidiu que o prazo máximo de duração da medida de segurança não pode ultrapassar 30 anos. Findo esse prazo, se a enfermidade mental não tiver cessado, a medida de segurança é declarada extinta e o internado transferido para tratamento comum em estabelecimento médico da rede pública.

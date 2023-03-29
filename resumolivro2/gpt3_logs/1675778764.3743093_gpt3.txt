@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STF considerou que a priso preventiva para assegurar a aplicao da lei penal legitima-se quando presentes evidncias de que, em liberdade, o agente empreender esforos para escapar da aplicao da lei penal. H evidncias que o indiciado ou acusado pretende fugir, por exemplo, com o desfazimento desnecessrio de bens imveis ou mveis. Prevalece ser a fuga motivo idneo para decretar a priso preventiva:
+a evaso aps a prtica delitiva  fundamento idneo para a segregao cautelar para resguardar a aplicao da lei penal.  semelhante o entendimento do STJ fixado na edio 32 da Jurisprudncia em Teses:
+a fuga do distrito da culpa  fundamentao idnea a justificar o decreto da custdia preventiva para a convenincia da instruo criminal e como garantia da aplicao da lei penal. O STF, todavia, decidiu (HC 87.838) ser legtima a fuga para impedir priso preventiva que considere ilegal. Por outro lado, Denilson Feitoza exemplifica condutas que, concretamente, no indicam a inteno de que o agente ir fugir, o fato de algum pretender uma viagem ao exterior, a mudana residncia para fora da comarca (circunscrio judiciria militar) onde corre o processo. A possibilidade de fuga de militar da ativa no  impossvel, mas  reduzida, sobretudo se houver desproporo entre o custo gerado pela fuga - resduo administrativo, o risco de exonerao do servio militar e o de crime de desero - com a pena privativa de liberdade de pequena quantidade. A perspectiva de imposio de pena privativa de liberdade em maior quantidade, contudo, faz desaparecer esse custo. Por esse prisma, a possibilidade de fuga  maior do indiciado ou acusado inativo ou ex-militar.  discutvel se a falta de domiclio certo do indiciado ou do acusado inativo ou ex-militar seja motivo idneo para decretar a priso preventiva para segurana da aplicao da lei penal militar, uma vez que podem ser localizados por outros meios. Nem o fato de ter residncia em cidade diversa da cidade em que fica sediada a Auditoria Militar por onde corre o processo,  suficiente para decretar a priso preventiva a pretexto de que ir fugir.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF considera que a prisão preventiva é legítima quando há evidências de que o agente pretende fugir para escapar da aplicação da lei penal. O STJ também entende que a fuga do distrito da culpa é motivo idôneo para a custódia preventiva. No entanto, o STF decidiu que a fuga para impedir prisão preventiva ilegal é legítima. A possibilidade de fuga de militares da ativa é reduzida, mas aumenta com a perspectiva de imposição de pena privativa de liberdade em maior quantidade. Por fim, a falta de domicílio certo do indiciado ou acusado não é motivo idôneo para decretar a prisão preventiva.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A motivao insuficiente, entendida como a justificao incompleta por no analisar as teses das partes ou a preliminar de mrito, pode ser causa de nulidade. Na motivao sucinta h anlise dos elementos de prova, bem como a valorao e soluo das questes de fato e de direito suscitadas no processo e no existe nulidade. Decidiu o STF que no houve violao ao artigo 93, IX, CF, por suposta omisso, que exige, to somente, fundamentao, ainda que sucinta. Define-se a motivao per relacionem aquela em que o magistrado no fornece as suas razes de decidir, limitando-se a invocar os fundamentos de um outro ato j praticado, acolhendo-os e tornando-os como sua razo de julgamento.  pacfica a jurisprudncia do STF quanto  possibilidade da motivao per relationem por entender que se reveste de plena legitimidade jurdico-constitucional e se mostra compatvel com o que dispe o artigo 93, IX, da Constituio Federal. A remisso feita pelo magistrado - referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte  anterior deciso (ou, ento, a pareceres do Ministrio Pblico ou, ainda, a informaes prestadas por rgo apontado como coator) - constitui meio apto a promover a formal incorporao, ao ato decisrio, da motivao a que o juiz se reportou como razo de decidir. Esse tambm  o entendimento jurisprudencial do STJ sumulado na edio 69 da Jurisprudncia em Teses:
+A utilizao da tcnica de motivao per relationem no enseja a nulidade do ato decisrio, desde que o julgador se reporte a outra deciso ou manifestao dos autos e as adote como razo de decidir. O Cdigo de Processo Penal Militar estabelece no artigo 438 os requisitos na fundamentao da sentena, a indicao dos motivos de fato e de direito em que se fundar a deciso (alnea c) e a indicao, de modo expresso, do artigo ou artigos de lei em que se acha incurso o acusado (alnea d). Alm do disposto no artigo 438, so requisitos da sentena condenatria a imposio da pena privativa de liberdade, quanto  quantidade e espcie, ou das medidas de segurana (artigo 440, alneas a a d).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A motivação insuficiente pode ser causa de nulidade, mas a motivação sucinta não. O STF decidiu que não houve violação ao artigo 93, IX, CF, pois exige apenas fundamentação, mesmo que sucinta. A motivação per relationem é permitida, desde que o juiz se reporte a outra decisão ou manifestação dos autos e as adote como razão de decidir. O Código de Processo Penal Militar estabelece os requisitos da sentença condenatória, como a imposição da pena privativa de liberdade e das medidas de segurança.

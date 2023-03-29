@@ -1,0 +1,22 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+(...) (STJ: AgRg no RMS 23.736/TO, 6 Turma, Rel. Min. Og Fernandes, julgado em 21/05/2013). Destaca-se, outrossim, que a cautelaridade da aludida medida administrativa foi mitigada pela Lei Complementar 168, de 19/07/2022, que alterou os artigos 168 e 175 do EMEMG, e fixou o seu limite territorial quando o fato antietico objeto da movimentacao por convenincia da disciplina nao houver ainda sido comprovado por meio de processo administrativo:
+Artigo 168 - (...)
+Paragrafo 2 - A movimentacao por convenincia da disciplina sera feita por solicitacao documentada do Comandante ou Chefe do Servico ao Comandante-Geral e, em principio, quando o Oficial for punido com prisao, respeitados:
+- a motivacao do ato, em qualquer caso;
+- os limites das areas das regioes da policia militar ou comandos operacionais de bombeiros contiguas a regiao ou ao comando do municipio sede de lotacao do militar, salvo se comprovada a pratica de transgressao em processo administrativo, caso em que tais limites poderao nao ser observados. Artigo 175 - (...)
+Paragrafo 2 - A movimentacao por convenincia da disciplina sera feita por solicitacao do Comandante ou Chefe de Servico da praca, respeitados:
+- a motivacao do ato, em qualquer caso;
+- os limites das areas das regioes da policia militar ou comandos operacionais de bombeiros contiguas a regiao ou ao comando do municipio sede de lotacao do militar, salvo se comprovada a pratica de transgressao em processo administrativo, caso em que tais limites poderao nao ser observados. Ressalta-se que constituira acumulacao ilicita de cargo publico o exercicio de cargo civil publico de profissional de saude por militar com formacao na area de saude, mas, que nao integra os quadros saude da IME, ja que, nesse caso, o seu cargo militar nao e privativo de profissional de saude conforme exige o texto constitucional.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei Complementar 168/2022 mitigou a cautelaridade da medida administrativa de movimentação por conveniência da disciplina, estabelecendo limites territoriais para a punição de oficiais da Polícia Militar ou do Corpo de Bombeiros. O exercício de cargo civil público de profissional de saúde por militar com formação na área de saúde, mas que não integra os quadros de saúde da IME, é considerado acumulação ilícita de cargo público.

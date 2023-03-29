@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A caracterizao do crime como de pequeno potencial ofensivo firma a competncia do Juizado Especial Criminal, no qual deve ser observado o rito processual mais clere e informal, bem como possibilita a aplicao imediata de pena no privativa de liberdade,4 conforme previsto na Lei 9.099/95. Os crimes de maior potencial ofensivo, por sua vez, recebem tratamento mais rigoroso. Como mencionado no item anterior, tais crimes so inafianveis e insuscetveis de graa ou anistia. Contudo, tambm em outros aspectos, os crimes considerados de maior potencial ofensivo recebem tratamento mais rigoroso. Nos termos do artigo 2 da Lei 8.072/90, a pena imposta por esses crimes ser cumprida inicialmente em regime fechado (pargrafo 1); para a progresso de regime  necessrio o cumprimento de 2/5 (dois quintos) da pena, se o apenado for primrio, e de 3/5 (trs quintos), se reincidente (pargrafo 2); o juiz dever decidir fundamentadamente se o ru poder apelar em liberdade (pargrafo 3); e a priso temporria ter o prazo de 30 (trinta) dias, podendo ser prorrogada por igual perodo em caso de extrema e comprovada necessidade. Os condenados por tais crimes, se no forem reincidentes em crimes desta natureza,5 precisam cumprir mais de 2/3 (dois teros) da pena imposta para obter o livramento condicional, conforme dispe o artigo 83, V, do Cdigo Penal. 23.2. Quanto ao sujeito ativo. A classificao que leva em considerao o sujeito ativo do crime rene os crimes segundo a existncia, ou no, de exigncias tpicas relacionadas s suas qualidades especiais. 23.2.1. Crime comum. A denominao comum quando  atribuda a qualquer objeto se presta a designar a ausncia de qualidades ou peculiaridades especiais. No Direito Penal, o crime  denominado comum quando na descrio tpica no houver qualquer exigncia relacionada  qualidade especial do sujeito que realiza a conduta punvel. Devido a essa ausncia de exigncias especiais, o crime comum pode ser praticado por qualquer pessoa. So exemplos de crimes comuns os crimes de homicdio (artigo 121), de furto (artigo 155), de roubo (artigo 157) e de estelionato (artigo 171), todos do Cdigo Penal. 23.2.2. Crime prprio. Os crimes so denominados prprios quando a previso tpica traz, implcita ou explicitamente, exigncias relativas  determinada qualidade ou condio especial do sujeito que realiza a conduta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 9.099/95 estabelece a competência do Juizado Especial Criminal para crimes de pequeno potencial ofensivo, com tratamento mais rigoroso para os de maior potencial. Estes são inafiançáveis e insuscetíveis de graça ou anistia, com pena inicialmente em regime fechado, progressão de regime com 2/5 para primário e 3/5 para reincidente, além de prisão temporária de 30 dias. Crimes comuns são aqueles sem exigências típicas relacionadas à qualidade especial do sujeito, enquanto os próprios possuem exigências específicas.

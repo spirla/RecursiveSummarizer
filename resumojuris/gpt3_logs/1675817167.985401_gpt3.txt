@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com efeito, o Estado  desde que nao acarrete onus excessivos aos atores privados, em especial no caso de contratos administrativos  pode intervir na or-dem economica para assegurar o gozo de direitos fundamentais de pessoas em condicao de fragilidade econo-mica e social, implementando politicas publicas que estabelecam meios para a consecucao da igualdade de oportunidades e da humanizacao das relacoes sociais, e dando concretude aos valores da cidadania e da digni-dade da pessoa humana. No caso, a reserva das gratuidades e dos beneficios tarifarios legalmente instituidos nao implica onus desproporcional as empresas prestadoras do servico publico de transporte coletivo interestadual de passageiros, tendo em vista que o conjunto normativo relativo a materia contempla mecanismos de correcao de eventual desequilibrio economico-financeiro dos contratos. Com base nesses entendimentos, o Plenario, por unanimidade, julgou improcedente a acao para decla-rar a constitucionalidade do art. 32 da Lei 12.852/2013 (Estatuto da Juventude). ADI 5657/DF, relator Ministro Luiz Fux, julgamento em 16 e 17.11.2022 (INF 1076) 4.5 EDUCACAO BASICA COVID-19: Realocacao de recursos vinculados ao FUNDEB para acoes de combate a pandemia do novo coronavirus - ADI 6490/PI Resumo: E vedada a utilizacao, ainda que em carater excepcional, de recursos vinculados ao FUNDEB pa-ra acoes de combate a pandemia do novo coronavirus (COVID-19). Os precedentes da Corte sao firmes quanto a impossibilidade do uso dos recursos do FUNDEB para gastos nao relacionados a educacao, pois possuem destinacao vinculada a finalidades especificas, todas volta-das exclusivamente a area educacional. Portanto, ainda que se reconheca a gravidade da pandemia da COVID-19 e os seus impactos na economia e nas financas publicas, nada justifica o emprego de verba constitucional-mente vinculada a manutencao e desenvolvimento do ensino basico para fins diversos da que ela se destina.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Estado pode intervir na ordem econômica para assegurar o gozo de direitos fundamentais de pessoas em condição de fragilidade econômica e social. 2. A reserva de gratuidades e benefícios tarifários legalmente instituídos não implica onus desproporcionais às empresas prestadoras de serviço público de transporte coletivo interestadual de passageiros. 3. É vedada a utilização, ainda que em caráter excepcional, de recursos vinculados ao FUNDEB para ações de combate à pandemia do novo coronavírus (COVID-19). 4. É impossível o uso dos recursos do FUNDEB para gastos não relacionados à educação, pois possuem destinação vinculada a finalidades específicas, todas voltadas exclusivamente à área educacional.

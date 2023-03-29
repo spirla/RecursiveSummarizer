@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Concorda Jos Henrique Pierangelli que o julgador tem toda a liberdade para admitir a prova que considera til ao esclarecimento da verdade e para apreci-la de acordo com as regras de Lgica, da Psicologia e da experincia comum, adverte, todavia, sobre o risco dessa prova. Ao dissertar sobre a questo, Hlio Tornaghi afirma que o valor da prova indiciria depende, em primeiro lugar, da natureza da premissa maior condicionado  certeza da premissa menor. A natureza da premissa maior  de duas ordens:
+regra da experincia ou princpio da razo. Quando a premissa maior  uma regra de experincia a concluso  apenas provvel, porque as leis experimentais admitem sempre alguma possibilidade de virem a ser desmentidas (atualmente no se pode mais afirmar com certeza que a gravidez resultou de relao sexual, porque pode ser resultado de inseminao artificial). Entretanto, a premissa maior sendo um princpio da razo, imutvel conduz  certeza da premissa menor. Exemplo do libi:
+se o suspeito estava no Japo no momento do crime praticado no Brasil  certo que no foi autor do crime, porque ningum pode estar e no estar no Brasil ao mesmo tempo, segundo o princpio da contradio. Para doutrinadores estrangeiros o valor da prova indiciria depende da concordncia entre os indcios. Acrescenta Devis Echandia que os indcios devem ser concordantes e convergentes de modo a produzir certeza. Que sejam concordantes entre si, assinala Antonio Dellepiane, de maneira a produzir um todo coerente e natural, no qual cada fato indicirio tome sua respectiva colocao quanto ao tempo, lugar e demais circunstncias. No mesmo sentido aduz Jos Mara Asencio Mellado que para ter valor de prova o indcio deve ter sido plenamente comprovado por outro meio de prova;
+deve haver pluralidade de indcios;
+os indcios devem ser graves, precisos e concordantes. A prova indiciria situa-se na categoria de prova indireta, sempre sujeita a uma graduao segundo o grau de probabilidade que proporcione. Com efeito, quanto maior for a relao de causalidade entre o fato conhecido e provado com o fato ou circunstncia de que no se tem prova, maior ser o valor probatrio do indcio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O julgador tem liberdade para admitir a prova que considera til ao esclarecimento da verdade, desde que sejam observadas as regras de lógica, psicologia e experiência comum. O valor da prova indiciária depende da natureza da premissa maior, que pode ser uma regra de experiência ou princípio da razão, e da concordância entre os indícios. Para ter valor de prova, os indícios devem ser graves, precisos e concordantes, além de serem comprovados por outro meio de prova. A prova indiciária é sempre sujeita a uma graduação segundo o grau de probabilidade que proporciona.

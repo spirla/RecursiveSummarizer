@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A correspondncia particular, interceptada ou obtida por meios criminosos, no ser admitida em juzo, devendo ser desentranhada dos autos se a estes tiver sido juntada, para a restituio a seus donos (artigo 375, CPPM). A correspondncia de qualquer natureza poder ser exibida em juzo pelo respectivo destinatrio, para a defesa do seu direito, ainda que no haja consentimento do signatrio ou remetente (artigo 376, CPPM). O mdico tem dever legal de liberar cpias do pronturio sob sua guarda para atender ordem judicial. O mdico deve prestar informaes sobre fatos mantidos sob segredo profissional, nos casos de crimes de ao pblica, quando solicitado por qualquer autoridade, inclusive policial. O juiz, de ofcio ou a requerimento das partes, poder ordenar diligncia para a conferncia de pblica-forma de documento que no puder ser exibido no original ou em certido ou cpia autntica revestida dos requisitos necessrios  presuno de sua veracidade. A conferncia ser feita pelo escrivo do processo, em dia, hora e lugar previamente designados, com cincia das partes (artigo 380, CPPM). A devoluo de documentos originais, se findo o processo,  feita conforme dispe o artigo 381 do CPPM. 14.2.12. Prova indiciria. 14.2.12.1. Conceito de indcio. Conceitua o artigo 382 do CPPM que:
+Indcio  a circunstncia ou fato conhecido e provado, de que se induz a existncia de outra circunstncia ou fato, de que no se tem prova. A palavra indcio tem a sua origem etimolgica no termo indicium, que significa indicado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A correspondência particular não é admitida em juízo se obtida por meios criminosos. O destinatário pode exibir a correspondência para a defesa de seu direito, mesmo sem o consentimento do signatário ou remetente. O médico tem o dever legal de liberar cópias do prontuário sob sua guarda a pedido de autoridade. O juiz pode ordenar a conferência de documentos em pública-forma, com ciência das partes. A devolução de documentos originais é feita após o processo. O indício é uma circunstância ou fato conhecido e provado, de que se induz a existência de outra circunstância ou fato, de que não se tem prova.

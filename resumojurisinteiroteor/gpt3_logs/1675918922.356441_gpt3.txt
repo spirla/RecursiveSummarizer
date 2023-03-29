@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Sobre o trancamento da ao penal, em recente julgamento do Habeas Corpus n. 180869 AgR, a Primeira Turma do Supremo Tribunal Federal (STF) decidiu que isso somente pode ocorrer nas hipteses de atipicidade da conduta, de evidente ausncia de justa causa e de extino da punibilidade. Como visto, a conduta, em tese,  tpica, parece ser ntida a presena da justa causa, e no houve a extino da punibilidade. E, nos termos do entendimento do STF,  preciso estar plenamente demonstrado que no existem indcios mnimos da autoria e da materialidade na prtica do crime, e, neste caso, ao contrrio, existem indcios da materialidade e da autoria para os crimes em estudo. Esse  o entendimento do Tribunal de Justia Militar do Estado de Minas Gerais, conforme julgado relativo a habeas corpus que teve o mesmo militar como paciente. Confira-se: HABEAS CORPUS (COMPETNCIA: CMARA) N 2000119- 71.2021.9.13.0000/JME RELATOR: DESEMBARGADOR OSMAR DUARTE MARCELINO PACIENTE: RAFAEL DE MOURA ALVES PEREIRA IMPETRADO: JUIZ TITULAR DA 1a AJME EMENTA HABEAS CORPUS - TRANCAMENTO DE AO PENAL - FATOS QUE, EM TESE, SE AMOLDAM A TIPOS PENAIS OBJETIVAMENTE ESTABELECIDOS - PRESENA DE INDCIOS DA AUTORIA E DA MATERIALIDADE DELITIVAS - DENNCIA QUE PREENCHE OS REQUISITOS PARA O RECEBIMENTO - AUSNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA. Ante o exposto, pelas supracitadas razes, confirmo a deciso liminar e, por conseguinte, denego a ordem impetrada.  como voto. DESEMBARGADOR FERNANDO GALVO DA ROCHA Srs. desembargadores. Na oportunidade, acompanho as razes e o voto do eminente relator, para igualmente julgar improcedente a presente ao de habeas corpus. DESEMBARGADOR RBIO PAULINO COELHO Acompanho, integralmente, o voto do e. desembargador relator, denegando a ordem impetrada. Belo Horizonte, sesso ordinria presencial remota de julgamento do Tribunal de Justia Militar do Estado de Minas Gerais, aos 8 de maro de 2022. Desembargador Osmar Duarte Marcelino Presidente da Primeira Cmara e Relator HABEAS CORPUS Processo eproc n. 2000031-96.2022.9.13.0000 Referncias: Inqurito Policial Militar de Portaria n. 118.300/21 - 41 BPM Processo eproc n. 2000128-90.2022.9.13.0002 Relator: Desembargador Jadir Silva Julgamento: 31/03/2022 Publicao: 05/04/2022 Deciso: UNNIME EMENTA HABEAS CORPUS - HOMOLOGAO DE PEDIDO DE TRANCAMENTO DE INQURITO POLICIAL MILITAR PELA AUTORIDADE APONTADA COMO COATORA - PEDIDO PREJUDICADO PELA PERDA DO OBJETO. ACRDO Vistos, relatados e discutidos os presentes autos, sendo paciente Ivo Rodrigues da Paz, impetrante/advogada Andra Vanessa de Arajo e autoridade apontada como coatora o Juiz de Direito em substituio na 2a AJME, acordam os desembargadores da Segunda Cmara, por unanimidade, em julgar prejudicado o pedido de ordem de habeas corpus, pela perda de seu objeto, nos termos do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Primeira Turma do STF decidiu que o trancamento da ao penal somente pode ocorrer em hipteses de atipicidade da conduta, de evidente ausência de justa causa e de extinção da punibilidade. No caso em questão, a conduta é típica, há presença de justa causa e não houve extinção da punibilidade. O Tribunal de Justia Militar do Estado de Minas Gerais também decidiu pela denegação da ordem de habeas corpus, pois existem indícios da materialidade e da autoria para os crimes em estudo.

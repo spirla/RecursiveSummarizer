@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+8 da Lei n. 12.514/2011. Aplicabilidade. DESTAQUE A Ordem dos Advogados do Brasil (OAB) submete-se a disposicao contida no art. 8 da Lei n. 12.514/2011, a limitacao de execucao judicial de anuidades, quando o valor for inferior a R$ 2.500,00 (dois mil e quinhentos reais). Cinge-se a controversia a analisar a submissao da Ordem dos Advogados do Brasil (OAB) ao art. 8 da Lei n. 12.514/2011. O citado dispositivo preve uma limitacao a execucao de anuidades por conselhos profissionais nos seguintes termos: Art. 8 Os Conselhos nao executarao judicialmente dividas, de quaisquer das origens previstas no art. 4 desta Lei, com valor total inferior a 5 (cinco) vezes o constante do inciso I do caput do art. 6 desta Lei, observado o disposto no seu  1. A jurisprudencia do STJ e no sentido de que OAB esta submetida ao disposto no art. 8 da Lei n. 12.514/2011 apesar de sua natureza sui generis: 1.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Ordem dos Advogados do Brasil (OAB) está submetida ao disposto no art. 8 da Lei n. 12.514/2011, que prevê uma limitação à execução de anuidades por conselhos profissionais com valor total inferior a 5 (cinco) vezes o constante do inciso I do caput do art. 6 desta Lei. 2. A jurisprudência do STJ é no sentido de que a OAB está submetida ao disposto no art. 8 da Lei n. 12.514/2011, apesar de sua natureza sui generis.

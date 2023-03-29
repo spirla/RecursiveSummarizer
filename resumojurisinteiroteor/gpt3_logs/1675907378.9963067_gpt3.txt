@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Destaco: [...] Pois bem, a questo se revela singela, j que o impetrante pretende o trancamento da ao penal militar simplesmente porque, segundo a sua prpria percepo, inexiste justa causa para a ao penal (evento 1 - INIC1 - fls. 12) em virtude de a denncia ter sido recebida a despeito da atipicidade da conduta perpetrada pelo Cb Halfeld (evento 1 - INIC1 - fls. 14). Desta forma, no se verifica qualquer ato da autoridade apontada como coatora que possa configurar ameaa  liberdade de locomoo do paciente, em observncia ao que dispe o artigo 467 do CPPM, o que, por si s, inviabiliza o conhecimento da medida processual ora adotada. Ainda que assim no fosse, conforme se extrai da deciso que recebeu a denncia no dia 03/11/2021, a pea acusatria apresentada pelo Ministrio Pblico preenche todos os requisitos legais necessrios ao seu recebimento (evento 1 - DESPDECPART18), razo pela qual ficou evidente que o impetrante se utilizou inadequadamente da via de habeas corpus com o intuito de tentar provar a inocncia do paciente com base na anlise do tipo penal a ele imputado (evento 1 - INIC1 - fls. 7/11), fazendo-se necessrio, no entanto, dar continuidade  instruo criminal para que, somente ao final, seja possvel decidir sobre a procedncia ou no da ao. Pelo exposto, mostrando-se absolutamente evidente que o habeas corpus no se presta  finalidade pretendida pelo impetrante, o Ministrio Pblico opina pelo seu no conhecimento  o relatrio. VOTOS DESEMBARGADOR JADIR SILVA, RELATOR Conheo da ao de habeas corpus, porquanto o impetrante apresenta pedido de trancamento da ao penal, com fundamento na previso do art. 467, letras c (quando no houver justa causa para a coao ou constrangimento) e g (quando algum estiver processado por fato que no constitua crime em tese), do Cdigo de Processo Penal Militar (CPPM), pedido possvel. Quanto s teses de justa causa, em anlise dos autos, entendo que a ao de habeas corpus no se mostra procedente, conforme passo a demonstrar. A lgica jurdica e o bom senso indicam que, pelo menos agora, no h justificativas para obstar o prosseguimento a ao penal porque isso implicar uma incurso nos elementos indicirios e a necessidade de valor-los em julgamento que competiria ao Juzo natural, ou seja, implicar apreciar os elementos indicirios sem que esteja presente uma das causas primrias para o seu trancamento. Explico. A medida extrema do trancamento da ao penal ou do inqurito policial militar funda-se em argumentos vlidos que a justifiquem, atravs de provas pr-constitudas, em razo de clara atipicidade dos fatos ou de indubitvel ocorrncia de uma das causas extintivas de punibilidade. Na verdade,  o que dispe a legislao processual pertinente (letras "c, "g e "h do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao de habeas corpus foi conhecida, pois o impetrante apresentou pedido de trancamento da ao penal, com fundamento no art. 467 do Cdigo de Processo Penal Militar (CPPM). Entretanto, a medida extrema não se mostrou procedente, pois não há justificativas para obstar o prosseguimento da ao penal, uma vez que não estão presentes as causas primárias para o seu trancamento.

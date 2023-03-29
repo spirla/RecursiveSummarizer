@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Para a deciso de mrito da pretenso punitiva basta que o querelante no consiga comprovar, no curso do processo que apura a prtica da calnia, que a imputao feita pelo ru  falsa.  nus processual do acusador comprovar a tipicidade objetiva da conduta do ru. Se no comprovar cabalmente a ocorrncia de um crime de calnia, o ru deve ser absolvido. Se a falsidade da imputao  uma exigncia do tipo objetivo de calnia, a simples dvida de que a imputao seja verdadeira  suficiente para levar a uma absolvio. O Cdigo Penal, no pargrafo 3 de seu artigo 138, pretendeu impedir a prova da verdade nos seguintes casos:
+Pargrafo 3 - Admite-se a prova da verdade, salvo:
+- se, constituindo o fato imputado crime de ao privada, o ofendido no foi condenado por sentena irrecorrvel;
+- se o fato  imputado a qualquer das pessoas indicadas no I do artigo 141;
+- se do crime imputado, embora de ao pblica, o ofendido foi absolvido por sentena irrecorrvel. O dispositivo legal sugere que, nos casos elencados em seus incisos,  proibida a prova da verdade, seja em incidente de exceo da verdade ou mesmo no curso da ao penal por calnia. Cabe observar, entretanto, que nenhuma das hipteses previstas no pargrafo 3 do artigo 138 do CP se compatibiliza com o sistema de garantias institudo pela Constituio da Repblica, no sendo, por isso, por ela recepcionadas. Com efeito, nos termos da Constituio, no  juridicamente possvel impedir que um acusado produza provas licitas em favor de sua liberdade. O legislador ordinrio, no inciso I do artigo 138 do CP, pretendeu impedir a prova da verdade quando o fato imputado pelo ru em desfavor da vitima constituir crime de ao privada e esta no tiver sido condenada por sentena irrecorrvel. Segundo o dispositivo legal, nos casos em que a imputao disser respeito a um crime de ao privada, a prova da verdade somente ser possvel se houver deciso condenatria do querelante com trnsito em julgado. Conforme a doutrina clssica, nos crimes de ao privada o legislador confere a vitima um juzo de oportunidade e convenincia para a propositura e o prosseguimento da ao penal visando impedir que o processo judicial lhe traga novos danos ou mesmo propiciar sua reconciliao com o ofensor. Permitir que terceiro provasse a veracidade da ofensa no curso de um processo de calnia representaria uma contradio com a finalidade poltica do instituto da ao privada e, por isso, o legislador impediu a prova da verdade no processo de calnia.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O nus processual do acusador comprovar a tipicidade objetiva da conduta do ru. Se a falsidade da imputao uma exigncia do tipo objetivo de calnia, a simples dvida de que a imputao seja verdadeira suficiente para levar a uma absolvio. O Cdigo Penal impede a prova da verdade nos casos em que a imputao disser respeito a um crime de ao privada e a vitima no tiver sido condenada por sentena irrecorrvel.

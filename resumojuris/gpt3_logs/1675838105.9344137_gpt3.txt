@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Legitimidade ativa. Pequeno agricultor familiar. Registro de reserva legal no cadastro ambiental rural. Imposicao de fazer. Apoio tecnico e juridico. Hipossuficiencia. Presuncao legal expressa. Carencia do assistido. Comprovacao previa. Inexigibilidade. DESTAQUE A Defensoria Publica possui legitimidade ativa para propor acao civil publica com vista a impor ao Estado o cumprimento de obrigacoes legais na tutela de pequenos agricultores familiares, sendo prescindivel a comprovacao previa e concreta da carencia dos assistidos. Na especie, a Defensoria Publica ajuizou acao civil coletiva para tutelar direitos individuais homogeneos de pequenos produtores, pretendendo dar implemento a previsao legal de necessidade de apoio estatal, juridico e tecnico, aos pequenos agricultores de economia familiar, ou equiparados, para registro gratuito da reserva legal no cadastro ambiental rural.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Legitimidade ativa da Defensoria Pública para propor ação civil pública com vista a impor ao Estado o cumprimento de obrigações legais na tutela de pequenos agricultores familiares; 2. Prescindibilidade da comprovação previa e concreta da carencia dos assistidos; 3. Necessidade de apoio estatal, jurídico e técnico, aos pequenos agricultores de economia familiar, ou equiparados, para registro gratuito da reserva legal no cadastro ambiental rural; 4. Imposição de fazer; 5. Hipossuficiência; 6. Presunção legal expressa; 7. Inexigibilidade.

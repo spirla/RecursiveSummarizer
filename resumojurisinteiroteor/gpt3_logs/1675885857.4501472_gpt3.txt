@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+AGRAVO REGIMENTAL NO PROVIDO. 1. Quanto  violao do art. 41 do CPP, o entendimento do STJ  no sentido de que a supervenincia da sentena penal condenatria torna esvada a anlise do pretendido reconhecimento de inpcia da denncia, isso porque o exerccio do contraditrio3. A e da ampla defesa foi viabilizado em sua plenitude durante a instruo criminal (AgRg no AREsp n. 537.770/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 4/8/2015, DJe 18/8/2015), como no presente caso. 2. Ademais, conforme se observa na denncia, houve a narrativa da conduta criminosa imputada ao acusado acerca da prtica dos crimes em questo, com todas as circunstncias relevantes, de maneira suficiente ao exerccio do direito de defesa. Assim, nos termos da jurisprudncia desta Corte Superior de Justia, no h como reconhecer a inpcia da denncia se a descrio da pretensa conduta delituosa foi feita de forma suficiente ao exerccio do direito de defesa, com a narrativa de todas as circunstncias relevantes, permitindo a leitura da pea acusatria a compreenso da acusao, com base no art. 41 do Cdigo de Processo Penal (RHC n. 46.570/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 20/11/2014, DJe 12/12/2014). 3. A jurisprudncia desta Corte  firme no sentido de que, em regra, salvo situao excepcionalssima, no se acolhe alegao de nulidade por cerceamento de defesa, em funo do indeferimento de diligncias requeridas pela defesa, porquanto o magistrado  o destinatrio final da prova, logo, compete a ele, de maneira fundamentada e com base no arcabouo probatrio produzido, analisar a pertinncia, relevncia e necessidade da realizao da atividade probatria pleiteada (AgRg nos EDcl no AREsp n. 1.366.958/PE, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 28/5/2019, DJe 4/6/2019). 4. No presente caso, verifica-se que foi declinada justificativa plausvel a no produo das provas requeridas, por ser ela completamente desnecessria ao esclarecimento dos fatos, uma vez que no interferiria na resoluo da questo que, no caso dos autos, foi baseada no depoimento dos policiais responsveis pela priso e na apreenso de droga, sendo certo que, para se concluir pela indispensabilidade dessas provas, seria necessrio o revolvimento de matria ftico-probatria, providncia incompatvel com a via eleita. Ademais, conforme consignado pela Corte de origem, embora os pedidos no tenham sido apreciados quando da defesa prvia, "alm da possibilidade de peticionar nos autos e reiterar os pedidos a qualquer tempo, a Defesa teve ao menos duas oportunidades, duas audincias, para faz-lo antes do encerramento, porm, no o fez, no podendo agora usar a alegao de nulidade para se beneficiar", conforme se depreende do disposto no art. 565 do CPP. 5.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Agravo Regimental foi negado por não haver violação do art. 41 do CPP, pois a descrição da conduta criminosa foi feita de forma suficiente para o exerccio do direito de defesa, e não houve cerceamento de defesa em função do indeferimento de diligências requeridas pela defesa.

@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STJ, que ora anulou a audincia de instruo e julgamento determinando que outra fosse realizada nos moldes do contido no artigo 212 do CPP, ora considerou o fato de o juiz iniciar a inquirio nulidade relativa, acabou por firmar o entendimento que:
+A inquirio das testemunhas pelo Juiz antes que seja oportunizada s partes a formulao das perguntas, com a inverso da ordem prevista no artigo 212 do Cdigo de Processo Penal, constitui nulidade relativa (Tese 12 de Jurisprudncia em Teses, edio 69). O Ministrio Pblico e o acusado tm a faculdade de requerer a oitiva do perito para esclarecimento. O artigo 400, pargrafo 2, CPP, estabelece que os esclarecimentos dos peritos dependero de prvio requerimento das partes. Encerrada a instruo, seguem-se os debates orais e a sentena, conforme a regra do artigo 403 do CPP:
+No havendo requerimento de diligncias, ou sendo indeferido, sero oferecidas alegaes finais orais por 20 (vinte) minutos, respectivamente, pela acusao e pela defesa, prorrogveis por mais 10 (dez), proferindo o juiz, a seguir, sentena. Por conta da complexidade do caso ou do nmero de acusados. o CPP dispe no artigo 403, pargrafo 3, que o juiz poder, considerada a complexidade do caso ou o nmero de acusados, conceder s partes o prazo de 5 (cinco) dias sucessivamente para a apresentao de memoriais. Nesse caso, ter o prazo de 10 (dez) dias para proferir a sentena. 15.6.6. Sentena e sua intimao. A sentena de processo da competncia do juiz singular e do Conselho de Justia se no for prolatada na sesso de julgamento, em razo da complexidade do caso ou nmero de acusados, dever ser proferida em 10 (dez) dias. Devem ser intimados da sentena o Ministrio Pblico, o querelante (ao privada), o ru, seu procurador ou defensor, legitimados para recorrer (artigo 577, CPP). Estabelece o Cdigo de Processo Penal a intimao pessoal ou por edital em dirio oficial da sentena.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ anulou a audincia de instrução e julgamento, determinando que outra fosse realizada de acordo com o artigo 212 do CPP. O juiz deve iniciar a inquirição das testemunhas antes que as partes formulem perguntas. O Ministério Público e o acusado têm a faculdade de requerer a oitiva do perito para esclarecimentos. Após a instrução, seguem-se os debates orais e a sentença, que deve ser proferida em 10 dias. A sentença deve ser intimada pessoalmente ou por edital em diário oficial.

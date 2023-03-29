@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O Cdigo de Normas da Corregedoria Geral de Justia prev que, para ser Presidente da Comisso, o servidor deve ostentar a condio especial de possuir cargo ou nvel de escolaridade igual ou superior ao do processado. IV - Quanto  hiptese dos autos, o pargrafo nico do art. 51 do Cdigo Judicirio do Estado de So Paulo (Decreto-Lei Complementar n. 3, de 27.08.1969) prescreve que o Juiz Corregedor Permanente ser competente para aplicar penas disciplinares aos serventurios, escreventes, fiis, porteiros e oficiais de justia, com recurso para a Corregedoria Geral da Justia. Por sua vez, o art. 15 das Normas de Servio da Corregedoria Geral da Justia do Estado de So Paulo preceitua que as apuraes preliminares, as sindicncias, bem como os processos administrativos relativos ao pessoal das serventias judiciais sero realizados pelos Juzes Corregedores Permanentes a que os servidores estiverem subordinados. J o pargrafo nico do art. 15 supracitado dispe que o Corregedor Geral da Justia poder avocar procedimento disciplinar em qualquer fase, a pedido ou de ofcio, bem como designar Juiz Corregedor Processante para todos os atos pertinentes, alm de atribuir servios auxiliares a unidade diversa daquela a que estiver vinculado o servidor. Observa-se assim que a competncia do Juiz Corregedor Permanente da Seo Administrativa de Distribuio foi respeitada, no cabendo falar em violao do devido processo legal por incompetncia da autoridade processante. V - Quanto  insurgncia relativa  imposio de punio de suspenso em grau mximo pela autoridade coatora, melhor sorte no assiste  recorrente. A Lei n. 8.935/1994, que regulamentou o art. 236 da Constituio Federal, traz em seu bojo o regime de infraes e as respectivas penalidades no exerccio dos servios notariais e de registro. Dessarte, tem-se que no  possvel rever a aplicao da penalidade administrativa, porquanto esta ocorreu dentro dos parmetros fixados na Lei n. 8.935/1994. Isso porque, na linha da jurisprudncia desta Corte, o controle do Poder Judicirio, no tocante aos processos administrativos disciplinares, restringe-se ao exame do efetivo respeito aos princpios do contraditrio, da ampla defesa e do devido processo legal, sendo vedado adentrar no mrito administrativo. VI - O controle de legalidade exercido pelo Poder Judicirio sobre os atos administrativos diz respeito ao seu amplo aspecto de obedincia aos postulados formais e materiais presentes na Carta Magna, sem, contudo, adentrar o mrito administrativo. Para tanto, a parte dita prejudicada deve demonstrar, de forma concreta, a mencionada ofensa aos referidos princpios.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Cdigo de Normas da Corregedoria Geral de Justia prev a condio especial de possuir cargo ou nvel de escolaridade igual ou superior ao do processado para ser Presidente da Comisso. O Juiz Corregedor Permanente tem competncia para aplicar penas disciplinares aos serventurios, escreventes, fiis, porteiros e oficiais de justia, com recurso para a Corregedoria Geral da Justia. O Corregedor Geral da Justia pode avocar procedimento disciplinar e designar Juiz Corregedor Processante para todos os atos pertinentes. O controle de legalidade exercido pelo Poder Judicirio sobre os atos administrativos diz respeito ao seu amplo aspecto de obedincia aos postulados formais e materiais presentes na Carta Magna, sem adentrar o mrito administrativo.

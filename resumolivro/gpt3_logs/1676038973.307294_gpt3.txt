@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A redao do dispositivo parece exigir do sujeito o poder de evitar a situao de perigo que  anterior  conduta que se pretende justificar, o que no  correto. No se pode permitir que deficincias da redao do dispositivo conduzam-nos a uma interpretao equivocada. No se pode confundir o perigo que constitui motivo para a ao de salvamento com o perigo ou leso ao bem jurdico que decorre da ao de salvamento. A justificao para o fato necessrio somente ocorre quando o perigo ou leso ao bem jurdico produzido pela ao de salvamento no puder, de outro modo, ser evitado. No se justifica perigo ou leso desnecessrio ao salvamento do bem jurdico que inicialmente estava em perigo. Evidentemente, no se trata de exigir daquele que realiza a conduta justificada que evite a situao de perigo  qual est submetido o bem jurdico que se pretende salvar. Se esse perigo fosse evitado, no haveria a necessidade de lesionar outro bem jurdico e o prprio fato tpico no teria ocorrido. A justificao decorre, justamente, da existncia do perigo ao bem jurdico que se pretende salvar.  certo que, se foi o prprio sujeito que realizou a conduta lesiva que provocou (involuntariamente) a situao de perigo motivadora da conduta de salvamento, pode-se discutir sua concreta possibilidade de evitar tal situao. Tal investigao, na prtica, tornaria quase impossvel justificar a conduta daquele que produziu a situao de perigo. Se aquele que produziu o fato lesivo tambm produziu involuntariamente a situao de perigo, mas possua previsibilidade de sua ocorrncia e havia cuidado objetivo que pudesse evitar o perigo, restaria excluda a justificao. Nesse caso, como seria possvel evitar a situao de perigo, com conduta anterior mais cautelosa, no haveria justificao para a conduta lesiva que se desenvolve posteriormente. Mas, se  admissvel que aquele que realiza a conduta de salvamento tenha produzido a situao de perigo involuntariamente, s se pode dele exigir que evite tal situao por ato intencional. Em outras palavras, s se pode exigir que no tenha a inteno de produzir o perigo. Todavia, se o perigo no foi provocado por quem realiza a conduta lesiva, tambm no se poder exigir dele que evite a situao de perigo provocada por outrem. S se pode evitar o que ainda no aconteceu. O perigo que motiva a ao de salvamento  preexistente ao fato necessrio e, permanecendo atual, exige interveno para impedir que a situao de perigo continue ou transforme-se em dano.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O dispositivo exige que o sujeito possa evitar a situao de perigo que motiva a ao de salvamento, o que no correto. Se o perigo foi produzido involuntariamente, somente se pode exigir que não tenha a intenção de produzi-lo. Se o perigo foi provocado por outrem, no se pode exigir que se evite, pois só é possível evitar o que ainda não aconteceu. O perigo é preexistente ao fato necessário e exige intervenção para impedir que se transforme em dano.

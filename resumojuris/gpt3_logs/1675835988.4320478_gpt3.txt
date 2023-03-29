@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/03/2016, DJe 17/03/2016). A partir dessa premissa jurisprudencial, a Segunda Turma do STJ, em recente caso, reconheceu a possibilidade de determinar a suspensao do processo de concessao de aposentadoria de servidor publico local durante o periodo em que esse responde processo administrativo disciplinar. Nesse sentido, confira-se: III - A lacuna na Lei Complementar Estadual n. 131/2010 do Estado do Parana acerca da possibilidade de suspender o processo de aposentadoria enquanto tramita o processo administrativo disciplinar deve ser suprida com a aplicacao subsidiaria da Lei n. 8.112/1990. IV - Trata-se de legitima integracao da legislacao estadual por meio da aplicacao subsidiaria da norma federal, consoante pacifica jurisprudencia. (AgInt no RMS 58.568/PR, Rel. Ministro Francisco Falcao, Segunda Turma, julgado em 19/10/2020, DJe 22/10/2020). (Informativo n. 751) 195 PROCESSO AREsp 1.985.200-SP, Rel. Min. Francisco Falcao, Segunda Turma, por unanimidade, julgado em 20/09/2020, DJe 26/09/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO TEMA Conselhos de fiscalizacao. Lei n. 13.021/2014. Pequena unidade hospitalar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+I - É possível determinar a suspensão do processo de concessão de aposentadoria de servidor público local durante o período em que esse responde processo administrativo disciplinar. II - A lacuna na Lei Complementar Estadual n. 131/2010 do Estado do Paraná acerca da possibilidade de suspender o processo de aposentadoria enquanto tramita o processo administrativo disciplinar deve ser suprida com a aplicação subsidiária da Lei n. 8.112/1990. III - Trata-se de legitima integração da legislação estadual por meio da aplicação subsidiária da norma federal, consoante pacífica jurisprudência. IV - A Lei n. 13.021/2014 é aplicável às pequenas unidades hospitalares.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se de embargos de declarao, opostos pelo Estado de Minas Gerais, em face do v. acrdo exarado pela c. Segunda Cmara, que reformou a sentena de primeiro grau de jurisdio e manteve o ato disciplinar sancionador. Conforme se verifica dos autos, o presente recurso tem como objetivo suprir suposta omisso, qual seja, de que a colenda "cmara deixou de fixar os honorrios recursais, face a sucumbncia do apelado.. Diante do exposto, requereu o saneamento da supracitada omisso, de modo a fazer constar a fixao da verba honorria devida no acrdo recorrido.  o relatrio. VOTOS DESEMBARGADOR JAMES FERREIRA SANTOS, RELATOR Recebo o recurso, uma vez que presentes seus pressupostos de admissibilidade. Pela leitura do art. 1.022 do Cdigo de Processo Civil (CPC), observo que os embargos de declarao apenas so cabveis se a deciso recorrida contiver obscuridade, contradio ou omisso, voltando-se os aclaratrios, desta feita, para o aperfeioamento da prestao jurisdicional. Vejamos: Art. 1.022. Cabem embargos de declarao contra qualquer deciso judicial para: I - Esclarecer obscuridade ou eliminar contradio; II -Suprir omisso de ponto ou questo sobre o qual devia se pronunciar o juiz de ofcio ou a requerimento; III - corrigir erro material. Pois bem. Analisando detidamente os autos do processo, constatei que assiste razo ao embargante no que se refere  omisso no acrdo em face da no manifestao quanto ao nus da sucumbncia. Em virtude da reforma da r. sentena primeva, a inverso do nus da sucumbncia  medida necessria, conforme dispe a legislao. Verifica-se dos autos correlatos que o douto magistrado sentenciante indeferiu o pedido de gratuidade de justia requerido pela parte embargada, conforme deciso contida no Evento n. 4. Diante do mencionado indeferimento, o militar interps o Agravo de Instrumento n. 2000112-16.2020.9.13.0000, que foi julgado por este e. Tribunal. Naquela ocasio, os desembargadores da Segunda Cmara, por unanimidade, deram provimento ao agravo de instrumento, para reformar a deciso de primeiro grau, conferindo ao agravante os benefcios da gratuidade da Justia. Ex positis, acolho os embargos de declarao opostos pelo Estado de Minas Gerais, para suprir a omisso constatada no r. acrdo. Assim, condeno o embargado, Robson Loureno da Silva, ao pagamento dos nus decorrentes da sucumbncia e das despesas processuais, os quais arbitro em 20% (vinte por cento) do valor atualizado da causa. Suspendo, entretanto, a mencionada condenao, tendo em vista a gratuidade de Justia concedida.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estado de Minas Gerais interpôs embargos de declaração para suprir a omissão de fixação de honorários recursais no acórdão recorrido, tendo o relator acolhido os embargos para condenar o embargado ao pagamento dos nus da sucumbncia e das despesas processuais, arbitrados em 20% do valor atualizado da causa, sendo a condenação suspensa por conta da concessão de gratuidade de Justiça.

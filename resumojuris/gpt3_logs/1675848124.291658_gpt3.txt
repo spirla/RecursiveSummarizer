@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A ausencia de justificativas e de elementos seguros a autorizar a acao dos agentes publicos, diante da discricionariedade policial na identificacao de situacoes suspeitas relativamente a ocorrencia de trafico de drogas, pode acabar esvaziando o proprio direito a privacidade e a inviolabilidade de sua condicao fundamental. No referido julgamento, concluiu-se, portanto, que, para legitimar-se o ingresso em domicilio alheio, e necessario tenha a autoridade policial fundadas razoes para acreditar, com lastro em circunstancias objetivas, no atual ou iminente cometimento de crime no local onde a diligencia vai ser cumprida. No caso, os policiais receberam uma denuncia anonima segundo a qual o acusado estava com uma arma de fogo em via publica, razao por que o abordaram e encontraram a referida arma. Depois disso, decidiram ir ate a sua residencia e entraram no imovel com a suposta autorizacao do paciente, oportunidade em que soltaram caes farejadores de drogas, sob a justificativa de que o reu tinha um antecedente por trafico. 1233 Nao houve referencia a previa investigacao, monitoramento ou campanas no local, a afastar a hipotese de que se tratava de averiguacao de informacoes robustas e atuais acerca da existencia de drogas naquele lugar. Da mesma forma, nao se fez mencao a nenhuma atitude suspeita, externalizada em atos concretos, tampouco movimentacao de pessoas tipica de comercializacao de drogas. A denuncia anonima, alias, nem sequer tratava da presenca de entorpecentes no imovel, mas sim do porte de arma de fogo em via publica distante do domicilio, a qual ja havia sido encontrada e apreendida. O simples fato de o acusado ter um antecedente por trafico nao autorizava a realizacao de busca domiciliar, porquanto desacompanhado de outros indicios concretos e robustos de que, naquele momento especifico, ele guardava drogas em sua residencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário que a autoridade policial tenha fundadas razões para acreditar, com lastro em circunstâncias objetivas, no atual ou iminente cometimento de crime no local onde a diligência vai ser cumprida para legitimar-se o ingresso em domicilio alheio. 2. A ausência de justificativas e de elementos seguros a autorizar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativamente à ocorrência de tráfico de drogas, pode acabar esvaziando o próprio direito à privacidade e à inviolabilidade de sua condição fundamental. 3. O simples fato de o acusado ter um antecedente por tráfico não autoriza a realização de busca domiciliar, porquanto desacompanhado de outros indícios concretos e robustos de que, naquele momento específico, ele guardava drogas em sua residência.

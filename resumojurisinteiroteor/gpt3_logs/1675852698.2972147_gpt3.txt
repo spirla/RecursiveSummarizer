@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+[...] O processo de extrao  o recomendado pela empresa Cellebrite, nos termos de sua documentao. Como sabido, os dados so extrados e copiados por meio do equipamento da Cellebrite, sem interveno humana durante a gerao dos dados brutos e com garantia de integridade dos dados mediante aplicao de funes criptogrficas e outras tecnologias da empresa - eventuais alteraes nos arquivos (j disponibilizados ao Juzo) seriam facilmente detectadas a partir da anlise dos valores HASH calculados. Os dados solicitados (data, hora etc.) esto disponveis nos relatrios de extrao j apresentados ao Juzo. [.] Por fim, destaco que cada material apreendido pelas equipes de policiais militares designadas para cumprirem os mandados de busca e apreenso, em face dos suspeitos de integrarem a operao hexagrama foi apresentado ao GAeCo, devidamente lacrado, com a transcrio no REDS do nmero de cada lacre, o que torna possvel a individualizao e a rastreabilidade de cada dispositivo, sendo importante destacar, ainda, que a integralidade desses dados foi apresentada aos juzos competentes que os aceitaram e os valoraram no mbito de cada processo, conforme seu livre convencimento motivado. Passo, portanto, por esta primeira preliminar de mrito. A segunda preliminar arguida diz respeito  nulidade do feito por incompetncia do juzo ante a preveno da 2a Auditoria Judiciria Militar Estadual (AJME). Esta preliminar  risvel e somente foi aventada devido  falta de domnio pleno dos autos. Com a mais devida e respeitosa vnia, remeto o ilustre causdico  necessria leitura dos autos, que deve ser feita de modo contextualizado, para lhe permitir conhecer as razes que levaram  migrao dos autos da 2a para a 4a AJME. Seria cmico, mas tambm trgico, se cada advogado no patrocnio de cada demanda processada na 4a AJME, no s as relacionadas  operao hexagrama, mas todas aquelas que a ela foram distribudas em virtude de sua instalao, alegasse preveno das Auditorias de origem para essas mesmas demandas, antes da instalao da 4a AJME. Somente para fins de esclarecimento destaco que a instalao da 4a AJME se deu no dia 06 de maro de 2020, conforme Termo de Instalao publicado no Dirio da Justia Militar Eletrnico do dia 07/03/2020 e pode ser lido no Evento 4 OUT12, dos autos originais n. 20032176.2020.9.13.0002. Com estas observaes afasto tambm esta segunda preliminar. A terceira preliminar suscitada refere-se  nulidade do feito em razo da ausncia de intimao do acusado ou de seu defensor para a realizao do sorteio do Conselho Especial de Justia (CEJ). De igual modo a alegao no tem como prosperar.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O processo de extrao de dados foi realizado de acordo com a documentao da empresa Cellebrite, garantindo a integridade dos dados. Os materiais apreendidos foram devidamente lacrados e apresentados ao Juízo. A preliminar de incompetência do Juízo foi afastada, assim como a alegação de nulidade do feito em razão da ausência de intimacão do acusado ou de seu defensor para a realização do sorteio do Conselho Especial de Justiça.

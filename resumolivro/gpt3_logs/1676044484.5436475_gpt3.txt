@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Segundo o tratamento que o Cdigo Penal em vigor conferiu aos crimes comissivos por omisso,  possvel que a imputao objetiva refira-se a qualquer das figuras tpicas previstas na legislao nacional. No h qualquer limitao s possibilidades de aplicao do dever especial de agir, como ocorre, por exemplo, para a responsabilidade advinda da produo do resultado lesivo por inobservncia aos deveres objetivos de cuidado (artigo 18, pargrafo nico). A omisso penalmente relevante pode verificar-se em crimes materiais, formais e de mera conduta. Como exemplo de crime de mera conduta comissivo por omisso tem-se o trfico de drogas (previsto no artigo 33 da Lei 11.343/2006), caracterizado na conduta omissiva do policial que, deliberadamente, omite-se quanto a reprimir o comrcio de droga feito em sua presena por traficante, quando devia e podia faz-lo. Com a reforma penal de 1984, tem-se entendido que o legislador evitou as dificuldades do tema, optando claramente por estabelecer uma causalidade normativa para a omisso imprpria, baseada na concepo da posio de garantidor. O Cdigo Penal, no pargrafo 2 de seu artigo 13, definiu quem deve ser considerado garantidor ao estabelecer a quem cabe o dever especial de agir. Segundo o referido dispositivo, o dever de agir incumbe a quem:
+a) Tenha, por lei, obrigao de cuidado, proteo ou vigilncia. A primeira alnea prescreve que  garantidor aquele a quem a lei atribuiu deveres de cuidado, proteo ou vigilncia para com o bem jurdico. Nesse caso, a obrigao de agir decorre diretamente do comando legal, que considera quem seja a pessoa do obrigado ou qual a funo social que exera. Relaes de parentesco ou o exerccio de funes tpicas de Estado podem fundamentar a especial obrigao de agir para proteger o bem jurdico. Vale notar, no entanto, que no  necessrio existir dispositivo expresso atribuindo ao indivduo tais obrigaes. Basta que seja possvel extrair-se do sistema da lei que lhe  imposta a obrigao, ainda que implcita, de atuao em favor do bem jurdico. Tambm importa notar que a expressa referncia a determinadas obrigaes exclui da considerao de garantidor aquele que no as tem. Com base na alnea a, os pais so garantidores da vida, integridade fsica e patrimnio dos filhos menores; os curadores so garantidores da pessoa e bens do curatelado; o prefeito  garantidor do patrimnio municipal; o policial  garantidor da vida, integridade fsica, liberdade etc. das pessoas em geral, entre outros exemplos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal prevê a responsabilidade advinda da produção do resultado lesivo por inobservância aos deveres objetivos de cuidado. A omissão penalmente relevante pode se verificar em crimes materiais, formais e de mera conduta. A reforma penal de 1984 estabeleceu uma causalidade normativa para a omissão imprópria, baseada na posição de garantidor. A lei estabelece quem deve ser considerado garantidor, atribuindo-lhe deveres de cuidado, proteção ou vigilância para com o bem jurídico.

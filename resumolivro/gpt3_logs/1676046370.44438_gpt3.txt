@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O aspecto formal da concepo est em observar-se a formalidade da descrio tpica, especialmente o verbo-ncleo do tipo incriminador. No homicdio, por exemplo, seria autor aquele que efetua os disparos de arma de fogo contra a vtima, e partcipe, aquele que paga quantia em dinheiro para determinar a ao do executor do crime. A teoria formal-objetiva decorre de estrita observncia do princpio da reserva legal. O tipo define a matria de proibio ao descrever o comportamento penalmente relevante. Portanto, sustentam os partidrios da teoria formal-objetiva que deve ser considerado autor aquele que realiza a conduta definida como proibida. A conduta do partcipe, por no encontrar descrio no tipo incriminador, em princpio, seria atpica. Mas sua responsabilizao decorre da previso especial de uma norma de extenso tpica. Tal norma de extenso teria aplicao justamente para responsabilizar aqueles que prestam auxlio ao autor, realizando condutas no tipificadas, mas que contribuem para a realizao de condutas tpicas. A perspectiva  restritiva na medida em que no permite considerar autor aquele que no realize pelo menos parte da conduta tpica. Essa teoria foi amplamente dominante at o princpio do sculo passado e, hoje, encontra-se enfraquecida. Entre as crticas que lhe so dirigidas, tem-se que a perspectiva formal no oferece critrio para distinguir autor e partcipe nos crimes em que o tipo prev apenas a produo de um resultado naturalstico (crimes culposos), no  compatvel com a noo de autoria mediata, bem como  incapaz de responsabilizar adequadamente o chefe do bando que permanece distante dos atos executrios. Teoria material-objetiva. Para tal concepo, a identificao dos autores e dos partcipes deve resultar da anlise das respectivas condutas sob o prisma de sua eficincia ou relevncia causal na produo do resultado naturalstico. Segundo Mezger, a relao de causalidade fundamenta a considerao de autoria do crime, desde que no existam razes de direito positivo que a excluam. Nesse sentido, deve ser considerado autor o participante que causar o resultado. Para o professor alemo, a instigao e a cumplicidade, embora sejam tambm consideradas causas do crime, recebem tratamento mais benfico por imposio legal. Assim, as hipteses reconhecidas como de menor relevncia causal constituiriam restries  responsabilidade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria formal-objetiva considera autor aquele que realiza a conduta definida como proibida, enquanto a teoria material-objetiva considera autor aquele que causa o resultado. A instigao e a cumplicidade, embora sejam consideradas causas do crime, recebem tratamento mais benfico por imposio legal.

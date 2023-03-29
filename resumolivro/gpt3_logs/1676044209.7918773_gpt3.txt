@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a dose ministrada por um produzir, isoladamente, a morte da vtima, exclui a imputao de homicdio consumado para o outro. Se a morte for produzida pela combinao das duas doses, ambos os agentes respondero pelo crime. Em qualquer hiptese de concurso de causas, o princpio a ser utilizado  o mesmo. A excluso da imputao somente ser possvel se uma das causas produzir sozinha o resultado naturalstico. Se nenhuma das contribuies causais produzir sozinha, todas autorizaro a imputao do resultado. Vejamos como ocorre a aplicao do princpio em exemplo. No conhecido caso da ambulncia: o agente tenta matar seu desafeto com um disparo de arma de fogo. A vtima  atingida no abdome e, posteriormente,  conduzida ao hospital em uma ambulncia. No trajeto, a ambulncia envolve-se em acidente de trnsito, a vtima sofre traumatismo craniano e morre. Se a morte for produzida exclusivamente pelo traumatismo craniano (causa superveniente), o autor do disparo (causa antecedente) no responder por homicdio consumado, mas tentado. Se o traumatismo craniano, por sua vez, no produzir, por si s, a morte, mas contribuir para agravar a sade da vtima, o autor do disparo e o responsvel pelo acidente respondero por homicdio, observando-se o respectivo elemento subjetivo. Reconhecer que uma das causas, por si s, produziu o resultado significa reconhecer nela uma causalidade relevante e autnoma das demais. Em outras palavras, a causa que exclui a imputao para as demais produz um desdobramento causal prprio. Vejamos outro exemplo. Um indivduo  atropelado por veculo automotor na via pblica. Posteriormente,  conduzido ao hospital. O mdico que o examina considera a situao grave e informa aos familiares a necessidade de fazer-lhe uma transfuso de sangue. Por motivos religiosos, os familiares no permitem a transfuso. O paciente no recebe sangue e morre. A negativa de realizao do procedimento mdico (causa superveniente) no estabelece uma causalidade autnoma.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Se uma das causas produzir sozinha o resultado naturalstico, exclui-se a imputao de homicdio consumado para os outros. Se nenhuma das contribuies causais produzir sozinha, todas autorizam a imputao do resultado. Por exemplo, no caso da ambulância, se a morte for produzida exclusivamente pelo traumatismo craniano, o autor do disparo não responderá por homicídio consumado, mas somente tentado. Se o traumatismo craniano não produzir a morte sozinho, mas contribuir para agravar a saúde da vítima, ambos os agentes responderão pelo crime. Outro exemplo é o caso em que um indivíduo é atropelado e negativa-se a realização de procedimento médico, não estabelecendo uma causalidade autônoma.

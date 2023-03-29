@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+MRITO - DOSIMETRIA DA PENA-BASE - FUNDAMENTAO IDNEA QUANTO S CIRCUNSTNCIAS JUDICIAIS NA FIXAO DA PENA-BASE - MARGEM DE DISCRICIONARIEDADE OBSERVADA PELO JUIZ SENTENCIANTE PREVALNCIA DO VOTO CONDUTOR NO APELO DE ORIGEM - EMBARGOS IMPROVIDOS, PARA MANTER O ACRDO RECORRIDO. (Desembargador Osmar Duarte Marcelino, revisor e relator para o acrdo) EMBARGOS INFRINGENTES - FURTO SIMPLES - DOSIMETRIA DA PENA - CIRCUNSTNCIAS JUDICIAIS - REDUO DA PENA- BASE - POSSIBILIDADE - FUNDAMENTOS SEM CORRESPONDNCIA COM ELEMENTOS CONCRETOS EXTRADOS DAS PROVAS DOS AUTOS - RECURSO PROVIDO. (Desembargador Jadir Silva, relator vencido) ACRDO Vistos, relatados e discutidos os presentes autos, sendo embargante Lucas Reis da Silva e embargado o Ministrio Pblico do Estado de Minas Gerais, acordam os Desembargadores do Tribunal Pleno, por unanimidade, em passar pela preliminar de no conhecimento do recurso levantada pela douta Procuradora de Justia e, no mrito, por maioria de 4 votos a 3, negar provimento ao recurso, mantendo inclume o acrdo embargado. Ficaram vencidos os Desembargadores Jadir Silva, relator, Fernando Galvo da Rocha e Fernando Armando Ribeiro, que deram provimento aos embargos. Tornou-se relator para o acrdo o Desembargador Osmar Duarte Marcelino. RELATRIO Trata-se de embargos infringentes interpostos pela douta defesa do ex- Cadete PM Lucas Reis da Silva, insurgindo-se contra a deciso da maioria dos integrantes da colenda Primeira Cmara desta Corte castrense, que, em anlise ao seu recurso de apelao, decidiu, por maioria, dar provimento parcial para decotar a qualificadora de abuso de confiana, prevista no artigo 240,  6, inciso II, do CPM, desclassificando o crime de furto qualificado para furto simples, previsto no artigo 240, caput, do CPM, e reformar a sentena de primeiro grau, para diminuir a pena imposta para 3 (trs) anos e 4 (quatro) meses de recluso, em regime inicial aberto, vedado o sursis (acrdo de Evento 19 - ACOR1). Consta dos autos que o nmero 176.197-2, ento Cadete PM Lucas Reis da Silva, foi denunciado como incurso no art. 240, 6, inciso II (furto qualificado), c/c o art. 79 (concurso de crimes), ambos do Cdigo Penal Militar, frente  3a Auditoria Judiciria Militar estadual (Evento 1 - DENNCIAal), nos termos seguintes: Consta dos autos que, no dia 05 de junho de 2019, no Alojamento 305 do Prdio Jos Geraldo de Oliveira, na Academia de Polcia Militar, situada na Rua Diabase, n 320, bairro Prado, no municpio de Belo Horizonte-MG, o denunciado, por duas vezes, subtraiu para si coisa alheia mvel, mediante abuso de confiana. Segundo consta, o denunciado subtraiu do armrio de seu colega de alojamento, o Cad PM Joo Carlos da Costa Silva, a quantia de R$120,00 (cento e vinte reais), depois de ter anotado a senha do cadeado que trancava o referido armrio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal Pleno, por unanimidade, negou provimento aos embargos infringentes interpostos pela defesa do ex-Cadete PM Lucas Reis da Silva, mantendo inalterado o acórdão embargado, que decidiu, por maioria, dar provimento parcial ao recurso de apelação para desclassificar o crime de furto qualificado para furto simples e reduzir a pena imposta para 3 (três) anos e 4 (quatro) meses de reclusão, em regime inicial aberto.

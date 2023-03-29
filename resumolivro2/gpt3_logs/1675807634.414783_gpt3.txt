@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O prazo de 50 (cinquenta) dias para encerramento da instruo criminal com o ru preso no  peremptrio, pode ser dilatado sem que provoque constrangimento ilegal por excesso de prazo na priso preventiva, porquanto, de acordo com o artigo 390, pargrafo 1, do CPPM, no  computado nesse prazo de 50 (cinquenta) dias a:
+demora determinada por doena do acusado ou defensor, por questo prejudicial ou por outro motivo de fora maior justificado pelo auditor, inclusive a inquirio de testemunhas por precatria ou a realizao de exames periciais ou outras diligncias necessrias  instruo criminal, dentro dos respectivos prazos. Na primeira hiptese no  computada no prazo de 50 (cinquenta) dias a demora determinada por doena do acusado ou defensor. O acusado tem o direito de estar presente  instruo criminal e o de ser representado em juzo por defensor de sua confiana. No  computado tambm no prazo de 50 (cinquenta) dias a demora por motivo de fora maior justificado pelo juiz. Considera-se motivo de fora maior que plenamente justifica o excesso de prazo na formao da culpa a complexidade do processo (dos fatos) ou o elevado nmero de rus com defensores distintos. Peculiaridades do processo como exemplo, o nmero de rus e de testemunhas arroladas e a complexidade do processo (STF, HC 107.088, HC 125.596). O STJ considerou justificvel o excesso de prazo na formao da culpa em razo do concurso de pessoas, com o envolvimento em intrincado esquema de receptao de veculos roubados, a existncia de extenso nmero de testemunhas arroladas pela defesa e acusao residentes fora da comarca, o que ensejou excessivo nmero de cartas precatrias, a utilizao de expedientes procrastinatrios pela defesa, que causaram grande tumulto na instruo criminal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O prazo de 50 dias para encerramento da instrução criminal com o réu preso pode ser dilatado sem constrangimento ilegal, pois não é computado nesse prazo a demora determinada por doença do acusado ou defensor, questão prejudicial ou outro motivo de força maior justificado pelo juiz. O STF e STJ consideram justificável o excesso de prazo na formação da culpa em razão da complexidade do processo ou do elevado número de réus com defensores distintos.

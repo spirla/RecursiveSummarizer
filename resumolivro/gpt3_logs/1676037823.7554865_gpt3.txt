@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Adota-se, portanto, no prprio Cdigo Penal, um conceito complexo de causalidade, compreendendo tanto a causalidade natural, quanto a causalidade tpica. (...) a causalidade tpica se agasalha, normalmente, em postulados qualitativos, que esto melhor configurados nas cincias hermenuticas ou de interpretao. Ainda cabe observar, em acrscimo, que o artigo 29 do Cdigo Penal Militar torna explicito que a teoria do crime militar deve trabalhar com uma noo de causalidade normativa quando assevera que considera-se causa a ao ou omisso sem a qual o resultado no teria ocorrido. Ao mencionar a possibilidade da conduta omissiva constituir causa do resultado de que depende a existncia do crime, o dispositivo legal deixa clara a opo por trabalhar com uma causalidade normativa. No plano naturalstico a omisso no pode produzir qualquer modificao no mundo objetivo. A omisso somente pode ser causa do resultado jurdico de violao da norma incriminadora. Desta forma, pode-se afirmar que a legislao repressiva militar possibilita a utilizao de teoria do crime de ndole normativa que supera as limitaes dos modelos de base ontolgica. Embora os esforos para elaborar uma teoria geral da imputao objetiva estejam ainda em seus primeiros passos, hoje j se pode vislumbrar suas linhas mestras. O trabalho fundamentalmente desenvolve-se a partir da compreenso do contedo normativo do tipo, que d significado social  relao de causalidade, visando a constatar a realizao do resultado jurdico-penal relevante. 3.2. Estrutura da imputao objetiva. A teoria da imputao objetiva foi recentemente desenvolvida para superar as dificuldades encontradas na concepo final do injusto, que produziu certa confuso entre os planos naturalstico e normativo ao impor uma concepo ntica de conduta caracterizada por sua finalidade. A partir da dcada de 1970, muitos estudiosos do Direito Penal tm empreendido esforos para desenvolver um sistema repressivo racional-final ou funcional que se volte para os fins do Direito Penal. Essa corrente doutrinria entende que o sistema jurdico-penal no pode vincular-se s realidades ontolgicas absolutas, como as noes naturalistas de ao e causalidade, mas sim aos parmetros normativos de valorao poltico-criminal.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal adota um conceito complexo de causalidade, que inclui tanto a causalidade natural quanto a típica. O artigo 29 do Código Penal Militar torna explícito que a teoria do crime militar deve trabalhar com uma noção de causalidade normativa. A teoria da imputação objetiva foi desenvolvida para superar as dificuldades encontradas na concepção final do injusto, buscando vincular o sistema jurdico-penal aos parâmetros normativos de valoração político-criminal.

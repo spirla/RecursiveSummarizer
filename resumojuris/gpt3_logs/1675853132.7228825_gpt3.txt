@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Conducao de veiculo automotor sem a devida habilitacao para dirigir. Concurso material de crimes. Substituicao da pena privativa de liberdade por duas restritivas de direitos. Legalidade. DESTAQUE Tendo havido a indicacao de que os delitos, autonomos, resultaram de acoes distintas, nao incide o concurso formal aos tipos penais dos artigos 306 (embriaguez ao volante) e o art. 309 (direcao de veiculo automotor sem a devida habilitacao) do Codigo de Transito Brasileiro. Os tipos penais do art. 306 e 309 do CTB possuem momentos consumativos distintos, na medida em que o art. 306 do CTB (embriaguez ao volante) e de perigo abstrato, de mera conduta, enquanto o art. 309 do CTB (direcao de veiculo automotor sem a devida habilitacao) e de perigo concreto. Extrai-se do caso que, consoante consignado no pelo Tribunal de origem, e impossivel aplicar o concurso formal de crimes no presente caso, pois ha duas acoes isoladas, com designios de vontades autonomas e com dois resultados distintos. Com efeito, o momento em que o acusado passou a conduzir a motocicleta em via publica, com a capacidade psicomotora alterada em razao da influencia de alcool (art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não incide o concurso formal aos tipos penais dos artigos 306 (embriaguez ao volante) e o art. 309 (direção de veículo automotor sem a devida habilitação) do Código de Trânsito Brasileiro. 2. Os tipos penais do art. 306 e 309 do CTB possuem momentos consumativos distintos, na medida em que o art. 306 do CTB (embriaguez ao volante) é de perigo abstrato, de mera conduta, enquanto o art. 309 do CTB (direção de veículo automotor sem a devida habilitação) é de perigo concreto. 3. É impossível aplicar o concurso formal de crimes no presente caso, pois há duas ações isoladas, com designios de vontades autônomas e com dois resultados distintos.

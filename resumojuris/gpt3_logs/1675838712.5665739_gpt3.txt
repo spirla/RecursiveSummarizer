@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Cumpre lembrar que essa materia recentemente foi enfrentada pela Sexta Turma desta Corte Superior, em julgado no qual foi assentada a tese de que dados que refletem informacoes intimas (como o acesso irrestrito a fotos e conteudo de conversas), quando a ordem de quebra de sigilo se voltar a universo indeterminado de pessoas, devem ser afastados desta possibilidade (AgRg no RMS 59.716/RS, Sexta Turma, Rel. Min. Sebastiao Reis Junior, DJe de 17/8/2021). Importante, contudo, sedimentar que a ordem dirigida a provedor cuja relacao e regida pelo Marco Civil da Internet nao preve, dentre os requisitos que estabelece para a quebra de sigilo, que a decisao judicial especifique previamente as pessoas objeto da investigacao ou que a prova da infracao (ou da autoria) possa ser realizada facilmente por outros meios (arts. 22 e 23 da Lei n. 12.965/2014). Entretanto, o referido fundamento nao subsiste nos casos em que haja a possibilidade de violacao da intimidade e vida privada de pessoas nao comprovadamente relacionadas a investigacao criminal. (Informativo n. 730) 526 SEXTA TURMA Voltar ao Sumario. PROCESSO HC 754.789-RS, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, por unanimidade, julgado em 6/12/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Estabelecimento comercial. Invasao do imovel sem mandado judicial. Local aberto ao publico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Dados que refletem informações íntimas, quando a ordem de quebra de sigilo se volta a um universo indeterminado de pessoas, devem ser afastados desta possibilidade. 2. A ordem dirigida a provedor cuja relação é regida pelo Marco Civil da Internet não prevê, dentre os requisitos que estabelece para a quebra de sigilo, que a decisão judicial especifique previamente as pessoas objeto da investigação ou que a prova da infração (ou da autoria) possa ser realizada facilmente por outros meios. 3. Nos casos em que haja a possibilidade de violação da intimidade e vida privada de pessoas não comprovadamente relacionadas a investigação criminal, não subsiste o fundamento de que a ordem dirigida a provedor cuja relação é regida pelo Marco Civil da Internet não prevê, dentre os requisitos que estabelece para a quebra de sigilo, que a decisão judicial especifique previamente as pessoas objeto da investigação ou que a prova da infração (ou da autoria) possa ser realizada facilmente por outros meios.

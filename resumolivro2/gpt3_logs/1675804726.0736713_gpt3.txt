@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nos domnios da Cincia Jurdica, empregamos o termo fonte do direito para indicar os processos de produo de normas jurdicas. A fonte pode ser material (de produo) ou formal. A fonte material  o Estado. Compete privativamente  Unio legislar sobre direito processual (artigo 22, I, CF). A Unio, os Estados e o Distrito Federal tm competncia concorrente para legislar sobre procedimentos em matria processual (artigo 24, XI, CF), desde que autorizados por Lei Complementar (artigo 22, pargrafo nico, CF). As fontes formais so os meios pelos quais se expressam as normas jurdicas e subdividem-se em imediatas e mediatas (subsidirias). As fontes formais imediatas so a Constituio Federal, o Cdigo de Processo Penal Militar, as smulas vinculantes, as leis de organizao judiciria militar e os regimentos internos dos Tribunais. A Constituio Federal, situada no pice da hierarquia das fontes do Direito do Processo Penal Militar, estabelece no artigo 92, VI, que so rgos do Poder Judicirio os Tribunais e Juzes Militares;
+no artigo 122, que o Superior Tribunal Militar (inciso I) e os Tribunais e Juzes Militares institudos por lei (inciso II) so rgos da Justia Militar;
+no artigo 123 a composio do Superior Tribunal Militar;
+no artigo 124 a competncia da Justia Militar para processar e julgar os crimes militares definidos em lei e o artigo 125, pargrafos 3, 4 e 5, trata da organizao e competncia da Justia Militar nos Estados. O Cdigo de Processo Penal Militar  a fonte formal, por excelncia, do processo penal militar em tempo de paz e de guerra (artigo 1, CPPM). As smulas vinculantes so consideradas pela doutrina ptria fontes do direito processual.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Cincia Jurdica usa o termo fonte do direito para indicar os processos de produo de normas jurdicas. Estas fontes podem ser material (Estado) ou formal (Constituição Federal, Código de Processo Penal Militar, Smulas Vinculantes, Leis de Organização Judiciária Militar e Regimentos Internos dos Tribunais). A Constituição Federal estabelece a composição do Superior Tribunal Militar, a competência da Justiça Militar para processar e julgar crimes militares e a organização e competência da Justiça Militar nos Estados. O Código de Processo Penal Militar é a fonte formal do processo penal militar. As Smulas Vinculantes também são consideradas fontes do direito processual.

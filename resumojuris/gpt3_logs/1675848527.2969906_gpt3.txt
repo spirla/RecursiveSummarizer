@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 758) PROCESSO HC 772.380-SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 08/11/2022, DJe 16/11/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Prisao preventiva. Reu em situacao de rua. Descumprimento de medida cautelar alternativa. Ausencia de fundamentacao concreta acerca da cautelaridade. Descabimento. Medidas cautelares alternativas. Observancia da Resolucao n. 425 do CNJ. DESTAQUE Na analise do cabimento da prisao preventiva de pessoas em situacao de rua, alem dos requisitos legais previstos no CPP, o magistrado deve observar as recomendacoes constantes da Resolucao n. 425 do CNJ, e, caso sejam fixadas medidas cautelares alternativas, aquela que melhor se adequa a realidade da pessoa em situacao de rua. 1240 O Conselho Nacional de Justica editou a Resolucao n. 425/2021, que instituiu, no ambito do Poder Judiciario, a Politica Nacional Judicial de Atencao a Pessoas em Situacao de Rua e suas interseccionalidades.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessário observar os requisitos legais previstos no Código de Processo Penal para a análise do cabimento da prisão preventiva de pessoas em situação de rua. 2. O magistrado deve observar as recomendações constantes da Resolução n. 425 do Conselho Nacional de Justiça ao analisar o cabimento da prisão preventiva de pessoas em situação de rua. 3. Caso sejam fixadas medidas cautelares alternativas, deve-se escolher aquela que melhor se adequa à realidade da pessoa em situação de rua. 4. A Resolução n. 425/2021 do Conselho Nacional de Justiça instituiu, no âmbito do Poder Judiciário, a Política Nacional Judicial de Atenção a Pessoas em Situação de Rua e suas interseccionalidades.

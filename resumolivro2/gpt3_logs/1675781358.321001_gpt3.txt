@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+As decises do Conselho de Justia podem ser definitivas como interlocutrias simples e interlocutrias mistas. As decises definitivas so sentenas. Sentenas condenatrias julgam procedente no todo ou em parte a pretenso punitiva;
+as sentenas absolutrias prprias julgam improcedente a pretenso punitiva e absolutrias imprprias julgam improcedente a pretenso punitiva, mas impem medida de segurana ao inimputvel;
+por fim, as sentenas terminativas de mrito no absolvem, nem condenam. As decises (sentenas) interlocutrias simples dirimem questes emergentes relativas  regularidade ou marcha o processo, exigindo um pronunciamento decisrio sem penetrar no mrito da causa. Citam-se como exemplos:
+o recebimento da denncia ou queixa, a decretao da priso preventiva;
+o indeferimento do pedido de assistncia ao Ministrio Pblico. Normalmente so impugnadas via habeas corpus, mandado de segurana e correio parcial. As decises (sentenas) interlocutrias mistas tm fora de definitivas e encerram uma etapa do procedimento ou a prprias relao processual, sem o julgamento do mrito da causa e se dividem em no terminativas (exemplo, a pronncia) e terminativas (rejeio da denncia). As decises interlocutrias mistas com fora definitiva encerram a relao processual sem julgamento de mrito ou pem termo a uma etapa do procedimento, enquanto as decises interlocutrias mistas terminativas trancam a relao processual. As decises singularmente proferidas pelo juiz de direito ou pelo juiz federal so subjetivamente simples, enquanto as tomadas em colegiado pelo Conselho de Justia so subjetivamente plrimas. Alm das decises, h despachosde expediente ou ordinatrios em que o juiz movimenta o processo. Os atos processuais da parte so postulatrios quando pleiteiam deciso judicial sobre o mrito da causa criminal ou o andamento do processo, cujos exemplos so as peties, os requerimentos e a denncia, e probatrios que requerem a produo de provas, por exemplo, na denncia o rgo do Ministrio Pblico oferece o rol de testemunhas e a defesa, por sua vez, requer a instaurao de incidente de sanidade mental.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho de Justia pode proferir decisões definitivas (sentenças condenatórias, absolutórias próprias ou impróprias e terminativas de mérito) ou interlocutórias simples ou mistas. Estas últimas têm força de definitivas e podem ser no terminativas ou terminativas. Além das decisões, há despachos de expediente ou ordinários e atos processuais da parte, que são postulatórios ou probatórios.

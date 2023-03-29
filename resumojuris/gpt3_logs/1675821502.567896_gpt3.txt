@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Os defensores publicos, uma vez devidamente investidos no cargo publico, ficam terminantemente proibidos de exercer a advocacia privada a margem de suas atribuicoes, encerrando-se, por imposicao constitucional, seu vinculo com a OAB. Alem disso, sujeitam-se exclusivamente ao Estatuto da Defensoria Publica, submetendo-se a fiscalizacao disciplinar por orgaos proprios no que tange a sua conduta administrativa, embora ocorra inteira liberdade de atuacao no exercicio da atividade-fim. Com base nesse entendimento, o Plenario, por maioria, apreciando o Tema 1074 da repercussao geral, negou provimento ao recurso extraordinario. Vencidos os ministros Marco Aurelio e Dias Toffoli. RE 1240999/SP, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 3.11.2021 (quarta-feira), as 23:59 (INF 1036) 4.8 DIREITO A SAUDE Direito a saude: fornecimento de medicamento pelo Estado, ausencia de registro sanitario e importacao autorizada pela Anvisa - RE 1165959/SP Tese fixada: Cabe ao Estado fornecer, em termos excepcionais, medicamento que, embora nao possua registro na Anvisa, tem a sua importacao autorizada pela agencia de vigilancia sanitaria, desde que comprovada a incapacidade economica do paciente, a imprescindibilidade clinica do tratamento, e a impossibilidade de substituicao por outro similar constante das listas oficiais de dispensacao de medicamentos e os protocolos de intervencao terapeutica do SUS. Resumo: Constatada a incapacidade financeira do paciente, o Estado deve fornecer medicamento que, apesar de nao possuir registro sanitario, tem a importacao autorizada pela Agencia Nacional de Vigilancia Sanitaria (Anvisa). Para tanto, devem ser comprovadas a imprescindibilidade do tratamento e a impossibilidade de substituicao por outro similar constante das listas oficiais de dispensacao e dos protocolos de intervencao terapeutica do Sistema Unico de Saude (SUS).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os defensores públicos, uma vez devidamente investidos no cargo público, ficam terminantemente proibidos de exercer a advocacia privada a margem de suas atribuições, encerrando-se, por imposição constitucional, seu vínculo com a OAB. 2. Cabe ao Estado fornecer, em termos excepcionais, medicamento que, embora não possua registro na Anvisa, tem a sua importação autorizada pela agência de vigilância sanitária, desde que comprovada a incapacidade econômica do paciente, a imprescindibilidade clínica do tratamento, e a impossibilidade de substituição por outro similar constante das listas oficiais de dispensação de medicamentos e os protocolos de intervenção terapêutica do SUS.

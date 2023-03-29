@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse contexto, convem esclarecer que foram apresentadas para homologacao duas sentencas proferidas pela jurisdicao de Ontario, Canada, que concedeu ao pai a guarda da filha dos ex-conjuges, ambos brasileiros. Esta Corte Especial, a partir de 2017, quando do julgamento da SEC n. 14914/EX (Rel. Ministra Maria Thereza de Assis Moura), passou a entender, conforme consignou a eminente Ministra, que a pendencia de acao perante o Poder Judiciario brasileiro envolvendo as mesmas partes e sobre o mesmo objeto nao impede a homologacao da sentenca estrangeira ja transitada em julgado na origem. Nao havendo coisa julgada sobre a questao no Brasil, nao ha obice a homologacao da sentenca alienigena . No julgamento da HDE n. 3014/EX (Rel. Min. Og Fernandes, j. 7/10/2020), apos a identificacao do mesmo contexto fatico do mencionado leading case (SEC n. 14914/EX), inclusive com mencao expressa ao referido julgado, consignou-se que a solucao, portanto, e a homologacao da sentenca estrangeira, uma vez que inexiste coisa julgada sobre a questao no Brasil . No entanto, no caso analisado, sentenca posterior proferida na Justica Federal brasileira, com transito em julgado, no sentido da improcedencia do pedido de busca e apreensao da menor, sob fundamento de que, alem de ter sido comprovada violencia contra a mae e a crianca, estudo psicologico produzido nos autos revela a plena adaptacao da menor transferida ilicitamente para o Brasil ao novo meio em que inserida, sendo presumida a ocorrencia de prejuizos de ordem emocional caso determinado seu retorno ao Pais de origem, ate porque privada estara do convivio continuo, ha mais de dez anos, com parentes e amigos . Assim, afigura-se inviavel a homologacao da sentenca estrangeira, seja por conflitar frontalmente com a decisao brasileira, seja pelo fato de o decisum alienigena ser anterior (22/10/2010) ao nacional (25/4/2014), seja, ainda, em razao do transito em julgado da acao de busca e apreensao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A pendência de ação perante o Poder Judiciário brasileiro envolvendo as mesmas partes e sobre o mesmo objeto não impede a homologação da sentença estrangeira já transitada em julgado na origem. 2. Não havendo coisa julgada sobre a questão no Brasil, não há óbice à homologação da sentença alienígena. 3. É inviável a homologação da sentença estrangeira se ela conflitar frontalmente com a decisão brasileira, se for anterior à decisão nacional ou se houver o trânsito em julgado da ação de busca e apreensão.

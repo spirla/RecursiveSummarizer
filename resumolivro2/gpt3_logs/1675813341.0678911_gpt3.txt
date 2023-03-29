@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A extino da punibilidade ocorre nas duas fases da persecuo penal. Pela morte do agente, a bolitio criminis e anistia antes ou depois do trnsito em julgado; pela prescrio da pretenso punitiva e reparao do dano no peculato culposo antes do trnsito em julgado; pelo indulto, prescrio da pretenso executria e reabilitao a extino da punibilidade se d depois do trnsito em julgado da sentena condenatria. O conjunto de causas de extino da punibilidade do art. 123 do CPM no  taxativo, pois na Parte Especial do CPM existem outras causas de extino da punibilidade: a) a retratao no falso testemunho e na falsa percia (art. 346,  2); b) o perdo judicial na receptao culposa (art. 255, pargrafo nico); c) o cumprimento do perodo de prova do sursis e do livramento condicional sem revogao (art. 87 e 95). Cumpre notar que, de acordo com o art. 468, alnea b, do CPPM , poder ser concedido habeas corpus , no obstante ter havido sentena condenatria  quando a ao ou condenao j estiver prescrita . O exerccio da pretenso de punir ( jus puniendi ) e de executar a pena com o trnsito da sentena penal condenatria deve ser feito em prazo determinado. A prescrio da pretenso punitiva subdivide-se em: a) prescrio da pretenso punitiva da pena em abstrato , que ocorre antes de ser aplicada a pena; b) prescrio retroativa (art. 125,  1., CPM ) ocorre da sentena condenatria at a primeira causa interruptiva (instaurao do processo); c) prescrio intercorrente , ocorre da sentena condenatria recorrvel para frente. A prescrio da pretenso punitiva impede o prosseguimento da ao penal.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A extinção da punibilidade ocorre nas duas fases da persecução penal, pela morte do agente, anistia, prescrição da pretenção punitiva, reabilitação, retratação, perdão judicial, cumprimento do período de prova do sursis ou livramento condicional. O exerccio da pretenção de punir e de executar a pena deve ser feito em prazo determinado, sendo que a prescrição da pretenção punitiva subdivide-se em prescrição da pena em abstrato, retroativa e intercorrente.

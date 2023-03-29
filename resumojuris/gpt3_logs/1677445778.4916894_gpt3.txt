@@ -1,0 +1,13 @@
+PROMPT:
+
+# Encontre as teses jurdicas no texto abaixo e organize-as em tpicos.
+
+1082
+
+TESES JURDICAS: 1.
+
+==========
+
+RESPONSE:
+
+O direito de propriedade é um direito fundamental. 2. O direito de propriedade deve ser protegido pelo Estado. 3. O direito de propriedade não pode ser violado sem o devido processo legal. 4. O direito de propriedade deve ser exercido de forma responsável. 5. O direito de propriedade deve ser usado para o bem-estar da sociedade.

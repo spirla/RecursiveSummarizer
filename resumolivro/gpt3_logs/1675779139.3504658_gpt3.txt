@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Paragrafo 1 - Quando os envolvidos forem de Unidades diferentes dentro do mesmo sistema hierarquico, o Comandante da Unidade de Direcao Intermediaria instaurara o Processo Administrativo-Disciplinar; quando nao pertencerem ao mesmo sistema hierarquico, a instauracao cabera ao Corregedor da IME. Paragrafo 2 - Quando ocorrer a situacao descrita neste artigo, o processo original ficara arquivado na pasta funcional do militar mais graduado ou mais antigo, arquivando-se tambem copia do parecer e da decisao nas pastas dos demais acusados. Paragrafo 3 - A qualquer momento, surgindo diferencas significativas na situacao pessoal dos acusados, podera ocorrer a separacao dos processos, aproveitando-se, no que couber, os atos ja concluidos. Por questao de economia processual, quando houver concurso de agentes (conexao subjetiva) na pratica da transgressao ensejadora do PAD, todos os militares serao submetidos ao mesmo processo. Contudo, nada obsta que haja o processamento em separado, a depender das circunstncias pessoais dos acusados ou mesmo por convenincia administrativa. Os Comandantes da Unidade de Direcao Intermediaria poderao instaurar PAD somente em face de militares que estiverem sob seu comando. Assim, havendo concurso de agentes entre militares de Comandos Intermediarios distintos, competira ao Corregedor ou, no seu impedimento ou suspeicao, ao Subcomandante-Geral/Chefe do Estado-Maior da IME a instauracao do processo. Artigo 73 - Surgindo fundadas duvidas quanto a sanidade mental do acusado, o processo sera sobrestado pela autoridade convocante que, mediante fundamentada solicitacao do presidente, encaminhara o militar a Junta Central de Saude - JCS -, para realizacao de pericia psicopatologica. Paragrafo unico - Confirmada a insanidade mental, o processo nao podera prosseguir, e a autoridade convocante determinara seu encerramento, arquivando-o na pasta funcional do acusado para futuros efeitos e remetendo o respectivo laudo a Diretoria de Recursos Humanos para adocao de medidas decorrentes.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Comandante da Unidade de Direcao Intermediaria instaura o Processo Administrativo-Disciplinar quando os envolvidos forem de Unidades diferentes dentro do mesmo sistema hierarquico. Quando houver concurso de agentes, todos os militares serão submetidos ao mesmo processo. Se surgirem dúvidas quanto à sanidade mental do acusado, o processo será sobrestado e o militar encaminhado à Junta Central de Saúde para realização de perícia psicopatológica.

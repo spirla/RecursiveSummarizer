@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A frmula proposta por Radbruch acabou por constituir o mais influente argumento jusnaturalista do sculo XX, sendo posteriormente sintetizada por Robert Alexy como a extrema injustia no  direito. Muito embora seja impossvel estabelecer uma tica universal, todo sistema jurdico pressupe uma determinada tica sem a qual, com o tempo, perderia a sua efetividade. Nesse sentido, a Constituio da Repblica deixa claro, no inciso I de seu artigo 3, que constitui objetivo fundamental da Repblica Federativa do Brasil construir uma sociedade livre, justa e solidria. Em consonncia com tal objetivo, o plano de gesto estratgica aprovado no Encontro Nacional do Judicirio, realizado no dia 25 de agosto de 2008, em Braslia, define como misso institucional do Poder Judicirio realizar Justia. Com base em tal misso, o Judicirio pretende fortalecer o Estado Democrtico e fomentar a construo de uma sociedade livre, justa e solidria, por meio de uma efetiva prestao jurisdicional. A evoluo do Direito Penal e, em especial, da teoria do crime, que se verificou desde a sua inicial compreenso abstrata como mera violao da lei penal at o ponto em que se vislumbraram as dimenses de sua repercusso social, evidenciou a necessidade de comprometer a construo dogmtica penal com a realizao da Justia. Um Direito Penal que no se preste a realizar Justia no possui qualquer valor, se restringido a atender ao interesse estratgico de controle social, e no se concilia com os objetivos fundamentais da Repblica. Dessa forma, toda construo jurdico-penal e sua aplicao prtica devem estar absolutamente comprometidas com a construo de uma sociedade livre, justa e solidria. E o Direito Penal Militar, apesar de suas especificidades, no pode ser concebido fora do contexto constitucional. Muitas foram as tentativas dos filsofos e dos juristas para estabelecer uma teoria da Justia. Entre as concepes tericas para a Justia formuladas no sculo XX, merecem destaque a de Justia social, de Kelsen, a de Justia formal, de Perelman, a de Justia como correo, de Robert Alexy, e a de Justia como equidade, de Rawls.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Radbruch propôs a fórmula mais influente do jusnaturalismo do século XX, que foi sintetizada por Alexy como "extrema injustiça no direito". A Constituição da República estabeleceu o objetivo de construir uma sociedade livre, justa e solidária. O Plano de Gestão Estratégica do Poder Judiciário definiu a missão institucional como realizar Justiça. O Direito Penal evoluiu para além da mera violação da lei penal, para incluir as dimensões sociais. Filósofos e juristas tentaram estabelecer uma teoria da Justiça, com destaque para Kelsen, Perelman, Alexy e Rawls.

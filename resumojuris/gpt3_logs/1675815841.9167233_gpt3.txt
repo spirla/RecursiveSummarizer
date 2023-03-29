@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+3,  1, do Decreto 9.845/2019; e (i.2) concedeu a cautelar para conferir interpretacao conforme a Constituicao ao art. 4 do Estatuto do Desarmamento; ao inciso I do art. 9 do Decreto 9.785/2019; e ao inciso I do art. 3 do Decreto 9.845/2019, fixando a orientacao hermeneutica de que a posse de armas de fogo so pode ser autorizada as pessoas que demonstrem concretamente, por razoes profissionais ou pessoais, possuirem efetiva necessidade; (ii) a decisao que concedeu, com efeitos ex nunc, a medida cautelar para: (ii.1) dar interpretacao conforme a Constituicao ao art. 4,  2, da Lei 10.826/2003, para se fixar a tese de que a limitacao dos quantitativos de municoes adquiriveis se vincula aquilo que, de forma diligente e proporcional, garanta apenas o necessario a seguranca dos cidadaos; (ii.2) dar interpretacao conforme a Constituicao ao art. 10,  1, I, da Lei 10.826/2003, para fixar a tese hermeneutica de que a atividade regulamentar do Poder Execu-tivo nao pode criar presuncoes de efetiva necessidade outras que aquelas ja disciplinadas em lei; (ii.3) dar interpretacao conforme a Constituicao ao art. 27 da Lei 10.826/2003, a fim de fixar a tese hermeneutica de que aquisicao de armas de fogo de uso restrito so pode ser autorizada no interesse da propria seguranca publica ou da defesa nacional, nao em razao do interesse pessoal do requerente; e (ii.4) suspender a eficacia do art. 3, II, a, b e c do Decreto 9.846/2019; e (iii) a decisao que concedeu, com efeitos ex nunc, a medida cautelar para: (iii.1) dar interpretacao conforme a Constituicao ao art. 4,  2, da Lei 10.826/2003; ao art. 2,  2, do Decreto 9.845/2019; e ao art. 2,  3, do Decreto 9.847/2019, fixando a tese de que os limites quantitativos de muni-coes adquiriveis se limitam aquilo que, de forma diligente e proporcional, garanta apenas o necessario a segu-ranca dos cidadaos; e (iii.2) suspender a eficacia da Portaria Interministerial 1.634/2020-GM-MD.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(i.2) Posse de armas de fogo só pode ser autorizada às pessoas que demonstrem concretamente, por razões profissionais ou pessoais, possuírem efetiva necessidade; (ii.1) Limitação dos quantitativos de munições adquiríveis se vincula aquilo que, de forma diligente e proporcional, garanta apenas o necessário à segurança dos cidadãos; (ii.2) Atividade regulamentar do Poder Executivo não pode criar presunções de efetiva necessidade outras que aquelas já disciplinadas em lei; (ii.3) Aquisição de armas de fogo de uso restrito só pode ser autorizada no interesse da própria segurança pública ou da defesa nacional, não em razão do interesse pessoal do requerente; (iii.1) Limites quantitativos de munições adquiríveis se limitam aquilo que, de forma diligente e proporcional, garanta apenas o necessário à segurança dos cidadãos.

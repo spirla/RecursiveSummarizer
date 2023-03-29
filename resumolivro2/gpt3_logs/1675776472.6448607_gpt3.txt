@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O princpio da obrigatoriedade da ao penal permite ao juiz federal da Justia Militar e ao juiz de direito, se discordarem do pedido de arquivamento do IPM formulado pelo rgo do Ministrio Pblico, remeter os autos ao respectivo Chefe do Ministrio Pblico, conforme preceitua a parte final do artigo 397 do CPPM. Cabe notar que no mbito da Justia Militar da Unio, o juiz remete os autos de IPM ao Procurador-Geral e, de acordo com o artigo 136, IV, da Lei Complementar 75/1993, cabe s Cmaras de Coordenao e Reviso manifestar-se sobre o arquivamento de IPM, exceto no caso de competncia originria em que a atribuio  do Procurador-Geral. Se a Cmara de Coordenao e Reviso insistir na promoo de arquivamento do rgo de acusao de primeiro grau o juiz mandar arquivar o IPM, mas se entender que h elementos para a ao penal designar, para no violar a independncia funcional, outro promotor ou procurador de Justia Militar a fim de promov-la, que atuando por delegao do Procurador-Geral do Ministrio Pblico da Unio no poder deixar de oferecer denncia. Nos Estados, se o Procurador-Geral de Justia insistir no pedido de arquivamento do IPM formulado em primeiro grau de jurisdio o juiz mandar arquivar os autos, mas se dele discordar designar outro promotor de Justia para oferecer denncia. 6.7.3. Correio parcial para corrigir arquivamento irregular em inqurito (artigo 498, b, CPPM). O artigo 498, b, do CPPM dispe que o Superior Tribunal Militar poder proceder  correio parcial para corrigir arquivamento irregular em inqurito ou processo. O artigo 30, XVI, da Lei 8.457/92 (Lei de Organizao da Justia Militar da Unio) determina ao juiz federal remeter  Corregedoria da Justia Militar, no prazo de dez dias, os autos de inquritos arquivados e processos julgados, quando no interpostos recursos. Todavia, a Lei 13.774/2018 revogou a alnea c, inciso I, do artigo 14, da LOJMU, que dispunha competir ao juiz-auditor corregedor proceder s correies parciais nos autos de inqurito mandados arquivar pelo Juiz-Auditor, representando ao Tribunal, mediante despacho fundamentado, desde que entenda existente indcios de crime e de autoria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da obrigatoriedade da ação penal permite ao juiz federal da Justiça Militar e ao juiz de direito, se discordarem do pedido de arquivamento do IPM formulado pelo órgão do Ministério Público, remeter os autos ao respectivo Chefe do Ministério Público. No mbito da Justiça Militar da União, o juiz remete os autos de IPM ao Procurador-Geral e, de acordo com a Lei Complementar 75/1993, cabe às Câmaras de Coordenação e Revisão manifestar-se sobre o arquivamento de IPM. Se a Câmara de Coordenação e Revisão insistir na promoção de arquivamento, o juiz mandará arquivar o IPM, mas se entender que há elementos para a ação penal, designará outro promotor ou procurador de Justiça Militar para oferecer denúncia. O Superior Tribunal Militar poderá proceder à correção parcial para corrigir arquivamento irregular em inquérito ou processo.

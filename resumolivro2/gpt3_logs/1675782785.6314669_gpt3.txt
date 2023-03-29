@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Outro elemento de prova relevante  a relao direta do contedo da conversa telefnica com os fatos em apurao (compara-se o dito pelo interlocutor com os fatos), ou no incio da conversa o alvo se identificar ao interlocutor, ou se o interlocutor o chamar pelo nome ou apelido. O valor da prova em exame tem situaes controversas. Sobre a descoberta fortuita de crimes, de provas ou de participao de outras pessoas, que a doutrina tem chamado de serendipidade, por exemplo, a interceptao telefnica  deferida para apurar crime X e por ela se descobre o crime Y ou  deferida para investigar a participao de A e se descobre a de B, a doutrina brasileira tem assim se posicionado. Para Luiz Flvio Gomes e Silvio Maciel  vlida a prova se  descoberto fato delituoso conexo com o investigado, mas desde que de responsabilidade do mesmo sujeito passivo. Logo, se o fato no  conexo ou se versa sobre outra pessoa, no vale a prova. Cuida-se de prova nula. Mas isso no significa que a descoberta no tenha nenhum valor:
+vale como notitia criminis,  dizer, a partir dela pode-se desenvolver nova investigao. Antonio Scarance Fernandes enfrentou essa questo - de obteno de prova de crime diverso daquele que foi objeto da autorizao da interceptao telefnica, por exemplo, a autorizao dizia respeito a apurao de trfico de drogas e se descobriu homicdio - e a questo que ocorre em busca com apreenso de objeto diverso daquele que era procurado, mas relevante como prova de outro crime, e concluiu que nem toda prova obtida em relao a crime diverso daquela da autorizao ser ilcita e, por isso, inadmissvel. O critrio dever ser o da existncia de nexo entre os dois crimes. Pode haver encontro fortuito de provas de crime conexo apenado com deteno. Deferida a interceptao telefnica para apurar crime punido com recluso - descobrem-se elementos de prova de crimes conexos punidos com deteno. A prova em relao a estes  legitima.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A interceptação telefônica pode ser usada para descobrir crimes conexos ao investigado, desde que sejam de responsabilidade do mesmo sujeito passivo. No entanto, se o fato não for conexo ou se versar sobre outra pessoa, a prova será nula. Ainda assim, ela pode servir como notícia criminis para desenvolver novas investigações. A prova obtida em relação a crimes diferentes daqueles autorizados pela interceptação telefônica pode ser lícita, desde que exista um nexo entre os dois crimes.

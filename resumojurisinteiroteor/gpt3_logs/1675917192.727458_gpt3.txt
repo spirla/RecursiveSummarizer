@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+As testemunhas arroladas pelo Ministrio Pblico foram ouvidas no Evento 72, 82 e 95. A defesa tcnica no arrolou testemunhas. O interrogatrio do acusado foi realizado no Evento 132. A sesso de julgamento foi realizada no dia 31/08/2021, s 15 horas, conforme Ata da Sesso de Julgamento no Evento 152. Dada a palavra ao Ministrio Pblico, em suas alegaes orais finais gravadas, este requereu que fosse julgada improcedente a denncia, para absolver o acusado, com base no artigo 439, alnea "b, do Cdigo de Processo Penal Militar (CPPM), configurando o crime uma mera transgresso disciplinar. A defesa tcnica em suas alegaes orais finais devidamente gravadas, tambm requereu a absolvio do acusado, com base no artigo 439, alnea "b. Pelo princpio da eventualidade, pediu a absolvio com fundamento no artigo 439, alnea "e, do CPPM. Em sentena proferida no Evento 158, o Conselho Permanente de Justia, por maioria de 4 (quatro) votos a 1 (um), julgou procedente a denncia, para condenar o 3 Sgt PM Wesley Fabrcio Wiegratz Costa pela prtica do crime previsto no artigo 195 do CPM (abandono de posto), a uma pena de 3 (trs) meses de deteno, concedendo o sursis pelo prazo de dois anos e condies de proibio de afastar-se da comarca sem autorizao do juzo, por perodo superior a trinta dias; justificao de suas atividades, via comando de sua unidade, trimestralmente e prestao de servios, no primeiro ano de cumprimento do sursis, em favor da comunidade, em entidade assistencial ou filantrpica, a critrio do comando da unidade, na comarca onde reside, ou, ainda, na prpria unidade, no total de 6 (seis) horas mensais. Ficou vencida a juza de direito titular da 3a Auditoria Judiciria Militar Estadual, que julgou improcedente a denncia, para absolver o acusado, nos termos do artigo 439, alnea "b, do CPPM. No Evento 161 o acusado foi intimado do teor da sentena, devendo ser colhido o seu "ciente, bem como sua manifestao de eventual desejo de recorrer da sentena penal condenatria. No se conformando com a sentena condenatria, o autor interps recurso de apelao, alegando que os depoimentos das testemunhas ouvidas em contraditrio foram unssonos em confirmar que teria sido liberado na data dos fatos pelo Sub Ten PM Mrcio Maximilianus Vieira, fiscal do turno da 20a Cia PM do 16 BPM, o qual, inclusive confeccionou um PA para o 1 Ten Loredo confirmando o seu requerimento para ir embora um pouco antes do fim do turno de servio. Por isso sempre negou categoricamente os fatos narrados na denncia. Alega a defesa que, ao condenar-se um ru em contrariedade  posio do rgo acusatrio, condena-se, sem acusao, tornando o Conselho Permanente de Justia parcial, para assumir automaticamente a figura do acusador.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Permanente de Justia, por maioria de 4 (quatro) votos a 1 (um), julgou procedente a denncia para condenar o acusado pelo crime previsto no artigo 195 do CPM (abandono de posto), a uma pena de 3 (trs) meses de deteno, concedendo o sursis pelo prazo de dois anos e condies de proibio de afastar-se da comarca sem autorizao do juzo, por perodo superior a trinta dias; justificao de suas atividades, via comando de sua unidade, trimestralmente e prestao de servios, no primeiro ano de cumprimento do sursis, em favor da comunidade. O acusado interps recurso de apelao, alegando que os depoimentos das testemunhas ouvidas em contraditrio foram unssonos em confirmar que teria sido liberado na data dos fatos pelo Sub Ten PM Mrcio Maximilianus Vieira.

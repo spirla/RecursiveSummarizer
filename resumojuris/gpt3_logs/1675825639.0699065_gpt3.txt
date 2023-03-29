@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6049/GO, relator Min. Ricardo Lewandowski, julgamento virtual finalizado em 20.8.2021 (sexta-feira), as 23:59. (INF 1026)  10.2 ORCAMENTO Orcamento impositivo e ECs 86/2015 e 100/2019 - ADI 5274/SC Resumo: E inconstitucional norma estadual que tenha criado impositividade da lei orcamentaria antes do advento das Emendas Constitucionais (ECs) 86/2015 e 100/2019. Inexiste no sistema juridico brasileiro a figura da constitucionalidade superveniente, de modo que norma estadual, com previsao de orcamento de execucao obrigatoria e editada antes do advento das ECs 86/2015 e 100/2019, contraria o principio da separacao dos Poderes e o carater meramente formal da lei orcamentaria. Ademais, embora o art. 24, I, da CF/88 (CF) estabeleca a competencia legislativa concorrente sobre direito financeiro, as normas sobre processo legislativo sao de observancia obrigatoria pelos estados-membros, aplicando-se o principio da simetria. Assim, reveste-se de inconstitucionalidade material a norma estadual que fixe limites diferentes daqueles previstos na CF para emendas parlamentares impositivas em materia orcamentaria. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente o pedido formulado em acao direta, para declarar a inconstitucionalidade dos arts. 120-A e 120-B da Constituicao do Estado de Santa Catarina (CE/SC),. ADI 5274/SC, relatora Min. Carmen Lucia, julgamento virtual finalizado em 18.10.2021 (segunda-feira), as 23:59 (INF 1034)  11. DIREITO INTERNACIONAL 11.1 EXTRADICAO Extradicao: Pacote Anticrime e irretroatividade da lei penal mais gravosa - Ext 1652/Governo do Chile Resumo: Os fatos incriminados que sejam investigados, anteriores a 24 de dezembro de 2019, impoem, para fins de extradicao, o compromisso do Estado estrangeiro em estabelecer o cumprimento de pena maxima de 30 anos para o extraditando.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma estadual que crie impositividade da lei orcamentária antes do advento das Emendas Constitucionais (ECs) 86/2015 e 100/2019. 2. Não existe no sistema jurídico brasileiro a figura da constitucionalidade superveniente. 3. A norma estadual que fixa limites diferentes daqueles previstos na Constituição Federal para emendas parlamentares impositivas em matéria orçamentária é inconstitucional. 4. Os fatos incriminados que sejam investigados, anteriores a 24 de dezembro de 2019, impõem, para fins de extradição, o compromisso do Estado estrangeiro em estabelecer o cumprimento de pena máxima de 30 anos para o extraditando.

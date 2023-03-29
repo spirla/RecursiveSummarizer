@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Tomando-se como base o estabelecido na norma penal ora transcrita, decreta-se a Perda do cargo de policial militar do ru j qualificado, na graduao/posto, no qual se encontra, e por consequncia este fica impedido de exercer qualquer cargo, funo ou emprego pblico, na Unio, no Estado, Distrito Federal, ou no Municpio, Autarquia ou Fundao Pblica, pelo dobro do prazo da pena fixada, ou seja, pelo prazo de 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias. Em razo das alteraes legislativas ocorridas em matria penal quanto a competncia da Justia Militar dos Estados e do Distrito Federal, o ru com fundamento no estabelecido no Cdigo de Processo Penal, art. 387, inciso IV, deve ser condenado a indenizar as vtimas como forma de minorar o seu sofrimento, na quantia de R$ 3.0. 00 (trs mil reais), para cada uma das vtimas, j qualificadas nos autos. O valor ora fixado dever ser pago pelo ru aps o trnsito em julgamento da ao penal condenatria, sendo que esta quantia de R$ 3.0. 00 (trs mil reais) ser destinada a cada uma das vtimas do ilcito penal, em razo do sofrimento fsico e mental por elas suportados, conforme ficou devidamente demonstrado nos autos. Na forma do estabelecido no Cdigo Penal Militar, deve-se proceder a unificao da pena, a qual, por serem da mesma espcie, no caso deteno, soma-se as penas que foram fixadas para os dois ilcitos. Neste caso, a pena do ru referente ao Estatuto da Criana e do Adolescente ECA  de 09 (nove) meses e 10 (dez) dias de deteno, que ser somada a pena de 01 (um) ano, 06 (seis) meses e 20 (vinte) dias de deteno referente ao crime de tortura. Desta forma, a pena final do ru passa a ser de 02 (dois) anos e 04 (quatro) meses de deteno. Em razo do quantum da pena fixada verifica-se que o ru faz jus ao regime aberto para incio do cumprimento da pena, no tendo direito a suspenso condicional da pena, tendo em vista os limites estabelecidos pela lei penal e processual penal. (Evento 9, PEAS DIGITALIZADAS10, pgs. 52/82 e PEAS DIGITALIZADAS11, pgs.1/51). Entre os dias 24 de julho e 31 de julho de 2020, as defesas dos sentenciados manifestaram cincia da sentena condenatria, renunciaram  realizao de audincia de leitura de sentena e interpuseram recursos de apelao (Evento 9, PEAS DIGITALIZADAS11, pgs. 63/73). Em 8 de outubro de 2020, o Ministrio Pblico ops Embargos de Declarao, com efeitos infringentes, alegando que a sentena padece de omisso, quanto  aplicao da regra de concurso material de crimes, prevista no artigo 69 do Cdigo Penal, sendo, ainda, contraditria, ao fixar a pena para apenas um dos crimes de tortura, quando reconhecido, na fundamentao do decisum, serem trs vtimas distintas (Evento 9, PEAS DIGITALIZADAS11, pgs. 75/76).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A sentena condenatria decreta a perda do cargo de policial militar do ru qualificado, alm de impedimento de exercer qualquer cargo, funo ou emprego pblico pelo dobro do prazo da pena fixada, ou seja, por 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias. O ru tambm foi condenado a indenizar as vtimas como forma de minorar o seu sofrimento na quantia de R$ 3.000,00 (trs mil reais) para cada uma das vtimas. A pena final do ru passa a ser de 02 (dois) anos e 04 (quatro) meses de deteno, sendo que o regime aberto para incio do cumprimento da pena. O Ministrio Pblico interps Embargos de Declarao com efeitos infringentes, alegando omisso e contradio na sentena.

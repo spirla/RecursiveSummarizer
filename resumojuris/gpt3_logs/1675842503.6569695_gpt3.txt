@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Em se tratando de julgamento realizado perante o Tribunal do Juri, todavia, considerando a dificuldade em se concluir pela utilizacao, pelos jurados, da confissao espontanea para justificar a condenacao, este Superior Tribunal de Justica firmou o entendimento de que e suficiente que a tese defensiva tenha sido debatida em plenario, seja arguida pela defesa tecnica ou alegada pelo reu em seu depoimento (AgRg no AREsp 1.754.440/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 8/3/2021). No caso, a atenuante da confissao, mesmo qualificada, pode ser compensada integralmente com a qualificadora do motivo futil, que fora deslocada para a segunda fase da dosimetria em razao da pluralidade de qualificadoras. Isso, porque sao circunstancias igualmente preponderantes, conforme entende este Tribunal Superior, que define que tal conclusao, por certo, deve ser igualmente aplicada a hipotese dos autos, por se tratarem de circunstancias igualmente preponderantes, que versam sobre os motivos determinantes do crime e a personalidade do reu, conforme a diccao do art. 67 do CP (HC 408.668/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 21/9/2017). (Informativo n. 761) PROCESSO Processo sob segredo judicial, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 04/10/2022, DJe 17/10/2022. RAMO DO DIREITO DIREITO PENAL TEMA Inadimplemento de pensao alimenticia judicialmente fixada. Hipossuficiencia economica. Justa causa. Inexistencia de dolo. Crime de abandono material.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É suficiente que a tese defensiva tenha sido debatida em plenário, seja arguida pela defesa técnica ou alegada pelo réu em seu depoimento para que seja realizado o julgamento perante o Tribunal do Júri. 2. A atenuante da confissão, mesmo qualificada, pode ser compensada integralmente com a qualificadora do motivo fútil, deslocada para a segunda fase da dosimetria em razão da pluralidade de qualificadoras. 3. As circunstâncias igualmente preponderantes, que versam sobre os motivos determinantes do crime e a personalidade do réu, devem ser igualmente aplicadas na hipótese dos autos.

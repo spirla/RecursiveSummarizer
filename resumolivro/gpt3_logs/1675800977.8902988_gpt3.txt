@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+(TJM-MG: Apelacao - Processo PJe n. 1000022-21.2017.9.13.0003; Relator: Juiz Osmar Duarte Marcelino; Julgamento (unnime): 18/09/2018. PJe: 24/09/2018). APELACAO CIVEL - ACAO ANULATORIA DE ATO ADMINISTRATIVO - ART. 14, INCISO II, DO CEDM - LICENCA MEDICA AMPARADA POR ATESTADO MEDICO - COMUNICACAO TELEFNICA DO AUTOR COM O OFICIAL CPU - ARTIGO 32, paragrafo 6, DA RESOLUCAO CONJUNTA N. 4.278/2013 - INTERPRETACAO EQUIVOCADA DA NORMA PELA ADMINISTRACAO MILITAR - PUNICAO APLICADA VIOLA OS PRINCIPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE - PROCEDNCIA DO PEDIDO DO AUTOR - NULIDADE DO ATO ADMINISTRATIVO E DE SEUS EFEITOS - RECURSO A QUE SE NEGA PROVIMENTO. - O autor teve a preocupacao de entrar em contato telefnico com a Administracao Militar, comunicando que estava com atestado medico para dois dias. A 3 Sgt PM, de servico na SOU e que recebeu a ligacao telefnica, deu conhecimento imediato ao oficial CPU da impossibilidade do apelado assumir sua escala de servico. - O oficial CPU e o representante do comandante da unidade. Se ele foi avisado de que o militar nao poderia assumir o seu servico, por estar amparado por atestado medico, seria razoavel a interpretacao dos fatos pela Administracao Militar com a finalidade de bem atender o interesse publico. - Nulidade do ato administrativo. - Provimento negado. (TJM-MG: Apelacao - Processo eproc n. 5000687-95.2019.9.13.0003; Relator: Desembargador Rubio Paulino Coelho; Julgamento (unnime): 05/05/2020. EPROC: 18/05/2020). Agora, a segunda forma de ausncia ao servico pelo militar amparado por atestado medico nao homologado e que, ressalta-se, nao foi objeto dessas citadas reiteradas decisoes do TJM-MG, diz respeito a situacao em que, ao se apresentar o militar no NAIS/SAS, no prazo estipulado pela norma, para fins de homologacao do atestado medico recebido, o oficial QOS (medico perito) vem a cassar a licenca e convert-la em dispensa saude, o que implica no seu retorno ao trabalho com restricao de emprego operacional.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O TJM-MG julgou procedente a ação anulatória de ato administrativo de punição aplicada a um militar amparado por atestado médico, pois a interpretação da norma pela Administração Militar foi equivocada. O militar havia comunicado a impossibilidade de assumir o serviço por meio de ligação telefônica. O julgamento foi unânime e o recurso foi negado. A segunda forma de ausência ao serviço pelo militar amparado por atestado médico não homologado é quando, ao se apresentar no NAIS/SAS para homologação, o oficial QOS cassa a licença e a converte em dispensa de saúde, o que implica no retorno ao trabalho com restrição de emprego operacional.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Eu estava pilotando a moto e o veculo colidiu com a moto, eu quebrei a perna, fui socorrido para o hospital Vera Cruz e passei para os militares somente a placa da moto, eu acreditava que o documento estava tranquilo. Perguntado se o documento da moto estava em dia, respondeu que, eu no me recordo muito, mas eu acredito que estava. Perguntado se os militares pediram para ele comprovar a regularidade da moto, respondeu que, eu estava no hospital e eu s passei para eles a placa para fazerem a ocorrncia. Perguntado se a moto foi apreendida ou se ela saiu do local, respondeu que, eu pedi para tirarem ela de l. Perguntado quem estava errado no acidente, respondeu que, ele bateu em mim, ele avanou o sinal e bateu em mim, o acidente foi assim, eu estava descendo a rua Uruguai e ele estava esperando no sinal s que quando eu passei ele avanou o sinal e bateu em mim, eu vim a solo, algum tirou a moto do local e eu fiquei esperando algum me socorrer. Perguntando se precisou fazer alguma cirurgia, respondeu que, uma cirurgia no joelho e fiquei trinta dias afastado. Perguntado se o documento estava em dias, respondeu que, estava pago o detran s no mudou a situao. Perguntado se  habilitado para pilotar motos, respondeu que, sim. Perguntado se a atuao dos militares foi regular, respondeu que, na minha percepo sim. Perguntado se o local do acidente  rea da 127 Cia, respondeu que, sim. Perguntado se ligou para a 127 Cia, respondeu que, sim. Perguntado quanto tempo demorou para chegar ao local, respondeu que, eu no me lembro. Perguntado qual foi a primeira viatura a chegar no local, respondeu que, eu no lembro. Perguntado se como operador da SOU tem acesso ao sistema de acesso de pessoas e veculos, respondeu que, todo mundo que trabalha na SOU tem. Perguntado se no consultou o seu documento, respondeu que, no. Perguntado quem tirou a moto do local, respondeu que, um conhecido meu. Perguntado se ligou para esse conhecido, respondeu que, no, que ele estava passando pelo local. Perguntado quem chegou primeiro se esse conhecido ou se a polcia, respondeu que, a polcia [...] perguntado se local foi alterado, respondeu que, primeiro eu tive o acidente, algum tirou a moto e colocou ela no posto, a eu me sentei no meio fio e a que a polcia chegou, quando eles chegaram o local j tinha sido alterado. Perguntado quem chegou primeiro e quem que lhe prestou os primeiros socorros, respondeu que, quem chegou primeiro foi o povo da rua e quando a polcia chegou eu j estava sentado no meio fio e a moto j estava no posto.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O requerente relata que foi atingido por outro veculo enquanto pilotava uma moto, sofreu uma cirurgia no joelho e ficou afastado por 30 dias. O documento da moto estava em dia e a atuao dos militares foi regular. Um conhecido do requerente retirou a moto do local e a polcia chegou depois, alterando o local do acidente. O povo da rua prestou os primeiros socorros.

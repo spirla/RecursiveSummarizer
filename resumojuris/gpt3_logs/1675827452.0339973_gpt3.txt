@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Dias Toffoli, julgamento virtual finalizado em 26.3.2021 (sexta-feira), as 23:59 (INF 1011) Incidencia do ICMS na base de calculo da contribuicao para o PIS e da COFINS  Modulacao de efeitos - RE 574706 ED/PR (Tema 69 RG) Resumo: A tese, com repercussao geral, fixada no julgamento do RE 574706 ( O ICMS nao compoe a base de calculo para fins de incidencia do PIS e da Cofins ) produz efeitos a partir de 15.3.2017 (data da sessao de julgamento), ressalvadas as acoes judiciais e administrativas protocoladas ate essa data. A atual incidencia da sistematica de repercussao geral, com efeitos erga omnes e vinculante aos orgaos da Administracao Publica e ao Poder Judiciario, recomenda o balizamento dos efeitos do que decidido no processo, para preservar a seguranca juridica dos orgaos fazendarios, ressalvados os casos ajuizados ate a data da sessao de julgamento, em 15.3.2017. A boa-fe, a confianca e a seguranca juridica sao principios fundamentais subjacentes a prospeccao dos efeitos das decisoes judiciais modificadoras da jurisprudencia ate entao dominante (v. Informativos STF 856 e 857). Por isso, a modulacao tambem pode ser aplicada a casos em que a modificacao na orientacao jurisprudencial ocorre em desfavor da Fazenda Publica. O planejamento fazendario deu-se dentro de legitimas expectativas tracadas de acordo com a interpretacao ate entao consolidada pelo Superior Tribunal de Justica, inclusive em sede de recurso repetitivo. Com esse entendimento, o Plenario, por maioria, acolheu, em parte, os embargos de declaracao, para modular os efeitos do julgado, vencidos os ministros Edson Fachin, Rosa Weber e Marco Aurelio. O Plenario, tambem por maioria, rejeitou os embargos quanto a alegacao de omissao, obscuridade ou contradicao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS. 2. A tese, com repercussão geral, produz efeitos a partir de 15.3.2017 (data da sessão de julgamento), ressalvadas as ações judiciais e administrativas protocoladas até essa data. 3. A modulação também pode ser aplicada a casos em que a modificação na orientação jurisprudencial ocorre em desfavor da Fazenda Pública. 4. O planejamento fazendário deu-se dentro de legítimas expectativas tracadas de acordo com a interpretação até então consolidada pelo Superior Tribunal de Justiça, inclusive em sede de recurso repetitivo.

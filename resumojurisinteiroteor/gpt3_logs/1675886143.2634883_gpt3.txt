@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+1, inc. I, alnea a, c/c 4, inc. I, todos da Lei n 9.455/1997, requer que seja instaurada a presente ao penal [...] A denncia foi recebida em 06/11/2014. Antes do incio da instruo criminal, o ru Leandro ops exceo de incompetncia, distribuda na Justia comum sob o n. 0245.18.000627-3, visando  remessa dos autos  Justia Militar em virtude do advento da Lei n. 13.491/2017, exceo esta que, em deciso datada de 11/10/2018, veio a ser integralmente acolhida pelo juzo (evento 9 - OUT16 - fls. 11/14 e Peas digitalizadas10 - fls. 194/197). Encaminhado o feito  Justia Militar estadual e distribudo  1a AJME sob o n. 0002555-78.2014.9.13.0001, foi realizada a migrao dos autos do meio fsico para o eletrnico. A instruo criminal transcorreu regularmente na 1a AJME, conforme se v nos documentos contidos nos autos. Insta salientar que, j na fase do artigo 427 do CPPM (eventos 1 e 17), o juzo da 1a AJME declarou extinta a punibilidade dos acusados 3 Sgt pM QPR Roberto Mauro Caetano, 3 Sgt PM QPR Beraldo Andrade De Oliveira e 3 Sgt PM QPR Sidnei Jos Pereira, em relao ao delito do artigo 3, alnea "i, da Lei n. 4.898/65, e dos acusados Cb PM Wellington da Costa Barros e 3 Sgt PM QPR Roberto Mauro Caetano, quanto ao crime do artigo 146 do Cdigo Penal, por ter-se operado a prescrio da pretenso punitiva no que diz respeito s referidas imputaes, nos termos do artigo 125, inciso VI e VII, combinado com o artigo 123, inciso IV, ambos do Cdigo Penal Militar, conforme deciso proferida no dia 11/11/2020 e transitada em julgado na data de 1/07/2021, para o Ministrio Pblico, e em 09/07/2021, para os rus Roberto, Beraldo, Sidnei e Wellington (evento 105). A sentena, datada de 3 de dezembro de 2020, encontra-se acostada no evento 162 SENT 1.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A denncia foi recebida em 06/11/2014 e, antes do incio da instruo criminal, o ru apresentou exceo de incompetncia, que foi acolhida. A instruo criminal transcorreu regularmente na Justia Militar e a punibilidade dos acusados foi declarada extinta em relao aos crimes do artigo 3, alnea "i, da Lei n. 4.898/65, e do artigo 146 do Cdigo Penal, por ter-se operado a prescrio da pretenso punitiva. A sentena foi proferida em 3 de dezembro de 2020.

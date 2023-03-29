@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A defesa do Cabo PM Jean Pierre Gomes dos Santos apresentou suas contrarrazes de apelao, consoante se depreende no Evento 107. Em sntese, alegou que o conjunto probatrio carreado aos autos demonstrou que a inteno do apelado, ao retirar a bicicleta do ptio da companhia, era apenas localizar o proprietrio do bem. Alegou que o apelado agiu de boa-f, embora tenha sido afoito e no tenha comunicado o fato aos seus superiores hierrquicos. Segundo a defesa, o apelado confessou sua conduta imprudente, mas afirmou no ter em nenhum momento objetivado apropriar-se do bem, tendo a sua conduta visado minimizar a perda patrimonial de algum que havia sido lesado. Disse que a conduta imputada ao apelado (303, 2, CPM) s se configura aps a inverso da posse, ou seja, aps o funcionrio se apropriar do bem com a inteno de no devolver, no sendo esse o caso dos autos. Salientou que, no caso dos autos, alm de a bicicleta no estar sob a custdia ou guarda da administrao pblica, o apelado espontaneamente divulgou nas redes social a existncia do bem, com o intuito de devolv-lo ao seu legtimo dono, manifestando publicamente a sua inteno. Alegou que as narrativas trazidas nas conversas do aplicativo WhatsApp foram confirmadas pelas testemunhas civis Jules Mendes Maia e Marcos Andr Maia Santos. Segundo a defesa, a conduta imprudente do apelado deveria resultar no mximo em uma punio administrativa, no podendo, nunca, segundo o seu entendimento, ser confundida com o ato criminoso de apropriar-se de um objeto que no lhe pertencia. Ademais, alegou que o douto Conselho de Justia decidiu em conformidade com o princpio de que o direito penal no admite conjecturas ou probabilidades, exigindo certeza total e plena da autoria e culpabilidade, sem a qual no pode haver uma condenao. Por fim, afirmou que, ao contrrio do que sustentou a acusao, as provas carreadas aos autos so suficientes para comprovar a inocncia do apelado. Nesses termos, requereu que seja negado provimento ao recurso de apelao (Evento 107). Em parecer, a e. procuradora de justia doutora Elba Rondino manifestou-se no sentido que a sentena deve ser reformada e o apelado condenado pelo crime de peculato-furto, haja vista que as provas dos autos demonstram que ele, aproveitando-se das facilidades decorrentes de sua funo pblica, apropriou-se da bicicleta apreendida e provisoriamente guardada nas dependncias da 66a Cia PmMg. Alegou que a autoria do delito  incontestvel, no s pelo fato de terem as cmeras de segurana identificado o apelado praticando o crime, mas tambm porque ele confessou ter ficado com a bicicleta "na sua residncia por mais de uma semana.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A defesa do Cabo PM Jean Pierre Gomes dos Santos apresentou contrarrazes de apelao alegando que a conduta imputada ao apelado (303, 2, CPM) s se configura aps a inverso da posse, e que as provas carreadas aos autos so suficientes para comprovar a inocncia do apelado. A e. procuradora de justia manifestou-se no sentido que a sentena deve ser reformada e o apelado condenado pelo crime de peculato-furto.

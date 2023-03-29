@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+155 do CP (pratica do crime de furto no periodo noturno) nao incide no crime de furto na sua forma qualificada ( 4). Ressalte-se, preliminarmente, que se pode pensar que a fixacao de um precedente judicial guarda relacao direta com a consolidacao da orientacao jurisprudencial unissona e reiterada do Superior Tribunal de Justica, sobretudo quanto coincidente com a posicao adotada pelo Supremo Tribunal Federal. 64 Entretanto, essa premissa nao e absoluta. Se a orientacao jurisprudencial nao guarda compatibilidade com a melhor interpretacao dos postulados de regencia e com o contexto social em que se insere a aplicacao das normas juridicas, mostra-se inequivoca a necessidade de sua revisao, mormente quando desta resultara um posicionamento judicial vinculatorio que pressupoe seguranca juridica e, por conseguinte, longevidade. Assim, a construcao de precedente judicial na via do recurso especial repetitivo constitui momento adequado para o reexame de entendimentos derivados da interpretacao do direito infraconstitucional, para que se mantenham ou se adequem a novas realidades. A disposicao tecnica do CP assim se apresenta: refere-se o art. 155,  1, do CP a pena do furto simples, prevista no caput desse dispositivo. Desse modo, nao se refere a cominacao do furto qualificado, que se encontra tres paragrafos depois. Seguindo a tecnica legislativa, para que considerasse aplicavel a majorante no furto qualificado, deveria o legislador colocar o  1 apos a pena atribuida, o que nao ocorreu. Se a qualificacao do delito e apresentada em paragrafo posterior ao que trata da majorante, e porque o legislador afastou a incidencia desta em relacao aos crimes qualificados previstos no  4 do art. 155 do CP.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A fixação de um precedente judicial guarda relação direta com a consolidação da orientação jurisprudencial unissona e reiterada do Superior Tribunal de Justiça. 2. Se a orientação jurisprudencial não guarda compatibilidade com a melhor interpretação dos postulados de regência e com o contexto social em que se insere a aplicação das normas jurídicas, mostra-se inequívoca a necessidade de sua revisão. 3. A construção de precedente judicial na via do recurso especial repetitivo constitui momento adequado para o reexame de entendimentos derivados da interpretação do direito infraconstitucional. 4. O artigo 155, § 1º, do Código Penal não se refere à cominação do furto qualificado, que se encontra três parágrafos depois. 5. Para que se considere aplicável a majorante no furto qualificado, deveria o legislador colocar o § 1º apos a pena atribuída, o que não ocorreu.

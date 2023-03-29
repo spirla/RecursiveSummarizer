@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A ausncia do acusado na audincia de instruo no constitui vcio insanvel apto a ensejar a nulidade absoluta do processo, posto tratar-se de nulidade relativa, exigindo-se, para o seu reconhecimento, a demonstrao de prejuzo  defesa.. In casu, o paciente encontra-se sob custdia e o Juzo deprecante deixou de requisit-lo para participar de audincia de oitiva de testemunhas no Juzo deprecado, em razo de dificuldades enfrentadas pelo Estado de So Paulo em promover o transporte e a devida escolta de presos, assegurando, todavia, a presena de seu defensor no ato.. O defensor do paciente compareceu ao ato processual, tendo, inclusive, formulado reperguntas, comprovando a inexistncia de prejuzo para a defesa (pas de nullits sans grief).. A possibilidade de o ru no comparecer  audincia  uma expresso do direito constitucional ao silncio (artigo 5, LXIII, da CF/88), pois nemo tenetur se deterege. O direito de audincia, o direito de ser ouvido,  exercido no interrogatrio. Porm  faculdade do acusado exerc-lo, que pode preferir permanecer calado (artigo 5, LXIII, CF). Os direitos de audincia e de presena do ru traduzem prerrogativas jurdicas essenciais, que derivam da garantia constitucional do due process of law, e asseguram, por isso mesmo, ao acusado, o direito de comparecer aos atos processuais a serem realizados perante o juzo processante, ainda que situado este em local diverso daquele da sede da Organizao Militar. Essa prerrogativa processual reveste-se de carter fundamental, pois compe o prprio estatuto constitucional do direito de defesa, enquanto complexo de princpios e de normas que amparam qualquer acusado em sede de persecuo criminal. Por fim, goza o acusado do direito de postular pessoalmente. Intimado pessoalmente da deciso pode apelar ou recorrer em sentido estrito (artigo 511, CPPM), sem assistncia de advogado impetrar habeas corpus (artigo 470, CPPM) e requerer reviso criminal (artigo 553, CPPM). 9.6.2.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ausência do acusado na audiência de instrução não constitui vício insanável que enseje a nulidade absoluta do processo, pois trata-se de nulidade relativa, exigindo-se a demonstração de prejuízo à defesa. O direito de audiência e de presença do réu são prerrogativas jurdicas essenciais, derivadas da garantia constitucional do due process of law, que asseguram ao acusado o direito de comparecer aos atos processuais e de postular pessoalmente.

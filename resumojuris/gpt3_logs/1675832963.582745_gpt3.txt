@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+82 Evidentemente, no momento anterior a expedicao do mandado ou a transferencia eletronica, o saldo da conta bancaria judicial em que depositados os valores, ja acrescidos da correcao monetaria e dos juros remuneratorios a cargo da instituicao financeira depositaria, ha de ser deduzido do montante devido pelo devedor, como forma de evitar o enriquecimento sem causa do credor. Nao caracteriza bis in idem o pagamento cumulativo dos juros remuneratorios, por parte do Banco depositario, e dos juros moratorios, a cargo do devedor, haja vista que sao diversas a natureza e finalidade dessas duas especies de juros. De fato, enquanto os juros remuneratorios tem por finalidade a simples remuneracao ou rendimento pelo uso do capital alheio (sao os frutos civis do capital), os juros moratorios tem natureza indenizatoria e sancionadora, que deriva do retardamento culposo no cumprimento da obrigacao. Ha de se destacar que o deposito judicial na execucao nao se confunde com o deposito na acao de consignacao em pagamento, que e acao com procedimento especial cabivel nas estritas hipoteses do art. 335 do CC/02, em especial quando ha recusa do credor em receber o pagamento ou dar-lhe quitacao, sem justa causa (inc. I), ou, ainda, quando pende litigio sobre o objeto do pagamento (inc. V). Este apenas tem o condao de extinguir a obrigacao do devedor quando para ele concorrer os mesmos requisitos de validade do pagamento, como tempo, modo, valor e lugar (arts. 336 e 337 do CC/2002), sendo que, de todo modo, a Lei Processual garante ao credor a imediata disponibilidade da quantia, como dispoe o art. 545,  1, do CPC/2015. Assim, nao se pode atribuir o efeito liberatorio do devedor por causa do deposito de valores para garantia do juizo, com vistas a discussao do credito postulado pelo credor, nem ao deposito derivado da penhora de ativos financeiros, porque nao se tratam de pagamento com animus solvendi.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O saldo da conta bancária judicial em que depositados os valores deve ser deduzido do montante devido pelo devedor para evitar o enriquecimento sem causa do credor. 2. Não caracteriza bis in idem o pagamento cumulativo dos juros remuneratórios, por parte do Banco depositário, e dos juros moratórios, a cargo do devedor, haja vista que são diversas a natureza e finalidade dessas duas espécies de juros. 3. O depósito judicial na execução não se confunde com o depósito na ação de consignação em pagamento. 4. O depósito de valores para garantia do juízo não tem o condão de extinguir a obrigação do devedor.

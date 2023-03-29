@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A sociedade se forma pela organizao dos indivduos que possuem a finalidade comum de estabelecer uma situao de harmoniosa convivncia. No entanto, a sociedade no  uma simples soma de indivduos. Para a existncia da sociedade,  necessrio que as conscincias individuais associem-se de tal forma que percam a identidade anterior e venham a adquirir personalidade prpria. Superando os limites do indivduo para tomar corpo prprio, a sociedade est em condies de impor as maneiras de agir e pensar que, com sua autoridade, consagrou.  sinal caracterstico de um sistema social a presso que o todo exerce sobre cada um de seus membros. Por meio do ordenamento jurdico-repressivo, a entidade social estabelece mecanismos de proteo aos padres culturais e estabelece os limites da interveno punitiva. Desviando-se dos padres culturais e transgredindo a ordem jurdico-social, o indivduo  marginalizado pela sociedade, que o considera desestabilizador.  importante salientar que, uma vez que os padres culturais e de comportamento variam de sociedade para sociedade, uma conduta que perante uma sociedade  considerada desestabilizadora pode no o ser para outras sociedades. Dessa forma, o que  motivo de punio para uma pode no o ser para outras. Tal fato demonstra a relatividade dos padres e a importncia dos valores socioculturais para que surja a possibilidade da punio. Pode-se dizer que o crime  um mal justamente porque recebe a reprovao social, em determinado tempo e lugar. Mas essa reprovao no significa que a conduta represente um mal em si, que seja sempre identificado como tal. Partindo-se do pressuposto de que h um consenso na sociedade em relao ao que deve, ou no, ser reprimido, sob o ponto de vista sociolgico, o crime pode ser entendido como uma conduta que fere estados muito fortes e precisos da conscincia coletiva, que so expressos pelas normas de conduta elaboradas pelo Poder Legislativo do Estado. De incio, pode-se perceber que o trabalho de identificao do que seja crime encontra como aporia a identificao de padres de comportamento proibido que se prestem, com a maior generalizao possvel, a corresponder s expectativas do grupo social e a uma aplicao uniforme diante de todas as variantes das relaes sociais verificadas no espao fsico sobre o qual possui vigncia. A histria do Direito retrata contnuo processo de acomodao dos conflitos sociais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A sociedade se forma pela organizao dos indivíduos com o objetivo de estabelecer uma convivência harmoniosa. Para isso, o Estado, por meio do ordenamento jurdico-repressivo, estabelece mecanismos de proteção aos padrões culturais e impõe punições aos indivíduos que desrespeitam esses padrões. No entanto, esses padrões podem variar entre sociedades, assim como a punição aplicada. O crime é considerado um mal porque recebe a reprovão social em determinado tempo e lugar.

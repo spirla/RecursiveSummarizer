@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A poltica criminal adotada por determinada sociedade no resulta apenas de suas observaes sobre as causas da criminalidade e da violncia, mas tambm dos mltiplos fatores que influenciam a percepo social do crime. Afinal, no  a ameaa real do crime violento que atemoriza, mas a percepo que se tem de tal ameaa. Diversas podem ser as correntes ideolgicas subjacentes s polticas criminais. Vale notar que tais correntes ideolgicas tambm podem interagir, de modo a se apresentarem combinadas entre si, de acordo com o momento histrico e social. Em verdade, dificilmente um nico modelo de poltica criminal encontrar consagrao plena em determinado ordenamento jurdico. Mesmo as relaes entre os valores constitucionais e o Direito Penal, apesar de estreitssimas, so potencialmente conflituosas. Por isso, nos dias atuais, verifica-se certa desordem dos modelos e, assim, uma crise da poltica criminal. Com razo, Maurcio Ribeiro Lopes observa que:
+Tudo em Direito Penal, da eleio do bem a ser tutelado  reduo dada ao tipo legal que o faz, do balizamento abstrato aos mecanismos de execuo da pena, da prpria escolha da sano  atuao do Poder Judicirio, das garantias conferidas pela Constituio s normas processuais, tudo isso encontra no uma resposta, mas uma orientao no sistema da ideologia dominante. A melhor compreenso do significado e do contedo de determinada poltica criminal pressupe perceber a corrente ideolgica que influencia a escolha dos objetivos e dos mecanismos utilizados para o combate  criminalidade. O abolicionismo penal  posicionamento poltico-criminal que ressalta a deslegitimao da pena criminal e decorre da crtica aos postulados do Estado Liberal. O Estado Liberal, com a aparente neutralidade de suas instituies, laborou com o dogma da igualdade de todos perante a lei. Contudo, tal igualdade revelou-se apenas um ideal, que no se verifica no cotidiano da justia criminal. A ideologia liberal, na prtica, estabeleceu uma democracia meramente formal, que apresenta manifestos contrastes com a realidade. A crtica ao liberalismo fez surgir a ideologia igualitria, que deu maior nfase ao aspecto da igualdade. Conjugando a igualdade com a liberdade, o movimento anarquista pretendeu estabelecer um regime de igualdade ilimitada para todos os indivduos.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A política criminal adotada por uma sociedade depende de fatores que influenciam a percepção social do crime. Diversas correntes ideológicas subjacentes às políticas criminais podem interagir e causar desordem nos modelos, gerando uma crise da política criminal. O Estado Liberal, apesar de seu dogma da igualdade, revelou-se apenas um ideal. O movimento anarquista, por sua vez, pretendeu estabelecer um regime de igualdade ilimitada para todos os indivíduos.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Possibilidade. Tema 1091. DESTAQUE E valida a penhora do bem de familia de fiador apontado em contrato de locacao de imovel, seja residencial, seja comercial, nos termos do inciso VII, do art. 3 da Lei n. 8.009/1990. O STF, no julgamento do RE 612.360/SP (Rel. Ministra Ellen Gracie, DJe de 3/9/2010), reconhecida a repercussao geral (Tema 295), afirmou a seguinte tese: E constitucional a penhora de bem de familia pertencente a fiador de contrato de locacao, em virtude da compatibilidade da excecao prevista no art. 3, VII, da Lei 8.009/1990 com o direito a moradia consagrado no art. 6 da CF/88, com redacao da EC 26/2000 . Importante pontuar que no caso objeto de julgamento se tratava de locacao comercial. Logo apos, o STJ, na alcada dos recursos repetitivos, decidiu a tese de que e legitima a penhora de apontado bem de familia pertencente a fiador de contrato de locacao, ante o que dispoe o art. 3, inciso VII, da Lei n. 8.009/1990 (REsp 1.363.368/MS, relator Ministro Luis Felipe Salomao, Segunda Secao, DJe de 21/11/2014). Tematica que ensejou a edicao, em 2015, da Sumula 549 pelo STJ, segundo a qual e valida a penhora de bem de familia pertencente a fiador de contrato de locacao .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a penhora de bem de família pertencente a fiador de contrato de locação, em virtude da compatibilidade da exceção prevista no art. 3, VII, da Lei 8.009/1990 com o direito à moradia consagrado no art. 6 da CF/88, com redação da EC 26/2000. 2. É legítima a penhora de apontado bem de família pertencente a fiador de contrato de locação, ante o que dispõe o art. 3, inciso VII, da Lei n. 8.009/1990. 3. É válida a penhora de bem de família pertencente a fiador de contrato de locação.

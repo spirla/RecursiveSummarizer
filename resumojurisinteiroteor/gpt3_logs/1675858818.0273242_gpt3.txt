@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Salientou que o ofendido ficou muito machucado e que entregou as roupas que o seu filho usava  polcia no dia seguinte aos fatos, o que no  verdade, pois, de acordo com o Termo de Apreenso (Evento 6 - PEAS DiGiTALIZADAS5 - p. 39 - Processo Originrio), as roupas foram entregues apenas em 20 de julho de 2009, isto , mais de nove meses aps o crime. Os rus negaram a prtica de qualquer tipo de agresso contra o ofendido e afirmaram que este saiu correndo quando viu a viatura da polcia, pulando cercas e muros, o que vai ao encontro do depoimento prestado por Kelly, que presenciou a vtima fugindo dos policiais, inclusive, pulando muro. A testemunha Ana Lcia Rodrigues Ferreira, que  amiga da me do ofendido, disse, em juzo, que foi com ela at a delegacia no dia dos fatos e asseverou no ter visto ferimentos na vtima. Alegou que, aps os fatos, apenas viu um short sujo de urina em uma sacola, salientando que a genitora do ofendido lhe informou que ele havia urinado quando foi agredido. Alm disso, acrescentou que no viu marca de bota na camisa do ofendido. Observa-se que apenas o ofendido e a sua genitora informaram que haveria uma marca de bota na blusa que ele utilizava no dia dos fatos e que ambos apresentaram explicao distinta sobre a origem da urina no short. Nesse ponto,  prudente ressaltar que a prova pericial realizada nas roupas do ofendido (Evento 6 - pEAS DIGITALIZADAS5 - p. 54/57) foi produzida em desconformidade com a cadeia de custdia. Sobre a cadeia de custdia, Renato Brasileiro de Lima esclarece: [...] consiste, em termos gerais, em um mecanismo garantidor da autenticidade das evidncias coletadas e examinadas, assegurando que correspondem ao caso investigado, sem que haja lugar para qualquer tipo de adulterao. Funciona, pois, como a documentao formal de um procedimento destinado a manter e documentar a histria cronolgica de uma evidncia, evitando-se, assim, eventuais interferncias internas e externas capazes de colocar em dvida o resultado da atividade probatria, assegurando, assim, o rastreamento da evidncia desde o local do crime at o Tribunal. Fundamenta-se no chamado princpio da autenticidade da prova, um princpio bsico pelo qual se entende que determinado vestgio relacionado  infrao penal, encontrado, por exemplo, no local do crime,  o mesmo que o magistrado est usando para formar seu convencimento. Da o porqu de tamanho cuidado na formao e preservao dos elementos probatrios no mbito processual penal. [.] A cadeia de custdia visa assegurar a idoneidade dos objetos e bens apreendidos, de modo a evitar qualquer tipo de dvida quanto  origem e caminho percorrido durante a investigao criminal e o subsequente processo criminal. Em outras palavras, se a acusao pretende apresentar evidncias fsicas em juzo (v.g., arma do crime), deve estar disposta a mostrar que o objeto apresentado  o mesmo que foi apreendido na data dos fatos.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Os rus negaram a prtica de qualquer tipo de agresso contra o ofendido e testemunhas afirmaram que ele saiu correndo quando viu a viatura da polícia. O ofendido e a sua genitora informaram que haveria uma marca de bota na blusa que ele utilizava no dia dos fatos, porém a prova pericial realizada nas roupas foi produzida em desconformidade com a cadeia de custódia. A cadeia de custódia visa assegurar a idoneidade dos objetos e bens apreendidos para evitar dúvidas quanto à origem e caminho percorrido durante a investigação criminal.

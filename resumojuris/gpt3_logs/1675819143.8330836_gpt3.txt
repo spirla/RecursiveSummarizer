@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A Corte, no julgamento do RE 878.313 (Tema 846 da repercussao geral), assentou a constitucionalida-de da contribuicao social prevista no artigo 1 da Lei Complementar 110/2001, afastando qualquer possibilida-de de discussao acerca do exaurimento da finalidade para a qual ela foi instituida. Ademais, o acrescimo realizado pela EC 33/2001 ao art. 149,  2, III, da CF/88 nao estabeleceu um rol exaustivo das bases economicas passiveis de tributacao por contribuicoes sociais e de intervencao no domi-nio economico. Portanto, a base de calculo da contribuicao do artigo 1 da Lei Complementar 110/2001, que e o saldo da conta do Fundo de Garantia do Tempo de Servico  FGTS, e compativel com o texto constitucional. Por via de consequencia, impoe-se a manutencao da exigibilidade de seu recolhimento pelo contribuinte. Com base nesse entendimento, o Plenario, por unanimidade, reconheceu a existencia de repercussao geral da questao constitucional suscitada (Tema 1193 RG). No merito, por maioria, reafirmou a jurisprudencia dominante sobre a materia para prover o recurso extraordinario. RE 1317786/PE, relator Ministro Luiz Fux, julgamento finalizado no Plenario Virtual em 4.2.2022 (INF 1042) PIS e COFINS: parcela nao dedutivel da base de calculo - RE 1049811/SE (Tema 1024 RG) Tese fixada: E constitucional a inclusao dos valores retidos pelas administradoras de cartoes na base de cal-culo das contribuicoes ao PIS e da COFINS devidas por empresa que recebe pagamentos por meio de cartoes de credito e debito. Resumo: O valor total recebido por empresa, mediante venda por meio de cartao de credito ou debito, ainda que uma parte desse montante seja repassado a administradora do cartao, se insere na base de calculo das contribuicoes para o PIS e para a COFINS.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a contribuição social prevista no artigo 1 da Lei Complementar 110/2001. 2. O acrescimo realizado pela EC 33/2001 ao art. 149, 2, III, da CF/88 não estabeleceu um rol exaustivo das bases econômicas passíveis de tributação por contribuições sociais e de intervenção no domínio econômico. 3. A base de cálculo da contribuição do artigo 1 da Lei Complementar 110/2001, que é o saldo da conta do Fundo de Garantia do Tempo de Serviço (FGTS), é compatível com o texto constitucional. 4. É constitucional a inclusão dos valores retidos pelas administradoras de cartões na base de cálculo das contribuições ao PIS e da COFINS devidas por empresa que recebe pagamentos por meio de cartões de crédito e débito.

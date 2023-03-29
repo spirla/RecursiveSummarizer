@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ministro Og Fernandes, Segunda Turma, por unanimidade, julgado em 16/8/2022, DJe 31/8/2022. Ramo do Direito DIREITO ADMINISTRATIVO, DIREITO CIVIL Tema Divulgacao cientifica nao autorizada de imagem de paciente. Direitos de intimidade e etica medica. Violacao. Responsabilizacao solidaria. Medicos autores do artigo e a editora. DESTAQUE A divulgacao cientifica nao autorizada de imagem de paciente viola direitos de intimidade e a etica medica, gerando responsabilizacao solidaria entre os medicos autores do artigo e a editora. A bioetica medicinal pauta-se por quatro pilares: veracidade, privacidade, confidencialidade e fidelidade, de modo a preservar nao so os direitos inerentes a personalidade, senao tambem a propria relacao de confianca essencial aos tratamentos. O interesse cientifico nao pode se sobrepor aos direitos humanos dos pacientes, devendo ser compatibilizados. No caso, trata-se de violacao da confidencialidade dos dados medicos. 21 Em observancia aos ditames do Codigo de Etica Medica, do Conselho Federal de Medicina, bem como do Conselho Nacionalde Saude e da Declaracao Universal sobre Bioetica e Direitos Humanos, nao resta duvida, sobre o modo como se procedem as publicacoes em geral, e as cientificas em particular. E do autor a responsabilidade pelo material submetido, sendo descabida a restricao da condenacao unicamente a editora.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A divulgação científica não autorizada de imagem de paciente viola direitos de intimidade e a ética médica, gerando responsabilização solidária entre os médicos autores do artigo e a editora. 2. A bioética médica pauta-se por quatro pilares: veracidade, privacidade, confidencialidade e fidelidade, de modo a preservar não só os direitos inerentes à personalidade, como também a própria relação de confiança essencial aos tratamentos. 3. O interesse científico não pode se sobrepor aos direitos humanos dos pacientes, devendo ser compatibilizados. 4. É do autor a responsabilidade pelo material submetido, sendo descabida a restrição da condenação unicamente à editora.

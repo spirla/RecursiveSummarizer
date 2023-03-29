@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse sentido, a parte final do art. 3. cuida da remessa do requerimento de duvida ao juizo federal. E embora a hipotese descrita no preceito referido trate de suscitacao de duvida amparada na existencia de registro anterior em nome de terceiro, isso nao e suficiente para afastar a aplicacao da norma juridica, que efetivamente destina- se a proteger o interesse federal que possa vir a ser atingido em razao da irregularidade no seu patrimonio imobiliario. (Informativo n. 751) 141 PROCESSO CC 188.950-TO, Rel. Min. Assusete Magalhaes, Primeira Secao, por unanimidade, julgado em 14/09/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL TRABALHISTA, DIREITO PROCESSUAL CIVIL TEMA Servidor contratado pelo regime celetista antes da CF/88. Sem concurso publico. Alteracao de regime. Verbas trabalhistas. Pedidos abrangendo os periodos trabalhados nos regimes celetista e juridico-administrativo. Competencia da Justica do trabalho.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O art. 3º da lei em questão trata da remessa do requerimento de dúvida ao juízo federal, mesmo que haja registro anterior em nome de terceiro. 2. A norma jurídica tem o objetivo de proteger o interesse federal que possa ser atingido em razão da irregularidade no seu patrimônio imobiliário. 3. Servidores contratados pelo regime celetista antes da Constituição Federal de 1988 não precisam passar por concurso público. 4. A alteração de regime de trabalho gera direito às verbas trabalhistas. 5. Os pedidos abrangem os períodos trabalhados nos regimes celetista e jurídico-administrativo. 6. A Justiça do Trabalho é competente para julgar o caso.

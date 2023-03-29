@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E notoria a existencia de posicionamentos antagonicos entre as duas Turmas integrantes da Segunda Secao: enquanto a Terceira Turma reafirmou ser o rol de procedimentos em Saude, previsto em lei e editado pela ANS, de carater meramente exemplificativo (caso ora analisado em julgamento), a Quarta Turma, a partir do julgado apontado como paradigma (REsp 1.733.013/PR, relator Ministro Luis Felipe Salomao, julgado em 10/12/2019, DJe 20/02/2020), apos acurado exame do tema com participacao de diversos amici curiae, passou a reconhecer o rol como taxativo, salvo situacoes excepcionais em que, apos devida instrucao processual, o Juizo imponha determinada cobertura que se apure ser efetivamente imprescindivel a garantir a saude do beneficiario. Com efeito, resguardado o nucleo essencial do direito fundamental, no tocante a saude suplementar, sao, sobretudo, a Lei n. 9.656/1998, a Lei n. 9.961/2000 e os atos regulamentares infralegais da ANS e do Conselho de Saude Suplementar, expressamente prestigiados por disposicoes legais infraconstitucionais, que, representando inequivocamente forte intervencao estatal na relacao contratual de direito privado (planos e seguros de saude), conferem densidade normativa ao direito constitucional a saude. Cabe mencao tambem ao art. 35-G da Lei n. 9.656/88, incluido pela MP n. 2.177-44/2001, o qual estabelece que as disposicoes do CDC se aplicam subsidiariamente aos contratos entre usuarios e operadoras de produtos a que se referem o inciso I e o paragrafo 1 do art. 1 da mesma Lei. Nos termos do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O rol de procedimentos em Saúde previsto em lei e editado pela ANS é de caráter meramente exemplificativo. 2. O rol de procedimentos em Saúde previsto em lei e editado pela ANS é taxativo, salvo situações excepcionais. 3. A Lei n. 9.656/1998, a Lei n. 9.961/2000 e os atos regulamentares infralegais da ANS e do Conselho de Saúde Suplementar representam uma forte intervenção estatal na relação contratual de direito privado. 4. O art. 35-G da Lei n. 9.656/88, incluído pela MP n. 2.177-44/2001, estabelece que as disposições do CDC se aplicam subsidiariamente aos contratos entre usuários e operadoras de produtos a que se referem o inciso I e o parágrafo 1 do art. 1 da mesma Lei.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Com esses argumentos, requereu que sejam acolhidas as razes recursais, para invalidar a sentena primeva e absolver o ora apelante (Evento 1 - RAZAPELA53 - autos de 1a instncia). O Ministrio Pblico apresentou suas contrarrazes de apelao. Inicialmente, alegou a inexistncia de vcios ou irregularidades a serem sanadas. No mrito, pugnou pela manuteno da sentena condenatria, sob o entendimento de que a autoria e a materialidade dos crimes descritos na denncia foram devidamente comprovadas nos autos. Disse que os depoimentos prestados pelas vtimas e pelas testemunhas so compatveis com os fatos narrados na denncia e com os exames de corpo delito. Destacou que o apelante confessou os fatos na Justia Militar e, inclusive, foi beneficiado com o reconhecimento da circunstncia atenuante prevista no art. 65, III, alnea "d, do Cdigo Penal. Aduziu que o apelante foi condenado na Justia Militar pela prtica dos crimes previstos nos artigos 222 (constrangimento ilegal), 223 (ameaa) e 232 (estupro), todos do Cdigo Penal Militar; e que o objeto do processo sub judice  o crime de tortura. Dessa forma, afirmou que, apesar de as condenaes anteriores terem sido embasadas nas mesmas circunstncias fticas, consistem em crimes diversos, com ncleos tpicos diferentes, os quais possuem competncias prprias para julgamento, no havendo que se cogitar a ocorrncia de bis in idem. Alegou que o processamento do crime de tortura  de competncia da Justia comum e, por no encontrar idntica capitulao no Cdigo Penal Militar, no se verifica o bis in idem. Com esses argumentos requereu que seja negado provimento ao recurso de apelao, mantendo-se na ntegra a sentena de primeiro grau (Evento 1 - CONTRAZAP54 - autos de 1a instncia). A defesa de Alex Sandro Bonuti tambm interps recurso de apelao. Preliminarmente, alegou a incompetncia da Justia comum para o julgamento do presente feito em face do advento da Lei n. 13.491/2017 e requereu a remessa dos autos para este Tribunal de Justia Militar para anlise do feito. Ainda em sede preliminar, alegou que o apelante j fora condenado na Justia Militar pelo crime previsto no artigo 222 do Cdigo Penal Militar com base nos mesmos fatos apurados na presente ao penal, o que configura bis in idem e ofende o instituto da coisa julgada. No mrito, alegou que os fatos narrados na exordial acusatria foram objeto de duas investigaes policiais, uma na Polcia Civil e outra na Polcia Militar, todavia, em nenhum dos cadernos investigativos restou atestada a materialidade dos crimes praticados contra as vtimas Thas Marcela, Marcos Augusto e Diego Ribeiro. Aduziu que Thas Marcela, sequer foi ouvida em juzo. Asseverou que a tortura  um crime material, ou seja, que deixa vestgios, sendo, portanto, indispensvel a realizao de prova pericial, nos termos do artigo 158 do CPP.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa do apelante alegou a incompetência da Justiça comum para julgar o caso, bem como a ocorrência de bis in idem, pois o apelante j havia sido condenado na Justiça Militar pelos mesmos fatos. O Ministério Público pugnou pela manutenção da sentença condenatória, alegando que a autoria e a materialidade dos crimes descritos na denúncia foram devidamente comprovadas nos autos. A defesa argumentou que os fatos narrados na exordial acusatória não foram atestados nos cadernos investigativos e que a tortura é um crime material, necessitando de prova pericial.

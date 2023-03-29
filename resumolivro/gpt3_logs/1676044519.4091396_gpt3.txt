@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A incriminao relativa  inobservncia do dever geral de agir somente pode materializar-se em norma definidora de crime omissivo prprio. Isto , a criminalizao da omisso que desatende ao dever geral de agir pressupe a existncia de tipo penal incriminador, cujo ncleo seja constitudo por verbo que descreva a inatividade que se pretende proibir. No havendo previso infraconstitucional para a omisso prpria, no se pode admitir a responsabilizao. Cabe observar que a causalidade normativa na omisso imprpria somente se verifica se o omitente tiver o dever de agir (estiver na posio de garantidor) e, nas circunstncias concretas, tiver a possibilidade material de intervir em defesa do bem jurdico. No basta o dever de agir. Tambm  necessrio que o garantidor possa, no caso concreto, agir para defender o bem jurdico. As alneas do pargrafo 2 do artigo 13 do CP somente estabelecem quando o indivduo possui o especial dever de agir para evitar o resultado, o que caracteriza a posio de garantidor. Entretanto, no dispem sobre o poder de agir, pois a possibilidade de evitar o dano ao bem jurdico sempre depender das circunstncias do caso concreto. No poderia o legislador prever as peculiaridades do caso concreto; tal exame  tarefa de exclusiva apreciao judicial. Garante de vigilncia e garante de proteo. Na doutrina relevante, Pierpaolo Cruz Bottini distingue duas espcies de garantidores, segundo a origem do risco a ser enfrentado: 1) a posio de garantidor de vigilncia, derivada da criao de riscos prprios (permitidos ou proibidos) e 2) a posio de garantidor de proteo, derivada dos deveres positivos de solidariedade que demandam atuao em face dos riscos que no foram criados pelo garante (causados por terceiros ou pela natureza). 6.6.1.3. Princpio da tolerncia social a situaes de risco. O complexo das atividades da vida contempornea sempre impe enfrentar certa dose de risco. Dirigir veculos, caminhar em meio ao trnsito, manipular alimentos, submeter-se a certas intervenes cirrgicas ou praticar esportes so exemplos de atividades arriscadas, socialmente permitidas e at estimuladas. Muitas atividades arriscadas so juridicamente permitidas, diante da utilidade social proporcionada, o que impe a tolerncia de certos limites de risco. Na ponderao de interesses em conflito, o desenvolvimento do transporte areo, por exemplo, proporciona vantagens que no so anuladas pelos eventuais sinistros.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A incriminação de omissão que desatende ao dever geral de agir pressupõe a existência de tipo penal incriminador. O omitente deve ter o dever de agir e, nas circunstâncias concretas, também possuir a possibilidade material de intervir para defender o bem jurdico. Existem dois tipos de garantidores: garantidor de vigilância e garantidor de proteção. O princípio da tolerância social a situações de risco permite certos limites de risco para atividades socialmente permitidas e úteis.

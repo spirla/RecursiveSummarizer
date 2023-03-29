@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, em audiencia realizada para a oitiva das testemunhas de acusacao e de defesa, ante a ausencia do Representante Ministerial, todos os questionamentos inquisitorios destas, com vistas a produzir as provas de acusacao, foram formulados pelo magistrado. A ausencia do Ministerio Publico a audiencia de instrucao nao da, a autoridade judicial, a liberdade de assumir a funcao precipua do Parquet, que deve prosseguir a audiencia sem as perguntas acusatorias ou, entao, suspender a audiencia e marcar uma nova data. O magistrado, ao iniciar os questionamentos e formular a maioria das perguntas, assume o protagonismo na inquiricao de testemunhas, presumindo-se o prejuizo sofrido pela defesa (EDcl no HC 741.725/RS, Ministro Sebastiao Reis Junior, Sexta Turma, DJe 27/10/2022). Tendo o magistrado agido, em substituicao a producao probatoria que compete as partes, inquirindo diretamente os depoentes, violando o devido processo legal e o sistema acusatorio, deve ser reconhecida a nulidade da colheita probatoria realizada em desacordo com o art. 212 do CPP, bem como devem ser desentranhados e renovados os atos processuais contaminados, notadamente os interrogatorios dos Reus, meio de defesa realizado ao final da instrucao, e as alegacoes finais, que foram produzidas consoante os elementos probatorios entao constantes nos autos (AgRg no HC 708.908/RS, Ministra Laurita Vaz, Sexta Turma, DJe 3/10/2022). (Informativo n. 761) 1231 PROCESSO HC 754.789-RS, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1 Regiao), Sexta Turma, por unanimidade, julgado em 6/12/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Estabelecimento comercial. Invasao do imovel sem mandado judicial. Local aberto ao publico. Inviolabilidade de domicilio. Nao ocorrencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A ausência do Ministério Público na audiência de instrução não dá à autoridade judicial a liberdade de assumir a função precipua do Parquet. 2. Ao iniciar os questionamentos e formular a maioria das perguntas, o magistrado assume o protagonismo na inquirição de testemunhas, presumindo-se o prejuízo sofrido pela defesa. 3. Ao agir em substituição à produção probatória que compete às partes, inquirindo diretamente os depoentes, o magistrado viola o devido processo legal e o sistema acusatório. 4. Deve ser reconhecida a nulidade da colheita probatória realizada em desacordo com o art. 212 do CPP. 5. Devem ser desentranhados e renovados os atos processuais contaminados, notadamente os interrogatórios dos réus e as alegações finais. 6. Não ocorre inviolabilidade de domicílio em estabelecimento comercial aberto ao público, mesmo sem mandado judicial.

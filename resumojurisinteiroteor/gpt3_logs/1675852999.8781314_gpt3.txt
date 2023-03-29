@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+6 da Lei 4898/65 e do art. 1, inciso II, da Lei 9455/97, requerendo aps o recebimento e autuao desta, [...] O meritssimo juiz de direito da Vara nica da Comarca de So Romo/MG recebeu a denncia em 10 de dezembro de 2003 (Evento 4 - REC_DENUN4). Os militares foram pronunciados como incursos nas sanes previstas no artigo 121, 2, inciso III, do CP; no art. 121, 2, inciso III, combinado com o art. 14, II, ambos do CP, na forma dos artigos 69 e 29, tambm do CP; combinados com o artigo 6 da Lei n. 4898/65 e com o artigo 1, inciso II, da Lei n. 9455/97 (Evento 4, PEAS DIGITALIZADAS 13, PGINAS 38/41). Inconformados com a pronncia, os rus interpuseram Recurso em Sentido Estrito (Evento 4, PEAS DIGITALIZADAS 13, PGINAS 44/46). O egrgio Tribunal de Justia do Estado de Minas Gerais, sob o entendimento de ausncia de animus necandi, deu parcial provimento ao recurso, para despronunciar os rus dos delitos de homicdio em relao a ambas as vtimas, em face da ausncia de animus necandi nas condutas e, de ofcio, via emendatio libelli, incluiu a qualificadora do "resultado morte, em relao  vtima Wilson de Jesus Ferreira. Em razo da alterao de nova capitulao, reconheceu a competncia da Justia Militar para julgamento do processo, remetendo os autos a esta Justia castrense (Evento 4 - pEAS DIGITALIZADAS 14, pginas 50/89). Deciso transitada em julgado, conforme se v na pgina 92 do Evento 4 - PEAS DIGITALIZADAS 14). Vindo os autos a esta Justia Militar, o Ministrio Pblico requereu o reconhecimento da prescrio da pretenso punitiva em relao aos crimes tipificados no art. 6 da Lei n. 4.898/65 (abuso de autoridade) e no art. 1, II, da Lei n. 9.455/97, bem como, considerando a emendatio libelli operada pelo egrgio Tribunal de Justia comum, pugnou pela designao de audincia para oitiva das testemunhas arroladas pelas partes e interrogatrios dos acusados (Evento 4 - PEAS DIGITALIZADAS 14, pginas 112/114). A meritssima juza de direito decretou a extino de punibilidade nos termos requeridos pelo Ministrio Pblico, com fundamento no artigo 123, IV, do Cdigo de Penal Militar (CPM). E, ainda, decidiu pelo reaproveitamento de toda a instruo criminal realizada na Justia comum, determinando, apenas, a abertura de vista s partes, para apresentarem novas alegaes finais (Evento 4 - PEAS DIGITALIZADAS 14, pginas 121/124). Os rus Moacyr Gonalves de Souza e Gilberto Pereira dos Santos manifestaram-se pela desnecessidade de repetio da instruo, requerendo, contudo, a reabertura de prazo para apresentao de novas alegaes finais do Ministrio Pblico e da defesa (Evento 29 - MANI1). Os rus Sinzio Ribeiro de Souza e Anderson Dorsio de Souza manifestaram-se no sentido de reabertura da fase instrutria, visto que o cerne da questo apurada nos autos mudou consideravelmente, sendo, assim, necessrio um escopo maior na instruo processual (Evento 32 - PET1).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Juiz de Direito da Vara nica da Comarca de So Romo/MG recebeu a denncia e pronunciou os rus como incursos nas sanes previstas nos arts. 121, 2, inciso III, do CP; 69 e 29, tambm do CP; 6 da Lei 4898/65 e 1, inciso II, da Lei 9455/97. O egrgio Tribunal de Justia do Estado de Minas Gerais deu parcial provimento ao recurso, despronunciando os rus dos delitos de homicdio e remetendo os autos Justia Militar. O Ministrio Pblico requereu o reconhecimento da prescrio da pretenso punitiva e a meritssima juza de direito decretou a extino de punibilidade. Os rus requereram a reabertura de prazo para apresentao de novas alegaes finais.

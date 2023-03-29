@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ o que determina a Smula 282 do STF:
+ inadmissvel o recurso extraordinrio, quando no ventilada, na deciso recorrida, a questo federal suscitada, ou seja, o prequestionamento  a provocao das instncias ordinrias (normalmente os tribunais de segundo grau) acerca da questo do direito controvertido, tanto para o cabimento do recurso especial quanto do recurso extraordinrio. No teria sentido, pois, que os tribunais tivessem de examinar em primeira mo temas novos, no suscitados na instncia inferior. Tal requisito decorre da prpria natureza e finalidade poltica desses recursos, criados para possibilitar o reexame de decises em que tivesse sido resolvida uma questo de direito federal. Os tribunais superiores no examinam questes no suscitadas na instncia inferior. O prequestionamento implcito no tem sido admitido pelo STF, que exige o prequestionamento explcito, ou seja, a matria prequestionada com o pronunciamento do tribunal a quo sobre a questo suscitada no recurso extraordinrio, isto , que a deciso impugnada haja emitido juzo explcito a respeito do tema, inclusive mencionando o preceito constitucional. A Suprema Corte somente considera prequestionada a questo constitucional quando tenha sido enfrentada, de modo expresso, pelo Tribunal a quo. A mera oposio de embargos declaratrios no basta para tanto. A Smula 356 do STF trata da oposio dos embargos de declarao para o prequestionamento:
+O ponto omisso da deciso, sobre o qual no foram opostos embargos declaratrios, no pode ser objeto de recurso extraordinrio, por faltar o requisito do prequestionamento. Enfim, os embargos de declarao podem ser usados quando a matria j foi debatida no processo, mas o acrdo que se pretende impugnar se omitiu, no tratando expressamente da questo. Mesmo se a matria surgiu por ocasio do julgamento do recurso perante o tribunal local, o STF e o STJ tm exigido o prequestionamento.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Smula 282 do STF estabelece que o recurso extraordinrio s ser admitido se a questão federal suscitada tiver sido prequestionada na decisão recorrida. O prequestionamento deve ser explícito, ou seja, o tribunal deve emitir um juízo explícito sobre a questão, incluindo a menção ao preceito constitucional. A Smula 356 do STF permite a oposição de embargos declaratórios para o prequestionamento, desde que a matéria já tenha sido debatida no processo. O STF e o STJ exigem o prequestionamento mesmo que a matéria tenha surgido durante o julgamento do recurso no tribunal local.

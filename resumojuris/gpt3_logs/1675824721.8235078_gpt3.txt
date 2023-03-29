@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Vencido o ministro Edson Fachin, que julgou o pedido parcialmente procedente. ADI 2601/DF, relator Min. Ricardo Lewandowski, julgamento em 19.8.2021. (INF 1026) Ensino a distancia: lei estadual e vicio de iniciativa - ADI 5997/RJ Resumo: E formalmente inconstitucional lei estadual, de iniciativa parlamentar, que, ao dispor sobre ensino a distancia, proiba a utilizacao do termo tutor , alem de criar restricoes e requisitos para exercicio da atividade de tutoria. A CF/88 confere ao Chefe do Poder Executivo a competencia privativa para inaugurar o processo legislativo que disponha sobre a criacao de cargos, funcoes ou empregos publicos ou aumento de sua remuneracao. Ademais, conforme jurisprudencia do Supremo Tribunal Federal, a clausula de reserva de iniciativa decorre do principio da separacao dos poderes e e de observancia compulsoria pelos demais entes federativos. Dessa forma, no caso, a lei estadual impugnada, de iniciativa parlamentar, ao atribuir a funcao de tutoria exclusivamente aos professores, bem como ao estender aos professores de educacao a distancia o mesmo valor do piso regional estadual praticado para os professores presenciais, invadiu a iniciativa do Chefe do Poder Executivo estadual para propor leis que versem sobre criacao de cargos e aumento de sua remuneracao. Trata-se de acao direta de inconstitucionalidade em face da Lei 8.030/2018 do estado do Rio de Janeiro, que veda a utilizacao do termo tutor na educacao a distancia (EaD), obriga os estabelecimentos de ensino a contratar professores para o exercicio de quaisquer funcoes nessa modalidade de ensino e determina a aplicacao do piso minimo regional estadual a quem exercer a funcao de profissional de EaD. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido. ADI 5997/RJ, relator Min. Edson Fachin, redator do acordao Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente inconstitucional lei estadual, de iniciativa parlamentar, que, ao dispor sobre ensino a distância, proíba a utilização do termo tutor, além de criar restrições e requisitos para o exercício da atividade de tutoria. 2. A Constituição Federal de 1988 confere ao Chefe do Poder Executivo a competência privativa para inaugurar o processo legislativo que disponha sobre a criação de cargos, funções ou empregos públicos ou aumento de sua remuneração. 3. A cláusula de reserva de iniciativa decorre do princípio da separação dos poderes e é de observância compulsória pelos demais entes federativos. 4. A lei estadual impugnada, de iniciativa parlamentar, ao atribuir a função de tutoria exclusivamente aos professores, bem como ao estender aos professores de educação a distância o mesmo valor do piso regional estadual praticado para os professores presenciais, invadiu a iniciativa do Chefe do Poder Executivo estadual para propor leis que versem sobre criação de cargos e aumento de sua remuneração.

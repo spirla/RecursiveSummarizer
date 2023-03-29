@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Compete processar e julgar:
+I - originariamente, o Chefe da Casa Militar, o Comandante-Geral da Polcia Militar, nos crimes militares definidos em lei, os mandados de segurana e os habeas-corpus, nos processos cujos recursos forem de sua competncia ou quando o coator ou coagido estiverem diretamente sujeitos a sua jurisdio e s revises criminais de seus julgados e das Auditorias Militares;
+II - em grau de recurso, os policiais militares, nos crimes militares definidos em lei. 8.3.3. Competncia do juiz de direito. A Emenda Constitucional 45 estabeleceu dois rgos de jurisdio em primeiro grau:
+o juiz de direito do juzo militar e os Conselhos de Justia. Aquele com competncia para processar e julgar, singularmente, os crimes militares cometidos contra civis e cabendo ao Conselho de Justia, sob a presidncia de juiz de direito, processar e julgar os demais crimes militares (artigo 125, pargrafo 5, CF). A ttulo de exemplo, o STF firmou que em crimes de roubo e extorso mediante sequestro, praticados por militar estadual contra civil (artigos 242, pargrafo 2, II, e 244, pargrafo 1, CPM), a competncia passou a ser do juiz singular. Essa competncia constitucional no pode ser modificada. J anotamos que em caso de denncia que imputa crimes conexos de competncia do juiz de direito e do Conselho Permanente de Justia, deve haver separao dos processos (artigo 106, c, do CPPM). Compete ao jri processar e julgar o militar do Estado acusado de crime doloso contra a vida de civil, mas na hiptese de desclassificao do crime doloso contra a vida para leso corporal pelo prprio tribunal do jri, ao invs de o juiz-presidente proferir a sentena (CPP, artigo 74, pargrafo 3 e artigo 492, pargrafo 2), dever encaminhar os autos  Justia Militar. 8.3.4. Competncia dos Conselhos de Justia. A competncia dos Conselhos de Justia  prevista em lei de organizao judiciria militar dos entes federativos. Compete ao Conselho Permanente de Justia processar e julgar crime militar em que so acusadas praas - de soldado a subtenente - da Polcia Militar e do Corpo de Bombeiros.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A competência para processar e julgar crimes militares foi estabelecida pela Emenda Constitucional 45, sendo o juiz de direito responsável por processar e julgar crimes militares cometidos contra civis e o Conselho de Justia responsável por processar e julgar os demais crimes militares. O júri é responsável por processar e julgar militares do Estado acusados de crimes dolosos contra a vida de civis, enquanto o Conselho Permanente de Justia é responsável por processar e julgar praças da Polícia Militar e do Corpo de Bombeiros.

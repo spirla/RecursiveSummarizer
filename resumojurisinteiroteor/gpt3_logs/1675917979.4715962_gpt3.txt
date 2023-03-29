@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+518 do CPPM, considerou como final do prazo o dia 24/06/2022, e no o dia 27/06/2022, como deveria. Disse que o sistema eproc havia lanado o prazo de 5 (cinco) dias para manifestao das partes e que, por este motivo, interps o recurso em sentido estrito dentro do prazo estabelecido pelo prprio sistema eletrnico utilizado pelo Tribunal. Afirmou que "os tribunais possuem o entendimento de que o prazo calculado pelo sistema deve ser o considerado correto, sobretudo porque alguns sistemas esto programados para o clculo automtico dos prazos processuais. Por fim, afirmou que tanto ele, testemunhante, como sua defesa tcnica "confiam plenamente na integridade e oficialidade do sistema eletrnico do Egrgio Tribunal de Justia Militar (TJMMG) e, eventual erro do sistema, ausentes indcios de m-f pela parte jurisdicionada, no podem prejudicar ao recorrente no exerccio de sua defesa. Ante ao exposto, requereu: 2.1 Seja conhecida e provida a presente carta testemunhvel para o fim especial de determinar-se a admissibilidade do Recurso em Sentido Estrito interposto pelo testemunhante, eis que preenche os requisitos objetivos e subjetivos de cognoscibilidade, em especial o da tempestividade, cassando-se, por imperativo, a deciso exarada pelo testemunhado (Evento n. 94); 2.2 Se eventualmente, por questo da legislao processual adjetiva castrense no comportar, em tese, a previso da Carta Testemunhvel, seja conhecido e provido como recurso inominado, pugnando-se pela reforma da r. deciso e recebido, conhecido e provido o Recurso em Sentido Estrito, pelos prprios fundamentos e juricidade; Intimado, o Ministrio Pblico entendeu pelo conhecimento da carta testemunhvel, j que presentes os pressupostos de sua admissibilidade; entretanto, quanto  matria posta em anlise, entendeu "que a interposio do recurso em sentido estrito pela defesa do acusado Jos Renato Bazelenitz Pinheiro nos autos do processo n. 200032922.2021.9.13.0001 foi intempestiva, j que a defesa deveria ter observado o prazo estabelecido no art. 518 do CPPM (Evento n. 4). Em sede de retratao, o magistrado a quo, ora testemunhado, manteve a deciso que no recebeu o recurso em sentido estrito, acostada no Evento n. 94 dos autos principais, razo pela qual encaminhou os autos a este egrgio Tribunal de Justia Militar. O eminente procurador de justia  poca, Dr. Gilberto Augusto de Mendona, ofertou parecer "pelo conhecimento da carta testemunhvel apresentada pelo CB PM Jos Renato Bazelenitz Pinheiro e pela manuteno da deciso que deixou de receber o recurso em sentido estrito interposto no bojo dos autos n. 2000329-22.2021.9.13.0001, porque intempestivo (Evento n. 10).  o relatrio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar considerou como final do prazo o dia 24/06/2022, e no o dia 27/06/2022, como deveria, pois o sistema eproc havia lanado o prazo de 5 (cinco) dias para manifestao das partes. O Ministério Público e o Procurador de Justiça entenderam pelo conhecimento da carta testemunhável, mantendo a decisão que não recebeu o recurso em sentido estrito.

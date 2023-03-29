@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PRELIMINAR Em sede preliminar, a defesa alegou que a desclassificao operada pelo douto Conselho de Justia (do delito de homicdio tentado para o de disparo de arma de fogo em local habitado, previsto no artigo 15 do Estatuto do Desarmamento - Lei n. 10.826/03) retirou a competncia desta Justia Militar para o julgamento do presente feito, haja vista que o ru, ora apelante, estava de folga e em sua residncia no momento em que os fatos ocorreram. Por essa razo, pugnou pela remessa dos autos para o juzo competente para julgar o feito, ou seja, a Justia estadual comum. Todavia razo no lhe assiste. No caso em tela, temos que a competncia desta Justia Militar para o julgamento do presente feito encontra amparo no art. 9, inciso II, alnea a, do Cdigo Penal Militar (CPM), que dispe: Art. 9 Consideram-se crimes militares, em tempo de paz: [...] II - os crimes previstos neste Cdigo e os previstos na legislao penal, quando praticados: a) por militar em situao de atividade ou assemelhado, contra militar na mesma situao ou assemelhado; Ao comentar sobre o referido dispositivo, Enio Luiz Rossetto esclarece: O critrio adotado aqui  ratione personae. O militar em atividade  o militar da ativa e o da inatividade  o inativo. [...] Militar em situao de atividade  aquele que est no servio ativo (na ativa, da ativa, em servio ativo, em servio na ativa, em atividade), no importa se de folga, se de frias,  paisana, ou mesmo em local no sujeito  administrao militar (in Cdigo Penal Militar Comentado, p. 110). No mesmo sentido, leciona Guilherme de Souza Nucci: Militar contra militar: a expresso em situao de atividade, em nosso entendimento, significa encontrar-se o militar na ativa, portanto, no se encontra na reserva, nem reformado. Parece-nos que, fosse outro o objetivo da lei, deveria constar no exerccio da funo ou apenas em atividade (como, alis, consta da alnea c: em servio). A situao de atividade remete ao militar da ativa.  tambm a posio de Clio Lobo (Comentrios ao Cdigo Penal Militar, v. 1, p. 96), Enio Luiz Rosseto (Cdigo Penal Militar comentado, p. 108) e Jos da Silva Loureiro Neto (Direito Penal Militar, p. 19). (Cdigo penal militar comentado. - So Paulo: RT, 2013, p. 43-44) Nesse mesmo sentido, j se posicionaram os tribunais superiores, seno vejamos: DIREITO CONSTITUCIONAL, PENAL E PROCESSUAL PENAL MILITAR. JURISDIO. COMPETNCIA. CRIME MILITAR. 1. Considera-se crime militar o doloso contra a vida, praticado por militar em situao de atividade, contra militar, na mesma situao, ainda que fora do recinto da administrao militar, mesmo por razes estranhas ao servio.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar tem competência para julgar o presente feito, pois o crime foi praticado por militar em situção de atividade, contra militar na mesma situação, conforme prevê o artigo 9, inciso II, alínea a, do Código Penal Militar. Tal entendimento foi corroborado pelos tribunais superiores.

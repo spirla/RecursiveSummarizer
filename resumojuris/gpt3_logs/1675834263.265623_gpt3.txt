@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ramo do Direito DIREITO ADMINISTRATIVO Tema Processo administrativo disciplinar. Interrogatorio de servidor pela administracao publica. Impossibilidade por determinacao judicial. Suspensao do processo por via transversa. Prescricao. Inocorrencia. DESTAQUE Se, em razao de determinacao judicial, a Administracao nao pode realizar nem concluir o interrogatorio de servidor em processo administrativo disciplinar, sem que este possa seguir seu curso natural, deve-se considerar, por via transversa, suspenso o prazo prescricional. Discute-se a ocorrencia da prescricao no caso de decisao liminar proferida para determinar a suspensao da realizacao do ato de interrogatorio em Procedimento Administrativo Disciplinar a gerar a extincao da punicao imposta. O processo administrativo disciplinar, no plano federal, desenvolve-se em tres fases, na seguinte ordem: instauracao, inquerito e julgamento (art. 151 da Lei n. 8.112/1990), sendo certo que o inquerito tambem se subdivide em (sub)fases, na seguinte ordem: instrucao, defesa e relatorio (arts. 155, 159, 161,  1, e 166 da Lei n. 8.112/1990), de modo que o ultimo ato da instrucao, que deve preceder o prazo para defesa final e apresentacao do relatorio da comissao, e o interrogatorio (art. 159 da mesma lei).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Administração não pode realizar nem concluir o interrogatório de servidor em processo administrativo disciplinar, sem que este possa seguir seu curso natural. 2. Por via transversa, deve-se considerar suspenso o prazo prescricional. 3. O processo administrativo disciplinar, no plano federal, desenvolve-se em três fases: instauração, inquérito e julgamento. 4. O inquérito também se subdivide em (sub)fases, na seguinte ordem: instrução, defesa e relatório. 5. O último ato da instrução, que deve preceder o prazo para defesa final e apresentação do relatório da comissão, é o interrogatório.

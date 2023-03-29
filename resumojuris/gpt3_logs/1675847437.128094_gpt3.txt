@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alem disso, a incidencia do Decreto-Lei 3.240/41 afasta a previa comprovacao do periculum in mora para a imposicao do sequestro, bastando indicios da pratica criminosa (AgRg no REsp 1.844.874/SC, Rel. Ministro Ribeiro Dantas, 5 Turma, julgado em 08/09/2020, DJe 15/09/2020) Por fim, a jurisprudencia desta Corte Superior de Justica esta fixada no sentido de que e possivel a imposicao de medidas constritivas visando, alem de garantir o ressarcimento do prejuizo causado pelo reu, abarcar o pagamento de eventuais multas e das custas processuais. (AgRg no RMS 64.068/SP, Rel. Ministra Laurita Vaz, 6 Turma, julgado em 13/10/2020, DJe 23/10/2020). (Informativo n. 732) 1217 PROCESSO HC 708.148-SP, Rel. Min. Joel Ilan Paciornik, Rel. Acd. Min. Joao Otavio de Noronha, Quinta Turma, por maioria, julgado em 05/04/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Delitos descritos na Lei n. 12.850/2013. Prisao preventiva.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a imposição de medidas constritivas visando garantir o ressarcimento do prejuízo causado pelo réu, abarcando o pagamento de eventuais multas e das custas processuais. 2. A incidência do Decreto-Lei 3.240/41 afasta a necessidade de comprovação do periculum in mora para a imposição de sequestro, bastando indicações de prática criminosa.

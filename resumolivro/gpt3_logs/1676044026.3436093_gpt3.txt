@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Dessa forma, a mera relao de causalidade material entre a conduta e o resultado naturalstico no satisfaz plenamente todos os requisitos objetivos do tipo incriminador. A legitimidade da adequao tpica exige que a imputao objetiva seja enriquecida com consideraes explicitamente normativas, de modo a selecionar, na realidade material, apenas o que possa interessar ao Direito Penal. Nesse sentido, o tipo penal deve ser concebido sob o enfoque dos juzos valorativos sobre o que seja socialmente relevante. Esclarecedora  a lio de Juarez Tavares,5 que, mesmo formulada para o tema dos crimes negligentes, tem inteira aplicao aos crimes dolosos:
+(...) a determinao da causalidade, nos termos de dado naturalstico, no basta para integrar o resultado no tipo de crime culposo. Ao lado disso,  preciso que se articulem outros critrios, como, por exemplo, de uma causalidade baseada na realizao da tipicidade. Esta exigncia  tambm corolrio do artigo 13 do Cdigo Penal. (...). Com efeito, o Cdigo Penal no se resumiu a trabalhar unicamente com uma causalidade natural, fundada na teoria da equivalncia das condies. Ao afirmar categoricamente, no incio de sua redao, que o resultado de que depende a existncia do crime, somente  imputvel a quem lhe deu causa, quer com isso significar que o processo da causalidade est no s influenciado pelos dados naturais, mas que tambm se condiciona  caracterizao do tipo de crime de resultado. Adota-se, portanto, no prprio Cdigo Penal, um conceito complexo de causalidade, compreendendo tanto a causalidade natural, quanto a causalidade tpica. (...) a causalidade tpica se agasalha, normalmente, em postulados qualitativos, que esto melhor configurados nas cincias hermenuticas ou de interpretao. Ainda cabe observar, em acrscimo, que o artigo 13 do Cdigo Penal torna explicito que a teoria do crime deve trabalhar com uma noo de causalidade normativa quando assevera que considera-se causa a ao ou omisso sem a qual o resultado no teria ocorrido. Ao mencionar a possibilidade da conduta omissiva constituir causa do resultado de que depende a existncia do crime, o dispositivo legal deixa clara a opo por trabalhar com uma causalidade normativa. No plano naturalstico a omisso no pode produzir qualquer modificao no mundo objetivo. A omisso somente pode ser causa do resultado jurdico de violao da norma incriminadora.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal exige uma causalidade típica baseada em juízos valorativos para selecionar o que interessa ao Direito Penal. A causalidade típica envolve a teoria da equivalência das condições e a causalidade normativa, que considera a omissão como causa do resultado de violação da norma incriminadora.

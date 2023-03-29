@@ -1,0 +1,20 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+14.2.8.1. Conceito de testemunha. Qualquer pessoa poder ser testemunha (artigo 351, CPPM). Em seu sentido etimolgico testemunha vem de testibus, que significa dar f da veracidade de um fato. No sentido jurdico  a pessoa que perante a autoridade judiciria declara o que sabe a respeito do fato criminoso e de suas circunstncias. O ato de testemunhar no se confunde com o de depor, aquele significa presenciar o fato, enquanto este significa dizer sobre o fato testemunhado. Nota marcante  ser pessoa desinteressada do desfecho da causa criminal, um estranho ao feito e equidistante s partes, capaz de depor, chamado ao processo para falar sobre fatos cados sob seus sentidos e relativos ao objeto do litgio. Ser terceiro estranho ao feito significa no estar includa entre as pessoas que atuam no processo (por exemplo , o ru, o representante do Ministrio Pblico) ou auxiliam o juzo (perito criminal);
+equidistante das partes designa que no mantm relao de parentesco ou amizade com as partes, nem tem qualquer interesse no resultado da ao penal. 14.2.8.2. Classificao das testemunhas. Quanto ao contedo as testemunhas so classificadas em (a) direta aquela que presenciou os fatos (testemunha presencial);
+(b) indireta aquela que no presenciou os fatos e deles sabe por ouvir dizer (testemunha no presencial);
+(c) prpria aquela que depe sobre fatos que dizem respeito diretamente ao objeto do processo (thema probandum);
+(d) imprpria ou instrumental aquela que declara ou certifica fatos que no se referem diretamente ao mrito da ao penal. O seu depoimento  garantia da veracidade e da legalidade, quando afirmar, por exemplo, que viu algum depor sem coao ou ameaa ou a apresentao do preso em flagrante. Em outra classificao de testemunha (a) numerria  arrolada pela parte e que presta o compromisso de dizer a verdade (artigo 352, CPPM);
+(b) referida  a que no tendo sido arrolada pelas partes foi citada no depoimento de outra testemunha.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Testemunha é qualquer pessoa que, perante a autoridade judiciária, declara o que sabe a respeito de um fato criminoso e de suas circunstâncias. Ela deve ser desinteressada, estranha ao feito e equidistante das partes. As testemunhas podem ser diretas (presenciaram o fato) ou indiretas (ouviram falar do fato), próprias (relacionadas ao objeto do processo) ou impróprias (garantem a veracidade e legalidade). Elas também podem ser numerárias (arroladas pela parte) ou referidas (citadas no depoimento de outra testemunha).

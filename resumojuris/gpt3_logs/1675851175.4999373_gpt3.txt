@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por consectario logico, nao ha por que vedar a aplicacao da retroatividade no tocante a fracao para progressao de regime, em razao da vedacao do livramento condicional, na medida em que nao ha combinacao de leis, uma vez que esse instituto estava a epoca regulamentado materialmente em lei diversa da lei que dispunha sobre a progressao de regime. Portanto, nao ha a criacao de uma terceira lei, nem se viola a vontade do Poder Legislativo, porque o diploma legislativo que delibera sobre as regras do livramento condicional para o condenado em crime hediondo com resultado morte e o CP, alterado pelas Leis n. 7.209/1984 e 13.344/2016, que permanece em plena vigencia, e nao as Leis n. 7.210/1984 e 8.072/1990, como no caso da progressao de regime. Nessa linha de entendimento, recentes decisoes desta Corte afirmam que a aplicacao retroativa do art. 112, inciso VI, alinea a , da LEP aos condenados por crime hediondo ou equiparado com resultado morte, seria admissivel e nao prejudicial ao executado, tendo em vista que, em uma interpretacao sistematica, a vedacao de concessao de livramento condicional somente atingiria o periodo previsto para a progressao de regime, nao impedindo posterior pleito com fundamento no art. 83, inciso V, do CP. Assim, aplica-se a exigencia do cumprimento de 50% (cinquenta por cento) da pena imposta a pessoa condenada por crime hediondo com resultado morte e reincidente generica, quando a condenacao ocorreu antes da entrada em vigor da Lei n. 13.964/2019, para fins de obtencao de progressao de regime prisional, na forma do art. 112, inciso VI, alinea a , da LEP (na redacao da Lei n. 13.964/2019). (Informativo n. 755) PROCESSO AgRg no HC 748.033-SC, Rel. Min. Jorge Mussi, Quinta Turma, por unanimidade, julgado em 27/09/2022, DJe 30/09/2022. RAMO DO DIREITO DIREITO PENAL, EXECUCAO PENAL TEMA Trafico de drogas. Delito equiparado a hediondo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É admissível a aplicação retroativa do art. 112, inciso VI, alínea a, da Lei de Execução Penal aos condenados por crime hediondo ou equiparado com resultado morte. 2. A vedação de concessão de livramento condicional somente atinge o período previsto para a progressão de regime, não impedindo posterior pleito com fundamento no art. 83, inciso V, do Código Penal. 3. A exigência do cumprimento de 50% (cinquenta por cento) da pena imposta a pessoa condenada por crime hediondo com resultado morte e reincidente genérica, quando a condenação ocorreu antes da entrada em vigor da Lei n. 13.964/2019, é aplicável para fins de obtenção de progressão de regime prisional, na forma do art. 112, inciso VI, alínea a, da Lei de Execução Penal (na redação da Lei n. 13.964/2019).

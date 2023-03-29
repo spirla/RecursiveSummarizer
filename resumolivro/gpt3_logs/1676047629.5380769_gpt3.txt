@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No sistema brasileiro, a nica ao penal popular  a ao de habeas corpus, pois o artigo 654 do Cdigo de Processo Penal dispe que o habeas corpus poder ser impetrado por qualquer pessoa, em seu favor ou de outrem, bem como pelo Ministrio Pblico. A ao penal popular, no sistema jurdico brasileiro, constitui o mais amplo instrumento de garantia da liberdade individual contra os eventuais abusos do poder punitivo estatal. Ao permitir que qualquer pessoa possa propor a ao de habeas corpus, o legislador estabeleceu forma de controle essencialmente democrtica para os atos que atentem contra a liberdade individual. 11.4. A ao penal no crime complexo. Diz o artigo 101 do Cdigo Penal:
+Art. 101. Quando a lei considera como elemento ou circunstncias do tipo legal fatos que, por si mesmos, constituem crimes, cabe ao pblica em relao quele, desde que, em relao a qualquer destes, se deva proceder por iniciativa do Ministrio Pblico. O mencionado artigo refere-se aos chamados crimes complexos, ou seja, aqueles cujas figuras criminosas so formadas pela fuso de dois ou mais tipos penais. Como exemplo de crime complexo, podemos citar o roubo, cuja figura tpica  formada pela subtrao correspondente ao artigo 155 do Cdigo Penal, conjugada com a violncia (artigo 129 do CP) ou a grave ameaa  pessoa (artigo 147 do CP). Sendo o crime de roubo um crime autnomo e complexo, no se pode alegar que a ausncia de representao da vtima impea a apurao da leso corporal praticada no contexto da subtrao e o fato deva ser desclassificado para furto.  que o roubo  figura autnoma em relao ao furto,  leso corporal e  ameaa, para a qual o legislador determinou ser cabvel a ao penal pblica incondicionada. A disposio do artigo 101 do Cdigo Penal  incua e at mesmo prejudicial  interpretao. Isso porque o Cdigo adotou o sistema de especificar claramente quando o crime deve ser apurado mediante ao privada, deixando, com isso, tambm claro que, nos demais casos, a ao penal  pblica. Com efeito, o disposto no artigo 101 s refora o entendimento de que, se o legislador definiu para cada tipo de crime a respectiva ao penal, no se pode trabalhar com a ao penal prevista para outro crime. 11.5. Irretratabilidade da representao. A ao penal pblica, nos casos expressamente previstos em lei, pode estar condicionada  representao do ofendido ou de quem tenha a qualidade para represent-lo.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao penal popular no sistema jurdico brasileiro é o habeas corpus, previsto no artigo 654 do Código de Processo Penal, que permite que qualquer pessoa possa propor a ação. Crimes complexos, como o roubo, também podem ser apurados mediante ação penal pública incondicionada. A representação do ofendido pode condicionar a ação penal pública nos casos previstos em lei.

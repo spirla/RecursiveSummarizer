@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Afirma o professor que um crime culposo de trnsito dever ser mais severamente apenado quando o trfego for mais intenso. Nessa hiptese, verifica-se que a exigibilidade social de ateno ao dever objetivo de cuidado ser maior do que quando ocorrer a circunstncia de trnsito menos intenso. O fundamento dessa maior exigibilidade  que, no momento da violao ao dever objetivo de cuidado, a finalidade da conduta, mais do que relacionar meios a fins, considerando todas as circunstncias peculiares do caso concreto, inobservou os deveres objetivos de cuidado socialmente exigveis. Nos termos de uma racionalidade comunicativa, a reprovao jurdico-penal deve considerar as expectativas sociais dirigidas ao condutor do veculo no ambiente de sua situao concreta. Diante de maior risco ao bem jurdico, maior ser a exigncia social (discursiva) de cuidado. Exemplificando com situao da ambincia verificada no trnsito de veculos: a finalidade que direciona a conduta no sentido de fazer avanar um automvel na contramo direcional  objeto do exame de tipicidade. A finalidade que direciona a conduta no sentido de fazer avanar um automvel na contramo direcional, em uma rodovia de intenso trfego, contm elementos cognoscivos adicionais e constitui o objeto de valorao para o juzo de reprovao da culpabilidade. A intensidade do trfego  um dado concreto da realidade, percebido pela pessoa que decide realizar a manobra, e qualifica, de modo especial, a finalidade da conduta, impondo a maior severidade da reprovao. O mesmo se diga com relao s condies de visibilidade ou do clima. Quanto piores as condies de dirigibilidade na realidade concreta, maior a exigibilidade social de ateno ao dever objetivo de cuidado. A finalidade que determinou a desateno aos deveres objetivos de cuidado na situao concreta fez-se atuar, apesar das dificuldades relativas s condies de visibilidade ou de clima, violando de maneira mais grave as expectativas sociais de cuidado. Sendo mais grave a violao das expectativas, maior deve ser a reprovao. Ainda cabe mencionar o exemplo do mdico recm-formado que resolve fazer uma interveno cirrgica delicada. A inobservncia ao dever de cuidado ocorre to logo o mdico inicie a cirurgia, pois viola o dever que se lhe apresentava de abster-se de realizar tarefa para a qual ainda no estava plenamente capacitado.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O professor afirma que crimes culposos de trânsito devem ser mais severamente punidos quando o tráfego for intenso, pois a exigibilidade social de cuidado aumenta. Esta maior exigibilidade é devido à necessidade de considerar todas as circunstâncias peculiares do caso concreto. A repreensão deve levar em conta as expectativas sociais dirigidas ao condutor do veículo e o risco ao bem jurdico.

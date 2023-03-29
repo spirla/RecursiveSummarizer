@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Alexandre de Moraes, julgamento virtual finalizado em 14.9.2021 (terca-feira) as 23:59 (INF 1029) Livre iniciativa, direito do consumidor e legislacao estadual sobre prestacao de servicos de internet - ADI 6893/ES Resumo: E constitucional lei estadual que obriga as empresas prestadoras de servicos de internet movel e banda larga na modalidade pos-paga a apresentarem, na fatura mensal, graficos sobre o registro medio diario de entrega da velocidade de recebimento e envio de dados pela rede mundial de computadores. Normas sobre direito do consumidor admitem regulamentacao concorrente pelos estados-membros, nos termos do art. 24, V, da CF/88 (CF), (2). O fato de trazer a representacao da velocidade de internet, por meio de graficos, nao diz respeito a materia especifica de contratos de telecomunicacoes (CF, art. 22, IV), tendo em vista que tal servico nao se enquadra em nenhuma atividade de telecomunicacoes definida pelas Leis 4.117/1962 e 9.472/1997. A intervencao estatal no dominio economico para defesa do consumidor e legitima e tem fundamento na CF (art. 170, V). Ademais, o principio da livre iniciativa nao pode ser invocado para afastar regras de regulamentacao do mercado e de defesa do consumidor. Com base nesse entendimento, o Plenario, por maioria, julgou improcedente o pedido formulado em acao direta e declarou a constitucionalidade da Lei 11.201/2020 do Estado do Espirito Santo. Vencidos os ministros Gilmar Mendes, Rosa Weber, Luiz Fux e Nunes Marques. ADI 6893/ES, relatora Min. Carmen Lucia, julgamento virtual finalizado em 8.10.2021 (sexta-feira), as 23:59 (INF 1033) Norma constitucional estadual e invasao da competencia municipal - ADI 6602/SP Resumo: E inconstitucional norma de constituicao estadual que veda aos municipios a possibilidade de alterarem destinacao, os fins e os objetivos originarios de loteamentos definidos como areas verdes ou institucionais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional lei estadual que obriga as empresas prestadoras de serviços de internet móvel e banda larga na modalidade pós-paga a apresentarem, na fatura mensal, gráficos sobre o registro médio diário de entrega da velocidade de recebimento e envio de dados pela rede mundial de computadores. 2. Normas sobre direito do consumidor admitem regulamentação concorrente pelos estados-membros, nos termos do art. 24, V, da CF/88. 3. O fato de trazer a representação da velocidade de internet, por meio de gráficos, não diz respeito a matéria específica de contratos de telecomunicações. 4. A intervenção estatal no domínio econômico para defesa do consumidor é legítima e tem fundamento na CF (art. 170, V). 5. O princípio da livre iniciativa não pode ser invocado para afastar regras de regulamentação do mercado e de defesa do consumidor. 6. É inconstitucional norma de constituição estadual que veda aos municípios a possibilidade de alterarem destinação, os fins e os objetivos originários de loteamentos definidos como áreas verdes ou institucionais.

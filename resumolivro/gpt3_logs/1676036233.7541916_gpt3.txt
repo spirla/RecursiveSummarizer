@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nesse sentido, o Tribunal de Justia do Estado do Rio de Janeiro, no conflito de Jurisdio 0071469-14.2017.8.19.0000, relativo ao crime de organizao criminosa armada (artigo 2, caput, na forma dos seus pargrafos 2, 3 e 4, inciso II, da Lei 12.850/13) decidiu que no h como retroagir os efeitos da Lei 13.491/17 para transmudar o crime comum em tese praticado antes da vigncia da referida lei em crime militar e, portanto, a competncia  da Justia Comum (Juzo de Direito da 2 Vara Criminal da comarca de So Gonalo). 5.3.2.1. Situaes benficas. Em um exame preliminar, pode-se identificar como situaes benficas que autorizam a retroatividade da norma caracterizadora do crime militar os casos em que a cominao de penas para o novo crime militar for mais branda, quando houver a concreta possibilidade da incidncia da prescrio da pretenso punitiva e os casos em que a ao penal relativa aos crimes for condicionada  representao da vitima ou de seus representantes. Pena mais branda. A retroatividade da caracterizao da natureza militar ao crime  manifestamente mais benfica quando a pena cominada ao novo crime militar for mais branda. Como mencionado anteriormente, a pena cominada ao crime de roubo simples no artigo 157, caput, Cdigo Penal Comum (realizado em uma ou mais das circunstncias descritas nas alneas do incisso II do artigo 9 do CPM)  mais benfica do que a cominao de pena prevista para o crimes de roubo simples constante do artigo 242, caput, do Cdigo Penal Militar. Em casos como esse, deve-se operar a retroatividade dos efeitos da Lei 13.491/2017, por reconhecer que o novo crime militar  mais benfico ao indiciado/ru do que o antigo crime militar. Prescrio da pretenso punitiva. A concreta possibilidade da incidncia da prescrio da pretenso punitiva tambm pode se apresentar como situao mais favorvel ao indiciado/ru. Tratando-se de crime militar, a prescrio  regulada nos termos especficos do que dispe a parte geral do Cdigo Penal Militar, que no sofreu alteraes pela Lei 12.234/10. Nesse aspecto, cabe observar que artigo 1 da Lei 12.234/10 dispe expressamente que a referida Lei altera os artigos 109 e 110 do Decreto-Lei 2.848, de 7 de dezembro de 1940 - Cdigo Penal, para excluir a prescrio retroativa. Desta forma, ficou absolutamente claro que o instituto da prescrio retroativa no existe mais no Cdigo Penal Comum.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia do Rio de Janeiro decidiu que não há retroatividade da Lei 13.491/17 para mudar o crime comum em crime militar, portanto, a competência é da Justiça Comum. Situações benficas que autorizam a retroatividade são: pena mais branda, possibilidade de prescrição da pretenção punitiva e condicionamento da ação penal à representação da vítima ou seus representantes.

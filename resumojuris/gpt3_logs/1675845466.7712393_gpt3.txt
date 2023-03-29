@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nulidade. Nao ocorrencia. DESTAQUE No ambito do Tribunal do Juri, nao ha nulidade na formulacao de quesito a respeito do dolo eventual, quando a defesa apresenta tese no sentido de desclassificar o crime para lesao corporal seguida de morte, ainda que a questao nao tenha sido discutida em plenario. Dispoe o art. 482, paragrafo unico, in fine, do CPP, que o juiz presidente elaborara os quesitos levando em conta os termos da pronuncia, do interrogatorio e das alegacoes das partes. De rigor, inexistindo tese desclassificatoria, seriam realizados os tres quesitos obrigatorios a respeito da materialidade, da autoria e da absolvicao (art. 483, I, II e III, do CPP). 1163 No caso concreto, a Defesa apresentou a tese desclassificatoria, atraindo o disposto no art. 483,  4, do CPP, que dispoe o dever de ser formulado quesito correspondente. E, consoante incontroverso, foram formulados dois quesitos para abarcar a alegacao defensiva de desclassificacao de homicidio consumado para lesao corporal seguida de morte, quais sejam, o primeiro a respeito do dolo direto, tendo os jurados respondido negativamente, e o segundo a respeito do dolo eventual, tendo os jurados respondido afirmativamente. Tal proceder na quesitacao encontra respaldo na jurisprudencia desta Corte. Ressalta-se que a sistematica do Tribunal do Juri implica numa visao mais alargada do principio da correlacao entre a acusacao e a sentenca.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. No âmbito do Tribunal do Júri, não há nulidade na formulação de quesito a respeito do dolo eventual, quando a defesa apresenta tese no sentido de desclassificar o crime para lesão corporal seguida de morte, ainda que a questão não tenha sido discutida em plenário. 2. O art. 483, 4, do CPP dispõe o dever de ser formulado quesito correspondente, quando houver tese desclassificatória. 3. A sistemática do Tribunal do Júri implica numa visão mais alargada do princípio da correlação entre a acusação e a sentença.

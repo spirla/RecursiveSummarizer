@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Joel Ilan Paciornik, Quinta Turma, por unanimidade, julgado em 09/03/2021, DJe 19/03/2021. Ramo do Direito DIREITO PENAL, DIREITO PROCESSUAL PENAL Tema Feminicidio tentado. ADPF n. 779/DF. Tese de legitima defesa da honra. Inconstitucionalidade. Utilizacao em sede de habeas corpus. Impossibilidade. DESTAQUE O Supremo Tribunal Federal, no julgamento da ADPF n. 779/DF, considerou inconstitucional a tese da legitima defesa da honra, ainda que utilizada no Tribunal de Juri, nao sendo possivel dar guarida a referida tese em sede de habeas corpus. 1199 Inicialmente cumpre salientar que a defesa tenta diminuir a gravidade da conduta do recorrente por intermedio do rechacado instituto da legitima defesa da honra . Aponta como normal a reacao violenta ao descontentamento com o relacionamento e coloca, ainda, a culpa na vitima por tamanha brutalidade. Hoje se colhe os frutos de um periodo no qual a legitima defesa da honra encontrava guarida na Justica brasileira. E justamente a normalizacao desse tipo de reacao violenta e intempestiva que coloca o pais no patamar de paises com os mais altos indices de feminicidio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a tese da legitima defesa da honra, ainda que utilizada no Tribunal de Júri. 2. Não é possível dar guarida à referida tese em sede de habeas corpus. 3. É rechaçado o instituto da legitima defesa da honra. 4. É normal a reação violenta ao descontentamento com o relacionamento. 5. A culpa da brutalidade é colocada na vítima. 6. A legitima defesa da honra encontrava guarida na Justiça brasileira. 7. A normalização desse tipo de reação violenta e intempestiva coloca o país no patamar de países com os mais altos índices de feminicídio.

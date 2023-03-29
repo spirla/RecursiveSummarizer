@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O conceito normativista de crime utilizado pelos clssicos, a que se pode chamar de deontolgico, no foi capaz de resolver os problemas tericos relativos  ao, ao dolo,  culpa stricto sensu e  culpabilidade. Dessas aporias surgiu a necessidade de iniciar-se a busca por uma noo ontolgica do crime. 4.2. Crime como ao humana. Na Alemanha, tambm se verificaram contestaes doutrinrias ao empirismo da Idade Mdia e o pensamento jurdico-penal clssico foi enriquecido por reflexes filosficas mais profundas e meticulosas, prprias ao esprito germnico. Inicialmente, com base no pensamento de Kant, buscou-se fundamento para a aplicao da pena em princpios ticos, ainda lastreada pelo livre-arbtrio, entendendo-se que, ao crime, por violar a ordem jurdica, deve corresponder o dever absoluto do Estado de aplicar a pena. Hegel, por sua vez, reelaborando a essncia retributiva da pena, transformou o fundamento tico vislumbrado por Kant em fundamento jurdico. Utilizando a ideia de valor e do mtodo comparativo, percebeu que o crime  uma ao humana motivada por um querer, que deve ser considerado como manifestao da racionalidade individual, e a pena constitui a consequncia jurdica do crime, de equivalente grandeza. Hegel entende que o critrio de Talio, contudo, no dignifica o criminoso como ser racional e no se apresenta capaz de estabelecer aproximao para a igualdade de grandezas. As preocupaes tico-jurdicas que, at ento, centravam-se na noo de retribuio como ncleo essencial da pena no se apresentaram suficientes para controlar a crescente criminalidade e, aos poucos, cederam lugar s elaboraes cientficas. Nesse sentido, Feuerbach, considerado o fundador da moderna cincia do Direito Penal alemo, formulou a teoria da coao psicolgica da norma jurdico-penal e fundamentou a aplicao da pena, no em seu carter de retribuio, mas como instrumento de intimidao e preveno geral. A Escola Positiva surge, assim, como natural contestao aos posicionamentos clssicos. O crime como ente jurdico tornou-se abstrao por demais intelectualstica e o Direito Penal mostrava-se afastado da realidade concreta de uma crescente criminalidade. A Escola Positiva volta suas atenes para o homem como sujeito ativo de crime e percebe o crime no mais como ente jurdico, e sim como fato humano, decorrente de fatores antropolgicos, fsicos e sociais.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O conceito normativista de crime, utilizado pelos clássicos, não foi capaz de resolver os problemas teóricos relacionados ao dolo, culpa stricto sensu e culpabilidade. Estas aporias levaram à busca por uma noção ontológica do crime. Na Alemanha, o pensamento jurdico-penal clássico foi enriquecido por reflexões filosóficas profundas e meticulosas. A Escola Positiva surge como contestação aos posicionamentos clássicos, pois o crime passou a ser visto como fato humano, decorrente de fatores antropológicos, físicos e sociais.

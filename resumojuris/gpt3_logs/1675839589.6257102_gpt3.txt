@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A Lei n. 8.078/1991, ao tratar das acoes coletivas para a defesa de interesses individuais homogeneos, preve a possibilidade de as acoes coletivas serem ajuizadas em nome da propria associacao, mas no interesse das vitimas; e estabelece a possibilidade de sentenca generica, na hipotese de procedencia do pedido, ficando a liquidacao e a execucao respectivas a cargo das vitimas (arts. 81, 82, 91, 95 e 97). As pessoas visitantes de unidades prisionais estao submetidas a diversos procedimentos de identificacao e seguranca e, por obvio, o Estado deve-lhes assegurar, dentre outros, os direitos relacionados com integridade fisica e moral e com tratamento impessoal, digno e respeitoso etc. E, considerado o fato de a pretensao autoral se remeter a direitos das pessoas submetidas ao procedimento de revista intima, deve-se compreender tratar- se de direitos individuais homogeneos. Nesse contexto, se o estatuto da associacao comprova a finalidade de defesa dos direitos humanos, nao ha empecilho legal ao ajuizamento de acao civil publica por associacao cujo estatuto preve como finalidade a defesa de direitos humanos, que atuara como substituta processual, dai porque nao se revela adequada a conclusao de que as pessoas eventualmente lesadas devam ser associadas ou autorizem, por qualquer meio, o ajuizamento da acao. 677 A tese firmada pelo STF no RE 573.232/SC nao se aplica as acoes coletivas ajuizadas por associacoes para a defesa de direitos individuais homogeneos, na hipotese em que ha substituicao processual e, notadamente, quando vinculados a protecao dos direitos humanos e ao proceder administrativo do Estado com relacao aos visitantes das unidades prisionais, de alta relevancia social. (Informativo n. 750) Processo Processo sob segredo judicial, Rel. Min. Regina Helena Costa, Primeira Turma, por unanimidade, julgado em 23/06/2022, DJe 27/06/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 8.078/1991 prevê a possibilidade de ações coletivas serem ajuizadas em nome da própria associação, mas no interesse das vítimas, e estabelece a possibilidade de sentença genérica, na hipótese de procedência do pedido, ficando a liquidação e a execução respectivas a cargo das vítimas. 2. O Estado deve assegurar a pessoas visitantes de unidades prisionais direitos relacionados com integridade física e moral e com tratamento impessoal, digno e respeitoso. 3. Se o estatuto da associação comprova a finalidade de defesa dos direitos humanos, não há óbice legal ao ajuizamento de ação civil pública por associação cujo estatuto preve como finalidade a defesa de direitos humanos, que atuará como substituta processual. 4. A tese firmada pelo STF no RE 573.232/SC não se aplica às ações coletivas ajuizadas por associações para a defesa de direitos individuais homogêneos, na hipótese em que há substituição processual e, notadamente, quando vinculados à proteção dos direitos humanos e ao proceder administrativo do Estado com relação aos visitantes das unidades prisionais, de alta relevância social.

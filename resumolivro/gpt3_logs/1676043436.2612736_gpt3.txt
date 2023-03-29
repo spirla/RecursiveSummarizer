@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No sistema jurdico nacional, a responsabilidade penal da pessoa jurdica  de natureza indireta, por fato praticado pela pessoa fsica que age em seu nome e interesse, aplicando-se os mesmos parmetros dogmticos utilizados para a responsabilizao civil da pessoa jurdica por atos praticados pelas pessoas fsicas que agem em seu nome. Sujeito passivo. Por sujeito passivo deve-se entender o titular do bem jurdico cuja ofensa constitui a essncia do crime. O sujeito passivo pode ser um indivduo, ainda que civilmente incapaz, mas nunca coisas ou um cadver. Tambm pode ser sujeito passivo do crime a pessoa jurdica, sendo o exemplo mais eloquente dessa situao o Estado, no caso de crimes que atinjam diretamente seus interesses especficos: crimes contra a Administrao Pblica ou a Administrao da Justia. A necessria vinculao do sujeito passivo com a titularidade do bem jurdico lesionado faz perceber que uma pessoa no pode ser, ao mesmo tempo, sujeito ativo e passivo de um fato criminoso. No caso da pessoa que lesa o prprio corpo ou a sade ou agrava as consequncias da leso ou da doena com o intuito de haver indenizao ou valor de seguro, ser apenas sujeito ativo do crime de estelionato (artigo 171, V, do CP). O crime  contra o patrimnio e o sujeito passivo ser sempre a entidade seguradora contra a qual se praticou a fraude. Vale observar que o crime nem sempre possui um sujeito passivo determinado. O crime pode ofender, simultaneamente, vrios sujeitos passivos, sendo at mesmo possvel a ofensa a um nmero indeterminado de pessoas. So exemplos de crimes com vrios sujeitos passivos os crimes contra a sade pblica, a f pblica, a incolumidade pblica e os crimes de perigo comum. Est consagrada na doutrina a opinio de que, ao lado do eventual sujeito passivo particular de cada crime, haver um sujeito passivo constante em todos os crimes, qual seja, o Estado. Tal opinio fundamenta-se no fato de que o crime sempre ofende o interesse pblico de que no se realizem condutas socialmente perigosas ou danosas, violando o comando normativo imposto pelo Estado. Contudo, sendo o poder pblico apenas gestor dos direitos e interesses do povo, melhor  identificar a sociedade como sujeito passivo constante em todos os crimes. Pode parecer que a concepo de que a sociedade (o povo)  o sujeito passivo constante de todo e qualquer crime seja mera afirmao terica (suprflua), sem qualquer repercusso prtica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A responsabilidade penal da pessoa jurdica de natureza indireta, aplicando-se os mesmos parmetros dogmticos utilizados para a responsabilizao civil da pessoa jurdica. O sujeito passivo pode ser um indivduo, ainda que civilmente incapaz, mas nunca coisas ou um cadver. O Estado o sujeito passivo constante em todos os crimes, sendo melhor identificar a sociedade como sujeito passivo constante em todos os crimes.

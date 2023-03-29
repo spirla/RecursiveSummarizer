@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Mesmo que a crtica possa ser considerada spera, sarcstica ou irnica, a liberdade de manifestao do pensamento crtico impede a incriminao da conduta. A liberdade de criticar, no entanto, encontra limites na preservao da dignidade da pessoa que est relacionada ao objeto da crtica. No se pode admitir que uma deliberada ofensa  dignidade da pessoa que  autora ou participa da obra literria, artstica ou cientfica seja acobertada pela liberdade de crtica. O inciso II do artigo 142 do CP permite a caracterizao do crime contra a honra, quando inequvoca a inteno de injuriar ou difamar. Conforme o referido dispositivo legal, o excesso ou o abuso do direito de criticar pode caracterizar um crime contra a honra. Contudo, a identificao do excesso ou do abuso que permite tal incriminao  tarefa que desafia a sensibilidade do operador do direito. Em muitos casos  difcil distinguir a critica de mal gosto, que revela antes uma inabilidade de quem a realiza, de uma ofensa  honra. Atento  dificuldade, o legislador estabeleceu que a possibilidade da incriminao depende da inequvoca inteno de injuriar ou difamar. Cabe observar, entretanto, que o critrio subjetivo no  o nico a ser utilizado, pois para a incriminao da conduta no basta apenas a inteno de ofender (tipicidade subjetiva). A inteno de injuriar ou difamar deve materializar-se nos dados objetivos do trabalho crtico (tipicidade objetiva), por meio das expresses e adjetivos utilizados, do raciocnio desenvolvido ou at mesmo dos gestos realizados em uma manifestao crtica visual. Se a inteno de ofender no se materializar em elementos objetivos da manifestao crtica, no ser possvel incriminar a conduta tendo em vista a atipicidade objetiva. Desta forma, ser sempre necessrio interpretar a atividade crtica sob o prisma de seus elementos objetivos. A incriminao somente ser possvel quando os elementos objetivos do trabalho crtico ultrapassem os limites do socialmente adequado para atingir a pessoa que est relacionada com a obra criticada. Ainda que a inteno do crtico (posteriormente revelada) seja no sentido de ofender, a incriminao somente ser possvel se os elementos objetivos constantes da manifestao tornar a crtica, de maneira inequvoca, uma conduta socialmente inadequada. Consideremos o exemplo do crtico que define a obra artstica que examinou como sendo uma reproduo contempornea do trabalho de Salvador Dali.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A liberdade de manifestação do pensamento crítico impede a incriminação da conduta, mas encontra limites na preservação da dignidade da pessoa relacionada ao objeto da crítica. O artigo 142 do Código Penal permite a caracterização do crime contra a honra quando há intenção inequívoca de injuriar ou difamar. Para que a incriminação seja possível, é necessário que os elementos objetivos da manifestação tornem a crítica, de maneira inequívoca, uma conduta socialmente inadequada.

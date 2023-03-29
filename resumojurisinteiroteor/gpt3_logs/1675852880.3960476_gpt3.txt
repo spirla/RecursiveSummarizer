@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Continuidade delitiva. A exasperao da pena ser determinada, basicamente, pelo nmero de infraes penais cometidas, parmetro este que especificar no caso concreto a frao de aumento, dentro do intervalo legal de 1/6 a 2/3. Nessa senda, o STJ possui o entendimento consolidado de que, em se tratando de aumento de pena referente  continuidade delitiva, aplica-se a frao de 1/6 pela prtica de 2 infraes; 1/5, para 3 infraes; 1/4 para 4 infraes; 1/3 para 5 infraes; 1/2 para 6 infraes e 2/3 para 7 ou mais infraes. (O destaque  meu). III.... IV.... (STJ - 5a Turma - AgRg no HC n 651.735/SP, Rel. Min. Jesuno Rissato - Desemb. convocado do TJDFT, julg. em 14/09/2021, pub. em 24/09/2021) No caso em tela, uma vez reconhecida a prtica de 12 incidncias do crime de corrupo passiva com causa de aumento de pena por parte do acusado Rafael, mostra-se necessria a elevao da sano no limite de 2/3, conforme definido pela jurisprudncia. (O destaque  meu). [.] Ainda importa considerar que estes autos foram retirados de pauta na Sesso de julgamento do dia 25/08/2022, para que se desse vista  eminente procuradora de Justia, em razo dos documentos acostados pela douta defesa no Evento 30. Em suas manifestaes a eminente procuradora se posicionou assim: [...] O acusado j teve oportunidade de requerer tudo o que lhe  de direito em sede de apelao, no havendo que se falar em deferimento de seu novo requerimento, ofertado no evento n. 30, eis que j extrapolado o prazo para interposio de apelao, nos termos do artigo 529 do CPPM. [...] Expressando meu respeito ao posicionamento adotado, entendo como necessrio manifestar-me neste momento processual, pelo menos no que se refere ao parecer tcnico acostado no Evento 30, pondo sob suspeio os elementos de prova produzidos nos autos, em especial aqueles extrados dos aparelhos de telefone celular apreendidos com Jonathan Magno Peres no dia de sua priso em 06/03/2020. Para tanto, trago  mesa parte da Deciso de Pronncia prolatada na Vara do Tribunal de Jri da Comarca de Contagem, Minas Gerais, autos n. 0165080-09.2018.8.13.0079 (0079.18.016508-0, na qual a questo suscitada restou adequadamente enfrentada, segundo a minha compreenso, sendo oportuno considerar que o parecer em testilha se refira a prova tambm emprestada desses mesmos autos. Vejam-se: [...] Do cerceamento de defesa pela negativa de acesso aos aparelhos celulares apreendidos, da quebra da cadeia de custdia das fontes de prova, da ilegalidade da extrao de contedo nos aparelhos apreendidos e da contaminao, por derivao, de todas as provas decorrentes da prova ilcita: A defesa, veementemente, soergue nulidades relacionadas  apreenso de smartphones utilizados pelos acusados, nos quais foram encontrados dilogos supostamente referentes ao homicdio de Edvaldo Nunes Lopes, o Juvenas.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O STJ possui o entendimento consolidado de que, para fins de aumento de pena em casos de continuidade delitiva, aplica-se a frao de 1/6 pela prtica de 2 infraes; 1/5, para 3 infraes; 1/4 para 4 infraes; 1/3 para 5 infraes; 1/2 para 6 infraes e 2/3 para 7 ou mais infraes. No caso em tela, com a prtica de 12 incidncias do crime de corrupo passiva, a pena deve ser elevada no limite de 2/3. Considerando os documentos acostados pela douta defesa, foi suscitada a questão de cerceamento de defesa pela negativa de acesso aos aparelhos celulares apreendidos, bem como a ilegalidade da extração de conteúdo nesses aparelhos.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A interposio do recurso a destempo no decorreu da alegada informao equivocada prestada no sistema eletrnico (Projudi) do Tribunal a quo, porquanto, para evitar a pecha de intempestividade que maculou o recurso especial, bastava ter sido tomada a singela providncia de juntar  citada pea processual cpia do Decreto Judicirio n. 488/2020, o que, na hiptese, deixou de ser realizado. 4.  intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c.c. os arts. 1.003,  5., e 1.029, todos do Cdigo de Processo Civil, bem como o art. 798 do Cdigo de Processo Penal. 5. No caso, os Agravantes foram intimados quanto ao acrdo recorrido em 19/10/2020, e o recurso especial foi interposto em 04/11/2020, quando j havia escoado o prazo para a sua interposio. 6. A jurisprudncia desta Corte  firme no sentido de que "[...] em aes que tratam de matria penal ou processual penal, no incidem as novas regras do Cdigo de Processo Civil - CPC, referentes  contagem dos prazos em dias teis (art. 219 da Lei 13.105/2015), ante a existncia de norma especfica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC  aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe 22/2/2017). 7. Nos termos da jurisprudncia desta Corte Superior de Justia, a suspenso de expediente forense deve ser comprovada, por meio de documento idneo, no ato de interposio do recurso, o que no foi levado a efeito na hiptese dos autos. 8. Agravo regimental desprovido. (STJ - AgRg no AREsp n. 1.825.919/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 1/6/2021, DJe de 16/6/2021.)
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso especial interposto fora do prazo de 15 dias corridos foi considerado intempestivo, pois não foi comprovada a suspenção de expediente forense por meio de documento idôneo. Agravo regimental desprovido.

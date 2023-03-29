@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Ainda na primeira situao - condenado preso provisoriamente durante a instruo criminal - a sentena condenatria, com efeito, considerou provada a autoria e a materialidade do delito, demonstrado, portanto, o fumus commissi delicti, ainda assim o recolhimento do sentenciado  priso s em caso de necessidade cautelar, se houver periculum libertatis, isto , se presente uma ou mais hiptese autorizadora de priso preventiva do artigo 255 do CPPM. Se o motivo que autorizou a priso preventiva at a sentena condenatria no persiste (por exemplo , a priso preventiva foi decretada para convenincia da instruo criminal), o rgo de primeiro grau deve colocar o sentenciado em liberdade, porm se houver novo motivo legal que justificou a priso preventiva, ou se surgir a necessidade da continuidade da priso preventiva (por exemplo , a priso preventiva deve ter continuidade para garantir da ordem pblica, para aplicao da lei penal ou para garantir as normas de hierarquia e disciplina militares). Em resumo, recolher o condenado preso antes do trnsito em julgado s  possvel se presente o motivo legal autorizador da priso preventiva (artigo 255, CPPM). H julgados da Suprema Corte no sentido que, se mantidos na deciso condenatria os motivos ensejadores da segregao cautelar, no h falar em constrangimento ilegal. Na segunda situao - condenado solto durante o processo - para o STF o:
+fato de o paciente permanecer livre durante o trmite da ao penal no gera o direito adquirido de aguardar o julgamento do recurso de apelao em liberdade. A priso cautelar pode ser decretada em qualquer fase da investigao policial ou do processo penal, ou seja, ainda que na fase instrutria no tenha sido necessria, ao prolatar a sentena condenatria, sendo lcito ao magistrado determinar a segregao cautelar, se presentes, de forma superveniente, os requisitos autorizadores. Se o acusado permaneceu solto durante o curso do processo a supervenincia de deciso condenatria recorrvel, por si s, no  motivo para a priso preventiva.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prisão preventiva só é possível se houver um motivo legal autorizador (artigo 255 do CPPM). Se o motivo que autorizou a prisão preventiva não persistir, o sentenciado deve ser colocado em liberdade. No entanto, se houver novo motivo legal que justifique a prisão preventiva ou se surgir a necessidade de continuidade da prisão preventiva, ela pode ser decretada em qualquer fase da investigação ou do processo penal. Se o acusado permaneceu solto durante o curso do processo, a superveniência de decisão condenatória recorrível, por si só, não é motivo para a prisão preventiva.

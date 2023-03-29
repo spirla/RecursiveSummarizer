@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+5,  14, do mesmo diploma legal, As despesas com a convocacao e com a manutencao dos reservistas a que se refere o inciso II do  1 serao custeadas com dotacoes orcamentarias do Ministerio da Justica e Seguranca Publica , o que tambem evidencia a inexistencia de vinculo entre os ex-militares reservistas e as Forcas Armadas. 174 Da mesma forma, o disposto no art. 6,  1, da Lei n. 11.473/2007 - no sentido de que a diaria recebida durante a permanencia da FNSP nao sera computada para efeito de adicional de ferias e do 13 (decimo terceiro) salario, nem integrara os salarios, remuneracoes, subsidios, proventos ou pensoes, inclusive alimenticias - tambem nao autoriza entendimento diverso, na medida em que especificamente direcionado aos servidores civis e militares dos Estados e do Distrito Federal ainda em atividade, a que se refere o art. 5, caput, do mesmo diploma legal. Por fim, nao ha nos referidos dispositivos legais comando normativo capaz de sustentar a tese segundo a qual o periodo em que o militar esteve mobilizado junto a FNSP corresponderia ao retorno ao servico ativo das Forcas Armadas. (Informativo  Ed. Especial n. 5) Lei n. 11.473/2007, arts. 5, caput e  3; 6, 1; e 13; e Lei n. 6.880/1980, art. 50, IV, d. Processo RMS 43.529-MS, Rel. Min. Regina Helena Costa, Primeira Turma, por unanimidade, julgado em 14/06/2022, DJe 22/06/2022. Ramo do Direito DIREITO ADMINISTRATIVO Tema Servidor publico estadual.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. As despesas com a convocação e manutenção dos reservistas serão custeadas com dotacões orçamentárias do Ministério da Justiça e Segurança Pública. 2. A diária recebida durante a permanência da FNSP não será computada para efeito de adicional de férias e do 13º salário, nem integrará os salários, remunerações, subsídios, proventos ou pensões, inclusive alimentícias. 3. Não há nos dispositivos legais comando normativo capaz de sustentar a tese segundo a qual o período em que o militar esteve mobilizado junto à FNSP corresponderia ao retorno ao serviço ativo das Forças Armadas.

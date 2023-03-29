@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Enfrentando a questo em relao  vinculao que o CP estabelece para definir o valor da pena de multa, o Supremo Tribunal Federal entendeu que o pargrafo 1 do artigo 49 do Cdigo Penal foi recepcionado pela Carta de 1988, podendo o juiz determinar o valor do dia-multa com base no salrio mnimo. A deciso considerou que:
+a vedao da vinculao do salrio mnimo contida na parte final do artigo 7, IV, da Constituio no tem sentido absoluto, mas deve ser entendida como vinculao de natureza econmica, para impedir que, com essa vinculao, impossibilite-se ou dificulte-se o cumprimento da norma na fixao do salrio mnimo compatvel com as necessidades aludidas nesse. (RE 201.297). Se a corte suprema entende que o valor da multa pode ser vinculado ao salrio mnimo, tambm ser possvel vincular o valor da prestao pecuniria. Parcelamento. O Cdigo Penal nada dispe sobre a possibilidade da prestao pecuniria ter seu pagamento parcelado para atender s dificuldades econmicas do condenado. No entanto,  recomendvel que, no caso de impossibilidade de pagamento integral, seja a prestao pecuniria parcelada. Tal medida atende aos interesses da vtima, do condenado e da sociedade. Em analogia ao disposto no artigo 50, que trata do parcelamento da pena de multa, pode o juiz estabelecer que mensalmente seja pago  vtima determinado valor, at que o montante da prestao pecuniria seja quitado pelo condenado. A extino da punibilidade, entretanto, somente poder ocorrer com o pagamento integral do valor estabelecido pelo juiz para a prestao. Converso. A converso da pena de prestao pecuniria em privativa de liberdade  possvel, nos termos do artigo 44, pargrafo 4, do CP. Se o legislador tivesse concebido para o Cdigo Penal uma multa reparatria,37 ao invs da prestao pecuniria, seu descumprimento no poderia acarretar converso em privao da liberdade, em face da nova redao do artigo 51. O legislador no foi nada feliz ao impedir a converso da multa e, ao mesmo tempo, possibilitar a converso da prestao pecuniria. Ambas as hipteses importam diminuio patrimonial do condenado e, por isso, possuem a mesma natureza. Visando a estabelecer coerncia para o sistema repressivo, Bitencourt sustenta que a proibio da converso da multa em privao da liberdade deve estender-se  hiptese de descumprimento da pena de prestao pecuniria. No entanto, parece que o legislador no buscou a coerncia, mas optou por conferir tratamento desigual para as hipteses de prestao pecuniria e multa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF entendeu que o pargrafo 1 do artigo 49 do CP foi recepcionado pela Carta de 1988, permitindo ao juiz determinar o valor da multa com base no salário mínimo. É recomendável que, em caso de impossibilidade de pagamento total, seja parcelado. A converso da pena de prestação pecuniária em privação de liberdade é possível, mas não é permitida para a multa.

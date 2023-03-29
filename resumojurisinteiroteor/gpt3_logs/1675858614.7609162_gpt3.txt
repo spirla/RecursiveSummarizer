@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A conduta do adolescente, porm, no justifica a violncia cometida pelos militares, que deviam zelar pelo bom cumprimento de seu ofcio sem qualquer tipo de arbitrariedade, em vez de aplicarem castigo pessoal ao menor por tal fato. Logo, a conduta dos denunciados enquadrou-se no art. 1, II, na forma do 4, I e II, Lei 9.455/97, c/c art. 29, caput, CP. [...] (Evento 6 - DENUNCIA3 - Processo Originrio) A denncia foi recebida no dia 17 de maio de 2012 (Evento 6 - RECE DENUN4 - Processo Originrio). Foi declarada a extino da punibilidade do ru David Martins Rodrigues, em virtude do seu falecimento (Evento 6 - PEAS DIGITALIZADAS10 - p.1 - Processo Originrio), nos termos do art. 397, inciso IV, do Cdigo de Processo Penal (CPP) c/c o art. 107, inciso I, do CP (Evento 6 - PEAS DIGITALIZADAS12 - p. 9 - Processo Originrio). Foram ouvidas 6 (seis) testemunhas arroladas pela defesa, por meio de cartas precatrias (Evento 6 - PEAS DIGITALIZADAS11 - p. 101 - vdeo no Evento 7; PEAS DIGITALIZADAS12 - p. 5 - vdeo no Evento 8; PEAS DIGITALIZADAS12 - p. 47 - vdeos no Evento 9; e PEAS DIGItAlIZADAS12 - p. 59 - vdeo no Evento 10 - Processo Originrio). Diante do advento da Lei n.13.491/2017, o juzo da Comarca de Santa Luzia/MG, acolhendo a manifestao ministerial, declinou da competncia para julgar o presente feito e determinou a sua remessa a esta Justia Militar, em 15 de dezembro de 2020 (Evento 6 - PEAS DIGITALIZADAS12 - p. 75/81 - Processo Originrio). O feito foi distribudo  3a Auditoria Judiciria Militar Estadual (AJME) e, em sequncia, foi determinada a migrao do processo fsico para o meio eletrnico (Evento 6 - PEAS DIGITALIZADAS12- p. 86; Certido - Evento 11 - Processo Originrio). O Ministrio Pblico requereu a designao de audincia para a oitiva das testemunhas arroladas pela acusao, bem como apresentou desistncia da oitiva das testemunhas Dbora Kelly Aguiar da Silva e Janana Roberta dos Santos Costa, tendo em vista o falecimento da primeira e a no localizao do endereo da segunda (Evento 20 - Processo Originrio). Em audincia presencial remota, realizada em 25 de junho de 2021, foram ouvidas uma informante e uma testemunha arroladas pela acusao. Na oportunidade, foi designada nova audincia para o dia 6 de agosto de 2021 e dada vista dos autos  defesa, para complementao do rol de testemunhas, na fase do art. 417, 2, do Cdigo de Processo Penal Militar (CPPM), a fim de se evitar inverso tumulturia na ordem do feito (Evento 56 - Processo Originrio). Em audincia presencial remota, realizada em 6 de agosto de 2021, foram ouvidos o ofendido e 3 (trs) testemunhas arroladas pela defesa, bem como foi realizado o interrogatrio dos rus (Evento 97 - Processo Originrio). Na fase do art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A conduta dos denunciados enquadrou-se no art. 1, II, na forma do 4, I e II, Lei 9.455/97, c/c art. 29, caput, CP. O feito foi distribuído à 3a Auditoria Judiciria Militar Estadual (AJME) e, em seguida, foi determinada a migração do processo físico para o meio eletrônico. Foram ouvidas 6 (seis) testemunhas arroladas pela defesa, por meio de cartas precatórias, e ouvidas uma informante e uma testemunha arroladas pela acusação. Em audiências presenciais remotas, foram ouvidos o ofendido e 3 (três) testemunhas arroladas pela defesa, bem como foi realizado o interrogatório dos réus.

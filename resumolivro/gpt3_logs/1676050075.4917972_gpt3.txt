@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A exposio de motivos da Lei 7.209/84, nos itens 90 e 91, esclarece que:
+O Projeto consagra significativa inovao ao prever a medida de segurana restritiva, consistente na sujeio do agente a tratamento ambulatorial, cumprindo-lhe comparecer ao hospital nos dias que lhe forem determinados pelo mdico, a fim de ser submetido  modalidade teraputica prescrita. Corresponde a inovao s atuais tendncias de desinstitucionalizao, sem o exagero de eliminar a internao. Pelo contrrio, o Projeto estabelece limitaes estritas para a hiptese de tratamento ambulatorial, apenas admitido quando o ato praticado for previsto como crime punvel com deteno. No entanto, a regra da internao hospitalar e o entendimento de que a submisso a tratamento ambulatorial  mera faculdade judicial no se coadunam com as premissas do Estado Democrtico de Direito. J ao tempo dos reclames iluministas, Beccaria sustentou que, para no ser um ato de violncia contra o cidado, a pena deve ser necessria e a menor das penas aplicveis nas circunstncias referidas. No caso das medidas de segurana, o mesmo raciocnio aplica-se. No ser admissvel a internao hospitalar quando bastar o tratamento ambulatorial. A medida de segurana no  instrumento de vingana, mas de recuperao do indivduo (artigo 99 do CP). Principalmente aps a Constituio da Repplica de 1988, que traz expresso o princpio da dignidade da pessoa humana como fundamental para a nossa sociedade, a interpretao dos dispositivos infraconstitucionais deve ser outra: o tratamento ambulatorial, quando suficiente, prevalece sobre a internao hospitalar. Se o crime praticado for punvel com pena de recluso, a internao hospitalar dever manter-se apenas enquanto constatada sua necessidade. No havendo necessidade, a internao afronta o princpio da dignidade da pessoa humana e, por isso, deve ser considerada inconstitucional. Nesse sentido, o artigo 4 da Lei 10.216/2001 promoveu a inverso da regra instituda pelo Cdigo Penal, revogando o disposto em seu artigo 97: a regra  o tratamento ambulatorial, devendo a internao hospitalar ser reservada apenas aos casos de comprovada necessidade, quando os recursos extra-hospitalares forem insuficientes. A prtica de contraveno penal autoriza a aplicao de medida de segurana, pela observncia das regras do Cdigo Penal. No entanto, a prtica de contraveno a que for cominada isoladamente pena de multa no autoriza a aplicao de medida de segurana detentiva.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 7.209/84 prevê a medida de segurança restritiva, consistente no tratamento ambulatorial para crimes puníveis com detenção. O Estado Democrático de Direito exige que a internação hospitalar só seja adotada quando necessária. A Lei 10.216/2001 inverteu a regra do Código Penal, estabelecendo que a internação deve ser reservada para casos em que os recursos extra-hospitalares são insuficientes. A prática de contravenção penal autoriza a aplicação de medida de segurança, mas não a detenção.

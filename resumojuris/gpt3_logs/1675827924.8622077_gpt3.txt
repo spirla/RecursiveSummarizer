@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Seguindo essa diretriz, o licenciamento ou a cessao do direito de uso de programas de computador, tanto para os softwares padronizados quanto para aqueles produzidos por encomenda e independentemente do meio utilizado para a transferencia, seja por meio de download ou por acesso em nuvem, enquadra-se no subitem 1.05 da lista de servicos anexa a LC 116/2003, sem prejuizo de que no caso do modelo software as a service outras utilidades disponibilizadas ao usuarios possam ser desmembradas do licenciamento e submetidas a tributacao nos subitens 1.03 e 1.07. Esses dispositivos ja teriam o condao de extirpar eventuais duvidas que poderiam existir acerca da incidencia do ISS nas transacoes com programas de computador, mas, a par disso, deve-se considerar a existencia de servico como esforco humano. A Lei 9.609/1998, que dispoe sobre a protecao da propriedade intelectual de programas de computador e sobre sua comercializacao no Pais, trata, tambem, da protecao aos direitos e do registro, pois o software e produto do engenho humano, e criacao intelectual, sendo essa a sua caracteristica fundamental. Para a construcao de um programa de computador, faz-se imprescindivel a existencia do fazer humano direcionado, nao havendo como desconsiderar esse elemento, ainda que se esteja diante de software que seja replicado para comercializacao para diversos usuarios. Com efeito, mesmo considerando-se que na operacao com software padronizado existe a transferencia de um bem digital que esta consubstanciado usualmente num arquivo digital ou num conjunto de arquivos, havera de incidir, na operacao, o ISS.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O licenciamento ou cessão do direito de uso de programas de computador se enquadra no subitem 1.05 da lista de serviços anexa à LC 116/2003. 2. Nas transações com programas de computador incide o ISS. 3. A Lei 9.609/1998 dispõe sobre a proteção da propriedade intelectual de programas de computador e sobre sua comercialização no País. 4. O software é produto do engenho humano e criação intelectual, sendo essa a sua característica fundamental. 5. Para a construção de um programa de computador é imprescindível a existência do fazer humano direcionado.

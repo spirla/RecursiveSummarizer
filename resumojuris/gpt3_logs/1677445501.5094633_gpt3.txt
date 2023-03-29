@@ -1,0 +1,13 @@
+PROMPT:
+
+# Encontre as teses jurdicas no texto abaixo e organize-as em tpicos completos.
+
+1081
+
+TESES JURDICAS: 1.
+
+==========
+
+RESPONSE:
+
+O direito à saúde é um direito fundamental garantido pela Constituição Federal. 2. O Estado tem o dever de assegurar o acesso à saúde de todos os cidadãos. 3. O Estado deve garantir a qualidade dos serviços de saúde prestados. 4. É necessário que o Estado disponibilize recursos financeiros para a saúde.

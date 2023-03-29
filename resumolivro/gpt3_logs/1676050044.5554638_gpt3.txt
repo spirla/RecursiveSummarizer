@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Seus dispositivos so aplicveis aos casos de internao voluntria ou involuntria, bem como aos casos de internao compulsria, entendendo-se como tais as internaes determinadas pela Justia como medida de segurana (artigo 6, III). Em muitos de seus aspectos, a referida lei trouxe dispositivos que devem ser observados quando da aplicao de medida de segurana. Dentre eles, conforme os termos do artigo 2, pargrafo nico, da referida lei, merece destaque o reconhecimento dos seguintes direitos da pessoa portadora de transtorno mental: I - ter acesso ao melhor tratamento do sistema de sade, consentneo s suas necessidades; II - ser tratada com humanidade e respeito e no interesse exclusivo de beneficiar sua sade, visando alcanar sua recuperao pela insero na famlia, no trabalho e na comunidade; III - ser protegida contra qualquer forma de abuso e explorao; IV - ter garantia de sigilo das informaes prestadas; V - ter direito  presena mdica, em qualquer tempo, para esclarecer a necessidade ou no de sua hospitalizao involuntria; VI - ter livre acesso aos meios de comunicao disponveis; VII - receber o maior nmero de informaes a respeito de sua doena e de seu tratamento; VIII - ser tratada em ambiente teraputico pelos meios menos invasivos possveis; IX - ser tratada, preferencialmente, em servios comunitrios de sade mental. Segundo a nova poltica pblica de atendimento ao portador de sofrimento mental, a internao, at mesmo em sua modalidade compulsria, s ser indicada quando os recursos extra-hospitalares se mostrarem insuficientes (artigo 4). O tratamento visar, como finalidade permanente, a reinsero social do paciente em seu meio (pargrafo 1), e a internao psiquitrica somente ser realizada mediante laudo mdico circunstanciado que caracterize os seus motivos (artigo 6). Desse modo, no  mais possvel admitir a presuno normativa de que a prtica do injusto indique a necessidade da imposio de medida de segurana. No sendo o comportamento reprovvel (culpvel), a necessidade da imposio da medida de segurana deve ser avaliada pelo juiz segundo as peculiaridades do caso concreto.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei nº 10.216/2001 reconhece direitos às pessoas portadoras de transtorno mental, como o acesso ao melhor tratamento do sistema de saúde, tratamento com humanidade e respeito, proteção contra abusos e exploração, sigilo de informações, presença médica, livre acesso a meios de comunicação, informações sobre doença e tratamento, tratamento em ambiente terapêutico e preferencialmente em serviços comunitários. A internação somente será indicada quando os recursos extra-hospitalares se mostrarem insuficientes e a finalidade é a reintegração social do paciente.

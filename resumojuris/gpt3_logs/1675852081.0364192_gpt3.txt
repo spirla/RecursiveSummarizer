@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1, I, e 3. 25 QUARTA TURMA Voltar ao Sumario. Processo AgInt no AREsp 2.036.247-RS, Rel. Ministro Joao Otavio de Noronha, Quarta Turma, por unanimidade, julgado em 14/11/2022, DJe 17/11/2022. Ramo do Direito DIREITO AMBIENTAL, DIREITO PROCESSUAL CIVIL Tema Acao civil publica. Danos ambientais. Citacao valida. Acao de indenizacao individual. Identidade de causa de pedir. Interrupcao da prescricao. DESTAQUE A citacao valida em acao coletiva por danos ambientais interrompe o prazo prescricional da acao indenizatoria individual se coincidente a causa de pedir das demandas. O tema discutido refere-se a interrupcao do prazo trienal para ajuizamento da acao de indenizacao individual com fundamento em danos ambientais, quando objeto de acao coletiva de responsabilidade civil proposta pelo Ministerio Publico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A citacao válida em ação coletiva por danos ambientais interrompe o prazo prescricional da ação indenizatória individual se coincidente à causa de pedir das demandas. 2. O tema discutido refere-se à interrupção do prazo trienal para ajuizamento da ação de indenização individual com fundamento em danos ambientais, quando objeto de ação coletiva de responsabilidade civil proposta pelo Ministério Público.

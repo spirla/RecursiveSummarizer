@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+(Informativo n. 749) PROCESSO AgInt no REsp 1.873.134-MG, Rel. Min. Regina Helena Costa, Primeira Turma, por unanimidade, julgado em 15/08/2022, DJe 18/08/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL TEMA PROUNI. Anulacao de indeferimento de bolsa. Uniao. Legitimidade passiva. Possibilidade. DESTAQUE 167 A Uniao e parte legitima para figurar no polo passivo de acao em que se discute o indeferimento de bolsa do PROUNI. Cinge-se a controversia em determinar se a UNIAO e parte legitima para figurar no polo passivo de acao em que se postula pela anulacao de indeferimento de bolsa do PROUNI ou, de forma subsidiaria, a concessao de novo prazo para a apresentacao de documentos cuja falta justificou o indeferimento. O PROUNI (Programa Universidade Para Todos), instituido pela Lei n. 11.096/2005 tem como objetivo facilitar o ingresso nas instituicoes de ensino superior privada aqueles que nao teriam condicoes de arcar com os custos. A gestao ficou a cargo do Ministerio da Educacao embora as rotinas administrativas sejam atribuidas as empresas privadas que manifestarem concordancia ao termo de adesao, conforme dispoe os arts.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Uniao é parte legítima para figurar no polo passivo de ação em que se discute o indeferimento de bolsa do PROUNI. 2. A controvérsia cinge-se em determinar se a Uniao é parte legítima para figurar no polo passivo de ação em que se postula pela anulação de indeferimento de bolsa do PROUNI ou, de forma subsidiária, a concessão de novo prazo para a apresentação de documentos cuja falta justificou o indeferimento.

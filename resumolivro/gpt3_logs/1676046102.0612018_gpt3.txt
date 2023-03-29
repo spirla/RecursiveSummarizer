@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Com a reforma penal de 1984, porm, os penalistas ptrios perceberam que o Direito no se reduz  lei formal e passou-se a admitir a possibilidade da excluso e da reduo do juzo de censura da culpabilidade diante do erro sobre a ilicitude do fato. No contexto da nova parte geral do Cdigo Penal brasileiro, o artigo 21 esclarece que o sujeito no pode sustentar, simplesmente, que ignorava a existncia da lei para inviabilizar o juzo de reprovao da culpabilidade. A censura penal somente no acontecer quando o sujeito estiver em erro de proibio inevitvel (escusvel). Quando o erro for evitvel, o artigo 21 estabelece causa de diminuio de pena e, na hiptese do desconhecimento da lei, o artigo 65, II, admite que a circunstncia seja atenuante, o que tambm implica culpabilidade diminuda daquele que realiza a conduta. O sistema repressivo nacional deixa evidente que a ignorantia legis no se confunde com o erro sobre a ilicitude do fato. Mas  sempre possvel que o erro sobre a ilicitude do fato decorra do desconhecimento da lei. A tese da irrelevncia jurdico-penal do desconhecimento da lei encontrou seu fundamento no dever que recai sobre todos os indivduos de informarem-se sobre a regulamentao existente para as atividades que pretendam desenvolver em sociedade, bem como na presuno absoluta do conhecimento da lei. Nossa complexa realidade normativa, contudo, fez ressaltar a existncia de sria dificuldade para o conhecimento e compreenso de todas as leis jurdico-penais em vigor, e esse fato  capaz de fazer que o indivduo efetivamente desconhea a existncia de determinada norma proibitiva ou a compreenda mal. A volumosa produo legislativa, bem como o acentuado rigor tcnico das normatizaes, estabelece inmeros problemas de interpretao e aplicao, cujas dificuldades desafiam at os mais experimentados especialistas. Esses fatores fazem que a presuno absoluta de conhecimento da lei, especificamente relacionada com o conhecimento da ilicitude do fato, revele-se verdadeira presuno de culpa, o que  unanimemente repudiado pela doutrina penal. Ao explicitar que o desconhecimento da lei  inescusvel, o estatuto repressivo no imps o conhecimento como nica alternativa vivel ao indivduo nem que ele deva sempre perceber com nitidez todas as mincias do ordenamento jurdico. Certamente, se a lei fosse conhecida e perfeitamente compreendida por todos, no haveria a possibilidade da ocorrncia do erro de proibio.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A reforma penal de 1984 permitiu a exclusão e redução do juízo de censura da culpabilidade em caso de erro sobre a ilicitude do fato. O artigo 21 esclarece que o sujeito não pode ignorar a lei para inviabilizar o juízo de reprovao da culpabilidade, mas admite que o desconhecimento da lei seja atenuante. A presunção absoluta do conhecimento da lei foi repudiada pela doutrina penal, pois impõe o conhecimento como única alternativa vivel.

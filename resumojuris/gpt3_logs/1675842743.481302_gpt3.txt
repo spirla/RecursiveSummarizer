@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+4 da Lei n. 12.850/2013 estipula que o juiz nao participara das negociacoes realizadas entre as partes para a formalizacao do acordo de colaboracao, que ocorrera entre o delegado de policia, o investigado e o defensor, com a manifestacao do Ministerio Publico, ou, conforme o caso, entre o Ministerio Publico e o investigado ou acusado e seu defensor . Pela jurisprudencia desta Corte Superior e pela legislacao pertinente, a vitima nao pode ser colaboradora, porque lhe faltaria interesse - haja vista que e a interessada na tutela punitiva. De ver-se que, de acordo com a doutrina, a colaboracao premiada e um acordo realizado entre o acusador e a defesa, visando ao esvaziamento da resistencia do reu e a sua conformidade com a acusacao, com o objetivo de facilitar a persecucao penal em troca de beneficios ao colaborador, reduzindo as consequencias sancionatorias a sua conduta delitiva . Ressalte-se ainda que o Supremo Tribunal Federal, por seu Plenario, em voto da relatoria do Ministro Dias Toffoli, nos autos do HC 127.483/PR, assentou o entendimento de que a colaboracao premiada, para alem de tecnica especial de investigacao, e negocio juridico processual personalissimo, pois, por meio dele, se pretende a cooperacao do imputado para a investigacao e para o processo penal, o qual podera redundar em beneficios de natureza penal premial, sendo necessario que a ele se aquiesca, voluntariamente, que esteja no pleno gozo de sua capacidade civil, e consciente dos efeitos decorrentes de sua realizacao (APn 843/DF, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 06/12/2017, DJe 01/02/2018). (Informativo n. 754) 759 PROCESSO HC 569.856-SC, Rel. Min. Sebastiao Reis Junior, Sexta Turma, por unanimidade, julgado em 11/10/2022, DJe 14/10/2022. RAMO DO DIREITO DIREITO PENAL TEMA Sonegacao fiscal. Art. 2, II, da Lei n. 8.137/1990. Dolo generico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O juiz não participará das negociações realizadas entre as partes para a formalização do acordo de colaboração, que ocorrerá entre o delegado de polícia, o investigado e o defensor, com a manifestação do Ministério Público. 2. A vítima não pode ser colaboradora, pois lhe faltaria interesse. 3. A colaboração premiada é um acordo realizado entre o acusador e a defesa, visando ao esvaziamento da resistência do réu e a sua conformidade com a acusação, com o objetivo de facilitar a persecução penal em troca de benefícios ao colaborador. 4. O Supremo Tribunal Federal, por seu Plenário, assentou o entendimento de que a colaboração premiada é um negócio jurídico processual personalíssimo, pois, por meio dele, se pretende a cooperação do imputado para a investigação e para o processo penal, o qual poderá redundar em benefícios de natureza penal premial.

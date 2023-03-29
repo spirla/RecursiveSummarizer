@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Vacinacao sem a realizacao de agendamento. Condutas atipicas. 724 DESTAQUE Sao atipicas as condutas de submeter-se a vacinacao contra covid-19 em local diverso do agendado e/ou com aplicacao de imunizante diverso do reservado e/ou de submeter-se a vacinacao sem a realizacao de agendamento. No caso, o Tribunal de origem considerou que as condutas de submeter-se a vacinacao contra covid-19 em local diverso do agendado, com aplicacao de imunizante diverso do reservado e sem a realizacao de agendamento subsumir-se-iam, em tese, aos tipos penais previstos nos arts. 312 e 317,  2, do CP. Essas condutas nao se amoldam aos tipos em questao, em especial porque ausentes os elementos objetivos (verbos nucleares) contidos no art. 312 do CP. Nao houve apropriacao, tampouco desvio de doses de vacina contra a covid-19, ja que destinadas a populacao em geral, grupo em que se enquadram os pacientes, uma vez que tinham o direito de ser vacinados (embora em local ou momento diverso). A saude e um direito de todos, direito social que e assegurado pelo art. 6 da Carta Constitucional. De igual forma, e atipica a conduta de corrupcao passiva na forma do  2 (modalidade privilegiada) do art. 317 do CP, porquanto, na modalidade privilegiada do tipo em questao, criminaliza-se, de maneira mais branda, a conduta do agente que pratica ato de oficio, com violacao de dever funcional a pedido de alguem que exerce algum tipo de influencia sobre sua atuacao, sem solicitacao ou recebimento de vantagem ilicita.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É atípica a conduta de se submeter a vacinação contra a Covid-19 em local diverso do agendado, com aplicação de imunizante diverso do reservado e sem a realização de agendamento. 2. Não houve apropriação ou desvio de doses de vacina contra a Covid-19, pois estavam destinadas à população em geral, grupo ao qual os pacientes se enquadravam. 3. A saúde é um direito de todos, assegurado pelo art. 6 da Carta Constitucional. 4. É atípica a conduta de corrupção passiva na forma do 2 (modalidade privilegiada) do art. 317 do CP, pois criminaliza-se de maneira mais branda a conduta do agente que pratica ato de ofício, com violação de dever funcional a pedido de alguém que exerce algum tipo de influência sobre sua atuação, sem solicitação ou recebimento de vantagem ilícita.

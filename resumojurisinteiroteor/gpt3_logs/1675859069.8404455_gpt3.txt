@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Alega que o laudo pericial foi produzido no dia 26/12/2016, tendo os fatos ocorrido no dia 12/03/2016, ou seja, aps um grande lapso temporal. Declara que o exame complementar foi produzido 9 (nove) meses aps os fatos, em total desconformidade com o 2 do art. 331 do CPPM, que prev que ele seja elaborado automaticamente 30 (trinta) dias aps o fato delituoso. Afirma que o exame de corpo delito era indispensvel para a comprovao da materialidade do crime, consoante prev os artigos 315 e 328, ambos do CPPM; que no foi oportunizado ao apelante a apresentao de quesitos, o que viola o art. 316 do CPPM; que no foi aberta vista s partes para a apresentao de pedidos suplementares, contaminando o elemento informativo pericial irreversivelmente e violando o art. 325, pargrafo nico, do mesmo Cdigo. Dessa forma, declara que a prova pericial  imprestvel, pois no foi realizada em consonncia com os ditames do CPPM, tornando-se inadmissvel tal, como cultua o art. 295 do CPPM. Ademais, alega que o juzo a quo desprezou os excelentes antecedentes do apelante, a sua personalidade imaculada, a inexistncia de dolo ou culpa, os motivos determinantes da ao policial e o pronto socorro s vtimas. Segundo a defesa, essas circunstncias deveriam ter sido utilizadas para minorar as repercusses penais. Com esses argumentos requer que seja reformada a sentena de piso, especialmente para absolver o apelante nos termos do art. 439, alneas c ou e, do CPPM. Alternativamente, requer que sejam consideradas as excludentes previstas no art. 42, incisos I, II e III, do CPM. Por fim, pugna pela atenuao da pena-base, nos termos dos artigos 46 e 72, incisos II e III, alneas "a, "b e "c, do CPM, bem como pela substituio da pena privativa de liberdade por restritiva de direitos (Evento 48). A defesa do Cb PM Gensio Machado Alves apresentou suas contrarrazes de apelao. Inicialmente, reitera os argumentos apresentados no recurso de apelao. Ademais, alega que as vtimas no confirmaram em juzo suas verses, ou seja, elas no admitiram terem sido agredidas pelo apelado no interior da casa da av de Thaylon. Segundo a defesa, os argumentos apresentados pelo Ministrio Pblico pretendem burlar os ditames do art. 297 do CPPM e estimular que a Cmara julgadora adote a verso inquisitiva.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A defesa do apelante alega que o laudo pericial foi produzido após um grande lapso temporal, violando o art. 331 do CPPM, e que o exame de corpo delito foi indispensável para a comprovacão da materialidade do crime, mas não foi oportunizado ao apelante a apresentação de quesitos, violando o art. 316 do CPPM. A defesa ainda afirma que as circunstâncias do caso deveriam ter sido utilizadas para minorar as repercussões penais. Requer, então, a absolvição do apelante nos termos do art. 439 do CPPM, ou a consideração das excludentes previstas no art. 42 do CPM, além da atenuação da pena-base.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A exceo de litispendncia tem como efeito impedir a duplicao de aes, isto , enquanto houver lide pendendo de julgamento no poder ser instaurado outro processo contra mesma pessoa pelo mesmo fato. A exceo de litispendncia consiste em defesa indireta para o fim de ser declarada a segunda ao penal. Trata-se de uma exceo de natureza peremptria, que se acolhida extingue o processo. De acordo com o artigo 148 do CPPM:
+Cada feito somente pode ser objeto de um processo. Se o auditor ou o Conselho de Justia reconhecer que o litgio proposto a seu julgamento j pende de deciso em outro processo, na mesma Auditoria, mandar juntar os novos autos aos anteriores. Se o primeiro processo correr em outra Auditoria, para ela sero remetidos os novos autos, tendo-se, porm, em vista, a especializao da Auditoria e a categoria do Conselho de Justia. Da regra acima se extrai haver litispendncia se depois de instaurada ao penal militar verificar-se existir outro processo, ainda pendente de deciso e que, em ambos, so idnticos os pedidos, as partes e a causa de pedir. O pedido na ao penal de natureza condenatria  a condenao, as mesmas partes so o Ministrio Pblico e o ru e a causa de pedir (causa petendi)  o fato criminoso, no a classificao do crime. Para que haja identidade de aes basta que ambas imputem o mesmo fato ao mesmo acusado. Se pelo mesmo fato o mesmo ru responde por processo na Justia Militar e na Justia Comum h litispendncia, pois, o ru no pode, neste caso, responder aos dois processos simultaneamente. Os mesmos fatos delituosos so a mesma imputao, no h litispendncia quando, apesar do mesmo fato, as imputaes forem distintas, uma delas feita com base no CPM e a outra com esteio na legislao penal comum.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A exceção de litispendência impede a duplicação de ações, ou seja, impede que sejam instaurados dois processos contra a mesma pessoa pelo mesmo fato. Se houver um processo pendente de julgamento, não poderá haver outro. Se o mesmo fato for imputado ao mesmo acusado em processos na Justiça Militar e na Justiça Comum, haverá litispendência, pois o acusado não pode responder aos dois processos simultaneamente. No entanto, se as imputações forem distintas, uma com base no CPM e outra na legislação penal comum, não haverá litispendência.

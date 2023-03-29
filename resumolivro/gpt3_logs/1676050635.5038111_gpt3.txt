@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A Lei de Execuo Penal, Lei 7.210/84 somente trata da anistia e do indulto, justificando em sua exposio de motivos que o instituto da graa foi absorvido pelo indulto, que pode ser individual ou coletivo. Na verdade, existe diferena de essncia entre a graa e o indulto. A graa  perdo individual concedido por provocao do interessado. O indulto  perdo coletivo, concedido espontaneamente em ocasies especiais, como o natal. A graa e o indulto so atos privativos do Presidente da Repblica, conforme os termos do artigo 84, inciso XII, da Constituio Federal. 21.3.1. Anistia. A anistia  instituto pelo qual o Poder Pblico deixa de punir certos crimes, em geral polticos.  manifestao do Congresso Nacional (artigos 21, XVII, e 48, VIII, da CR/88), que se opera por meio de lei, que pode ocorrer antes, durante ou aps o processo penal condenatrio. Diz-se que a anistia  prpria quando concedida antes de a deciso condenatria transitar em julgado, e imprpria, se concedida aps o trnsito em julgado da condenao. A anistia tem por objetivo promover a pacificao dos nimos que foram agitados por acontecimentos socialmente traumticos e que, alimentando paixes coletivas, perturbam a ordem. Normalmente, a anistia aplica-se aos crimes polticos e os que lhes so conexos. Contudo, baseado no mesmo objetivo apaziguador,  possvel que a anistia tambm produza efeitos sobre outros crimes (militares, eleitorais, de imprensa e contra o patrimnio ou a organizao do trabalho, por exemplo). Em nossa histria recente, o instituto da anistia apresentou especial importncia para a redemocratizao do pas aps o fim do regime militar. O rigor do governo militar brasileiro produziu a sada do pas de mais de 9. exilados polticos, o que constituiu o maior contingente de exilados que a histria do Brasil conheceu. No incio da dcada de 70, a populao brasileira comeou a lutar por uma anistia, ampla, geral e irrestrita que pudesse trazer de volta todos os brasileiros exilados. O clamor pblico se intensificou em diversas manifestaes populares durante o governo do General Ernesto Geisel, mas foi apenas no governo do General Joo Baptista Figueiredo que foi editada a Lei 6.683, de 28 de agosto de 1979 - lei de anistia. No entanto, a referida lei no foi ampla como se pretendia, pois no alcanou os que pegaram em armas para combater o regime (artigo 1, pargrafo 2).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei de Execuo Penal trata da anistia e do indulto, que so atos privativos do Presidente da República. A anistia um meio de pacificação dos nimos agitados por acontecimentos traumáticos, normalmente aplicada a crimes políticos e conexos. No Brasil, o instituto da anistia foi importante para a redemocratização após o regime militar, sendo editada a Lei 6.683/79 para trazer os exilados de volta. No entanto, a lei não abrangia aqueles que pegaram em armas contra o regime.

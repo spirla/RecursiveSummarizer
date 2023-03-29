@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os crimes omissivos imprprios so crimes previstos em tipos penais cujos ncleos contm verbos descritivos de conduta positiva (ao), mas so realizados por conduta negativa (omisso) daquele que est na posio de garantidor. A classificao que identifica os crimes omissivos imprprios no tem como referncia fundamental o ncleo do tipo penal incriminador, mas uma norma jurdico-mandamental que impe a quem esteja na posio de garantidor o dever de agir para proteger o bem jurdico. O crime  denominado omissivo imprprio justamente porque o verbo que constitui o ncleo do tipo incriminador no descreve uma conduta omissiva, mas sim uma ao positiva daquele que viola a norma proibitiva que lhe  subjacente. A omisso  imprpria porque se torna necessrio conciliar o tipo incriminador descritivo de uma ao proibida a uma norma mandamental para identificar como criminosa a conduta omissiva. O crime omissivo imprprio no tem previso expressa na lei, mas surge da combinao entre a norma subjacente a um tipo penal que descreve uma ao proibida e uma norma mandamental que impe o dever de agir para evitar a ocorrncia da referida ao. No Cdigo Penal a norma mandamental que define quem est na posio de garantidor e possibilita a incriminao por omisso imprpria est prevista no pargrafo 2 de seu artigo 13. Tal norma  aplicvel a todos os crimes previstos na parte especial do Cdigo Penal e aos crimes previstos na legislao extravagante, salvo se esta contiver previso especfica que determine quem esteja na posio de garantidor. Na legislao especial, so exemplos de normas mandamentais definidoras da posio de garantidor o artigo 25 da Lei 7.429/86, que define os Crimes contra o Sistema Financeiro Nacional; o artigo 75 da Lei 8.078/90 - Cdigo do Consumidor; e o artigo 2 da Lei 9.605/98 - Lei dos Crimes Ambientais. Todos os crimes comissivos podem ser praticados por omisso imprpria, desde que quem realize a omisso possua o dever de impedir a ao que se dirige contra o bem jurdico. Em outras palavras, o crime omissivo imprprio  praticado por quem est na posio de garantidor. Portanto, o policial pode cometer roubo por omisso imprpria (artigo 157 c/c o artigo 13, pargrafo 2, a) ou mesmo estupro por omisso imprpria (artigo 213 c/c o artigo 13, pargrafo 2, a), quando se omite em salvar o patrimnio subtrado ou a vtima que est sendo violentada.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os crimes omissivos imprprios so aqueles em que o ncleo do tipo penal descreve uma conduta positiva, mas so cometidos por omisso. A classificao destes crimes depende da norma jurdico-mandamental que define quem est na posio de garantidor. Esta norma pode ser aplicada a todos os crimes previstos no Cdigo Penal e na legislao extravagante, exceto se houver previso especfica. Exemplos de crimes omissivos imprprios incluem roubo e estupro por omisso imprpria.

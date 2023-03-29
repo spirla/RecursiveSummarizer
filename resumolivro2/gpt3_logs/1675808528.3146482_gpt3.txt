@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Gozam dessa prerrogativa os membros da Defensoria Pblica da Unio, do Distrito Federal e dos Territrios (artigo 44, I, da LC 80/94) e os membros da Defensoria Pblica dos Estados (artigo 128, I, LC 80/94). A referida prerrogativa dos prazos contados em dobro no se estende ao defensor dativo, que no integrar o servio estatal de assistncia judiciria. Captulo XIV. Provas. 14.1. Teoria da prova. 14.1.1. Conceito de prova. O tema da prova  seguramente um dos mais importantes e fecundos do processo penal militar. O vocbulo vem de proba, de probare, no sentido de demonstrar, de reconhecer ou de formar um juzo. No sentido jurdico, a prova  a demonstrao, que se faz, pelos meios legais, da existncia ou da veracidade de um fato ou de um ato jurdico. A prova consiste, pois, na demonstrao da existncia ou da veracidade daquilo que se alega como fundamento do direito que se defende ou que se contesta. Prova  o resultado da atividade probatria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A prova consiste na demonstração da existência ou da veracidade de um fato ou de um ato jurdico. Os membros da Defensoria Pública da União, do Distrito Federal e dos Territórios e dos Estados têm prerrogativa de prazos contados em dobro, mas essa prerrogativa não se estende ao defensor dativo.

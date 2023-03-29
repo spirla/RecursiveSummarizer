@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A deciso absolutria em relao a um dos concorrentes em caso de concurso de pessoas fundada em motivos que no sejam de carter exclusivamente pessoal, aproveitar aos outros concorrentes (artigo 515, CPPM), por exemplo , se um dos concorrentes for definitivamente absolvido por inexistncia do fato (artigo 439, a, primeira parte, do CPPM), a deciso se estende aos demais concorrentes. No primeiro processo, o acusado A foi absolvido e a deciso transitou em julgado, o acusado B pode ser processado no segundo processo como coautor ou partcipe? Para Gustavo Badar, se o fundamento da absolvio aproveitar B (por exemplo, atipicidade da conduta) a ao penal  invivel por falta de justa causa para a ao penal em relao ao corru que no foi parte no primeiro processo. Por outro lado, observa Tourinho Filho que, se o autor principal foi absolvido, por exemplo, por ser inimputvel, mas o fato cometido for tpico e antijurdico, nada obsta se proponha ao penal contra o participante. Bem frisa, pois, Aury Lopes Jnior que nada impede que outras pessoas sejam acusadas pelo mesmo fato (seja porque se demonstrou a participao ou coautoria, ou ainda porque o ru foi absolvido), ou, anda, que o ru seja novamente processado por outros fatos criminosos praticados. Captulo XVII. Nulidades. 17.1. Tipicidade e as formas dos atos processuais. De acordo com a doutrina, o processo exige uma atividade tpica, composta de atos cujos traos essenciais so definidos pelo legislador. A tipicidade do ato processual  a sua prtica de acordo com o modelo legal. A regulamentao das formas processuais, quando bem aplicada, longe de representar um mal, constituiu para as partes a garantia de uma efetiva participao na srie de atos necessrios  formao do convencimento judicial e, para o prprio juiz, instrumento til para alcanar a verdade sobre os fatos que deve decidir.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O processo exige uma atividade tpica, composta de atos cujos traos essenciais so definidos pelo legislador. Se um dos concorrentes for absolvido por inexistncia do fato, a deciso se estende aos demais concorrentes. O fundamento da absolvio pode aproveitar aos outros concorrentes. Nada impede que outras pessoas sejam acusadas pelo mesmo fato ou que o ru seja novamente processado por outros fatos criminosos praticados. A tipicidade do ato processual a sua prtica de acordo com o modelo legal, garantindo assim uma efetiva participao na srie de atos necessrios formao do convencimento judicial.

@@ -1,0 +1,24 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Paragrafo 3 Se ainda houver necessidade de esclarecimentos, a parte requerera ao juiz que mande intimar o perito ou o assistente tecnico a comparecer a audincia de instrucao e julgamento, formulando, desde logo, as perguntas, sob forma de quesitos. Paragrafo 4 O perito ou o assistente tecnico sera intimado por meio eletrnico, com pelo menos 10 (dez) dias de antecedncia da audincia. 308
+Assim, havendo necessidade de maiores esclarecimentos do teor do laudo emitido pela JCS, os quesitos apresentados pela CPAD ou pela defesa, que deverao ser necessariamente relacionados as questoes tidas como controversas no laudo pericial, serao enviados aos peritos, que deverao respond-los por escrito. Persistindo, ainda, alguma duvida, o Presidente da CPAD intimara o perito para sua inquiricao, formulando, desde logo, as perguntas, sob forma de quesitos. Ressalta-se que, caso os peritos tenham sido arrolados como testemunha de defesa, a CPAD devera notificar o acusado e seu defensor a, no prazo de 48 horas, apresentar os quesitos a serem respondidos pelos peritos, relacionados ao laudo emitido, sob pena de indeferimento da prova testemunhal. CAPITULO IV
+Decisao
+Artigo 74 - Encerrados os trabalhos, o presidente remetera os autos do processo ao CEDMU, que emitira o seu parecer, no prazo de dez dias uteis, e encaminhara os autos do processo a autoridade convocante, que proferira, nos limites de sua competncia e no prazo de dez dias uteis, decisao fundamentada, que sera publicada em boletim, concordando ou nao com os pareceres da CPAD e do CEDMU:
+- recomendando sanar irregularidades, renovar o processo ou realizar diligncias complementares;
+- determinando o arquivamento do processo, se considerar improcedente a acusacao;
+- aplicando, agravando, atenuando ou anulando sancao disciplinar, na esfera de sua competncia;
+- remetendo o processo a Justica Militar ou ao Ministerio Publico, se constituir infracao penal a acao do acusado;
+- opinando, se cabivel, pela reforma disciplinar compulsoria;
+- opinando pela demissao. Paragrafo 1 - Os autos que concluirem pela demissao ou reforma disciplinar compulsoria de militar da ativa serao encaminhados ao Comandante-Geral para decisao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A CPAD pode requerer ao juiz que intimem o perito ou assistente técnico para comparecer à audiência de instrução e julgamento, formulando quesitos. O perito ou assistente técnico será intimado por meio eletrônico com pelo menos 10 dias de antecedência. Após o encerramento dos trabalhos, o CEDMU emitirá um parecer e a autoridade convocante proferirá uma decisão fundamentada, que pode recomendar sanar irregularidades, renovar o processo, determinar o arquivamento, aplicar ou anular uma sanção disciplinar, remeter o processo à Justiça Militar ou ao Ministério Público, opinar pela reforma compulsória ou pela demissão. Caso seja decidida a demissão ou reforma compulsória, os autos serão encaminhados ao Comandante-Geral para decisão.

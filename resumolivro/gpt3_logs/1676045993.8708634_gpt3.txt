@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Para que aquele que realiza o fato punvel seja considerado culpvel,  necessrio que, na situao concreta, tenha podido perceber que sua finalidade de agir colocava-se contrria ao Direito. Isso ocorre quando o sujeito pode reconhecer a ilicitude de sua conduta, ou seja, quando lhe  possvel compreender a injustia de seu ato. No se questiona nesse momento a capacidade mental do sujeito, e sim se ele, mesmo sendo pessoa normal e imputvel, poderia conhecer o carter criminoso do fato que concretamente praticou. Na investigao sobre a possibilidade de conhecimento da ilicitude do fato, ganha importncia a questo do erro jurdico-penal relevante. Tradicionalmente, o tema do erro foi concebido de modo a estabelecer classificao que identifica duas categorias distintas, quais sejam: o erro de fato e o erro de direito. De acordo com essa concepo, o erro de fato permitiria a irresponsabilidade do sujeito, e o erro de direito no, posto que a ningum seria permitido desconhecer a lei. Com a consagrao da culpabilidade normativa, o conhecimento da ilicitude do fato tornou-se um de seus elementos fundamentais e o tema do erro jurdico-penal relevante recebeu novo tratamento. O erro jurdico-penal relevante deve ser relacionado com as categorias conceituais do crime, de modo que se possa avaliar corretamente a produo de seus efeitos. A discusso evoluiu, ento, para a identificao do erro de tipo e do erro de proibio. O erro de tipo produz efeitos relevantes na realizao do juzo de tipicidade, e o erro de proibio produz efeitos no juzo de reprovao da culpabilidade, afetando o potencial conhecimento da ilicitude do fato. As expresses erro de direito e erro de proibio no se identificam, pois o erro de proibio refere-se apenas  ilicitude do fato, ou seja,  qualidade da conduta, e o erro de direito poderia referir-se tanto a problemas de direito relacionados com a tipicidade quanto com a ilicitude. 8.9.2.1. Erro de proibio. O erro de proibio  instituto que produz efeitos na potencial conscincia de ilicitude do fato, que  elemento do juzo de reprovao da culpabilidade. Importa notar que a reprovao jurdica da culpabilidade no exige a ocorrncia de efetiva conscincia da ilicitude do fato. Basta o conhecimento potencial da ilicitude, ou seja, que ao sujeito seja possvel, nas circunstncias em que se encontrava, conhecer a ilicitude do fato que praticou.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Para que seja considerado culpável, o sujeito deve ter podido reconhecer a ilicitude de sua conduta, independentemente de sua capacidade mental. O erro de proibio estabelece efeitos na consciência da ilicitude do fato, elemento fundamental para a reprovabilidade da culpabilidade, não exigindo a consciência efetiva da ilicitude.

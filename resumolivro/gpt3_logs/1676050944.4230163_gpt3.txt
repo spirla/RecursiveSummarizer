@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Estatuto de Roma do Tribunal Penal Internacional, que ingressou na ordem jurdica interna por meio do Decreto 4.388, de 25 de setembro de 2002, em seu artigo 29, dispe que os crimes da competncia do Tribunal11 no prescrevem. Muito embora o Brasil tenha declarado constitucionalmente a sua submisso  jurisdio do Tribunal Penal Internacional (artigo 5, pargrafo 4), o Estatuto de Roma ingressou na ordem jurdica interna anteriormente  Emenda Constitucional 45/04 e, no seguindo o rito legislativo prprio s emendas constitucionais (artigo 5, pargrafo 3), integra a legislao infraconstitucional. Dessa forma, para a ordem jurdica interna, os casos de imprescritibilidade continuam restritos aos que so previstos na Constituio da Repblica. 22.4. Espcies. Nos termos do Cdigo Penal brasileiro, a prescrio pode-se verificar em relao  pretenso punitiva e em relao  pretenso executria. Pretenso  uma noo que se relaciona ao direito material e pode ser entendida como a exigncia de subordinao do interesse alheio ao prprio. No mbito penal, o Estado pretende condenar o infrator da norma jurdica e aplicar-lhe uma pena, importando isso na subordinao do interesse de liberdade individual ao jus puniendi. A prescrio  instituto que impede o exerccio das pretenses estatais. Duas so, portanto, as espcies de prescrio: a) prescrio da pretenso punitiva; e b) prescrio da pretenso executria. Pretenso punitiva. Com a ocorrncia do crime, surge a pretenso do Estado de aplicar a pena ao responsvel. Essa pretenso  satisfeita no momento em que ocorre a deciso condenatria definitiva. A pretenso punitiva implica a sujeio do condenado ao julgamento e  reprovao do Estado. A prescrio da pretenso punitiva opera seus efeitos conforme os prazos estabelecidos no artigo 109 do CP, e impede o Estado de aplicar a pena. Nesse caso, a incidncia da prescrio pressupe que a contagem de prazo se verifique entre a data do fato e a data do trnsito em julgado da deciso condenatria. Decorrido o lapso prescricional, sem deciso condenatria definitiva, no mais poder o Estado condenar o acusado. A prescrio da pretenso punitiva tem como referncia o limite mximo da pena cominada ao tipo penal em julgamento, j que esta poder ser a pena aplicada.  competente para reconhecer a prescrio da pretenso punitiva o juzo de conhecimento da ao penal. Pretenso executria.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Estatuto de Roma do Tribunal Penal Internacional prevê que os crimes da competência do Tribunal não prescrevem. No Brasil, a prescrição pode ser verificada em relação à pretensão punitiva e executória. A prescrição da pretensão punitiva impede o Estado de aplicar a pena e é reconhecida pelo juízo de conhecimento da ação penal. A prescrição da pretensão executória impede o Estado de executar a pena.

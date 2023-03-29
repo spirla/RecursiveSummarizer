@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+4. O novo decreto de priso preventiva expedido em desfavor do acusado foi satisfatoriamente justificado, tendo sido motivado, a teor do disposto no 312, do Cdigo de Processo Penal, na necessidade de se resguardar a ordem pblica, em face de seu envolvimento em novo crime de homicdio durante o perodo em que esteve em liberdade. 5. Precedentes do STJ. 6. Ordem denegada. (STJ, HC n. 49.767/PA, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 7/3/2006, DJ de 3/4/2006, p. 384.) HABEAS CORPUS - FURTO QUALIFICADO - AUSNCIA REQUISITOS DOS ARTS. 312 E 313 DO CPP - INOCORRNCIA - OFENSA AO CONTRADITRIO - INOBSERVNCIA - PACIENTE INTERDITADO CIVILMENTE - DECISO QUE NO PRODUZ EFEITOS IMEDIATOS NA ESFERA CRIMINAL. Cabvel a manuteno da priso imposta quando devidamente fundada em requisitos preconizados pelos artigos 312 e 313 do Cdigo de Processo Penal, mostrando-se, ademais, legtima quando adotada mediante deciso suficientemente motivada, em carter excepcional, diante dos elementos concretos contidos nos autos; A interdio civil do paciente no indica, de forma automtica, sua inimputabilidade penal. (TJMG - Habeas Corpus Criminal 1.0000.22.177684-2/000, Relator(a): Des. (a) Danton Soares Martins , 5a CMARA CRIMINAL, julgamento em 20/09/2022, publicao da smula em 20/09/2022) EMENTA: HABEAS CORPUS - HOMICDIO -- PACIENTE INTERDITADO CIVILMENTE - DECISO QUE NO PRODUZ EFEITOS AUTOMTICOS NA ESFERA CRIMINAL - PRISO PREVENTIVA - MANUTENO - NECESSIDADE - PRESENA DOS PRESSUPOSTOS DOS ARTIGOS 312 E SEGUINTE DO CPP - GARANTIA DA ORDEM PBLICA- CONDIES PESSOAIS FAVORVEIS - IRRELEVNCIA - AUSNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA. -A comprovao de interdio do paciente no implica, automaticamente, na sua inimputabilidade, sendo necessria realizao de incidente de insanidade mental para reconhecimento de tal condio. Presentes a prova da materialidade e os indcios suficientes de autoria, bem como demonstrada a necessidade da segregao cautelar, notadamente para a garantia da ordem pblica diante do fato de que o paciente teria ceifado com a vida do seu prprio genitor, imperiosa  manuteno da priso preventiva do paciente. As condies favorveis do paciente, por si ss, no implicam na concesso da liberdade provisria, quando presentes outras circunstncias autorizadoras da segregao cautelar. (TJMG - Habeas Corpus Criminal 1.0000.22.129470-5/000, Relator(a): Des. (a) Maurcio Pinto Ferreira , 8a CMARA CRIMINAL, julgamento em 21/07/2022, publicao da smula em 21/07/2022). EMENTA: AGRAVO EM EXECUO PENAL - CONDENADO ACOMETIDO POR DOENA MENTAL - INTERNAO HOSPITALAR - INTERDIO CVEL - INSUFICINCIA - NECESSIDADE DE COMPROVAO EM SEDE DE EXECUO PENAL - PRISO DOMICILIAR - REGIME FECHADO - AUSNCIA DOS REQUISITOS LEGAIS.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O decreto de priso preventiva expedido em desfavor do acusado foi justificado, tendo sido motivado pela necessidade de se resguardar a ordem pública. A interdição civil do acusado não indica, automaticamente, sua inimputabilidade penal. A manutenção da prisão imposta é cabível quando devidamente fundada nos requisitos previstos nos artigos 312 e 313 do Código de Processo Penal e adotada em caráter excepcional. A comprovação de interdição do acusado não implica, automaticamente, na sua inimputabilidade, sendo necessária a realização de incidente de insanidade mental para reconhecimento da tal condição. A ordem foi denegada.

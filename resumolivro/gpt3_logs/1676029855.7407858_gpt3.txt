@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em princpio, se for o caso de crimes materiais, verifica-se a relao causal no plano emprico. Confirmada a causalidade, segue-se a atribuio normativa do resultado ao seu autor. Assim, pode-se distinguir causalidade, sob o prisma naturalista, e imputao objetiva. A relao de causalidade material relaciona uma conduta a determinado resultado no plano naturalstico e constitui pressuposto para a imputao objetiva nos crimes materiais. A definio do critrio a ser utilizado para estabelecer a vinculao material resulta das opes poltico-criminais, que acolhem qualquer das diversas teorias elaboradas para a determinao da causalidade. A imputao objetiva, por sua vez,  a atribuio normativa da produo de determinado resultado a um indivduo, de modo a viabilizar sua responsabilizao. Para realizar tal atribuio no basta constatar a causalidade naturalista, sendo tambm necessrio examinar a relevncia jurdica da conduta. Nestes termos, a imputao objetiva se opera por meio da constatao de uma causalidade prpria ao Direito Penal: a causalidade normativa. Nos crimes materiais, a imputao objetiva pressupe a verificao do nexo de causalidade material entre a ao individual e o resultado. Contudo, em alguns casos, a imputao objetiva afirma-se mesmo diante da ausncia da relao fsica de causalidade.  o que acontece com os crimes omissivos prprios, qualificados pelo resultado, e os imprprios. Nessas hipteses, no existindo relao de causalidade fsica,  a norma jurdica que estabelece a vinculao entre a inatividade e o resultado material indesejado. Da falar-se em causalidade normativa, criao especulativa exclusiva do Direito Penal. Na verdade, o resultado naturalista  produzido pelas foras que o determinam, e no pela ausncia de impedimento. A omisso no contribui para a produo do resultado naturalstico e o processo causal que o produz  estranho ao omitente.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A imputação objetiva é a atribuição normativa de um resultado a um indivíduo, para que possa ser responsabilizado. Para isso, é necessário verificar o nexo de causalidade material entre a ação e o resultado. Em alguns casos, como nos crimes omissivos próprios e impróprios, a imputação objetiva se dá mesmo sem relação de causalidade física, sendo a norma jurdica que estabelece a vinculação entre a inatividade e o resultado indesejado.

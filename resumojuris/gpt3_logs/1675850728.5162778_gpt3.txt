@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Contudo, a decisao que decreta a prisao preventiva, desde que precedida da necessaria e previa provocacao do Ministerio Publico, formalmente dirigida ao Poder Judiciario, mesmo que o magistrado decidida pela cautelar pessoal maxima, por entender que apenas medidas alternativas seriam insuficientes para garantia da ordem publica, nao deve ser considerada como de oficio. Isso porque uma vez provocado pelo orgao ministerial a determinar uma medida que restrinja a liberdade do acusado em alguma medida, deve o juiz poder agir de acordo com o seu convencimento motivado e analisar qual medida cautelar pessoal melhor se adequa ao caso. Impor ou nao cautelas pessoais, de fato, depende de previa e indispensavel provocacao. Entretanto, a escolha de qual delas melhor se ajusta ao caso concreto ha de ser feita pelo juiz da causa. Entender de forma diversa seria vincular a decisao do Poder Judiciario ao pedido formulado pelo Ministerio Publico, de modo a transformar o julgador em mero chancelador de suas manifestacoes, ou de lhe transferir a escolha do teor de uma decisao judicial. Em situacao que, mutatis mutandis, implica similar raciocinio, decidiu o STF que . 3. Prisao preventiva decretada a pedido do Ministerio Publico, que, posteriormente requer a sua revogacao. Alegacao de que o magistrado esta obrigado a revogar a prisao a pedido do Ministerio Publico. 4. Muito embora o juiz nao possa decretar a prisao de oficio, o julgador nao esta vinculado a pedido formulado pelo Ministerio Publico. 5.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A decisão que decreta a prisão preventiva, desde que precedida da necessária e previa provocação do Ministério Público, formalmente dirigida ao Poder Judiciário, não deve ser considerada como de ofício. 2. A escolha de qual medida cautelar pessoal melhor se adequa ao caso concreto deve ser feita pelo juiz da causa. 3. O juiz não está vinculado a pedido formulado pelo Ministério Público.

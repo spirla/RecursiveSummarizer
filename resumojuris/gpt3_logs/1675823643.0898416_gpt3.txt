@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O principio da separacao de Poderes nao pode ser interpretado como absoluto, mas tampouco sao adequadas medidas voltadas a moldar o campo de atuacao de outro Poder, sobretudo quando ausente a oportunidade de participacao na discussao e tomada de decisao. No caso, a obrigacao imposta ao Judiciario no preceito em jogo decorre de diploma alusivo a atuacao exclusiva do MP e concernente as respectivas finalidades institucionais. Descabe autorizar a insercao, nesse instrumento normativo, de preceito a criar obrigacao e despesa a outro Poder. Com base nesse entendimento, o Plenario, por maioria, julgou parcialmente procedente o pedido da acao direta, para declarar a constitucionalidade do art. 2 e a inconstitucionalidade do art. 91, V, ambos da Lei Complementar (LC) 106/2003 do estado do Rio de Janeiro, vencido o ministro Marco Aurelio (relator) apenas no tocante a legitimidade da requerente. ADI 2381/RJ, relator Min. Marco Aurelio, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 30.4.2021 (sexta-feira), as 23:59 (INF 1015) Emenda a Constituicao estadual e vicio de iniciativa no processo legislativo - ADI 5281/RO e ADI 5324/RO Resumo: E inconstitucional emenda a Constituicao estadual que cuida tanto de normas gerais para a organizacao do Ministerio Publico dos Estados quanto de atribuicoes dos orgaos e membros do Parquet estadual. A Emenda 94/2015 a Constituicao do estado de Rondonia, que acrescentou o paragrafo unico ao art. 99 daquela Constituicao estadual, usurpou a iniciativa reservada pela CF/88 (CF) ao Presidente da Republica para tratar sobre normas gerais para a organizacao do Ministerio Publico. A referida norma tambem subtraiu do Procurador-Geral de Justica a iniciativa para deflagrar o processo legislativo das leis complementares estaduais, pelas quais se estabelecem a organizacao, as atribuicoes e o estatuto dos Ministerios Publicos estaduais.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O princípio da separação de poderes não pode ser interpretado como absoluto. 2. É inadequado moldar o campo de atuação de outro Poder sem a oportunidade de participação na discussão e tomada de decisão. 3. É inconstitucional emenda à Constituição estadual que trata tanto de normas gerais para a organização do Ministério Público dos Estados quanto de atribuições dos órgãos e membros do Parquet estadual. 4. A Emenda 94/2015 à Constituição do Estado de Rondônia usurpou a iniciativa reservada pela Constituição Federal de 1988 ao Presidente da República para tratar sobre normas gerais para a organização do Ministério Público. 5. A referida norma também subtraiu do Procurador-Geral de Justiça a iniciativa para deflagrar o processo legislativo das leis complementares estaduais.

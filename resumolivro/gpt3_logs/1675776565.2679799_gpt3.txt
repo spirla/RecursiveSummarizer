@@ -1,0 +1,32 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Ressalta-se que, caso a sancao a ser aplicada seja a de suspensao, devemos nos reportar ao artigo 31 do CEDM, que contem o parmetro para aplicacao da referida sancao, estabelecendo o maximo de dias a depender da pontuacao negativa final e, na sequncia, ao artigo 53 do Decreto 42.843/2002, que fixa o minimo de dias:
+PONTUACAO NEGATIVA FINAL
+SANCAO A SER APLICADA
+1 a 4 pontos
+Advertncia
+5 a 10 pontos
+Repreensao
+11 a 20 pontos
+Prestacao de servico (1 dia de servico)
+21 a 23 pontos
+Minimo 1 e maximo 3 dias de suspensao
+24 a 25 pontos
+Minimo 4 e maximo 5 dias de suspensao
+26 a 28 pontos
+Minimo 6 e maximo 8 dias de suspensao
+29 a 30 pontos
+Minimo 9 e maximo 10 dias de suspensao
+Questao que merece destaque e que foge a qualquer regra razoavel de dosimetria de pena e que, nem sempre, o militar sera sancionado ao final do enquadramento disciplinar, basta que a sua pontuacao positiva decorrente das atenuantes e recompensas sejam superiores em relacao a pontuacao negativa base somada as agravantes. Isso ocorre porque, relembramos, estabelecida a pontuacao negativa base para inicio da dosimetria, o maximo de pontuacao negativa que podera ser imposta sera 5 pontos, e o mesmo ocorre com a pontuacao positiva das atenuantes, mas, como nao ha limitacao de pontuacao positiva decorrente de recompensas, basta que o militar tenha um numero de recompensas validas cuja pontuacao positiva supere a negativa. Nesse caso, o militar tera lancado o enquadramento disciplinar junto ao Sistema Informatizado da IME, com o registro da transgressao disciplinar em sua ficha funcional, cuja repercussao sera a interrupcao da contagem dos prazos a que aludem o artigo 5, paragrafo 2, e o artigo 94 do CEDM, bem como sera levada em conta como a circunstncia agravante do artigo 21, III, do mesmo Codigo. A justificativa mais razoavel para essa constatacao, a nosso sentir, se liga a um sistema meritocratico estabelecido pelo CEDM, que incentiva o militar a praticar constantes atos passiveis de recompensas, de modo a sempre ter uma margem de pontuacao positiva em sua ficha funcional, utilizavel na eventualidade da pratica de uma conduta antietica, de modo a afastar ou abrandar a aplicacao de uma sancao disciplinar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 31 do CEDM estabelece o parâmetro para a aplicação da suspensão, dependendo da pontuação negativa final. O artigo 53 do Decreto 42.843/2002 fixa o mínimo de dias de suspensão. Se a pontuação positiva decorrente das atenuantes e recompensas for superior à pontuação negativa base somada às agravantes, o militar não será sancionado. Isso ocorre porque o CEDM incentiva o militar a praticar atos passíveis de recompensas para ter uma margem de pontuação positiva em sua ficha funcional.

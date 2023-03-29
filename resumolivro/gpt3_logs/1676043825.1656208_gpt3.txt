@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Existindo tais cuidados, ao sujeito apresenta-se exigvel a observncia destes, caso contrrio, responde pelo resultado que produzir em situao de erro culpvel. Assim, se o erro for inevitvel, haver excluso do dolo e da culpa, fazendo que a conduta seja atpica. Mas se o erro for evitvel, haver excluso apenas do dolo, devendo o sujeito ser punido por crime culposo se o erro derivar de culpa e houver previso legal de um tipo culposo adequado ao comportamento praticado. 5.6.4. Erro determinado por terceiro. Quando o erro de tipo for determinado por terceira pessoa, conforme dispe o pargrafo 2 do artigo 20 do CP, somente responde pelo crime o terceiro que determina o erro. Nesse caso, contudo, deve-se fazer uma ressalva. A responsabilidade do terceiro  sempre condicionada ao fato de que este tenha orientado sua conduta com dolo. A lgica da descaracterizao tpica proporcionada pelo erro de tipo  que, ausente o dolo, no se pode fazer a adequao do fato ao modelo de comportamento proibido pelo tipo penal. Se o terceiro, no estando em erro, levar o sujeito a representar erroneamente a realidade e agir contra o bem jurdico protegido pela norma tpica, dever ser responsabilizado por ter agido com dolo. A hiptese traduz autoria mediata, em que o instrumento age sem o dolo exigido pelo tipo, realizando a conduta por determinao daquele que o induz ao erro. No entanto, se o terceiro que determinar o erro daquele que realiza a conduta tambm estiver em erro, no haver responsabilidade para qualquer deles. Vejamos o seguinte exemplo: na viatura policial, dois policiais fazem ronda pelas ruas da cidade, quando o superior hierrquico determina ao outro que pare o veculo e detenha pessoa que est fumando um cigarro, alegando tratar-se de entorpecente. No se deixando prender, o fumante corre, deixa o cigarro cair pelo caminho e, posteriormente,  detido pelo policial. Em princpio, considerando que o fumante no estivesse na posse de droga, a deteno caracteriza crime de abuso de autoridade (artigo 3, a, da Lei 4.898/65). Se o policial que deu a ordem percebeu no se tratar de droga e o executor acreditou ser droga, somente o policial que dolosamente determinou o atentado  liberdade de locomoo do fumante responder pelo crime de abuso de autoridade. Entretanto, se ambos os policiais erraram quanto ao fato de ser o cigarro feito de droga (maconha), no se podendo caracterizar dolo na conduta de qualquer dos dois, as condutas sero atpicas. 5.7. Inadequao tpica.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O erro de tipo, se for evitável, exclui o dolo, mas não a culpa, e o sujeito deve ser punido por crime culposo se houver previsão legal de um tipo culposo adequado ao comportamento praticado. Se o erro for determinado por terceiro, somente ele responde pelo crime se tiver orientado sua conduta com dolo. Se ambos estiverem em erro, as condutas serão atípicas. A inadequação típica ocorre quando a conduta não é adequada ao modelo de comportamento proibido pelo tipo penal.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Min. Gurgel de Faria, Primeira Turma, por maioria, julgado em 08/11/2022. RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO TRIBUTARIO TEMA Mandado de seguranca coletivo. Advogados e sociedades de advogados. Cadastro e acesso a informacoes. Dados fiscais pertinentes ao calculo do ICMS a ser repassado aos municipios. Impossibilidade. DESTAQUE O profissional de advocacia privada constituido por municipio por mandato com poderes expressos nao tem direito liquido e certo para o cadastramento e acesso aos dados utilizados pelos Estados no calculo do valor adicionado referente ao ICMS. A controversia diz respeito a possibilidade de se facultar aos advogados particulares contratados pelos municipios o acesso aos dados e sistemas informatizados do COINDICE-ICMS, a semelhanca dos servidores publicos efetivos autorizados a tal acesso. Inicialmente, consigna-se que o Conselho Deliberativo dos Indices de Participacao dos Municipios (COINDICE- ICMS) tem por objetivo elaborar o indice de distribuicao de ICMS entre os municipios do Estado de Goias. Acerca do tema em debate, o art. 5, X, da CF/88 ( sao inviolaveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenizacao pelo dano material ou moral decorrente de sua violacao ) protege, em uma de suas facetas, a intimidade fiscal, figurando, assim, como uma garantia fundamental assegurada ao contribuinte.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O profissional de advocacia privada constituido por municipio por mandato com poderes expressos não tem direito liquido e certo para o cadastramento e acesso aos dados utilizados pelos Estados no cálculo do valor adicionado referente ao ICMS. 2. O Conselho Deliberativo dos Índices de Participação dos Municípios (COINDICE-ICMS) tem por objetivo elaborar o índice de distribuição de ICMS entre os municípios do Estado de Goiás. 3. O art. 5, X, da CF/88 protege, em uma de suas facetas, a intimidade fiscal, figurando, assim, como uma garantia fundamental assegurada ao contribuinte.

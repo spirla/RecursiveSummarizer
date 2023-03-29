@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, embora a definicao da pena-base acima do minimo legalmente previsto autorize, nos termos do art. 33,  3, do CP, a fixacao do regime inicial imediatamente mais grave do que o estabelecido em razao do quantum da pena aplicada, nada impede que o julgador deixe de recrudescer o modo prisional se entender que aquele cominado ao montante da pena imposta se mostra suficiente a reprovacao do delito. 794 E possivel, portanto, concluir que a negativacao de circunstancias judiciais, ao contrario do que ocorre quando reconhecida a agravante da reincidencia, confere ao julgador a faculdade - e nao a obrigatoriedade - de recrudescer o regime prisional. (Informativo n. 735) PROCESSO AgRg no HC 301.882-RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 19/04/2022, DJe 26/04/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Homicidio qualificado. Recurso da defesa. Pena-base. Modificacao dos institutos juridicos. Cumulo material para continuidade delitiva. Pena final inalterada.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a fixação do regime inicial imediatamente mais grave do que o estabelecido em razão do quantum da pena aplicada, desde que o julgador entenda que aquele cominado ao montante da pena imposta se mostra suficiente para a reprovação do delito. 2. A negativação de circunstâncias judiciais confere ao julgador a faculdade, e não a obrigatoriedade, de recrudescer o regime prisional.

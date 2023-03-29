@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+79; todos dispositivos do Cdigo Penal Militar (Evento 2 - DENUNCIA2, pgs. 01/09). A denncia foi recebida em 24 de maio de 2017 (Evento 2 - RECE_DENUN48, PGINAS 110/113). Concluda a instruo criminal, em 20/09/2020, reuniu-se o douto Conselho Permanente de Justia da 1a AJME e decidiu, verbis: O Conselho Permanente de Justia, por unanimidade de votos, absolveu todos os rus das imputaes constantes do fato 01 e do fato 03, constantes da denncia, qual seja, artigo 305 para todos os denunciados e artigo 312 para 1 e 4 denunciados, nos termos do artigo 439, alnea "e" do CPPM. O Conselho Permanente de Justia, por maioria de trs votos a dois, condenou os quatro denunciados pela prtica do delito capitulado no artigo 305, do CPM, constante do fato 02, narrado na denncia. Que o Juiz de Direito imps ao 1 denunciado a pena de 03 (trs) anos de recluso para o delito de concusso, o Juiz Militar, Cap PM Ivo Salviano Rosa imps ao 1 denunciado a pena de 08 (oito) anos de recluso, pela prtica do delito de concusso. O Juiz Militar, Maj PM Lenardo Andrade Lima imps ao 1 denunciado a pena de 04 (quatro) anos de recluso, pela prtica do delito de concusso. Para os demais denunciados, o Juiz de Direito fixou pena de 02 (dois) anos e 06 (seis) meses de recluso. O Juiz Militar, Cap PM Ivo Salviano Rosa fixou pena de 06 (seis) anos de recluso. O Juiz Militar, Maj PM Leonardo Andrade Lima fixou pena de 03 (trs) anos de recluso. Os demais Juzes Militares absolveram os rus, nos termos do artigo 439, alnea "e" do CPPM. Considerando a diversidade de votos  de se aplicar a regra contida no pargrafo nico do artigo 435 do CPPM, o qual estabelece que o voto que deva prevalecer para o quantum da pena seja o voto mdio, que se constitui nas penas estabelecidas pelo Juiz Militar, Maj PM Leonardo Andrade Lima. O Conselho Permanente de Justia, por maioria de quatro votos a um, condenou o 1 e 4 denunciados pela prtica do delito capitulado no artigo 312 do CPM, constante do fato 02, narrado na denncia. Ao 1 denunciado, o Juiz de Direito e Juiz Militar, Cap PM Cristiano Ferreira de Oliveira, fixaram pena de 01 (um) ano e 08 (oito) meses de recluso. O Juiz Militar, Cap PM Ivo Salviano fixou pena de 05 (cinco) anos de recluso. O Juiz Militar, Maj PM Leonardo Andrade Lima, fixou pena de 02 (dois) anos de recluso para o 1 denunciado. Para o 4 denunciado, o Juiz Direito e o Cap PM Cristiano Ferreira de Oliveira, fixaram pena de 01 (um) e 04 (quatro) meses de recluso. O Cap PM Ivo Salviano Rosa fixou pena de 03 (trs) anos de recluso ao 4 denunciado. O Juiz Militar, Maj PM Leonardo Andrade Lima fixou pena de 01 (um) ano e 06 (seis) de recluso ao 4 denunciado.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Conselho Permanente de Justia, por maioria de votos, absolveu todos os rus das imputaes constantes do fato 01 e do fato 03 do Cdigo Penal Militar, qual seja, artigo 305 para todos os denunciados e artigo 312 para 1 e 4 denunciados. O Conselho Permanente de Justia, por maioria de trs votos a dois, condenou os quatro denunciados pela prtica do delito capitulado no artigo 305 do CPM. O Conselho Permanente de Justia, por maioria de quatro votos a um, condenou o 1 e 4 denunciados pela prtica do delito capitulado no artigo 312 do CPM. A pena foi fixada ao 1 denunciado como o voto mdio entre o Juiz de Direito e os dois Juzes Militares, sendo a pena de 02 (dois) anos e 06 (seis) meses de recluso. Para o 4 denunciado, a pena foi fixada como o voto mdio entre o Juiz de Direito e os dois Juzes Militares, sendo a pena de 01 (um) ano e 04 (quatro) meses de recluso.

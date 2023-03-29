@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A seu turno, a lei penal, visando a compelir o disposto na legislacao civil, pune aquele que deixa, sem justificativa idonea, de prover a subsistencia do filho menor de 18 anos, faltando com o adimplemento de pensao alimenticia que esta relacionada, em ultima analise, com a integridade do organismo familiar. No entanto, considerando que o Direito Penal opera como ultima ratio, so e punivel a frustracao dolosa do pagamento da pensao alimenticia, isto e, exige-se a vontade livre e consciente de nao adimplir a obrigacao. Assim, nem todo ilicito civil que envolve o dever de assistencia material aos filhos configurara o ilicito penal previsto no art. 244 do CP. O crime de abandono material exige o dolo, isto e, a vontade livre e consciente de nao adimplir a obrigacao familiar. Sobre o elemento subjetivo do tipo, convem recorrer a exposicao de motivos do CP: Segundo o projeto, so e punivel o abandono intencional ou doloso, embora nao se indague do motivo determinante: se por egoismo, cupidez, avareza, odio, etc. . Nessa perspectiva, O Superior Tribunal de Justica ja decidiu que, para a imputacao do crime de abandono material, mostra-se indispensavel a demonstracao, com base em elementos concretos, de que a conduta foi praticada sem justificativa para tanto, ou seja, deve ser demonstrado o dolo do agente de deixar de prover a subsistencia da vitima (RHC 27.002/MG, Rel. Ministro Sebastiao Reis Junior, 6 T., DJe 18/9/2013). Cumpre registrar, tambem, que o delito em tela apenas se configura quando o agente deixa de efetuar o pagamento sem justa causa. Trata-se de elemento normativo do tipo que traduz uma causa de justificacao capaz de tornar a conduta licita. Nesse contexto, aquele que nao cumpre decisao judicial que fixou os alimentos por absoluta hipossuficiencia economica, verbi gratia, nao pratica o crime estabelecido no art. 244 do CP, porque presente a justa causa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A lei penal visa compelir o disposto na legislação civil, punindo aquele que deixa, sem justificativa idonea, de prover a subsistência do filho menor de 18 anos, faltando com o adimplemento de pensão alimentícia. 2. O crime de abandono material exige o dolo, isto é, a vontade livre e consciente de não adimplir a obrigação familiar. 3. Para a imputação do crime de abandono material, é necessário demonstrar, com base em elementos concretos, de que a conduta foi praticada sem justificativa para tanto, ou seja, deve ser demonstrado o dolo do agente de deixar de prover a subsistência da vítima. 4. O delito em tela apenas se configura quando o agente deixa de efetuar o pagamento sem justa causa. 5. Aquele que não cumpre decisão judicial que fixou os alimentos por absoluta hipossuficiência econômica não pratica o crime estabelecido no art. 244 do CP, porque presente a justa causa.

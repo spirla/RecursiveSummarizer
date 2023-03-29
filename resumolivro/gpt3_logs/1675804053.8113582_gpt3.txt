@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Destaca-se, contudo, que, em que pese o Painel Administrativo ser de acesso obrigatorio por todos os militares, a validade da notificacao no processo exige a confirmacao de leitura, nao podendo essa ser presumida diante do dever do militar de acessa-la. A outra opcao de notificacao que se aventa, se dara mediante o envio por meio do aplicativo de WhatsApp. Trata-se de um aplicativo de mensagens que, da mesma forma que o Painel Administrativo, garante o recebimento da notificacao por parte do acusado, bem como possibilita a confirmacao de leitura pelo remetente. Ressalta-se, inclusive, que o Conselho Nacional de Justica (CNJ) validou a sua utilizacao em processos judiciais perante o Juizado Especial Civel, o que pode se refletir perfeitamente nos processos administrativos, que segue a mesma linha de informalismo e celeridade. A esse respeito, foi publicado no portal do CNJ a seguinte noticia:
+O Conselho Nacional de Justica (CNJ) aprovou por unanimidade a utilizacao do aplicativo WhatsApp como ferramenta para intimacoes em todo o Judiciario. A decisao foi tomada durante o julgamento virtual do Procedimento de Controle Administrativo (PCA) 0003251-94.2016.2.00.0000, ao contestar a decisao da Corregedoria do Tribunal de Justica de Goias (TJGO), que proibira a utilizacao do aplicativo no mbito do Juizado Civil e Criminal da Comarca de Piracanjuba/GO. Sobre o caso acima noticiado, assim decidiu o CNJ:
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO. JUIZADO ESPECIAL CIVEL E CRIMINAL. INTIMACAO DAS PARTES VIA APLICATIVO WHATSAPP. REGRAS ESTABELECIDAS EM PORTARIA. ADESAO FACULTATIVA. ARTIGO 19 DA LEI N. 9.099/1995. CRITERIOS ORIENTADORES DOS JUIZADOS ESPECIAIS.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CNJ aprovou por unanimidade a utilização do aplicativo WhatsApp como ferramenta para intimar partes em processos judiciais. A decisão foi tomada durante o julgamento virtual do PCA 0003251-94.2016.2.00.0000, contestando a decisão do TJGO que proibia a utilização do aplicativo no Juizado Civil e Criminal de Piracanjuba/GO. A adesão é facultativa e deve seguir os critérios orientadores dos Juizados Especiais.

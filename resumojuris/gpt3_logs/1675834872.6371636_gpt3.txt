@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Surge inevitavel constatar que o regime juridico dessas sociedades e marcadamente hibrido, caracterizando- se pela convivencia entre normas de Direito Publico e de Direito Privado. Tal carater hibrido, decorrente do influxo de normas de Direito Publico que se aplicam as empresas estatais, conquanto constituidas como pessoas juridicas de Direito Privado, revela-se contundente em se tratando de empresas publicas e sociedades de economia mista destinadas, exclusivamente, a prestacao de servicos publicos sem finalidade lucrativa e sem natureza concorrencial. Presentes tais circunstancias, se reconhece a essas entidades tratamento juridico assemelhado ao das pessoas juridicas de Direito Publico, operando-se verdadeira extensao do conceito de Fazenda Publica que, em certa medida, passa a albergar, tambem, essas entidades integrantes da Administracao Publica Indireta. Consoante orientacao ha muito sedimentada nesta Corte, o prazo de prescricao quinquenal, previsto no Decreto n. 20.910/32 e no Decreto-Lei n. 4.597/42, aplica-se apenas as pessoas juridicas de direito publico (Uniao, Estados, municipios, Distrito Federal, autarquias e fundacoes publicas), excluindo-se, portanto, as pessoas juridicas de direito privado da Administracao Publica Indireta (sociedades de economia mista, empresas publicas e fundacoes) (REsp 1.270.671/RS, relator Ministro Castro Meira, Segunda Turma, julgado em 16.2.2012, DJe de 5.3.2012). Contudo, este tribunal superior tem esposado entendimento diverso quando se cuida de empresas estatais destinadas, exclusivamente, a prestacao de servicos publicos essenciais e que, assim, nao se dediquem a exploracao de atividade economica com finalidade lucrativa e nao possuam natureza concorrencial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O regime jurídico das sociedades é marcadamente híbrido, caracterizando-se pela convivência entre normas de Direito Público e de Direito Privado. 2. O tratamento jurídico das entidades integrantes da Administração Pública Indireta é assemelhado ao das pessoas jurídicas de Direito Público. 3. O prazo de prescrição quinquenal previsto nos Decretos n. 20.910/32 e n. 4.597/42 aplica-se apenas às pessoas jurídicas de Direito Público, excluindo-se as pessoas jurídicas de Direito Privado da Administração Pública Indireta. 4. O Tribunal Superior tem esposado entendimento diverso quando se trata de empresas estatais destinadas exclusivamente à prestação de serviços públicos essenciais e que não se dediquem à exploração de atividade econômica com finalidade lucrativa e não possuam natureza concorrencial.

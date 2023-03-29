@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Revelar fato de que tenha conhecimento em virtude do exercicio de sua profissao, salvo por motivo justo, dever legal ou consentimento, por escrito, do paciente.
+57 Nesse mesmo sentido: STJ - RHC n. 33.827/RJ, Sexta Turma, Rel. Ministro Sebastiao Reis Junior, DJe 12/12/2014. 58 Em linhas gerais, os conceitos de dolo e culpa extraidos do Direito Penal e aplicaveis na esfera administrativa disciplinar sao aqueles definidos no artigo 33 do CPM, ou seja, sera doloso o crime quando o agente quis o resultado [dolo direto] ou assumiu o risco de produzi-lo [dolo eventual] e culposo quando o agente, deixando de empregar a cautela, atencao, ou diligncia ordinaria, ou especial, a que estava obrigado em face das circunstncias, nao prev o resultado que podia prever [culpa inconsciente] ou, prevendo-o, supoe levianamente que nao se realizaria ou que poderia evita-lo [culpa consciente]. Em ambas as formas ha uma acao consciente e voluntaria por parte do agente. A diferenca reside no fato de que, no dolo, ha a vontade de realizar os elementos objetivos de um tipo penal, ou, no minimo, o agente assumiu o risco da sua realizacao. Na culpa, ao contrario, a vontade do agente se dirige a um indiferente penal, contudo, ocorre a producao de um resultado tipico objetivamente previsivel, mas de forma nao intencional e produto de uma acao negligente, imprudente ou imperita. 59 De acordo com Francisco de Assis Toledo (1994, p. 125), a tipicidade formal consiste na exata correspondncia entre uma conduta da vida real a um tipo incriminador. 60 O contrapondo da tipicidade formal e a denominada tipicidade material, que e aplicavel no mbito do Direito Penal e e cunhada pelos Principios da Insignificncia e da Ofensividade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O dever legal de revelar fatos conhecidos em virtude do exercício da profissão, salvo por motivo justo ou consentimento por escrito do paciente, é definido pelo artigo 33 do Código Penal Militar. A tipicidade formal consiste na correspondência entre uma conduta da vida real e um tipo incriminador, enquanto a tipicidade material é aplicada pelos princípios da insignificância e da ofensividade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O habeas corpus  um meio de impugnao de decises manejvel pela defesa do acusado ou do sentenciado. No julgamento da apelao a deciso  tomada por maioria de votos, mas no caso de empate, prevalecer a deciso mais favorvel ao ru (artigo 535, pargrafo 4, CPPM). O STF decidiu que os dispositivos do artigo 417, pargrafos 2  e 3 do CPPM no foram recepcionados pela Constituio Federal ao no assegurar ao acusado paridade de armas de arrolar igual nmero de testemunhas do Ministrio Pblico, com ofensa aos princpios da isonomia e da ampla defesa, reconhecido o direito de o acusado de arrolar igual nmero de testemunhas facultadas ao Ministrio Pblico pelo artigo 77, h, do CPPM, sem limite quanto s informantes. O artigo 90-A da Lei 9.099/95, acrescentado pela Lei 9.839/99, dispe que As disposies desta Lei no se aplicam no mbito da Justia Militar. No obstante o STF firmou entendimento pela legalidade da vedao feita pelo artigo 90-A da Lei 9.099/95, a matria no parece pacificada. Assim, para a reflexo, cabe indagar se a vedao feita pelo artigo 90-A da Lei 9.099/95 violaria a garantia da igualdade? Com a vedao fica, portanto, dispensada a exigncia de representao da vtima nos crimes de leso leve e culposa (artigo 209, caput, e 210 do CPM). Sobre essa dispensa da lei, Denilson Feitosa entende que no viola a garantia da igualdade, por haver diferena de tratamento entre o militar ru no processo penal militar e o civil ru no processo penal comum. A primeira diferena em seu entender  a rigidez da hierarquia e disciplina das organizaes militares. O argumento  to cmodo como insatisfatrio. No h relao entre a garantia de igualdade que deve haver entre todos os brasileiros e as instituies militares serem organizadas com base na hierarquia e disciplina (norma constitucional de organizao). Captulo IV. Princpios e Regras Processuais.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O habeas corpus um meio de impugnao de decises manejvel pela defesa do acusado ou do sentenciado. O STF decidiu que o artigo 417 do CPPM não assegura ao acusado paridade de armas de arrolar igual número de testemunhas do Ministério Público, com ofensa aos princípios da isonomia e da ampla defesa. O artigo 90-A da Lei 9.099/95, acrescentado pela Lei 9.839/99, dispõe que as disposições desta Lei não se aplicam no âmbito da Justiça Militar. Denilson Feitosa entende que não viola a garantia da igualdade, pois há diferença de tratamento entre o militar ru no processo penal militar e o civil ru no processo penal comum.

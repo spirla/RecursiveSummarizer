@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A proposito da tramitacao de credito orcamentario extraordinario para fazer frente as vulnerabilidades, as vidas em jogo nao podem ficar na dependencia da burocracia estatal ou das idiossincrasias politicas. Estao em xeque clausulas vitais de saude coletiva. Alem disso, a solucao de conflitos sobre o exercicio da competencia deve pautar-se pela melhor realizacao do direito a saude. Identificada omissao estatal ou gerenciamento erratico, como aparentemente se apresenta, e viavel a interferencia judicial para a concretizacao do direito social a saude, cujas acoes e servicos sao marcados constitucionalmente pelo acesso igualitario e universal. Deve ser exigido do governo federal que suas acoes sejam respaldadas por criterios tecnicos e cientificos, e que sejam implantadas as politicas publicas a partir de atos administrativos logicos e coerentes. Nao e logico, coerente ou cientificamente defensavel a diminuicao do numero de leitos de UTI custodiados pela Uniao em momento desafiador da pandemia, justamente quando constatado incremento das mortes e das internacoes hospitalares. Cumpre enfatizar que a programatica constitucional nao placita retrocessos injustificados no direito social a saude. Em juizo de delibacao, evidencia-se a presenca do requisito da probabilidade do direito. Afigura-se, ainda, o perigo da demora, que se revela intuitivo frente aos abalos causados pela pandemia. Nao ha nada mais urgente do que o desejo de viver. O nao enderecamento agil e racional do problema pode multiplicar o numero de obitos e potencializar a tragedia humanitaria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A solução de conflitos sobre o exercício da competência deve pautar-se pela melhor realização do direito à saúde. 2. É viável a interferência judicial para a concretização do direito social à saúde, cujas ações e serviços são marcados constitucionalmente pelo acesso igualitário e universal. 3. É necessário exigir do governo federal que suas ações sejam respaldadas por critérios técnicos e científicos, e que sejam implantadas as políticas públicas a partir de atos administrativos lógicos e coerentes. 4. A programática constitucional não placita retrocessos injustificados no direito social à saúde. 5. Evidencia-se a presença do requisito da probabilidade do direito. 6. É necessário endereçar agil e racionalmente o problema para evitar o aumento do número de óbitos e potencializar a tragédia humanitária.

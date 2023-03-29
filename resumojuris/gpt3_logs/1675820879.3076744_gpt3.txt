@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ademais, a competencia atribuida aos municipios em materia de defesa e protecao da saude nao pode se sobrepor ao interesse mais amplo da Uniao no tocante a formulacao de uma politica de ambito nacional para o estabelecimento de regras uniformes, em todo o territorio nacional, com a finalidade de proteger a saude de toda populacao brasileira. Desse modo, ainda que a questao envolva materia relacionada a protecao de saude, a regulamentacao deve ser feita de forma homogenea no territorio brasileiro de acordo com os valores fixados pela Agencia Nacional de Telecomunicacoes (Anatel) e pela Organizacao Mundial da Saude (OMS), os quais sao obtidos por meio de embasamento cientifico com a finalidade de proteger a populacao em geral e viabilizar a operacao dos sistemas de telefonia celulares com limites considerados seguros. Assim, diante do aumento da expansao dos servicos de telefonia movel no Pais, da multiplicacao na instalacao de antenas para possibilitar a execucao dos servicos e do fato de nao haver estudos conclusivos acerca de maleficios causados a saude pela emissao de radiacao por essas antenas, a necessidade de se garantir a defesa e a protecao da saude de todos constitui uma das atribuicoes da Uniao, cujo enfoque ha de ser necessariamente nacional. No caso, a norma municipal impugnada preve que os sistemas transmissores de telefonia nao poderao ser instalados em areas localizadas ate 100 metros de residencias, pracas, parques, jardins, imoveis integrantes do patrimonio historico-cultural, areas de preservacao permanente, areas verdes ou areas destinadas a implantacao de sistema de lazer. Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em arguicao de descumprimento de preceito fundamental para declarar a inconstitucionalidade do art. 2 da Lei 5.683/2018, do municipio de Valinhos. ADPF 732/SP, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A competência atribuída aos municípios em matéria de defesa e proteção da saúde não pode se sobrepor ao interesse mais amplo da União no tocante à formulação de uma política de âmbito nacional para o estabelecimento de regras uniformes, em todo o território nacional, com a finalidade de proteger a saúde de toda a população brasileira. 2. A regulamentação deve ser feita de forma homogênea no território brasileiro de acordo com os valores fixados pela Agência Nacional de Telecomunicações (Anatel) e pela Organização Mundial da Saúde (OMS), os quais são obtidos por meio de embasamento científico com a finalidade de proteger a população em geral e viabilizar a operação dos sistemas de telefonia celulares com limites considerados seguros. 3. A necessidade de se garantir a defesa e a proteção da saúde de todos constitui uma das atribuições da União, cujo enfoque ha de ser necessariamente nacional. 4. O Plenário, por maioria, julgou procedente o pedido formulado em arguição de descumprimento de preceito fundamental para declarar a inconstitucionalidade do art. 2 da Lei 5.683/2018, do município de Valinhos.

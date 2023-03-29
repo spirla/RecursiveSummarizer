@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O Conselho Especial de Justia manifestou-se no sentido de que: [...] Considerando a notoriedade da postura tomada pelo Cb PM QPR Cleines Pinto de Oliveira, no sentido de continuar a publicao de arquivos audiovisuais no mundo globalizado da internet, a garantia da ordem pblica deve ser imediatamente preservada, evitando falcias que colocam em xeque a manuteno da hierarquia e disciplina da PMMG, a qual vem, inclusive, atingindo pessoas de cargos de alto escalo da Corporao. No se pode admitir que a reforma de um militar seja sinnimo de afronta e desrespeito aos princpios basilares do militarismo, mesmo porque o militar conserva as responsabilidades e prerrogativas do posto ou graduao, como muito assevera o art. 13 do CPM. Somado a isso,  de se perceber pelos documentos constantes nos autos que o acusado vem se furtando do recebimento de citao e intimaes decorrentes do processo. A ttulo de exemplo, a intimao de evento 132, OFIC2, registra a quantidade de 06 (seis) testemunhas para o ato de recusa, o que reflete a sua insurgncia s determinaes judiciais. Nesse sentido, na hiptese de eventual condenao, restando dvidas concretas quanto a segurana da aplicao da lei penal militar, a decretao da priso preventiva  medida que se impe, mesmo porque a instaurao da ao penal no foi suficiente para prevenir a continuidade de sua postura antirregulamentar e antissocial [...] J o defensor pblico que representou o ru, ora paciente, na mesma audincia, discordou da manifestao do ilustre representante do Ministrio Pblico, no tocante  decretao da priso preventiva, pois disse, com base no artigo 257 do Cdigo de Processo Penal Militar, que: no h como se presumir que o acusado v fugir ou exercer influncia sobre testemunha ou perito, ademais, pelo princpio da proporcionalidade, ainda que o mesmo receba uma condenao, a pena imposta ao delito que lhe  imputado, no comportar priso em regime fechado. Assim entende a Defensoria Pblica, descabida, a decretao da preventiva. Lado outro, tem-se notcias a respeito da duvidosa higidez mental do Sr. Cb Cleines, fato, que, por si s, o restaria inimputvel. Dessa forma, a Defensoria Pblica requer, ainda, a expedio de ofcio  DRH/PMMG, para que esclarea o motivo da reforma do requerido [...]. O paciente tem convico dos temas que abordou em seus vdeos e tambm possui prova material e testemunhal dos fatos que denunciou. A priso deve ser o ltimo recurso do Estado Democrtico de Direito, e o paciente no representa qualquer perigo real  populao ou a qualquer pessoa. O juzo a quo est atuando com abuso de poder e sem a devida imparcialidade, pois, por questes particulares, decretou a priso do paciente,  margem da legislao ptria e do devido processo legal.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho Especial de Justia manifestou-se no sentido de que a priso preventiva deve ser decretada para preservar a ordem pública e garantir a hierarquia e disciplina da PMMG, considerando a postura do acusado de continuar a publicar arquivos audiovisuais na internet. O defensor público discordou da decretação da prisão preventiva, pois não há risco de fuga ou influência sobre testemunhas ou peritos, além de haver notícias sobre a duvidosa saúde mental do acusado. A Defensoria Pública também requer a expedição de ofício à DRH/PMMG para esclarecer o motivo da reforma do requerido.

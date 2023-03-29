@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+125,  4o , da Constituio Federal, por terem sido, os atos de expulso, praticados por autoridade incompetente, j que semelhantes atos s podem ser praticados por deciso de tribunal castrense. Sustentam, em sntese: a) a nova ordem constitucional alterou profundamente o processo de demisso e expulso das praas das polcias militares; b) o objetivo da Constituio Federal foi o de equiparar as praas aos oficiais, submetendo-os ao mesmo regime jurdico; c) a mesma garantia que j havia sido concedida pelas Constituies anteriores aos oficiais  ou seja, a de s perderem o posto e a patente por deciso da justia castrense  foi agora estendida s praas. A deciso de fls. 659/660 admitiu o recurso e assim subiram os autos. O Subprocurador-Geral da Repblica, Dr. Roberto Monteiro Gurgel Santos, opinou pelo provimento do recurso.  o relatrio. VOTO O Sr. Ministro CARLOS VELLOSO (Relator): Em caso igual, RE 199.800-SP, proferi o seguinte voto: "O ora recorrente foi excludo das fileiras da Polcia Militar de So Paulo. O ato demissrio foi precedido de processo administrativo, no qual foi assegurado, ao demitido o contraditrio e o direito de defesa. O acrdo recorrido entendeu perfeito o ato impugnado. Sustenta-se, no recurso, ofensa ao art. 125,  4, da C.F. : o ato somente poderia ter sido praticado pela Justia Militar. Est no voto do Desembargador Correia Lima, Relator: [.] Anteriormente  edio do novo texto magno vigia o art. 102 do Cdigo Penal Militar dispondo que a condenao de praas e oficiais a pena privativa de liberdade superior a 2 anos desencadeava, automaticamente, a expulso do miliciano. Tambm a condenao pela Justia Comum provocava a demisso automtica, sempre como pena acessria. A pena acessria deixou de ser automtica e passou  competncia exclusiva do Tribunal de Justia Militar, exigindo instaurao de procedimento especfico e tornando revogado o art. 102 do Cdigo Penal Militar. (Negritei). O Colendo Supremo Tribunal Federal, no julgamento do Recurso Extraordinrio n 121.533-0-MG, abordando a matria, assinalou: "O artigo 125,  4, in fine, da Constituio, subordina a perda de graduao das praas das polcias militares  deciso do tribunal competente, mediante procedimento especfico, no subsistindo, em consequncia, em relao aos referidos graduados, o artigo 102 do Cdigo Penal Militar, que a impunha como pena acessria da condenao criminal a priso superior a dois anos" (RE n 121.533-0-MG, Pleno, J.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de Justia Militar foi reconhecido como a autoridade competente para a demissão e expulsão de praças das polícias militares, de acordo com o art. 125, § 4º, da Constituição Federal. A decisão foi fundamentada no julgamento do Recurso Extraordinário n. 121.533-0-MG, no qual foi reconhecido que o artigo 125, § 4º, subordina a perda de graduação das praças das polícias militares à decisão do tribunal competente, revogando o artigo 102 do Código Penal Militar.

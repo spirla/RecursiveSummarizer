@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Esta Corte  diante da omissao do legislador nacional em estabelecer normas gerais pertinentes a competencia para instituir o ITCMD  tem reconhecido, reiteradamente, a inconstitucionalidade de leis ou decretos estaduais sobre o tema, haja vista a necessidade da edicao de lei complementar para fins de instituicao do imposto sobre transmissao causa mortis e doacao pelos estados e DF, nas situacoes especificamente ressal-vadas na CF/88. No julgamento do RE 851.108 (Tema 825 RG), o Tribunal consignou a impossibilidade de os estados-membros e o Distrito Federal usarem da competencia legislativa plena, com fundamento no art. 24,  3, da CF e no art. 34,  3, do ADCT, para a instituicao do ITCMD nas hipoteses previstas no art. 155,  1, III, casos em que ficaria ela condicionada a previa regulamentacao mediante lei complementar federal. Ademais, o STF reconheceu a omissao inconstitucional na regulamentacao do artigo 155,  1, III, da CF e estabeleceu prazo para que o Congresso Nacional edite lei complementar com normas gerais definidoras do ITCMD nas doacoes e nas herancas instituidas no exterior. Com base nesse entendimento, o Plenario declarou a inconstitucionalidade do art. 7, III, do Decreto 10.306/2011, do Estado de Alagoas, bem como a nulidade, sem reducao de texto, do art. 7, I, a, do mesmo diploma, para fins de excluir de seu programa normativo a possibilidade de incidencia de ITCMD em relacao a inventarios e arrolamentos processados no exterior, com a modulacao dos efeitos da decisao, para que tenha eficacia a partir da publicacao do acordao prolatado no RE 851.108 (20.4.2021), estando ressalvadas as acoes judiciais pendentes de conclusao ate o mesmo marco temporal em que se discuta (1) a qual Estado o contri-buinte deveria efetuar o pagamento do ITCMD, considerando a ocorrencia de bitributacao; ou (2) a validade da cobranca desse imposto, nao tendo sido pago anteriormente .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É necessária a edição de lei complementar para fins de instituição do ITCMD pelos estados e Distrito Federal, nas situações especificamente ressalvadas na CF/88. 2. O STF reconheceu a omissão inconstitucional na regulamentação do artigo 155, 1, III, da CF e estabeleceu prazo para que o Congresso Nacional edite lei complementar com normas gerais definidoras do ITCMD nas doações e nas heranças instituídas no exterior. 3. O Plenário declarou a inconstitucionalidade do art. 7, III, do Decreto 10.306/2011, do Estado de Alagoas, bem como a nulidade, sem redução de texto, do art. 7, I, a, do mesmo diploma, para fins de excluir de seu programa normativo a possibilidade de incidência de ITCMD em relação a inventários e arrolamentos processados no exterior. 4. A eficácia da decisão tem como marco temporal a publicação do acórdão prolatado no RE 851.108, estando ressalvadas as ações judiciais pendentes de conclusão até o mesmo marco temporal.

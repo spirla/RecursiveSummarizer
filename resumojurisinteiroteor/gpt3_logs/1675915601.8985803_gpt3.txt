@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+4. O requerente no usufruiu do benefcio verificado no art. 94 do CEDM, porque se encontrava processado. 5. Quanto ao princpio da proporcionalidade,  verificado no prprio texto legal, em que os atos praticados so enquadrados. A razoabilidade, alm de constituir questo de mrito,  a avaliao qualitativa e discricionria da autoridade sancionadora, conforme os parmetros de competncia que os textos legais lhe asseguram. As questes de mrito no so examinadas no Judicirio, face ao que dispe o art. 3 da Constituio Federal. 6. Quando a autoridade administrativa disciplinar cumpre o deu dever legal, no h que se falar em indenizao por danos morais. Ademais, estes, bem como os materiais, sequer foram demostrados; apenas alegados perfunctoriamente. 7. O requerente no trouxe aos autos qualquer irregularidade formal que possa ter ocorrido no PAD, nem comprova ilegalidade capaz de ensejar a decretao de nulidade do Procedimento. Tudo transcorreu dentro da mais escorreita normalidade, facultando ao requerente os direitos constitucionais do contraditrio e da ampla defesa. 8. Inexistindo razes fticas ou jurdicas para a reviso da deciso da autoridade sancionadora, impe-se o indeferimento do pedido do autor. [...] Assim, julgou improcedentes os pedidos da inicial e condenou o autor, Paulino Pereira de Souza Jnior, ao pagamento das custas processuais e dos honorrios advocatcios provenientes da sucumbncia, fixados em 20% (vinte por cento) do valor dado  causa, ficando suspensa a exigibilidade de cobrana, nos termos do 3 do art. 98 do CPC/2015. Aps, sobreveio tempestivo recurso de apelao do autor (evento 41), em cujas razes sustenta a possibilidade de interveno do poder judicirio no mrito administrativo, tendo em vista que a deciso proferida pelo administrador pblico se encontra eivada de vcios.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O requerente não usufruiu do benefício verificado no art. 94 do CEDM, pois se encontrava processado. O princípio da proporcionalidade foi verificado, porém as questões de mérito não são examinadas pelo Judiciário. Não houve comprovação de danos morais ou materiais e o requerente não trouxe aos autos qualquer irregularidade formal. Assim, o pedido foi indeferido e condenou o autor ao pagamento das custas processuais e dos honorários advocatícios.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por maioria, referendou a tutela provisoria incidental parci-almente deferida, para determinar a adocao de um regime de transicao para a retomada da execucao de deci-soes suspensas na presente acao, nos seguintes termos: (a) Os Tribunais de Justica e os Tribunais Regionais Federais deverao instalar, imediatamente, comissoes de conflitos fundiarios que possam servir de apoio opera-cional aos juizes e, principalmente nesse primeiro momento, elaborar a estrategia de retomada da execucao de decisoes suspensas pela presente acao, de maneira gradual e escalonada; (b) Devem ser realizadas inspecoes judiciais e audiencias de mediacao pelas comissoes de conflitos fundiarios, como etapa previa e necessaria as ordens de desocupacao coletiva, inclusive em relacao aquelas cujos mandados ja tenham sido expedidos. As audiencias devem contar com a participacao do Ministerio Publico e da Defensoria Publica nos locais em que esta estiver estruturada, bem como, quando for o caso, dos orgaos responsaveis pela politica agraria e urbana da Uniao, estados, Distrito Federal em municipios onde se situe a area do litigio, nos termos do art. 565 do CPC e do art. 2,  4, da Lei 14.216/2021; (c) As medidas administrativas que possam resultar em remo-coes coletivas de pessoas vulneraveis devem: (i) ser realizadas mediante a ciencia previa e oitiva dos represen-tantes das comunidades afetadas; (ii) ser antecedidas de prazo minimo razoavel para a desocupacao pela popu-lacao envolvida; (iii) garantir o encaminhamento das pessoas em situacao de vulnerabilidade social para abri-gos publicos (ou local com condicoes dignas) ou adotar outra medida eficaz para resguardar o direito a mora-dia, vedando-se, em qualquer caso, a separacao de membros de uma mesma familia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+(a) Os Tribunais de Justiça e os Tribunais Regionais Federais deverão instalar imediatamente comissões de conflitos fundiários para apoiar os juízes e elaborar a estratégia de retomada da execução de decisões suspensas pela presente ação, de forma gradual e escalonada. (b) Devem ser realizadas inspeções judiciais e audiências de mediação pelas comissões de conflitos fundiários, como etapa previa e necessária às ordens de desocupação coletiva, inclusive em relação aquelas cujos mandados já tenham sido expedidos. (c) As medidas administrativas que possam resultar em remoções coletivas de pessoas vulneráveis devem ser realizadas com ciência prévia e oitiva dos representantes das comunidades afetadas, antecedidas de prazo mínimo razoável para a desocupação pela população envolvida, garantindo o encaminhamento das pessoas em situação de vulnerabilidade social para abrigos públicos (ou local com condições dignas) ou adotar outra medida eficaz para resguardar o direito à moradia, vedando-se, em qualquer caso, a separação de membros de uma mesma família.

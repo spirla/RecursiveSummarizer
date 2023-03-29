@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+O Juiz de Primeiro Grau prolatou a sentena que se encontra no Evento n. 23, da qual destaco, por oportuno, o seguinte trecho: Analisando os autos, observa-se, pela documentao acostada, Evento 6, que ocorre identidade de aes, visto que se tratam das mesmas partes, causas de pedir e pedido, mormente pela anlise da inicial do presente processo e da Certido de Inteiro teor da Ao que tramitou perante a 2a AJME, conforme Evento 6, CERT1- Autos n. 1000095-64.2015.9.13.0002. A Ao n. 1000095-64.2015.9.13.0002 foi distribuda em 14.12.2015, tramitou perante a 2a AJME, sendo prolatada, em 06.04.2016, sentena de mrito - Evento6, SENT3. O pedido do autor foi julgado improcedente. Interposto Recurso de Apelao, houve negativa de provimento, sendo a sentena de Primeiro Grau, confirmada pela egrgia Segunda Cmara Cvel do TJMMG, cujo trnsito em julgado ocorreu em data de 13.09.2016, conforme Evento6, ACOR4. O pedido contido na ao supracitada encontra-se acobertado pela coisa julgada, nos termos dos arts. 502, 503, 505 e 508, todos do CPC/2015, no podendo este juiz decidir novamente as questes j decididas relativas  mesma lide. Foi apresentada, na data de 13 de julho de 2021, a manifestao no Evento 13, PET1, no sentido de que o autor tem doena incurvel e que estaria juntando mais laudos nos quais haveria a possibilidade de verificar fatos novos, que, a seu ver, comprovariam a sua doena anterior ao fato de sua excluso, requerendo o prosseguimento do feito. No entanto, o seu pedido de decretao de nulidade de ato administrativo disciplinar demissionrio, baseando-se em fato novo,  contrrio ao texto expresso da lei - art. 508, do CPC/2015. Desta forma, resta evidenciada a existncia de coisa julgada, nos termos do art. 337,  1 e 4, do CPC/2015, sendo vedada a prolao de nova deciso neste feito, consoante prescrevem o art. 5, XXXVI, CF, e o art. 494, do CPC/2015. Feitas tais consideraes, o juiz sentenciante determinou a extino do feito sem resoluo de mrito, nos termos do art. 485, V, e seu  3, do CPC/15, bem como condenou o "autor ao pagamento das custas processuais e, quanto aos honorrios advocatcios, em 20% (vinte por cento) do valor dado  causa, suspendendo-se a cobrana, por ter-lhe sido concedida a justia gratuita, nos termos do 3 do art. 98, do CPC/2015.. Irresignada, a defesa do autor apresentou recurso de apelao (Evento 29). Asseverou, em sntese, que os motivos que ensejaram a propositura da Ao n. 1000095-64.2015.9.13.0002 so diferentes daqueles que aliceraram o presente feito, at porque nestes autos foi formulado pedido de indenizao, o qual no constou do processo anterior.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Juiz de Primeiro Grau prolatou sentena que determinou a extino do feito sem resoluo de mrito, nos termos do art. 485, V, e seu 3, do CPC/15, bem como condenou o autor ao pagamento das custas processuais e honorrios advocatcios, em 20% do valor dado causa, com a suspensão da cobrança por ter sido concedida a justia gratuita. O recurso de apelao alegou que os motivos que ensejaram a propositura da ação são diferentes daqueles que aliceraram o presente feito.

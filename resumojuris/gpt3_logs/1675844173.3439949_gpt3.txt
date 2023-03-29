@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+795 Frisa-se, na mesma linha, a manifestacao da Procuradoria-Geral da Republica, para quem nao houve nova valoracao das circunstancias judiciais na primeira fase da dosimetria da pena, mas apenas o apontamento de elementos concretos para fundamentar o patamar aplicado em razao da continuidade delitiva, nos exatos termos do art. 71, paragrafo unico, do Estatuto Repressivo, nao havendo cogitar-se de reformatio in pejus . (Informativo n. 734) PROCESSO Processo sob segredo judicial, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 05/04/2022. RAMO DO DIREITO DIREITO PENAL, DIREITO PROCESSUAL PENAL, DIREITOS HUMANOS TEMA Violencia domestica contra mulher trans. Aplicacao da Lei n. 11.340/2006. Lei Maria da Penha. Afastamento de aplicacao do criterio exclusivamente biologico. Distincao entre sexo e genero. Identidade. Relacao de poder e modus operandi.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não houve nova valoração das circunstâncias judiciais na primeira fase da dosimetria da pena, mas apenas o apontamento de elementos concretos para fundamentar o patamar aplicado em razão da continuidade delitiva, nos exatos termos do art. 71, parágrafo único, do Estatuto Repressivo. 2. É afastada a aplicação do critério exclusivamente biológico para a violência doméstica contra mulheres trans, devendo ser feita a distinção entre sexo e gênero, bem como considerada a identidade e a relação de poder e modus operandi.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PA=150x90 SAT O2= 99% FC= 105 bpm FR=20 irpm O mdico subscritor do referido documento, Dr. Pedro Paulo de Moraes, esclareceu, em fase inquisitorial, que: [..] o paciente chegou com escoriaes em face e queixo, e discreto edema de punho e joelho; Perguntado ao declarante se o paciente apresentava sinais de agresso; Respondeu que o paciente apresentava escoriaes em face e queixo e discreto edema no punho e joelho, mas no pode afirmar se foi agresso; Perguntado ao depoente se havia no corpo do paciente queimaduras ou irritao no rosto (provocado possivelmente por derivados de pimenta); Respondeu que no; Perguntado ao depoente se o paciente apresentava marcas de algemas nos punhos; Respondeu que no; Perguntado ao depoente se haviam outros sinais que possam indicar ter sido a vtima agredida/torturada; Respondeu que a vtima apresentava escoriaes em face e queixo, e edema de punho e joelho, e que esse edema de punho no tem como afirmar que foi provocado algema, pois, era discreto; Que o depoente recorda que o paciente Diego, relatou que era por volta de 01h00min, quando foi abordado por policiais militares, e segundo ele foi agredido por quatro policiais militares; Que o paciente deu entrada no hospital no horrio de 08h06min, do dia 06/04/2016 [...] - evento 1 - OUT7, pgs. 45/46 No mesmo sentido, em juzo, o mdico Pedro Paulo de Moraes confirmou o depoimento prestado em fase inquisitorial e, ao ser questionado se podia afirmar que a vtima teria sido agredida ou torturada, disse que: no tem como delimitar se foi agresso ou se ele caiu, no tem como falar como foi criada aquela leso, eu tenho como falar como  a leso, eu tenho um edema de punho agora se foi por algemas, se foi por compresso porque amarraram ele no sei, no d para dizer,  prejudicado demais para falar [...] - evento 274, AUDIO/VDEO02 - autos de Primeira Instncia. O exame pericial indireto, realizado em 21/09/2016 pela Polcia Civil - Posto de Percia Integrada/Betim, a partir do "relatrio/receiturio mdico supramencionado, no esclareceu como teria sido produzida a ofensa  integridade corporal da vtima (evento 314, OFIC1, pgs. 57/58 - autos de Primeira Instncia). Na mesma esteira, verifica-se que o horrio que a vtima afirmou ter sido liberada do quartel, por volta das 05:00, especificamente pelo Cb Ribeiro (evento 112, VDEO2 - autos de Primeira Instncia) no  compatvel com a escala de servio do referido militar. Observa-se que a guarnio policial formada pelos apelantes Cb PM Jos Ribeiro Neto e Sd PM Alexssandro Rodrigues do Nascimento estava escalada para o turno 3/4/1, ou seja, das 17:00 do dia 05/04/2016 s 03:00 do dia 06/04/2016 (evento 314, OFIC1, pg.13).
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O exame pericial indireto realizado pela Polícia Civil não esclareceu como teria sido produzida a ofensa à integridade corporal da vítima. O horário informado pela vítima de liberação do quartel, por volta das 05:00, não foi compatível com a escala de serviço da guarnição policial formada pelos apelantes.

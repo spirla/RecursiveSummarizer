@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+De fato, nao ha ilegalidade na recusa do oferecimento de proposta de acordo de nao persecucao penal quando o representante do Ministerio Publico, de forma fundamentada, constata a ausencia dos requisitos subjetivos legais necessarios a elaboracao do acordo, de modo que este nao atenderia aos criterios de necessidade e suficiencia em face do caso concreto. Ademais, de acordo com entendimento ja esposado pela Primeira Turma do Supremo Tribunal Federal, a possibilidade de oferecimento do acordo de nao persecucao penal e conferida exclusivamente ao Ministerio Publico, nao constituindo direito subjetivo do investigado . Assim, cuidando-se de faculdade do Parquet, a partir da ponderacao da discricionariedade da propositura do acordo, mitigada pela devida observancia do cumprimento dos requisitos legais, nao cabe ao Poder Judiciario determinar ao Ministerio Publico que oferte o acordo de nao persecucao penal . (RHC n. 161.251/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/5/2022, DJe de 16/05/2022). (Informativo n. 750) PROCESSO Processo sob segredo de justica, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 16/08/2022, DJe 22/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Mandado de busca e apreensao. Requisitos. Art. 243 do CPP. Detalhamento do que pode ou nao ser arrecadado.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há ilegalidade na recusa do oferecimento de proposta de acordo de não persecução penal quando o representante do Ministério Público, de forma fundamentada, constata a ausência dos requisitos subjetivos legais necessários à elaboração do acordo. 2. A possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado. 3. Não cabe ao Poder Judiciário determinar ao Ministério Público que oferte o acordo de não persecução penal.

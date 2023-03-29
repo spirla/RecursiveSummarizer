@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 7, X, da Lei 8.906/94 (EAOAB) garante ao advogado:
+usar da palavra, pela ordem, em qualquer juzo ou tribunal, mediante interveno sumria, para esclarecer equvoco ou dvida surgida em relao a fatos, documentos ou afirmaes que influam no julgamento, bem como para replicar acusao ou censura que lhe forem feitas. A sustentaooral traduz prerrogativa jurdica de essencial importncia e compe o estatuto constitucional do direito de defesa e se h pedido para sustentao oral  imperiosa a intimao da defesa da data do julgamento da apelao. Consoante a pacfica jurisprudncia do STF, ainda que resida em outro ente da Federao, o advogado constitudo  intimado da sesso de julgamento pela imprensa oficial, sendo a intimao pessoal prerrogativa apenas do defensor pblico e do defensor dativo. O STJ segue o mesmo entendimento de que a falta de intimao do advogado para sustentao oral, expressamente requerida,  causa de nulidade por cerceamento de defesa. Por outro vrtice, foi reiterado no HC 107.054-SP, Informativo STF 734, ser facultativa a sustentao oral:
+1. O Supremo Tribunal Federal fixou o entendimento de que, por possuir carter facultativo, o indeferimento de pedido de adiamento de sesso de julgamento, pela impossibilidade de comparecimento do advogado da parte para oferecer sustentao oral, no gera nulidade.. Ademais, conforme j se manifestou a Suprema Corte a excepcionalidade do adiamento de uma sesso de julgamento, por alegada impossibilidade de comparecimento do Advogado do ru, impe e justifica a exigncia de necessria comprovao da causa impeditiva invocada. Esse nus processual, que foi por ele descumprido, no pode ser, agora, invocado em benefcio do impetrante, para o efeito de desconstituir deciso validamente proferida pelo Tribunal (HC 61.714/RJ, Primeira Turma, Relator o Ministro Celso de Mello, DJ de 15/3/91).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei 8.906/94 (EAOAB) garante ao advogado o direito de usar da palavra em juízos e tribunais para esclarecer equívocos ou dúvidas, bem como para replicar acusações. O STF e o STJ entendem que a falta de intimacão do advogado para sustentação oral, expressamente requerida, é causa de nulidade por cerceamento de defesa. Porém, o adiamento de uma sessão de julgamento, por alegada impossibilidade de comparecimento do advogado do réu, é facultativo e exige comprovação da causa impeditiva invocada.

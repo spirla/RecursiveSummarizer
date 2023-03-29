@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O CPPM exige o contraditrio no artigo 379:
+Sempre que, no curso do processo, um documento for apresentado por uma das partes, ser ouvida, a respeito dele, a outra parte. Se junto por ordem do juiz, sero ouvidas ambas as partes, inclusive o assistente de acusao e o curador do acusado, se o requererem. Aps a sentena  vedada a juntada de documento por implicar em supresso de um grau de jurisdio. Dispe o artigo 378, pargrafos 1 e 2, do CPPM que o documento  exibido ou produzido por ordem judicial:
+pargrafo 1. Se o juiz tiver notcia da existncia de documento relativo a ponto relevante da acusao ou da defesa, providenciar, independentemente de requerimento das partes, para a sua juntada aos autos, se possvel.pargrafo 2. Poder, igualmente, requisitar s reparties ou estabelecimentos pblicos as certides ou cpias autnticas necessrias  prova de alegaes das partes. A correspondncia particular, interceptada ou obtida por meios criminosos, no ser admitida em juzo, devendo ser desentranhada dos autos se a estes tiver sido juntada, para a restituio a seus donos (artigo 375, CPPM). A correspondncia de qualquer natureza poder ser exibida em juzo pelo respectivo destinatrio, para a defesa do seu direito, ainda que no haja consentimento do signatrio ou remetente (artigo 376, CPPM). O mdico tem dever legal de liberar cpias do pronturio sob sua guarda para atender ordem judicial. O mdico deve prestar informaes sobre fatos mantidos sob segredo profissional, nos casos de crimes de ao pblica, quando solicitado por qualquer autoridade, inclusive policial. O juiz, de ofcio ou a requerimento das partes, poder ordenar diligncia para a conferncia de pblica-forma de documento que no puder ser exibido no original ou em certido ou cpia autntica revestida dos requisitos necessrios  presuno de sua veracidade. A conferncia ser feita pelo escrivo do processo, em dia, hora e lugar previamente designados, com cincia das partes (artigo 380, CPPM). A devoluo de documentos originais, se findo o processo,  feita conforme dispe o artigo 381 do CPPM. 14.2.12. Prova indiciria.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O CPPM exige o contraditório no artigo 379, prevendo a juntada de documentos por ordem judicial (artigo 378) e a devolução dos documentos originais após o processo (artigo 381). É vedada a juntada de documentos após a sentença, bem como a admissão de correspondência obtida por meios criminosos. O juiz pode ordenar a conferência de documentos em dia, hora e lugar previamente designados. O médico tem o dever legal de liberar cópias do prontuário para atender ordem judicial e de prestar informações sobre fatos mantidos sob segredo profissional.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+No caso da suspenso dos direitos polticos que impea a candidatura do condenado, o direito da sociedade de ser representada e de ter os recursos pblicos administrados por pessoa que no esteja sob efeitos de reprovao de natureza penal justificam a medida. No entanto, no h interesse social que legitime a restrio imposta ao condenado de votar. Segundo dados do Conselho Nacional Justia, em maio de 2014, havia 563. (quinhentos e sessenta e trs mil, quinhentos e vinte e seis)26 condenados efetivamente cumprindo pena privativa de liberdade no Brasil (no computados os que cumprem priso domiciliar). Essa significativa parcela do eleitorado brasileiro  excluda do processo de escolha da representao popular, evidenciando uma fragilidade importante de nosso ambiente democrtico. 18.1.4. Suspenso do exerccio do poder familiar. O Cdigo Civil de 1916 instituiu o ptrio poder como um nus imposto aos pais em favor dos filhos menores. Segundo o Cdigo revogado, durante o casamento, o ptrio poder era exercido pelo marido, com a colaborao da mulher (artigo 380). O novo Cdigo Civil, em ateno ao princpio de que os direitos e deveres referentes  sociedade conjugal so exercidos igualmente pelo homem e pela mulher (artigo 226, pargrafo 5, da CR), extinguiu o ptrio poder e instituiu o poder familiar. O poder familiar tambm  um nus em favor dos filhos incapazes. Mas, agora, durante o casamento e a unio estvel, o poder familiar compete a ambos os pais (artigo 1. do CC). No h mais a preponderncia da vontade do pai sobre a vontade da me. Ambos devem compartilhar as responsabilidades inerentes  criao e educao dos filhos menores, com igualdade de direitos. As demais caractersticas essenciais do novo instituto no divergem do anterior ptrio poder. Dessa forma, compete aos pais dirigir a criao e educao dos filhos menores, t-los em sua companhia e guarda, bem como represent-los, at os dezesseis anos, nos atos da vida civil. Com muito atraso, a Lei 13.715, de 24 de setembro de 2018, alterou a redao do inciso II do artigo 92 do Cdigo Penal para possibilitar ao juiz da condenao impor o efeito da incapacidade para o poder familiar. Tal efeito, como veremos adiante, no  automtico e deve ser expressamente imposto na deciso condenatria. Se o efeito no for expressamente imposto na deciso condenatria, o condenado preservar a capacidade para o exerccio do poder familiar.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Civil de 1916 instituiu o pátrio poder como um nus imposto aos pais em favor dos filhos menores. O novo Código Civil extinguiu o pátrio poder e instituiu o poder familiar, que compete a ambos os pais, com igualdade de direitos. A Lei 13.715 possibilita ao juiz da condenação impor o efeito da incapacidade para o poder familiar. No caso da suspenso dos direitos políticos, há interesse social que legitima a restrição imposta ao condenado de votar, excluindo assim uma significativa parcela do eleitorado brasileiro.

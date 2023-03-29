@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+AUSNCIA DE PREQUESTIONAMENTO. SMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO. 1. [...]. 6. In casu, as causas de aumento de uso de arma de fogo e participao de servidor pblico esto devidamente configuradas e se tratam de circunstncias objetivas que se comunicam a todos os coautores do crime. A discusso a respeito da necessidade de cincia da recorrente quanto s elementares (uso de arma de fogo e participao de funcionrio pblico na organizao - PCC) para a comunicao no foi debatida, especificamente, no acrdo originrio, (ausncia de prequestionamento - Smulas n. 282/STF e n. 356/STF). 7. Agravo regimental desprovido [STJ. AgRg no AREsp 1602427/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/05/2020, DJe 03/06/2020. Grifos no existentes no original]. (Grifei). Por todas as razes expostas, dou provimento parcial ao recurso da acusao para reconhecer a causa de aumento de pena prevista no  2 do artigo 2 da Lei n. 12.850 de 2013, pelo que aumento de 1/6 (um sexto) a pena-base fixada para ambos os rus na primeira instncia. Assim, em relao ao ru Claudinei de Castro Rocha, a pena-base fixada na primeira instncia exasperada de 1/6 (um sexto), passa a 4 (quatro) anos e 8 (oito) meses de recluso. Sem causas atenuantes ou agravantes, mantenho a pena provisria nesta segunda fase do sistema trifsico em 4 (quatro) anos e 8 (oito) meses de recluso. Mantida a exasperao imposta pelo colendo CEJ de 2/3 (dois teros) da pena-base, pelo reconhecimento da causa de aumento do 4, inciso II do mesmo art. 2 da Lei n. 12.850 de 2013, torno a pena definitiva em 7 (sete) anos e 4 (quatro) meses de recluso. Em relao ao ru Dimitre Frederick Kicke Basaia, a pena-base fixada na primeira instncia para o crime de organizao criminosa, exasperada de 1/6 (um sexto) passa a 4 (quatro) anos e 8 (oito) meses de recluso.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Agravo Regimental foi desprovido e, em relação aos réus Claudinei de Castro Rocha e Dimitre Frederick Kicke Basaia, a pena-base foi aumentada de 1/6 (um sexto) para 4 (quatro) anos e 8 (oito) meses de reclusão, mantida a exasperação imposta pelo colendo CEJ de 2/3 (dois terços) da pena-base, pelo reconhecimento da causa de aumento do 4, inciso II do mesmo art. 2 da Lei n. 12.850 de 2013, tornando a pena definitiva em 7 (sete) anos e 4 (quatro) meses de reclusão.

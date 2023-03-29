@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A construo normativa no pode afastar-se da realidade dos fatos sociais para celebrar determinados ideais tcnicos. Tratando-se de bens jurdicos socialmente relevantes cuja comprovao da situao que os coloca em perigo ou que lhes produz dano for impossvel, pode o legislador, excepcionalmente, estabelecer punio para a violao da norma que lhe  protetiva. Na legislao brasileira, a incriminao do perigo abstrato  excepcional e fundamenta-se na necessidade de proteo aos interesses sociais maiores. Constitui outro exemplo de crime de perigo abstrato a duplicata simulada (artigo172 do CP), que  crime contra o patrimnio e est consumado com a simples emisso do documento falso. Nesse caso, no  exigncia tpica que ocorra a diminuio do patrimnio de quem quer que seja. 23.5.4. Crime de bagatela. A doutrina denomina de crime de bagatela o que, na verdade, no deve ser considerado como crime. Segundo o princpio do minina non curat praetor, o juiz no deve cuidar dos fatos mnimos. Pode-se dizer que o crime  de bagatela quando a conduta ou o ataque ao bem jurdico no justificam a interveno penal. Para os casos em que a conduta que no apresentar qualquer potencialidade de dano, ou quando a ofensa ao bem jurdico for to pequena, a doutrina utiliza, pejorativamente, a expresso bagatela. Segundo o princpio da insignificncia, as condutas que importem em ofensas insignificantes ao bem jurdico no so capazes de violar a norma jurdico-penal e caracterizar o tipo penal incriminador. Portanto, o crime de bagatela no pode ser considerado crime por no materializar ofensa material  norma jurdica subjacente ao tipo incriminador. A ideia da insignificncia se aplica tanto aos crimes de dano como aos de perigo. Uma ofensa insignificante ao bem jurdico  incapaz de violar materialmente a norma jurdica da mesma forma que a produo de situao de perigo insignificante. A norma penal se refere aos dados relevantes da realidade social e no a qualquer dado. No se pode aplicar os dispositivos legais que autorizam a interveno punitiva como meras abstraes conceituais. Se o dano e o perigo concreto so resultados naturalsticos, quando tais resultados forem insignificantes, a bagatela do fato impede reconhecer a violao da norma jurdica. O perigo abstrato, da mesma forma, somente se subsume  previso normativa quando a conduta for suficientemente relevante para ser considerada pela legislador como perigosa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A construo normativa deve levar em consideração a realidade social ao estabelecer punições para violações de normas protetivas. O crime de perigo abstrato, como o caso da duplicata simulada, é excepcional e se caracteriza pela necessidade de proteção a interesses sociais. Já o crime de bagatela não deve ser considerado como crime, pois não ofende a norma jurdica subjacente ao tipo incriminador.

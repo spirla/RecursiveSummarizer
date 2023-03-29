@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+5, LV, da Constituio Federal (CF) de 1988 - impossibilidade de apresentao de defesa prvia sem o conhecimento da integralidade da Ao Penal de n. 0239531-59.2008.8.13.0045, que tramitou perante a 2a Vara Criminal de Caet, MG. No mrito, alega que transcorreram 14 (quatorze) anos do fato ocorrido, em 19/04/2008, e no sobreveio qualquer outra nova intercorrncia negativa na carreira policial do militar, o que comprova, no seu entendimento, que o Cb Sandro tem prestado um servio excepcional para a PMMG, alm de que seus registros funcionais so positivos e at foi condecorado com uma medalha. Diz que a jurisprudncia deste Tribunal  farta de casos em que as representaes para perda de graduao so julgadas improcedentes. Alm do mais, sustenta que o Cb Sandro era subordinado do 3 Sgt PM Leonardo Zanon, comandante da guarnio policial e responsvel por todas as ordens dadas ao ora representado, e que o abordado era uma pessoa perigosa, conhecida no mundo do crime, o que exigia uma postura mais firme por parte dos militares. Por fim, a defesa do Cb PM Sandro ngelo de Oliveira requereu o acolhimento das preliminares de reconhecimento da prescrio da pretenso deduzida na presente demanda, o arquivamento e a baixa dos autos, a disponibilizao da cpia integral dos autos da Ao Penal n. 0239531-59.2008.8.13.0045 e, aps, a concesso de novo prazo para a apresentao de defesa escrita. No mrito, requereu que a presente representao seja julgada improcedente, nos termos alinhados. Com base no art. 417,  2, do Cdigo de Processo Penal Militar (CPPM), pugnou pela oitiva de testemunhas, cujo rol seria apresentado oportunamente. O ERF do 3 Sgt PM QPR Leonardo Zanon foi juntado no Evento 16 - EXTRATO1 - e possui os seguintes lanamentos: Situao funcional: INATIVO - PRESO/DISP. JUSTIA Recompensas Nota meritria: 15 Elogio individual: 03 Meno elogiosa: 06 Punies Suspenso: 03 Prestao de servio: 07 Repreenso: 01 Advertncia: 02 Conceito: B + 0 A procurao do advogado Willian Rosa da Costa (OAB/MG 184617) foi juntada no Evento 13 - PROC1. No Evento 23 - PET1 -, o representado 3 Sgt PM QPR Leonardo Zanon apresentou sua defesa escrita, com trs preliminares de nulidades insanveis, a saber: 1) Preliminar de incompetncia da 2a Vara Criminal de Caet A justia castrense possui competncia preestabelecida no art. 124 da CF/88 e 111 da Constituio Estadual, bem como no art. 9, II, "c do Cdigo Penal Militar, para processar e julgar os militares estaduais no cometimento de crimes militares. Desta forma, est reconhecida a incompetncia absoluta da justia estadual para processar e julgar o fato descrito na denncia, por ser matria de competncia desta justia especializada.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O representado alegou a impossibilidade de apresentação de defesa prévia sem o conhecimento da integralidade da Ação Penal n. 0239531-59.2008.8.13.0045, que tramitou perante a 2ª Vara Criminal de Caet, MG, e requereu o acolhimento das preliminares de reconhecimento da prescrição da pretensão deduzida na presente demanda, o arquivamento e a baixa dos autos, a disponibilização da cópia integral dos autos da Ação Penal e, após, a concessão de novo prazo para a apresentação de defesa escrita. O representado alegou ainda incompetência absoluta da justiça estadual para processar e julgar o fato descrito na denúncia, por ser matéria de competência da justiça especializada.

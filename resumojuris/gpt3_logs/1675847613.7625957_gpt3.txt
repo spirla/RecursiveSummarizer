@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Prisao automatica. Ilegalidade. Ausencia de elementos de cautelaridade. Repercussao geral. Tema n. 1.068 pendente de julgamento. DESTAQUE Pendente de julgamento no STF o Tema n. 1.068, em que se discute a constitucionalidade do art. 492, I, do CPP, deve ser reafirmado o entendimento do STJ de impossibilidade de execucao provisoria da pena mesmo em caso de condenacao pelo tribunal do juri com reprimenda igual ou superior a 15 anos de reclusao. Discute-se a legalidade da execucao provisoria da pena na forma do art. 492, I, e, parte final, do CPP, diante de condenacao pelo Tribunal do Juri, que resultou em reprimenda superior a 15 anos de reclusao. No entanto, o entendimento desta Corte, firmado em consonancia com a jurisprudencia do STF fixada no julgamento das ADCs n. 43, 44 e 54, e no sentido de ilegalidade da execucao provisoria da pena quando ausentes elementos de cautelaridade, previstos no art. 312 do CPP. A constitucionalidade do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilegal a execução provisória da pena quando ausentes elementos de cautelaridade previstos no art. 312 do CPP. 2. O entendimento do STJ é de impossibilidade de execução provisória da pena mesmo em caso de condenação pelo tribunal do júri com reprimenda igual ou superior a 15 anos de reclusão. 3. O julgamento das ADCs n. 43, 44 e 54 firmou o entendimento de ilegalidade da execução provisória da pena quando ausentes elementos de cautelaridade.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Doutrinadores entendem caber o incidente tanto na falsidade ideolgica, como na falsidade material, mas, de outro giro, h quem discorde desse entendimento aduzindo que o incidente de falsidade somente pode ter por objetivo contestar a autenticidade do documento, isto , o seu aspecto formal. Isso porque, os documentos pblicos contm presuno de autenticidade (e no de veracidade de seu contedo), enquanto os documentos particulares no gozam de tal presuno, mas produziro efeitos se no tiverem a sua autenticidade contestada. O juiz determina a instaurao do incidente de ofcio (artigo 166, CPPM) com a finalidade de dirimir dvida sobre a falsidade de documento e assim apurar corretamente os fatos submetidos  sua apreciao. Requerem na ao pblica o Ministrio Pblico e o ru a instaurao do incidente de falsidade de documento e o querelante e o querelado na ao penal privada. No dizer de Tourinho Filho tambm a vtima tem legitimidade para arguir a falsidade de documento. O ru, embora possa faz-lo durante a instruo criminal, deve alegar a falsidade de documento na resposta na resposta  acusao (artigo 396-A, CPP). Se o juiz considerar irrelevante a alegao deve indeferi-la (artigo 400, pargrafo 1, CPP). No procedimento militar ordinrio deve alegar at a fase do artigo 427 do CPPM. A arguio de falsidade feita por procurador exige poderes especiais (artigo 165, CPPM). Na procurao deve constar em qual processo  alegada a falsidade. Explica, com costumeira agudez, Hlio Tornaghi que o motivo de tal exigncia  que a alegao de falsidade pode ser maliciosa, feita de m-f e mesmo com prejuzo de outros sujeitos do processo ou de terceiros. Cumpre fixar a responsabilidade de quem a faz. Se o procurador pudesse fazer alegao valendo-se de poderes gerais, ad iudicia, impossvel seria determinar, desde logo, se ela deveria ser atribuda ao mandante ou ao mandatrio. O procedimento do incidente de falsidade de documento  tratado nos artigos 163 a 169 do CPPM.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O incidente de falsidade de documento pode ser requerido na ação pública pelo Ministério Público e pelo réu, e na ação penal privada pelo querelante e querelado. O juiz pode determinar a instauração do incidente de ofício e a vítima também tem legitimidade para arguir a falsidade. O réu deve alegar a falsidade na resposta à acusação e o procurador exige poderes especiais para alegar a falsidade. O procedimento do incidente de falsidade de documento é tratado nos artigos 163 a 169 do CPPM.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Em votacao majoritaria, o Tribunal modulou os efeitos da decisao a partir de doze meses da data de publicacao da conclusao deste julgamento, permitindo-se a manutencao dos servicos ate a realizacao do concurso devido. Tudo nos termos do voto da ministra Carmen Lucia (relatora). Vencido o ministro Marco Aurelio quanto a projecao da eficacia do pronunciamento referente a declaracao de inconstitucionalidade. ADI 4541/BA, relatora Min. Carmen Lucia, julgamento virtual finalizado em 16.4.2021 (sexta-feira) as 23:59 (INF 1013) 5. DIREITO DA CRIANCA E DO ADOLESCENTE 5.1 CONANDA Conselho Nacional da Crianca e do Adolescente e Decreto 10.003/2019 - ADPF 622/DF Tese Fixada: E inconstitucional norma que, a pretexto de regulamentar, dificulta a participacao da sociedade civil em conselhos deliberativos . Resumo: Sao incompativeis com a CF/88 (CF) as regras previstas no Decreto 10.003/2019, que, a pretexto de regular o funcionamento do Conselho Nacional da Crianca e do Adolescente (Conanda), frustram a participacao das entidades da sociedade civil na formulacao e no controle da execucao de politicas publicas em favor de criancas e adolescentes. Nao bastasse isso, essas normas violam o principio da legalidade. Tais regras contrariam norma constitucional expressa, que exige a participacao, e colocam em risco a protecao integral e prioritaria da infancia e da juventude (CF, art. 204, II, c/c o art. 227,  7). Vale, ainda, esclarecer que a Lei 8.242/1991 assegura a paridade na representacao do Poder Publico e da sociedade civil no Conanda, bem assim entrega ao proprio Conselho a atribuicao de dispor sobre seu funcionamento, nela incluidos os criterios de escolha de seu presidente e a selecao dos representantes das entidades da sociedade civil.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional norma que, a pretexto de regulamentar, dificulta a participação da sociedade civil em conselhos deliberativos. 2. São incompatíveis com a Constituição Federal de 1988 (CF/88) as regras previstas no Decreto 10.003/2019, que frustram a participação das entidades da sociedade civil na formulação e no controle da execução de políticas públicas em favor de crianças e adolescentes. 3. Essas normas violam o princípio da legalidade. 4. Tais regras contrariam norma constitucional expressa, que exige a participação, e colocam em risco a proteção integral e prioritária da infância e da juventude (CF, art. 204, II, c/c o art. 227, 7). 5. A Lei 8.242/1991 assegura a paridade na representação do Poder Público e da sociedade civil no Conanda, bem assim entrega ao próprio Conselho a atribuição de dispor sobre seu funcionamento, nela incluídos os critérios de escolha de seu presidente e a seleção dos representantes das entidades da sociedade civil.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Atuacao de oficio. Nao ocorrencia. DESTAQUE A escolha pelo Magistrado de medidas cautelares pessoais, em sentido diverso das requeridas pelo Ministerio Publico, pela autoridade policial ou pelo ofendido, nao pode ser considerada como atuacao ex officio. In casu, na audiencia de custodia, o Ministerio Publico manifestou-se pela concessao de liberdade provisoria mediante o pagamento de fianca. O Juizo singular acolheu o pleito e fixou, tambem, a medida de recolhimento domiciliar em periodo noturno e nos dias de folga. A determinacao do magistrado, em sentido diverso do requerido pelo Ministerio Publico, pela autoridade policial ou pelo ofendido, nao pode ser considerada como atuacao ex officio, uma vez que lhe e permitido operar conforme os ditames legais, desde que previamente provocado, no exercicio de sua jurisdicao. Nao ha que se falar em ofensa ao principio acusatorio ou ao da correlacao, porquanto, depois de devidamente provocado e o juizo que tem a responsabilidade de analisar a suficiencia das medidas cautelares a luz do caso concreto, sempre com vistas a garantia da ordem publica, da ordem economica, por conveniencia da instrucao criminal ou para assegurar a aplicacao da lei penal, como prescreve o art. 312, caput, do CPP. Em outras palavras, embora seja o orgao acusatorio o dominus litis, e do juiz a incumbencia de atentar-se aos outros interesses legitimos que precisam ser protegidos na relacao processual, alem dos relativos ao acusado, e, portanto, cabe-lhe, eventualmente, adotar providencia cautelar mais gravosa do que a alvitrada pelo representante do Ministerio Publico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é possível considerar como atuação ex officio a escolha do Magistrado de medidas cautelares pessoais, em sentido diverso das requeridas pelo Ministério Público, pela autoridade policial ou pelo ofendido. 2. Não há ofensa ao princípio acusatório ou ao da correlação quando o Juiz analisa a suficiência das medidas cautelares a luz do caso concreto, com vistas à garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal. 3. Embora seja o órgão acusatório o dominus litis, é do juiz a incumbência de atentar-se aos outros interesses legítimos que precisam ser protegidos na relação processual, além dos relativos ao acusado, e, portanto, cabe-lhe, eventualmente, adotar providência cautelar mais gravosa do que a alvitrada pelo representante do Ministério Público.

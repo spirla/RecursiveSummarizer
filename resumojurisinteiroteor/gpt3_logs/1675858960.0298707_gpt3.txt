@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PM Alex Dayrell Braga Mattar Handan, no art. 209, caput (leso corporal) e a 3 Sgt. PM Cirlei de Ftima Mota, no art. 322 (condescendncia criminosa), todos dispositivos do Cdigo Penal Militar [...] (Evento 10 - DENUNCIA2). A denncia foi recebida no dia 13/07/2017 (Evento 7 - RECE_DENUN5). No mesmo ato, foi revogada a transao penal que havia sido anteriormente proposta e homologada em favor de Blaiton Rivaine de Deus Souza (Evento 10 - PEAS IPM 7 - pgs. 34/35). Posteriormente, comprovado o cumprimento das condies impostas para a transao penal, foi extinta a sua punibilidade (Evento 10 - PEAS DIGITALIZADAS11 - fls. 01). O denunciado Blaiton Rivaine de Deus Souza foi beneficiado pelo instituto da transao penal consoante se depreende no Evento 10 - PEASDIGITALIZADAS11, pg. 1. O denunciado Sd PM Alex Dayrell Braga Handan foi declarado revel, conforme Evento 10, PEASDIGITALIZADAS14, pg. 55. A denunciada 3 Sgt PM Cirlei de Ftima Mota teve extinta a sua punibilidade pela ocorrncia da prescrio da preenso punitiva, com fulcro nos artigos 125, inciso VII, c/c o art. 123, inciso V, ambos do Cdigo Penal Militar - CPM (Evento 10 - PEASDIGITALIZADAS14, pg. 58). Os depoimentos das vtimas - Kaio Alves de Oliveira e Thaylon Raphael Rodrigues Miranda - e das testemunhas arroladas pela acusao - Maria das Graas Rodrigues Silva, Regina Adriana Rodrigues Silva e Jlio Bisinotto Gomes - foram colhidos, consoante se depreende do Evento 10, PEAS DIGITALIZADAS10, pgs. 113/116 e do Evento 13. O informante - 3 Sgt PM Blaiton Rivaine de Deus Souza - e as testemunhas de defesa - Major PM Scrates Queiroz Caixeta e Capito PM Rodrigo Alexandre Ramos - foram inquiridos por meio de recurso audiovisual (Eventos 11 e 12 - UDIO/VDEO2 E UDIO/VDEO3). O acusado Cabo PM Gensio Machado Alves foi interrogado no dia 10/10/2019 (Evento 12 - UDIO/VDEO4 E UDIO/VDEO5) Na fase do artigo 427 do Cdigo de Processo Penal Militar (CPPM), as partes nada requereram (Evento 10 - PEASDIGITALIZADAS14, pgs.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A denncia foi recebida no dia 13/07/2017 e a transao penal proposta e homologada em favor de Blaiton Rivaine de Deus Souza foi revogada. Posteriormente, comprovado o cumprimento das condies impostas para a transao penal, foi extinta a sua punibilidade. O denunciado Sd PM Alex Dayrell Braga Handan foi declarado revel e a denunciada 3 Sgt PM Cirlei de Ftima Mota teve extinta a sua punibilidade pela ocorrncia da prescrio da preenso punitiva. Os depoimentos das vtimas e das testemunhas arroladas pela acusao foram colhidos. O informante e as testemunhas de defesa foram inquiridos por meio de recurso audiovisual e o acusado Cabo PM Gensio Machado Alves foi interrogado. Na fase do artigo 427 do Cdigo de Processo Penal Militar, as partes nada requereram.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Nao cabe recurso ordinario em mandado de seguranca com fundamento no art. 105, inciso II, alinea b , da Constituicao da Republica, na hipotese em que houver a concessao da seguranca e a parte impugna capitulo que havia tao-somente excluido a multa cominatoria para o cumprimento da liminar. A pretensao mandamental foi deduzida com a finalidade de compelir a autoridade impetrada a providenciar a expedicao de um boleto bancario para que a impetrante pudesse realizar a sua inscricao em concurso publico. No caso, aparentemente havia um problema tanto na geracao desse boleto, quanto no seu registro bancario, e isso dificultava o procedimento de inscricao porque o pagamento nao podia ser feito. Assim, a pretensao mandamental esgotava-se nisso, e que a despeito de ter sido cominada multa para obrigar a autoridade ao pronto atendimento da decisao judicial concessiva de liminar, a sua existencia em si e irrelevante para a correta definicao da pretensao, assim como do seu acolhimento. Nesse sentido, e inafastavel concluir que tenha a parte impetrante pedido ou nao a cominacao de multa, e tivesse o orgao judicial deferido ou indeferido a astreinte , o primordial a ser considerado para efeito da caracterizacao da pretensao mandamental, do resultado processual concessivo ou denegatorio e da formacao da coisa julgada e que o pedido principal consistira tao-somente na expedicao de novo boleto bancario e na prorrogacao do prazo de inscricao. Foi nesse sentido que houve a concessao da seguranca . Em sendo assim, uma vez que o resultado judicial nao e denegatorio da pretensao mandamental, nao ha hipotese de cabimento do recurso ordinario, na forma do art. 105, inciso II, alinea b , da Constituicao da Republica, e por isso nao se conhece do recurso ordinario em mandado de seguranca. (Informativo n. 755) 507 PROCESSO AREsp 1.640.785-MS, Rel. Min. Francisco Falcao, Segunda Turma, por unanimidade, julgado em 25/10/2022, DJe 27/10/2022.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não cabe recurso ordinário em mandado de segurança com fundamento no art. 105, inciso II, alínea b, da Constituição da República, na hipótese em que houver a concessão da segurança e a parte impugna capítulo que havia tão-somente excluído a multa cominatória para o cumprimento da liminar. 2. A pretensão mandamental foi deduzida com a finalidade de compelir a autoridade impetrada a providenciar a expedição de um boleto bancário para que a impetrante pudesse realizar a sua inscrição em concurso público. 3. A despeito de ter sido cominada multa para obrigar a autoridade ao pronto atendimento da decisão judicial concessiva de liminar, a sua existência em si é irrelevante para a correta definição da pretensão, assim como do seu acolhimento. 4. Uma vez que o resultado judicial não é denegatório da pretensão mandamental, não há hipótese de cabimento do recurso ordinário, na forma do art. 105, inciso II, alínea b, da Constituição da República, e por isso não se conhece do recurso ordinário em mandado de segurança.

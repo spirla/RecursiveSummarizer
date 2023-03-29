@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Consciente e orientado. Sem dficit motor. Quesitos Houve ofensa  integridade corporal ou  sade do paciente? (Resposta especificada). Sim. Qual o instrumento ou meio que produziu a ofensa? Contundente. A ofensa foi produzida com emprego de veneno, fogo, explosivo, asfixia, tortura, ou outro meio insidioso ou cruel, ou de que podia resultar perigo comum? (Resposta especificada). Sem elementos para afirmar ou negar tortura ou outro meio insidioso ou cruel. No para os demais elementos do quesito. Da ofensa resultou perigo de vida? No. Da ofensa resultou incapacidade para as ocupaes habituais por mais de 30 dias? Sim. Da ofensa resultou debilidade permanente de membro, sentido ou funo: incapacidade permanente para o trabalho; enfermidade incurvel; perda ou inutilizaao de membro, sentido ou funo, ou deformidade permanente? (Resposta especificada). Sem elementos para afirmar ou pegar debilidade permanente de funo olfatria e deformidade permanente. No para os demais elementos do quesito. Necessita de exame complementar em 90 dias.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A ofensa produzida com meio contundente resultou em incapacidade para as ocupações habituais por mais de 30 dias, sem elementos para afirmar ou negar tortura ou outro meio insidioso ou cruel, e sem elementos para afirmar ou negar debilidade permanente de função olfatria e deformidade permanente. Necessita de exame complementar em 90 dias.

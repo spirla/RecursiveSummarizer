@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+7, a Resolucao CNJ n. 81/2009 limitou-se a estabelecer os requisitos para inscricao nos concursos publicos para preenchimento das serventias extrajudiciais vagas. Calha acrescentar que tal disposicao apenas repisou, em parte, a regra contida na Lei n. 8.935/1994. Embora a Resolucao CNJ 81/2009 tenha fornecido a minuta do edital a ser utilizada pelos Tribunais de Justica, a mencao do limite temporal apenas em relacao aos titulos referentes ao exercicio da advocacia ou de servico notarial ou de registro por nao bacharel em direito nao afasta a conclusao acima de que a resolucao nada disciplina quanto ao limite temporal para aquisicao dos demais titulos, limitando-se a delegar aos respectivos editais dos certames a definicao dos valores conferidos aos titulos, bem como o momento de sua apresentacao. Tal compreensao e corroborada pelo proprio CNJ no julgamento do Procedimento de Controle Administrativo n. 0005199-08.2015.2.00.0000. Nesse fio, conclui-se que, em decorrencia do silencio do CNJ sobre o tema, deve prevalecer a competencia subsidiaria concedida aos respectivos Tribunais de Justica para fixarem as regras dos concursos de ingresso nos servicos notarial e de registro, na forma prevista na Lei n. 8.935/1994. (Informativo  Ed. Especial n. 8) CF/88 (CF/88), art. 103-B,  4, II. Resolucao/CNJ 81/2009, art. 7. Lei n. 8.935/1994, art. 15, caput,  1.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Resolução CNJ n. 81/2009 limitou-se a estabelecer os requisitos para inscrição nos concursos públicos para preenchimento das serventias extrajudiciais vagas. 2. A Resolução CNJ 81/2009 repisou, em parte, a regra contida na Lei n. 8.935/1994. 3. A Resolução CNJ 81/2009 não disciplina o limite temporal para aquisição dos demais títulos, limitando-se a delegar aos respectivos editais dos certames a definição dos valores conferidos aos títulos, bem como o momento de sua apresentação. 4. Em decorrência do silêncio do CNJ sobre o tema, deve prevalecer a competência subsidiária concedida aos respectivos Tribunais de Justiça para fixarem as regras dos concursos de ingresso nos serviços notarial e de registro, na forma prevista na Lei n. 8.935/1994.

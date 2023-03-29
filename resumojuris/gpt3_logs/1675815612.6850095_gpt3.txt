@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O Plenario da Corte deliberou que a medida viola a regra constitucional do concurso publico, ao permitir a contratacao de servidores para atividades absolutamente previsiveis, permanentes e ordinarias do Estado, autorizando que sucessivas contratacoes temporarias perpetuem indefinidamente a precarizacao de relacoes trabalhistas no ambito da Administracao Publica. Alem disso, nao basta que a lei autorize a contratacao de pessoal por prazo limitado para conformar-se ao texto constitucional, uma vez que a excepcionalidade das situacoes emergenciais afasta a possibilidade de que elas, de transitorias, se transmudem em permanentes. Nesse contexto, o Tribunal ja definiu ser necessario para a contratacao temporaria que: a) os casos ex-cepcionais estejam previstos em lei; b) o prazo de contratacao seja pre-determinado; c) a necessidade seja temporaria; e d) o interesse publico seja excepcional. Quanto a contratacao destinada a suprir necessidade temporaria que exsurge da vacancia do cargo efetivo, ela ha de durar apenas o tempo necessario para a realiza-cao do proximo concurso publico. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente a acao para declarar a nao recepcao pela CF/88 dos dispositivos legais impugnados, alem da inconstitucionalidade, por arrastamento, dos atos normativos infralegais que guardam inteira dependencia com aqueles, modulando os efeitos da deci-sao no intuito de preservar os contratos temporarios firmados ate a conclusao do julgamento de merito.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A medida viola a regra constitucional do concurso público, ao permitir a contratação de servidores para atividades absolutamente previsíveis, permanentes e ordinárias do Estado. 2. É necessário que os casos excepcionais estejam previstos em lei, que o prazo de contratação seja pré-determinado, que a necessidade seja temporária e que o interesse público seja excepcional para a contratação temporária. 3. A contratação destinada a suprir necessidade temporária que exsurge da vacância do cargo efetivo deve durar apenas o tempo necessário para a realização do próximo concurso público. 4. Foi julgada procedente a ação para declarar a não recepção pela CF/88 dos dispositivos legais impugnados, além da inconstitucionalidade, por arrastamento, dos atos normativos infralegais que guardam inteira dependência com aqueles.

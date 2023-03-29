@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Nao e cabivel revisao criminal quando utilizada nova apelacao, com vista a reexame de fatos e provas, nao se verificando contrariedade ao texto expresso da lei penal ou a evidencia dos autos, consoante previsao do art. 621, I, do CPP. Cumpre lembrar que este Superior Tribunal de Justica pacificou o entendimento no sentido do nao cabimento da revisao criminal quando utilizada como nova apelacao, com vista ao mero reexame de fatos e provas, nao se verificando hipotese de contrariedade ao texto expresso da lei penal ou a evidencia dos autos, consoante previsao do art. 621, I, do CPP (AgRg no REsp n. 1.781.148/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/10/2019). No caso concreto, a pretensao do autor e rediscutir tudo aquilo que fora objeto de analise no processo penal originario. A prova ja foi objeto de apreciacao pelas instancias competentes, nao havendo nenhuma informacao adicional a modificar a conclusao alcancada. (Informativo n. 746) 1142 PROCESSO REsp 1.977.172-PR, Rel. Min. Ribeiro Dantas, Terceira Secao, por maioria, julgado em 24/08/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Principio da intranscendencia da pena. Crime de poluicao (art. 54,  2, V, da Lei n. 9.605/1998).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é cabível a revisão criminal quando utilizada como nova apelação, com vista ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou a evidência dos autos, conforme previsão do art. 621, I, do CPP. 2. É inviável rediscutir tudo aquilo que foi objeto de análise no processo penal originário, uma vez que a prova já foi objeto de apreciação pelas instâncias competentes, não havendo nenhuma informação adicional para modificar a conclusão alcançada.

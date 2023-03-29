@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Edson Fachin, redator do acordao Min. Alexandre de Moraes, julgamento virtual finalizado em 22.10.2021 (sexta-feira), as 23:59 (INF 1035) Programa Renda Basica de Cidadania e combate a pobreza - MI 7300/DF Resumo: Cabe mandado de injuncao em face da ausencia de fixacao do valor da renda basica de cidadania, instituida pela Lei 10.835/2004, cuja omissao e atribuida ao Presidente da Republica. A ausencia de fixacao do valor e forma de esvaziar o mandamento constitucional de combate a pobreza, alem de fazer letra morta ao disposto no referido diploma legal. Compete ao Supremo Tribunal Federal (STF) processar e julgar mandado de injuncao quando a elaboracao da norma regulamentadora for atribuicao do Presidente da Republica [CF/88 (CF), art. 102, I, q]. A falta de norma disciplinadora da ensejo ao conhecimento do mandado de injuncao apenas quanto a implementacao do referido beneficio assistencial para pessoas em situacao de vulnerabilidade socioeconomica. Um dos objetivos da Republica brasileira e erradicar a pobreza e a marginalizacao e reduzir as desigualdades sociais e regionais (CF, art. 3, III), cuja determinacao e repassada a todos os niveis da Federacao [CF, art. 23, X ], com auxilio da sociedade. Na forma da CF e do ordenamento juridico, a assistencia aos desamparados e direito social basico [CF, art. 6 ]. Com a Lei 10.835/2004, adveio uma das formas de concretizacao do mandamento constitucional.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Cabe mandado de injunção em face da ausência de fixação do valor da Renda Básica de Cidadania, instituída pela Lei 10.835/2004. 2. A ausência de fixação do valor e forma de esvaziar o mandamento constitucional de combate à pobreza, além de fazer letra morta ao disposto no referido diploma legal. 3. Compete ao Supremo Tribunal Federal (STF) processar e julgar mandado de injunção quando a elaboração da norma regulamentadora for atribuição do Presidente da República. 4. A falta de norma disciplinadora dá ensejo ao conhecimento do mandado de injunção apenas quanto à implementação do referido benefício assistencial para pessoas em situação de vulnerabilidade socioeconômica. 5. Um dos objetivos da República Brasileira é erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais. 6. A assistência aos desamparados é direito social básico. 7. Com a Lei 10.835/2004, adveio uma das formas de concretização do mandamento constitucional.

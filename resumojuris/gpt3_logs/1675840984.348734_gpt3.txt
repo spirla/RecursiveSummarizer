@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+DESTAQUE Diversamente do que ocorre na hipotese de contrariedade entre o veredito e as provas dos autos (art. 593,  3, do CPP), o afastamento de qualificadora por vicio de quesitacao nao exige a submissao dos reus a novo juri. A censura a uma qualificadora so impoe a necessidade de novo julgamento pelos jurados quando o Tribunal reconhecer, no ponto, a manifesta contrariedade entre o veredito e as provas dos autos, na forma do art. 593, III, d , e  3, do CPP. Faz sentido a opcao legislativa: como a qualificadora contem uma descricao tipica, e tendo em vista a competencia do juri para identificar os fatos e enquadra-los no tipo penal correspondente, a Corte de apelacao nao pode substituir os jurados caso discorde da valoracao probatoria por eles feita, mas deve encaminhar a causa novamente ao juri para que este, agora em carater definitivo, se pronuncie uma segunda vez sobre as provas. Se nao ha declaracao de contrariedade entre o veredito e as provas (hipotese da alinea d do art. 593,  3, do CPP), mas sim a nulidade da quesitacao no ponto (alinea a do art. 593,  3, do CPP), nao ha nenhuma exigencia legal de realizacao de novo juri. Isso porque o unico efeito decorrente da exclusao da qualificadora sera o afastamento da agravante do art. 61, II, b , do CP na dosimetria da pena. Sem a qualificadora da paga, a unica circunstancia que permanecera a qualificar o homicidio sera a do inciso V do art. 121,  2, do CP, o que impoe seu decote na segunda fase da aplicacao da pena.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O afastamento de qualificadora por vicio de quesitacao não exige a submissão dos réus a novo júri. 2. A censura a uma qualificadora só impõe a necessidade de novo julgamento pelos jurados quando o Tribunal reconhecer, no ponto, a manifesta contrariedade entre o veredito e as provas dos autos. 3. Se não houver declaração de contrariedade entre o veredito e as provas, mas sim a nulidade da quesitacao no ponto, não haverá nenhuma exigência legal de realização de novo júri. 4. O efeito decorrente da exclusão da qualificadora será o afastamento da agravante do art. 61, II, b, do CP na dosimetria da pena.

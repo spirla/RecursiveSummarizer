@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O STJ aceita o prequestionamento implcito e admite o recurso especial se o acrdo discutiu a questo de direito federal, mesmo sem mencionar expressamente o dispositivo legal..
+18.10.1.2. Cabimento do recurso extraordinrio. Primeira hiptese de cabimento:
+quando a deciso recorrida contrariar dispositivo desta Constituio (artigo 102, III, a). Exerce o recurso extraordinrio a funo de tutela e controle da aplicao da Constituio. O verbo contrariar significa decidir em sentido oposto ao que est expresso e claro no texto constitucional, por isso que a ofensa deve ser direta e frontal, no ensejando o recurso por esse fundamento a contrariedade reflexa, inferida a partir de uma violao a norma infraconstitucional (grifei). Este  o posicionamento da Suprema Corte. Para o STF  invivel o recurso extraordinrio quando a ofensa  Constituio Federal  indireta ou reflexa, a depender de interpretao da legislao infraconstitucional. Entende-se haver violao direta  Constituio e, simultaneamente,  lei infraconstitucional se o princpio constitucional encontrar concretude em norma constitucional. Alegaes de desrespeito aos postulados da legalidade, do devido processo legal, da motivao dos atos decisrios, do contraditrio, dos limites da coisa julgada e da prestao jurisdicional, se dependentes de reexame prvio de normas inferiores, podem configurar, quando muito, situaes de ofensa meramente reflexa ao texto da Constituio. O STF assentou na Smula 400 que Deciso que deu razovel interpretao  lei, ainda que no seja a melhor, no autoriza recurso extraordinrio pela letra a do artigo 101, III, da Constituio Federal, todavia, em matria constitucional no se cogita de interpretao razovel. A exegese de preceito inscrito na Constituio da Repblica, muito mais do que simplesmente razovel, h de ser juridicamente correta. Segunda hiptese de cabimento:
+quando a deciso recorrida declarar a inconstitucionalidade de tratado ou lei federal (artigo 102, III, b). A deciso do rgo jurisdicional que declarou a inconstitucionalidade de lei  levada ao STF por meio do recurso extraordinrio.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ aceita o prequestionamento implícito e admite o recurso especial se o acórdão discutiu uma questão de direito federal, mesmo sem mencionar expressamente o dispositivo legal. O recurso extraordinário tem a função de tutelar e controlar a aplicação da Constituição. O STF entende que o recurso extraordinário é inviável quando a ofensa à Constituição é indireta ou reflexa. O cabimento do recurso extraordinário ocorre quando a decisão recorrida contraria dispositivo da Constituição ou declara a inconstitucionalidade de tratado ou lei federal.

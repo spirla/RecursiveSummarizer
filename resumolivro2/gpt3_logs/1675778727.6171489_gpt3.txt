@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Em resumo, no caso de militar estadual, em razo de as Polcias Militares serem incumbidas da polcia ostensiva e a da preservao da ordem pblica (artigo 144, pargrafo 5, CF/88), o STJ reconheceu que o decreto prisional de policial militar estava fundamentado com a expressa meno  situao concreta que se caracteriza pela garantia da ordem pblica, em virtude de ter o fato sido imputado a quem deveria zelar pela segurana pblica, da qual constitui elemento a ordem pblica. Tem-se discutido sobre a ausncia de contemporaneidade e a ordem pblica a ser resguardada. A contemporaneidade diz respeito aos fatos motivadores da priso preventiva e no ao momento da prtica do fato criminoso (STF, HC 185.893/SP) e com a permanncia de risco  ordem pblica, tem-se sinalizada a contemporaneidade da custdia (STF, HC 183.167/SP). 11.2.3.3.2. Convenincia da instruo criminalA priso preventiva por convenincia da instruo criminal  modalidade de priso cautelar instrumental, que se destina a garantir a escorreita produo de provas, compatvel com a presuno de inocncia, na medida em que haja o risco que o ru crie obstculos  colheita de provas. A escolha do termo convenincia foi imprpria. Pondera Hlio Tornaghi melhor ser que se houvesse dito necessidade para instruo criminal. Tambm observa Marcellus Polastri aqui se trata de necessidade ou indispensabilidade da decretao da medida, para fins de possibilitar o bom andamento da instruo criminal, e no uma mera convenincia, consoante a letra da lei. A expresso instruo criminal abrange a investigao criminal, pois, a medida cautelar  adotada no IPM. A priso preventiva, portanto,  fundamentada na convenincia da instruo criminal se houver elementos de prova de haver o risco de que, solto, o ru ou o indiciado poder influenciar, intimidar ou aliciar testemunha, perito ou vtima, de modo a favorec-los ou obnubilar a verdade, ou ainda, de que far desaparecer provas materiais do crime.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ reconheceu que a prisão preventiva de um policial militar está fundamentada na preservação da ordem pública. A prisão preventiva por conveniência da instrução criminal é uma medida cautelar instrumental para garantir a produção de provas, desde que haja o risco de que o réu possa influenciar, intimidar ou aliciar testemunhas, peritos ou vítimas, ou ainda, de que possa fazer desaparecer provas materiais do crime.

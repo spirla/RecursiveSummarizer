@@ -1,0 +1,32 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+(artigo 116) Todas estas regras visam controlar as atividades do condenado que, ainda em cumprimento de sua pena, deve ter seus passos acompanhados pelo juiz da execuo. 10.1.2. Direitos do preso. Segundo o artigo 38 do CP, o preso conserva todos os direitos no atingidos pela perda da liberdade, impondo-se a todas as autoridades o respeito  sua integridade fsica e moral. Tal dispositivo legal, entretanto, no obtm a devida observncia. A primeira dificuldade que o operador do direito encontra para a aplicao do dispositivo situa-se em estabelecer os limites da liberdade que  atingida pela pena privativa de liberdade. A pena atinge apenas a liberdade de locomoo ou outros aspectos da liberdade individual, como a liberdade de comunicao, a liberdade para o relacionamento conjugal etc.?. Sobre os direitos do preso, a Lei 7.210/84 expressamente dispe que:
+Art. 41. Constituem direitos do preso:
+- alimentao suficiente e vesturio;
+- atribuio de trabalho e sua remunerao;
+- previdncia social;
+- constituio de peclio;
+- proporcionalidade na distribuio do tempo para o trabalho, o descanso e a recreao;
+- exerccio das atividades profissionais, intelectuais, artsticas e desportivas anteriores, desde que compatveis com a execuo da pena;
+- assistncia material,  sade, jurdica, educacional, social e religiosa;
+- proteo contra qualquer forma de sensacionalismo;
+- entrevista pessoal e reservada com o advogado;
+- visita do cnjuge, da companheira, de parentes e amigos em dias determinados;
+- chamamento nominal;
+- igualdade de tratamento salvo quanto s exigncias da individualizao da pena;
+- audincia especial com o diretor do estabelecimento;
+- representao e petio a qualquer autoridade, em defesa de direito;
+- contato com o mundo exterior por meio de correspondncia escrita, da leitura e de outros meios de informao que no comprometam a moral e os bons costumes;
+- atestado de pena a cumprir, emitido anualmente, sob pena da responsabilidade da autoridade judiciria competente. A Lei de Execues Penais, em seu artigo 11, ainda impe ao Estado os deveres de prestar assistncia material,  sade, jurdica, educacional, social e religiosa. Tudo isso leva-nos a concluir que a execuo da pena deve ser orientada pelo respeito  dignidade da pessoa humana, bem como que a pena privativa de liberdade incida apenas sobre a liberdade de locomoo do condenado, preservando-se os demais aspectos de sua liberdade.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 116 da Lei de Execuções Penais prevê direitos do preso, como alimentação, vestuário, trabalho remunerado, previdência social, entre outros. Estes direitos devem ser preservados e a execução da pena deve ser orientada pelo respeito à dignidade humana, visando apenas à limitação da liberdade de locomove do condenado.

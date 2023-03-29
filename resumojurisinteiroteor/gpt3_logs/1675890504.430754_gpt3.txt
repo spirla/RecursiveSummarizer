@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Esse  o entendimento de nossos tribunais, conforme jurisprudncia do Tribunal de Justia do Estado de Minas Gerais, conforme arestos abaixo: Processo: Apelao Cvel 1.0024.09.454528-2/001 4545282-12.2009.8.13.0024 (1) Relator(a): Des. (a) Wilson Benevides Data de Julgamento: 23/02/2016 Data da publicao da smula: 01/03/2016 Ementa: EMENTA: APELAO CVEL - AO DE REFORMA POR INVALIDEZ AGRAVO RETIDO - INDEFERIMENTO DE PROVA TESTEMUNHAL E COMPLEMENTAO DA PERCIA - IPSM - ILEGITIMIDADE PASSIVA - LAUDO MDICO OFICIAL RECONHECENDO A INCAPACIDADE DO AUTOR APENAS APS A CONCLUSO DO PROCESSO ADMINISTRATIVO DISCIPLINAR. RECURSO NO PROVIDO.  despicienda a complementao da percia mdica, uma vez que as questes fticas relevantes para a anlise do caso foram abordadas e respondidas pela Expert. [..] Existindo nos autos percia mdica constatando que o autor,  poca dos fatos, no era portador de transtorno mental grave passvel de ensejar sua interdio, e detinha conscincia dos fatos praticados, improcedente o pedido de reforma por invalidez. Processo: Recurso Administrativo 1.0000.14.084034-9/001 0840349-87.2014.8.13.0000 (1) Relator(a): Des. (a) Belizrio de Lacerda Data de Julgamento: 09/12/2015 Data da publicao da smula: 18/12/2015 Ementa: EMENTA: PROCESSO ADMINISTRATIVO DISCIPLINAR. OFICIAL DE APOIO JUDICIAL. DESCUMPRIMENTO DOS DEVERES PRESCRITOS NOS INCISOS I E IV DO ART. 273 E INCISO VIII E XII DO ART. 274 DA LEI COMPLEMENTAR ESTADUAL N 59/2001. RECURSO ADMINISTRATIVO. PRELIMINAR DE NULIDADE DA PORTARIA N 29/2013. REJEIO. CERCEAMENTO DE DEFESA NO CONFIGURADO. NULIDADE POR INDEFERIMENTO DE NOVA PERCIA MDICA. NO OCORRNCIA. NULIDADE POR INSANIDADE MENTAL NO VERIFICADA. MRITO.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisprudência do Tribunal de Justiça de Minas Gerais rejeitou o pedido de reforma por invalidez, uma vez que a perícia médica constatou que o autor não era portador de transtorno mental grave e detinha consciência dos fatos praticados. Além disso, foi rejeitada a preliminar de nulidade da portaria, bem como a nulidade por indeferimento de nova perícia médica e por insanidade mental não verificada.

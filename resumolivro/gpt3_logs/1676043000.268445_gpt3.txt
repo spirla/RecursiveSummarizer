@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Na complexidade da sociedade contempornea, o ordenamento jurdico-penal passou a identificar novos bens jurdicos que, em muitos casos, no apresentam a necessria preciso. Nesse contexto, Hassemer adverte que a funo crtica (de garantia ou restritiva) que o conceito de bem jurdico deve exercer sobre a interveno punitiva  fragilizada quando a tutela penal se dirige a objetos de conceituao imprecisa como a sade pblica, as condies do mercado de capitais, a economia popular ou a moralidade sexual. Cabe ressaltar que a abrangncia da limitao ao poder punitivo imposta pelo princpio da exclusiva proteo ao bem jurdico se apresenta intimamente vinculada ao processo de identificao dos bens jurdicos merecedores da tutela penal. A escolha do bem jurdico que receber a tutela penal se faz por meio de um processo discursivo158, que, em razo de variadas causas, tende a legitimar uma expanso da interveno punitiva. A crescente identificao de bens jurdicos merecedores da tutela penal fragiliza a funo de garantia que lhe  atribuda. Se forem identificados vrios bens jurdicos afetados por uma mesma conduta, por exemplo, a possibilidade de esta caracterizar vrios crimes (concurso formal160), implica reprovao mais intensa a quem a realiza. A abrangncia da restrio imposta ao Direito Penal est intimamente vinculada ao contedo material do conceito de bem jurdico. Quanto maior for a abrangncia do contedo material do conceito de bem jurdico, menor ser a restrio imposta ao poder punitivo. Se o conceito de bem jurdico for mais abrangente, a punio se legitimar, por meio de discurso aparentemente liberal, em um nmero maior de casos. Se qualquer bem ou interesse puder ser entendido como bem jurdico-penal, o princpio da exclusiva proteo do bem jurdico perde a efetividade de sua funo garantista. A longa e consistente discusso doutrinria sobre o contedo material do bem jurdico-penal (que viabiliza o juzo de ofensividade) se encontra inacabada. Na oportunidade em que se examina a fragilidade da construo garantista do funcionalismo moderado de Claus Roxin, cabe lembrar apenas as suas mais importantes referncias. 4.4.5.1.2.1. Teorias subjetivas. As teorias subjetivas tm como ponto de partida a concepo de Feuerbach, segundo a qual a essncia do injusto constitui a leso a um direito subjetivo pertencente ao indivduo ou ao Estado, varivel conforme a espcie de crime, que  protegido juridicamente.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O ordenamento jurdico-penal passou a identificar novos bens jurdicos, porém, muitos deles não apresentam a necessária precisão. O princípio da exclusiva proteção ao bem júridico se apresenta intimamente vinculado ao processo de identificação dos bens júridicos merecedores da tutela penal, o que pode fragilizar a função de garantia. Teorias subjetivas têm como ponto de partida a lesão a um direito subjetivo pertencente ao indivíduo ou ao Estado, protegido juridicamente.

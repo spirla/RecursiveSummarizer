@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Resumo: E inconstitucional o bloqueio ou sequestro de verba publica, por decisoes judiciais, de empresa estatal prestadora de servico publico em regime nao concorrencial e sem intuito lucrativo primario. A jurisprudencia da Corte tem reconhecido a inconstitucionalidade de bloqueios e sequestros de verbas publicas de estatais por decisoes judiciais por estender o regime constitucional de precatorios as estatais prestadoras de servico publico em regime nao concorrencial e sem intuito lucrativo primario. Ademais: (a) a Constituicao veda a transposicao, o remanejamento ou transferencia de recursos de programacao para outra ou de um orgao para outro, sem previa autorizacao legislativa; (b) a ordem constitucional rechaca a interferencia do Judiciario na organizacao orcamentaria dos projetos da Administracao Publica, salvo, excepcionalmente, como fiscalizador; e (c) os atos jurisdicionais constritivos, ao bloquearem verbas orcamentarias para o pagamento de dividas, atentam contra o principio da eficiencia da administracao publica e subvertem o planejamento e a ordem de prioridades na execucao de obras de infraestrutura do Poder Executivo. Com base nesse entendimento, o Plenario, por maioria, julgou parcialmente procedente arguicao de descumprimento de preceito fundamental. Vencido o ministro Marco Aurelio. ADPF 616/BA, relator Min. Roberto Barroso, julgamento virtual finalizado em 21.5.2021 (sexta-feira), as 23:59 (INF 1018) 4.25 PROCESSO LEGISLATIVO Autonomia do Banco Central do Brasil (Bacen): constitucionalidade da LC 179/2021 - ADI 6696/DF Tese fixada: E constitucional a Lei Complementar n 179/2021, que define os objetivos do Banco Central e dispoe sobre sua autonomia e sobre a nomeacao e a exoneracao de seu presidente e de seus diretores. Resumo: Nao caracterizada qualquer violacao ao devido processo legislativo no tramite do projeto de lei complementar que dispos sobre a autonomia e os objetivos do Banco Central.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional o bloqueio ou sequestro de verba pública, por decisões judiciais, de empresa estatal prestadora de serviço público em regime não concorrencial e sem intuito lucrativo primário. 2. É vedada a transposição, o remanejamento ou transferência de recursos de programação para outra ou de um órgão para outro, sem previa autorização legislativa. 3. É rechaçada a interferencia do Judiciário na organização orçamentária dos projetos da Administração Pública, salvo, excepcionalmente, como fiscalizador. 4. É constitucional a Lei Complementar nº 179/2021, que define os objetivos do Banco Central e dispõe sobre sua autonomia e sobre a nomeação e a exoneração de seu presidente e de seus diretores. 5. Não caracterizada qualquer violação ao devido processo legislativo no trâmite do projeto de lei complementar que dispõe sobre a autonomia e os objetivos do Banco Central.

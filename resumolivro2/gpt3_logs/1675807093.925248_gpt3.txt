@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O Cdigo Penal Militar define no artigo 48:
+No  imputvel quem, no momento da ao ou da omisso, no possui a capacidade de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento, em virtude de doena mental, de desenvolvimento mental incompleto ou retardado. Adota com o critrio biopsicolgico, a unio da causa biolgica - doena mental, desenvolvimento mental incompleto ou retardado - com o efeito psicolgico, a capacidade de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento. O perito, alm de identificar a causa biolgica, tem a difcil tarefa de afirmar se no momento da ao ou da omisso (requisito temporal) o agente no possua a capacidade de entender o carter ilcito do fato ou de determinar-se de acordo com esse entendimento. S a dvida razovel a respeito da imputabilidade penal permite submeter o acusado  percia mdica. O incidente somente  instaurado diante de dvida sria e fundada sobre as condies mentais do acusado. No  motivo idneo para gerar dvida sobre a imputabilidade atestado mdico genrico que alude a depresso, neurose de angstia, crise de agitao, tampouco internao em clnica psiquitrica particular aps o fato criminoso. Gera dvida razovel a doena mental anterior  prtica do fato. Importam ao desate informaes seguras do mdico que, antes do fato criminoso, diagnosticou o acusado com doena mental e que atesta que o acusado ainda est ou recentemente esteve sob tratamento mental ou que faz ou fez uso de medicao controlada, ainda depoimentos de parentes ou colegas de servio do ru devem ser sopesados na deciso. Ofende a reserva de jurisdio o artigo 156, pargrafo 2, do CPPM, que permite na fase do inqurito policial militar a percia ser ordenada por iniciativa do seu encarregado ou em ateno a requerimento do Ministrio Pblico, do defensor, do curador, ou do cnjuge, ascendente, descendente ou irmo do indiciado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal Militar prevê a imputabilidade penal com base no critério biopsicológico, que une a causa biológica (doença mental, desenvolvimento mental incompleto ou retardado) com a capacidade de entender o caráter ilícito do fato. O incidente só é instaurado quando há dúvida razoável sobre a imputabilidade, e a perícia médica é necessária para confirmar a doença mental anterior à prática do fato. O artigo 156, pargrafo 2, do CPPM, permite que a perícia seja ordenada por iniciativa do encarregado ou por requerimento do Ministério Público, do defensor, do curador ou do cônjuge, ascendente, descendente ou irmão do indiciado.

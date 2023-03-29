@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Reynaldo Soares Da Fonseca, Quinta Turma, por maioria, julgado em 07/12/2021, DJe 13/12/2021 Ramo do Direito DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL Tema Busca e apreensao. Medida invasiva anterior aos indicios de autoria. Fishing expedition. Impossibilidade. Garantias constitucionais. Violacao. DESTAQUE Os indicios de autoria antecedem as medidas invasivas, nao se admitindo em um Estado Democratico de Direito que primeiro sejam violadas as garantias constitucionais para so entao, em um segundo momento, e eventualmente, se justificar a medida anterior, sob pena de se legitimar verdadeira fishing expedition. Inicialmente, constata-se que a investigacao que ensejou a busca e apreensao na pessoa juridica nao lhe dizia respeito, referindo-se apenas a investigacao de crimes de organizacao criminosa, com participacao de funcionario publico, e de peculato contra a Prefeitura Municipal de Pocone/MT. 1193 De uma leitura atenta do pedido e da decisao que deferiu a medida de busca e apreensao na sede da agravante, constata-se, sem grande esforco, que nao foi indicado sobre a pessoa juridica nenhum indicio de participacao nos delitos narrados. A propria autoridade policial afirmou que somente apos a analise dos e-mails podera se verificar se houve conluio fraudulento e previo entre a Recorrente e os servidores publico da Prefeitura de Pocone, a fim de fraudar a apropriar de dinheiro publico . Os indicios de autoria antecedem as medidas invasivas, nao se admitindo em um Estado Democratico de Direito que primeiro sejam violadas as garantias constitucionais para so entao, em um segundo momento, e eventualmente, se justificar a medida anterior, sob pena de se legitimar verdadeira fishing expedition.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não se admite em um Estado Democrático de Direito que primeiro sejam violadas as garantias constitucionais para, em um segundo momento, eventualmente, se justificar a medida anterior, sob pena de se legitimar verdadeira fishing expedition. 2. Os indicios de autoria antecedem as medidas invasivas.

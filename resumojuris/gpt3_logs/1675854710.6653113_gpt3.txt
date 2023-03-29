@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Especial n. 10) 118 CPP, arts. 158, 159 e 386, II 119 DIREITO TRIBUTARIO 120 PRIMEIRA TURMA Voltar ao Sumario. Processo AgInt no REsp 2.001.298-PR, Rel. Ministro Benedito Goncalves, Primeira Turma, por unanimidade, julgado em 29/8/2022, DJe 1/9/2022. Ramo do Direito DIREITO TRIBUTARIO Tema Lancamento de credito tributario. Pagamento. Posterior declaracao de nulidade do lancamento. Inconstitucionalidade da base de calculo utilizada. Restituicao. Cabimento. DESTAQUE Se houve o pagamento do credito tributario, mas, posteriormente, ha declaracao de nulidade do lancamento em razao da inconstitucionalidade da base de calculo utilizada pelo fisco, o contribuinte tem direito a restituicao do que pagou indevidamente; e o fisco, se nao decaido o direito de lancar e houver norma legal embasadora, deve constituir novo credito tributario, por meio de outro lancamento, nao se podendo aproveitar o anterior, uma vez que nao se admite a correcao do criterio juridico anterior. Como determina o Codigo Tributario Nacional, o credito tributario e constituido pelo lancamento, entendido o procedimento administrativo tendente a verificar a ocorrencia do fato gerador da obrigacao correspondente, determinar a materia tributavel, calcular o montante do tributo devido, identificar o sujeito passivo e, sendo caso, propor a aplicacao da penalidade cabivel (art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Se houver pagamento de um crédito tributário, mas posteriormente houver declaração de nulidade do lançamento em razão da inconstitucionalidade da base de cálculo utilizada pelo fisco, o contribuinte tem direito à restituição do que pagou indevidamente. 2. Se não houver decaimento do direito de lançar e houver norma legal embasadora, o fisco deve constituir um novo crédito tributário, por meio de outro lançamento, não se podendo aproveitar o anterior, uma vez que não se admite a correção do critério jurídico anterior. 3. O crédito tributário é constituído pelo lançamento, entendido como o procedimento administrativo tendente a verificar a ocorrência do fato gerador da obrigação correspondente, determinar a matéria tributável, calcular o montante do tributo devido, identificar o sujeito passivo e, se for o caso, propor a aplicação da penalidade cabível.

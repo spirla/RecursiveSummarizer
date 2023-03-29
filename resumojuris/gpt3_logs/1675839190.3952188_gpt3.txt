@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Conforme destacou o Ministerio Publico Federal em seu parecer, as alegadas informacoes sigilosas nao sao os dados bancarios do investigado, e sim, conforme destacou o magistrado de origem em sua decisao e nas informacoes prestadas, as informacoes e registros relacionados a sua atividade laboral como funcionario do Banco , verificou, outrossim, que os recursos liberados terminaram tendo destinacao estranha a sua finalidade. E tudo isso mediante analise de rotinas proprias da instituicao financeira, com mecanismos de controle como a verificacao das operacoes realizadas pelo servidor com sua senha, e dos e-mails institucionais, os quais nao estao resguardados pela protecao da intimidade, pois o e-mail funcional e fornecido como ferramenta de trabalho e serve ao empregador para acompanhar indices importantes do funcionario, como metas de produtividade, tempo de trabalho e conteudo acessado . (Informativo n. 731) PROCESSO HC 695.980-GO, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, por unanimidade, julgado em 22/03/2022, DJe 25/03/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL PENAL TEMA Violacao de domicilio. Ingresso policial apoiado em atitude suspeita do acusado. Fuga no momento da abordagem. Ausencia de justa causa. Aplicacao do entendimento firmado no HC 598.051/SP. DESTAQUE A violacao de domicilio com base no comportamento suspeito do acusado, que empreendeu fuga ao ver a viatura policial, nao autoriza a dispensa de investigacoes previas ou do mandado judicial para a entrada dos agentes publicos na residencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A violação de domicílio com base no comportamento suspeito do acusado, que empreendeu fuga ao ver a viatura policial, não autoriza a dispensa de investigações previas ou do mandado judicial para a entrada dos agentes públicos na residência. 2. As informações sigilosas não são os dados bancários do investigado, mas sim informações e registros relacionados à sua atividade laboral como funcionário do Banco. 3. Os recursos liberados terminaram tendo destinação estranha à sua finalidade, mediante análise de rotinas próprias da instituição financeira, com mecanismos de controle como a verificação das operações realizadas pelo servidor com sua senha, e dos e-mails institucionais. 4. O e-mail funcional é fornecido como ferramenta de trabalho e serve ao empregador para acompanhar índices importantes do funcionário, como metas de produtividade, tempo de trabalho e conteúdo acessado.

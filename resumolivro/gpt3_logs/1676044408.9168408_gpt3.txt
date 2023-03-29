@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Resta claro que a questo merece uma melhor reflexo. A aplicao do princpio da insignificncia em razo do valor do tributo devido leva em considerao o argumento de que  inadmissvel que a conduta seja irrelevante para a Administrao Fazendria, e no o seja para o Direito Penal. Consoante o princpio da subsidiariedade, a tutela penal somente se faz necessria quando os outros meios jurdicos se mostram ineficientes para a defesa do bem jurdico tutelado. Entretanto, o argumento est mal colocado e restringe as possibilidades valorativas que identificam o significado da conduta examinada. O significado da conduta que viabiliza a imputao objetiva para um crime contra a ordem tributria no pode ser apurado unicamente em razo do valor do tributo, j que o crime tributrio no ofende unicamente os interesses patrimoniais do Fisco. A inadequao de tal critrio se mostra ainda mais evidente no entendimento consolidado na jurisprudncia brasileira dos tribunais superiores. Certamente, uma dvida fiscal no valor de R$ 20.000,00 (vinte mil reais) no pode ser considerada insignificante. Em especial quando se compara o valor que  utilizado para a aplicao de tal princpio nos crimes contra a ordem tributria e o que  utilizado para a aplicao do mesmo princpio no crime patrimonial de furto, em relao ao qual o Supremo Tribunal Federal reconhece relevncia na conduta que subtrai bem de valor inferior a um salrio mnimo (Habeas Corpus 114300/RS),  possvel perceber que a noo patrimonial da insignificncia no se apresenta adequada. A orientao para que a Fazenda Pblica no ajuze aes de execuo fiscal ou requeira o arquivamento das aes j propostas no revela a insignificncia da conduta, mas apenas que o poder pblico no deve cobrar dividas que demandam gastos maiores do que os valores a serem recebidos por meio da cobrana. Como bem alertou Rogrio Greco, uma coisa  o desinteresse em dar incio  execuo fiscal por questes de ordem econmica [...] outra coisa  se, no caso concreto, existe tipicidade material [...]. No mesmo sentido, o Ministro Marco Aurlio, ao relatar, no Supremo Tribunal Federal, o Habeas Corpus 100.986, registrou que a possibilidade de o procurador da Fazenda Nacional pleitear, temporariamente, o arquivamento do executivo fiscal - Lei 10.522/2002, por si s, no autoriza a concluso de tratar-se de crime de bagatela.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da insignificância não se aplica aos crimes contra a ordem tributária, pois não se trata apenas de ofensa aos interesses patrimoniais do Fisco. A orientação para que a Fazenda Pública não ajuíze ações de execução fiscal ou requeira o arquivamento das ações já propostas não revela a insignificância da conduta, mas sim que o poder público não deve cobrar dívidas que demandam gastos maiores do que os valores a serem recebidos por meio da cobrança.

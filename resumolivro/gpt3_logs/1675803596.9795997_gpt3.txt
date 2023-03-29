@@ -1,0 +1,32 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Atribuicoes do Presidente da CPAD
+a. colher o compromisso dos membros designados de desempenhar bem e fielmente as atribuicoes;
+b. designar militar nao integrante da CPAD para o exercicio de atividade especifica na instrucao processual, como a de defensor ad hoc, curador ou de escrevente;
+c. coordenar os trabalhos da CPAD, orientando o escrivao e o interrogante/relator para o exercicio de suas atribuicoes;
+d. proceder ao estudo previo do processo encaminhado a CPAD, promovendo a complementacao de documentos e agendamento das audincias;
+e. verificar e corrigir as irregularidades, caso existentes;
+f. exarar despachos de expediente e prolatar decisoes interlocutorias;
+g. promover a notificacao inicial do militar acusado, na forma do CEDM;
+h. encaminhar notificacoes ao acusado, as testemunhas, as vitimas e ao defensor;
+i. providenciar a reducao a termo das declaracoes, depoimentos e informacoes e promover as acareacoes que julgar necessarias;
+j. dirigir as audincias, auxiliado pelo escrivao e interrogante/relator, ouvindo o acusado e as testemunhas, e concedendo a palavra, primeiramente, aos membros de CPAD e, posteriormente, ao defensor, para que apresentem as perguntas a serem efetuadas as pessoas inquiridas;
+k. oficiar a autoridade competente, requisitando a presenca do servidor publico ou militar;
+l. oficiar a autoridade competente, solicitando o encaminhamento de copia de documento, inclusive de inquerito policial e de pecas de processo administrativo ou judicial;
+m. verificar a legalidade da assistncia do acusado por advogado constituido, defensor publico ou dativo, juntando aos autos os instrumentos de procuracao ou designacao;
+n. deferir ou indeferir, fundamentadamente, producao de prova;
+o. coordenar a elaboracao do relatorio final a ser encaminhado a autoridade convocante;
+p. cumprir diligncias complementares requeridas pela autoridade convocante;
+q. definir o local onde funcionara a CPAD. 2.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Presidente da CPAD tem as seguintes responsabilidades: colher o compromisso dos membros designados, designar militares não integrantes para atividades específicas, coordenar os trabalhos da CPAD, verificar e corrigir irregularidades, exarar despachos e decisões interlocutorias, notificar o acusado, testemunhas, vítimas e defensor, dirigir as audiências, oficiar autoridades, verificar legalidade da assistência do acusado, deferir ou indeferir produção de prova, coordenar a elaboração do relatorio final, cumprir diligências complementares e definir o local onde funcionará a CPAD.

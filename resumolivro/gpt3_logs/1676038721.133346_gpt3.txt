@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Na doutrina, muito se discutiu sobre a relao existente entre o tipo e a ilicitude. Em apertada sntese, vejamos as principais concepes sobre a relao tipo-ilicitude. Concepo avalorativa do tipo. No esquema inicial de Liszt e Beling, apesar da ntida distino entre tipo e ilicitude, a concepo avalorativa do tipo no permitiu estabelecer qualquer relao entre esses elementos da teoria do crime. A tipicidade no evidenciava qualquer sentido valorativo. Nas palavras de Beling, todos os delitos-tipos so, em consequncia, de carter puramente descritivo; neles no se expressa ainda a valorao jurdica qualificante da antijuridicidade. O tipo era concebido como uma figura, uma imagem jurdica formal e abstrata que nada dizia quanto  ilicitude ou culpabilidade do fato. Somente no exame da ilicitude  que ocorreria o juzo valorativo que atribui a caracterstica de contrariedade do fato com a ordem jurdica. A concepo  manifestamente equivocada. A atividade valorativa em sede penal verifica-se desde a eleio dos bens jurdicos a serem protegidos pelos tipos. Percebe-se que nem todos os bens jurdicos recebem a tutela especfica do Direito Penal. Os bens que se encontram juridicamente protegidos pelas normas penais so somente aqueles que, a critrio do legislador, exigem proteo especial, por se revelarem insuficientes as garantias oferecidas pelo ordenamento jurdico, em seus aspectos extrapenais. Como valor socialmente relevante, o bem jurdico  escolhido pelo legislador para receber a proteo especial. No entanto, o bem jurdico  protegido pelo Direito Penal apenas de algumas das possveis formas de violao, e no de todas as formas de violao. Isso consagra o carter fragmentrio do Direito Penal e faz realar o segundo momento de atividade valorativa: a eleio dos comportamentos ofensivos aos bens juridicamente tutelados. Essa dupla valorao caracteriza a concepo material do tipo, que se coloca em oposio  proposio inicial de Beling, de aspecto meramente formal. O tipo penal, ao descrever a matria de proibio, materializa um juzo de desvalor sobre determinada conduta, bem como sobre o resultado desta, ao mesmo tempo em que exerce a importante funo de estabelecer os parmetros do permitido na vida de relaes sociais. Em outras palavras, a tipicidade da conduta tem um significado para o Direito Penal: demonstra a ocorrncia de algo socialmente relevante. Concepo indiciria da ilicitude.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A relação entre o tipo e a ilicitude foi discutida na doutrina. A concepção avalorativa do tipo não estabeleceu qualquer relação entre os elementos da teoria do crime, pois o tipo era visto como uma imagem abstrata. Por outro lado, a concepção material do tipo demonstra que o tipo penal materializa um juízo de desvalor sobre a conduta e o resultado dela, estabelecendo os parâmetros do permitido na vida social. A concepção indiciria da ilicitude também foi abordada.

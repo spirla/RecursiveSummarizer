@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+36,  2 e 3, da Lei n. 8.935/1994, nao se submete ao teto previsto no art. 37, XI, da CF/88 de 88. O Tribunal de origem firmou compreensao no sentido de que a remuneracao do interventor da serventia extrajudicial deve obedecer ao teto previsto no art. 37, XI, da CF/88. Nada obstante esse respeitavel raciocinio, certo e que a legislacao de regencia, ainda em vigor, sinaliza em sentido oposto. Os paragrafos 2 e 3 do art. 36 da Lei n. 8.935/1994 deixam claro que ao interventor cabera depositar em conta bancaria especial metade da renda liquida da serventia, sendo certo que esse montante, em caso de condenacao do cartorario titular, cabera ao proprio interventor, que tera indiscutivel direito ao seu levantamento. No caso, nao ha controversia quanto a ter o titular da serventia sido condenado administrativamente, com o que perdeu a delegacao. Assim, nos expressos termos da legislacao vigente, aquela metade arrecadada durante o afastamento do titular devera ser carreada ao interventor. Exegese diversa, mesmo que oriunda do egregio Conselho Nacional de Justica - CNJ (em patamar administrativo, portanto), nao se podera sobrepor a explicito comando constante de lei federal, tanto mais quando este nao padeca de eventual inconstitucionalidade declarada pela Excelsa Corte, como aqui sucede. (Informativo n. 733) 178 PROCESSO RMS 67.416-SE, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A remuneração do interventor da serventia extrajudicial não se submete ao teto previsto no art. 37, XI, da CF/88. 2. O montante arrecadado durante o afastamento do titular deverá ser carreado ao interventor, nos expressos termos da legislação vigente. 3. Não se pode sobrepor a explicito comando constante de lei federal, mesmo que oriunda do Conselho Nacional de Justiça.

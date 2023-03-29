@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A receita bruta proveniente da comercializacao dos produtos das agroindustrias se insere tanto na acepcao estrita de faturamento quanto na de receita, considerada a alteracao implementada pela EC 20/1998. Ademais, a mencionada contribuicao previdenciaria nao incide sobre o valor estimado da producao, regime declarado inconstitucional pelo STF. O estabelecimento da receita bruta como base para a contribuicao previdenciaria, por desone-rar a folha de salarios, estimula a formalizacao do trabalho no meio rural, em observancia ao principio de ordem economica da busca do pleno emprego (CF/88, art. 170, VIII). Alem disso, inexiste violacao ao principio da isonomia, pois este convive, de modo especial, em harmonia com o principio da capacidade contributiva. Assim, tendo determinada agroindustria grande receita ou faturamento, pode ela ser chamada a contribuir para a previdencia social com recur-sos proporcionais a tal grandeza (CF/88, art. 145,  1). Com base nesse entendimento, o Plenario, por maioria, ao apreciar o Tema 281 da repercussao geral, negou provimento ao recurso extraordinario. RE 611.601/RS, relator Ministro Dias Toffoli, julgamento virtual finalizado em 16.12.2022 (sexta-feira), as 23:59 DIREITO ADMINISTRATIVO 1.1 ADMINISTRACAO PUBLICA ESTADUAL Atividade profissional de despachantes: competencia legislativa para regulamentacao - ADI 6740/RN e ADI 6738/GO ODS: 16 Resumo: E privativa da Uniao a competencia para legislar sobre condicoes para o exercicio da profissao de despachante (CF/88, art. 22, XVI), de modo que a disciplina legal dos temas relacionados a sua re-gulamentacao tambem deve ser estabelecida pela Uniao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A receita bruta proveniente da comercialização dos produtos das agroindústrias se insere tanto na acepção estrita de faturamento quanto na de receita, considerada a alteração implementada pela EC 20/1998. 2. A contribuição previdenciária não incide sobre o valor estimado da produção, regime declarado inconstitucional pelo STF. 3. O estabelecimento da receita bruta como base para a contribuição previdenciária, por desonerar a folha de salários, estimula a formalização do trabalho no meio rural, em observância ao princípio de ordem econômica da busca do pleno emprego (CF/88, art. 170, VIII). 4. Não há violação ao princípio da isonomia, pois este convive, de modo especial, em harmonia com o princípio da capacidade contributiva. 5. É privativa da União a competência para legislar sobre condições para o exercício da profissão de despachante (CF/88, art. 22, XVI).

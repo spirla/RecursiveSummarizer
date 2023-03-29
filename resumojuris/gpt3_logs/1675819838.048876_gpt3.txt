@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Portanto, a despeito da previsao mais generica do art. 175 da CF, no caso dos servicos de telecomunicacoes, e o texto constitucional que permite a exploracao por meio de autorizacao, o que significa conferir a Administracao a faculdade de instituir um regime privado, submetido a livre concorrencia, ainda que derrogado parcialmente pela regulacao estabelecida pela ANATEL. A ANATEL nao pode disciplinar procedimento licitatorio simplificado por meio de norma de hierarquia inferior a Lei Geral de Licitacoes, sob pena de ofensa ao principio da reserva legal. Por isso, sao inconstitucionais as expressoes simplificado e nos termos por ela regulados do art. 119, da Lei 9.472/1997. As normas licitatorias sao cogentes, nao viabilizando atuacao livre deste ou daquele administrador, por maior que lhe seja a envergadura. Com base nesse entendimento, o Plenario, por maioria, julgou parcialmente procedente pedido formulado em acao direta ajuizada contra dispositivos da Lei 9.472/1997, que dispoe sobre a organizacao dos servicos de telecomunicacoes, a criacao e o funcionamento de um orgao regulador e outros aspectos institucionais, nos termos da Emenda Constitucional 8/1995. Vencido o ministro Roberto Barroso. ADI 1668/DF, relator Min. Edson Fachin, julgamento virtual finalizado em 27.2.2021 (INF 1007) Sindicato e associacao trabalhista ou patronal e cargo de direcao em agencia reguladora - ADI 6276/DF Resumo: E constitucional dispositivo legal que veda a indicacao de pessoa que exerca cargo em organizacao sindical ou que seja membro de conselho ou diretoria de associacao patronal ou trabalhista para a alta direcao das agencias reguladoras. Isso porque o conselho diretor ou a diretoria colegiada das agencias reguladoras, diante da necessidade de tomada de decisoes imparciais, devem ser isentos de influencias politicas, sociais e economicas externas a propria finalidade dessas autarquias.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É permitida a exploração dos serviços de telecomunicações por meio de autorização, conferindo à Administração a faculdade de instituir um regime privado, submetido a livre concorrência. 2. É inconstitucional a disciplina de procedimento licitatório simplificado por meio de norma de hierarquia inferior à Lei Geral de Licitações. 3. As normas licitatórias são cogentes, não viabilizando atuação livre deste ou daquele administrador. 4. É constitucional dispositivo legal que veda a indicação de pessoa que exerça cargo em organização sindical ou que seja membro de conselho ou diretoria de associação patronal ou trabalhista para a alta direção das agências reguladoras, diante da necessidade de tomada de decisões imparciais, isentas de influências políticas, sociais e econômicas externas à própria finalidade dessas autarquias.

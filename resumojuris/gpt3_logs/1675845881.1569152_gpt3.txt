@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com efeito, prevalece no Superior Tribunal de Justica o entendimento no sentido de que a pormenorizacao dos bens somente e possivel apos o cumprimento da diligencia, nao sendo admissivel exigir um verdadeiro exercicio de futurologia por parte do Magistrado, maxime na fase pre-processual (RHC n. 59.661/PR, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2015, DJe 11/11/2015) . (AgRg no RHC n. 150.787/PE, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1 Regiao), Sexta Turma, julgado em 17/5/2022, DJe de 20/05/2022). Ademais, o art. 243 do CPP disciplina os requisitos do mandado de busca e apreensao, dentre os quais nao se encontra o detalhamento do que pode ou nao ser arrecadado; e o art. 240 apresenta um rol exemplificativo dos casos em que a medida pode ser determinada, no qual se encontra a hipotese de arrecadacao de objetos necessarios a prova da infracao ou a defesa do reu, nao havendo qualquer ressalva de que nao possam dizer respeito a intimidade ou a vida privada do individuo . (RHC n. 141.737/PR, relator Ministro Sebastiao Reis Junior, Sexta Turma, julgado em 27/04/2021, DJe de 15/06/2021). (Informativo n. 750) PROCESSO RMS 66.392-RS, Rel. Min. Joao Otavio de Noronha, Quinta Turma, por unanimidade, julgado em 16/08/2022, DJe 19/08/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO PENAL, DIREITO PROCESSUAL PENAL TEMA Investigacao criminal. Quebra de sigilo telematico.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inviável exigir do Magistrado um exercício de futurologia na fase pré-processual. 2. O artigo 243 do Código de Processo Penal não exige detalhamento do que pode ou não ser arrecadado. 3. O artigo 240 do Código de Processo Penal apresenta um rol exemplificativo dos casos em que a medida de busca e apreensão pode ser determinada, incluindo a hipótese de arrecadação de objetos necessários à prova da infração ou à defesa do réu.

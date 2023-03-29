@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Devem ser utilizados na Justica Trabalhista os mesmos indices de correcao monetaria vigentes para as condenacoes civeis em geral: o Indice Nacional de Preco ao Consumidor Amplo Especial (IPCA-E), na fase pre-judicial, e, a partir da citacao, a taxa referencial do Sistema Especial de Liquidacao e Custodia (SELIC). Essa solucao, atende a integridade sistemica do plexo normativo infraconstitucional, ja que, o IPCA-E e o indice adequado para medir a inflacao de debitos trabalhistas porque mede a variacao de precos do consumidor. Por outro lado, salvo disposicao em sentido contrario, na fase de liquidacao da sentenca, deve-se observar a regra geral do art. 406 do CC (CC) e, atualmente, a taxa dos juros moratorios a que se refere o referido dispositivo e a SELIC, por ser ela a que incide como juros moratorios dos tributos federais. Esse entendimento devera ser aplicado ate que o legislador corrija futuramente a questao, equalizando os juros e a correcao monetaria aos padroes de mercado. Com esses fundamentos, o Plenario, por maioria, julgou parcialmente procedentes duas acoes declaratorias de constitucionalidade e duas acoes diretas de inconstitucionalidade, para conferir interpretacao conforme a Constituicao ao art. 879,  7, e ao art. 899,  4, da Consolidacao das Leis do Trabalho (CLT), na redacao dada pela Lei 13.467/2017. Vencidos os Ministros Edson Fachin, Rosa Weber, Ricardo Lewandowski e o Ministro Marco Aurelio.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Devem ser utilizados na Justiça Trabalhista os mesmos índices de correção monetária vigentes para as condenações civis em geral: o Índice Nacional de Preço ao Consumidor Amplo Especial (IPCA-E), na fase pré-judicial, e, a partir da citação, a taxa referencial do Sistema Especial de Liquidação e Custódia (SELIC). 2. O IPCA-E é o índice adequado para medir a inflação de débitos trabalhistas porque mede a variação de preços do consumidor. 3. Salvo disposição em sentido contrário, na fase de liquidação da sentença, deve-se observar a regra geral do art. 406 do Código Civil (CC) e, atualmente, a taxa dos juros moratórios a que se refere o referido dispositivo é a SELIC, por ser ela a que incide como juros moratórios dos tributos federais. 4. Esse entendimento deverá ser aplicado até que o legislador corrija futuramente a questão, equalizando os juros e a correção monetária aos padrões de mercado.

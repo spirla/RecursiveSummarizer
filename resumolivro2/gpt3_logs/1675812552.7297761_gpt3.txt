@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na fase da execuo da pena, quando pode ser concedido, negado ou revogado o livramento condicional, cabe agravo sem efeito suspensivo (artigo 197 da Lei 7.210, de 11.07.1984). Ao singularizar o agravo para todas as decises proferidas no processo de execuo, a LEP alterou as hipteses de cabimento de recurso em sentido estrito. Decises do STM, todavia, resistem processar e julgar o agravo em execuo e o recebem, pela fungibilidade, como recurso em sentido estrito. Outra  a situao da JME, porquanto o artigo 6 do CPPM determina a aplicao das normas processuais atinentes  execuo das sentenas aos processos de sua competncia. A suspenso condicional da pena  concedida ou negada no julgamento pelo Conselho de Justia ou pelo juiz togado nos processos de sua exclusiva competncia. Da deciso revogatria do sursis pelo juiz da execuo cabe agravo (artigo 197, LEP), porm, na JMU o entendimento tem sido de que cabe recurso em sentido estrito e no agravo. A deciso de revogar o sursis na audincia de advertncia (admonitria), que  realizada pelo juiz federal depois de transitada em julgado a sentena condenatria (artigo 610, CPPM), desafia o recurso em sentido estrito. Anular, no todo ou em parte, o processo da instruo criminal (alnea n). O primeiro aspecto  que tanto a declarao total como a parcial de nulidade desafiam o recurso. O segundo  que, mediante interpretao extensiva, a expresso instruo criminal compreende tambm o processo, de modo que  cabvel o recurso em sentido estrito tanto da anulao da instruo criminal como do processo. Por fim, se a declarao de nulidade ocorrer quando do julgamento pelo Conselho de Justia ou na sentena proferida pelo juiz togado nos processos de sua exclusiva competncia, o recurso a ser interposto  apelao. Decidir sobre a unificao das penas (alnea o). O recurso  o agravo em execuo (artigo 111, LEP).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Na execução da pena, o agravo sem efeito suspensivo é cabível para todas as decisões proferidas no processo. O STM e a JMU resistem ao processamento e julgamento do agravo, mas o recebem como recurso em sentido estrito. A revogação do livramento condicional na audiência de advertência desafia o recurso em sentido estrito. A anulação total ou parcial do processo de instrução criminal também desafia o recurso, mas é cabível a apelação se ocorrer no julgamento pelo Conselho de Justiça ou na sentença proferida pelo juiz togado. Por fim, a unificação das penas cabe agravo em execução.

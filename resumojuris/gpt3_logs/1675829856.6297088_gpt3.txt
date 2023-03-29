@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+58 DIREITO ECONOMICO 59 PRIMEIRA TURMA Voltar ao Sumario. Processo REsp 1.979.138-DF, Rel. Ministro Benedito Goncalves, Primeira Turma, por unanimidade, julgado em 8/11/2022, DJe 10/11/2022. Ramo do Direito DIREITO ECONOMICO Tema CADE. Exercicio de direito sancionador. Requerimento para producao de prova tecnica. Indeferimento. Impossibilidade. Nulidade. Devido processo administrativo. DESTAQUE No exercicio de direito sancionador, a negativa da prova tecnica requerida pelo acusado pode afrontar o devido processo administrativo. No caso, a producao de prova pericial foi requerida pela sociedade empresaria, que estava na iminencia de ser sancionada pela Administracao Publica e, portanto, deve lhe ser assegurada a prerrogativa de se defender por meio do devido processo administrativo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. No exercício de direito sancionador, a negativa da prova técnica requerida pelo acusado pode afrontar o devido processo administrativo. 2. A produção de prova pericial deve ser assegurada à sociedade empresária que está na iminência de ser sancionada pela Administração Pública, para que possa se defender por meio do devido processo administrativo.

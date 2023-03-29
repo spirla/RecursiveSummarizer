@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Alega o apelante que a sentena recorrida foi proferida em contrariedade ao princpio constitucional da ampla defesa, pois [...] a apelada em sua defesa at mesmo foi confessa que ocorreu o cerceamento de defesa do apelante com a demisso injusta, o que comprovam seus argumentos atravs das folhas 157/158 que constam as assinaturas dos membros do Conselho e no do apelante e de seu defensor tinha como nico intuito a inteno de tentar burlar os preceitos Constitucionais [...]. Argumenta o apelante que A ausncia de defensor como j disse anteriormente, quer constitudo, quer nomeado, implica em inconteste prejuzo ao acusado e que sem juntar a pea Administrativa que levou a demisso do autor das Fileiras da Policia Militar, foi requerida na inicial, o que no foi apresentada com a defesa este patrono poder exercer o Direito Constitucional da Ampla Defesa e do Contraditrio previsto no artigo 5a, LV, da Carta Magna. Afirma o apelante que No presente caso a matria discutida claramente depende da produo de provas, como  sobejamente conhecido, em face de deciso do Eg. STF na Smula 056 do STF, em processos que discutem est matria. (sic). Disse tambm o apelante que a sentena seria nula, pois [...]no poderia o ilustre Magistrado sentenciar sem a produo de provas pretendidas, cerceando seu direito  ampla defesa prevista na Carta Magna e requer a anulao de toda a sano disciplinar e pela reforma da sentena a quo, uma vez que faltou ao apelante a apreciao de seu pedido elencado na inicial de que no procedimento Administrativo (PAD) no haver assinaturas e provas do cumprimento de folhas 157/158 quando da demisso do Servidor conforme ocorrido. Assevera ainda o apelante que na Portaria 118615/2018 de folhas 92/93, que determinou a instaurao do PAD em desfavor da servidora supracitado no aponta a possibilidade de demisso da Militar das Fileiras da Corporao, motivo pelo qual a aplicao de tal penalidade a Servidora deve ser afastada de plano [..] (sic), embora os documentos encartados demonstrem que se trata de servidor do sexo masculino e o nmero de portaria que trata do assunto possui numerao diversa. Sob o ttulo DA SENTENA ULTRA, EXTRA E CITRA PETITA, o apelante alega que Sabe se que ao juiz  vedado proferir decises diversas daquelas que esto especificadas nos pedidos sob pena de ferir os preceitos dos artigos 141 e 492 do CPC, o que realmente ocorreu na lide pelo fato de no haver tanto na causa de pedir bem como dos pedidos e na r. deciso primeva.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O apelante alega que a sentena recorrida foi proferida em contrariedade ao princpio constitucional da ampla defesa, pois ocorreu cerceamento de defesa, e que a sentena seria nula, pois no foi apresentada a pea administrativa que levou à demissão do autor. Argumenta ainda que a sentena foi ultra, extra e citra petita, pois não houve especificação dos pedidos na causa de pedir e na decisão primeva.

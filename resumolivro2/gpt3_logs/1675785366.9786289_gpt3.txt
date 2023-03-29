@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O tribunal poder dar provimento ao recurso, juzo de mrito positivo, ou negar provimento ao recurso, juzo de mrito negativo. Em havendo julgamento do mrito, confirmando ou no a deciso atacada, o acrdo substitui a deciso recorrida. A consequncia desta substituio  que existindo outro recurso (por exemplo, extraordinrio ou especial) ele deve ser interposto contra o acrdo e no contra a deciso do rgo jurisdicional inferior. Se o Tribunal reconhecer no recurso que houve na sentena error in judicando (erro de julgamento) reformar a deciso e o acrdo substituir a sentena. Todavia, se reconhecer o error in procedendo (erro na aplicao do direito processual), dever anular o processo baixando o processo para que o juiz de primeiro grau refaa os atos de forma regular. No pode o Tribunal substituir a deciso recorrida porque estaria suprimindo o primeiro grau de jurisdio..
+18.2. Recurso em sentido estrito.  um recurso ordinrio e voluntrio que leva  reapreciao do rgo que prolatou a deciso interlocutria ou sentena a matria de fato ou de direito impugnada. 18.2.1. Requisitos de admissibilidade 18.2.1.1. CabimentoCabe recurso em sentido estrito da deciso interlocutria ou da sentena do Conselho de Justia ou do juiz federal da JMU e do juiz de direito da JME, nas hipteses previstas nas alneas a a q do artigo 516 do CPPM. Reconhecimento da inexistncia de crime militar (alnea a). O juiz reconhece a inexistncia de crime militar em razo da ausncia da tipicidade, de ilicitude ou de culpabilidade por coao moral irresistvel ou obedincia hierrquica, bem como desclassifica o fato para infrao disciplinar. Contudo, a sentena de mrito que reconhecer a inexistncia de crime militar desafia apelao, que  mais abrangente do que o recurso em sentido estrito. Indeferimento do pedido de arquivamento ou da devoluo do inqurito  autoridade administrativa (alnea b).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O recurso em sentido estrito é um recurso ordinário e voluntário que permite a reapreciação da decisão interlocutória ou sentença do Conselho de Justiça ou do juiz federal da JMU e do juiz de direito da JME. É cabível quando há reconhecimento da inexistência de crime militar, desclassificação de fato para infração disciplinar ou indeferimento do pedido de arquivamento ou da devolução do inquérito à autoridade administrativa. Se houver julgamento do mérito, o acórdão substituirá a decisão recorrida.

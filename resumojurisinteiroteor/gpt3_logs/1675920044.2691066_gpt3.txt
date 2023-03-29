@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+A parte agravante alega, em seu agravo interno, que realizou a impugnao aos fundamentos de inadmissibilidade do recurso especial. [...] (STJ - EDcl no AgInt no AREsp 1800154/SP, Rel. Ministro FRANCISCO FALCO, SEGUNDA TURMA, julgado em 28/06/2021, DJe 01/07/2021). Por fim,  oportuno registrar que, mesmo para fins de prequestionamento para eventual interposio de recurso nas instncias superiores,  imperiosa a presena de uma das hipteses exigidas no artigo 1.022 do Cdigo de Processo Civil (CPC), o que, repita-se, no ocorreu no caso em exame. Pelo exposto, inexistindo os vcios arguidos pelo embargante, rejeito o presente recurso de embargos de declarao.  como voto. DESEMBARGADOR JADIR SILVA Acompanho o voto do eminente Desembargador relator. DESEMBARGADOR JAMES FERREIRA SANTOS Acompanho o voto do eminente Desembargador relator. Belo Horizonte, sesso ordinria presencial de julgamento do Tribunal de Justia Militar do Estado de Minas Gerais, aos 6 de outubro de 2022. Tribunal de Justia Militar do Estado de Minas Gerais Desembargador Scrates Edgard dos Anjos Relator EMBARGOS DE DECLARAO Processo eproc n. 2000223-57.2021.9.13.0002 Referncia: Processo eproc n. 2000500-10.2020.9.13.0002 Relator: Desembargador James Ferreira Santos Julgamento: 22/09/2022 Publicao: 18/10/2022 Deciso: UNNIME EMENTA EMBARGOS DE DECLARAO - OMISSO - INEXISTNCIA - REJEIO. O cabimento dos embargos de declarao restringe-se  ocorrncia de obscuridade, contradio ou omisso nos julgados (art. 542 do Cdigo de Processo Penal Militar). Pedido de embargos de declarao no sentido de discusso da fundamentao do julgado, em virtude de insatisfao com a soluo do processo. Embargos de declarao rejeitados. ACRDO Vistos, relatados e discutidos os presentes autos, sendo embargante Paulo Tristo Pinto e embargado o Ministrio Pblico do Estado de Minas Gerais, acordam os desembargadores da Segunda Cmara, por unanimidade, em rejeitar os presentes embargos declaratrios. RELATRIO Trata-se de embargos de declarao, opostos pelo Cb PM Paulo Tristo Pinto, em face da deciso exarada pela Segunda Cmara deste Tribunal, que negou provimento ao recurso de apelao, para manter a condenao de primeiro grau de jurisdio. O recorrente asseverou que a deciso objurgada foi omissa, na medida em que sequer menciona a principal tese veiculada em sede de alegaes finais e no prprio recurso de apelao, qual seja, o fato de o militar, ora embargante, no ter agido com dolo ao deixar seu posto. Disse que a deciso que se deseja modificar fere o disposto no inciso IX do art. 93 da CF/88, uma vez que no apreciou o argumento essencial para a soluo do meritum causae, qual seja, a mencionada ausncia de dolo do militar em abandonar o posto.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia Militar do Estado de Minas Gerais rejeitou os embargos de declaração opostos pelo Cb PM Paulo Tristo Pinto, uma vez que não houve obscuridade, contradição ou omissão nos julgados, e o pedido de embargos de declaração não foi acolhido para discutir a fundamentação do julgado, em virtude da insatisfação com a solução do processo.

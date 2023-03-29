@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O artigo 526, pargrafo nico, do CPPM, impe que, quando cabvel a apelao, no poder ser usado o recurso em sentido estrito, ainda que somente de parte da deciso se recorra. Por exemplo, ru  acusado de dois delitos;
+o juiz o condena por um deles (cabe apelao) e declara extinta punibilidade do outro crime (cabe recurso em sentido estrito nos termos do artigo 516, j, CPPM). Ainda que o Ministrio Pblico recorra apenas de parte da deciso que declarou extinta a punibilidade, o recurso cabvel  apelao. O princpio da unirrecorribilidade no impede, todavia, a interposio de dois recursos para atacar pontos diferentes da mesma deciso (recursos concomitantes). Recurso especial por conta de a deciso contrariar tratado ou lei federal (artigo 105, III, a, CF) e recurso extraordinrio contra deciso que contrariar dispositivo da Constituio Federal (artigo 102, III, a, CF). Admite-se, tambm, mais de um recurso, que tenham a mesma natureza, contra mesma deciso em caso de sucumbncia recproca. O Ministrio Pblico recorre para aumentar a pena e a defesa para absolver o acusado. H uma outra exceo ao princpio da unirrecorribilidade, conforme pondera Tourinho Filho, na hiptese de o acrdo ter parte unnime e parte no unnime. Assim, sendo dois rus, o Tribunal condenou um deles por unanimidade e o outro por maioria, ento, caber recurso extraordinrio ou especial, se for o caso, e embargos infringentes. 18.1.3.3. Princpio da taxatividade. Pelo princpio da taxatividade so cabveis os recursos expressamente previstos na Constituio Federal ou no Cdigo de Processo Penal Militar. No entanto, em caso de omisso legislativa, no se exclui a interpretao extensiva da norma processual, nem mesmo aplicao analgica de certas regras. A aplicao da interpretao extensiva no direito do processo penal militar  admitida quando for manifesto que a expresso da lei  mais estrita (artigo 2, pargrafo 1, CPPM) e os casos omissos no CPPM podem ser supridos pela analogia (artigo 3, e, CPPM). Cabe recurso em sentido estrito contra a deciso que julgar improcedente o corpo de delito ou outros exames (artigo 516, g, CPPM).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 526, pargrafo nico, do CPPM, estabelece que, quando cabvel a apelao, não se pode usar o recurso em sentido estrito, mesmo que se recorra apenas de parte da decisão. Exceções ao princípio da unirrecorribilidade são permitidas em casos de sucumbncia recproca, decisão com parte unnime e parte no unnime, e omissão legislativa. O recurso em sentido estrito é cabível contra decisões que julgam improcedente o corpo de delito ou outros exames.

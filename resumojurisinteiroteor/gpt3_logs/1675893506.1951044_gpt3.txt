@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Em despacho no Evento 5, foi determinada a citao do representado para que constitusse advogado ou comunicasse a impossibilidade de faz-lo a este Tribunal, a fim de que lhe fosse indicado um defensor pblico para patrocinar a sua defesa. No mesmo despacho, solicitou-se a remessa a este Tribunal do Extrato de Registros Funcionais (ERF) do representado, a fim de instruir o julgamento do processo. Aps, abriu-se "vista dos autos ao defensor, pelo prazo de 10 (dez) dias, para apresentao de defesa escrita. O Extrato de Registros Funcionais do representado foi anexado no Evento 9 - EXTRATO1, o qual, em sntese, apresenta os seguintes lanamentos: CB PM QPR RICARDO GOMES XAVIER Recompensas Notas meritrias: 36 (trinta e seis); Elogios individuais: 8 (oito); Menes elogiosas escritas: 14 (quatorze); Punies Suspenso: 1 (uma) Conceito B - 0006 Foi apresentada defesa escrita pelo advogado Dr. Leandro Hollerbach Ferreira, que sustentou que o fato de o representado ter sido condenado a uma pena de 8 (oito) anos de recluso no significa, necessariamente, que ele deva ser excludo das fileiras da PMMG. No entendimento da defesa, inmeros outros fatos que so peculiares ao presente caso devem ser analisados, ponderados e sopesados, como a personalidade do representado, as suas caractersticas pessoais, o seu tempo de servio e o seu realinhamento de conduta. Nesse sentido, aduz que a inteligncia do artigo 125,  4, da Constituio Federal, bem como o artigo 111 da Constituio Estadual, permite ao julgador avaliar, no caso concreto - seguindo os critrios de convenincia e oportunidade, balizados - a perda de graduao da praa; logicamente, pelos princpios militares, independentemente da pena cominada. Alega que, em que pese a pena fixada no processo criminal, o representado Cb PM QPR Ricardo Gomes Xavier procurou sempre pautar sua atuao com bom comportamento profissional, contanto com o apoio irrestrito de seus colegas de farda. Ademais, diz o representado j vem sofrendo com a severa reprimenda imposta em seu desfavor, no sendo necessria mais uma sano, como a perda da sua graduao. Afirma que, pelos documentos anexados  presente defesa, percebe-se que o representado sempre desempenhou a sua atividade policial militar de forma memorvel, prestou relevantes servios e, assim, possui condies de permanecer nas fileiras da PMMG. Desta forma, requereu a defesa o direito de juntada de documentos at a sesso de julgamento. No mrito, requereu que seja negado provimento  representao, para que o representado permanea nas fileiras da PMMG. Nestes termos, pede deferimento.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O representado foi citado para constituir advogado ou comunicar a impossibilidade de fazê-lo, para que lhe fosse indicado um defensor público. Foi apresentada defesa escrita pelo advogado, sustentando que o fato de o representado ter sido condenado não significa necessariamente que ele deva ser excluído das fileiras da PMMG. Requereu a juntada de documentos até a sessão de julgamento e pediu o deferimento da representação para que o representado permaneça nas fileiras da PMMG.

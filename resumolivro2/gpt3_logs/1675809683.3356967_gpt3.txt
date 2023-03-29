@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+No importa que a prova tenha sido produzida por requerimento da outra parte, a parte que no a requereu tem direito de se manifestar sobre o resultado em face dos princpios da igualdade e do contraditrio, juntado o laudo, de acordo com o artigo 326, pargrafo nico, CPPM, ser dada vista s partes, pelo prazo de 3 (trs) dias, para requererem quaisquer esclarecimentos dos peritos ou apresentarem quesitos suplementares para esse fim, que o juiz poder admitir, desde que pertinentes e no infrinjam o artigo 317 e seu pargrafo 1. No satisfeitas com as concluses do laudo, as partes podem requerer esclarecimentos dos peritos ou apresentarem quesitos suplementares. Cabe ao juiz verificar se so pertinentes ao objeto da percia, bem como se sugestivos ou se contm implcita a resposta. O indeferimento imotivado de pedido de esclarecimentos do perito sobre o teor do laudo configura cerceamento de defesa. Leciona Hlio Tornaghi que a percia a todos interessa, ao juiz, ao acusador e ao defensor, compreensvel, por isso, que esses sujeitos processuais interfiram na percia, mas adverte que essa interferncia seria germe de tumulto se qualquer deles pudessem influir na orientao dos trabalhos, na escolha dos mtodos e dos processos tcnicos ou mesmo na maneira de raciocinar dos peritos. A Lei 11.960, de 9.6.2008, deu nova redao ao artigo 159 do CPP e incluiu no pargrafo 3 a faculdade de o Ministrio Pblico, do assistente de acusao e do acusado indicar assistente tcnico. O assistente tcnico a partir de sua admisso pelo juiz no curso do processo atua aps a concluso dos exames e elaborao do laudo pelos peritos oficiais (parte final do artigo 159, pargrafo 4, do CPP) elaborando parecer reafirmando ou criticando a concluso do laudo oficial. O assistente tcnico, alm de apresentar parecer em prazo a ser fixado pelo juiz, pode ser inquirido em audincia (artigo 159, pargrafo 5, II, CPP).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A parte que não requereu a prova tem direito de se manifestar sobre o resultado, de acordo com os princípios da igualdade e do contraditório. O juiz pode admitir quesitos suplementares pertinentes, desde que não infrinjam o artigo 317 do CPPM. Se não satisfeitas com as conclusões do laudo, as partes podem requerer esclarecimentos dos peritos ou apresentar quesitos suplementares. O Ministério Público, o assistente de acusação e o acusado têm a faculdade de indicar um assistente técnico, que pode apresentar um parecer reafirmando ou criticando o laudo oficial.

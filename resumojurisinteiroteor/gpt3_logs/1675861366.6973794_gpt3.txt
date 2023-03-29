@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Aps regular processamento do PCD, o encarregado concluiu pelo enquadramento e pela punio do comunicado na transgresso disciplinar prevista no artigo 13, Xx, do CEDM (Evento 1 - DOC4, pgs. 62/70). No mesmo sentido opinou o CEDMU (Evento 1 - DOC4, pgs. 74/75). O comandante do 61 BPM solucionou o feito, acolheu o parecer exarado pelo CEDMU e determinou o enquadramento e a punio do comunicado na transgresso ora especificada (Evento 1 - DOC4, pgs. 76/77). O ato de sano publicado no BIR n. 36 de 21/06/2018 demonstra que foi imposta ao comunicado a sano disciplinar de 08 (oito) horas de prestao de servio e o decrscimo de 20 (vinte) pontos de seu conceito funcional (Evento 1, DOC4, pgs. 78/79). O comandante da 3a RPM conheceu parcialmente do recurso interposto pelo comunicado, anulou o ato de sano e determinou o retorno dos autos ao encarregado, para a realizao de diligncias complementares, que foram devidamente cumpridas (BIR N. 108 de 30/08/2018, Evento 1 - DOC4, pgs. 91/96, pgs. 97/100 e DOC5, pgs. 1/13). O encarregado apresentou, ento, relatrio complementar, concluindo pelo enquadramento do comunicado na transgresso prevista no artigo 13, inciso XX, do CEDM (Evento 1 - DOC5, pgs. 14/30). Da mesma forma opinou o CEDMU (Evento 1 - DOC5, pgs. 34/36). O comandante do 61 BPM solucionou o feito, acolheu o parecer exarado pelo CEDMU e determinou o enquadramento e a punio disciplinar do comunicado, ora apelante, pela falta ao TPB (BIR n. 15 de 28/03/19, Evento 1 - DOC5, pgs. 38/40). Foi imposta ao comunicado a sano disciplinar de 08 (oito) horas de prestao de servio e o decrscimo de 20 (vinte) pontos de seu conceito funcional (Evento 1, DOC5, pg. 41).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Após regular processamento do PCD, o encarregado e o CEDMU concluíram pelo enquadramento e punição do comunicado na transgresso disciplinar prevista no artigo 13, inciso XX, do CEDM. O comandante do 61 BPM acolheu o parecer exarado pelo CEDMU e determinou o enquadramento e punição do comunicado, impondo a sanção de 8 horas de prestação de serviço e decréscimo de 20 pontos de seu conceito funcional.

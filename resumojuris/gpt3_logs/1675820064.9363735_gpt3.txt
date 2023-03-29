@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O STF ja registrou que razoes economicas e politicas sao aptas a legitimar restricoes a regra geral das licitacoes. Ademais, os aludidos principios nao vedam a delegacao de funcoes normativas a entes de feicao administrativa, desde que preestabelecidas, na respectiva lei, as diretrizes de tais atribuicoes por meio de tipificacao minima do conteudo a ser integrado pela Administracao. Mostra-se legitima a atuacao normativa do Poder Executivo quando integrativa de previa escolha do legislador. A delegacao, a ato de ministro de Estado, da especificacao dos servicos tidos por estrategicos no ambito do ministerio traduz formula analoga a empregada pelo art. 24, IX, da Lei 8.666/1993 (Lei das Licitacoes). Ha evidente interesse publico a justificar que servicos de tecnologia da informacao a orgaos como a Secretaria do Tesouro Nacional e a Secretaria da Receita Federal, integrantes da estrutura do Ministerio da Economia, sejam prestados com exclusividade por empresa publica federal criada para esse fim, como e o caso do Serpro. Os arts. 170, paragrafo unico, e 173, caput, da CF autorizam o legislador a estabelecer restricoes, preservado seu nucleo essencial, ao livre exercicio de atividade economica. Imperativos relacionados a seguranca nacional, a soberania e ao interesse coletivo, bem como a exigencia de preservacao da privacidade na custodia dos dados pessoais dos brasileiros, legitimam, na especie, a escolha do legislador no sentido de afastar do mercado a prestacao a Uniao de determinados servicos de tecnologia da informacao reconhecidos como estrategicos. O direito fundamental a livre iniciativa nao impede a imposicao, pelo Estado, de condicoes e limites para a exploracao de atividades privadas, haja vista a necessidade de sua compatibilizacao com os demais principios, garantias, direitos fundamentais e valores protegidos pela CF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Razões econômicas e políticas são aptas a legitimar restrições à regra geral das licitações. 2. É legítima a atuação normativa do Poder Executivo quando integrativa de prévia escolha do legislador. 3. É legítimo o interesse público que justifica a prestação de serviços de tecnologia da informação a órgãos como a Secretaria do Tesouro Nacional e a Secretaria da Receita Federal com exclusividade por empresa pública federal criada para esse fim. 4. Os artigos 170, parágrafo único, e 173, caput, da Constituição Federal autorizam o legislador a estabelecer restrições, preservado seu núcleo essencial, ao livre exercício de atividade econômica. 5. O direito fundamental à livre iniciativa não impede a imposição, pelo Estado, de condições e limites para a exploração de atividades privadas.

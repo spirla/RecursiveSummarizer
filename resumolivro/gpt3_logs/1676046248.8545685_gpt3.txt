@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Se a caracterizao tpica depende do elemento subjetivo, no se poder reconhecer a ocorrncia de um determinado crime quando os participantes apresentarem dolo de cometer outros. Havendo divergncia do elemento subjetivo, no se poder reconhecer o concurso de pessoas, respondendo cada uma por crime prprio e distinto. Isto  o que acontece nos casos de desvio subjetivo ou de cooperao dolosamente distinta, que merece ser analisada destacadamente. Vale observar que, como j esclarecia a exposio de motivos do Cdigo Penal de 1940 (item 22), para que se identifique o concurso, no  indispensvel um prvio acordo das vontades. Basta que haja em cada um dos concorrentes o conhecimento de concorrer  ao de outrem. Com certeza, a lio ainda  vlida. Ao concurso de pessoas no  necessria a anterior combinao entre os concorrentes; basta apenas que cada um deles tenha conhecimento de que sua conduta  parte de um empreendimento comum a que outros concorrem. Entretanto, em casos como o furto, em que o concurso de pessoas presta-se a qualificar a conduta criminosa (artigo 155, pargrafo 4, IV), se um dos concorrentes no souber da interveno dos demais, seu elemento subjetivo s permite enquadr-lo na figura tpica fundamental. Apesar de a exposio de motivos do Cdigo Penal de 1940 afirmar a inexistncia de qualquer dificuldade para a caracterizao do concurso de pessoas em crime culposo,8 o tema apresenta peculiaridades que tornam a anlise mais complexa. Tambm por exigir o manuseio de noes ainda no desenvolvidas, o tema ser tratado destacadamente em momento posterior. Unidade de infrao. O ltimo requisito do concurso de pessoas  a unidade de infrao, que decorre da considerao de ter havido unidade de fato. Damsio de Jesus observa que a unidade de infrao no  um requisito, mas verdadeira consequncia do concurso de pessoas, em face da observncia dos requisitos anteriormente mencionados. Com efeito, o enquadramento de todos os concorrentes em um mesmo tipo penal incriminador  consequncia natural do reconhecimento da unidade de fato. A diviso do trabalho que se verifica na empreitada criminosa importa a realizao, por inteiro, da conduta criminosa. A subsuno da conduta ao tipo resulta da contribuio de todos os concorrentes. No entanto, cabe notar que a individualizao de um comportamento penalmente relevante decorre do exerccio de atividade valorativa, que considera o sentido da conduta desenvolvida pelas pessoas que intervm na realidade material.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O elemento subjetivo é essencial para a caracterização típica de um crime, pois se houver divergência do elemento subjetivo, não se pode reconhecer o concurso de pessoas. Para que se identifique o concurso, não é necessário um acordo prévio entre as pessoas envolvidas, bastando que cada um tenha conhecimento de que sua conduta é parte de um empreendimento comum. A unidade de infração é uma conseqüência do concurso de pessoas, pois o enquadramento de todos os concorrentes em um mesmo tipo penal incriminador é uma conseqüência natural do reconhecimento da unidade de fato.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Jos Osrio, 13.06.2001, v.u.). (Nucci, Guilherme de Souza, in Cdigo de Processo Penal Militar comentado, 2a ed. rev., atual. e ampl. - Rio de Janeiro: Forense, out./2014, pgs. 569/570). Com efeito, depreende-se que os fundamentos constantes no acordo embargado acostado ao Evento 20 rechaaram os vcios alegados pelo embargante, tendo a colenda Cmara Julgadora decidido pela manuteno do decreto condenatrio imposto ao apelante, ora embargante, sobretudo, conforme se observa a seguir: [...] Alegou a defesa a ilicitude dos prints de conversas do aplicativo WhatsApp do telefone celular da vtima, o Sr. Andr Luiz Miranda, sob o argumento de que a extrao do referido material foi realizada sem a observncia dos protocolos processuais, com quebra da cadeia de custdia da prova e, ainda, por no ter sido realizado o exame pericial a fim de comprovar a autenticidade das mensagens e informaes que serviram de prova da materialidade delitiva. Todavia, razo no assiste a defesa. Na hiptese, infere-se da Memria 212.199/2019, que subsidiou a Sindicncia Administrativo-Disciplinar Reservada de Portaria n. 107.123/2019- 32 BPM, que a guarnio policial do Tenente Peixoto, responsvel pela recuperao do automvel da vtima, esteve em seu estabelecimento comercial com a finalidade de mostrar a foto do indivduo que fora preso quando da recuperao do veculo (REDS 2019 011089903001) para reconhecimento do suposto roubo do veculo. Nessa ocasio, o filho da vtima, Gustavo Ribeiro Miranda, disse ao oficial que o dinheiro pago pelo seu pai ao policial Rafael, a ttulo de gratificao pela recuperao, poderia ser dividido entre eles. A partir dessa informao, foram desencadeadas diversas diligncias pela equipe de inteligncia da Corporao, entre elas, um novo contato com a vtima. Foi nessa oportunidade que as tratativas havidas entre Andr Luiz Miranda e o Cb PM Rafael Ferreira Esmeraldo, atravs do aplicativo WhatsApp, foram espontaneamente apresentadas por aquele  equipe policial. Assim, o acesso ao contedo das referidas mensagens no configura desrespeito a qualquer direito ou garantia fundamental, previstos no art. 5, LV e LVI, da Constituio Federal. Nesse sentido, j decidiu o Superior T ribunal de Justia: PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 289, 1, DO CP.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Cmara Julgadora decidiu pela manuteno do decreto condenatório imposto ao embargante, pois o acesso ao conteúdo das mensagens do aplicativo WhatsApp da vítima não configurou desrespeito a qualquer direito ou garantia fundamental previstos na Constituição Federal.

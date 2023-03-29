@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+juiz a quo recebeu a inicial, indeferiu o pedido liminar de tutela de urgncia, concedeu o benefcio da justia gratuita, nos termos da Lei n. 1.060/50, e ainda determinou a intimao do autor, para providenciar a juntada do PCD n.112.256/2019 (Evento 23). O Estado de Minas Gerais apresentou contestao (Evento 33 - CONT1). Em sntese, alegou que o autor foi punido diante da constatao da prtica de conduta violadora de normas e princpios militares. Discorreu sobre os processos administrativo-disciplinares e alegou que foram asseguradas todas as garantias cabveis, notadamente o exerccio do contraditrio e da ampla defesa, com a oportunizao de recurso disciplinar, no tendo o autor logrado xito em elidir as condutas a ele imputadas. Alegou que o 1 Ten PM Jonas no perseguiu o autor, mas apenas cumpriu o seu dever de reportar as transgresses praticadas. Destacou que a anlise da matria pelo Poder Judicirio restringe-se  legalidade do ato, no cabendo, portanto, a apreciao do mrito, sob pena de desrespeito ao princpio constitucional da separao dos Poderes (art. 2 da CR/88). Com esses argumentos, pugnou pela improcedncia dos pedidos iniciais e pela condenao do autor ao pagamento dos nus sucumbenciais (Evento 33). A defesa do autor impugnou a contestao, corroborando as alegaes e os pedidos iniciais (Evento 50). Na fase de especificao de provas, o autor quedou-se inerte. J o Estado de Minas Gerais manifestou no possuir mais provas a produzir (Eventos 50 e 59). O MM. juiz de direito da 5a AJME, decidiu o feito conforme se depreende no Evento 61, verbis: [...] s razes de decidir expostas na deciso judicial de Evento 23, acrescento o que se segue. Em todos os PCD's objeto de questionamento, na presente demanda anulatria, no se verificaram quaisquer nulidades e nem restou comprovado prejuzo, conforme exigncia do art. 69, do CEDM. As punies que ressaram dos procedimentos disciplinares so vlidas, tendo observado os ditames legais, bem como os regulamentos da Corporao. A alegada suspeio relatada pelo militar, ora autor, se deu de forma superficial e sem a indispensvel prova de sua existncia, bem como sem qualquer justificativa plausvel, o que  obrigatrio, em casos como tais. Verifica-se que o autor no apresentou os fatos constitutivos de seu direito, consoante determinao do art. 373, I, CPC/2015.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz a quo indeferiu o pedido liminar de tutela de urgncia do autor, concedeu o benefcio da justia gratuita e determinou a juntada de documentos. O Estado de Minas Gerais alegou que o autor foi punido diante da constatao da prtica de conduta violadora de normas e princpios militares, assegurando todas as garantias cabveis. O juiz de direito da 5a AJME decidiu que não se verificaram nulidades nos processos administrativo-disciplinares, e que as punições são válidas, pois foram observados os ditames legais. O autor não apresentou os fatos constitutivos de seu direito.

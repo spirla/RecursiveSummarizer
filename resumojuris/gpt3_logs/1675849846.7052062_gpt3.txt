@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O Ministerio da Saude, por sua vez, a quem a Anvisa afirmou competir regular o cultivo domestico de Cannabis, indicou que nao pretende faze-lo, em resposta a Consulta Dirigida sobre as propostas de regulamentacao do uso medicinal e cientifico da planta Cannabis, assinada pelo ministro responsavel pela pasta. O quadro, portanto, e de intencional omissao do Poder Publico em regulamentar a materia. Havendo prescricao medica para o uso do canabidiol, a ausencia de seguranca, de qualidade, de eficacia ou de equivalencia tecnica e terapeutica da substancia preparada de forma artesanal - como se objeta em desfavor da pretendida concessao do writ - torna-se um risco assumido pelos proprios pacientes, dentro da autonomia de cada um deles para escolher o tratamento de saude que lhes corresponda as expectativas de uma vida melhor e mais digna, o que afasta, portanto, a abordagem criminal da questao. Sao nesse sentido, alias, as disposicoes contidas no art. 17 da RDC n. 335/2020 e no art. 18 da RDC n. 660/2022 da Anvisa, ambas responsaveis por definir os criterios e os procedimentos para a importacao de Produto derivado de Cannabis, por pessoa fisica, para uso proprio, mediante prescricao de profissional legalmente habilitado, para tratamento de saude . Em 2017, com o advento da Resolucao n. 156 da Diretoria Colegiada da Anvisa, a Cannabis Sativa foi incluida na Lista de Denominacoes Comuns Brasileiras - DCB como planta medicinal, marco importante em territorio nacional quanto ao reconhecimento da sua comprovada capacidade terapeutica.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O Ministério da Saúde não pretende regular o cultivo doméstico de Cannabis. 2. A ausência de segurança, qualidade, eficácia ou equivalência técnica e terapêutica da substância preparada de forma artesanal torna-se um risco assumido pelos próprios pacientes. 3. A abordagem criminal da questão é afastada. 4. A Resolução n. 156 da Diretoria Colegiada da Anvisa incluiu a Cannabis Sativa na Lista de Denominações Comuns Brasileiras - DCB como planta medicinal.

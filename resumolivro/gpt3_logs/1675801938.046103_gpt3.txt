@@ -1,0 +1,30 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O Conselho de Justica absolvera o acusado, mencionando os motivos na parte expositiva da sentenca, desde que reconheca:
+a) estar provada a inexistncia do fato, ou nao haver prova da sua existncia;
+b) nao constituir o fato infracao penal;
+c) nao existir prova de ter o acusado concorrido para a infracao penal;
+d) existir circunstncia que exclua a ilicitude do fato ou a culpabilidade ou imputabilidade do agente (artigos 38, 39, 42, 48 e 52 do Codigo Penal Militar);
+e) nao existir prova suficiente para a condenacao;
+f) estar extinta a punibilidade. Artigo 386. O juiz absolvera o reu, mencionando a causa na parte dispositiva, desde que reconheca:
+- estar provada a inexistncia do fato;
+- nao haver prova da existncia do fato;
+- nao constituir o fato infracao penal;
+- estar provado que o reu nao concorreu para a infracao penal;
+- nao existir prova de ter o reu concorrido para a infracao penal;
+- existirem circunstncias que excluam o crime ou isentem o reu de pena (artigos 20, 21, 22, 23, 26 e paragrafo 1o do artigo 28, todos do Codigo Penal), ou mesmo se houver fundada duvida sobre sua existncia;
+- nao existir prova suficiente para a condenacao. Passa-se, agora, as causas supralegais:
+e) Consentimento do ofendido
+O consentimento do ofendido, tem sido considerado pela doutrina e jurisprudncia como uma causa supralegal de exclusao de ilicitude e tambem de tipicidade, a depender do tipo penal em que incidir. Como excludente de tipicidade, segundo Fernando Capez, incidira quando o nao consentimento do titular do bem for elemento explicito ou implicito do proprio tipo penal, nesse caso, a atuacao com o consentimento do titular do bem nao preenche os elementos do tipo. Um exemplo claro ocorre no crime de violacao de domicilio (artigo 226 do CPM), quando o morador consente com o ingresso do militar no domicilio, afastando, dessa forma, o dissentimento como requisito necessario ao aperfeicoamento do delito e, consequentemente, da transgressao disciplinar residual.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Conselho de Justiça absolverá o acusado, desde que este reconheça a inexistência do fato, que não seja uma infração penal, que não tenha concorrido para a infração, que existam circunstâncias que excluam a ilicitude ou a culpabilidade ou imputabilidade do agente, ou que não exista prova suficiente para a condenação. Além disso, o consentimento do ofendido também pode ser considerado como uma causa supralegal de exclusão de ilicitude e tipicidade.

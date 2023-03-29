@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O CPP no prev efeito interruptivo. Diante dessa omisso, o STJ aplicou, por analogia, o artigo 538 do CPC:
+I - O Cdigo de Processo Penal no prev a interrupo de prazo para outros recursos quando opostos embargos de declarao, como ocorre no Cdigo de Processo Civil, em seu artigo 538, caput. Contudo, por fora do disposto no artigo 3 da citada Lei Adjetiva Penal, o mesmo princpio pode ser aplicado nos embargos de declarao na rea processual penal. II - Os embargos de declarao sempre acarretam o efeito interruptivo, salvo quando intempestivos. III - Embargos de divergncia conhecidos e providos. Os embargos de declarao tero efeito devolutivo delimitado ao mbito da ambiguidade, obscuridade, contradio ou omisso, mas no tm efeito suspensivo. repudiada a finalidade de protrair o trnsito em jugado de deciso judicial, ou seja, o intuito meramente protelatrio, configurador de abuso do direito de recorrer. 18.5. Embargos de nulidade e infringentes. O CPPM, no Captulo IV do Ttulo II, artigos 538 a 549, trata dos embargos de nulidades, infringentes do julgado e de declarao oponveis s decises proferidas em segundo grau de jurisdio (artigo 538, CPPM). Como so dois recursos sob nica denominao - embargos infringentes e de nulidade -  preciso diferenci-los. Os embargos infringentes, que buscam mudar o mrito da deciso, tm por objetivo uma questo de direito material, visando  modificao do julgado, por exemplo, transformar a condenao em absolvio, por outro lado, os embargos nulidades tratam de questo processual capaz de nulificar o processo, por exemplo, ver reconhecido o voto divergente que acolhia a nulidade de citao. 18.5.1.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código de Processo Penal não prevê efeito interruptivo para embargos de declarao, mas o STJ aplicou, por analogia, o artigo 538 do CPC. Embargos de declarao têm efeito devolutivo, mas não suspensivo, e não podem ser usados para protelar o trânsito em julgado de decisão judicial. O CPPM trata dos embargos de nulidade e infringentes, que têm objetivos diferentes: os infringentes buscam mudar o mérito da decisão, enquanto os de nulidade tratam de questões processuais.

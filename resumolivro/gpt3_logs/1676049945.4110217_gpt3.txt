@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A previso do Cdigo Civil estabeleceu efeitos que so automticos para a condenao criminal, no sendo necessrio que o juiz declare na deciso condenatria. O Cdigo Penal, expressamente, no prev hiptese de condenao que vede o acesso a cargos pblicos. A condenao pode impor pena restritiva de direitos que suspenda o exerccio das funes pblicas, pelo tempo da pena imposta na condenao (artigo 47, I, c/c artigo 55, ambos do CP), ou decretar a perda do cargo, funo pblica ou mandato eletivo, como efeito no automtico (artigo 92, I, do CP). A condenao por crime de abuso de autoridade, previsto na Lei 4.898/65, pode produzir como efeito da condenao a suspenso do cargo, funo ou posto; a destituio de funo; a demisso e a demisso a bem do servio pblico (artigo 6, pargrafo 1, c, d, e e f). Tais situaes no se confundem com o acesso ao cargo pblico e no se pode fazer analogia para prejudicar o condenado. Nos termos da lei, o condenado ficar impedido de administrar sociedade civil se no puder ter acesso aos cargos pblicos ou se perder aquele a que j teve acesso. A condenao por crime de tortura, previsto na Lei 9.455/97, acarreta a perda do cargo, funo ou emprego pblico, bem como a interdio para o seu exerccio pelo dobro do prazo da pena aplicada. Nesse caso, a previso para a interdio se enquadra na previso do Cdigo Civil, que se refere  vedao. Resta claro que a interdio mencionada na Lei de Tortura impede que o condenado, que j perdeu o cargo, possa ter acesso a outro mediante concurso pblico. Portanto, a interdio  utilizada no sentido de vedao. O mesmo dispositivo do Cdigo Civil ainda impede a administrao de sociedade por quem tenha sido condenado por crime falimentar, de prevaricao, peita ou suborno, concusso, peculato, ou contra a economia popular, contra o sistema financeiro nacional, contra as normas de defesa da concorrncia, contra as relaes de consumo, a f pblica ou a propriedade. Nesses casos, a condenao por tais crimes, independentemente de manifestao expressa do juiz na sentena, impede o condenado de exercer a administrao de sociedade simples. O impedimento de administrar significa que na constituio de uma sociedade simples o condenado no poder ser indicado administrador, bem como que dever ser afastado daquela que j administrava anteriormente  condenao. Por expressa previso do dispositivo do Cdigo Civil, o impedimento perdura enquanto durarem os efeitos da condenao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Civil prevê efeitos automáticos para a condenação criminal, como a suspensão do exerccio de funções públicas, a perda do cargo, função ou mandato eletivo, a suspenso do cargo, função ou posto, a destituição de função, a demissão e a demissão a bem do serviço público. Além disso, o Código Civil impede o condenado de administrar sociedades civis enquanto durarem os efeitos da condenação.

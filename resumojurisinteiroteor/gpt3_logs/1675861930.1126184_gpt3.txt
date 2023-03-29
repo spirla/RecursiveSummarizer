@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Trata-se de ao rescisria proposta por Carlos Antnio Gomes Morais, representado por sua curadora, Fabrcia Fonseca Ramos Morais, contra acrdo exarado pela colenda Primeira Cmara deste Tribunal, que negou provimento ao recurso de apelao interposto pelo autor, para manter a sentena de primeiro grau de jurisdio (Processo n. 100002579.2017.9.13.0001). Na pea inicial, a defesa alegou que foi instaurado em desfavor do autor o Processo Administrativo-Disciplinar - PAD de Portaria n. 100.752/2016-PAD/30 BPM, em razo das acusaes constantes nas Sindicncias Administrativo-Disciplinares de Portarias n. 108.350/2012 e n. 106.966/2013. Alegou que o referido PAD transcorreu ao arrepio da lei e que, por esse motivo, foi ajuizada a ao anulatria de ato administrativo-disciplinar. Aduziu que, apesar de terem sido demonstrados os vcios insanveis, com evidente cerceamento de defesa, a colenda Cmara Julgadora entendeu pela manuteno do ato administrativo-disciplinar que determinou a demisso do autor das fileiras da Corporao. Em seguida, colacionou trechos do acrdo rescindendo e alegou que o pedido de resciso se enquadra em quatro hipteses do art. 966 do Cdigo de Processo Civil, a saber: 1 - Violao do inciso V do artigo 966 do Cdigo de Processo Civil - violar manifestamente norma jurdica. Alegou que o aditamento da acusao ocorreu aps o encerramento da instruo do processo administrativo-disciplinar, gerando cerceamento de defesa e violao do artigo 5, inciso LV, da Constituio Federal, do artigo 384 do Cdigo de Processo Penal e do artigo 282 do Manual de Processos e Procedimentos Administrativos das Instituies Militares do Estado de Minas Gerais (MAPPA). Mencionou que  cedio que o acusado se defende dos fatos e no da capitulao legal que lhe  atribuda na pea acusatria, todavia no se pode olvidar que a defesa, ao formular sua tese, se debruce sobre a capitulao formada pela Administrao na exordial. Nesse sentido, afirmou que o PAD foi instaurado para apurar cinco acusaes, tendo como principal o fato de ter o autor, em tese, infringido o artigo 14, inciso XIII1, do Cdigo de tica e Disciplina dos Militares de Minas Gerais, por supostamente ter adquirido do Sr. Gilson Gomes Melo, a base de troca por uma pickUp Fiat/Strada, o veculo VW/Crossfox, cor prata, placa HET-2424, veculo este que teria sido apropriado indevidamente pelo Senhor Marcos Antnio Rodrigues de Aguiar. Segundo a defesa, todos os argumentos utilizados durante a instruo probatria foram para defender o autor da acusao de estar mantendo indevidamente em seu poder bem de terceiros (art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Trata-se de ao rescisria proposta contra acórdão exarado pela Primeira Câmara deste Tribunal, que negou provimento ao recurso de apelação interposto pelo autor, para manter a sentença de primeiro grau de jurisdição. A defesa alegou que o Processo Administrativo-Disciplinar foi instaurado em desfavor do autor e transcorreu ao arrepio da lei, gerando cerceamento de defesa. Alegou que o pedido de rescisão se enquadra em quatro hipóteses do art. 966 do Código de Processo Civil, violando manifestamente norma jurdica.

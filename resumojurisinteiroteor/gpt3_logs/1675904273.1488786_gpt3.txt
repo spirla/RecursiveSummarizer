@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Segundo Maria Sylvia Zanella di Pietro A rigor, pode-se dizer que, com relao ao ato discricionrio, o Judicirio pode apreciar os aspectos da legalidade e verificar se a Administrao no ultrapassou os limites da discricionariedade; neste caso, pode o Judicirio invalidar o ato, porque a autoridade ultrapassou o espao livre deixado pela lei e invadiu o campo da legalidade. (Direito Administrativo, 28a Ed., editora Atlas, p. 263) Em outra oportunidade, dispe que No h invaso do mrito quando o Judicirio aprecia os motivos, ou seja, os fatos que precedem a elaborao do ato; a ausncia ou falsidade do motivo caracteriza ilegalidade, suscetvel de invalidao pelo Poder Judicirio (pgina 898). Destaques do original. No caso dos autos, os motivos que levaram  aplicao da penalidade subsistiram pela ausncia de homologao do atestado mdico, que indicou ao autor repouso no dia do atendimento, qual seja, 20 de julho de 2019. (evento 1-DOC5). Ora, apesar de no homologado, o atestado mdico que recomendava o afastamento do trabalho foi devidamente apresentado, fato que no gerou repulsa por parte da administrao. Assim, se houve a oferta do atestado pelo autor, com o mister de justificar a sua falta, entendo que a ausncia de sua homologao no conduz  caracterizao da conduta tipificada no inciso XX do art. 13 da Lei n. 14.310/2002. Poderia, ao contrrio, ter sido indiciado no descumprimento de outras normas administrativas, como a prtica, em tese, da conduta prevista no inciso XV do art. 14 do mesmo Cdigo, que prev como transgresso disciplinar de natureza mdia deixar de observar prazos regulamentares. Diante de tal situao, vislumbro haver a Administrao Militar ultrapassado os limites da discricionariedade, emitindo deciso contrria  prova dos autos. Ademais, a falta ao servio por motivo de doena, ao meu ver, caracteriza a causa de justificao do inciso I, do artigo 19, da Lei Estadual n. 14.310/2002, que ora transcrevo: Art. 19 - So causas de justificao: I - motivo de fora maior ou caso fortuito, plenamente comprovado; Por derradeiro, oportuno registrar que o egrgio Tribunal de Justia Militar de Minas Gerais firmou o entendimento de que  irrazovel e desproporcional recusar o atestado mdico como causa de justificao, dada a presuno de veracidade dele, sendo que seus efeitos s podem ser questionados se houver ilegalidade ou irregularidade. [..] O Estado de Minas Gerais interps recurso de apelao (Evento 39 - APELAO1), reiterando os argumentos apresentados com a contestao, e requereu que seja conhecido e provido o presente recurso, para que, reformando-se a deciso guerreada, sejam julgados improcedentes os pedidos formulados na petio inicial e condenada a parte autora nos nus sucumbenciais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Judicirio pode apreciar os aspectos da legalidade de um ato discricionário e invalidá-lo se a autoridade ultrapassar os limites da discricionariedade. No caso dos autos, o atestado médico apresentado pelo autor não foi homologado, mas isso não caracterizou a conduta tipificada na lei. O Estado de Minas Gerais interpôs recurso de apelação, requerendo que a decisão guerreada seja reformada e os pedidos da petição inicial sejam julgados improcedentes.

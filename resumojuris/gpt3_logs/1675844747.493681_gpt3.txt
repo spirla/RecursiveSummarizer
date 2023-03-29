@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+1.116 do CC/2002 e 227 da Lei n. 6.404/1976, a sucessao da incorporada pela incorporadora se opera quanto a direitos e obrigacoes, e mesmo assim somente para aqueles compativeis com a natureza da incorporacao, como aponta a doutrina. Obrigacao, nao custa lembrar, e instituto com um sentido juridico proprio, diferente de seu significado popular, e ai se concebe a obrigacao como um vinculo de direito que liga uma pessoa a outra, ou uma relacao de carater patrimonial, que permite exigir de alguem uma prestacao . As consequencias de uma serie de atos ilicitos cabem em tese no conceito de obrigacoes, e por isso estao abarcadas pela sucessao. E o caso, por exemplo, da reparacao in natura do dano ambiental na esfera civel ou administrativa, juntamente da responsabilidade civil por indenizar terceiros eventualmente afetados pela suposta poluicao praticada. Em tais relacoes, de natureza indiscutivelmente patrimonial, e possivel identificar todos os elementos que estruturam uma obrigacao, a saber: (I) as partes ativa e passiva (elemento subjetivo), (II) o objeto, que consiste em prestacoes patrimoniais de dar ou fazer, e (III) o vinculo juridico que os une (ex lege, nessa situacao hipotetica). Por conseguinte, possiveis obrigacoes reparatorias derivadas do ato ilicito descrito na denuncia podem ser redirecionadas (em tese), nos exatos limites dos arts. 1.116 do CC/2002 e 227 da Lei n. 6.404/1976. Ja a pretensao punitiva estatal, pela pratica do crime tipificado no art. 54 da Lei n. 9.605/1998, nao se enquadra em nenhum desses conceitos ora analisados. E verdade que, como diz o Parquet, as sancoes passiveis de imposicao a pessoa juridica, previstas nos arts. 21 a 24 da Lei n. 9.605/1998, assemelham-se a obrigacoes de dar, fazer e nao fazer, o que poderia induzir o interprete a acreditar numa possivel transmissibilidade a sociedade incorporadora.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A sucessão da incorporada pela incorporadora se opera quanto a direitos e obrigações, desde que compatíveis com a natureza da incorporação. 2. Obrigação é um vínculo de direito que liga uma pessoa a outra, ou uma relação de caráter patrimonial, que permite exigir de alguém uma prestação. 3. As consequências de uma série de atos ilícitos cabem em tese no conceito de obrigações, e por isso estão abarcadas pela sucessão. 4. É possível identificar todos os elementos que estruturam uma obrigação, a saber: (I) as partes ativa e passiva (elemento subjetivo), (II) o objeto, que consiste em prestações patrimoniais de dar ou fazer, e (III) o vínculo jurídico que os une (ex lege). 5. A pretensão punitiva estatal, pela prática do crime tipificado no art. 54 da Lei n. 9.605/1998, não se enquadra em nenhum dos conceitos analisados.

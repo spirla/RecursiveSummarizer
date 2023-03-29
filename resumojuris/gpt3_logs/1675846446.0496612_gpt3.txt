@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesse aspecto, como destacado no julgamento do HC 34.715/PA, no qual a Quinta Turma denegou a ordem de habeas corpus em favor de acusados de delitos informaticos, nao ha como nao reconhecer que, uma vez em liberdade, os pacientes nao terao absolutamente nenhuma dificuldade em acessar a internet atraves de qualquer computador e utilizar o programa desenvolvido por eles proprios ou, em ultimo caso, confeccionar outro, pois sao eles pessoas de profundo conhecimento tecnico, tristemente utilizado a servico do ilicito, em tese (HC n. 34.715/PA relator Ministro Arnaldo Esteves Lima, Quinta Turma, DJ de 18/10/2004). Assim, considera-se idonea a fundamentacao do decreto prisional assentado na periculosidade do agente, evidenciada pelo modus operandi, e na necessidade de interromper atuacao de lider de organizacao criminosa voltada para a pratica de crimes informaticos. (Informativo  Ed. Especial n. 4) 1192 DOUTRINA (1) Praticadas por meio facilitador e com alta capacidade lesiva , em circunstancias que encorajam a acao do delinquente (SYDOW, Spencer Toth, Crimes informaticos e suas vitimas. 2 ed., versao eletronica. Sao Paulo: Saraiva, 2015) LEGISLACAO Lei n. 9.613/1998, art. 1,  1; CP, 155,  4-B; Lei n. 14.155, de 27/5/2021; PL n. 4.554/2020. Processo AgRg no RMS 62.562-MT, Rel. Min. Jesuino Rissato (Desembargador Convocado do TJDFT), Rel. Acd. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Uma vez em liberdade, os pacientes não terão dificuldade em acessar a internet e utilizar programas desenvolvidos por eles próprios ou confeccionar outros, pois são pessoas de profundo conhecimento técnico. 2. É idonea a fundamentação do decreto prisional assentado na periculosidade do agente, evidenciada pelo modus operandi, e na necessidade de interromper a atuação de líder de organização criminosa voltada para a prática de crimes informáticos. 3. Crimes informáticos são praticados por meio facilitador e com alta capacidade lesiva, em circunstâncias que encorajam a ação do delinquente.

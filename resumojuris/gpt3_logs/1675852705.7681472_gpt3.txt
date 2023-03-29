@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+SUMULAS Sumula n. 309/STJ Processo Processo sob segredo judicial, Rel. Ministro Raul Araujo, Quarta Turma, por unanimidade, julgado em 6/12/2022, DJe 15/12/2022. Ramo do Direito DIREITO CONSTITUCIONAL, DIREITO PROCESSUAL CIVIL Tema Prisao civil. Devedor de alimentos. Advogado. Recolhimento em sala de Estado-Maior. Inexistencia. Recolhimento em dependencia especial, apartado dos demais detentos. Possibilidade. DESTAQUE E possivel a prisao civil de advogado devedor de alimentos, em cela especial, desde que provida de instalacoes com comodidades condignas e localizada em area separada dos demais detentos. O Estatuto da Advocacia (Lei n. 8.906/1994, art. 7, V) preve ser direito do advogado nao ser recolhido preso, antes de sentenca transitada em julgado, senao em sala de Estado-Maior, com instalacoes e comodidades condignas, e, na sua falta, em prisao domiciliar.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a prisão civil de advogado devedor de alimentos, em cela especial, desde que provida de instalações com comodidades condignas e localizada em área separada dos demais detentos. 2. O Estatuto da Advocacia (Lei n. 8.906/1994, art. 7, V) prevê ser direito do advogado não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado-Maior, com instalações e comodidades condignas, e, na sua falta, em prisão domiciliar.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+189 A controversia em si gira em torno unicamente da correta interpretacao do texto do art. 15 do Decreto-Lei n. 3.365/1941 e, por consequencia, dos requisitos exigidos para a imissao provisoria da concessionaria na posse do bem imovel objeto da pretensao constitutiva de servidao administrativa. Transpondo as regras previstas nos arts. 680 a 685 do CPC/1973 aos processos regidos pelo Decreto-Lei n. 3.365/1941, o que se ve e que o procedimento de avaliacao do bem, conforme o antigo Codigo, apresentava-se em breve contraditorio, e por isso as partes auxiliariam o avaliador na aquilatacao do bem, quando entao, depois da manifestacao de todos esses sujeitos processuais, o magistrado poderia determinar a complementacao do valor ofertado inicialmente. Desse modo, a correta leitura da cabeca do art. 15 do Decreto-Lei n. 3.365/1941 deve ser a de que, regra geral, para haver a imissao provisoria na posse o ente publico interventor deve cumulativamente (a) alegar urgencia e (b) depositar a quantia apurada, mediante contraditorio, em avaliacao previa, da qual pode resultar inclusive a complementacao da oferta inicial. Essa regra geral pode ceder espaco, contudo, a procedimento de que nao participa o proprietario do bem.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A controvérsia gira em torno da interpretação do art. 15 do Decreto-Lei n. 3.365/1941 e dos requisitos exigidos para a imissão provisória da concessionária na posse do bem imóvel. 2. O procedimento de avaliação do bem, conforme o antigo Código, apresentava-se em breve contraditório, e as partes auxiliariam o avaliador na aquilatação do bem. 3. Para haver a imissão provisória na posse o ente público interventor deve cumulativamente alegar urgência e depositar a quantia apurada, mediante contraditório, em avaliação previa. 4. A regra geral pode ceder espaço a procedimento de que não participa o proprietário do bem.

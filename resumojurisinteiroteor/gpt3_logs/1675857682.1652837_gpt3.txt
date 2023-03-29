@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Extrai-se dos documentos que compem o presente feito que o autor foi submetido ao Processo Administrativo-Disciplinar de Portaria n. 1461/2018-PAD/ABM, em face das seguintes acusaes, in verbis: I - O n. 155.495-5, Cb BM Rafael da Silva Ribeiro, lotado na Academia de Bombeiros Militar, servindo atualmente na Guarda da Unidade II em Contagem/MG, praticou, em tese, conduta antitica descrita no inciso II do art. 13 do CEDM faltar publicamente, com o decoro pessoal, dando causa a grave escndalo que comprometa a honra pessoal e o decoro da classe. Ao ser flagrado no dia 30 de novembro de 2018, no Supermercado Atacadista Apoio Mineiro, subtraindo mercadorias do estabelecimento, cometendo em tese, crime de furto. Atitude incompatvel com os valores e princpios tico- militares. Aflora nos autos que os seguranas, por meio do sistema de cmaras, observaram que o militar havia colocado algumas mercadorias no bolso da gandola e dentro da bota, aps o Militar passar pelos caixas e se deslocar em direo a sada, fizeram a abordagem, onde foram encontrados um desodorante aerossol, um antissptico para ps dentro do coturno e um pote de Nutella no bolso da gandola. O Cb BM Rafael da Silva Ribeiro foi conduzido  delegacia de Polcia Civil de planto de Contagem, onde foi lavrado o Auto de Priso em Flagrante sendo autuado no crime previsto no art. 155 do Decreto Lei 2848/40. II - Em razo do descrito acima, o militar encontra-se incurso no inciso III do pargrafo nico do art. 64 do CEDM, [...] faltar publicamente, fardado, de folga ou em servio, com o decoro pessoal, dando causa a grave escndalo que comprometa a honra pessoal e o decoro da classe. (Evento 1 - COP3, pgs. 2/3). A Comisso de Processo Administrativo-Disciplinar (CPAD), por maioria de votos, opinou pela aplicao da sano de demisso do acusado (evento 1 - COP6, pgs. 15/20 e COP7, pgs. 1/3). Por sua vez, o Conselho de tica e Disciplina dos Militares da Unidade (CEDMU),  unanimidade, opinou pela aplicao da sano de demisso (evento 1 - COP7, pgs. 7/10). A autoridade convocante concordou com os pareceres exarados pela CPAD e pelo CEDMU e sugeriu a demisso do acusado das fileiras da PMMG (BIR n. 05 de 02/03/2020 - evento 1 - COP7, pgs. 12/16). Ao final, o comandante-geral da Polcia Militar de Minas Gerais julgou procedentes as acusaes que pesavam em desfavor do acusado e determinou a sua demisso das fileiras da Corporao (evento 1 - COP7, pgs. 18/29).
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O acusado foi submetido ao Processo Administrativo-Disciplinar de Portaria n. 1461/2018-PAD/ABM, acusado de praticar conduta antitica e crime de furto. A Comisso de Processo Administrativo-Disciplinar (CPAD) e o Conselho de tica e Disciplina dos Militares da Unidade (CEDMU) opinaram pela aplicao da sano de demisso do acusado. O comandante-geral da Polcia Militar de Minas Gerais julgou procedentes as acusaes e determinou a demisso do acusado das fileiras da Corporao.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, discute-se a possibilidade de se reconhecer o direito a beneficio previdenciario a companheira de pessoa casada, a qual mantinha dois nucleos familiares, concomitantemente, ambos caracterizados pela duracao, notoriedade, dependencia afetiva e economica. No julgamento do RE 669.465 RG/ES, sob a sistematica da repercussao geral, o Supremo Tribunal Federal firmou o entendimento de que e incompativel com a CF/88 o reconhecimento de direitos previdenciarios (pensao por morte) a pessoa que manteve, durante longo periodo e com aparencia familiar, uniao com outra casada, porquanto o concubinato nao se equipara, para fins de protecao estatal, as unioes afetivas resultantes do casamento e da uniao estavel (Tema 526/STF). (Informativo n. 757) 485 PROCESSO AgInt na SEC 6.362-EX, Rel. Min. Jorge Mussi, Corte Especial, por unanimidade, julgado em 01/06/2022. RAMO DO DIREITO DIREITO CONSTITUCIONAL, DIREITO INTERNACIONAL, DIREITO PROCESSUAL CIVIL TEMA Homologacao de sentenca estrangeira. Guarda de crianca concedida ao pai. Acao judicial posterior, com transito em julgado, na jurisdicao brasileira. Dispositivos em conflito. Sentenca estrangeira nao homologada. DESTAQUE A mera pendencia de acao judicial no Brasil nao impede a homologacao da sentenca estrangeira, mas a existencia de decisao judicial proferida no Brasil contraria ao conteudo da sentenca estrangeira impede a sua homologacao. A controversia apresentada pelas partes limita-se aos efeitos de decisao judicial brasileira dispondo em sentido diverso daquela proferida no exterior.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É incompatível com a Constituição Federal de 1988 o reconhecimento de direitos previdenciários (pensão por morte) a pessoa que manteve, durante longo período e com aparência familiar, união com outra casada, pois o concubinato não se equipara, para fins de proteção estatal, às uniões afetivas resultantes do casamento e da união estável. 2. A mera pendência de ação judicial no Brasil não impede a homologação da sentença estrangeira, mas a existência de decisão judicial proferida no Brasil contrária ao conteúdo da sentença estrangeira impede a sua homologação.

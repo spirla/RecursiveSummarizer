@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+NULIDADE DECLARADA. 1. Juzo singular que, informado de que a entidade social designada para o cumprimento da transao penal no possua mais condies de disponibilizar o local para o cumprimento do acordado, revogou tacitamente a benesse concedida  r, ou seja, sem que tenha ela dado motivo jurdico para tanto. Na hiptese, cabia ao Poder Judicirio visando assegurar o efetivo cumprimento do pacto transacionado, indicar nova instituio social para o incio do cumprimento da benesse legal. 2. Ato que implicou prejuzo  acusada, evidenciado pela prolao de sentena condenatria, por violao s garantias constitucionais do contraditrio e da ampla defesa, previstas no art. 5, inciso LV, da CF/88. 3. Declarada a nulidade, desaparecem os marcos interruptivos do recebimento da denncia e da sentena condenatria, restando configurada a prescrio da pretenso punitiva estatal. Pena mxima em abstrato de 08 meses de deteno, que atrai o prazo prescricional de trs previsto no art. 109, VI, do Cdigo Penal, perodo este j transcorrido integralmente a contar da data do fato, ocorrido em 16.03.2017. DECLARADA A NULIDADE DO FEITO E EXTINTA A PUNIBILIDADE PELA PRESCRIO. (TJRS, Apelao Criminal, n. 71010018331, Turma Recursal Criminal, Turmas Recursais, Relator: Luis Gustavo Zanella Piccinin, Julgado em: 19-07-2021) Vale destacar trechos dos votos condutores de alguns dos citados julgados. Transcrevo: 1) Nos autos do HC n. 0800093-16.2017.9.13.0000/TJMG, de relatoria do Desembargador Scrates Edgard dos Anjos: [..] Todavia, essa no  a hiptese dos autos. Uma vez aceita e homologada pelo Juzo, a transao penal passa a produzir os seus efeitos jurdicos e legais, no cabendo a responsabilizao do paciente pelos mesmos fatos que subsidiaram a transao penal, considerando que ele no contribuiu para a sua revogao. Nesse contexto, verifica-se que, no caso em exame, no houve o descumprimento das condies estabelecidas na homologao da transao penal, mas, sim, um equvoco procedimental, no cabendo, agora, ser o paciente submetido a novo julgamento quando j cumpriu quase a totalidade das jornadas extras impostas. 2) Nos autos do Processo de n. 71008375248/HC/TJRS, de relatoria Dr Lus Gustavo Zanella Piccinin: No caso em exame, aps a realizao da audincia em que acordada a prestao pecuniria no valor de R$800,00, de imediato homologada pelo juzo, aportou aos autos promoo ministerial noticiando que a autora do fato, ora paciente, j havia usufrudo do mesmo benefcio no processo n. 073/2.17.0010614-6 e requerendo a revogao do novo benefcio concedido.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+NULIDADE DECLARADA. O Juzo singular revogou tacitamente a benesse concedida sem motivo jurdico, violando as garantias constitucionais do contraditrio e da ampla defesa. Declarada a nulidade, extinta a punibilidade pelo decurso do prazo prescricional.

@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na diviso por organismo, a Justia Militar da Unio tem dois rgos no primeiro grau, os Conselhos de Justia das Auditorias Militares e o juiz federal, e no segundo grau o Superior Tribunal Militar. No mbito estadual so os rgos de primeiro grau o juiz de direito, os Conselhos de Justia das Auditorias ou Varas de Auditoria Militar;
+em segundo grau, o Tribunal de Justia Militar nos estados de So Paulo, Minas Gerais e Rio Grande do Sul e nos demais estados o Tribunal de Justia. Quanto  graduao (categoria), a jurisdio penal militar se divide em inferior, que corresponde aos rgos de primeira instncia da JMU e da JME, e superior o STM e nos estados os Tribunais de Justia ou de Justia Militar. Essa terminologia jurisdio inferior e superior no significa uma relao de subordinao entre os juzes, uma competncia de mando, mas competncia de derrogao no sentido que a deciso de segundo grau substitui a deciso de primeiro. Quanto  matria - a natureza da causa penal - a Justia Militar da Unio e dos Estados aplicam o mesmo direito penal objetivo. Quanto  funo, a jurisdio penal militar  especial em razo de sua exclusividade em processar e julgar crimes militares definidos em lei. A Justia Militar da Unio  especial em relao  Justia Federal. A Justia Militar dos estados  especial em relao  Justia Comum estadual. 8.2. Justia Militar da Unio. 8.2.1. Organizao da Justia Militar da Unio. So rgos da Justia Militar o Superior Tribunal Militar e os Tribunais e Juzes Militares institudos por lei (artigo 122, I e II, CF).
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justiça Militar da União é composta pelo Superior Tribunal Militar e Tribunais e Juzes Militares, que são responsáveis por julgar crimes militares definidos em lei. É especial em relação à Justiça Federal e Comum estadual. O primeiro grau é composto pelos Conselhos de Justiça das Auditorias Militares e o juiz federal, enquanto o segundo grau é o Superior Tribunal Militar. Nos estados, o primeiro grau é o juiz de direito, os Conselhos de Justiça das Auditorias ou Varas de Auditoria Militar, e o segundo grau é o Tribunal de Justiça Militar ou Tribunal de Justiça.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, trata-se de pedido de tutela provisoria incidental em que o estado do Maranhao alega o descumprimento, pela Uniao, do Plano Nacional de Operacionalizacao da Vacinacao contra a Covid-19, o que teria levado a referida unidade federativa a adquirir 4.582.862 (quatro milhoes, quinhentas e oitenta e duas mil, oitocentas e sessenta e duas) doses da vacina Sputnik V, produzida pelo Instituto Gamaleya da Russia, nos termos da Lei 14.124/2021. Com base nesse entendimento, o Plenario, por maioria, referendou a decisao que deferiu parcialmente liminar em acao civel originaria para determinar que, no prazo maximo de 30 dias, a contar de 29.3.2021, a Anvisa decida sobre a importacao excepcional e temporaria da vacina Sputnik V, nos termos do art. 16,  4, da Lei 14.124/2021. Ultrapassado o prazo legal, sem a competente manifestacao da Anvisa, estara o estado do Maranhao autorizado a importar e a distribuir o referido imunizante a populacao local, sob sua exclusiva responsabilidade, e desde que observadas as cautelas e recomendacoes do fabricante e das autoridades medicas . Vencido o ministro Nunes Marques. ACO 3451 TPI-Ref/DF, relator Min. Ricardo Lewandowski, julgamento virtual finalizado em 30.4.2021 (sexta-feira) as 23:59 (INF 1015) Covid-19: Lei Complementar 173/2020 e Programa Federativo de Enfrentamento ao Coronavirus - ADI 6442/DF, ADI 6450/DF, ADI, 6525/DF e ADI 6447/DF Resumo: A tramitacao de projeto de lei por meio de sistema de deliberacao remota nao viola as normas do processo legislativo. Isso porque o fato de as sessoes deliberativas do Senado Federal e da Camara dos Deputados terem acontecido por meio virtual nao afasta a participacao e o acompanhamento da populacao em geral. Ambas as Casas Legislativas fornecem meios de comunicacao de amplo e facil acesso, em tempo real, em relacao ao exercicio da atividade legislativa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a tramitação de projeto de lei por meio de sistema de deliberação remota, desde que haja a participação e o acompanhamento da população em geral. 2. O Estado do Maranhão tem direito a adquirir 4.582.862 doses da vacina Sputnik V, produzida pelo Instituto Gamaleya da Rússia, nos termos da Lei 14.124/2021. 3. A Anvisa deve decidir sobre a importação excepcional e temporária da vacina Sputnik V, no prazo máximo de 30 dias, a contar de 29.3.2021. 4. Caso a Anvisa não manifeste sua decisão dentro do prazo legal, o Estado do Maranhão estará autorizado a importar e distribuir o imunizante a população local, desde que observadas as cautelas e recomendações do fabricante e das autoridades médicas.

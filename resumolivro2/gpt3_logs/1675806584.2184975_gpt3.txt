@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+So vitalcios, de acordo o artigo 22 da Lei Orgnica da Magistratura Nacional (Lei Complementar 35/1979), a partir da posse, os ministros do Superior Tribunal Militar (inciso I, c) e os juzes dos Tribunais de Alada e dos Tribunais de segunda instncia da Justia Militar (artigo 22, I, e, LOMAN). A vitaliciedade no impede a aposentadoria compulsria aos 75 anos dos ministros do STM (artigo 93, VI, CF, e artigo 100, ADCT) e dos demais magistrados (artigo 40, pargrafo 1, II, CF, e artigo 100 do ADCT), nem a aposentadoria por invalidez (artigo 93, V, e artigo 40, pargrafo 1, I, CF) ou de ser colocado em disponibilidade ou aposentado por interesse pblico (artigo 96, VIII, CF). II - Inamovibilidade - assegura a permanncia no local e no cargo onde exerce suas funes, no podendo ser removido, salvo por motivo de interesse pblico na forma do artigo 93, VIII.4 A inamovibilidade garante ao juiz exercer a jurisdio com independncia, podendo contrariar, com suas decises, interesses superiores ou de detentores de poder, sem o risco de ser removido de seu cargo. A inamovibilidade garante a imparcialidade da prpria Justia, na medida em que impede que determinado juiz seja removido de um cargo para outro, impossibilitando-se que haja a mudana de julgador de acordo com os interesses polticos ou governamentais. O juiz deve manifestar seu interesse em ser promovido ou removido. A promoo de entrncia para entrncia, alternadamente, por antiguidade e merecimento (artigo 93, II, CF). O acesso aos tribunais de segundo grau far-se- por antiguidade e merecimento, alternadamente, apurados na ltima ou nica entrncia (artigo 93, III, CF). III - Irredutibilidade de subsdio, ressalvado o disposto nos artigos 37, X e XI, 39, pargrafo 4, 150, II, 153, III, e 153, pargrafo 2, I, impede o Poder Executivo de, indiretamente, mitigar a independncia judicial.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Lei Orgânica da Magistratura Nacional (Lei Complementar 35/1979) garante a vitaliciedade, inamovibilidade e irredutibilidade de subsídio aos ministros do Superior Tribunal Militar, juízes dos Tribunais de Alada e dos Tribunais de segunda instância da Justiça Militar. A vitaliciedade não impede a aposentadoria compulsória aos 75 anos, aposentadoria por invalidez ou a colocação em disponibilidade ou aposentadoria por interesse público. A inamovibilidade garante ao juiz exercer a jurisdição com independência, impedindo que haja mudança de julgador de acordo com interesses políticos ou governamentais. A promover de entrância para entrância é feita por antiguidade e merecimento. A irredutibilidade de subsídio impede o Poder Executivo de mitigar a independência judicial.

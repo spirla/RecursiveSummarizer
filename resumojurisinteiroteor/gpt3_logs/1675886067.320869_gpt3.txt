@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Perguntado quem foi buscar a moto no posto, respondeu que, um policial fardado r...l que o motoboy parou a moto do outro lado da rua, desceu, tirou a moto acidentada do local, colocou no posto, que o motoboy estava sozinho, que ele saiu do local com a prpria motocicleta r...l Que durante a permanncia da polcia no local dos fatos a moto permaneceu no posto r...l perguntado se conhecia os envolvidos no acidente, respondeu que conhecia o motorista do carro que ele abastecia no posto de gasolina. Perguntado se quando a polcia chegou ao local o fusca ainda continuava l, respondeu que, estava, mas que ele foi colocado mais para frente para desobstruir a avenida. Que o acidente aconteceu em um cruzamento r...l perguntado quantas viaturas compareceram ao local, respondeu que, duas motos e dois carros. Perguntado quantos militares estiveram no local, respondeu que, uns oito ou nove. Perguntado se algum precisou ser levado para o hospital, respondeu que, no se recorda r...l perguntado onde o motoboy colocou a moto, respondeu que, dentro da placa de preo, prximo ao estacionamento da loja Rio Verde r...l que aps a retirada da moto os policiais ainda permaneceram no local por algum tempo. Perguntado se teve aglomerao de pessoas, respondeu que, sim [...] (vdeo 9, vdeo 10, vdeo 11, vdeo 12) Na mesma esteira, o proprietrio da motocicleta envolvida no acidente na data dos fatos, Duntalmo Vieira Braga Jnior, no conseguiu esclarecer se os acusados estavam no local dos fatos quando a motocicleta foi retirada [...] Perguntado se o Sargento Euflsio ligou para ele e pediu para ir l retirar a motocicleta, respondeu que, ele no o filho dele me ligou a eu cheguei no local perguntei se ele precisava de ajuda ele falou que estava aguardando socorro e pediu para eu guardar a motocicleta. Perguntado onde o sargento pediu para ele guardar a moto, respondeu que, na minha casa ele falou que estava aguardando o socorro e era para eu guardar a moto l em casa. Perguntado se a moto j foi dele, respondeu que sim. Perguntado se vendeu a moto para o Sargento Euflsio, respondeu que, sim. Perguntado se a moto estava irregular, respondeu que, no tem conhecimento. Perguntado se quando chegou no local dos fatos a polcia estava l, respondeu que, eu no vi. Perguntado quem estava no local do acidente, respondeu que, o Euflsio eu conversei s com ele. Perguntado onde estava quando recebeu a ligao do sargento Euflsio, respondeu que, eu no sei, mas eu demorei uns vinte minutos para chegar l. Perguntado onde a moto estava quando chegou ao local dos fatos, respondeu que, na rua. Perguntado se a moto estava prxima ao outro veculo acidentado, respondeu que, eu no me recordo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O proprietário da motocicleta envolvida no acidente não conseguiu esclarecer se os acusados estavam no local dos fatos quando a motocicleta foi retirada. O sargento Euflsio ligou para ele e pediu para ir l retirar a motocicleta, a qual foi guardada na casa do proprietário. O proprietário afirmou que a motocicleta já era dele, mas vendeu a moto para o Sargento Euflsio. Quando chegou ao local dos fatos, a polícia já havia saído e o proprietário não se recorda de onde a moto estava.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Cinge-se a controversia a definir se o artigo 261-A da Lei n. 6.015/1973, com a redacao dada pelo artigo 1.071 do CPC de 2015, que criou a figura da usucapiao extrajudicial, passou a exigir, como prerrequisito para a propositura da acao judicial, o esgotamento da via administrativa. O artigo 1.071 do CPC de 2015 inovou o ordenamento juridico acrescentando o artigo 261-A na Lei de Registros Publicos (Lei n. 6.015/1973), que passou a prever o procedimento extrajudicial de reconhecimento da usucapiao a ser processado diretamente perante o cartorio de registro de imoveis da situacao do imovel. 202 Nota-se que o novel procedimento extrajudicial foi disciplinado sem prejuizo da via jurisdicional , de modo que a conclusao das instancias ordinarias - que entenderam necessario o esgotamento da via administrativa - esta em confronto com a legislacao de regencia. Esta egregia Terceira Turma ja teve a oportunidade de se debrucar sobre o tema em caso analogo em pelo menos uma oportunidade, como, por exemplo, no REsp 1.824.133/RJ, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 11/02/2020, DJe 14/02/2020. Nesse contexto, nao ha outra solucao possivel senao o prosseguimento da acao de usucapiao independente de pedido previo na via extrajudicial. (Informativo  Ed. Especial n. 6) Lei n. 6.015, art. 261-A; CPC, art. 1.071. Processo REsp 1.874.643-RJ, Rel. Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O artigo 261-A da Lei n. 6.015/1973, com a redação dada pelo artigo 1.071 do CPC de 2015, criou a figura da usucapião extrajudicial. 2. O procedimento extrajudicial de reconhecimento da usucapião foi disciplinado sem prejuízo da via jurisdicional. 3. Não há outra solução possível senão o prosseguimento da ação de usucapião independente de pedido previo na via extrajudicial.

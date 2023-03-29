@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+HIGIDEZ DA CONDENAO. ORDEM CONCEDIDA. 1. A supervenincia de sentena condenatria no tem o condo de prejudicar a anlise da tese defensiva de que teria havido quebra da cadeia de custdia da prova, em razo de a substncia entorpecente haver sido entregue para percia sem o necessrio lacre. Isso porque, ao contrrio do que ocorre com a priso preventiva, por exemplo - que tem natureza rebus sic standibus, isto , que se caracteriza pelo dinamismo existente na situao de fato que justifica a medida constritiva, a qual deve submeter-se sempre a constante avaliao do magistrado -, o caso dos autos traz hiptese em que houve uma desconformidade entre o procedimento usado na coleta e no acondicionamento de determinadas substncias supostamente apreendidas com o paciente e o modelo previsto no Cdigo de Processo Penal, fenmeno processual, esse, produzido ainda na fase inquisitorial, que se tornou esttico e no modificvel e, mais do que isso, que subsidiou a prpria comprovao da materialidade e da autoria delitivas. 2. Segundo o disposto no art. 158-A do CPP, "Considera-se cadeia de custdia o conjunto de todos os procedimentos utilizados para manter e documentar a histria cronolgica do vestgio coletado em locais ou em vtimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento at o descarte". 3. A autenticao de uma prova  um dos mtodos que assegura ser o item apresentado aquilo que se afirma ele ser, denominado pela doutrina de princpio da mesmidade. 4. De forma bastante sinttica, pode-se afirmar que o art. 158-B do CPP detalha as diversas etapas de rastreamento do vestgio: reconhecimento, isolamento, fixao, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte. O art. 158-C, por sua vez, estabelece o perito oficial como sujeito preferencial a realizar a coleta dos vestgios, bem como o lugar para onde devem ser encaminhados (central de custdia). J o art. 158-D disciplina como os vestgios devem ser acondicionados, com a previso de que todos os recipientes devem ser selados com lacres, com numerao individualizada, "de forma a garantir a inviolabilidade e a idoneidade do vestgio". 5. Se  certo que, por um lado, o legislador trouxe, nos arts. 158- A a 158-F do CPP, determinaes extremamente detalhadas de como se deve preservar a cadeia de custdia da prova, tambm  certo que, por outro, quedou-se silente em relao aos critrios objetivos para definir quando ocorre a quebra da cadeia de custdia e quais as consequncias jurdicas, para o processo penal, dessa quebra ou do descumprimento de um desses dispositivos legais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A sentena condenatria não prejudica a análise da tese defensiva de quebra da cadeia de custódia da prova, pois houve desconformidade entre o procedimento usado na coleta e no acondicionamento das substâncias apreendidas com o paciente e o modelo previsto no Código de Processo Penal. O artigo 158-A do CPP estabelece o conjunto de procedimentos para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes. O artigo 158-B detalha as diversas etapas de rastreamento do vestígio, enquanto o artigo 158-C estabelece o perito oficial como sujeito preferencial para realizar a coleta dos vestígios. O artigo 158-D disciplina como os vestígios devem ser acondicionados. O legislador não estabeleceu critérios objetivos para definir quando ocorre a quebra da cadeia de custódia e quais as conseqüências jurídicas dessa quebra.

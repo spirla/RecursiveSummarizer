@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A progresso de regime  deferida pelo juiz da execuo e depende da satisfao de dois requisitos. O primeiro requisito  de natureza objetiva e diz respeito ao tempo mnimo de cumprimento de pena. A norma que orienta a progresso de regime (artigo 112 da LEP) determina que o tempo mnimo de cumprimento da pena  o que foi cumprido no regime anterior. Esse critrio deve ser utilizado sempre em relao ao tempo de pena imposto na condenao ou pelo somatrio das penas impostas (artigo 111 da LEP), no importando se  o caso de primeira ou segunda progresso. O critrio no pode ser utilizado em relao ao tempo que resta a cumprir de pena. Exemplificando: na execuo de uma pena de 10 (dez) anos de recluso em regime fechado, a progresso para o regime semiaberto exige o cumprimento de 02 (dois) anos de recluso, na hiptese descrita no inciso II do artigo 112 da LEP. Posteriormente, a progresso para o regime aberto exige o cumprimento de mais 02 (dois) anos de recluso. Considerando que o cumprimento da pena de deteno no pode ser iniciado em regime fechado (artigo 33 do CP), excepcionalmente  possvel ocorrer a progresso de regime antes do cumprimento de um sexto da pena, como ordinariamente determina o artigo 112 da LEP. Tal progresso ocorreria quando, no concurso de penas a serem cumpridas, o tempo da pena de recluso for inferior ao tempo de cumprimento mnimo do tempo total de pena, computando-se as penas de deteno. Cumprida a pena de recluso na integralidade, o condenado deve ser conduzido ao regime semiaberto para o cumprimento da pena detentiva. Considerando a progresso antecipada, a nova progresso somente poder ocorrer com o cumprimento de mais um perodo mnimo do total das penas a serem cumpridas. Vale observar, ainda, que o requisito relativo ao tempo de cumprimento de pena no pode ser aplicado em relao ao benefcio do tempo mximo do cumprimento de pena (artigo 75). Os benefcios no se confundem, sendo que o artigo 112 da LEP exige o cumprimento de determinada frao da pena (imposta) e no uma determinada frao do tempo mximo de cumprimento da pena. A lei no autoriza aplicar um benefcio sobre o outro, mas institui benefcios distintos que podem ser aplicados em relao  mesma pena. Para os fins de progresso de regime, cabe observar a previso do pargrafo 5 do artigo 52 da LEP, segundo o qual no se considera hediondo ou equiparado o crime de trfico de drogas previsto no pargrafo 4 do artigo 33 da Lei 11.343/2006.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O juiz da execução pode deferir a progresso de regime desde que sejam satisfeitos dois requisitos: o primeiro de natureza objetiva, que diz respeito ao tempo mínimo de cumprimento da pena, e o segundo de natureza subjetiva, que diz respeito à inexistência de crime hediondo ou equiparado.

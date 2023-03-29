@@ -1,0 +1,24 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Segundo o grau de jurisdio, os recursos so classificados em horizontais e verticais:
+a) Os recursos horizontais so processados e julgados no mesmo grau de jurisdio, pelo mesmo rgo jurisdicional que proferiu a deciso guerreada, cujo exemplo so os embargos declaratrios;
+eb) Os recursos verticais so julgados em grau de jurisdio superior diverso do rgo jurisdicional que proferiu a deciso atacada, a apelao (artigo 526, CPPM), o recurso especial (artigo 105, III, CF) e o extraordinrio (artigo 102, III, CF) esto nesta categoria. Quanto  obrigatoriedade os recursos so voluntrios e de ofcio:
+a) Os recursos voluntrios dependem do interesse da parte em recorrer. A voluntariedade em recorrer  regra no direito do processo penal militar. O artigo 511 do CPPM dispe que O recurso poder ser interposto pelo Ministrio Pblico, ou pelo ru, seu procurador, ou defensor (g.n.). O legislador no empregou dever ser interposto o recurso. O defensor dativo no tem obrigatoriedade de recorrer;
+eb) Os recursos de ofcio no so propriamente recursos, mas providncia legal para que seja conferida a qualidade de coisa julgada  deciso, pois o juiz submete sua deciso ao reexame (necessrio) do tribunal quando:
+(I) reconhecer a coisa julgada arguida pelo acusado (artigo 154, pargrafo nico, CPPM);
+(II) conceder a reabilitao (artigo 654, CPPM);
+(III) conceder mandado de segurana (artigo 14, pargrafo 1, Lei 12.016/09);
+e (IV) separar os processos (artigo 106, pargrafo 1, CPPM). Nestes casos, o trnsito em julgado da deciso depende do reexame da deciso pelo tribunal. A propsito, assim dispe a Smula 423 do STF:
+No transita em julgado a sentena por haver omitido o recurso ex officio, que se considera interposto ex lege. A doutrina lana crticas ao recurso obrigatrio (de ofcio), pois o juiz no tem interesse que sua deciso seja reformada ou modificada, ou seja, h manifesta ilegitimidade em o juiz recorrer da prpria deciso.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os recursos processuais no direito do processo penal militar são classificados em horizontais e verticais. Os recursos horizontais são processados e julgados no mesmo grau de jurisdição, enquanto os verticais são julgados em grau superior. Além disso, os recursos são voluntários ou de ofício, dependendo do interesse da parte ou da obrigatoriedade legal. A doutrina critica o recurso obrigatório, pois o juiz não tem interesse em recorrer da própria decisão.

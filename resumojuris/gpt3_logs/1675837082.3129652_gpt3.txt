@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E absolutamente razoavel que se pretenda a desjudicializacao dos direitos, principalmente quando os individuos podem, inclusive, por forca do determinado em lei, alcancar o deferimento dos pedidos formulados na sede administrativa. No entanto, apesar do estabelecimento de condicoes para o exercicio do direito de acao ser compativel com o principio do livre acesso ao Poder Judiciario, previsto no art. 5, XXXV da CF/88, tal como deliberado pelo STF no julgamento do RE 631.240/MG, a ameaca ou lesao a direito aptas a ensejar a necessidade de manifestacao judiciaria do Estado acerca de determinado conflito nao podem ficar adstritas, sempre e apenas se realizado o previo requerimento administrativo, notadamente quando a situacao efetivamente vivenciada denota, por si so, existir inegavel motivacao para o ingresso em juizo dado o carater controvertido do pleito formulado. Nesse sentido, a recusa e a resistencia de Seguradora inegavelmente evidenciadas denotam ser absolutamente impertinente falar em previo requerimento administrativo em casos concretos preteritos. E oportuno dizer que todas as interpretacoes analogicas que sao realizadas no ambito judiciario nao podem negar o efetivo direito da parte, notadamente quando nao ha jurisprudencia sedimentada sobre a questao, sendo, ainda, absolutamente inviavel aplicar a compreensao hoje encaminhada em um determinado sentido para casos ocorridos no passado, sob pena de fulminar direitos nascidos em momento no qual inexistiam requisitos postos para a formulacao das pretensoes em juizo.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É razoável a desjudicialização dos direitos, desde que os indivíduos possam, por força de lei, obter o deferimento de seus pedidos na sede administrativa. 2. O princípio do livre acesso ao Poder Judiciário previsto no art. 5, XXXV da CF/88 é compatível com o estabelecimento de condições para o exercício do direito de ação. 3. A ameaça ou lesão a direitos que ensejam a necessidade de manifestação judiciária do Estado não podem ficar adstritas ao requerimento administrativo, principalmente quando a situação efetivamente vivenciada denota motivação para o ingresso em juízo. 4. A recusa e a resistência de seguradora evidenciam ser impertinente falar em requerimento administrativo em casos concretos preteritos. 5. As interpretações analogicas realizadas no âmbito judiciário não podem negar o efetivo direito da parte, principalmente quando não há jurisprudência sedimentada sobre a questão. 6. É inviável aplicar a compreensão hoje encaminhada em um determinado sentido para casos ocorridos no passado, sob pena de fulminar direitos nascidos em momento no qual inexistiam requisitos postos para a formulacão das pretensões em juízo.

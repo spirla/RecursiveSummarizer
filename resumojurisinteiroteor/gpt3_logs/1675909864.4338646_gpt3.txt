@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+489,  1, DO CPC/2015. NULIDADE DO ACRDO DOS EMBARGOS DE DECLARAO. DEVOLUO DOS AUTOS  ORIGEM. AGRAVO NO PROVIDO. [...] 2. "Configurada a agresso ao disposto no art. 489,  1, do CPC/2015, por ausncia da necessria fundamentao, impe-se a decretao de nulidade do acrdo da origem que apreciou os embargos declaratrios, com o retorno dos autos ao Tribunal de Justia, a fim de que o argumento relevante invocado, carente de apreciao, seja devidamente enfrentado" (EDcl no AgInt no AREsp 1.348.888/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/09/2019, DJe de 24/09/2019). [...] (STJ - AgInt nos EDcl no AREsp 1684098/SC, Rel. Ministro RAUL ARAJO, QUARTA TURMA, julgado em 16/11/2020, DJe 14/12/2020) Da mesma forma, esse  o entendimento de nossos tribunais, conforme jurisprudncia a seguir, relativa ao egrgio Tribunal de Justia do Estado de Minas Gerais: Processo Apelao Cvel 1.0223.07.236678-2/001 2366782 11.2007.8.13.223 (1) Relator(a) Des. (a) Generoso Filho rgo Julgador / Cmara Cmaras Cveis Isoladas / 9a CMARA CVEL Smula DE OFCIO, ANULARAM A SENTENA Comarca de Origem Divinpolis Data de Julgamento 04/05/2010 Data da publicao da smula 17/05/2010 Ementa AO DE COBRANA. SENTENA. AUSNCIA DE FUNDAMENTAO. NULIDADE ABSOLUTA. MATRIA DE ORDEM PBLICA. CONHECIMENTO DE OFCIO.  nula a sentena que deixa de examinar e fundamentar todas as questes deduzidas pelas partes, na forma do art. 93, IX, da CF/88. A nulidade da sentena que desrespeita o art.468, II, do CPC  matria de ordem pblica, que pode ser decretada de ofcio pelo Tribunal.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Tribunal de Justia decretou a nulidade da sentena que deixou de examinar e fundamentar todas as questes deduzidas pelas partes, conforme o art. 489, 1, do CPC/2015, com o retorno dos autos ao Tribunal de Justia para que o argumento relevante invocado seja devidamente enfrentado. A nulidade da sentena que desrespeita o art. 468, II, do CPC matria de ordem pblica, que pode ser decretada de ofcio pelo Tribunal.

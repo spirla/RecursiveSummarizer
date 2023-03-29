@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Assim, a recidiva prepondera nas hipoteses em que o acusado possui varias condenacoes por crimes anteriores, transitadas em julgado, reclamando repressao estatal mais robusta. (Informativo n. 742) PROCESSO REsp 1.979.989-RS, Rel. Min. Joel Ilan Paciornik, Terceira Secao, por unanimidade, julgado em 22/06/2022. (Tema 1144) RAMO DO DIREITO DIREITO PENAL TEMA Delito de furto. Repouso noturno. Causa de aumento da pena. Art. 155,  1, do CP. Horario de recolhimento. Requisitos. Pratica delitiva a noite e em situacao de repouso.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O acusado possuir várias condenações por crimes anteriores, transitadas em julgado, reclama repressão estatal mais robusta. 2. O delito de furto pode sofrer aumento de pena em caso de prática delitiva a noite e em situação de repouso. 3. O artigo 155, § 1º, do Código Penal prevê o horário de recolhimento como requisito para aplicação de aumento de pena.

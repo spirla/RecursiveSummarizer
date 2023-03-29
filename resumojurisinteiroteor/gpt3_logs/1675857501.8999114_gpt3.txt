@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Terceira preliminar: nulidade do feito devido  ilegitimidade do responsvel por extrair as mensagens dos aparelhos celulares, ausncia de percia do material apreendido e inexistncia de Laudo ou documento que ateste o nmero de controle e identificao do aparelho e do software CELLEBRITE. A simples afirmao de que os policiais militares no tm competncia tcnica para extrarem dos aparelhos de telefone celular as mensagens trocadas entre o apelante e Danone no pode servir de motivo para se decretar a nulidade das provas carreadas aos autos. Esses dados, nos termos tratados alhures, foram extrados com o emprego da Soluo Cellebrite UFED Touch 2d, uma ferramenta prpria ao fim a que se destina e utilizada universalmente dispensando, por conseguinte, maiores conhecimentos tcnicos da parte de quem vai oper-la para desincumbir-se da tarefa. A extrao de dados contidos nas mensagens trocadas atravs de telefones celulares, via WhatsApp no demanda percia tcnica e pode sim, ser executada por pessoa habilitada para a tarefa. No caso em comento, coube ao CB PM Marcelo Vincius Ribeiro de Miranda proceder a extrao, em razo de sua habilitao conseguida aps sua participao no curso UFED Foundations, com carga horria de 32 (trinta e duas) horas, realizado no perodo entre 12 e 15 de maro de 2019, nos termos do certificado que lhe foi conferido pela empresa TECHBiz Forense Digital Ltda, diga-se de passagem, a nica empresa credenciada como Distribuidora Autorizada (Authorized Distributor) no Brasil da Cellebrite Solues Tecnolgicas Ltda, acostado no evento 34 DOC5. Ainda quanto a alegada falta de percia na matria extrada dos aparelhos de telefone celular apreendidos com Danone, manifesto minha adeso  posio adotada pelo ilustre promotor de justia, segundo a qual a extrao de dados de aparelho celular consista em atividade de mero espelhamento da informao ali existente, sem alterao de dados, para a qual no se exige formao especfica, uma vez que as tarefas so executadas por equipamento de extrao forense utilizado mundialmente - Soluo Celebritte UfFED TOUCH 2 -, atravs do GAECO, um rgo do Ministrio Pblico habilitado para a tarefa, que a executou com a devida autorizao judicial, no se tratando, pois, de percia, essa sim, se fosse o caso, teria de ser procedida por profissional com formao especfica para a tarefa. Para corroborar a posio adotada, trago  mesa o precedente do Tribunal de Justia do Estado do Rio Grande do Sul: [...] HABEAS CORPUS. ANLISE DA ALEGAO DE NULIDADE DAS INTERCEPTAES TELEFNICAS E DE WHATSAPP DETERMINADA PELO STJ. INOCORRNCIA DE ILEGALIDADE. EXISTNCIA DE AUTORIZAO JUDICIAL PRVIA. AUSNCIA DE PROVA ACERCA DA QUEBRA DA CADEIA DE CUSTDIA. Havendo prvia autorizao judicial, no h falar em nulidade das interceptaes telefnicas e de Whatsapp colhidas pela equipe de investigao policial.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de Justia do Estado do Rio Grande do Sul decidiu que a extração de dados de aparelhos celulares, via WhatsApp, não demanda perícia técnica e pode ser executada por pessoa habilitada para a tarefa, desde que seja feita com o emprego da Solução Cellebrite UFED Touch 2d, uma ferramenta própria ao fim a que se destina e utilizada universalmente, com autorização judicial prévia.

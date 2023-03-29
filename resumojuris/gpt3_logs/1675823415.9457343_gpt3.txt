@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+A aludida exigencia acaba por penalizar os estudantes que fizeram a dificil escolha de faltar as provas para atender as recomendacoes das autoridades sanitarias como forma de conter a disseminacao da Covid-19. Ao assim dispor, o ato questionado desprestigia as politicas estatais de incentivo a observancia dessas recomendacoes sanitarias, contrariando o dever de protecao da saude publica (CF, art. 196). Com base nesse entendimento, o Plenario, por unanimidade, concedeu medida cautelar, para determinar a reabertura do prazo de requerimento de isencao de taxa, deixando-se de exigir justificativa de ausencia do ENEM 2020, de quaisquer candidatos, em razao do contexto pandemico  como previsto no item 1.4.1 do edital do ENEM 2020 (Edital 55/2020  ENEM digital e Edital 54, de 28 de julho de 2020  ENEM impresso), para que seja concedida a isencao na taxa de inscricao aos estudantes que comprovarem incidir em uma das hipoteses do item 2.6 do Edital 19/2021 do Ministerio da Educacao. O ministro Nunes Marques acompanhou o relator com ressalvas. ADPF 874 MC/DF, relator Min. Dias Toffoli, julgamento virtual finalizado em 3.9.2021 (sexta-feira), as 23:59 (INF 1028) 4.13 FEDERALISMO Covid-19: Competencia legislativa estadual e vedacao de interrupcao dos servicos publicos de distribuicao de energia eletrica por falta de pagamento durante a pandemia - ADI 6588/AM Resumo: Atendida a razoabilidade, e constitucional legislacao estadual que preve a vedacao do corte do fornecimento residencial dos servicos de energia eletrica, em razao do inadimplemento, parcelamento do debito, considerada a crise sanitaria. De fato, na linha da jurisprudencia do Supremo Tribunal Federal, o texto constitucional nao impede a elaboracao de legislacao estadual ou distrital que, preservando o nucleo relativo as normas gerais editadas pelo Congresso Nacional, venha a complementa-las e nao substitui-las.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O ato questionado desprestigia as politicas estatais de incentivo a observância das recomendações sanitárias, contrariando o dever de proteção da saúde pública (CF, art. 196). 2. É atendida a razoabilidade e constitucional a legislação estadual que prevê a vedação do corte do fornecimento residencial dos serviços de energia elétrica, em razão do inadimplemento, parcelamento do débito, considerada a crise sanitária. 3. O texto constitucional não impede a elaboração de legislação estadual ou distrital que, preservando o núcleo relativo às normas gerais editadas pelo Congresso Nacional, venha a complementá-las e não substituí-las.

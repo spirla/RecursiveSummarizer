@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 26/04/2022, DJe 29/04/2022. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Interceptacao telefonica. Juntada tardia aos autos. Antes da sentenca. Fundamentacao valida. Intimacao das partes. Contraditorio oportunizado. DESTAQUE O fato de as provas obtidas com a quebra de sigilo telefonico haverem sido juntadas apos o encerramento da instrucao nao e suficiente, por si so, para a anulacao do processo. A parte agravante, dentre outros pontos, questiona que a defesa nao teria recebido acesso as interceptacoes telefonicas durante a instrucao criminal. Sobre o acesso aos autos da interceptacao telefonica, embora seu apensamento ao processo principal somente tenha ocorrido ao final da instrucao, isso aconteceu porque parte das diligencias ainda estava em andamento quando do oferecimento da denuncia. Alem disso, os documentos foram juntados aos autos antes da prolacao da sentenca condenatoria, permitindo-se a manifestacao das partes e o exercicio do contraditorio. 1186 Tal procedimento e validado pela jurisprudencia deste STJ, como exemplificam os julgados a seguir: na especie, a existencia de inquerito policial no qual se autorizou a interceptacao telefonica de duas testemunhas ouvidas nesta acao penal e o fato de as provas obtidas com a quebra do sigilo telefonico haverem sido juntadas apos o encerramento da instrucao nao sao suficientes para a anulacao do processo, como pretendido, notadamente porque as partes tiveram acesso aos aludidos elementos de conviccao antes da prolacao de sentenca condenatoria e sobre eles puderam se manifestar .
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O fato de as provas obtidas com a quebra de sigilo telefonico haverem sido juntadas apos o encerramento da instrucao não é suficiente, por si só, para a anulação do processo. 2. A parte agravante questiona que a defesa não teria recebido acesso às interceptações telefônicas durante a instrução criminal. 3. Apesar de o apensamento dos documentos às interceptações telefônicas só ter ocorrido ao final da instrução, isso aconteceu porque parte das diligências ainda estava em andamento quando do oferecimento da denúncia. 4. Os documentos foram juntados aos autos antes da prolação da sentença condenatória, permitindo-se a manifestação das partes e o exercício do contraditório. 5. A existência de inquérito policial no qual se autorizou a interceptação telefônica de duas testemunhas ouvidas na ação penal e o fato de as provas obtidas com a quebra do sigilo telefônico haverem sido juntadas após o encerramento da instrução não são suficientes para a anulação do processo. 6. As partes tiveram acesso aos elementos de convicção antes da prolação de sentença condenatória e sobre eles puderam se manifestar.

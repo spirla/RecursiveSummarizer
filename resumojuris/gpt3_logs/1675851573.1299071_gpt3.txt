@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Lei n. 9.784/1999, arts. 2 e 3, III. 10 Processo MS 20.194-DF, Rel. Ministra Assusete Magalhaes, Primeira Secao, por unanimidade, julgado em 14/9/2022, DJe 20/9/2022. Ramo do Direito DIREITO ADMINISTRATIVO Tema Servico de radiodifusao comunitaria. Processo administrativo. Apuracao de infracoes. Revisao da pena aplicada. Revogacao de autorizacao ante a reiteracao no cometimento de infracoes. Instauracao de novo processo administrativo. Observancia dos principios da ampla defesa e do contraditorio. Imprescindibilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 9.784/1999, nos arts. 2 e 3, III, dispõe sobre o serviço de radiodifusão comunitária. 2. O processo administrativo de apuração de infrações deve observar os princípios da ampla defesa e do contraditório. 3. É possível a revogação de autorização em caso de reiteração no cometimento de infrações. 4. É necessária a instauração de novo processo administrativo para aplicação de pena.

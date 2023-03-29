@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nulidade  uma sano processual de ineficcia. Em outras palavras, a nulidade conduz ineficcia ao ato processual. A distino entre nulidade absoluta e relativa  das mais difceis. Fora de dvida que, em se tratando de vcio decorrente de infringncia de direito fundamental consagrado na Constituio, a nulidade  absoluta e deve ser reconhecida a qualquer tempo e em qualquer grau de jurisdio, mesmo aps o trnsito em julgado da sentena condenatria. No processo penal h nulidade absoluta toda vez que for violada uma regra constitucional sobre o processo. As garantias constitucionais de contedo processual no devem ser vistas apenas sob a tica individualista, como garantia das partes, mas como regras que asseguram o devido processo legal, sendo fator de legitimao da atividade jurisdicional, havendo interesse pblico na sua observncia. Acarreta nulidade o ato processual que restrinja ou diminua garantias constitucionais de presuno de inocncia, do contraditrio ou ampla defesa e da motivao das decises judiciais. Alm disso, como bem acentua Eugnio Pacelli, nulidade absoluta por violao dos princpios inferidos do sistema de garantias constitucionais pode ser reconhecida e declarada em sede de habeas corpus, quando o vcio  demonstrvel de plano, como  o caso de incompetncia absoluta. Diz a doutrina serem duas as caractersticas da nulidade absoluta:
+prejuzo presumido e arguio a qualquer momento. Nas hipteses de nulidade relativa, o legislador deixa  parte prejudicada a faculdade de pedir ou no a invalidao do ato irregularmente praticado, subordinado tambm o reconhecimento do vcio  efetiva demonstrao do prejuzo sofrido. Alm dessas caractersticas, na nulidade relativa h a necessidade de arguio oportuna, sob pena de precluso e consequente convalidao.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A nulidade uma sano processual de ineficcia, que pode ser absoluta ou relativa. Nas hipteses de nulidade absoluta, o vcio decorrente de infringncia de direito fundamental consagrado na Constituio deve ser reconhecido a qualquer tempo e em qualquer grau de jurisdio. Nas hipteses de nulidade relativa, o legislador deixa parte prejudicada a faculdade de pedir ou no a invalidao do ato irregularmente praticado, subordinado a demonstrao do prejuzo sofrido e arguio oportuna.

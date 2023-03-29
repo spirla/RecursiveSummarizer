@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Por essa razao, compete a Justica comum estadual, e nao a federal, processar e julgar as acoes de insolvencia civil ainda que haja interesse da Uniao, entidade autarquica ou empresa publica federal. Com efeito, a interpretacao constitucional que traduz maior fidelidade ao comando constitucional recomenda que se afaste o elemento puramente literal da norma e se busque o sentido que melhor atenda a finalidade que impulsionou o legislador constituinte, bem como ao comando normativo em si mesmo considerado, qual seja, de que a falencia, nesse rol de excecoes a competencia da Justica federal de primeira instancia, significa tanto a insolvencia da pessoa juridica quanto a insolvencia da pessoa fisica, dado que ambas envolvem, em suas respectivas essencias, concurso de credores. Alem disso, nao obstante a CF/88 nao tenha excepcionado a insolvencia civil, nao ha razoes que justifiquem a adocao de criterio distinto de fixacao de competencia entre a falencia e a insolvencia civil. Com base nesse entendimento, o Plenario, por maioria, apos ter negado provimento ao recurso extraordinario, fixou tese relativa ao tema 859 da Repercussao Geral. RE 678162/AL, relator Min. Marco Aurelio, redator do acordao Min. Edson Fachin, julgamento virtual finalizado em 26.3.2021 (sexta-feira), as 23:59 (INF 1011) 14.8 JUIZADOS ESPECIAIS FEDERAIS Execucao invertida : Fazenda Publica e juizados especiais federais - ADPF 219/DF Resumo: Nao ofende a ordem constitucional determinacao judicial de que a Uniao proceda aos calculos e apresente os documentos relativos a execucao nos processos em tramitacao nos juizados especiais civeis federais, ressalvada a possibilidade de o exequente postular a nomeacao de perito. Entre os principios que regem o microssistema processual dos juizados especiais federais  versados na Lei 9.099/1995 e na Lei 10.259/2001  estao os da simplicidade, da economia processual e da celeridade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Compete à Justiça Comum Estadual, e não à Federal, processar e julgar as ações de insolvência civil mesmo que haja interesse da União, entidade autárquica ou empresa pública federal. 2. A interpretação constitucional que traduz maior fidelidade ao comando constitucional recomenda que se afaste o elemento puramente literal da norma e se busque o sentido que melhor atenda à finalidade que impulsionou o legislador constituinte. 3. Não obstante a CF/88 não tenha excepcionado a insolvência civil, não há razões que justifiquem a adoção de critério distinto de fixação de competência entre a falência e a insolvência civil. 4. Não ofende a ordem constitucional determinação judicial de que a União proceda aos cálculos e apresente os documentos relativos à execução nos processos em tramitação nos juizados especiais cíveis federais, ressalvada a possibilidade de o exequente postular a nomeação de perito.

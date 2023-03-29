@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Decreto n. 3.142/1999, art. 2,  1. SUMULAS Sumula n. 7/STJ Processo AgInt no REsp 1.925.113-AC, Rel. Ministro Humberto Martins, Segunda Turma, por unanimidade, julgado em 28/11/2022, DJe 30/11/2022. Ramo do Direito DIREITO TRIBUTARIO, DIREITO EMPRESARIAL Tema Execucao fiscal. Fechamento de filial. Subsistencia da pessoa juridica. Dissolucao irregular. Nao configuracao. Redirecionamento para os socios. Nao cabimento. DESTAQUE O simples fechamento de filial de pessoa juridica nao basta para fundamentar a inclusao de socio no polo passivo de execucao fiscal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O simples fechamento de filial de pessoa juridica não é suficiente para fundamentar a inclusão de sócio no polo passivo de execução fiscal. 2. A dissolução irregular não configura o redirecionamento da execução fiscal para os sócios.

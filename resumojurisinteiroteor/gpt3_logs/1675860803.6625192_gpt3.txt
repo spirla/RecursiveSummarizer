@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+PERDA DO CARGO PBLICO. EFEITO AUTOMTICO. VIOLAO DOS DEVERES FUNCIONAIS. FUNDAMENTAO IDNEA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSO, PROVIDO. 1. No  possvel utilizar a condio de agente pblico para exasperar a pena-base, na primeira fase da dosimetria, e concomitantemente, para aplicar a causa de aumento de pena prevista no art. 1.,  4., inciso I, da Lei n. 9.455/97, sob pena de bis in idem. 2. A corte estadual concluiu que a violncia e o sofrimento fsico impostos  vtima no caso em apreo no extrapolaram aqueles inerentes  prtica do crime de tortura. A reviso desta constatao ftica exigiria reexame ftico-probatrio, o que no  possvel no recurso especial, nos termos da Smula n. 7 desta Corte Superior. 3. Nos termos da jurisprudncia do Superior Tribunal de Justia, uma vez reconhecida a prtica do crime de tortura, de acordo com a legislao especial aplicvel a este delito, a perda do cargo pblico  efeito automtico e obrigatrio da condenao. 4. Embora fosse dispensvel na hiptese, o Juzo de origem fundamentou concreta e pormenorizadamente a necessidade da imposio da sano de perda do cargo pblico em razo da violao dos deveres do funcionrio estatal (policial militar) para com a Administrao Pblica. 5. A alegao defensiva de que no seria possvel a perda do cargo em razo da superveniente aposentadoria do Recorrido Jlio Csar no foi examinada no acrdo recorrido e a referida passagem para a inatividade no se encontra comprovada nos autos. Em todo caso, a Corte Especial do Superior Tribunal de Justia, no julgamento das Aes Penais n. 825/DF e 841/DF, decidiu que o fato de o Acusado encontrar-se na inatividade no impede a imposio da sano de perda do cargo pblico, considerada a independncia da esfera penal. 6. No se est a tratar, nestes autos, de cassao de aposentadoria, mas de simples reconhecimento, no mbito penal, da necessidade de decreto de perda do cargo e da presena dos fundamentos necessrios para a imposio desta sano.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Superior Tribunal de Justia conheceu parcialmente o recurso especial e, nessa extenso, o proviu. Foi reconhecido que a condio de agente pblico não pode ser usada para aumentar a pena-base e aplicar a causa de aumento de pena prevista na Lei n. 9.455/97, sob pena de bis in idem. Além disso, a perda do cargo público é um efeito automático e obrigatório da condenação por crime de tortura. Por fim, foi reconhecido que a passagem para a inatividade não impede a imposição da sanção de perda do cargo público.

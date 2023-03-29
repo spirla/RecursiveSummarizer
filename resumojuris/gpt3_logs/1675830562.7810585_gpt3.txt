@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Adquirente do imovel usucapido. Sucessor. Litisconsorte necessario. Ausencia de citacao. Vicio de inexistencia. Possibilidade de alegacao a qualquer tempo. DESTAQUE O adquirente de bem usucapido, na condicao de sucessor do usucapiente, deve integrar o polo passivo da acao rescisoria intentada contra a sentenca de usucapiao, sob pena de nulidade do feito por falta de citacao do litisconsorte passivo necessario. No caso, foi promovida acao rescisoria contra os autores da acao de usucapiao, que foi julgada procedente para desconstituir a sentenca de usucapiao e cancelar a matricula respectiva. Os adquirentes do imovel usucapido ajuizaram acao declaratoria de inexistencia (querela nullitatis), afirmando que esse acordao seria nulo, porque deveriam ter participado do feito na condicao de proprietarios registrarios. Os sucessores sao legitimos, com justo titulo, na posse e direitos sobre o imovel usucapido e, depois, atingido pela acao rescisoria. Logo, deveriam ter sido incluidos no polo passivo da acao rescisoria que veio a anular a sentenca de usucapiao. A alienacao de uma coisa ou direito por ato entre vivos vincula enquanto durar o processo, fazendo permanecer litigiosa a coisa ou o direito nele debatido, mas nao alem disso.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O adquirente de bem usucapido, na condição de sucessor do usucapiente, deve integrar o polo passivo da ação rescisória intentada contra a sentença de usucapiação, sob pena de nulidade do feito por falta de citação do litisconsorte passivo necessário. 2. Os sucessores são legítimos, com justo título, na posse e direitos sobre o imóvel usucapido e, depois, atingidos pela ação rescisória. 3. A alienação de uma coisa ou direito por ato entre vivos vincula enquanto durar o processo, fazendo permanecer litigiosa a coisa ou o direito nele debatido, mas não além disso.

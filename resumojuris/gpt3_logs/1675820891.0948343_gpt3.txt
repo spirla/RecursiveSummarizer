@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ricardo Lewandowski, julgamento virtual finalizado em 26.4.2021 (segunda-feira), as 23:59 (INF 1014) Licenciamento ambiental de fase unica e regulamentacao de atividade garimpeira - ADI 6672/RR Resumo: E inconstitucional a legislacao estadual que, flexibilizando exigencia legal para o desenvolvimento de atividade potencialmente poluidora, cria modalidade mais simplificada de licenciamento ambiental. Considerada a predominancia do interesse na uniformidade de tratamento da materia em todo o territorio nacional, a regulacao sobre a expedicao de licencas ambientais especificas para as fases de planejamento, instalacao e operacionalizacao de empreendimentos potencialmente poluidores se situa no ambito de competencia da Uniao para a edicao de normas gerais de protecao ao meio ambiente. Logo, salvo no que se relaciona ao estabelecimento de normas mais protetivas, e vedado aos estados-membros divergir da sistematica de carater geral definida pelo ente central. Alem disso, a norma estadual que permita a aplicacao de procedimento de licenciamento ambiental menos eficaz para atividades de impacto significativo ao meio ambiente fragiliza o exercicio do poder de policia ambiental e caracteriza ofensa ao art. 225 da CF/88 (CF). E inconstitucional lei estadual que regulamenta aspectos da atividade garimpeira, nomeadamente, ao estabelecer conceitos a ela relacionados, delimitar areas para seu exercicio e autorizar o uso de azougue (mercurio) em determinadas condicoes. Na hipotese, ha usurpacao da competencia legislativa privativa da Uniao para legislar sobre jazidas, minas, outros recursos minerais e metalurgia. Com base nesses entendimentos, o Plenario julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade da Lei 1.453/2021 do Estado de Roraima. ADI 6672/RR, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a legislação estadual que flexibiliza exigências legais para o desenvolvimento de atividades potencialmente poluidoras, criando modalidade mais simplificada de licenciamento ambiental. 2. É vedado aos Estados-membros divergir da sistemática de caráter geral definida pelo ente central, salvo no que se relaciona ao estabelecimento de normas mais protetivas. 3. É inconstitucional lei estadual que regulamenta aspectos da atividade garimpeira, nomeadamente, ao estabelecer conceitos a ela relacionados, delimitar áreas para seu exercício e autorizar o uso de azougue (mercúrio) em determinadas condições. 4. Há usurpação da competência legislativa privativa da União para legislar sobre jazidas, minas, outros recursos minerais e metalurgia.

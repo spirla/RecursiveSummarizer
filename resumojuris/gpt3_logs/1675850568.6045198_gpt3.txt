@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+226 do CPP, cujas formalidades constituem garantia minima para quem se encontra na condicao de suspeito da pratica de um crime e para uma verificacao dos fatos mais justa e precisa; 4.2) A inobservancia do procedimento descrito na referida norma processual torna invalido o reconhecimento da pessoa suspeita, de modo que tal elemento nao podera fundamentar eventual condenacao ou decretacao de prisao cautelar, mesmo se refeito e confirmado o reconhecimento em Juizo. Se declarada a irregularidade do ato, eventual condenacao ja proferida podera ser mantida, se fundamentada em provas independentes e nao contaminadas; 4.3) A realizacao do ato de reconhecimento pessoal carece de justificacao em elementos que indiquem, ainda que em juizo de verossimilhanca, a autoria do fato investigado, de modo a se vedarem medidas investigativas genericas e arbitrarias, que potencializam erros na verificacao dos fatos. No caso, a analise do contexto fatico ja delineado nos autos pelas instancias ordinarias, permite inferir que o reu foi condenado, exclusivamente, com base em reconhecimento fotografico realizado pela vitima e sem que nenhuma outra prova (apreensao de bens em seu poder, confissao, relatos indiretos etc.) autorizasse o juizo condenatorio. Mais ainda, a autoridade policial induziu a vitima a realizar o reconhecimento - tornando-o viciado - ao submeter-lhe uma foto do acusado e do comparsa, de modo a reforcar sua crenca de que teriam sido eles os autores do roubo. Tal comportamento, por obvio, acabou por comprometer a minima aproveitabilidade desse reconhecimento. Estudos sobre a epistemologia juridica e a psicologia do testemunho alertam que e contraindicado o show-up (conduta que consiste em exibir apenas a pessoa suspeita, ou sua fotografia, e solicitar que a vitima ou a testemunha reconheca se essa pessoa suspeita e, ou nao, autora do crime), por incrementar o risco de falso reconhecimento.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1) O procedimento descrito no artigo 226 do Código de Processo Penal é uma garantia mínima para quem se encontra na condição de suspeito da prática de um crime. 2) A inobservância do procedimento descrito na referida norma processual torna inválido o reconhecimento da pessoa suspeita, de modo que tal elemento não poderá fundamentar eventual condenação ou decretação de prisão cautelar. 3) A realização do ato de reconhecimento pessoal carece de justificação em elementos que indiquem, ainda que em juízo de verossimilhança, a autoria do fato investigado. 4) É contraindicado o show-up, por incrementar o risco de falso reconhecimento.

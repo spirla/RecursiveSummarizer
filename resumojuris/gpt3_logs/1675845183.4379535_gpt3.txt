@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Ausencia. Ilegalidade. DESTAQUE 1154 E ilegal a requisicao, sem autorizacao judicial, de dados fiscais pelo Ministerio Publico. O Supremo Tribunal Federal, ao julgar o Recurso Extraordinario 1.055.941/SP, em sede de repercussao geral, firmou a orientacao de que e constitucional o compartilhamento dos relatorios de inteligencia financeira da UIF e da integra do procedimento fiscalizatorio da Receita Federal do Brasil - em que se define o lancamento do tributo - com os orgaos de persecucao penal para fins criminais sem previa autorizacao judicial, devendo ser resguardado o sigilo das informacoes em procedimentos formalmente instaurados e sujeitos a posterior controle jurisdicional (Tema 990). Da leitura desatenta da ementa do julgado, poder-se-ia chegar a conclusao de que o entendimento consolidado autorizaria a requisicao direta de dados pelo Ministerio Publico a Receita Federal, para fins criminais. No entanto, a analise acurada do acordao demonstra que tal conclusao nao foi compreendida no julgado, que trata da Representacao Fiscal para fins penais, instituto legal que autoriza o compartilhamento, de oficio, pela Receita Federal, de dados relacionados a supostos ilicitos tributarios ou previdenciarios apos devido procedimento administrativo fiscal. Assim, a requisicao ou o requerimento, de forma direta, pelo orgao da acusacao a Receita Federal, com o fim de coletar indicios para subsidiar investigacao ou instrucao criminal, alem de nao ter sido satisfatoriamente enfrentada no julgamento do Recurso Extraordinario n. 1.055.941/SP, nao se encontra abarcada pela tese firmada no ambito da repercussao geral em questao. Ainda, as poucas referencias que o acordao faz ao acesso direto pelo Ministerio Publico aos dados, sem intervencao judicial, e no sentido de sua ilegalidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É ilegal a requisição, sem autorização judicial, de dados fiscais pelo Ministério Público. 2. É constitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da integra do procedimento fiscalizatório da Receita Federal do Brasil, sem previa autorização judicial, desde que seja resguardado o sigilo das informações em procedimentos formalmente instaurados e sujeitos a posterior controle jurisdicional. 3. A requisição ou o requerimento, de forma direta, pelo órgão da acusação à Receita Federal, com o fim de coletar indícios para subsidiar investigação ou instrução criminal, não se encontra abarcada pela tese firmada no âmbito da repercussão geral. 4. O acordão faz referência à ilegalidade do acesso direto pelo Ministério Público aos dados, sem intervenção judicial.

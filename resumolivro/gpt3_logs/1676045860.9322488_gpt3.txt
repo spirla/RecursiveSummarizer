@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A correlao que vulgarmente se faz entre a violncia do crime e uma doena mental nem sempre  pertinente. As pessoas denominadas pela Medicina de psicopatas ou sociopatas no so doentes mentais e tampouco possuem um desenvolvimento mental incompleto ou retardado. O que nelas a Medicina identifica  a existncia de um transtorno da personalidade. Considerando que tal transtorno de personalidade apresenta variados graus, o indivduo transgressor das regras sociais tambm pode cometer crimes no violentos. A divergncia da denominao para o transtorno de personalidade evidencia a ausncia de consenso sobre as causas da disfuno comportamental. Os estudiosos que creditam ao comportamento desviante causas genticas, biolgicas e psicolgicas preferem utilizar o termo psicopata. Os que acreditam que os fatores sociais desfavorveis desencadeiam o problema preferem a expresso sociopata. Nessa linha de entendimento, a Organizao Mundial de Sade - OMS utiliza a expresso Transtorno de Personalidade Dissocial. Nos dias atuais, entretanto, j se percebe que as causas do transtorno no so unicamente biolgicas ou sociais e, por isso, a rigor, tecnicamente nenhum dos dois termos  adequado. A denominao que  mais usual entre os leigos  a de psicopata. A palavra psicopatia possui raiz grega e, literalmente, significa doena da mente (psyche = mente; e pathos = doena). Contudo,  importante notar que o transtorno de personalidade no se enquadra na concepo tradicional de doena mental, de transtorno da sade mental ou mesmo de desenvolvimento mental incompleto ou retardado. A psicopatia no  uma doena mental, sendo que o psicopata nasce com o transtorno de personalidade e se mantm em tal estado durante toda a sua vida. O psicopata (ou sociopata) tem plena conscincia sobre o carter ilcito do comportamento que realiza e tambm possui a plena capacidade para determinar-se em conformidade com esta conscincia. A psicopatia (ou sociopatia)  um transtorno da personalidade que produz efeitos diretos no comportamento, mas no interfere na conscincia de seu carter ilcito ou na autodeterminao do sujeito que livremente escolhe realiz-lo. Os psicopatas tm plena conscincia do carter ilcito do que esto fazendo e de suas consequncias, pois sua capacidade cognitiva ou racional  perfeita. O transtorno de personalidade repercute efeitos no campo do afeto e da emoo, de modo que no se importam com o que fazem.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A correlao entre violncia do crime e doena mental nem sempre pertinente. O que a Medicina identifica o transtorno de personalidade, que pode ser denominado de psicopata ou sociopata. O consenso sobre as causas da disfuno comportamental ainda no existe, pois elas podem ser biolgicas, genticas, psicolgicas ou sociais. O transtorno de personalidade no uma doena mental, pois o psicopata tem plena conscincia do carter ilcito do que est fazendo e capacidade cognitiva e racional para se determinar de acordo com isso.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+O Poder Legislativo, ao editar a Lei 8.184/1991, reconheceu a essencialidade do Censo Demografico para a formulacao e acompanhamento de politicas publicas, assim como para o planejamento de investimentos privados e, por conseguinte, para o desenvolvimento da economia nacional. Embora o legislador tenha conferido certo grau de discricionariedade ao gestor publico para definicao da periodicidade das pesquisas censitarias, ha o limite temporal de dez anos que deve ser sempre observado. Ademais, a nao realizacao do recenseamento pelo IBGE impede o levantamento de indicadores necessarios para a atualizacao dos coeficientes de partilha do Fundo de Participacao dos Estados (FPE), Fundo de Participacao dos Municipios (FPM) e salario-educacao, mecanismos necessarios para a garantia da autonomia politica e financeira dos entes subnacionais menos favorecidos economicamente. Ela inviabiliza, igualmente, o acompanhamento dos resultados das politicas sociais dos governos federal, estadual e municipal, de maneira a permitir o continuo aprimoramento do sistema de protecao social brasileiro. Na hipotese, tendo em conta que as falhas estatais nao se resumem a uma conduta meramente omissiva, e, ainda, as preocupacoes externadas pela Coordenadora Operacional de Censos do IBGE quanto a possibilidade da execucao do censo ainda em 2021, adotou-se posicionamento recente do STF no sentido de, nos casos em que as instancias politicas dispuserem de ampla margem de discricionariedade, a Corte atuar na defesa de direitos negligenciados pelo Estado, sem, contudo, invadir o dominio dos representantes democraticamente eleitos ou assumir compromisso com a conformacao das politicas publicas. Determinou-se, por conseguinte, que o Poder Executivo implemente a referida politica publica no exercicio financeiro subsequente.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei 8.184/1991 reconhece a essencialidade do Censo Demográfico para a formulação e acompanhamento de políticas públicas, assim como para o planejamento de investimentos privados e, por conseguinte, para o desenvolvimento da economia nacional. 2. O legislador conferiu certo grau de discricionariedade ao gestor público para definição da periodicidade das pesquisas censitárias, havendo o limite temporal de dez anos que deve ser sempre observado. 3. A não realização do recenseamento pelo IBGE impede o levantamento de indicadores necessários para a atualização dos coeficientes de partilha do Fundo de Participação dos Estados (FPE), Fundo de Participação dos Municípios (FPM) e salário-educação, mecanismos necessários para a garantia da autonomia política e financeira dos entes subnacionais menos favorecidos economicamente. 4. A Corte atuará na defesa de direitos negligenciados pelo Estado, sem, contudo, invadir o domínio dos representantes democraticamente eleitos ou assumir compromisso com a conformação das políticas públicas. 5. O Poder Executivo deverá implementar a referida política pública no exercício financeiro subsequente.

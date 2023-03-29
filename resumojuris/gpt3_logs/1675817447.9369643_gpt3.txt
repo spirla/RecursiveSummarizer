@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6619/RO, relator Ministro Gilmar Mendes, julgamento virtual finalizado em 21.10.2022 (sexta-feira), as 23:59 (INF 1073) 4.12 ORGANIZACAO DOS PODERES Inconstitucionalidade do bloqueio e penhora de receitas publicas vinculadas a contratos de gestao firmados entre o Poder Publico e entidades do terceiro setor - ADPF 1012/PA ODS: 3 e 16 Resumo: Sao inconstitucionais  por violarem os principios da separacao de Poderes, da legalidade or-camentaria, da eficiencia administrativa e da continuidade dos servicos publicos  decisoes judiciais que determinam a penhora ou o bloqueio de receitas publicas destinadas a execucao de contratos de gestao para o pagamento de despesas estranhas aos seus objetos. No caso, as verbas atribuidas ao cumprimento de contratos de gestao sao receitas publicas da saude com destinacao orcamentaria definida pelos entes responsaveis, sendo vedado ao Poder Judiciario alterar a sua aplicacao, conforme se observa da jurisprudencia consolidada desta Corte. Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente a acao para suspender e cassar os efeitos das decisoes judiciais que determinaram a constricao (arresto, sequestro, bloqueio, penhora e liberacao de valores) de recursos publicos do Estado do Para, destinados a execucao dos Contratos de Gestao 23/2014, 01/2017, 03/2017, 04/2017 e 05/2017, referidos na peticao inicial e executados pela Organizacao Social Pro-Saude, declarando a inconstitucionalidade dos atos impugnados. ADPF 1012/PA, relator Ministro Edson Fachin, julgamento virtual finalizado em 12.12.2022 (segunda-feira), as 23:59 Liberdade de expressao e limites - AP 1044/DF Resumo: A liberdade de expressao existe para a manifestacao de opinioes contrarias, jocosas, satiricas e ate mesmo erroneas, mas nao para opinioes criminosas, discurso de odio ou atentados contra o Estado Democratico de Direito e a democracia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional a decisão judicial que determina a penhora ou o bloqueio de receitas públicas destinadas à execução de contratos de gestão para o pagamento de despesas estranhas aos seus objetos. 2. É vedado ao Poder Judiciário alterar a aplicação de verbas atribuídas ao cumprimento de contratos de gestão, que são receitas públicas com destinação orçamentária definida pelos entes responsáveis. 3. A liberdade de expressão existe para a manifestação de opiniões contrárias, jocosas, satiricas e até mesmo erroneas, mas não para opiniões criminosas, discurso de ódio ou atentados contra o Estado Democrático de Direito e a democracia.

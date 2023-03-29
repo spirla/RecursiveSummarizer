@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Especial n. 10) CF/88 (CF), art. 93, IX CPP (CPP), arts. 312 e 315,  2, III Processo HC 740.431-DF, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 13/9/2022, DJe 19/9/2022. Ramo do Direito DIREITO PROCESSUAL PENAL Tema Homicidio. Autopsia psicologica. Prova atipica. Possiblidade. Falibilidade de provas cientificas. Controle de admissibilidade. Vies subjetivo. Cotejo com demais provas acostadas aos autos.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a utilização de prova atípica no processo penal. 2. As provas científicas são falíveis e sua admissibilidade deve ser controlada. 3. O cotejo entre a prova atípica e as demais provas acostadas aos autos deve levar em consideração o viés subjetivo.

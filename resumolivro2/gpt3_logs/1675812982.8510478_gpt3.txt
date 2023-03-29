@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O processo da inscrio e especializao correr em autos apartados. Da deciso que as defere cabe recurso inominado (artigo 210, pargrafo 1, CPPM). Tm legitimidade para interpor o recurso inominado o acusado e o Ministrio Pblico. Provido o recurso inominado a deciso que determinou ficar sem efeito. Adota o RISTM o procedimento do recurso em sentido estrito (artigo 119, pargrafo 3). O prazo para recorrer  de trs dias (artigo 518, CPPM). Formado o instrumento ou no, conforme o caso, o recorrido  intimado para contrarrazoar. Com a resposta do recorrido o juiz ou o Conselho de Justia poder manter a deciso recorrida ou reform-la. Neste caso os autos subiro  instncia superior independentemente de novas razes. Os recursos inominados tm efeito devolutivo, mas no efeitos suspensivo ou regressivo. 18.10. Recursos extraordinrio e especial. Diz-se extraordinrios, em sentido amplo, os recursos que no examinam questes fticas, mas apenas questes de direito.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O processo de inscrição e especialização corre em autos separados. O recurso inominado pode ser interposto pelo acusado e pelo Ministério Público. O recurso em sentido estrito é adotado pelo RISTM e o prazo para recorrer é de três dias. O recurso inominado tem efeito devolutivo, mas não tem efeitos suspensivo ou regressivo. Os recursos extraordinários são aqueles que examinam questões de direito, mas não questões fáticas.

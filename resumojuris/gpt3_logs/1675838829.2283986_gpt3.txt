@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Mesmo se ausente coacao direta e explicita sobre o acusado, as circunstancias de ele ja haver sido preso em flagrante pelo porte da arma de fogo em via publica e estar detido, sozinho - sem a oportunidade de ser assistido por defesa tecnica e sem minimo esclarecimento sobre seus direitos -, diante de dois policiais armados, poderiam macular a validade de eventual consentimento (caso provado), em virtude da existencia de um constrangimento ambiental/circunstancial. Isso porque a prova do consentimento do morador e um requisito necessario, mas nao suficiente, por si so, para legitimar a diligencia policial, porquanto deve ser assegurado que tal consentimento, alem de existente, seja valido, isto e, livre de vicios aptos a afetar a manifestacao de vontade. 529 O art. 152 do CC, ao disciplinar a coacao como um dos vicios do consentimento nos negocios juridicos, dispoe que: No apreciar a coacao, ter-se-ao em conta o sexo, a idade, a condicao, a saude, o temperamento do paciente e todas as demais circunstancias que possam influir na gravidade dela . Se, no Direito Civil, que envolve, em regra, direitos patrimoniais disponiveis, em uma relacao equilibrada entre particulares, todas as circunstancias que possam influir na liberdade de manifestacao da vontade devem ser consideradas, com muito mais razao isso deve ocorrer no Direito Penal (lato sensu), que trata de direitos indisponiveis de um individuo diante do poderio do Estado, em relacao manifestamente desigual.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O consentimento do morador é um requisito necessário, mas não suficiente, para legitimar a diligência policial. 2. O art. 152 do Código Civil disciplina a coação como um dos vícios do consentimento nos negócios jurídicos. 3. Devem ser consideradas todas as circunstâncias que possam influir na liberdade de manifestação da vontade, tanto no Direito Civil quanto no Direito Penal.

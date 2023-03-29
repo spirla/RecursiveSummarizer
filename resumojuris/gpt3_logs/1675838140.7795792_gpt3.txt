@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nesta hipotese, ha presuncao legal de hipossuficiencia, tanto assim que claramente se extrai da Lei n. 12.651/2012 (art. 53, paragrafo unico) o objetivo de assegurar a esse segmento produtivo, objeto de especial atencao inclusive do constituinte, nao so isencao de custos como prestacao positiva de servicos de auxilio. Seria um contrassenso admitir que a lei previsse tais beneficios com essa obvia teleologia e se vedasse que a instituicao constitucionalmente habilitada a defender os direitos dessas parcelas da sociedade fosse impedida de tutela-los. Descabe ao Judiciario desconstituir a opcao politica do legislador na selecao desse publico como destinatario de especial atencao normativa nos planos tecnicos e juridicos. Igualmente descabe impor a Defensoria a reconstrucao da opcao politica com base em dados, diante da previsao legal expressa de considera-los hipossuficientes, merecedores de facilidades financeiras, tecnicas e juridicas. A legitimidade ativa da Defensoria Publica nas acoes coletivas nao se verifica mediante comprovacao previa e concreta da carencia dos assistidos. Ainda que o provimento beneficie publicos diversos daqueles necessitados, a hipotese nao veda a atuacao da Defensoria. Esta se justifica pela mera presenca teorica de potenciais assistidos entre os beneficiados. (ADI n. 3.943 ED, Relator (a): Carmen Lucia, Tribunal Pleno, julgado em 18/5/2018, acordao eletronico DJe-153 divulg. 31/7/2018 public. 1/8/2018). (Informativo n. 748) 509 PROCESSO RMS 68.549-DF, Rel.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A Lei n. 12.651/2012 (art. 53, parágrafo único) tem como objetivo assegurar isenção de custos e prestação positiva de serviços de auxílio a segmentos produtivos especialmente atendidos pelo constituinte. 2. É vedado ao Judiciário desconstituir a opção política do legislador na seleção de públicos especiais para receberem atenção normativa nos planos técnicos e jurídicos. 3. A legitimidade ativa da Defensoria Pública nas ações coletivas não se verifica mediante comprovação previa e concreta da carência dos assistidos. 4. Ainda que o provimento beneficie públicos diversos daqueles necessitados, a hipótese não veda a atuação da Defensoria, pois esta se justifica pela mera presença teórica de potenciais assistidos entre os beneficiados.

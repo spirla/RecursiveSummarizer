@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+RELATRIO Cuida-se de ao anulatria de ato administrativo-disciplinar cumulado com pedido de tutela antecipada, ajuizada por Alex Rodrigues Dutra, visando  nulidade das punies aplicadas a ele nos autos da Sindicncia Administrativo-Disciplinar (SAD) de Portaria n. 105.323/2017- SAD/12a Cia PM Ind Mat. O militar, ora apelado, restou incurso na prtica da transgresso prevista no art. 13, incisos XVI e XIX, e no art. 14, II, da Lei n. 14.310/2002, pois teria deixado de realizar fiscalizao ambiental em empreendimento passvel de fiscalizao, em troca de se beneficiar de alimentao custeada pela Prefeitura. Quanto aos fatos, o autor alega: inobservncia do artigo 10 do Cdigo de tica e Disciplina dos Militares de Minas Gerais (CEDM); inobservncia do art. 16 c/c o 21 do CEDM quanto  agravante no especificada; negativa de enfrentamento das teses de defesa pelo encarregado e pela autoridade sancionadora; vcio na Portaria, que descreveu os fatos e tipos genericamente, sem apontar o nexo de causalidade entre a conduta e o tipo; prescrio/ausncia de indicao da data do cometimento da transgresso; deciso contrria s provas dos autos - aplicao de sano do art. 15, III, sem provas e sem correlao da conduta com o tipo; ausncia de prova do cometimento da transgresso do art. 13, XVI; e concluso do encarregado e soluo da autoridade sem fundamentos legais e baseadas em presuno e conjecturas. Com a inicial, sobreveio aos autos, indeferimento ao requerimento de tutela de urgncia (Evento 10) formulado na inicial pelo autor, tendo em vista a ausncia dos requisitos legais para concesso da liminar (probabilidade do direito e perigo de dano ou risco ao resultado til do processo). Citado, o Estado de Minas Gerais ofertou contestao (Evento 17), pontuando e impugnando os termos da ao. O autor apresentou impugnao  contestao (Evento 22), sustentando a tese contida na inicial. Determinada a especificao de provas, o Estado de Minas Gerais informou no ter mais provas a produzir (Evento 28). O autor, por sua vez, pugnou pela oitiva de testemunha que relacionou (Evento 27), a qual foi indeferido por este juzo (Evento 30). Em sentena (Evento 46), o MM. juiz de direito substituto da 5a Auditoria de Justia Militar Estadual (AJME) abordou todas as questes suscitadas e, ao final, entendeu que: [...] Decido. Pelo que se depreende dos autos, o PM Alex Rodrigues Dutra foi punido disciplinarmente com a perda de 26 (vinte e seis) pontos conceituais, como incurso nos artigos 13, inciso XVI, e 15, inciso III, ambos do CEDM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Ao anulatria de ato administrativo-disciplinar foi ajuizada pelo militar Alex Rodrigues Dutra, visando a nulidade das punies aplicadas a ele nos autos da Sindicncia Administrativo-Disciplinar (SAD). O Estado de Minas Gerais ofertou contestação, impugnando os termos da ação. O juiz de direito substituto da 5a Auditoria de Justia Militar Estadual (AJME) entendeu que o PM Alex Rodrigues Dutra foi punido disciplinarmente com a perda de 26 (vinte e seis) pontos conceituais.

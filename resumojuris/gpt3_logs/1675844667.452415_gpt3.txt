@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No Superior Tribunal de Justica ha julgados que nao enfrentam o merito revisional de decisao singular do relator por ausencia de previsao regimental especifica. Esse entendimento parte de uma leitura restritiva da norma prevista no art. 239 do RISTJ, assim redigido: A Corte Especial cabera a revisao de decisoes criminais que tiver proferido, e a Secao, das decisoes suas e das Turmas . A indicada leitura dos termos Secao e Turmas restringe o cabimento as revisionais ajuizadas contra decisoes de orgaos colegiados, considerando que seriam os unicos competentes para o seu conhecimento. Em sintese, pode-se afirmar que, se um orgao do Tribunal decide reiteradamente, da mesma maneira, uma questao de fato ou de direito, seus integrantes ficam autorizados a decidir, de forma isolada e previa, os demais processos sobre o mesmo tema, que inevitavelmente teriam a mesma decisao. Essa reiteracao de entendimentos consolidados fortalece a estabilidade e a seguranca juridica. Por esse motivo, as cortes superiores consideram que o julgamento singular nao contraria o principio da colegialidade (STF, AgRg no HC 214.006/SP, relatora Ministra Rosa Weber, Tribunal Pleno, DJe de 13/05/2022; e STJ, AgInt na AR 6.475/SC, relator Ministro Felix Fischer, Corte Especial, DJe de 18/12/2020). No que diz respeito as revisoes criminais, uma exaustiva pesquisa jurisprudencial demonstra nao haver, em verdade, consenso sobre o cabimento de revisao criminal de decisao unipessoal de relator. Muitos julgados a inadmitem, adotando uma posicao restritiva; outros tacitamente a admitem, adentrando o tema revisional sem nenhum tipo de consideracao acerca do cabimento; outros poucos, por fim, expressamente admitem o cabimento de revisoes criminais de decisoes monocraticas.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O cabimento de revisão criminal de decisão unipessoal de relator não é consenso na jurisprudência. 2. O entendimento de que não há previsão regimental específica para o julgamento de decisões singulares de relator é baseado em uma leitura restritiva do art. 239 do RISTJ. 3. O julgamento singular não contraria o princípio da colegialidade.

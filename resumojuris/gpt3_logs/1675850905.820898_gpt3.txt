@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Requerimento cautelar de guarda dos dados e conteudos por periodo determinado alem do prazo legal. Previa autorizacao judicial. Desnecessidade. Efetivo acesso dependente de ordem judicial. DESTAQUE O requerimento de simples guarda dos registros de acesso a aplicacoes de internet ou registros de conexao por prazo superior ao legal, feito por autoridade policial, administrativa ou Ministerio Publico, prescinde de previa autorizacao judicial. Controverte-se sobre a possibilidade de preservacao do conteudo telematico junto aos provedores de internet, a pedido do Ministerio Publico, sem autorizacao judicial. A Lei n. 12.965/2014 (Marco Civil da Internet) dispoe que a guarda e a disponibilizacao dos registros de conexao e de acesso a aplicacoes de internet , nela tratados, bem como de dados pessoais e do conteudo de comunicacoes privadas, devem atender a preservacao da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas (art. 10). Mas ressalva que o provedor responsavel pela guarda esta obrigado a disponibilizar os registros (de conexao e de acesso a aplicacoes da internet), mediante ordem judicial (art. 10,  1 e 2), com a finalidade de formar conjunto probatorio em processo judicial civel ou criminal, em carater incidental ou autonomo (art.22), a pedido da parte interessada, desde que haja indicios fundados da ocorrencia do ilicito , justificativa motivada da utilidade dos registros solicitados para fins de investigacao ou instrucao probatoria e periodo ao qual se referem os registros (art. 22, incisos I, II e III). Trata-se de materia que recebe tratamento especifico da Lei n. 12.965/2014, ao dispor que constitui dever juridico do administrador do respectivo sistema autonomo manter os registros de conexao, sob sigilo, em ambiente controlado e de seguranca, pelo prazo de 1 (um) ano (art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O requerimento de simples guarda dos registros de acesso a aplicacoes de internet ou registros de conexao por prazo superior ao legal, feito por autoridade policial, administrativa ou Ministerio Publico, prescinde de previa autorizacao judicial. 2. A Lei n. 12.965/2014 (Marco Civil da Internet) dispoe que a guarda e a disponibilizacao dos registros de conexao e de acesso a aplicacoes de internet, nela tratados, bem como de dados pessoais e do conteudo de comunicacoes privadas, devem atender a preservacao da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas. 3. O provedor responsavel pela guarda esta obrigado a disponibilizar os registros (de conexao e de acesso a aplicacoes da internet), mediante ordem judicial, com a finalidade de formar conjunto probatorio em processo judicial civel ou criminal, em carater incidental ou autonomo. 4. Constitui dever juridico do administrador do respectivo sistema autonomo manter os registros de conexao, sob sigilo, em ambiente controlado e de seguranca, pelo prazo de 1 (um) ano.

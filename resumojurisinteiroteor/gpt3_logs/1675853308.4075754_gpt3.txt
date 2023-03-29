@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+(AgRg no AREsp 1669700/PB, Rel. Ministra LAURITA VAZ, Rel. p/ Acrdo Ministro SEBASTIO REIS JNIOR, SEXTA TURMA, julgado em 23/11/2021, DJe 30/11/2021) PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAO NO HABEAS CORPUS. VIOLAO AO PRINCPIO DA COLEGIALIDADE. INOCORRNCIA. PROVA EMPRESTADA. DEPOIMENTO DO CORRU MENOR COMO INFORMANTE. PROVA ILCITA. NO VERIFICAO. OITIVA NA PRESENA DA GENITORA. POSSIBILIDADE. CONDENAO BASEADA EM DEMAIS PROVAS. PREJUZO NO DEMONSTRADO. NO DECLARA NULIDADE AINDA QUE ABSOLUTA. REVER ENTENDIMENTO DA CONDENAO ENSEJA REVOLVIMENTO FTICO PROBATRIO. AUSNCIA DE NULIDADE. OITIVA POR CARTA PRECATRIA. MATRIA NO ANALISADA NA ORIGEM.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal negou o agravo regimental nos embargos de declaração no habeas corpus, pois não houve violação ao princípio da colegialidade, não houve prova ilícita e a oitiva do corréu menor foi possível na presença da genitora. A condenação foi baseada em outras provas e não houve prejuízo demonstrado. Ainda assim, não foi declarada nulidade, pois o reexame do entendimento da condenação demandaria um revolvimento fático-probatório. A oitiva por carta precatória não foi analisada na origem.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Havendo mais de trs acusados, o Ministrio Pblico poder requerer a inquirio de mais trs testemunhas numerrias, alm das arroladas na denncia (artigo 417, pargrafo 1, CPPM). A falta ou equvoco na designao do juiz (alnea a), o nome, idade, profisso e residncia do acusado, ou esclarecimentos pelos quais possa ser qualificado (alnea b), a qualificao do ofendido e a designao da pessoa jurdica ou instituio prejudicada ou atingida (alnea d) e o rol das testemunhas (alnea h) pode ser corrigido, conforme estabelecido pelo artigo 78, a. Sobre rejeio da denncia conferir no item 15.2.2. 7.4.2. Prazos para oferecimento e devoluo para diligncia. Impe o artigo 79 do CPPM que a denncia deve ser oferecida, se o acusado estiver preso, dentro do prazo de cinco dias, contado da data do recebimento dos autos pelo rgo do Ministrio Pblico para esse fim, se houver prova de fato que, em tese, constitua crime e indcios de autoria (artigo 30 do CPPM). Esse prazo no  prorrogvel. Se o Ministrio Pblico no oferecer denncia relaxa-se a priso considerada ilegal, ou concede-se a liberdade provisria. Se o acusado estiver solto o prazo para oferecimento da denncia  de quinze dias, prorrogvel ao dobro ou ao triplo. Se o rgo do Ministrio Pblico no oferecer denncia dentro deste ltimo prazo ficar sujeito  pena disciplinar, sem prejuzo da responsabilidade penal (artigo 79, pargrafos 1 e 2). Com o acusado solto  possvel a devoluo dos autos de inqurito a autoridade policial militar para diligncias complementares (artigo 80 do CPPM). 7.4.3. Aditamento da denncia. Aditar  acrescentar fatos considerados crimes, qualificadoras, causas de aumento de pena, autores, coautores ou partcipes que, por alguma razo, no foram includos na denncia. O aditamento da denncia permite a conexo ou a continncia e atende a economia processual.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público pode requerer a inquirição de mais três testemunhas numerárias além das arroladas na denúncia. O nome, idade, profissão e residência do acusado, bem como a qualificação do ofendido e a designação da pessoa jurídica ou instituição prejudicada ou atingida podem ser corrigidos. O prazo para oferecimento da denúncia é de cinco dias se o acusado estiver preso e de quinze dias se estiver solto, prorrogável ao dobro ou ao triplo. É possível aditar a denúncia para acrescentar fatos considerados crimes, qualificadoras, causas de aumento de pena, autores, coautores ou partícipes.

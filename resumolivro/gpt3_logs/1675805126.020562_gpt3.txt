@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Curso de direito penal, v. 1, p. 376-386. 152 Nesse mesmo sentido: BITENCOURT, Cezar Roberto. Tratado de direito penal: parte geral 1, p. 412. 153 A disponibilidade ou nao de um bem juridico se liga ao interesse envolvido na sua protecao, o que deve ser analisado no caso em concreto e em face nao somente da lei, mas tambem dos costumes, os valores sociais e morais da coletividade. Assim, se o interesse na sua preservacao for exclusivamente privado, como, por exemplo, a tranquilidade domiciliar, o bem juridico sera disponivel, ao passo que se o interesse for coletivo, como ocorre com a protecao da vida, o bem sera indisponivel. 154 CAPEZ, Fernando. Curso de direito penal: parte geral, v. 1, p. 277. 155 Oliveira, Mauricio Jose de. Op. cit. p. 47. 156 CPM: Artigo 39. Nao e igualmente culpado quem, para proteger direito proprio ou de pessoa a quem esta ligado por estreitas relacoes de parentesco ou afeicao, contra perigo certo e atual, que nao provocou, nem podia de outro modo evitar, sacrifica direito alheio, ainda quando superior ao direito protegido, desde que nao lhe era razoavelmente exigivel conduta diversa.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O curso de direito penal aborda a disponibilidade ou não de um bem jurídico, que está ligado ao interesse envolvido na sua proteção. Se o interesse for exclusivamente privado, o bem será disponível, enquanto que se for coletivo, será indisponível. O Código Penal Militar (CPM) prevê que não é culpado quem, para proteger direito próprio ou de pessoa a quem está ligado por estreitas relações de parentesco ou afetividade, sacrifica direito alheio, desde que não lhe era razoavelmente exigível conduta diversa.

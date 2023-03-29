@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Acreditando ser este um objeto concreto e pragmaticamente utilizvel, os partidrios da concepo normativa orientam a valorao prpria ao juzo de reprovao da culpabilidade da seguinte maneira: quanto maior for a liberdade da pessoa para agir conforme o Direito, maior ser o juzo de reprovao da conduta criminosa. O grande mrito dessa concepo  vincular o contedo material da culpabilidade ao princpio geral da exigibilidade de conduta diversa. Contudo, o trabalho com o poder-de-agir-de-outro-modo no  capaz de legitimar a reprovao segundo a perspectiva procedimental do Direito, pois utiliza a razo prtica que se orienta pela relao sujeito-objeto e a justia criminal no possui meios cientficos aptos para comprovar se um tal poder existe na realidade e em que medida a pessoa concreta o vivencia. Com acerto, Luigi Ferrajoli observa que, se a prova colhida no processo penal indicar que o indivduo agiu de determinada maneira, conclui-se que ele somente poderia agir daquele modo, mas no que poderia agir de outro. Muoz Conde, por sua vez, observa que, se  certo que diante de vrias opes o indivduo sempre pode escolher, no se pode conhecer as causas ltimas que determinam a eleio de uma ou outra opo. Por isso, no se pode vincular o juzo de reprovao da culpabilidade a objeto desconhecido.  necessrio que o objeto de valorao da culpabilidade viabilize critrio exequvel para uma reprovao de ndole discursiva, capaz de distinguir no apenas aes culpveis de aes no culpveis, mas, sobretudo, aes mais culpveis de aes menos culpveis. O juzo de reprovao da culpabilidade no pode se basear na possibilidade de o sujeito atuar de outra maneira, inverificvel no caso concreto, mas na possibilidade de exigir-se da pessoa comportamento diverso. Construir o juzo de reprovao da culpabilidade sob noes dessa ordem, abstratas, representa verdadeiro perigo  segurana individual, pela utilizao de reprovao apriorstica e pragmaticamente aplicvel a todos os casos. Na verdade, tal hiptese viola diretamente o princpio da no culpabilidade, previsto no artigo 5, LVII, da Constituio brasileira. Por outro lado, se  impossvel comprovar empiricamente a hiptese da liberdade da vontade, a dvida deveria levar sempre  absolvio, em face do princpio do in dbio pro reo, sendo igualmente impossvel construir um direito repressivo sobre base insegura.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+Os partidários da concepção normativa acreditam que quanto maior a liberdade da pessoa para agir conforme o Direito, maior será o juízo de reprovabilidade da conduta criminosa. No entanto, o trabalho com o poder-de-agir-de-outro-modo não é capaz de legitimar a reprovabilidade segundo a perspectiva procedimental do Direito. Por isso, o juízo de reprovabilidade não pode se basear na possibilidade de o sujeito atuar de outra maneira, mas na possibilidade de exigir-se da pessoa comportamento diverso. Esta hiptese viola diretamente o princípio da não culpabilidade previsto na Constituição brasileira e, portanto, em caso de dúvida, a absolvição é sempre necessária.

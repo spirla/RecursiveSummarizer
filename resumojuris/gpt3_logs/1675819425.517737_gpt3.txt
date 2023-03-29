@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ACO 3410/SE, relator Ministro Roberto Barroso, julgamento virtual finalizado em 20.4.2022 (quarta-feira), as 23:59 (INF 1051) 14.6 IPI Incidencia de IPI sobre bacalhau seco e salgado e questao infraconstitucional - RE 627280/RJ (Tema 502 RG) Tese fixada: E infraconstitucional, a ela se aplicando os efeitos da ausencia de repercussao geral, a contro-versia relativa a incidencia de IPI sobre o bacalhau seco e salgado oriundo de pais signatario do GATT. Resumo: Nao possui repercussao geral, diante de sua natureza infraconstitucional, a discussao sobre a in-cidencia de IPI sobre o bacalhau seco e salgado vindo de pais signatario do GATT. Em razao da natureza infraconstitucional da controversia posta no recurso extraordinario, que deman-daria o reexame do acervo probatorio dos autos e da legislacao infraconstitucional pertinente (Codigo Tributa-rio Nacional, Lei 4.502/1964, Lei 10.451/2002, Decreto 4.070/2001 e Decreto 4.544/2002), cabe a revisao do reconhecimento da repercussao geral, nos termos do art. 323-B do Regimento Interno do Supremo Tribunal Federal (RI/STF) e. Com base nesse entendimento, o Plenario, por unanimidade, apos rever o reconhecimento da repercus-sao geral quanto ao Tema 502 da repercussao geral, nao conheceu do recurso extraordinario. RE 627280/RJ, relator Ministro Roberto Barroso, julgamento virtual finalizado em 18.3.2022 (sexta-feira), as 23:59 (INF 1047) 14.7 IR Pensao alimenticia e incidencia do imposto de renda - ADI 5422/DF ODS: 10 e 17 Resumo: E inconstitucional norma que preve a incidencia do imposto de renda sobre valores percebidos pelo alimentado a titulo de alimentos ou pensao alimenticia. A materialidade do imposto de renda (IR) esta necessariamente ligada a existencia de acrescimo pa-trimonial.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à incidência de IPI sobre o bacalhau seco e salgado oriundo de país signatário do GATT. 2. É inconstitucional norma que prevê a incidência do imposto de renda sobre valores percebidos pelo alimentado a título de alimentos ou pensão alimentícia.

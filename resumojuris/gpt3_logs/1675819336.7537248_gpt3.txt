@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+ADI 6152/MA, relator Ministro Edson Fachin, julgamento virtual finalizado em 30.9.2022 (sexta-feira), as 23:59 (INF 1070) Remissao de creditos de ICMS oriundos de beneficios fiscais julgados inconstitucionais - RE 851421/DF (Tema 817 RG) Tese fixada: E constitucional a lei estadual ou distrital que, com amparo em convenio do CONFAZ, conceda remissao de creditos de ICMS oriundos de beneficios fiscais anteriormente julgados inconstitucionais. Resumo: E cabivel a concessao de remissao, com amparo em convenios CONFAZ, de creditos de ICMS oriundos de beneficios fiscais declarados inconstitucionais. No caso, a Lei distrital 4.732/2011 nao ressuscitou beneficios fiscais unilaterais declarados inconsti-tucionais, mas apenas remitiu, com amparo em convenios, os creditos de ICMS decorrentes, configurando-se, assim, novo beneficio fiscal. Ademais, a lei distrital reuniu os requisitos formais e materiais para resguardar a seguranca juridica em favor dos contribuintes. Isso porque, com base no art. 155,  2, XII, g, da CF/88 e na Lei Complementar 24/1975, remitiu os creditos que seriam cobrados inclusive dos contribuintes que usufruiram de beneficios fiscais condicionais ou onerosos. Com base nesse entendimento, o Plenario, por unanimidade, ao apreciar o tema 817 da repercussao ge-ral, negou provimento ao recurso extraordinario e reconheceu a constitucionalidade da Lei distrital 4.732/2011, com a redacao dada pela Lei distrital 4.969/2012.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É constitucional a lei estadual ou distrital que, com amparo em convenio do CONFAZ, conceda remissão de créditos de ICMS oriundos de benefícios fiscais anteriormente julgados inconstitucionais. 2. É cabível a concessão de remissão, com amparo em convenios CONFAZ, de créditos de ICMS oriundos de benefícios fiscais declarados inconstitucionais. 3. A Lei distrital 4.732/2011 não ressuscitou benefícios fiscais unilaterais declarados inconstitucionais, mas apenas remitiu, com amparo em convenios, os créditos de ICMS decorrentes, configurando-se, assim, novo benefício fiscal. 4. A lei distrital reuniu os requisitos formais e materiais para resguardar a segurança jurídica em favor dos contribuintes. 5. Com base no art. 155, 2, XII, g, da CF/88 e na Lei Complementar 24/1975, é possível remitir os créditos que seriam cobrados inclusive dos contribuintes que usufruiram de benefícios fiscais condicionais ou onerosos.

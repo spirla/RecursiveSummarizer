@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Se no houve m-f da parte recorrente, o juiz determina o processamento de acordo com o recurso adequado. O STF, por fora do princpio da fungibilidade, tem convertido embargos de declarao opostos objetivando reforma da deciso do relator, com carter infringente, em agravo regimental, que  o recurso cabvel. A aplicao do princpio depende da boa-f do recorrente, que  presumida, enquanto a m-f deve ser demonstrada, porm no h um conceito legal de m-f e, por ser um conceito aberto, indeterminado, permite a manipulao conceitual. A doutrina tem-se valido da casustica para reconhecer a m-f. Caracteriza a m-f o uso de recurso incabvel, mas com maior prazo, utilizado em razo da parte ter perdido o prazo do recurso cabvel. Por exemplo, o cabvel  o recurso em sentido estrito, cujo prazo para interposio  de trs dias contado da data da intimao da deciso ou da sua publicao ou leitura em pblica audincia, perdido o prazo de recorrer em sentido estrito, h m-f se a parte apelar no quarto dia se aproveitando de prazo de interposio de cinco dias;
+no entanto, se houver incerteza sobre o recurso cabvel e for utilizado recurso imprprio com maior prazo, ainda que interposto aps o trmino do prazo do recurso adequado, dever ser conhecido como adequado;
+13 o que no  admissvel  o recorrente perder o prazo para interpor o recurso adequado e utilizar a artimanha de empregar outro recurso inadequado dentro do prazo recursal;
+valer-se de recurso para escapar  coisa julgada formal ou lanar mo do recurso mais demorado para protelar o processo. Se houver incerteza quanto ao recurso cabvel, e o recurso interposto for imprprio, mas tempestivo, deve ser conhecido. De outro bordo, se no houver dvida quanto ao recurso cabvel e a parte, de m-f, se utilizar do recurso imprprio, de maior prazo, para superar a precluso do recurso adequado, no  adequada aplicao do princpio da fungibilidade. Os tribunais tm reconhecido m-f quando h erro grosseiro. O erro grosseiro, que  caracterizado pela afronta literal  lei, afasta a aplicao do princpio da fungibilidade.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STF aplica o princípio da fungibilidade para converter embargos de declaração em agravo regimental, desde que não haja má-f por parte do recorrente. A má-f é caracterizada pelo uso de recurso inadequado com maior prazo, para superar a preclusão do recurso adequado. O erro grosseiro, que é caracterizado pela afronta literal à lei, afasta a aplicação do princípio da fungibilidade.

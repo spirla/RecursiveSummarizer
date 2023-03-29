@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Roberto Barroso, julgamento virtual finalizado em 16.4.2021 (sexta-feira), as 23:59 (INF 1013) Escolha de membros da diretoria de sociedade empresaria estatal e extensao do sufragio aos inativos - ADI 2296/RS Resumo: E inconstitucional, formal e materialmente, norma estadual que permite a participacao de trabalhadores inativos no sufragio para a escolha de membros da diretoria de empresa publica. Do ponto de vista formal, a norma prevista na alinea e do inciso II do  1 do art. 61 da CF/88 (CF) assegura ao chefe do Poder Executivo a iniciativa de projeto de lei para dispor sobre a organizacao, a estrutura e as atribuicoes de seus orgaos e entidades. Destaca-se, ademais, que as normas relativas ao processo legislativo, notadamente aquelas que concernem a iniciativa legislativa, sao de observancia obrigatoria para estados, Distrito Federal e municipios. Sob o aspecto material, a legislacao estadual objeto de impugnacao e incompativel com a parte final do art. 7, XI, da CF. Isso porque a norma constitucional volta-se a protecao dos empregados, ou seja, daqueles que mantem vinculo de trabalho de natureza nao eventual com a sociedade empresaria, estando hierarquicamente subordinado a ela e percebendo salario, nos moldes preconizados pelo art. 3 da Consolidacao das Leis do Trabalho (Decreto-Lei 5.452/1943). Com base nesse entendimento, o Plenario, por unanimidade, julgou procedente pedido formulado em acao direta para declarar a inconstitucionalidade da Lei 11.446/2000 do Estado do Rio Grande do Sul. ADI 2296/RS, relator Min. Dias Toffoli, julgamento virtual finalizado em 1.10.2021 (sexta-feira), as 23:59 (INF 1032) Limitacao etaria para o ingresso na carreira da magistratura - ADI 6794/CE, ADI 6795/MS e ADI 6996/RO Resumo: E inconstitucional norma estadual que estabelece limites etarios para ingresso na magistratura.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional, formal e materialmente, norma estadual que permite a participação de trabalhadores inativos no sufrágio para a escolha de membros da diretoria de empresa pública. 2. É inconstitucional norma estadual que estabelece limites etários para ingresso na magistratura.

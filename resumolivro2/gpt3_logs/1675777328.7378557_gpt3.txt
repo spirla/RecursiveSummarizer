@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+A jurisdio  cumulativa se as autoridades judicirias de determinada circunscrio territorial so igualmente competentes para conhecer do fato, isto , quando se verifica que mais de um juiz tm a mesma competncia. A primeira regra determina que prevalecer a - competncia - do lugar da infrao, para a qual  cominada pena mais grave (alnea a). As penas privativas de liberdade so mais graves do que as restritivas de direitos (por exemplo, reforma). Se as penas privativas de liberdade forem da mesma espcie, a mais grave  a de maior durao, sendo de espcies diferentes recluso  mais grave do que deteno. Os processos correm em Auditorias com circunscries diferentes, mas entre eles h conexo ou continncia. Por exemplo:
+o crime cuja pena  mais grave foi distribudo  1 Auditoria da 3 CJM (Porto Alegre) e o crime cuja pena  menos grave foi distribudo  3 Auditoria da 3 CJM (Bag) haver unidade do processo e a fixao da competncia da 1 Auditoria da 3 CJM (Porto Alegre). Pela segunda regra do artigo 101, inciso II, prevalecer a - competncia - do lugar onde houver ocorrido o maior nmero de infraes, se as respectivas penas forem de igual gravidade (alnea b). Assim, a Auditoria cujo processo tiver maior nmero de infraes  a que ter competncia. No processo distribudo  Auditoria da cidade X so dois crimes de falsidade ideolgica, enquanto na Auditoria da cidade Y  imputado apenas um crime de falsidade ideolgica. Prevalecer a competncia da Auditoria da cidade X.
+Pela terceira regra do artigo 101, inciso II, do CPPM, no caso de concurso de jurisdies cumulativas firma-se a competncia pela preveno (alnea c) se as duas regras acima das alneas a e b no forem suficientes para determinar a unidade do processo. No caso de infraes conexas ou continentes, se houver concurso de jurisdio de diversas categorias, predominar a de maior graduao (artigo 101, III). O Superior Tribunal Militar e os Tribunais de Justia e de Justia Militar dos Estados so de maior graduao, portanto, prevalece a jurisdio deles, em caso de conexo ou continncia a implicar reunio de processos.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A jurisdição cumulativa ocorre quando mais de um juiz tem a mesma competência. A competência é determinada pelo lugar da infração, com a pena mais grave, ou pelo lugar onde houve o maior número de infrações, com penas de igual gravidade. Se houver concurso de jurisdições de diversas categorias, prevalecerá a de maior graduação, como o Superior Tribunal Militar e os Tribunais de Justiça e de Justiça Militar dos Estados.

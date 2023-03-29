@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Do sistema jurdico, extrai-se que o agente pblico no somente pode usar a violncia, como deve utiliz-la para realizar as finalidades essenciais da funo pblica que exerce. Imagine-se o caso em que o homicida, apanhado em meio  execuo do crime, demonstre disposio para resistir  interveno policial. No seria lcito ao nico policial presente no local deixar de intervir, permitindo, com isso, a morte da vtima, e realizar a priso do homicida apenas quando estivesse acompanhado de reforo policial. Muito embora o homicida esteja agredindo injustamente a vida de sua vtima, o que poderia justificar a conduta do policial por legtima defesa de terceiro, prevalece o dever legal de intervir sobre a faculdade de defender. A prevalncia do dever legal, no entanto, no permite menores cuidados para com a vida do homicida. Existindo tambm o dever legal de preservar os direitos do criminoso, a interveno do policial deve obedecer aos requisitos de necessidade e proporcionalidade estabelecidos pelo estrito cumprimento de sua atividade, sob pena de cometer excessos injustificados. Estrito cumprimento. A justificao que se fundamenta na existncia de dever legal no permite entender, contudo, que o ordenamento jurdico conferiu uma carta em branco aos destinatrios dos deveres legais para realizarem, sem restries, atos lesivos ao direito alheio. A permisso para a realizao da conduta est vinculada aos estritos limites da lei que instituiu o dever, e qualquer inobservncia desses limites importa na ilicitude da conduta.  comum assistirmos pela televiso a imagens que registram aes policiais que se desenvolvem para conter manifestaes pblicas ou prises de pessoas envolvidas na prtica de ilcitos. Lamentavelmente, algumas vezes,  possvel ver nessas imagens como a interveno inicialmente legtima do agente pblico acaba por ultrapassar os limites estabelecidos para o cumprimento do dever. A ao que realiza uma obrigao legal, inicialmente lcita, acaba por transformar-se em agresso injustificada de bens jurdicos. Nos casos que envolvem agresses fsicas, a inobservncia dos limites para a justificao  mais facilmente percebida. No entanto, os limites para o exerccio do dever legal devem ser apurados da necessria conciliao entre os diversos deveres que convergem ao sujeito, nas circunstncias do caso concreto. O fiel cumprimento de um dever legal pressupe observar limites estabelecidos pelos demais deveres.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O agente público deve usar a violência para cumprir sua função, mas deve observar os limites estabelecidos pelo ordenamento jurídico para evitar excessos injustificados. A ação deve ser realizada com a necessária conciliação entre os diversos deveres que convergem ao sujeito.

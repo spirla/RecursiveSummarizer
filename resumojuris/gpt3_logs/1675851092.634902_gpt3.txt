@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Pedido de prorrogacao do prazo. Possibilidade. Lei n. 11.671/2008. Necessidade de fundada motivacao pelo juizo de origem. Persistencia do motivo ensejador do pedido de transferencia originario. Fundamentacao suficiente. DESTAQUE Se devidamente motivado pelo Juizo estadual o pedido de manutencao de preso, em presidio federal, nao cabe ao Magistrado federal exercer juizo de valor sobre a fundamentacao apresentada, mas, apenas, aferir a legalidade da medida. Cinge-se a controversia a decidir a competencia para analise de pedido de prorrogacao de custodiado no Sistema Penitenciario Federal. A jurisprudencia desta Corte, tem compreendido que, se devidamente motivado pelo Juizo local o pedido de manutencao do apenado, em presidio federal, nao cabe ao Juizo Corregedor Federal exercer juizo de valor sobre a fundamentacao apresentada, mas, apenas, aferir a legalidade da medida (CC 154.679/RJ, Ministro Reynaldo Soares da Fonseca, Terceira Secao, DJe 24/10/2017). No caso, expirado o periodo de permanencia, o Juizo Federal determinou o retorno do apenado ao sistema penitenciario estadual, ante a inexistencia de decisao do magistrado estadual autorizando a prorrogacao da permanencia do apenado. Cientificado da decisao, o Juizo estadual suscitou o conflito, consignando que remanescem integros os fundamentos que subsidiaram o ingresso do apenado em carater emergencial. Por sua vez, o requerimento de prorrogacao esteve fundado em elementos concretos, notadamente a lideranca exercida pelo custodiado em organizacao criminosa e o risco que seu retorno representaria ao sistema penitenciario estadual, ante a existencia de indicios de que atuou ativamente na articulacao de ataques intra e extramuros.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível a prorrogação do prazo de custódia de um preso, desde que haja fundada motivação pelo juízo de origem. 2. Não cabe ao juízo federal exercer juízo de valor sobre a fundamentação apresentada para a prorrogação, mas apenas aferir a legalidade da medida. 3. O requerimento de prorrogação deve estar fundado em elementos concretos, como liderança exercida pelo custodiado em organização criminosa e risco que seu retorno representaria ao sistema penitenciário estadual.

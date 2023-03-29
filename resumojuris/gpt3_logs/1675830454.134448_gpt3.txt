@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Juizo de conformidade. Irrecorribilidade. Erro ou equivoco patente. Requerimento. DESTAQUE A decisao de retorno dos autos ao tribunal de origem, a fim de que la seja exercido o juizo de conformidade (arts. 1.040 e 1.041 do CPC/15) e irrecorrivel, salvo se demonstrado por meio de requerimento, efetivamente, erro ou equivoco patente. A jurisprudencia desta Corte posicionou-se no sentido da irrecorribilidade da decisao que determina a devolucao dos autos ao tribunal de origem, a fim de aguardar- se o julgamento de materia submetida a repercussao geral, isso porque se trata de decisao desprovida de carater decisorio (AgInt nos EDcl no AREsp 1.186.385/ES, Relator Ministro Og Fernandes, Segunda Turma, DJe 27/8/2018). Nos termos do art. 1.037,  9 e 10, do CPC/2015, a unica hipotese de alteracao da decisao de sobrestamento, a qual nao tem carater decisorio, seria a demonstracao, por meio de requerimento, de que a questao a ser decidida no processo e aquela a ser julgada no recurso extraordinario afetado seriam distintas. (Informativo  Ed. Especial n. 8) CPC/2015, arts. 1.037,  9 e 10, 1.040 e 1.041.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A decisão de retorno dos autos ao tribunal de origem, a fim de que lá seja exercido o juízo de conformidade, é irrecorrível, salvo se demonstrado por meio de requerimento, efetivamente, erro ou equívoco patente. 2. A jurisprudência desta Corte posicionou-se no sentido da irrecorribilidade da decisão que determina a devolução dos autos ao tribunal de origem, a fim de aguardar-se o julgamento de matéria submetida a repercussão geral, pois se trata de decisão desprovida de caráter decisório. 3. A única hipótese de alteração da decisão de sobrestamento, a qual não tem caráter decisório, seria a demonstracao, por meio de requerimento, de que a questão a ser decidida no processo e aquela a ser julgada no recurso extraordinário afetado seriam distintas.

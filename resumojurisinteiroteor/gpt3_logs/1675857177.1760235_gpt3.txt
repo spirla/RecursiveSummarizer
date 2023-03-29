@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Instrumental porque meio ou instrumento usado pelo juiz para compor o litgio, tcnico-opinativo em razo de se justificar quando necessria a opinio de especialista sobre o fato; e alicerce para a sentena, pois a percia ilumina o caminho do juiz que no tem o conhecimento especializado [POLASTRI, Marcellus. A prova penal. Salvador: Editora Juspodivm, 2018, p. 125]. Caracterstica fundamental da percia  que o perito emite um juzo de valor sobre os fatos, externando sua impresso sobre a possibilidade de terem sido causados por outros acontecimentos e de explicarem, justificarem ou virem a produzir outros. Os peritos, como explica Chiovenda, so pessoas chamadas a expor ao juiz no s as observaes de seus sentidos e suas impresses pessoais sobre os fatos observados, seno tambm as indues que se devem tirar objetivamente dos fatos observados ou que se lhes deem por existentes. Enquanto a prova testemunhal se decompe em observao e declarao, a percia  constituda de observao, avaliao e declarao. [BADAR, Gustavo Henrique. Processo Penal. So Paulo: Editora Revista dos Tribunais, 2014, p. 434]. Importa esclarecer que, no caso em curso, no se est falando de exame pericial, esse sim cabvel somente ao corpo de peritos. Dar um print screen numa tela de telefone celular, convenhamos, no exige conhecimento especializado algum. E note-se que o print screen representou, exata e to somente, o que estava na tela do celular, como resultado do dilogo mantido, no sendo necessrio que um perito venha a declarar se aquele dilogo aconteceu ou no. A propsito,  necessrio clarear que no foram s os dilogos entre o apelante e Danone que vieram aos autos como provas. Foram inmeros outros dilogos, com inmeros outros comparsas, formando um conjunto compacto, um mosaico de coerncia impossvel de ser rechaada. Para um pouco alm, sabe-se que a anulao de qualquer ato processual no ocorre mediante simples alegao da parte, sob pena de se violar o consagrado princpio francs do pas de nullit sans grief, adotado no direito ptrio e positivado no direito castrense atravs do artigo 499 do CPPM, com a redao que se repete idntica no art. 563 do Cdigo de Processo Penal comum. Vejam-se: 499. Nenhum ato judicial ser declarado nulo se da nulidade no resultar prejuzo para a acusao ou para a defesa. Com estes argumentos e ainda ancorado na pacfica jurisprudncia dos Tribunais superiores, que tm decidido no mesmo sentido, afasto a preliminar articulada pela defesa.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: A preliminar articulada pela defesa foi afastada com base na jurisprudência dos Tribunais Superiores e no princípio francês do pas de nullit sans grief, que proíbe a anulação de qualquer ato processual sem prejuízo para a acusação ou para a defesa.

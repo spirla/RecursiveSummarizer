@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Roberto Barroso, julgamento virtual finalizado em 14.5.2021 (sexta-feira), as 23:59 (INF 1017) Titularidade das receitas arrecadadas a titulo de imposto de renda retido na fonte - RE 1293453/RS (Tema 1130 RG) Tese fixada: Pertence ao Municipio, aos Estados e ao Distrito Federal a titularidade das receitas arrecadadas a titulo de imposto de renda retido na fonte incidente sobre valores pagos por eles, suas autarquias e fundacoes a pessoas fisicas ou juridicas contratadas para a prestacao de bens ou servicos, conforme disposto nos arts. 158, I, e 157, I, da CF/88. Resumo: Os entes municipais, estaduais e o Distrito Federal possuem direito ao produto da arrecadacao do imposto de renda retido na fonte, incidente sobre rendimentos pagos por eles e suas respectivas autarquias e fundacoes a pessoas fisicas ou juridicas contratadas para a prestacao de bens ou servicos. A analise dos dispositivos constitucionais que versam sobre a reparticao de receitas entre os entes federados, considerando o contexto historico em que elaborados, deve ter em vista a tendencia de descentralizacao dos recursos e os valores do federalismo de cooperacao, com vistas ao fortalecimento e autonomia dos entes subnacionais. Assim, o conceito constitucional de rendimentos, constante dos arts. 157, I, e 158, I, da CF/88 (CF), deve ser considerado de forma mais abrangente, e nao de forma restritiva. Alem disso, a expressao a qualquer titulo (CF, arts. 157, I, e 158, I) e suficientemente clara para afastar a pretensao do Fisco de limitar, por meio de ato normativo infraconstitucional [Codigo Tributario Nacional (CTN), art. 85, II], a reparticao da receita do imposto de renda retido na fonte. Com base nesse entendimento, o Plenario, ao julgar o Tema 1130 da repercussao geral, negou provimento a recurso extraordinario. RE 1293453/RS, relator Min.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Pertence aos entes municipais, estaduais e ao Distrito Federal a titularidade das receitas arrecadadas a título de imposto de renda retido na fonte incidente sobre valores pagos por eles, suas autarquias e fundações a pessoas físicas ou jurídicas contratadas para a prestação de bens ou serviços, conforme disposto nos arts. 158, I, e 157, I, da Constituição Federal de 1988. 2. O conceito constitucional de rendimentos, constante dos arts. 157, I, e 158, I, da Constituição Federal de 1988, deve ser considerado de forma mais abrangente, e não de forma restritiva. 3. A expressão "a qualquer título" (Constituição Federal de 1988, arts. 157, I, e 158, I) é suficientemente clara para afastar a pretensão do Fisco de limitar, por meio de ato normativo infraconstitucional [Código Tributário Nacional (CTN), art. 85, II], a repartição da receita do imposto de renda retido na fonte.

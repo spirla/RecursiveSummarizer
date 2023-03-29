@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+5-A da Lei n. 12.037/2009. Incluido pela Lei n. 12.654/2012. Ausencia de consentimento. Material nao descartado. Pessoas definitivamente nao condenadas. Coleta ilegal. Direito a nao autoincriminacao. Recurso Extraordinario 973.837/MG. Repercussao Geral n. 905/STF. DESTAQUE E nula, para fins de identificacao criminal, a coleta compulsoria de material organico nao descartado de pessoas definitivamente nao condenadas. O Supremo Tribunal Federal reconheceu a existencia de repercussao geral na questao constitucional aludida no Recurso Extraordinario 973.837/MG (Tema n. 905/STF), em relacao ao art. 9-A da Lei n. 7.210/1984, que preve a identificacao e o armazenamento de perfis geneticos de condenados por delitos violentos ou hediondos em banco de dados estatal.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É nula, para fins de identificação criminal, a coleta compulsória de material orgânico não descartado de pessoas definitivamente não condenadas. 2. O Supremo Tribunal Federal reconheceu a existência de repercussão geral na questão constitucional aludida no Recurso Extraordinário 973.837/MG (Tema n. 905/STF), em relação ao art. 9-A da Lei n. 7.210/1984. 3. O art. 9-A da Lei n. 7.210/1984 prevê a identificação e o armazenamento de perfis genéticos de condenados por delitos violentos ou hediondos em banco de dados estatal.

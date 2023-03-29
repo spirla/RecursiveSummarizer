@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Equimose arroxeada infra-orbitria bilateral. Equimose em cristalino do olho direito. Escoriao em regio infra-orbitria a esquerda. Edema em regio da base do nariz. Quanto ao ofendido Thaylon, o laudo atestou que "o periciado apresentou ferida contusa em superclio direito e equimose em regio supra- orbitria a direita. Escoriao em ombro direito e edema em mo direita. Sem dficit motor. Sem queixas visuais. Segundo o Ministrio Pblico, as leses constatadas nos laudos periciais so resqucios fsicos decorrentes das agresses praticadas pelos apelados. Alega que os edemas, as escoriaes e as equimoses so causados por meio de ofensa contundente, que, in casu, consistiu nos socos, chutes e pontaps desferidos pelos apelados. Disse que as vtimas apresentaram, em sede de Inqurito Policial Militar (IPM), declaraes harmnicas e consistentes, confirmando-as em juzo. Alega que a testemunha Maria das Graas Rodrigues Silva, dona da residncia em que se deram os fatos, presenciou e descreveu as agresses praticadas contra Thaylon. A testemunha, ainda, declarou ter visto Kaio desacordado e ensanguentado no interior da sua casa. Segundo o Ministrio Pblico, a prova pericial e os relatos dos civis, sobretudo se analisados em conjunto, comprovam a autoria e a materialidade delitivas. Por conseguinte, afirma que os apelados devem ter sua pena aumentada. Quanto ao Cb PM Gensio Machado Alves, disse que a pena-base foi fixada em 1 (um) ano e 10 (dez) meses de recluso, tendo o magistrado considerado desfavorveis as seguintes circunstncias: gravidade do crime praticado, intensidade do dolo, circunstncias de tempo e lugar, motivos determinantes do crime e a atitude do ru aps o crime. Alega que a pena foi desproporcional em relao  gravidade do crime praticado, principalmente se considerando a severidade das leses sofridas pelos ofendidos. Cita trecho do depoimento prestado pela testemunha Maria das Graas - onde ela alega que kaio sangrava muito e estava com o rosto desfigurado [...] -, concluindo que deveria ter sido valorada negativamente em desfavor do apelado a circunstncia relativa  extenso do dano ou perigo do dano. Alega que as agresses ocorreram no interior da residncia de um dos ofendidos, sendo presenciada por familiares deste, a quem a conduta tambm atingiu de forma mediata. Afirma que o ofendido Kaio experimentou prejuzos estticos e incapacidade laboral por mais de trinta dias. Isto posto, afirma que a pena-base do apelado Gensio deve ser aumentada, pois deve ser aplicada a agravante prevista no art.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Ministério Público alega que as lesões constatadas nos laudos periciais são consequências das agressões praticadas pelos apelados, e que as provas comprovam a autoria e materialidade delitivas. O Ministério Público requer aumento da pena-base do apelado Gensio, considerando a gravidade do crime praticado, a intensidade do dolo, as circunstâncias de tempo e lugar, os motivos determinantes do crime e a extensão do dano ou perigo do dano.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A ao penal deve ser compreendida segundo as regras do Direito Penal ou Processual?. Aloysio de Carvalho Filho j afirmou que a ao penal significa, pois, o exerccio de uma acusao, que indica o autor de determinado crime, responsabilizando-o, e pedindo, para ele, a punio prevista em lei. Conceituar a ao penal como o exerccio da acusao, no entanto,  simplificar o instituto em demasia. Hoje,  clara a noo de que a ao penal no somente possui contedo condenatrio, prestando-se tambm a instrumentalizar outras formas de tutela jurisdicional. O entendimento que se consolidou na doutrina sustenta que a ao penal  o direito de se invocar a prestao jurisdicional, vale dizer, direito de se pleitear do Estado-Juiz a composio de um litgio, o que se faz com a aplicao da lei que disciplina a matria. A definio da ao penal como direito de invocar-se a prestao jurisdicional  mais enriquecido, mas no possibilita distinguir o direito do instrumento que permite sua realizao. Por isso,  melhor utilizar a expresso ao penal no sentido de instrumento pelo qual o autor exerce o direito de invocar a prestao jurisdicional. O direito de provocar e receber a prestao jurisdicional  um direito instrumental, que serve ao propsito de bem realizar as prescries do Direito Penal. Nas palavras de Frederico Marques,. a ao penal  o instrumento de aplicao do Direito Penal objetivo no tocante a uma situao concreta consubstanciada na pretenso punitiva. A ao penal no  consequncia dessa pretenso, e, sim, o instrumento ou meio para que os rgos jurisdicionais profiram uma deciso sobre a acusao formulada em juzo. Portanto, se hoje  vlida a noo de ao como instrumento de provocao da jurisdio, no mais parece ser adequado vincular o exerccio da ao penal a uma acusao. Com os novos institutos da justia consensual, ficou ainda mais evidente que a provocao da jurisdio nem sempre tem como fundamento um pedido de exame sobre o mrito de uma acusao. Na ao de habeas corpus, pode-se perceber que a ao penal no tem contedo condenatrio. De igual forma, no pedido de arquivamento do inqurito policial, tem-se jurisdio sem acusao. Agora, tratando-se de crime de pequeno potencial ofensivo, quando o Ministrio Pblico prope aplicao imediata de pena no privativa de liberdade, tambm se tem exerccio do direito de ao.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao penal o direito de se invocar a prestao jurisdicional, ou seja, o direito de se pleitear do Estado-Juiz a composio de um litgio. Hoje, a ao penal possui contedo condenatrio e instrumentaliza outras formas de tutela jurisdicional, como o habeas corpus e o arquivamento do inqurito policial. Além disso, também se exerce o direito de ação no caso de crimes de pequeno potencial ofensivo.

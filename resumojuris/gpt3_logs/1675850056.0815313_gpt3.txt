@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No entanto, praticas como a evidenciada no processo objeto deste recurso so se perpetuam porque, a pretexto de combater a criminalidade, encontram respaldo e chancela, tanto de delegados de policia, quanto de representantes do Ministerio Publico - a quem compete, por excelencia, o controle externo da atividade policial (art. 129, VII, da CF/88) e o papel de custos iuris -, como tambem, em especial, de segmentos do Poder Judiciario, ao validarem medidas ilegais e abusivas perpetradas pelas agencias de seguranca. Nessa direcao, o Manual do Conselho Nacional de Justica para Tomada de Decisao na Audiencia de Custodia orienta a que: Reconhecendo o perfilamento racial nas abordagens policiais e, consequentemente, nos flagrantes lavrados pela policia, cabe entao ao Poder Judiciario assumir um papel ativo para interromper e reverter esse quadro, diferenciando-se dos atores que o antecedem no fluxo do sistema de justica criminal . 1277 No caso, a guarnicao policial deparou com um individuo desconhecido em atitude suspeita e, ao aborda-lo e revistar sua mochila, encontrou porcoes de maconha e cocaina em seu interior, do que resultou a prisao em flagrante do recorrente. Nao foi apresentada nenhuma justificativa concreta para a revista no recorrente alem da vaga mencao a uma suposta atitude suspeita , algo insuficiente para tal medida invasiva, conforme a jurisprudencia deste Superior Tribunal, do Supremo Tribunal Federal e da Corte Interamericana de Direitos Humanos. (Informativo n. 735) PROCESSO AgRg no HC 626.529-MS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 26/04/2022, DJe 03/05/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Prisao em flagrante. Ministerio Publico. Manifestacao pela concessao de liberdade provisoria com pagamento de fianca. Magistrado que impos cautelar de recolhimento noturno.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É competência do Ministério Público o controle externo da atividade policial (art. 129, VII, da CF/88) e o papel de custos iuris. 2. É necessário que o Poder Judiciário assuma um papel ativo para interromper e reverter o perfilamento racial nas abordagens policiais. 3. É insuficiente a vaga menção a uma suposta atitude suspeita para justificar uma medida invasiva, conforme a jurisprudência do Superior Tribunal, do Supremo Tribunal Federal e da Corte Interamericana de Direitos Humanos.

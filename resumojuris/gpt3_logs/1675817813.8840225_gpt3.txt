@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+E inconstitucional regra que autoriza estado indeterminado de prorrogacao automatica de licen-ca ambiental. No ponto, o legislador foi insuficiente em sua regulamentacao, uma vez que nao disciplinou qualquer consequencia para a hipotese da omissao ou mora imotivada e desproporcional do orgao ambiental diante de pedido de renovacao de licenca ambiental. Deve incidir o mesmo resultado normativo previsto para a hipo-tese de omissao do agir administrativo no processo de licenciamento, eis que o legislador ofereceu resposta adequada, consistente na atuacao supletiva de outro ente federado (LC 140/2011, art. 15). No exercicio da cooperacao administrativa cabe atuacao suplementar  ainda que nao conflitiva  da Uniao com a dos orgaos estadual e municipal. Nesse contexto, o criterio da prevalencia de auto de infracao do orgao licenciador (LC 140/2011, art. 17,  3) nao oferece resposta aos deveres fundamentais de protecao, nas situacoes de omissao ou falha da atuacao daquele orgao na atividade fiscalizatoria e sancionatoria, por insuficiencia ou inadequacao da medida adotada para prevenir ou reparar situacao de ilicito ou dano ambiental. Com base nesses e em outros entendimentos, o Plenario, por unanimidade, julgou improcedentes os pedidos de declaracao de inconstitucionalidade dos arts. 4, V e VI, 7, XIII, XIV, h, XV e paragrafo unico, 8, XIII e XIV, 9, XIII e XIV, 14,  3, 15, 17, caput e  2, 20 e 21, todos da LC 140/2011 e, por arrastamento, da integralidade da legislacao; e julgou parcialmente procedente a acao para conferir interpretacao conforme a CF/88: (i) ao  4 do art. 14 da LC 140/2011, para o fim de estabelecer que a omissao ou mora administrativa imotivada e desproporcional na manifestacao definitiva sobre os pedidos de renovacao de licen-cas ambientais instaura a competencia supletiva do art. 15; e (ii) ao  3 do art.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É inconstitucional regra que autoriza estado indeterminado de prorrogação automática de licença ambiental. 2. A omissão ou mora administrativa imotivada e desproporcional na manifestação definitiva sobre os pedidos de renovação de licenças ambientais instaura a competência supletiva do art. 15 da LC 140/2011. 3. O critério da prevalência de auto de infração do órgão licenciador não oferece resposta aos deveres fundamentais de proteção, nas situações de omissão ou falha da atuação daquele órgão na atividade fiscalizatória e sancionatória.

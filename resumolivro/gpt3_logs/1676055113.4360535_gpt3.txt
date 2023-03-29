@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O artigo 207 do Cdigo de Processo Penal determina que so proibidas de depor as pessoas que, em razo de funo, ministrio, ofcio ou profisso, devam guardar segredo, salvo se, desobrigadas pela parte interessada, quiserem dar o seu testemunho. No mesmo sentido, o inciso II do artigo 406 do Cdigo de Processo Civil dispensa a testemunha de depor sobre assuntos que, em razo da profisso, deva guardar sigilo. Especificamente em relao ao sigilo das informaes obtidas no contexto da atividade mdica, o pargrafo nico do artigo 73 do Cdigo de tica Mdica afirma que permanece a proibio de revelar a informao: a) mesmo que o fato seja de conhecimento pblico ou o paciente tenha falecido; b) quando de seu depoimento como testemunha. Nessa hiptese, o mdico comparecer perante a autoridade e declarar seu impedimento; c) na investigao de suspeita de crime, o mdico estar impedido de revelar segredo que possa expor o paciente a processo penal. Mesmo havendo previso para que o mdico preserve o sigilo da informao obtida no exerccio de sua atividade, em muitos casos a ponderao dos interesses em conflito pode indicar a adequao do sacrifcio  proteo estabelecida ao sigilo da informao. Consideremos a hiptese em que a informao do mdico, prestada em investigao criminal, possa evitar a ocorrncia de crime de homicdio. O interesse maior da preservao da vida evidenciar a adequao do sacrifcio  tutela da intimidade e a impossibilidade de imputar a violao da norma subjacente ao tipo previsto no artigo 154 do Cdigo Penal. Importa notar, ainda, que o artigo 74 do Estatuto de tica Mdica tambm veda ao mdico revelar sigilo profissional relacionado ao paciente menor de idade, inclusive a seus pais ou representantes legais, desde que o menor tenha capacidade de discernimento, salvo quando a no revelao possa acarretar dano ao paciente. A ressalva expressamente estabelecida ao dever de sigilo, novamente, se fundamenta em justa causa: a possibilidade da ocorrncia de dano ao paciente. Havendo perigo ao menor, deve o mdico informar a situao aos seus responsveis e a revelao da informao no permite a imputao objetiva do crime de violao de segredo profissional. Mas, para fins criminais, a noo de justa causa no est restrita aos casos em que a revelao possa evitar danos ao paciente.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 207 do Código de Processo Penal e o inciso II do artigo 406 do Código de Processo Civil proíbem a testemunha de depor sobre assuntos que, em razão da profissão, devam ser guardados em sigilo. O pargrafo único do artigo 73 do Código de Ética Médica também veda ao médico revelar informações obtidas no exercício da profissão, salvo quando a não revelação possa acarretar dano ao paciente.

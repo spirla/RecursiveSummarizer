@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+A concorrncia de causas  tema que desafia o legislador a resolver, politicamente, a questo da responsabilidade penal. Todas as causas produziram a violao da norma e autorizam a responsabilizao? Ou somente algumas? Nesse ltimo caso, quais causas autorizam a responsabilizao? Para essas indagaes, o legislador teve que apresentar uma soluo jurdica (poltica) que restringe os efeitos da teoria da equivalncia dos antecedentes. A soluo acolhida se fundamenta em critrio de natureza ontolgica, que desafia examinar se, dentre as diversas condutas, alguma produziu isoladamente o resultado naturalstico. No Cdigo Penal brasileiro, o pargrafo 1 do artigo 13 acolhe frmula restritiva dos efeitos da teoria da equivalncia, em franca concesso  teoria da causalidade qualificada. Segundo o mencionado dispositivo, a supervenincia de causa relativamente independente exclui a imputao quando, por si s, produziu o resultado; os fatos anteriores, entretanto, imputam-se a quem os praticou. Fica evidente aqui que, em relao  primeira causa (antecedente), a imputao do resultado mais grave no acontece. Nos termos da equivalncia dos antecedentes, a causalidade se apresentaria. A imputao, no entanto,  afastada pela relevncia da causa superveniente. Vale observar que o pargrafo 1 no acolheu a teoria da causalidade adequada, com seu mtodo de valorao abstrata e apreciao da contribuio ex ante. De maneira expressa, o dispositivo que trata da supervenincia de causas preocupou-se em identificar a causa que, por si s, produziu o resultado. Uma avaliao de causa que produziu o resultado indica valorao concreta, ex post. O dispositivo legal ora em exame enfrenta a situao mais complexa, que poderia deixar dvidas, mas estabelece princpio de aplicao geral. Ao definir a soluo do problema para a hiptese de supervenincia de causa relativamente independente, o dispositivo tambm estabelece como devem ser resolvidas todas as demais questes relativas  concorrncia de causas. O princpio a ser extrado da previso legal  que a excluso da imputao s  possvel quando uma das causas tiver produzido sozinha o resultado naturalstico. Essa causa, por assim dizer, rouba o resultado das demais. Somente quando uma das causas produz sozinha o resultado naturalstico  que se tem por excluda a imputao para as demais. Como expressamente determina o dispositivo, permanece a imputao em relao aos resultados at ento produzidos pelos atos anteriores.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O legislador brasileiro adotou uma solução jurdica para restringir os efeitos da teoria da equivalência dos antecedentes, baseando-se em critério ontológico. O artigo 13 do Código Penal acolhe a teoria da causalidade qualificada, excluindo a imputação quando uma das causas produziu sozinha o resultado naturalístico.

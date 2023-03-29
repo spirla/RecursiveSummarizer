@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Validade. Observancia do art. 5,  1 e 3, da Lei n. 11.419/2006. DESTAQUE Havendo requerimento proprio neste sentido, a intimacao efetivada por meio eletronico do Ministerio Publico nao viola sua prerrogativa de ser pessoalmente intimado. O cerne da controversia diz respeito a validade de intimacao eletronica, o que violaria a prerrogativa do Ministerio Publico de ser pessoalmente intimado. 1162 No caso, o Ministerio Publico Estadual foi incluido, a requerimento proprio, no Portal de Intimacao do STJ; em razao disso, foi intimado, pessoalmente e de forma eletronica. Dessa forma, nao ha falar em ausencia de intimacao pessoal ou de violacao da prerrogativa do Ministerio Publico, pois, conforme o disposto no art. 5,  1 e 3, da Lei n. 11.419/2006, a intimacao eletronica considera- se realizada no dia em que efetivada a consulta eletronica, em ate 10 dias, contados da data do seu envio, sob pena de considerar-se realizada automaticamente na data do termino do prazo, regras aplicaveis ao Ministerio Publico, em observancia aos principios da igualdade das partes e do devido processo legal (EDcl nos EDcl no REsp 1623985/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 11/11/2019) (AgRg nos EDcl no AREsp 1.637.160/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 10/06/2020). Cumpre lembrar que a tese fixada no julgamento do REsp 1.349.935/SE, submetido a sistematica dos repetitivos - a saber, a de que o termo inicial da contagem do prazo para impugnar decisao judicial e, para o Ministerio Publico, a data da entrega dos autos na reparticao administrativa do orgao, sendo irrelevante que a intimacao pessoal tenha se dado em audiencia, em cartorio ou por mandado -, nao foi construida sob a perspectiva das intimacoes realizadas nos processos eletronicos, conforme os regramentos do art. 5,  1 e 3, da Lei n. 11.419/2006 (AgRg no REsp n. 1.827.505/MS, relator Ministro Jorge Mussi, Quinta Turma, DJe de 17/09/2019).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A intimação efetivada por meio eletrônico do Ministério Público não viola sua prerrogativa de ser pessoalmente intimado, desde que haja requerimento proprio neste sentido. 2. A validade da intimação eletrônica é assegurada pelo art. 5, 1 e 3, da Lei n. 11.419/2006. 3. A tese fixada no julgamento do REsp 1.349.935/SE, de que o termo inicial da contagem do prazo para impugnar decisão judicial e, para o Ministério Público, a data da entrega dos autos na repartição administrativa do órgão, não se aplica às intimações realizadas nos processos eletrônicos, conforme os regramentos do art. 5, 1 e 3, da Lei n. 11.419/2006.

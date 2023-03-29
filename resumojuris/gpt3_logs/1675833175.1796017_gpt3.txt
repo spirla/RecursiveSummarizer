@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No ponto, assiste razao ao amicus curiae Instituto Brasileiro de Direito Processual - IBDP, quando afirma que esse dado ja foi levado em consideracao pelo legislador, que previu 'a natureza e a importancia da causa' como um dos criterios para a determinacao do valor dos honorarios (art. 85,  2, III, do CPC), limitando, porem, a discricionariedade judicial a limites percentuais. Assim, se tal elemento ja e considerado pelo suporte fatico abstrato da norma, nao e possivel utiliza-lo como se fosse uma condicao extraordinaria, a fim de afastar a incidencia da regra . Identico raciocinio se aplica a hipotese de trabalho reduzido do advogado vencedor, uma vez que tal fator e considerado no suporte fatico abstrato do art. 85,  2, IV, do CPC/2015 ( o trabalho realizado pelo advogado e o tempo exigido para o seu servico ). Cabe ao autor - quer se trate do Estado, das empresas, ou dos cidadaos - ponderar bem a probabilidade de ganhos e prejuizos antes de ajuizar uma demanda, sabendo que tera que arcar com os honorarios de acordo com o proveito economico ou valor da causa, caso vencido. O valor dos honorarios sucumbenciais, portanto, e um dos fatores que deve ser levado em consideracao no momento da propositura da acao. E muito comum ver no STJ a alegacao de honorarios excessivos em execucoes fiscais de altissimo valor posteriormente extintas. Ocorre que tais execucoes muitas vezes sao propostas sem maior escrutinio, dando-se a extincao por motivos previsiveis, como a flagrante ilegitimidade passiva, o cancelamento da certidao de divida ativa, ou por estar o credito prescrito. Ou seja, o ente publico aduz em seu favor a simplicidade da causa e a pouca atuacao do causidico da parte contraria, mas olvida o fato de que foi a sua falta de diligencia no momento do ajuizamento de um processo natimorto que gerou a condenacao em honorarios. O Poder Judiciario nao pode premiar tal postura.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O legislador previu a natureza e a importância da causa como um dos critérios para a determinação do valor dos honorários, limitando a discricionariedade judicial a limites percentuais. 2. O trabalho realizado pelo advogado e o tempo exigido para o seu serviço são considerados no suporte fático abstrato do art. 85, 2, IV, do CPC/2015. 3. O autor deve ponderar bem a probabilidade de ganhos e prejuízos antes de ajuizar uma demanda, sabendo que terá que arcar com os honorários de acordo com o proveito econômico ou valor da causa, caso vencido. 4. O Poder Judiciário não pode premiar a postura de ajuizar processos natimortos que geram condenação em honorários.

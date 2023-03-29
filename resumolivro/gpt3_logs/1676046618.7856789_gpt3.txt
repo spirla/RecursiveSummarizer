@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+O Cdigo Penal alemo de 1943 e sua reforma de 1975 previram dispositivos legais que autorizavam a punio do partcipe, mesmo quando o autor no fosse culpvel. A teoria do favorecimento ou da causao, por sua vez, tentou explicar a punio do partcipe com base em sua prpria conduta. Tal teoria sustenta que a participao consiste na provocao causal de uma leso punvel do bem jurdico. O partcipe teria causado ou favorecido, pessoalmente, a leso ao bem jurdico. A punio do partcipe decorreria de sua prpria conduta, a qual, material ou psiquicamente, contribuiu para a ocorrncia da leso ao bem jurdico. Cezar Bitencourt afirma que essa  a teoria predominante na Alemanha, Espanha e tambm entre ns. No entanto, a teoria do favorecimento, da mesma forma que a teoria da participao na culpabilidade, procurou explicar apenas o contedo do comportamento do partcipe, mas no resolveu a questo fundamental sobre o porqu de ele ser punido. Importa perceber que o fundamento da responsabilidade do partcipe deve ser um fundamento jurdico. A responsabilidade penal tem como pressuposto fundamental a violao da norma jurdica e, portanto, interessa saber quem violou a norma. Todos os que violam a norma devem suportar o nus que lhes  imposto pela responsabilidade. Se autores e partcipes violarem a norma, devero ser responsabilizados. Na perspectiva da teoria formal-objetiva, a punio do partcipe, que no pratica atos tpicos, exigiu maior esforo explicativo. A relevncia jurdica da conduta  estabelecida pelo verbo ncleo do tipo penal incriminador. Por no praticar atos descritos como proibidos, parece no haver fundamento jurdico para a punio do partcipe. Com a consagrao da teoria do domnio do fato, no entanto, o problema do fundamento da punio do partcipe deve ser visto sob outro enfoque. A formalidade do tipo no  mais importante para a definio da autoria. O autor da violao  norma jurdica  aquele que domina o fato e orienta-o, segundo sua finalidade, em sentido contrrio ao disposto pela norma jurdica. Agora, a relevncia jurdica da conduta  definida pelo poder de domnio do fato que se apresenta contrrio  norma. Nessa nova perspectiva, pode-se perceber que o partcipe tambm viola a norma, apesar de no deter o domnio do fato. Como o autor detm o domnio do fato, nem sempre realiza pessoalmente a conduta descrita no tipo penal (pode, por exemplo, mandar que o partcipe o faa).
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código Penal alemão de 1943 e sua reforma de 1975 previram dispositivos legais que autorizam a punição do partícipe, mesmo que o autor não seja culpado. A teoria do favorecimento ou da causao explica a punição do partícipe com base em sua própria conduta, já que teria causado ou favorecido a lesão ao bem jurídico. A teoria formal-objetiva exige maior esforço explicativo para punir o partícipe, já que não praticou atos típicos. Porém, com a consagração da teoria do domínio do fato, o partícipe também viola a norma, pois mesmo que não detenha domínio do fato, o autor detém e orienta-o de forma contrária à norma.

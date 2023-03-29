@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Aumento da pena-base. Afastamento da minorante do art. 33,  4, Da Lei n. 11.343/2006. Impossibilidade. Bis in idem. Configuracao. DESTAQUE A utilizacao da quantidade e a natureza das drogas apreendidas tanto para exasperar a pena-base quanto para afastar a aplicacao da minorante do trafico de drogas dito privilegiado, sendo o unico fundamento apontado pela Corte de origem para rechacar a redutora legal, configura indevido bis in idem. 774 A utilizacao da quantidade e a natureza das drogas apreendidas tanto para exasperar a pena-base quanto para afastar a aplicacao da minorante do trafico de drogas dito privilegiado, sendo o unico fundamento apontado pela Corte de origem para rechacar a redutora legal, configura indevido bis in idem. A mais recente orientacao da Terceira Secao do STJ e de que a quantidade de substancia entorpecente e a sua natureza hao de ser consideradas na fixacao da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, nao sendo, portanto, pressuposto para a incidencia da causa especial de diminuicao de pena descrita no art. 33,  4, da Lei n. 11.343/2006. Com efeito, a quantidade e natureza do material toxico somente poderao justificar o afastamento do beneficio de forma supletiva e quando o contexto em que se deu a sua apreensao evidenciar a dedicacao a atividade criminosa.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É possível aumentar a pena-base, desde que não se configure o bis in idem. 2. A quantidade e a natureza das drogas apreendidas devem ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006. 3. A quantidade e a natureza do material tóxico somente podem justificar o afastamento do benefício de forma supletiva e quando o contexto em que se deu a sua apreensão evidenciar a dedicação a atividade criminosa.

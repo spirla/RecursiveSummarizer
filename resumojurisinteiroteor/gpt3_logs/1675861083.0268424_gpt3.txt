@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Sobre a incompetncia absoluta, trago os ensinamentos de Ada Pellegrini Grinover, Antnio Magalhes Gomes Filho e Antnio Scarance Fernandes: Nos casos de competncia determinada segundo o interesse pblico, o sistema jurdico-processual no tolera modificaes nos critrios estabelecidos, muito menos em virtude da vontade das partes. Trata-se a de competncia absoluta, isto , que no pode ser modificada. Iniciado o processo perante o juiz incompetente, este pronunciar a incompetncia, a qualquer tempo e independentemente de alegao das partes (art.109 do CPP), enviando os autos ao juiz competente. E, segundo o Cdigo, todos os atos decisrios sero nulos pelo vcio de incompetncia, salvando-se os demais atos do processo, aproveitados pelo juiz competente (art.567 do CPP). (As nulidades do processo penal. 11.ed. So Paulo: Revista dos Tribunais, 2009. p.38) Na mesma esteira,  oportuno destacar que o Superior Tribunal de Justia assentou o entendimento da incidncia imediata da Lei n. 13.491/2017 nos fatos perpetrados antes do seu advento, em observncia ao princpio tempus regit actum, bem como tambm sedimentou o entendimento de que, tratando-se de competncia absoluta e em razo da ausncia de mrito, deve ser afastada a incidncia da regra da perpetuao da jurisdio, prevista no art. 43 do Cdigo de Processo Civil (CPC), aplicada subsidiariamente ao processo penal, seno vejamos: AGRAVO REGIMENTAL EM RECURSO ORDINRIO EM HABEAS CORPUS. COMPETNCIA JUSTIA MILITAR X JUSTIA COMUM. FRAUDE PROCESSUAL (ART. 347, CP) CONEXA A HOMICDIO DE CIVIL. DELITOS PRATICADOS POR POLICIAIS MILITARES DA ATIVA EM SERVIO. DESMEMBRAMENTO DO FEITO OBRIGATRIO A DESPEITO DA CONEXO: ART. 79, I, CPP E SMULA 90/STJ. SUJEITOS PASSIVOS DA FRAUDE PROCESSUAL: ESTADO E PESSOA PREJUDICADA PELA INOVAO ARTIFICIOSA. DELITO QUE SE ENQUADRA NO CONCEITO DE CRIME MILITAR PREVISTO NO ART. 9, II, "C", DO CDIGO PENAL MILITAR (NA REDAO DA LEI 13.491/2017). COMPETNCIA DA JUSTIA MILITAR. AGRAVO REGIMENTAL DESPROVIDO. 1.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Superior Tribunal de Justia assentou o entendimento de que, tratando-se de competência absoluta, deve ser afastada a incidência da regra da perpetuação da jurisdição, prevista no art. 43 do Código de Processo Civil. O delito se enquadra no conceito de crime militar previsto no art. 9, II, "C", do Código Penal Militar, sendo a competência da Justiça Militar.

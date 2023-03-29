@@ -1,0 +1,19 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+ Pedido de postergacao de reuniao agendada ou refazimento de reuniao realizada, sob o argumento da impossibilidade de comparecimento do advogado constituido, tendo em vista outro compromisso profissional existente
+Aplica-se a essa situacao o entendimento do STJ de que a impossibilidade de comparecimento de advogado a audincia instrutoria aprazada, ainda que justificada, nao implica, de per si, na postergacao do ato. Sobrevindo a impossibilidade de participacao de qualquer dos advogados constituidos a audincia instrutoria designada, sua ausncia pode ser suprida pelos demais profissionais habilitados nos autos, ou ainda por defensor ad hoc, conforme estatui o artigo 265, paragrafo 2, do Codigo de Processo Penal. Ademais, o advogado constituido pelo acusado pode, tambem, utilizar-se, nesse caso, do instituto do substabelecimento. Enfim, esses foram apenas alguns exemplos corriqueiros de pedidos protelatorios e impertinentes. Outrossim, importante destacar que a CPAD deve partir do pressuposto de que a regra e o atendimento aos pedidos de defesa e, como excecao, o seu indeferimento se dara quando devidamente motivado e fundamentado, com argumentos de fato e de direito, cuja decisao constara dos autos e a defesa sera formalmente notificada. Nesse sentido, sobre a necessidade de se buscar privilegiar e defesa, quando do pedido justificado, assim manifestou o TJM-MG:
+AGRAVO DE INSTRUMENTO - PEDIDO DE ADIAMENTO DA INQUIRICAO DE TESTEMUNHAS EM PROCESSO ADMINISTRATIVO-DISCIPLINAR EM RAZAO DA IMPOSSIBILIDADE DO COMPARECIMENTO DAS DEFENSORAS CONSTITUIDAS - AUSNCIA JUSTIFICADA - RECURSO PROVIDO. (TJM-MG: Agravo de Instrumento - Proc. 0800075-58.2018.9.13.0000, Rel. Juiz Fernando Armando Ribeiro, julgamento 11/12/2018)
+5 passo - Audicao da vitima
+Caso exista vitima, esta deve ser, em regra, salvo justo motivo devidamente comprovado pela CPAD, a primeira pessoa a ser inquirida apos o interrogatorio do acusado.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O STJ entende que a impossibilidade de comparecimento de advogado a audincia instrutoria não implica, por si só, na postergacao do ato. A CPAD deve privilegiar a defesa e, caso exista vitima, esta deve ser a primeira pessoa a ser inquirida, salvo justo motivo devidamente comprovado.

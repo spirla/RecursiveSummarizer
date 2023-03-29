@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+316 Sobre o principio da oficialidade, nas precisas licoes de Maria Sylvia Zanella Di Pietro, em seu artigo Limites da utilizacao de principios do processo judicial no processo administrativo, Muito antes de serem promulgadas a Lei de Processo Administrativo na esfera federal e algumas leis estaduais e municipais sobre essa materia, o principio da oficialidade ja estava consagrado pela doutrina do direito administrativo, como prerrogativa da Administracao Publica para, de oficio, instaurar o processo, fazer a sua instrucao, sua impulsao, sua revisao. (...) O principio da oficialidade autoriza a Administracao a requerer diligncias, investigar fatos de que toma conhecimento no curso do processo, solicitar pareceres, laudos e informacoes, bem como rever os proprios atos e praticar tudo o que for necessario a apuracao dos fatos e a correta aplicacao da lei. A oficialidade esta presente: (1) no poder de iniciativa para instaurar o processo; (II) na instrucao do processo; e (III) na revisao de suas decisoes. Decorrente do principio da oficialidade, o principio da verdade material ou da verdade real exprime que a Administracao deve tomar decisoes com base nos fatos tais como se apresentam na realidade, nao se satisfazendo com a versao oferecida pelos sujeitos. Para tanto, tem o direito e o dever de carrear para o expediente todos os dados, informacoes, documentos a respeito da materia tratada, sem estar jungida aos aspectos suscitados pelos sujeitos (DI PIETRO, 2013, p. 8, grifo nosso). 317 Aprovado pela Lei Complementar 962, de 30 de dezembro de 2020. 318 Sobre os efeitos do parecer discordante do CEDMU, vide comentarios ao artigo 84 deste Codigo. 319 Aprovado pela Lei 19.969, de 11 de janeiro de 2018.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O principio da oficialidade autoriza a Administração Pública a instaurar, instruir e rever seus próprios atos, além de requerer diligências, investigar fatos e solicitar pareceres, laudos e informações. O principio da verdade material ou da verdade real exige que a Administração tome decisões com base nos fatos reais, não se satisfazendo com a versão oferecida pelos sujeitos. Estes princípios foram aprovados pela Lei Complementar 962, de 30 de dezembro de 2020, e pela Lei 19.969, de 11 de janeiro de 2018.

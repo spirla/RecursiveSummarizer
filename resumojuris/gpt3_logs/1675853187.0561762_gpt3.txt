@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No que diz respeito ao valor dos bens subtraidos, destacou a Corte de Apelacao que seu quantum supera o limite de 10% do salario-minimo vigente a epoca dos fatos. Em caso analogo ja decidiu este Superior Tribunal de Justica que o principio da insignificancia nao e aplicado quando o bem furtado supera 10% do salario minimo vigente a epoca dos fatos, mormente porque presentes a multireincidencia e os maus antecedentes da recorrente (AgRg no AREsp 2073614/DF. Quinta Turma. Rel. Ministro Joel Ilan Paciornik. DJe de 12/9/2022). (Informativo  Ed. Especial n. 10) 72 Processo AgRg no AREsp 2.101.521-GO, Rel. Ministro Ribeiro Dantas, Quinta Turma, por unanimidade, julgado em 18/10/2022, DJe 28/10/2022. Ramo do Direito DIREITO PENAL Tema Fraude no exame da OAB. Corrupcao ativa. Dosimetria da pena.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O princípio da insignificância não é aplicado quando o bem furtado supera 10% do salário mínimo vigente na época dos fatos. 2. A multireincidência e os maus antecedentes da recorrente são fatores relevantes para a aplicação do princípio da insignificância.

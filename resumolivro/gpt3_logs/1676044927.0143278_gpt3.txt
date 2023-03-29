@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Os elementos do tipo incriminador, constantes da parte especial, unem-se aos pressupostos das causas de justificao, previstos na parte geral, em um tipo total, que, sistematicamente, situa todos em um mesmo nvel de discusso. Nessa perspectiva, o tipo de homicdio deve ser entendido como descritivo da conduta de matar algum, desde que no seja em estado de necessidade, legtima defesa, estrito cumprimento do dever legal ou no exerccio regular de direito. Tal doutrina aproxima demasiadamente os exames da tipicidade e ilicitude, de modo que o crime passa a ser concebido apenas com dois elementos: o injusto e a culpabilidade. Para ter-se uma ideia dos efeitos prticos dessa concepo, o erro sobre as excludentes de ilicitude ser sempre erro de tipo. Dessa forma, no h espaos para opes poltico-criminais quanto  soluo do problema: o erro sempre ter como consequncia a excluso do dolo e a punio a ttulo de culpa, se previsto em lei. Importa perceber que o modelo interpretativo da realidade oferecido pela teoria do crime ostenta uma utilidade prtica: identificar na realidade social o que  penalmente relevante. O detalhamento conceitual da teoria do crime constitui garantia individual, na medida em que define as exigncias para o reconhecimento do crime. Manter ntida a distino entre o juzo de tipicidade e ilicitude  objetivo poltico-criminal compatvel com o Estado de Direito, que visa  proteo do indivduo contra eventuais abusos na interveno repressiva estatal. A demasiada proximidade entre os exames da tipicidade e ilicitude pode levar a confuses que  melhor evitar. Como exemplo de confuso que no se pode admitir, pode-se citar a que diz respeito ao elemento subjetivo do tipo incriminador e da causa de justificao. Deve ficar muito claro ao operador do direito que a vontade de matar, elemento essencial do tipo de homicdio,  perfeitamente compatvel com a vontade de defender-se, exigida pela causa de justificao da legtima defesa. 7.5. Valorao do Injusto. A concepo analtica do crime adotada pelos ordenamentos repressivos guarda ntima relao com os fundamentos valorativos acolhidos para caracterizar a conduta como punvel e realizar a represso de natureza jurdico-penal. A valorao do injusto foi percebida inicialmente apenas no juzo de ilicitude. Para tal exame, a doutrina formulou a clssica distino entre desvalor do resultado e desvalor da conduta.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A teoria do crime, que visa identificar na realidade social o que penalmente relevante, estabelece a distinção entre o juízo de tipicidade e ilicitude. O elemento subjetivo do tipo incriminador é compatível com o elemento da causa de justificação, e a valoração do injusto é percebida no juízo de ilicitude, distinguindo entre desvalor do resultado e desvalor da conduta.

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Nao ha que se falar em vieses ou interesses previos superiores aos das demais testemunhas, uma vez que os vieses, assim como os estereotipos, sao intrinsecos a todos os seres humanos, e os interesses, se existentes, devem ser aferidos casuisticamente e nao estabelecidos a priori. Cabe ao magistrado, em analise do caso concreto, valorar racionalmente a prova, verificando se preenche os criterios de consistencia, verossimilhanca, plausibilidade e completude da narrativa, bem como se presentes a coerencia e adequacao com os demais elementos produzidos nos autos. A avaliacao judicial da superacao do standard probatorio minimo para a condenacao nao pode ser limitada a uma previa determinacao quantitativa e qualitativa da prova, porquanto tal representaria uma restricao ao livre convencimento motivado do magistrado e resultaria potencialmente em uma perda de qualidade epistemologica da decisao. Por fim, por determinacao do art. 20 da Lei de Introducao as Normas do Direito Brasileiro, cabe ao magistrado, toda vez que decidir com base em conceitos normativos indeterminados, considerar as consequencias praticas de sua decisao. No caso, verifica-se que nao sao poucas nem irrelevantes as provaveis consequencias advindas da decisao de atribuir valor probatorio inferior aos depoimentos policiais: desde inevitaveis impactos no orcamento estatal e no planejamento de politicas publicas ate a inviabilizacao do funcionamento do proprio sistema de justica criminal com riscos reais de estimulo a uma impunidade generalizada, ante os obstaculos praticos de producao de outras provas, sobretudo nos casos envolvendo trafico de drogas. Ressalta-se a visao minoritaria do Ministro Relator, acompanhada pelo Ministro Reynaldo Soares da Fonseca, segundo a qual a palavra do agente policial quanto aos fatos que afirma ter testemunhado o acusado praticar nao e suficiente para a demonstracao de nenhum elemento do crime em uma sentenca condenatoria.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Os vieses e interesses são intrínsecos a todos os seres humanos e devem ser aferidos casuisticamente. 2. O magistrado deve avaliar racionalmente a prova, verificando se preenche os critérios de consistência, verossimilhança, plausibilidade e completude da narrativa, bem como se presentes a coerência e adequação com os demais elementos produzidos nos autos. 3. A avaliação judicial da superação do standard probatório mínimo para a condenação não pode ser limitada a uma prévia determinação quantitativa e qualitativa da prova. 4. Por determinação do art. 20 da Lei de Introdução as Normas do Direito Brasileiro, cabe ao magistrado, toda vez que decidir com base em conceitos normativos indeterminados, considerar as consequências práticas de sua decisão. 5. A palavra do agente policial quanto aos fatos que afirma ter testemunhado o acusado praticar não é suficiente para a demonstração de nenhum elemento do crime em uma sentença condenatória.

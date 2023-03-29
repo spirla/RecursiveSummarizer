@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Inercia por mais de seis anos. Responsabilidade objetiva por omissao. DESTAQUE A responsabilidade civil por dano ambiental e objetiva e solidaria. E, nos casos em que o Poder Publico concorre para o prejuizo por omissao, a sua responsabilidade solidaria e de execucao subsidiaria (ou com ordem de preferencia). Trata-se de acao civil publica em desfavor de particulares e de Municipio, tendo por causa de pedir degradacao ambiental em razao de omissao do Municipio no exercicio do poder de policia, os requeridos realizaram construcao supressora de vegetacao nativa em area de preservacao permanente de restinga no bioma Mata Atlantica. O Tribunal a quo, para excluir a responsabilidade da Municipalidade, considerou o fato de que o ente publico nao seria garantidor universal de condutas lesivas ao meio ambiente e que a autuacao teve inicio no ambito estadual. Esses argumentos acolhidos pelo Tribunal de origem nao sao, contudo, aptos, por si sos, a afastar a responsabilidade do Municipio pela omissao. Conforme constou do acordao recorrido, a Municipalidade teve ciencia acerca dos fatos e por mais de seis anos permaneceu inerte, o que atraiu a violacao do dever especifico de agir. O fato de que a apuracao dos fatos tenha se dado na esfera estadual nao se mostra razoavel como causa excludente da responsabilidade do Municipio, porque esta evidente nos autos que o ente publico tinha ciencia das construcoes em area de preservacao permanente e da lesao ao bem juridico ambiental consistente nas restingas, fixadoras de dunas/estabilizadoras de mangues (art. 4, VI, do Codigo Florestal). O dano ambiental decorreu, na especie, de uma conjuncao de acoes e omissoes. De um lado, houve omissao por parte do Municipio em relacao a ocupacao desordenada de area de preservacao ambiental.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Responsabilidade civil objetiva e solidária do Poder Público por dano ambiental decorrente de omissão. 2. Responsabilidade de execução subsidiária ou com ordem de preferência do Poder Público em casos de prejuízo por omissão. 3. Não é razoável como causa excludente da responsabilidade do Município o fato de a apuração dos fatos ter se dado na esfera estadual.

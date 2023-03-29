@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Excesso de prazo. Investigacao que perdura por anos a fio. Principio da razoabilidade. Violacao. Ilegalidade configurada. Trancamento. Possibilidade. DESTAQUE Embora o prazo de 30 (trinta) dias para o termino do inquerito com indiciado solto (art. 10 do CPP) seja improprio, sem consequencias processuais imediatas se inobservado, isso nao equivale a que a investigacao se prolongue por tempo indeterminado, por anos a fio, devendo pautar-se pelo principio da razoabilidade. Embora o prazo de 30 (trinta) dias para o termino do inquerito com indiciado solto (art.10 - CPP) seja improprio, sem consequencias processuais (imediatas) se inobservado, isso nao equivale a que a investigacao se prolongue por tempo indeterminado, por anos a fio, mesmo porque, de toda forma, consta da folha corrida do investigado, produzindo consequencias morais negativas. A duracao da investigacao, sem deixar de estar atenta ao interesse publico, deve pautar-se pelo principio da razoabilidade. Quanto ao excesso de prazo, doutrina e a jurisprudencia desta Corte, basicamente, elencam os seguintes aspectos para a conclusao da ocorrencia, ou nao, do excesso de prazo, tanto no ambito da acao penal quanto tambem na seara administrativa do inquerito policial: a) excessivo numero de acusados; b) grande quantidade de testemunhas para ser ouvidas, com maior ou menor numero de diligencias, tais como cartas precatorias ou rogatorias; c) complexidade da materia envolvida, com necessidade de pericias e demais providencias; e d) razoes de forca maior.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O prazo de 30 dias para o término do inquérito com indiciado solto (art. 10 do CPP) é impróprio, sem consequências processuais imediatas se inobservado. 2. A investigação não pode se prolongar por tempo indeterminado, por anos a fio, devendo pautar-se pelo princípio da razoabilidade. 3. A duração da investigação deve estar atenta ao interesse público e pautar-se pelo princípio da razoabilidade. 4. Para a conclusão da ocorrência de excesso de prazo, tanto na ação penal quanto na seara administrativa do inquérito policial, devem ser considerados: a) excessivo número de acusados; b) grande quantidade de testemunhas para serem ouvidas; c) complexidade da matéria envolvida; e d) razões de força maior.

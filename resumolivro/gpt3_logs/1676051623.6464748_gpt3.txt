@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Inicialmente deve-se observar que a soluo do problema no pode se fundamentar nas disposies do artigo 9 do Cdigo Penal Militar, pois este dispositivo legal apenas define o que seja crime militar. Certamente, a dificuldade no reside em saber se o crime  ou no militar, mas se  da competncia da Justia Militar da Unio ou do Estado. Da mesma forma, o Cdigo de Processo Penal Militar no resolve a questo, pois no traz qualquer disposio sobre o conflito de competncia entre rgos da Justia Militar da Unio e dos Estados. A Constituio da Repblica, no entanto, oferece o critrio para resolver a dificuldade verificada, ao restringir a competncia da Justia Militar dos Estados ao processo e julgamento dos crimes militares, quando praticados por militares estaduais, em seu artigo 125, pargrafo 4. Em outras palavras, a Justia Militar Estadual no  competente para julgar militares federais. Consideremos dois exemplos semelhantes: no primeiro, policiais militares e militares do Exrcito, valendo-se das facilidades que a qualidade de militar lhes proporciona, subtraem armamento pertencente ao Exrcito brasileiro. No segundo, policiais militares e militares do Exrcito, tambm valendo-se das facilidades que a qualidade de militar oferece, subtraem armamento pertencente  Polcia Militar estadual. Em ambos os casos, no h dvidas, verifica-se um crime militar (artigo 303, pargrafo 2, do CPM - peculato-furto). Mas qual Justia Militar ser competente para o processo e julgamento do crime?. A princpio, a questo deve ser resolvida com base na natureza da administrao militar afetada pela conduta criminosa. No primeiro caso, o crime foi cometido contra a administrao militar da Unio e a competncia deve se resolver em favor da Justia Militar Federal. Nesse sentido, o Superior Tribunal Militar j decidiu que a competncia  da Justia Militar Federal (Ap 1996.01.006277-0). No segundo caso, deve-se reconhecer a competncia da Justia Militar Federal para julgar o militar da Unio e a competncia da justia militar estadual para julgar o militar estadual, muito embora o armamento pertena ao patrimnio da administrao militar estadual. No se poder considerar o concurso de pessoas e deve-se observar a obrigatria separao dos processos. A Justia Militar Estadual  competente para o processo e julgamento de crimes militares praticados por militares estaduais e no por militares da Unio. O militar da Unio ser julgado na justia militar federal, pelo crime militar cometido.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Justia Militar Estadual competente para o processo e julgamento de crimes militares praticados por militares estaduais, enquanto a Justia Militar Federal competente para o processo e julgamento de crimes militares cometidos por militares da Unio. No caso de concurso de pessoas, deve-se observar a obrigatria separao dos processos.

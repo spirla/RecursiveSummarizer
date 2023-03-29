@@ -1,0 +1,16 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Na fase judicial prev que o juiz observar ao acusado que, embora no esteja obrigado a responder s perguntas que lhe forem formuladas, o seu silncio poder ser interpretado em prejuzo da prpria defesa (CPPM, artigo 305), procedimento no compatvel com o sistema acusatrio. Captulo VI. Investigao do Crime Militar. 6.1. Polcia judiciria militar. .
+Atribuies. A polcia judiciria militar, cuja funo  auxiliar a Justia Militar na apurao de infraes militares, no foi prevista na Constituio Federal, mas que deixou entrever sua existncia, quando tratou dos rgos da Segurana Pblica no artigo 144 e destinou  polcia federal exercer, com exclusividade, funes de polcia judiciria da Unio e incumbiu s polcias civis, ressalvada a competncia da Unio, funo de polcia judiciria e de apurao de infraes, exceto as militares. A investigao de crime militar  realizada e dirigida pelas autoridades de polcia judiciria militar mencionadas no artigo 7 do CPPM e, por equivalncia, nas PMs e nos CBMs Comandante-geral, o Subcomandante, o Corregedor e os Comandantes de Unidade e de Servios. Observadas as normas regulamentares de hierarquia e comando, as atribuies de polcia judiciria militar podem ser delegadas a oficiais da ativa, para fins especificados e por tempo limitado (artigo 7, pargrafos 1 ao 5 do CPPM). Na dico do artigo 7, caput, do CPPM, a polcia judiciria militar  exercida pela autoridade conforme a respectiva jurisdio (a terminologia correta  circunscrio). Nas Polcias Militares  usual reas de batalhes sobrepostas, - no mesmo territrio atuam integrantes do policiamento ostensivo e rodovirio - ou limtrofes, por exemplo, o militar da unidade A comete o fato na rea da unidade B. Qual autoridade de polcia judiciria militar deve apurar os fatos? O Cdigo de Processo Penal Militar no tem regra para solucionar eventual conflito de atribuio e nenhuma autoridade de polcia judiciria militar possui exclusividade para apurar a infrao penal militar.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A Polícia Judiciária Militar tem como função auxiliar a Justiça Militar na apuração de infrações militares. Esta investigação é realizada e dirigida pelas autoridades de polícia judiciária militar mencionadas no artigo 7 do CPPM. O Código de Processo Penal Militar não tem regra para solucionar conflitos de atribuição e nenhuma autoridade de polícia judiciária militar possui exclusividade para apurar a infração penal militar.

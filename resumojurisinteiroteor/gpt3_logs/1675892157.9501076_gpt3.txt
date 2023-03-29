@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+sacou a pistola que trazia consigo (Imbel,.40, srie EKA- 03951, de carga da Polcia Militar do Estado de Minas Gerais) e com ela efetuou um disparo para intimidar Silvnia Maria. [...] Os denunciados, porm, seguiram as duas primeiras vtimas e, j na casa de Hinavane Aparecida, reiteraram vozes ilegais de priso para Jerfferson Rogrio, alm de praticar atos de intimidao e presso psicolgica contra Jerfferson, Hinavane e Silvnia, apontando armas contra eles e dizendo que lhes fariam mal. Depois dos fatos, os denunciados ainda lavraram boletim de ocorrncia com informaes inverdicas (REDS n. 2015-019179499001). Na verso original, tentaram atribuir toda a culpa pelos acontecimentos aos ofendidos, alm de terem omitido o disparo de arma de fogo efetuado por Fabrcio Gonalves. (histrico de f. 15). Em relato complementar, elaborado dias depois, quando j instaurado este inqurito, tentaram descrever e justificar esse disparo, mas faltaram com a verdade ao consignar que ele teria sido para o alto (f. 36), sendo que diligncias in loco verificaram o contrrio (ff. 44-51). Isso posto, os dois denunciados violaram, por trs vezes (vtimas Jerfferson, Silvnia e Hinavane), as normas criminais proibitivas subjacentes aos artigos 3, alneas a, b e i, e 4, alnea a, da Lei 4.898/65. E o denunciado Fabrcio Gonalves, em cmulo material (artigo 69 do Cdigo Penal), tambm incorreu nas penas do artigo 15 da Lei 10.826/03. Requer, pois, o Ministrio Pblico que, aps o devido processo legal, em que ouvidas restem as pessoas abaixo arroladas e os denunciados, sejam estes condenados nas penas cabveis. A denncia foi recebida na Justia comum (Evento 1 - RECE- DENUN11 - AJME), em 06/06/2016, sendo que, posteriormente, em 16/08/2019, o feito foi remetido para a Justia Militar estadual, em razo da competncia (Evento 1 - DeCl_COMPE36 - AJME). No Evento 8 dos autos de origem, consta deciso proferida pela eminente juza Daniela de Freitas Marques, na qual restou reconhecida a prescrio quanto ao delito de abuso de autoridade. Na deciso, a douta juza consignou que: Determino o arquivamento parcial dos autos, com fundamento no artigo 123, IV, do CPM em relao ao crime de abuso de autoridade. Inteligncia do art.439, f, do CPPM. Ali, determinou, ainda, que o processo prosseguisse em relao ao Cb PM Fabrcio Gonalves Souza, pelo crime previsto no art. 15 da Lei n. 10.826/03 (disparo de arma de fogo). O Ministrio Pblico desistiu da oitiva da testemunha Silmara Cristina Rocha (Evento 94 - ATA1 - AJME). Em audincia realizada em 3 de agosto de 2021, o egrgio conselho permanente de justia delimitou a ao penal somente ao acusado Fabrcio Gonalves Souza, pela imputao de prtica, em tese, do delito de disparo de arma de fogo.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Ministério Público requer a condenação dos denunciados por violar três vezes as normas criminais proibitivas da Lei 4.898/65 e, em cmulo material, pelo delito previsto no artigo 15 da Lei 10.826/03. Após o devido processo legal, foi reconhecida a prescrição quanto ao delito de abuso de autoridade e o processo prosseguiu somente em relação ao acusado Fabrício Gonalves Souza, pelo crime de disparo de arma de fogo.

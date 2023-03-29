@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Contudo, alem da ausencia de justa causa para a busca pessoal e para o ingresso no domicilio, o consentimento de sua esposa nao foi prestado livremente, circunstancias que tornam ilicito o ingresso no domicilio bem como as provas obtidas com a diligencia. Com efeito, nao se admite que a autoridade policial, apenas com base em delacao anonima, sem a producao de elementos capazes de evidenciar fundadas suspeitas da pratica delitiva, viole o direito constitucional a inviolabilidade do domicilio, conduzindo a ilicitude da prova colhida, bem como dela derivadas, nos termos do art. 157 do CPP (RHC 105.138/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 10/4/2019) (AgRg no HC 698.199/RS, Relator Ministro Sebastiao Reis Junior, Sexta Turma, DJe de 20/6/2022). Ademais, havendo controversia entre as declaracoes dos policiais e do flagranteado e inexistindo a comprovacao de que a autorizacao do morador foi livre e sem vicio de consentimento, impoe-se o reconhecimento da ilegalidade da busca domiciliar e consequentemente de toda a prova dela decorrente (fruits of the poisonous tree) (AgRg no HC 703.991/RS, Relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/5/2022). (Informativo n. 759) PROCESSO Processo sob segredo judicial, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 25/10/2022, DJe 07/11/2022. RAMO DO DIREITO DIREITO PROCESSUAL PENAL TEMA Busca e apreensao. Diligencia na residencia de detentor de foro por prerrogativa de funcao. Investigado nao detentor da prerrogativa de foro. Incomunicabilidade do resultado da diligencia. Mandado de busca e apreensao especifico ao investigado. Nulidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não se admite que a autoridade policial, apenas com base em delação anônima, sem a produção de elementos capazes de evidenciar fundadas suspeitas da prática delitiva, viole o direito constitucional à inviolabilidade do domicílio, conduzindo à ilicitude da prova colhida, bem como dela derivadas, nos termos do art. 157 do CPP. 2. Havendo controversia entre as declarações dos policiais e do flagranteado e inexistindo a comprovação de que a autorização do morador foi livre e sem vício de consentimento, impõe-se o reconhecimento da ilegalidade da busca domiciliar e consequentemente de toda a prova dela decorrente (fruits of the poisonous tree).

@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+No caso, extrai-se do termo de audiencia de instrucao e julgamento e das alegacoes finais da defesa que nao fora apontada a nulidade de que aqui se cuida. Diante do contexto, por nao ter sido consignada durante a instrucao processual, mas apenas na apelacao, ocorreu o fenomeno da preclusao. Ressalta-se tambem inexistir a demonstracao de efetivo prejuizo, pois ha provas independentes para a condenacao, caso em que nao ha utilidade na anulacao da sentenca, pois de toda a forma ela seria mantida. (Informativo  Ed. Especial n. 7) CPP (CPP/1941), arts. 222,  1 e 400. 1148 Processo CC 181.726-PR, Rel. Min. Laurita Vaz, Terceira Secao, por unanimidade, julgado em 08/09/2021, DJe 17/09/2021. Ramo do Direito DIREITO PENAL, DIREITO PROCESSUAL PENAL Tema Estelionato praticado mediante deposito. Superveniencia da Lei n. 14.155/2021. Competencia.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Ocorreu o fenômeno da preclusão, pois a nulidade não foi consignada durante a instrução processual, mas apenas na apelação. 2. Não há demonstracao de efetivo prejuízo, pois há provas independentes para a condenação, caso em que não há utilidade na anulação da sentença, pois de toda a forma ela seria mantida. 3. A Lei n. 14.155/2021 é aplicável ao caso, pois é superveniente. 4. A competência para julgar o caso é do Tribunal de Justiça.

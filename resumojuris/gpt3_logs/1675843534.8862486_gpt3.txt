@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+283; 312, 2; 313,  2; 492, I, e ; e Lei n. 13.964/2019 (Pacote Anticrime). PRECEDENTES QUALIFICADOS Tema n. 1068/STF; e Acoes Diretas de Constitucionalidade (ADCs) n. 43, 44 e 54. Processo REsp 1.894.519-SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, por unanimidade, julgado em 07/06/2022, DJe 10/06/2022. Ramo do Direito DIREITO PENAL Tema Operacao Boca Livre . Fraudes para obtencao de beneficios da Lei Rouanet. Desvio na aplicacao de recursos. Conduta que se amolda ao delito previsto no art. 40 da Lei n. 8.313/1991. Pretensao de desclassificacao para o estelionato majorado (art. 171, 3, do CP).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. A conduta se amolda ao delito previsto no art. 40 da Lei n. 8.313/1991. 2. Pretensão de desclassificação para o estelionato majorado (art. 171, 3, do CP). 3. Precedentes qualificados: Tema n. 1068/STF; e Ações Diretas de Constitucionalidade (ADCs) n. 43, 44 e 54. 4. Lei n. 13.964/2019 (Pacote Anticrime).

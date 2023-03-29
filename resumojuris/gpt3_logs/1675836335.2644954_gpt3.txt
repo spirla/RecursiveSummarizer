@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Autocontencao judicial (judicial self-restraint). DESTAQUE Quanto ao dever de informacao ao consumidor, prestado pelas das operadoras de telefonia previamente a contratacao, acerca da indisponibilidade de sinal em determinados municipios, deve-se adotar o principio da deferencia administrativa, observando-se a autocontencao judicial (judicial self-restraint), reduzindo-se, assim, a interferencia do Poder Judiciario nas atribuicoes dos outros Poderes. Nos termos do art. 19, inciso X, da Lei Geral de Telecomunicacoes (Lei n. 9.472/1997), compete a ANATEL adotar as medidas necessarias para o atendimento do interesse publico e para o desenvolvimento das telecomunicacoes brasileiras, atuando com independencia, imparcialidade, legalidade, impessoalidade e publicidade, e especialmente: X - expedir normas sobre prestacao de servicos de telecomunicacoes no regime privado . 203 A referida autarquia, por sua vez, no exercicio de seu poder regulamentar, expediu a Resolucao n. 575, de 28 de outubro de 2011, a qual, em seu art. 11, tratou expressamente sobre o tema aqui discutido, disciplinando que a prestadora deve manter a disposicao dos Usuarios, para consulta, em todos os Setores de Relacionamento, Setores de Atendimento e/ou Vendas, Centros de Atendimento e no seu sitio na Internet, mapas detalhados indicando a sua area de cobertura, separadamente para cada tecnologia adotada pela prestadora . Essa determinacao, por sua vez, nao afronta o dever de informacao, previsto no art. 6, inciso III, do CDC, sobretudo se levarmos em conta a amplitude de locais em que o usuario tera a sua disposicao os mapas detalhados com a area de cobertura do servico, sem contar, ainda, com o canal disponibilizado pela propria ANATEL ( Painel Cobertura Movel ).
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Deve-se adotar o princípio da deferencia administrativa, observando-se a autocontenção judicial (judicial self-restraint), reduzindo-se, assim, a interferência do Poder Judiciário nas atribuições dos outros Poderes. 2. Compete à ANATEL adotar as medidas necessárias para o atendimento do interesse público e para o desenvolvimento das telecomunicações brasileiras, atuando com independência, imparcialidade, legalidade, impessoalidade e publicidade. 3. A prestadora deve manter à disposição dos usuários, para consulta, em todos os setores de relacionamento, setores de atendimento e/ou vendas, centros de atendimento e no seu site na internet, mapas detalhados indicando a sua área de cobertura, separadamente para cada tecnologia adotada pela prestadora. 4. A determinação da ANATEL não afronta o dever de informação, previsto no art. 6, inciso III, do CDC, sobretudo se levarmos em conta a amplitude de locais em que o usuário terá a sua disposição os mapas detalhados com a área de cobertura do serviço, sem contar, ainda, com o canal disponibilizado pela própria ANATEL (Painel Cobertura Móvel).

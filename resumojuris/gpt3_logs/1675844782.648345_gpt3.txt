@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Se de um lado a obrigacao reclama adimplemento (espontaneo ou forcado) ou resolucao em perdas e danos, a pretensao punitiva, de outro, gera a aplicacao de pena quando julgada procedente pelo Poder Judiciario. Todas essas diferenciacoes demonstram que nao e possivel enquadrar a pretensao punitiva na transmissibilidade regida pelos arts. 1.116 do CC/2002 e 227 da Lei n. 6.404/1976, o que nos traz a uma conclusao intermediaria: nao ha, no regramento juridico da incorporacao, norma autorizadora da extensao da responsabilidade penal a incorporadora por ato praticado pela incorporada. Pensando ainda no aspecto consequencial, a pena e disciplinada por um plexo normativo proprio, com matizes garantistas que delimitam sua extensao e tambem nao tem correspondencia no campo das obrigacoes. Para os fins deste voto, o mais relevante deles e o principio da pessoalidade ou intranscendencia, insculpido no art. 5, XLV, da CR/88. Para o Parquet, referido principio nao teria aplicacao as pessoas juridicas, destinando-se exclusivamente as pessoas naturais. A compreensao sistematica da norma constitucional tambem aponta nessa direcao: se o sistema criminal admite a punicao de pessoas juridicas, em que pesem as peculiaridades que derivam da ausencia de um corpo fisico, nao pode o sistema valer-se dessas mesmas peculiaridades como fundamento para restringir garantias penais cujo exercicio pela pessoa juridica e, na pratica, possivel. E distinta a hipotese da incorporacao realizada para escapar ao cumprimento de uma pena ja aplicada a sociedade incorporada em sentenca definitiva, ainda que nao exista fraude. Afinal, no presente caso, nao chegou a ocorrer a prolacao de sentenca condenatoria, porque a acao penal foi trancada em seu nascedouro: o que se julgou neste recurso especial foi a possibilidade de a incorporadora suceder a incorporada para responder a acao penal ainda em tramitacao.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não é possível enquadrar a pretensão punitiva na transmissibilidade regida pelos arts. 1.116 do CC/2002 e 227 da Lei n. 6.404/1976. 2. O princípio da pessoalidade ou intranscendência, insculpido no art. 5, XLV, da CR/88, não se aplica às pessoas jurídicas. 3. Não é possível restringir garantias penais cujo exercício pela pessoa jurídica é possível. 4. Não é possível a incorporadora suceder a incorporada para responder a ação penal ainda em tramitação.

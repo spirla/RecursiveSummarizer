@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+As policias militares e os corpos de bombeiros militares serao regidos por Codigo de Etica e Disciplina, aprovado por lei estadual ou federal para o Distrito Federal, especifica, que tem por finalidade definir, especificar e classificar as transgressoes disciplinares e estabelecer normas relativas a sancoes disciplinares, conceitos, recursos, recompensas, bem como regulamentar o processo administrativo disciplinar e o funcionamento do Conselho de Etica e Disciplina Militares, observados, dentre outros, os seguintes principios: (...). 7 Sumula n. 55 - STF: militar da reserva esta sujeito a pena disciplinar. 8 Segundo Josan Mendes Feres (2011, p. 205), o conceito de extraviado e dado pela Lei 6.880, de 09 de dezembro de 1980, que dispoe sobre o Estatuto dos Militares (Forcas armadas): Artigo 91. E considerado desaparecido o militar na ativa que, no desempenho de qualquer servico, em viagem, em campanha ou em caso de calamidade publica, tiver paradeiro ignorado por mais de 8 (oito) dias. Paragrafo unico. A situacao de desaparecimento so sera considerada quando nao houver indicio de desercao A situacao de desaparecimento so sera considerada quando nao houver indicio de desercao(...). 9 Ressalta-se que a praca sera excluida do servico ativo e o oficial transferido para a reserva nao remunerada, quando, conforme disposto nos artigos 138 e 147 do EMEMG, tiverem menos de 5 (cinco) anos de servico e se candidatarem a cargo eletivo. Outrossim, essa disposicao estatutaria, no que diz respeito ao tempo de servico, nao foi recepcionada pelo artigo 14, II, da CF, que estabeleceu que o referido tempo de servico minimo sera de 10 anos prestados na Instituicao. 10 Assim estabelece o EMEMG: Artigo 131 - O militar que estiver aguardando transferncia para a reserva permanecera no exercicio de suas funcoes ate a publicacao do decreto de transferncia. Caso, porem, seja detentor de cargo, podera continuar nas funcoes por mais 30 (trinta) dias, no maximo, sendo nulos os atos que praticar no exercicio da funcao apos esse prazo.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O Código de Ética e Disciplina Militar estabelece normas relativas às sanções disciplinares, conceitos, recursos, recompensas e regulamenta o processo administrativo disciplinar. O Estatuto dos Militares (Forças Armadas) define o desaparecimento como a ausência de paradeiro ignorado por mais de 8 dias, desde que não haja indícios de deserção. O militar que estiver aguardando transferência para a reserva permanecerá no exercício de suas funções até a publicação do decreto de transferência, podendo continuar nas funções por até 30 dias, no máximo.

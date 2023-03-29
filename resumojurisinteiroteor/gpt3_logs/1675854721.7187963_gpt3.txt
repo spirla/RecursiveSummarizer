@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+79; todos dispositivos do Cdigo Penal Militar (CPM), frente  1a Auditoria Judiciria Militar Estadual (Evento 1 - ENNCIAa1), nos termos seguintes: Consta dos inclusos autos do Inqurito Policial Militar que, em 13 de janeiro de 2015, na Rua Jos do Patrocnio, n. 342, Bairro Cruzeiro, Municpio de Ribeiro das Neves/MG, os quatro denunciados, agindo em comunho de vontade e de esforos, exigiram para si, diretamente, em razo da funo militar, vantagem indevida, vitimando Vera Lcia Pereira Gomes. Consta, outrossim, que, em 30 de maro de 2015, aproximadamente s 17h15min, na Rua Marcazita n. 22, Bairro Prado Lopes, nesta Capital, os quatro denunciados, agindo em comunho de vontade e de esforos, exigiram para si, diretamente, em razo da funo militar, vantagem indevida de Clsio Miranda de Jesus. Consta, ainda, que, nesta mesma data e neste mesmo lugar, por volta das 17h30min, os quatro denunciados, mediante concurso de pessoas, subtraram para si coisa alheia mvel. Consta, ademais, que, no dia 01 de abril de 2015, s 16h12min, o primeiro e o quarto denunciados inseriram, em documento pblico, declarao diversa da que devia ser escrita, com o fim de alterar a verdade sobre fato juridicamente relevante, o qual atenta contra a Administrao Militar, com a finalidade de assegurar a ocultao dos crimes acima descritos. Consta, de igual forma, que, em 18 de junho de 2015, aproximadamente s 10h08min, na Rua Professor Jos Guerra, n. 282, Bairro Ouro Preto, em Belo Horizonte/MG, os trs primeiros denunciados, agindo em comunho de vontade e de esforos, exigiram para si, diretamente, em razo da funo militar, vantagem indevida de Guilherme Ferreira Souza. Consta, ademais, que, no dia 18 de junho de 2015, s 14h30min, o primeiro denunciado inseriu, em documento pblico, declarao diversa da que devia ser escrita, com o fim de alterar a verdade sobre fato juridicamente relevante, o qual atenta contra a Administrao Militar, com a finalidade de assegurar a ocultao dos crimes acima descritos. Episdio n. 1) Segundo apurado, na data de 13 de janeiro de 2015, em Ribeiro das Neves/MG, os denunciados realizaram as diligncias narradas no Registro de Eventos de Defesa Social - REDS n. 2015-000908740-001 (fls. 294/297), pertinentes ao crime de trfico de substancias entorpecentes praticado, segundo noticiado a eles, por Jos Agnaldo de Souza (vulgo Zequinha), sua esposa, Vera Lcia Pereira Gomes (conhecida como Verinha), e seu filho, Gleidson Pereira de Souza. Nessa oportunidade, teriam chegado ao local supramencionado, onde se depararam com Vera e Gledson, tendo a primeira franqueado o acesso da guarnio em sua residncia, onde nada foi localizado. Em seguida, dirigiram-se a um estabelecimento comercial pertencente a Marlcia Marques Pereira, o que resultou em igual insucesso.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Os denunciados, agindo em comunho de vontade e de esforos, exigiram vantagem indevida em razo da funo militar em três ocasiões diferentes e, em outra ocasião, realizaram a subtração de coisa alheia móvel. Além disso, em duas ocasiões, o primeiro e o quarto denunciados inseriram, em documento público, declaração diversa da que devia ser escrita para alterar a verdade sobre fato juridicamente relevante.

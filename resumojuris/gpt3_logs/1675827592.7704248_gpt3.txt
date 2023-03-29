@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+26 da Lei 9.478/1997 nem do art. 2, I, da Lei 12.351/2010 que o contratado incorpora a seu patrimonio as parcelas do petroleo extraidas por forca de a Uniao a ele ter transferido tal titularidade. Pelo contrario, o que as leis indicam e que, havendo descoberta comercial pelo contratado, fica a ele assegurado o direito de assenhorear-se dos citados volumes do resultado da lavra. Logo, como o primeiro senhor do petroleo extraido e o proprio concessionario ou contratado, o petroleo extraido nao muda de titular ao ser incorporado ao patrimonio desse. Se nao ha transferencia de titularidade do petroleo extraido, nao ha que se falar em circulacao de mercadoria, pressuposto indispensavel para a incidencia valida do ICMS. Ressalte-se que, conforme ja decidido no Tema 1099 da repercussao geral, nao incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto nao haver a transferencia da titularidade ou a realizacao de ato de mercancia. Ademais, nao ha se falar que o fato de o petroleo ter sido extraido de uma jazida, que e bem da Uniao, tambem seria ele, em um primeiro momento, de sua propriedade e, so depois, do concessionario ou do contratado. Isso porque jazida de petroleo e bem juridico diverso do produto de sua lavra e o regime juridico da apropriacao do oleo extraido esta sujeito a uma opcao politica, que indica ser pela conferencia, de modo originario, desse bem ou de parcela dele ao concessionario ou ao contratado. Com base nesse entendimento, o Plenario julgou procedente o pedido da acao direta, declarando a inconstitucionalidade das Leis 7.183/2015 e 4.117/2003, ambas do estado do Rio de Janeiro.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não há transferência de titularidade do petróleo extraído, não havendo incidência válida do ICMS. 2. Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia. 3. O regime jurídico da apropriação do óleo extraído está sujeito a uma opção política, que indica ser pela conferência, de modo originário, desse bem ou de parcela dele ao concessionário ou ao contratado. 4. O Plenário julgou procedente o pedido da ação direta, declarando a inconstitucionalidade das Leis 7.183/2015 e 4.117/2003, ambas do estado do Rio de Janeiro.

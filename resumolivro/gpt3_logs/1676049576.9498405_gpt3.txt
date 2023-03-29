@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Esse exemplo consagra posicionamento no sentido de que mesmo a parte inicial do artigo 74 impe reconhecer o concurso formal entre os crimes efetivamente cometidos: o crime doloso tentado e o culposo consumado, no havendo alteraes nas regras da imputao objetiva. Na realidade, o aberratio delicti pressupe a ocorrncia do concurso formal de crimes, mas importa perceber como o ordenamento jurdico tratou a questo. Inicialmente, cabe considerar que, para responsabilizar o sujeito pelo fato decorrente do acidente ou erro a ttulo de culpa,  necessrio que exista previso legal para a realizao culposa do tipo. No havendo previso legal, no ser possvel a apenao a ttulo de culpa. Todavia,  necessrio constatar a previsibilidade do sujeito quanto  produo do resultado ilcito. Adotar o entendimento segundo o qual o aberratio delicti, com um nico resultado, desconsidere o comportamento doloso praticado para responsabilizar o sujeito unicamente pela produo culposa do resultado, pode levar a situaes absurdas. Veja-se o exemplo em que o sujeito pretenda matar algum e, no conseguindo alvejar a pessoa, erra e danifica um bem material. No haveria qualquer punio, j que no existe previso legal que incrimine o dano culposo. Defendendo soluo diversa, Heleno Fragoso leciona que, na hiptese, o sujeito dever responder por tentativa de homicdio. Admitir que deva o sujeito ser responsabilizado a ttulo de dolo significa reconhecer que o comportamento doloso cometido no pode ser desconsiderado em favor do resultado culposo produzido. Nos termos desse raciocnio, quando o artigo 74 impe que, pelo resultado produzido, responda o sujeito a ttulo de culpa, no impede que o sujeito seja responsabilizado pelos resultados dolosos tambm cometidos. Vale notar que, no exemplo em que algum atira uma pedra contra outrem, no intuito de feri-la, e quebra uma vidraa alheia, tanto poder agir com dolo eventual como com culpa, ou mesmo sem culpa, em relao a esse ltimo resultado.  somente a avaliao do caso concreto que poder esclarecer sobre o elemento subjetivo do sujeito e determinar a correta incriminao. Na verdade, o artigo 74 do Cdigo Penal no possui uma redao feliz. Responsabilizar o sujeito a ttulo de culpa pelo resultado no pretendido seria uma consequncia natural, diante da produo involuntria do resultado. Vale notar que, se o sujeito no pretende produzir o resultado, mas assumiu o risco de sua produo, certamente no poder ser punido a ttulo de culpa.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O artigo 74 do Código Penal estabelece a responsabilização do sujeito pelo resultado produzido, seja doloso ou culposo. É necessário avaliar o caso concreto para determinar o elemento subjetivo e a incriminação correta. O resultado não pretendido pode ser punido a título de culpa, desde que o sujeito assuma o risco de sua produção.

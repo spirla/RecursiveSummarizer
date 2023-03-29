@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+Nesse sentido:
+APELACAO CIVEL - ALEGACAO DE QUE A RESPONSABILIDADE ADMINISTRATIVA ESTARIA AFASTADA EM RAZAO DA AUSNCIA DE ACUSACAO CRIMINAL - A RESPONSABILIDADE ADMINISTRATIVA INDEPENDE DO RECONHECIMENTO DA RESPONSABILIZACAO NA ESFERA CRIMINAL OU CIVIL - APENAS AS DECISOES CRIMINAIS TRANSITADAS EM JULGADO QUE RECONHECEM A INEXISTNCIA DO FATO OU A NEGATIVA DE AUTORIA IMPEDEM A DISCUSSAO ADMINISTRATIVA ACERCA DO FATO - ALEGACAO DE QUE A PORTARIA E O TERMO DE ABERTURA DE VISTAS NARRARIAM APENAS A PRATICA DE CRIME, NAO UMA TRANSGRESSAO DISCIPLINAR - NA PORTARIA E NA NOTIFICACAO HOUVE A DESCRICAO DOS FATOS IMPUTADOS AO APELANTE, BEM COMO A TIPIFICACAO DE SUA CONDUTA - A DECISAO DO COMANDANTE-GERAL DA PMMG ESTA CORRETA, POIS O MESMO E A AUTORIDADE COMPETENTE PARA DEMITIR ADMINISTRATIVAMENTE, DE ACORDO COM O ART. 74, paragrafo 1, DA LEI 14.310/2002 - ALEGACAO DE ILEGALIDADE NA OITIVA DE TESTEMUNHA - NAO HOUVE QUALQUER OPOSICAO DO APELANTE E SEU DEFENSOR, AMBOS PRESENTES EM TAL REUNIAO - COMPETIA AO APELANTE, ANTES DA OITIVA DA TESTEMUNHA E NOS TERMOS DO ART. 70, VIII, E, DA LEI N. 14.310/2002, CONTRADITAR A TESTEMUNHA, O QUE NAO FOI FEITO NO MOMENTO OPORTUNO - NEGADO PROVIMENTO AO RECURSO. (TJM-MG: Proc. 0001510-36.2014.9.13.0002, Rel. Juiz Fernando Galvao da Rocha, julgamento 06/10/2015, publicacao 14/10/2015)
+d) Testemunha envolvida nos fatos (coautor civil)
+Pode ocorrer que o militar acusado tenha praticado o fato em apuracao no PAD em concurso de agentes com um civil, cuja audicao interessa ao processo disciplinar. Imagine-se que um militar e acusado de haver praticado o homicidio de um civil, agindo em concurso de agentes com outro civil - ambos vao responder como reus num mesmo processo criminal perante o Tribunal do Juri. Contudo, a transgressao disciplinar residual ao crime, que sera objeto do PAD, tera como acusado somente o militar. Nesse caso acima narrado, como a audicao do civil interessa ao PAD, indaga-se em qual situacao se dara essa oitiva. Esse civil sera inquirido na condicao de testemunha compromissada na forma da lei, ja que sobre ele nao incide nenhuma causa legal de dispensa desse compromisso?
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O militar acusado de praticar um crime em conjunto com um civil pode ser responsabilizado administrativamente, independentemente do reconhecimento da responsabilidade na esfera criminal ou civil. A portaria e o termo de abertura de vistas descrevem os fatos imputados ao militar e a tipificação de sua conduta. O Comandante-Geral da PMMG é a autoridade competente para demiti-lo administrativamente. A oitiva da testemunha (coautor civil) é permitida, desde que o militar tenha a oportunidade de contraditá-la.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Dos Eucaliptos, n. 800, Bairro Jardim Patricia, Uberlndia/MG, para que proceda com as medidas administrativas competentes que o caso requer; b) Citar o ru para que oferea defesa [...] c) Julgar totalmente procedente a ao e declarar a nulidade dos atos administrativos em anlise, focando a jurisdio nos efeitos de ilegalidades e inconstitucionalidades advindos das negativas de acessos e de produo das provas perqueridas pela defesa do Requerente no mbito do PAD, conforme fundamentao expendida, confirmando-se ao final a tutela de urgncia ou liminar concedida, sobretudo determinando a suspenso do tramite do processo administrativo disciplinar enquanto no houver garantido o instituto da ampla defesa e contraditrio com acesso amplo e direto s provas completas que esto sendo usadas no PAD ou que l no esto, e que encontram-se na ao penal devendo por ordem judicial ser determinada a CPAD que valendo-se do artigo 37 da Lei 9.784/99 de ofcio traslade tais peas mediante requerimento  justia pblica uberlandense; d) Condenar o requerido ao pagamento de honorrios sucumbenciais, no inferior ao valor de 20% sobre o valor total da condenao; e) o benefcio da Assistncia Judiciria, nos termos da Lei 1060/50, em conformidade com o pedido anexo assinado pelo prprio Requerente, que encontra-se custodiado e sem condies financeiras para suportar custas processuais; Deu  causa o valor de R$1.000,00 (mil reais), a ttulo de alada. O douto magistrado de primeiro grau indeferiu o pedido de tutela de urgncia, sob o fundamento de que no esto presentes os requisitos necessrios para a sua concesso. Na mesma oportunidade, deferiu o pedido de justia gratuita, conforme se v no Evento n. 14. O Estado de Minas Gerais apresentou contestao (Evento n. 21) Disse, inicialmente, que no h razo para se falar em ofensa aos princpios do contraditrio e da ampla defesa, uma vez que o PAD observou toda a normatizao de regncia. Esclareceu que a prova emprestada  plenamente admitida em nosso ordenamento jurdico, inclusive, reconhecida pelo Superior Tribunal de Justia, no havendo, portanto, que se falar em qualquer ilegalidade. Quanto  alegao do autor de que lhe foi negado o pedido de prova pericial, afirmou que h nos autos um conjunto probatrio lastreado em fotografias, dados cadastrais, informaes pessoais sobre cartes e contas, udios, bem como vrios outros materiais obtidos pelo Ministrio Pblico; que a deciso tomada pela CPAD teve como fundamento outros elementos de prova; que a prova mencionada tantas vezes pelo recorrente  s mais uma dentro do universo probatrio constantes dos autos; e que o desejo pleiteado pelo recorrente  meramente procrastinatrio diante da gravidade dos fatos narrados e das provas obtidas.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A ao foi julgada procedente, confirmando-se a tutela de urgência concedida, determinando a suspensão do processo administrativo disciplinar até que sejam garantidos o instituto da ampla defesa e contraditório com acesso amplo e direto às provas completas. A condenação incluiu o pagamento de honorários sucumbenciais e o benefício da Assistência Judiciária.

@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+125,  4, da Constituio Federal. A repercusso do decreto penal condenatrio, em pena privativa de liberdade superior a 02 (dois) anos, na vida profissional do militar merece ser apreciada pela Justia Especializada, mantendo-se uma coerncia com os preceitos constitucionais que ressaltam as especificidades da funo militar, em continuidade da prestao jurisdicional criminal. Segundo preceito constitucional expresso no art. 125, 4, da Constituio da Repblica de 1988, o Tribunal de Justia (ou o Tribunal de Justia Militar, naqueles Estados que contam com uma Justia Militar independente e autnoma) avaliar a convenincia da permanncia do militar nas fileiras de sua respectiva Corporao. Os referidos tribunais no funcionam, evidentemente, como mero rgo homologatrio e, sim, decisrio. A preliminar de arguio de incompetncia da Justia Militar para julgar a ao de perda do posto por ser a condenao proveniente da Justia comum (fls. 02/03) no merece guarida, considerando que o artigo 125, 4, conjugado com os arts. 42, 1, e 142, 3, incisos VI e VII, todos da Constituio da Repblica Federativa do Brasil, bem como o art. 111 da Constituio do Estado de Minas Gerais, todos so imperativos no tocante  competncia deste Tribunal de Justia Militar de Minas Gerias em decidir sobre a perda do posto dos oficiais e da graduao das praas das corporaes militares mineiras. A Constituio da Repblica Federativa do Brasil no faz distino entre as condenaes provenientes de quaisquer Justias - comum, federal ou militar -, estabelecendo que o oficial ou a praa, condenados na justia comum ou militar, a pena privativa de liberdade superior a dois anos, por sentena transitada em julgado, s perdero o posto e a patente ou a graduao se forem julgados indignos ou com conduta incompatvel com a carreira militar, por deciso de tribunal militar de carter permanente, em tempo de paz, ou de tribunal especial, em tempo de guerra. A expresso tribunal competente, inserida no 4 do artigo 125 da CF diz respeito ao tribunal originrio para conhecer da representao para perda do posto ou da graduao, que ser o Tribunal de Justia Militar nos Estados de Minas Gerais, So Paulo e Rio Grande do Sul e o Tribunal de Justia nos demais Estados da Federao. Consoante o que ressaltou a eminente procuradora de justia atuante nesta Corte castrense, o constituinte utilizou-se do termo tribunal competente sem fazer relao com a origem da condenao, ou seja, se da Justia Militar ou da comum. Cumpre-me esclarecer que os precedentes recentes do excelso Supremo Tribunal Federal citados pelo representado firmaram-se em outros julgados, que repetem, de forma equivocada, o julgado expresso no RE 197.649-7/SP, cuja ementa segue: RE 197649 / SP - SO PAULO RECURSO EXTRAORDINRIO Relator(a): Min.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: O Tribunal de Justia (ou o Tribunal de Justia Militar, nos Estados que contam com uma Justia Militar independente e autnoma) deve avaliar a convenincia da permanncia do militar nas fileiras de sua respectiva Corporao, de acordo com o artigo 125, 4, da Constituio Federal, conjugado com os arts. 42, 1, e 142, 3, incisos VI e VII, da Constituio da Repblica Federativa do Brasil, bem como o art. 111 da Constituio do Estado de Minas Gerais. O tribunal competente para conhecer da representação para perda do posto ou da graduação será o Tribunal de Justia Militar nos Estados de Minas Gerais, São Paulo e Rio Grande do Sul e o Tribunal de Justia nos demais Estados da Federação.

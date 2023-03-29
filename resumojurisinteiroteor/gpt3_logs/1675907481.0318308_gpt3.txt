@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+Elba Rondino, manifestou-se nos seguintes termos, verbis, Evento 14: [...] Pois bem, trata-se de questo singela, uma vez que o impetrante se valeu inadequadamente da via de habeas corpus para pugnar pela revogao de uma das medidas cautelares diversas da priso aplicadas ao paciente quando da concesso da liberdade provisria, no tendo sequer se dado ao trabalho de formular tal pretenso no bojo do feito principal, o que suprimiu do juzo a quo a oportunidade de rever e analisar os efeitos da medida por ele prprio imposta. Ao contrrio disso, decidiu, de forma desarrazoada, impetrar o presente writ perante o Tribunal de Justia Militar Estadual trs meses aps a libertao do paciente, sob a alegao de que a referida medida cautelar estaria lhe trazendo "grande prejuzo (evento 1 - INIC1 - fls. 01), no se vislumbrando, contudo, diante de tais circunstncias, qualquer constrangimento ilegal em seu desfavor, at porque ele foi devidamente notificado no dia 28/10/2021 acerca das restries impostas pelo juzo da 1a AJME quando da revogao de sua priso preventiva (evento 57 - ALVSOLTURA4 - fls. 01 dos autos n 2000704-23.2021.9.13.0001) e, ao subscrever o referido documento, anuiu s determinaes sem qualquer ressalva. De mais a mais, apesar de todo o apelo para a flexibilizao da restrio de permanncia na cidade de Joo Monlevade, a fim de que o paciente possa comparecer ao Municpio de Conceio de Ipanema-MG e, em tese, cuidar de seu pai enfermo, no se pode deixar de considerar que o gravssimo crime de tortura com causa de aumento de pena a ele imputado foi praticado exatamente naquela localidade, no havendo dvidas de que, ao determinar a aplicao de tal medida, o juzo da 1a AJME avaliou todas as particularidades que envolvem o caso concreto. Pelo exposto, tendo o impetrante se utilizado da via inadequada com o intuito de obter a flexibilizao de medidas cautelares diversas da priso impostas pelo juzo a quo, esta Procuradoria de Justia opina pelo no conhecimento do habeas corpus e, caso conhecido, pela denegao da ordem, com a manuteno de todas as medidas cautelares diversas da priso aplicadas ao Cb PM EZA ROCHA MAGALHES. Posteriormente, os impetrantes apresentaram manifestao, contrapondo os argumentos trazidos pela Douta Procuradora de Justia (Evento 16).  o relatrio. Em mesa para julgamento. VOTOS DESEMBARGADOR SCRATES EDGARD DOS ANJOS, RELATOR Trata-se de habeas corpus, com pedido liminar, impetrado em favor do paciente Eza Rocha Magalhes, com objetivo de revogar a proibio de sada do municpio de Joo Monlevade e a permisso de sua entrada em Conceio de Ipanema, para cuidar de seus genitores. Pois bem.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O habeas corpus impetrado em favor do paciente Eza Rocha Magalhes, com objetivo de revogar a proibio de sada do municpio de Joo Monlevade e a permisso de sua entrada em Conceio de Ipanema, foi negado, pois o impetrante se utilizou da via inadequada para obter a flexibilização da medida cautelar diversa da prisão imposta pelo juízo a quo.

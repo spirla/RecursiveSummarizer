@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Com base nesse entendimento, o Plenario, por maioria, julgou procedente o pedido formulado em acao direta para declarar a inconstitucionalidade da expressao e Municipios , constante do art. 97,  6, da Constituicao do Estado de Pernambuco, na redacao conferida pela EC 35/2013. ADI 6811/PE, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 20.8.2021 (sexta-feira), as 23:59. (INF 1026) 1.16 REGIME PROPRIO DE PREVIDENCIA SOCIAL Aposentadoria de servidor policial: iniciativa parlamentar e tratamento diferenciado - ADI 5241/DF Resumo: E formalmente constitucional lei complementar  cujo processo legislativo teve origem parlamentar  que contenha regras de carater nacional sobre a aposentadoria de policiais. Nao ha se falar em violacao das alineas do art. 61,  1, II, da CF/88 (CF), pois a iniciativa reservada, por constituir materia de direito estrito, nao se presume e nem comporta interpretacao ampliativa, na medida em que, por implicar limitacao ao poder de instauracao do processo legislativo, deve necessariamente derivar de norma constitucional expressa e inequivoca . Na hipotese, a lei impugnada nao invadiu campo reservado a iniciativa privativa do Presidente da Republica, pois nao teve como proposito dispor unicamente sobre o regime juridico dos servidores publicos da Uniao (CF, art. 61,  1, c). E constitucional a adocao  mediante lei complementar  de requisitos e criterios diferenciados em favor dos policiais para a concessao de aposentadoria voluntaria. O proprio texto constitucional reconhece a situacao particular dos agentes de seguranca, permitindo que lei complementar atribua regras especiais de aposentadoria, conforme a atual redacao do art. 40 da CF.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. É formalmente constitucional lei complementar cujo processo legislativo teve origem parlamentar que contenha regras de caráter nacional sobre a aposentadoria de policiais. 2. Não há se falar em violação das alíneas do art. 61, 1, II, da CF/88, pois a iniciativa reservada, por constituir matéria de direito estrito, não se presume e nem comporta interpretação ampliativa. 3. Não há invasão de campo reservado a iniciativa privativa do Presidente da República, pois não teve como propósito dispor unicamente sobre o regime jurídico dos servidores públicos da União. 4. É constitucional a adoção, mediante lei complementar, de requisitos e critérios diferenciados em favor dos policiais para a concessão de aposentadoria voluntária.

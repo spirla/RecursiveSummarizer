@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+54/59). Corrobora a verso apresentada pelas vtimas os depoimentos dos militares que estiveram no local dos fatos: Dcio Alves Cunha - Evento 1, audincia26, pgs. 3/4 [...] que confirma sua assinatura e declaraes prestadas perante a autoridade policial, s f. 69/71-v; que a princpio quando chegou ao local dos fatos no percebeu leses aparentes nas vtimas, mas depois quando chegou o pai de uma delas, a vtima Michel falou que havia sido agredida, quando o depoente viu um hematoma nas costas dele; que as vtimas demonstraram estar nervosas e amedrontadas; que, segundo as vtimas, as agresses duraram por cerca de meia hora; que no momento do reconhecimento fotogrfico o depoente no estava presente; que, segundo as vtimas, eles viram uma tarjeta de um policial com o nome Alex, mas no souberam identificar a graduao; que quanto ao outro policial, as vtimas no souberam identificar o nome, mas informaram que ele estava com aparelho nos dentes; que no conseguiu arrolara testemunhas, porque as pessoas com quem conversou aparentavam estar temerosas; que a mais ou menos um ano trabalha no mesmo batalho dos acusados; que no se lembra de ter recebido qualquer reclamao a respeito dos acusados. Nada mais [...] Dada a palavra ao Advogado de Defesa Wagner, s suas perguntas respondeu: [...] que Michel relatou ter sido agredido por Wagner com um pedao de pau e um aparelho preto de choque; que Michel mostrou apenas um hematoma nas costas; que segundo Michel ele foi agredido por Wagner para que fosse impedido de entrar no quarto onde estavam a vtima Talita e o acusado Alex; que essa agresso a Michel era s para impedir o fato acima narrado. Nada mais. Drio Eustquio de Oliveira - Evento - AUDINC26, pgs. 5/6 [...] que confirma sua assinatura e declaraes prestadas perante a autoridade correicional, s f. 74/74-v; que chegou ao local os fatos j haviam ocorridos; que chegou depois de 20 a 30 minutos; que das vtimas a moa estava abatida e o rapaz triste; que as vtimas relataram apenas os atos praticados pelos acusados, mas no declinaram o tempo que duraram aqueles atos; que, segundo relato das vtimas, os acusados as agrediram porque queriam que elas entregassem drogas; que a vtima Michel mostrou uma leso nas costas; que as vtimas alegaram que foram agredidas por dois policiais, mas apenas um foi identificado pelo nome Alex; que, segundo a vtima Michel, foi usada contra ele uma mquina de choque; que na 26a CIA/39 BPM houve um reconhecimento fotogrfico presenciado pelo depoente; que ambos os militares acusados foram reconhecidos; que no teve contato com os acusados; que o reconhecimento fotogrfico foi feito pelas duas vtimas; que no chegou a conversar com testemunhas ou pessoas que estariam no local. Nada mais.
+
+
+RESUMO CONCISO, TCNICO E PRECISO
+
+==========
+
+RESPONSE:
+
+: Os depoimentos dos militares confirmam a verso das vtimas de que foram agredidas por dois policiais por cerca de meia hora. Uma das vtimas mostrou uma leso nas costas e alegou que foi usada uma mquina de choque contra ela. Houve um reconhecimento fotogrfico presenciado pelo depoente e ambos os militares acusados foram reconhecidos.

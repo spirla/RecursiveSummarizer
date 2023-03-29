@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+Todavia, em qualquer situacao, nao sao devidos honorarios sucumbenciais ao administrador judicial ou a seu patrono, uma vez que ele nao e parte na lide. Dessa forma, porque nao se pode considerar o administrador judicial como parte integrante de um dos polos da recuperacao ou da falencia, tampouco mandatario de uma das partes ou dos credores sujeitos aos respectivos processos, nao faz ele jus ao recebimento de honorarios sucumbenciais, pois o trabalho que realiza deve ser remunerado de forma propria, pela recuperanda, apos fixacao judicial, mas desde que observados os ditames previstos no art. 24 da Lei n. 11.101/2005. (Informativo  Ed. Especial n. 9) CPC, art. 85 Lei n. 11.101/2005, art. 24 131
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. Não são devidos honorários sucumbenciais ao administrador judicial ou a seu patrono, pois ele não é parte na lide. 2. O trabalho do administrador judicial deve ser remunerado de forma própria, pela recuperanda, apos fixação judicial, desde que observados os ditames previstos no art. 24 da Lei n. 11.101/2005.

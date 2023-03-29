@@ -1,0 +1,15 @@
+PROMPT:
+
+### ENCONTRE NO TEXTO ABAIXO AS PRINCIPAIS TESES JURDICAS, TRANSCREVENDO-AS DE FORMA OBJETIVA E PRECISA:
+
+
+RAMO DO DIREITO DIREITO ADMINISTRATIVO, DIREITO CIVIL TEMA Estacionamento. Vaga reservada a pessoa com deficiencia. Violacao a lei de transito. Dano moral coletivo. Nao configuracao. DESTAQUE O estacionamento de veiculo em vaga reservada a pessoa com deficiencia nao configura dano moral coletivo. O dano moral coletivo e categoria autonoma de dano, independente de atributos da pessoa humana (dor, sofrimento etc. ), e que se configura nos casos em que ha lesao a esfera extrapatrimonial de determinada 218 comunidade e fique demonstrado que a conduta agride, de modo ilegal ou intoleravel, os valores fundamentais da sociedade, causando repulsa e indignacao na consciencia coletiva. Preenchidos esses requisitos, o dano configura-se in re ipsa, dispensando, portanto, a demonstracao de prejuizos concretos ou de efetivo abalo moral. No caso, o pedido e de condenacao do reu condutor de veiculo automotor ao pagamento de compensacao por dano moral coletivo, em razao de ter estacionado em vaga reservada a pessoa com deficiencia; ausentes peculiaridades do caso, como reincidencia ou maior desvalor na conduta da pessoa natural. Em casos tais, a Segunda Turma do STJ nao tem acolhido a pretensao condenatoria, considerando a ausencia de elementos que, nao obstante a relevancia da tutela coletiva dos direitos da pessoa com deficiencia ou idosa, evidenciem que a conduta agrida, de modo intoleravel, os valores fundamentais da sociedade. Assim, nao ha como afirmar que a conduta tenha infringido valores essenciais da sociedade ou que possua atributos da gravidade e intolerabilidade.
+
+
+TESES JURDICAS:
+
+==========
+
+RESPONSE:
+
+1. O estacionamento de veículo em vaga reservada a pessoa com deficiência não configura dano moral coletivo. 2. O dano moral coletivo é uma categoria autônoma de dano, independente de atributos da pessoa humana. 3. O dano moral coletivo se configura nos casos em que há lesão a esfera extrapatrimonial de determinada comunidade e fique demonstrado que a conduta agride, de modo ilegal ou intoleravel, os valores fundamentais da sociedade, causando repulsa e indignação na consciência coletiva. 4. A Segunda Turma do STJ não tem acolhido a pretensão condenatória de dano moral coletivo em casos em que não há peculiaridades, como reincidência ou maior desvalor na conduta da pessoa natural.

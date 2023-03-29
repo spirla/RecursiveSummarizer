@@ -1,0 +1,17 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O primeiro grau, neste segundo julgamento,  proibido de aplicar pena privativa de liberdade acima do mnimo, porque se o fosse permitido haveria a reformatio in pejus indireta. 18.1.3.8. Princpio da disponibilidade. O princpio tem relao com a possibilidade de a parte renunciar ou desistir do direito de recorrer, pois os recursos so meios voluntrios de impugnao das decises, razo pela qual a parte  livre para recorrer ou no. Ensina a doutrina que os atos de disposio dos recursos dividem-se em renncia, que  anterior  interposio, impede que esta ocorra, antecipando a precluso ou o trnsito em julgado, e em desistncia, que  sempre posterior  interposio levando  extino da via recursal e que tanto a renncia como a desistncia tm efeitos preclusivos, sendo irrevogveis. No processo penal militar o ru e o defensor dativo ou constitudo e o defensor pblico podem, em decorrncia do princpio a voluntariedade dos recursos, desistir ou renunciar se entenderem que a medida  de interesse da ampla defesa. O recurso pode ser interposto pelo ru ou por seu defensor (artigo 511, CPPM), de modo que em, ocorrendo conflito de vontade entre o ru e seu advogado, quanto  renncia ou  desistncia do recurso, o que deve prevalecer? Para a doutrina deve prevalecer a vontade do defensor, que recorreu no s em razo de seus conhecimentos tcnicos, mas, sobretudo, para melhor garantia do direito de defesa. O enunciado da Smula 705 do STF firma a prevalncia da defesa tcnica em caso de conflito de vontades entre acusado e defensor:
+A renncia do ru ao direito de apelao, manifestada sem a assistncia do defensor, no impede o conhecimento da apelao por este interposta. Com efeito, prevalece a defesa tcnica, que tem idoneidade para avaliar as consequncias da no impugnao da deciso condenatria. No processo penal o papel do defensor, constitudo ou dativo, no se reduz ao de simples representante ad judicia do acusado, investido mediante mandato, ou no, incumbindo-lhe velar pelos interesses da defesa:
+por isso, a renncia do ru  apelao no inibe o defensor de interp-la.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O princípio da disponibilidade dos recursos permite que o réu e seu defensor renunciem ou desistam do direito de recorrer. No processo penal militar, a vontade do defensor prevalece em caso de conflito com o réu quanto à renúncia ou desistência do recurso. A Smula 705 do STF afirma que a renúncia do réu à apelação, sem a assistência do defensor, não impede o conhecimento da apelação por este interposta. O papel do defensor é velar pelos interesses da defesa, e a renúncia do réu à apelação não impede o defensor de interpô-la.

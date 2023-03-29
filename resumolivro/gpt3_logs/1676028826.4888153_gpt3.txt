@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CLARA, OBJETIVA E PRECISA
+
+
+O tipo penal, de maneira formal, descreve o comportamento humano que se pretende evitar. Materialmente, o tipo representa uma valorao tico-social que se evidencia tanto na escolha dos bens a serem juridicamente tutelados como nas condutas a serem rotuladas de proibidas. Sendo o tipo penal um modelo abstrato de comportamento humano proibido, tipicidade  a qualidade conferida  conduta que encontra precisa descrio no modelo abstrato. Segundo o modelo interpretativo da realidade, proposto pela teoria do crime em seu conceito analtico, a tipicidade  a primeira caracterstica a ser reconhecida na conduta punvel. Para que uma conduta humana seja tpica,  necessrio que, alm de ajustar-se de maneira formal a um tipo legal de crime, represente, de forma material, leso relevante ao bem juridicamente protegido, o que caracteriza a conduta como socialmente reprovvel. Para a compreenso do fato tpico,  necessrio que se perceba qual o bem jurdico que a lei quer proteger, qual o verbo que representa o ncleo do comportamento proibido, quais os acessrios que lhe indicam o sentido do comportamento, bem como quais so os elementos normativos e subjetivos que se encontram inseridos na descrio hipottica da lei. O tipo legal ainda faz perceber o sujeito ativo, o sujeito passivo e a relao de causalidade que deve existir entre a conduta do primeiro e o resultado penalmente indesejado. Tipo incriminador e norma proibitiva. A responsabilidade penal pressupe sempre a violao da norma protetivo-afirmativa do bem jurdico, que  subjacente a um tipo penal incriminador. O tipo incriminador descreve a conduta criminosa e no se confunde com a norma jurdica. A norma jurdica fundamenta a elaborao do preceito incriminador-descritivo e coloca-se em sentido contrrio ao comportamento descrito. Aps a obra clssica de Binding sobre a teoria das normas, foi possvel perceber que  a norma, como proposio jurdica, que expressa um valor sobre a conduta humana. O preceito incriminador apenas descreve a conduta proibida, mas  a norma que indica a contrariedade do comportamento com a ordem jurdica.
+
+
+RESUMO CLARO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+O tipo penal descreve o comportamento humano proibido de forma abstrata. Para que uma conduta seja tpica é necessário que ela se ajuste a um tipo legal de crime e represente uma lesão relevante ao bem juridicamente protegido. A responsabilidade penal exige a violação da norma protetivo-afirmativa do bem jurdico, que é subjacente a um tipo penal incriminador. A norma jurdica fundamenta a elaboração do preceito incriminador-descritivo e indica a contrariedade do comportamento com a ordem jurdica.

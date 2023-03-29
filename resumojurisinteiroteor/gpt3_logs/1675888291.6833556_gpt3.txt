@@ -1,0 +1,18 @@
+PROMPT:
+
+### RESUMA A DECISO JUDICIAL ABAIXO DE FORMA CONCISA, TCNICA E PRECISA
+### NO CITAR NOMES DE PESSOAS
+### NO CITAR NOMES DOS JUZES
+### NO CITAR NMERO DOS PROCESSOS
+
+
+4. A marcha processual deve seguir normalmente em caso de dvida sobre a integridade mental do acusado, para que, durante a instruo dos autos, seja instaurado o incidente de insanidade mental, que ir subsidiar o juiz na deciso sobre a culpabilidade ou no do ru. 5. Ordem denegada. (STF, HC 101930, Relator(a): CRMEN LCIA, Primeira Turma, julgado em 27/04/2010, DJe-086 DIVULG 13-05-2010 PUBLIC 1405-2010 EMENT VOL-02401-03 PP-00603 RTJ VOL-00216-01 PP- 00430 RT v. 99, n. 898, 2010, p. 522-527 LEXSTF v. 32, n. 377, 2010, p. 422-430) HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE TENTATIVA DE HOMICDIO QUALIFICADO. PRISO PREVENTIVA. FUNDAMENTAO IDNEA. DETERMINADO PELO STJ, NOS AUTOS DO HC. 23.456/PA, A SUBMISSO DO PACIENTE AO EXAME DE INSANIDADE MENTAL, TAL PERCIA AT A PRESENTE DATA NO SE REALIZOU POR CULPA EXCLUSIVA DO PACIENTE QUE, INJUSTIFICADA E DELIBERADAMENTE, VEM RETARDANDO O ENCERRAMENTO DA INSTRUO CRIMINAL. GARANTIA DA ORDEM PBLICA. ACUSADO QUE, EM LIBERDADE, EST ENVOLVIDO NA PRTICA DE NOVO CRIME DE HOMICDIO, O QUE DEMONSTRA, INDUBITAVELMENTE, A SUA PERSONALIDADE VOLTADA PARA O CRIME. PRECEDENTES DO STJ. 1. O paciente, quando em liberdade, no se submeteu ao exame determinado pela Justia Pblica, retardando, assim, h mais de 03 (trs) anos, injustificada e deliberadamente, o encerramento da ao penal. 2. A concluso do laudo pericial, ora acostado aos autos, produzido no processo de interdio civil do acusado,  vlido apenas em relao aos atos de sua vida civil, no sendo capaz de isent-lo da culpabilidade penal. 3. Tal dvida somente ser solucionada aps a realizao correta do incidente de sanidade mental do acusado, o qual ainda no se efetivou por culpa exclusiva do paciente.
+
+
+RESUMO CONCISO, TCNICO E PRECISO:
+
+==========
+
+RESPONSE:
+
+A marcha processual deve seguir normalmente para que, durante a instruo dos autos, seja instaurado o incidente de insanidade mental, subsidiando o juiz na deciso sobre a culpabilidade do acusado. O laudo pericial produzido no processo de interdio civil do acusado vlido apenas em relao aos atos de sua vida civil, no sendo capaz de isent-lo da culpabilidade penal.

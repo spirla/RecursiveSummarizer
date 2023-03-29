@@ -1,0 +1,15 @@
+PROMPT:
+
+### RESUMA O TEXTO ABAIXO DE FORMA CONCISA, OBJETIVA E PRECISA
+
+
+Nos casos em que a ao devida somente puder ser realizada por duas pessoas em conjunto, as quais simultaneamente sejam obrigadas a tanto, a omisso deliberada de ambas caracterizar coautoria em crime omissivo. Voltando ao exemplo dos operrios da construo civil: um objeto volumoso e pesado  deixado de maneira inadequada em local perigoso pelos dois operrios, que, conjuntamente, carregavam-no. A inadequao do local de depsito faz surgir a obrigao de transportar o objeto para local seguro. Omitindo-se os operrios em realizar o transporte e acontecendo sinistro que venha a lesionar terceiro com a queda do objeto, ambos os operrios so coautores de crime omissivo. 9.5.3.5. Coautoria com pessoa jurdica. Com o advento da Lei dos Crimes Ambientais - Lei 9.605/98 -, que previu expressamente a responsabilidade penal da pessoa jurdica, os doutrinadores nacionais passaram a enfrentar o desafio de construir um novo paradigma para o Direito Penal que pudesse materializar a opo poltica do legislador. O fundamento da responsabilidade do ente moral passou a ser discutido entre aqueles que reconhecem legitimidade na opo poltica de instrumentalizar-se o Direito Penal em face das empresas. Nesse sentido, alguns doutrinadores passaram a sustentar a possibilidade da ocorrncia de concurso de pessoas entre a pessoa natural e a pessoa jurdica. Srgio Salomo Shecaira chega a afirmar que para haver punio de uma empresa, obrigatoriamente devemos consider-la como autora mediata. Ela sempre agir por meio de algum, seu coautor imediato.64 A impropriedade da construo  manifesta. H evidente confuso entre responsabilidade e autoria, entre pressupostos da responsabilidade e interveno material que atende s exigncias objetivas e subjetivas do injusto. O concurso de pessoas  construo terica que relaciona entre si condutas de pessoas naturais e permite o enquadramento delas em um tipo penal incriminador. A concepo analtica do crime constitui modelo explicativo, especialmente formulado para identificar a conduta humana punvel. As etapas metodolgicas propostas referem-se s qualidades da conduta humana, e no s atividades da pessoa jurdica. As adaptaes que se pretende realizar mostram-se muito frgeis. Os elementos subjetivos do injusto no podem ser reconhecidos na atividade ilcita atribuda  pessoa jurdica. Embora sejam capazes de violar as normas jurdicas a que esto submetidas, as pessoas jurdicas no possuem elemento volitivo em sentido estrito.
+
+
+RESUMO CONCISO, OBJETIVO E PRECISO:
+
+==========
+
+RESPONSE:
+
+No caso de ação devida que somente pode ser realizada por duas pessoas, a omissão deliberada de ambas caracteriza coautoria em crime omissivo. A responsabilidade penal da pessoa jurídica é discutida entre aqueles que reconhecem legitimidade na opção política de instrumentalizar o Direito Penal. Alguns doutrinadores sustentam a possibilidade de concurso de pessoas entre a pessoa natural e a pessoa jurídica, mas as adaptações para enquadrar a conduta humana punível são frágeis, pois as pessoas jurídicas não possuem elemento volitivo em sentido estrito.
