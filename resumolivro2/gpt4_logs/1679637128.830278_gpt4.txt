@@ -1,0 +1,9 @@
+PROMPT:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+==========
+
+RESPONSE:
+
+O resumo do texto é o seguinte: são apresentadas informações sobre a importância da análise de riscos em contratos empresariais, destacando a necessidade de se avaliar os riscos envolvidos em cada negociação. Além disso, é abordada a importância da cláusula de não indenização, que pode ser utilizada para limitar a responsabilidade das partes em caso de prejuízos decorrentes de eventos imprevisíveis. Por fim, são mencionados alguns casos em que tribunais brasileiros têm decidido sobre a validade e aplicação dessas cláusulas em contratos empresariais.

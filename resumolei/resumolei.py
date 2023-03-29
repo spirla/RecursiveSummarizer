@@ -33,7 +33,7 @@ def save_file(content, filepath):
     with open(filepath, 'w', encoding='utf-8') as outfile:
         outfile.write(content)
 
-def gpt4_completion(prompt, engine='gpt-4', temp=0.3, top_p=1.0, tokens=2000, freq_pen=0.15, pres_pen=0.15, stop=['<<END>>']):
+def gpt4_completion(prompt, engine='gpt-4', temp=0.3, top_p=1.0, tokens=1000, freq_pen=0.15, pres_pen=0.15, stop=['<<END>>']):
     max_retry = 5
     retry = 0
     prompt = preprocess(prompt)
@@ -45,9 +45,9 @@ def gpt4_completion(prompt, engine='gpt-4', temp=0.3, top_p=1.0, tokens=2000, fr
                 model=engine,
                 messages=[
                 {"role": "system", "content": "Você é um consultor jurídico que resume textos de forma técnica e precisa, sem excluir seu conteúdo ou alterar o sentido do texto."},
-                {"role": "assistant", "content": "Olá! Estou aqui para ajudá-lo a resumir e compreender textos jurídicos de forma técnica e precisa. Por favor, forneça o trecho da Lei de Falências e Recuperação de Empresas que você gostaria que eu resumisse em detalhes e organizasse em subtítulos."},
-                {"role": "user", "content": "Faça um resumo em extensivo e detalhado, organizado em subtítulos, do seguinte trecho da lei de falências e recuperação de empresas. Considere que o texto é um trecho da lei, e que serão compilados os diversos trechos resumidos ao final do processo de resumo."},
-                {"role": "assistant", "content": "Entendi. Por favor, forneça o trecho específico da Lei de Falências e Recuperação de Empresas que você gostaria que eu resumisse e organizasse em subtítulos. Após analisar o trecho, vou elaborar um resumo detalhado e tecnicamente preciso, mantendo todas as informações relevantes e organizando-as de forma clara e compreensível."},
+                {"role": "assistant", "content": "Olá! Estou aqui para ajudá-lo a resumir e compreender textos jurídicos de forma técnica e precisa. Por favor, forneça o trecho da Lei que você gostaria que eu resumisse em detalhes e organizasse em subtítulos."},
+                {"role": "user", "content": "Faça um resumo em extensivo e detalhado, organizado em subtítulos, do seguinte trecho da Lei de licitações. Quando o artigo tiver vários incisos, entenda a lógica que fundamenta o artigo e me informe. Considere que o texto é um trecho da lei, e que serão compilados os diversos trechos resumidos ao final do processo de resumo."},
+                {"role": "assistant", "content": "Entendi. Por favor, forneça o trecho específico da Lei de Licitações que você gostaria que eu resumisse e organizasse em subtítulos. Após analisar o trecho, vou elaborar um resumo detalhado e tecnicamente preciso, mantendo todas as informações relevantes e organizando-as de forma clara e compreensível."},
                 {"role": "user", "content": prompt}
                 ],
                 temperature=temp,
@@ -76,19 +76,19 @@ def gpt4_completion(prompt, engine='gpt-4', temp=0.3, top_p=1.0, tokens=2000, fr
             sleep(1)
 
 if __name__ == '__main__':
-    alltext = open_file('11101.txt')
+    alltext = open_file('14133.txt')
     sentence_list = nltk.sent_tokenize(alltext)
     chunks = []
     output = []
     count = 0
 
-    CHUNK_SIZE = 100
+    CHUNK_SIZE = 30
     CHUNK_LEN = 0
     chunk = []
 
     print("Dividindo o texto em chunks...")
     for sentence in sentence_list:
-        if CHUNK_LEN + len(sentence) > 17000 and CHUNK_LEN > 0:
+        if CHUNK_LEN + len(sentence) > 5000 and CHUNK_LEN > 0:
             chunks.append(" ".join(chunk))
             chunk = []
             CHUNK_LEN = 0
@@ -96,7 +96,7 @@ if __name__ == '__main__':
         chunk.append(sentence)
         CHUNK_LEN += len(sentence)
 
-        if len(chunk) >= CHUNK_SIZE or CHUNK_LEN > 18000:
+        if len(chunk) >= CHUNK_SIZE or CHUNK_LEN > 6000:
             chunks.append(" ".join(chunk))
             chunk = []
             CHUNK_LEN = 0
